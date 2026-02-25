@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'gb_img'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'gb_img'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'gb_img'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'gb_img'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'gb_group'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'gb_group'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'gb_group'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'gb_group'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'gb_index'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'gb_index'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'gb_index'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'gb_index'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'gb_effect'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'gb_effect'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'gb_effect'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'gb_effect'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'gb_active'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'gb_active'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'gb_active'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'gb_active'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'gb_link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'gb_link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'gb_link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'gb_link'"

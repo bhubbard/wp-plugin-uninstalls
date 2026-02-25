@@ -1,0 +1,27 @@
+{
+  "options": [
+    "mt_auto_atg_site_id",
+    "mt_auto_atg_welcome_dismissed",
+    "mt_auto_atg_activation_time",
+    "mt_auto_atg_external_service_notice_dismissed",
+    "mt_auto_atg_feedback_dismissed",
+    "mt_auto_atg_feedback_shown",
+    "mt_auto_atg_low_credits_dismissed_month",
+    "mt_auto_atg_low_credits_dismissed",
+    "mt_auto_atg_last_server_ping",
+    "mt_auto_atg_user_email",
+    "mt_auto_atg_is_pro",
+    "mt_auto_atg_debug_mode"
+  ],
+  "transients": [
+    "mt_auto_atg_plugin_config",
+    "*_paid"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:56.178Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "click5_disable_comments_display_rpc",
+    "click5_disable_comments_display_api",
+    "click5_disable_comments_display_globally",
+    "click5_disable_comments_force_autoupdate",
+    "click5_disable_comments_activation_date",
+    "click5_disable_comments_authentication_token_*",
+    "click5_disable_comments_display_*",
+    "click5_disable_comments_use_custom_name_*",
+    "click5_disable_comments_custom_name_text_*",
+    "click5_disable_comments_seo_post_type_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:58.176Z"
+}

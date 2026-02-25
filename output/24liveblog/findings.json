@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lb24_token",
+    "lb24_uid",
+    "lb24_refresh_token",
+    "lb24_uname"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lb24_token",
+    "lb24_uid",
+    "lb24_refresh_token",
+    "lb24_uname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:50.065Z"
+}

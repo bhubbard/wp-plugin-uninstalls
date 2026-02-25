@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bwp_polldaddy_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:22.542Z"
+}

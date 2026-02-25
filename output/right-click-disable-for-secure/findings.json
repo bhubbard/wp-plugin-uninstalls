@@ -1,0 +1,18 @@
+{
+  "options": [
+    "rcdforsalertnoyes",
+    "rcdalerttext",
+    "rcdfors-csjkey",
+    "rcdforsftwelvekey",
+    "rcdfors-csckey",
+    "rcdforskey-crtlshifti",
+    "rcdfors-cukey",
+    "rcdfors_plugin_do_activate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:03.610Z"
+}

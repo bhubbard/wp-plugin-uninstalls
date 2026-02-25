@@ -1,0 +1,16 @@
+{
+  "options": [
+    "scott_database",
+    "scott_values",
+    "widget_scott_timer",
+    "scott_timer_version",
+    "afdn_countdowntracker",
+    "afdn_countdownOptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:01.037Z"
+}

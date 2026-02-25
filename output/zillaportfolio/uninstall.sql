@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_tzp_gallery_images_ids', '_tzp_portfolio_url', '_tzp_portfolio_date', '_tzp_portfolio_client', '_tzp_display_gallery', '_tzp_display_audio', '_tzp_display_video', '_tzp_audio_poster_url', '_tzp_audio_file_mp3', '_tzp_audio_file_ogg', '_tzp_video_poster_url', '_tzp_video_file_m4v', '_tzp_video_file_ogv', '_tzp_video_file_mp4', '_tzp_video_embed');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_tzp_gallery_images_ids', '_tzp_portfolio_url', '_tzp_portfolio_date', '_tzp_portfolio_client', '_tzp_display_gallery', '_tzp_display_audio', '_tzp_display_video', '_tzp_audio_poster_url', '_tzp_audio_file_mp3', '_tzp_audio_file_ogg', '_tzp_video_poster_url', '_tzp_video_file_m4v', '_tzp_video_file_ogv', '_tzp_video_file_mp4', '_tzp_video_embed');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_tzp_gallery_images_ids', '_tzp_portfolio_url', '_tzp_portfolio_date', '_tzp_portfolio_client', '_tzp_display_gallery', '_tzp_display_audio', '_tzp_display_video', '_tzp_audio_poster_url', '_tzp_audio_file_mp3', '_tzp_audio_file_ogg', '_tzp_video_poster_url', '_tzp_video_file_m4v', '_tzp_video_file_ogv', '_tzp_video_file_mp4', '_tzp_video_embed');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_tzp_gallery_images_ids', '_tzp_portfolio_url', '_tzp_portfolio_date', '_tzp_portfolio_client', '_tzp_display_gallery', '_tzp_display_audio', '_tzp_display_video', '_tzp_audio_poster_url', '_tzp_audio_file_mp3', '_tzp_audio_file_ogg', '_tzp_video_poster_url', '_tzp_video_file_m4v', '_tzp_video_file_ogv', '_tzp_video_file_mp4', '_tzp_video_embed');
+

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wc_alter_inventory_tab_payament_section",
+    "alter_inventory_bill_ship_section",
+    "alter_inventory_shortcodes_section"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:36.153Z"
+}

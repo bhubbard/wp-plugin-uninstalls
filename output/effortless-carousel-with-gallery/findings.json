@@ -1,0 +1,16 @@
+{
+  "options": [
+    "elcwg_enable_carousel",
+    "elcwg_carousel_autoplay",
+    "elcwg_carousel_loop",
+    "elcwg_carousel_autoplay_delay",
+    "elcwg_text_animation_delay",
+    "elcwg_caption_font_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:55.587Z"
+}

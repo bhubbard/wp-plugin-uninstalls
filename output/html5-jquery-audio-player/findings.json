@@ -1,0 +1,21 @@
+{
+  "options": [
+    "hmp_player_db_table_version",
+    "hmp_player_db_table_rating_version",
+    "buy_text",
+    "color",
+    "showlist",
+    "showbuy",
+    "hmp_description",
+    "currency",
+    "tracks",
+    "tcolor",
+    "autoplay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:36.611Z"
+}

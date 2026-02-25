@@ -1,0 +1,29 @@
+{
+  "options": [
+    "byclaundryservice_pickup_time_slot_by_start",
+    "byclaundryservice_pickup_time_slot_by_end",
+    "byclaundryservice_delivery_time_slot_by_start",
+    "byclaundryservice_delivery_time_slot_by_end",
+    "woocommerce_checkout_page_id",
+    "bycwclaundryservice_general_holiday",
+    "byconsolewoolaundry_free_plugin_activation_date",
+    "byconsolewooodt_free_plugin_activation_date",
+    "byclaundryservice_date_format",
+    "byconsolewoolaundry_free_plugin_admin_access_date",
+    "byclaundryservice_admin_national_holiday_date",
+    "byclaundryservice_admin_casual_holiday_date",
+    "byclaundryservice_admin_national_holiday_delivery_date",
+    "byclaundryservice_admin_casual_holiday_delivery_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "byconsolewclaundry_pickup_date",
+    "byconsolewclaundry_pickup_time",
+    "byconsolewclaundry_delivery_date",
+    "byconsolewclaundry_delivery_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:46.477Z"
+}

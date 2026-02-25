@@ -1,0 +1,14 @@
+{
+  "options": [
+    "uav_opt_deadline",
+    "uav_opt_deadline_warning"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uav_opt_resent_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:47.120Z"
+}

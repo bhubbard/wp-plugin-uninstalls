@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "wen_logo_slider_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wen_logo_slider_settings",
+    "_wls_slides"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:40.342Z"
+}

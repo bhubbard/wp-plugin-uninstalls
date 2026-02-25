@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ad_approval",
+    "min_amount",
+    "ad_time",
+    "ad_cost",
+    "api_server",
+    "blacklist",
+    "payment_type",
+    "tadn_jal_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tan_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:10.858Z"
+}

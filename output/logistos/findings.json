@@ -1,0 +1,18 @@
+{
+  "options": [
+    "logistos_endpoint_credentials",
+    "logistos_endpoint_orders",
+    "logistos_do_activation_jobs",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_phone"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:55.878Z"
+}

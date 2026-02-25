@@ -1,0 +1,14 @@
+{
+  "options": [
+    "et_dt_templates",
+    "et_dt_shortcodes",
+    "et_dt_shortcode_styles",
+    "et_dt_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:49.967Z"
+}

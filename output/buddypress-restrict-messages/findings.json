@@ -1,0 +1,14 @@
+{
+  "options": [
+    "etivite_bp_restrict_messages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "etivite_bp_restrict_messages",
+    "*capabilities"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:33.971Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pb_duplicate_post_status",
+    "pb_duplicate_post_redirect",
+    "pb_duplicate_post_types",
+    "pb_duplicate_post_prefix",
+    "pb_duplicate_post_suffix",
+    "pb_duplicate_post_copy_terms",
+    "pb_duplicate_post_copy_meta"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:45.116Z"
+}

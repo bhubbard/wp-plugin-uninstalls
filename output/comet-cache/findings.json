@@ -1,0 +1,28 @@
+{
+  "options": [
+    "comet_cache_mbstring_deprecated_warning_bypass",
+    "active_sitewide_plugins",
+    "*_when_logged_in_was_1",
+    "*_errors",
+    "*_notices",
+    "*_options",
+    "*_apc_warning_bypass",
+    "zencache_options",
+    "zencache_errors",
+    "zencache_notices",
+    "dm_no_primary_domain"
+  ],
+  "transients": [
+    "doing_cron"
+  ],
+  "cron_jobs": [
+    "*_auto_cache",
+    "*_cleanup",
+    "_cron_zencache_auto_cache",
+    "_cron_zencache_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:49.618Z"
+}

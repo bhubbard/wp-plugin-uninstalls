@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wc_settings_evereye_api_key",
+    "wc_settings_evereye_api_login",
+    "redirect_page",
+    "*_api_enabled",
+    "*_api_login",
+    "*_api_key",
+    "*_disable_cron",
+    "*_run_cron_every",
+    "*_order_limit_day",
+    "*_api_cancel_orders",
+    "*_changestatus_orders2",
+    "*_skip_payment_method",
+    "my_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:33.183Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wdesk_name",
+    "wdesk_sender",
+    "wdesk_url",
+    "wdesk_date_format",
+    "wdesk_max_subject",
+    "wdesk_max_thread"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wdesk_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:32.436Z"
+}

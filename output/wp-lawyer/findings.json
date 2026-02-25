@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wplawyer_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wplawyer_attorney_title",
+    "wplawyer_attorney_bar_number",
+    "wplawyer_attorney_address",
+    "wplawyer_attorney_email",
+    "wplawyer_attorney_mobile_number",
+    "wplawyer_attorney_fax_number",
+    "wplawyer_attorney_website",
+    "wplawyer_attorney_facebook",
+    "wplawyer_attorney_twitter",
+    "wplawyer_attorney_linkedin",
+    "wplawyer_attorney_youtube",
+    "wplawyer_case_verdict_price",
+    "wplawyer_case_plantiff",
+    "wplawyer_case_defendent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:17.674Z"
+}

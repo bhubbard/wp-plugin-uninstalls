@@ -1,0 +1,23 @@
+{
+  "options": [
+    "select-on",
+    "custom-select-class",
+    "custom-select-fone-color",
+    "custom-select-border-color",
+    "custom-select-border",
+    "custom-select-padding",
+    "custom-select-text-color",
+    "custom-select-fone-active-color",
+    "custom-select-text-hover-color",
+    "custom-select-fone-hover-color",
+    "custom-select-form-class",
+    "custom-select-css",
+    "solass_wp_admin_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:48.199Z"
+}

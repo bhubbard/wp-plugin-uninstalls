@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pinterest_master_system_wide",
+    "pinterest_master_system_wide_size_small",
+    "pinterest_master_system_wide_size_large",
+    "pinterest_master_system_wide_shape_rectangular",
+    "pinterest_master_system_wide_shape_circular",
+    "pinterest_master_system_wide_size",
+    "pinterest_master_system_wide_shape",
+    "pinterest_master_system_wide_hover",
+    "tsm_quote"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:15.503Z"
+}

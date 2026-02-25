@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('simple_podcasting_onboarding', 'podcasting_talent_name', 'simple_podcasting_db_version');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('src', 'podcast_duration', 'podcast_explicit', 'podcast_episode_type', 'podcast_episode_number', 'podcast_season_number', 'podcasting_image', 'podcast_transcript', 'podcasting_platforms', 'podcasting_icon_theme', 'podcasting_talent_name', 'podcasting_summary', 'podcasting_category_1', 'podcasting_image_url', 'podcasting_title', 'podcasting_language', 'podcasting_subtitle', 'podcasting_email', 'podcasting_copyright', 'podcasting_explicit', 'podcasting_keywords', 'podcasting_type_of_show', 'podcast_captioned', 'enclosure', 'podcast_url', 'podcast_filesize', 'podcast_mime', 'podcasting_category_2', 'podcasting_category_3');
+DELETE FROM wp_usermeta WHERE meta_key IN ('src', 'podcast_duration', 'podcast_explicit', 'podcast_episode_type', 'podcast_episode_number', 'podcast_season_number', 'podcasting_image', 'podcast_transcript', 'podcasting_platforms', 'podcasting_icon_theme', 'podcasting_talent_name', 'podcasting_summary', 'podcasting_category_1', 'podcasting_image_url', 'podcasting_title', 'podcasting_language', 'podcasting_subtitle', 'podcasting_email', 'podcasting_copyright', 'podcasting_explicit', 'podcasting_keywords', 'podcasting_type_of_show', 'podcast_captioned', 'enclosure', 'podcast_url', 'podcast_filesize', 'podcast_mime', 'podcasting_category_2', 'podcasting_category_3');
+DELETE FROM wp_termmeta WHERE meta_key IN ('src', 'podcast_duration', 'podcast_explicit', 'podcast_episode_type', 'podcast_episode_number', 'podcast_season_number', 'podcasting_image', 'podcast_transcript', 'podcasting_platforms', 'podcasting_icon_theme', 'podcasting_talent_name', 'podcasting_summary', 'podcasting_category_1', 'podcasting_image_url', 'podcasting_title', 'podcasting_language', 'podcasting_subtitle', 'podcasting_email', 'podcasting_copyright', 'podcasting_explicit', 'podcasting_keywords', 'podcasting_type_of_show', 'podcast_captioned', 'enclosure', 'podcast_url', 'podcast_filesize', 'podcast_mime', 'podcasting_category_2', 'podcasting_category_3');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('src', 'podcast_duration', 'podcast_explicit', 'podcast_episode_type', 'podcast_episode_number', 'podcast_season_number', 'podcasting_image', 'podcast_transcript', 'podcasting_platforms', 'podcasting_icon_theme', 'podcasting_talent_name', 'podcasting_summary', 'podcasting_category_1', 'podcasting_image_url', 'podcasting_title', 'podcasting_language', 'podcasting_subtitle', 'podcasting_email', 'podcasting_copyright', 'podcasting_explicit', 'podcasting_keywords', 'podcasting_type_of_show', 'podcast_captioned', 'enclosure', 'podcast_url', 'podcast_filesize', 'podcast_mime', 'podcasting_category_2', 'podcasting_category_3');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_url';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_url';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_url';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_url';
+

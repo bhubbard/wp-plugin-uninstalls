@@ -1,0 +1,16 @@
+{
+  "options": [
+    "satcba_animation_active",
+    "satcba_animation_speed",
+    "satcba_animation_delay",
+    "satcba_box_shadow",
+    "satcba_background_color",
+    "satcba_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:38.283Z"
+}

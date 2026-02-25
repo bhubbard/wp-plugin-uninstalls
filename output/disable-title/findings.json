@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_z8n-fs-disable-title-menu",
+    "_z8n-fs-disable-title-detail",
+    "_z8n-fs-disable-title-category",
+    "_z8n-fs-disable-title-archive",
+    "_z8n-fs-disable-title-home",
+    "_z8n-fs-disable-title-widget"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:22.608Z"
+}

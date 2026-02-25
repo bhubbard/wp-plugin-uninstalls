@@ -1,0 +1,17 @@
+{
+  "options": [
+    "freeukregionshtml5map_options",
+    "freeukregionshtml5map_goptions",
+    "freeukregionshtml5map_imported_map_key",
+    "freefreeukhtml5map_map_data",
+    "freefreeukhtml5map_nameColor",
+    "freefreeukhtml5map_nameFontSize",
+    "freefreeukhtml5map_state_info_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:33.443Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sfafe-alreadyRated",
+    "sfafe-installDate",
+    "sb_instagram_settings",
+    "sfafe-v",
+    "sfafe-type",
+    "sfafe_load_feeds"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:08.687Z"
+}

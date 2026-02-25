@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('macymed_tracker_license_key', 'macymed_tracker_tracking_list_to_track', 'macymed_tracker_tracking_list_personal_data_to_track', 'macymed_tracker_tracking_use_external_redirect_page', 'macymed_tracker_tracking_use_external_javascript_page', 'macymed_tracker_tracking_record_ip', 'macymed_tracker_tracking_record_user_agent', 'macymed_tracker_redirect_page_display_message', 'macymed_tracker_redirect_page_message', 'macymed_tracker_inclusions', 'macymed_tracker_exclusion_domains_relative_path', 'macymed_tracker_exclusion_internal_pages', 'macymed_tracker_exclusion_user_agents', 'macymed_tracker_exclusion_get', 'macymed_tracker_exclusion_domains', 'macymed_tracker_exclusion_protocols', 'macymed_link_tracker_db_version', 'macymed_tracker_redirect_page_delay', 'macymed_tracker_redirect_page_logo_link_tracker', 'macymed_tracker_exclusion_ips', 'macymed_tracker_tracking_refresh', 'macymed_tracker_tracking_record_excluded_ips', 'macymed_tracker_tracking_record_404');
+

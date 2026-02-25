@@ -1,0 +1,130 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete '_oadaas_cbr_paths'
+wp option delete '_oadaas_sitemap'
+wp option delete '_oadaas_images_fix_list'
+wp option delete 'accessibility-suite-pro-license-status'
+wp option delete 'ada_plugin_current_scan'
+wp option delete 'accessibility-suite-pro-license'
+wp option delete 'ada-plugin-show-activation-message'
+wp option delete '_oadaas_scan_schunk_size'
+wp option delete '_oadaas_db_row_limit'
+wp option delete 'oadaas-show-activation-message'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%-license-status'"
+wp option delete '_oadaas_invalid_images_list'
+wp option delete '_oadaas_valid_images_list'
+wp option delete 'wcag_page'
+wp option delete 'oadaas_updates_array'
+wp option delete '_oadaas_items_per_page_01'
+wp option delete '_oadaas_items_per_page_02'
+
+# Delete Transients
+wp transient delete '_oadaas_upgrade_banner_dismissed'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_use_query_strings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_use_query_strings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_use_query_strings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_use_query_strings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_include_cbr'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_include_cbr'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_include_cbr'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_include_cbr'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_scan-step'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_scan-step'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_scan-step'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_scan-step'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_pages_scanned'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_pages_scanned'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_pages_scanned'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_pages_scanned'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_cbr_complete'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_cbr_complete'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_cbr_complete'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_cbr_complete'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_scan-dismissed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_scan-dismissed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_scan-dismissed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_scan-dismissed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'total_chunks'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'total_chunks'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'total_chunks'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'total_chunks'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'chunk_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'chunk_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'chunk_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'chunk_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_get_snapshot'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_get_snapshot'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_get_snapshot'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_get_snapshot'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_filter_step'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_filter_step'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_filter_step'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_filter_step'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_original_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_original_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_original_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_original_alt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_decorative'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_decorative'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_decorative'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_decorative'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_scan-status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_scan-status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_scan-status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_scan-status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_scan-started'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_scan-started'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_scan-started'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_scan-started'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_scan-completed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_scan-completed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_scan-completed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_scan-completed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_scan-completion-date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_scan-completion-date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_scan-completion-date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_scan-completion-date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_checklist_completed_items'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_checklist_completed_items'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_checklist_completed_items'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_checklist_completed_items'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas-remind-on-start'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas-remind-on-start'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas-remind-on-start'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas-remind-on-start'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas-reminder-sent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas-reminder-sent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas-reminder-sent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas-reminder-sent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas-schedule-time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas-schedule-time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas-schedule-time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas-schedule-time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas-schedule'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas-schedule'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas-schedule'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas-schedule'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas-schedule-remind-email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas-schedule-remind-email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas-schedule-remind-email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas-schedule-remind-email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_next_scheduled_scan_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_next_scheduled_scan_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_next_scheduled_scan_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_next_scheduled_scan_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oadaas_next_scheduled_scan_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oadaas_next_scheduled_scan_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oadaas_next_scheduled_scan_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oadaas_next_scheduled_scan_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_decorative'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_decorative'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_decorative'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_decorative'"

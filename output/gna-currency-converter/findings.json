@@ -1,0 +1,19 @@
+{
+  "options": [
+    "g_cc_configs",
+    "g_currency_converter_configs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ex_rate_from_cur",
+    "ex_rate_to_cur",
+    "ex_rate_rate",
+    "meta_image_from",
+    "meta_image_to",
+    "ex_rate_flag_from"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:38.942Z"
+}

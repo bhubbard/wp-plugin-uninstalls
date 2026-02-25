@@ -1,0 +1,14 @@
+{
+  "options": [
+    "vedicastro_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_free_product",
+    "_is_pdf_product"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:38.537Z"
+}

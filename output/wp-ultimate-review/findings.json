@@ -1,0 +1,23 @@
+{
+  "options": [
+    "xs_review_display",
+    "xs_review_global",
+    "active_sitewide_plugins",
+    "WUR_REVIEW_VERSION",
+    "gutenkit_do_activation_redirect"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "xs_main_post_id",
+    "xs_reviwer_email",
+    "xs_reviews_ip",
+    "xs_review_overview_settings",
+    "xs_public_review_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:19.874Z"
+}

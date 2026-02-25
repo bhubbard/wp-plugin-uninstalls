@@ -1,0 +1,13 @@
+{
+  "options": [
+    "word_replacer_ver"
+  ],
+  "transients": [
+    "word_replacer_db"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:13.183Z"
+}

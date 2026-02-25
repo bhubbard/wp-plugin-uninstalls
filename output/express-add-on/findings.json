@@ -1,0 +1,17 @@
+{
+  "options": [
+    "vxn_wa_form_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vxn_express_order_via_shopee",
+    "_vxn_express_order_via_tokopedia",
+    "_vxn_express_order_via_bukalapak",
+    "_sku",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:32.315Z"
+}

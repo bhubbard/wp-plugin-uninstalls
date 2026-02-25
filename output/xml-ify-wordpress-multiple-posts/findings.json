@@ -1,0 +1,29 @@
+{
+  "options": [
+    "checkbox1",
+    "tagname6",
+    "checkbox2",
+    "tagname7",
+    "checkbox3",
+    "tagname8",
+    "checkbox4",
+    "tagname1",
+    "customfield1",
+    "tagname2",
+    "customfield2",
+    "tagname3",
+    "customfield3",
+    "tagname4",
+    "customfield4",
+    "tagname5",
+    "customfield5",
+    "numberposts",
+    "categoryname"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:46.107Z"
+}

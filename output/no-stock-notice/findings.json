@@ -1,0 +1,15 @@
+{
+  "options": [
+    "no_stock_label_name",
+    "no_stock_label_color",
+    "no_stock_label_bg_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:27.007Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "perflab_aao_disabled_options",
+    "perflab_modules_settings"
+  ],
+  "transients": [
+    "perflab_set_object_cache_dropin"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:10.993Z"
+}

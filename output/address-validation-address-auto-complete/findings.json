@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wf_address_autocomplete_validation_settings",
+    "addr_val",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:59.431Z"
+}

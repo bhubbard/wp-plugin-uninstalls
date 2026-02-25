@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rsscloud_hub_notifications"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rsscloud_send_post_notifications_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:58.693Z"
+}

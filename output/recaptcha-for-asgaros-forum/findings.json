@@ -1,0 +1,18 @@
+{
+  "options": [
+    "rfaf_recaptcha_version",
+    "rfaf_recaptcha_site_key",
+    "rfaf_recaptcha_server_key",
+    "rfaf_recaptcha_language",
+    "rfaf_recaptcha_v3_site_key",
+    "rfaf_recaptcha_v3_server_key",
+    "rfaf_recaptcha_v3_score",
+    "rfaf_recaptcha_registerd_user"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:54.558Z"
+}

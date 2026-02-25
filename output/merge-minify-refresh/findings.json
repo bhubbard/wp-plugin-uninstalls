@@ -1,0 +1,27 @@
+{
+  "options": [
+    "mmr-outputbuffering",
+    "mmr-nomergecss",
+    "mmr-nocheckcssimports",
+    "mmr-nocheckjsmodules",
+    "mmr-nomergejs",
+    "mmr-nocssmin",
+    "mmr-nojsmin",
+    "mmr-http2push",
+    "mmr-http2push-css",
+    "mmr-http2push-js",
+    "mmr-gzip",
+    "mmr-ignore",
+    "mmr-global-styles",
+    "mmr-merge-inline"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mmr_minify_check",
+    "mmr_minify"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:43.984Z"
+}

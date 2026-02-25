@@ -1,0 +1,17 @@
+{
+  "options": [
+    "conexteo_setting__options",
+    "example_plugin_options",
+    "conexteo_synccustomers_setting",
+    "conexteo_cronkey_setting",
+    "conexteo_contactlist_setting",
+    "conexteo_appid_setting",
+    "conexteo_keyid_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:01.357Z"
+}

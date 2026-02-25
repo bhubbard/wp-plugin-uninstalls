@@ -1,0 +1,12 @@
+{
+  "options": [
+    "page_modified_api_key",
+    "page_modified_domain_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:57.950Z"
+}

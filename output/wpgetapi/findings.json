@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpgetapi_setup",
+    "wpgetapi_*",
+    "wpgetapi_pro_license_status",
+    "wpgetapi_dismiss_dash_notice_until",
+    "*_last_api_call_status",
+    "updraft_task_manager_dbversion"
+  ],
+  "transients": [
+    "wpgetapi_chain_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:43.058Z"
+}

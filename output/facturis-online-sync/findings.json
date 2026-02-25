@@ -1,0 +1,31 @@
+{
+  "options": [
+    "fsync_auth_apikey",
+    "fsync_auth_username",
+    "fsync_auth_password",
+    "fsync_auth_fiscalcode",
+    "fsync_option_autosyncstock",
+    "fsync_option_autosyncorder",
+    "fsync_option_filterstock",
+    "fsync_option_syncordersas",
+    "fsync_option_proformaserie",
+    "fsync_option_daysago",
+    "fsync_option_addproforma",
+    "fsync_option_addinvoice",
+    "fsync_option_viewproforma",
+    "fsync_option_viewinvoice",
+    "fsync_option_editproforma",
+    "fsync_option_editinvoice",
+    "fsync_option_withdiscount",
+    "fsync_option_proformaserie2",
+    "fsync_option_invoiceserie"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "facturissynccronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:56.528Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "theraplo_config",
+    "theraplo_override_bookero",
+    "theraplo_hide_bookero",
+    "theraplo_auto_insert",
+    "theraplo_show_welcome_notice",
+    "theraplo_custom_css"
+  ],
+  "transients": [
+    "theraplo_specialists_list",
+    "theraplo_js_status"
+  ],
+  "cron_jobs": [
+    "theraplo_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:27.063Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "json_api_base",
+    "badgeos_obi_issuer_public_evidence",
+    "badgeos_obi_issuer_org_name",
+    "badgeos_obi_issuer_org_url",
+    "badgeos_obi_issuer_org_*",
+    "json_api_controllers",
+    "badgeos_obi_issuer_alt_email",
+    "badgeos_obi_issuer_org_description",
+    "badgeos_obi_issuer_org_image",
+    "badgeos_obi_issuer_org_email",
+    "badgeos_obi_issuer_org_revocationList",
+    "badgeos_obi_issuer_css_bypass"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_badgeos_submission_achievement_id",
+    "_badgeos_backpack_pushed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:46.932Z"
+}

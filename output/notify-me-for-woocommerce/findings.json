@@ -1,0 +1,14 @@
+{
+  "options": [
+    "nmfw_notifyme_redirect",
+    "nmfw_notifyme_connection",
+    "nmfw_notifyme_notice_dismissed",
+    "wp_notifyme_nmfw_auth"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:33.995Z"
+}

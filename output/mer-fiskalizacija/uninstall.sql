@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mer25fi_api_username', 'mer25fi_api_password', 'mer25fi_company_oib', 'mer25fi_api_sandbox_active', 'mer25fi_last_invoice_number', 'mer25fi_api_production_url', 'mer25fi_api_sandbox_url', 'mer25fi_company_name', 'mer25fi_company_street_address', 'mer25fi_company_city', 'mer25fi_company_zip', 'mer25fi_company_email', 'mer25fi_company_representative', 'mer25fi_company_legal_form', 'mer25fi_company_in_vat', 'mer25fi_company_iban', 'mer25fi_profile_id', 'mer25fi_company_cash_register_id', 'mer25fi_company_operater_tag', 'mer25fi_company_operater_oib', 'mer25fi_api_software_id');
+

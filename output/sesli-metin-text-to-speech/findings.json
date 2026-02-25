@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sesli_metin_person",
+    "sesli_metin_email",
+    "sesli_metin_password",
+    "sesli_metin_pitch",
+    "sesli_metin_speed",
+    "sesli_metin_post_types",
+    "sesli_metin_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sesli_metin_audio_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:17.638Z"
+}

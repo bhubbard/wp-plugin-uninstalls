@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mn_comine_assets",
+    "mn_compression_engine",
+    "mn_compile_mode",
+    "mn_force_combine",
+    "mn_css_compression",
+    "mn_exclude_css_regex",
+    "mn_exclude_js_regex"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:33.156Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpced_settings",
+    "wpced_rules",
+    "wpced_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpced_enable",
+    "wpced_rules"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:17.046Z"
+}

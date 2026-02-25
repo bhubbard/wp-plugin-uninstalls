@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mp_prep_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method",
+    "_order_total",
+    "normal_price",
+    "special_price",
+    "quantity",
+    "unit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:05.440Z"
+}

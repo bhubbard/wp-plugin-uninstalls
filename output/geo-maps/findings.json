@@ -1,0 +1,22 @@
+{
+  "options": [
+    "geo_maps_version",
+    "geo_maps_first_install_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geo_maps_meta_active_tab",
+    "geo_maps_markers",
+    "geo_maps_map_type",
+    "geo_maps_marker_image",
+    "geo_maps_map_scroll_wheel_zoom",
+    "geo_maps_map_draw_marker_line",
+    "geo_maps_popup_show_on",
+    "geo_maps_map_control_position",
+    "geo_maps_osm_map_provider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:55.057Z"
+}

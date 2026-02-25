@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_image",
+    "*_feedback_activation",
+    "bp_dismissed_notices",
+    "*_version",
+    "*_old_columns",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "snap_tales_media_url",
+    "snap_tales_story_visibility",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:56.809Z"
+}

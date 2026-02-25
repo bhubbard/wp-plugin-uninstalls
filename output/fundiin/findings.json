@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_fundiin_settings",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method",
+    "_shipping_phone",
+    "_billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:01.002Z"
+}

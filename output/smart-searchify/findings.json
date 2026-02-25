@@ -1,0 +1,15 @@
+{
+  "options": [
+    "jbid_ss_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jbid_ssearchify_data",
+    "jbid_ssearchify_sc",
+    "jbid_ssearchify_atts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:56.346Z"
+}

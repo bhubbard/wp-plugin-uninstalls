@@ -1,0 +1,32 @@
+{
+  "options": [
+    "hello_event"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "start_date",
+    "start_time",
+    "start_date_time",
+    "end_date",
+    "end_time",
+    "location_name",
+    "location",
+    "location_lat",
+    "location_lng",
+    "advice",
+    "_sell_tickets",
+    "_tickets",
+    "link_to_the_shop",
+    "_virtual",
+    "_price",
+    "_regular_price",
+    "_billing_last_name",
+    "_billing_first_name",
+    "heure",
+    "coordinates"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:58.922Z"
+}

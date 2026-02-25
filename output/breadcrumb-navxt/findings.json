@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bcn_options",
+    "site_name",
+    "*_options",
+    "*_options_bk",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:27:39.869Z"
+}

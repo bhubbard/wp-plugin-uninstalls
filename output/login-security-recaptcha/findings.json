@@ -1,0 +1,20 @@
+{
+  "options": [
+    "stlsr_redirect_to_settings",
+    "stlsr_google_recaptcha_v2",
+    "stlsr_google_recaptcha_v3",
+    "stlsr_cf_turnstile",
+    "stlsr_login_captcha",
+    "stlsr_lostpassword_captcha",
+    "stlsr_register_captcha",
+    "stlsr_comment_captcha",
+    "stlsr_error_logs",
+    "stlsr_misc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:31.812Z"
+}

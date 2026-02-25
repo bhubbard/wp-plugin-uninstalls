@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wpda_chart_user_permissions",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:49.076Z"
+}

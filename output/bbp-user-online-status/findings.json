@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bbpuos_settings"
+  ],
+  "transients": [
+    "users_online"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:51.172Z"
+}

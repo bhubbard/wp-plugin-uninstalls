@@ -1,0 +1,71 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mmcfr-show-avg-rating', 'mmcfr-custom-css', 'mmcfr-remove-settings');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_page_template');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_page_template');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_page_template');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_page_template');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%mmcfr-stars-required';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%mmcfr-stars-required';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%mmcfr-stars-required';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%mmcfr-stars-required';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%mmcfr-stars-required-message';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%mmcfr-stars-required-message';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%mmcfr-stars-required-message';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%mmcfr-stars-required-message';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%rating';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%rating';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%rating';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%rating';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%mmcfr-stars-style';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%mmcfr-stars-style';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%mmcfr-stars-style';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%mmcfr-stars-style';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%mmcfr-stars-count';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%mmcfr-stars-count';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%mmcfr-stars-count';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%mmcfr-stars-count';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%use-default-style';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%use-default-style';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%use-default-style';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%use-default-style';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%hover-color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%hover-color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%hover-color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%hover-color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%selected-color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%selected-color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%selected-color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%selected-color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%border-color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%border-color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%border-color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%border-color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%hover-border-color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%hover-border-color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%hover-border-color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%hover-border-color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%selected-border-color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%selected-border-color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%selected-border-color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%selected-border-color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%text-color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%text-color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%text-color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%text-color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%hover-text-color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%hover-text-color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%hover-text-color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%hover-text-color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%selected-text-color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%selected-text-color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%selected-text-color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%selected-text-color';
+

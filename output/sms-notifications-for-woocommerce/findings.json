@@ -1,0 +1,22 @@
+{
+  "options": [
+    "suwcsms_settings",
+    "suwcsms_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "suwcsms_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_phone",
+    "_payment_method",
+    "otp_verified",
+    "_billing_phone",
+    "otp_value",
+    "billing_phone",
+    "billing_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:04.214Z"
+}

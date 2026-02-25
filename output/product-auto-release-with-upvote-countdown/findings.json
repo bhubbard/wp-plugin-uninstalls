@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpar_settings"
+  ],
+  "transients": [
+    "_parl_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "notify_product",
+    "enable_notification",
+    "enable_auto_release",
+    "auto_release_date",
+    "notification_type",
+    "notify_product_lead",
+    "enable_show_total_votes",
+    "notify_product_voted_ip",
+    "notify_product_lead_count",
+    "notify_product_lead_generated"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:49.027Z"
+}

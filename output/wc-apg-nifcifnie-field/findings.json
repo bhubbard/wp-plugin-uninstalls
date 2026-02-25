@@ -1,0 +1,24 @@
+{
+  "options": [
+    "apg_nif_actualizado",
+    "apg_nif_settings"
+  ],
+  "transients": [
+    "apg_nif_plugin"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_nif",
+    "*_nif",
+    "billing_phone",
+    "billing_email",
+    "shipping_nif",
+    "shipping_phone",
+    "shipping_email",
+    "*_email",
+    "*_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:12.443Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "edpw_active_addons",
+    "edpw_settings",
+    "active_sitewide_plugins",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_pos_store_phone",
+    "woocommerce_pos_refund_returns_policy",
+    "edpw_version",
+    "edpw_migration_status",
+    "eca_settings"
+  ],
+  "transients": [
+    "edpw_remote_addons_list",
+    "edpw_remote_recommendation_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:13.870Z"
+}

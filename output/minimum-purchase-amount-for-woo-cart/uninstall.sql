@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ct_mpac_show_welcome_modal', 'ct_mpac_minimum_purchase_value_for_all', 'ct_mpac_cart_limit_message', 'ct_mpac_cart_disable_checkout', 'ct_mpac_include_discount_coupons_in_total', 'ct_mpac_exclude_shipping_from_cart_total', 'ct_mpac_minimum_cart_total_for_free_shipping', 'ct-mpac-role-specific-cart-limits', 'ct_mpac_active_version');
+

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "all-images-api-key",
+    "all-images-ai-settings"
+  ],
+  "transients": [
+    "all-images-ai-tmp-msg"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "allimages_auto_image",
+    "_wp_attachment_image_alt",
+    "all_images_page_all_images_ai_generations_per_page"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:30.250Z"
+}

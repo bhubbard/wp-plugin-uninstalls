@@ -1,0 +1,19 @@
+{
+  "options": [
+    "on_google1_posts",
+    "on_google1_pages",
+    "on_google1_homepage",
+    "on_google1_size",
+    "on_google1_count",
+    "on_google1_callback",
+    "on_google1_top",
+    "on_google1_bottom",
+    "on_google1_lang"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:57.613Z"
+}

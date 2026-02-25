@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wcsdt_handling_time",
+    "wcsdt_transit_time",
+    "wcsdt_show_handling_times",
+    "wcsdt_show_transit_times"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:26.582Z"
+}

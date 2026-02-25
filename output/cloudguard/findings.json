@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cloudguard_options",
+    "cloudguard_blocked_attempts",
+    "cloudguard_nag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:46.904Z"
+}

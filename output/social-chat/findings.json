@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sc_facebook",
+    "sc_whatsapp",
+    "sc_email",
+    "sc_call",
+    "sc_call_to_action",
+    "sc_button_color",
+    "sc_position",
+    "sc_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:37.313Z"
+}

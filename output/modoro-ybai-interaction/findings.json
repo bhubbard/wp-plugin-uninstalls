@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ybai_access_key",
+    "ybai_secret_key",
+    "ybai_param_key",
+    "ybai_head_script",
+    "channel_id",
+    "ybai_access_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ybai_sent",
+    "_ybai_code",
+    "_ybai_affiliate_code",
+    "_ybai_error_message",
+    "_ybai_enabled",
+    "ybai_affiliate_code",
+    "_original_order_data",
+    "_ybai_affiliate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:48.115Z"
+}

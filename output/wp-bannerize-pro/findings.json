@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wp_bannerize_old_table",
+    "wp_bannerize_do_import"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_bannerize_banner_external_url",
+    "wp_bannerize_banner_type",
+    "wp_bannerize_banner_date_from",
+    "wp_bannerize_banner_date_expiry",
+    "wp_bannerize_banner_link",
+    "wp_bannerize_banner_target",
+    "wp_bannerize_banner_no_follow",
+    "wp_bannerize_banner_width",
+    "wp_bannerize_banner_height",
+    "wp_bannerize_banner_url",
+    "wp_bannerize_banner_mime_type",
+    "wp_bannerize_banner_max_impressions",
+    "wp_bannerize_banner_max_clicks",
+    "wp_bannerize_banner_clicks",
+    "wp_bannerize_banner_impressions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:44.815Z"
+}

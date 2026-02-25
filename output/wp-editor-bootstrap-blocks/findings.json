@@ -1,0 +1,20 @@
+{
+  "options": [
+    "gtbbootstrap_version",
+    "design-package_fa_license",
+    "design-package_fa_license_network",
+    "gtbbootstrap_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gtb_hide_title",
+    "gtb_wrap_title",
+    "gtb_class_title",
+    "editor_width",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:47.710Z"
+}

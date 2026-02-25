@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_pay_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vendor_payment_mode",
+    "_vendor_razorpay_account_id",
+    "_commission_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:08.955Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "plugin_autopruneposts_conf"
+  ],
+  "transients": [
+    "auto-prune-posts-lastrun"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:21.364Z"
+}

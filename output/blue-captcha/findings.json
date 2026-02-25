@@ -1,0 +1,16 @@
+{
+  "options": [
+    "blcap_settings",
+    "blcap_protection_key",
+    "blcap_version",
+    "blcap_ip_informer_url",
+    "blcap_date",
+    "blcap_sessions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:09.334Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "elementor_cpt_support",
+    "product_show_op",
+    "public_product_show_op"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "display-on-canvas-template",
+    "thumbnail_id",
+    "_wp_attachment_image_alt",
+    "ua_page_template",
+    "ua_template_type",
+    "ua_display"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:15.046Z"
+}

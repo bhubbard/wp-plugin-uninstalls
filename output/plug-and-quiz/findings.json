@@ -1,0 +1,14 @@
+{
+  "options": [
+    "plugandquiz_domain_id",
+    "plugandquiz_script_position",
+    "plugandquiz_modal_position",
+    "plugandquiz_enable_script"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:01.256Z"
+}

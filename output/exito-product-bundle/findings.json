@@ -1,0 +1,15 @@
+{
+  "options": [
+    "exito_addon_position",
+    "exito_bundle_button_label",
+    "exito_hide_in_sticky"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_exito_addon_product_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:27.307Z"
+}

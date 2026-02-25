@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woolab_icdic_notice_settings",
+    "woolab_icdic_toggle_switch",
+    "woolab_icdic_country_switch",
+    "woolab_icdic_vat_exempt_switch"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woolab-icdic-notice-dismissed1243",
+    "*_ic",
+    "*_dic",
+    "*_country",
+    "*_dic_dph",
+    "billing_country",
+    "billing_ic",
+    "billing_dic",
+    "billing_dic_dph"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:29.636Z"
+}

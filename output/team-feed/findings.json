@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_client_id",
+    "*_client_secret",
+    "*_code",
+    "*_access_token",
+    "*_check_client_id",
+    "team_feed_access_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:17.162Z"
+}

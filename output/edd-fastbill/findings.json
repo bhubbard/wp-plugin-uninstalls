@@ -1,0 +1,17 @@
+{
+  "options": [
+    "edd_cfm_id",
+    "edd_fastbill_error_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_payment_meta",
+    "_fastbill_invoice_id",
+    "_fastbill_document_url",
+    "edd-checkout-fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:57.735Z"
+}

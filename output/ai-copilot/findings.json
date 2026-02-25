@@ -1,0 +1,20 @@
+{
+  "options": [
+    "jetpack_protect_active",
+    "jetpack_offline_mode",
+    "wpcom_public_coming_soon"
+  ],
+  "transients": [
+    "jetpack_is_single_user",
+    "quadlayers_news_feed",
+    "*_process_lock",
+    "ql_plugin_feedback_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:31.911Z"
+}

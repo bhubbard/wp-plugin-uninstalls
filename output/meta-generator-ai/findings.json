@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mga_meta_gen_api_key",
+    "mga_meta_gen_api_link",
+    "mga_meta_gen_full_description",
+    "mga_meta_gen_short_description",
+    "mga_meta_gen_gpt_model_name",
+    "mga_meta_gen_temperature"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:38.560Z"
+}

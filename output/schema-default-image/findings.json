@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_schema_wp_default_image_id",
+    "_schema_ref",
+    "_schema_default_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:44.771Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wc_slack_post_hook",
+    "wc_slack_default_channel"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:30.740Z"
+}

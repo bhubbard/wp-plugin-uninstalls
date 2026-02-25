@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tc_post_format",
+    "tc_post_encoding",
+    "tc_comment_format",
+    "tc_comment_encoding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tc_post_format",
+    "_tc_post_encoding"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:45.388Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "kkd_db_version",
+    "mode",
+    "tpk",
+    "tsk",
+    "lpk",
+    "lsk",
+    "prc",
+    "ths",
+    "adc",
+    "cap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sold",
+    "_heading",
+    "_message",
+    "_subject",
+    "_merchant",
+    "_*",
+    "_currency",
+    "_amount",
+    "_successmsg",
+    "_paybtn",
+    "_loggedin",
+    "_txncharge"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:18.166Z"
+}

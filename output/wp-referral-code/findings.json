@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_referral_code_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wrc_referrer_id",
+    "first_name",
+    "last_name",
+    "wrc_ref_code",
+    "wrc_invited_users"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:44.507Z"
+}

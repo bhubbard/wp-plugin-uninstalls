@@ -1,0 +1,26 @@
+{
+  "options": [
+    "customer_care_CPT_ID",
+    "customer_care_settings",
+    "tagline_alteration_mode",
+    "customer_care_tagline_settings",
+    "data_export_ID",
+    "customer_care_running"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "customer_care_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "customer_care_maintenance_email_done",
+    "customer_care_payment_email_done",
+    "customer_care_maintenance_date",
+    "customer_care_payment_date",
+    "customer_accpets_news",
+    "customer_care_accomplished",
+    "customer_accpet_news"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:29.334Z"
+}

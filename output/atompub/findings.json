@@ -1,0 +1,14 @@
+{
+  "options": [
+    "atompub_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "atompub_pubsubhubbub_cron",
+    "atompub_pubsubhubbub_callback"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:18.841Z"
+}

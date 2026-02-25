@@ -1,0 +1,20 @@
+{
+  "options": [
+    "srsse_widgettitle",
+    "srsse_setting",
+    "srsse_height_display_length_s1",
+    "srsse_s1",
+    "srsse_height_display_length_s2",
+    "srsse_s2",
+    "srsse_height_display_length_s3",
+    "srsse_s3",
+    "srsse_height_display_length_s4",
+    "srsse_s4"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:01.421Z"
+}

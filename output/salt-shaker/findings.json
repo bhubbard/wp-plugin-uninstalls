@@ -1,0 +1,28 @@
+{
+  "options": [
+    "salt_shaker_audit_options",
+    "salt_shaker_options",
+    "salt_shaker_db_version",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "salt_shaker_change_salts",
+    "salt_shaker_cleanup_old_logs",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:48.456Z"
+}

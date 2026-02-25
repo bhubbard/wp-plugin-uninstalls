@@ -1,0 +1,26 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "eos_sig_license_key",
+    "eos_sig_bulk",
+    "eos_sig_woo_gallery",
+    "eos_sig_post_types",
+    "eos_sig_post_types_all",
+    "eos_sig_watermark",
+    "eos_sig_watermark_text",
+    "eos_sig_hard_watermark",
+    "eos_sig_license_status",
+    "eos_sig_watermark_device"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eos_sig_protection"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:01.420Z"
+}

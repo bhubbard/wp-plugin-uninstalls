@@ -1,0 +1,21 @@
+{
+  "options": [
+    "plgnr_options",
+    "pluginer_license_data"
+  ],
+  "transients": [
+    "plgnr_post_saved_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_plgnr_plugin_slugs",
+    "_plgnr_plugin_list_notes",
+    "_plgnr_plugin_icons",
+    "_plgnr_plugin_names",
+    "_plgnr_plugin_required_plugins",
+    "_is_primary_list"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:35.043Z"
+}

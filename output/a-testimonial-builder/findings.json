@@ -1,0 +1,18 @@
+{
+  "options": [
+    "atbs_oauth_token",
+    "atbs_user_identity",
+    "atbs_guest_identity",
+    "atbs_flash_messages",
+    "atbs_is_logged_in",
+    "atbs_is_guest_logged_in",
+    "atbs_post_id",
+    "atbs_user_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:07.791Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpcpo_settings",
+    "wpcpo_localization",
+    "wpcpo_*",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcpo-fields",
+    "wpcpo-apply-for",
+    "wpcpo-apply",
+    "wpcpo-display"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:25.196Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_wp_pargo_settings",
+    "toptal_save_saved_page_id",
+    "woocommerce_weight_unit",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "pargo_dismissed_rating_notice_version",
+    "*_token",
+    "pargo_style_button",
+    "pargo_style_title",
+    "pargo_style_desc",
+    "pargo_style_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pargo_waybill",
+    "pargo_order_sent",
+    "pargo_waybills",
+    "user_phone",
+    "shipping_suburb",
+    "billing_suburb"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:03.066Z"
+}

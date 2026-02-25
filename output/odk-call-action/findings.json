@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wp_call_action_option_mobile",
+    "wp_call_action_option_desktop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:40.637Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "simple_aa_options_google_maps_api_key",
+    "simple_aa_options_country",
+    "simple_aa_options_field_ids",
+    "simple_aa_options_bias_coordinates",
+    "simple_aa_options_restriction_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:14.704Z"
+}

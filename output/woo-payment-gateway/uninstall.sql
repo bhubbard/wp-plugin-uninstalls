@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc_braintree_merchant_record', 'woocommerce_default_country', 'wc_braintree_authenticated_routes', 'wc_braintree_kount_api_key', 'wc_braintree_sandbox_plans', 'wc_braintree_production_plans', 'braintree_wc_version', 'woocommerce_queue_flush_rewrite_rules', 'woocommerce_enable_signup_and_login_from_checkout', 'woocommerce_tax_display_cart', 'braintree_payment_settings', 'woocommerce_braintree_api_settings', 'woocommerce_braintree_cc_settings', 'woocommerce_braintree_paypal_settings', 'woocommerce_braintree_googlepay_settings', 'woocommerce_braintree_applepay_settings', 'bfwc_kount_key', 'woocommerce_braintree_subscription_settings', 'braintree_wc_production_plans', 'braintree_wc_sandbox_plans', 'wc_braintree_show_3_0_notice', 'bfwc_show_deprecated_donations', 'bfwc_error_messages', 'bfwc_default_settings', 'bfwc_admin_notices', 'braintree_gateway_log_current_post', 'braintree_for_woocommerce_version');
+DELETE FROM wp_options WHERE option_name LIKE 'braintree_lock_order_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_subscription_renewal', '_subscription_type', '_subscription_trial_length', '_subscription_one_time_shipping', '_subscription_price', '_sandbox_subscription_period_interval', '_production_subscription_period_interval', '_subscription_length', '_subscription_sign_up_fee', '_braintree_sandbox_plans', '_braintree_production_plans', '_payment_method_token', 'wc_braintree_token_check', '_contains_synced_subscription', '_subscription_period_interval');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_subscription_renewal', '_subscription_type', '_subscription_trial_length', '_subscription_one_time_shipping', '_subscription_price', '_sandbox_subscription_period_interval', '_production_subscription_period_interval', '_subscription_length', '_subscription_sign_up_fee', '_braintree_sandbox_plans', '_braintree_production_plans', '_payment_method_token', 'wc_braintree_token_check', '_contains_synced_subscription', '_subscription_period_interval');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_subscription_renewal', '_subscription_type', '_subscription_trial_length', '_subscription_one_time_shipping', '_subscription_price', '_sandbox_subscription_period_interval', '_production_subscription_period_interval', '_subscription_length', '_subscription_sign_up_fee', '_braintree_sandbox_plans', '_braintree_production_plans', '_payment_method_token', 'wc_braintree_token_check', '_contains_synced_subscription', '_subscription_period_interval');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_subscription_renewal', '_subscription_type', '_subscription_trial_length', '_subscription_one_time_shipping', '_subscription_price', '_sandbox_subscription_period_interval', '_production_subscription_period_interval', '_subscription_length', '_subscription_sign_up_fee', '_braintree_sandbox_plans', '_braintree_production_plans', '_payment_method_token', 'wc_braintree_token_check', '_contains_synced_subscription', '_subscription_period_interval');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_%';
+

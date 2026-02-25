@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "country_code",
+    "state_code",
+    "custom_zone",
+    "state_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:35.091Z"
+}

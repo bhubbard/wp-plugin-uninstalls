@@ -1,0 +1,37 @@
+{
+  "options": [
+    "getgenie_admin_dashboard_config",
+    "getgenie_site_token",
+    "getgenie_subscription_statistics_timestamp",
+    "getgenie_subscription_statistics",
+    "getgenie_auth_token_secret_key",
+    "*__banner_data",
+    "*__banner_last_check",
+    "*_never_show",
+    "*_ask_me_later",
+    "*_install_date",
+    "*_first_action_Date",
+    "*_first_action",
+    "*_version",
+    "*__stories_data",
+    "*__stories_last_check",
+    "getgenie_install_date",
+    "classic-editor-replace",
+    "*_getgenie_showed_notification"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "getgenie_chat_messages",
+    "getgenie_chat_template_slug",
+    "history_input",
+    "history_output",
+    "history_current_usage",
+    "history_creativity_level",
+    "history_template_slug",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:08.743Z"
+}

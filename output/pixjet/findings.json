@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pixjet_auth_token",
+    "pixjet_config",
+    "auto_update_plugins",
+    "pixjet_cdn_config",
+    "pixjet_external_token",
+    "pixjet_auto_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pix_wp_attached_file",
+    "_wp_attached_file",
+    "_wp_attachment_metadata",
+    "pix_wp_attachment_metadata",
+    "pixjet_process"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:31.447Z"
+}

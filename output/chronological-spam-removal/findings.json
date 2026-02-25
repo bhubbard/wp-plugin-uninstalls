@@ -1,0 +1,13 @@
+{
+  "options": [
+    "chronological_spam_removal"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "chronological_spam_removal"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:20.238Z"
+}

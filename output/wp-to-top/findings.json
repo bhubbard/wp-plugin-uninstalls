@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_to_top_bg_color",
+    "wp_to_top_fg_color",
+    "wp_to_top_scroll_duration",
+    "wp_to_top_icon_type",
+    "wp_to_top_icon_size",
+    "wp_to_top_icon_location"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:21.033Z"
+}

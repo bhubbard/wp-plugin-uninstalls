@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cpwp_enable_global_protection",
+    "cpwp_global_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cpwp_password"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:47.864Z"
+}

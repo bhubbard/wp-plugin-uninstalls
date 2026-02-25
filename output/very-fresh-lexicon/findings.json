@@ -1,0 +1,14 @@
+{
+  "options": [
+    "Very_Fresh_Lexicon_css",
+    "Very_Fresh_Lexicon_url",
+    "fl-podcaster-custom-style",
+    "fl-podcaster-custom-url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:00.178Z"
+}

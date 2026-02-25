@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cf7mls_review"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7mls_next_bg_color",
+    "_cf7mls_next_text_color",
+    "_cf7mls_back_bg_color",
+    "_cf7mls_back_text_color",
+    "_cf7_mls_auto_scroll_animation",
+    "_cf7_mls_auto_return_first_step",
+    "_cf7mls_db_save_every_step"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:18.126Z"
+}

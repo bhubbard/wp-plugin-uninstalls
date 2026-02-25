@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_active_discounts",
+    "*_cross_subtotal_activated",
+    "*_cross_total_activated",
+    "*_you_saved_activated",
+    "*_you_saved_custom_text",
+    "*_you_saved_round"
+  ],
+  "transients": [
+    "*_active_discounts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_admin_notices",
+    "*_discount_start_date",
+    "*_discount_end_date",
+    "_price",
+    "*_discount_activated",
+    "_dmfwc_you_saved"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:22.452Z"
+}

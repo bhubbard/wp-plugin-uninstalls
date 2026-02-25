@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lolmi_login_page_url",
+    "lolmi_logout_redirect_url",
+    "lolmi_login_redirect_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:46.826Z"
+}

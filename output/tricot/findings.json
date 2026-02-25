@@ -1,0 +1,39 @@
+{
+  "options": [
+    "tricot_force_default_lang_prefix",
+    "tricot_debug_level",
+    "tricot_crawl_delay",
+    "tricot_transtation_capture",
+    "tricot_language_switcher_options",
+    "tricot_license_key",
+    "tricot_api_key",
+    "tricot_automatic_options",
+    "tricot_active_languages",
+    "tricot_wizard_max_step",
+    "tricot_crawler_current",
+    "tricot_crawler_total",
+    "tricot_crawler_running",
+    "tricot_crawler_urls",
+    "tricot_crawler_seo",
+    "tricot_crawler_date",
+    "tricot_registered_domain",
+    "tricot_db_version",
+    "tricot_plan",
+    "tricot_credits",
+    "tricot_license_status",
+    "tricot_advanced_settings",
+    "tricot_encode_hash"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tricot_cron_indexation"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_tricot_display_style",
+    "_menu_item_tricot_menu_style",
+    "_menu_item_tricot_hide_current"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:55.361Z"
+}

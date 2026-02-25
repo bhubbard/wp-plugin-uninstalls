@@ -1,0 +1,46 @@
+{
+  "options": [
+    "roadcube_get_countries_log",
+    "roadcube_country_data",
+    "roadcube_user_register_init_log",
+    "roadcube_user_register_log",
+    "roadcube_get_the_point_log",
+    "roadcube_user_coupon_claim_log",
+    "roadcube_sync_faild_status",
+    "roadcube_trans_create_log",
+    "roadcube_cancel_trans_create_log",
+    "roadcube_user_coupons_log",
+    "roadcube_category_log",
+    "roadcube_create_product_log",
+    "roadcube_store_cat_id",
+    "roadcube_previous_offline_store_transactions",
+    "roadcube_settings",
+    "roadcube_product_log",
+    "roadcube_translations",
+    "roadcube_user_sync_log",
+    "roadcube_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "roadcube_get_trans_to_be_synced_in_ga4",
+    "roadcube_sync_trans_to_ga4"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "roadcube_mobile",
+    "roadcube_gender",
+    "roadcube_birthday",
+    "roadcube_country_id",
+    "roadcube_claimed_coupons",
+    "roadcube_product_id",
+    "roadcube_product_created_data",
+    "_rc_loyalty_service_request",
+    "_rc_loyalty_service_response",
+    "_rc_meta_service_request",
+    "_rc_meta_service_response",
+    "_rc_sync_id",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:59.211Z"
+}

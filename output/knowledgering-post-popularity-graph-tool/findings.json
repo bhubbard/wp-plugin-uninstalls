@@ -1,0 +1,16 @@
+{
+  "options": [
+    "knowledgeringppgt_popular_posts_widget_content",
+    "knowledgeringppgt_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "krppretweets",
+    "krppfacebooklikes",
+    "views"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:37.505Z"
+}

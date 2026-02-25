@@ -1,0 +1,35 @@
+{
+  "options": [
+    "krea3_citykomi_client_settings",
+    "classic-editor-replace",
+    "classic-editor-allow-users"
+  ],
+  "transients": [
+    "krea3_citykomi_messages_*",
+    "_krea3citykomi_msg_*",
+    "krea3_citykomi_canaux",
+    "_krea3citykomi_messages_display"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "citykomi_start_at",
+    "citykomi_send_at",
+    "citykomi_end_at",
+    "citykomi",
+    "citykomi_document",
+    "citykomi_show_en_at",
+    "citykomi_date_publication",
+    "citykomi_masquer_date_fin",
+    "citykomi_id_channel",
+    "citykomi_expiration",
+    "citykomi_response",
+    "citykomi_id_message",
+    "citykomi_start_at_utc",
+    "citykomi_end_at_utc",
+    "citykomi_send_at_utc",
+    "citykomi_wp_document"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:53.768Z"
+}

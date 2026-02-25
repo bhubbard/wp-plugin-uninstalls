@@ -1,0 +1,25 @@
+{
+  "options": [
+    "agrwc_enabled",
+    "agrwc_checkboxes_data",
+    "active_sitewide_plugins",
+    "agrwc_buttonclasses",
+    "agrwc_formclasses",
+    "agrwc_alertmsg",
+    "*version",
+    "wc_price_based_country_version",
+    "_oga_wppbc_countries_groups",
+    "woocommerce_version"
+  ],
+  "transients": [
+    "agrwc_unistall"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_data",
+    "_agrwc_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:15.170Z"
+}

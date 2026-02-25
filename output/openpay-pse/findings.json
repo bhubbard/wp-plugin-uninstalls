@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_openpay_customer_sandbox_id",
+    "_openpay_customer_id",
+    "_openpay_webhook_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:12.921Z"
+}

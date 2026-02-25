@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ipreviewscreens"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ipreview"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:37.562Z"
+}

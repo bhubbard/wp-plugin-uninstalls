@@ -1,0 +1,13 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('mql_userID');
+delete_site_option('mql_userID');
+delete_option('mql_secret');
+delete_site_option('mql_secret');
+

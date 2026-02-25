@@ -1,0 +1,24 @@
+{
+  "options": [
+    "virtuaria_serveloja_not_authorized",
+    "virtuaria_serveloja_webhook_id",
+    "woocommerce_enable_signup_and_login_from_checkout",
+    "woocommerce_virtuaria_serveloja_credit_settings",
+    "virtuaria_serveloja_settings"
+  ],
+  "transients": [
+    "virtuaria_serveloja_main_setting_saved"
+  ],
+  "cron_jobs": [
+    "serveloja_pix_check_payment",
+    "virtuaria_serveloja_pix_confirm_payment",
+    "serveloja_ticket_check_payment",
+    "serveloja_process_update_order_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_serveloja_credit_info_store_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:26.600Z"
+}

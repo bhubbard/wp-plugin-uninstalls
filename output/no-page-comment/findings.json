@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sta_npc_has_ecc",
+    "sta_npc_ecc_notif",
+    "sta_npc_version",
+    "sta_npc_admin_options_name",
+    "sta_npc_options",
+    "sta_npc_activation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:10.785Z"
+}

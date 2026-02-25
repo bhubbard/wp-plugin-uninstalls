@@ -1,0 +1,24 @@
+{
+  "options": [
+    "mbtng_path",
+    "mbtng_url",
+    "mbtng_wordpress_page",
+    "mbtng_redirect_login",
+    "mbtng_integrate_logins",
+    "mbtng_globalvars",
+    "mbtng_timestamp",
+    "mbtng_url_to_admin",
+    "mbtng_use_wordpress_homepage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tng_user_id",
+    "nickname",
+    "wp_user_level",
+    "wp_capabilities"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:00.736Z"
+}

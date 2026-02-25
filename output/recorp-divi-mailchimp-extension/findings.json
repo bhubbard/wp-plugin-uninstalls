@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dcfme_subscribe_text",
+    "recorp_divi_mailchimp",
+    "dcfme_mailchimp_rc_api",
+    "dcfme_mailchimp_rc_lists",
+    "divi_contact_form_mailchimp_rc_extension_redirect",
+    "dcfme_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:48.892Z"
+}

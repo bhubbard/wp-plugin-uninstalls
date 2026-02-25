@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pc_global_settings",
+    "dplab_ps_global_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dplab_ps_part_type",
+    "_dplab_ps_is_default",
+    "_dplab_ps_layout_config",
+    "_dplab_ps_layout_conditions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:25.176Z"
+}

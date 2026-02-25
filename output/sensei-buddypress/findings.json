@@ -1,0 +1,19 @@
+{
+  "options": [
+    "buddypress_sensei_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_course_woocommerce_product",
+    "_lesson_course",
+    "_attached_media",
+    "_lesson_length",
+    "_lesson_complexity",
+    "bp_course_group",
+    "attached_course_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:42.552Z"
+}

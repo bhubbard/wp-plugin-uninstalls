@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rndpd_date1",
+    "rndpd_date2",
+    "rndpd_post_type",
+    "rndpd_set_modified_date",
+    "rndpd_exclude_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:48.556Z"
+}

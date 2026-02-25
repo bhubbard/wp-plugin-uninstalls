@@ -1,0 +1,18 @@
+{
+  "options": [
+    "unlimited_theme_addons_active_addons",
+    "unlimited_theme_addons_active_widgets",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:55.259Z"
+}

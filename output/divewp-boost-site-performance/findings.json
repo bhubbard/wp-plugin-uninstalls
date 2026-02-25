@@ -1,0 +1,48 @@
+{
+  "options": [
+    "divewp_db_version",
+    "divewp_version",
+    "divewp_feedback_settings",
+    "divewp_feedback_dismissed",
+    "divewp_install_time"
+  ],
+  "transients": [
+    "update_plugins",
+    "divewp_feedback_reminder",
+    "divewp_timing_*",
+    "divewp_test_config_*",
+    "divewp_evaluation_running_*",
+    "divewp_db_test_rate_limit_*",
+    "divewp_hosting_evaluation_*",
+    "doing_cron",
+    "divewp_benchmark_time_limit",
+    "divewp_benchmark_session",
+    "divewp_benchmark_enabled_tests",
+    "divewp_benchmark_concurrency_*",
+    "divewp_concurrency_worker_token",
+    "divewp_benchmark_database_*",
+    "divewp_benchmark_performance_*",
+    "divewp_benchmark_resources_*",
+    "divewp_resource_test_*",
+    "divewp_plugin_icon_*",
+    "divewp_admin_login_*",
+    "divewp_last_event_time"
+  ],
+  "cron_jobs": [
+    "divewp_daily_cleanup",
+    "divewp_user_events_cleanup",
+    "divewp_refresh_cron_hooks",
+    "divewp_cleanup_cron_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "meta_description",
+    "divewp_last_login",
+    "divewp_user_settings",
+    "divewp_dismissed_notices",
+    "divewp_seo_data",
+    "divewp_page_insights"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:04.777Z"
+}

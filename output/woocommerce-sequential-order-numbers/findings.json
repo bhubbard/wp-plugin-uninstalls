@@ -1,0 +1,14 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wc_sequential_order_numbers_install_offset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_order_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:41.299Z"
+}

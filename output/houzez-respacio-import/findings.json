@@ -1,0 +1,45 @@
+{
+  "options": [
+    "property_verification_api",
+    "verify_api",
+    "sync_type",
+    "xmlFileLink",
+    "respacio_save_image_formats_list1",
+    "respacio_save_image_formats_list2",
+    "RespacioHouzezImportLogPerPage",
+    "RespacioHouzezImportCrmBasePath",
+    "RespacioHouzezImportEmailControllerPath",
+    "RespacioHouzezImportCreateAccountPath",
+    "RespacioHouzezImportSignature",
+    "RespacioHouzezImportAccountLoginPath",
+    "respacio_houzez_custom_fields",
+    "property_export"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "add_daily_properties",
+    "delete_images_trigger",
+    "import_images_trigger",
+    "import_property_translation_trigger",
+    "property_attachment_download",
+    "add_hourly_properties_url",
+    "add_video_images"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "form_active",
+    "fave_property_id",
+    "fave_agent_email",
+    "fave_agent_office_num",
+    "_thumbnail_id",
+    "form_type",
+    "form_type_name",
+    "form_id",
+    "form_title",
+    "form_field_map",
+    "fave_video_image",
+    "property_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:36.012Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "aish_options",
+    "aish_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ai-snippet-seo-helper_membership_tokens",
+    "rank_math_focus_keyword",
+    "rank_math_title",
+    "rank_math_description",
+    "_wp_old_slug",
+    "_edit_last",
+    "_aish_snippet_score",
+    "_aish_score"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:55.023Z"
+}

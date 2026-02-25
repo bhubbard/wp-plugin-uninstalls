@@ -1,0 +1,39 @@
+{
+  "options": [
+    "de_social_login_force_register",
+    "de_social_login_force_register_message",
+    "de_social_login_facebook_enable",
+    "de_social_login_facebook_id",
+    "de_social_login_facebook_secret",
+    "de_social_login_twitter_enable",
+    "de_social_login_twitter_id",
+    "de_social_login_twitter_secret",
+    "de_social_login_google_enable",
+    "de_social_login_google_client",
+    "de_social_login_google_secret",
+    "de_social_login_openid_enable",
+    "de_social_login_linkedin_enable",
+    "de_social_login_linkedin_id",
+    "de_social_login_linkedin_secret",
+    "de_social_login_yahoo_enable",
+    "de_social_login_yahoo_id",
+    "de_social_login_yahoo_domain",
+    "de_social_login_yahoo_key",
+    "de_social_login_yahoo_secret",
+    "de_social_login_orders",
+    "*_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "email",
+    "first_name",
+    "last_name",
+    "deuid",
+    "deutype",
+    "deuimage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:45.220Z"
+}

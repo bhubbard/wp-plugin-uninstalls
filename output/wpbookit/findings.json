@@ -1,0 +1,56 @@
+{
+  "options": [
+    "wpb_custom_code_data",
+    "google_meet_settings",
+    "wpbookit_general_setting_data",
+    "wpbookit_offline_payment_modes",
+    "wpb_settings",
+    "wpb_zoom_settings",
+    "wpb_payment_gateways",
+    "_wpb_email_list",
+    "wpbookit_theme_setting_data",
+    "wpbookit_table_created_v1.0.0",
+    "_wpb_add_user_role",
+    "_wpb_migrate_payment_table",
+    "_wpb_migrate_tax_table",
+    "_wpb_migrate_guest_table_",
+    "_wpb_migrate_guest_table_add_phone_col_"
+  ],
+  "transients": [
+    "iq-notice"
+  ],
+  "cron_jobs": [
+    "wpb_customer_booking_reminder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wp_user_avatar",
+    "gender",
+    "date_of_birth",
+    "booking_notes",
+    "staff_id",
+    "booking_duration",
+    "enable_group_booking",
+    "slots_per_booking_number",
+    "weekly_time_slots",
+    "specific_dates",
+    "unavailable_dates",
+    "first_name",
+    "location",
+    "location_source",
+    "questions_answers",
+    "booking_user_type",
+    "booking_type_page_id",
+    "custom_note",
+    "phone",
+    "dialCode",
+    "iso2",
+    "wpb_zoom_settings",
+    "private_mode",
+    "price",
+    "staff",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:01.165Z"
+}

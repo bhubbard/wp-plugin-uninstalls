@@ -1,0 +1,21 @@
+{
+  "options": [
+    "azm_woo_rac_defualt_campaign",
+    "azm_woo_rac_manual_campaign"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_unsubscribed",
+    "_billing_email",
+    "_billing_first_name",
+    "_billing_last_name",
+    "azr-visitor",
+    "_azr_visitor",
+    "_rule",
+    "_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:53.446Z"
+}

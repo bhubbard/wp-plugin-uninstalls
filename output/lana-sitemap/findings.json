@@ -1,0 +1,32 @@
+{
+  "options": [
+    "lana_sitemap_sitemaps",
+    "rewrite_rules",
+    "lana_sitemap_robots",
+    "lana_sitemap_news_tags",
+    "lana_sitemap_post_types",
+    "lana_sitemap_taxonomies",
+    "lana_sitemap_domains",
+    "lana_sitemap_urls",
+    "lana_sitemap_custom_sitemaps",
+    "lana_sitemap_ping",
+    "lana_sitemap_*",
+    "lana_sitemap_version",
+    "lana_sitemap_news_sitemap"
+  ],
+  "transients": [
+    "lana_sitemap_flush_rewrite_rules",
+    "lana_sitemap_create_genres",
+    "lana_sitemap_clear_settings"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lana_sitemap_exclude",
+    "_lana_sitemap_priority",
+    "_lana_sitemap_news_exclude",
+    "_lana_sitemap_news_access"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:27.484Z"
+}

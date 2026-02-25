@@ -1,0 +1,40 @@
+{
+  "options": [
+    "cmsc_stats_filter",
+    "cmsc_site_activation_code",
+    "_cmsc_public_key",
+    "cmsc_worker_brand",
+    "cmsc_maintenace_mode",
+    "_cmsc_action_message_id",
+    "_cmsc_nossl_key",
+    "cmsc_debug_enable",
+    "cmsc_backup_tasks",
+    "site_url",
+    "_action_message_id",
+    "cmsc_notifications",
+    "cmsc_pageview_alerts",
+    "user_hit_count",
+    "cmsc_log_md5",
+    "cmscsettings",
+    "cmsc_network_admin_install",
+    "_transient_*",
+    "_site_transient_*",
+    "cmsc_core_autoupdate",
+    "cmsc_global_plugins_autoupdate",
+    "cmsc_active_autoupdate_plugins",
+    "cmsc_global_themes_autoupdate",
+    "cmsc_active_autoupdate_themes",
+    "cmsc_global_translations_autoupdate",
+    "cmsc_active_autoupdate_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cmsc_backup_tasks",
+    "cmsc_notifications",
+    "cmsc_datasend"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:14.711Z"
+}

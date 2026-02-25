@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cron",
+    "force_refresh_current_site_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "force_refresh_current_page_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:46.339Z"
+}

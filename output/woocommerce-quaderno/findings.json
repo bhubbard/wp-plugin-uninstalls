@@ -1,0 +1,26 @@
+{
+  "options": [
+    "quaderno_dismiss_review",
+    "woocommerce_tax_based_on",
+    "woocommerce_calc_taxes",
+    "woocommerce_prices_include_tax",
+    "woocommerce_shipping_tax_class",
+    "woocommerce_tax_display_cart"
+  ],
+  "transients": [
+    "quaderno_error",
+    "last_tax_class"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_quaderno_tax_code",
+    "_ebook",
+    "_quaderno_contact",
+    "billing_tax_id",
+    "_quaderno_vat_number",
+    "_quaderno_tax_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:06.080Z"
+}

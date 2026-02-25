@@ -1,0 +1,15 @@
+{
+  "options": [
+    "visualead_url",
+    "visual_widget",
+    "my_url",
+    "visualead_txt",
+    "visualead_sub"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:02.825Z"
+}

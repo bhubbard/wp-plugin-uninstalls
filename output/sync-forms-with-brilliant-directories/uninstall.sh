@@ -1,0 +1,63 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'brildir_sfwbd_allow_lead'
+wp option delete 'brildir_sfwbd_api_status'
+wp option delete 'brildir_sfwbd_api_key'
+wp option delete 'brildir_sfwbd_base_url'
+wp option delete 'brildir_sfwbd_used_form_actions'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_create_option'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_create_option'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_create_option'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_create_option'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_field_map'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_field_map'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_field_map'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_field_map'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_field_map_custom'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_field_map_custom'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_field_map_custom'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_field_map_custom'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_form_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_form_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_form_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_form_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_subscription_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_subscription_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_subscription_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_subscription_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_sync_count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_sync_count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_sync_count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_sync_count'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_last_sync_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_last_sync_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_last_sync_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_last_sync_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_form_plugin'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_form_plugin'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_form_plugin'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_form_plugin'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_plugin_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_plugin_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_plugin_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_plugin_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_form_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_form_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_form_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_form_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_create_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_create_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_create_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_create_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_brildir_sfwbd_sync_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_brildir_sfwbd_sync_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_brildir_sfwbd_sync_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_brildir_sfwbd_sync_status'"

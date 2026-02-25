@@ -1,0 +1,51 @@
+{
+  "options": [
+    "adaptify_seo_enable_meta_sync",
+    "seo_plugin_verification_tags_html",
+    "seo_plugin_msvalidate_content",
+    "seo_plugin_msvalidate_last_sync"
+  ],
+  "transients": [
+    "seo_plugin_msvalidate_sync_lock"
+  ],
+  "cron_jobs": [
+    "adaptify_fallback_publish_hook",
+    "adaptify_sync_home_meta_tag_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_description",
+    "rank_math_focus_keyword",
+    "rank_math_title",
+    "_*",
+    "_wp_attachment_image_alt",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metakeywords",
+    "_aioseo_title",
+    "_aioseo_og_title",
+    "_aioseo_twitter_title",
+    "_aioseo_description",
+    "_aioseo_og_description",
+    "_aioseo_twitter_description",
+    "_aioseo_og_article_section",
+    "_aioseo_og_article_tags",
+    "_aioseo_og_image",
+    "_aioseo_twitter_image",
+    "_seopress_titles_title",
+    "_seopress_social_fb_title",
+    "_seopress_social_twitter_title",
+    "_seopress_titles_desc",
+    "_seopress_social_fb_desc",
+    "_seopress_social_twitter_desc",
+    "_seopress_analysis_target_kw",
+    "_seopress_social_fb_img",
+    "_seopress_social_twitter_img",
+    "custom_author_name",
+    "rank_math_schema_Article",
+    "_schema_json_ld"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:32.721Z"
+}

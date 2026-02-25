@@ -1,0 +1,27 @@
+{
+  "options": [
+    "edd_payamito_options",
+    "payamito_core_version",
+    "kianfr_demo_mode",
+    "payamito",
+    "recently_activated"
+  ],
+  "transients": [
+    "payamito_edd_installing",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "payamito_remove_log"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_payment_user_id",
+    "_edd_payment_meta",
+    " edd_payamito_mobile",
+    "edd_payamito_mobile",
+    "_kianfr_errors_*",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:11.294Z"
+}

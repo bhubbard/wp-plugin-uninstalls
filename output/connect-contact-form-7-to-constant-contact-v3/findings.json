@@ -1,0 +1,30 @@
+{
+  "options": [
+    "dd_cf7_mailing_lists",
+    "cf7_ctct_settings",
+    "cf7_ctct_extra_settings",
+    "dd_cf7_optin_email_settings"
+  ],
+  "transients": [
+    "ctct_to_process"
+  ],
+  "cron_jobs": [
+    "dd_do_retry_failed_ctct_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ctct_cf7",
+    "dd-ctct-cf7-notice-counter",
+    "ctct_optin",
+    "_billing_email",
+    "_billing_first_name",
+    "_billing_last_name",
+    "_billing_address_1",
+    "_billing_city",
+    "_billing_state",
+    "_billing_postcode",
+    "_billing_country"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:50.333Z"
+}

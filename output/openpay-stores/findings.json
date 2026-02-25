@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_openpay_stores_webhook_id",
+    "woocommerce_openpay_stores_settings",
+    "woocommerce_email_header_image",
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_openpay_customer_sandbox_id",
+    "_openpay_customer_id",
+    "_openpay_customer_test_id",
+    "_openpay_customer_live_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:47.394Z"
+}

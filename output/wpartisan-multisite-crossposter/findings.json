@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [
+    "mscp_user_blogs_*"
+  ],
+  "cron_jobs": [
+    "mscp_aggregate_post",
+    "mscp_aggregate_post_taxonomy",
+    "mscp_aggregate_post_deletion"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aggregator_orig_blog_id",
+    "_aggregator_orig_post_id",
+    "_mscp_blogs",
+    "_aggregator_permalink"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:01.272Z"
+}

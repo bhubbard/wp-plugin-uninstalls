@@ -1,0 +1,16 @@
+{
+  "options": [
+    "amb_wcvap_empty_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_amb_wpvap_variation_url",
+    "_amb_vap_prod",
+    "_amb_vap_prod_url",
+    "_amb_vap_prod_cart_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:30.514Z"
+}

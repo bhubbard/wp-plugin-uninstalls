@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_jeelpay_settings",
+    "jeelpay_activated_at"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jeelpay_cancel_unpaid_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:33.985Z"
+}

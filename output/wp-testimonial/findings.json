@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpt_effect",
+    "wpt_speed",
+    "wpt_sortby",
+    "wpt_orderby",
+    "wpt_content_limit",
+    "wpt_viewall",
+    "wpt_viewall_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpt_testimonial_author",
+    "_wpt_testimonial_designation",
+    "_wpt_testimonial_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:27.441Z"
+}

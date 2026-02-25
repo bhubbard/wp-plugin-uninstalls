@@ -1,0 +1,17 @@
+{
+  "options": [
+    "easy_app_db_version",
+    "ea_excel_columns",
+    "ea_hide_newsletter"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "easyapp_hourly_event",
+    "ea_daily_expire_appointments",
+    "ea_gdpr_auto_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:58.528Z"
+}

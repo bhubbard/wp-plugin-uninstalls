@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_post_types",
+    "*_move_to",
+    "*_occasional_contents",
+    "*_pages_already_have_occasional_content",
+    "*_shortcode_content",
+    "ced_wcswr_shortcode_content",
+    "ced_wcswr_pages_already_have_occasional_content",
+    "ced_wcswr_latest_version",
+    "ced_wcswr_move_to_trash",
+    "ced_wcswr_occasional_content",
+    "ced_wcswr_occasional_contents"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_from_date",
+    "*_to_date",
+    "*_from_time",
+    "*_to_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:15.961Z"
+}

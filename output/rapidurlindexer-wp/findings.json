@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rui_settings",
+    "rui_logs_count"
+  ],
+  "transients": [
+    "rui_logs_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rui_submit_on_publish",
+    "_rui_submit_on_update"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:57.306Z"
+}

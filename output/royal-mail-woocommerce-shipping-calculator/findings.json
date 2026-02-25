@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rulehook_royalmail_promo_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:30.780Z"
+}

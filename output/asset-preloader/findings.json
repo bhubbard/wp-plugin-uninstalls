@@ -1,0 +1,13 @@
+{
+  "options": [
+    "eos_asset_preloader"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eos_asset_preloader"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:14.311Z"
+}

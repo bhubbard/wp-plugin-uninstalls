@@ -1,0 +1,19 @@
+{
+  "options": [
+    "uwaff_current_page",
+    "uwaff_username",
+    "uwaff_password",
+    "uwaff_button_text",
+    "uwaff_coupon_code",
+    "uwaff_aff_id",
+    "uwaff_token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "uwaff_daily_product_import"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:02.134Z"
+}

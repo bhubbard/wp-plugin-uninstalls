@@ -1,0 +1,35 @@
+{
+  "options": [
+    "sina_widgets",
+    "sina_extenders",
+    "sina_map_apikey",
+    "sina_mailchimp",
+    "sina_templates_option",
+    "sina_ext_pro_recaptcha_key",
+    "sina_ext_pro_recaptcha_secret_key",
+    "sina_ext_after_logout_url",
+    "sina_ext_type",
+    "sina_ext_pro_license_key",
+    "sina_ext_license_key",
+    "sina_ext_pro_validity",
+    "sina_ext_pro_check",
+    "sina_extension_activation",
+    "sina_contact_email*"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_type",
+    "*_location",
+    "_elementor_edit_mode",
+    "_wp_page_template",
+    "*_splocation",
+    "sina-ext-template-meta_type",
+    "sina_visit_counter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:55.941Z"
+}

@@ -1,0 +1,34 @@
+{
+  "options": [
+    "humang_block_search_engines",
+    "humang_global_refusal",
+    "humang_enforcement_mode",
+    "humang_verify_search_engine_bots",
+    "humang_lockdown_mode",
+    "humang_friction_enabled",
+    "humang_friction_burst_pages",
+    "humang_friction_burst_seconds",
+    "humang_friction_rate_pages",
+    "humang_friction_rate_seconds",
+    "humang_lockdown_require_login",
+    "humang_disable_robots_txt",
+    "humang_stats_retention",
+    "humang_refusal_post_types_*",
+    "humang_whitelist_ips",
+    "humang_whitelist_user_agents"
+  ],
+  "transients": [
+    "humang_daily_counters",
+    "humang_weekly_counters",
+    "humang_challenge_*"
+  ],
+  "cron_jobs": [
+    "humang_weekly_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_humangate_refusal_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:48.342Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "advertisement_*",
+    "advertisement_advertisement-img",
+    "advertisement_enable-advertisement",
+    "advertisement_end-date",
+    "advertisement_total_view",
+    "advertisement_total_click",
+    "advertisment_advertisement_type",
+    "advertisement_advertisements-url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:34.050Z"
+}

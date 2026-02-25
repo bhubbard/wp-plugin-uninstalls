@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dbem_zoom_version",
+    "dbem_location_types",
+    "dbem_edit_events_page",
+    "emp_gateway_customer_fields",
+    "em_check_dev_version",
+    "dbem_pro_dev_updates"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:44.128Z"
+}

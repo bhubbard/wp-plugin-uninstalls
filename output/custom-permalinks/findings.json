@@ -1,0 +1,18 @@
+{
+  "options": [
+    "custom_permalinks_post_types_settings",
+    "custom_permalink_table",
+    "polylang",
+    "custom_permalinks_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_permalink_language",
+    "custom_permalink_regenerate_status",
+    "custom_permalink"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:42.743Z"
+}

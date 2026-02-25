@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mycred_badgr_entity_id",
+    "mycred_badgr_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:00.222Z"
+}

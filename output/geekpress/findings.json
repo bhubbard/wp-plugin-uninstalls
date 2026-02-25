@@ -1,0 +1,42 @@
+{
+  "options": [
+    "geekp_PluginPress_User",
+    "geekp_PluginPress_Api_Key",
+    "geekp_PluginPress_Secret",
+    "geekp_PluginPress_Def_*",
+    "geekp_api_key",
+    "geekp_post_types",
+    "rewrite_rules",
+    "geekp_custom_pages",
+    "geekp_custom_page_links",
+    "geekp_external_logos",
+    "geekp_selected_credits",
+    "geekp_lang",
+    "geekLang",
+    "geekp_rating_instead_imdb",
+    "geekp_rating_instead_igdb",
+    "geekp_publish_perm",
+    "geekp_Plugin_Version",
+    "geekp_PluginPress_Count",
+    "geekp_permalink_endpoints",
+    "geekp_permalink_roots",
+    "geekp_version",
+    "geekp_field_category",
+    "geekp_imageViewer",
+    "geekp_videoViewer",
+    "geekp_userIntegration",
+    "geekp_game_theme",
+    "geekp_theme",
+    "geekp_register_page",
+    "geekp_user_settings",
+    "geekp_user_permalink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:06.914Z"
+}

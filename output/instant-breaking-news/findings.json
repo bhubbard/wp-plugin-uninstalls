@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ibn_settings",
+    "ibn_title",
+    "ibn_background_color",
+    "ibn_text_color",
+    "ibn_pinned_post_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ibn_expiration_date",
+    "ibn_breaking_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:44.404Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [],
+  "transients": [
+    "hbu_install_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*banner_type",
+    "*banner_bg_color",
+    "*banner_layout",
+    "*banner_video_url",
+    "*banner_vmvideo_url",
+    "*banner_image_url",
+    "*banner_ovelay_color",
+    "*banner_ovelay_opacity",
+    "*banner_title_color",
+    "*banner_content_color",
+    "*banner_title_fontsize",
+    "*banner_subtitle_fontsize",
+    "*banner_button_one_name",
+    "*banner_button_one_link",
+    "*banner_button_two_name",
+    "*banner_button_two_link",
+    "*banner_bg_size",
+    "*banner_bg_attachemnt",
+    "*banner_bg_position",
+    "*banner_padding_top",
+    "*banner_padding_right",
+    "*banner_padding_bottom",
+    "*banner_padding_left",
+    "*banner_wrap_width",
+    "*banner_button_one_class",
+    "*banner_button_two_class"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:26.114Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "yuhi_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yuhi_sunset_on",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_yuhi_replacement_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:00.652Z"
+}

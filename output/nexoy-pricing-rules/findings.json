@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nexoy_is_active",
+    "_nexoy_discount_amount",
+    "_nexoy_apply_all",
+    "_nexoy_inc_cats",
+    "_nexoy_inc_prods",
+    "_nexoy_exc_cats",
+    "_nexoy_exc_prods"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:53.117Z"
+}

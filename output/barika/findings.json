@@ -1,0 +1,26 @@
+{
+  "options": [
+    "barika_connection_revoked",
+    "barika_revocation_message",
+    "barika_webhook_secret",
+    "barika_last_health_check",
+    "barika_connection_health",
+    "barika_connected",
+    "barika_connection_token",
+    "barika_store_id",
+    "barika_connected_at",
+    "woocommerce_email_from_address",
+    "barika_custom_api_url",
+    "barika_webhook_ids"
+  ],
+  "transients": [
+    "barika_oauth_state"
+  ],
+  "cron_jobs": [
+    "barika_health_check_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:20.297Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('csf_title', 'search_text_1', 'search_text_2', 'search_text_3', 'search_text_4', 'search_text_5', 'search_text_6', 'search_text_7', 'search_text_8', 'search_text_9', 'search_text_10');
+

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpsanitize"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wps_optimize_database"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:33.167Z"
+}

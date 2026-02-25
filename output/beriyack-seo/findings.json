@@ -1,0 +1,14 @@
+{
+  "options": [
+    "beriyack_seo_default_og_image_id",
+    "beriyack_seo_twitter_handle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:37.102Z"
+}

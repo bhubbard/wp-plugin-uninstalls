@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpll_pickup_lcoation_name",
+    "_wpll_pickup_date",
+    "_wpll_pickup_lcoation_id",
+    "wlpp_shipping_cost",
+    "_wlpp_exclude_location",
+    "wlpp_ship_cost_category",
+    "wlpp_ship_cost_type",
+    "wlpp_address",
+    "wlpp_city",
+    "wlpp_phone",
+    "wlpp_location_order_email",
+    "wlpp_enable_order_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:17.021Z"
+}

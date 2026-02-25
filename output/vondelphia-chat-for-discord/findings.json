@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vdcw_do_activation_redirect"
+  ],
+  "transients": [
+    "vdcw_cache"
+  ],
+  "cron_jobs": [
+    "vdcw_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:52.493Z"
+}

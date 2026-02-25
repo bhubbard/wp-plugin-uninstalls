@@ -1,0 +1,30 @@
+{
+  "options": [
+    "sclegn_*",
+    "*_license",
+    "force_sslverify",
+    "*_pro_serial",
+    "meowapps_hide_meowapps",
+    "litespeed.conf.cache-rest",
+    "mwai_options",
+    "meowapps_news",
+    "*_rating_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sclegn_post_link",
+    "sclegn_thumbnails",
+    "sclegn_service_type",
+    "sclegn_account_id",
+    "sclegn_service_id",
+    "sclegn_posted_id",
+    "sclegn_post_error",
+    "sclegn_related_postId",
+    "sclegn_posts",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:19.458Z"
+}

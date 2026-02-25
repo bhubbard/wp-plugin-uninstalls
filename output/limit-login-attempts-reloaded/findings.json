@@ -1,0 +1,17 @@
+{
+  "options": [
+    "auto_update_plugins",
+    "limit_login_allow_local_options",
+    "limit_login_use_local_options",
+    "site_name",
+    "limit_login_app_config"
+  ],
+  "transients": [
+    "llar_dashboard_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:26:32.150Z"
+}

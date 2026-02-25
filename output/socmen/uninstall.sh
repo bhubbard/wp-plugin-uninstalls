@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'zm_fb_option'
+wp option delete 'zm_tw_option'
+wp option delete 'zm_in_option'
+wp option delete 'zm_pt_option'
+wp option delete 'zm_gp_option'
+wp option delete 'zm_ld_option'
+wp option delete 'zmiconw_option'
+wp option delete 'zmiconmt_option'
+wp option delete 'zmiconmb_option'
+wp option delete 'zmiconml_option'
+wp option delete 'zmiconmr_option'
+wp option delete 'zm_be_option'
+wp option delete 'zm_bl_option'
+wp option delete 'zm_de_option'
+wp option delete 'zm_dr_option'
+wp option delete 'zm_fl_option'
+wp option delete 'zm_la_option'
+wp option delete 'zm_my_option'
+wp option delete 'zm_rs_option'
+wp option delete 'zm_sk_option'
+wp option delete 'zm_tu_option'
+wp option delete 'zm_vi_option'
+wp option delete 'zm_vk_option'
+wp option delete 'zm_wp_option'
+wp option delete 'zm_yt_option'
+

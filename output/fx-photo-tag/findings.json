@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "fx_photo_tag_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "image_id",
+    "tags",
+    "tag-*",
+    "color_scheme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:09.623Z"
+}

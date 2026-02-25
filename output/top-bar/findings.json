@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tpbr_guests_or_users",
+    "tpbr_fixed",
+    "tpbr_message",
+    "tpbr_status",
+    "tpbr_yn_button",
+    "tpbr_color",
+    "tpbr_btn_text",
+    "tpbr_btn_url",
+    "tpbr_btn_behavior",
+    "tpbr_detect_sticky",
+    "tpbr_role_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:27.054Z"
+}

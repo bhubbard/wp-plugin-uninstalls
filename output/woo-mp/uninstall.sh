@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woo_mp_rated'
+wp option delete 'woo_mp_authorize_net_title'
+wp option delete 'woo_mp_authorize_net_test_mode'
+wp option delete 'woo_mp_authorize_net_login_id'
+wp option delete 'woo_mp_authorize_net_client_key'
+wp option delete 'woo_mp_authorize_net_include_billing_details'
+wp option delete 'woo_mp_authorize_net_include_shipping_details'
+wp option delete 'woo_mp_authorize_net_transaction_key'
+wp option delete 'woo_mp_eway_title'
+wp option delete 'woo_mp_eway_include_billing_details'
+wp option delete 'woo_mp_eway_include_shipping_details'
+wp option delete 'woo_mp_eway_api_key'
+wp option delete 'woo_mp_eway_api_password'
+wp option delete 'woo_mp_eway_sandbox_mode'
+wp option delete 'woo_mp_stripe_title'
+wp option delete 'woo_mp_stripe_publishable_key'
+wp option delete 'woo_mp_stripe_moto_enabled'
+wp option delete 'woo_mp_stripe_secret_key'
+wp option delete 'woo_mp_payment_processor'
+wp option delete 'woo_mp_capture_payments'
+wp option delete 'woo_mp_transaction_description'
+wp option delete 'woo_mp_save_wc_payment_when'
+wp option delete 'woo_mp_update_order_status_when'
+wp option delete 'woo_mp_update_order_status_to'
+wp option delete 'woo_mp_reduce_stock_levels_when'
+wp option delete 'woo_mp_data_version'
+wp option delete 'active_sitewide_plugins'
+wp option delete 'woocommerce_version'
+

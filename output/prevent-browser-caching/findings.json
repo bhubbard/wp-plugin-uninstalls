@@ -1,0 +1,12 @@
+{
+  "options": [
+    "prevent_browser_caching_options",
+    "prevent_browser_caching_clear_cache_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:48.995Z"
+}

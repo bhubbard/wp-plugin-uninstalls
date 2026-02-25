@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gospelrh"
+  ],
+  "transients": [
+    "grh_widget_filters_langs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:06.492Z"
+}

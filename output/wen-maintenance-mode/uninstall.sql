@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wmm_enabled', 'wmm_template', 'wmm_logo', 'wmm_background_option', 'wmm_background_image', 'wmm_background_color', 'wmm_disable_on', 'wmm_content_heading', 'wmm_content', 'wmm_content_border', 'wmm_border_color', 'wmm_content_color', 'wmm_facebook_link', 'wmm_twitter_link', 'wmm_linkedin_link', 'wmm_instagram_link', 'wmm_youtube_link', 'wmm_email_link', 'wmm_phone_number', 'wmm_icon_color', 'wmm_page_title', 'wmm_favicon', 'wmm_enable_gtracking', 'wmm_ga_tracking_id', 'wmm_background_video');
+

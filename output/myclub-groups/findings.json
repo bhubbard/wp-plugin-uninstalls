@@ -1,0 +1,61 @@
+{
+  "options": [
+    "myclub_groups_calendar_title",
+    "myclub_groups_group_calendar_desktop_views",
+    "myclub_groups_group_calendar_desktop_views_default",
+    "myclub_groups_group_calendar_mobile_views",
+    "myclub_groups_group_calendar_mobile_views_default",
+    "myclub_groups_group_calendar_show_week_numbers",
+    "myclub_groups_club_calendar_title",
+    "myclub_groups_club_calendar_desktop_views",
+    "myclub_groups_club_calendar_desktop_views_default",
+    "myclub_groups_club_calendar_mobile_views",
+    "myclub_groups_club_calendar_mobile_views_default",
+    "myclub_groups_club_calendar_show_week_numbers",
+    "myclub_groups_club_news_title",
+    "myclub_groups_coming_games_title",
+    "myclub_groups_leaders_title",
+    "myclub_groups_members_title",
+    "myclub_groups_news_title",
+    "myclub_groups_page_picture",
+    "myclub_groups_api_key",
+    "myclub_groups_group_slug",
+    "myclub_groups_group_news_slug",
+    "myclub_groups_add_news_categories",
+    "myclub_groups_delete_unused_news",
+    "myclub_groups_page_template",
+    "myclub_groups_page_calendar",
+    "myclub_groups_page_navigation",
+    "myclub_groups_page_members",
+    "myclub_groups_page_leaders",
+    "myclub_groups_page_menu",
+    "myclub_groups_page_news",
+    "myclub_groups_page_title",
+    "myclub_groups_page_coming_games",
+    "myclub_groups_show_items_order",
+    "myclub_groups_remove_unused_news_items"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "wp_version_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "myclub_groups_id",
+    "myclub_groups_contact_name",
+    "myclub_groups_email",
+    "myclub_groups_phone",
+    "myclub_groups_nfo_text",
+    "_source_image_url",
+    "myclub_groups_activities",
+    "myclub_groups_members",
+    "_wp_page_template",
+    "myclub_groups_info_text",
+    "myclub_groups_last_updated",
+    "myclub_sections_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:26.412Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "MM_And_SUC_Free_options",
+    "maintenance_mode_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:30.088Z"
+}

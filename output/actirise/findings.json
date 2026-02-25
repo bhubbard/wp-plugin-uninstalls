@@ -1,0 +1,32 @@
+{
+  "options": [
+    "auto_update_plugins",
+    "*_logs",
+    "actirise-api_version",
+    "actirise-api-lastupdate",
+    "actirise-debug-last-update",
+    "*adstxt-lastupdate",
+    "*presizeddiv-lastupdate",
+    "*fastcmp-lastupdate",
+    "*init-plugin",
+    "*-presizeddiv-selected"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "actirise_validate_xpath_after_update",
+    "actirise_cron_update_presized_div",
+    "actirise_cron_update_adstxt",
+    "actirise_cron_update_fast_cmp",
+    "actirise_cron_check_adstxt",
+    "actirise_cron_check_slots",
+    "actirise_cron_event_annotation",
+    "actirise_cron_update_debug_token",
+    "actirise_cron_get_api_version"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "locale"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:48.472Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "venobox_options",
+    "*_review_notice_dismissed",
+    "venobox_activation_date",
+    "venobox_review_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "venobox_disabled"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:49.873Z"
+}

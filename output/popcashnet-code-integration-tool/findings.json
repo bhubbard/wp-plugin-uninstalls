@@ -1,0 +1,18 @@
+{
+  "options": [
+    "popcash_net_uid",
+    "popcash_net_api_key",
+    "popcash_net_wid",
+    "popcash_net_fallback",
+    "popcash_net_textarea",
+    "popcash_net_integration",
+    "popcash_net_disabled",
+    "popcash_net_fcap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:10.870Z"
+}

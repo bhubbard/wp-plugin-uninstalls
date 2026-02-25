@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lianamailer_contactform7_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lianamailer_plugin_enabled",
+    "lianamailer_plugin_mailing_lists",
+    "lianamailer_plugin_site_consents",
+    "lianamailer_plugin_account_sites"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:20.758Z"
+}

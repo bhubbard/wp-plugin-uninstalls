@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "crewhrm_clear_incomplete_applications"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:31.529Z"
+}

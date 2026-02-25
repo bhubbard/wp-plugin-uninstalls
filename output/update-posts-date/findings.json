@@ -1,0 +1,19 @@
+{
+  "options": [
+    "updp_last_update",
+    "updp_interval",
+    "updp_interval_slop",
+    "updp_age_limit",
+    "updp_omit_cats",
+    "updp_show_original_pubdate",
+    "updp_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "updp_original_pub_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:44.728Z"
+}

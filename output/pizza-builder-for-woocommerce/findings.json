@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pizza_shortcodes_data_*",
+    "woocommerce_cart_redirect_after_add",
+    "pizza_settings_data",
+    "pizza_components_data",
+    "pizza_shortcodes_data",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product_ev_pizza_full",
+    "_ev_pizza",
+    "ev_pizza_price_inc",
+    "product_ev_components_data",
+    "product_ev_components"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:13.187Z"
+}

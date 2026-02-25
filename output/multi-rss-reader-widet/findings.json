@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*items_format",
+    "*remove_title_pattern",
+    "*item_format",
+    "*item_format_titlelayout",
+    "*item_format_cardlayout",
+    "url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:06.016Z"
+}

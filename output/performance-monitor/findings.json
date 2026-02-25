@@ -1,0 +1,23 @@
+{
+  "options": [
+    "qtpm_setting_settings",
+    "qtpm_plugin_post_types"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "qtpm_inital_cron",
+    "qtpm_cron_job",
+    "qtpm_cron_job_month_avg"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "plugins_data",
+    "pagespeed_api_data",
+    "curl_data",
+    "qtpm_chart_month_cron_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:34.097Z"
+}

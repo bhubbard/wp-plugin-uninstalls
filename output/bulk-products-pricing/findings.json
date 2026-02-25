@@ -1,0 +1,28 @@
+{
+  "options": [
+    "aicoso_bulk_prod_price_plugin_enable",
+    "_aicoso_bulk_prod_price_bulk_prod_price_cats_ids",
+    "_aicoso_bulk_prod_price_bulk_prod_price_products_ids",
+    "aicoso_bulk_prod_price_tax_enable",
+    "aicoso_bulk_prod_price_ftable_enable",
+    "_aicoso_bulk_prod_price_cats_ids",
+    "_aicoso_bulk_prod_price_selected_products_id",
+    "_aicoso_bulk_prod_price_qty_min_max",
+    "_aicoso_bulk_prod_price_products_ids",
+    "aicoso_bulk_prod_price_table_thead_border",
+    "aicoso_bulk_prod_price_table_thead_bg",
+    "aicoso_bulk_prod_price_table_thead_text",
+    "aicoso_bulk_prod_price_table_tbody_border",
+    "aicoso_bulk_prod_price_table_tbody_bg",
+    "aicoso_bulk_prod_price_table_tbody_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aicoso_bulk_prod_price_per_quantity",
+    "_aicoso_bulk_prod_price_quantity_pricing"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:23.785Z"
+}

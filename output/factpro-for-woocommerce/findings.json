@@ -1,0 +1,26 @@
+{
+  "options": [
+    "factpro_fowo_client_types",
+    "factpro_fowo_send_email_automatically",
+    "factpro_fowo_client_token",
+    "factpro_fowo_api_version",
+    "factpro_fowo_base_url",
+    "factpro_fowo_token",
+    "factpro_fowo_testmode",
+    "woocommerce_calc_taxes",
+    "factpro_fowo_bsiglafactura",
+    "factpro_fowo_bnsiglafactura",
+    "factpro_fowo_siglafactura",
+    "factpro_fowo_nsiglafactura",
+    "factpro_fowo_install_timestamp",
+    "factpro_fowo_version"
+  ],
+  "transients": [
+    "factpro_fowo_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:24.617Z"
+}

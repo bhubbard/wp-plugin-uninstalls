@@ -1,0 +1,22 @@
+{
+  "options": [
+    "twssc_simple_slider_version",
+    "twssc_slider_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_twssc_slider_images",
+    "_twssc_slider_slides_to_show",
+    "_twssc_slider_fade_animation",
+    "_twssc_slider_show_arrows",
+    "_twssc_slider_show_dots",
+    "_twssc_slider_autoplay",
+    "_twssc_slider_pause_on_hover",
+    "_twssc_slider_custom_style",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:35.775Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ab_social_link",
+    "ab_select"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:25.333Z"
+}

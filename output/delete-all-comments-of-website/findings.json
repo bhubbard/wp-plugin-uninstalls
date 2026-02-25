@@ -1,0 +1,42 @@
+{
+  "options": [
+    "nav_disable_comments_type",
+    "nav_enable_role_exclusions",
+    "nav_show_avatars",
+    "nav_disable_api_comments",
+    "nav_disable_comments_*",
+    "nav_exclude_role_*",
+    "nav_disable_type",
+    "nav_disable_comments_global",
+    "nav_excluded_roles",
+    "nav_disable_avatar",
+    "nav_disable_xmlrpc",
+    "nav_disable_rest_api",
+    "nav_deleted_comments_count",
+    "nav_auto_delete_spam",
+    "nav_last_spam_cleanup",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "wp_count_comments",
+    "nav_comments_count",
+    "nav_remaining_comments",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "nav_auto_delete_spam_event",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:35.619Z"
+}

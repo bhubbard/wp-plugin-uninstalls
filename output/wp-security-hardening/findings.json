@@ -1,0 +1,32 @@
+{
+  "options": [
+    "whp_fixer_option",
+    "whp_admin_page",
+    "whp_radio_clickjacking_protection",
+    "whp_xss_protection",
+    "whp_content_sniffing_protection",
+    "whp_http_secure_flag",
+    "whp_custom_admin_report_email",
+    "whp_custom_admin_schedule_audit",
+    "custom_admin_report_email",
+    "whp_scan_results",
+    "whp_scan_results_time",
+    "whp_redirect",
+    "hard_cron",
+    "*_options"
+  ],
+  "transients": [
+    "php_check_*",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "whp_task_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "whp_subscribed_email",
+    "hide_secure_subs"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:46.141Z"
+}

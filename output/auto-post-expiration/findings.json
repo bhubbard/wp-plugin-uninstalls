@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "auto_post_exp_add_every_three_minutes"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_expire_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:48.776Z"
+}

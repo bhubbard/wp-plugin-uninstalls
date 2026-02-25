@@ -1,0 +1,17 @@
+{
+  "options": [
+    "shortfilter_filter_type",
+    "shortfilter_min_count",
+    "shortfilter_default_action",
+    "shortfilter_filter_users",
+    "shortfilter_js_check",
+    "shortfilter_comment_count",
+    "shortfilter_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:37.332Z"
+}

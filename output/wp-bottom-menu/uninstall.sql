@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpbottommenu_condition_reverse', 'wpbottommenu_condition', 'wpbottommenu_archives_condition', 'wpbottommenu_singular_condition', 'wpbottommenu_woocommerce_condition', 'wpbottommenu_singular_page_condition', 'wpbottommenu_singular_post_condition', 'wpbottommenu_singular_product_condition', 'wpbottommenu_user_role_condition', 'wpbottommenu_display_always', 'wpbottommenu_display_px', 'wpbottommenu_fontsize', 'wpbottommenu_iconsize', 'wpbottommenu_textcolor', 'wpbottommenu_htextcolor', 'wpbottommenu_iconcolor', 'wpbottommenu_hiconcolor', 'wpbottommenu_bgcolor', 'wpbottommenu_zindex', 'wpbottommenu_cart_count_bgcolor', 'wpbottommenu_wrapper_padding', 'customizer_repeater_wpbm', 'wpbottommenu_iconset', 'wpbottommenu_target', 'wpbottommenu_show_cart_count', 'wpbottommenu_disable_title', 'wpbottommenu_show_cart_total', 'wpbottommenu_show_account_name', 'wpbottommenu_search_cpt', 'wpbottommenu_placeholder_text');
+

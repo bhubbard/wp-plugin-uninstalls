@@ -1,0 +1,14 @@
+{
+  "options": [
+    "coinbase_payment_methods",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cb_check_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:08.797Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc-my-statistics_display_in_account_tab', 'wc-my-statistics_account_tab_slug', 'wc-my-statistics_account_tab_title', 'wc-my-statistics_myaccount_tables', 'wc-my-statistics_no_orders_found_msg', 'wc-my-statistics_order_status_label', 'wc-my-statistics_order_count_label', 'wc-my-statistics_product_table_heading', 'wc-my-statistics_product_name_label', 'wc-my-statistics_product_count_label', 'wc-my-statistics_start_date_label', 'wc-my-statistics_start_date', 'wc-my-statistics_end_date_label', 'wc-my-statistics_submit_btn_label', 'wc-my-statistics_export_csv_btn', 'wc-my-statistics_export_btn_label');
+

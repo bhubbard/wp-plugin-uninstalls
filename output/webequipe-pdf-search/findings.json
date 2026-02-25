@@ -1,0 +1,23 @@
+{
+  "options": [
+    "webequipe_pdf_search_settings",
+    "webequipe_pdf_search_version",
+    "webequipe_pdf_search_error_count",
+    "webequipe_pdf_search_logs"
+  ],
+  "transients": [
+    "webequipe_pdf_bulk_action_message_*"
+  ],
+  "cron_jobs": [
+    "webequipe_pdf_search_background_index"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_webequipe_pdf_search_excluded",
+    "_webequipe_pdf_index_error",
+    "_webequipe_pdf_indexing_status",
+    "_webequipe_pdf_extracted_text"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:51.253Z"
+}

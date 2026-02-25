@@ -1,0 +1,23 @@
+{
+  "options": [
+    "up_profile_page_title",
+    "up_profile_page_name",
+    "up_profile_page_id",
+    "up_profile_stats",
+    "up_profile_stat_names",
+    "up_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_user_level",
+    "up_profile_page_text",
+    "description",
+    "aim",
+    "yim",
+    "jabber"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:28.630Z"
+}

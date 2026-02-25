@@ -1,0 +1,43 @@
+{
+  "options": [
+    "riwth_show_admin_bar_content",
+    "riwth_feedback_box_thanks_text",
+    "riwth_load_scripts",
+    "riwth_load_styles",
+    "riwth_feedback_box_color_background",
+    "riwth_feedback_box_text",
+    "*_button_icon",
+    "*_button_text",
+    "*_button",
+    "*_text",
+    "riwth_feedback_box_border_button_rounded",
+    "riwth_display_on",
+    "riwth_display_by_user_role",
+    "riwth_feedback_box_positive_button_icon",
+    "riwth_feedback_box_negative_button_icon",
+    "riwth_feedback_box_color_positive_button",
+    "riwth_feedback_box_color_positive_text",
+    "riwth_feedback_box_color_negative_button",
+    "riwth_feedback_box_color_negative_text",
+    "riwth_review_notice_done",
+    "riwth_feedback_box_submitting_text",
+    "riwth_uninstall_remove_data",
+    "riwth_feedback_box_template",
+    "riwth_feedback_box_positive_button_text",
+    "riwth_feedback_box_negative_button_text"
+  ],
+  "transients": [
+    "riwth_total_feedback_*",
+    "riwth_positive_feedback_*",
+    "riwth_feedback_box",
+    "riwth_review_notice_maybe_later"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_riwth_reset_date",
+    "_riwth_disable_box"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:34.805Z"
+}

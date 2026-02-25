@@ -1,0 +1,21 @@
+{
+  "options": [
+    "streamlineconnect_settings",
+    "Streamlineconnect_api_key",
+    "streamlineconnect_enable_widget",
+    "streamline_api_key",
+    "streamlineconnect_api_key_image"
+  ],
+  "transients": [
+    "settings_errors",
+    "streamline_subscription_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "streamline_subscription_id",
+    "streamline_subscription_plan"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:38.227Z"
+}

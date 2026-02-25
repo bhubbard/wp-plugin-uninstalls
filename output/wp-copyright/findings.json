@@ -1,0 +1,16 @@
+{
+  "options": [
+    "zb_wp_copyright_options"
+  ],
+  "transients": [
+    "zb_wpc_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "copyright",
+    "released"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:14.836Z"
+}

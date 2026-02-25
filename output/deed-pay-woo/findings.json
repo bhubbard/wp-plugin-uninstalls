@@ -1,0 +1,14 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "deedpay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "deedpay_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:57.880Z"
+}

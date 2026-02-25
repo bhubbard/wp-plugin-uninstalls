@@ -1,0 +1,33 @@
+{
+  "options": [
+    "full_adaptive",
+    "medium_crop",
+    "large_crop",
+    "medium_adaptive",
+    "large_adaptive",
+    "full_size_w",
+    "full_size_h",
+    "scissors_watermark_path",
+    "scissors_crop_defaultaspect",
+    "scissors_crop_useraspectx",
+    "scissors_crop_useraspecty",
+    "scissors_crop_defaultreir",
+    "scissors_watermark_size",
+    "scissors_watermark_size_relative",
+    "scissors_watermark_halign",
+    "scissors_watermark_valign",
+    "scissors_watermark_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "scissors_activation_notice_ignore",
+    "_scissors_watermarking",
+    "_scissors_watermarking_state",
+    "_wp_attachment_metadata",
+    "_scissors_custom_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:38.482Z"
+}

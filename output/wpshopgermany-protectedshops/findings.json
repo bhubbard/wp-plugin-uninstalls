@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpsg_installed",
+    "wpshopgermany_ts_auto",
+    "wpshopgermany_ts_shopid",
+    "wpshopgermany_ts_version_*",
+    "wpshopgermany_ts_time_*",
+    "wpsg_ps_cron",
+    "cron",
+    "mod_ps"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpsg_ps_task"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:35.325Z"
+}

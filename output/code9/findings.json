@@ -1,0 +1,19 @@
+{
+  "options": [
+    "code9_security_anti_brute_force",
+    "*[]capcha1",
+    "*[]capcha2",
+    "*[]attemp",
+    "code9_security_key",
+    "code9_security_iv",
+    "code9_security_2_step",
+    "code9_security_auth_*",
+    "code9_security_2_step_blockingtime"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:35.029Z"
+}

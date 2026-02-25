@@ -1,0 +1,18 @@
+{
+  "options": [
+    "trit_which_taxonomy",
+    "trit_position",
+    "trit_custom_text",
+    "trit_color",
+    "trit_background_color",
+    "trit_font_size",
+    "trit_uppercase",
+    "trit_who_can_see"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:56.380Z"
+}

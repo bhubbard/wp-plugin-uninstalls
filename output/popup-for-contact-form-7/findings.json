@@ -1,0 +1,20 @@
+{
+  "options": [
+    "enabled-cf7-form",
+    "popup_description",
+    "popup_background",
+    "image_url",
+    "popup_font_color",
+    "popup_width",
+    "popup_height",
+    "popup_duration"
+  ],
+  "transients": [
+    "*cf7error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:45.292Z"
+}

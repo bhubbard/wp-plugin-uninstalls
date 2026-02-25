@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpfbr_google_options",
+    "*_times_ran",
+    "*_version",
+    "wprevpro_yelp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpfbr_cron_google_review"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:19.555Z"
+}

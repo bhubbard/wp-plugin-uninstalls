@@ -1,0 +1,13 @@
+{
+  "options": [
+    "socialmedia_Default_Setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "socialmedia_custom_setting_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:20.573Z"
+}

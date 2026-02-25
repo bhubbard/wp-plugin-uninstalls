@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nukiwp__settings"
+  ],
+  "transients": [
+    "*]"
+  ],
+  "cron_jobs": [
+    "nuki_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "booking_pin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:03.510Z"
+}

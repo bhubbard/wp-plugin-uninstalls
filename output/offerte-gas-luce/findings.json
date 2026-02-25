@@ -1,0 +1,13 @@
+{
+  "options": [
+    "offerte_gas_luce_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "offerte_gas_luce_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:18.070Z"
+}

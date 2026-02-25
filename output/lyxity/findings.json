@@ -1,0 +1,24 @@
+{
+  "options": [
+    "lyxity_api_key",
+    "lyxity_days",
+    "lyxity_wp_api_url",
+    "lyxity_wp_username",
+    "lyxity_wp_password",
+    "lyxity_article_status",
+    "lyxity_article_length",
+    "lyxity_default_language"
+  ],
+  "transients": [
+    "lyxity_async_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_edit_mode",
+    "_elementor_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:43.395Z"
+}

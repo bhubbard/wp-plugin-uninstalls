@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sms_from_email",
+    "sms_from_name",
+    "sms_default_subject",
+    "sms_new_notify",
+    "sms_publish_post",
+    "sms_new_notify_email",
+    "bf_easysms_widget_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:34.461Z"
+}

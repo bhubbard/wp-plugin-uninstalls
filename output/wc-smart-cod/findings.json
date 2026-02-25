@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_cod_settings"
+  ],
+  "transients": [
+    "wc-smart-cod-activated",
+    "wsc-notice-dismissed",
+    "wc-smart-cod-notifications",
+    "wc-smart-cod-settings"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:06.096Z"
+}

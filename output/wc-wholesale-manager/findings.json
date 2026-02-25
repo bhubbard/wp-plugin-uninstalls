@@ -1,0 +1,40 @@
+{
+  "options": [
+    "wcwm_install_date",
+    "wcwm_wholesale_only_store",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_registration_generate_username",
+    "wcwm_disable_auto_approval",
+    "wcwm_admin_is_wholesaler",
+    "wcwm_login_page",
+    "wcwm_disable_tax",
+    "wcwm_registration_page_id",
+    "wcwm_show_original_price",
+    "wcwm_disable_coupon",
+    "woocommerce_email_footer_text",
+    "wcwm_delete_data",
+    "*_flash_messages",
+    "_transient_*",
+    "active_sitewide_plugins",
+    "*_version"
+  ],
+  "transients": [
+    "wc_wholesale_manager_*",
+    "wcwm_activated",
+    "wcwm_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcwm_discounts",
+    "_wcwm_visibility",
+    "wcwm_allow_default_wp_email",
+    "wcwm_approved",
+    "_wc_b2b_visibility",
+    "_wcwm_approved",
+    "_product_pricing",
+    "_category_pricing"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:05.804Z"
+}

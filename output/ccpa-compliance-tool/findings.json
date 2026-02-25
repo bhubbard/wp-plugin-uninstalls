@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ccpact_db_version",
+    "ccpact_privacy_api_key_tmp",
+    "ccpact_privacy_mode",
+    "ccpact_privacy_domain_tmp",
+    "ccpact_paranoid_metadata",
+    "ccpact_sane_metadata",
+    "ccpact_privacy_api_key",
+    "ccpact_privacy_domain",
+    "ccpact_privacy_mode_tmp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:41.769Z"
+}

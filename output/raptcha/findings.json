@@ -1,0 +1,18 @@
+{
+  "options": [
+    "raptcha_settings",
+    "raptcha_core_settings"
+  ],
+  "transients": [
+    "raptcha_challenge_*",
+    "raptcha_token_*",
+    "raptcha_files_*"
+  ],
+  "cron_jobs": [
+    "raptcha_cleanup_challenges"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:42.442Z"
+}

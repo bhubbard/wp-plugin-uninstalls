@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "heleco_webp_supported"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_heleco_webp_conversion"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:09.017Z"
+}

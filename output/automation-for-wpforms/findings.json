@@ -1,0 +1,12 @@
+{
+  "options": [
+    "rnauto_process_link_page_id",
+    "rnauto_process_workflow_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:05.009Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "check_edited_images"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "image_facebook",
+    "use_global",
+    "overlay_color",
+    "use_gradient",
+    "overlay_color_to",
+    "opacity",
+    "gradient_rotation",
+    "font_family",
+    "font_color",
+    "font_size",
+    "font_style",
+    "text_position",
+    "text_position_hor",
+    "fields_to_display",
+    "rewrite_og_image",
+    "param_hash",
+    "image_twitter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:41.214Z"
+}

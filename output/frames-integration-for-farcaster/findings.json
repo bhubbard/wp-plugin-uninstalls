@@ -1,0 +1,18 @@
+{
+  "options": [
+    "farcaster_wp",
+    "farcaster_wp_subscriptions"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "farcaster_wp_send_publish_post_notifications",
+    "farcaster_wp_retry_notifications"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "farcaster_wp_suppress_notifications",
+    "farcaster_wp_tokens"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:29.380Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "*_elementor_widgets_restrictor_options",
+    "elementor_active_kit",
+    "MULTISITE_SITELETS_license_key",
+    "MULTISITE_SITELETS_license_status",
+    "MULTISITE_SITELETS_site_limit",
+    "MULTISITE_SITELETS_selected_sites",
+    "MULTISITE_SITELETS_site_product",
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "MULTISITE_SITELETS_license_check",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sitelet_permissions",
+    "*_published_date",
+    "*_published_by",
+    "_original_post_id",
+    "_original_post_revision",
+    "_elementor_edit_mode",
+    "_elementor_element_cache",
+    "_elementor_data",
+    "_elementor_version",
+    "_elementor_controls_usage",
+    "_elementor_template_type",
+    "_elementor_page_assets",
+    "_elementor_page_settings",
+    "_sitelet_media"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:11.329Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "themeatelier_offer_banner_dismissed_*",
+    "better_chat_support_version",
+    "better_chat_support_first_version",
+    "better_chat_support_activation_date",
+    "better_chat_support_db_version",
+    "better_chat_support_review_notice_dismiss",
+    "mcs-opt"
+  ],
+  "transients": [
+    "themeatelier_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_BetterChatSupport_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:21.672Z"
+}

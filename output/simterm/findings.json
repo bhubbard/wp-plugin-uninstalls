@@ -1,0 +1,21 @@
+{
+  "options": [
+    "simterm-command-prepend",
+    "simterm-type-prepend",
+    "simterm-default-delay",
+    "simterm-last-delay-time",
+    "simterm-default-theme",
+    "simterm-output-delay-time",
+    "simterm-typing-speed",
+    "simterm-transform-chars",
+    "simterm-window-title",
+    "simterm-window-statusbar",
+    "simterm-default-animated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:43.408Z"
+}

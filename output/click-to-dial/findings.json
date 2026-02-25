@@ -1,0 +1,21 @@
+{
+  "options": [
+    "themeatelier_offer_banner_dismissed_*",
+    "ctd_review_notice_dismiss",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "ctd-opt"
+  ],
+  "transients": [
+    "themeatelier_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:41.618Z"
+}

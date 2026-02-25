@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('reventorcab_timeslot_duration', 'reventorcab_booking_days_ahead', 'reventorcab_theme_color', 'reventorcab_timezone', 'reventorcab_time_format', 'reventorcab_date_format', 'reventorcab_appointment_types', 'reventorcab_caldav_url', 'reventorcab_caldav_username', 'reventorcab_caldav_password', 'reventorcab_min_booking_advance', 'reventorcab_working_hours_start', 'reventorcab_working_hours_end', 'reventorcab_break_start', 'reventorcab_break_end', 'reventorcab_working_days', 'reventorcab_timeslot_granularity', 'reventorcab_email_sender_name', 'reventorcab_email_sender_email', 'reventorcab_show_credits', 'reventorcab_appointment_reminder', 'reventorcab_plugin_activated');
+DELETE FROM wp_options WHERE option_name LIKE 'reventorcab_%';
+

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tposguten_org",
+    "tposguten_theme",
+    "tposguten_lang",
+    "tposguten_main_color",
+    "tposguten_ticket_agency",
+    "org",
+    "theme",
+    "lang",
+    "mainColor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:17.734Z"
+}

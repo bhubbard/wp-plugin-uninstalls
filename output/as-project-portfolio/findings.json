@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_project_description",
+    "_project_client",
+    "_project_date",
+    "_project_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:32.975Z"
+}

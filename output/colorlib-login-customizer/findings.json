@@ -1,0 +1,19 @@
+{
+  "options": [
+    "clc-options",
+    "*_version",
+    "colorlib-login-customizer_version",
+    "colorlib-login-customizer_review_notice"
+  ],
+  "transients": [
+    "clc_review",
+    "colorlib-login-customizer_review_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "colorlib-login-customizer_dismiss_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:36.194Z"
+}

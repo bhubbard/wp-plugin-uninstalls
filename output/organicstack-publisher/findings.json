@@ -1,0 +1,19 @@
+{
+  "options": [
+    "organicstack_publisher_api_key",
+    "organicstack_publisher_default_author",
+    "organicstack_publisher_llms_txt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_title",
+    "_wp_attachment_image_alt",
+    "description",
+    "organicstack_avatar_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:30.129Z"
+}

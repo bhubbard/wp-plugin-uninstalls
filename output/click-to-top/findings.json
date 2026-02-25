@@ -1,0 +1,21 @@
+{
+  "options": [
+    "click_to_top_shop_info",
+    "click_to_top_notice_dismissed_130",
+    "click_to_top_previous_version",
+    "click_top_basic",
+    "click_top_style",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:07.853Z"
+}

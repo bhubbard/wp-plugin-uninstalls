@@ -1,0 +1,28 @@
+{
+  "options": [
+    "admintosh_last_theme_change",
+    "admintosh_last_activated_plugin",
+    "admintosh_last_registered_user",
+    "admintosh_options",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "admintosh_activity_logs_db_table",
+    "_transient_timeout_*",
+    "admintosh_lh_database_table"
+  ],
+  "transients": [
+    "admintosh_domain_whois_info",
+    "update_core",
+    "update_themes",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:32.106Z"
+}

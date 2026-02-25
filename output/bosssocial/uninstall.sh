@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'boss_social_facebook'
+wp option delete 'boss_social_twitter'
+wp option delete 'boss_social_google'
+wp option delete 'boss_social_blogger'
+wp option delete 'boss_social_tumblr'
+wp option delete 'boss_social_wordpress'
+wp option delete 'boss_social_behance'
+wp option delete 'boss_social_pinterest'
+wp option delete 'boss_social_stumbleupon'
+wp option delete 'boss_social_digg'
+wp option delete 'boss_social_delicious'
+wp option delete 'boss_social_deviantart'
+wp option delete 'boss_social_linkedin'
+wp option delete 'boss_social_skype'
+wp option delete 'boss_social_flickr'
+wp option delete 'boss_social_picasa'
+wp option delete 'boss_social_instagram'
+wp option delete 'boss_social_dribbble'
+wp option delete 'boss_social_forrst'
+wp option delete 'boss_social_lastfm'
+wp option delete 'boss_social_soundcloud'
+wp option delete 'boss_social_myspace'
+wp option delete 'boss_social_vimeo'
+wp option delete 'boss_social_youtube'
+wp option delete 'boss_social_paypal'
+wp option delete 'boss_social_rss'
+wp option delete 'boss_social_open_links'
+

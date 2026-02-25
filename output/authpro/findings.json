@@ -1,0 +1,16 @@
+{
+  "options": [
+    "authpro_username",
+    "authpro_usage",
+    "authpro_protect_categories",
+    "authpro_protect_tags"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_authpro_protect"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:29.305Z"
+}

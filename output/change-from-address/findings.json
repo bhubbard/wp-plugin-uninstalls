@@ -1,0 +1,12 @@
+{
+  "options": [
+    "cefko_email_from_name",
+    "cefko_email_from_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:25.150Z"
+}

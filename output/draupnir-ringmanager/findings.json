@@ -1,0 +1,15 @@
+{
+  "options": [
+    "draupnir_*",
+    "plugin_draupnir_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "draupnir_hourly_event_hook",
+    "draupnir_scheduled_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:24.802Z"
+}

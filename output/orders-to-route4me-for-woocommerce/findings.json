@@ -1,0 +1,16 @@
+{
+  "options": [
+    "r4me_api_key",
+    "r4me_auto_send",
+    "r4m_sync_status",
+    "r4me_order_alias"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "route4me_order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:20.643Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fts_ss_oauth_access_token",
+    "fts_ss_oauth_access_token_secret",
+    "fts_ss_consumer_key",
+    "fts_ss_consumer_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:26.714Z"
+}

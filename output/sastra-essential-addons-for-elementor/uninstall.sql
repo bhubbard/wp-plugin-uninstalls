@@ -1,0 +1,68 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('tmpcoder_recent_import_log_file', 'mla_enable_upload_mimes', 'tmpcoder_imported_wxr_id', 'tmpcoder_global_theme_options_sastrawp', '_tmpcoder_old_site_options', 'sidebars_widgets', '_tmpcoder_old_widgets_data', 'tmpcoder_current_active_demo', 'tmpcoder_import_complete', 'woocommerce_cart_page_id', 'woocommerce_shop_page_id', 'woocommerce_checkout_page_id', 'woocommerce_myaccount_page_id', 'woocommerce_queue_flush_rewrite_rules', 'tmpcoder_is_call_retry', 'tmpcoder_already_exists_post', 'tmpcoder_import_data ', 'elementor_active_kit', 'cfvsw_global', 'cfvsw_shop', 'cfvsw_style', 'cfvsw_general_settings', 'cfvsw_shop_page_settings', 'cfvsw_product_page_settings', 'cfvsw_cart_page_settings', 'tmpcoder_st_attachments', 'tmpcoder-parallax-background', 'tmpcoder-parallax-multi-layer', 'tmpcoder_mailchimp_api_key', 'tmpcoder_add_wishlist_to_my_account', 'tmpcoder_wishlist_page', 'tmpcoder_compare_page', 'tmpcoder_woo_shop_ppp', 'tmpcoder_woo_shop_cat_ppp', 'tmpcoder_woo_shop_tag_ppp', 'tmpcoder-particles', 'tmpcoder-custom-css', 'tmpcoder-sticky-section', 'tmpcoder-floating-effects', 'tmpcoder-scroll-effects-pro', 'tmpcoder-element-toggle-all', 'tmpcoder-element-mega-menu', 'tmpcoder_rating_maybe_later_time', 'tmpcoder_rating_dismiss_notice', 'tmpcoder_rating_already_rated', 'tmpcoder_sastra_elementor_addon_activation_time', 'tmpcoder_type_header_conditions', 'tmpcoder_type_footer_conditions', 'tmpcoder_type_archive_conditions', 'tmpcoder_type_search_result_page_conditions');
+DELETE FROM wp_options WHERE option_name IN ('tmpcoder_type_404_conditions', 'tmpcoder_type_single_post_conditions', 'tmpcoder_type_product_archive_conditions', 'tmpcoder_type_product_category_conditions', 'tmpcoder_type_single_product_conditions', 'elementor_css_print_method', 'tmpcoder_wl_plugin_links', 'tmpcoder_spexo_addons_version', 'elementor_optimized_image_loading', 'tmpcoder_allowed_post_types', 'woocommerce_hide_out_of_stock_items', 'woocommerce_cart_redirect_after_add', 'tmpcoder_video_settings_options', 'tmpcoder_recaptcha_v3_site_key', 'elementor_experiment-additional_custom_breakpoints', 'spexo_ai_options', 'spexo_ai_daily_tokens_used', 'spexo_ai_cached_models', 'spexo_ai_last_token_reset', 'woocommerce_weight_unit', 'woocommerce_category_archive_display', 'woocommerce_enable_ajax_add_to_cart', 'tmpcoder_enable_woo_flexslider_navigation', 'sastrawp_wizard_page', 'spexo_wizard_page', 'elementor_disable_color_schemes', 'elementor_disable_typography_schemes', 'tmpcoder_sastra_elementor_addon_activation_time_for_sale', 'sastra_activation_notice', 'tmpcoder_import_started', 'elementor_activation_redirect', 'tmpcoder_upgrade_pro_notice', 'tmpcoder_plugin_do_activation_redirect', 'tmpcoder_latest_updates_notice_banner');
+DELETE FROM wp_options WHERE option_name LIKE '%-transients';
+DELETE FROM wp_options WHERE option_name LIKE 'widget_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_attribute_id';
+DELETE FROM wp_options WHERE option_name LIKE 'tmpcoder-element-%';
+DELETE FROM wp_options WHERE option_name LIKE '%_actions_left';
+DELETE FROM wp_options WHERE option_name LIKE '%_plugins_left';
+DELETE FROM wp_options WHERE option_name LIKE 'tmpcoder_plugin_update_dismiss_notice_%';
+DELETE FROM wp_options WHERE option_name LIKE 'tmpcoder_pro_features_dismiss_notice_%';
+DELETE FROM wp_options WHERE option_name LIKE 'tmpcoder_cpt_ppp_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_wizard_step';
+DELETE FROM wp_options WHERE option_name LIKE '%_wizard_done';
+DELETE FROM wp_options WHERE option_name LIKE '%_wizard_page_redirect';
+DELETE FROM wp_options WHERE option_name LIKE '%_wizard_page';
+DELETE FROM wp_options WHERE option_name LIKE 'tmpcoder_activate_theme_dismissed_%';
+DELETE FROM wp_options WHERE option_name LIKE 'tmpcoder_activate_pro_notice_dismissed_%';
+DELETE FROM wp_options WHERE option_name LIKE 'tmpcoder_upgrade_pro_notice_dismissed_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('tmpcoder_theme_posts_per_page', 'tmpcoder_theme_posts_per_rss', '_elementor_data', '_elementor_page_settings', '_menu_item_url', '_tmpcoder_image_hash', '_tmpcoder_imported_post', '_tmpcoder_enable_for_batch', '_elementor_version', '_wp_page_template', '_elementor_source_image_hash', '_tmpcoder_imported_term', 'tmpcoder_old_id', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'tmpcoder_secondary_image_id', 'tmpcoder_target_include_locations', '_elementor_template_type', 'tmpcoder_template_type', 'tmpcoder-mega-menu-item', 'tmpcoder-mega-menu-settings', '_tmpcoder_template_type', 'tmpcoder_privacypolicy_page', 'tmpcoder_registerd_settings', '_wp_attachment_image_alt', 'elementor_preferences', 'tmpcoder-popup', 'editor_type', 'tmpcoder_target_exclude_locations', 'tmpcoder_target_user_roles', '_spexo_ai_alt_retry_count', '_post_like_count', '_user_liked', '_user_IP', '_post_like_modified', '_hash', 'tmpcoder_vimeo_video_url', 'tmpcoder_custom_video_url', '_button_text', '_sale_price_dates_to', '_sale_price_dates_from');
+DELETE FROM wp_usermeta WHERE meta_key IN ('tmpcoder_theme_posts_per_page', 'tmpcoder_theme_posts_per_rss', '_elementor_data', '_elementor_page_settings', '_menu_item_url', '_tmpcoder_image_hash', '_tmpcoder_imported_post', '_tmpcoder_enable_for_batch', '_elementor_version', '_wp_page_template', '_elementor_source_image_hash', '_tmpcoder_imported_term', 'tmpcoder_old_id', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'tmpcoder_secondary_image_id', 'tmpcoder_target_include_locations', '_elementor_template_type', 'tmpcoder_template_type', 'tmpcoder-mega-menu-item', 'tmpcoder-mega-menu-settings', '_tmpcoder_template_type', 'tmpcoder_privacypolicy_page', 'tmpcoder_registerd_settings', '_wp_attachment_image_alt', 'elementor_preferences', 'tmpcoder-popup', 'editor_type', 'tmpcoder_target_exclude_locations', 'tmpcoder_target_user_roles', '_spexo_ai_alt_retry_count', '_post_like_count', '_user_liked', '_user_IP', '_post_like_modified', '_hash', 'tmpcoder_vimeo_video_url', 'tmpcoder_custom_video_url', '_button_text', '_sale_price_dates_to', '_sale_price_dates_from');
+DELETE FROM wp_termmeta WHERE meta_key IN ('tmpcoder_theme_posts_per_page', 'tmpcoder_theme_posts_per_rss', '_elementor_data', '_elementor_page_settings', '_menu_item_url', '_tmpcoder_image_hash', '_tmpcoder_imported_post', '_tmpcoder_enable_for_batch', '_elementor_version', '_wp_page_template', '_elementor_source_image_hash', '_tmpcoder_imported_term', 'tmpcoder_old_id', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'tmpcoder_secondary_image_id', 'tmpcoder_target_include_locations', '_elementor_template_type', 'tmpcoder_template_type', 'tmpcoder-mega-menu-item', 'tmpcoder-mega-menu-settings', '_tmpcoder_template_type', 'tmpcoder_privacypolicy_page', 'tmpcoder_registerd_settings', '_wp_attachment_image_alt', 'elementor_preferences', 'tmpcoder-popup', 'editor_type', 'tmpcoder_target_exclude_locations', 'tmpcoder_target_user_roles', '_spexo_ai_alt_retry_count', '_post_like_count', '_user_liked', '_user_IP', '_post_like_modified', '_hash', 'tmpcoder_vimeo_video_url', 'tmpcoder_custom_video_url', '_button_text', '_sale_price_dates_to', '_sale_price_dates_from');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('tmpcoder_theme_posts_per_page', 'tmpcoder_theme_posts_per_rss', '_elementor_data', '_elementor_page_settings', '_menu_item_url', '_tmpcoder_image_hash', '_tmpcoder_imported_post', '_tmpcoder_enable_for_batch', '_elementor_version', '_wp_page_template', '_elementor_source_image_hash', '_tmpcoder_imported_term', 'tmpcoder_old_id', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'tmpcoder_secondary_image_id', 'tmpcoder_target_include_locations', '_elementor_template_type', 'tmpcoder_template_type', 'tmpcoder-mega-menu-item', 'tmpcoder-mega-menu-settings', '_tmpcoder_template_type', 'tmpcoder_privacypolicy_page', 'tmpcoder_registerd_settings', '_wp_attachment_image_alt', 'elementor_preferences', 'tmpcoder-popup', 'editor_type', 'tmpcoder_target_exclude_locations', 'tmpcoder_target_user_roles', '_spexo_ai_alt_retry_count', '_post_like_count', '_user_liked', '_user_IP', '_post_like_modified', '_hash', 'tmpcoder_vimeo_video_url', 'tmpcoder_custom_video_url', '_button_text', '_sale_price_dates_to', '_sale_price_dates_from');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_swatch_type';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_swatch_type';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_swatch_type';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_swatch_type';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_swatch_color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_swatch_color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_swatch_color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_swatch_color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_swatch_image';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_swatch_image';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_swatch_image';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_swatch_image';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_swatch_label';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_swatch_label';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_swatch_label';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_swatch_label';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_swatch_tooltip';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_swatch_tooltip';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_swatch_tooltip';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_swatch_tooltip';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_id';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_id';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_id';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_id';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_show_on_canvas';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_show_on_canvas';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_show_on_canvas';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_show_on_canvas';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%-location';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%-location';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%-location';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%-location';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%-exclusion';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%-exclusion';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%-exclusion';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%-exclusion';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%-users';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%-users';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%-users';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%-users';
+

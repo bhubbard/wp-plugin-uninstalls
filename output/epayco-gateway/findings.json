@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_epayco_settings",
+    "epayco_order_status",
+    "woocommerce_manage_stock",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woocommerc_epayco_cron_hook",
+    "woocommerce_epayco_cleanup_draft_orders",
+    "bf_epayco_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "modo",
+    "My Field",
+    "refPayco",
+    "fecha",
+    "franquicia",
+    "autorizacion",
+    "billing_enumber"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:02.457Z"
+}

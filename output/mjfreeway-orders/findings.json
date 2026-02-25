@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mjfreeway_options",
+    "mjfreeway_display_registration_link",
+    "mjfreeway-products"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:41.191Z"
+}

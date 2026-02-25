@@ -1,0 +1,20 @@
+{
+  "options": [
+    "vpc-options",
+    "vpc_do_activation_redirect",
+    "woocommerce_currency_pos",
+    "*-license-key",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [
+    "vpc-checking"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vpc-config",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:09.410Z"
+}

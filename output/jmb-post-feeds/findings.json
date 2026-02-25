@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jmb_pf_feeds",
+    "jmb_pf_site_title",
+    "jmb_pf_site_url",
+    "jmb_pf_site_description",
+    "jmb_pf_last_update",
+    "jmb_pf_filters",
+    "jmb_pf_orderby",
+    "jmb_pf_order",
+    "jmb_pf_limit",
+    "jmb_pf_offset",
+    "jmb_pf_post_types",
+    "jmb_pf_fields",
+    "jmb_pf_export_filename",
+    "jmb_pf_export_formats",
+    "jmb_pf_auto_update"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:29.753Z"
+}

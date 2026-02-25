@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('rjs_options');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('valor_c1', 'custom_element_grid_align_meta_box_c1', 'size_c1', 'color_back_c1', 'color_font_c1', 'valor_c2', 'custom_element_grid_align_meta_box_c2', 'size_c2', 'color_back_c2', 'color_font_c2', 'valor_c3', 'custom_element_grid_align_meta_box_c3', 'size_c3', 'color_back_c3', 'color_font_c3', '_image_id', 'custom_parent_loop', 'link_per', 'link_name', 'chance', 'color_font_button', 'color_top_button', 'color_bottom_button', 'custom_element_grid_target_meta_box');
+DELETE FROM wp_usermeta WHERE meta_key IN ('valor_c1', 'custom_element_grid_align_meta_box_c1', 'size_c1', 'color_back_c1', 'color_font_c1', 'valor_c2', 'custom_element_grid_align_meta_box_c2', 'size_c2', 'color_back_c2', 'color_font_c2', 'valor_c3', 'custom_element_grid_align_meta_box_c3', 'size_c3', 'color_back_c3', 'color_font_c3', '_image_id', 'custom_parent_loop', 'link_per', 'link_name', 'chance', 'color_font_button', 'color_top_button', 'color_bottom_button', 'custom_element_grid_target_meta_box');
+DELETE FROM wp_termmeta WHERE meta_key IN ('valor_c1', 'custom_element_grid_align_meta_box_c1', 'size_c1', 'color_back_c1', 'color_font_c1', 'valor_c2', 'custom_element_grid_align_meta_box_c2', 'size_c2', 'color_back_c2', 'color_font_c2', 'valor_c3', 'custom_element_grid_align_meta_box_c3', 'size_c3', 'color_back_c3', 'color_font_c3', '_image_id', 'custom_parent_loop', 'link_per', 'link_name', 'chance', 'color_font_button', 'color_top_button', 'color_bottom_button', 'custom_element_grid_target_meta_box');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('valor_c1', 'custom_element_grid_align_meta_box_c1', 'size_c1', 'color_back_c1', 'color_font_c1', 'valor_c2', 'custom_element_grid_align_meta_box_c2', 'size_c2', 'color_back_c2', 'color_font_c2', 'valor_c3', 'custom_element_grid_align_meta_box_c3', 'size_c3', 'color_back_c3', 'color_font_c3', '_image_id', 'custom_parent_loop', 'link_per', 'link_name', 'chance', 'color_font_button', 'color_top_button', 'color_bottom_button', 'custom_element_grid_target_meta_box');
+

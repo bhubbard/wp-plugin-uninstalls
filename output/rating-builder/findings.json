@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_redq_rating",
+    "post_redq_rating",
+    "webpack_public_path_url",
+    "reactive_builder_admin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "red_rb_stored_settings",
+    "redq_rb_comment_rating",
+    "liked_user",
+    "disliked_user",
+    "number_of_likes",
+    "number_of_dislikes",
+    "redq_rb_rating_attachments",
+    "redq_total_review",
+    "redq_total_no_of_reviews",
+    "total_rating_length",
+    "average_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:41.239Z"
+}

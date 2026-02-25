@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sahcfwc_stripe_checkout_status', 'sahcfwc_stripe_shipping_address_status', 'sahcfwc_stripe_terms_condition_status', 'sahcfwc_stripe_phone_num_status', 'sahcfwc_stripe_cancel_url', 'sahcfwc_stripe_delete_temp_order_status', 'woocommerce_prices_include_tax', 'woocommerce_enable_coupons', 'sahcfwc_checkout_license_action', 'sahcfwc_stripe_test_secret_key', 'sahcfwc_stripe_live_secret_key', 'woocommerce_default_country', 'sahcfwc_stripe_integration_mode', 'sahcfwc_stripe_webhook_key', 'sahcfwc_use_restricted_keys', 'sahcfwc_restricted_test_key', 'sahcfwc_restricted_live_key', 'sahcfwc_api_key_type', 'sahcfwc_stripe_admin_test_mode_status', 'sahcfwc_stripe_payment_methodes');
+DELETE FROM wp_options WHERE option_name LIKE 'sahcfwc_stripe_checkout_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_wc_order_id';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('sahcfwc_stripe_ch_customer_id', '_customer_user', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_state', 'shipping_postcode');
+DELETE FROM wp_usermeta WHERE meta_key IN ('sahcfwc_stripe_ch_customer_id', '_customer_user', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_state', 'shipping_postcode');
+DELETE FROM wp_termmeta WHERE meta_key IN ('sahcfwc_stripe_ch_customer_id', '_customer_user', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_state', 'shipping_postcode');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('sahcfwc_stripe_ch_customer_id', '_customer_user', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_state', 'shipping_postcode');
+

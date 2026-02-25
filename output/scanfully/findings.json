@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*is_connected",
+    "*site_id",
+    "*access_token",
+    "*refresh_token",
+    "*expires",
+    "*last_used",
+    "*date_connected"
+  ],
+  "transients": [
+    "scanfully_connect_state"
+  ],
+  "cron_jobs": [
+    "scanfully_daily",
+    "scanfully_twice_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:30.836Z"
+}

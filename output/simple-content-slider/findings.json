@@ -1,0 +1,23 @@
+{
+  "options": [
+    "scontentslider_posttype",
+    "scontentslider_svn",
+    "scontentslider_menutitle",
+    "scontentslider_max_H",
+    "scontentslider_max_W",
+    "scontentslider_html5",
+    "scontentslider_effect",
+    "scontentslider_autoplay",
+    "scontentslider_interval",
+    "scontentslider_navoutside",
+    "scontentslider_css",
+    "scontentslider_navigation",
+    "scontentslider_pagination"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:24.945Z"
+}

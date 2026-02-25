@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wtsec_api_key",
+    "wtsec_am_installed_file",
+    "wtsec_waf_installed_file",
+    "wtsec_*",
+    "wtotem_api_key",
+    "wtotem_am_installed_file",
+    "wtotem_waf_installed_file",
+    "wtotem_*",
+    "active_sitewide_plugins",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "webtotem_daily_cron",
+    "wtotem_step_init_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:05.767Z"
+}

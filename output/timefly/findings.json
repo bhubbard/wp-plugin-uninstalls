@@ -1,0 +1,22 @@
+{
+  "options": [
+    "timefly_uninstall_behavior",
+    "timefly_scan_post_types",
+    "timefly_usage_stats",
+    "timefly_install_date"
+  ],
+  "transients": [
+    "timefly_settings_saved",
+    "timefly_block_scan_results"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "timefly_review_dismissed",
+    "timefly_review_dismissed_time",
+    "timefly_donation_shown",
+    "timefly_positive_review_action"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:35.327Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "cbr_pro_update_ignore_377",
+    "product_visibility",
+    "wpcbr_hide_restricted_product_variation",
+    "wpcbr_make_non_purchasable",
+    "wpcbr_hide_product_price",
+    "wpcbr_debug_mode",
+    "wpcbr_message_position",
+    "wpcbr_default_message",
+    "wpcbr_force_geo_location",
+    "wpcbr_redirect_404_page",
+    "wpcbr_choose_the_page_to_redirect",
+    "cbr_notice_ignore",
+    "*_usage_data_selector",
+    "*_optin_email_notification",
+    "*_enable_usage_data",
+    "*_usage_tracker_last_send"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zorem_usage_data_*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fz_country_restriction_type",
+    "_restricted_countries"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:01.823Z"
+}

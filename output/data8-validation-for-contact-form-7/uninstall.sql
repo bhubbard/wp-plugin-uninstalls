@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('d8cf7_client_api_key', 'd8cf7_predictiveaddress_options', 'd8cf7_predictiveaddress', 'd8cf7_telephone_validation', 'd8cf7_telephone_default_country', 'd8cf7_telephone_allowed_prefixes', 'd8cf7_telephone_barred_prefixes', 'd8cf7_telephone_required_country', 'd8cf7_ajax_key', 'd8cf7_telephone_advanced_options', 'd8cf7_email_validation_level', 'd8cf7_salaciousName', 'd8cf7_bank_validation', 'd8cf7_error', 'd8cf7_password');
+

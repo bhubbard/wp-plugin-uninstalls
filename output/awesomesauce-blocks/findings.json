@@ -1,0 +1,20 @@
+{
+  "options": [
+    "awesomesauce_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awesomesauce_action",
+    "awesomesauce_block_data",
+    "_wp_attachment_image_alt",
+    "_EventCost",
+    "_EventCurrencySymbol",
+    "_EventURL",
+    "_EventStartDate",
+    "_EventEndDate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:02.352Z"
+}

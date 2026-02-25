@@ -1,0 +1,28 @@
+{
+  "options": [
+    "activate_admin_dpd",
+    "wc_dpd_server",
+    "wc_dpd_print_username",
+    "wc_dpd_print_password",
+    "wc_dpd_print_sender_name",
+    "wc_dpd_print_sender_address",
+    "wc_dpd_print_sender_city",
+    "wc_dpd_print_sender_zipcode",
+    "wc_dpd_print_sender_country",
+    "wc_dpd_print_sender_contact",
+    "wc_dpd_print_sender_phone",
+    "wc_dpd_print_sender_email",
+    "woocommerce_weight_unit",
+    "wc_dpd_email_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Želim naručiti dostavnu službu",
+    "dpd_order_tracking_number",
+    "dpd_order_tracking_filename"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:31.090Z"
+}

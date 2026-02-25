@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ic_reviews_settings"
+  ],
+  "transients": [
+    "ic_revs_hide_plugin_translation_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "ic_review_rating",
+    "ic_review_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:42.876Z"
+}

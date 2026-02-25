@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fca_qc_gdpr_checkbox",
+    "fca_qc_gdpr_locale",
+    "links_updated_date_format",
+    "fca_qc_show_review_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fca_qc_schedule_review_notice"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "quiz_cat_settings",
+    "quiz_cat_meta",
+    "quiz_cat_questions",
+    "quiz_cat_results",
+    "quiz_cat_translations",
+    "quiz_cat_appearance"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:42.186Z"
+}

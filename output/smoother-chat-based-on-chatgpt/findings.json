@@ -1,0 +1,16 @@
+{
+  "options": [
+    "scgp_chatgpt_max_tokens",
+    "scgp_chatgpt_api_key",
+    "scgp_chatgpt_start_prompt",
+    "scgp_last_counter_reset_date",
+    "scgp_chatgpt_tokens_sent",
+    "scgp_chatgpt_tokens_received"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:29.325Z"
+}

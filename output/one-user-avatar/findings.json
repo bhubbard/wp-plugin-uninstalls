@@ -1,0 +1,37 @@
+{
+  "options": [
+    "avatar_default_wp_user_avatar",
+    "wp_user_avatar_tinymce",
+    "wp_user_avatar_allow_upload",
+    "wp_user_avatar_disable_um_avatars",
+    "wp_user_avatar_force_file_uploader",
+    "wp_user_avatar_disable_gravatar",
+    "wp_user_avatar_edit_avatar",
+    "wp_user_avatar_resize_crop",
+    "wp_user_avatar_resize_h",
+    "wp_user_avatar_resize_upload",
+    "wp_user_avatar_resize_w",
+    "wp_user_avatar_upload_size_limit",
+    "wpua_hash_gravatar",
+    "*_size_w",
+    "*_size_h",
+    "wp_user_avatar_default_avatar_updated",
+    "wp_user_avatar_users_updated",
+    "wp_user_avatar_media_updated",
+    "cron",
+    "wp_user_avatar_load_scripts",
+    "wpua_has_gravatar"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpua_has_gravatar_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*user_avatar",
+    "wp_user_avatar",
+    "_wp_attachment_wp_user_avatar"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:49.979Z"
+}

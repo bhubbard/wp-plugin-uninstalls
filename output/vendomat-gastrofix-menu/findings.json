@@ -1,0 +1,19 @@
+{
+  "options": [
+    "license_key",
+    "gf_last_sync",
+    "gf_datas",
+    "cloud_nr",
+    "consumer_key",
+    "secret_key",
+    "username",
+    "password",
+    "store_articles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:35.550Z"
+}

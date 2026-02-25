@@ -1,0 +1,26 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "formzu_option_data",
+    "widget_formzudefaultwidget"
+  ],
+  "transients": [
+    "formzu-admin-errors",
+    "formzu-admin-updated",
+    "formzu-admin-error",
+    "formzu-admin-html"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "closedpostboxes_*",
+    "meta-box-order_*",
+    "_menu_item_object_id",
+    "dismissed_wp_pointers",
+    "_menu_item_url",
+    "_menu_item_type",
+    "_menu_item_object"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:03.702Z"
+}

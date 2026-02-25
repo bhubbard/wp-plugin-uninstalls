@@ -1,0 +1,55 @@
+{
+  "options": [
+    "wpswisstoolkitpro_license_options",
+    "max_file_size",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES",
+    "redux-framework_extendify_plugin_notice",
+    "*ense_key",
+    "*icense_status",
+    "*-transients",
+    "redux_custom_font_current",
+    "woocommerce_shop_page_id",
+    "auto_update_redux_google_fonts",
+    "_redux_content_width",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "update_plugins",
+    "*-transient",
+    "*-transients-metaboxes",
+    "*-transients-taxonomy",
+    "*-transients-users"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bdstfw_code_snippets_language",
+    "bdstfw_code_snippets_textarea",
+    "bdstfw_code_snippets_location",
+    "bdstfw_code_snippets_toggle",
+    "_bdstfw_encrypted_token",
+    "_bdstfw_swiss_expiration_time",
+    "_bdstfw_swiss_usage_count",
+    "bdstfw_swiss_usage_limitation",
+    "_bdstfw_current_login_userId",
+    "boomdevs_swiss_avatar_uploader_image",
+    "_swiss_usage_limitation",
+    "_swiss_usage_custom_limitation",
+    "_wp_attachment_is_custom_background",
+    "_wp_attachment_is_custom_header",
+    "ignore_*",
+    "ignore_hints",
+    "_visibility",
+    "_stock_status",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:12.244Z"
+}

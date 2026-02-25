@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ahjwtauth-private-secret",
+    "ahjwtauth-jwks-url",
+    "ahjwtauth-jwt-header",
+    "ahjwtauth-user-role"
+  ],
+  "transients": [
+    "ahjwtauth_jwks_json"
+  ],
+  "cron_jobs": [
+    "ahjwtauth_refresh_jwks"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:47.329Z"
+}

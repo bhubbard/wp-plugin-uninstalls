@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*-license",
+    "_site_transient_update_plugins",
+    "PMP_lic_email",
+    "_site_transient_update_themes",
+    "wppb_demo_input_examples",
+    "pet-match-pro-color-options",
+    "pet-match-pro-general-options"
+  ],
+  "transients": [
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:54.229Z"
+}

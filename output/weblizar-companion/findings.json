@@ -1,0 +1,25 @@
+{
+  "options": [
+    "theme_mods_enigma",
+    "enigma_options",
+    "weblizar_options",
+    "creative_general_options",
+    "explora_options",
+    "guardian_options",
+    "health_options",
+    "scoreline_options",
+    "chronicle_theme_options",
+    "green-lantern_options_gl",
+    "free_theme_data",
+    "enigma_options_pro",
+    "nineteen_theme_front_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:13.501Z"
+}

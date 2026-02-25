@@ -1,0 +1,19 @@
+{
+  "options": [
+    "micropub_default_post_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mf2_*",
+    "geo_latitude",
+    "geo_longitude",
+    "micropub_auth_response",
+    "micropub_version",
+    "mf2_content",
+    "geo_timezone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:20.495Z"
+}

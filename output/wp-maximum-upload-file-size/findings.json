@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wmufs_settings",
+    "wmufs_maximum_execution_time",
+    "wmufs_memory_limit",
+    "wmufs_notice_disable_time",
+    "max_file_size",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "wmufs_settings_updated",
+    "codepopular_promo_data",
+    "codepopular_blog_posts",
+    "wf-plugin-info-*"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_is_custom_background",
+    "_wp_attachment_is_custom_header"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:33.051Z"
+}

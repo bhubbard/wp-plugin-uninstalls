@@ -1,0 +1,16 @@
+{
+  "options": [
+    "xml_shipping_import_option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wcxmlshippingimportaction"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tracking_number",
+    "carrier"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:00.505Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mys_hide_bar', 'mys_email_from', 'mys_email_sender', 'mys_footer', 'mys_hide_theme_edt', 'mys_hide_plugin_edt', 'mys_login_url', 'mys_login_rurl', 'mys_logout_url', 'mys_show_tag', 'mys_show_tag_all', 'mys_show_tag_page', 'mys_before_tag', 'mys_after_tag', 'mys_show_to_admin');
+

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_currency_pos",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_custom_orders_table_data_sync_enabled",
+    "iwrasl_first_order_date",
+    "iwrasl_top_toolbar_dismiss",
+    "iwrasl_some_setting",
+    "iwrasl_usage_track",
+    "*_email_subscription_sent",
+    "ithemeland_activation_email",
+    "iwrasl_onboarding",
+    "iwrasl_opt_in"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iwrasl_permissions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:57.523Z"
+}

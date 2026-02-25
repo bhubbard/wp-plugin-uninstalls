@@ -1,0 +1,17 @@
+{
+  "options": [
+    "witalk_shipping_cost",
+    "witalk_shipping_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "italkereso_hide",
+    "shipping_cost",
+    "shipping_time",
+    "italk_prod_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:19.869Z"
+}

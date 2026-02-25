@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wppd_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wppd_donation_amount",
+    "wppd_project_mailchimp_list_id",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:02.801Z"
+}

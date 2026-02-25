@@ -1,0 +1,20 @@
+{
+  "options": [
+    "flc_version",
+    "flc_address",
+    "flc_api_key",
+    "flc_api_secret",
+    "*_enabled",
+    "*sso_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "flc_id",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:32.731Z"
+}

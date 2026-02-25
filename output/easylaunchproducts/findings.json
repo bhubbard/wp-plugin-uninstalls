@@ -1,0 +1,16 @@
+{
+  "options": [
+    "easypr_show_order_form"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "easypr_price",
+    "easypr_lead_time",
+    "easypr_status",
+    "easypr_brand"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:02.152Z"
+}

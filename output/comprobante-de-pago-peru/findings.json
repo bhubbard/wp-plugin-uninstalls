@@ -1,0 +1,18 @@
+{
+  "options": [
+    "comprobante_checkbox_be",
+    "comprobante_checkbox_fe",
+    "comprobante_docs_default"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_comprobante",
+    "_dni",
+    "_ruc",
+    "_responsable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:58.048Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_shortcode_activated",
+    "wp_shortcode_notice_views"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_shortcode_ignore_notice",
+    "wp_shortcode_ignore_notice_2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:36.926Z"
+}

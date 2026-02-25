@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sponsorless_enable_coupon",
+    "woocommerce_enable_coupons",
+    "sponsorless_cookie_duration",
+    "sponsorless_auth_completed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sponsorless_get_cookie_duration_api_call"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:01.739Z"
+}

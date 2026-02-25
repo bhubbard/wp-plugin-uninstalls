@@ -1,0 +1,39 @@
+{
+  "options": [
+    "kadio_deposit_settings_select_deposit_for_product_or_total",
+    "kadio_deposit_settings_number_deposit_on_minimum_cart_amount",
+    "kadio_deposit_apply_on_shipping",
+    "kadio_deposit_settings_amount",
+    "kadio_deposit_when_using_coupon_id",
+    "kadio_deposit_settings_payment_title",
+    "kadio_deposit_settings_payment_cash_title",
+    "kadio_deposit_settings_payment_deposit_title",
+    "kadio_deposit_settings_checkbox_deposit_on_minimum_cart",
+    "kadio_deposit_settings_show_details",
+    "kadio_deposit_settings_show_email",
+    "kadio_deposit_settings_sold_message",
+    "woocommerce_email_footer_text",
+    "woocommerce_enable_shipping_calc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kadio_deposit_apply_on_shipping",
+    "kadio_deposit_for_product_or_total",
+    "kadio_deposit_deposit_on_minimum_cart",
+    "kadio_deposit_deposit_on_minimum_cart_amount",
+    "kadio_deposit_add_product_custom_fields_deposit",
+    "kadio_deposit",
+    "kadio_deposit_from_partial_payment_to_process_done",
+    "kadio_deposit_new",
+    "kdc_without_deposit",
+    "kdc_is_paid_by_deposit",
+    "kadio_deposit_paid",
+    "check_deposit_on_minimum_cart",
+    "kadio_deposit_paid_amount",
+    "is_payplug_partial_payment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:21.677Z"
+}

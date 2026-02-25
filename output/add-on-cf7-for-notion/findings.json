@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7_notion_addon_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:06.769Z"
+}

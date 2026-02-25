@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_ledyer_payments_settings",
+    "woocommerce_smart_coupon_apply_before_tax"
+  ],
+  "transients": [
+    "ledyer_payments_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:32.507Z"
+}

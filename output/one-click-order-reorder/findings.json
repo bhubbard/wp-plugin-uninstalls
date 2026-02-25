@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ced_ocor_general_settings",
+    "woocommerce_myaccount_page_id",
+    "ced_ocor_attchment_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ced_ocor_basket_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:09.523Z"
+}

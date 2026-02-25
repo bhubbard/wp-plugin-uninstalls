@@ -1,0 +1,14 @@
+{
+  "options": [
+    "qr_code_sc",
+    "qr_code_wg",
+    "qr_code_widget",
+    "widget_qrcode_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:37.365Z"
+}

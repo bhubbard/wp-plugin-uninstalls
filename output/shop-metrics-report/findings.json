@@ -1,0 +1,13 @@
+{
+  "options": [
+    "shopmetrics_for_wp",
+    "smr_for_wp",
+    "shopmetrics_for_woocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:41.368Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "lmfwc_settings_general",
+    "lmfwc_db_version",
+    "lmfwc_settings_tools",
+    "lmfwc_settings_woocommerce",
+    "dlm_settings_general",
+    "dlm_settings_woocommerce",
+    "lmfwc_table_check",
+    "lmfwc_settings",
+    "lmfwc_settings_order_status",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "lmfwc_api_key",
+    "lmfwc_consumer_key",
+    "lmfwc_notice_*",
+    "lmfwc_error",
+    "max_order_pages",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lmfwc_pro_notice_dismisseds"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:09.548Z"
+}

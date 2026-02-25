@@ -1,0 +1,12 @@
+{
+  "options": [
+    "lfzw_fr_listings_url",
+    "lfzw_encoded_zuid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:53.006Z"
+}

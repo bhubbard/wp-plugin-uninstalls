@@ -1,0 +1,18 @@
+{
+  "options": [
+    "single_exchange_timestamp",
+    "single_euro_btc"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "secpay_update_order_status",
+    "secpay_update_exchange_rate",
+    "secpay_check_order_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "secpaycheckoutflow"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:57.457Z"
+}

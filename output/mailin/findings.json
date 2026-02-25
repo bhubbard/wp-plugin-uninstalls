@@ -1,0 +1,39 @@
+{
+  "options": [
+    "sib_push.last_send_time",
+    "wc_sendinblue_settings",
+    "sib_subscription_option",
+    "sib_signup_option",
+    "sib_confirm_option",
+    "sib_home_option",
+    "sib_sync_users",
+    "sib_use_apiv2",
+    "sib_service_worker_install_exception",
+    "sib_service_worker_uninstall_exception",
+    "sib_old_form_id"
+  ],
+  "transients": [
+    "sib_credit_*",
+    "sib_smtp_status_*",
+    "sib_attributes_*",
+    "sib_template_*",
+    "sib_list_*",
+    "sib_segment_*",
+    "sib_senders_*",
+    "sib_totalusers_*",
+    "sib_campaigns_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sib_push_send_notification",
+    "sib_push_send_notification_delay_seconds",
+    "sib_push_target_brevo_segment_ids",
+    "sib_push_target_brevo_list_ids",
+    "sib_push_target_tags",
+    "sib_push_meta_box_present",
+    "sib_push_target_segment_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:19.835Z"
+}

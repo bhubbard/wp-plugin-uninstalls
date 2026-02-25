@@ -1,0 +1,27 @@
+{
+  "options": [
+    "dashboard_widget_options",
+    "groupsysmessages",
+    "vikrentitems_software_version",
+    "vikrentitems_onactivate",
+    "vikrentitems_screen_failed_attempts",
+    "vikrentitems_list_limit",
+    "vikrentitems_changelog",
+    "vikrentitems_license_key",
+    "vikrentitems_license_expdate",
+    "vikrentitems_license_hash",
+    "vikrentitems_tmp_*",
+    "vri_delivery_modal_tmpl_component"
+  ],
+  "transients": [
+    "vikrentitems_screen_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_rss_feeds",
+    "*_rss_optin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:35.888Z"
+}

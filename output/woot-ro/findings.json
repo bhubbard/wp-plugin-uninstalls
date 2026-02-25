@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_settings",
+    "woot_settings",
+    "woot_deprecation_notice_dismissed",
+    "woot_plugin_version"
+  ],
+  "transients": [
+    "woot_services",
+    "woot_couriers",
+    "woot_countries"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woot_selected_location",
+    "woot_selected_location_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:01.388Z"
+}

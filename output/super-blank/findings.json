@@ -1,0 +1,33 @@
+{
+  "options": [
+    "super_blank_primary_menu_id",
+    "super_blank_footer_menu_id",
+    "wpforms_settings",
+    "wpforms_activation_redirect",
+    "wpforms_pointers",
+    "elementor_active_kit",
+    "elementor_install_history",
+    "elementor_checklist",
+    "theme_mods_astra",
+    "allowedthemes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpforms_dismissed",
+    "show_welcome_panel",
+    "metaboxhidden_dashboard",
+    "elementor_dismissed_editor_notices",
+    "elementor_admin_notices",
+    "_elementor_edit_mode",
+    "_elementor_data",
+    "ast-site-content-layout",
+    "site-post-title",
+    "ast-title-bar-display",
+    "ast-featured-img",
+    "site-sidebar-layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:22.613Z"
+}

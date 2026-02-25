@@ -1,0 +1,39 @@
+{
+  "options": [
+    "mc4wp_flash_messages",
+    "mc4wp",
+    "mc4wp_lite_version",
+    "mc4wp_version",
+    "mc4wp_lite_form",
+    "mc4wp_default_form_id",
+    "mc4wp_form",
+    "mc4wp_form_stylesheets",
+    "mc4wp_lite",
+    "mc4wp_lite_checkbox",
+    "mc4wp_checkbox",
+    "mc4wp_integrations",
+    "mc4wp_custom_css_file",
+    "sidebars_widgets",
+    "widget_mc4wp_widget",
+    "widget_mc4wp_form_widget",
+    "mc4wp_groupings_map",
+    "mc4wp_mailchimp_lists_v3_fallback"
+  ],
+  "transients": [
+    "mc4wp_mailchimp_lists",
+    "mc4wp_api_key_notice_dismissed",
+    "mc4wp_mailchimp_lists_fallback",
+    "mc4wp_mailchimp_lists_v3",
+    "mc4wp_error_email_sent"
+  ],
+  "cron_jobs": [
+    "mc4wp_refresh_mailchimp_lists"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mc4wp_settings",
+    "text_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:26:27.542Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "wpb_fp_portfolio_ex_link",
+    "wpb_fp_pro_discount_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:08.932Z"
+}

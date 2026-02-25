@@ -1,0 +1,25 @@
+{
+  "options": [
+    "_lipdf_type_of_data_show_on_product_thumb",
+    "_lipdf_read_more_image_link",
+    "_lipdf_read_more_button_text",
+    "_lipdf_show_read_more_button_after_product_thumb",
+    "_lipdf_show_read_more_button_after_add_to_cart_button",
+    "look_inside_pdf_installed",
+    "look_inside_pdf_version",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_li_pdf_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:24.759Z"
+}

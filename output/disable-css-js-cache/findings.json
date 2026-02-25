@@ -1,0 +1,16 @@
+{
+  "options": [
+    "disable_css_js_cache_radio",
+    "disable_css_js_exclude_paths",
+    "disable_css_js_cache_method",
+    "browser_caching_enabled",
+    "browser_cache_duration",
+    "browser_caching_settings_changed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:41.013Z"
+}

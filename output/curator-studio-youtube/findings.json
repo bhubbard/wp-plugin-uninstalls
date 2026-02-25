@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "cstudio_remove_stale_sources"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:01.075Z"
+}

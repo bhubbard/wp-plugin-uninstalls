@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mysat_custom_bg_color",
+    "mysat_custom_login_bg_image",
+    "mysat_custom_login_logo",
+    "mysat_custom_login_url",
+    "mysat_custom_login_title",
+    "mysat_remove_meta_generator",
+    "mysat_disable_gutenberg",
+    "mysat_remove_wp_title",
+    "mysat_remove_category_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:02.755Z"
+}

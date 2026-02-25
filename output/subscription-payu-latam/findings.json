@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "subscription_payu_latam_spl_redirect",
+    "subscription_payu_latam_spl_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "subscription_payu_latam_spl"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "subscription_payu_latam_id",
+    "subscription_payu_latam_id_client",
+    "_billing_dni"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:14.416Z"
+}

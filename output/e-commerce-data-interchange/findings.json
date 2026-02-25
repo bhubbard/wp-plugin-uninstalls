@@ -1,0 +1,24 @@
+{
+  "options": [
+    "_edi_filename",
+    "edi",
+    "_edi_mode",
+    "_edi_type",
+    "_edi_last_xml_entry",
+    "_edi_1c_category_map",
+    "_edi_1c_attribute_map",
+    "_edi_1c_image_map"
+  ],
+  "transients": [
+    "edi-interrupt"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edi_guid_match_source",
+    "_edi_guid_match_synced_at",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:18.867Z"
+}

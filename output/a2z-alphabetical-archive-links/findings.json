@@ -1,0 +1,15 @@
+{
+  "options": [
+    "a2zaal_post_types",
+    "rewrite_rules",
+    "a2zaal_processing_counts"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:26.169Z"
+}

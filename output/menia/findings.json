@@ -1,0 +1,16 @@
+{
+  "options": [
+    "menia_token",
+    "menia_web_chat_enabled",
+    "menia_web_chat_embed_code",
+    "menia_settings",
+    "menia_widget",
+    "menia_web_chat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:34.310Z"
+}

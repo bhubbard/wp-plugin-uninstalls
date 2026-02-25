@@ -1,0 +1,18 @@
+{
+  "options": [
+    "aalm_options",
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "source_url",
+    "query_params",
+    "target_url",
+    "redirect_count",
+    "last_access_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:39.636Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bmew_sister_dismissed",
+    "bmew_key",
+    "bmew_usage_disable",
+    "bmew_debug",
+    "bmew_checkout_reorder",
+    "bmew_checkout_optin_label",
+    "bmew_skip_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:21.182Z"
+}

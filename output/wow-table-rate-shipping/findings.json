@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wtrs_carrier_cache_version",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_default_country",
+    "edd_wtrs_license_key",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_num_decimals",
+    "woocommerce_currency_pos",
+    "edd_wtrs_license_data",
+    "woocommerce_store_postcode",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "active_sitewide_plugins",
+    "wtrs-settings",
+    "wtrs-shipping-rules",
+    "wtrs_rule_import_job_status"
+  ],
+  "transients": [
+    "durbin_country_code"
+  ],
+  "cron_jobs": [
+    "wtrs_process_rule_import_job"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:17.030Z"
+}

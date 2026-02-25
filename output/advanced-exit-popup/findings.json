@@ -1,0 +1,20 @@
+{
+  "options": [
+    "advanced_exit_popup_box",
+    "advanced_exit_popup_popup_title_color",
+    "advanced_exit_popup_popup_title",
+    "advanced_exit_popup_popup_bg_color",
+    "advanced_exit_popup_popup_body",
+    "advanced_exit_popup_popup_footer",
+    "advanced_exit_popup_cookie_expire",
+    "advanced_exit_popup_modal_width",
+    "advanced_exit_popup_modal_height",
+    "advanced_exit_popup_powered_by"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:36.241Z"
+}

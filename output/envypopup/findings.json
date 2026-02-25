@@ -1,0 +1,19 @@
+{
+  "options": [
+    "new_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_element_grid_class_meta_box_close_btn",
+    "custom_element_grid_class_meta_box_close_btn_size",
+    "custom_element_grid_class_meta_box_close_btn_text",
+    "custom_element_grid_class_meta_box_custom_btn",
+    "custom_element_grid_class_meta_box_custom_btn_text",
+    "custom_element_grid_class_meta_box_custom_btn_url",
+    "custom_element_grid_class_meta_box_custom_btn_size"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:40.780Z"
+}

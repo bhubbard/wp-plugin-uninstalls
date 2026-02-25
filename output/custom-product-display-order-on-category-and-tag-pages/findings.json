@@ -1,0 +1,16 @@
+{
+  "options": [
+    "asd_wpsorter_version",
+    "asd_wpsorter_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "asd_wpsorter_cleanup_orphaned_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "asd_wpsorter_product_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:44.074Z"
+}

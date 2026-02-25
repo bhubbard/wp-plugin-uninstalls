@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vivio_swift_configs"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "vivio_swift_schedule_preload_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:04.133Z"
+}

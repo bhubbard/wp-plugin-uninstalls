@@ -1,0 +1,16 @@
+{
+  "options": [
+    "saiw_openai_key",
+    "saiw_pexels_key",
+    "saiw_pixabay_key",
+    "saiw_openai_model",
+    "saiw_language",
+    "saiw_show_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:25.552Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpne_event_class",
+    "_wpne_*",
+    "_edit_last"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:08.528Z"
+}

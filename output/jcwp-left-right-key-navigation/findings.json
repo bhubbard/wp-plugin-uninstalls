@@ -1,0 +1,19 @@
+{
+  "options": [
+    "jcorglrkn_plugin",
+    "jcorglrkn_theme",
+    "jcorglrkn_next_post_label",
+    "jcorglrkn_previous_post_label",
+    "jcorglrkn_posts_same_category",
+    "jcorglrkn_exclude_categories",
+    "jcorglrkn_minimum_screen_width",
+    "jcorglrkn_linkback",
+    "jcorglrkn_linkback_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:17.404Z"
+}

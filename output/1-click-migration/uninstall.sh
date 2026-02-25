@@ -1,0 +1,81 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ocm_action_start_backup'
+wp option delete 'ocm_action_start_restore'
+wp option delete 'ocm_presigned_urls'
+wp option delete 'ocm_is_stopped'
+wp option delete 'ocm_upload_auto_try_nb_db'
+wp option delete 'ocm_upload_auto_try_nb_themes'
+wp option delete 'ocm_upload_auto_try_nb_plugins'
+wp option delete 'ocm_upload_auto_try_nb_uploads'
+wp option delete 'ocm_bucket_key'
+wp option delete 'ocm_download_auto_try_nb_db'
+wp option delete 'ocm_download_auto_try_nb_themes'
+wp option delete 'ocm_download_auto_try_nb_plugins'
+wp option delete 'ocm_download_auto_try_nb_uploads'
+wp option delete 'ocm_user_email'
+wp option delete 'ocm_excluded_folders'
+wp option delete 'ocm_skipped_folders'
+wp option delete 'ocm_eexcluded_folders'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ocm_restore_download_retry_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ocm_restore_decrypt_retry_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ocm_restore_extract_retry_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ocm_restore_child_delete_retry_%'"
+wp option delete 'ocm_payment_status'
+wp option delete 'ocm_backup_compress_retry_db'
+wp option delete 'ocm_backup_upload_retry_db'
+wp option delete 'ocm_backup_encrypt_retry_db'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ocm_backup_compress_retry_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ocm_backup_encrypt_retry_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ocm_backup_upload_retry_%'"
+wp option delete 'ocm_upload_file'
+wp option delete 'restore_steps'
+wp option delete 'backup_steps'
+wp option delete 'wp_force_deactivated_plugins'
+wp option delete 'ocm_restore_download_retry_db'
+wp option delete 'ocm_restore_download_retry_themes'
+wp option delete 'ocm_restore_download_retry_plugins'
+wp option delete 'ocm_restore_download_retry_uploads'
+wp option delete 'ocm_restore_decrypt_retry_db'
+wp option delete 'ocm_restore_decrypt_retry_themes'
+wp option delete 'ocm_restore_decrypt_retry_plugins'
+wp option delete 'ocm_restore_decrypt_retry_uploads'
+wp option delete 'ocm_restore_extract_retry_db'
+wp option delete 'ocm_restore_extract_retry_themes'
+wp option delete 'ocm_restore_extract_retry_plugins'
+wp option delete 'ocm_restore_extract_retry_uploads'
+wp option delete 'ocm_restore_child_delete_retry_db'
+wp option delete 'ocm_restore_child_delete_retry_themes'
+wp option delete 'ocm_restore_child_delete_retry_plugins'
+wp option delete 'ocm_restore_child_delete_retry_uploads'
+wp option delete 'ocm_backup_compress_retry_themes'
+wp option delete 'ocm_backup_compress_retry_plugins'
+wp option delete 'ocm_backup_compress_retry_uploads'
+wp option delete 'ocm_backup_encrypt_retry_themes'
+wp option delete 'ocm_backup_encrypt_retry_plugins'
+wp option delete 'ocm_backup_encrypt_retry_uploads'
+wp option delete 'ocm_backup_upload_retry_themes'
+wp option delete 'ocm_backup_upload_retry_plugins'
+wp option delete 'ocm_backup_upload_retry_uploads'
+wp option delete 'ocm_user_password'
+wp option delete 'ocm_log_download'
+wp option delete 'ocm_log_url'
+wp option delete 'ocm_s3_bucket'
+wp option delete 'ocm_s3_region'
+wp option delete 'ocm_s3_access_key'
+wp option delete 'ocm_s3_secret_key'
+wp option delete 'ocm_backup_id'
+wp option delete 'ocm_backup_password'
+wp option delete 'ocm_backup_completed_steps'
+wp option delete 'ocm_restore_completed_steps'
+wp option delete 'ocm_maintenance_mode'
+wp option delete 'wp_ocm_background_backup_status'
+wp option delete 'wp_ocm_background_restore_status'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%_process_lock' OR option_name LIKE '_site_transient_%_process_lock'"
+wp transient delete 'wp_ocm_background_backup_process_lock'
+wp transient delete 'wp_ocm_background_restore_process_lock'
+

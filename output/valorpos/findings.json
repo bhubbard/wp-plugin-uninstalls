@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_wc_valorpay_settings",
+    "woocommerce_valorpos_settings",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "valorpay_payment_failed_tracker"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vault_customer_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:42.107Z"
+}

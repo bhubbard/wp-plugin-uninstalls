@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gns_xml_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gns_xml_include",
+    "gns_xml_pubaccess",
+    "gns_xml_genres",
+    "gns_xml_publanguage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:06.631Z"
+}

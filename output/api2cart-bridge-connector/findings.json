@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_weight_unit",
+    "woocommerce_manage_stock",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "order",
+    "thumbnail_id",
+    "_wp_attachment_image_alt",
+    "woo_variation_gallery_images",
+    "_wc_attachment_source",
+    "is_customer_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:21.764Z"
+}

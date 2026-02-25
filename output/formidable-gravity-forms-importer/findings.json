@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rg_gforms_currency",
+    "rg_form_version",
+    "rg_gforms_captcha_type",
+    "rg_gforms_captcha_private_key",
+    "rg_gforms_captcha_public_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "frm_param",
+    "frm_type",
+    "frm_show_count",
+    "frm_form_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:06.458Z"
+}

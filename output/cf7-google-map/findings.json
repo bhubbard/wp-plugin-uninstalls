@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cf7_googleMap_api_key",
+    "cf7_googleMap_enable_geocode",
+    "cf7_googleMap_enable_places",
+    "cf7-google-map-notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:45.997Z"
+}

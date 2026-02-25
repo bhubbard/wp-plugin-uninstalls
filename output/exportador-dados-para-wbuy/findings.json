@@ -1,0 +1,29 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ncm",
+    "_barcode",
+    "_video_youtube",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_company",
+    "billing_phone",
+    "billing_cpf",
+    "billing_cnpj",
+    "billing_rg",
+    "billing_ie",
+    "billing_postcode",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_number",
+    "billing_neighborhood",
+    "billing_city",
+    "billing_state",
+    "billing_birthdate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:11.686Z"
+}

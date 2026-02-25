@@ -1,0 +1,14 @@
+{
+  "options": [
+    "joyn_api_key",
+    "joyn_show_on_thankyou",
+    "joyn_show_on_order",
+    "joyn_show_in_mail"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:10.855Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*_analytics_optin",
+    "*_analytics_installed_time",
+    "bcf_preloading_fonts",
+    "bcf_font_urls",
+    "bcf_custom_fonts_2_0_2_migration",
+    "bcf_custom_fonts_2_0_migration",
+    "_custom_fonts_db_version",
+    "bsf_analytics_optin"
+  ],
+  "transients": [
+    "bsf_analytics_track"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fonts-data",
+    "fonts-face",
+    "font-type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:27.238Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "a2reviews_options",
+    "a2reviews_access_token",
+    "a2reviews_auth_code",
+    "a2reviews_settings",
+    "a2reviews_client_settings",
+    "a2reviews_client_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "a2_meta_avg_rating",
+    "a2_meta_total_rating",
+    "first_name",
+    "last_name",
+    "a2_meta_status",
+    "a2_meta_total_questions",
+    "a2_meta_count",
+    "_customer_user"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:51.457Z"
+}

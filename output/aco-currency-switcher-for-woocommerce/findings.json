@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "acowcs_settings",
+    "active_sitewide_plugins",
+    "woocommerce_price_num_decimals",
+    "woocommerce_shop_page_id",
+    "_test",
+    "*_ccod"
+  ],
+  "transients": [
+    "*_acowcs_currency"
+  ],
+  "cron_jobs": [
+    "acowcs_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fixed_currency_price",
+    "fixed_userrole_price",
+    "coupon_amount",
+    "_sale_price",
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:06.565Z"
+}

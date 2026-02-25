@@ -1,0 +1,13 @@
+{
+  "options": [
+    "simple_pmm_replace_meta_key",
+    "simple_pmm_replace_old_meta_value",
+    "simple_pmm_replace_new_meta_value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:19.449Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "know--settings-group",
+    "know__server_url",
+    "know__api_key",
+    "know__api_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "know_platform__cleanup_cookies"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:47.790Z"
+}

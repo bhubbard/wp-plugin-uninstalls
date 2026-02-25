@@ -1,0 +1,18 @@
+{
+  "options": [
+    "beedia_qiniu_access_key",
+    "beedia_qiniu_secret_key",
+    "beedia_qiniu_bucket_name",
+    "beedia_qiniu_switch",
+    "beedia_qiniu_host",
+    "beedia_when_delete_post_image_rule"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qiniu"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:23.761Z"
+}

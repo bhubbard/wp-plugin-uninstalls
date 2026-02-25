@@ -1,0 +1,14 @@
+{
+  "options": [
+    "simple_discord_sso_settings",
+    "simple_discord_permalinks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "simple_discord_sso"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:20.745Z"
+}

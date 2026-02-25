@@ -1,0 +1,22 @@
+{
+  "options": [
+    "anysearch_last_sync",
+    "activated_anysearch",
+    "anysearch_sync_settings",
+    "anysearch_api_key",
+    "anysearch_frontend_key",
+    "anysearch_sync_status",
+    "anysearch_notices",
+    "anysearch_ssl_disabled"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "anysearch_full_sync_cron_worker_start"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:08.497Z"
+}

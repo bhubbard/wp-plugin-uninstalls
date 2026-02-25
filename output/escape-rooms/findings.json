@@ -1,0 +1,29 @@
+{
+  "options": [
+    "erDetailId",
+    "erBookingId"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "price1",
+    "price2",
+    "price3",
+    "price4",
+    "price5",
+    "price6",
+    "price7",
+    "price8",
+    "difficulty",
+    "terms",
+    "tagline",
+    "fullname",
+    "telephone",
+    "email",
+    "datestamp",
+    "escaperoom"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:53.970Z"
+}

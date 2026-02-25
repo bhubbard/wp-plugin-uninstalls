@@ -1,0 +1,16 @@
+{
+  "options": [
+    "llmscbt_tracking_enabled",
+    "llmscbt_domain",
+    "llmscbt_llms_txt_enabled",
+    "llmscbt_llms_txt_content",
+    "llmscbt_consent_given",
+    "llmscbt_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:01.070Z"
+}

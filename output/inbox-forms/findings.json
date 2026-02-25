@@ -1,0 +1,15 @@
+{
+  "options": [
+    "inbox_enabled",
+    "inbox_api_key",
+    "ib_db_ver",
+    "ib_plugin_activated",
+    "ib_install_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:16.001Z"
+}

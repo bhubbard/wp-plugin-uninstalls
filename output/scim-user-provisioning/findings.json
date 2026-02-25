@@ -1,0 +1,22 @@
+{
+  "options": [
+    "msup_scim_show_attribute",
+    "msup_scim_test_config_attrs",
+    "msup_scim_up_host_name",
+    "msup_scim_up_message",
+    "msup_scim_idp_name",
+    "msup_scim_up_bearer_token",
+    "msup_scim_up_admin_email",
+    "msup_scim_up_admin_phone",
+    "msup_scim_up_error_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "msup_scim_user_status",
+    "*capabilities"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:02.277Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "lagersystemparcelpickup_apikey",
+    "lagersystemparcelpickup_gmapsapikey",
+    "lagersystemparcelpickup_removeprefix",
+    "lagersystemparcelpickup_daousername",
+    "lagersystemparcelpickup_daopassword",
+    "lagersystemparcelpickup_dhlkey",
+    "lagersystemparcelpickup_upslicencekey",
+    "lagersystemparcelpickup_upsuserid",
+    "lagersystemparcelpickup_upspassword",
+    "lagersystemparcelpickup_bringuid",
+    "lagersystemparcelpickup_bringapikey",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Pakkeshop"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:35.636Z"
+}

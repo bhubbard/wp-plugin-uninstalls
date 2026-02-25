@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpns_tt_allow_nestads_api",
+    "wpns_tt_pwd",
+    "wpns_tt_consumer_key",
+    "wpns_tt_pixel_codes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:54.556Z"
+}

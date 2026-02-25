@@ -1,0 +1,30 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('shopex_activation_redirect', 'shopex_db_version', 'shopex_version', 'shopex_installed_date', 'shop_explorer_frontend_settings', 'wpnts_schedules_interval_woocommerce_settings', 'shopex_multivendor_enabled', 'shopex_last_sync', 'shopex_database_mode_enabled', 'woocommerce_notify_low_stock_amount', 'shop_explorer_install_time', 'woocommerce_enable_reviews', 'woocommerce_review_rating_verification_label', 'woocommerce_review_rating_verification_required', 'woocommerce_enable_review_rating', 'woocommerce_review_rating_required', 'shop_explorer_dashboard_page_id', 'shopex_sync_customer_username', 'shopex_sync_customer_email', 'shopex_sync_customer_first_name', 'shopex_sync_customer_last_name', 'shopex_sync_customer_phone', 'shopex_sync_customer_billing_address', 'shopex_sync_customer_shipping_address', 'shopex_sync_customer_total_orders', 'shopex_sync_customer_total_spent', 'shopex_sync_customer_date_registered', 'shopex_encryption_key', 'shopex_sync_order_status', 'shopex_sync_order_total', 'shopex_sync_product_names', 'shopex_sync_product_skus', 'shopex_sync_total_items', 'shopex_sync_customer_name', 'shopex_sync_order_date', 'shopex_sync_payment_method', 'shopex_sync_billing_address', 'shopex_sync_shipping_address', 'shopex_sync_product_name', 'shopex_sync_sku', 'shopex_sync_regular_price', 'shopex_sync_sale_price', 'shopex_sync_stock_quantity', 'shopex_sync_stock_status', 'shopex_sync_product_type', 'shopex_sync_categories', 'shopex_sync_weight', 'shopex_last_order_sync', 'shopex_real_time_sync', 'shopex_last_product_sync');
+DELETE FROM wp_options WHERE option_name IN ('shopex_sync_message', 'shopex_sheets_config', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'shopex_activation_error', 'shopex_wc_deactivated_notice', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+DELETE FROM wp_options WHERE option_name LIKE '%database_mode_enabled';
+DELETE FROM wp_options WHERE option_name LIKE '%multivendor_enabled';
+DELETE FROM wp_options WHERE option_name LIKE '%auto_sync_enabled';
+DELETE FROM wp_options WHERE option_name LIKE '%sync_interval';
+DELETE FROM wp_options WHERE option_name LIKE 'shopex_sync_customer_%';
+DELETE FROM wp_options WHERE option_name LIKE 'shopex_sync_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', 'billing_phone', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_state', 'shipping_postcode', 'shipping_country', '_virtual', '_downloadable', '_stock_status', '_regular_price', '_sale_price', '_wp_attachment_image_alt', 'wcfmmp_store_name', 'first_name', 'last_name', 'thumbnail_id', 'display_type', 'rating', '_stock', 'vendor_sheet_configurations');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', 'billing_phone', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_state', 'shipping_postcode', 'shipping_country', '_virtual', '_downloadable', '_stock_status', '_regular_price', '_sale_price', '_wp_attachment_image_alt', 'wcfmmp_store_name', 'first_name', 'last_name', 'thumbnail_id', 'display_type', 'rating', '_stock', 'vendor_sheet_configurations');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', 'billing_phone', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_state', 'shipping_postcode', 'shipping_country', '_virtual', '_downloadable', '_stock_status', '_regular_price', '_sale_price', '_wp_attachment_image_alt', 'wcfmmp_store_name', 'first_name', 'last_name', 'thumbnail_id', 'display_type', 'rating', '_stock', 'vendor_sheet_configurations');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', 'billing_phone', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_state', 'shipping_postcode', 'shipping_country', '_virtual', '_downloadable', '_stock_status', '_regular_price', '_sale_price', '_wp_attachment_image_alt', 'wcfmmp_store_name', 'first_name', 'last_name', 'thumbnail_id', 'display_type', 'rating', '_stock', 'vendor_sheet_configurations');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'billing_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'billing_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'billing_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'billing_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'shipping_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'shipping_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'shipping_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'shipping_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_custom_field_config_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_custom_field_config_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_custom_field_config_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_custom_field_config_%';
+

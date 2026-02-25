@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fcpfw_select2",
+    "fcpfw_product_out_of_stock"
+  ],
+  "transients": [
+    "*fgwerror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:30.963Z"
+}

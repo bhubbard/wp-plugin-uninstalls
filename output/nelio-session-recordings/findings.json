@@ -1,0 +1,20 @@
+{
+  "options": [
+    "neliosr_subscription",
+    "neliosr_site_id",
+    "neliosr_api_secret",
+    "neliosr_recording_status",
+    "nelio-session-recordings_settings",
+    "_transient_timeout_*"
+  ],
+  "transients": [
+    "neliosr_site_object"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:40.927Z"
+}

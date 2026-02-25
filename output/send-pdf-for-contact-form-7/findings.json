@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpcf7pdf_path_temp",
+    "wpcf7pdf_version",
+    "wpcf7pdf_admin_notices"
+  ],
+  "transients": [
+    "pdf_password",
+    "pdf_name"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_cf7pdf",
+    "_wp_cf7pdf_fields",
+    "_wp_cf7pdf_customtagsname",
+    "_wp_cf7pdf_fields_scan",
+    "_wp_cf7pdf_limit",
+    "_form"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:46.643Z"
+}

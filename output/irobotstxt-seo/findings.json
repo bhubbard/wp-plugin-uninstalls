@@ -1,0 +1,13 @@
+{
+  "options": [
+    "irseo_options",
+    "irseo_version",
+    "irseo_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:06.256Z"
+}

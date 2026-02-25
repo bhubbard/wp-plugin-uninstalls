@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpsr_*",
+    "wpsr_last_changelog",
+    "wpsr_version",
+    "wpsr_since",
+    "wpsr_sharebar_settings",
+    "wpsr_button_settings",
+    "wpsr_general_settings",
+    "wpsr_social_icons_settings",
+    "wpsr_floating_sharebar_settings",
+    "wpsr_followbar_settings",
+    "wpsr_text_sharebar_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsr_post_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:48.117Z"
+}

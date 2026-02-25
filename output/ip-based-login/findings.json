@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ipbl_ip_pref",
+    "ipbl_version",
+    "ipbl_settings",
+    "ipbl_dropdown",
+    "ipbl_sync_settings",
+    "ipbl_dismiss_sale_notice",
+    "ipbl_sync_time",
+    "ipbl_donate_popup"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ipbl_sync_cron_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:19.056Z"
+}

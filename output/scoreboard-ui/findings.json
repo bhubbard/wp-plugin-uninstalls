@@ -1,0 +1,28 @@
+{
+  "options": [
+    "scoreboardui_matches_link",
+    "scoreboardui_title",
+    "scoreboardui_url",
+    "scoreboardui_des",
+    "scoreboardui_link",
+    "scoreboardui_teams_link",
+    "scoreboardui_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "teams_profile",
+    "teams_score",
+    "sc_date",
+    "sc_status",
+    "sc_status_color",
+    "sc_watchLink",
+    "sc_ranking",
+    "sc_duration",
+    "sc_other_text",
+    "sc_other_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:53.482Z"
+}

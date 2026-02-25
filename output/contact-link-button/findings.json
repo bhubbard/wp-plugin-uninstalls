@@ -1,0 +1,20 @@
+{
+  "options": [
+    "clbntb_color_*",
+    "clbntb_phone_bar",
+    "clbntb_location_bottom",
+    "setting_size",
+    "clbntb_location",
+    "clbntb_off_effects",
+    "clbntb_hide_mobile",
+    "clbntb_hide_desktop",
+    "clbntb_hide_default_all_in_one",
+    "clbntb_enable_all_in_one"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:41.633Z"
+}

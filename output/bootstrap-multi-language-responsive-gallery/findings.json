@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gallery_layout",
+    "gallery_title",
+    "gallery_content",
+    "gallery_post_count",
+    "gallery_order_by",
+    "gallery_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "Layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:04.489Z"
+}

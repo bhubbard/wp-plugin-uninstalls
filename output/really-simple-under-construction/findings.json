@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rsuc-enable",
+    "rsuc-enable-homepage",
+    "rsuc-ip",
+    "rsuc-secret-word",
+    "rsuc-cookie-time",
+    "rsuc-html"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:56.167Z"
+}

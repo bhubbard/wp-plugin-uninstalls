@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tbpn_settings_v1"
+  ],
+  "transients": [
+    "tbpn_test_results",
+    "tbpn_activation_notice"
+  ],
+  "cron_jobs": [
+    "tbpn_cleanup_old_notifications"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:25.910Z"
+}

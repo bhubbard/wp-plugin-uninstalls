@@ -1,0 +1,18 @@
+{
+  "options": [
+    "YD_WPCSI_last_updated",
+    "YD_WPCSI_hourly",
+    "YD_WPCSI_daily"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yd_hourly_event",
+    "yd_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yd_views_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:49.013Z"
+}

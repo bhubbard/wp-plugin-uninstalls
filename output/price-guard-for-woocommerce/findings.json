@@ -1,0 +1,19 @@
+{
+  "options": [
+    "price_guard_apply_globally",
+    "price_guard_categories",
+    "price_guard_hide_price",
+    "price_guard_hide_add_to_cart",
+    "price_guard_custom_button_text",
+    "price_guard_button_function",
+    "price_guard_custom_button_link",
+    "price_guard_hide_prices",
+    "price_guard_button_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:40.748Z"
+}

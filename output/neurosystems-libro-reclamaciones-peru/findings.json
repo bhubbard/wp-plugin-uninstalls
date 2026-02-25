@@ -1,0 +1,17 @@
+{
+  "options": [
+    "NEURLRP_from_name",
+    "neurlrp_from_name",
+    "neurlrp_from_email",
+    "neurlrp_admin_email",
+    "neurlrp_cc_email",
+    "neurlrp_bcc_email",
+    "NEURLRP_from_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:56.210Z"
+}

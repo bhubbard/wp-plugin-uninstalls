@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tt_arkam_lite"
+  ],
+  "transients": [
+    "tt_arkam_lite_activated",
+    "tt_arkam_lite_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:40.655Z"
+}

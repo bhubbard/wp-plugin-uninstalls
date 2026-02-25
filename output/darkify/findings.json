@@ -1,0 +1,22 @@
+{
+  "options": [
+    "darkify",
+    "classic-editor-replace",
+    "darkify_version",
+    "darkify_first_version",
+    "darkify_activation_date",
+    "darkify_db_version",
+    "darkify_review_notice_dismiss",
+    "themeatelier_offer_banner_dismissed_*"
+  ],
+  "transients": [
+    "themeatelier_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_darkify_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:21.242Z"
+}

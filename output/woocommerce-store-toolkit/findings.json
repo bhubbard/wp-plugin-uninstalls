@@ -1,0 +1,47 @@
+{
+  "options": [
+    "*_unlock_related_orders",
+    "*_in_progress",
+    "*_autocomplete_order",
+    "*_unlock_variations",
+    "*_show_used_coupons",
+    "*_change_add_to_cart",
+    "*_change_add_to_cart_0",
+    "*_add_empty_cart_button",
+    "*_adjust_number_products_on_archive",
+    "*_adjust_number_products_on_archive_0",
+    "*_delete_images_on_product_delete",
+    "*_place_order_button",
+    "*_place_order_button_0",
+    "*_enable_unit_pricing",
+    "medium_large_size_w",
+    "medium_large_size_h",
+    "*_secret_key",
+    "uncannyautomator_source",
+    "storeagent_installed_by",
+    "wwp_installed_by",
+    "acfw_installed_by"
+  ],
+  "transients": [
+    "*_notice",
+    "wc_featured_products",
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_email",
+    "_woo_st_unit_name",
+    "_woo_st_total_volume",
+    "_stock_status",
+    "_wc_average_rating",
+    "_wc_rating_count",
+    "_wc_review_count",
+    "_virtual",
+    "_featured",
+    "_sku",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:57.569Z"
+}

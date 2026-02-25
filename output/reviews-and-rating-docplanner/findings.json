@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dp_active",
+    "dp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dp_reviews_rating_run"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:29.499Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_ship_to_countries",
+    "woocommerce_tax_display_shop",
+    "woocommerce_tax_display_cart",
+    "stripe_tax_migration",
+    "stripe_tax_string_tax_rate_id_fixer_as_status",
+    "*_num_processed_orders"
+  ],
+  "transients": [
+    "stripe_tax_for_woocommerce_settings_update_error_flag",
+    "stripe_tax_for_woocommerce_activate"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tax_exemption",
+    "_tax_class"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:43.505Z"
+}

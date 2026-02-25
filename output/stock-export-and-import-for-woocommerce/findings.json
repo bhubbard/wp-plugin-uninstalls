@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hm_wcsxi_report_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stock_status",
+    "_manage_stock",
+    "_stock",
+    "_sku",
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:18.561Z"
+}

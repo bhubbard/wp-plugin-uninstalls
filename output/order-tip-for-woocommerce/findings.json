@@ -1,0 +1,31 @@
+{
+  "options": [
+    "pisol_otw_db_version",
+    "woocommerce_currency",
+    "woocommerce_currency_pos",
+    "pi_otw_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "values",
+    "user_roles",
+    "tip_price_name",
+    "not_giving_position",
+    "default_tip",
+    "required",
+    "custom_tip",
+    "min_tip",
+    "max_tip",
+    "step",
+    "default_custom_tip",
+    "priority",
+    "not_giving_text",
+    "user_role_logic",
+    "language",
+    "virtual_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:20.646Z"
+}

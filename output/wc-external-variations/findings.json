@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcev_external_url",
+    "_wcev_external_sku",
+    "_wcev_external_status",
+    "_wcev_external_add_to_cart_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:05.880Z"
+}

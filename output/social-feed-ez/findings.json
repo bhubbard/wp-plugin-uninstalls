@@ -1,0 +1,17 @@
+{
+  "options": [
+    "social_feed_ez_app_id",
+    "social_feed_ez_app_secret",
+    "social_feed_ez_ll_access_token",
+    "social_feed_ez_page_id",
+    "social_feed_ez_access_token",
+    "social_feed_display_type",
+    "social_feed_ez_field__options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:13.241Z"
+}

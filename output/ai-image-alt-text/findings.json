@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ait_iat_admin_notice",
+    "ait_iat_generation_timestamps",
+    "ait_iat_license",
+    "ait_iat_full_library_queue",
+    "ait_iat_full_library_last_run"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ait_iat_cron_bulk_generate",
+    "ait_iat_prune_logs_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:49.717Z"
+}

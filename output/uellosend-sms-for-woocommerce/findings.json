@@ -1,0 +1,16 @@
+{
+  "options": [
+    "usfw_admin_phone",
+    "usfw_sender_id",
+    "usfw_api_url",
+    "usfw_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:57.171Z"
+}

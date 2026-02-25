@@ -1,0 +1,42 @@
+{
+  "options": [
+    "_zwt_cache",
+    "*zanto_settings",
+    "wp_language_show_switcher",
+    "zwt_taxonomy_meta",
+    "wp_languages_options",
+    "wp_language_locale",
+    "zwt_zanto_settings",
+    "_zwt_settings_buckup",
+    "recently_activated",
+    "anh_notices",
+    "*notices",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "*cron_example_timed_job"
+  ],
+  "cron_jobs": [
+    "*cron_timed_jobs",
+    "*plugins_updater_cron",
+    "*timed_jobs",
+    "*example_job"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "zwt_zanto_settings",
+    "zwt_locale_settings",
+    "zwt_installed_transnetwork",
+    "ztm_install",
+    "*_exclude",
+    "*post_network",
+    "zwt_adminlang_lang",
+    "*_network_vars",
+    "*_site_cache",
+    "_translation_meta_",
+    "_draft_translations",
+    "*language_pairs"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:55.239Z"
+}

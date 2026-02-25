@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp_travel_engine_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tbt-premium-addons-notice",
+    "wp_travel_engine_setting",
+    "category-image-id",
+    "photo",
+    "title",
+    "stars",
+    "gallery_images"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:08.072Z"
+}

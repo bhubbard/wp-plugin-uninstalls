@@ -1,0 +1,18 @@
+{
+  "options": [
+    "WC_Settings_Tab_BLZ_BCL_cus_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "customer_average",
+    "_order_count",
+    "_money_spent",
+    "billing_first_name",
+    "billing_last_name",
+    "customer_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:52.878Z"
+}

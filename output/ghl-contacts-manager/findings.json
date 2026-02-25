@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ghlcoma_api_key",
+    "ghlcoma_location_id"
+  ],
+  "transients": [
+    "ghlcoma_contacts_cache",
+    "ghlcoma_opportunities_cache",
+    "ghlcoma_pipelines_cache"
+  ],
+  "cron_jobs": [
+    "ghlcoma_contacts_sync",
+    "ghlcoma_opportunities_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:35.380Z"
+}

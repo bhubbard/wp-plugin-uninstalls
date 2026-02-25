@@ -1,0 +1,14 @@
+{
+  "options": [
+    "stul_plugin_install_date",
+    "stul_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "stul_hide_review_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:28.079Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aio_gmt_offset"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aiositemap_create",
+    "aiositemap_create "
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:01.753Z"
+}

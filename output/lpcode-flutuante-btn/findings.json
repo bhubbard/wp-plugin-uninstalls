@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lpcode_button_numero",
+    "lpcode_button_mensagem",
+    "lpcode_button_icon",
+    "lpcode_button_animate",
+    "lpcode_button_local",
+    "lpcode_button_size",
+    "lpcode_button_bottom",
+    "lpcode_button_distance"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:07.099Z"
+}

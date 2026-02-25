@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_bco_settings",
+    "woocommerce_smart_coupon_apply_before_tax"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billmate_transaction_id",
+    "_billmate_payment_denied",
+    "_billmate_hash",
+    "_billmate_temp_order_id",
+    "_billmate_saved_woo_order_no",
+    "_billmate_payment_method_name",
+    "_billmate_payment_method_id",
+    "_shipping_email",
+    "_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:54.264Z"
+}

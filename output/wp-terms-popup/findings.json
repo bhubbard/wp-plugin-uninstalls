@@ -1,0 +1,38 @@
+{
+  "options": [
+    "wptp_version",
+    "termsopt_agreetxt",
+    "termsopt_agree_redirecturl",
+    "termsopt_disagreetxt",
+    "termsopt_redirecturl",
+    "termsopt_buttons_always_visible",
+    "termsopt_adminenabled",
+    "termsopt_sitewide",
+    "termsopt_javascript",
+    "termsopt_page",
+    "termsopt_expiry",
+    "termsopt_user_visiblity",
+    "termsopt_opac"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "terms_agreetxt",
+    "terms_agree_redirecturl",
+    "terms_disagreetxt",
+    "terms_redirecturl",
+    "terms_buttons_always_visible",
+    "terms_acknowledgement_on",
+    "terms_acknowledgement_text",
+    "terms_age_on",
+    "terms_age_requirement",
+    "terms_age_date_format",
+    "terms_age_message",
+    "terms_disablepop",
+    "terms_enablepop",
+    "terms_selectedterms"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:58.864Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_manage_stock",
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:23.103Z"
+}

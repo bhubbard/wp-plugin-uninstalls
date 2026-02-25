@@ -1,0 +1,14 @@
+{
+  "options": [
+    "voxfor_ai_summary_settings",
+    "voxfor_ai_summary_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_voxfor_display_summary"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:58.690Z"
+}

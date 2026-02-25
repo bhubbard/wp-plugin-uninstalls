@@ -1,0 +1,40 @@
+{
+  "options": [
+    "FWPN_secret_key",
+    "FWPN_server_url",
+    "fwpn_db_version",
+    "apiKey",
+    "authDomain",
+    "databaseURL",
+    "projectId",
+    "storageBucket",
+    "messagingSenderId",
+    "eww_epush",
+    "subscriber",
+    "default_post",
+    "subscriber_api",
+    "Serverkey",
+    "Notify_Title",
+    "Notify_logo",
+    "Notify_Thanks",
+    "Notify_Description",
+    "groupkey",
+    "groupname",
+    "post_list",
+    "sample_license_key",
+    "Custom_Notify_Title",
+    "Custom_Notify_Body",
+    "Custom_Notify_Link",
+    "Custom_Notify_logo",
+    "push_deactivated_on",
+    "push_activated_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "do_not_send_push_notifications_for_this_post"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:25.865Z"
+}

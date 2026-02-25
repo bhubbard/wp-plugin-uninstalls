@@ -1,0 +1,36 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "woocommerce_force_ssl_checkout",
+    "woocommerce_payroc_settings",
+    "wc_payroc_version",
+    "wc_payroc_show_request_api_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_email",
+    "billing_address_1",
+    "billing_postcode",
+    "billing_phone",
+    "_subscription_price",
+    "_subscription_period_interval",
+    "_subscription_period_count",
+    "_subscription_on_update",
+    "_subscription_on_delete",
+    "_subscription_period",
+    "_regular_price",
+    "_sale_price",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_price",
+    "_subscription_trial_length",
+    "_subscription_length",
+    "subscriptionMerchantRef",
+    "terminalId",
+    "merchantRef"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:25.728Z"
+}

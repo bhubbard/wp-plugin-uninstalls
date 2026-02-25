@@ -1,0 +1,21 @@
+{
+  "options": [
+    "piftu_credentials",
+    "piftu_import_settings",
+    "piftu_stock"
+  ],
+  "transients": [
+    "PIFTU_Api::productsLogExisting",
+    "PIFTU_Api::filters",
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "attribute_pa_size",
+    "attribute_pa_color",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:35.778Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "strpgn_apply_to",
+    "strpgn_star_color_empty",
+    "strpgn_star_color_filled",
+    "strpgn_star_color_hover",
+    "strpgn_container_alignment",
+    "strpgn_star_size",
+    "strpgn_average_font_size",
+    "strpgn_average_margin_top",
+    "strpgn_average_margin_right",
+    "strpgn_average_margin_bottom",
+    "strpgn_average_margin_left",
+    "strpgn_stars_margin_top",
+    "strpgn_stars_margin_right",
+    "strpgn_stars_margin_bottom",
+    "strpgn_stars_margin_left",
+    "strpgn_details_font_size",
+    "strpgn_total_margin_top",
+    "strpgn_total_margin_right",
+    "strpgn_total_margin_bottom",
+    "strpgn_total_margin_left"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "strpgn_hide_auto_display"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:02.228Z"
+}

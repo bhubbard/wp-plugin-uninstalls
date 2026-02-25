@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fv_gravatar_cache",
+    "fv_gravatar_cache_nag",
+    "fv_gravatar_cache_directory_changed",
+    "fv_gravatar_cache_offset"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fv_gravatar_cache_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:52.449Z"
+}

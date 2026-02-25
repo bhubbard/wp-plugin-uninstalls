@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_import_menu_required_capability",
+    "daimma_options_version",
+    "*_database_version",
+    "*_log_import_data",
+    "daimma_dismissible_notice_a",
+    "*_markdown_parser",
+    "*_cebe_markdown_html5",
+    "*_cebe_markdown_keep_list_start_number",
+    "*_cebe_markdown_enable_new_lines",
+    "*_commonmark_enable_em",
+    "*_commonmark_enable_strong",
+    "*_commonmark_use_asterisk",
+    "*_commonmark_use_underscore",
+    "*_commonmark_unordered_list_markers",
+    "*_commonmark_html_input",
+    "*_commonmark_allow_unsafe_links",
+    "*_commonmark_max_nesting_level",
+    "*_import_post_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:21.873Z"
+}

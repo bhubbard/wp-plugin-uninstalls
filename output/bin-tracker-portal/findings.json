@@ -1,0 +1,17 @@
+{
+  "options": [
+    "b1nTPortal_admin_country",
+    "b1nTPortal_google_api_key",
+    "b1nTPortal_username",
+    "b1nTPortal_password",
+    "b1nTPortal_mode",
+    "b1nTPortal_zipcode_label",
+    "b1nTPortal_page_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:47.687Z"
+}

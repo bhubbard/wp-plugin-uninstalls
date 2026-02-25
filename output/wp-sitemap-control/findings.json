@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*last_used_tab",
+    "*cache_stamp",
+    "*version",
+    "*flush_rules",
+    "iworks_wp_sitemap_control_taxonomies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:12.745Z"
+}

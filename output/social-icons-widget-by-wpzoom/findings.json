@@ -1,0 +1,19 @@
+{
+  "options": [
+    "widget_block",
+    "wpz_social_icons_dismiss_admin_notices",
+    "wpz_social_icons_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpzoom_sharing_show_on_front",
+    "wpzoom_wpz_dismiss_black_friday_banner",
+    "_shortcode_item_wpzoom-icons",
+    "_wpzoom_sharing_position",
+    "_wpzoom_sharing_post_types"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:54.657Z"
+}

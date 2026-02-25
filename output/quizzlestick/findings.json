@@ -1,0 +1,23 @@
+{
+  "options": [
+    "icit_excerpt_length",
+    "icit_excerpt_more_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "result_title",
+    "type",
+    "correct",
+    "incorrect",
+    "questions",
+    "result_introduction",
+    "result_heading",
+    "result",
+    "results",
+    "nextdelay"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:58.641Z"
+}

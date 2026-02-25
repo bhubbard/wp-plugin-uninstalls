@@ -1,0 +1,27 @@
+{
+  "options": [
+    "_fodw_coupon_id",
+    "_fodw_configuration",
+    "woocommerce_enable_coupons"
+  ],
+  "transients": [
+    "wooextend_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "expiry_date",
+    "apply_before_tax",
+    "free_shipping",
+    "usage_limit_per_user",
+    "minimum_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:23.161Z"
+}

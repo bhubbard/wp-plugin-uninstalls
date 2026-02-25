@@ -1,0 +1,14 @@
+{
+  "options": [
+    "web3-wallet-login_options",
+    "web3login_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "WEB3_WALLET_LOGIN_address"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:43.748Z"
+}

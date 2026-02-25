@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dashplsb_*",
+    "dashpls_branding",
+    "dashpl_branding",
+    "dashpls_customization",
+    "DASHPLS_branding",
+    "admin_email_lifespan",
+    "DASHPLS_login_customizer_flush_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:19.319Z"
+}

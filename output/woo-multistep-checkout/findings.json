@@ -1,0 +1,23 @@
+{
+  "options": [
+    "thwmscf_since",
+    "THWMSC_SETTINGS",
+    "woocommerce_enable_checkout_login_reminder",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thwmscf_deactivation_snooze",
+    "thwmsc_review_skipped",
+    "thwmsc_review_skipped_time",
+    "thwmsc_review_dismissed",
+    "thwmsc_review_dismissed_time",
+    "thwmsc_reviewed",
+    "thwmsc_reviewed_time",
+    "thwmscf_discount_popup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:42.748Z"
+}

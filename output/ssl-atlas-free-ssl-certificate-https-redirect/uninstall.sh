@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'fs_debug_mode'
+wp option delete 'active_sitewide_plugins'
+wp option delete 'fs_active_plugins'
+wp option delete 'fs_storage_logger'
+wp option delete 'ssl_atlas_ssl_activated'
+wp option delete 'ssl_atlas_settings_stage'
+wp option delete 'ssl_atlas_cert_details'
+wp option delete 'ssl_atlas_stackpath_auto_purge'
+wp option delete 'ssl_atlas_stackpath_host_ip'
+wp option delete 'ssl_atlas_stackpath_reactivate'
+wp option delete 'ssl_atlas_domain_verification_variant'
+wp option delete 'ssl_atlas_domain_verified'
+wp option delete 'ssl_atlas_dns_check_activation'
+wp option delete 'ssl_atlas_show_debug_url'
+wp option delete 'ssl_atlas_debug_url'
+wp option delete 'ssl_atlas_enable_debug'
+wp option delete 'ssl_atlas_include_wwww'
+wp option delete 'ssl_atlas_email'
+wp option delete 'ssl_atlas_cpanel_username'
+wp option delete 'ssl_atlas_cpanel_password'
+wp option delete 'ssl_atlas_last_auth_api_call'
+wp option delete 'ssl_atlas_ssl_activated_date'
+wp option delete 'ssl_atlas_review_reminder'
+wp option delete 'ssl_atlas_certificate_60_days'
+wp option delete 'ssl_atlas_certificate_90_days'
+wp option delete 'ssl_atlas_base_domain'
+wp option delete 'ssl_atlas_stackpath_bypass_cache'
+wp option delete 'ssl_atlas_enable_301_htaccess_redirect'
+wp option delete 'ssl_atlas_lock_htaccess_file'
+wp option delete 'ssl_atlas_domains'
+wp option delete 'ssl_atlas_certificate_60_days_email_sent'
+wp option delete 'ssl_atlas_certificate_90_days_email_sent'
+wp option delete 'ssl_atlas_ssl_check_status'
+wp option delete 'ssl_atlas_activated'
+wp option delete 'ssl_atlas_activated_date'
+wp option delete 'ssl_atlas_deactivated'
+wp option delete 'base_domain_name'
+wp option delete 'ssl_atlas_fix_cloudflare'
+wp option delete 'ssl_atlas_domainconnect_status'
+
+# Delete Transients
+wp transient delete 'update_plugins'
+wp transient delete 'update_themes'
+wp transient delete 'sslatlas-debug'
+
+# Clear Cron Jobs
+wp cron event delete 'ssl_atlas_60_days_email'
+wp cron event delete 'ssl_atlas_90_days_email'
+

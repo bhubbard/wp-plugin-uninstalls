@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ipgeo_enable_map",
+    "ipgeo_map_api_token",
+    "ipgeo_map_service",
+    "ipgeo_input_class",
+    "ipgeo_button_class",
+    "ipgeo_default_ip_type",
+    "ipgeo_api_service",
+    "ipgeo_api_token",
+    "ipgeo_map_width_section",
+    "ipgeo_map_height_section"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:52.077Z"
+}

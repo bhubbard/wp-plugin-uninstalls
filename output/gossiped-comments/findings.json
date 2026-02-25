@@ -1,0 +1,23 @@
+{
+  "options": [
+    "gossiped_api_key",
+    "gossiped_site_verified",
+    "gossiped_replace_comments",
+    "gossiped_theme",
+    "gossiped_max_comments",
+    "gossiped_last_verification_attempt",
+    "gossiped_last_comment_check",
+    "gossiped_total_comments",
+    "gossiped_auto_add"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gossiped_comments_disabled",
+    "_gossiped_custom_theme",
+    "gossiped_user_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:11.139Z"
+}

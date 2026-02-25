@@ -1,0 +1,22 @@
+{
+  "options": [
+    "aimsaisc_content_cron_interval",
+    "aimsaisc_gemini_top_models",
+    "aimsaisc_gpt_top_models",
+    "aimsaisc_gpwa_gpt_model",
+    "aimsaisc_gpwa_api_model",
+    "aimsaisc_gpwa_gemini_model"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aimsaisc_generate_content_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "rank_math_title",
+    "_aioseop_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:31.543Z"
+}

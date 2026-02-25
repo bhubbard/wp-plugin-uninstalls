@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wbs_options",
+    "_transient_timeout_wbs_token",
+    "free_forms_crm_*"
+  ],
+  "transients": [
+    "wbs_app_token",
+    "wbs_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:34.080Z"
+}

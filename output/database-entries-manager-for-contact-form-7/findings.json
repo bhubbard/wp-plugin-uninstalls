@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wicocf7db_dbversion_plugin",
+    "wicocf7db_dbversion_defaultstatuses"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_statusid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:36.978Z"
+}

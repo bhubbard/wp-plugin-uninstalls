@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sbuy_settings_pages",
+    "sbuy_branding_toggle_blocked_until",
+    "sbuy_backlink_text",
+    "classic-editor-replace",
+    "sbuy_settings_time",
+    "sbuy_settings_finance"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sbuy_clear_old_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_simplybuy"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:07.498Z"
+}

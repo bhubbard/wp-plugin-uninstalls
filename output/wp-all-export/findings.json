@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wp_all_export_queue_*",
+    "wp_all_export_acf_flexible_*",
+    "wpae_dismiss_warnings_*",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "wpai_wpae_scheduling_license_site_limit",
+    "wpae_modal_review_dismissed",
+    "wpae_modal_review_dismissed_time",
+    "wpae_modal_review_dismissed_modals",
+    "wpae_modal_review_dismissed_times",
+    "active_sitewide_plugins",
+    "*_Options",
+    "wp_all_export_db_version",
+    "wp_all_export_free_db_version",
+    "wp_all_export_free_addons_not_included"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "attribute_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:51.874Z"
+}

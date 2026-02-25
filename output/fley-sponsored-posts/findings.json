@@ -1,0 +1,41 @@
+{
+  "options": [
+    "fley_sponsors_more_info_url",
+    "fley_sponsors_disclaimer_text",
+    "fley_sponsors_background_color",
+    "fley_sponsors_text_color",
+    "fley_sponsors_border_color",
+    "fley_sponsors_border_radius",
+    "fley_sponsors_distance_to_top",
+    "fley_sponsors_distance_down"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fley_is_sponsored",
+    "fley_is_sponsored_info",
+    "fley_has_ads",
+    "fley_has_ads_info",
+    "fley_is_advertising",
+    "fley_is_advertising_info",
+    "fley_is_unpaid_advertising",
+    "fley_is_sample",
+    "fley_is_sample_info",
+    "fley_is_free_review_copy",
+    "fley_is_free_review_copy_info",
+    "fley_has_affiliate_links",
+    "fley_has_affiliate_links_info",
+    "fley_is_press_copy",
+    "fley_is_press_copy_info",
+    "fley_is_discounted_product",
+    "fley_is_discounted_product_info",
+    "fley_has_paid_links",
+    "fley_has_paid_links_info",
+    "fley_is_own_text",
+    "fley_show_disclaimer",
+    "fley_is_unpaid_advertising_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:51.593Z"
+}

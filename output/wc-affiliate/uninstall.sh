@@ -1,0 +1,111 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wc_affiliate_basic'
+wp option delete 'wc-affiliate-docs-json'
+wp option delete 'wc-affiliate_survey'
+wp option delete 'codexpert-blog-json'
+wp option delete 'wc-affiliate-year-end-deals-campaign-21-dec_dismissed'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_dismissed'"
+wp option delete 'wc_affiliate_email'
+wp option delete 'wc_affiliate_payout'
+wp option delete '_site_transient_update_plugins'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_cx-plugin-info-%' OR option_name LIKE '_site_transient_cx-plugin-info-%'"
+wp transient delete 'update_plugins'
+
+# Clear Cron Jobs
+wp cron event delete 'wc_affiliate_daily'
+wp cron event delete 'pluggable-daily'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_time_applied'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_time_applied'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_time_applied'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_time_applied'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_website_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_website_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_website_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_website_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_promotion_method'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_promotion_method'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_promotion_method'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_promotion_method'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_referrer'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_referrer'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_referrer'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_referrer'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc-affiliate-applied_payout'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc-affiliate-applied_payout'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc-affiliate-applied_payout'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc-affiliate-applied_payout'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_payout_method'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_payout_method'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_payout_method'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_payout_method'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_paypal_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_paypal_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_paypal_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_paypal_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_city'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_city'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_city'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_city'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_state'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_state'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_state'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_state'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_country'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_country'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_country'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_country'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_mannual_payment'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_mannual_payment'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_mannual_payment'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_mannual_payment'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'commission_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'commission_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'commission_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'commission_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'commission_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'commission_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'commission_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'commission_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'affiliate_commission'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'affiliate_commission'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'affiliate_commission'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'affiliate_commission'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'customer_discount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'customer_discount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'customer_discount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'customer_discount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'discount_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'discount_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'discount_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'discount_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'subscription'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'subscription'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'subscription'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'subscription'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'last_order'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'last_order'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'last_order'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'last_order'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_affiliate_credited'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_affiliate_credited'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_affiliate_credited'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_affiliate_credited'"

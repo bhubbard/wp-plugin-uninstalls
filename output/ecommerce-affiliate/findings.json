@@ -1,0 +1,17 @@
+{
+  "options": [
+    "settings_control_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fullname",
+    "email_verified",
+    "email_verification_token",
+    "two_factor_otp",
+    "two_factor_otp_expiry"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:40.725Z"
+}

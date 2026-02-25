@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vpc_email_address",
+    "vpc_allow_emails",
+    "vpc-plugin-data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vpc_pull_db_data_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:43.100Z"
+}

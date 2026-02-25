@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'only_empty_images_alt', 'only_empty_images_title', 'home_images_alt', 'home_images_title', 'pages_images_alt', 'pages_images_title', 'post_images_alt', 'post_images_title', 'product_images_alt', 'product_images_title', 'cpt_images_alt', 'cpt_images_title', 'alm_ai_api_key', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_attachment_image_alt');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_attachment_image_alt');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_attachment_image_alt');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_attachment_image_alt');
+

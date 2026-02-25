@@ -1,0 +1,33 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "wcbv_status_default",
+    "bp_custom_order_status_installed",
+    "dfwc_plugin_review",
+    "woocommerce_email_footer_text",
+    "rdn_fetch_*"
+  ],
+  "transients": [
+    "cosmbp_new_version_installed_show_notice",
+    "bpcosm_review_later",
+    "rn_last_notification_*",
+    "wpi_check_ran_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*",
+    "status_slug",
+    "wpml_language",
+    "_email_type",
+    "icon_code",
+    "text_color",
+    "background_color",
+    "what_to_show",
+    "status_icon",
+    "_recipient_cc",
+    "_rn_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:21.826Z"
+}

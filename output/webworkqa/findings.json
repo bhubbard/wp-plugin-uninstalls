@@ -1,0 +1,26 @@
+{
+  "options": [
+    "webwork_clients"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webwork_has_answer",
+    "webwork_response_count",
+    "webwork_tried",
+    "webwork_problem_text",
+    "webwork_remote_class_url",
+    "webwork_remote_problem_url",
+    "webwork_remote_user_problem_url",
+    "webwork_is_anonymous",
+    "webwork_emailable_url",
+    "webwork_random_seed",
+    "webwork_notify_addresses",
+    "webwork_student_name",
+    "webwork_question_id",
+    "webwork_vote_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:21.293Z"
+}

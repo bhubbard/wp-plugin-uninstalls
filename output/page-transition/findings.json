@@ -1,0 +1,16 @@
+{
+  "options": [
+    "nt_page_in_transition",
+    "nt_page_out_transition",
+    "nt_page_in_duration",
+    "nt_page_out_duration",
+    "nt_show_loading",
+    "nt_loading_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:00.428Z"
+}

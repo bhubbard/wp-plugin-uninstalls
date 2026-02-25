@@ -1,0 +1,17 @@
+{
+  "options": [
+    "chkr_tasks_order",
+    "chkr_completed_tasks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "chkr_task_priority",
+    "chkr_task_labels",
+    "chkr_task_due_date",
+    "chkr_task_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:37.579Z"
+}

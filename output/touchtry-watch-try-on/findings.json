@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ttwt_privacy_accepted"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_watch_ar_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:18.898Z"
+}

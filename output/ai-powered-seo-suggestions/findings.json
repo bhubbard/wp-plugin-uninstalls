@@ -1,0 +1,33 @@
+{
+  "options": [
+    "ait_aipseo_license",
+    "ait_aipseo_recent",
+    "ait_aipseo_post_scores",
+    "ait-aipseo-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ait_aipseo_cron_rescore"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ait_aipseo_dismiss_*",
+    "_ait_aipseo_ai_fixit_tips",
+    "_wp_attachment_image_alt",
+    "_ait_aipseo_score",
+    "_ait_aipseo_ai_semantic_keywords",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_seopress_titles_title",
+    "_seopress_titles_desc",
+    "_aioseo_title",
+    "_aioseo_description",
+    "ait_aipseo_manual_meta_title",
+    "ait_aipseo_manual_meta_description",
+    "ait_aipseo_target_keywords",
+    "ait_aipseo_meta_title",
+    "ait_aipseo_meta_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:02.315Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_version",
+    "woocommerce_calc_taxes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yaad_postpone",
+    "_yaadpay_id",
+    "_yaadpay_amount",
+    "yaad_credit_card_payment",
+    "HKId",
+    "Payment Gateway",
+    "_yaadpay_token",
+    "_yaadpay_tokef_month",
+    "_yaadpay_tokef_year"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:27.567Z"
+}

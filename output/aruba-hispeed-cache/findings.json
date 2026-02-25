@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aruba_hispeed_cache_options",
+    "ahsc_do_cache_warmer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ping_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:25.827Z"
+}

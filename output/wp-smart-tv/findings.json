@@ -1,0 +1,41 @@
+{
+  "options": [
+    "rovidx_smart_tv_options",
+    "rovidx_smart_tv_roku_options",
+    "rovidx_smart_tv_ad_options",
+    "wpstv_rdp"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpstv_rebrand_notice_dismissed",
+    "rovidx_smarttv_series_thumb_id",
+    "rovidx_smarttv_series_genres",
+    "rovidx_smarttv_series_release_date",
+    "rovidx_smarttv_series_type",
+    "rovidx_smarttv_playlist",
+    "rovidx_smarttv_se_no",
+    "rovidx_smarttv_URL",
+    "rovidx_smarttv_quality",
+    "rovidx_smarttv_format",
+    "rovidx_smarttv_bif",
+    "rovidx_smarttv_cc",
+    "rovidx_smarttv_Duration",
+    "rovidx_smarttv_start_date",
+    "rovidx_smarttv_end_date",
+    "rovidx_smarttv_genres",
+    "rovidx_smarttv_ep_no",
+    "rovidx_smarttv_ad_breaks",
+    "rovidx_smarttv_custom_midroll_timer",
+    "rovidx_smart_tv_ftvc_mp4_url",
+    "_iptv_user_viewer_history_json",
+    "_iptv_user_purchase_history_json",
+    "rovidx_smarttv_*",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:34.279Z"
+}

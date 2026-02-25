@@ -1,0 +1,17 @@
+{
+  "options": [
+    "edgetag_init",
+    "edgetag_url",
+    "edgetag_selectors",
+    "edgetag_script",
+    "edgetag_newsletter_event_name",
+    "edgetag_purchase_subtotal_only",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:08.306Z"
+}

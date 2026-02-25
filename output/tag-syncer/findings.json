@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tagsyncer_tab1_option_name",
+    "tagsyncer_tab2_option_name",
+    "tagsyncer_tab3_option_name",
+    "google_tag_manager_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:47.615Z"
+}

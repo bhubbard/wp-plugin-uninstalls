@@ -1,0 +1,14 @@
+{
+  "options": [
+    "deau_api",
+    "deau_api_shortcodes",
+    "deau_api_shortcode_history",
+    "deau_api_localhost"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:16.382Z"
+}

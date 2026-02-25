@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dynamic_sitemap_exclude_items",
+    "dynamic_sitemap_background_color",
+    "dynamic_sitemap_title_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:17.226Z"
+}

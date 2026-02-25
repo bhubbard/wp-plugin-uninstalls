@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "woocommerce_dimension_unit",
+    "drop_print_settings",
+    "drop_print_files"
+  ],
+  "transients": [
+    "drop_print_connect_token_*",
+    "drop_print_activation_notice",
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [
+    "drop_print_initial_user_data_sync_hook",
+    "drop_print_pricelist_sync_hook",
+    "drop_print_initial_data_sync_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "drop_print_user_settings",
+    "_drop_print_meta",
+    "_drop_print_sku",
+    "_drop_print_sizing",
+    "_wc_shipment_tracking_items"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:06.201Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "vgwt_video_slider_settings",
+    "wp_vgallery_thumbnail_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:10.711Z"
+}

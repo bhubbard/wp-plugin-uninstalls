@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cpmp_play_all",
+    "installed_*"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:28.473Z"
+}

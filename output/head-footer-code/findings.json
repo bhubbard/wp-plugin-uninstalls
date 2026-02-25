@@ -1,0 +1,17 @@
+{
+  "options": [
+    "auhfc_db_ver",
+    "auhfc_settings_sitewide",
+    "auhfc_settings_homepage",
+    "auhfc_settings_article",
+    "auhfc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_auhfc"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:15.227Z"
+}

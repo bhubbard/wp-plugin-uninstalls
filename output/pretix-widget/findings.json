@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pretix_widget_cache_time_max",
+    "pretix_widget_shop_url",
+    "pretix_widget_version",
+    "pretix_widget_list_type",
+    "pretix_widget_disable_voucher",
+    "pretix_widget_disable_filter",
+    "pretix_widget_language",
+    "pretix_widget_button_text",
+    "pretix_widget_custom_css",
+    "pretix_widget_debug_skip_ssl_check"
+  ],
+  "transients": [
+    "pretix_widget_custom_css"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:27.683Z"
+}

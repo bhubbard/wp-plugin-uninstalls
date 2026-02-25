@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dominant_colors_placeholder_format",
+    "dominant_colors_placeholder_fallback",
+    "dominant_colors_placeholder_noscript"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dominant_color",
+    "tiny_thumbnails"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:05.824Z"
+}

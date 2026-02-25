@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wp_zombaio'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_zombaio_redirect_disable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_zombaio_redirect_disable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_zombaio_redirect_disable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_zombaio_redirect_disable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'json_packet'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'json_packet'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'json_packet'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'json_packet'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'user_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'user_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'user_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'user_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'logmessage'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'logmessage'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'logmessage'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'logmessage'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_zombaio_delete'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_zombaio_delete'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_zombaio_delete'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_zombaio_delete'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_zombaio_subscription_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_zombaio_subscription_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_zombaio_subscription_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_zombaio_subscription_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'last_name'"

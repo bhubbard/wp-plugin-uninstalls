@@ -1,0 +1,13 @@
+{
+  "options": [
+    "smnwcrpl_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "smnwcrpl_regenerate_product_lookup_table"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:09.814Z"
+}

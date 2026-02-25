@@ -1,0 +1,51 @@
+{
+  "options": [
+    "tot_options",
+    "tot_taxes_disabled_due_to_core",
+    "tot_logs",
+    "tot_flash_notices",
+    "tot_ssl_misconfiguration",
+    "tot_previous_plugin_version_*",
+    "tot_hook_log",
+    "tot-dismissed-*",
+    "tot_version",
+    "old_tot_keys",
+    "tot_plugin_updates_log",
+    "woocommerce_checkout_page_id",
+    "tot-plugin-verification-tab",
+    "tot-plugin-report-abuse-button",
+    "tot-profile_tab_verification_roles-select",
+    "tot-plugin-verification-permission",
+    "tot-plugin-verification-tab-account",
+    "tot-plugin-verified-indicator-account",
+    "um_options",
+    "woocommerce_default_country",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "pickup_location_pickup_locations",
+    "tot_orders_to_sync"
+  ],
+  "transients": [
+    "admin_access_token",
+    "tot_keys",
+    "tot_license_error_state",
+    "tot_license_already_handled",
+    "tot_error_*",
+    "excise*"
+  ],
+  "cron_jobs": [
+    "tot_get_faq_page",
+    "tot_sync_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "tot_email_verification",
+    "tot_confirmation_token",
+    "tot_approval_status_log",
+    "tot_approval_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:39.453Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rcp_subscription_level",
+    "rcp_subscription_level_old",
+    "rcp_pending_subscription_level",
+    "rcp_subscription_level_new",
+    "rcp_payment_profile_id",
+    "rcp_signup_method",
+    "rcp_recurring",
+    "_rcp_expired_email_sent",
+    "rcp_user_role_old"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:27.592Z"
+}

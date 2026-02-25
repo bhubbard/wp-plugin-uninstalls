@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ignore_asana_plugins_messages",
+    "asana_active_free_plugin",
+    "elm_settings"
+  ],
+  "transients": [
+    "_elm_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "property_address_coordinates",
+    "property_bedrooms",
+    "property_bathrooms",
+    "property_garage",
+    "property_carport",
+    "property_air_conditioning",
+    "property_pool",
+    "property_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:59.866Z"
+}

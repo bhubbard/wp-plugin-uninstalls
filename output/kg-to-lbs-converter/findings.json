@@ -1,0 +1,14 @@
+{
+  "options": [
+    "klc_welcome",
+    "klc_widget_options"
+  ],
+  "transients": [
+    "klc_activation_redirect_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:49.790Z"
+}

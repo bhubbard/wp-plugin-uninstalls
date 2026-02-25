@@ -1,0 +1,22 @@
+{
+  "options": [
+    "text_to_audio_with_ads_api_key",
+    "text_to_audio_with_ads_api_password",
+    "text_to_audio_with_ads_player_secret",
+    "text_to_audio_with_ads_error_logging",
+    "text_to_audio_with_ads_errors"
+  ],
+  "transients": [
+    "text_to_audio_with_ads_admin_notice"
+  ],
+  "cron_jobs": [
+    "text_to_audio_with_ads_send_post_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_previous_status",
+    "_previous_content"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:00.752Z"
+}

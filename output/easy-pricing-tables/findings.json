@@ -1,0 +1,20 @@
+{
+  "options": [
+    "dh_ptp_show_legacy_tables",
+    "dh_ptp_show_review_notice",
+    "links_updated_date_format"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fca_ept_schedule_review_notice"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "1_dh_ptp_settings",
+    "screen_layout_easy-pricing-table",
+    "_wp_page_template",
+    "*_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:54.938Z"
+}

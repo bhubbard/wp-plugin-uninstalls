@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sxmlsg_kategorien",
+    "sxmlsg_cpt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sitemap",
+    "sitemapscore"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:23.651Z"
+}

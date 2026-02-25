@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dbcbackup_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dbc_backup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:07.724Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "CertificazioneEnergetica_opts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "CertificazioneEnergetica_ad_code",
+    "CertificazioneEnergetica_option_txt",
+    "ace_post",
+    "ipe_post",
+    "unita_ipe"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:41.295Z"
+}

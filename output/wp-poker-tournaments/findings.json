@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pokertournaments_style",
+    "pokertournaments_nofollow",
+    "pokertournaments_active_hall",
+    "pokertournaments_affil_link",
+    "pokertournaments_time_offset",
+    "halls_update",
+    "poker_halls"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:05.980Z"
+}

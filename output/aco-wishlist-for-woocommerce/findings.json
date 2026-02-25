@@ -1,0 +1,21 @@
+{
+  "options": [
+    "awwlm_general_settings",
+    "awwlm_button_settings",
+    "awwlm_page_settings",
+    "awwlm_wishlist_page",
+    "awwlm_save_for_later_settings",
+    "active_sitewide_plugins",
+    "*_version",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awwlm_is_default",
+    "awwlm_savelist"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:40.493Z"
+}

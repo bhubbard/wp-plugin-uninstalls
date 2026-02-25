@@ -1,0 +1,15 @@
+{
+  "options": [
+    "maakapay_test",
+    "maakapay_live",
+    "maakapay_mode",
+    "maakapay_admin_mail",
+    "woocommerce_maakapay_for_woocommerce_checkout_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:31.616Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "joezchat_api_key",
+    "joezchat_kb",
+    "joezchat_temperature"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:00.633Z"
+}

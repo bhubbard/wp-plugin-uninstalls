@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bat_satisfaction_score",
+    "_bbp_reply_count",
+    "_bbp_last_reply_id",
+    "_bat_score-*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:37.370Z"
+}

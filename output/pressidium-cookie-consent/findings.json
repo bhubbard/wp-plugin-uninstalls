@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pressidium_cookie_consent_activated",
+    "pressidium_cookie_consent_settings",
+    "pressidium_cookie_consent_table_versions",
+    "pressidium_cookie_consent_ai_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:07.359Z"
+}

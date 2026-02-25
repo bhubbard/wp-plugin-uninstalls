@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dud_plugin_settings",
+    "dud_plugin_settings_*",
+    "dud_updated_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "*s2member_custom_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:15.073Z"
+}

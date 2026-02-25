@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yith_slider_control_heigth",
+    "single_slide_background_position",
+    "single_slide_background_repeat",
+    "single_slide_background_size",
+    "single_slide_background_color",
+    "yith_slider_control_slider_layout",
+    "yith_slider_control_container_max_width",
+    "yith_slider_control_animation_type",
+    "yith_slider_control_navigation_style",
+    "yith_slider_control_dots_navigation_style",
+    "yith_slider_control_autoplay",
+    "yith_slider_control_autoplay_timing",
+    "yith_slider_control_infinite_sliding",
+    "yith_slider_metabox_*",
+    "slide_order",
+    "parent_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:37.991Z"
+}

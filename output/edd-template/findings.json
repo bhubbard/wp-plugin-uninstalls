@@ -1,0 +1,18 @@
+{
+  "options": [
+    "edd-template-status",
+    "edd-template-style",
+    "edd-template-checkout-page",
+    "edd-template-receipt-page",
+    "edd-template-confirmation-page",
+    "edd-template-purchase-confirmation-page",
+    "edd-template-download-history-page",
+    "edd-template-purchase-history-page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:12.889Z"
+}

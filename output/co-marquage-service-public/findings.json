@@ -1,0 +1,20 @@
+{
+  "options": [
+    "comarquage_global_pivot_enable",
+    "comarquage_global_css_enable",
+    "comarquage_global_js_leaflet_enable",
+    "comarquage_global_poweredby",
+    "comarquage_debug_enable",
+    "comarquage_update_time"
+  ],
+  "transients": [
+    "comarquage_od_notice_dismissed"
+  ],
+  "cron_jobs": [
+    "comarquage_daily_xml_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:24.983Z"
+}

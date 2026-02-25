@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*options",
+    "*edit_admin",
+    "eun_activated_on",
+    "eun_setting_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:04.102Z"
+}

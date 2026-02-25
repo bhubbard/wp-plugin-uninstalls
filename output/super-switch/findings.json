@@ -1,0 +1,19 @@
+{
+  "options": [
+    "recently_activated",
+    "clss_options",
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:03.039Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "maao_service_account_json",
+    "maao_project_id",
+    "maao_youtube_api_key",
+    "maao_cse_api_key",
+    "maao_cse_id",
+    "maa_license_status",
+    "maa_license_key",
+    "maa_user_email",
+    "maa_service_account_json",
+    "maa_project_id",
+    "maa_youtube_api_key",
+    "maa_cse_api_key",
+    "maa_cse_id"
+  ],
+  "transients": [
+    "maao_publish_error_*",
+    "maao_vertex_ai_token",
+    "maa_vertex_ai_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_maao_scoped_post_css",
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_yoast_wpseo_focuskw",
+    "rank_math_focus_keyword"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:09.971Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpapps_draft_notifier_frequency",
+    "wpapps_draft_notifier_email_option",
+    "wpapps_draft_notifier_email_cc",
+    "wpapps_draft_notifier_email_template",
+    "wpapps_draft_notifier_remove_cron"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpapps_draft_notifier_cron_hook",
+    "wpapps_draft_notifier_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:04.480Z"
+}

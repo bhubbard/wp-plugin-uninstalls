@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mgupreloader_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mgtup_hind_update_message_ignore"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:09.074Z"
+}

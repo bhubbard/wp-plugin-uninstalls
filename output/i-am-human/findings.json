@@ -1,0 +1,14 @@
+{
+  "options": [
+    "description_text",
+    "answer_colour_one_string",
+    "colour_one",
+    "enable_post_comments"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:18.408Z"
+}

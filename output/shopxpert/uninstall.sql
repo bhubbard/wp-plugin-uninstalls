@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('shopxpert_installed', 'SHOPXPERT_VERSION', 'shopxpert_do_activation_redirect', 'shopxpert_others_tabs', 'shopxpert_fake_order_detection_settings', 'shopxpert_fake_order_log', 'woocommerce_cart_redirect_after_add', 'woocommerce_weight_unit', 'woocommerce_myaccount_page_id', 'shopxpert_wishList_status', 'woocommerce_hide_out_of_stock_items', 'woocommerce_currency_pos', 'woocommerce_enable_review_rating', 'yith_wcwl_wishlist_page_id', 'yith_wcwl_add_to_wishlist_text', 'yith_wcwl_browse_wishlist_text', 'yith_wcwl_product_added_text');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_selectproduct_layout', 'shopxpert_cart_custom_content', 'shopxpert_partial_payment_enable', 'shopxpert_pre_order_enable', 'shopxpert_partial_payment_amount_type', 'shopxpert_partial_payment_amount', 'shopxpert_selectcategory_layout', '_shopxpert_backorder_limit', '_shopxpert_backorder_availability_date', '_manage_stock', '_stock_status', '_backorders', '_billing_email', '_regular_price', '_sale_price', 'thumbnail_id', '_saleflash_text', 'shopxpert_total_stock_quantity', '_stock');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_selectproduct_layout', 'shopxpert_cart_custom_content', 'shopxpert_partial_payment_enable', 'shopxpert_pre_order_enable', 'shopxpert_partial_payment_amount_type', 'shopxpert_partial_payment_amount', 'shopxpert_selectcategory_layout', '_shopxpert_backorder_limit', '_shopxpert_backorder_availability_date', '_manage_stock', '_stock_status', '_backorders', '_billing_email', '_regular_price', '_sale_price', 'thumbnail_id', '_saleflash_text', 'shopxpert_total_stock_quantity', '_stock');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_selectproduct_layout', 'shopxpert_cart_custom_content', 'shopxpert_partial_payment_enable', 'shopxpert_pre_order_enable', 'shopxpert_partial_payment_amount_type', 'shopxpert_partial_payment_amount', 'shopxpert_selectcategory_layout', '_shopxpert_backorder_limit', '_shopxpert_backorder_availability_date', '_manage_stock', '_stock_status', '_backorders', '_billing_email', '_regular_price', '_sale_price', 'thumbnail_id', '_saleflash_text', 'shopxpert_total_stock_quantity', '_stock');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_selectproduct_layout', 'shopxpert_cart_custom_content', 'shopxpert_partial_payment_enable', 'shopxpert_pre_order_enable', 'shopxpert_partial_payment_amount_type', 'shopxpert_partial_payment_amount', 'shopxpert_selectcategory_layout', '_shopxpert_backorder_limit', '_shopxpert_backorder_availability_date', '_manage_stock', '_stock_status', '_backorders', '_billing_email', '_regular_price', '_sale_price', 'thumbnail_id', '_saleflash_text', 'shopxpert_total_stock_quantity', '_stock');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_shopxpert_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_shopxpert_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_shopxpert_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_shopxpert_%';
+

@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "snack_ads_force_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:07.530Z"
+}

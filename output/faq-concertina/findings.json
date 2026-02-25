@@ -1,0 +1,24 @@
+{
+  "options": [
+    "faqconc_animation_speed",
+    "faqconc_hide_others",
+    "faqconc_width",
+    "faqconc_width_override",
+    "faqconc_colour_scheme",
+    "faqconc_custom_colour1",
+    "faqconc_custom_colour2",
+    "faqconc_negative",
+    "faqconc_corners",
+    "faqconc_indicators",
+    "faqconc_disable_styles",
+    "faqconc_order",
+    "faqconc_reverse",
+    " faqconc_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:16.543Z"
+}

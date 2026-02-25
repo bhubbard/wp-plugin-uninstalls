@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ss88_mlfs_analyze_cache_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "SS88MLFS",
+    "SS88MLFSV"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:59.445Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dmtf_dark_bg_color",
+    "dmtf_dark_text_color",
+    "dmtf_toggle_button_bg",
+    "dmtf_toggle_button_text",
+    "dmtf_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:28.159Z"
+}

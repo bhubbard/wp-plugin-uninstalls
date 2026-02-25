@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'field_type_cfwjm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'field_type_cfwjm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'field_type_cfwjm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'field_type_cfwjm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'field_location_cfwjm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'field_location_cfwjm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'field_location_cfwjm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'field_location_cfwjm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'field_options_cfwjm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'field_options_cfwjm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'field_options_cfwjm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'field_options_cfwjm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'field_required_cfwjm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'field_required_cfwjm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'field_required_cfwjm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'field_required_cfwjm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'field_placeholder_cfwjm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'field_placeholder_cfwjm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'field_placeholder_cfwjm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'field_placeholder_cfwjm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'field_dateformat_cfwjm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'field_dateformat_cfwjm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'field_dateformat_cfwjm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'field_dateformat_cfwjm'"

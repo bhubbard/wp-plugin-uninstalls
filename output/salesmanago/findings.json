@@ -1,0 +1,13 @@
+{
+  "options": [
+    "salesmanago_cron"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "salesmanago_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:57.728Z"
+}

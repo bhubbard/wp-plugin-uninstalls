@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rtw_admin_notice",
+    "rtw_settings",
+    "widget_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:51.872Z"
+}

@@ -1,0 +1,17 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('floating_ads_bottom_script');
+delete_site_option('floating_ads_bottom_script');
+delete_option('floating_ads_bottom_status');
+delete_site_option('floating_ads_bottom_status');
+delete_option('floating_ads_bottom_desktop');
+delete_site_option('floating_ads_bottom_desktop');
+delete_option('floating_ads_bottom_mobile');
+delete_site_option('floating_ads_bottom_mobile');
+

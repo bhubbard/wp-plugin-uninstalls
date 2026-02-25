@@ -1,0 +1,35 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "tsteam_plugin_activated",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tsteam_member_info",
+    "category_color",
+    "category_icon",
+    "category_order",
+    "tsteam_team_members",
+    "tsteam_member_categories",
+    "tsteam_showcase_settings",
+    "tsteam_information",
+    "tsteam_member_information",
+    "tsteam_member_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:47.643Z"
+}

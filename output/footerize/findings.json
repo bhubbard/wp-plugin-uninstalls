@@ -1,0 +1,19 @@
+{
+  "options": [
+    "footerize_pre_content",
+    "footerize_pre_content_posts",
+    "footerize_pre_content_pages",
+    "footerize_exclude_from_pre",
+    "footerize_pos_content",
+    "footerize_pos_content_posts",
+    "footerize_pos_content_pages",
+    "footerize_exclude_from_pos",
+    "footerize_shortcode_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:50.139Z"
+}

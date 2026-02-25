@@ -1,0 +1,21 @@
+{
+  "options": [
+    "dg_capital_plugin_id",
+    "dg_capital_plugin_*",
+    "dg_capital_plugin_method_title",
+    "dg_capital_plugin_what_is_url",
+    "*_international_fee",
+    "*_service_fee",
+    "*_percent_fee"
+  ],
+  "transients": [
+    "teams",
+    "wallets",
+    "gold_price"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:16.136Z"
+}

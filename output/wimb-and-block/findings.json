@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wimbblock_always",
+    "wimbblock_deleting",
+    "wimbblock_emergency",
+    "wimbblock_exclude",
+    "wimbblock_anon",
+    "wimbblock_anon_",
+    "wimbblock_logfile",
+    "wimbblock_log",
+    "wimbblock_settings",
+    "wimbblock_systems",
+    "wimbblock_browsers",
+    "wimbblock_db_version"
+  ],
+  "transients": [
+    "wimbblock_logfile"
+  ],
+  "cron_jobs": [
+    "wimbblock_rotate_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:37.219Z"
+}

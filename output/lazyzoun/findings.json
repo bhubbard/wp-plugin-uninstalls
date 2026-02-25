@@ -1,0 +1,25 @@
+{
+  "options": [
+    "lz_api_public_key",
+    "lz_api_private_key",
+    "lz_api_amazon_tld",
+    "amazon_partner_id",
+    "lz_debug",
+    "lz_gatracking",
+    "amazon_domain",
+    "lazyzoun",
+    "lz_logo_widget_title",
+    "lz_subimgtext",
+    "lz_presubimgtext",
+    "lz_aftersubimgtext"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lazyzoun-id",
+    "lazyzoun-name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:16.088Z"
+}

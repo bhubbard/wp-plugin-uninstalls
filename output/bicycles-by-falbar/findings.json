@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_options_params",
+    "*_options_name",
+    "_falbar_bbf_options_params",
+    "_falbar_bbf_options_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:43.843Z"
+}

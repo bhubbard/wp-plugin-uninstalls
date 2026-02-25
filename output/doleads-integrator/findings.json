@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ledo_integrator_company_access_token",
+    "ledo_integrator_settings_utm_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:43.830Z"
+}

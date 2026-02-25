@@ -1,0 +1,8 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'btmstack_data%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'btmstack_pages%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'btmstack_posts%'"
+

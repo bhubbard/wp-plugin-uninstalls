@@ -1,0 +1,12 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'category_sticky_post'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'category_sticky_post'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'category_sticky_post'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'category_sticky_post'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'category_sticky_post_border'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'category_sticky_post_border'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'category_sticky_post_border'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'category_sticky_post_border'"

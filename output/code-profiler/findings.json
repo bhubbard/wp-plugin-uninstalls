@@ -1,0 +1,16 @@
+{
+  "options": [
+    "code-profiler",
+    "ms_files_rewriting"
+  ],
+  "transients": [
+    "doing_cron"
+  ],
+  "cron_jobs": [
+    "codeprofiler_wpcron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:11.174Z"
+}

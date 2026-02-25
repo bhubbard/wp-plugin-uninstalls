@@ -1,0 +1,16 @@
+{
+  "options": [
+    "seggwat_project_key",
+    "seggwat_button_color",
+    "seggwat_button_position",
+    "seggwat_default_behavior",
+    "seggwat_language",
+    "seggwat_show_powered_by"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:52.532Z"
+}

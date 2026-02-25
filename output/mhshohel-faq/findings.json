@@ -1,0 +1,16 @@
+{
+  "options": [
+    "faq_custom_text",
+    "count",
+    "icon_style",
+    "load_place",
+    "faq_acc_custom_css",
+    "is_mhshohel_faq_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:25.979Z"
+}

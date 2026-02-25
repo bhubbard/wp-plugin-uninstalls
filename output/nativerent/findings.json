@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nativerent_options",
+    "nativerent.*",
+    "nativerent.jsURL",
+    "nativerent.cssURL",
+    "nativerent.selfCheckReport",
+    "nativerent.adUnitsConfig",
+    "wp_rocket_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:12.105Z"
+}

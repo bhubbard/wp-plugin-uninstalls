@@ -1,0 +1,29 @@
+{
+  "options": [
+    "webplanex_gst_b2b_integration",
+    "webplanex_gst_invoice_btn_account_page_integration",
+    "webplanex_gst_invoice_btn_email_integration",
+    "webplanex_gst_b2b_integration_required",
+    "webplanex_gst_invoice_btn_order_status_integration",
+    "webplanex_gst_shop_secret",
+    "webplanex_gst_*",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_postcode",
+    "woocommerce_currency",
+    "woocommerce_api_enabled",
+    "*_notice_dismiss_until"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_company_name",
+    "_gst_number",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:05.635Z"
+}

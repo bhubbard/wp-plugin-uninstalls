@@ -1,0 +1,68 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'triplea_api_endpoint_token'
+wp option delete 'wc_triplea_crypto_payment_installed'
+wp option delete 'wc_triplea_crypto_payment_version'
+wp option delete 'triplea_wc_spare_me'
+wp option delete 'triplea_wc_remind_me'
+wp option delete 'triplea_wc_rated'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_notify_secret'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_notify_secret'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_notify_secret'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_notify_secret'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_payment_tier'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_payment_tier'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_payment_tier'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_payment_tier'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_order_crypto_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_order_crypto_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_order_crypto_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_order_crypto_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_order_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_order_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_order_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_order_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_amount_paid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_amount_paid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_amount_paid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_amount_paid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_crypto_amount_paid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_crypto_amount_paid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_crypto_amount_paid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_crypto_amount_paid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_crypto_currency'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_crypto_currency'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_crypto_currency'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_crypto_currency'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_order_currency'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_order_currency'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_order_currency'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_order_currency'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_tx_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_tx_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_tx_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_tx_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_payment_reference'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_payment_reference'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_payment_reference'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_payment_reference'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_access_token'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_access_token'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_access_token'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_access_token'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_crypto_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_crypto_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_crypto_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_crypto_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_order_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_order_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_order_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_order_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_triplea_payment_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_triplea_payment_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_triplea_payment_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_triplea_payment_status'"

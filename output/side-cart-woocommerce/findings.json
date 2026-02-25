@@ -1,0 +1,24 @@
+{
+  "options": [
+    "xoo-wsc-pattern-init",
+    "xoo-wsc-old-header-layout",
+    "xoo-el-version",
+    "xoo-el-sy-options",
+    "xoo-el-gl-options",
+    "xoo-el-settings-init",
+    "xoo-wsc-enqueue-cartfragment",
+    "xoo-wsc-gl-options",
+    "xoo-wsc-sy-options",
+    "xoo_tracking_consent_side-cart-woocommerce",
+    "xoo_tracking_consent_*",
+    "*_theme_templates_data"
+  ],
+  "transients": [
+    "xoo_tracking_consent_last_sent_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:36.222Z"
+}

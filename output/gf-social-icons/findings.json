@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gf_social_icons_position_horizontally",
+    "gf_social_icons_general_settings",
+    "gf_social_icons_open_in_new_tab_settings",
+    "gf_social_icons_styles_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:35.526Z"
+}

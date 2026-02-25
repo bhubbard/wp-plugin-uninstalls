@@ -1,0 +1,20 @@
+{
+  "options": [
+    "kaigen_provider_api_keys",
+    "kaigen_provider_models",
+    "kaigen_quality_settings",
+    "kaigen_provider",
+    "kaigen_openai_api_key",
+    "kaigen_quality_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kaigen_reference_image",
+    "_wp_attachment_image_alt",
+    "kaigen_generation_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:04.287Z"
+}

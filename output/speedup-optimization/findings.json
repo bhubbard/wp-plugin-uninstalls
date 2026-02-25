@@ -1,0 +1,17 @@
+{
+  "options": [
+    "iox_settings",
+    "speedup01_image_optimizer",
+    "speedup01_activation_redirect"
+  ],
+  "transients": [
+    "iox_bulk_optimize_result_*"
+  ],
+  "cron_jobs": [
+    "speedup01_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:02.630Z"
+}

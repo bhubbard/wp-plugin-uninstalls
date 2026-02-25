@@ -1,0 +1,19 @@
+{
+  "options": [
+    "visualbuilder_*",
+    "nc_do_activation",
+    "nc_options",
+    "nc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nc_single_product",
+    "rating",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:15.984Z"
+}

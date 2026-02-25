@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fixedbottommenu_settings",
+    "fixedbottommenu_settings_col",
+    "fixedbottommenu_template",
+    "fixedbottommenu_add_on_icon_settings",
+    "fixedbottommenu_settings_old"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:02.067Z"
+}

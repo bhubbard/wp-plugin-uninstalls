@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_temporary_login_site_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_temporary_login_pointer_dismissed",
+    "_temporary_login_created_by_user_id",
+    "_temporary_login",
+    "_temporary_login_token",
+    "_temporary_login_expiration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:34.471Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "feed",
+    "aantal",
+    "sporthal",
+    "plaats",
+    "vereniging",
+    "ical",
+    "sets",
+    "naamlengte_prog",
+    "naamlengte_uitslag",
+    "naamlengte_stand",
+    "nevobo_maps",
+    "maps_home",
+    "image_set",
+    "highlight_color",
+    "standen_aantal",
+    "uitslagen_aantal",
+    "programma_aantal",
+    "$naamlengte_uitslag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:21.835Z"
+}

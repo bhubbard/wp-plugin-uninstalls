@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wcbcf_settings",
+    "woocommerce_subscriptions_enable_early_renewal",
+    "asaas_status_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "remove_expired_pix_asaas",
+    "remove_expired_ticket"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:36.487Z"
+}

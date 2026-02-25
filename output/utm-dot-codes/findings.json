@@ -1,0 +1,32 @@
+{
+  "options": [
+    "*_labels",
+    "*_shortener",
+    "*_apikey",
+    "*_social",
+    "*_lowercase",
+    "*_alphanumeric",
+    "*_nospaces",
+    "*_notes_show",
+    "*_notes_preview",
+    "*_rebrandly_domains_active",
+    "*_rebrandly_domains",
+    "*_rebrandly_domains_update",
+    "utmdc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_notes",
+    "*_url",
+    "*_source",
+    "*_medium",
+    "*_campaign",
+    "*_term",
+    "*_content",
+    "*_shorturl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:26.548Z"
+}

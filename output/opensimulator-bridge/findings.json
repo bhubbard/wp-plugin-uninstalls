@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wposbridge_address",
+    "wposbridge_secret",
+    "wpos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "opensim_avatar_uuid",
+    "opensim_firstname",
+    "opensim_lastname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:57.622Z"
+}

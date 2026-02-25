@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mwwd_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mww-disclaimers-aff",
+    "mww-disclaimers-pr",
+    "mww-disclaimers-sp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:19.679Z"
+}

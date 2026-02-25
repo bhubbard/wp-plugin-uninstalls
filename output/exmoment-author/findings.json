@@ -1,0 +1,14 @@
+{
+  "options": [
+    "exmoau_library_seed_scheduled",
+    "exmoau_library_seed_processed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "exmoau_job_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:36.463Z"
+}

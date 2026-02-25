@@ -1,0 +1,19 @@
+{
+  "options": [
+    "swifno_opts",
+    "swifno_key",
+    "swifno_secret_key",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:50.174Z"
+}

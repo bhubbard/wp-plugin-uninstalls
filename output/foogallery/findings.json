@@ -1,0 +1,45 @@
+{
+  "options": [
+    "foogallery_albums_capabilities_set",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "foogallery_admin_rating_notice_dismiss",
+    "foogallery_admin_foobar_notice_dismiss",
+    "foogallery_capabilities_set",
+    "foo-video_licensekey",
+    "polylang"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "settings_errors"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "custom_url",
+    "custom_target",
+    "_*",
+    "_wp_attachment_image_alt",
+    "_foogallery_custom_url",
+    "_foogallery_custom_target",
+    "_foogallery_custom_class",
+    "foogallery_crop_pos",
+    "foogallery_override_thumbnail",
+    "_data-width",
+    "_data-height",
+    "_foobox_panning",
+    "_foogallery_override_type",
+    "_foogallery_override_thumbnail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:18.400Z"
+}

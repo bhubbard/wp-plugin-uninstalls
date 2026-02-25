@@ -1,0 +1,26 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "eav_slot_duration",
+    "eav_smtp_host",
+    "eav_smtp_username",
+    "eav_smtp_password",
+    "eav_smtp_port",
+    "eav_smtp_email",
+    "eav_slot_price",
+    "eav_slot_start",
+    "eav_slot_end",
+    "eav_paypal_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eav_user_email",
+    "eav_user_paypal_sign",
+    "eav_user_paypal_username",
+    "eav_user_paypal_paswd"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:44.991Z"
+}

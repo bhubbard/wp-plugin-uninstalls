@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_pwn_OWCC_gateway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Tracking transection ID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:57.781Z"
+}

@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'termindatum'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'termindatum'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'termindatum'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'termindatum'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'termindatumbis'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'termindatumbis'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'termindatumbis'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'termindatumbis'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'zeitvon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'zeitvon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'zeitvon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'zeitvon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'zeitbis'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'zeitbis'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'zeitbis'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'zeitbis'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ort'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ort'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ort'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ort'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'requestbf'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'requestbf'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'requestbf'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'requestbf'"

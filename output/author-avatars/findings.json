@@ -1,0 +1,22 @@
+{
+  "options": [
+    "author_avatars_version",
+    "widget_blogauthors",
+    "multiwidget_author_avatars",
+    "sidebars_widgets",
+    "*user_roles",
+    "author_avatars_settings",
+    "author_avatars_wpmu_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname",
+    "first_name",
+    "last_name",
+    "last_activity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:31.200Z"
+}

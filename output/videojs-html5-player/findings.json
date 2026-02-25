@@ -1,0 +1,13 @@
+{
+  "options": [
+    "videojs_html5_player_load_scripts_globally"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "videojs-html5-player-custom-field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:03.447Z"
+}

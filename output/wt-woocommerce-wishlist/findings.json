@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wt_wishlist_button_style_settings",
+    "wt_wishlist_table_settings",
+    "wt_wishlist_general_settings",
+    "wt_webtoffee-wishlist_page_id",
+    "default_value_added"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:19.424Z"
+}

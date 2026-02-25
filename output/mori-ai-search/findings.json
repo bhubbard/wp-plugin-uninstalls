@@ -1,0 +1,40 @@
+{
+  "options": [
+    "aiws_search_company_name",
+    "aiws_search_system_prompt",
+    "aiws_search_extra_context",
+    "aiws_search_custom_tags",
+    "aiws_search_reindex_total",
+    "aiws_search_reindex_queue",
+    "aiws_search_reindex_in_progress",
+    "aiws_search_priority_ids",
+    "aiws_priority_pages",
+    "aiws_search_contact_url",
+    "aiws_search_api_key",
+    "aiws_search_category_taxonomies",
+    "aiws_search_extra_post_types",
+    "aiws_search_excluded_posts",
+    "aiws_search_show_wizard",
+    "aiws_search_auto_tag_backup",
+    "aiws_search_manual_tag_backup",
+    "aiws_search_reindex_last_percent",
+    "aiws_search_company_description",
+    "aiws_search_site_type",
+    "aiws_search_theme",
+    "aiws_search_contact_info",
+    "aiws_search_post_type_order",
+    "aiws_search_feedback_frontend",
+    "aiws_search_feedback_backend",
+    "aiws_search_docs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aiws_search_reindex_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "aiws_search_cached_text"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:37.002Z"
+}

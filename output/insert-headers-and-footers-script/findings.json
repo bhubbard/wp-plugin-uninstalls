@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ihafs_diagnostic_data_agreed",
+    "ihafs_diagnostic_data_notice",
+    "ihafs_rating_already_rated",
+    "ihafs_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_ihafs_condition",
+    "_ihafs_status",
+    "_ihafs_code",
+    "_ihafs_show_on",
+    "_ihafs_pages_list",
+    "_ihafs_posts_list",
+    "_ihafs_categories_list",
+    "_ihafs_tags_list"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:32.912Z"
+}

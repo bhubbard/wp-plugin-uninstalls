@@ -1,0 +1,15 @@
+{
+  "options": [
+    "client_partner_default_Settings_new"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "client_partner_Settings",
+    "nkcps_client_partner_data",
+    "nkcps_client_partner_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:06.453Z"
+}

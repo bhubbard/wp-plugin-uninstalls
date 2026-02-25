@@ -1,0 +1,13 @@
+{
+  "options": [
+    "betterportal_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_betterportal_rewrite_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:48.466Z"
+}

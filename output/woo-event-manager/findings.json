@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woo_event_google_api_key",
+    "allow_google_calandar",
+    "show_google_map_on_product",
+    "passed_events_purchasable",
+    "only_events"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "event_datetime",
+    "event_end_date",
+    "custom_add_to_cart",
+    "expire_product",
+    "address",
+    "event_lat",
+    "event_lang"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:10.218Z"
+}

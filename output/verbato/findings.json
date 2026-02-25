@@ -1,0 +1,19 @@
+{
+  "options": [
+    "verbato_project",
+    "verbato_project_api_url",
+    "verbato_project_logs",
+    "verbato_project_id",
+    "widget_verbato_widget",
+    "verbato_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_verbato_product_prompt",
+    "_verbato_product_prompt_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:03.194Z"
+}

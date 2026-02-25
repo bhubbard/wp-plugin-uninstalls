@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ycve_timezone"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yc_exp_type",
+    "_yc_exp_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:40.570Z"
+}

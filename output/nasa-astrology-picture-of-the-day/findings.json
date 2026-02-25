@@ -1,0 +1,15 @@
+{
+  "options": [
+    "apod_api_key",
+    "apod_default_status",
+    "apod_post_as"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nasa_potd_daily_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:09.865Z"
+}

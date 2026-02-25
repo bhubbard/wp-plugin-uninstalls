@@ -1,0 +1,15 @@
+{
+  "options": [
+    "images_to_webp_settings",
+    "active_images_to_webp",
+    "images_to_webp_methods"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "avif_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:42.486Z"
+}

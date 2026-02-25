@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fskit_txt_color",
+    "fskit_bg_color",
+    "fskit_hide_tablerate_shipping",
+    "fskit_show_custom_label",
+    "fskit_freeshipping_label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_free_shipping_badge"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:07.439Z"
+}

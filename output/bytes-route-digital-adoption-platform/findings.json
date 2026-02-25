@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bytes_route_js_code",
+    "bytes_route_js_code_backend",
+    "bytes_route_js_code_wplogin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:09.487Z"
+}

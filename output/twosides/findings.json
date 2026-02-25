@@ -1,0 +1,15 @@
+{
+  "options": [
+    "twosides_admin",
+    "twosides_docs",
+    "twosides_debate_date_plugin_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "twosides_commtype"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:03.441Z"
+}

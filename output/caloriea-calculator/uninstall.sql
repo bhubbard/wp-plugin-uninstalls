@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cfw_title', 'cfw_about_text', 'cfw_activate_text', 'cfw_calc_btn_text', 'wmc_weight_loss_text', 'wmc_weight_gain_text', 'cfw_gender_text', 'cfw_title_font', 'cfw_age_text', 'cfw_weight_text', 'cfw_height_text', 'cfw_title_color', 'cfw_btntext_color', 'cfw_act_hover_color', 'cfw_active_color', 'cfw_con_title_color', 'cfw_contback_font', 'cfw_btnback_color', 'cfw_btnhover_back', 'cfw_btnhover_text', 'cfw_msg_text_color', 'cfw_msg_back_color', 'cfw_tab_act_back_color', 'cfw_tab_act_text_color', 'cfw_tab_act_border_color', 'cfw_tab_back_color', 'cfw_tab_text_color', 'cfw_tab_border_color', 'cfw_result_title_back_color', 'cfw_cat_list_back_color', 'cfw_cat_list_text_color', 'cfw_caldays_list_back_color', 'cfw_caldays_list_text_color');
+

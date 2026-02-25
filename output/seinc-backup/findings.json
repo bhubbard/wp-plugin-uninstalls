@@ -1,0 +1,18 @@
+{
+  "options": [
+    "seinc_backup_folder_path",
+    "seinc_backup_schedule_enabled",
+    "seinc_backup_schedule_frequency",
+    "seinc_backup_schedule_time",
+    "seinc_backup_retention_days",
+    "seinc_backup_progress"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "seinc_backup_scheduled_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:15.894Z"
+}

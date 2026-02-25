@@ -1,0 +1,18 @@
+{
+  "options": [
+    "uewm_columns",
+    "uewm_use_custom_csv_settings",
+    "uewm_field_separator",
+    "uewm_text_qualifier",
+    "uewm_custom_field_separator",
+    "uewm_custom_text_qualifier",
+    "uewm_roles",
+    "*_queue_flush_rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:13.165Z"
+}

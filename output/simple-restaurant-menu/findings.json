@@ -1,0 +1,17 @@
+{
+  "options": [
+    "srm_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "srm_menu_item_id_meta",
+    "srm_menu_item_order_meta",
+    "srm_menu_item_price_meta",
+    "srm_menu_title_meta",
+    "srm_menu_columns_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:52.779Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "related_articles_by_tag_mode",
+    "related_articles_by_tag_title_type",
+    "related_articles_by_tag_title",
+    "related_articles_by_tag_apply",
+    "related_articles_by_tag_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:57.589Z"
+}

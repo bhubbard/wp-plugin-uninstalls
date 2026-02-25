@@ -1,0 +1,14 @@
+{
+  "options": [
+    "connections_aabe_queue"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cn-aabe-hourly-event",
+    "cn-aabe-daily-event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:31.566Z"
+}

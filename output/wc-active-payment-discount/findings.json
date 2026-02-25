@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wap_payment_status",
+    "wap_payment_data",
+    "wap_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:04.634Z"
+}

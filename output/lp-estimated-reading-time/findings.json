@@ -1,0 +1,17 @@
+{
+  "options": [
+    "lp_ert_words_per_minute",
+    "lp_ert_enabled",
+    "lp_ert_show_in_homepage",
+    "lp_ert_show_in_archive",
+    "lp_ert_css_class",
+    "lp_ert_before_text",
+    "lp_ert_after_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:30.782Z"
+}

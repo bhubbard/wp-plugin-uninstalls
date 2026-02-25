@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "hash",
+    "base_date",
+    "order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:06.996Z"
+}

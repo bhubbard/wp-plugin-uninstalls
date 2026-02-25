@@ -1,0 +1,19 @@
+{
+  "options": [
+    "nota_script_access_roles",
+    "nota_news_display_name",
+    "nota_news_market_id",
+    "nota_disable_tool_script",
+    "nota_debug",
+    "nota_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nota_client_user_id",
+    "nota_selected_brand_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:36.937Z"
+}

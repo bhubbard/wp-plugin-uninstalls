@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gb_json_api_controllers",
+    "gb_api_key",
+    "gb_json_api_base",
+    "is_secure_mode_enabled",
+    "is_comments_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:15.725Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "greenerwp_version",
+    "greenerwp_jpeg_quality",
+    "greenerwp_wpcf7_jquery_fix_enabled",
+    "greenerwp_web_fonts_disable",
+    "greenerwp_image_previews_enabled",
+    "greenerwp_recipes",
+    "greenerwp_*",
+    "greenerwp_statistics_enabled",
+    "greenerwp_image_previews_lazy_loading"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:00.975Z"
+}

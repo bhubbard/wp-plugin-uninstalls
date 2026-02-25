@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('rs_christmas_trees_display_set', 'rs_christmas_trees_hide_click_activation', 'rs_christmas_trees_active_tree', 'rs_christmas_trees_display_type', 'rs_christmas_trees_display_type_footer', 'rs_christmas_trees_display_location', 'rs_christmas_trees_sticky', 'rs_display_snow', 'rs_display_norma_snow_or_3d', 'rs_maximum_fall_speed', 'rs_flake_minimum_size', 'rs_flake_maximum_size', 'rs_show_on_page', 'rs_show_flake_type', 'rs_show_z_index', 'rs_show_color', 'christmas_schedule_before_date', 'christmas_schedule_active');
+

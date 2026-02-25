@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ss_iconsize",
+    "ss_title",
+    "ss_twitterwidget",
+    "ss_googlepluswidget",
+    "ss_facebookwidget",
+    "ss_facebook",
+    "ss_twitter",
+    "ss_email",
+    "ss_blogger",
+    "ss_delicious",
+    "ss_digg",
+    "ss_google",
+    "ss_myspace",
+    "ss_stumbleupon",
+    "ss_yahoo",
+    "ss_reddit",
+    "ss_technorati",
+    "ss_rss",
+    "ss_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:42.082Z"
+}

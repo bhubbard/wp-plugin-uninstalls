@@ -1,0 +1,12 @@
+{
+  "options": [
+    "lh_logged_in_static_show_on_front",
+    "lh_logged_in_static_frontpage_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:32.210Z"
+}

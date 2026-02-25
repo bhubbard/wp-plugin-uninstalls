@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mhr_banner_status",
+    "mhr_banner_source",
+    "mhr_click_url",
+    "mhr_backg_color",
+    "mhr_banner_height",
+    "mhr_banner_width",
+    "mhr_background_height",
+    "mhr_background_bottom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:09.177Z"
+}

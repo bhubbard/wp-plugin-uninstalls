@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tmdetect_api_key",
+    "tmdetect_custom_blocklist",
+    "tmdetect_block_plus_emails",
+    "tmdetect_protect_comments"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:25.732Z"
+}

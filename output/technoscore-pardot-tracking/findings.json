@@ -1,0 +1,12 @@
+{
+  "options": [
+    "techno_pardot_page_id",
+    "techno_pardot_script"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:02.935Z"
+}

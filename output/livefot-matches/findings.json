@@ -1,0 +1,32 @@
+{
+  "options": [
+    "livefot_api_key",
+    "livefot_api_url",
+    "livefot_cron_last_run_status_short",
+    "livefot_cron_last_run_end_short",
+    "livefot_cron_last_run_status",
+    "livefot_cron_last_run_end",
+    "livefot_interval_matches",
+    "livefot_interval_events",
+    "livefot_interval_standings",
+    "livefot_interval_lineups",
+    "livefot_interval_stats",
+    "livefot_enable_cron_job",
+    "livefot_enable_short_cron_job",
+    "livefot_cron_last_run_start",
+    "livefot_cron_last_run_start_short",
+    "livefot_cron_interval_short",
+    "livefot_cron_hour",
+    "livefot_cron_minute",
+    "livefot_manual_date"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "livefot_daily_fetch_fixtures",
+    "livefot_short_fetch_fixtures"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:34.298Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fetp_options",
+    "fetp_themes",
+    "*_price",
+    "fetp_cookie",
+    "fetp_select",
+    "fetp_last_cron",
+    "fetp_clean_up_frequency",
+    "fetp_enable_download",
+    "fetp_paypal_settings",
+    "fetp_delete_data",
+    "fetp_enable_default_theme_download",
+    "fetp_premium",
+    "current_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:27.109Z"
+}

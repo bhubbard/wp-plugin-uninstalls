@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "cmcw_box_margin",
+    "cmcw_count_size",
+    "cmcw_count_position",
+    "cmcw_icon_size",
+    "cmcw_count_bg_color",
+    "cmcw_text_color",
+    "cmcw_icon_color",
+    "cmcw_icon_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:01.894Z"
+}

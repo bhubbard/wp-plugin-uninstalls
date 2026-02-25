@@ -1,0 +1,25 @@
+{
+  "options": [
+    "firebox_activation_redirect",
+    "firebox_onboarding_completed",
+    "firebox_version",
+    "firebox_settings",
+    "firebox_import",
+    "firebox_license_status",
+    "firebox_license_key",
+    "hide-admin-bar",
+    "active_sitewide_plugins",
+    "*_license_key",
+    "fpf_geo_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "firebox_meta",
+    "fpframework_meta_settings",
+    "_fpframework_templates_image_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:22.286Z"
+}

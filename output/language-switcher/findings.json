@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*detect_browser_language",
+    "*default_language_urls",
+    "*language_taxonomies",
+    "*language_post_types",
+    "*active_languages",
+    "*add_switcher_to_menus",
+    "*switcher_title",
+    "*custom_title",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*language_switcher",
+    "*main_language",
+    "language_switcher"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:10.636Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rewrite_rules",
+    "jssupportticket",
+    "jssupportticket-pageid",
+    "jssupportticket_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jssupporticket_updateticketstatus"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:19.123Z"
+}

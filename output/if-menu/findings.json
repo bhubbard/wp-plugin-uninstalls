@@ -1,0 +1,22 @@
+{
+  "options": [
+    "if-menu-admin",
+    "if-menu-peak",
+    "if-menu-license-key"
+  ],
+  "transients": [
+    "if-menu-nonce-*",
+    "if-menu-plan",
+    "ip-country-code-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "if_menu_enable",
+    "if_menu_condition_type",
+    "if_menu_condition",
+    "if_menu_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:33.875Z"
+}

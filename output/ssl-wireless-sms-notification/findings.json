@@ -1,0 +1,30 @@
+{
+  "options": [
+    "sslcare_notification",
+    "enable_plugin",
+    "sslcare_api_version",
+    "enable_unicode_sms",
+    "sslcare_pending_alert",
+    "sslcare_processing_alert",
+    "sslcare_onhold_alert",
+    "sslcare_failed_alert",
+    "sslcare_canceled_alert",
+    "sslcare_completed_alert",
+    "sslcare_refund_alert",
+    "sslcare_partial_alert",
+    "sslcare_shipped_alert",
+    "sslcare_admin_sms_alert",
+    "sslcare_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sslcare_login_phone",
+    "billing_phone",
+    "_customer_user",
+    "_billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:33.218Z"
+}

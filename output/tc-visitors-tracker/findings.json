@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tc_visitors_tracker_timezone",
+    "tc_visitors_tracker_firstday",
+    "tc_visitors_tracker_dateformat",
+    "tc_visitors_tracker_timeformat",
+    "tc_visitors_tracker_rowlimit",
+    "tc_visitors_tracker_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:55.895Z"
+}

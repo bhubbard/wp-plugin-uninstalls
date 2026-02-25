@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpt-teacher-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpt_assignment_dueDate",
+    "wpt_assignment_docs",
+    "wpt_event_date",
+    "wpt_event"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:52.282Z"
+}

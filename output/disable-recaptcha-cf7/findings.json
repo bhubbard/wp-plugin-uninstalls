@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dr_options",
+    "fh_dr_do_activation_redirect",
+    "fh_dr_show_activation_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:44.659Z"
+}

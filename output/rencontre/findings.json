@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rencontre_options",
+    "rencontre_mailPerHour",
+    "rencontre_dbip"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "metaboxhidden_nav-menus",
+    "rencontre_confirm_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:14.316Z"
+}

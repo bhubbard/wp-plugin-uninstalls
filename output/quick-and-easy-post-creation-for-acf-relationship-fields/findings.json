@@ -1,0 +1,15 @@
+{
+  "options": [
+    "acf-rc-activation-date",
+    "acf-rc-dismiss-review-msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acf-rc-uses",
+    "acf-rc-review-msg-dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:13.690Z"
+}

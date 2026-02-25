@@ -1,0 +1,18 @@
+{
+  "options": [
+    "nyt_bestseller_listings_apiKey",
+    "nyt_bestseller_listings_defaultList",
+    "*_apiKey",
+    "*_CatalogLinkFormat",
+    "bestseller-lists-nyt-plugin-version",
+    "{self::}_apiKey",
+    "{self::}_defaultList",
+    "{self::}_CatalogLinkFormat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:58.588Z"
+}

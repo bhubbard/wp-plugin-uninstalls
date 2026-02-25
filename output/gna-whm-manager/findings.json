@@ -1,0 +1,16 @@
+{
+  "options": [
+    "g_whm_configs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ex_rate_from_cur",
+    "ex_rate_to_cur",
+    "ex_rate_rate",
+    "ex_rate_flag_from"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:59.587Z"
+}

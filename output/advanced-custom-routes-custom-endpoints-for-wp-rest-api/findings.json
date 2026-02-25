@@ -1,0 +1,32 @@
+{
+  "options": [
+    "cd_acr_custom_field_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cd_acr_amount",
+    "cd_acr_offset",
+    "cd_acr_authors_exclude",
+    "cd_acr_authors",
+    "cd_acr_categories_exclude",
+    "cd_acr_categories",
+    "cd_acr_date_after",
+    "cd_acr_date_before",
+    "cd_acr_order",
+    "cd_acr_orderby",
+    "cd_acr_post_ids_exclude",
+    "cd_acr_post_ids",
+    "cd_acr_post_parent_exclude",
+    "cd_acr_post_parent_include",
+    "cd_acr_post_types",
+    "cd_acr_status",
+    "cd_acr_tags_exclude",
+    "cd_acr_tags",
+    "cd_acr_output_fields",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:28.321Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "agilecrm_gf_domain",
+    "agilecrm_gf_admin_email",
+    "agilecrm_gf_api_key",
+    "agilecrm_gf_form_map",
+    "agilecrm_gf_contact_fields",
+    "agilecrm_gf_mapped_forms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:08.822Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "iw_single_author",
+    "iw_default_author",
+    "iw_author_url",
+    "iw_relme_bw"
+  ],
+  "transients": [
+    "indieweb_mastodon"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "relme",
+    "mastodon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:09.682Z"
+}

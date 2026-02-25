@@ -1,0 +1,24 @@
+{
+  "options": [
+    "fssl-setting-zoom",
+    "fssl-setting-lat",
+    "fssl-setting-long",
+    "fssl-setting-icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fssl_address",
+    "_fssl_city",
+    "_fssl_state",
+    "_fssl_zip",
+    "_fssl_country",
+    "_fssl_lat",
+    "_fssl_long",
+    "_fssl_short_des",
+    "_fssl_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:23.013Z"
+}

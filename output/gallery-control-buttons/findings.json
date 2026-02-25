@@ -1,0 +1,22 @@
+{
+  "options": [
+    "gcbt_yazdir_icon",
+    "gcbt_indir_icon",
+    "gcbt_yazdir_icon_color",
+    "gcbt_indir_icon_color",
+    "gcbt_yazdir_text_color",
+    "gcbt_indir_text_color",
+    "gcbt_yazdir_bg_color",
+    "gcbt_indir_bg_color",
+    "gcbt_show_yazdir",
+    "gcbt_show_indir"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:28.202Z"
+}

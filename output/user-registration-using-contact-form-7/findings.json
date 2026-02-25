@@ -1,0 +1,30 @@
+{
+  "options": [
+    "zurcf7_formid",
+    "zurcf7_debug_mode_status",
+    "zurcf7_skipcf7_email",
+    "zurcf7_successurl_field",
+    "zurcf7_email_field",
+    "zurcf7_username_field",
+    "zurcf7_userrole_field",
+    "zurcf7_fb_signup_app_id",
+    "zurcf7_fb_app_secret",
+    "zurcf7_enable_sent_login_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*form_id",
+    "*form_title",
+    "*user_login",
+    "*user_email",
+    "*role",
+    "*type",
+    "*user_pass",
+    "*user_status",
+    "*user_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:47.539Z"
+}

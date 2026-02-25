@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wc_csz_countries_codes",
+    "wc_csz_shipping_distance_fee",
+    "wc_csz_new_state_field",
+    "wc_csz_populate_state",
+    "woocommerce_default_country",
+    "wc_csz_checkout_restrict_states"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_city",
+    "shipping_city",
+    "*_country",
+    "*_city",
+    "*_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:44.604Z"
+}

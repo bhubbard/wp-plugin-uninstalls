@@ -1,0 +1,16 @@
+{
+  "options": [
+    "CCWPSC_VERSION",
+    "CCWPSC_VERSION_UPDATE",
+    "ccwpsc_caching_options",
+    "cc_maxmind_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "country_caching_check_wpsc"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:47.158Z"
+}

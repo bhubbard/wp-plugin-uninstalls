@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ct_checked_now'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ct_checked_now'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ct_checked_now'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ct_checked_now'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_bbp_author_ip'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_bbp_author_ip'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_bbp_author_ip'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_bbp_author_ip'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ct_bad'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ct_bad'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ct_bad'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ct_bad'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ct_checked'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ct_checked'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ct_checked'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ct_checked'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ct_marked_as_spam'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ct_marked_as_spam'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ct_marked_as_spam'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ct_marked_as_spam'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_bbp_forum_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_bbp_forum_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_bbp_forum_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_bbp_forum_id'"

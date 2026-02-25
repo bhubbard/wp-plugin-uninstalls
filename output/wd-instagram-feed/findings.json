@@ -1,0 +1,47 @@
+{
+  "options": [
+    "wdi_token_error_flag",
+    "wdi_sample_feed_post_id",
+    "wdi_version",
+    "wdi_sample_feed_id",
+    "wdi_sample_feed_post_url",
+    "wdi_first_user_username",
+    "wdi_theme_keys",
+    "wdi_admin_notice",
+    "wdi_subscribe_done",
+    "wdi_redirect_to_settings",
+    "widget_wdi_instagram_widget",
+    "wdi_current_cache_time",
+    "wdi_cache_success_*",
+    "two-front-page-speed",
+    "twb_images_total_size",
+    "twb_speed_score",
+    "tenweb_domain_id",
+    "*_workspace_id",
+    "*_domain_id",
+    "tenweb_access_token",
+    "twb_show_cta",
+    "twb_hompage_optimized",
+    "wdi_instagram_options",
+    "*_version",
+    "*_admin_notice",
+    "*_subscribe_done"
+  ],
+  "transients": [
+    "wdi_update_check",
+    "twb_optimized_pages",
+    "tenweb_subscription_id",
+    "*_overview_visited"
+  ],
+  "cron_jobs": [
+    "wdi_schedule_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "two_page_speed",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:48.676Z"
+}

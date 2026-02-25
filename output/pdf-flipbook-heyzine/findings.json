@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cl_heyzine_oauth_token",
+    "cl_heyzine_oauth_email",
+    "cl_heyzine_oauth_refresh_token",
+    "cl_heyzine_oauth_token_expires_at"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:51.226Z"
+}

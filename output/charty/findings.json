@@ -1,0 +1,28 @@
+{
+  "options": [
+    "default_google_maps_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_charty_display_mode",
+    "_charty_region",
+    "_charty_color_axis",
+    "_charty_bg_color",
+    "_charty_tooltip_trigger",
+    "_charty_dataless_region_color",
+    "_charty_default_color",
+    "_charty_description",
+    "_charty_data",
+    "_charty_labels",
+    "_charty_maps_api_key",
+    "_charty_type",
+    "_charty_height",
+    "_charty_map_zoom_level",
+    "_charty_map_style",
+    "_charty_map_type_control"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:37.133Z"
+}

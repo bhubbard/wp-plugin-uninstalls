@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wlgf_current_version",
+    "wlgf_last_version",
+    "wlgf_saved_form_data_*",
+    "wlgf_form_*",
+    "we_lgf_current_version",
+    "we_lgf_last_version",
+    "lgf_form_*",
+    "lgf_saved_form_data_*",
+    "wlgf_settings",
+    "wlgf_form_1",
+    "wlgf_form_2",
+    "wlgf_secretkey"
+  ],
+  "transients": [
+    "wlgf_version_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:10.501Z"
+}

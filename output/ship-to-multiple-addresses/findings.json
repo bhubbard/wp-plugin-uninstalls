@@ -1,0 +1,27 @@
+{
+  "options": [
+    "destinations_price_section_on",
+    "destinations_individual_section",
+    "destinations_main_section_on",
+    "destinations_gift_section_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_regular_price",
+    "_product_attributes",
+    "_virtual",
+    "_sold_individually",
+    "_visibility",
+    "product_*",
+    "name_*",
+    "phone_*",
+    "email_*",
+    "address_*",
+    "custommessage_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:37.137Z"
+}

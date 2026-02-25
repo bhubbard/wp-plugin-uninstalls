@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('crp_db_version', 'crp_settings', 'crp_meta_migration_done', 'crp_show_wizard', 'crp_wizard_notice_dismissed', 'ald_crp_settings', 'crp_wizard_completed', 'crp_wizard_completed_date', 'crp_wizard_current_step', 'wz_posts_custom_tables_ready', 'crp_related_posts_pro_blocks_settings', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'crp_deactivated_notice', 'crp_show_wizard_activation_redirect', 'crp_reindex_state', 'crp_deactivated_notice_id', 'crp_reindex_scheduled', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_crp_manual_related', '_crp_exclude_this_post', 'crp_post_meta', '_crp_disable_here', '_crp_keyword', '_crp_exclude_words', '_crp_exclude_post_ids', '_video_thumbnail', '_wp_attachment_image_alt', '_seopress_robots_primary_cat');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_crp_manual_related', '_crp_exclude_this_post', 'crp_post_meta', '_crp_disable_here', '_crp_keyword', '_crp_exclude_words', '_crp_exclude_post_ids', '_video_thumbnail', '_wp_attachment_image_alt', '_seopress_robots_primary_cat');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_crp_manual_related', '_crp_exclude_this_post', 'crp_post_meta', '_crp_disable_here', '_crp_keyword', '_crp_exclude_words', '_crp_exclude_post_ids', '_video_thumbnail', '_wp_attachment_image_alt', '_seopress_robots_primary_cat');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_crp_manual_related', '_crp_exclude_this_post', 'crp_post_meta', '_crp_disable_here', '_crp_keyword', '_crp_exclude_words', '_crp_exclude_post_ids', '_video_thumbnail', '_wp_attachment_image_alt', '_seopress_robots_primary_cat');
+

@@ -1,0 +1,46 @@
+{
+  "options": [
+    "journalistai_secret"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_aioseo_title",
+    "_aioseo_og_title",
+    "_aioseo_description",
+    "_aioseo_og_description",
+    "_aioseo_keywords",
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_focus_keyword",
+    "_seopress_titles_title",
+    "_seopress_social_fb_title",
+    "_seopress_social_twitter_title",
+    "_seopress_titles_desc",
+    "_seopress_social_fb_desc",
+    "_seopress_social_twitter_desc",
+    "_seopress_analysis_target_kw",
+    "_genesis_title",
+    "_open_graph_title",
+    "_twitter_title",
+    "_genesis_description",
+    "_open_graph_description",
+    "_twitter_description",
+    "_sq_title",
+    "_sq_description",
+    "_sq_keywords",
+    "_elementor_edit_mode",
+    "_elementor_template_type",
+    "_elementor_data",
+    "_elementor_version"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:12.021Z"
+}

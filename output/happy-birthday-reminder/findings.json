@@ -1,0 +1,13 @@
+{
+  "options": [
+    "qb_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "quibos_birthdatechecker_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:07.527Z"
+}

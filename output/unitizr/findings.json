@@ -1,0 +1,13 @@
+{
+  "options": [
+    "unitizr_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_unitizr_fee"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:45.386Z"
+}

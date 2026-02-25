@@ -1,0 +1,25 @@
+{
+  "options": [
+    "suffix-master",
+    "suffix_master_global",
+    "suffix_master_woocommerce",
+    "suffix_master_tools",
+    "suffix_master_version",
+    "suffix_master_install_time",
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "codexpert-daily",
+    "suffix_master_apply_wc_slug"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_suffix_master_title",
+    "_suffix_master_content",
+    "_suffix_master_product_title",
+    "_suffix_master_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:54.678Z"
+}

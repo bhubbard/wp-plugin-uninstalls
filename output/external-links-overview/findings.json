@@ -1,0 +1,20 @@
+{
+  "options": [
+    "seokelo_last_external_check_time",
+    "seokelo_batch_offset",
+    "seokelo_batch_offset_check",
+    "seokelo_cache_timestamp",
+    "seokelo_posts_to_update",
+    "seokelo_widget_enabled",
+    "seokelo_total_posts_to_scan",
+    "seokelo_last_error",
+    "seokelo_last_external_check_count",
+    "seokelo_last_external_broken_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:12.135Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "slash_edit_install",
+    "slash_edit_version"
+  ],
+  "transients": [
+    "slash_edit_token_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:18.270Z"
+}

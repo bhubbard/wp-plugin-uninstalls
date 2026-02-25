@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_ship_to_destination",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "terminal_id",
+    "_dellin_track_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:40.121Z"
+}

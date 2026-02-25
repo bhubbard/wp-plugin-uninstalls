@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpos_anylc_redirect",
+    "wpos_anylc_site_uid"
+  ],
+  "transients": [
+    "wp_igsp_install_notice",
+    "wpos_anylc_optin_notice_*"
+  ],
+  "cron_jobs": [
+    "wpos_monthly_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_vdw_gallery_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:05.589Z"
+}

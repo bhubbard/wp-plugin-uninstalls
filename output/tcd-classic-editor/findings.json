@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tcdce_reset",
+    "tcdce_quicktag",
+    "tcdce_gmap",
+    "tcdce_toc",
+    "classic-editor-replace",
+    "classic-editor-allow-users",
+    "tcdce_basic"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hide_toc",
+    "classic-editor-remember"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:01.435Z"
+}

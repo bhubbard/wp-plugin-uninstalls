@@ -1,0 +1,27 @@
+{
+  "options": [
+    "twinfield_customer_slug",
+    "twinfield_invoice_slug",
+    "wp_twinfield_default_invoice_type",
+    "twinfield_username",
+    "twinfield_password",
+    "twinfield_organisation",
+    "twinfield_default_office_code",
+    "twinfield_default_invoice_type",
+    "twinfield_default_vat_code",
+    "twinfield_default_article_code",
+    "twinfield_default_subarticle_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_twinfield_article_code",
+    "_twinfield_subarticle_code",
+    "_twinfield_customer_id",
+    "_twinfield_response",
+    "_twinfield_invoice_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:07.737Z"
+}

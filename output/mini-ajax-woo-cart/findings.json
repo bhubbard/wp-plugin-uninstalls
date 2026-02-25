@@ -1,0 +1,15 @@
+{
+  "options": [
+    "majc_first_activation",
+    "majc_dismissed_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uwcc_settings",
+    "majc_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:58.476Z"
+}

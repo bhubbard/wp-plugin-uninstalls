@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpce_errors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_experiments_wp_active",
+    "_experiments_wp_code",
+    "_wpgce_event_tracking_active",
+    "_wpgce_event_tracking_code",
+    "_wpgce_event_tracking_jquery_code",
+    "_wpgce_event_tracking_category",
+    "_wpgce_event_tracking_action",
+    "_wpgce_event_tracking_label",
+    "_wpgce_event_tracking_css_id",
+    "_wpgce_event_tracking_css_class"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:35.126Z"
+}

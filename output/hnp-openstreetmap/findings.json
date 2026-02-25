@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hnp_openmaps_map_address",
+    "hnp_openmaps_map_name",
+    "hnp_openmaps_map_zoom",
+    "hnp_openmaps_map_style",
+    "hnp_openmaps_map_height",
+    "hnp_openmaps_map_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:58.321Z"
+}

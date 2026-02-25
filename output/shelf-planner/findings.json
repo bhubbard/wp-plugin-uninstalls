@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_wcml_is_active",
+    "woocommerce_custom_orders_table_enabled",
+    "*_enable_logs",
+    "*_logs_dictionary",
+    "*_installed_plugin_version",
+    "*_server_key",
+    "*_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:26.537Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_xh-mustang-pay-wc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_merchant_order_pay_method",
+    "_merchant_order_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:58.165Z"
+}

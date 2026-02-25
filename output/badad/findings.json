@@ -1,0 +1,18 @@
+{
+  "options": [
+    "badad_testlive",
+    "badad_live_pub",
+    "badad_live_sec",
+    "badad_test_pub",
+    "badad_test_sec",
+    "badad_call_key",
+    "badad_siteslug",
+    "badad_access"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:41.399Z"
+}

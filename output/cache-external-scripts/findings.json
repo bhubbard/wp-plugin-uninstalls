@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ces_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cache-external-scripts-cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:09.411Z"
+}

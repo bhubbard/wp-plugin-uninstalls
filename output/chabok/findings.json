@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tesmino_token",
+    "chabok_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ts_reportage_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:31.513Z"
+}

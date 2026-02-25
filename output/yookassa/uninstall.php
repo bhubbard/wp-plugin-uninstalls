@@ -1,0 +1,114 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('yookassa_shop_id');
+delete_site_option('yookassa_shop_id');
+delete_option('yookassa_shop_password');
+delete_site_option('yookassa_shop_password');
+delete_option('yookassa_pay_mode');
+delete_site_option('yookassa_pay_mode');
+delete_option('yookassa_success');
+delete_site_option('yookassa_success');
+delete_option('yookassa_fail');
+delete_site_option('yookassa_fail');
+delete_option('yookassa_tax_rates_enum');
+delete_site_option('yookassa_tax_rates_enum');
+delete_option('yookassa_enable_hold');
+delete_site_option('yookassa_enable_hold');
+delete_option('yookassa_description_template');
+delete_site_option('yookassa_description_template');
+delete_option('yookassa_enable_receipt');
+delete_site_option('yookassa_enable_receipt');
+delete_option('yookassa_enable_second_receipt');
+delete_site_option('yookassa_enable_second_receipt');
+delete_option('yookassa_second_receipt_order_status');
+delete_site_option('yookassa_second_receipt_order_status');
+delete_option('yookassa_debug_enabled');
+delete_site_option('yookassa_debug_enabled');
+delete_option('yookassa_default_tax_rate');
+delete_site_option('yookassa_default_tax_rate');
+delete_option('yookassa_default_tax_system_code');
+delete_site_option('yookassa_default_tax_system_code');
+delete_option('yookassa_force_clear_cart');
+delete_site_option('yookassa_force_clear_cart');
+delete_option('yookassa_tax_rate');
+delete_site_option('yookassa_tax_rate');
+delete_option('yookassa_enable_sbbol');
+delete_site_option('yookassa_enable_sbbol');
+delete_option('yookassa_sbbol_tax_rates_enum');
+delete_site_option('yookassa_sbbol_tax_rates_enum');
+delete_option('yookassa_sbbol_default_tax_rate');
+delete_site_option('yookassa_sbbol_default_tax_rate');
+delete_option('yookassa_sbbol_tax_rate');
+delete_site_option('yookassa_sbbol_tax_rate');
+delete_option('yookassa_sbbol_purpose');
+delete_site_option('yookassa_sbbol_purpose');
+delete_option('yookassa_payment_subject_default');
+delete_site_option('yookassa_payment_subject_default');
+delete_option('yookassa_payment_mode_default');
+delete_site_option('yookassa_payment_mode_default');
+delete_option('yookassa_shipping_payment_subject_default');
+delete_site_option('yookassa_shipping_payment_subject_default');
+delete_option('yookassa_shipping_payment_mode_default');
+delete_site_option('yookassa_shipping_payment_mode_default');
+delete_option('yookassa_kassa_currency');
+delete_site_option('yookassa_kassa_currency');
+delete_option('yookassa_kassa_currency_convert');
+delete_site_option('yookassa_kassa_currency_convert');
+delete_option('yookassa_access_token');
+delete_site_option('yookassa_access_token');
+delete_option('yookassa_save_card');
+delete_site_option('yookassa_save_card');
+delete_option('yookassa_marking_enabled');
+delete_site_option('yookassa_marking_enabled');
+delete_option('yookassa_apple_pay_enabled');
+delete_site_option('yookassa_apple_pay_enabled');
+delete_option('yookassa_tax_system_codes_enum');
+delete_site_option('yookassa_tax_system_codes_enum');
+delete_option('woocommerce_calc_taxes');
+delete_site_option('woocommerce_calc_taxes');
+delete_option('yookassa_nps_vote_time');
+delete_site_option('yookassa_nps_vote_time');
+delete_option('yookassa_oauth_state');
+delete_site_option('yookassa_oauth_state');
+delete_option('yookassa_token_expires_in');
+delete_site_option('yookassa_token_expires_in');
+delete_option('yookassa_self_employed');
+delete_site_option('yookassa_self_employed');
+delete_option('woocommerce_yookassa_qiwi_settings');
+delete_site_option('woocommerce_yookassa_qiwi_settings');
+delete_option('woocommerce_yookassa_bank_card_settings');
+delete_site_option('woocommerce_yookassa_bank_card_settings');
+delete_option('woocommerce_yookassa_epl_settings');
+delete_site_option('woocommerce_yookassa_epl_settings');
+delete_option('woocommerce_yookassa_sberbank_settings');
+delete_site_option('woocommerce_yookassa_sberbank_settings');
+delete_option('woocommerce_yookassa_wallet_settings');
+delete_site_option('woocommerce_yookassa_wallet_settings');
+delete_option('woocommerce_yookassa_cash_settings');
+delete_site_option('woocommerce_yookassa_cash_settings');
+delete_option('woocommerce_yookassa_webmoney_settings');
+delete_site_option('woocommerce_yookassa_webmoney_settings');
+delete_option('woocommerce_yookassa_alfabank_settings');
+delete_site_option('woocommerce_yookassa_alfabank_settings');
+delete_option('woocommerce_yookassa_installments_settings');
+delete_site_option('woocommerce_yookassa_installments_settings');
+delete_option('yookassa_epl_installments');
+delete_site_option('yookassa_epl_installments');
+delete_option('yookassa_add_installments_block');
+delete_site_option('yookassa_add_installments_block');
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wpml_language' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wpml_language' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wpml_language' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wpml_language' ) );
+

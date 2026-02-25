@@ -1,0 +1,11 @@
+{
+  "options": [
+    "edd_email_on_update-mail_body"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:29.933Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_transient_*",
+    "deploy_sync_content__tracking_init_once",
+    "deploy_sync_content__settings_data",
+    "deploy_sync_content__url_prod_is_defined"
+  ],
+  "transients": [
+    "deploy_sync_content__debug",
+    "deploy_sync_content__activation_message",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:24.556Z"
+}

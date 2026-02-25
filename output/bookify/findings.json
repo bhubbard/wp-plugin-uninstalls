@@ -1,0 +1,48 @@
+{
+  "options": [
+    "bookify_notification_settings",
+    "bookify_company_details",
+    "bookify_general_settings",
+    "bookify_onboarding_completed",
+    "bookify_integration_settings",
+    "bookify_payment_settings",
+    "bookify_prev_multi_booking",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bookify_staff_slot_duration",
+    "bookify_customer_phone",
+    "bookify_customer_note",
+    "bookify_staff_phone",
+    "bookify_staff_profession",
+    "bookify_staff_note",
+    "bookify_staff_mutiple_booking",
+    "bookify_staff_services",
+    "bookify_staff_timeslots",
+    "bookify_staff_special_days_timeslots",
+    "bookify_staff_holidays",
+    "bookify_staff_img",
+    "bookify_customer_img",
+    "bookify_staff_slot_interval",
+    "bookify_staff_schedule",
+    "bookify_staff_special_days",
+    "bookify_staff_zoom_uid"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:45.874Z"
+}

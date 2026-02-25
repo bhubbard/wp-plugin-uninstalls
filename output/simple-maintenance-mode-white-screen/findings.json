@@ -1,0 +1,19 @@
+{
+  "options": [
+    "smmws_enabled",
+    "smmws_text",
+    "smmws_font_size",
+    "smmws_bg_color",
+    "smmws_text_color",
+    "smmws_font_family",
+    "smmws_logo"
+  ],
+  "transients": [
+    "smmws_settings_saved"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:39.642Z"
+}

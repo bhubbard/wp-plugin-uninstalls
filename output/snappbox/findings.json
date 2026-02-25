@@ -1,0 +1,21 @@
+{
+  "options": [
+    "snappbox_api",
+    "snappbox_store_phone",
+    "snappbox_store_name",
+    "woocommerce_snappbox_shipping_method_settings",
+    "snappbox_yandex_deactivation_goal"
+  ],
+  "transients": [
+    "woocommerce_shipping_zones_cache",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_latitude",
+    "_customer_longitude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:05.332Z"
+}

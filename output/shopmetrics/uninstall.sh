@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'shopmetrics_settings'
+wp option delete 'shopmetrics_analytics_api_token'
+wp option delete 'shopmetrics_analytics_site_identifier'
+wp option delete 'woocommerce_manage_stock'
+wp option delete 'woocommerce_notify_low_stock_amount'
+wp option delete 'woocommerce_notify_no_stock_amount'
+wp option delete 'shopmetrics_analytics_cogs_default_percentage'
+wp option delete 'shopmetrics_needs_onboarding'
+wp option delete 'shopmetrics_subscription_status'
+wp option delete 'shopmetrics_subscription_plan'
+wp option delete 'shopmetrics_next_billing_date'
+wp option delete 'shopmetrics_cancel_at_period_end'
+wp option delete 'shopmetrics_cancel_at'
+wp option delete 'shopmetrics_pricing_data'
+wp option delete 'shopmetrics_enable_debug_logging'
+wp option delete 'shopmetrics_trial_ends_at'
+wp option delete 'shopmetrics_selected_order_blocks'
+wp option delete 'shopmetrics_customer_email'
+wp option delete 'shopmetrics_customer_name'
+wp option delete 'shopmetrics_customer_type'
+wp option delete 'shopmetrics_vat_number'
+wp option delete 'shopmetrics_subscription_last_sync'
+wp option delete 'shopmetrics_historical_sync_progress'
+wp option delete 'shopmetrics_sync_in_progress_lock'
+wp option delete 'shopmetrics_sync_last_run'
+wp option delete 'shopmetrics_analytics_customer_hash_salt'
+wp option delete 'shopmetrics_analytics_last_low_stock_notification'
+wp option delete 'active_sitewide_plugins'
+
+# Delete Transients
+wp transient delete 'shopmetrics_activation_redirect'
+wp transient delete 'shopmetrics_onboarding_progress'
+wp transient delete 'shopmetrics_sync_fallback_required'
+wp transient delete 'shopmetrics_sync_running'
+wp transient delete 'shopmetrics_cart_update_in_progress'
+wp transient delete 'shopmetrics_skip_implicit_cart_views'
+wp transient delete 'shopmetrics_sync_throttle'
+wp transient delete 'shopmetrics_analytics_last_sync_time'
+

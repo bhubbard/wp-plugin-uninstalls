@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "postapanduri_setari_generale",
+    "postapanduri_setari_pachetomat",
+    "postapanduri_setari_puncte_ridicare",
+    "postapanduri_setari_curierat",
+    "jal_db_version",
+    "woocommerce_calc_taxes"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "postapanduri_generate_sitemaps_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "id_pachetomat"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:02.498Z"
+}

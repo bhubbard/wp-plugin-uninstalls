@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ihp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hotspot_content",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:17.938Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dk_spx_old_order_status_converted",
+    "dk_spx_convert_old_order_status",
+    "dk_spx_callback_key_send",
+    "woocommerce_sparxpres_settings",
+    "woocommerce_xprespay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:32.321Z"
+}

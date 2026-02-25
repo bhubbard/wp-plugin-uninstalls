@@ -1,0 +1,15 @@
+{
+  "options": [
+    "l0nch_my_batsignal_option_expirecookie",
+    "l0nch_my_batsignal_option_declencheur",
+    "l0nch_my_batsignal_option_declencheur_unit",
+    "l0nch_my_batsignal_option_powered",
+    "l0nch_my_batsignal_option_newsletter_html"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:28.263Z"
+}

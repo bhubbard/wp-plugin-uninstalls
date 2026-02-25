@@ -1,0 +1,38 @@
+{
+  "options": [
+    "it_idol_woo_csv_header"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "_price",
+    "_sku",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_manage_stock",
+    "_stock",
+    "_backorders",
+    "_stock_status",
+    "_sold_individually",
+    "_product_url",
+    "_button_text",
+    "_virtual",
+    "_downloadable",
+    "_downloadable_files",
+    "_weight",
+    "_length",
+    "_width",
+    "_height",
+    "_purchase_note",
+    "_product_attributes",
+    "attribute_*",
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:47.130Z"
+}

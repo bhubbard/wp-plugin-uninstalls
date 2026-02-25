@@ -1,0 +1,23 @@
+{
+  "options": [
+    "mcfgf_settings",
+    "mcfgf_conversation_generator",
+    "mtfcf7_conversation_generator",
+    "mcfgf_basics",
+    "mcfgf_install",
+    "gfp_stripe_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_woocommerce_persistent_cart_*",
+    "_woocommerce_load_saved_cart_after_login",
+    "ignore_mcfgf_ag_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:26.803Z"
+}

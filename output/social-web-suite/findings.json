@@ -1,0 +1,38 @@
+{
+  "options": [],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sws_meta_times_shared",
+    "sws_gutenberg_share_on_publish",
+    "sws_meta_post_status",
+    "sws_meta_custom_message_variations_data",
+    "sws_gutenberg_share_manually",
+    "sws_gutenberg_share_on_update",
+    "sws_meta_manual",
+    "sws_show_misc_options",
+    "sws_meta_send_now",
+    "sws_meta_repeat",
+    "sws_meta_schedule_date",
+    "sws_meta_schedule_calendar",
+    "sws_meta_schedule_hours",
+    "sws_meta_schedule_mins",
+    "sws_meta_schedule_ampm",
+    "sws_meta_startdate_date",
+    "sws_meta_enddate_date",
+    "sws_meta_include_image",
+    "sws_meta_format",
+    "sws_meta_custom_message",
+    "sws_meta_use_cutom_messages",
+    "sws_meta_use_hashtags",
+    "sws_meta_hashtags",
+    "sws_meta_social_accounts_exclude",
+    "sws_already_shared",
+    "sws_already_shared_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:32.791Z"
+}

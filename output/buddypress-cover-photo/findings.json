@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fileupload_maxk",
+    "bpcp-profile-default",
+    "bpcp-group-default"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "profile_cover_file_path"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:05.914Z"
+}

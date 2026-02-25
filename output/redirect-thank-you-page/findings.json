@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sm_sortable_order",
+    "wc_settings_enable_redirect",
+    "wc_settings_thank_you_page",
+    "wc_settings_thank_you_type",
+    "wmprty_enable_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wmprty_products",
+    "wmprty_page",
+    "wmprty_prd_opt_data",
+    "wmprty_status",
+    "wmprty_custom_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:32.377Z"
+}

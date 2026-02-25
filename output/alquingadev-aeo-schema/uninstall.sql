@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aeo_engine_activation_date', 'aeo_engine_version', 'aeo_engine_enable_blogposting', 'aeo_engine_enable_breadcrumb', 'aeo_engine_enable_organization', 'aeo_engine_language', 'aeo_engine_post_types', 'aeo_engine_org_name', 'aeo_engine_org_description', 'aeo_engine_org_url', 'aeo_engine_org_logo', 'aeo_engine_author_name', 'aeo_engine_author_url', 'aeo_engine_social_facebook', 'aeo_engine_social_twitter', 'aeo_engine_social_linkedin', 'aeo_engine_social_instagram', 'aeo_engine_social_youtube', 'aeo_engine_social_github');
+

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cel_new_logs",
+    "cel_ab_show",
+    "custom_error_log",
+    "custom_notice_log",
+    "*_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:47.194Z"
+}

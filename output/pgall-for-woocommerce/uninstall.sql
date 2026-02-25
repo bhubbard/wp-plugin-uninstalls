@@ -1,0 +1,21 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('pafw-smart-review-placeholder', 'woocommerce_enable_reviews', 'pafw-subscription-allow-change-date', 'pafw-gw-support-cancel-guest-order', 'pafw-gw-support-cancel-unpaid-order', 'pafw-gw-cancel-unpaid-order-days', 'pafw_use_bacs_receipt', 'pafw_bacs_receipt_issue_statuses', 'pafw_bacs_receipt_cancel_statuses', 'pafw-gw-support-exchange', 'pafw-gw-support-return', 'pafw-gw-ex-skip-virtual', 'pafw-gw-ex-terms', 'woocommerce_myaccount_page_id', 'pafw_db_version', 'pafw-order-status-by-product', 'pafw-order-status-by-category', 'pafw-order-status-by-attributes', 'pafw-auto-transition-by-term', 'pafw-gw-order_status_after_payment_for_virtual', 'woocommerce_hold_stock_minutes', 'woocommerce_manage_stock', 'pafw-use-woocommerce-blocks', 'pafw-payment-method-by-role', 'pafw-payment-method-by-product', 'pafw-payment-method-by-category', 'pafw-payment-method-by-attributes', 'pafw-payment-method-by-language', 'pafw-payment-method-by-amount', 'pafw-renewal-failed-period', 'pafw-renewal-failed-notification-sms-template', 'mssms_use_shipping_info', 'mssms_rep_send_no', 'pafw-renewal-failed-notification-alimtalk-template', 'pafw-use-renewal-failed-notification', 'pafw-renewal-failed-notification-method', 'pafw-smart-review-rate', 'pafw-use-smart-review', 'woocommerce_calc_taxes', 'woocommerce_prices_include_tax', 'pafw_bacs_receipt_reg_number', 'pafw_mshop_lguplus', 'pafw_mshop_inicis', 'pafw_mshop_kakaopay', 'pafw_mshop_kcp', 'pafw_mshop_kicc', 'pafw_mshop_nicepay', 'pafw_mshop_payco', 'pafw_mshop_settlebank', 'pafw_mshop_settlepg');
+DELETE FROM wp_options WHERE option_name IN ('pafw_mshop_settlevbank', 'pafw_mshop_tosspayments', 'woocommerce_ship_to_destination', 'pafw-gw-possible_refund_status_for_mypage', 'pafw-gw-order_status_after_payment', 'woocommerce_force_ssl_checkout', 'pafw-subscription-force-renewal-time', 'pafw-subscription-renewal-time-begin', 'pafw-subscription-renewal-time-end', 'pafw-smart-review-template', 'pafw-script-footer', 'pafw-order-pay-form-selector', 'pafw-checkout-form-selector', 'woocommerce_enable_order_comments', 'pafw-user-can-edit-comment', 'pafw_installing');
+DELETE FROM wp_options WHERE option_name LIKE 'pafw-gw-%';
+DELETE FROM wp_options WHERE option_name LIKE '%-agree-to-tac';
+DELETE FROM wp_options WHERE option_name LIKE 'pafw_mshop_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_multiple_purchase';
+DELETE FROM wp_options WHERE option_name LIKE 'pafw_%';
+DELETE FROM wp_options WHERE option_name LIKE '%-notices';
+DELETE FROM wp_options WHERE option_name LIKE 'pafw_redirect_url_%';
+DELETE FROM wp_options WHERE option_name LIKE 'pafw_renewal_failed_key_%';
+DELETE FROM wp_options WHERE option_name LIKE '_pafw_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_pafw_bacs_receipt', '_pafw_bacs_receipt_usage', '_pafw_bacs_receipt_issue_type', '_pafw_bacs_receipt_reg_number', 'billing_last_name', 'billing_first_name', 'billing_email', 'rating', 'verified', '_mshop_acceptance_of_terms', 'pafw_version', 'billing_phone');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_pafw_bacs_receipt', '_pafw_bacs_receipt_usage', '_pafw_bacs_receipt_issue_type', '_pafw_bacs_receipt_reg_number', 'billing_last_name', 'billing_first_name', 'billing_email', 'rating', 'verified', '_mshop_acceptance_of_terms', 'pafw_version', 'billing_phone');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_pafw_bacs_receipt', '_pafw_bacs_receipt_usage', '_pafw_bacs_receipt_issue_type', '_pafw_bacs_receipt_reg_number', 'billing_last_name', 'billing_first_name', 'billing_email', 'rating', 'verified', '_mshop_acceptance_of_terms', 'pafw_version', 'billing_phone');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_pafw_bacs_receipt', '_pafw_bacs_receipt_usage', '_pafw_bacs_receipt_issue_type', '_pafw_bacs_receipt_reg_number', 'billing_last_name', 'billing_first_name', 'billing_email', 'rating', 'verified', '_mshop_acceptance_of_terms', 'pafw_version', 'billing_phone');
+

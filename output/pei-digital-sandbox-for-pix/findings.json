@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pei_pix_api_key",
+    "pei_pix_secret",
+    "pei_pix_currency",
+    "pei_pix_gateway_option",
+    "pei_pix_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pei_pix_auto_approve"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:12.592Z"
+}

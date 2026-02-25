@@ -1,0 +1,25 @@
+{
+  "options": [
+    "cnb",
+    "cnb_email_activation_wp_nonce",
+    "cnb_cloud_migration_done",
+    "cnb_css_location",
+    "cnb_js_location",
+    "cnb_user_root",
+    "cnb_static_root",
+    "cnb_chat_root",
+    "cnb_storage_type"
+  ],
+  "transients": [
+    "cnb_activation",
+    "*total_buttons",
+    "*active_buttons",
+    "*total_actions",
+    "cnb-options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:02.261Z"
+}

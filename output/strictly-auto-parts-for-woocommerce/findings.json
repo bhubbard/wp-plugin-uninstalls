@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wc_ignored_sap_sku",
+    "wc_pick_code_for_sap",
+    "wc_ignored_world_sap_sku",
+    "wc_shipment_email_status",
+    "wc_shipment_email_content",
+    "wc_shipment_email_header",
+    "wc_shipment_email_subject"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipped_by_sap",
+    "send_email",
+    "_total_refund_order_items"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:06.100Z"
+}

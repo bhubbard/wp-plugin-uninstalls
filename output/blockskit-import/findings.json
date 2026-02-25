@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "blockskit_import_demo_lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "admin_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:51.063Z"
+}

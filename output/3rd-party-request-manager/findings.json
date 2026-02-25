@@ -1,0 +1,22 @@
+{
+  "options": [
+    "nsc3ppm_notify_frequency",
+    "nsc3ppm_new_hostnames",
+    "nsc3ppm_notify_email",
+    "nsc3ppm_notified_hostnames",
+    "nsc3ppm_data_retention",
+    "nsc3ppm_monitoring_enabled",
+    "nsc3ppm_enable_csp_rules",
+    "nsc3ppm_sample_percentage",
+    "nsc3ppm_allowed_hostnames"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nsc3ppm_daily_cleanup",
+    "nsc3ppm_daily_domain_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:40.027Z"
+}

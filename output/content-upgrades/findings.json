@@ -1,0 +1,23 @@
+{
+  "options": [
+    "coupg_mcapikey",
+    "coupg_maillists",
+    "coupg_default_upgrade"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "coupg_header",
+    "coupg_description",
+    "coupg_button_text",
+    "coupg_default_email_text",
+    "coupg_privacy_statement",
+    "coupg_list",
+    "coupg_em_cofirm_page",
+    "coupg_upg_location_page",
+    "coupg_theme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:11.153Z"
+}

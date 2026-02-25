@@ -1,0 +1,20 @@
+{
+  "options": [
+    "georgian_fonts_options",
+    "georgian_fonts_analytics_uuid",
+    "georgian_fonts_analytics_status",
+    "georgian_fonts_analytics_last_sent"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "georgian_fonts_analytics_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gf_dismissed_widgets",
+    "metaboxhidden_dashboard",
+    "closedpostboxes_dashboard"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:08.404Z"
+}

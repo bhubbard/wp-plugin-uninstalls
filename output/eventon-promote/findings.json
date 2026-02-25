@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mmt_promote_popup_options",
+    "mmt_promote_slidein_options",
+    "evo_promote_embed_options",
+    "evcal_options_evcal_promote",
+    "evcal_options_evcal_1",
+    "evcal_options_evcal_2",
+    "evo_tax_meta",
+    "taxonomy_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:32.859Z"
+}

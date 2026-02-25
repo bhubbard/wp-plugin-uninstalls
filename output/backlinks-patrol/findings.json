@@ -1,0 +1,31 @@
+{
+  "options": [
+    "blpatrol_check_frequency",
+    "blpatrol_isindexed_enabled",
+    "blpatrol_isindexed_api_key",
+    "blpatrol_isindexed_check_on_cron",
+    "blpatrol_indexmenow_enabled",
+    "blpatrol_indexmenow_api_key",
+    "blpatrol_gsc_client_id",
+    "blpatrol_gsc_client_secret",
+    "blpatrol_last_global_check",
+    "blpatrol_last_indexation_check",
+    "blpatrol_currency",
+    "blpatrol_indexmenow_auto_index",
+    "blpatrol_*",
+    "blpatrol_isindexed_project_id",
+    "blpatrol_db_version"
+  ],
+  "transients": [
+    "blpatrol_admin_notice"
+  ],
+  "cron_jobs": [
+    "blpatrol_daily_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "blpatrol_screen_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:56.747Z"
+}

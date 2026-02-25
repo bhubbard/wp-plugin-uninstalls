@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpbiztext-cform",
+    "biztext_custom_role_contact",
+    "biztext_custom_role"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:45.632Z"
+}

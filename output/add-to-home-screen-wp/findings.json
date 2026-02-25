@@ -1,0 +1,32 @@
+{
+  "options": [
+    "new_message_ios",
+    "new_message_android",
+    "new_startdelay",
+    "new_lifespan",
+    "new_expire_days",
+    "new_animationin",
+    "new_animationout",
+    "new_bottomoffset",
+    "new_touchicon_url",
+    "new_web_app_title",
+    "new_returning_visitors_only",
+    "new_precomposed_icon",
+    "new_enable_balloon_ios_frontend",
+    "new_install_prompt_android",
+    "new_enable_pwa",
+    "new_balloon_display_frontend",
+    "new_athswp_frontend_pwa_start_url",
+    "new_athswp_pwa_custom_url",
+    "new_athswp_delete_data_on_uninstall"
+  ],
+  "transients": [
+    "simple_aths_first_visit_*",
+    "simple_aths_balloon_closed_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:07.417Z"
+}

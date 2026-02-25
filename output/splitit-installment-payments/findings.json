@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*_new_login",
+    "*_api_key",
+    "*_client_id",
+    "*_client_secret",
+    "api_key",
+    "merchant_name",
+    "terminal_name",
+    "splitit_environment",
+    "splitit_logged_user_data",
+    "merchant_settings",
+    "splitit_last_activation_time",
+    "splitit_last_deactivation_time",
+    "*_merchant_id",
+    "*_terminal_id"
+  ],
+  "transients": [
+    "splitit_code_verifier_*",
+    "splitit_id_token_*",
+    "splitit_merchants_list_*",
+    "splitit_terminals_list_*",
+    "splitit_credentials_list_*",
+    "splitit_access_token_*",
+    "splitit_cancelled_order_message_*"
+  ],
+  "cron_jobs": [
+    "check_splitit_refund_status_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:13.892Z"
+}

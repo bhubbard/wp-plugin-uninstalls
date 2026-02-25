@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mailpoet_woocommerce_subscribe_too",
+    "mailpoet_woocommerce_addon_version",
+    "mailpoet_woocommerce_enable_checkout",
+    "mailpoet_woocommerce_customer_selects",
+    "mailpoet_woocommerce_checkbox_status",
+    "mailpoet_woocommerce_checkout_label",
+    "mailpoet_woocommerce_double_optin",
+    "mailpoet_woocommerce_subscription_position",
+    "mailpoet_woocommerce_uninstall_data",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mailpoet_wc_subscribed_to_newsletter"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:21.248Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ceewp_rtm_custom_rules",
+    "ceewp_rtm_replace_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:24.038Z"
+}

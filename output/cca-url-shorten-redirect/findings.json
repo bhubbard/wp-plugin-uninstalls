@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cansin_url_redirect_client_Address",
+    "cansin_url_redirect_host_api_secret",
+    "cansin_url_redirect_role",
+    "cansin_url_redirect_client_api_secret",
+    "cansin_url_redirect_list",
+    "cansin_url_redirect_host_Address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:47.230Z"
+}

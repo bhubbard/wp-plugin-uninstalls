@@ -1,0 +1,24 @@
+{
+  "options": [
+    "eacs_icon_type",
+    "eacs_icon_pos",
+    "eacs_icon_color",
+    "eacs_icon_bg_color",
+    "eacs_icon_hcolor",
+    "eacs_icon_hbgcolor",
+    "eacs_toolbox_heading",
+    "eacs_toolbar_color",
+    "eacs_toolbar_bg_color",
+    "eacs_titem_color",
+    "eacs_titem_bg_color",
+    "eacs_titem_hcolor",
+    "eacs_titem_hbgcolor",
+    "eacs_ticon_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:19.782Z"
+}

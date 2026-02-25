@@ -1,0 +1,12 @@
+{
+  "options": [
+    "et_current_year_month_installed",
+    "et_current_year_month_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:53.995Z"
+}

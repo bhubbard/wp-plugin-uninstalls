@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woo_swiper_settings",
+    "wdevs_gallery_swiper_theme_color",
+    "wdevs_gallery_swiper_scrollbar",
+    "wdevs_gallery_swiper_pagination",
+    "wdevs_gallery_swiper_navigation",
+    "wdevs_gallery_swiper_breakpoint",
+    "wdevs_gallery_swiper_hover_enabled",
+    "wdevs_gallery_swiper_variation_images"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:32.516Z"
+}

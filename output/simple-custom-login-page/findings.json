@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simple_custom_login_page_image",
+    "simple_custom_login_page_url",
+    "simple_custom_login_page_background",
+    "simple_custom_login_page_form_bg",
+    "simple_custom_login_page_text_color",
+    "simple_custom_login_page_link_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:32.233Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "podlove_subscribe_button_default_*",
+    "podlove_subscribe_button_default_size",
+    "podlove_subscribe_button_default_style",
+    "podlove_subscribe_button_default_format",
+    "podlove_subscribe_button_default_color",
+    "podlove_subscribe_button_default_autowidth",
+    "podlove_subscribe_button_plugin_database_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:32.433Z"
+}

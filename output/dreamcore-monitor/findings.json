@@ -1,0 +1,20 @@
+{
+  "options": [
+    "dreamcore_monitor_api_key",
+    "dreamcore_monitor_site_id",
+    "dreamcore_monitor_enable_logging",
+    "dreamcore_monitor_log_retention",
+    "dreamcore_monitor_enable_api",
+    "dreamcore_monitor_enable_geolocation",
+    "dreamcore_monitor_custom_login_url",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dreamcore_monitor_verify_api_key_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:54.150Z"
+}

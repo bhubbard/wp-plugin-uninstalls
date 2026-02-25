@@ -1,0 +1,7 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('search_in_place_own_only', 'CPSPAutocomplete', 'search_in_place_number_of_posts', 'search_in_place_more_results_text', 'search_in_place_minimum_char_number', 'search_in_place_summary_char_number', 'search_in_place_connection_operator', 'search_in_place_highlight_resulting_page', 'search_in_place_highlight_colors', 'search_in_place_selectors', 'search_in_place_initial_search_box_design', 'search_in_place_display_author', 'search_in_place_display_thumbnail', 'search_in_place_display_summary', 'search_in_place_display_date', 'search_in_place_date_format', 'search_in_place_box_background_color', 'search_in_place_box_border_color', 'search_in_place_label_text_color', 'search_in_place_label_text_shadow', 'search_in_place_label_background_start_color', 'search_in_place_label_background_end_color', 'search_in_place_active_item_background_color');
+DELETE FROM wp_options WHERE option_name LIKE 'installed_%';
+DELETE FROM wp_options WHERE option_name LIKE 'codepeople_promote_banner_%';
+

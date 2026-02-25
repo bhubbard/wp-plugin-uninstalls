@@ -1,0 +1,14 @@
+{
+  "options": [
+    "enyoi_store_info_options",
+    "enyoi_store_info_translation_notice",
+    "enyoi_store_info_network_options",
+    "widget_enyoi_store_info_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:15.547Z"
+}

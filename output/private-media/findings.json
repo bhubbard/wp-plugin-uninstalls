@@ -1,0 +1,23 @@
+{
+  "options": [
+    "pvtmed_deactivate_migrate_*",
+    "pvtmed_needs_fix_*",
+    "pvtmed_deactivate_migrate_video",
+    "pvtmed_deactivate_migrate_audio",
+    "*_version"
+  ],
+  "transients": [
+    "pvtmed_flush",
+    "pvtmed_activated_mu_success",
+    "pvtmed_activated_mu_failure"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pvtmed_settings",
+    "_wp_attachment_backup_sizes",
+    "pvtmed_private"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:13.156Z"
+}

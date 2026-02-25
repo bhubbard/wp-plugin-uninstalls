@@ -1,0 +1,26 @@
+{
+  "options": [
+    "jfb-license-data",
+    "*get-response-tab",
+    "*mailchimp-tab",
+    "*active-campaign-tab",
+    "jet_form_builder_settings__options-tab"
+  ],
+  "transients": [
+    "jfb_remote_addons_list",
+    "update_plugins",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_elementor_edit_mode",
+    "_jf_args",
+    "_jet_sm_ready_style"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:30.349Z"
+}

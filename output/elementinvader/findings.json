@@ -1,0 +1,23 @@
+{
+  "options": [
+    "elementinvader_allowed_admins",
+    "elementinvader_api_token",
+    "eli_export_*",
+    "elementinvader_reviews_installed_on",
+    "elementinvader_total_open_count",
+    "winter_mvc_active_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_elementinvader_reviews_dismissed_triggers",
+    "_elementinvader_reviews_last_dismissed",
+    "_elementinvader_reviews_already_did",
+    "_elementor_page_settings",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:33.003Z"
+}

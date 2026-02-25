@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wbcp_display_currencies_array",
+    "wbcp_display_after_content",
+    "wbcp_display_header_before",
+    "wbcp_display_text_after"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:06.878Z"
+}

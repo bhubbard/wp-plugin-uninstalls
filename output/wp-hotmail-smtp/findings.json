@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_hotmail_smtp_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_email_tracking_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:35.339Z"
+}

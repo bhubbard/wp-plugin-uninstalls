@@ -1,0 +1,16 @@
+{
+  "options": [
+    "shift8_jenkins_user",
+    "shift8_jenkins_api",
+    "shift8_jenkins_url",
+    "shift8_jenkins_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shift8_jenkins_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:34.200Z"
+}

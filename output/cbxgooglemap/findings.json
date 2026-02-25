@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cbxgooglemap_general",
+    "cbxgooglemap_flush_rewrite_rules",
+    "cbxgooglemap_version"
+  ],
+  "transients": [
+    "cbxgooglemap_activated_notice",
+    "cbxgooglemap_upgraded_notice",
+    "cbxgooglemap_proaddon_deactivated",
+    "cbxgooglemap_flush_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*lat",
+    "*lng"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:32.646Z"
+}

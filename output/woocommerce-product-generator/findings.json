@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce-product-generator-limit",
+    "woocommerce-product-generator-per-run",
+    "woocommerce-product-generator-use-unsplash",
+    "woocommerce-product-generator-unsplash-access-key",
+    "woocommerce-product-generator-titles",
+    "woocommerce-product-generator-title",
+    "woocommerce-product-generator-contents",
+    "woocommerce-product-generator-categories",
+    "woocommerce-product-generator-attributes",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "woocommerce-product-generator-unsplash-picture-urls"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:16.590Z"
+}

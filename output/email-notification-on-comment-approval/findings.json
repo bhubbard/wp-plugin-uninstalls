@@ -1,0 +1,17 @@
+{
+  "options": [
+    "enocp_from",
+    "enocp_cc",
+    "enocp_subject",
+    "enocp_email_content",
+    "enocp_bcc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "allow_notification"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:35.923Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('yoapsopo_accounts', 'yoapsopo_settings', 'yoapsopo_tasks', 'yoapsopo_log');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_yoapsopo_enabled', '_yoapsopo_type', '_yoapsopo_networks', '_yoapsopo_text', '_yoapsopo_image', '_yoapsopo_video', '_yoapsopo_article', '_yoapsopo_when', '_yoapsopo_tiktok_privacy', '_yoapsopo_tiktok_allow_comment', '_yoapsopo_tiktok_allow_duet', '_yoapsopo_tiktok_allow_stitch', '_yoapsopo_tiktok_commercial_toggle', '_yoapsopo_tiktok_commercial_your_brand', '_yoapsopo_tiktok_commercial_branded', '_yoapsopo_tiktok_consent', '_yoapsopo_tiktok_creator_info', '_yoapsopo_sent_once');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_yoapsopo_enabled', '_yoapsopo_type', '_yoapsopo_networks', '_yoapsopo_text', '_yoapsopo_image', '_yoapsopo_video', '_yoapsopo_article', '_yoapsopo_when', '_yoapsopo_tiktok_privacy', '_yoapsopo_tiktok_allow_comment', '_yoapsopo_tiktok_allow_duet', '_yoapsopo_tiktok_allow_stitch', '_yoapsopo_tiktok_commercial_toggle', '_yoapsopo_tiktok_commercial_your_brand', '_yoapsopo_tiktok_commercial_branded', '_yoapsopo_tiktok_consent', '_yoapsopo_tiktok_creator_info', '_yoapsopo_sent_once');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_yoapsopo_enabled', '_yoapsopo_type', '_yoapsopo_networks', '_yoapsopo_text', '_yoapsopo_image', '_yoapsopo_video', '_yoapsopo_article', '_yoapsopo_when', '_yoapsopo_tiktok_privacy', '_yoapsopo_tiktok_allow_comment', '_yoapsopo_tiktok_allow_duet', '_yoapsopo_tiktok_allow_stitch', '_yoapsopo_tiktok_commercial_toggle', '_yoapsopo_tiktok_commercial_your_brand', '_yoapsopo_tiktok_commercial_branded', '_yoapsopo_tiktok_consent', '_yoapsopo_tiktok_creator_info', '_yoapsopo_sent_once');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_yoapsopo_enabled', '_yoapsopo_type', '_yoapsopo_networks', '_yoapsopo_text', '_yoapsopo_image', '_yoapsopo_video', '_yoapsopo_article', '_yoapsopo_when', '_yoapsopo_tiktok_privacy', '_yoapsopo_tiktok_allow_comment', '_yoapsopo_tiktok_allow_duet', '_yoapsopo_tiktok_allow_stitch', '_yoapsopo_tiktok_commercial_toggle', '_yoapsopo_tiktok_commercial_your_brand', '_yoapsopo_tiktok_commercial_branded', '_yoapsopo_tiktok_consent', '_yoapsopo_tiktok_creator_info', '_yoapsopo_sent_once');
+

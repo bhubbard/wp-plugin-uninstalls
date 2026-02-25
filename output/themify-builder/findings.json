@@ -1,0 +1,63 @@
+{
+  "options": [
+    "themify_builder_setting",
+    "active_sitewide_plugins",
+    "builder_contact",
+    "tb_css_version",
+    "themify_builder_google_fonts",
+    "themify_builder_cf_fonts",
+    "*_themify_import_notice",
+    "themify_data",
+    "*_page_id",
+    "theme_mods_*",
+    "sidebars_widgets",
+    "themify_saved_colors",
+    "themify_saved_gradients"
+  ],
+  "transients": [
+    "tb_optin_activecampaign_*"
+  ],
+  "cron_jobs": [
+    "themify_cron_clear_css"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tbp_custom_css",
+    "_themify_builder_dp_original",
+    "_themify_builder_prebuilt_layout",
+    "themify_used_global_styles",
+    "_wp_attachment_image_alt",
+    "page_layout",
+    "hide_page_title",
+    "_builder_custom_rev_comment",
+    "themify_global_style_type",
+    "_testimonial_name",
+    "_testimonial_position",
+    "_testimonial_link",
+    "_testimonial_company",
+    "_gallery_link_url",
+    "_gallery_link_target",
+    "variations",
+    "_wp_attachment_backup_sizes",
+    "_themify_mega_menu_columns_layout",
+    "_themify_dropdown_columns",
+    "_themify_mega_menu_*",
+    "_themify_highlight_link",
+    "_themify_mega_menu_item",
+    "_themify_mega_menu_column",
+    "content_width",
+    "section_full_scrolling",
+    "*_id",
+    "_product_image_gallery",
+    "thumbnail_id",
+    "popup_show",
+    "*_attach_id",
+    "_menu_item_object_id",
+    "_menu_item_object",
+    "_menu_item_type",
+    "feature_size",
+    "*feature_size_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:02.406Z"
+}

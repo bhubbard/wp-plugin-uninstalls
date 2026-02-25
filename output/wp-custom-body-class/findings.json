@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pixfields_settings",
+    "rewrite_rules",
+    "custom_body_class_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_body_class"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:01.963Z"
+}

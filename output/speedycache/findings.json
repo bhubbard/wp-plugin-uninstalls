@@ -1,0 +1,35 @@
+{
+  "options": [
+    "speedycache_deletion_roles",
+    "softaculous_plugin_update_notice",
+    "speedycache_options",
+    "speedycache_object_cache",
+    "speedycache_cdn",
+    "speedycache_bloat",
+    "speedycache_pagespeed_test",
+    "speedycache_exclude",
+    "speedycache_img",
+    "speedycache_html_size",
+    "speedycache_assets_size",
+    "speedycache_version",
+    "speedycache_delete_cache_logs",
+    "speedycache_ccss_logs",
+    "speedycache_license",
+    "speedycache_pro_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "speedycache_preload_transient"
+  ],
+  "cron_jobs": [
+    "speedycache_purge_cache",
+    "speedycache_preload",
+    "speedycache_preload_split"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "speedycache_post_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:32.620Z"
+}

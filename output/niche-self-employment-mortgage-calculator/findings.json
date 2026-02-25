@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ssmc_colour_1",
+    "ssmc_colour_2",
+    "ssmc_colour_3"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:25.442Z"
+}

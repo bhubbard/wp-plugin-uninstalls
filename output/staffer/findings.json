@@ -1,0 +1,23 @@
+{
+  "options": [
+    "staffer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "staffer_staff_title",
+    "staffer_staff_phone",
+    "staffer_staff_email",
+    "staffer_staff_fb",
+    "staffer_staff_twitter",
+    "staffer_staff_linkedin",
+    "staffer_staff_gplus",
+    "staffer_staff_website",
+    "staffer_staff_instagram",
+    "staffer_staff_youtube",
+    "staffer_staff_github"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:30.157Z"
+}

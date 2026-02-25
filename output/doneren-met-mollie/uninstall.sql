@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('dmm_plugin_version', 'dmm_version', 'dmm_rights_donations', 'dmm_recurring', 'dmm_rights_subscriptions', 'dmm_mollie_apikey', 'dmm_recurring_interval', 'dmm_default_interval', 'dmm_name_foundation', 'dmm_amount', 'dmm_currency', 'dmm_currency_switch', 'dmm_free_input', 'dmm_default_amount', 'dmm_minimum_amount', 'dmm_payment_description', 'dmm_methods_display', 'dmm_redirect_success', 'dmm_redirect_failure', 'dmm_projects', 'dmm_metadata', 'dmm_form_fields', 'dmm_success_cls', 'dmm_failure_cls', 'dmm_form_cls', 'dmm_fields_cls', 'dmm_button_cls', 'dmm_gdpr_link', 'dmm_recaptcha_v3_site_key', 'dmm_recaptcha_v3_secret_key', 'dmm_v251_updated');
+

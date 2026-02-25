@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dal_plugin_version",
+    "dal_post_types",
+    "dal_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dal_userlevel",
+    "dal_postlevel"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:04.395Z"
+}

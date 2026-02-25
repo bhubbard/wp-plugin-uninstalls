@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wppd_options",
+    "wppd_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wppd_post_disclaimer_disable",
+    "_wppd_post_disclaimer_position",
+    "_wppd_post_disclaimer_title",
+    "_wppd_post_disclaimer_content",
+    "_wppd_post_disclaimer_style",
+    "_wppd_post_disclaimer_title_tag",
+    "_wppd_post_disclaimer_icon",
+    "_wppd_post_disclaimer_icon_size"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:36.908Z"
+}

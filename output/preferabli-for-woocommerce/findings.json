@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wr4wc_plugin_options",
+    "p4wc_plugin_options",
+    "p4wc_db_version",
+    "p4wc_feed_hash",
+    "wr4wc_feed_hash",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_preferabli_label_checked_at",
+    "_preferabli_label_url",
+    "_wp_attached_file",
+    "_wp_attachment_metadata",
+    "_preferabli_label_expires_at",
+    "_width",
+    "_height"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:37.753Z"
+}

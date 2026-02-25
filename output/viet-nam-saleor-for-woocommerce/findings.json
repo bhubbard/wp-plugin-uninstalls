@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_weight_unit",
+    "vnsfw_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_disable_shipping",
+    "pay_shipping_fee",
+    "shipping_phone",
+    "_ghtk_code",
+    "_vtp_code",
+    "shipping_service",
+    "_wc_shipping_status",
+    "billing_state",
+    "billing_city"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:10.820Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wgmbr_access_token', 'wgmbr_available_locations', 'wgmbr_account_id', 'wgmbr_location_id', 'wgmbr_client_id', 'wgmbr_client_secret', 'wgmbr_redirect_uri', 'wgmbr_refresh_token', 'wgmbr_token_expires', 'wgmbr_radius_card', 'wgmbr_color_card_bg', 'wgmbr_color_star', 'wgmbr_color_text_primary', 'wgmbr_color_text_resume', 'wgmbr_color_accent', 'wgmbr_last_token_error', 'wgmbr_last_error', 'wgmbr_error_logs', 'wgmbr_reviews_cache', 'wgmbr_avg_rating_cache', 'wgmbr_last_sync_time', 'wgmbr_oauth_state', 'wgmbr_accounts_cache');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wgmbr_review_id', '_wgmbr_reviewer_name', '_wgmbr_reviewer_photo', '_wgmbr_rating', '_wgmbr_job');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wgmbr_review_id', '_wgmbr_reviewer_name', '_wgmbr_reviewer_photo', '_wgmbr_rating', '_wgmbr_job');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wgmbr_review_id', '_wgmbr_reviewer_name', '_wgmbr_reviewer_photo', '_wgmbr_rating', '_wgmbr_job');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wgmbr_review_id', '_wgmbr_reviewer_name', '_wgmbr_reviewer_photo', '_wgmbr_rating', '_wgmbr_job');
+

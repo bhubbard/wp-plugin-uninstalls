@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "csnp_clear_storage"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "csnp_sticky_notes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:04.415Z"
+}

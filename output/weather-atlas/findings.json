@@ -1,0 +1,15 @@
+{
+  "options": [
+    "weather_atlas_version",
+    "weather_atlas_conversion_done",
+    "widget_weather_atlas",
+    "weather_atlas_settings",
+    "weather_atlas_widget_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:39.871Z"
+}

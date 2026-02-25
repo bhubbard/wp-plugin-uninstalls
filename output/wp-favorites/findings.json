@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_favorites_inclusive_search",
+    "wp_favorites_non_logged_in_html",
+    "wp_favorites_version",
+    "wp_favorites_logged_in_no_faves_html",
+    "wp_favorites_taxonomies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_favorites"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:10.824Z"
+}

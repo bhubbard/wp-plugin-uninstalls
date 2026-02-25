@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rtafar_plugin_install_date",
+    "rtafar_db_version",
+    "rtafar_plugin_version",
+    "rtafar_settings",
+    "*ed_Activated",
+    "*ed_Feedback",
+    "*ed_Feedback_offPerm"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:55.887Z"
+}

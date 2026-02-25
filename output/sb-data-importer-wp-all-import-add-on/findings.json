@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_ignore",
+    "*_notice_ignore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dwt_listing_user_timezone",
+    "dwt_listing_is_hours_allow",
+    "dwt_listing_brand_img"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:58.345Z"
+}

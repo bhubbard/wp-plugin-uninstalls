@@ -1,0 +1,14 @@
+{
+  "options": [
+    "inesgfr_api_key",
+    "inesgfr_company_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "inesta_gf_recruitee_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:52.715Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "sema_settings",
+    "woocommerce_weight_unit",
+    "sema_plugin_version",
+    "woocommerce_permalinks",
+    "sema_hide_productwoimage"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [
+    "woocommerce_flush_rewrite_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_thumbnail_id",
+    "_wp_attachment_image_alt",
+    "_woocommerce_exclude_image",
+    "_product_image_gallery",
+    "_product_attributes",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:55.602Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "milesweb_maintenance_mode_enabled",
+    "milesweb_force_https_redirect",
+    "milesweb_file_editing_disabled",
+    "milesweb_disable_xmlrpc",
+    "mw_force_footer_enabled",
+    "force_https_redirect",
+    "maintenance_mode_enabled",
+    "milesweb_logo_image_id",
+    "milesweb_coming_soon_image_id",
+    "file_editing_disabled",
+    "disable_xmlrpc",
+    "milesweb_plugin_installed"
+  ],
+  "transients": [
+    "rest_api_init",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "last_login"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:51.515Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "diet_apiusername",
+    "diet_apipassword",
+    "wtc_provider",
+    "tinypng_apikey",
+    "kraken_apikey",
+    "kraken_secretkey",
+    "wtc_media_compress",
+    "wtc_compress_css",
+    "wtc_compress_html",
+    "wtc_compress_js",
+    "wtc_compress_main_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:03.828Z"
+}

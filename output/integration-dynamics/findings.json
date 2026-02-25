@@ -1,0 +1,38 @@
+{
+  "options": [
+    "wpcrm_log_level",
+    "wordpresscrm_custom_post_types",
+    "*options",
+    "*messages",
+    "wpcrm_binding_default",
+    "wpcrm_binding",
+    "*attachments",
+    "alexacrm_options",
+    "alexacrm_forms_options",
+    "*forms",
+    "alexacrm_oauth_options",
+    "*oauth",
+    "wordpresscrm_registration_options",
+    "*registration",
+    "alexacrm_role_options",
+    "*roles",
+    "wordpresscrm_search_options",
+    "*search"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_alexacrm_databinding_entity",
+    "_alexacrm_databinding_parametername",
+    "_alexacrm_databinding_isdefaultview",
+    "_alexacrm_databinding_querystring",
+    "_wordpresscrm_databinding_entity",
+    "_wordpresscrm_databinding_parametername",
+    "_wordpresscrm_databinding_isdefaultview",
+    "_wordpresscrm_databinding_querystring",
+    "_wordpresscrm_databinding_empty_behavior"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:34.380Z"
+}

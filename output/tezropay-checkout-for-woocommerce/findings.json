@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_tezropay_checkout_gateway_settings",
+    "tezropay_wc_checkout_db1",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:19.942Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sd_coupon_store_logo",
+    "_sd_coupon_store_short_description",
+    "_sd_coupon_category_short_description",
+    "_sd_coupon_category_icon",
+    "_sd_coupon_store",
+    "_sd_coupon_image",
+    "_sd_coupon_is_exclusive",
+    "_sd_coupon_expired_date",
+    "_sd_coupon_code",
+    "_sd_coupon_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:26.245Z"
+}

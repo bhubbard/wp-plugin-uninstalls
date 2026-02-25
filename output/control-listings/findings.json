@@ -1,0 +1,40 @@
+{
+  "options": [
+    "control_listings_dimension_unit",
+    "control_listings_weight_unit",
+    "control_listings",
+    "control_listings_options",
+    "posts_page"
+  ],
+  "transients": [
+    "bookmark_count_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "enable_gallery",
+    "gallery",
+    "awards",
+    "lising_images",
+    "videos",
+    "event_plans",
+    "faqs",
+    "min_price",
+    "max_price",
+    "logo",
+    "address",
+    "phone",
+    "email",
+    "website",
+    "social_links",
+    "map",
+    "subtitle",
+    "ctrl_listing_favorite_posts",
+    "ctrl_listing_favorite_count",
+    "ct_builder_shortcodes",
+    "_wp_page_template",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:06.461Z"
+}

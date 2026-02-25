@@ -1,0 +1,14 @@
+{
+  "options": [
+    "db_backup_frequency",
+    "db_backup_send_email",
+    "db_backup_key",
+    "db_backup_last_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:15.887Z"
+}

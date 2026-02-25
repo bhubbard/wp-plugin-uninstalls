@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_chps_content-hub_key",
+    "_chps_content-hub_fallback_image",
+    "_chps_post_meta",
+    "_chps_post_meta_image",
+    "_chps_post_meta_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:04.962Z"
+}

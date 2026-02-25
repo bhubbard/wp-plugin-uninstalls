@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wpatt_enable_metabox_*",
+    "wpatt_enable_display_*",
+    "wpatt_option_localization",
+    "wpatt_option_date_localization",
+    "wpatt_show_orderby",
+    "wpatt_option_showdate",
+    "wpatt_option_includeimages",
+    "wpatt_option_targetblank",
+    "wpatt_option_restrictload",
+    "wpatt_counter",
+    "wpatt_excludelogged_counter",
+    "wpa_ict",
+    "wpa_template",
+    "wpa_template_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpa_off"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:46.030Z"
+}

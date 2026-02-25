@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pacs_calculation_type",
+    "pacs_amount",
+    "pacs_enable_product_exclusion",
+    "pacs_enable",
+    "pacs_label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_exclude_packing_charge"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:47.376Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "orphita_testimonial_or_reviews_user_role_key",
+    "oxi_div_database",
+    "orphita_review_data",
+    "orphita_review_data_active",
+    "orphita_testimonial_or_reviews_license_key",
+    "orphita_testimonial_or_reviews_license_status"
+  ],
+  "transients": [
+    "update_plugins",
+    "_Orphita_testimonial_or_reviews_welcome_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:31.076Z"
+}

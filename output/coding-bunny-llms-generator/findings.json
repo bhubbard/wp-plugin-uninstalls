@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cbllms_options",
+    "cbllms_generation_history",
+    "cbllms_logo_url"
+  ],
+  "transients": [
+    "cbllms_generating"
+  ],
+  "cron_jobs": [
+    "cbllms_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_canonical_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:19.666Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "vmerf_version",
+    "vmerf_htaccess",
+    "vmerf_htaccess_warning",
+    "vmerf_banned_ips",
+    "vmerf_banned_referers",
+    "vmerf_auto_update",
+    "vmerf_auto_update_time",
+    "vmerf_referers",
+    "vmerf_htbackup",
+    "vmerf_wp_version",
+    "vmerf_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:53.025Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wte",
+    "*_custom_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slide_link_url",
+    "slide_caption",
+    "testimonial_text",
+    "testimonial_author",
+    "testimonial_link_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:42.969Z"
+}

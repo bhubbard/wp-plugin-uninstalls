@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_jp_student_father_name",
+    "_jp_student_mother_name",
+    "_jp_student_type",
+    "_jp_student_birth_date",
+    "_jp_student_sex",
+    "_jp_student_religion",
+    "_jp_student_roll",
+    "_jp_student_reg",
+    "_jp_total_gpa"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:12.683Z"
+}

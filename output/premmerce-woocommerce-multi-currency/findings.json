@@ -1,0 +1,36 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "woocommerce_currency",
+    "premmerce_multicurrency_ajax_prices_redraw",
+    "woocommerce_currency_pos",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter",
+    "premmerce_products_recalculate",
+    "premmerce_multicurrency_check_main_currency",
+    "rocket_get_refreshed_fragments_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_product_currency"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:38.901Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cbxscratingreview_tools"
+  ],
+  "transients": [
+    "cbxscratingreview_upgraded_notice",
+    "cbxscratingreview_activated_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cbxscratingreview_avg",
+    "_cbxscratingreview_total"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:29.158Z"
+}

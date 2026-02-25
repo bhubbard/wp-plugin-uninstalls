@@ -1,0 +1,33 @@
+{
+  "options": [
+    "polylang",
+    "gcccn_main_message_*",
+    "gcccn_policy_link_text_*",
+    "gcccn_dismiss_button_text_*",
+    "gcccn_cookie_policy_url_type_*",
+    "gcccn_url_cookie_policy_link_*",
+    "gcccn_open_new_tab_*",
+    "gcccn_cookie_expiry_duration_*",
+    "gcccn_popup_hide_pages_*",
+    "gcccn_layout_configuration_*",
+    "gcccn_url_cookie_policy_option_*",
+    "gcccn_open_new_tab",
+    "gcccn_cookie_policy_url_type",
+    "gcccn_url_cookie_policy_link",
+    "gcccn_url_cookie_policy_option",
+    "gcccn_policy_link_text",
+    "gcccn_main_message",
+    "gcccn_dismiss_button_text",
+    "gcccn_layout_configuration",
+    "gcccn_discourage_cookie_consent_*",
+    "gcccn_discourage_cookie_consent",
+    "gcccn_cookie_expiry_duration",
+    "gcccn_popup_hide_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:04.563Z"
+}

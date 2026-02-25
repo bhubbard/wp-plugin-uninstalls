@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp-smart-import-settings",
+    "wp-smart-import-session"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsi-images"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:01.035Z"
+}

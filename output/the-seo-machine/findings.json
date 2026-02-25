@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tsm_current_columns_to_show",
+    "tsm_quantity_per_batch",
+    "tsm_crawl_type",
+    "tsm_db_version",
+    "tsm_time_between_batches",
+    "tsm_autoreload_datatables"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:51.389Z"
+}

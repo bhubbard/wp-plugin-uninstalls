@@ -1,0 +1,17 @@
+{
+  "options": [
+    "trafficmanager_wc_last_import_result",
+    "woocommerce_trafficmanager-plugin_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "trafficmanager_wc_fetch_promo_codes"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tm_import"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:01.853Z"
+}

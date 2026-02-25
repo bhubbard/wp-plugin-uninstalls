@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpbs_secret_update_option",
+    "wpbs_include_post_type_post",
+    "wpbs_include_post_type_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:42.257Z"
+}

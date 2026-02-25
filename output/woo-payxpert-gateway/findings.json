@@ -1,0 +1,35 @@
+{
+  "options": [
+    "payxpert_seamless_library",
+    "payxpert_conn_status",
+    "payxpert_originator_id",
+    "payxpert_password",
+    "woocommerce_version",
+    "*_enabled",
+    "woocommerce_email_header_image"
+  ],
+  "transients": [
+    "payxpert_settings_saved",
+    "payxpert_admin_error",
+    "payxpert_admin_success",
+    "payxpert_admin_info"
+  ],
+  "cron_jobs": [
+    "payxpert_sync_installment_transactions_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_payxpert_paybylink_last_sent",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_email",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:55.274Z"
+}

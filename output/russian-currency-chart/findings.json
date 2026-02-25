@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rucurrency_chart_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rucurrency_chart_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:06.054Z"
+}

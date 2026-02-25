@@ -1,0 +1,22 @@
+{
+  "options": [
+    "manual_update",
+    "auto_update_only_writer_visits",
+    "auto_update_per",
+    "debug_msg",
+    "mytory_markdown_engine"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mytory_md_visits_count",
+    "mytory_md_path",
+    "_mytory_markdown_etag",
+    "mytory_md_mode",
+    "mytory_md_text",
+    "mytory_md_path_old"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:23.208Z"
+}

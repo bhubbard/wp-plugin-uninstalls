@@ -1,0 +1,20 @@
+{
+  "options": [
+    "p2s__use_locations",
+    "p2s_use_excerpt",
+    "p2s_use_title",
+    "p2s_post_types",
+    "p2s_use_locations"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_to_sidebar_pageTitle",
+    "post_to_sidebar_excerpt",
+    "post_to_sidebar_title",
+    "post_to_sidebar_location"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:43.153Z"
+}

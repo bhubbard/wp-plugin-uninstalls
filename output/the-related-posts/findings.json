@@ -1,0 +1,14 @@
+{
+  "options": [
+    "obi_related_posts_limit",
+    "obi_related_posts_title",
+    "obi_related_posts_list",
+    "obi_related_posts_heading"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:35.605Z"
+}

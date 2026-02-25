@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pisol_cf7_bot_token",
+    "pisol_cf7_channels"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pisol_cf7_dont_send_to_telegram"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:50.199Z"
+}

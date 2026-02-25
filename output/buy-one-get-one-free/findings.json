@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pisol_bogo_redirect",
+    "pisol_bogo_category_rules",
+    "pisol_free_product",
+    "pisol_global_disable",
+    "pisol_product_quantity",
+    "pisol_free_product_quantity",
+    "pisol_global_same_product_msg",
+    "pisol_global_diff_product_msg",
+    "pisol_bogo_message_bg_color",
+    "pisol_bogo_message_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pisol_enable_bogo"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:09.120Z"
+}

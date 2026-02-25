@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "fuelprice_cities",
+    "fuelprice_widget_types",
+    "fuelprice_fuel_types"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:20.577Z"
+}

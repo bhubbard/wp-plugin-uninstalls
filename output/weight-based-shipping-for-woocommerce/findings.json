@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wbs_config",
+    "wbs_global_methods",
+    "wbs_settings",
+    "woocommerce_currency_pos",
+    "woocommerce_weight_unit",
+    "wbsng_reviewed",
+    "woocommerce_dimension_unit",
+    "wbsng_settings_multicurrency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:32.120Z"
+}

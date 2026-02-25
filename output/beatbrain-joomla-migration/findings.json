@@ -1,0 +1,23 @@
+{
+  "options": [
+    "j2e_pending_articles",
+    "j2e_imported_articles"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies",
+    "j2w_connection_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "joomla_article_id",
+    "_elementor_data",
+    "_elementor_edit_mode",
+    "_wp_page_template",
+    "_product_attributes",
+    "_wp_attachment_metadata",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:44.400Z"
+}

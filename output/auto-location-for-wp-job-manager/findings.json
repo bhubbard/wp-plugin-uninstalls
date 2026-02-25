@@ -1,0 +1,14 @@
+{
+  "options": [
+    "algwjm_enable_setting",
+    "algwjm_map_api_key",
+    "algwjm_types",
+    "algwjm_country_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:08.802Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "iworks_kpir_nip",
+    "iworks_kpir_name",
+    "iworks_kpir_email",
+    "*last_used_tab",
+    "*cache_stamp",
+    "*version",
+    "*flush_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iworks_kpir_basic_type",
+    "iworks_kpir_basic_date",
+    "iworks_kpir_expense_car",
+    "iworks_kpir_expense_purchase",
+    "iworks_kpir_expense_vat",
+    "iworks_kpir_income_vat_type",
+    "iworks_kpir_income_sale",
+    "iworks_kpir_income_vat",
+    "iworks_kpir_contractor_data_nip",
+    "iworks_kpir_contractor_data_full_name",
+    "iworks_kpir_contractor_data_street1",
+    "iworks_kpir_contractor_data_zip",
+    "iworks_kpir_contractor_data_city",
+    "iworks_kpir_contractor_data_country",
+    "iworks_kpir_expense_vat_rate",
+    "iworks_kpir_asset_depreciation",
+    "iworks_kpir_expense_other",
+    "iworks_kpir_expense_cost_of_purchase",
+    "iworks_kpir_salary_salary",
+    "iworks_kpir_basic_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:39.619Z"
+}

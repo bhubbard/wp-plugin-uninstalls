@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_swish_settings",
+    "swish_northmill_notice_displayed_2",
+    "swish_refresh_token"
+  ],
+  "transients": [
+    "swish_access_token",
+    "swish_notices",
+    "swish_activated_or_upgraded",
+    "handle_swish_account",
+    "swish_retrieve_payment_info",
+    "swish_activated",
+    "swish_did_show_connection_info",
+    "swish_did_show_legacy_info",
+    "swish_upgraded",
+    "swish_connect_result",
+    "swish_activation_time",
+    "swish_upgraded_time"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_swish_purchase_age_limit",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:24.561Z"
+}

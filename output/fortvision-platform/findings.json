@@ -1,0 +1,43 @@
+{
+  "options": [
+    "fortvision_settings",
+    "fortvision_orders_export_need_to_send",
+    "cron",
+    "fortvision_customers_export_need_to_send",
+    "fortvision_product_export_need_to_send",
+    "fortvision_debug_mode_enabled",
+    "fortvision_debug_mode_enabled_requests",
+    "_fortvision_form",
+    "fortvision_sync_options",
+    "fortvision_orders_export_sent",
+    "fortvision_customers_export_sent",
+    "fortvision_initialexport",
+    "fortvision_product_export_sent",
+    "fortvision_script_val",
+    "fortvision_sync_finished"
+  ],
+  "transients": [
+    "fortvision_admin_notice",
+    "fortvision_uninstall"
+  ],
+  "cron_jobs": [
+    "sendorders_pack",
+    "checkHistoryIsdone",
+    "sendcustomers_pack",
+    "sendproducts_pack",
+    "syncOrders_scheduled",
+    "syncCustomers_scheduled",
+    "syncProducts_scheduled",
+    "nop_scheduled",
+    "dailyping"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "billing_phone",
+    "_fortvisionAcceptMarketing"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:37.204Z"
+}

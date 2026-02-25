@@ -1,0 +1,20 @@
+{
+  "options": [
+    "refactored_video_importer",
+    "mvi-youtube-api-key-verified",
+    "mvi-youtube-api-key",
+    "mvi-vimeo-client-id",
+    "mvi-vimeo-client-secret",
+    "mvi-templates",
+    "mvi-vimeo-api-id",
+    "mvi-vimeo-api-secret"
+  ],
+  "transients": [
+    "meks-video-importer-vimeo-access-token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:43.769Z"
+}

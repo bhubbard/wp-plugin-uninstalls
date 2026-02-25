@@ -1,0 +1,14 @@
+{
+  "options": [
+    "telefon_bars_active",
+    "telefon_bars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "telefon_bars_active"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:04.019Z"
+}

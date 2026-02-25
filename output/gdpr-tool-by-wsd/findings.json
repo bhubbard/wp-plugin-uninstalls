@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "users_erase_status_report",
+    "users_report_status",
+    "member_status",
+    "user_un_subscribe_reqst",
+    "users_member_status",
+    "wp_admin_menu_media",
+    "wp_admin_menu_themes",
+    "wp_admin_menu_plugin",
+    "parent_user_role",
+    "cr_custom_registration_shortcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:47.495Z"
+}

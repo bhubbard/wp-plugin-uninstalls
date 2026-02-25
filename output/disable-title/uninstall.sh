@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_z8n-fs-disable-title-menu'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_z8n-fs-disable-title-menu'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_z8n-fs-disable-title-menu'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_z8n-fs-disable-title-menu'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_z8n-fs-disable-title-detail'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_z8n-fs-disable-title-detail'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_z8n-fs-disable-title-detail'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_z8n-fs-disable-title-detail'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_z8n-fs-disable-title-category'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_z8n-fs-disable-title-category'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_z8n-fs-disable-title-category'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_z8n-fs-disable-title-category'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_z8n-fs-disable-title-archive'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_z8n-fs-disable-title-archive'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_z8n-fs-disable-title-archive'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_z8n-fs-disable-title-archive'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_z8n-fs-disable-title-home'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_z8n-fs-disable-title-home'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_z8n-fs-disable-title-home'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_z8n-fs-disable-title-home'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_z8n-fs-disable-title-widget'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_z8n-fs-disable-title-widget'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_z8n-fs-disable-title-widget'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_z8n-fs-disable-title-widget'"

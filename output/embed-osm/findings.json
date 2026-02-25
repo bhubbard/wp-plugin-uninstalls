@@ -1,0 +1,18 @@
+{
+  "options": [
+    "embed_osm_width",
+    "embed_osm_height",
+    "embed_osm_layer",
+    "embed_osm_lat",
+    "embed_osm_lon",
+    "embed_osm_zoom",
+    "embed_osm_marker",
+    "embed_osm_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:45.634Z"
+}

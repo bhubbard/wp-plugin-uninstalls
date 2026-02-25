@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ni_enquiry_count_settings",
+    "ni_enquiry_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:06.737Z"
+}

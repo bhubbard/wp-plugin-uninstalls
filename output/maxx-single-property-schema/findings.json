@@ -1,0 +1,17 @@
+{
+  "options": [
+    "maxx_psp_enable_single_property_schema",
+    "maxx_psp_aggregate_rating_enable",
+    "maxx_psp_randomize_ratings",
+    "maxx_psp_schema_type",
+    "maxx_psp_currency_type",
+    "maxx_psp_price_valid_until",
+    "maxx_psp_breadcrumb_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:37.527Z"
+}

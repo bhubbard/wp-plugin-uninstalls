@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pixobe_product_designer_nonce",
+    "pixobe_product_designer_site_id",
+    "pixobe_product_designer_plan",
+    "pixobe_product_designer_message",
+    "pixobe_product_designer_expiry"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:33.295Z"
+}

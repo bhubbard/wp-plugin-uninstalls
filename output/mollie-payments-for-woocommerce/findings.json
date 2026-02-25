@@ -1,0 +1,44 @@
+{
+  "options": [
+    "mollie-payments-for-woocommerce_live_api_key",
+    "mollie-payments-for-woocommerce_test_api_key",
+    "woocommerce_gzdp_checkout_enable",
+    "mollie_wc_applepay_validated",
+    "mollie-payments-for-woocommerce_gatewayFeeLabel",
+    "mollie_wc_gateway_applepay_settings",
+    "mollie_wc_gateway_paypal_settings",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_round_at_subtotal",
+    "mollie_wc_is_phone_required_flag",
+    "mollie-payments-for-woocommerce_order_status_cancelled_payments",
+    "mollie-payments-for-woocommerce_place_payment_onhold",
+    "mollie-payments-for-woocommerce_capture_or_void",
+    "*_accept_manual_renewals",
+    "*disableShipOrderAtMollie",
+    "*disableCancelOrderAtMollie",
+    "mollie_wc_gateway_creditcard_settings",
+    "mollie_wc_gateway_voucher_settings",
+    "mollie_wc_gateway_mealvoucher_settings",
+    "woocommerce_version",
+    "woocommerce_subscriptions_active_version",
+    "*_settings",
+    "mollie-payments-for-woocommerce_debug",
+    "mollie-payments-for-woocommerce_test_mode_enabled",
+    "mollie_wc_gateway_directdebit_settings",
+    "mollie-payments-for-woocommerce_removeOptionsAndTransients"
+  ],
+  "transients": [
+    "*_needs_processing",
+    "svg_creditcards_string"
+  ],
+  "cron_jobs": [
+    "pending_payment_confirmation_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mollie_voucher_category",
+    "_mollie_customer_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:52.882Z"
+}

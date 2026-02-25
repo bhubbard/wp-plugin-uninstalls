@@ -1,0 +1,26 @@
+{
+  "options": [
+    "hizzle_downloads_admin_notices",
+    "hizzle_downloads_admin_notice_*",
+    "hizzle_download_admin_notice_*",
+    "hizzle_download_options",
+    "hizzle_downloads_schema_missing_tables",
+    "hizzle_downloads_xsendfile_missing",
+    "hizzle_downloads_db_version",
+    "hizzle_downloads_options",
+    "hizzle_logger_version"
+  ],
+  "transients": [
+    "hizzle_downloads_installing"
+  ],
+  "cron_jobs": [
+    "hizzle_downloads_process_github_release",
+    "hizzle_log_clear_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:57.892Z"
+}

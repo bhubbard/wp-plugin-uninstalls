@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bt_bots_retention_days",
+    "bt_bots_filter_enabled",
+    "bt_bots_filter_mode",
+    "bt_bots_filter_source",
+    "bt_bots_filter_selected_bots",
+    "bt_bots_filter_custom_names",
+    "bt_bots_tracker_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bt_bots_tracker_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:27.137Z"
+}

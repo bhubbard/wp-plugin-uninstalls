@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpce_custom_css",
+    "wpce_custom_js",
+    "wpce_deactivation_reason_*",
+    "wpce_deactivation_details_*",
+    "wpce_deactivation_email_*",
+    "wpce_deactivation_main_reason_*",
+    "woocommerce_enable_review_rating",
+    "wpce_installed_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:26.648Z"
+}

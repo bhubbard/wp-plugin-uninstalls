@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_imoje_blik_settings",
+    "woocommerce_imoje_settings",
+    "woocommerce_imoje_paylater_settings",
+    "woocommerce_imoje_cards_settings",
+    "woocommerce_imoje_pbl_settings",
+    "woocommerce_imoje_visa_settings",
+    "woocommerce_imoje_installments_settings",
+    "woocommerce_imoje_wallet_settings",
+    "woocommerce_imoje_leasenow_settings",
+    "woocommerce_imoje_wt_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:00.592Z"
+}

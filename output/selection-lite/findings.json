@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mdp_selection_lite_widgets_settings",
+    "mdp_selection_lite_custom_css_settings",
+    "*_settings",
+    "mdp_selection_lite_uninstall_settings"
+  ],
+  "transients": [
+    "plugin_id",
+    "mdp_selection_lite_widgets_names"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:48.531Z"
+}

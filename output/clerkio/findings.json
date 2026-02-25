@@ -1,0 +1,18 @@
+{
+  "options": [
+    "clerk_options_*",
+    "clerk_options",
+    "plugin_options",
+    "woocommerce_currency"
+  ],
+  "transients": [
+    "clerk_api_contents"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_price_calculator"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:49.216Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "__user_setting_access"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "category_sync_event",
+    "process_order_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rvx_comment_title",
+    "rating",
+    "rvx_comment_order_item",
+    "verified",
+    "is_recommended",
+    "reviewx_attachments",
+    "rvx_review_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:51.293Z"
+}

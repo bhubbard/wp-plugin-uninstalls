@@ -1,0 +1,23 @@
+{
+  "options": [
+    "bosedd_version",
+    "bosedd_options",
+    "badgeos_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bosedd_review_dismissed",
+    "_badgeos_count",
+    "_badgeos_edd_trigger",
+    "_bosedd_download_for_review_id",
+    "_bosedd_specific_download",
+    "_bosedd_download_type",
+    "_bosedd_download_price",
+    "_bosedd_commission_price",
+    "_bosedd_cart_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:56.086Z"
+}

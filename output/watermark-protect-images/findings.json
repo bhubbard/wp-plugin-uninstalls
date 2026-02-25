@@ -1,0 +1,26 @@
+{
+  "options": [
+    "iloveimg_images_to_restore",
+    "iloveimg_options_watermark",
+    "iloveimg_options_is_watermark_image",
+    "iloveimg_account_error",
+    "iloveimg_account",
+    "iloveimg_proyect",
+    "iloveimg_options_compress",
+    "iloveimg_user_is_migrated"
+  ],
+  "transients": [
+    "iloveimgwm_bulk_success",
+    "iloveimgwm_bulk_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iloveimg_status_watermark",
+    "iloveimg_watermark",
+    "iloveimg_status_compress",
+    "iloveimg_compress"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:48.700Z"
+}

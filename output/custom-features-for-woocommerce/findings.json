@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cffw_store_close_status",
+    "cffw_store_close_message",
+    "cffw_store_close_still_date",
+    "cffw_cart_auto_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:33.391Z"
+}

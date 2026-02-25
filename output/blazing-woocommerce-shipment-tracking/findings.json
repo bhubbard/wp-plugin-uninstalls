@@ -1,0 +1,23 @@
+{
+  "options": [
+    "bst_option_name",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bst_tracking_number",
+    "_bst_tracking_provider_name",
+    "_bst_tracking_provider",
+    "_bst_tracking_shipdate",
+    "is_customer_note",
+    "_*",
+    "_shipping_postcode",
+    "_billing_postcode",
+    "_shipping_country",
+    "_billing_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:15.852Z"
+}

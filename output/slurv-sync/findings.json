@@ -1,0 +1,18 @@
+{
+  "options": [
+    "slurv_partner_token",
+    "slurv_partner_custom_sidebar_bg",
+    "slurv_partner_custom_link_color",
+    "slurv_partner_custom_logo",
+    "slurv_disable_new_user_imports",
+    "slurv_subdomain"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slurv_login_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:12.319Z"
+}

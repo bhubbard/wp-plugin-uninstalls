@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fwds_effect",
+    "fwds_interval",
+    "fwds_autoplay",
+    "fwds_playBtn",
+    "fwds_playbtn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:30.717Z"
+}

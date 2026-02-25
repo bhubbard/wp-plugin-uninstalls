@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ninfa_archives_noindex",
+    "ninfa_archives_nofollow",
+    "ninfa_categories_noindex",
+    "ninfa_categories_nofollow",
+    "ninfa_tags_noindex",
+    "ninfa_tags_nofollow"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:49.186Z"
+}

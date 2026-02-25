@@ -1,0 +1,15 @@
+{
+  "options": [
+    "caw_settings",
+    "caw_settings_update_status",
+    "wpb_js_google_fonts_subsets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:43.687Z"
+}

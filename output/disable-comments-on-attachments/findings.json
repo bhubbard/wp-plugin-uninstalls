@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpins_deactivation_reason_*",
+    "wpins_deactivation_details_*",
+    "wpins_allow_tracking",
+    "wpins_last_track_time",
+    "wpins_block_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:00.349Z"
+}

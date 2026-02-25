@@ -1,0 +1,24 @@
+{
+  "options": [
+    "compibot_activation_redirect",
+    "compibot_wp_rocket_notice_closed",
+    "compibot_updated"
+  ],
+  "transients": [
+    "compibot_wp_rocket_warning",
+    "compibot_activation_error",
+    "compibot_unread_count",
+    "compibot_scan_status",
+    "compibot_update_options_status",
+    "compibot_updated"
+  ],
+  "cron_jobs": [
+    "compibot_check_service_cron",
+    "compibot_daily_cms_data_cron",
+    "compibot_daily_scan_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:45.727Z"
+}

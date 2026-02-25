@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mwcode_snippet_vault_options",
+    "mwcode_db_snippet_version",
+    "*_license",
+    "force_sslverify",
+    "*_pro_serial",
+    "meowapps_hide_meowapps",
+    "litespeed.conf.cache-rest",
+    "mwai_options",
+    "meowapps_news",
+    "*_rating_date",
+    "mwcode_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:20.444Z"
+}

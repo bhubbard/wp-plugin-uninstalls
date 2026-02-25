@@ -1,0 +1,18 @@
+{
+  "options": [
+    "tp_scroll_top_option_enable",
+    "tp_scroll_top_visibility_fade_speed",
+    "tp_scroll_top_scroll_fade_speed",
+    "tp_scroll_top_scroll_position",
+    "tp_scroll_top_scrollbg",
+    "tp_scroll_top_scrollbg_hover",
+    "tp_scroll_top_scrollradious",
+    "tp_scroll_top_visibility_trigger"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:20.377Z"
+}

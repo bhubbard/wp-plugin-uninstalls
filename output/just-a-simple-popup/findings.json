@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "background_image",
+    "color",
+    "fadetime",
+    "pageids",
+    "home",
+    "opacity",
+    "width",
+    "clickbuttons",
+    "onpageload",
+    "background-repeat",
+    "background-size"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:51.788Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*surveyNoticeDismissedB",
+    "*theme",
+    "*tabSize",
+    "*lineWrapping",
+    "*lineNumbers",
+    "*fontSize",
+    "*lineHeight",
+    "*matchBrackets",
+    "*matchTags",
+    "*highlightSelectionMatches",
+    "*autoCloseTags",
+    "*autoCloseBrackets",
+    "*foldGutter",
+    "*scrollbarStyle",
+    "*keyMap"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:41.153Z"
+}

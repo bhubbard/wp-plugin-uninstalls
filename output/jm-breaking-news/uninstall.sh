@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'jm_breaking_news_version'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_internal_link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_internal_link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_internal_link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_internal_link'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_in_ex'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_in_ex'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_in_ex'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_in_ex'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_link'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_limit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_limit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_limit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_limit'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_target'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_target'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_target'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_target'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_background_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_background_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_background_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_background_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_text_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_text_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_text_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_text_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'jm_breaking_news_news_text_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'jm_breaking_news_news_text_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'jm_breaking_news_news_text_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'jm_breaking_news_news_text_color'"

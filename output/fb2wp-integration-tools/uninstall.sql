@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mxp_fb2wp_db_version', 'mxp_fb2wp_callback_url', 'mxp_fb_enable_jssdk', 'mxp_fb2wp_image_width', 'mxp_fb2wp_image_height', 'mxp_fb2wp_video_width', 'mxp_fb2wp_video_height', 'mxp_fb2wp_post_footer', 'mxp_fb_quote_enable', 'mxp_fb_page_id', 'mxp_fb_messenger_theme_color', 'mxp_fb_messenger_logged_in_greeting', 'mxp_fb_messenger_logged_out_greeting', 'mxp_fb_messenger_greeting_dialog_delay', 'mxp_fb_messenger_embed', 'mxp_fb_save_enable', 'mxp_fb_widget_place', 'mxp_fb_functions_section_title', 'mxp_fb_comments_enable', 'mxp_fb_app_id', 'mxp_fb_api_version', 'mxp_fb_jssdk_local', 'mxp_messenger_msglist', 'mxp_fb_clear_url_cache', 'mxp_fb_app_access_token', 'mxp_fb2wp_rating_import', 'mxp_fb_webhooks_verify_token', 'mxp_fb_secret', 'mxp_fb2wp_messenger_enable_pass_thread', 'mxp_fb2wp_messenger_enable_pass_thread_btn_text', 'mxp_messenger_default_reply', 'mxp_fb2wp_messenger_auth_users', 'mxp_fb2wp_messenger_enable', 'mxp_fb2wp_comment_mirror_enable', 'mxp_fb2wp_comment_mirror_approved', 'mxp_fb2wp_post_enable', 'mxp_fb2wp_auth_users', 'mxp_fb2wp_default_title', 'mxp_fb2wp_post_type', 'mxp_fb2wp_post_tags', 'mxp_fb2wp_no_post_tag', 'mxp_fb2wp_post_category', 'mxp_fb2wp_post_status', 'mxp_fb2wp_post_author', 'mxp_fb2wp_post_comment_status', 'mxp_fb2wp_post_ping_status', 'mxp_fb2wp_default_display_embed', 'mxp_fb2wp_default_display_attachment', 'mxp_fb2wp_default_display_img_caption', 'mxp_enable_debug');
+DELETE FROM wp_options WHERE option_name IN ('mxp_complete_remove', 'mxp_fb_send_enable', 'mxp_remove_plugin_debug_log', 'mxp_fb2wp_active_tab');
+DELETE FROM wp_options WHERE option_name LIKE '%_bot_sleep';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('mxp_fb2wp_post_id', 'mxp_fb2wp_item', 'mxp_fb2wp_sender');
+DELETE FROM wp_usermeta WHERE meta_key IN ('mxp_fb2wp_post_id', 'mxp_fb2wp_item', 'mxp_fb2wp_sender');
+DELETE FROM wp_termmeta WHERE meta_key IN ('mxp_fb2wp_post_id', 'mxp_fb2wp_item', 'mxp_fb2wp_sender');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('mxp_fb2wp_post_id', 'mxp_fb2wp_item', 'mxp_fb2wp_sender');
+

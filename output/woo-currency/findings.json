@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_plugin_activation_errors",
+    "*db_version",
+    "*orders_currencies",
+    "*plug_was_used",
+    "*db_installed",
+    "woocommerce_currency",
+    "*_full_installed",
+    "wcu_options_pro",
+    "wcfm_page_options",
+    "woocommerce_price_num_decimals",
+    "rg_gforms_currency",
+    "woocommerce_shop_page_id",
+    "woocommerce_currency_pos",
+    "*_opts_data",
+    "*_last__time_contact_send",
+    "*welcome_sent",
+    "*_unique_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcu_currency_unavailable_*",
+    "*-tour-hst"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:26.032Z"
+}

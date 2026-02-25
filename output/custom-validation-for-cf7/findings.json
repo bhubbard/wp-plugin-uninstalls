@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cf7vp_enable_phone",
+    "cf7vp_enable_email",
+    "cf7vp_enable_urlblock",
+    "cf7vp_enable_urlblock_all",
+    "cf7vp_phone_digits",
+    "cf7vp_phone_message",
+    "cf7vp_email_message",
+    "cf7vp_url_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:58.020Z"
+}

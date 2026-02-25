@@ -1,0 +1,21 @@
+{
+  "options": [
+    "find_button_name",
+    "billing_email_layout",
+    "billing_last_name_layout",
+    "billing_company_layout",
+    "billing_city_layout",
+    "billing_phone_layout",
+    "shipping_last_name_layout",
+    "shipping_company_layout",
+    "shipping_city_layout",
+    "protocol_type",
+    "postcode_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:39.123Z"
+}

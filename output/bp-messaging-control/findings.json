@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bpmc_bp_messaging_control"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bpmc_user_email_count",
+    "bpmc_mentions_user_email_count",
+    "*capabilities",
+    "bpmc_replied_user_ids",
+    "bpmc_user_have_mentioned"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:24.367Z"
+}

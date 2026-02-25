@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "alg_wc_custom_shipping_methods_version",
+    "alg_wc_custom_shipping_methods_plugin_enabled",
+    "alg_wc_custom_shipping_methods_do_replace_zero_cost",
+    "alg_wc_custom_shipping_methods_icon_desc_enabled",
+    "alg_wc_custom_shipping_methods_do_trigger_checkout_update",
+    "alg_wc_custom_shipping_methods_replace_zero_cost_text",
+    "alg_wc_custom_shipping_methods_admin_title",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:31.977Z"
+}

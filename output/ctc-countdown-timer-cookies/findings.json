@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ctc_countdown_options",
+    "_ctc_countdown_reset"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:53.121Z"
+}

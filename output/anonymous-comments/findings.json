@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "anonymous_comments",
+    "show_author_anonymous_comments",
+    "admin_bypass_anonymous_comments",
+    "anonymous_comment_authors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:40.412Z"
+}

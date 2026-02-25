@@ -1,0 +1,15 @@
+{
+  "options": [
+    "contlo_connect_token",
+    "contlo_api_key",
+    "store_public_key",
+    "logs_enabled",
+    "event_tracking_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:34.595Z"
+}

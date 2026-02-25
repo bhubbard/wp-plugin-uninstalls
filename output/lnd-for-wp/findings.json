@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lnd-hide-config",
+    "lnd-on-chain-address",
+    "lnd-hostname",
+    "lnd-conn-timeout",
+    "lnd-force-ssl",
+    "lnd-macaroon-name",
+    "lnd-macaroon",
+    "lnd-tls-cert-name",
+    "lnd-ssl-warn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:45.392Z"
+}

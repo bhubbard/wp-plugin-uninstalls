@@ -1,0 +1,17 @@
+{
+  "options": [
+    "on_home",
+    "on_archives",
+    "on_feeds",
+    "include_cat",
+    "exclude_cat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "exc_cats_list"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:40.788Z"
+}

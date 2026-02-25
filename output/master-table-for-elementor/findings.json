@@ -1,0 +1,26 @@
+{
+  "options": [
+    "jlt_elementor_master_table_sheet_promo_data",
+    "jlt_elementor_master_table_sheet_promo_data_hash",
+    "jlt_elementor_master_table_activation_time",
+    "*_allow_tracking"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jlt_elementor_master_table_sheet_promo_data_remote_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "billing_phone",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:31.380Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "notification_wizard_dismissed",
+    "notification_debug_log",
+    "adminhash",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "notification_general",
+    "_transient_notification_settings_config",
+    "notification_*",
+    "_notification_settings_config",
+    "_notification_settings_hash",
+    "notification_licenses",
+    "notification_story_dismissed",
+    "notification_data_version",
+    "notification_db_version"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "notification_background_processing"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_enabled_notification",
+    "_notification_type_*",
+    "_edit_last",
+    "_new_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:44.842Z"
+}

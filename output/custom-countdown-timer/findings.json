@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cctimer_settings"
+  ],
+  "transients": [
+    "cctimer_cache"
+  ],
+  "cron_jobs": [
+    "cctimer_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:23.093Z"
+}

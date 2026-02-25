@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wilcoskywb_wiki_blocks_merge_permissions",
+    "wilcoskywb_wiki_blocks_browse_permissions",
+    "wilcoskywb_wiki_blocks_suggest_permissions",
+    "wilcoskywb_wiki_blocks_require_login_browse",
+    "wilcoskywb_wiki_blocks_cleanup_on_uninstall",
+    "wilcoskywb_wiki_blocks_activity_retention_days",
+    "wilcoskywb_wiki_blocks_max_versions_per_block",
+    "wilcoskywb_wiki_blocks_cleanup_on_delete",
+    "wilcoskywb_wiki_blocks_db_version"
+  ],
+  "transients": [
+    "wilcoskywb_backend_edit_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:11.035Z"
+}

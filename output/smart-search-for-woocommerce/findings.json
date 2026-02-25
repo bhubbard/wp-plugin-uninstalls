@@ -1,0 +1,37 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "woocommerce_default_catalog_orderby",
+    "woocommerce_enable_reviews",
+    "wcj_multicurrency_enabled",
+    "wcj_product_by_user_role_enabled",
+    "wcj_price_by_user_role_enabled",
+    "wcj_sorting_enabled",
+    "wcj_more_sorting_enabled",
+    "wcj_price_by_user_role_empty_price_*",
+    "wcj_multicurrency_total_number",
+    "wcj_multicurrency_currency_*",
+    "wcj_multicurrency_exchange_rate_*",
+    "wcj_product_by_user_role_visibility",
+    "se_search_field_id",
+    "se_use_resize_images",
+    "se_exported_attributes",
+    "woocommerce_manage_stock",
+    "woocommerce_notify_no_stock_amount",
+    "cptui_taxonomies",
+    "se_custom_taxonomies",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [
+    "old_value_weglot_langs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcj_product_by_user_role_visible",
+    "total_sales",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:54.167Z"
+}

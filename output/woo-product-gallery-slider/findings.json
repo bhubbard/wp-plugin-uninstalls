@@ -1,0 +1,35 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "wpgs_form",
+    "woocommerce_placeholder_image",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "ciwpgs_installed",
+    "wcpg_plugin_review",
+    "dfwc-banner",
+    "rdn_fetch_*"
+  ],
+  "transients": [
+    "cdx-wpgs-plugin-info-*",
+    "wpgs-review-later",
+    "wpgs_product_variation_*",
+    "rn_last_notification_*",
+    "wpi_check_ran_*"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wavi_value",
+    "_csf_errors_*",
+    "twist_video_url",
+    "_wp_attachment_image_alt",
+    "_rn_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:25.983Z"
+}

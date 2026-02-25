@@ -1,0 +1,15 @@
+{
+  "options": [
+    "twoptions",
+    "twitchers_options",
+    "twitchers_poster",
+    "twitchers_markers",
+    "twitchers_postset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:45.312Z"
+}

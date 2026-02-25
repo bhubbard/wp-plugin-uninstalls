@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_test",
+    "*_PayPal_Email",
+    "*_Suppress_Notification_Emails",
+    "*_Users_Library_Page",
+    "*_db_table_name_case",
+    "*_db_version",
+    "*_BlogAmount",
+    "*_PayToRegisterAmount",
+    "*_BlogExpire",
+    "*_BlogExpirationUnits",
+    "*_PayToRegisterExpire",
+    "*_PayToRegisterExpirationUnits",
+    "*_InstantPaymentTemplate",
+    "*_RecurentPaymentTemplate",
+    "*_LoginButtonTemplate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:34.024Z"
+}

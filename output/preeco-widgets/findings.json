@@ -1,0 +1,14 @@
+{
+  "options": [
+    "preeco_widgets_timestamp",
+    "preeco_widgets_caching_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "preeco_widgets_cache_all"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:13.694Z"
+}

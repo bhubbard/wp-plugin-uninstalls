@@ -1,0 +1,15 @@
+{
+  "options": [
+    "qb_mm_enabled",
+    "qb_mm_style",
+    "qb_mm_title",
+    "qb_mm_message",
+    "qb_mm_logo_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:06.686Z"
+}

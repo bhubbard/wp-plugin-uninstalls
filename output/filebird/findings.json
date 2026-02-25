@@ -1,0 +1,35 @@
+{
+  "options": [
+    "fbv_rest_api_key",
+    "filebird_activation_error",
+    "filebird_activation_old_domain",
+    "fbv_old_data_updated_to_v4",
+    "fbv_first_folder_notice",
+    "fbv_is_new_user",
+    "njt_fbv_folder_per_user",
+    "pigen_options",
+    "njt_fbv_allow_svg_upload",
+    "fbv_review",
+    "filebird_saved_downloads",
+    "filebird_backup_*",
+    "fbv_folder_colors",
+    "njt_fb_updated_from_*",
+    "njt_fbv_is_search_using_api",
+    "fbv_settings",
+    "fbv_version",
+    "fbv_first_time_active"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "filebird_remove_zip_files",
+    "filebird_every_12_hours_jobs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "new_fbv_id",
+    "pll_filter_content"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:02.051Z"
+}

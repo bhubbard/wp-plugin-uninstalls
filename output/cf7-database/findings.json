@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cf7d_settings_nav_table*",
+    "cf7d_settings_field_*",
+    "cf7db_user_reviewed",
+    "cf7db_review_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:46.585Z"
+}

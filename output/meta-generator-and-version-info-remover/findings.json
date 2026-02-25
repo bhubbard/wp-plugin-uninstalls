@@ -1,0 +1,12 @@
+{
+  "options": [
+    "meta_generator_and_version_info_remover_options",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:16.116Z"
+}

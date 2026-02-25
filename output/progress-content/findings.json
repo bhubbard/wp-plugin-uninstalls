@@ -1,0 +1,14 @@
+{
+  "options": [
+    "progcontent_color_bar",
+    "progcontent_post_type_bar",
+    "progcontent_height_bar",
+    "progcontent_style_bar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:50.340Z"
+}

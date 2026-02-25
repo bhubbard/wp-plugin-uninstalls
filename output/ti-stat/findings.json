@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ti_stat",
+    "ti_stat_options",
+    "ti_yauth",
+    "ti_stat_widget",
+    "ti_stat_graph",
+    "ti_stat_cache",
+    "ti_reports"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ti_stat_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:13.834Z"
+}

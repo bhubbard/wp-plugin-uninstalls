@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_registration_generate_username",
+    "woocommerce_registration_generate_password",
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_enable_signup_and_login_from_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:33.861Z"
+}

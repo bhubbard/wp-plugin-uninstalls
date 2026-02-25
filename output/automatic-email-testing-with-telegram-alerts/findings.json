@@ -1,0 +1,18 @@
+{
+  "options": [
+    "aetwtaha4cca_email_address",
+    "aetwtaha4cca_telegram_bot_id",
+    "aetwtaha4cca_telegram_chat_id",
+    "aetwtaha4cca_start_time"
+  ],
+  "transients": [
+    "aetwtaha4cca_email_scheduler_activated"
+  ],
+  "cron_jobs": [
+    "aetwtaha4cca_send_email_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:22.740Z"
+}

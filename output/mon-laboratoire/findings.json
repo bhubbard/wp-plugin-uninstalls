@@ -1,0 +1,24 @@
+{
+  "options": [
+    "MonLabo_settings_group10",
+    "MonLabo_settings_group4",
+    "MonLabo_settings_group3",
+    "MonLabo_settings_group1",
+    "MonLabo_settings_group2",
+    "MonLabo_settings_group7",
+    "MonLabo_settings_group0",
+    "MonLabo_settings_group5",
+    "MonLabo_settings_group11",
+    "MonLabo_settings_group8",
+    "MonLabo_settings_group9",
+    "MonLabo_settings_group6"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_theme_show_page_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:07.249Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpb_psc_installed",
+    "wpb_psc_lite_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpb_psc_size_table",
+    "_wpb_psc_disable",
+    "_wpb_psc_size_chart",
+    "_wpb_psc_set_for_all_products",
+    "_wpb_psc__btn_text",
+    "_wpb_psc_products",
+    "_wpb_psc__product_categories",
+    "_wpb_psc__tab_priority",
+    "wpb_psc_pro_discount_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:56.521Z"
+}

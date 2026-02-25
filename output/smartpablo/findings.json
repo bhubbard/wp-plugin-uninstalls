@@ -1,0 +1,22 @@
+{
+  "options": [
+    "smartpablo_secret",
+    "sp_smartpablo_secret",
+    "sp_smartpablo_id",
+    "sp_smartpablo_webhook_order.created",
+    "sp_smartpablo_webhook_order.updated",
+    "sp_smartpablo_webhook_order.deleted",
+    "sp_smartpablo_webhook_order.restored"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "as_company",
+    "business_id",
+    "tax_id",
+    "vat_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:30.376Z"
+}

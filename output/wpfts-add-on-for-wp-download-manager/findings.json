@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_wpdm_file_browser_root"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "__wpdm_files"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:31.935Z"
+}

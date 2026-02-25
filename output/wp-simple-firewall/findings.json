@@ -1,0 +1,17 @@
+{
+  "options": [
+    "auto_updater.lock",
+    "_transient_*",
+    "_site_transient_*"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "session_tokens"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:46.486Z"
+}

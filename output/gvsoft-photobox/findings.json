@@ -1,0 +1,21 @@
+{
+  "options": [
+    "gvpb_border_color",
+    "gvpb_border_width",
+    "gvpb_button_color",
+    "gvpb_label_color",
+    "gvpb_border_radius",
+    "gvpb_delay",
+    "gvpb_animation",
+    "gvpb_speedOldImgAnim",
+    "gvpb_speedNewImgAnim",
+    "gvpb_OldImgAnim",
+    "gvpb_NewImgAnim"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:37.852Z"
+}

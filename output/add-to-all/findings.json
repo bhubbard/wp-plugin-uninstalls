@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ald_ata_settings",
+    "ata_settings"
+  ],
+  "transients": [
+    "ata_first_post_year"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ata_snippet_type",
+    "_ata_include_priority",
+    "_ata_include_relation",
+    "_ata_include_on_posts",
+    "_ata_include_on_posttypes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:28.738Z"
+}

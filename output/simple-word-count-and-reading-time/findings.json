@@ -1,0 +1,15 @@
+{
+  "options": [
+    "swcart-oldposts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "swcart-word-count",
+    "swcart-reading-time",
+    "swcart-reading-time-raw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:48.844Z"
+}

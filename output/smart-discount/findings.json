@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dlift_condition_value",
+    "dlift_discount_value",
+    "dlift_discount_type",
+    "dlift_success_message",
+    "dlift_success_styles",
+    "dlift_progress_message",
+    "dlift_progress_styles",
+    "dlift_celebration_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:54.293Z"
+}

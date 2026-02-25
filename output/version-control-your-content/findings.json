@@ -1,0 +1,18 @@
+{
+  "options": [
+    "vcyc_active_additional_css",
+    "vcyc_commit_path_*",
+    "vcyc_active_*",
+    "vcyc_github_conn",
+    "vcyc_github_conn_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vcyc_active",
+    "vcyc_commit_path"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:50.416Z"
+}

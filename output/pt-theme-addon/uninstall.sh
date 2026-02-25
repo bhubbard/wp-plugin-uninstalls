@@ -1,0 +1,36 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_size_w'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_size_h'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'link'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'portfolio_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'portfolio_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'portfolio_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'portfolio_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'project_link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'project_link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'project_link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'project_link'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'position'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'position'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'position'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'position'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'social-%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'social-%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'social-%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'social-%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'company'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'company'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'company'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'company'"

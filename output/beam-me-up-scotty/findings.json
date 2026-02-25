@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_viewed",
+    "otb_new_theme",
+    "otb_new_plugin",
+    "*hide_delay",
+    "*_version",
+    "*color",
+    "*opacity",
+    "*rollover_color",
+    "*rollover_opacity",
+    "*indentation",
+    "*bottom_indentation",
+    "*width",
+    "*height",
+    "*icon_color",
+    "*size",
+    "*style",
+    "*animation",
+    "*hide_when_inactive"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:31.910Z"
+}

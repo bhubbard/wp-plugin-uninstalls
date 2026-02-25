@@ -1,0 +1,30 @@
+{
+  "options": [
+    "img_gambar1",
+    "judul_img_gambar1",
+    "img_gambar2",
+    "judul_img_gambar2",
+    "img_gambar3",
+    "judul_img_gambar3",
+    "img_gambar4",
+    "judul_img_gambar4",
+    "img_gambar5",
+    "judul_img_gambar5",
+    "img_gambar6",
+    "judul_img_gambar6",
+    "img_gambar7",
+    "judul_img_gambar7",
+    "img_gambar8",
+    "judul_img_gambar8",
+    "img_gambar9",
+    "judul_img_gambar9",
+    "google_verification",
+    "yahoo_verification"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:33.519Z"
+}

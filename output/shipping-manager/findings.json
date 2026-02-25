@@ -1,0 +1,23 @@
+{
+  "options": [
+    "tpsm-shipping-calculator_settings",
+    "tpsm-general_settings",
+    "TPSM_version",
+    "tpsm_is_setup_wizard",
+    "woocommerce_weight_unit",
+    "tpsm-free-shipping-barfree-shipping_settings",
+    "tpsm-shipping-fees_settings",
+    "tpsm-box-shipping_settings",
+    "tpsm-free-shipping_settings"
+  ],
+  "transients": [
+    "tpsm_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tpsm_dismissed_setup_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:03.087Z"
+}

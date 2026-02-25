@@ -1,0 +1,22 @@
+{
+  "options": [
+    "audit_export_settings",
+    "audit_export_remote_post_settings",
+    "sidebars_widgets",
+    "audit_export_db_version",
+    "audit_export_last_cron_run",
+    "audit_export_preserve_data_on_uninstall"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "audit_export_cron_hook",
+    "audit_export_process_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:52.490Z"
+}

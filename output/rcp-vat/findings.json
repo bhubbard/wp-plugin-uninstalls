@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_country",
+    "rcp_country",
+    "rcp_company_vat_number",
+    "billing_address_1",
+    "billing_postcode",
+    "rcp_company_name",
+    "rcp_address",
+    "rcp_postcode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:22.352Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "esfi_active",
+    "esfi_source_url",
+    "esfi_*",
+    "esfi_width",
+    "esfi_height",
+    "esfi_featured",
+    "esfi_keywords",
+    "esfi_image_source"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:23.956Z"
+}

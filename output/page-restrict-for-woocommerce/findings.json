@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_enable_guest_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "prwc_products"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:57.016Z"
+}

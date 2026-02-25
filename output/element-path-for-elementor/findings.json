@@ -1,0 +1,25 @@
+{
+  "options": [
+    "elmpath_api_response",
+    "elmpath_elements_active",
+    "woocommerce_hide_out_of_stock_items"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "elmpath_update_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_page_settings",
+    "_elementor_template_type",
+    "_elementor_edit_mode",
+    "_elementor_css",
+    "_elementor_controls_usage",
+    "_wp_page_template",
+    "_elementor_version",
+    "team_social"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:08.234Z"
+}

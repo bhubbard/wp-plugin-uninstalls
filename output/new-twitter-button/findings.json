@@ -1,0 +1,17 @@
+{
+  "options": [
+    "twitter_button_type1",
+    "twitter_button_type2",
+    "twitter_button_account",
+    "twitter_button_rt",
+    "twitter_button_rec",
+    "twitter_button_topstyle",
+    "twitter_button_bottomstyle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:27.572Z"
+}

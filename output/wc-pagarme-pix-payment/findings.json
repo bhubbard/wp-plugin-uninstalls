@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_wc_pagarme_pix_payment_geteway_settings",
+    "wcbcf_settings",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wc_pagarme_pix_payment_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_pagarme_pix_payment_dismissed_notice_plugin_sugestion",
+    "_wc_pagarme_pix_payment_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:46.993Z"
+}

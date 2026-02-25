@@ -1,0 +1,41 @@
+{
+  "options": [
+    "*_version",
+    "ext_activated_*",
+    "ext_installed_*",
+    "wtgvb_notifications",
+    "wtgvb_installedversion",
+    "wtgvb_schedule",
+    "wtgvb_settings",
+    "wtgvb_theme",
+    "wtgvb_extensions",
+    "wtgvb_installeddate",
+    "wtgvb_is_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_VB_flagged",
+    "_thumbnail_id",
+    "skip_post_thumb",
+    "_videobloggerflags_phpline",
+    "_videobloggerflags_phpfunction",
+    "_videobloggerflags_priority",
+    "_videobloggerflags_type",
+    "_videobloggerflags_fileurl",
+    "_videobloggerflags_dataid",
+    "_videobloggerflags_userid",
+    "_videobloggerflags_errortext",
+    "_videobloggerflags_projectid",
+    "_videobloggerflags_reason",
+    "_videobloggerflags_action",
+    "_videobloggerflags_instructions",
+    "_videobloggerflags_dump",
+    "_videobloggerflags_creator",
+    "_videobloggerflags_version",
+    "_videoblogger_selectedvideos"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:51.886Z"
+}

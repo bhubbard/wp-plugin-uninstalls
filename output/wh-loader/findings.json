@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wh_loader_brand_name",
+    "wh_loader_bg_color",
+    "wh_loader_text_color",
+    "wh_loader_spinner_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:27.990Z"
+}

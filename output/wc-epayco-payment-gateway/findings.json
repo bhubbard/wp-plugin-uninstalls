@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_data_sync_enabled"
+  ],
+  "transients": [
+    "imma_wm_ads_key"
+  ],
+  "cron_jobs": [
+    "woocommerce_maintenance_task_event_*",
+    "woocommerce_maintenance_task_event_epayco"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "htransaction",
+    "imma_wm_ads",
+    "epayco_reference_code",
+    "_transaction_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:32.789Z"
+}

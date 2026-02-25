@@ -1,0 +1,29 @@
+{
+  "options": [
+    "speedsize_enabled",
+    "speedsize_client_id",
+    "speedsize_client_id_active",
+    "speedsize_service_base_url",
+    "speedsize_client_allow_upscale",
+    "speedsize_client_cdn_syntax",
+    "speedsize_client_forbidden_paths",
+    "speedsize_client_whitelist_domains",
+    "speedsize_js_snippet_enabled",
+    "speedsize_mute_all_videos",
+    "speedsize_realtime_parsing_enabled",
+    "speedsize_css_files_parsing_enabled",
+    "speedsize_css_files_parsing_excluded_keywords",
+    "speedsize_keep_https_scheme_on_wrapped_media_urls",
+    "speedsize_omit_client_id_from_wrapped_media_urls",
+    "speedsize_disable_processor_filters"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "speedsize_cron_clear_expired_css_cache",
+    "speedsize_cron_refresh_client_settings"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:14.865Z"
+}

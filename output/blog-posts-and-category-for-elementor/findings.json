@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pd_pcf_custom_css",
+    "pd_pcf_custom_js",
+    "pd_pcf_deactivation_reason_*",
+    "pd_pcf_deactivation_details_*",
+    "pd_pcf_deactivation_email_*",
+    "pd_pcf_deactivation_main_reason_*",
+    "pdpcf_installed_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:12.479Z"
+}

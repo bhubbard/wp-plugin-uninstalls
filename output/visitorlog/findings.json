@@ -1,0 +1,27 @@
+{
+  "options": [
+    "visitorlog_run_quick_setup",
+    "visitorlog_err_tables",
+    "visitorlog_error_options",
+    "visitorlog_copy_images",
+    "visitorlog_copy_lang",
+    "visitorlog_count_options",
+    "visitorlog_count_tables"
+  ],
+  "transients": [
+    "visitorlog_captcha_string_info_*"
+  ],
+  "cron_jobs": [
+    "visitorlog_cron_backups",
+    "visitorlog_login_captcha",
+    "visitorlog_check_system",
+    "visitorlog_activity_test",
+    "visitorlog_cron_backups_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "last_login_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:42.957Z"
+}

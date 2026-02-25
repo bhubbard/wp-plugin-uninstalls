@@ -1,0 +1,14 @@
+{
+  "options": [
+    "serasend_user_login",
+    "serasend_user_password",
+    "serasend_last_login_check_status",
+    "serasend_last_login_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:30.290Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpgrade_metaboxes_prefix",
+    "wpgrade_shortcodes_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*author_name",
+    "*author_function",
+    "*author_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:56.898Z"
+}

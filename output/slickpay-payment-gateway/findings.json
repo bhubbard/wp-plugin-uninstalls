@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_wc_gateway_slickpay_settings",
+    "wc_slickpay_payment_gateways_version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "slickpay_deposit",
+    "slickpay_today",
+    "slickpay_remaining"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:11.215Z"
+}

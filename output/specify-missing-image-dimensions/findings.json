@@ -1,0 +1,15 @@
+{
+  "options": [
+    "SMID_data_Src_Value",
+    "SMID_excluded_Image_Classes",
+    "SMID_excluded_Image_ID",
+    "SMID_excluded_Image_Name",
+    "SMID_excluded_Image_Extension"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:48.764Z"
+}

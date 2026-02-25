@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cmodsar_searchAndReplaceOnPosttypes",
+    "cmodsar_allowed_terms_metabox_all_post_types",
+    "cmodsar_replacements",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "edit_custom_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:42.978Z"
+}

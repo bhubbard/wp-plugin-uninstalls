@@ -1,0 +1,13 @@
+{
+  "options": [
+    "acm_paused_events",
+    "acm_schedules",
+    "acm_server_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:16.357Z"
+}

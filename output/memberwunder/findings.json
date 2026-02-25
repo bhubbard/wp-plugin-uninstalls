@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_version",
+    "registration",
+    "twm_smtp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "quiz",
+    "image",
+    "course_id",
+    "*info_show_on_login",
+    "before_start",
+    "module_id",
+    "*info",
+    "twm_avatar_attachment_id",
+    "first_name",
+    "last_name",
+    "mw_started_free_courses",
+    "twm_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:56.913Z"
+}

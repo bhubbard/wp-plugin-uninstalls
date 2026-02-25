@@ -1,0 +1,14 @@
+{
+  "options": [
+    "geolocator_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_geolocator_hide_for",
+    "_geolocator_redirect_to"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:26.717Z"
+}

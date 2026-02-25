@@ -1,0 +1,14 @@
+{
+  "options": [
+    "beastthemes_companion_share",
+    "beastthemes_front_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:24.122Z"
+}

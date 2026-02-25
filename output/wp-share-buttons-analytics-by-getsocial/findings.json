@@ -1,0 +1,38 @@
+{
+  "options": [
+    "gs-popup-showed",
+    "gs-api-key",
+    "gs-place",
+    "gs-posts-page",
+    "gs-place-follow",
+    "gs-pro",
+    "gs-user-email",
+    "gs-identifier",
+    "gs-apps",
+    "gs-ask-review",
+    "gs-has-subscriptions",
+    "gs-alert-msg",
+    "gs-alert-utm",
+    "gs-alert-cta",
+    "gs-lang",
+    "*-active",
+    "*-network-fb",
+    "*-network-tw",
+    "*-network-pn",
+    "*-network-gp",
+    "*-template",
+    "*-size",
+    "*-counter",
+    "*-position",
+    "gs-custom-expression-active",
+    "gs-custom-expression-position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_my_meta_getsocialio_hide"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:53.637Z"
+}

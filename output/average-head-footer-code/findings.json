@@ -1,0 +1,15 @@
+{
+  "options": [
+    "site_wide_head_code",
+    "site_wide_footer_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "avrghdftrcd_head_code",
+    "avrghdftrcd_footer_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:21.569Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "currencyr_db_version",
+    "currencyr_settings",
+    "*_settings",
+    "woocommerce_currency",
+    "currency_type",
+    "edd_settings_general"
+  ],
+  "transients": [
+    "*_updated"
+  ],
+  "cron_jobs": [
+    "currencyr_update_rates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:42.184Z"
+}

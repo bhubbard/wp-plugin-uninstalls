@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ai_excerpt_gen_api_key",
+    "ai_excerpt_gen_max_token",
+    "ai_excerpt_gen_post_types_enabled",
+    "ai_excerpt_gen_model"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "themencode_ai_generated_excerpt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:27.654Z"
+}

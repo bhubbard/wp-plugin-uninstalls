@@ -1,0 +1,16 @@
+{
+  "options": [
+    "haendlerbund_api_token",
+    "haendlerbund_selected_options",
+    "haendlerbund_selected_page_ids",
+    "hbdocabruf"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "haendlerbund_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:37.357Z"
+}

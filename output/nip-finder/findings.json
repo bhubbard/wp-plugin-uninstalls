@@ -1,0 +1,16 @@
+{
+  "options": [
+    "nip_finder_api_key",
+    "nip_finder_subscription_type",
+    "nip_finder_getting_nip",
+    "nip_finder_getting_postal_codes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_nip"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:27.937Z"
+}

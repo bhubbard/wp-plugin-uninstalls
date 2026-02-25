@@ -1,0 +1,14 @@
+{
+  "options": [
+    "PlayMe_recaptcha_sitekey",
+    "PlayMe_recaptcha_secretkey"
+  ],
+  "transients": [
+    "playme_requests"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:24.818Z"
+}

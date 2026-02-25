@@ -1,0 +1,19 @@
+{
+  "options": [
+    "imtfw_keeplogs",
+    "imtfw_disable_notices",
+    "imtfw_errors",
+    "imtfw_mytarget_id",
+    "imtfw_dynamic_remarketing",
+    "imtfw_feed_id",
+    "imtfw_code_location",
+    "active_sitewide_plugins",
+    "imtfw_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:43.318Z"
+}

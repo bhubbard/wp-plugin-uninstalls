@@ -1,0 +1,13 @@
+{
+  "options": [
+    "coviu-video-calls"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "coviu-video-calls"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:30.372Z"
+}

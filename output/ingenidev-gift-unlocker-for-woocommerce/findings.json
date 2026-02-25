@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ingenidev_gift_hide_out_of_stock",
+    "ingenidev_gift_hide_non_gift_items",
+    "ingenidev_gift_products"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:11.284Z"
+}

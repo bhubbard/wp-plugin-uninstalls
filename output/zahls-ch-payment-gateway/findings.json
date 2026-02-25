@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woocommerce_zahls_settings",
+    "woocommerce_zahls_description",
+    "woocommerce_zahls_instance",
+    "woocommerce_zahls_sid",
+    "woocommerce_zahls_prefix",
+    "woocommerce_zahls_logos",
+    "woocommerce_zahls_subscriptions_title",
+    "woocommerce_zahls_subscriptions_user_desc",
+    "woocommerce_zahls_subscription_logos",
+    "woocommerce_prices_include_tax",
+    "*_accept_manual_renewals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zahls_auth_transaction_id",
+    "zahls_gateway_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:40.754Z"
+}

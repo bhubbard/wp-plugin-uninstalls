@@ -1,0 +1,17 @@
+{
+  "options": [
+    "CJAffiliate_plugin_export",
+    "CJAffiliate_plugin_exportTransfer",
+    "option_export_name"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cron_cj_export"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "attribute_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:45.047Z"
+}

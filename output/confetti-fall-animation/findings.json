@@ -1,0 +1,16 @@
+{
+  "options": [
+    "confetti-popup-delay",
+    "confetti_welcome_shown",
+    "confetti-popup-content",
+    "confetti-popup-pages",
+    "confetti_active",
+    "popup_background_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:47.547Z"
+}

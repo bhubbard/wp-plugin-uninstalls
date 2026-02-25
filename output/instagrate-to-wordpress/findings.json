@@ -1,0 +1,40 @@
+{
+  "options": [
+    "itw_username",
+    "itw_userid",
+    "itw_manuallstid",
+    "itw_accesstoken",
+    "itw_accesstoken_expires",
+    "itw_version",
+    "itw_imagelink",
+    "itw_debugmode",
+    "itw_imagesave",
+    "itw_imagefeat",
+    "itw_post_date",
+    "itw_postformat",
+    "itw_poststatus",
+    "itw_posttype",
+    "itw_defaulttitle",
+    "itw_ishome",
+    "itw_last_run",
+    "itw_configured",
+    "itw_imagesize",
+    "itw_imageclass",
+    "itw_postcats",
+    "itw_postauthor",
+    "itw_customtitle",
+    "itw_customtext",
+    "itw_pluginlink"
+  ],
+  "transients": [
+    "itw_posting"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "instagrate_id",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:47.759Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bbi_tenant_id",
+    "bbi_enable_debug_logging",
+    "bbi_products_csv_enabled",
+    "bbi_products_csv_path"
+  ],
+  "transients": [
+    "bb_session_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:20.278Z"
+}

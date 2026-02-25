@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cf7-sheets-config"
+  ],
+  "transients": [
+    "cf7_sheets_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gs_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:12.788Z"
+}

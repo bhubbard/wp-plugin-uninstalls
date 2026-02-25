@@ -1,0 +1,21 @@
+{
+  "options": [
+    "olivery_login",
+    "olivery_password",
+    "olivery_db",
+    "olivery_company_sequence",
+    "olivery_follower_address",
+    "olivery_follower_area",
+    "olivery_follower_store_name",
+    "olivery_follower_mobile_number",
+    "olivery_follower_second_mobile_number",
+    "olivery_delivery_coms",
+    "olivery_new_orders_statuses"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:21.425Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "triberr_apikey",
+    "triberr_message",
+    "triberr_comments_width",
+    "triberr_comments_bg_color",
+    "triberr_comments_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_triberr_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:22.949Z"
+}

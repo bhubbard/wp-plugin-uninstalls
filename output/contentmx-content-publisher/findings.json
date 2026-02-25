@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cmx_ccm_call_dir_target",
+    "cmx_ccm_vers",
+    "cmx_ccm_ip_whitelist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:02.461Z"
+}

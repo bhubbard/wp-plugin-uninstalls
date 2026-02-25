@@ -1,0 +1,20 @@
+{
+  "options": [
+    "jws_version",
+    "jws_roles",
+    "jws_stopwords_options",
+    "jws_admin_options",
+    "jws_reading_time",
+    "jws_excluded_types",
+    "jws_stats_calculated",
+    "wpwcp_reading_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tve_updated_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:39.018Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "role_based_storage_limiter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rbsl_used_storage_space"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:05.226Z"
+}

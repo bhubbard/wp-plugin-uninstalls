@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpcbr_settings",
+    "wc_feature_woocommerce_brands_enabled",
+    "wpcbr_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcbr_logo",
+    "wpcbr_banner",
+    "wpcbr_banner_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:22.850Z"
+}

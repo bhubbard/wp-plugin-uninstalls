@@ -1,0 +1,17 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "wpils_key_validation_result"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ils_tracking_details"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:22.643Z"
+}

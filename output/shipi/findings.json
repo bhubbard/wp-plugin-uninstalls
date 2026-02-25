@@ -1,0 +1,24 @@
+{
+  "options": [
+    "shipi_integration_key",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_currency",
+    "active_sitewide_plugins",
+    "woocommerce_feature_product_block_editor_enabled"
+  ],
+  "transients": [
+    "shipi_nonce_temp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipi_hs_code",
+    "shipi_pushed",
+    "_shipi_tracking_no",
+    "_shipi_carrier",
+    "_shipi_carrier_label",
+    "_shipi_order_processed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:32.635Z"
+}

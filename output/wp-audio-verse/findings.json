@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "verse_settings_verse_translate",
+    "verse_settings_upload_mp3",
+    "verse_advance_settings_rtl_main_content",
+    "verse_advance_settings_rtl_translated_content",
+    "verse_advance_settings_play_autoplay",
+    "verse_advance_settings_player_below_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:17.494Z"
+}

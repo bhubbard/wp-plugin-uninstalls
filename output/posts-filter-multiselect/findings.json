@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "admin_color",
+    "*_columns_width",
+    "_edit_lock",
+    "_edit_last"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:04.460Z"
+}

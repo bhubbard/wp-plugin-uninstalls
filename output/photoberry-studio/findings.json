@@ -1,0 +1,18 @@
+{
+  "options": [
+    "photoberry_studio_had_default_session_types",
+    "photoberry_studio_welcomed",
+    "photoberry_studio_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "photoberry_scheduled_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_photoberry_linked_object",
+    "_photoberry_notification_params"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:52.002Z"
+}

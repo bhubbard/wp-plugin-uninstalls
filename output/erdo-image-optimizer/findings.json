@@ -1,0 +1,21 @@
+{
+  "options": [
+    "erdo_auto_sanitize",
+    "erdo_remove_exif",
+    "erdo_auto_webp",
+    "erdo_convert_format",
+    "erdo_total_saved_bytes",
+    "erdo_quality"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_erdo_audit_cache",
+    "_erdo_savings_bytes",
+    "_erdo_original_size",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:39.136Z"
+}

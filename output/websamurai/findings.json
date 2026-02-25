@@ -1,0 +1,22 @@
+{
+  "options": [
+    "websamurai_cp_auth_key",
+    "websamurai_cp_site_id",
+    "active_sitewide_plugins",
+    "websamurai_cp_connected_at",
+    "websamurai_cp_user_data",
+    "websamurai_cp_user_refreshed_at",
+    "websamurai_cp_site_synced_at"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "websamurai_daily_oauth_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:56.857Z"
+}

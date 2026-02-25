@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cf_meta_artist'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cf_meta_artist'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cf_meta_artist'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cf_meta_artist'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cf_meta_song'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cf_meta_song'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cf_meta_song'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cf_meta_song'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cf_meta_genre'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cf_meta_genre'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cf_meta_genre'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cf_meta_genre'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cf_meta_tv_term'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cf_meta_tv_term'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cf_meta_tv_term'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cf_meta_tv_term'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cf_meta_album'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cf_meta_album'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cf_meta_album'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cf_meta_album'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cf_meta_album_is'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cf_meta_album_is'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cf_meta_album_is'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cf_meta_album_is'"

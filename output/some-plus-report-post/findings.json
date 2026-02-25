@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sprp_version",
+    "sprp_settings"
+  ],
+  "transients": [
+    "sprp_stats"
+  ],
+  "cron_jobs": [
+    "sprp_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:02.133Z"
+}

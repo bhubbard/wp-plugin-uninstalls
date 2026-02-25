@@ -1,0 +1,25 @@
+{
+  "options": [
+    "elex_bep_filter_checkbox_data",
+    "eh_bulk_edit_table_row",
+    "xa_regex_error",
+    "eh_bulk_edit_choosed_variation_id",
+    "bulk_edit_filtered_product_ids_for_select_unselect",
+    "eh_bulk_edit_choosed_product_id",
+    "xa_bulk_selected_ids",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "eh_pricing_discount_product_price_user_role"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:40.356Z"
+}

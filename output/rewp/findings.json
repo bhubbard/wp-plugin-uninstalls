@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rewp_chrome-bar-color",
+    "rewp_g-analytics-id",
+    "rewp_add-font-awesome",
+    "rewp_allow-svg",
+    "rewp_jquery",
+    "g-analytics-id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:04.232Z"
+}

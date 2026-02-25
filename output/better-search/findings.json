@@ -1,0 +1,42 @@
+{
+  "options": [
+    "bsearch_db_version",
+    "bsearch_settings",
+    "bsearch_show_wizard",
+    "bsearch_wizard_notice_dismissed",
+    "wz_posts_custom_tables_ready",
+    "ald_bsearch_settings",
+    "better_search_selected_sites",
+    "bsearch_wizard_completed",
+    "bsearch_wizard_completed_date",
+    "bsearch_wizard_current_step",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "bsearch_deactivated_notice",
+    "bsearch_show_wizard_activation_redirect",
+    "bsearch_reindex_state",
+    "bsearch_deactivated_notice_id",
+    "bsearch_reindex_scheduled",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_video_thumbnail",
+    "_wp_attachment_image_alt",
+    "_seopress_robots_primary_cat"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:58.585Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "launchmind_blog_api_base",
+    "launchmind_blog_api_key",
+    "launchmind_blog_site_id",
+    "launchmind_blog_cache_ttl",
+    "launchmind_blog_base_path",
+    "launchmind_blog_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:15.046Z"
+}

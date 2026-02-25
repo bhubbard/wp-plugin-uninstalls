@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_igniter_shortcode_posts",
+    "wp_igniter_page_override",
+    "wp_igniter_ci_path",
+    "wp_igniter_handle_404",
+    "wp_igniter_native_constants",
+    "wp_igniter_custom_apppath",
+    "wp_igniter_custom_sysfolder",
+    "wp_igniter_ci_urihook"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:27.521Z"
+}

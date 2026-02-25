@@ -1,0 +1,14 @@
+{
+  "options": [
+    "afv_auto_ver",
+    "afv_ver_target_file",
+    "afv_manual_ver",
+    "afv_manual_ver_input"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:47.074Z"
+}

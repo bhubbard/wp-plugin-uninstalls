@@ -1,0 +1,14 @@
+{
+  "options": [
+    "buzzgrid_status",
+    "buzzgrid_script_url",
+    "buzzgrid_site_url",
+    "buzzgrid_access_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:32.076Z"
+}

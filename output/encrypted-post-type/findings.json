@@ -1,0 +1,15 @@
+{
+  "options": [
+    "en_p_t_ek_e"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "en_p_t_has_ek",
+    "_en_p_t_r_id",
+    "_en_p_t_e_iv"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:28.692Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "u2g_plugin_version",
+    "u2g_integration_redirect",
+    "rewrite_rules",
+    "u2g_integration_options",
+    "u2g_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:11.692Z"
+}

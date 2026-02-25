@@ -1,0 +1,31 @@
+{
+  "options": [
+    "content_craft_ai_api_key",
+    "content_craft_ai_user_settings",
+    "content_craft_ai_token",
+    "content_craft_ai_active_subscription",
+    "content_craft_ai_pending_plan_type",
+    "content_craft_ai_internal_links_updated"
+  ],
+  "transients": [
+    "content_craft_ai_manual_logout",
+    "content_craft_ai_last_subscription_request",
+    "content_craft_ai_notifications"
+  ],
+  "cron_jobs": [
+    "content_craft_ai_check_scheduled_articles",
+    "content_craft_ai_check_article_statuses",
+    "content_craft_ai_process_scheduled_articles",
+    "content_craft_ai_check_activation"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "rank_math_description",
+    "rank_math_focus_keyword"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:34.451Z"
+}

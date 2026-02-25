@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tinypng_api_key",
+    "efctin_processed_images",
+    "efctin_log",
+    "efctin_log_ct",
+    "efctin_log_mb",
+    "efctin_days",
+    "efctin_target_folder",
+    "efctin_auto_hours",
+    "efctin_auto"
+  ],
+  "transients": [
+    "efctin_next_run"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:06.574Z"
+}

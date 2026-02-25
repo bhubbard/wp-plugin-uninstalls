@@ -1,0 +1,15 @@
+{
+  "options": [
+    "news_manager_general",
+    "news_manager_permalinks",
+    "news_manager_capabilities",
+    "news_manager_version",
+    "news_manager_activated_blogs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:51.802Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_civi_wpms_memberships_offset",
+    "civi_wp_member_sync_settings",
+    "civi_wp_member_sync_version",
+    "jal_db_version",
+    "tadms_db_version",
+    "civi_member_sync_db_version",
+    "civi_member_sync_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "civi_wp_member_sync_refresh",
+    "civi_member_sync_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:38.628Z"
+}

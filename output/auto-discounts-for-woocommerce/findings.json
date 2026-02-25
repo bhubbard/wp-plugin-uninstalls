@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wcad_excluded_categories",
+    "wcad_discount_rules",
+    "wc_discount_rules",
+    "bdo_discount_rules",
+    "wc_excluded_categories",
+    "bdo_excluded_categories"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wcad_daily_discount_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_product_creation_date",
+    "_sale_price",
+    "_price",
+    "_wcad_applied_discount_rule",
+    "_wc_applied_discount_rule",
+    "_bdo_applied_discount_rule",
+    "_wcad_exclude_from_discounts",
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:50.122Z"
+}

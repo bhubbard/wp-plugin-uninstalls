@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpho_redirect_visitors_coming",
+    "wpho_country_selected_htaccess",
+    "wpho_rewrite_htaccess",
+    "Timezoneselection",
+    "Preventsindexingoffolderswithoutindexphp",
+    "Disabletheserversignature",
+    "BlockSensitiveFiles",
+    "ProtectWP-includes",
+    "protectauthorlink",
+    "blockauthorscans",
+    "Enablingthetrackingofsymboliclinks",
+    "commentspam",
+    "Protectionagainstfileinjections",
+    "VariousprotectionsXSSclickjackingandMIME-Typesniffing",
+    "Disablethehotlinkingofyourpictures",
+    "RedirectwithoutWWW",
+    "RedirecttoHTTPS",
+    "Cachingfilesinthebrowser",
+    "DisabledheadersETags",
+    "Compressstaticfiles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:04.249Z"
+}

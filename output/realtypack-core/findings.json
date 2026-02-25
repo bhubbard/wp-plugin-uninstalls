@@ -1,0 +1,45 @@
+{
+  "options": [
+    "acf_version",
+    "realty_pack_importer_attachment_media",
+    "recently_activated",
+    "realtypack_activation",
+    "realtypack_activate_email",
+    "realtypack_activate_purchase",
+    "RTPC_imported_demo",
+    "realty_pack_importer_*",
+    "elementor_cpt_support",
+    "realtypack_wpl_installed",
+    "widget_*",
+    "sidebars_widgets",
+    "realty_pack_importer_WPL_properties",
+    "realty_pack_importer_WPL_agent",
+    "rewrite_rules",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "acf_plugin_updates",
+    "kirki_css_write_to_file_failed",
+    "kirki_googlefonts_cache",
+    "RTPC_update_plugin_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "tgmpa_dismissed_notice_*",
+    "RTPC_rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:27.419Z"
+}

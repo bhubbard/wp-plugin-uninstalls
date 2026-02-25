@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc_settings_paypal_currency_converter_custom_currency', 'wc_settings_paypal_currency_converter_custom_currency_symbol', 'wc_settings_paypal_currency_converter_custom_currency_enable', 'wc_settings_paypal_currency_converter_custom_currency_exchange_rate', 'wc_settings_paypal_currency_converter_manual_exchange_rate', 'wc_settings_paypal_currency_converter_exchange_rate_service', 'wc_settings_paypal_currency_converter_supported_currencies', 'wc_settings_paypal_currency_converter_exchange_rate_service_api_access_key');
+

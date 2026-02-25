@@ -1,0 +1,23 @@
+{
+  "options": [
+    "lsx_testimonials_scporder_install",
+    "LSX_Testimonials_Scporder_Install",
+    "_lsx-to_settings",
+    "_lsx_settings",
+    "_lsx_lsx-settings",
+    "lsx_testimonials_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lsx_testimonial_email_gravatar",
+    "lsx_testimonial_url",
+    "lsx_testimonial_byline",
+    "project_to_testimonial",
+    "service_to_testimonial",
+    "team_to_testimonial"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:03.205Z"
+}

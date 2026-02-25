@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wc_inlire_show_phpver_notice",
+    "wc_inlire_show_wcver_notice",
+    "wc_inlire_show_curl_notice",
+    "wc_inlire_show_urlservice_notice",
+    "wc_inlire_show_token_notice",
+    "wc_inlire_show_maxamount_notice",
+    "woocommerce_inlire_settings",
+    "*_settings",
+    "wc_inlire_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:50.127Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rg_gforms_enable_html5",
+    "*_last_queried",
+    "*-review-request",
+    "*-review-dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "convertkit_resource_refresh_*"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:12.034Z"
+}

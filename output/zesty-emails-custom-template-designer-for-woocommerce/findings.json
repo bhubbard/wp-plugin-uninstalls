@@ -1,0 +1,13 @@
+{
+  "options": [
+    "zefw_element_id_counter",
+    "zefw-default-email-address",
+    "zefw_custom_emails_table_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:01.162Z"
+}

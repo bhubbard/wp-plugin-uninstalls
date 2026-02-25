@@ -1,0 +1,22 @@
+{
+  "options": [
+    "digg_setting_*",
+    "digg_setting_button_style",
+    "digg_setting_widget_advanced",
+    "digg_setting_button_enabled",
+    "digg_setting_widget_html",
+    "digg_setting_button_location",
+    "digg_setting_button_type",
+    "digg_setting_button_position",
+    "digg_setting_button_alignment",
+    "digg_setting_button_topic",
+    "digg_setting_widget_json",
+    "digg_setting_widget_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:38.087Z"
+}

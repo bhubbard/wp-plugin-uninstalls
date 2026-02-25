@@ -1,0 +1,25 @@
+{
+  "options": [
+    "snapblog_import_author_id",
+    "snapblog_base_url",
+    "snapblog_email_api",
+    "snapblog_password_api",
+    "snapblog_import_max_pages",
+    "snapblog_last_import_date"
+  ],
+  "transients": [
+    "snapblog_import_partial"
+  ],
+  "cron_jobs": [
+    "snapblog_import_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "snapblog_category_id",
+    "_snapblog_external_id",
+    "_snapblog_author",
+    "_snapblog_featured"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:35.175Z"
+}

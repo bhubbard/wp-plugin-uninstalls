@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wonderplugin_exclude_blog",
+    "wonderplugin_exclude_search",
+    "wonderplugin_mainquery_only"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:52.233Z"
+}

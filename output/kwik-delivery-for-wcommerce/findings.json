@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_kwik_delivery_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kwik_delivery_order_id",
+    "kwik_delivery_check_status_url",
+    "kwik_delivery_pickup_id",
+    "kwik_delivery_pickup_status",
+    "kwik_delivery_pickup_tracking_url",
+    "kwik_delivery_delivery_id",
+    "kwik_delivery_delivery_status",
+    "kwik_delivery_delivery_tracking_url",
+    "kwik_delivery_order_response",
+    "kwik_delivery_order_details_response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:12.701Z"
+}

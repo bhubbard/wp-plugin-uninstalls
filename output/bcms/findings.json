@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bcms_insert_related",
+    "bcms_searchsmart",
+    "bcms_swhl",
+    "bcms_managefocus_month",
+    "bcms_managefocus_author",
+    "widget_postloop",
+    "widget_responseloop",
+    "bcms_search_options",
+    "bsuite_site_privacy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:51.470Z"
+}

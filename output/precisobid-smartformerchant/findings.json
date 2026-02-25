@@ -1,0 +1,19 @@
+{
+  "options": [
+    "update_xml_and_json_at",
+    "preciso_login_username",
+    "preciso_login_password",
+    "preciso_plugin_set",
+    "termstatus",
+    "preciso_token",
+    "preciso_campaignId"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:17.316Z"
+}

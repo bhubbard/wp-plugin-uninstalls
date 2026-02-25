@@ -1,0 +1,21 @@
+{
+  "options": [
+    "bt_post_type",
+    "bt_pagination",
+    "bt_comments_per_page",
+    "bt_exclude_post",
+    "biztech_sac_avatar",
+    "biztech_show_date",
+    "biztech_open_new_tab",
+    "biztech_comments_order",
+    "bt_display_filter",
+    "bt_show_post_link",
+    "bt_show_comment_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:55.517Z"
+}

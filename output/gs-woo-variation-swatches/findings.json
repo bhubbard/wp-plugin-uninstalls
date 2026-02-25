@@ -1,0 +1,27 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "gs_swatches_plugin_version",
+    "gs_swatches_permalinks_flushed"
+  ],
+  "transients": [
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "product_attribute_image",
+    "product_attribute_color",
+    "variable_swatches_settings",
+    "is_dual_color",
+    "secondary_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:20.046Z"
+}

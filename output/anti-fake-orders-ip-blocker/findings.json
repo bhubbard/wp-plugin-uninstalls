@@ -1,0 +1,33 @@
+{
+  "options": [
+    "afop_plugin_version",
+    "afop_db_version",
+    "afop_settings",
+    "afop_blocked_disposable_domains",
+    "afop_delete_data_on_uninstall",
+    "afop_legacy_blocks_migrated",
+    "afop_all_blocked_ips",
+    "_transient_timeout_*",
+    "afop_ip_perm_block_*",
+    "afop_ip_block_data_*",
+    "afop_all_blocked_emails",
+    "afop_email_perm_block_*",
+    "afop_email_block_data_*",
+    "afop_all_blocked_users",
+    "afop_user_perm_block_*",
+    "afop_user_block_data_*",
+    "afop_temp_block_count_*"
+  ],
+  "transients": [
+    "afop_admin_notice",
+    "afop_fast_attempts_*"
+  ],
+  "cron_jobs": [
+    "afop_clean_logs_event",
+    "afop_auto_unblock_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:13.371Z"
+}

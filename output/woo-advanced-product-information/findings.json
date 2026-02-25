@@ -1,0 +1,38 @@
+{
+  "options": [
+    "_wapi_settings",
+    "woocommerce_enable_reviews",
+    "woocommerce_enable_review_rating",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_display_shop",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "villatheme_call",
+    "villatheme_ads",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wapi_fake_stock",
+    "wapi_category_rank_alltime",
+    "wapi_category_rank_week",
+    "wapi_category_rank_month",
+    "_wapi_sold_quantity_alltime",
+    "_wapi_sold_quantity_lastweek",
+    "_wapi_sold_quantity_lastmonth",
+    "_wapi_recent_quantity",
+    "_wapi_number_of_views",
+    "_wapi_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:56.196Z"
+}

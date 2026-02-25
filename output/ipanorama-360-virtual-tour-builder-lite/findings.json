@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ipanorama_db_version",
+    "ipanorama_activated",
+    "ipanorama_settings",
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:58.459Z"
+}

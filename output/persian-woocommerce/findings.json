@@ -1,0 +1,24 @@
+{
+  "options": [
+    "PW_Options",
+    "persian_woo_notice_number_*",
+    "pw_notices",
+    "pw_dismiss_notice_*",
+    "pw_dismiss_notice_all",
+    "persian_woocommerce_feed",
+    "woocommerce_allow_tracking",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_analytics_enabled",
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_excluded_report_order_statuses",
+    "woocommerce_date_type"
+  ],
+  "transients": [
+    "pw_update_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:50.276Z"
+}

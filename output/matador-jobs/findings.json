@@ -1,0 +1,60 @@
+{
+  "options": [
+    "bullhorn_api_credentials",
+    "matador_advanced_applications",
+    "matador_activated",
+    "matador_ET_last_phone_home",
+    "bullhorn_settings",
+    "bullhorn_api_access",
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "matador_import_categories_job_*",
+    "matador_extension_leads_enabled",
+    "matador_bullhorn_Candidate_consentMgmt_object",
+    "matador_upgrade_email",
+    "matador_activity_log_delete_logs",
+    "matador_ET_daily_instance_report",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "matador_job_sync_now",
+    "matador_sync",
+    "matador_sync_applications",
+    "matador_application_sync",
+    "matador_job_sync",
+    "matador_sync_continue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_matador_source_date_modified",
+    "_matador_source_id",
+    "_matador_synced_meta_keys",
+    "bullhorn_street",
+    "bullhorn_city",
+    "bullhorn_state",
+    "bullhorn_country",
+    "bullhorn_zip",
+    "bullhorn_job_location",
+    "job_general_location",
+    "bullhorn_*",
+    "isRemote",
+    "salary_low_value",
+    "salary_high_value",
+    "salary",
+    "salaryUnit",
+    "salary_currency",
+    "jsonld",
+    "_matador_source",
+    "owner",
+    "responseUser",
+    "assignedUsers",
+    "_application_data",
+    "_bullhorn_candidate_data",
+    "bullhorn_job_id",
+    "isHybrid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:56.601Z"
+}

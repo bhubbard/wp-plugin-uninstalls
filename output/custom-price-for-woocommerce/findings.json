@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*label_text",
+    "*suggested_text",
+    "*minimum_text",
+    "*maximum_text",
+    "*button_text",
+    "*button_text_single",
+    "woocommerce_cpw_label_text",
+    "*_allow_switching_cpw_price",
+    "*_allow_switching",
+    "woocommerce_cpw_button_text_single",
+    "woocommerce_cpw_button_text",
+    "woocommerce_cpw_minimum_text",
+    "woocommerce_cpw_maximum_text",
+    "woocommerce_cpw_suggested_text",
+    "woocommerce_tax_round_at_subtotal"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:59.783Z"
+}

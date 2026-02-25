@@ -1,0 +1,37 @@
+{
+  "options": [
+    "optinguru_owner_id",
+    "conv_owner_id",
+    "conv_site_id",
+    "optinguru_site_id",
+    "optinguru_website_id",
+    "conv_token",
+    "optinguru_token",
+    "convertful_owner_id",
+    "convertful_site_id",
+    "convertful_token",
+    "optinguru_*",
+    "convertful_*",
+    "conv_*",
+    "conv_ref"
+  ],
+  "transients": [
+    "conv-ref"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "exclude_sale_items",
+    "usage_limit",
+    "expiry_date",
+    "free_shipping",
+    "customer_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:55.324Z"
+}

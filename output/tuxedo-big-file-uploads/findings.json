@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tuxbfu_file_scan",
+    "tuxedo_big_file_uploads_install_time",
+    "tuxbfu_max_upload_size",
+    "tuxbfu_settings",
+    "ms_files_rewriting",
+    "tuxbfu_chunk_size",
+    "tuxbfu_max_retries"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bffu_notice_*",
+    "_wp_attachment_is_custom_background",
+    "_wp_attachment_is_custom_header"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:45.168Z"
+}

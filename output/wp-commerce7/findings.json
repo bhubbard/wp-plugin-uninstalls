@@ -1,0 +1,21 @@
+{
+  "options": [
+    "c7wp_activation",
+    "c7wp_settings"
+  ],
+  "transients": [
+    "c7wp_*",
+    "c7wp-admin-notice-pages",
+    "c7wp-admin-notice-pages-missing",
+    "c7wp_remote_notices"
+  ],
+  "cron_jobs": [
+    "c7wp_fetch_remote_notices"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "c7wp_notice_dismissed_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:52.770Z"
+}

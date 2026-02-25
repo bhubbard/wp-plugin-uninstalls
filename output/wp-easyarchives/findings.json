@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_easyarchives_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_easyarchives_cache_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:08.720Z"
+}

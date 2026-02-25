@@ -1,0 +1,17 @@
+{
+  "options": [
+    "myrepono",
+    "myrepono-plugin-config",
+    "myrepono-plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "myrepono_ignore_notice_alert_*",
+    "myrepono_ignore_notice_setup",
+    "myrepono_ignore_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:41.032Z"
+}

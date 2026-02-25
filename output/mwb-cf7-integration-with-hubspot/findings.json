@@ -1,0 +1,39 @@
+{
+  "options": [
+    "*-client-id",
+    "*-secret-id",
+    "*-scopes",
+    "*-own-app",
+    "*-authorised",
+    "*-crm-active",
+    "*-cf7-setting",
+    "*-cf7-onboarding-data-sent",
+    "*-cf7-onboarding-data-skipped",
+    "active_sitewide_plugins",
+    "*-token-data",
+    "*-user-info",
+    "*-crm-connected",
+    "*-cf7-synced-forms-count",
+    "*-cf7-settings-response"
+  ],
+  "transients": [
+    "*_cf7_pro_version_incompatible",
+    "*_objects_data"
+  ],
+  "cron_jobs": [
+    "*_cf7_clear_log"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*-cf7-primary-field",
+    "*-cf7-object",
+    "*-cf7-form",
+    "*-cf7-mapping-data",
+    "*-cf7-enable-filters",
+    "*-cf7-condtion-field",
+    "*-cf7-crm-fields",
+    "_form"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:44.480Z"
+}

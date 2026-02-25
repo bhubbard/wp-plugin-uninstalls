@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpmr_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmr_*",
+    "wpmr_input_type",
+    "wpmr_label_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:25.756Z"
+}

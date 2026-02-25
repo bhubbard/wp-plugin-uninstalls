@@ -1,0 +1,20 @@
+{
+  "options": [
+    "himoose_api_key",
+    "himoose_domain",
+    "himoose_auto_insert",
+    "himoose_generation_defaults"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "himoose_successful_assignments_count",
+    "himoose_review_prompt_dismissed",
+    "_himoose_embed_html",
+    "_himoose_job_id",
+    "_himoose_podcast_label"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:21.318Z"
+}

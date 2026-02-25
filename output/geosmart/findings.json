@@ -1,0 +1,13 @@
+{
+  "options": [
+    "geosmart-options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "geosmart_database_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:38.553Z"
+}

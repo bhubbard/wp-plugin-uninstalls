@@ -1,0 +1,24 @@
+{
+  "options": [
+    "boostify_blog_ai_views_refresh_interval",
+    "boostify_blog_ai_views_auto_append",
+    "boostify_blog_ai_views_auto_format",
+    "boostify_blog_ai_views_auto_display",
+    "boostify_schedule_settings",
+    "boostify_blog_ai_schedule_settings"
+  ],
+  "transients": [
+    "boostify_cron_started"
+  ],
+  "cron_jobs": [
+    "boostify_blog_ai_post_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "meta_title",
+    "meta_description",
+    "meta_keywords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:45.968Z"
+}

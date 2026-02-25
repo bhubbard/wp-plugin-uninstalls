@@ -1,0 +1,23 @@
+{
+  "options": [
+    "theme_mods_customify",
+    "loymax_install_wizard_in_progress",
+    "loymax-page-link",
+    "loymax-page-title",
+    "loymax-navigation-menu-id",
+    "loymax-personal-menu-item-id",
+    "loymax-component-order",
+    "jal_db_version",
+    "loymax_update_error",
+    "loymax_page_ID",
+    "loymax_plugin_updated",
+    "loymax_page_delete_prevented",
+    "loymax_menu_delete_prevented"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:07.949Z"
+}

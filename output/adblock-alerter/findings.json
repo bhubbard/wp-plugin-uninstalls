@@ -1,0 +1,14 @@
+{
+  "options": [
+    "adb_status",
+    "adb_display_status",
+    "adb_display_message",
+    "adb_display_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:18.509Z"
+}

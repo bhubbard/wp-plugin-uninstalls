@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wptba_aau",
+    "wptba_autoLogOutDuration",
+    "wptba_encryption_key",
+    "wptba_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wptba_user_post_meta",
+    "wp_todo_board_meta",
+    "wptba_user_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:31.514Z"
+}

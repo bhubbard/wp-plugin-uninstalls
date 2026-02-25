@@ -1,0 +1,28 @@
+{
+  "options": [
+    "spn_license_data",
+    "spn_plugin_version",
+    "spn_plugin_plugin_version",
+    "spn_license_health_check",
+    "spn_placeholder_image_id",
+    "spn_placeholder_registered",
+    "spn_settings"
+  ],
+  "transients": [
+    "spn_license_check_*",
+    "wc_product_rating_*",
+    "wc_product_reviews_*",
+    "wc_product_total_rating_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "verified",
+    "_wc_review_count",
+    "_wc_rating_count",
+    "_wc_average_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:03.634Z"
+}

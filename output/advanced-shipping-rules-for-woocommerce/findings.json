@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_calc_taxes",
+    "asrfwoo_shipping_groups_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_condition_type",
+    "_operator",
+    "_cost",
+    "_value",
+    "_group_conditions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:30.572Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "asnp_easy_product_upsell_settings",
+    "*_added",
+    "asnp_weuc_db_version"
+  ],
+  "transients": [
+    "asnp_weuc_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:25.794Z"
+}

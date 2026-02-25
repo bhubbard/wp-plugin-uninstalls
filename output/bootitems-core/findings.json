@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "__bootitems_core_do_redirect"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_ficon",
+    "_menu_item_megamenu",
+    "_menu_item_column",
+    "_menu_item_disablet"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:04.233Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "decide_type_of_id",
+    "postIdsSaved",
+    "imageDetails",
+    "is_archieve",
+    "res_post_type",
+    "background_color",
+    "text_color",
+    "height",
+    "width",
+    "select_width_management",
+    "layout",
+    "content_width",
+    "opacity",
+    "display_Image",
+    "select_navigation_arrow"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:14.524Z"
+}

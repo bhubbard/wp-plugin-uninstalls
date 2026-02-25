@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_purchased",
+    "*_donated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*-notice-dismissed",
+    "oftt_override_force_template",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:01.108Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "agent_ai_bot_protect_db_version",
+    "agent_ai_bot_protect_robots_txt",
+    "agent_ai_bot_protect_blocking_enabled",
+    "agent_ai_bot_protect_robots_txt_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:44.823Z"
+}

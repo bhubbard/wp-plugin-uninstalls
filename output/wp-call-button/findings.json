@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpcb_review_prompt_removed",
+    "wpcb_review_prompt_delay",
+    "*_welcome",
+    "*-settings",
+    "wp-call-button-settings",
+    "*-widget-main-a"
+  ],
+  "transients": [
+    "wpcb_review_prompt_delay"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_mail_smtp_pro_banner_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:10.628Z"
+}

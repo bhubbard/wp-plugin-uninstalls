@@ -1,0 +1,14 @@
+{
+  "options": [
+    "html5chat_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "html5chat_token",
+    "html5chat_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:09.666Z"
+}

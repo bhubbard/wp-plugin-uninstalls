@@ -1,0 +1,53 @@
+{
+  "options": [
+    "whoowns_default_shareholders_number",
+    "whoowns_supported_file_types",
+    "whoowns_cron_frequency",
+    "whoowns_cron_ref_hour",
+    "whoowns_table_db_version",
+    "whoowns_owner_slug",
+    "whoowns_capabilities",
+    "whoowns_threshold_show_names_in_network",
+    "whoowns_threshold_show_arrows_in_network_when_move",
+    "whoowns_default_related_owners_number",
+    "whoowns_owners_per_page",
+    "whoowns_owner_image_size",
+    "whoowns_currency",
+    "whoowns_legends_icon_size",
+    "whoowns_legends_format",
+    "whoowns_news_search_api",
+    "whoowns_news_sources",
+    "whoowns_news_date_format",
+    "whoowns_reference_owner",
+    "whoowns_cron_threshold",
+    "whoowns_relative_share_for_dummy_shareholders",
+    "whoowns_factsheet_sections",
+    "whoowns_cron"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "whoowns-update",
+    "whoowns-update-network-related-news"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "whoowns_legal_registration",
+    "whoowns_dbpedia_uri",
+    "whoowns_revenue",
+    "whoowns_shareholders_source",
+    "whoowns_shareholders_source_year",
+    "whoowns_shareholders_source_files",
+    "whoowns_related_owner",
+    "whoowns_controlled_by",
+    "whoowns_controlled_by_final",
+    "whoowns_controls_final",
+    "whoowns_PA",
+    "whoowns_is_interchainer",
+    "whoowns_is_final_controller",
+    "whoowns_rank",
+    "whoowns_IPA",
+    "whoowns_IPAR"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:23.343Z"
+}

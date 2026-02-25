@@ -1,0 +1,13 @@
+{
+  "options": [
+    "twg_amp_related_posts_count",
+    "twg_amp_related_posts_orderby",
+    "twg_amp_related_posts_show_thumbnail"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:16.085Z"
+}

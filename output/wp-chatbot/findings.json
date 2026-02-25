@@ -1,0 +1,41 @@
+{
+  "options": [
+    "ht_cc_service_content",
+    "htcc_as_options",
+    "htcc_custom_options",
+    "htcc_options",
+    "htcc_fb_ref",
+    "mobilemonkey_environment",
+    "mobilemonkey_active_page_info",
+    "*token",
+    "*company_id",
+    "*active_page_info",
+    "*fb_internal_page_id",
+    "*available_company",
+    "*page_info",
+    "*account_info",
+    "*message_statistic",
+    "*current_subscribe",
+    "*wp_plan",
+    "*environment",
+    "htcc_fb_js_src",
+    "htcc_plugin_details",
+    "mobilemonkey_token"
+  ],
+  "transients": [
+    "wp-chatbot__previously-connected-page",
+    "banner_notice_off",
+    "lead_notice_off",
+    "promo_notice_off",
+    "done-tab",
+    "ht_cc_admin_sidebar__hide_mobile_app_banner",
+    "pre_value",
+    "current-tab",
+    "cg_notice_off"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:31.195Z"
+}

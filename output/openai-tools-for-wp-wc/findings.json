@@ -1,0 +1,29 @@
+{
+  "options": [
+    "enable_public_ai_tools_task",
+    "enable_ai_tools_logs",
+    "openai_tools_comment_count",
+    "openai_tools_review_count",
+    "custom_openai_domain",
+    "deepseek_api_key",
+    "siliconflow_api_key",
+    "groq_api_key",
+    "openai_api_key",
+    "woocommerce_webhook_deliver_async_disable",
+    "enable_xml_feeds_generator",
+    "openai_token",
+    "siliconflow_custom_model",
+    "openai_language",
+    "review_feeds_default_brand",
+    "ai_tools_default_model"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "verified"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:36.124Z"
+}

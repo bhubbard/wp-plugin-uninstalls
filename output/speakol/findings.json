@@ -1,0 +1,17 @@
+{
+  "options": [
+    "speakol_argbox_status",
+    "speakol_app_id",
+    "speakol_box_width",
+    "speakol_displays_in",
+    "speakol_lang",
+    "speakol_title",
+    "speakol_no_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:04.033Z"
+}

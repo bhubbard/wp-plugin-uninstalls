@@ -1,0 +1,35 @@
+{
+  "options": [
+    "rewrite_rules",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "*do_daily",
+    "*do_weekly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_inx_team_agency_id",
+    "_inx_team_agent_primary",
+    "_inx_team_agents",
+    "_immonex_is_demo",
+    "*s",
+    "_inx_lat",
+    "_inx_lng",
+    "_inx_property_id",
+    "_openimmo_obid",
+    "_immonex_is_reference",
+    "_immonex_is_available",
+    "_immonex_property_xml_source",
+    "_openimmo_anid",
+    "_inx_primary_price",
+    "inx_team_agency_id",
+    "inx_team_agent_id",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:38.327Z"
+}

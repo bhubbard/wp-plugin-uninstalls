@@ -1,0 +1,30 @@
+{
+  "options": [
+    "egcf_should_geolocate",
+    "egcf_geoip_database"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "egcf_geoip_updater"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cl_uid",
+    "_cl_cid",
+    "_cl_data",
+    "egcf_geolocate",
+    "egcf_eu_field",
+    "egcf_checkboxes",
+    "egcf_heading",
+    "egcf_message",
+    "egcf_message_lower",
+    "egcf_submit_label",
+    "egcf_cancel_label",
+    "egcf_process_label",
+    "egcf_selector",
+    "egcf_email_field",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:37.391Z"
+}

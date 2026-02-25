@@ -1,0 +1,30 @@
+{
+  "options": [
+    "elementor_active_kit",
+    "rtmega_menu_options",
+    "rtmega_menu_settings_*",
+    "rtmega_license_key",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rtmega_menu_settings",
+    "elementor_library_type",
+    "_elementor_template_type",
+    "rtmega_notice_ignore_*",
+    "rtmega_notice_ignore_rtmega_pro_plugin_notice",
+    "_elementor_data",
+    "_elementor_page_settings",
+    "_elementor_edit_mode",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:38.209Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_rc_credentials",
+    "_rc_authorization_code",
+    "_rc_token",
+    "_rc_businesses_*"
+  ],
+  "transients": [
+    "_yc_rc_messages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_refund_id",
+    "_transaction_refunds"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:29.048Z"
+}

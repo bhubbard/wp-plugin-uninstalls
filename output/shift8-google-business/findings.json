@@ -1,0 +1,16 @@
+{
+  "options": [
+    "shift8_google_api_key",
+    "shift8_google_place_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shift8_business_updater_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "shift8_google_place_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:12.888Z"
+}

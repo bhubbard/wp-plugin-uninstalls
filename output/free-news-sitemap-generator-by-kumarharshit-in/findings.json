@@ -1,0 +1,13 @@
+{
+  "options": [
+    "khnsg_flush_needed",
+    "khnsg_flush_rewrite_rules",
+    "khnsg_last_permalink_structure"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:53.480Z"
+}

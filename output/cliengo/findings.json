@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cliengo_session",
+    "cliengo_chatbot_token",
+    "cliengo_chatbot_position",
+    "position_chatbot"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:27.191Z"
+}

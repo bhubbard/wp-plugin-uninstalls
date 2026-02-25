@@ -1,0 +1,14 @@
+{
+  "options": [
+    "socialize_settings10"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "socialize_text",
+    "socialize"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:44.990Z"
+}

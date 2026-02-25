@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ktmp_brand_term",
+    "ktmp_brand_options",
+    "ktmp_brand_from",
+    "ktmp_fixed_brand",
+    "ktmp_in_stock_value"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ktmp_delete_old_logs_action",
+    "ktmp_delete_tmp_files"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ktmp_edited_date",
+    "ktmp_marketplace_image_field_*",
+    "ktmp_variation_group_code",
+    "_sku",
+    "_price",
+    "_product_image_gallery",
+    "_manage_stock",
+    "_product_attributes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:28.298Z"
+}

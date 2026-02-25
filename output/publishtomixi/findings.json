@@ -1,0 +1,16 @@
+{
+  "options": [
+    "p2mixi_username",
+    "p2mixi_password",
+    "p2mixi_id",
+    "p2mixi_header_default",
+    "p2mixi_footer_default",
+    "p2mixi_default"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:16.042Z"
+}

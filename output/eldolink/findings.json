@@ -1,0 +1,29 @@
+{
+  "options": [
+    "eldolink_affiliate",
+    "eldolink_token",
+    "eldolink_modal_display",
+    "eldolink_modal_tool",
+    "eldolink_modal_type",
+    "eldolink_modal_width",
+    "eldolink_modal_height",
+    "eldolink_modal_r",
+    "eldolink_modal_trk1",
+    "eldolink_modal_trk2"
+  ],
+  "transients": [
+    "ldo_affiliate",
+    "ldo_products",
+    "ldo_formats",
+    "ldo_domains",
+    "ldo_pricing_models",
+    "ldo_formats_*",
+    "ldo_tools_*",
+    "ldo_modals"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:54.269Z"
+}

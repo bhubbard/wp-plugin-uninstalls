@@ -1,0 +1,35 @@
+{
+  "options": [
+    "cooked_version",
+    "cooked_delicious_recipes_imported",
+    "cooked_wp_recipe_maker_imported",
+    "cooked_related_calculation_last",
+    "cooked_settings",
+    "cooked_import",
+    "cooked_import_saved",
+    "cooked_settings_saved",
+    "cooked_related_version",
+    "cooked_settings_version",
+    "cooked_pro_settings_version"
+  ],
+  "transients": [
+    "cooked_classic_recipes",
+    "*_message",
+    "cooked_widget_recipes_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_recipe_settings",
+    "_thumbnail_id",
+    "rating",
+    "_recipe_rating",
+    "_recipe_likes",
+    "_recipe_favorites",
+    "_elementor_edit_mode",
+    "wprm-comment-rating",
+    "cooked_user_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:55.570Z"
+}

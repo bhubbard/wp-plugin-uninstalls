@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ability_a11y_settings",
+    "ability_a11y_statement_page_id",
+    "ability_settings",
+    "ability_wizard_done",
+    "ability_wizard_settings"
+  ],
+  "transients": [
+    "ability_activation_redirect",
+    "ability_daily_scans_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:01.047Z"
+}

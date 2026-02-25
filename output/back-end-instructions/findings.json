@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_bei_options",
+    "_back_end_instructions",
+    "bei_options",
+    "site_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bei_instructions",
+    "admin_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:35.420Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_version",
+    "qcanlytics_google_analytics_id",
+    "qcanlytics_exclude_users",
+    "qcanlytics_disable_tracking",
+    "qcanlytics_page_speed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:01.819Z"
+}

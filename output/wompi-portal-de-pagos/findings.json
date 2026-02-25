@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_pay_page_id",
+    "woocommerce_wompi_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "_billing_email",
+    "_billing_address_index",
+    "_billing_first_name",
+    "_billing_last_name",
+    "_billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:31.988Z"
+}

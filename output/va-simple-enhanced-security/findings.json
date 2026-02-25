@@ -1,0 +1,18 @@
+{
+  "options": [
+    "author_base",
+    "vases_settings",
+    "vases_http_auth_send_mail"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vases_http_auth_send_mail"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "vases_http_auth_user",
+    "vases_http_auth_pass"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:32.309Z"
+}

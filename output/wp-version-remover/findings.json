@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wvr_remove_css",
+    "wvr_remove_script",
+    "wvr_remove_generator"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:51.815Z"
+}

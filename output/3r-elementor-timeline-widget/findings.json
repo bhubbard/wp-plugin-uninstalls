@@ -1,0 +1,12 @@
+{
+  "options": [
+    "twae_hide_upgrade_notice_editor",
+    "twe_hide_migration_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:30.196Z"
+}

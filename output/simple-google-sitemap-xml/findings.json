@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gsxml_store",
+    "gsxml_hp",
+    "gsxml_hf",
+    "gsxml_gp",
+    "gsxml_gf",
+    "gsxml_pri_freq",
+    "gsxml_cat",
+    "gsxml_tag",
+    "gsxml_last_ch"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:20.446Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "jubelio_shipment_token",
+    "woocommerce_jubelioshipment_settings",
+    "jubelio_auth",
+    "jubelio_shipment_domain",
+    "woocommerce_shipping_debug_mode",
+    "*_settings",
+    "woocommerce_jubelioshipment_13_settings"
+  ],
+  "transients": [
+    "jubelio_shipment_token",
+    "_jubelio_shipment_invalid_promotions",
+    "jubelio_shipment_promotion_usage",
+    "jubelio_shipment_multi_origin"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_latitude_user",
+    "_longitude_user",
+    "_jubelioshipment_awb_data",
+    "_jubelioshipment_label_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:51.788Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "_mx_create_paymetn_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_meta_sent_to_client_data",
+    "_meta_bill_confirm",
+    "_meta_offer_data",
+    "_meta_invoice_number_data",
+    "_meta_customer_email_data",
+    "_meta_url_hash_data",
+    "_meta_url_to_client_data",
+    "_meta_of_amount_data",
+    "_meta_currency_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:59.672Z"
+}

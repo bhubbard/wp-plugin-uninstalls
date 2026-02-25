@@ -1,0 +1,13 @@
+{
+  "options": [
+    "caos_settings"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:30.329Z"
+}

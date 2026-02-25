@@ -1,0 +1,22 @@
+{
+  "options": [
+    "swi_cart_migration_1",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_default_country",
+    "woocommerce_store_postcode",
+    "woocommerce_currency",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woocommerce_persistent_cart_1",
+    "first_name",
+    "last_name",
+    "swi_abandoned"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:23.175Z"
+}

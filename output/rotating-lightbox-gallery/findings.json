@@ -1,0 +1,15 @@
+{
+  "options": [
+    "js_width",
+    "js_height",
+    "js_pause",
+    "js_paging",
+    "js_nav"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:11.245Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nd_login_time",
+    "nd_num_comments",
+    "nd_num_posts",
+    "nd_viewed_posts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:16.793Z"
+}

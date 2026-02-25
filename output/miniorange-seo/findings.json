@@ -1,0 +1,49 @@
+{
+  "options": [
+    "moseo_welcome_current_step",
+    "moseo_website_name",
+    "moseo_website_url",
+    "moseo_user_email",
+    "moseo_auto_update",
+    "moseo_site_type",
+    "moseo_site_scanned",
+    "moseo_excluded_sitemap_providers",
+    "moseo_exclude_noindex",
+    "moseo_robots_content",
+    "moseo_plugin_redirects",
+    "moseo_sitemap_enabled",
+    "moseo_excluded_post_ids_*",
+    "moseo_current_sitemap_cache_key",
+    "google_code",
+    "bing_code"
+  ],
+  "transients": [
+    "moseo_breadcrumb_success",
+    "moseo_breadcrumb_error",
+    "moseo_findbrokenlinks_status",
+    "moseo_robots_saved",
+    "moseo_webmaster_success",
+    "moseo_seo_summary",
+    "moseo_seo_results",
+    "moseo_redirect_success",
+    "moseo_scan_in_progress",
+    "moseo_sitemap_saved",
+    "moseo_do_activation_redirect",
+    "moseo_sitemap_index_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "moseo_meta_title",
+    "moseo_meta_description",
+    "moseo_canonical_url",
+    "moseo_noindex",
+    "moseo_keyword",
+    "moseo_exclude_from_sitemap",
+    "_moseo_score",
+    "moseo_generated_schema",
+    "moseo_secondary_keywords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:25.495Z"
+}

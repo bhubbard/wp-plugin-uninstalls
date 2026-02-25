@@ -1,0 +1,21 @@
+{
+  "options": [
+    "nexa_gmap_api_key",
+    "nexa_blocks_settings",
+    "nexa_blocks",
+    "nexa_modules",
+    "nexa_apis",
+    "nexa_block_*",
+    "nexa_favorites"
+  ],
+  "transients": [
+    "nexa_templates"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:25.410Z"
+}

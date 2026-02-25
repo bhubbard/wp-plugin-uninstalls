@@ -1,0 +1,16 @@
+{
+  "options": [
+    "i13_simple_donations_values",
+    "i13_simple_donations_settings",
+    "i13_woo_simple_donation_multisite_activated",
+    "i13_woo_sd_messages",
+    "i13_simple_donations_msg_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:10.762Z"
+}

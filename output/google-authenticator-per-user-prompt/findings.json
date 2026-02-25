@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gapup_login_nonce"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:09.285Z"
+}

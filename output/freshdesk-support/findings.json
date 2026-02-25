@@ -1,0 +1,30 @@
+{
+  "options": [
+    "freshdesk_options",
+    "freshdesk_feedback_options",
+    "wo_license_information",
+    "wp_oauth_activation_time",
+    "wp_oauth_server_mapping_settings",
+    "wo_options",
+    "wo_license_key",
+    "wp_oauth_server_db_version",
+    "wpoauth_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpo_global_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fd_ticket_id",
+    "redirect_uri",
+    "client_id",
+    "client_secret",
+    "scope",
+    "grant_types",
+    "user_id",
+    "wo_grant_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:22.990Z"
+}

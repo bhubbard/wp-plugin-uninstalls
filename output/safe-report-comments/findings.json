@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_enabled",
+    "*_threshold"
+  ],
+  "transients": [
+    "*_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_moderated",
+    "*_reported"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:42.524Z"
+}

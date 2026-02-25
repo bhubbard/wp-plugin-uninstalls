@@ -1,0 +1,22 @@
+{
+  "options": [
+    "uhs_snippet-*",
+    "opencabs_options",
+    "uhs_snippet_list",
+    "*][format]",
+    "*][language]",
+    "*][google_north]",
+    "*][google_south]",
+    "*][google_east]",
+    "*][google_west]",
+    "uhs_quote_snippet_list",
+    "*][snippet_redirect_url]",
+    "uhs_login_snippet_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:53.242Z"
+}

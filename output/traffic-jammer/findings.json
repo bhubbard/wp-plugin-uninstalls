@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wp_traffic_jammer_abuseipdb",
+    "wp_traffic_jammer_options",
+    "wp_traffic_jammer_blocklist",
+    " wp_traffic_jammer_blocklist",
+    " wp_traffic_jammer_whitelist",
+    "wp_traffic_jammer_whitelist",
+    " wp_traffic_jammer_user_agents",
+    "wp_traffic_jammer_user_agents",
+    "trafficjammer_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "trafficjammer_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:47.672Z"
+}

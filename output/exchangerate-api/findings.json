@@ -1,0 +1,16 @@
+{
+  "options": [
+    "api_key",
+    "base_currency",
+    "schedule_time",
+    "exchange_rate_quota"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "exchange_rate_api_update_currency_rates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:33.080Z"
+}

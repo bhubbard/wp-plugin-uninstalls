@@ -1,0 +1,15 @@
+{
+  "options": [
+    "stbar_bd",
+    "stbar_bd_tel",
+    "stbar_bd_laptop",
+    "stbar_bd_pro",
+    "stbar_view"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:44.323Z"
+}

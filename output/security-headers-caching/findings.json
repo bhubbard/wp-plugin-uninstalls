@@ -1,0 +1,19 @@
+{
+  "options": [
+    "shc_enable_headers",
+    "shc_cache_duration",
+    "shc_csp_policy",
+    "shc_enable_hsts",
+    "shc_enable_xss_protection",
+    "shc_enable_frame_options",
+    "shc_enable_content_type",
+    "shc_referrer_policy",
+    "shc_permissions_policy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:58.035Z"
+}

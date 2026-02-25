@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_prices_include_tax",
+    "wcbnpc_checkout_fields",
+    "wcbnpc_enabled_shipping_methods",
+    "wcbnpc_settings",
+    "woocommerce_currency_pos",
+    "wcbnpc_enabled_payment_gateways"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcbnpc_disable_buy_now_shop_page",
+    "_wcbnpc_disable_buy_now",
+    "wcbnpc_dismissed_notices"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:29.552Z"
+}

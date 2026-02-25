@@ -1,0 +1,20 @@
+{
+  "options": [
+    "maxtdesign_rbp_cache_logs",
+    "maxtdesign_rbp_last_cache_clear",
+    "maxtdesign_rbp_db_logs",
+    "maxtdesign_rbp_query_logs",
+    "maxtdesign_rbp_cache_method",
+    "maxtdesign_rbp_version",
+    "maxtdesign_rbp_last_performance_cleanup"
+  ],
+  "transients": [
+    "maxtdesign_rbp_hook_stats",
+    "maxtdesign_rbp_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:40.224Z"
+}

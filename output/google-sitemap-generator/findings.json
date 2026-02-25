@@ -1,0 +1,33 @@
+{
+  "options": [
+    "sm_rewrite_done",
+    "sm_options",
+    "sm_show_beta_banner",
+    "sm_beta_banner_discarded_on",
+    "sm_beta_banner_discarded_count",
+    "sm_beta_notice_dismissed_from_wp_admin",
+    "sm_user_consent",
+    "auto_update_plugins",
+    "sm_hide_auto_update_banner",
+    "wpseo",
+    "aioseo_options",
+    "jetpack_active_modules",
+    "gsg_indexnow-is_valid_api_key",
+    "gsg_indexnow-admin_api_key",
+    "sm_status",
+    "sm_disabe_other_plugin",
+    "sm_beta_opt_in",
+    "sm_cpages"
+  ],
+  "transients": [
+    "sm_ping_post_id"
+  ],
+  "cron_jobs": [
+    "sm_ping_daily",
+    "sm_ping"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:26:50.315Z"
+}

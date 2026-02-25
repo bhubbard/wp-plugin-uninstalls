@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('notifywise_recaptcha_credentials', 'notifywise_brevo', 'notifywise_external_integration', 'notifywise_mail_custom_content', 'notifywise_mailer_type', 'notifywise_smtp', 'notifywise_sendgrid', 'notifywise_button_normal_design', 'notifywise_button_hover_design', 'notifywise_brevo_list_ids', 'notifywise_brevo_status', 'notifywise_gdpr_content', 'notifywise_custom_fields_table_inserted_default', 'notifywise_brevo_response', 'notifywise_existing_user', 'notifywise_sendgrid_status', 'notifywise_updated_stock_product_id', 'notifywise_form_general_settings', 'notifywise_form_content_settings', 'woocommerce_email_from_address', 'woocommerce_store_address', 'woocommerce_store_city', 'woocommerce_store_state', 'woocommerce_store_postcode', 'woocommerce_default_country', 'notifywise_external_integration_status', 'notifywise_shortcode_list', 'notifywise_brevo_submitted_data', 'notifywise_button_general_settings', 'notifywise_doing_upgrade');
+

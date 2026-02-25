@@ -1,0 +1,16 @@
+{
+  "options": [
+    "afr_elems",
+    "afr_debug",
+    "afr_cookie_delay",
+    "afr_normal",
+    "afr_large",
+    "afr_xlarge"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:51.152Z"
+}

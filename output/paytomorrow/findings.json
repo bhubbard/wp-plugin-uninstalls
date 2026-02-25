@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_paytomorrow_settings",
+    "woocommerce_new_order_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Payer PayTomorrow address",
+    "Payer first name",
+    "Payer last name",
+    "Payment type",
+    "carrier",
+    "tracking_number",
+    "_routeapp_route_charge"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:38.351Z"
+}

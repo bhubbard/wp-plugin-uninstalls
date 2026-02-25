@@ -1,0 +1,32 @@
+{
+  "options": [
+    "first_field",
+    "second_field",
+    "third_field",
+    "fourth_field",
+    "fifth_field",
+    "sixth_field",
+    "seventh_field",
+    "eighth_field",
+    "ninth_field",
+    "tenth_field",
+    "eleventh_field",
+    "twelfth_field",
+    "thirteenth_field",
+    "fourteenth_field",
+    "fifteenth_field",
+    "sixteenth_field",
+    "seventeenth_field",
+    "eighteenth_field",
+    "nineteenth_field",
+    "twentieth_field",
+    "twentyoneth_field",
+    "twentysecond_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:37.457Z"
+}

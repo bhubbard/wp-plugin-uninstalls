@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wpes_evernote_common_token",
+    "wpes_evernote_udpated_status",
+    "wpes_evernote_update_suspend",
+    "wpes_evernote_update_action_interval",
+    "wpes_evernote_notebook_on",
+    "wpes_evernote_notebook_key",
+    "wpes_evernote_exclude_tags",
+    "wpes_update_time",
+    "wpes_common_and_user_tokens"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpes_evernote_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpes_user_evernote_token",
+    "_wpes_evernote_guid",
+    "_wpes_evernote_last_updated",
+    "_wpes_evernote_uploaded_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:51.999Z"
+}

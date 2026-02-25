@@ -1,0 +1,83 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wplit-checkout-page'
+wp option delete 'wplit-licenses-page'
+wp option delete 'wplit-stripe-settings-test-mode'
+wp option delete 'wplit-stripe-settings-live-pk'
+wp option delete 'wplit-stripe-settings-live-sk'
+wp option delete 'wplit-stripe-settings-test-pk'
+wp option delete 'wplit-stripe-settings-test-sk'
+wp option delete 'wplit_db_version'
+wp option delete 'wplicense-it-api-rewrite-rules-version'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_expire'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_expire'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_expire'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_expire'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_expire_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_expire_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_expire_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_expire_time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_version'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_version'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_version'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_version'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_file_upload'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_file_upload'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_file_upload'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_file_upload'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_api_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_api_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_api_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_api_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_tested_wp_version'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_tested_wp_version'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_tested_wp_version'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_tested_wp_version'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_required_wp_version'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_required_wp_version'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_required_wp_version'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_required_wp_version'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'file_dir_location'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'file_dir_location'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'file_dir_location'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'file_dir_location'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'file_dir_path'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'file_dir_path'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'file_dir_path'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'file_dir_path'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'file_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'file_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'file_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'file_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_banner_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_banner_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_banner_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_banner_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_logo_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_logo_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_logo_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_logo_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_logo'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_logo'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_logo'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_logo'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wplit_product_banner'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wplit_product_banner'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wplit_product_banner'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wplit_product_banner'"

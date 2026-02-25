@@ -1,0 +1,15 @@
+{
+  "options": [
+    "psr_plugin_version",
+    "psr_setting_main_color",
+    "psr_setting_main_color_hover"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_psr_projetc_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:04.933Z"
+}

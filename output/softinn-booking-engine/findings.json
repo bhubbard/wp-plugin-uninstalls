@@ -1,0 +1,14 @@
+{
+  "options": [
+    "softinn_hotel_id",
+    "softinn_theme_color",
+    "softinn_theme_color_temp",
+    "softinn_admin_nonce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:11.414Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_wt_time_1",
+    "_wt_time_2",
+    "_wt_time_3",
+    "_wt_time_4",
+    "_wt_time_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:39.762Z"
+}

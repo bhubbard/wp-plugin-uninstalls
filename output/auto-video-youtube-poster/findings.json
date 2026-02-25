@@ -1,0 +1,21 @@
+{
+  "options": [
+    "credentials_images_to_youtube",
+    "code_images_to_youtube",
+    "intro_image_to_youtube",
+    "permisos_crear_videos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sended-post-to-youtube",
+    "titulo_alternativo_texto",
+    "songs-to-youtube",
+    "frames-to-youtube",
+    "link_youtube_desc",
+    "tags_youtube"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:29.622Z"
+}

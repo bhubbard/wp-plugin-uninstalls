@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rngshl_general_setting_option",
+    "rngshl_configure_dismiss",
+    "rngshl_first_flush"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shl_click_event"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:02.179Z"
+}

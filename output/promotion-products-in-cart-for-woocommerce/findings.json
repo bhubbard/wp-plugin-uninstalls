@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ppc_product_type",
+    "ppc_promotion_label",
+    "ppc_selected_category",
+    "ppc_order_by",
+    "ppc_order_sorting",
+    "ppc_columns_count",
+    "ppc_product_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:35.221Z"
+}

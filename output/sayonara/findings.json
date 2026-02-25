@@ -1,0 +1,31 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sayonara_popup_content",
+    "_sayonara_popup_color",
+    "_sayonara_popup_width",
+    "_sayonara_popup_height",
+    "_sayonara_popup_padding",
+    "_sayonara_popup_border_radius",
+    "_sayonara_overlay_color",
+    "_sayonara_overlay_opacity",
+    "_sayonara_close_button_color",
+    "_sayonara_close_button_bg_color",
+    "_sayonara_trigger_type",
+    "_sayonara_ruthless_mode",
+    "_sayonara_debug_mode",
+    "_sayonara_front_page",
+    "_sayonara_popup_delay",
+    "_sayonara_popup_scroll",
+    "_sayonara_close_button_content",
+    "_sayonara_visibility_rules",
+    "_sayonara_cookie_time",
+    "_sayonara_popup_priority",
+    "_sayonara_visibility_posts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:07.615Z"
+}

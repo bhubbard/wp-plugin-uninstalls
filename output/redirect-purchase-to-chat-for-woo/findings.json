@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rpwpp_enabled",
+    "rpwpp_phone_number",
+    "rpwpp_custom_message",
+    "rpwpp_button_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:31.640Z"
+}

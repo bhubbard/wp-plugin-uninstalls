@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ASLQ_INSTALLED",
+    "ASLQ_VERSION"
+  ],
+  "transients": [
+    "aslq_show_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:00.464Z"
+}

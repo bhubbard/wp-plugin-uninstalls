@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "phone",
+    "mobile",
+    "pw_reset_ts",
+    "name_on_events",
+    "mphone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:54.449Z"
+}

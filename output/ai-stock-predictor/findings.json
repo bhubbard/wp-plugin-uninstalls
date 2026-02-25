@@ -1,0 +1,24 @@
+{
+  "options": [
+    "aistpr_api_settings",
+    "aistpr_prediction_settings",
+    "aistpr_general_settings",
+    "aistpr_notification_settings",
+    "woocommerce_notify_low_stock_amount",
+    "aistpr_default_lead_time"
+  ],
+  "transients": [
+    "aistpr_prediction_*",
+    "aistpr_recent_predictions",
+    "aistpr_stock_statistics",
+    "aistpr_total_products"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aistpr_predictions_per_page",
+    "_aistpr_lead_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:25.137Z"
+}

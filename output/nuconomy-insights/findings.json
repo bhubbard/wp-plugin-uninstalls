@@ -1,0 +1,18 @@
+{
+  "options": [
+    "nuconomy_projecttoken",
+    "nuconomy_authcode",
+    "nuconomy_step",
+    "nuconomy_project_server_token",
+    "nuconomy_completetoken",
+    "nuconomy_completemail"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nucon_enrollment_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:44.774Z"
+}

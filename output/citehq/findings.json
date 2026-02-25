@@ -1,0 +1,26 @@
+{
+  "options": [
+    "citehq_options",
+    "citehq_activated",
+    "citehq_notices"
+  ],
+  "transients": [
+    "citehq_content",
+    "citehq_content_full"
+  ],
+  "cron_jobs": [
+    "citehq_regenerate_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_citehq_exclude",
+    "_citehq_summary",
+    "_wp_attachment_image_alt",
+    "_yoast_wpseo_meta-robots-noindex",
+    "rank_math_robots",
+    "_aioseo_noindex",
+    "_seopress_robots_index"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:40.708Z"
+}

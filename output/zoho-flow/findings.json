@@ -1,0 +1,38 @@
+{
+  "options": [
+    "zoho_flow_admin_footer_text_rated",
+    "last_review_notice_date",
+    "zf_boost_speed",
+    "wppb_manage_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zoho_flow_run_webhook",
+    "zoho_flow_rerun_after_5_mins",
+    "zoho_flow_rerun_after_10_mins",
+    "zoho_flow_rerun_after_30_mins",
+    "zoho_flow_rerun_after_60_mins"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "service_id",
+    "_bricks_page_content_2",
+    "_buddyforms_options",
+    "ticket_id",
+    "_form_data",
+    "_kad_form_fields",
+    "kaliforms_field_components",
+    "blocks",
+    "level_id",
+    "_elementor_data",
+    "rform-entri-form-id",
+    "rform-entri-data",
+    "rform-entri-referal",
+    "panels_data",
+    "post_id",
+    "suremembers_user_access_group",
+    "form_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:59.767Z"
+}

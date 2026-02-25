@@ -1,0 +1,14 @@
+{
+  "options": [
+    "forbidden_words",
+    "forbidden_title",
+    "forbidden_content",
+    "forbidden_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:40.244Z"
+}

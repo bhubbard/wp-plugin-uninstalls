@@ -1,0 +1,20 @@
+{
+  "options": [
+    "recaptchaforjetpack_recaptcha_site_key",
+    "recaptchaforjetpack_loading_option",
+    "recaptchaforjetpack_conditionals",
+    "recaptchaforjetpack_enabled_slugs",
+    "recaptchaforjetpack_debug_mode",
+    "recaptchaforjetpack_recaptcha_secret_key",
+    "recaptchaforjetpack_recaptcha_score",
+    "recaptchaforjetpack_total_submissions",
+    "recaptchaforjetpack_submission_stats",
+    "recaptchaforjetpack_submission_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:14.622Z"
+}

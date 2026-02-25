@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_at_atara_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_at_wc_atara_service_provider",
+    "_at_wc_atara_service_provider_commission",
+    "_atara_txn_ref",
+    "_atara_fee",
+    "_atara_currency",
+    "_atara_net",
+    "_wc_atara_save_card",
+    "_atara_status",
+    "_transaction_id",
+    "_at_atara_wc_token",
+    "_atara_change_order_status_by",
+    "_tbz_atara_wc_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:50.900Z"
+}

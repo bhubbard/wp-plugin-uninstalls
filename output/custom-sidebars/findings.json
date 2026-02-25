@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "widget_*",
+    "cs_modifiable",
+    "cs_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_sidebars_explain",
+    "wpmudev_sc_dismissed_notice",
+    "dismissed_wp_pointers",
+    "_cs_replacements"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:44.565Z"
+}

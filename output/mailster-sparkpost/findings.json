@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_transient__mailster_send_period"
+  ],
+  "transients": [
+    "mailster_check_bounces_lock",
+    "_mailster_sparkpost_last_bounce_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:35.098Z"
+}

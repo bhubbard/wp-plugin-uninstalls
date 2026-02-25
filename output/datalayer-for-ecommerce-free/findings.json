@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tracking_option_pro",
+    "options_tracking_option_free",
+    "migrate_datalayer_for_woocommerce",
+    "woocommerce_tax_display_shop",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:37.281Z"
+}

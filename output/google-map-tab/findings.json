@@ -1,0 +1,22 @@
+{
+  "options": [
+    "id_tabs",
+    "max_width",
+    "min_width",
+    "height",
+    "map_type",
+    "all",
+    "view_all",
+    "active",
+    "info",
+    "background_color",
+    "text_color",
+    "db_table_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:10.572Z"
+}

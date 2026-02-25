@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sml_theme_support_styles",
+    "sml_theme_support_content",
+    "sml_terms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pdf_thumbnail_url",
+    "score-attachment-id",
+    "parts-attachment-id",
+    "audio-attachment-id",
+    "piece-video-url",
+    "no-download-message",
+    "featured-audio"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:59.866Z"
+}

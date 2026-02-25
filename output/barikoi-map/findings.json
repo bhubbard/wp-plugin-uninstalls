@@ -1,0 +1,26 @@
+{
+  "options": [
+    "bkoimadhk_api_key",
+    "bkoimadhk_shortcodes",
+    "bkoimadhk_map_checkout_style",
+    "bkoimadhk_map_checkout_default_zoom_level",
+    "bkoimadhk_map_checkout_default_coordinates",
+    "bkoimadhk_map_checkout_map_switcher",
+    "bkoimadhk_map_checkout_add_autocomplete",
+    "bkoimadhk_map_checkout_custom_marker_icon",
+    "barikoidhk_default_zoom_level",
+    "barikoidhk_default_map_style",
+    "barikoidhk_custom_marker_icon",
+    "barikoidhk_shortcodes",
+    "bkoimadhk_map_options",
+    "bkoimadhk_default_map_style",
+    "bkoimadhk_default_zoom_level",
+    "bkoimadhk_custom_marker_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:44.700Z"
+}

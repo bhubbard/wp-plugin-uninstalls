@@ -1,0 +1,40 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_feature_product_block_editor_enabled",
+    "a2z_dhl_main_settings",
+    "hit_dhl_values_*",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency",
+    "a2z_dhl_ex_rate*",
+    "hit_dhl_pickup_values_*",
+    "hit_multi_vendor",
+    "a2z_dhl_express_working_status",
+    "hit_dhl_return_values_*",
+    "hit_dhl_order_rates_*",
+    "hit_dhl_status_*",
+    "hit_dhl_return_status_*",
+    "a2z_dhl_ex_rate"
+  ],
+  "transients": [
+    "hitshipo_dhl_express_nonce_temp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hits_dhl_cc",
+    "hits_dhl_cc_inb",
+    "hits_dhl_export_reason",
+    "hits_dhl_desc",
+    "hits_dhl_danger_good_content_id",
+    "hits_dhl_danger_good_label_description",
+    "hits_dhl_danger_good_un_code",
+    "hit_dhl_prod_variation_desc",
+    "dhl_express_address",
+    "a2z_dhl_vendor_settings",
+    "_shipi_label_requested"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:34.194Z"
+}

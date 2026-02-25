@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rt_table_row",
+    "rt_table_col",
+    "rt_table_header*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:09.364Z"
+}

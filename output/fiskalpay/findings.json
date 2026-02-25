@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_fiskalpay_gateway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_measurement_unit",
+    "_wpm_gtin_code"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:17.742Z"
+}

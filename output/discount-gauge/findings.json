@@ -1,0 +1,14 @@
+{
+  "options": [
+    "disgau_product_discount_type",
+    "disgau_product_discount_custom_phrase",
+    "disgau_product_discount_text_color",
+    "disgau_product_discount_bg_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:58.159Z"
+}

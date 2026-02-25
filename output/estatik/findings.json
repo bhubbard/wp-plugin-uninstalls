@@ -1,0 +1,58 @@
+{
+  "options": [
+    "estatik-banners",
+    "es_migration_paged",
+    "es_migrations",
+    "es_mls_fields_migrated",
+    "es_*",
+    "es_flash_*",
+    "es_is_demo_executed",
+    "es_google_fonts",
+    "es_migration_executed",
+    "es_migration_0",
+    "es_flush_executed"
+  ],
+  "transients": [
+    "countryCode_*"
+  ],
+  "cron_jobs": [
+    "es_remote_admin_notices"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "auth_facebook",
+    "auth_google",
+    "type",
+    "es_property_postal_code",
+    "parent_component",
+    "es_font_family",
+    "es_font_style",
+    "auth_*",
+    "es_post_content_copied",
+    "es_default_term",
+    "es_color",
+    "es_icon",
+    "es_property_*",
+    "es_attachment_order",
+    "es_attachment_type",
+    "es_property_video",
+    "es_property_address_components",
+    "es_buyer_name",
+    "es_name",
+    "es_buyer_profile_attachment_id",
+    "es_avatar_id",
+    "es_pll_attachments_migrated",
+    "_wp_attachment_metadata",
+    "esf_file_type",
+    "_elementor_edit_mode",
+    "_et_pb_property_page_layout",
+    "_et_pb_use_builder",
+    "es_is_deactivated_term",
+    "es_property_keywords",
+    "es_property_video_iframe",
+    "es_property_video_url",
+    "es_property_sort_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:50.226Z"
+}

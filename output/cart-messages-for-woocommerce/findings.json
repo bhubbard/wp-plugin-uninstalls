@@ -1,0 +1,24 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "*_section_enabled",
+    "alg_wc_cart_messages_add_to_cart_section_enabled",
+    "alg_wc_cart_messages_add_to_cart_custom_enabled",
+    "alg_wc_cart_messages_add_to_cart_by_url_enabled",
+    "*_messages",
+    "*_message_total_number",
+    "*_message_types",
+    "*_message_types_on_empty",
+    "*_message_visibilities",
+    "alg_wc_cart_messages_add_to_cart_custom_text",
+    "woocommerce_cart_redirect_after_add",
+    "alg_wc_cart_messages_version",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:00.029Z"
+}

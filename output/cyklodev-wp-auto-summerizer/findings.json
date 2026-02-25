@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cyklodev_autosummary_border",
+    "cyklodev_autosummary_border_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cyklodev_abstract"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:08.760Z"
+}

@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('tulipwork_orderstock_admin_emails', 'tulipwork_orderstock_company_name', 'tulipwork_orderstock_company_address', 'tulipwork_orderstock_company_phone', 'tulipwork_orderstock_company_email', 'tulipwork_orderstock_company_siret', 'tulipwork_orderstock_tax_rate_1', 'tulipwork_orderstock_tax_rate_2', 'tulipwork_orderstock_tax_rate_3', 'orderstock_order_mode', 'tulipwork_orderstock_delete_data_on_uninstall', 'orderstock_pro_central_kitchen_enabled', 'orderstock_pro_central_kitchen', 'tulipwork_orderstock_pdf_tokens', 'tulipwork_orderstock_supplier_migration_done', 'tulipwork_orderstock_price_migration_done');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_address', '_phone', '_email', '_min_order_threshold', '_title_lowercase', '_stock', '_replenishment_period', '_daily_sales', '_packaging_unit', '_packaging_quantity', '_max_quantity', '_decimal_precision', '_tax_rate', '_critical_threshold', '_target_stock', '_product_order_mode', '_assigned_stores', '_store_order_mode', '_supplier', '_suppliers', '_prices_excl_tax', '_name_lowercase', '_delivery_address', '_orderstock_assigned_stores', '_is_internal_recipe', '_price_excl_tax');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_address', '_phone', '_email', '_min_order_threshold', '_title_lowercase', '_stock', '_replenishment_period', '_daily_sales', '_packaging_unit', '_packaging_quantity', '_max_quantity', '_decimal_precision', '_tax_rate', '_critical_threshold', '_target_stock', '_product_order_mode', '_assigned_stores', '_store_order_mode', '_supplier', '_suppliers', '_prices_excl_tax', '_name_lowercase', '_delivery_address', '_orderstock_assigned_stores', '_is_internal_recipe', '_price_excl_tax');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_address', '_phone', '_email', '_min_order_threshold', '_title_lowercase', '_stock', '_replenishment_period', '_daily_sales', '_packaging_unit', '_packaging_quantity', '_max_quantity', '_decimal_precision', '_tax_rate', '_critical_threshold', '_target_stock', '_product_order_mode', '_assigned_stores', '_store_order_mode', '_supplier', '_suppliers', '_prices_excl_tax', '_name_lowercase', '_delivery_address', '_orderstock_assigned_stores', '_is_internal_recipe', '_price_excl_tax');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_address', '_phone', '_email', '_min_order_threshold', '_title_lowercase', '_stock', '_replenishment_period', '_daily_sales', '_packaging_unit', '_packaging_quantity', '_max_quantity', '_decimal_precision', '_tax_rate', '_critical_threshold', '_target_stock', '_product_order_mode', '_assigned_stores', '_store_order_mode', '_supplier', '_suppliers', '_prices_excl_tax', '_name_lowercase', '_delivery_address', '_orderstock_assigned_stores', '_is_internal_recipe', '_price_excl_tax');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_%';
+

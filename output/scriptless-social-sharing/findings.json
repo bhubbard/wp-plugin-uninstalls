@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_twitter-title",
+    "_scriptlesssocialsharing_description",
+    "_wp_attachment_image_alt",
+    "_scriptlesssocialsharing_pinterest",
+    "_scriptlesssocialsharing_disable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:47.149Z"
+}

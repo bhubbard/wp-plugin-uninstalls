@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tgpc_gift_wrapper_enabled",
+    "tgpc_gift_wrapper_location",
+    "tgpc_gift_wrapper_checkbox_label",
+    "tgpc_gift_wrapper_cost",
+    "tgpc_gift_wrapper_cost_tax_status",
+    "tgpc_gift_wrapper_tax_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:46.850Z"
+}

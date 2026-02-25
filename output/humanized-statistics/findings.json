@@ -1,0 +1,43 @@
+{
+  "options": [
+    "gcs_request_divisor",
+    "gcs_social",
+    "gcs_themify",
+    "gcs_3d_chart",
+    "facebook_referer",
+    "twitter_referer",
+    "google_referer",
+    "linkedin_referer",
+    "pinterest_referer",
+    "scoop_referer",
+    "qzone_referer",
+    "weibo_referer",
+    "vk_referer",
+    "gcs_personal_referers",
+    "*_referer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gcs_hit",
+    "gcs_ip",
+    "gcs_total_known",
+    "gcs_total_known_*",
+    "gcs_total_unknown",
+    "gcs_total_unknown_*",
+    "gcs_total_known_disconnected",
+    "gcs_social-*",
+    "gcs_internal",
+    "gcs_referer_home",
+    "gcs_sticky_home",
+    "gcs_organics-*",
+    "gcs_category_*",
+    "gcs_browser_*",
+    "gcs_total_queries",
+    "gcs_total_memory",
+    "gcs_total_loadtime_when_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:16.477Z"
+}

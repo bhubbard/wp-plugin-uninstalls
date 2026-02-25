@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wdstm_order_filter",
+    "wdstm-activate-plugin",
+    "wdstm_default_theme",
+    "wdstm_sign_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:10.384Z"
+}

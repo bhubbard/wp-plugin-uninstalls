@@ -1,0 +1,20 @@
+{
+  "options": [
+    "bbm_options",
+    "my_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bbm_map_page",
+    "latitude",
+    "longitude",
+    "_bbm_location_url",
+    "bbm_latitude",
+    "bbm_longitude",
+    "bbm_include"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:31.362Z"
+}

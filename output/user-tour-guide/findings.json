@@ -1,0 +1,29 @@
+{
+  "options": [
+    "utg_tour_option",
+    "start_immidiately",
+    "auto_start_for_new_user",
+    "show_begin_tour",
+    "show_dots",
+    "show_close_button",
+    "show_prev_button",
+    "show_next_button",
+    "show_step_progress",
+    "enable_keyboard_control",
+    "exit_on_escape",
+    "exit_on_click_outside",
+    "utgk_plugin_activation_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "utg_admin_tour",
+    "utgk_plugin_review_dismissed",
+    "utgk_plugin_review_later",
+    "utgk_plugin_review_later_time",
+    "complete_or_skip_tour"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:33.445Z"
+}

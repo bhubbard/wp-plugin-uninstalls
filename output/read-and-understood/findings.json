@@ -1,0 +1,25 @@
+{
+  "options": [
+    "rnu_plugin_version",
+    "*_username_validation_pattern",
+    "*_require_login",
+    "*_username_validation_title",
+    "*_start_date",
+    "*_end_date",
+    "rnu_start_date",
+    "rnu_end_date",
+    "*_category",
+    "rnu_db_version",
+    "rnu_username_validation_pattern",
+    "rnu_username_validation_title",
+    "rnu_require_login",
+    "rnu_all_users",
+    "rnu_old_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:53.994Z"
+}

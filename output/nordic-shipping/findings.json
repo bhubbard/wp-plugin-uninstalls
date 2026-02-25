@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wc_shipit_uniwin_settings",
+    "wc_shipit_uniwin_general_settings",
+    "wc_shipit_uniwin_customs_settings",
+    "wc_shipit_uniwin_print_settings",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_phone",
+    "_shipping_email",
+    "_shipit_uniwin_carrier_agent_data",
+    "wc_shipit_uniwin_shipment_response_*",
+    "shipit_uniwin_shipping_label",
+    "shipit_uniwin_custom_docs",
+    "wc_shipit_uniwin_shipment_response_id",
+    "_shipit_uniwin_carrier_agent_id",
+    "_NODS_shipit_uniwin_tariff_code",
+    "_NODS_shipit_uniwin_custom_description",
+    "_NODS_shipit_uniwin_custom_orgin"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:42.009Z"
+}

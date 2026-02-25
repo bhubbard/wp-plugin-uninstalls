@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bp_msgat_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bp_message_id",
+    "_is_bp_msgat"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:27.300Z"
+}

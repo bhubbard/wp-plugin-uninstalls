@@ -1,0 +1,19 @@
+{
+  "options": [
+    "vlss_api_key",
+    "vlss_api_key_*",
+    "vlss_otp_*",
+    "vlss_tokenizer_verified",
+    "vlss_tokenizer_registered",
+    "vlss_tokenizer_client_id",
+    "vlss_tokenizer_api_key"
+  ],
+  "transients": [
+    "vlss_otp_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:57.654Z"
+}

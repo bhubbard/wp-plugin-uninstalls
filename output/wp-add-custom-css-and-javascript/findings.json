@@ -1,0 +1,14 @@
+{
+  "options": [
+    "d3_custom_javascript_ver",
+    "d3_custom_css_ver",
+    "*_minify",
+    "*_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:14.630Z"
+}

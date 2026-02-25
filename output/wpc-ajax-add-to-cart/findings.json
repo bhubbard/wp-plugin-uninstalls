@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wooaa_settings",
+    "woocommerce_cart_redirect_after_add",
+    "wooaa_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:10.522Z"
+}

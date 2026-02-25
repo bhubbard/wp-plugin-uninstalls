@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sphca_On_Homepage",
+    "sphca_On_Posts",
+    "sphca_On_Pages",
+    "sphca_On_Archives",
+    "sphca_On_Search",
+    "sphca_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:37.214Z"
+}

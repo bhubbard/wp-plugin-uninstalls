@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ipm_nav_menu_show",
+    "ipm_opt_nav_menu"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:45.250Z"
+}

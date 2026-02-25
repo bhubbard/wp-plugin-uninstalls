@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fenotices_display_location",
+    "fenotices_notice_dismissable",
+    "fenotices_show_users",
+    "fenotices_user_roles",
+    "fenotices_post_types",
+    "fenotices_mobile_only"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:14.080Z"
+}

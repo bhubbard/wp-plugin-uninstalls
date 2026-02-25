@@ -1,0 +1,25 @@
+{
+  "options": [
+    "haet_mail_options",
+    "haet_mail_theme_options",
+    "haet_mail_plugin_options",
+    "wpsc_trackingid_subject",
+    "wpsp_advanced_settings"
+  ],
+  "transients": [
+    "haet_mail_templates"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mailbuilder_css_desktop",
+    "mailbuilder_css_mobile",
+    "mailbuilder_attachments",
+    "subject",
+    "mailbuilder_json",
+    "mailbuilder_header_hidden",
+    "mailbuilder_footer_hidden"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:44.558Z"
+}

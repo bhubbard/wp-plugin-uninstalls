@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('learndash_courses_page_id', 'learndash_lessons_page_id', 'learndash_topics_page_id', 'learndash_quizzes_page_id', 'learndash_certificates_page_id', 'learndash_profile_page_id', 'learndash_groups_page_id', 'sacd_url', 'sacd_api_key', 'sacd_version', 'sacd_tokens', 'sacd_license_active');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_elementor_data', 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_phone', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_postcode', 'billing_state', 'billing_country', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_state', 'shipping_country', 'sacd_fallback_url');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_elementor_data', 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_phone', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_postcode', 'billing_state', 'billing_country', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_state', 'shipping_country', 'sacd_fallback_url');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_elementor_data', 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_phone', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_postcode', 'billing_state', 'billing_country', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_state', 'shipping_country', 'sacd_fallback_url');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_elementor_data', 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_phone', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_postcode', 'billing_state', 'billing_country', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_state', 'shipping_country', 'sacd_fallback_url');
+

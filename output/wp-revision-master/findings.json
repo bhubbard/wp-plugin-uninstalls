@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tmx_revision_options",
+    "wp_revision_master_activate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tmxrm_revision_limit"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:35.104Z"
+}

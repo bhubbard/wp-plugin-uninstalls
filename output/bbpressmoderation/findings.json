@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*always_display",
+    "*notify",
+    "*always_approve_topics",
+    "*always_approve_replies",
+    "*previously_approved"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:09.669Z"
+}

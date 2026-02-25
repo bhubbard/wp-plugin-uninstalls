@@ -1,0 +1,25 @@
+{
+  "options": [
+    "sso_for_azure_ad_client_id",
+    "sso_for_azure_ad_client_secret",
+    "sso_for_azure_ad_tenant_id",
+    "sso_for_azure_ad_require_post_start",
+    "sso_for_azure_ad_use_post_callback",
+    "sso_for_azure_ad_create_users",
+    "sso_for_azure_ad_new_usernames_no_domain",
+    "sso_for_azure_ad_populate_new_profiles",
+    "sso_for_azure_ad_role_new_profile",
+    "sso_for_azure_ad_login_button_hide",
+    "sso_for_azure_ad_login_button_text",
+    "sso_for_azure_ad_enable_rewrites",
+    "sso_for_azure_ad_scope"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "default_password_nag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:09.525Z"
+}

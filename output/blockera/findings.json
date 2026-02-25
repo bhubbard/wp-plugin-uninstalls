@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_do_activation_redirect",
+    "blockera_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "blockera_each_six_days",
+    "blockera_each_seven_days"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:05.262Z"
+}

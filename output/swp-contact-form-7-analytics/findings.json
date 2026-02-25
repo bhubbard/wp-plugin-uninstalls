@@ -1,0 +1,24 @@
+{
+  "options": [
+    "acf_version",
+    "acf_update_550_termmeta",
+    "acf_pro_license"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:03.026Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "productsize_chart_settings",
+    "nc_size_chart_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "prod-chart",
+    "label",
+    "primary-chart-image",
+    "primary-image-position",
+    "title-color",
+    "text-color",
+    "overlay-color",
+    "table-style",
+    "chart-padding",
+    "position",
+    "button-position",
+    "chart-categories",
+    "chart-table",
+    "chart-1",
+    "chart-2",
+    "chart-content"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:42.347Z"
+}

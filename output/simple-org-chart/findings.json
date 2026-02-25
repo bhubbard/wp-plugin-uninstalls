@@ -1,0 +1,16 @@
+{
+  "options": [
+    "org_chart_sample",
+    "org_array"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "top_org_level",
+    "shr_pic",
+    "org_job_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:52.268Z"
+}

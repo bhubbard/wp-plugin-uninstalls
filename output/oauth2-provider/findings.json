@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wo_license_information",
+    "wp_oauth_activation_time",
+    "wp_oauth_server_mapping_settings",
+    "wpoauth_server_private_key",
+    "wpoauth_server_public_key",
+    "wo_options",
+    "wo_license_key",
+    "wp_oauth_server_db_version",
+    "wpoauth_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpo_global_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "redirect_uri",
+    "client_id",
+    "client_secret",
+    "user_id",
+    "scope",
+    "grant_types",
+    "wo_grant_*",
+    "wo_permalink_notice_snooze_until",
+    "wo_dismiss_permalink_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:14.171Z"
+}

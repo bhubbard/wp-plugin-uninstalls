@@ -1,0 +1,14 @@
+{
+  "options": [
+    "scporder_install",
+    "scporder_notice",
+    "dupo_install",
+    "scporder_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:23.922Z"
+}

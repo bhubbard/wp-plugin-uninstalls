@@ -1,0 +1,15 @@
+{
+  "options": [
+    "codenbutter_integration_id",
+    "codenbutter_site_id",
+    "codenbutter_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:18.120Z"
+}

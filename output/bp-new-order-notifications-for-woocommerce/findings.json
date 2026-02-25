@@ -1,0 +1,17 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "bpnon_settings",
+    "bp_new_order_notification_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bpnon_refresh_timer"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:05.252Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "meneame_comments",
+    "meneame_comments__check_cache2",
+    "meneame_comments__check_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:45.957Z"
+}

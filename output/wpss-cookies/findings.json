@@ -1,0 +1,18 @@
+{
+  "options": [
+    "default_post_edit_rows",
+    "wpss_cookie_message",
+    "wpss_show_cookie_message",
+    "wpss_message_position",
+    "wpss_message_style",
+    "wpss_button_text",
+    "wpss_cookie_name",
+    "wpss_cookie_life"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:01.848Z"
+}

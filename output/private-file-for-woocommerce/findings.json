@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id",
+    "pffw_shared_page_options",
+    "shared_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pffw_owner",
+    "pffw_private_file_file",
+    "pffw_private_file_download_count",
+    "pffw_private_page_view_count",
+    "pffw_directory"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:25.434Z"
+}

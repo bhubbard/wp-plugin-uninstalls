@@ -1,0 +1,13 @@
+{
+  "options": [
+    "thisismyurl_wp_title_case_min_word_length",
+    "thisismyurl_wp_title_case_ignore_words",
+    "thisismyurl_title_case"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:47.038Z"
+}

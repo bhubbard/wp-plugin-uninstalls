@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ft_signature_01",
+    "ft_signature_01_default",
+    "ft_signature_manager"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:38.145Z"
+}

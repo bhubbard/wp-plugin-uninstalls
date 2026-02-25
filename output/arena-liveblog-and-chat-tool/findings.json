@@ -1,0 +1,30 @@
+{
+  "options": [
+    "albfre_debug",
+    "albfre_max_date_to_live",
+    "albfre_date_format",
+    "albfre_user_token",
+    "albfre_user_siteId",
+    "albfre_user_accountId",
+    "albfre_user_displayName",
+    "albfre_user_accounts",
+    "albfre_user_json_accounts",
+    "albfre_logo_image_id",
+    "albfre_check_icon_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "arena_events_update_date"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "arena_updated_at",
+    "arena_updated_by",
+    "is_arena_blog",
+    "arena_site",
+    "arena_blog",
+    "arena_site_last_modified"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:25.437Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "edd_message_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "edd_user_order_thread",
+    "edd_user_order_rating",
+    "_fes_edd_initial_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:55.606Z"
+}

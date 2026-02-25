@@ -1,0 +1,23 @@
+{
+  "options": [
+    "optincraft_lock_queue",
+    "optincraft_activation_redirect",
+    "optincraft_activate_time",
+    "optincraft_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "optincraft_daily_cron",
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:56.122Z"
+}

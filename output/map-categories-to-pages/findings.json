@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mcp_widget_ListAllPagesFromCat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "page_thumb"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:05.149Z"
+}

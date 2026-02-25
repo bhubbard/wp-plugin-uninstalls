@@ -1,0 +1,20 @@
+{
+  "options": [
+    "knbu_plugin_version",
+    "knbu_categories",
+    "knbu_db_version",
+    "knbu_main_title_required"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "knbu_map_index",
+    "comment_title",
+    "kbtype",
+    "knbu_map_comment_index",
+    "node_position"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:54.812Z"
+}

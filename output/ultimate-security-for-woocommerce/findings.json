@@ -1,0 +1,60 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "ultimate_security_for_woocommerce_do_activation_redirect",
+    "ultimate_security_for_woocommerce_options",
+    "ultimate_security_for_woocommerce_recent_search",
+    "ultimate_security_for_woocommerce_rewrite_wp_config_keys_last_date",
+    "usfw-enable-encryption-database-keys",
+    "auto_update_plugins",
+    "auto_update_themes",
+    "ultimate_security_for_woocommerce_installed",
+    "usfw_disable_recaptcha_script",
+    "woocommerce_myaccount_page_id",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "usfw_2fa_user_id",
+    "usfw_*",
+    "fs_snooze_period",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [
+    "usfw_change_salt_keys",
+    "daily_9am_task",
+    "wp_update_plugins",
+    "wp_update_themes",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "usfw_user_type",
+    "usfw_login_token",
+    "usfw_user_expiration",
+    "usfw_user_redirect",
+    "user_password_history",
+    "usfw_2fa_code",
+    "usfw_enable_email_authentication",
+    "usfw_user_last_logged_in",
+    "usfw_user_logged_count",
+    "usfw-2fa-provider",
+    "usfw_2fa_pending",
+    "usfw_2fa_hotp_secret",
+    "usfw_2fa_hotp_counter",
+    "usfw_2fa_totp_secret",
+    "last_logout_time",
+    "first_name",
+    "last_name",
+    "locale",
+    "allow_other_users_passwords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:29.988Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "lltru_enable_tracking",
+    "lltru_redirect_404"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "llt_redirect_last_login"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:17.163Z"
+}

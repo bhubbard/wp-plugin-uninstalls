@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fluent_form_chip_public_key",
+    "__fluentform_payment_module_settings",
+    "csf_demo_mode",
+    "fluent_form_chip"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:36.728Z"
+}

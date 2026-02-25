@@ -1,0 +1,143 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'mg_hide_presets'
+wp option delete 'maxgalleira-styles-path'
+wp option delete 'maxgalleira-styles-url'
+wp option delete 'responsive_lightbox_settings'
+wp option delete 'mlfp-s3-region'
+wp option delete 'mg_current_gallery'
+wp option delete 'show_template_ad'
+wp option delete 'show_gallery_ad'
+wp option delete 'maxgalleria_nextgen_import_percent'
+wp option delete 'maxgalleria_nextgen_import_count'
+wp option delete 'maxgallery_sort_order_image_video_default'
+wp option delete 'maxgallery_sort_type_image_video_default'
+wp option delete 'maxgallery_sort_order_video_sc_default'
+wp option delete 'maxgallery_sort_type_video_sc_default'
+wp option delete 'maxgallery_sort_order_image_tiles_default'
+wp option delete 'maxgallery_sort_type_image_tiles_default'
+wp option delete 'maxgallery_sort_order_image_sc_default'
+wp option delete 'maxgallery_sort_type_image_sc_default'
+
+# Delete Transients
+wp transient delete 'dirsize_cache'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_video_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_video_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_video_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_video_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_video_thumb_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_video_thumb_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_video_thumb_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_video_thumb_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_video_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_video_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_video_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_video_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_video_seconds'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_video_seconds'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_video_seconds'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_video_seconds'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mg-css-file'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mg-css-file'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mg-css-file'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mg-css-file'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_image_exclude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_image_exclude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_image_exclude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_image_exclude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_image_link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_image_link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_image_link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_image_link'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_video_exclude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_video_exclude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_video_exclude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_video_exclude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_trash_meta_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_trash_meta_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_trash_meta_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_trash_meta_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_trash_meta_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_trash_meta_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_trash_meta_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_trash_meta_time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_backup_sizes'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_backup_sizes'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_backup_sizes'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_backup_sizes'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_videos_per_page'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_videos_per_page'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_videos_per_page'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_videos_per_page'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_sort_order_video_tiles'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_sort_order_video_tiles'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_sort_order_video_tiles'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_sort_order_video_tiles'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_sort_type_video_tiles'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_sort_type_video_tiles'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_sort_type_video_tiles'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_sort_type_video_tiles'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_sort_order_video_sc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_sort_order_video_sc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_sort_order_video_sc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_sort_order_video_sc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_sort_type_video_sc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_sort_type_video_sc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_sort_type_video_sc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_sort_type_video_sc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_images_per_page'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_images_per_page'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_images_per_page'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_images_per_page'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_sort_order_image_tiles'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_sort_order_image_tiles'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_sort_order_image_tiles'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_sort_order_image_tiles'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_sort_type_image_tiles'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_sort_type_image_tiles'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_sort_type_image_tiles'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_sort_type_image_tiles'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_sort_order_image_sc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_sort_order_image_sc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_sort_order_image_sc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_sort_order_image_sc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_sort_type_image_sc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_sort_type_image_sc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_sort_type_image_sc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_sort_type_image_sc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_masonry_images_per_page'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_masonry_images_per_page'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_masonry_images_per_page'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_masonry_images_per_page'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_action_link_text'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_action_link_text'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_action_link_text'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_action_link_text'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_video_enable_related_videos'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_video_enable_related_videos'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_video_enable_related_videos'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_video_enable_related_videos'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_attachment_video_enable_hd_playback'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_attachment_video_enable_hd_playback'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_attachment_video_enable_hd_playback'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_attachment_video_enable_hd_playback'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maxgallery_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maxgallery_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maxgallery_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maxgallery_template'"

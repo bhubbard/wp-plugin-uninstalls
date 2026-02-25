@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ws_show_popup",
+    "ws_popup_title",
+    "ws_hide_after",
+    "ws_popup_coupon",
+    "ws_popup_background",
+    "ws_popup_border_color",
+    "ws_popup_font_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:06.761Z"
+}

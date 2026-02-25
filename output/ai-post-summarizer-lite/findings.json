@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aips_lite_options"
+  ],
+  "transients": [
+    "aips_lite_deactivated_due_to_pro",
+    "aips_lite_pro_active_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aips_lite_review_notice_dismissed",
+    "aips_lite_pro_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:53.981Z"
+}

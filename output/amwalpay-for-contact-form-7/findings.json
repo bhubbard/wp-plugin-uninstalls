@@ -1,0 +1,19 @@
+{
+  "options": [
+    "amwalpay_cf7_options",
+    "amwalpay_cf7_theme_message",
+    "amwalpay_cf7_theme_error_message"
+  ],
+  "transients": [
+    "amwalpay_cf7_smart_box_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_amwalpay_cf7_enable",
+    "_amwalpay_cf7_email",
+    "_amwalpay_cf7_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:30.924Z"
+}

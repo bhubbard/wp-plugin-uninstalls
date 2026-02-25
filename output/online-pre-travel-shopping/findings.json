@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sfts_settings_value",
+    "shortcode_default_rectangle",
+    "shortcode_default_wide",
+    "shortcode_default_narrow",
+    "shortcode_default_dynamic-width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:59.843Z"
+}

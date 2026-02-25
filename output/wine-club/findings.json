@@ -1,0 +1,46 @@
+{
+  "options": [
+    "wineClubShippingRoles",
+    "wineClubSettings",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "wc_old_user_data*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_square_customer_id",
+    "billing_email",
+    "billing_phone",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "billing_company",
+    "billing_last_name",
+    "billing_first_name",
+    "last_name",
+    "first_name",
+    "shipping_last_name",
+    "shipping_first_name",
+    "shipping_company",
+    "shipping_address_1",
+    "shipping_address_2",
+    "shipping_city",
+    "shipping_postcode",
+    "shipping_country",
+    "shipping_state",
+    "membershipLevelId",
+    "membership_check",
+    "wineClubMembershipLevel",
+    "wineClubProcesManully",
+    "wineClubLocalPickup",
+    "wineClubProcesManullyTillDate",
+    "wineClubProcesManullyNotes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:36.162Z"
+}

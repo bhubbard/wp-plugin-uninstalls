@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_payex_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woocommerce_query_payex_payment_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_subscription_price",
+    "_subscription_sign_up_fee",
+    "_subscription_period",
+    "_subscription_period_interval",
+    "_subscription_length",
+    "_subscription_trial_period",
+    "_subscription_trial_length",
+    "_subscription_payment_sync_date",
+    "_schedule_next_payment",
+    "_subscription_renewal",
+    "payex_mandate_number",
+    "payex_txn_type",
+    "payex_collection_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:04.440Z"
+}

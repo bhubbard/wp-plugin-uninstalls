@@ -1,0 +1,14 @@
+{
+  "options": [
+    "INTAPYBTN_publishable_key",
+    "INTAPYBTN_wpi_default_amount",
+    "INTAPYBTN_redirect_url",
+    "INTAPYBTN_live_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:50.378Z"
+}

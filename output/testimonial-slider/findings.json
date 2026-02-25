@@ -1,0 +1,23 @@
+{
+  "options": [
+    "testimonial_slider_options",
+    "testimonial_slider_scounter",
+    "testimonial_slider_options*",
+    "testimonial_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "testimonial_slide_redirect_url",
+    "_testimonial_sslider_nolink",
+    "testimonial_link_attr",
+    "_testimonial_by",
+    "_testimonial_avatar",
+    "_testimonial_site",
+    "_testimonial_siteurl",
+    "_testimonial_star"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:19.930Z"
+}

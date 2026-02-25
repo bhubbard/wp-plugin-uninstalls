@@ -1,0 +1,17 @@
+{
+  "options": [
+    "xrely_active",
+    "xrely_key",
+    "xrely_css",
+    "xrely_data_config",
+    "xrely_key_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:53.597Z"
+}

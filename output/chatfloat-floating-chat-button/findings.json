@@ -1,0 +1,22 @@
+{
+  "options": [
+    "chatfloat_number",
+    "chatfloat_text",
+    "chatfloat_prefill_message",
+    "chatfloat_position",
+    "chatfloat_bg_color",
+    "chatfloat_text_color",
+    "chatfloat_display_desktop",
+    "chatfloat_display_mobile",
+    "chatfloat_darkmode",
+    "chatfloat_top_margin",
+    "chatfloat_bottom_margin",
+    "chatfloat_horizontal_margin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:48.758Z"
+}

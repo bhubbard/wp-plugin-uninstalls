@@ -1,0 +1,22 @@
+{
+  "options": [
+    "xml_video_sitemap",
+    "gn-sitemap-video-feed-mu-version"
+  ],
+  "transients": [
+    "xml_video_sitemap_consulta",
+    "apg_video_sitemap_plugin",
+    "xml_video_sitemap_procesado",
+    "xml_video_sitemap",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "enviar_ping"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:49.224Z"
+}

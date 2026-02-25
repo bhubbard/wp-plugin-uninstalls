@@ -1,0 +1,19 @@
+{
+  "options": [
+    "contentbeast_auto_pub_opts"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "contentbeast_daily_publish_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_contentbeast_canonical_url",
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_aioseo_description",
+    "_seopress_titles_desc"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:05.895Z"
+}

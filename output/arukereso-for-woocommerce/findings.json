@@ -1,0 +1,30 @@
+{
+  "options": [
+    "waruk_shipping_max_free",
+    "waruk_shipping_cost",
+    "waruk_shipping_time",
+    "waruk_hide_default",
+    "waruk_webapikey",
+    "waruk_comments",
+    "taxonomy_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "arukereso_hide",
+    "arukereso_show",
+    "waruk_prod_name",
+    "manufacturer",
+    "product_number",
+    "ean_code",
+    "warranty",
+    "shipping_cost",
+    "shipping_time",
+    "woo_prod_category",
+    "waruk_category",
+    "waruk_category_hide"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:51.784Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "sx_users"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:06.802Z"
+}

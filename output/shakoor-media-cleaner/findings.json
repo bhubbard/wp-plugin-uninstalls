@@ -1,0 +1,18 @@
+{
+  "options": [
+    "shmc_automation_enabled",
+    "shmc_automation_interval",
+    "shmc_automation_start_time",
+    "shmc_automation_delay_h",
+    "shmc_automation_delay_m",
+    "shmc_automation_delay_s"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shmc_automatic_clean_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:40.350Z"
+}

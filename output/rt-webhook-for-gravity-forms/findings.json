@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rtwcgf_logs",
+    "_rtwcgf_url",
+    "_rtwcgf_method",
+    "_rtwcgf_gf_form_id",
+    "_rtwcgf_cond_enabled",
+    "_rtwcgf_cond_field",
+    "_rtwcgf_cond_value",
+    "_rtwcgf_cond_operator",
+    "_rtwcgf_headers",
+    "_rtwcgf_mapping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:47.797Z"
+}

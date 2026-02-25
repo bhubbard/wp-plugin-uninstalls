@@ -1,0 +1,33 @@
+{
+  "options": [
+    "tmdb_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpoc_backdrops",
+    "wpoc_posters",
+    "wpoc_rating_title",
+    "wpoc_rating_value",
+    "wpoc_tax_img",
+    "wpoc_thumbnail_id",
+    "*_meta",
+    "wpoc_link",
+    "wpoc_studio_title",
+    "wpoc_studio_iframe",
+    "wpoc_tv_data",
+    "*_img",
+    "*_order",
+    "wpoc_id",
+    "wpoc_language",
+    "wpoc_title",
+    "wpoc_tagline",
+    "wpoc_premiere",
+    "wpoc_time",
+    "wpoc_budget",
+    "tmdb_imported"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:29.567Z"
+}

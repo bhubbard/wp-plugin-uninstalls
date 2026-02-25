@@ -1,0 +1,20 @@
+{
+  "options": [
+    "psmg_ai_mode",
+    "psmg_ai_api_key",
+    "psmg_gallery_columns",
+    "psmg_primary_color",
+    "psmg_show_search",
+    "psmg_show_titles",
+    "psmg_show_filter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_psmg_gallery_images",
+    "psmg_ai_cache"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:11.269Z"
+}

@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_rm-pagbank-integrations_settings', 'woocommerce_rm-pagbank_settings', 'pagbank_db_version', 'woocommerce_rm-pagbank-cc_settings', 'woocommerce_rm-pagbank-pix_settings', 'woocommerce_rm-pagbank-boleto_settings', 'pagbank_pix_lastorder_checked', 'woocommerce_store_postcode', 'woocommerce_dimension_unit', 'woocommerce_weight_unit', 'woocommerce_rm-pagbank-redirect_settings', 'woocommerce_rm-pagbank-integrations_marketplace_account_id', 'woocommerce_hold_stock_minutes', 'woocommerce_email_footer_text', 'woocommerce_myaccount_page_id', 'rm_pagbank_dynamic_ico_accessible', 'pagbank_product_installment_options', 'pagbank_recurring_message', 'recurring_restricted_products');
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+DELETE FROM wp_options WHERE option_name LIKE 'woocommerce_rm-pagbank-%';
+DELETE FROM wp_options WHERE option_name LIKE 'rm_pagbank_product_installment_info_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_recurring_enabled', '_frequency', '_frequency_cycle', '_initial_fee', '_recurring_max_cycles', '_recurring_trial_length', '_recurring_discount_amount', '_recurring_discount_cycles', '_recurring_restricted_pages', '_recurring_restricted_categories', '_recurring_restricted_unauthorized_page', '_recurring_restriction_active', 'pagbank_dismiss_pix_order_keys_notice', 'pagbank_account_id', 'pagbank_account_validated');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_recurring_enabled', '_frequency', '_frequency_cycle', '_initial_fee', '_recurring_max_cycles', '_recurring_trial_length', '_recurring_discount_amount', '_recurring_discount_cycles', '_recurring_restricted_pages', '_recurring_restricted_categories', '_recurring_restricted_unauthorized_page', '_recurring_restriction_active', 'pagbank_dismiss_pix_order_keys_notice', 'pagbank_account_id', 'pagbank_account_validated');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_recurring_enabled', '_frequency', '_frequency_cycle', '_initial_fee', '_recurring_max_cycles', '_recurring_trial_length', '_recurring_discount_amount', '_recurring_discount_cycles', '_recurring_restricted_pages', '_recurring_restricted_categories', '_recurring_restricted_unauthorized_page', '_recurring_restriction_active', 'pagbank_dismiss_pix_order_keys_notice', 'pagbank_account_id', 'pagbank_account_validated');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_recurring_enabled', '_frequency', '_frequency_cycle', '_initial_fee', '_recurring_max_cycles', '_recurring_trial_length', '_recurring_discount_amount', '_recurring_discount_cycles', '_recurring_restricted_pages', '_recurring_restricted_categories', '_recurring_restricted_unauthorized_page', '_recurring_restriction_active', 'pagbank_dismiss_pix_order_keys_notice', 'pagbank_account_id', 'pagbank_account_validated');
+

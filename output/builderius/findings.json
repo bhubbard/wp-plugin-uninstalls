@@ -1,0 +1,20 @@
+{
+  "options": [
+    "builderius_allowed_commits_qty",
+    "builderius_pro_version_info",
+    "*cached-plugin-versions"
+  ],
+  "transients": [
+    "builderius_home_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "builderius_dev_preview",
+    "recent_applicant_url",
+    "builderius_changelog_notice_dismissed",
+    "autopublished"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:15.374Z"
+}

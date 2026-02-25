@@ -1,0 +1,15 @@
+{
+  "options": [
+    "corvuspay_settings_version",
+    "cpsi_gateway",
+    "woocommerce_cpsi_settings",
+    "woocommerce_corvuspay_settings",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:34.486Z"
+}

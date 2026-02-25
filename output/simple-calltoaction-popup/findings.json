@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "title",
+    "content",
+    "event",
+    "show_seconds",
+    "button_id",
+    "title_color",
+    "content_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:42.508Z"
+}

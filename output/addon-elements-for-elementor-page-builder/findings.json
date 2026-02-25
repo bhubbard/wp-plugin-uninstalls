@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wts_eae_elements",
+    "eae_review",
+    "elementor_controls_usage",
+    "fv_downloaded",
+    "wts_eae_gmap_key",
+    "wts_eae_youtube_api_key",
+    "use_tsParticle"
+  ],
+  "transients": [
+    "eae_remind_later",
+    "fv_download_later"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:09.193Z"
+}

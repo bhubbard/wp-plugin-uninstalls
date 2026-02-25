@@ -1,0 +1,23 @@
+{
+  "options": [
+    "rewrite_rules",
+    "woocommerce_enable_checkout_login_reminder",
+    "woocommerce_myaccount_page_id",
+    "*.lock"
+  ],
+  "transients": [
+    "wflsbucket:*"
+  ],
+  "cron_jobs": [
+    "wordfence_ls_role_sync_cron",
+    "wordfence_ls_ntp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wfls-last-captcha-score",
+    "wfls-last-login",
+    "wfls-captcha-nonce"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:08.803Z"
+}

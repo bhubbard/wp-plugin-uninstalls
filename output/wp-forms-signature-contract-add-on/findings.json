@@ -1,0 +1,17 @@
+{
+  "options": [
+    "esig_global_document_id",
+    "WP_ESignature__WP_Forms_Digital_Signature_documentation",
+    "remove_rating_widget_wpform"
+  ],
+  "transients": [
+    "_esign_wpform_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "esig-wpform-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:00.323Z"
+}

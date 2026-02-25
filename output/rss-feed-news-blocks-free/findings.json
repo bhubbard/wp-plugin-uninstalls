@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rfnb_favicons",
+    "wp_rss_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rfnb_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:05.021Z"
+}

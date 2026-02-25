@@ -1,0 +1,26 @@
+{
+  "options": [
+    "snillrik_restaurant_ingredients",
+    "snillrik_restaurant_cahstype",
+    "snillrik_restaurant_cahsplace",
+    "snillrik_restaurant_decimals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_snillrik_restaurant_dishprice",
+    "_snillrik_restaurant_dish_ingredients",
+    "_selected_boxes",
+    "_selected_boxes_prices",
+    "snrest_menu_style",
+    "snrest_showcategory",
+    "snrest_hideimage",
+    "snrest_linktitle",
+    "snrest_category",
+    "snrest_orderby",
+    "_menu_footer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:23.936Z"
+}

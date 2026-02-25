@@ -1,0 +1,14 @@
+{
+  "options": [
+    "awplife_tbms_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tbms_post_data_*",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:06.229Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "esodwpi_client_id",
+    "esodwpi_client_secret",
+    "esodwpi_tenant_id",
+    "esodwpi_redirect_uri",
+    "esodwpi_access_token",
+    "esodwpi_code",
+    "esodwpi_refresh_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:51.879Z"
+}

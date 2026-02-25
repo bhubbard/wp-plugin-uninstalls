@@ -1,0 +1,15 @@
+{
+  "options": [
+    "init_plugin_suite_fx_engine_keywords",
+    "init_plugin_suite_fx_engine_snowfall",
+    "init_plugin_suite_fx_engine_grayscale",
+    "init_plugin_suite_fx_engine_preloader",
+    "init_plugin_suite_fx_engine_inlinefmt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:34.346Z"
+}

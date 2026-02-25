@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_russian_post_settings",
+    "multi_packages_type",
+    "multi_packages_enabled",
+    "multi_packages_free_shipping"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "post_rf_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_russian_post_order_courier_id_*",
+    "_russian_post_order_courier_data_*",
+    "_russian_post_order_id_*",
+    "post_rf_point",
+    "_russian_post_order_created_*",
+    "_russian_post_order_batch_name_*",
+    "_russian_post_barcode_*",
+    "post_rf_form_type",
+    "cancel_request",
+    "russian_post_sent",
+    "_3pl_stock_field",
+    "3pl_reserved"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:23.019Z"
+}

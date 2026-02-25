@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('simple_share_sticky_fb', 'simple_share_sticky_tw', 'simple_share_sticky_g', 'simple_share_sticky_li', 'simple_share_sticky_pt', 'simple_share_sticky_su', 'simple_share_sticky_posts', 'simple_share_sticky_pages', 'simple_share_sticky_custom', 'simple_share_sticky_archive', 'simple_share_sticky_home');
+

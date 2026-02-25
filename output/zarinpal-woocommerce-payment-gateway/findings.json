@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wc_zpal_referrer_id",
+    "woocommerce_WC_ZPal_settings",
+    "zarinpal_fee_detection_done_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:13.767Z"
+}

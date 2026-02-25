@@ -1,0 +1,17 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('landingPageSafeModeFeature', 'cpt_reset_msf_pluginops', 'page_builder_SupportedPostTypes', 'smfb_autoplacement_options', 'ulpb_aweber_auth_code', 'ulpb_aweber_accessToken', 'ulpb_aweber_accessTokenSecret', 'popb_constant_contact_refresh_token', 'popb_constant_contact_access_token', 'popb_constant_contact_o_auth_token', 'landingpageDisablePublicNonce', 'ulpb_formBuilder_subForm_recent_entries', 'plugOps_activation_date', 'msfpluginops_activation_date', 'plugOPB_activation_date', 'msfpluginops_hide_bugsOne', 'msfpluginops_prem_plugin_ver', 'plugOpB_hide_plugin_install_notice', 'msfpluginops_plugin_activation_check_option', 'smfb_prem_activated');
+DELETE FROM wp_options WHERE option_name LIKE 'plugOPB_hide_bugs1two_%';
+DELETE FROM wp_options WHERE option_name LIKE 'plugOPB_hide_specialOffer_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('ulpb_page_builder_active', 'ULPB_CurrentStep', 'ulpb_page_views_counter', 'ssm_conversion_count', 'ULPB_Page_ShortCode', 'ULPB_DATA', 'ULPB_FrontPage', 'ULPB_loadWpHead', 'ULPB_loadWpFooter', 'ULPB_MultiVariantTesting', 'ssm_subscribers_list', 'ulpb_formBuilder_data_submission', 'ssm_clickThrough_count', 'ulpb_page_hit_counter', 'popb_closed_popup_count', 'ctnTotal', 'ctrTpLinks');
+DELETE FROM wp_usermeta WHERE meta_key IN ('ulpb_page_builder_active', 'ULPB_CurrentStep', 'ulpb_page_views_counter', 'ssm_conversion_count', 'ULPB_Page_ShortCode', 'ULPB_DATA', 'ULPB_FrontPage', 'ULPB_loadWpHead', 'ULPB_loadWpFooter', 'ULPB_MultiVariantTesting', 'ssm_subscribers_list', 'ulpb_formBuilder_data_submission', 'ssm_clickThrough_count', 'ulpb_page_hit_counter', 'popb_closed_popup_count', 'ctnTotal', 'ctrTpLinks');
+DELETE FROM wp_termmeta WHERE meta_key IN ('ulpb_page_builder_active', 'ULPB_CurrentStep', 'ulpb_page_views_counter', 'ssm_conversion_count', 'ULPB_Page_ShortCode', 'ULPB_DATA', 'ULPB_FrontPage', 'ULPB_loadWpHead', 'ULPB_loadWpFooter', 'ULPB_MultiVariantTesting', 'ssm_subscribers_list', 'ulpb_formBuilder_data_submission', 'ssm_clickThrough_count', 'ulpb_page_hit_counter', 'popb_closed_popup_count', 'ctnTotal', 'ctrTpLinks');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('ulpb_page_builder_active', 'ULPB_CurrentStep', 'ulpb_page_views_counter', 'ssm_conversion_count', 'ULPB_Page_ShortCode', 'ULPB_DATA', 'ULPB_FrontPage', 'ULPB_loadWpHead', 'ULPB_loadWpFooter', 'ULPB_MultiVariantTesting', 'ssm_subscribers_list', 'ulpb_formBuilder_data_submission', 'ssm_clickThrough_count', 'ulpb_page_hit_counter', 'popb_closed_popup_count', 'ctnTotal', 'ctrTpLinks');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'ULPB_DATA_Rows_Part_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'ULPB_DATA_Rows_Part_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'ULPB_DATA_Rows_Part_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'ULPB_DATA_Rows_Part_%';
+

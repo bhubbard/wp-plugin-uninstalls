@@ -1,0 +1,192 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('eml_audio_mode');
+delete_site_option('eml_audio_mode');
+delete_option('eml_audio_proxy');
+delete_site_option('eml_audio_proxy');
+delete_option('eml_audio_proxy_max_age');
+delete_site_option('eml_audio_proxy_max_age');
+delete_option('eml_images_mode');
+delete_site_option('eml_images_mode');
+delete_option('eml_proxy');
+delete_site_option('eml_proxy');
+delete_option('eml_proxy_max_age');
+delete_site_option('eml_proxy_max_age');
+delete_option('eml_video_mode');
+delete_site_option('eml_video_mode');
+delete_option('eml_video_proxy');
+delete_site_option('eml_video_proxy');
+delete_option('eml_video_proxy_max_age');
+delete_site_option('eml_video_proxy_max_age');
+delete_option('eml_disable_attachment_pages');
+delete_site_option('eml_disable_attachment_pages');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_size_w' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_size_h' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('eml_use_file_dates');
+delete_site_option('eml_use_file_dates');
+delete_option('eml_import_running');
+delete_site_option('eml_import_running');
+delete_option('eml_import_url_count');
+delete_site_option('eml_import_url_count');
+delete_option('eml_import_errors');
+delete_site_option('eml_import_errors');
+delete_option('eml_import_files');
+delete_site_option('eml_import_files');
+delete_option('eml_import_title');
+delete_site_option('eml_import_title');
+delete_option('eml_import_url_max');
+delete_site_option('eml_import_url_max');
+delete_option('eml_max_execution_check');
+delete_site_option('eml_max_execution_check');
+delete_option('eml_timeout');
+delete_site_option('eml_timeout');
+delete_option('eml_proxy_path');
+delete_site_option('eml_proxy_path');
+delete_option('eml_queue_limit');
+delete_site_option('eml_queue_limit');
+delete_option('eml_queue_interval');
+delete_site_option('eml_queue_interval');
+delete_option('eml_sync');
+delete_site_option('eml_sync');
+delete_option('eml_sync_interval');
+delete_site_option('eml_sync_interval');
+delete_option('eml_sync_delete_unused_files_after_sync');
+delete_site_option('eml_sync_delete_unused_files_after_sync');
+delete_option('eml_sync_running');
+delete_site_option('eml_sync_running');
+delete_option('eml_sync_url_count');
+delete_site_option('eml_sync_url_count');
+delete_option('eml_sync_url_max');
+delete_site_option('eml_sync_url_max');
+delete_option('eml_sync_title');
+delete_site_option('eml_sync_title');
+delete_option('eml_sync_delete_file_on_archive_deletion');
+delete_site_option('eml_sync_delete_file_on_archive_deletion');
+delete_option('eml_sync_set_automatic');
+delete_site_option('eml_sync_set_automatic');
+delete_option('eml_disable_gprd_warning');
+delete_site_option('eml_disable_gprd_warning');
+delete_option('eml_directory_listing_hide_preview');
+delete_site_option('eml_directory_listing_hide_preview');
+delete_option('eml_allowed_mime_types');
+delete_site_option('eml_allowed_mime_types');
+delete_option('eml_user_assign');
+delete_site_option('eml_user_assign');
+delete_option('efmlVersion');
+delete_site_option('efmlVersion');
+delete_option('eml_log_mode');
+delete_site_option('eml_log_mode');
+delete_option('eml_schedules');
+delete_site_option('eml_schedules');
+delete_option('eml_file_count');
+delete_site_option('eml_file_count');
+delete_option('eml_file_sizes');
+delete_site_option('eml_file_sizes');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'efiml-dismissed-%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'pi-dismissed-%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('eml_delete_on_deinstallation');
+delete_site_option('eml_delete_on_deinstallation');
+delete_option('eml_switch_on_uninstallation');
+delete_site_option('eml_switch_on_uninstallation');
+delete_option('eml_allowed_roles');
+delete_site_option('eml_allowed_roles');
+delete_option('eml_check_interval');
+delete_site_option('eml_check_interval');
+delete_option('eml_google_drive_access_tokens');
+delete_site_option('eml_google_drive_access_tokens');
+delete_option('eml_google_drive_show_trashed');
+delete_site_option('eml_google_drive_show_trashed');
+delete_option('eml_google_drive_show_shared');
+delete_site_option('eml_google_drive_show_shared');
+delete_option('eml_woocommerce');
+delete_site_option('eml_woocommerce');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_attached_file' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_attached_file' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_attached_file' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_attached_file' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'eml_locally_saved' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'eml_locally_saved' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'eml_locally_saved' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'eml_locally_saved' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'eml_proxied' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'eml_proxied' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'eml_proxied' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'eml_proxied' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'eml_login' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'eml_login' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'eml_login' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'eml_login' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'eml_password' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'eml_password' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'eml_password' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'eml_password' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_attachment_backup_sizes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_attachment_backup_sizes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_attachment_backup_sizes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_attachment_backup_sizes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'interval' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'interval' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'interval' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'interval' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'eml_synced' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'eml_synced' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'eml_synced' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'eml_synced' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'eml_synced_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'eml_synced_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'eml_synced_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'eml_synced_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'catfolder' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'catfolder' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'catfolder' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'catfolder' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'eml_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'eml_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'eml_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'eml_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_exmage_external_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_exmage_external_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_exmage_external_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_exmage_external_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'fildbirdfolder' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'fildbirdfolder' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'fildbirdfolder' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'fildbirdfolder' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'folderly_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'folderly_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'folderly_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'folderly_categories' ) );
+

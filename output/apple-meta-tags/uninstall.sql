@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('apple_meta_tags_web_app_mode', 'apple_meta_tags_web_app_status_bar_style', 'apple_meta_tags_web_app_title', 'apple_meta_tags_use_viewport', 'apple_meta_tags_viewport', 'apple_meta_tags_telephone', 'apple_meta_tags_favicon', 'apple_meta_tags_favicon_png', 'apple_meta_tags_touch_icon_precomposed', 'apple_meta_tags_default_touch_icon', 'apple_meta_tags_touch_icon_57', 'apple_meta_tags_touch_icon_72', 'apple_meta_tags_touch_icon_114', 'apple_meta_tags_touch_icon_144', 'apple_meta_tags_use_startup_screen', 'apple_meta_tags_startup_screen_320_460', 'apple_meta_tags_startup_screen_640_920', 'apple_meta_tags_startup_screen_640_1096', 'apple_meta_tags_startup_screen_768_1004', 'apple_meta_tags_startup_screen_1024_748', 'apple_meta_tags_startup_screen_1536_2008', 'apple_meta_tags_startup_screen_2048_1496', 'apple_meta_tags_use_smart_app_banner', 'apple_meta_tags_app_store_id', 'apple_meta_tags_affiliate_id', 'apple_meta_tags_app_argument');
+

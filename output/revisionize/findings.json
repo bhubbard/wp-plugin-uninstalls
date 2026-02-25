@@ -1,0 +1,18 @@
+{
+  "options": [
+    "revisionize_settings",
+    "revisionize_network_settings",
+    "revisionize_installed_addons"
+  ],
+  "transients": [
+    "revisionize_available_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_post_revision_of",
+    "_post_original"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:36.286Z"
+}

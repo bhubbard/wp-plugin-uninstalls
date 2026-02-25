@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cookie_bar_show_for_logged_out_users_only",
+    "cookie_bar_show_on_top",
+    "cookie_bar_expiration_type",
+    "cookie_bar_days_to_expire",
+    "cookie_bar_message",
+    "cookie_bar_button",
+    "cookie_bar_btn_bg_colour",
+    "cookie_bar_btn_font_colour",
+    "cookie_bar_bar_bg_colour",
+    "cookie_bar_bar_font_colour"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:13.430Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fb_username",
+    "tw_username",
+    "ins_username",
+    "fb_url",
+    "tw_url",
+    "ins_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:23.644Z"
+}

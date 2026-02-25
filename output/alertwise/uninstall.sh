@@ -1,0 +1,68 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'alertwise_post_page_settings'
+wp option delete 'alertwise_settings'
+
+# Delete Transients
+wp transient delete 'alertwise_activation_redirect'
+wp transient delete 'alertwise_localstorage_data'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_auto_send'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_auto_send'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_auto_send'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_auto_send'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_custom_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_custom_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_custom_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_custom_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_custom_msg'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_custom_msg'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_custom_msg'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_custom_msg'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_sent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_sent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_sent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_sent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_group_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_group_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_group_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_group_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_action1_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_action1_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_action1_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_action1_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_action1_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_action1_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_action1_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_action1_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_action1_icon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_action1_icon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_action1_icon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_action1_icon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_action2_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_action2_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_action2_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_action2_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_action2_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_action2_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_action2_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_action2_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_action2_icon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_action2_icon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_action2_icon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_action2_icon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_show_action2'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_show_action2'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_show_action2'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_show_action2'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_alertwise_resend_on_future_publish'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_alertwise_resend_on_future_publish'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_alertwise_resend_on_future_publish'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_alertwise_resend_on_future_publish'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aw_push_options'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aw_push_options'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aw_push_options'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aw_push_options'"

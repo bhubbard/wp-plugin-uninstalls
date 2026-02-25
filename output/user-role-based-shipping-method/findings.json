@@ -1,0 +1,13 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "pvalley_user_role_based_shipping",
+    "pvalley_user_role_based_shipping_rule_matrix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:55.816Z"
+}

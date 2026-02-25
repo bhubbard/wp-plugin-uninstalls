@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ajdg_nobot_protect",
+    "ajdg_nobot_questions",
+    "ajdg_nobot_answers",
+    "disallowed_keys",
+    "ajdg_nobot_blacklist_usernames",
+    "ajdg_nobot_blacklist_protect",
+    "ajdg_nobot_blacklist_message",
+    "ajdg_nobot_security_message",
+    "ajdg_nobot_hide_review",
+    "ajdg_activate_no-bot-registration"
+  ],
+  "transients": [
+    "ajdg_update_no-bot-registration"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:50.844Z"
+}

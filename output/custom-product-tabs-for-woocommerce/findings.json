@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "*wqrerror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "enable_wpcc_extra_tab",
+    "extra_wpcc_tab_desc_fields",
+    "extra_wpcc_tab_title_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:50.428Z"
+}

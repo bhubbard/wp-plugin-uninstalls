@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fp_version",
+    "fp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "floorplan_type",
+    "floorplan_collection"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:05.890Z"
+}

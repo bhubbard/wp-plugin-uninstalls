@@ -1,0 +1,29 @@
+{
+  "options": [
+    "watchtower",
+    "whthq_headquarters",
+    "watchtower_ota_token",
+    "watchtower_db_version"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "call_headquarter_mysql_status_lock",
+    "update_themes",
+    "wht-activation-notice-message",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "retry_headquarter_call"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wht_user_last_login",
+    "first_name",
+    "whthq_agent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:39.345Z"
+}

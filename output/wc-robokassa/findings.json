@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wc_robokassa_last_settings_update_version",
+    "*_settings",
+    "wc_robokassa_log_file_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:32.839Z"
+}

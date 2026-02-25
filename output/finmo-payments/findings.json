@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_finmo_payments_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "finmo_checkout_id",
+    "_finmo_is_refundable",
+    "_finmo_is_partially_refundable",
+    "_finmo_checkout_status",
+    "finmo_refund_id",
+    "_finmo_refund_status",
+    "finmo_checkout_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:07.547Z"
+}

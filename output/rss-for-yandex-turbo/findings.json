@@ -1,0 +1,25 @@
+{
+  "options": [
+    "yturbo_options"
+  ],
+  "transients": [
+    "related-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ytrssenabled_meta_value",
+    "ytremove_meta_value",
+    "ytad1meta",
+    "ytad2meta",
+    "ytad3meta",
+    "ytad4meta",
+    "ytad5meta",
+    "template_meta",
+    "custom_template",
+    "ytextendedhtmlmeta",
+    "ytpostdatemeta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:20.860Z"
+}

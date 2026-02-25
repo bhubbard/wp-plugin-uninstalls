@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wppv_api_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "entry_views",
+    "view_ip"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:48.968Z"
+}

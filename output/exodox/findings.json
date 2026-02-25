@@ -1,0 +1,24 @@
+{
+  "options": [
+    "exodox_publisher_id",
+    "exodox_publisher_api_key",
+    "exodox_show_lock_info",
+    "exodox_show_create_account",
+    "exodox_show_report_abuse_link",
+    "exodox_dark_mode",
+    "exodox_popup_alignment",
+    "exodox_show_excerpt",
+    "exodox_disable_listing",
+    "exodox_lock_pages",
+    "exodox_lock_archives",
+    "exodox_redirect_pages",
+    "exodox_replace_wp_header",
+    "exodox_replace_wp_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:40.422Z"
+}

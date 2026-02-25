@@ -1,0 +1,27 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_discount-payment-moona_settings",
+    "moona_disable_cache_until_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "moona_cancel_pending_orders",
+    "moona_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mship",
+    "_sale_price",
+    "_moona_id",
+    "_url_to_redirect",
+    "_transfer_group",
+    "_has_moona_discount",
+    "_moona_discount_amount",
+    "_moona_user_id",
+    "_transaction_id",
+    "_is_paid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:08.437Z"
+}

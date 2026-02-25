@@ -1,0 +1,19 @@
+{
+  "options": [
+    "rtw_pgaepb_header_setting_opt",
+    "rtw_pgaepb_footer_setting_opt",
+    "rtw_pgaepb_basic_setting_opt",
+    "rtw_pgaepb_css_setting_opt",
+    "rtw_pgaepb_watermark_setting_opt",
+    "rtw_pgaepb_custom_fonts",
+    "rtw_pgaepb_offer_time",
+    "rtwwpf_css_setting_opt",
+    "rtwwpf_watermark_setting_opt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:34.531Z"
+}

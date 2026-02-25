@@ -1,0 +1,15 @@
+{
+  "options": [
+    "apcmfw_product_condition_default",
+    "apcmfw_product_condition_show_on_shop",
+    "apcmfw_product_condition_shop_label",
+    "apcmfw_product_condition_single_label",
+    "apcmfw_product_condition_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:39.445Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "screen_layout_dashboard",
+    "screen_layout_dashboard-network"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:10.249Z"
+}

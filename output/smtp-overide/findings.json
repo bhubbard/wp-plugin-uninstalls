@@ -1,0 +1,12 @@
+{
+  "options": [
+    "smtp_override_cbezzy_default_test_email",
+    "smtp_override_bypass_ssl_verify_cbezzy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:51.277Z"
+}

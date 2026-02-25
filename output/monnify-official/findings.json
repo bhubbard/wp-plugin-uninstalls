@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_monnify_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_monnify_save_card",
+    "_monnify_txn_refs"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:31.608Z"
+}

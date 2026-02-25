@@ -1,0 +1,18 @@
+{
+  "options": [
+    "emailit_options",
+    "emailit_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "emailit_exclude",
+    "emailit_ignore_notice",
+    "emailit_ignore_notice2",
+    "emailit_ignore_notice3",
+    "emailit_ignore_notice4"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:02.928Z"
+}

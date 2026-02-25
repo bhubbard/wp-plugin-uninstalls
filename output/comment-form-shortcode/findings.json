@@ -1,0 +1,15 @@
+{
+  "options": [
+    "selected_button",
+    "floating_social_button_float",
+    "floating_social_button_position_top",
+    "floating_social_button_position_left",
+    "floating_social_button_disable_mobile"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:27.615Z"
+}

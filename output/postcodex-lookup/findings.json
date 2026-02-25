@@ -1,0 +1,16 @@
+{
+  "options": [
+    "postcodex_lookup_settings",
+    "woocommerce_postcodex_lookup_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pl_autosearch",
+    "pl_override_selector",
+    "pl_load"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:47.038Z"
+}

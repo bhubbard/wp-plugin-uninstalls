@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gfee_settings",
+    "gfee_old_settings",
+    "gfee_has_updated_1_7_3",
+    "gfee_settings_old"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "export_gfee_entries",
+    "gfee_cleaning_days"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:10.060Z"
+}

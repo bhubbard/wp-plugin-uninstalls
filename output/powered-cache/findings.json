@@ -1,0 +1,22 @@
+{
+  "options": [
+    "autoptimize_html",
+    "autoptimize_css",
+    "autoptimize_js",
+    "peadig_eucookie",
+    "jetpack_boost_config",
+    "woocommerce_default_customer_address"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "powered_cache_preload_hook",
+    "powered_cache_preload_child_process",
+    "powered_cache_purge_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:16.320Z"
+}

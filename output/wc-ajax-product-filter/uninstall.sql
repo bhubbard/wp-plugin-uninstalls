@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_currency_pos', 'woocommerce_attribute_lookup_enabled', 'woocommerce_hide_out_of_stock_items', 'wcapf_v4_migration_notice_status', 'wcapf_v4_review_filters_notice_status', 'wcapf_migrated_filters_form_id', 'wcapf_activation_time', 'woocommerce_tax_display_shop', 'wcapf_run_migrate', 'wcapf_set_default_settings', 'wcapf_update_default_settings', 'wcapf_filter_keys_order', 'wcapf_db_version', 'wcapf_forms_with_locations', 'wcapf_v4_migration_status');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wcapf_review_notice_for_milestone_achieved_dismissed', 'wcapf_review_notice_for_milestone_achieved_dismissed_at', 'wcapf_review_notice_time_since_hide_permanently', 'wcapf_review_notice_time_since_dismissed_at', 'wcapf_form_updates_count', '_field_data');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wcapf_review_notice_for_milestone_achieved_dismissed', 'wcapf_review_notice_for_milestone_achieved_dismissed_at', 'wcapf_review_notice_time_since_hide_permanently', 'wcapf_review_notice_time_since_dismissed_at', 'wcapf_form_updates_count', '_field_data');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wcapf_review_notice_for_milestone_achieved_dismissed', 'wcapf_review_notice_for_milestone_achieved_dismissed_at', 'wcapf_review_notice_time_since_hide_permanently', 'wcapf_review_notice_time_since_dismissed_at', 'wcapf_form_updates_count', '_field_data');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wcapf_review_notice_for_milestone_achieved_dismissed', 'wcapf_review_notice_for_milestone_achieved_dismissed_at', 'wcapf_review_notice_time_since_hide_permanently', 'wcapf_review_notice_time_since_dismissed_at', 'wcapf_form_updates_count', '_field_data');
+

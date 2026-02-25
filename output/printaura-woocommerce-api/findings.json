@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_tax_classes",
+    "*_enabled",
+    "*_require_https",
+    "be_woocommerce_shipping_zones",
+    "*_token",
+    "*_slug"
+  ],
+  "transients": [
+    "dirsize_cache"
+  ],
+  "cron_jobs": [
+    "wooc_schedule_send_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_product_image_gallery",
+    "product_ids",
+    "exclude_product_ids",
+    "*_mail_subject",
+    "*_mail_body",
+    "*_mail_from",
+    "_product_attributes",
+    "_tracking_number",
+    "_tracking_url",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:38.167Z"
+}

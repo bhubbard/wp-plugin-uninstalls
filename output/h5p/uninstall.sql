@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('h5p_track_user', 'h5p_has_request_user_consent', 'h5p_hub_is_enabled', 'h5p_send_usage_statistics', 'h5p_insert_method', 'h5p_content_type_cache_updated_at', 'h5p_embed', 'h5p_multisite_capabilities', 'h5p_last_info_print', 'h5p_ext_communication', 'h5p_update_available', 'h5p_current_update', 'h5p_update_available_path', 'h5p_frame', 'h5p_export', 'h5p_copyright', 'h5p_icon', 'h5p_save_content_state', 'h5p_save_content_frequency', 'h5p_show_toggle_view_others_h5p_contents', 'h5p_enable_lrs_content_types', 'h5p_check_h5p_requirements', 'h5p_site_key', 'h5p_h5p_site_uuid', 'h5p_version', 'h5p_minitutorial', 'h5p_library_updates', 'h5p_site_type', 'dirsize_cache');
+DELETE FROM wp_options WHERE option_name LIKE 'h5p_%';
+

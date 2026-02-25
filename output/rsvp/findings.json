@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rsvp_db_version",
+    "rsvp-rate-time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_simple_nonce_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rsvp_screen_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:05.551Z"
+}

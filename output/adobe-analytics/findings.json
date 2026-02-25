@@ -1,0 +1,16 @@
+{
+  "options": [
+    "adobe_analytics_library_url",
+    "adobe_analytics_account_id",
+    "adobe_analytics_custom_js",
+    "adobe_analytics_custom_variables"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "adobe_analytics_repeatable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:52.072Z"
+}

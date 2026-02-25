@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cf7submittrack_count",
+    "cf7submittrack_date",
+    "cf7submittrack_delete_data_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:35.013Z"
+}

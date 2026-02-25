@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simple_mailchimp_subscribe_status",
+    "simple_mailchimp_success_message",
+    "simple_mailchimp_error_message",
+    "simple_mailchimp_api_key",
+    "simple_mailchimp_default_list_id",
+    "simple_mailchimp_default_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:31.249Z"
+}

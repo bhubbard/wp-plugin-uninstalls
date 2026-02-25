@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ps_simple_par_subscription_shown",
+    "ps_simple_par_review_time",
+    "ps_simple_par_dismiss_review_notice",
+    "ps_simple_par_settings",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "page_access_restricted"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:31.498Z"
+}

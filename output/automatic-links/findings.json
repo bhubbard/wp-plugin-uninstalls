@@ -1,0 +1,13 @@
+{
+  "options": [
+    "autolink_nofollow",
+    "autolink_enable_target",
+    "autolink_target"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:09.043Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cfedcw_settings",
+    "cfedcw_version",
+    "cfedcw_deactivated_at"
+  ],
+  "transients": [
+    "cfedcw_no_supported_forms"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:20.296Z"
+}

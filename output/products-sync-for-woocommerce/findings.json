@@ -1,0 +1,32 @@
+{
+  "options": [
+    "*_filter_api_response_count",
+    "*_api_response_count",
+    "*_current_api_response_count",
+    "*_api_response_count_temp",
+    "*_total_batches",
+    "rewrite_rules",
+    "cron"
+  ],
+  "transients": [
+    "mowcps_product_deletion_notice",
+    "mowcps_sns_reset_batch_*",
+    "mowcps_sns_new_api_data_*",
+    "mowcps_sns_batch_fully_completed_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "MOWCPS_connection_name_media",
+    "_source_url",
+    "_product_image_gallery",
+    "_api_source_id",
+    "woo_variation_gallery_images",
+    "_product_attributes",
+    "trends_category_id",
+    "trends_category_number",
+    "trends_parent_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:08.911Z"
+}

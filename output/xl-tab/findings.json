@@ -1,0 +1,15 @@
+{
+  "options": [
+    "plugin_activation_time",
+    "donot_disturb",
+    "thepack_remind_me",
+    "rtrs_rated",
+    "xltab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:15.544Z"
+}

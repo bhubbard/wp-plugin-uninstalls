@@ -1,0 +1,17 @@
+{
+  "options": [
+    "our_api_field",
+    "our_first_field",
+    "our_second_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_don_amount",
+    "checkbox name",
+    "_post_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:04.316Z"
+}

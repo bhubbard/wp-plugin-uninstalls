@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ml_local_cache",
+    "ml_anti_flicker",
+    "ml_content_delivery",
+    "ml_timeout",
+    "ml_postback_delay",
+    "ml_spa_page_view_option",
+    "ml_token",
+    "ml_use_quick_start",
+    "ml_quickstart_username",
+    "ml_quickstart_password",
+    "ml_account_name",
+    "ml_cid",
+    "ml_lastsetting",
+    "postback_delay",
+    "spa_pageview_option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ml_local_cache_refetch"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_monoloop_condition"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:51.797Z"
+}

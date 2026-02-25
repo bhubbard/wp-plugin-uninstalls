@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpmc_last_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpmc_process_queue_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:10.932Z"
+}

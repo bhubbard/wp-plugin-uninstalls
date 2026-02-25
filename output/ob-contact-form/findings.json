@@ -1,0 +1,16 @@
+{
+  "options": [
+    "obcf_to_email",
+    "obcf_from_email",
+    "obcf_from_name",
+    "obcf_form_subject",
+    "obcf_form_success",
+    "obcf_form_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:56.265Z"
+}

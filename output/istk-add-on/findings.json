@@ -1,0 +1,16 @@
+{
+  "options": [
+    "istk_add_on_portfolio_data_description",
+    "istk_add_on_portfolio_category_display_footer",
+    "istk_add_on_portfolio_category_display_footer_in_front",
+    "istk_add_on_portfolio_category_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "istk_add_on_category_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:31.899Z"
+}

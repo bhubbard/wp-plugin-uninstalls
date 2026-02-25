@@ -1,0 +1,41 @@
+{
+  "options": [
+    "rewrite_rules",
+    "recently_activated"
+  ],
+  "transients": [
+    "inxkick_property_list_cache",
+    "inxkick_map_marker_cache",
+    "inx_preview_pagination_output",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "*do_daily",
+    "*do_weekly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "*details",
+    "_inx_req_prop_cf_check",
+    "_thumbnail_id",
+    "_inx_is_sale",
+    "_inx_list_map_marker_coords",
+    "_inx_list_map_marker",
+    "_immonex_is_available",
+    "_immonex_is_reference",
+    "_inx_lat",
+    "_inx_lng",
+    "*term_meta",
+    "_wp_attachment_image_alt",
+    "_immonex_property_xml_source",
+    "*property_xml_source",
+    "*file_attachments",
+    "_inx_team_agent_primary",
+    "_inx_team_agency_id",
+    "tgmpa_dismissed_notice_*",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:08.001Z"
+}

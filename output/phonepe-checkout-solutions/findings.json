@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_enable_coupons",
+    "woocommerce_phonepe_expressbuy_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:55.666Z"
+}

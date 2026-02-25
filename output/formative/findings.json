@@ -1,0 +1,36 @@
+{
+  "options": [
+    "formative_rating_dismissed",
+    "formative_activation_time",
+    "formative_recaptcha_version",
+    "formative_recaptcha_v2_site_key",
+    "formative_recaptcha_v2_secret_key",
+    "formative_recaptcha_v3_site_key",
+    "formative_recaptcha_v3_secret_key",
+    "formative_email_from_name",
+    "formative_email_from_address",
+    "formative_store_entries",
+    "formative_delete_data",
+    "formative_*",
+    "formative_db_version",
+    "formative_color_theme"
+  ],
+  "transients": [
+    "formative_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_quiz_data",
+    "_formative_settings",
+    "_formative_fields",
+    "_form_id",
+    "_entry_data",
+    "_quiz_score",
+    "_quiz_percentage",
+    "_user_ip",
+    "_user_agent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:02.141Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "orem_cf7_geo_gpa_page",
+    "orem_cf7_geo_api_key",
+    "Activated_Plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:33.041Z"
+}

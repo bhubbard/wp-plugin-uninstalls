@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_irandargah_settings"
+  ],
+  "transients": [
+    "wc-gateway-irandargah-admin-notice-transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "irandargah_transaction_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:50.335Z"
+}

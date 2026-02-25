@@ -1,0 +1,16 @@
+{
+  "options": [
+    "trusted_clients_total_fotos",
+    "trusted_clients_mostrar_estrellas",
+    "trusted_clients_aleatorio",
+    "trusted_clients_texto",
+    "trusted_clients_fotos_mostrar",
+    "trusted_clients_feedback"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:32.317Z"
+}

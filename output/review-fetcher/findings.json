@@ -1,0 +1,15 @@
+{
+  "options": [
+    "grplugin_api_key",
+    "grplugin_place_id",
+    "grplugin_review_count",
+    "grplugin_ai_review_summary",
+    "grplugin_openai_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:01.714Z"
+}

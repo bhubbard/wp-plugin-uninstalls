@@ -1,0 +1,17 @@
+{
+  "options": [
+    "download_attachments_general",
+    "download_attachments_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_da_attachments",
+    "_da_downloads",
+    "_da_posts",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:54.961Z"
+}

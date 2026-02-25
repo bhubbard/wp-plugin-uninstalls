@@ -1,0 +1,12 @@
+{
+  "options": [
+    "timber-editor_general_supported-post-types",
+    "timber-editor_codemirror_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:32.548Z"
+}

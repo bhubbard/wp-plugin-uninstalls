@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ichigen_san_enabling",
+    "ichigen_san_basic_user",
+    "ichigen_san_basic_pass",
+    "ichigen-san-convert",
+    "ichigen-san-initialization"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:39.101Z"
+}

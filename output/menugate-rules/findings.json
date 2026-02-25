@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menugate_logged_in",
+    "_menugate_logged_out",
+    "_menugate_device"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:44.731Z"
+}

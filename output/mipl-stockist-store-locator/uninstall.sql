@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('_mipl_sl_default_settings', '_mipl_sl_stockist_custom_fields', '_mipl_sl_stockist_custom_filter', '_mipl_sl_primary_color', '_mipl_sl_background_color', '_mipl_sl_map_height', '_mipl_sl_here_map_api_key', '_mipl_sl_google_field_type', '_mipl_sl_google_map_api_key', '_mipl_sl_google_map_default_zoom', '_mipl_sl_google_map_default_location', '_mipl_sl_google_map_type', '_mipl_sl_google_zoom_as_per_the_map_pins', '_mipl_sl_google_map_controller', '_mipl_sl_google_map_radius_circle', '_mipl_sl_google_map_markerclusterer', '_mipl_sl_google_map_style', '_mipl_sl_google_map_custom_style', '_mipl_sl_layout_type', '_mipl_sl_open_info_window', '_mipl_sl_disable_stores_public_url', '_mipl_sl_distance_unit', '_mipl_sl_default_distance', '_mipl_sl_display_time_on_list', '_mipl_sl_display_time_on_infowindow', '_mipl_sl_display_social_on_list', '_mipl_sl_display_social_on_infowindow', '_mipl_sl_hide_image_on_list', '_mipl_sl_hide_image_on_infowindow', '_mipl_sl_distances', '_mipl_sl_labels', '_mipl_sl_map_current_location_icon', '_mipl_sl_map_current_location_custom_pin', '_mipl_sl_map_stores_location_icon', '_mipl_sl_map_stores_location_custom_pin', '_mipl_sl_map_provider', '_mipl_sl_custom_template', '_mipl_sl_hide_current_location_filter', '_mipl_sl_hide_category_filter', '_mipl_sl_hide_store_search_filter', '_mipl_sl_osm_geocode_service');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_mipl_sl_opening_hours', '_mipl_sl_opening_hours_note', '_mipl_sl_address', '_mipl_sl_city', '_mipl_sl_state', '_mipl_sl_country', '_mipl_sl_latitude', '_mipl_sl_longitude', '_mipl_sl_email', '_mipl_sl_telephone', '_mipl_sl_post_code', '_mipl_sl_website', '_mipl_sl_fax', '_mipl_sl_social_media_link');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_mipl_sl_opening_hours', '_mipl_sl_opening_hours_note', '_mipl_sl_address', '_mipl_sl_city', '_mipl_sl_state', '_mipl_sl_country', '_mipl_sl_latitude', '_mipl_sl_longitude', '_mipl_sl_email', '_mipl_sl_telephone', '_mipl_sl_post_code', '_mipl_sl_website', '_mipl_sl_fax', '_mipl_sl_social_media_link');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_mipl_sl_opening_hours', '_mipl_sl_opening_hours_note', '_mipl_sl_address', '_mipl_sl_city', '_mipl_sl_state', '_mipl_sl_country', '_mipl_sl_latitude', '_mipl_sl_longitude', '_mipl_sl_email', '_mipl_sl_telephone', '_mipl_sl_post_code', '_mipl_sl_website', '_mipl_sl_fax', '_mipl_sl_social_media_link');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_mipl_sl_opening_hours', '_mipl_sl_opening_hours_note', '_mipl_sl_address', '_mipl_sl_city', '_mipl_sl_state', '_mipl_sl_country', '_mipl_sl_latitude', '_mipl_sl_longitude', '_mipl_sl_email', '_mipl_sl_telephone', '_mipl_sl_post_code', '_mipl_sl_website', '_mipl_sl_fax', '_mipl_sl_social_media_link');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_mipl_sl_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_mipl_sl_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_mipl_sl_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_mipl_sl_%';
+

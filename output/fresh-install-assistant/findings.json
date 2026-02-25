@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "fresh_install_assistant_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "metaboxhidden_dashboard",
+    "show_welcome_panel"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:55.017Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "aftersalesprogr_api_token",
+    "woocommerce_version",
+    "woocommerce_Aftersalespro_ShippingMethod_settings",
+    "aftersalesprogr_trackingwidget_status",
+    "aftersalesprogr_trackingwidget_uuid",
+    "aftersalesprogr_order_data_mapper",
+    "aftersalesprogr_product_mapper",
+    "woocommerce_custom_orders_table_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acs_pp_point"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:53.195Z"
+}

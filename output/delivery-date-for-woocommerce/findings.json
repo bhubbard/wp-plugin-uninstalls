@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ddfw_delivery_options_group",
+    "ddfw_enable_delivery",
+    "ddfw_required_delivery",
+    "ddfw_disable_virtual",
+    "ddfw_delivery_error_msg",
+    "ddfw_delivery_date_title",
+    "ddfw_delivery_date_email_title",
+    "ddfw_delivery_date_option_title",
+    "ddfw_disable_x_days",
+    "ddfw_specific_day",
+    "ddfw_disable_monday",
+    "ddfw_disable_tuesday",
+    "ddfw_disable_wednesday",
+    "ddfw_disable_thursday",
+    "ddfw_disable_friday",
+    "ddfw_disable_saturday",
+    "ddfw_disable_sunday"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ddfw_delivery_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:08.143Z"
+}

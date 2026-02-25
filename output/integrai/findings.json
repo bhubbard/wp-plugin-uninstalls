@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_integrai-settings_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "integrai_cron_resend_events",
+    "integrai_cron_abandoned_cart",
+    "integrai_cron_proccess_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method",
+    "_integrai_transaction_data",
+    "payment_response",
+    "marketplace",
+    "payments"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:44.513Z"
+}

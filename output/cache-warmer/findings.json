@@ -1,0 +1,26 @@
+{
+  "options": [
+    "cache-warmer-updating",
+    "cache-warmer-setting-external-warmer-license-key*",
+    "cache-warmer-setting-external-warmer-key-validation-endpoint-last-response-code*",
+    "cache-warmer-setting-external-warmer-key-validation-endpoint-last-response-body*",
+    "cache-warmer-setting-external-warmer-servers-to-use*",
+    "cache-warmer-setting-external-warmer-interval*",
+    "cache-warmer-last-delete-external-warmer-logs",
+    "cache-warmer-intervals-scheduling-post-activation-handled",
+    "cache-warmer-setting-user-agent",
+    "cache-warmer-setting-user-agents",
+    "cache-warmer-setting-for-how-many-days-to-keep-the-logs",
+    "cache-warmer-setting-depth"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:20.827Z"
+}

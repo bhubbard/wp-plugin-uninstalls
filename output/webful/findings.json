@@ -1,0 +1,26 @@
+{
+  "options": [
+    "webful_show_consent_notice",
+    "webful_gdpr_consent",
+    "webful_show_badge",
+    "webful_tracking_enabled",
+    "webful_check_quota",
+    "webful_exclude_admins",
+    "webful_excluded_pages",
+    "webful_gdpr_consent_date",
+    "webful_site_id",
+    "webful_api_key",
+    "webful_site_url",
+    "webful_user_email",
+    "webful_version",
+    "webful_activated_at"
+  ],
+  "transients": [
+    "webful_quota_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:37.902Z"
+}

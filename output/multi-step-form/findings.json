@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "msf_cron_upload_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:20.061Z"
+}

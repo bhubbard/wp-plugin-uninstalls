@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*notification",
+    "*email_subscriber",
+    "*active_campaign_api_key",
+    "*active_campaign_access_url",
+    "*const_cont_api_key",
+    "*cons_cont_access_token",
+    "*mailchimp_api_key",
+    "*mailchimp_list_id",
+    "adn_email_sub_enable",
+    "*mailchimp_list_id_append",
+    "*const_cont_list_id_append",
+    "*const_cont_list_id",
+    "*active_campaign_list_id_append",
+    "*activecampaign_list_id",
+    "*advanced_newsletter_wp_color_val",
+    "adn_mail_setting",
+    "*advanced_newsletter_cookie_time",
+    "*advanced_newsletter_wp_popup_animation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:22.336Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "blue-billywig-api-secret",
+    "blue-billywig-api-id",
+    "blue-billywig-publication",
+    "blue-billywig-playout",
+    "blue-billywig-playout-video-status",
+    "blue-billywig-embed",
+    "blue-billywig-page-count",
+    "bb_get_playout_list",
+    "blue-billywig-m-status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:47.007Z"
+}

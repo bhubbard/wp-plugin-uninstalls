@@ -1,0 +1,18 @@
+{
+  "options": [
+    "unclickable_options_hook",
+    "unclickable_options_select",
+    "unclickable_options_thumbnail",
+    "unclickable_options_selector",
+    "unclickable_options_all",
+    "unclickable_options_link",
+    "unclickable_options_img",
+    "unclickable_options_background"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:50.441Z"
+}

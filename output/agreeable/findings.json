@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ag_login",
+    "ag_register",
+    "ag_fail",
+    "ag_remember",
+    "ag_termm",
+    "ag_url",
+    "ag_comments",
+    "ag_lightbox",
+    "ag_colors",
+    "bp-pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:27.093Z"
+}

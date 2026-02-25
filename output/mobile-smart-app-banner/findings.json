@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mobile_smart_app_banner_review_notice_dismissed",
+    "mobile_smart_app_banner_user_already_reviewed",
+    "mobile_smart_app_banner_user_needs_help",
+    "mobile_smart_app_banner_activation_date",
+    "mobile_smart_app_banner_notice_dismiss_count",
+    "mobile_smart_app_banner_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:46.425Z"
+}

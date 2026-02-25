@@ -1,0 +1,14 @@
+{
+  "options": [
+    "finteza_settings",
+    "finteza_register"
+  ],
+  "transients": [
+    "vpt_flush"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:13.395Z"
+}

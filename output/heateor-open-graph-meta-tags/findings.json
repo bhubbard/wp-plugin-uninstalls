@@ -1,0 +1,17 @@
+{
+  "options": [
+    "heateor_ogmt",
+    "heateor_ogmt_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_heateor_ogmt_meta",
+    "heateor_ogmt_author_facebook",
+    "heateor_ogmt_author_googleplus",
+    "heateor_ogmt_author_twitter"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:45.667Z"
+}

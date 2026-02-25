@@ -1,0 +1,39 @@
+{
+  "options": [
+    "*_notice_type",
+    "*_notice_msg",
+    "*_rate_us",
+    "*_activation_time",
+    "*_rev_notice_hide",
+    "*_rev_notice_show",
+    "*_version",
+    "*_is_multisite",
+    "*_auth_code",
+    "*_revupd_cron",
+    "*_debug_mode",
+    "*_active",
+    "*_google_api_key",
+    "*_demand_assets",
+    "*_inlinecss_off",
+    "*_widget",
+    "*_last_error",
+    "*_minified_assets",
+    "*_yelp_api_key",
+    "*_do_activation",
+    "*_revupd_cron_timeout",
+    "*_feed_ids",
+    "*_revupd_cron_log",
+    "grw_save_log",
+    "grw_last_error"
+  ],
+  "transients": [
+    "*_reviews"
+  ],
+  "cron_jobs": [
+    "*_revupd_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:39.292Z"
+}

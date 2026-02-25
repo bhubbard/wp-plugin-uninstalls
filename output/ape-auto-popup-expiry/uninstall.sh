@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'myoption'
+wp option delete 'popup_window_width'
+wp option delete 'popup_window_height'
+wp option delete 'popup_window_date'
+wp option delete 'popup_window_image'
+wp option delete 'popup_window_fadeout'
+wp option delete 'popup_window_link'
+wp option delete 'popup_window_target'
+wp option delete 'popup_window_color'
+wp option delete 'popup_window_radius'
+wp option delete 'popup_window_border_w'
+wp option delete 'notification_text'
+wp option delete 'notification_width'
+wp option delete 'notification_height'
+wp option delete 'notification_date'
+wp option delete 'notification_fadeout'
+wp option delete 'notification_bkg_color'
+wp option delete 'notification_font_color'
+wp option delete 'notification_radius'
+wp option delete 'notification_margin'
+wp option delete 'notification_close_color'
+wp option delete 'notification_position_top'
+wp option delete 'notification_position_right'
+wp option delete 'notification_position_left'
+wp option delete 'notification_position_bottom'
+wp option delete 'myselect'
+wp option delete 'myselectout'
+

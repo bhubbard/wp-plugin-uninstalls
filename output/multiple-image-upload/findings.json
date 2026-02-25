@@ -1,0 +1,14 @@
+{
+  "options": [
+    "miusettings",
+    "miu_return_value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "image_attachment_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:08.635Z"
+}

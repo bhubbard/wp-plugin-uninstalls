@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_mail_logging_activated_time",
+    "wp_mail_logging_user_feedback_notice",
+    "wp_mail_logging_db_version",
+    "wpml_settings",
+    "wp_mail_smtp_source",
+    "wp_mail_smtp_activation_prevent_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:42.292Z"
+}

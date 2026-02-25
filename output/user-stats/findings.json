@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_user-stats--options",
+    "user_stats_nag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_statz_count",
+    "asz_dollar_per_article",
+    "asz_dollar_per_thousand"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:33.820Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "email-log-core",
+    "email-log-db",
+    "el_mask_fields",
+    "el_bundle_license"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:36.261Z"
+}

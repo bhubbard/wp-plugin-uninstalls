@@ -1,0 +1,14 @@
+{
+  "options": [
+    "usa_import_timestamp",
+    "usa_import_dir_path"
+  ],
+  "transients": [
+    "usa_import_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:37.927Z"
+}

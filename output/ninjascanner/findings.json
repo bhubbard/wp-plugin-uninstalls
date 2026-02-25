@@ -1,0 +1,19 @@
+{
+  "options": [
+    "nscan_options"
+  ],
+  "transients": [
+    "doing_cron",
+    "nscan_ajax_start",
+    "nscan_temp_sigs"
+  ],
+  "cron_jobs": [
+    "wp_ajax_nopriv_nscan_fork",
+    "nscan_garbage_collector",
+    "nscan_scheduled_scan"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:50.048Z"
+}

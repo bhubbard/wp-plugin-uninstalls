@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wppc_reset_notice_box",
+    "wppc_database_setup_done",
+    "wppc_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:02.287Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_secure_token_id",
+    "_secure_token",
+    "_order_key",
+    "_edd_payment_date",
+    "_edd_payment_fees",
+    "_edd_payment_meta",
+    "_edd_payment_total",
+    "_edd_payment_tax",
+    "_edd_payment_user_email",
+    "_edd_completed_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:31.160Z"
+}

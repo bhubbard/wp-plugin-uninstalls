@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wordpress_api_key",
+    "akismet_spam_count",
+    "bigcommerce_flushed_rewrites",
+    "active_sitewide_plugins",
+    "schema-*"
+  ],
+  "transients": [
+    "bigcommerce_time_offset",
+    "bigcommerce_activation_redirect",
+    "settings_errors",
+    "bigcommerce_store_url",
+    "generation*"
+  ],
+  "cron_jobs": [
+    "bigcommerce/sync_global_logins",
+    "bigcommerce/routes/cron/update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bigcommerce_id",
+    "_wp_attachment_image_alt",
+    "_thumbnail_id",
+    "sort_order",
+    "is_visible",
+    "thumbnail_id",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:21.222Z"
+}

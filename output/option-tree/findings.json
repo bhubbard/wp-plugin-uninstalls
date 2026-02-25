@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ot_css_file_paths"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_format_link_url",
+    "_format_quote_source_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:35.261Z"
+}

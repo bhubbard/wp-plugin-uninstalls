@@ -1,0 +1,15 @@
+{
+  "options": [
+    "uptime_robot_nh_api",
+    "urpro_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "urpro_schedule_clear_cache",
+    "urpro_clear_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:09.289Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "eideasy_test_mode",
+    "eideasy_client_id",
+    "eideasy_secret",
+    "eideasy_provider_signatures_enabled",
+    "eideasy_signature_redirect",
+    "eideasy_notify_email_subject",
+    "eideasy_notify_email_content",
+    "eideasy_notify_email_sender",
+    "eideasy_pending_provider_signatures",
+    "eideasy_provider_signatures_notify",
+    "eideasy_pending_provider_lock",
+    "eideasy_no_emails",
+    "eideasy_no_download",
+    "eideasy_signing_state_*",
+    "eideasy_notify_email_address",
+    "eideasy_include_doc_with_notify_email",
+    "eideasy_skip_signing_flag",
+    "eideasy_signing_url_*",
+    "eideasy_cf7_user_email_field",
+    "eideasy_cf7_signed_forms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:38.863Z"
+}

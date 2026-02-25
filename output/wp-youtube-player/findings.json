@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wptube_width",
+    "wptube_height",
+    "wptube_method",
+    "wptube_player_version",
+    "wptube_showinfo",
+    "wptube_autoplay",
+    "wptube_theme",
+    "wptube_fs",
+    "wptube_rel",
+    "wptube_iv_load_policy",
+    "wptube_cc_load_policy",
+    "wptube_hd",
+    "wptube_showsearch",
+    "wptube_modestbranding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:38.783Z"
+}

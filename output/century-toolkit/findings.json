@@ -1,0 +1,25 @@
+{
+  "options": [
+    "century_toolkit_plugin_do_activation_redirect",
+    "century_toolkit_version",
+    "century_toolkit_file_download_method",
+    "century_toolkit_upload_dir_created",
+    "widget_*",
+    "sidebars_widgets",
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes",
+    "elementor_container_width"
+  ],
+  "transients": [
+    "century_toolkit_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_*",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:59.793Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "MENSAGIA_LOGIN_EMAIL",
+    "MENSAGIA_LOGIN_PASSWORD",
+    "MENSAGIA_AUTHENTICATED",
+    "MENSAGIA_PREFIX_MODE",
+    "MENSAGIA_API_CONFIGURATION",
+    "mensagiasms_jal_db_version",
+    "MensagiaWPAdminNotices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:09.175Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "chat_link_enabled",
+    "chat_link_number",
+    "chat_link_side",
+    "chat_link_size",
+    "chat_link_margin_side",
+    "chat_link_margin_bottom",
+    "chat_link_custom_message",
+    "chat_link_custom_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:39.092Z"
+}

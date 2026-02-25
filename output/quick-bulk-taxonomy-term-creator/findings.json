@@ -1,0 +1,13 @@
+{
+  "options": [
+    "qbttc_terms",
+    "qbttc_hierarchy_indent_character",
+    "qbttc_taxonomy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:48.276Z"
+}

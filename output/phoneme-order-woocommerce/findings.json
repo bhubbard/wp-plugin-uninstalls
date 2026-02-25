@@ -1,0 +1,14 @@
+{
+  "options": [
+    "phoneme_order_woocommerce_title_1",
+    "phoneme_order_woocommerce_title_2",
+    "phoneme_order_woocommerce_hint_text",
+    "phoneme_order_woocommerce_outofstock"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:57.143Z"
+}

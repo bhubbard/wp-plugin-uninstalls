@@ -1,0 +1,14 @@
+{
+  "options": [
+    "hyvor_talk_website_id",
+    "hyvor_talk_loading_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hyvor_talk_membership_plan"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:35.610Z"
+}

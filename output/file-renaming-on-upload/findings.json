@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "frou_activated_or_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_frou_original_filename",
+    "wpfcs_dashboard_banner_closed_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:07.024Z"
+}

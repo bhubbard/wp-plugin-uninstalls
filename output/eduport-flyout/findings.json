@@ -1,0 +1,14 @@
+{
+  "options": [
+    "eduport_global",
+    "eduport_username"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eduport_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:43.247Z"
+}

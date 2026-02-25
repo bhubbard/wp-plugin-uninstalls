@@ -1,0 +1,41 @@
+{
+  "options": [
+    "pwp_pending_onboarding",
+    "pwp_admin_onboarding_dismissed",
+    "personalizewp_onboarding",
+    "pwp_onboarding",
+    "pwp_admin_notices",
+    "pwp_flash_messages",
+    "personalizewp_editor_role_values",
+    "dxp_newsletter_signup",
+    "pwp_admin_dashboard_message",
+    "pwp_admin_onboarding_message",
+    "_pwp_pro_db",
+    "personalizewp_license_key",
+    "personalizewp_license",
+    "personalizewp_license_status",
+    "personalisewp_license_notice",
+    "pwp_editor_role_values"
+  ],
+  "transients": [
+    "pwp_installing"
+  ],
+  "cron_jobs": [
+    "personalisewp_daily_scheduled_events",
+    "pwp_weekly_scheduled_events",
+    "personalisewp_weekly_scheduled_events",
+    "personalizewp_daily_purge_expired_activity_logs",
+    "personalizewp_daily_purge_expired_anonymous_profiles",
+    "personalizewp_daily_purge_expired_known_profiles",
+    "personalizewp_weekly_scheduled_events",
+    "personalizewp_daily_cleanup_export_files"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_export_contact_ids",
+    "edit_pwp_export_requests_per_page",
+    "pwp_newsletter_signup"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:55.208Z"
+}

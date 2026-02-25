@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_cart_redirect_after_add",
+    "kirki_downloaded_font_files"
+  ],
+  "transients": [
+    "kirki_remote_url_contents",
+    "kirki_googlefonts_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kirki_fa_nag_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:24.353Z"
+}

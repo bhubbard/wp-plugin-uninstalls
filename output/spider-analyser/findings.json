@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*ver",
+    "wb_spider_info",
+    "wb_spider_analyser_ver",
+    "wb_spider_analyser_cnf_*",
+    "wb_spider_analyser_promote",
+    "sp_an_max_id",
+    "sync_wb_spider",
+    "wb_spider_analyser_db_ver"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wp_wb_spider_analyser_cron",
+    "wb_wp_spider_trace_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:54.903Z"
+}

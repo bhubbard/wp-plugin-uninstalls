@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ai_chat_bedrock_enable_mcp",
+    "ai_chat_bedrock_settings",
+    "ai_chat_bedrock_mcp_servers"
+  ],
+  "transients": [
+    "ai_chat_bedrock_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:00.291Z"
+}

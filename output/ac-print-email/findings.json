@@ -1,0 +1,21 @@
+{
+  "options": [
+    "acpe_enable_posts",
+    "acpe_enable_pages",
+    "acpe_enable_category",
+    "acpe_enable_tag",
+    "acpe_position",
+    "acpe_providers",
+    "acpe_icon_style",
+    "acpe_display_mode",
+    "acpe_text_color",
+    "acpe_menu_bg",
+    "acpe_placement"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:50.464Z"
+}

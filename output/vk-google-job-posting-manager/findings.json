@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vgjpm_create_jobpost_posttype",
+    "vgjpm_post_type_display_customfields*",
+    "vkjpm_common_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vkjp_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:31.718Z"
+}

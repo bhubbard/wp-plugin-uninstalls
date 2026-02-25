@@ -1,0 +1,43 @@
+{
+  "options": [
+    "wpseo_titles",
+    "kaf_robots_txt_content",
+    "kaf_sitemap_urls"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "rank_math_title",
+    "_aioseop_title",
+    "_aioseo_title",
+    "_seopress_titles_title",
+    "_genesis_title",
+    "_tsf_title",
+    "_su_title",
+    "_wp_title",
+    "_meta_title",
+    "meta_title",
+    "_title",
+    "seo_title",
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_aioseop_description",
+    "_seopress_titles_desc",
+    "_meta_description",
+    "meta_description",
+    "_aioseo_description",
+    "_genesis_description",
+    "_tsf_description",
+    "_su_description",
+    "_wp_description",
+    "_description",
+    "seo_description",
+    "_wp_attachment_image_alt",
+    "_elementor_edit_mode",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:10.555Z"
+}

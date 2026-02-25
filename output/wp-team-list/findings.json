@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rplus_wp_team_list_visibility",
+    "description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:09.451Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_checkout_page_id",
+    "mailchimp-woocommerce-store_id",
+    "woocommerce_onboarding_profile"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mailchimp_woocommerce_is_subscribed",
+    "first_name",
+    "last_name",
+    "mailchimp_woocommerce_sms_subscribed",
+    "mailchimp_woocommerce_sms_phone",
+    "locale",
+    "mailchimp_woocommerce_sms_consent_subscribed",
+    "mailchimp_woocommerce_marketing_status_updated_at",
+    "_wc_shipment_tracking_items",
+    "wc_connect_labels",
+    "thumbnail_id",
+    "mailchimp_woocommerce_gdpr_fields",
+    "mailchimp_woocommerce_sms_consent_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:55.478Z"
+}

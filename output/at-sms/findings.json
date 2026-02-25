@@ -1,0 +1,14 @@
+{
+  "options": [
+    "at_sms_do_activation_redirect",
+    "at_sms_database_version",
+    "at_sms_contact_groups",
+    "at_sms_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:50.188Z"
+}

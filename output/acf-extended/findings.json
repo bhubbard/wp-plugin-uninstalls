@@ -1,0 +1,21 @@
+{
+  "options": [
+    "acfe_dynamic_block_types",
+    "acfe_dynamic_options_pages",
+    "acfe_dynamic_post_types",
+    "acfe_dynamic_taxonomies",
+    "acfe"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_acf_changed",
+    "_thumbnail_id",
+    "_wp_old_slug",
+    "_*",
+    "acf"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:54.610Z"
+}

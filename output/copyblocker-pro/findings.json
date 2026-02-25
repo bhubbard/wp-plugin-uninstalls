@@ -1,0 +1,18 @@
+{
+  "options": [
+    "copyblocker_pro_disable_selection",
+    "copyblocker_pro_block_copy",
+    "copyblocker_pro_block_select_all",
+    "copyblocker_pro_block_dev_tools",
+    "copyblocker_pro_block_context_menu",
+    "copyblocker_pro_block_screen_capture",
+    "copyblocker_pro_block_print",
+    "copyblocker_pro_block_image_download"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:59.848Z"
+}

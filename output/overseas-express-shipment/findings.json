@@ -1,0 +1,30 @@
+{
+  "options": [
+    "overseas_express_api_key",
+    "overseas_express_sender_name",
+    "overseas_express_sender_country",
+    "overseas_express_sender_zipcode",
+    "overseas_express_sender_city",
+    "overseas_express_sender_street",
+    "overseas_express_sender_telephone",
+    "overseas_express_sender_fax",
+    "overseas_express_sender_gsm",
+    "overseas_express_sender_email",
+    "overseas_express_label_layout_id",
+    "woocommerce_overseas_express_pickup_shipping_settings",
+    "woocommerce_overseas_express_flat_shipping_settings",
+    "woocommerce_price_display_suffix"
+  ],
+  "transients": [
+    "bulk_labels_result_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "overseas_express_shipping_option",
+    "_overseas_shipment_id",
+    "_overseas_cargo_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:08.121Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "weglot_version",
+    "weglot_old_permalink_structure",
+    "woocommerce_myaccount_lost_password_endpoint",
+    "weglot_instawp"
+  ],
+  "transients": [
+    "weglot_php_version_notice",
+    "weglot_cache_cdn",
+    "weglot_idem_*",
+    "weglot_sig_*",
+    "weglot_slugs_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_menu_item_parent",
+    "weglot_language"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:32.358Z"
+}

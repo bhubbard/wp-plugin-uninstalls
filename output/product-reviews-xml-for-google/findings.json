@@ -1,0 +1,23 @@
+{
+  "options": [
+    "prxml_gtin_key",
+    "prxml_mpn_key",
+    "prxml_brand_key",
+    "prxml_feed_slug",
+    "prxml_provider",
+    "prxml_refresh_rate"
+  ],
+  "transients": [
+    "prxml_xml_feed_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_assigned_to",
+    "_rating",
+    "_author",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:33.989Z"
+}

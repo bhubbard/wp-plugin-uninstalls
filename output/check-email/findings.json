@@ -1,0 +1,26 @@
+{
+  "options": [
+    "check-email-smtp-options",
+    "check_email_smtp_status",
+    "check-email-email-encode-options",
+    "checkmail_admin_fcm_token",
+    "check-email-email-notify-options",
+    "check-email-log-global-smtp",
+    "*-options",
+    "check-email-log-core",
+    "check-email-rate-time",
+    "check_email_spam_score_*",
+    "check_email_e_filter_priority",
+    "check-email-log-db"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "check_mail_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:59.729Z"
+}

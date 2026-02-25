@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cookie_guard_enabled', 'cookie_guard_position', 'cookie_guard_banner_style', 'cookie_guard_banner_position', 'cookie_guard_banner_max_width', 'cookie_guard_banner_text', 'cookie_guard_accept_text', 'cookie_guard_reject_text', 'cookie_guard_customize_text', 'cookie_guard_primary_color', 'cookie_guard_text_color', 'cookie_guard_button_color', 'cookie_guard_button_text_color', 'cookie_guard_icon_bg_color', 'cookie_guard_icon_color', 'cookie_guard_version');
+DELETE FROM wp_options WHERE option_name LIKE 'cookie_guard_%';
+

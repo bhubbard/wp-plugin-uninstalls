@@ -1,0 +1,24 @@
+{
+  "options": [
+    "better_analytics",
+    "ba_site_tokens",
+    "ba_tokens",
+    "better_analytics_site",
+    "ba_dashboard_pick"
+  ],
+  "transients": [
+    "ba_int",
+    "ba_last_error",
+    "ba_exp_live",
+    "ba_realtime",
+    "ba_stats_*"
+  ],
+  "cron_jobs": [
+    "better_analytics_cron_minutely",
+    "better_analytics_cron_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:46.545Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dn_cookie_notice_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dn_lang_parent",
+    "notice",
+    "button"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:38.211Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "values",
+    "uvis_default_basemaps",
+    "uvis_basemaps",
+    "uvis_playlist_post_type_name_singular",
+    "uvis_playlist_post_type_name_plural",
+    "uvis_playlist_post_type",
+    "uvis_playlist_post_meta",
+    "uvis_playlist_dropdown_number",
+    "uvis_visualization_post_type",
+    "uvis_visualization_post_type_name_plural",
+    "uvis_playlist_enable_dropdown",
+    "uvis_visualization_post_type_name_singular",
+    "uvis_convert_shortcodes",
+    "uvis_active_modules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uvis_playlist_items",
+    "uvis_module",
+    "uvis_config"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:16.270Z"
+}

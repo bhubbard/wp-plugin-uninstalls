@@ -1,0 +1,13 @@
+{
+  "options": [
+    "embad_status",
+    "embad_pid",
+    "embad_wsid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:09.476Z"
+}

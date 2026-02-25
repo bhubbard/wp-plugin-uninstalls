@@ -1,0 +1,26 @@
+{
+  "options": [
+    "minimum_custom",
+    "maximum_custom",
+    "allowed_custom",
+    "fgw_combo_custom",
+    "fgw_gift_multiple_custom",
+    "minimum_price",
+    "maximum_price",
+    "allowed_price",
+    "fgw_gift_multiple_price",
+    "minimum_category",
+    "maximum_category",
+    "allowed_category",
+    "fgw_select_cats_category",
+    "fgw_gift_multiple_category"
+  ],
+  "transients": [
+    "*fgwerror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:13.013Z"
+}

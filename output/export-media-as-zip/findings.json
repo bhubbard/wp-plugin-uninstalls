@@ -1,0 +1,17 @@
+{
+  "options": [
+    "emaz_total_files",
+    "emaz_processed_files",
+    "emaz_progress",
+    "emaz_current_file",
+    "emaz_zip_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "emaz_cleanup_expired_zips"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:34.949Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ponticlaro_image_path",
+    "ponticlaro_image_attribs",
+    "ponticlaro_image_vals",
+    "ponticlaro_image_val_custom",
+    "ponticlaro_media_options",
+    "ponticlaro_image_path_saved"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:42.155Z"
+}

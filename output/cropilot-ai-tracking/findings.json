@@ -1,0 +1,26 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "cropilot_access_token",
+    "cropilot_refresh_token",
+    "cropilot_woocommerce_enabled",
+    "cropilot_debug_mode",
+    "cropilot_consent_mode",
+    "woocommerce_enable_ajax_add_to_cart",
+    "cropilot_client_id",
+    "cropilot_health_etag",
+    "cropilot_health_data_cache",
+    "cropilot_woocommerce_registered"
+  ],
+  "transients": [
+    "cropilot_scan_task_id"
+  ],
+  "cron_jobs": [
+    "cropilot_retry_failed_conversions",
+    "cropilot_run_health_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:57.984Z"
+}

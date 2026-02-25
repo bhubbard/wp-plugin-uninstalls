@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_rates",
+    "*_minimalistic",
+    "*_minimalistic_ver2",
+    "*_table"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:10.717Z"
+}

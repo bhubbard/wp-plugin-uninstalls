@@ -1,0 +1,19 @@
+{
+  "options": [
+    "CWWYA_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user",
+    "id_CWWYA",
+    "img",
+    "gallery_image*",
+    "attribute_*",
+    "variations_CWWYA",
+    "variations_aveonline"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:42.895Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "lfaf_expiration_date",
+    "lfaf_included_post_types",
+    "lfaf_clear_ignored",
+    "wp_archive_updater_ignored",
+    "Y-m-d"
+  ],
+  "transients": [
+    "wp_archive_updater_todays_page"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:30.135Z"
+}

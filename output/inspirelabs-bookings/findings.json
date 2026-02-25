@@ -1,0 +1,20 @@
+{
+  "options": [
+    "inspirelabs_bookings_db",
+    "inspirelabs_bookings_short_booking",
+    "inspirelabs_bookings_advance",
+    "*_is_registered"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_booking_*",
+    "booking_price_list_*",
+    "ilabs_booking_fees",
+    "ilabs_bookings_24h_mode",
+    "_booking_advance_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:51.087Z"
+}

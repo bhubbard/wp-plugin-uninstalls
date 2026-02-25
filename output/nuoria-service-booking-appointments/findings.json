@@ -1,0 +1,18 @@
+{
+  "options": [
+    "Nuoria_Service_Booking_Appointments_settings",
+    "Nuoria_Service_Booking_Appointments_db_version",
+    "Nuoria_Service_Booking_Appointments_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "Nuoria_Service_Booking_Appointments_send_reminders",
+    "Nuoria_Service_Booking_Appointments_cleanup_old_bookings"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:21.401Z"
+}

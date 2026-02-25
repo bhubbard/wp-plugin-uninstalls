@@ -1,0 +1,29 @@
+{
+  "options": [
+    "facebook_page",
+    "twitter_page",
+    "instagram_page",
+    "youtube_page",
+    "vimeo_page",
+    "rss_page"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "run_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*id",
+    "*link",
+    "*date_added",
+    "*date_created",
+    "*picture",
+    "*author",
+    "*video_id",
+    "sa_picture",
+    "sa_link",
+    "sa_author"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:08.585Z"
+}

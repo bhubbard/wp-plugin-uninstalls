@@ -1,0 +1,33 @@
+{
+  "options": [
+    "TIEexpire_pub",
+    "TIEexpire_catsradio",
+    "TIEtools_notify_poster",
+    "TIEtools_notify_admin",
+    "TIEtools_notify_other",
+    "TIEexpire_draft",
+    "TIEexpire_pending",
+    "TIEexpire_private",
+    "TIEtools_notify_email",
+    "TIEexpire_catsin",
+    "TIEexpire_catsout",
+    "TIEexpire_catsdays",
+    "TIEexpire_catsposts",
+    "TIEexpire_catsviews",
+    "TIEexpire_catslikes",
+    "TIEexpire_days",
+    "TIEexpire_posts",
+    "TIEexpire_viewdays",
+    "TIEexpire_views",
+    "TIEexpire_likedays",
+    "TIEexpire_likes"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "my_expiry_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:29.815Z"
+}

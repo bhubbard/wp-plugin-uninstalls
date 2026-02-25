@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wctym_custom_message",
+    "wctym_message_position",
+    "wctym_bg_color",
+    "wctym_text_color",
+    "wctym_border_radius"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:00.404Z"
+}

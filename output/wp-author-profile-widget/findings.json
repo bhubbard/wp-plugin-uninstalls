@@ -1,0 +1,19 @@
+{
+  "options": [
+    "read_more_color",
+    "wpauthor_social_color",
+    "wpauthor_text_font_size",
+    "wpauthor_social_font_size",
+    "wpauthor_social_top_margin",
+    "wpauthor_designation",
+    "wpauthor_title",
+    "wpauthor_bio",
+    "wpauthor_label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:42.981Z"
+}

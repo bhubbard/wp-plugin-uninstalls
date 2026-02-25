@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tpt_website",
+    "tpt_instagram",
+    "tpt_facebook",
+    "tpt_twitter",
+    "tpt_linkedin",
+    "tpt_youtube",
+    "tpt_behance",
+    "tpt_deviantart",
+    "gallery_data",
+    "tpt_tattooya",
+    "tpt_xarcoal"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:37.646Z"
+}

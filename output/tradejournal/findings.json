@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tradejournal_merge_accounts",
+    "tradejournal_merge_time_tolerance",
+    "tradejournal_merge_round_to_minute",
+    "tradejournal_instrument_multipliers",
+    "tradejournal_setups"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "trade_repeater"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:08.119Z"
+}

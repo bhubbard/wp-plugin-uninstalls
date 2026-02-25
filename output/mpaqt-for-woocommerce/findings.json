@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_mpaqt_eauth_value",
+    "woocommerce_mpaqt_remote_url",
+    "mpaqt_consumer_key",
+    "mpaqt_consumer_secret"
+  ],
+  "transients": [
+    "mpaqt_api_key_generated",
+    "mpaqt_api_key_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:48.568Z"
+}

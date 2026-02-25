@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_first_name",
+    "_billing_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:14.691Z"
+}

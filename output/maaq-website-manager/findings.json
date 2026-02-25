@@ -1,0 +1,23 @@
+{
+  "options": [
+    "maaq_secret_token",
+    "maaq_secret_path",
+    "maaq_sso_user_id",
+    "maaq_do_on_activation_redirect",
+    "maaq_sync_saved_updates_json"
+  ],
+  "transients": [
+    "maaq__sso_token_*",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:22.428Z"
+}

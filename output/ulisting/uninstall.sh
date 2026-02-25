@@ -1,0 +1,241 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'stm_ulisting_feedback_added'
+wp option delete 'stm_listing_type_created'
+wp option delete 'google_api_key'
+wp option delete 'fs_accounts'
+wp option delete 'ulisting_listing_cron_time'
+wp option delete 'stm_listing_pages'
+wp option delete 'ulisting_import_file_data'
+wp option delete 'stm_currency_page'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'inventory_layout_image_%'"
+wp option delete 'gallery_store'
+wp option delete 'ulisting_feature_limit'
+wp option delete 'ulisting_category_limit'
+wp option delete 'uListing-email-store'
+wp option delete 'ulisting_social_networks'
+wp option delete 'allow_delete_listings'
+wp option delete 'ulisting_back_slots'
+wp option delete 'ulisting_remove_tables'
+wp option delete 'ulisting_default_placeholder'
+wp option delete 'ulisting_email_logo'
+wp option delete 'ulisting_email_banner'
+wp option delete 'ulisting_social_settings'
+wp option delete 'ulisting_email_socials'
+wp option delete 'ulisting-version'
+wp option delete 'ulisting-db-version'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_image'"
+wp option delete 'ulisting_saved_searches'
+wp option delete 'ulisting-saved-searches-install'
+wp option delete 'uListing_inserted_blog'
+wp option delete 'ulisting_demo_import_redirect'
+wp option delete 'ulisting_installed'
+wp option delete 'ulisting_canceled'
+wp option delete 'stm_current_map_type'
+wp option delete 'listing-region_children'
+wp option delete 'stm_current_map_api_key'
+wp option delete 'listing-category_children'
+
+# Delete Transients
+wp transient delete 'stm_ulisting_single_notice_setting'
+wp transient delete 'ulisting_region_list_short_code'
+wp transient delete 'stm_ulisting_notice_setting'
+
+# Clear Cron Jobs
+wp cron event delete 'stm_listing_cron'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_order'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_order'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_order'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_order'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_region_polygon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_region_polygon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_region_polygon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_region_polygon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_user_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_user_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_user_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_user_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_type_subnit_form'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_type_subnit_form'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_type_subnit_form'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_type_subnit_form'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing_type_attribute'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing_type_attribute'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing_type_attribute'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing_type_attribute'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_listing_compare_attribute'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_listing_compare_attribute'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_listing_compare_attribute'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_listing_compare_attribute'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_quick_view_attribute'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_quick_view_attribute'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_quick_view_attribute'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_quick_view_attribute'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_uListing_listing_search_category'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_uListing_listing_search_category'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_uListing_listing_search_category'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_uListing_listing_search_category'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_item_card_list'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_item_card_list'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_item_card_list'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_item_card_list'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_item_card_grid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_item_card_grid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_item_card_grid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_item_card_grid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_item_card_map'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_item_card_map'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_item_card_map'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_item_card_map'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing_type_layout'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing_type_layout'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing_type_layout'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing_type_layout'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_publish_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_publish_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_publish_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_publish_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_first_publish'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_first_publish'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_first_publish'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_first_publish'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_publish_notification'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_publish_notification'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_publish_notification'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_publish_notification'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_feature_image_cache'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_feature_image_cache'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_feature_image_cache'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_feature_image_cache'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'agency_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'agency_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'agency_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'agency_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_feature_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_feature_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_feature_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_feature_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing_post_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing_post_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing_post_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing_post_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing-attribute-options-icon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing-attribute-options-icon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing-attribute-options-icon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing-attribute-options-icon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing-attribute-options-thumbnail'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing-attribute-options-thumbnail'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing-attribute-options-thumbnail'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing-attribute-options-thumbnail'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_category_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_category_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_category_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_category_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'stm_listing_item_card_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'stm_listing_item_card_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'stm_listing_item_card_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'stm_listing_item_card_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing-region-icon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing-region-icon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing-region-icon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing-region-icon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing-region-thumbnail'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing-region-thumbnail'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing-region-thumbnail'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing-region-thumbnail'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_region_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_region_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_region_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_region_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting-region-static-map'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting-region-static-map'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting-region-static-map'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting-region-static-map'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_region_static_map'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_region_static_map'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_region_static_map'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_region_static_map'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_single_layout'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_single_layout'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_single_layout'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_single_layout'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'uListing_quick_view_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'uListing_quick_view_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'uListing_quick_view_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'uListing_quick_view_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'uListing_similar_listing_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'uListing_similar_listing_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'uListing_similar_listing_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'uListing_similar_listing_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_listing_similar_attribute'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_listing_similar_attribute'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_listing_similar_attribute'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_listing_similar_attribute'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_type_submit_form_col'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_type_submit_form_col'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_type_submit_form_col'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_type_submit_form_col'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_type_attribute_require'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_type_attribute_require'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_type_attribute_require'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_type_attribute_require'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'use_search_form_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'use_search_form_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'use_search_form_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'use_search_form_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stm_listing_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stm_listing_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stm_listing_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stm_listing_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing_limit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing_limit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing_limit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing_limit'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'feature_limit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'feature_limit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'feature_limit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'feature_limit'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ulisting_wishlist'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ulisting_wishlist'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ulisting_wishlist'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ulisting_wishlist'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'uListing_user_has_to_be_activated'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'uListing_user_has_to_be_activated'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'uListing_user_has_to_be_activated'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'uListing_user_has_to_be_activated'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'verified'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'verified'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'verified'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'verified'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'stm_paypal_plan_id_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'stm_paypal_plan_id_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'stm_paypal_plan_id_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'stm_paypal_plan_id_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'duration_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'duration_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'duration_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'duration_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stripe_customer'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stripe_customer'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stripe_customer'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stripe_customer'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'stm_stripe_plan_id_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'stm_stripe_plan_id_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'stm_stripe_plan_id_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'stm_stripe_plan_id_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'listing_image_limit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'listing_image_limit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'listing_image_limit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'listing_image_limit'"

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "scdc_notifier_enabled",
+    "scdc_api_key",
+    "scdc_webhook_url",
+    "scdc_embed_color",
+    "scdc_show_detailed_order_info",
+    "scdc_discord_public_key",
+    "scdc_bot_token",
+    "scdc_channel_id",
+    "scdc_status_management_enabled",
+    "scdc_thread_enabled",
+    "scdc_custom_webhook_enabled",
+    "scdc_custom_webhook_path",
+    "scdc_transient_duration",
+    "scdc_do_redirect",
+    "syncpa_scdc_pro_license_status"
+  ],
+  "transients": [
+    "scdc_last_event_*"
+  ],
+  "cron_jobs": [
+    "scdc_evt_cleanup",
+    "scdc_delayed_webhooks_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:07.290Z"
+}

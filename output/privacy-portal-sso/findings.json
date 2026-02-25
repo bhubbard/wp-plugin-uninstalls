@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pp-sso-state--*",
+    "pp-sso-plugin-version"
+  ],
+  "transients": [
+    "pp-sso-state--*"
+  ],
+  "cron_jobs": [
+    "pp-sso-cron-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pp-sso-last-token-response",
+    "pp-sso-last-id-token-claim",
+    "pp-sso-last-user-claim",
+    "pp-sso-subject-identity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:28.695Z"
+}

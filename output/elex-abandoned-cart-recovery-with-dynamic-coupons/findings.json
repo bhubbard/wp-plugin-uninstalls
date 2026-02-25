@@ -1,0 +1,31 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "ab_cart_tables_exist",
+    "elex_abandoned_cart_email_rules",
+    "elex_abandoned_cart_email_setup",
+    "woocommerce_elex_ab_cart_settings",
+    "elex_ac_restriction_settings",
+    "elex_ab_temp_data",
+    "eh_ab_log_settings",
+    "elex_email_default_templates",
+    "elex_default_rule",
+    "elex_default_trigger",
+    "elex_shopowner_email_default_template",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "elex_ab_email_crawler"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:48.497Z"
+}

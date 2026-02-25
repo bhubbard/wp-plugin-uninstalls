@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pta-url-base",
+    "pta-use-rewrite-slug",
+    "pta-title",
+    "pta-template-pattern",
+    "pta-fallback-template",
+    "pta-enable-feed-links",
+    "pta-enabled-post-type-archives",
+    "pta-enabled-post-type-customisations"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:10.958Z"
+}

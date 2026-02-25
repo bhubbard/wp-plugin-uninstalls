@@ -1,0 +1,14 @@
+{
+  "options": [
+    "imagecare_lmt_w",
+    "imagecare_lmt_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:30.743Z"
+}

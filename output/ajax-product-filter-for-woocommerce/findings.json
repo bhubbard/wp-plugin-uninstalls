@@ -1,0 +1,16 @@
+{
+  "options": [
+    "phoe_Ajax_Product_Filter_value",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:36.418Z"
+}

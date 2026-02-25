@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fusion_retailers_imported",
+    "fusion_states_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fusion_states",
+    "fusion_retailer_website"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:04.911Z"
+}

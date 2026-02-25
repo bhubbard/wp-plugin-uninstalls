@@ -1,0 +1,23 @@
+{
+  "options": [
+    "tx_rupture",
+    "tx_faible",
+    "tx_ok",
+    "qt_faible",
+    "icon_woo_stock_1",
+    "woocommerce_stock_format",
+    "woo-icon-stock-custom",
+    "upload_icon_stock",
+    "upload_icon_stock_faible",
+    "upload_icon_stock_ok"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_icon_enabled",
+    "woo_icon_stock_seuil"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:48.261Z"
+}

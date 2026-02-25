@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ajc_async_js",
+    "ajc_async_css",
+    "ajc_detect_scripts_in_wp_head",
+    "ajc_detect_scripts_in_wp_foot",
+    "ajc_css_loading_method",
+    "ajc_css_minify",
+    "ajc_remove_GET_part",
+    "ajc_exceptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:57.601Z"
+}

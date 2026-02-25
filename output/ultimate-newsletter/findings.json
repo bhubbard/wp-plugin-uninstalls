@@ -1,0 +1,39 @@
+{
+  "options": [
+    "un_cron_queue",
+    "un_general_settings",
+    "un_email_throttling_settings",
+    "un_email_settings",
+    "un_email_smtp_settings",
+    "un_signup_confirmation_settings",
+    "un_subscriber_wp_users",
+    "un_version",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "un_subscribers_admin_notice",
+    "un_subscribers_update"
+  ],
+  "cron_jobs": [
+    "un_cron_send_newsletters"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "status",
+    "template",
+    "from_name",
+    "from_email",
+    "reply_to_name",
+    "reply_to_email",
+    "sent",
+    "opened",
+    "clicked",
+    "email",
+    "newsletters_received",
+    "user_id",
+    "token",
+    "un_subscriber_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:04.685Z"
+}

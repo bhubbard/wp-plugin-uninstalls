@@ -1,0 +1,48 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "lswss_version"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*gallery_id",
+    "*display_type",
+    "*sett",
+    "*design_style",
+    "_wp_attachment_image_alt",
+    "*attachment_link",
+    "*show_title",
+    "*show_description",
+    "*logo_grid",
+    "*ipad",
+    "*tablet",
+    "*mobile",
+    "*slide_to_show_carousel",
+    "*slide_to_column_carousel",
+    "*arrow_carousel",
+    "*pagination_carousel",
+    "*autoplay_carousel",
+    "*autoplay_speed_carousel",
+    "*speed_carousel",
+    "*loop_carousel",
+    "*centermode_carousel",
+    "*space_between_carousel",
+    "*new_tab"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:04.630Z"
+}

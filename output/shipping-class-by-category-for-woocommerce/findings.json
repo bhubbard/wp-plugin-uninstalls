@@ -1,0 +1,15 @@
+{
+  "options": [
+    "scbcfw_shipping_class_column"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "scbcfw_cleanup_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "scbcfw_shipping_class"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:58.380Z"
+}

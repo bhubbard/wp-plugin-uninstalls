@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aaww_active', 'aaww_dcsid', 'aaww_plugin_facebook_active', 'aaww_plugin_facebook_domain', 'aaww_plugin_gplus_active', 'aaww_plugin_gplus_domain', 'aaww_plugin_heatmaps_active', 'aaww_plugin_heatmaps_domain', 'aaww_plugin_replicate_active', 'aaww_plugin_replicate_domain', 'aaww_plugin_twitter_active', 'aaww_plugin_twitter_domain', 'aaww_plugin_youtube_active', 'aaww_plugin_youtube_domain', 'aaww_dcdomain', 'aaww_time_zone', 'aaww_time_zone_name', 'aaww_i18n', 'aaww_adimpressions', 'aaww_adsparam', 'aaww_offsite', 'aaww_download', 'aaww_downloadtypes', 'aaww_anchor', 'aaww_javascript', 'aaww_cookieexpires', 'aaww_onsitedoms', 'aaww_fpcdom', 'aaww_session_tracking');
+

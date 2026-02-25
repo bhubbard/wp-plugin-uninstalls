@@ -1,0 +1,20 @@
+{
+  "options": [
+    "OPTIONS",
+    "use_style_where",
+    "use_style_where2",
+    "gwi_sub",
+    "gwi_font",
+    "gwi_sl1",
+    "gwi_prvw",
+    "gwi_my_font",
+    "gwi_own",
+    "gwi_own_font"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:12.517Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "raise_donors_settings_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "raise_donors_data",
+    "raise_donors_format_*",
+    "raise_donors_format_full",
+    "raise_donors_format_form",
+    "raise_donors_campaign_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:21.313Z"
+}

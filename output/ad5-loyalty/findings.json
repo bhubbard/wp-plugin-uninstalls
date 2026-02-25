@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ad5_loyalty_setting",
+    "ad5_loyalty_default_content_guest",
+    "ad5_loyalty_default_content_user"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ad5_loyalty_content_guest",
+    "ad5_loyalty_content_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:58.869Z"
+}

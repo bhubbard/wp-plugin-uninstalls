@@ -1,0 +1,26 @@
+{
+  "options": [
+    "llmstxtaigen_openrouter_api_key",
+    "llmstxtaigen_enable_batch_processing",
+    "llmstxtaigen_ai_batch_size",
+    "llms_openrouter_api_key",
+    "llmstxtaigen_enable_ai_descriptions",
+    "llmstxtaigen_saved_options",
+    "llmstxtaigen_content_language",
+    "llms_enable_batch_processing",
+    "llms_enable_content_cleaning",
+    "llms_custom_translations",
+    "llms_content_language",
+    "llmstxtaigen_enable_content_cleaning"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_aioseo_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:22.518Z"
+}

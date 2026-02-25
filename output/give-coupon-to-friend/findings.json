@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gctf_text_coupon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "coupon_amount",
+    "billing_email_creator",
+    "user_email_creator",
+    "generated_coupon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:07.944Z"
+}

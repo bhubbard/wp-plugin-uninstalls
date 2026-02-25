@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*accessKey",
+    "*secretKey",
+    "*contractId",
+    "*customPostType",
+    "*activeLangs",
+    "*enableMultilingual",
+    "*customMenuCss",
+    "*activeCollapse"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rozetta_locale",
+    "_rozetta_original_post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:19.859Z"
+}

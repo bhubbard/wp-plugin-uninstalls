@@ -1,0 +1,14 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "classic-editor-allow-users"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "classic-editor-remember"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:53.551Z"
+}

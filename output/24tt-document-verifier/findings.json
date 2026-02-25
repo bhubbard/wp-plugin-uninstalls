@@ -1,0 +1,29 @@
+{
+  "options": [],
+  "transients": [
+    "ttdvr_bulk_upload_message",
+    "ttdvr_bulk_upload_message_type"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ttdvr_verification_id",
+    "_ttdvr_recipient_name",
+    "_ttdvr_phone",
+    "_ttdvr_email",
+    "_ttdvr_date_of_birth",
+    "_ttdvr_address",
+    "_ttdvr_document_type",
+    "_ttdvr_document_type_other",
+    "_ttdvr_awarding_body",
+    "_ttdvr_course_subject",
+    "_ttdvr_grade",
+    "_ttdvr_performance",
+    "_ttdvr_issued_date",
+    "_ttdvr_effective_until_date",
+    "_ttdvr_document_pdf_url",
+    "_ttdvr_course_details_remarks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:14.932Z"
+}

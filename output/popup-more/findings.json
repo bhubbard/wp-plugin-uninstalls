@@ -1,0 +1,26 @@
+{
+  "options": [
+    "YpmPopupCount*",
+    "ypm-hide-media-button",
+    "ypm_redirect",
+    "YcfPopupFormDraft",
+    "YpmShowNextTime",
+    "YpmUsageDays",
+    "YpmDontShowReviewNotice",
+    "YpmFeatureSuggestion",
+    "ypm-hide-modules-menu",
+    "YpmInstallDate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ypm-metabox-popup",
+    "ypm-data",
+    "_elementor_data",
+    "ypm-display-settings",
+    "ypm-conditions-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:11.124Z"
+}

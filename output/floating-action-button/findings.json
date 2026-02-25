@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fz_fab_activate",
+    "fz_fab_type",
+    "fz_fab_position",
+    "fz_fab_main_img_id",
+    "fz_fab_main_color",
+    "fz_fab_main_bg_color",
+    "fz_fab_sub_btns"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:45.503Z"
+}

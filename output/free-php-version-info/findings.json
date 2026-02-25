@@ -1,0 +1,29 @@
+{
+  "options": [
+    "my_plugin_consent",
+    "admin_login_consent",
+    "my_plugin_api_key",
+    "wplc_ocu_core_token",
+    "wplc_ocu_plugins_token",
+    "wplc_ocu_themes_token",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "oss_security_results",
+    "update_core",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "send_daily_data_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "last_login_link_generated",
+    "one_time_login_token",
+    "one_time_login_expiration",
+    "one_time_login_usage_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:54.090Z"
+}

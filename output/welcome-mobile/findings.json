@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_position",
+    "*_visibility",
+    "*_cookie",
+    "*_close_button",
+    "*_use_default",
+    "*_default_message",
+    "*_android_message",
+    "*_ios_message",
+    "*_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:52.312Z"
+}

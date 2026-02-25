@@ -1,0 +1,25 @@
+{
+  "options": [
+    "vindi_invalid_api_key",
+    "woocommerce_subscriptions_turn_off_automatic_payments",
+    "woocommerce_vindi-credit-card_settings",
+    "woocommerce_store_postcode",
+    "woocommerce_currency",
+    "woocommerce_tax_total_display",
+    "woocommerce_enable_guest_checkout",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "vindi_product_message",
+    "vindi_payment_methods",
+    "vindi_merchant",
+    "vindi_plans"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vindi_customer_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:15.320Z"
+}

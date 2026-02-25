@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nabwrap_page",
+    "nabwrap_addlink",
+    "nabwrap_url",
+    "nabwrap_width",
+    "nabwrap_height",
+    "nabwrap_border",
+    "nabwrap_scroll"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:50.478Z"
+}

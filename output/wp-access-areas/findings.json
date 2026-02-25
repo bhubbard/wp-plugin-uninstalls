@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpaa_default_post_status",
+    "wpaa_default_view_cap",
+    "wpaa_default_edit_cap",
+    "wpaa_default_comment_cap",
+    "wpaa_default_behavior",
+    "wpaa_fallback_page",
+    "accessareas_version",
+    "wpaa_enable_assign_cap",
+    "wpaa_default_caps"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpaa_fallback_page",
+    "_wpaa_post_behavior"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:50.849Z"
+}

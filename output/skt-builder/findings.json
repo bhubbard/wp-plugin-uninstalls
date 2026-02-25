@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sktbuilder_version",
+    "sktbuilder_libraries",
+    "sktbuilder_page_templates",
+    "sktbuilder_libs"
+  ],
+  "transients": [
+    "sktbuilder_action"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sktbuilder_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:35.909Z"
+}

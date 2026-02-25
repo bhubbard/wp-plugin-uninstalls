@@ -1,0 +1,21 @@
+{
+  "options": [
+    "auto_update_plugins",
+    "googlesitekit_adsense_settings",
+    "googlesitekit_analytics_settings",
+    "googlesitekit_active_modules",
+    "googlesitekit-active-modules"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_amp_queried_object",
+    "_edit_lock",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:04.069Z"
+}

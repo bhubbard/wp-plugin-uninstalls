@@ -1,0 +1,30 @@
+{
+  "options": [
+    "deepl_default_locale",
+    "wpdeepl_api_key",
+    "wpdeepl_api_server",
+    "wpdeepl_glossaries",
+    "wpdeepl_log_level",
+    "wpdeepl_metabox_post_types",
+    "wpdeepl_pro_post_types",
+    "wpdeepl_metabox_behaviour",
+    "wpdeepl_default_language",
+    "wpdeepl_displayed_languages",
+    "wpdeepl_metabox_context",
+    "wpdeepl_metabox_priority",
+    "wpdeepl_plugin_installed",
+    "wpdeepl_formality_*",
+    "wpdeepl_default_formality",
+    "wpdeepl_contents_to_translate",
+    "wpdeepl_target_locales",
+    "wpdeepl_bulk_target_locales",
+    "deepl_plugin_installed",
+    "wpdeepl_allow_front_end"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:35.396Z"
+}

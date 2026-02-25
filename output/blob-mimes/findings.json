@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bm_contributor_notice",
+    "bm_remote_contributors",
+    "lotf_cleanup"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cron_get_remote_contributors"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:40.465Z"
+}

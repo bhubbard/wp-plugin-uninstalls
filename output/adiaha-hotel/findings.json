@@ -1,0 +1,14 @@
+{
+  "options": [
+    "adh_pid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ds_hotelAPIData",
+    "ds_hotelid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:11.067Z"
+}

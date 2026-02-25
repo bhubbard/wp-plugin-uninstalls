@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wmhp_enable_userroles",
+    "wmhp_enable_products"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wmhp_hide_price",
+    "wmhp_replace_price_text",
+    "wmhp_hide_atc",
+    "wmhp_replace_atc_text",
+    "wmhp_hide_atc_options",
+    "wmhp_replace_atc_link",
+    "wmhp_all_products",
+    "wmhp_products",
+    "wmhp_categories",
+    "wmhp_tags",
+    "wmhp_users",
+    "wmhp_users_roles",
+    "wmhp_brands"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:47.615Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "booking_appointment_email_data",
+    "booking_appointment_settings_data",
+    "booking_appointment_configuration",
+    "booking_appointment_payments_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "managetoplevel_page_bookings_tablecolumnshidden",
+    "managetoplevel_page_holidays_tablecolumnshidden"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:50.766Z"
+}

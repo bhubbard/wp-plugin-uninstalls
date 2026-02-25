@@ -1,0 +1,14 @@
+{
+  "options": [
+    "custom_smtp_options",
+    "custom_smtp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "custom_smtp_purge_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:50.877Z"
+}

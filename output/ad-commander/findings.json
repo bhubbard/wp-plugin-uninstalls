@@ -1,0 +1,14 @@
+{
+  "options": [
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "meta-box-order_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:14.659Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wtm_header_script_*",
+    "wtm_footer_script_*",
+    "wtm_header_script",
+    "wtm_footer_script",
+    "wtm_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wtm_page_header",
+    "_wtm_page_thank_you",
+    "_wtm_page_footer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:21.856Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_options",
+    "molongui_contributors_options"
+  ],
+  "transients": [
+    "*_process_lock",
+    "*-activation-redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "leading-phrase",
+    "_default_contributor_role"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:27.875Z"
+}

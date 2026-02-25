@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wps_cleaner_alert",
+    "default_*",
+    "wpscleaner_admin_footer_text_rated"
+  ],
+  "transients": [
+    "wps_cleaner_total_posts",
+    "wps_cleaner_total_postmeta",
+    "wps_cleaner_dir_size_*",
+    "wps_cleaner_dir_size",
+    "wps_cleaner_img_count",
+    "wps_plugins_adds"
+  ],
+  "cron_jobs": [
+    "plugin_security_scanner_daily_event_hook",
+    "wps_cleaner_indexation_medias_queue",
+    "wps_cleaner_indexation_medias"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_context",
+    "_fl_builder_data",
+    "_fl_builder_draft",
+    "_elementor_data",
+    "_product_image_gallery",
+    "_thumbnail_id",
+    "wps_cleaner_media_use"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:15.822Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "yith-ywot-welcome-modal",
+    "ywot_carrier_default_name",
+    "ywot_order_tracking_text_position",
+    "ywot_order_tracking_text",
+    "yit_font_awesome_list",
+    "yit_dashicons_list",
+    "yit_plugin_fw_panel_wc_default_options_set",
+    "*_width",
+    "*_height",
+    "*_options",
+    "yit_recently_activated",
+    "yith_system_info",
+    "*-yith-attachment-id"
+  ],
+  "transients": [
+    "yith-plugin-fw-latest-hc-articles",
+    "yith-plugin-fw-system-status-tls-version",
+    "yith-plugin-fw-system-status-output-ip",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "blog-cats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:20.868Z"
+}

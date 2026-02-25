@@ -1,0 +1,18 @@
+{
+  "options": [
+    "zdac_ga4_measurement_id",
+    "zdac_gtm_container_id",
+    "zdac_require_consent",
+    "zdac_exclude_logged_in",
+    "zdac_enable_tracking",
+    "zdac_consent_cookie_name",
+    "zdac_consent_source",
+    "zdac_consent_values"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:44.730Z"
+}

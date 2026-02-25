@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wc_hide_shipping_options",
+    "wc_hide_shipping_additional_methods"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:46.101Z"
+}

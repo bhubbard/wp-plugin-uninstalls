@@ -1,0 +1,16 @@
+{
+  "options": [
+    "appscenic_webhook_secret",
+    "*_option"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "appscenic_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:27.312Z"
+}

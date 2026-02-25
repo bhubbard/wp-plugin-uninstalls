@@ -1,0 +1,23 @@
+{
+  "options": [
+    "tecc-install-date",
+    "tecc_initial_save_version",
+    "tecc-ratingDiv",
+    "tecc-installDate",
+    "tecc-v",
+    "tecc-type",
+    "tecc-cpfm-data-sharing",
+    "tecc_settings",
+    "cpfm_opt_in_choice_cool_events"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "tecc_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:12.288Z"
+}

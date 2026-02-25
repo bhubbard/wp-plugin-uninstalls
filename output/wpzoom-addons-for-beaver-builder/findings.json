@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_wpzabb_global_settings",
+    "wpzabb_hide_branding",
+    "wpzoom_force_check_extensions",
+    "wpzabb_lite_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpzabb-cta-link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:28.387Z"
+}

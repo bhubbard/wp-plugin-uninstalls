@@ -1,0 +1,28 @@
+{
+  "options": [
+    "banner_position",
+    "banner_type",
+    "wisecampaign_plugin_enabled",
+    "wisecampaign_selected_banner",
+    "wc-stockbar-status",
+    "wc-stockbar-setting",
+    "activeWiseStockbarId",
+    "wisecampaign_dc_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wisecart_order",
+    "_wisecart_success_viewed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:40.776Z"
+}

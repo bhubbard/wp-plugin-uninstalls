@@ -1,0 +1,16 @@
+{
+  "options": [
+    "otw_lc_*",
+    "*_dnms",
+    "otw_qtsw_plugin_options"
+  ],
+  "transients": [
+    "otw_upd_plug",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:40.625Z"
+}

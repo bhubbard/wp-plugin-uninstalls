@@ -1,0 +1,17 @@
+{
+  "options": [
+    "finseo_admin_notices",
+    "default_status",
+    "finseo_delete_data_on_uninstall",
+    "finseo_api_key",
+    "finseo_api_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "finseo_dismissed_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:15.407Z"
+}

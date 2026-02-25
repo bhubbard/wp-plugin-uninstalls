@@ -1,0 +1,17 @@
+{
+  "options": [
+    "checkout_x_shop_id",
+    "checkout_x_storefront_url",
+    "checkout_x_api_version",
+    "checkout_x_app_url",
+    "checkout_x_api_url",
+    "checkout_x_website_url",
+    "checkout_x_event_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:33.028Z"
+}

@@ -1,0 +1,45 @@
+{
+  "options": [
+    "sd_auto_create_shipping",
+    "sd_status_auto_create_shipping",
+    "sd_setting_courier",
+    "active_sitewide_plugins",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "sd_api_key",
+    "sd_accept_debug_log",
+    "sd_sender_info",
+    "sd_setting_fee",
+    "sd_list_couriers",
+    "sd_list_storages",
+    "cb_set_status_for_delivery",
+    "sd_status_for_delivery",
+    "cb_set_status_delivery_success",
+    "sd_status_delivery_success",
+    "sd_status_delivery_failed",
+    "cb_set_status_for_control",
+    "sd_status_for_control",
+    "sd_update_order_statuses",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_district",
+    "woocommerce_store_ward",
+    "sd_show_shipping_fee_detail"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_city",
+    "_billing_district",
+    "_shipping_city",
+    "_shipping_district",
+    "_billing_ward",
+    "_shipping_ward",
+    "sd_ship_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:17.049Z"
+}

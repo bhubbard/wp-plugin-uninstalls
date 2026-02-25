@@ -1,0 +1,16 @@
+{
+  "options": [
+    "learndash_powerpack_active_classes",
+    "ld_powerpack_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sfwd-course_progress",
+    "ld_auto_enroll_group_courses",
+    "ld_auto_enroll_group_course_ids"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:16.884Z"
+}

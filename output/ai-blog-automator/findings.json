@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bluteem_aba_settings",
+    "bluteem_aba_posts_count",
+    "bluteem_aba_errors",
+    "bluteem_aba_recent_keywords"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bluteem_aba_generate_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bluteem_aba_generated",
+    "_bluteem_aba_timestamp"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:35.938Z"
+}

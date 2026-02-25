@@ -1,0 +1,33 @@
+{
+  "options": [
+    "*-db-cache-table-exists",
+    "serbian-transliteration-version",
+    "serbian-transliteration-activation",
+    "serbian-transliteration-ID",
+    "serbian-transliteration",
+    "serbian-transliteration-db-version",
+    "serbian-transliteration-db-cache-table-exists",
+    "serbian-transliteration-deactivation",
+    "serbian-transliteration-activated",
+    "serbian-transliteration-reviewed",
+    "serbian-transliteration-donated",
+    "*-activation",
+    "*-ID",
+    "*-html-tags",
+    "*-version",
+    "rstr_allowed_sites"
+  ],
+  "transients": [
+    "transliteration_redirect",
+    "serbian-transliteration-ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_old_slug",
+    "_wp_cyr_slug",
+    "_wp_lat_slug"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:32.017Z"
+}

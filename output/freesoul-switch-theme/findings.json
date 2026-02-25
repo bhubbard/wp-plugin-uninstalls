@@ -1,0 +1,19 @@
+{
+  "options": [
+    "EOS_SW_VERSION",
+    "eos_themes"
+  ],
+  "transients": [
+    "freesoul-sw-updating-mu",
+    "freesoul-sw-notice-fail",
+    "freesoul-sw-notice-succ"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_theme_name_replace_key",
+    "_eos_replace_theme_always_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:43.166Z"
+}

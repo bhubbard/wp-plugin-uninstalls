@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpxero_search_settings",
+    "wpxero_search_keep_data_on_uninstall",
+    "wpxero_search_last_uninstall",
+    "wpxero_search_version",
+    "wpxero_search_activation_date",
+    "wpxero_search_last_deactivation",
+    "wpxero_search_deactivation_feedback"
+  ],
+  "transients": [
+    "wpxero_search_builder_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:17.532Z"
+}

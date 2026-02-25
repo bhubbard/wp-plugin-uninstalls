@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_payiq_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "payiq_transaction_id",
+    "_transaction_id",
+    "_payiq_subscription_id",
+    "_order_currency",
+    "_payiq_transaction_id",
+    "_payiq_order_authorized",
+    "_payiq_order_captured",
+    "_order_total",
+    "_subscription_renewal"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:31.365Z"
+}

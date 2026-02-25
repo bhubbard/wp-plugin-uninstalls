@@ -1,0 +1,24 @@
+{
+  "options": [
+    "earthr_token",
+    "woocommerce_default_country",
+    "earthr_action",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_postcode",
+    "earthr_show",
+    "earthr_checkbox_style",
+    "earthr_checkbox_label",
+    "earthr_palette",
+    "earthr_fee_name"
+  ],
+  "transients": [
+    "earthr-activation-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:01.893Z"
+}

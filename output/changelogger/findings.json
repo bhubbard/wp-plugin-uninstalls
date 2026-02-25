@@ -1,0 +1,14 @@
+{
+  "options": [
+    "plugin_update_ignore",
+    "update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:49.801Z"
+}

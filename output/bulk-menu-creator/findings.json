@@ -1,0 +1,11 @@
+{
+  "options": [
+    "bulk_menu_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:27.377Z"
+}

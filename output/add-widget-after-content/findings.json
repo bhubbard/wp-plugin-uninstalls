@@ -1,0 +1,18 @@
+{
+  "options": [
+    "all_post_categories",
+    "all_post_types",
+    "all_post_formats",
+    "awac_priority",
+    "awac_styles",
+    "awac_extensions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_awac_hide_widget"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:41.630Z"
+}

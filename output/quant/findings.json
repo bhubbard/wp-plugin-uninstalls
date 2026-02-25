@@ -1,0 +1,13 @@
+{
+  "options": [
+    "quant_internal_token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "quant_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:45.623Z"
+}

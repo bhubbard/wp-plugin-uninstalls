@@ -1,0 +1,22 @@
+{
+  "options": [
+    "vinvin_seo",
+    "vinvin_accepted_posttypes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vinvin_id_post",
+    "hasbeenreviewed",
+    "reviews",
+    "product_value",
+    "ratingCount",
+    "reviewCount",
+    "rating",
+    "product_random_image",
+    "is_thumbnail_img"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:36.943Z"
+}

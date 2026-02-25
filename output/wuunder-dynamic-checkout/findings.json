@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wuunder_checkout_force_update_fields",
+    "wuunder_use_custom_backup",
+    "wuunder_plugin_status",
+    "wuunder_plugin_environment",
+    "woocommerce_enable_shipping_calc",
+    "wuunder_enable_shipping_calc_disabled",
+    "wuunder_plugin_version",
+    "wuunder_checkout_status",
+    "wuunder_api_environment",
+    "wuunder_api_key",
+    "wuunder_test_api_key",
+    "wuunder_webshop_id",
+    "wuunder_test_webshop_id",
+    "wuunder_btn_css",
+    "wuunder_btn_text",
+    "wuunder_checkout_description",
+    "wuunder_custom_backup_price",
+    "wuunder_setup_success"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wuunder_checkout_token"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:34.388Z"
+}

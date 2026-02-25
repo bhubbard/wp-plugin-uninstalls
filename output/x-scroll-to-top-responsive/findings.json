@@ -1,0 +1,16 @@
+{
+  "options": [
+    "x_scroll_color",
+    "x_scroll_size",
+    "x_field_bg",
+    "x_scroll_position",
+    "x_scroll_border",
+    "xstr_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:14.434Z"
+}

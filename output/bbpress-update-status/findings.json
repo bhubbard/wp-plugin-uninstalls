@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "rc_bbps_update_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbps_topic_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:50.220Z"
+}

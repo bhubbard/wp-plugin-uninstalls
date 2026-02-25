@@ -1,0 +1,37 @@
+{
+  "options": [
+    "wpr_ranking_cache_expire",
+    "wpr_count_only_visitors",
+    "wpr_image_type",
+    "wpr_alternative_image",
+    "wpr_image_type_custom_field",
+    "wpr_current_ranking",
+    "wpr_as_mobile_http_user_agent",
+    "wpr_exclusion_remote_addrs",
+    "wpr_exclusion_http_referers",
+    "wpr_exclusion_http_user_agent",
+    "wpr_cleanlog_cycle",
+    "wpr_cleanlog_time",
+    "wpr_cleanlog_keep_times",
+    "wpr_use_ajax_logging",
+    "wpr_db_version",
+    "wpr_rebuild_cache",
+    "wpr_reset_views",
+    "wpr_remote_addr_key",
+    "wpr_auto_cleanlog",
+    "wpr_dashboard_rankings",
+    "wpr_require_authority"
+  ],
+  "transients": [
+    "settings_errors",
+    "wpr-*"
+  ],
+  "cron_jobs": [
+    "wpr_scheduled_cleanlog",
+    "wpr_scheduled_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:53.024Z"
+}

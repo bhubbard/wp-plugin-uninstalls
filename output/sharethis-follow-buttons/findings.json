@@ -1,0 +1,24 @@
+{
+  "options": [
+    "sharethis_follow",
+    "sharethis_first_product",
+    "sharethis_property_id",
+    "sharethis_token",
+    "sharethis_button_config",
+    "sharethis_inline-follow_settings",
+    "sharethis_inline-follow",
+    "sharethis_inline-follows",
+    "sharethis_follow_settings",
+    "*_on",
+    "*_off"
+  ],
+  "transients": [
+    "st-follow-activation",
+    "st-follow-connection"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:59.331Z"
+}

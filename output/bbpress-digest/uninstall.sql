@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('_bbp_digest_show_one_click', '_bbp_digest_enable_weekly');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('bbp_digest_time', 'bbp_digest_day', 'bbp_digest_forums');
+DELETE FROM wp_usermeta WHERE meta_key IN ('bbp_digest_time', 'bbp_digest_day', 'bbp_digest_forums');
+DELETE FROM wp_termmeta WHERE meta_key IN ('bbp_digest_time', 'bbp_digest_day', 'bbp_digest_forums');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('bbp_digest_time', 'bbp_digest_day', 'bbp_digest_forums');
+

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "andwff_migration_done",
+    "andwff_options",
+    "andw_fixed_footer_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:07.398Z"
+}

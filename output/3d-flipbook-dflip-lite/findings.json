@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_dflip_settings",
+    "dflip_showratingdiv"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dflip_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:13.525Z"
+}

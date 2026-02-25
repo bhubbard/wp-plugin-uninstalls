@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wvc_plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wvc_form_title",
+    "wvc_form_text",
+    "wvc_form_button_text",
+    "style",
+    "type",
+    "b_b_c",
+    "b_t_c",
+    "f_tt_c",
+    "f_st_c",
+    "f_bg_c",
+    "f_br_c",
+    "automation_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:00.083Z"
+}

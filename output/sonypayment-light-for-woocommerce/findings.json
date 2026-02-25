@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_sonypayment-light_cvs_settings",
+    "woocommerce_checkout_page_id",
+    "woocommerce_sonypayment-light_settings",
+    "spfwc_cvs_settlement_fees",
+    "wc4jp-yomigana"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_spfwc_member_id",
+    "_spfwc_member_pass",
+    "*_first_name_kana",
+    "*_last_name_kana"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:43.338Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "dismissed-*",
+    "dismissed-tcg_disclaimer",
+    "*_settings",
+    "*_options",
+    "*_installed",
+    "active_sitewide_plugins",
+    "tcg_username",
+    "tcg_password",
+    "woocommerce_calc_taxes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product_single_parcel",
+    "product_prohibit_tcg",
+    "product_free_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:40.291Z"
+}

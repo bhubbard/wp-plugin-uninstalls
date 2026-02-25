@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "gdmaq_queue_status"
+  ],
+  "cron_jobs": [
+    "gdmaq_run_queue",
+    "gdmaq_run_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:28.402Z"
+}

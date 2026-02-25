@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_piraeusbank_message",
+    "cardholder_name",
+    "_doseis"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:25.543Z"
+}

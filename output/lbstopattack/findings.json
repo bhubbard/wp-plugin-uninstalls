@@ -1,0 +1,25 @@
+{
+  "options": [
+    "lbsa_onlyfront",
+    "lbsa_namespaces",
+    "lbsa_levelLFI",
+    "lbsa_sendnotification",
+    "lbsa_sendto",
+    "lbsa_raiseerror",
+    "lbsa_redirurl",
+    "lbsa_errorcode",
+    "lbsa_errormsg",
+    "lbsa_ipblock",
+    "lbsa_ipblocktime",
+    "lbsa_ipblockcount",
+    "lbsa_checkwp",
+    "lbsa_unactive",
+    "lbsa_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:06.672Z"
+}

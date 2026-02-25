@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ambikly_plugin_version",
+    "ambikly_install_date",
+    "ambikly_plugin_db_version"
+  ],
+  "transients": [
+    "_ambikly_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:48.965Z"
+}

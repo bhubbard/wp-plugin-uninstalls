@@ -1,0 +1,14 @@
+{
+  "options": [
+    "select_file",
+    "add_text",
+    "select_order",
+    "number_slides"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:49.906Z"
+}

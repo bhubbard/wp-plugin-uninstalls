@@ -1,0 +1,16 @@
+{
+  "options": [
+    "portfolio_tags_settings",
+    "portfolio_images_settings",
+    "portfolio_layout_settings",
+    "portfolio_encrypt_images"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "portfolio_post_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:52.667Z"
+}

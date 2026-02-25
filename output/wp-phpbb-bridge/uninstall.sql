@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpbb_config_path', 'wpbb_ucp_path', 'wpbb_avatars', 'wpbb_activate', 'wpbb_dbms_charset', 'wpbb_deactivation_password', 'wpbb_maximu_retries', 'wpbb_times', 'wpbb_post_posts', 'wpbb_post_locked', 'wpbb_width', 'widget_wpb_user', 'wpbb_backlink', 'wpbb_users_posting', 'wpbb_forums_categories', 'wpbb_version', 'wpb_active', 'wpb_avatar', 'wpb_path', 'wpb_url', 'wpbb_t', 'wpbb_rewrite');
+

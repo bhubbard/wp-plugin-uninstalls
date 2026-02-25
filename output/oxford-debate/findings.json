@@ -1,0 +1,41 @@
+{
+  "options": [
+    "invalid_date",
+    "invalid_postures",
+    "purchased",
+    "key",
+    "oxd_votes",
+    "twitter-option",
+    "facebook-option",
+    "email-option",
+    "linkedin-option",
+    "telegram-option",
+    "whatsapp-option",
+    "global_posture_colour_a",
+    "global_posture_colour_b",
+    "oxd_colour",
+    "oxd_bootstrap",
+    "oxd_fluid"
+  ],
+  "transients": [
+    "oxd_activation_notice_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "initduration-text",
+    "endduration-text",
+    "posturea",
+    "postureb",
+    "posture_colour_a",
+    "posture_colour_b",
+    "votea",
+    "voteb",
+    "posture_colour",
+    "posture",
+    "color",
+    "posture_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:24.396Z"
+}

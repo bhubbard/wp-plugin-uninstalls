@@ -1,0 +1,21 @@
+{
+  "options": [
+    "paytm_merchant_id",
+    "paytm_donation_details_url",
+    "paytm_enable_address",
+    "paytm_user_field",
+    "isWebsiteAddedDonation",
+    "paytm_website",
+    "websiteOptionDonation",
+    "paytm_payment_environment",
+    "paytm_content",
+    "paytm_websiteOther",
+    "paytm_merchant_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:24.089Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "last_natali_sync_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "attribute_pa_natali_size",
+    "attribute_pa_natali_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:29.344Z"
+}

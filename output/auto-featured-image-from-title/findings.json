@@ -1,0 +1,32 @@
+{
+  "options": [
+    "auto_image_pages",
+    "auto_image_posts",
+    "auto_image_content_length",
+    "auto_image_remove_linebreaks",
+    "auto_image_default_disable",
+    "auto_image_write_text",
+    "auto_image_text",
+    "auto_image_width",
+    "auto_image_height",
+    "auto_image_bg_image",
+    "auto_image_bg_color",
+    "auto_image_fontface",
+    "auto_image_fontsize",
+    "auto_image_text_color",
+    "auto_image_shadow",
+    "auto_image_shadow_color",
+    "auto_image_set_first"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "afift-disable",
+    "_wp_attachment_image_alt",
+    "afift-disable-set-first",
+    "afift_lite2pro_ignore_notice4"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:52.609Z"
+}

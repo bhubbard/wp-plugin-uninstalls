@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gnv_add_menu_hk",
+    "some_other_option",
+    "option_etc",
+    "add_menu_hk"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "link_get_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:46.126Z"
+}

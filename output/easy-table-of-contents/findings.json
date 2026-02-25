@@ -1,0 +1,41 @@
+{
+  "options": [
+    "widget_block",
+    "widget_custom_html",
+    "ez-toc-post-meta-content",
+    "ez_toc_do_activation_redirect",
+    "ez-toc-settings",
+    "toc-options",
+    "easytoc_pro_upgrade_license"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nectar_portfolio_extra_content",
+    "_ez-toc-visibility_hide_by_default",
+    "_ez-toc-disabled",
+    "_ez-toc-insert",
+    "_ez-toc-exclude",
+    "_ez-toc-heading-levels",
+    "_ez-toc-p_ctrl_heading",
+    "_ez-toc-p_limit_headings_num",
+    "_ez-toc-position-specific",
+    "_ez-toc-s_blockqoute_checkbox",
+    "_ez-toc-s_custom_para_number",
+    "_ez-toc-s_custom_img_number",
+    "dismissed_wp_pointers",
+    "_ez-toc-header-label",
+    "_ez-toc-alignment",
+    "_ez-toc-alttext",
+    "_ez-toc-visibility_hide_by_device",
+    "_ez-toc-hide_counter",
+    "_ez-toc-device-target",
+    "_ez-toc-word_count_limit",
+    "ampforwp_page_builder_enable",
+    "gdlr-core-page-builder",
+    "mst_post_cat_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:28:19.003Z"
+}

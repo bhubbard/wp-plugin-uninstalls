@@ -1,0 +1,12 @@
+{
+  "options": [
+    "dgs_options",
+    "git_status_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:44.776Z"
+}

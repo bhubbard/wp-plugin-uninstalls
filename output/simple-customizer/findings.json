@@ -1,0 +1,26 @@
+{
+  "options": [
+    "simple_customize_settings",
+    "simple_customize",
+    "simple_customize_category",
+    "simple_customize_fonts",
+    "simple_customize_google_fonts",
+    "simple-customize-version",
+    "theme_mods_*"
+  ],
+  "transients": [
+    "simple-customize-css"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_simple_customize_font",
+    "_simple_customize_selector",
+    "_simple_customize_attribute",
+    "_simple_customize_default",
+    "_simple_customize_category",
+    "_simple_customize_theme"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:33.578Z"
+}

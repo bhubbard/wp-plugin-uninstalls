@@ -1,0 +1,14 @@
+{
+  "options": [
+    "descrb_custom_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "descrb_selected_products",
+    "_product_brand"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:08.603Z"
+}

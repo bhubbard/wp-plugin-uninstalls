@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "my_meta_box_event_start",
+    "my_meta_box_event_end"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:27.067Z"
+}

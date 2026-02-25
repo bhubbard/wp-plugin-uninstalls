@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lws_aff_apikey",
+    "lwsaff_do_not_ask_again"
+  ],
+  "transients": [
+    "lwsaff_remind_me",
+    "lws_aff_banners",
+    "lws_aff_banner"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:36.768Z"
+}

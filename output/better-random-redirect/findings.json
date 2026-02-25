@@ -1,0 +1,20 @@
+{
+  "options": [
+    "brr_default_slug",
+    "brr_default_category",
+    "brr_default_posttype",
+    "brr_default_timeout",
+    "brr_transient_id",
+    "brr_query_posttype_pattern",
+    "brr_query_posttype_category_pattern",
+    "brr_query_qtranslate_pattern"
+  ],
+  "transients": [
+    "*_max"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:55.695Z"
+}

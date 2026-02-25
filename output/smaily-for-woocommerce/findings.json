@@ -1,0 +1,23 @@
+{
+  "options": [
+    "widget_smaily_widget",
+    "smailyforwc_db_version"
+  ],
+  "transients": [
+    "smaily_woocommerce_upgrade_1_4_0_notice",
+    "smaily_woocommerce_upgrade_1_5_0_notice",
+    "smailyforwc_plugin_updated"
+  ],
+  "cron_jobs": [
+    "smaily_cron_sync_contacts",
+    "smaily_cron_abandoned_carts_status",
+    "smaily_cron_abandoned_carts_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "user_newsletter",
+    "smaily_for_woocommerce_deprecation_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:30.201Z"
+}

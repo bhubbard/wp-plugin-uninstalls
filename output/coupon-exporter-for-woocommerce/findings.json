@@ -1,0 +1,12 @@
+{
+  "options": [
+    "rwc_coupon_exporter_errors",
+    "rwc_coupon_exporter_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:54.727Z"
+}

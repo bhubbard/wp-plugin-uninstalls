@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cf7_gs_ext_basics_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7_gs_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:16.792Z"
+}

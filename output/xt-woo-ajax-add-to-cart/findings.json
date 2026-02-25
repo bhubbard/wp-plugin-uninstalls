@@ -1,0 +1,35 @@
+{
+  "options": [
+    "xt_framework_system_info",
+    "xirki_telemetry_optin",
+    "xirki_telemetry_sent",
+    "xirki_telemetry_no_consent",
+    "xirki_font_local_filenames",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "xtfw_active_plugins",
+    "woocommerce_enable_ajax_add_to_cart"
+  ],
+  "transients": [
+    "xt_framework_system_info_templates",
+    "*_version_data",
+    "xirki_googlefonts_cache",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "xirki_fa_nag_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:18.418Z"
+}

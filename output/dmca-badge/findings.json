@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dmca_badge_settings",
+    "imperative_activation_error"
+  ],
+  "transients": [
+    "dmca_login_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dmca_account_id",
+    "dmca_submission_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:02.374Z"
+}

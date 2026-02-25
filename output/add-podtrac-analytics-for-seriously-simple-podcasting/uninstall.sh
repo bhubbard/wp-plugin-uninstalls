@@ -1,0 +1,11 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ss_podcasting_podtrac_analytics_episode_measurement_service'
+wp option delete 'ss_podcasting_podtrac_blubrry_stats_episode_measurement_service'
+wp option delete 'ss_podcasting_podtrac_analytics_episode_measurement_service_radio'
+wp option delete 'ss_podcasting_podtrac_blubrry_stats_episode_measurement_service_name'
+wp option delete 'ss_podcasting_podtrac_blubrry_stats_episode_measurement_service_radio'
+wp option delete 'ss_podcasting_podtrac_analytics_refresh_rss_cache'
+

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ps2id_plugin_admin_notice_dismiss_notice",
+    "*instances",
+    "*version",
+    "malihu_pagescroll2id_sel",
+    "malihu_pagescroll2id_scrollSpeed",
+    "malihu_pagescroll2id_autoScrollSpeed",
+    "malihu_pagescroll2id_scrollEasing",
+    "malihu_pagescroll2id_scrollingEasing",
+    "malihu_pagescroll2id_pageEndSmoothScroll",
+    "malihu_pagescroll2id_layout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:28.703Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "revoty_enabled_modules",
+    "revoty_photo-reviews_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "revoty_images",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:14.935Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "opAppID",
+    "opAPIKey",
+    "opApiKey",
+    "opAppSecret",
+    "opAPIFix",
+    "opValidCreds",
+    "opApiSource"
+  ],
+  "transients": [
+    "ontrapages_url_*",
+    "ontrapages_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ontrapage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:03.770Z"
+}

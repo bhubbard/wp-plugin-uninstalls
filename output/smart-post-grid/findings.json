@@ -1,0 +1,15 @@
+{
+  "options": [
+    "spg_options_group",
+    "*_size_w",
+    "*_size_h",
+    "wti_like_post_show_on_widget",
+    "wti_like_post_excluded_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:38.867Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "arc_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "arc_restricted_post",
+    "arc_restricted_category",
+    "arc_restricted_category_value"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:39.859Z"
+}

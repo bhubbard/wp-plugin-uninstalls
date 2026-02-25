@@ -1,0 +1,16 @@
+{
+  "options": [
+    "kblog_danmaku_url",
+    "kblog_danmaku_token",
+    "kblog_enable_hls",
+    "kblog_enable_flv",
+    "kblog_danmaku_dplayer_version",
+    "kblog_danmaku_dplayer_version_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:49.515Z"
+}

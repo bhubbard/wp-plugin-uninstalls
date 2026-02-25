@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [
+    "edara_warehouses",
+    "edara_sales_stores",
+    "edara_shipping_services",
+    "edara_classifications",
+    "edara_ar_accounts",
+    "edara_admin_notices",
+    "edara_webhook_context"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "guest",
+    "_regular_price",
+    "_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:39.359Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "Kfactor",
+    "freepicsmashshared",
+    "picsmash_db_version",
+    "picsmash_version",
+    "picsmash_activation",
+    "MediaC",
+    "NextG",
+    "ShowScore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "wins",
+    "losses",
+    "_wp_attached_file",
+    "img_full",
+    "mediaID",
+    "picsmash",
+    "gallery",
+    "picshare"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:09.688Z"
+}

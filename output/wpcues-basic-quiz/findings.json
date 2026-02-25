@@ -1,0 +1,41 @@
+{
+  "options": [
+    "wpcuequiz_setting",
+    "wpcuebasicquiz_version",
+    "anviprocurrep",
+    "anviprocatgrade_*",
+    "anviprodefaultgrade"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "schedule_wpcuebadgelevel_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpcuequiztype",
+    "quizgrade",
+    "wpcuecertificate_det",
+    "wpcuebadgeimage",
+    "wpcuebadgepoint",
+    "wpcuebadgecorper",
+    "wpcuebadgequiznum",
+    "wpcuebadgequizcat",
+    "wpcuebadgemozstatus",
+    "wpcuelevelrank",
+    "wpcuelevelpoints",
+    "wpcuelevelpercorrect",
+    "wpcuelevelquiznum",
+    "wpcuelevelquizcat",
+    "wpcueproductprice",
+    "wpcueproductcurrency",
+    "wpcueproductexpiry",
+    "wpcueproductunits",
+    "displaysetting",
+    "wpcueassignedlevel",
+    "leaderboardtype",
+    "customcss",
+    "basicsetting"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:44.305Z"
+}

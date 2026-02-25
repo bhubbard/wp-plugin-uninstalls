@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_prevent_purchase",
+    "_wc_prevent_purchase_msg"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:07.098Z"
+}

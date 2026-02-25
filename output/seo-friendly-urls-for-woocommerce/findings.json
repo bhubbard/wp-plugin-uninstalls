@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sfufw_options_settings",
+    "rewrite_rules",
+    "canonical_link",
+    "twp_be_options_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_primary_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:52.065Z"
+}

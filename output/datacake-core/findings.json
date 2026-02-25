@@ -1,0 +1,22 @@
+{
+  "options": [
+    "isp-global-settings",
+    "datacake_redir_page_id",
+    "datacake_redir_force",
+    "datacake_api"
+  ],
+  "transients": [
+    "datacake_api_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wda_remote_id",
+    "_wporg_meta_key",
+    "isp_product_type_id",
+    "isp_logo",
+    "isp_number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:54.061Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_stock_format",
+    "woocommerce_tax_display_shop",
+    "default_product_cat",
+    "spptb_global_settings",
+    "spptb_db_setup",
+    "*_insights_optin",
+    "*_insights_last_notice",
+    "*_insights_last_tracking_time",
+    "*_insights_skip",
+    "*_insights_previously_skip"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "product_table_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:49.900Z"
+}

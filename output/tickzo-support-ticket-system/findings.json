@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tickzo_options",
+    "tickzo_default_categories_inserted",
+    "tickzo_pro_migration_version",
+    "tickzo_ticket_schema_version",
+    "tickzo_ticket_numbers_backfilled",
+    "tickzo_settings",
+    "tickzo_version"
+  ],
+  "transients": [
+    "tickzo_category_db_error"
+  ],
+  "cron_jobs": [
+    "tickzo_auto_close_tickets"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:16.543Z"
+}

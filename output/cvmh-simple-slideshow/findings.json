@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cvmh_slideshow"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cvmh_slide_image",
+    "_cvmh_slide_0",
+    "_cvmh_slide_new_window",
+    "_cvmh_slide_*",
+    "_cvmh_slide_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:29.479Z"
+}

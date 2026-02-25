@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gift_email_subject",
+    "gift_email_bcc",
+    "gift_bank_account"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:57.782Z"
+}

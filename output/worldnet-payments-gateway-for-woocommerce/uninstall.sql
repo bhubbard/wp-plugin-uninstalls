@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_worldnetpayments_settings', 'woocommerce_currency', 'woocommerce_force_ssl_checkout', 'wc_worldnetpayments_version', 'wc_worldnetpayments_show_request_api_notice');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_email', 'billing_address_1', 'billing_postcode', 'billing_phone', '_subscription_price', '_subscription_period_interval', '_subscription_period_count', '_subscription_on_update', '_subscription_on_delete', '_subscription_period', '_regular_price', '_sale_price', '_sale_price_dates_from', '_sale_price_dates_to', '_price', '_subscription_trial_length', '_subscription_length', 'subscriptionMerchantRef', 'terminalId', 'merchantRef');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_email', 'billing_address_1', 'billing_postcode', 'billing_phone', '_subscription_price', '_subscription_period_interval', '_subscription_period_count', '_subscription_on_update', '_subscription_on_delete', '_subscription_period', '_regular_price', '_sale_price', '_sale_price_dates_from', '_sale_price_dates_to', '_price', '_subscription_trial_length', '_subscription_length', 'subscriptionMerchantRef', 'terminalId', 'merchantRef');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_email', 'billing_address_1', 'billing_postcode', 'billing_phone', '_subscription_price', '_subscription_period_interval', '_subscription_period_count', '_subscription_on_update', '_subscription_on_delete', '_subscription_period', '_regular_price', '_sale_price', '_sale_price_dates_from', '_sale_price_dates_to', '_price', '_subscription_trial_length', '_subscription_length', 'subscriptionMerchantRef', 'terminalId', 'merchantRef');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_email', 'billing_address_1', 'billing_postcode', 'billing_phone', '_subscription_price', '_subscription_period_interval', '_subscription_period_count', '_subscription_on_update', '_subscription_on_delete', '_subscription_period', '_regular_price', '_sale_price', '_sale_price_dates_from', '_sale_price_dates_to', '_price', '_subscription_trial_length', '_subscription_length', 'subscriptionMerchantRef', 'terminalId', 'merchantRef');
+

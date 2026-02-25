@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_awp_services",
+    "wp_awp_options",
+    "wp_awp_lock",
+    "wp_awp_failed_ip",
+    "wp_awp_locked_ip"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:03.867Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "cfd_settings",
+    "links_updated_date_format",
+    "cfd_search_settings",
+    "cfd_keyword_search_settings",
+    "cfd",
+    "cfd_entries_channel_children"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_reviewed",
+    "_total_response",
+    "_response_manualy",
+    "_response_1",
+    "_response_date_1",
+    "_fields",
+    "_properties",
+    "_meta",
+    "_field_*",
+    "_response_*",
+    "_response_date_*",
+    "_subject",
+    "_*",
+    "_from",
+    "_from_name",
+    "_from_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:24.901Z"
+}

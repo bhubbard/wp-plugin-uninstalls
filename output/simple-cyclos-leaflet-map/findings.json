@@ -1,0 +1,23 @@
+{
+  "options": [
+    "cyclosUsersMap_adminuser",
+    "cyclosUsersMap_token",
+    "cyclosUsersMap_adminPassword",
+    "cyclosUsersMap_url",
+    "cyclosUsersMap_groupId",
+    "cyclosUsersMap_websiteName",
+    "cyclosUsersMap_descriptionName",
+    "cyclosUsersMap_width",
+    "cyclosUsersMap_height",
+    "cyclosUsersMap_homeLat",
+    "cyclosUsersMap_homeLon",
+    "cyclosUsersMap_homeZoom",
+    "cyclosUsersMap_references"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:53.418Z"
+}

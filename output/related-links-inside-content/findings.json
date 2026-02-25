@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rlic-tareqanwar-releted-story-text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rlic_tareqanwar_post_link_one",
+    "rlic_tareqanwar_post_link_two",
+    "rlic_tareqanwar_post_link_three"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:20.597Z"
+}

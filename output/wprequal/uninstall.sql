@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('WPREQUAL_VERSION', 'wprequal_amortize_principal_color', 'wprequal_amortize_principal_border', 'wprequal_amortize_principal_label', 'wprequal_amortize_interest_color', 'wprequal_amortize_interest_border', 'wprequal_amortize_interest_label', 'wprequal_currency', 'wprequal_currency_position', 'wprequal_focus_calc_background_color', 'wprequal_get_quote_button_color', 'wprequal_get_quote_button_font_color', 'wprequal_get_quote_button_hover_color', 'wprequal_get_quote_button_hover_font_color', 'wprequal_term_type', 'wprequal_from_email', 'wprequal_email', 'wprequal_bcc_email', 'wprequal_sms_carrier_gateway', 'wprequal_access_token', 'wprequal_default_to_email', 'wprequal_get_quote_confirmation', 'wprequal_insurance_label', 'wprequal_tax_label', 'wprequal_term_label', 'wprequal_rate_label', 'wprequal_price_label', 'wprequal_down_payment_label', 'wprequal_url_referrer_param', 'wprequal_activation_redirect', 'wprequal_fa_kits_url', 'wprequal_popup_post_id', 'wprequal_between', 'wprequal_force', 'wprequal_delay', 'wprequal_fa_pro', 'wprequal_version_7_loaded', 'wprequal_forms_loaded', 'wprequal_back_link_text', 'wprequal_get_quote_post_id', 'wprequal_webhook_url', 'wprequal_focus_msg', 'wprequal_get_quote_button_text', 'wprequal_get_quote_cta', 'wprequal_term_suffix', 'wprequal_amortize_label');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('contact_form_id', 'inputs', 'details', 'contact', 'fields', 'field_labels', 'source_url', 'note', 'input', 'back_text', 'slides', 'wpq_survey_form', 'styles', 'wprequal_lead');
+DELETE FROM wp_usermeta WHERE meta_key IN ('contact_form_id', 'inputs', 'details', 'contact', 'fields', 'field_labels', 'source_url', 'note', 'input', 'back_text', 'slides', 'wpq_survey_form', 'styles', 'wprequal_lead');
+DELETE FROM wp_termmeta WHERE meta_key IN ('contact_form_id', 'inputs', 'details', 'contact', 'fields', 'field_labels', 'source_url', 'note', 'input', 'back_text', 'slides', 'wpq_survey_form', 'styles', 'wprequal_lead');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('contact_form_id', 'inputs', 'details', 'contact', 'fields', 'field_labels', 'source_url', 'note', 'input', 'back_text', 'slides', 'wpq_survey_form', 'styles', 'wprequal_lead');
+

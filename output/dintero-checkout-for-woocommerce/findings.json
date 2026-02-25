@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_dintero_checkout_settings",
+    "woocommerce_ship_to_destination",
+    "krokedil_debuglog_dintero_checkout",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [
+    "dintero_shipping_data_*",
+    "dintero_checkout_access_token",
+    "dintero_checkout_keyword_backlinks"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ywgc_applied_gift_cards",
+    "dismissed_dintero_wc_zero_decimal_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:04.578Z"
+}

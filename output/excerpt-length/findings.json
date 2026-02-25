@@ -1,0 +1,12 @@
+{
+  "options": [
+    "lk-excerpt-length-value",
+    "lk-excerpt-suffix-value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:49.057Z"
+}

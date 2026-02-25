@@ -1,0 +1,14 @@
+{
+  "options": [
+    "default_contract_address",
+    "default_chain",
+    "engine_api_endpoint",
+    "engine_access_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:50.436Z"
+}

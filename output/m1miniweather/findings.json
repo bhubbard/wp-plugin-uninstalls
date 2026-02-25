@@ -1,0 +1,12 @@
+{
+  "options": [
+    "m1_miniweather_renew_last",
+    "m1_miniweather_openweathermap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:36.691Z"
+}

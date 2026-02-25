@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_payplug_settings",
+    "woocommerce_currency"
+  ],
+  "transients": [
+    "payplug_code_verifier",
+    "payplug_oauth_callback_uri"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "payplug_addresses_hash",
+    "_payplug_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:51.787Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_timezone",
+    "fakturama_setting",
+    "neosconnectorforfakturama-hide-review-notice",
+    "*_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:11.333Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dpdotnet-ga-profile-id",
+    "dpdotnet-ga-cron-freq"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "danp-dot-net-ga-page-views"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:42.471Z"
+}

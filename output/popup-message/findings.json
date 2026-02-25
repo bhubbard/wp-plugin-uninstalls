@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ac_custom_pupup_message",
+    "ac_pupup_message_display_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:06.582Z"
+}

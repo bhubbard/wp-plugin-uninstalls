@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mui_posttype",
+    "mui_pages",
+    "mui_keepvalues",
+    "mui_postthumb",
+    "mui_title",
+    "mui_position",
+    "mui_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "my_upload_images",
+    "_wp_attachment_image_alt",
+    "_my_upload_images_meta",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:56.348Z"
+}

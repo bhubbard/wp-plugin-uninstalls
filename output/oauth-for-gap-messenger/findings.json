@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "oauth_gap_messenger_id",
+    "oauth_gap_messenger_details"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:21.461Z"
+}

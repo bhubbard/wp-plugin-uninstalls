@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mind_disclaimer_sidewide",
+    "mind_disclaimer_text",
+    "mind_disclaimer_title",
+    "mind_accept_text",
+    "mind_disclaimer_show_once"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:21.168Z"
+}

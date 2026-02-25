@@ -1,0 +1,135 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'recently_activated'
+wp option delete 'dse_import_rules'
+wp option delete 'dse_imported_list'
+wp option delete 'dse_published_list'
+wp option delete 'default_product_cat'
+wp option delete 'dse_api_token'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'dse_%'"
+wp option delete 'dse_is_pro'
+wp option delete 'dse_purchase_code'
+wp option delete 'dse_is_activated'
+wp option delete 'dse_migrated'
+wp option delete 'dse_orders'
+
+# Delete Transients
+wp transient delete 'update_plugins'
+
+# Clear Cron Jobs
+wp cron event delete 'dse_process_queued_cron'
+wp cron event delete 'dse_process_autoimport_cron'
+wp cron event delete 'dse_process_autopublish_cron'
+wp cron event delete 'dse_process_order_cron'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_product_reviews'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_product_reviews'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_product_reviews'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_product_reviews'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_product_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_product_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_product_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_product_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_review_ids'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_review_ids'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_review_ids'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_review_ids'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_product'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_product'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_product'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_product'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_source'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_source'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_source'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_source'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_product_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_product_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_product_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_product_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_sku'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_sku'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_sku'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_sku'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_seller_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_seller_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_seller_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_seller_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_company_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_company_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_company_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_company_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_discounted_value'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_discounted_value'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_discounted_value'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_discounted_value'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_attributes'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_attributes'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_attributes'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_attributes'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_variations'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_variations'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_variations'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_variations'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_product_images'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_product_images'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_product_images'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_product_images'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_product_variations'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_product_variations'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_product_variations'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_product_variations'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_imported_product_reviews'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_imported_product_reviews'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_imported_product_reviews'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_imported_product_reviews'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_product_category'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_product_category'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_product_category'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_product_category'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_image_is_external'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_image_is_external'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_image_is_external'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_image_is_external'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_attachment_source'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_attachment_source'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_attachment_source'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_attachment_source'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_disable_sync'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_disable_sync'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_disable_sync'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_disable_sync'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'verified'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'verified'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'verified'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'verified'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dse_order_processing'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dse_order_processing'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dse_order_processing'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dse_order_processing'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_dse_api_order'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_dse_api_order'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_dse_api_order'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_dse_api_order'"

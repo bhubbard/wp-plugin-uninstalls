@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "fag_about_plugin_info_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fag_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:39.054Z"
+}

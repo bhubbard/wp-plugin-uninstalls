@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpgov_at",
+    "atGroupConf",
+    "at_version_number",
+    "at_option_widget",
+    "at_logic_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aturl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:29.349Z"
+}

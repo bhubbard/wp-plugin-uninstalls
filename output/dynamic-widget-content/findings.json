@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_version"
+  ],
+  "transients": [
+    "vp_fontawesome_icons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dwc-title*",
+    "dwc-content*",
+    "_bv_birthday_giveaway_2016",
+    "dwc-title",
+    "dwc-content",
+    "dwc-title-2",
+    "dwc-content-2",
+    "dwc-title-3",
+    "dwc-content-3",
+    "*_fields",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:19.371Z"
+}

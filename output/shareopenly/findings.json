@@ -1,0 +1,13 @@
+{
+  "options": [
+    "shareopenly_text",
+    "shareopenly_priority",
+    "shareopenly_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:02.337Z"
+}

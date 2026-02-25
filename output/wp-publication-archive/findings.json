@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp-publication-archive-core"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpa-upload_image",
+    "wpa_upload_doc",
+    "wpa-upload_alternates",
+    "wpa_doc_desc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:45.893Z"
+}

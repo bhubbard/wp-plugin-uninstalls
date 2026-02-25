@@ -1,0 +1,22 @@
+{
+  "options": [
+    "boopixel_ai_chat_for_n8n_chat_icon",
+    "boopixel_ai_chat_for_n8n_chat_name",
+    "boopixel_ai_chat_for_n8n_welcome_message",
+    "boopixel_ai_chat_for_n8n_primary_color",
+    "boopixel_ai_chat_for_n8n_secondary_color",
+    "boopixel_ai_chat_for_n8n_chat_bg_color",
+    "boopixel_ai_chat_for_n8n_text_color",
+    "boopixel_ai_chat_for_n8n_font_family",
+    "boopixel_ai_chat_for_n8n_font_size",
+    "boopixel_ai_chat_for_n8n_api_url",
+    "boopixel_ai_chat_for_n8n_language",
+    "boopixel_ai_chat_for_n8n_cache_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:07.158Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [
+    "podposter_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "podposter_channel",
+    "podposter_description",
+    "podposter_category",
+    "podposter_email",
+    "podposter_author",
+    "podposter_copyright",
+    "podposter_language",
+    "podposter_explicit",
+    "podposter_audio_url",
+    "podposter_length",
+    "podposter_size"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:00.174Z"
+}

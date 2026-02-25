@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_phoeniixx_custom_additional_fields",
+    "_phoeniixx_custom_billing_fields",
+    "_phoeniixx_custom_shipping_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "phoeniixx_checkout_manager_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:48.948Z"
+}

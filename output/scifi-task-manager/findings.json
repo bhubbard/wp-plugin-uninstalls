@@ -1,0 +1,23 @@
+{
+  "options": [
+    "scifi-task-manager_roles",
+    "scifi-task-manager_menu",
+    "scifi-task-manager_tags",
+    "scifi-task-manager_menu_item",
+    "scifi-task-manager_priorities",
+    "scifi-task-manager_statuses",
+    "scifi-task-manager_mailer",
+    "scifi-task-manager_mail_from"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_scifi-task-manager_assignee",
+    "_scifi_task_manager_admin_widget",
+    "_scifi_task_manager_recieve_mails",
+    "_scifi-task-manager_deadline"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:14.955Z"
+}

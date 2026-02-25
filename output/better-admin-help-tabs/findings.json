@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sbah_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sbah_screen_text",
+    "_sbah_type_radio",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:02.193Z"
+}

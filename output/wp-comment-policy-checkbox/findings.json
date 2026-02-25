@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpcpc_policy_page_id",
+    "wpcpc_policy_top_copy",
+    "wpcpc_external_policy_page",
+    "wpcpc_policy_page_link_open_same_tab",
+    "wpcpc_policy_page_link_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcpc_private_policy_accepted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:42.853Z"
+}

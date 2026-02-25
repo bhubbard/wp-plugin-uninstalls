@@ -1,0 +1,13 @@
+{
+  "options": [
+    "powerwaf_settings",
+    "powerwafcdn_last_update_time",
+    "powerwafcdn_last_update_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:36.290Z"
+}

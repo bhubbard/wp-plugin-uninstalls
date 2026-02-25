@@ -1,0 +1,25 @@
+{
+  "options": [
+    "tbot_settings",
+    "lastupdateid",
+    "wp_teletter_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "getupdates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "username",
+    "activity",
+    "isadmin",
+    "tbot_text",
+    "tbot_image",
+    "tbot_select",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:10.863Z"
+}

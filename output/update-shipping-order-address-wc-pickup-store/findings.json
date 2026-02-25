@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_pickup_stores",
+    "city",
+    "store_country",
+    "_wpcs_address_1",
+    "_wpcs_postcode",
+    "_shipping_address_1",
+    "_shipping_city",
+    "_shipping_country",
+    "_shipping_postcode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:18.535Z"
+}

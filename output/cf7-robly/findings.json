@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cf7_robly_settings",
+    "robly_sublists",
+    "robly_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7_robly"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:14.530Z"
+}

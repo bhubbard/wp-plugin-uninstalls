@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woo_audio_preview_admin_welcome_options",
+    "woo_audio_preview_general_options",
+    "wcap_admin_errors"
+  ],
+  "transients": [
+    "_woo_audio_preview_is_new_install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcap_audio",
+    "wcap_preview_attachment"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:42.092Z"
+}

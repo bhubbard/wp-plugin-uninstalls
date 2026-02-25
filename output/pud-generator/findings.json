@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pud_max_page",
+    "pud_default_author",
+    "pud_page_status",
+    "pud_page_visibility",
+    "pud_tour_generator",
+    "pud_tour_manage",
+    "pud_tour_placeholder"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:40.973Z"
+}

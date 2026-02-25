@@ -1,0 +1,55 @@
+{
+  "options": [
+    "*_installed",
+    "apbd_prov_*",
+    "active_sitewide_plugins",
+    "*_addons",
+    "health-check-allowed-plugins",
+    "woocommerce_prices_include_tax",
+    "woocommerce_custom_orders_table_enabled",
+    "vtpos_inv_setting",
+    "vps_pm_*",
+    "_vt_ac",
+    "apps_bd_ups",
+    "vt_addons",
+    "vitepos-lite",
+    "_vt_mu_skipped",
+    "_vtp_ps_id",
+    "vtpos_stock_setting"
+  ],
+  "transients": [
+    "dismissed_notice_*",
+    "viteposactivate"
+  ],
+  "cron_jobs": [
+    "vitepos/action/check-addon-list"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "outlet_id",
+    "thumbnail_id",
+    "_cogs_total_value",
+    "_vt_prev_purchase_price",
+    "_vt_purchase_price_change",
+    "_vtp_outlet_id",
+    "force_pw_change",
+    "billing_city",
+    "billing_phone",
+    "billing_address_1",
+    "billing_country",
+    "billing_postcode",
+    "designation",
+    "_vtpos_user_img",
+    "billing_state",
+    "added_by",
+    "_vt_stock_cal",
+    "_is_vitepos",
+    "_vt_stock_reverse",
+    "_vtp_payment_list",
+    "_wp_attachment_image_alt",
+    "_product_image_gallery",
+    "_vt_barcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:44.036Z"
+}

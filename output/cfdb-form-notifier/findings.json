@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cfdb_form_notifier_api_key",
+    "cfdb_form_notifier_dev_mode",
+    "cfdb_form_notifier_version",
+    "cfdb_form_notifier_menu_roles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:03.390Z"
+}

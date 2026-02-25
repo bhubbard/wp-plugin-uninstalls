@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mi13_access_by_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mi13-access-by-link-key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:32.375Z"
+}

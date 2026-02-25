@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpv-voting-onoff",
+    "wpv-allow-author-vote",
+    "wpv-voted-custom-txt",
+    "wpv-vote-btn-custom-txt",
+    "wpv-custom-css",
+    "wpv-voting-alert-msg",
+    "wpv-allow-public-vote",
+    "wpv-voting-db-version",
+    "wpv-top-voted-scount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:28.399Z"
+}

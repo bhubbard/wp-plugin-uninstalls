@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wptripadvisor_tripadvisor_settings",
+    "wptripadvisor_hidden_reviews",
+    "wptripadvisor_options",
+    "wpfbr_options",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wptripadvisor_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:59.234Z"
+}

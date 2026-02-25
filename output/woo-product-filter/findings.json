@@ -1,0 +1,40 @@
+{
+  "options": [
+    "*_plugin_activation_errors",
+    "*db_version",
+    "*db_installed",
+    "*plug_was_used",
+    "*_full_installed",
+    "*_opts_data",
+    "_overview_*",
+    "_subscribe_*",
+    "_rating_*",
+    "*_last__time_contact_send",
+    "*welcome_sent",
+    "*_unique_stats",
+    "woocommerce_shop_page_display",
+    "woocommerce_category_archive_display",
+    "woocommerce_hide_out_of_stock_items",
+    "widget_*",
+    "ywraq_hide_add_to_cart",
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpf_calc_meta_indexing",
+    "wpf_calc_meta_indexing_shedule",
+    "wpf_calc_meta_optimizing_shedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*-tour-hst",
+    "display_type",
+    "wcb2b_group",
+    "store_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:28.344Z"
+}

@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'csf_demo_mode'
+wp option delete '_booster_sweeper_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_mb_booster_sweeper'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_mb_booster_sweeper'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_mb_booster_sweeper'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_mb_booster_sweeper'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booster_sweeper_discover_styles_frontend'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booster_sweeper_discover_styles_frontend'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booster_sweeper_discover_styles_frontend'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booster_sweeper_discover_styles_frontend'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booster_sweeper_discover_scripts_frontend'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booster_sweeper_discover_scripts_frontend'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booster_sweeper_discover_scripts_frontend'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booster_sweeper_discover_scripts_frontend'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booster_sweeper_discover_styles_backend'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booster_sweeper_discover_styles_backend'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booster_sweeper_discover_styles_backend'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booster_sweeper_discover_styles_backend'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booster_sweeper_discover_scripts_backend'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booster_sweeper_discover_scripts_backend'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booster_sweeper_discover_scripts_backend'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booster_sweeper_discover_scripts_backend'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booster_sweeper_dequeued_styles_frontend'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booster_sweeper_dequeued_styles_frontend'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booster_sweeper_dequeued_styles_frontend'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booster_sweeper_dequeued_styles_frontend'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booster_sweeper_dequeued_scripts_frontend'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booster_sweeper_dequeued_scripts_frontend'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booster_sweeper_dequeued_scripts_frontend'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booster_sweeper_dequeued_scripts_frontend'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booster_sweeper_dequeued_styles_backend'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booster_sweeper_dequeued_styles_backend'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booster_sweeper_dequeued_styles_backend'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booster_sweeper_dequeued_styles_backend'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booster_sweeper_dequeued_scripts_backend'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booster_sweeper_dequeued_scripts_backend'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booster_sweeper_dequeued_scripts_backend'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booster_sweeper_dequeued_scripts_backend'"

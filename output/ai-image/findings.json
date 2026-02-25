@@ -1,0 +1,35 @@
+{
+  "options": [
+    "bdthemes_openai_api_key",
+    "bdthemes_unsplash_access_key",
+    "bdthemes_giphy_api_key",
+    "bdthemes_gemini_api_key",
+    "bdthemes_ai_image_provider_gemini",
+    "bdthemes_ai_image_provider_openai",
+    "bdthemes_ai_image_provider_*",
+    "bdthemes_ai_image_provider_order",
+    "bdthemes_ai_image_max_upload_width",
+    "bdthemes_ai_image_max_upload_height",
+    "bdthemes_ai_image_default_provider",
+    "bdthemes_ai_image_attribution",
+    "bdthemes_ai_image_hide_media_modal_tab",
+    "bdthemes_ai_image_custom_sizes",
+    "bdthemes_ai_image_items_per_page",
+    "bdthemes_ai_image_auto_alt_text",
+    "bdthemes_ai_image_auto_title",
+    "bdthemes_ai_image_default_view_mode",
+    "bdthemes_ai_image_thumbnail_size",
+    "bdthemes_ai_image_load_more_mode",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:15.395Z"
+}

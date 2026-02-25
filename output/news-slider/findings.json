@@ -1,0 +1,15 @@
+{
+  "options": [
+    "comet_breaking_news_common"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slide_bg_image",
+    "b_news_content",
+    "b_news_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:19.626Z"
+}

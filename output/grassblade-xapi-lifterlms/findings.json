@@ -1,0 +1,16 @@
+{
+  "options": [
+    "grassblade_tincan_endpoint",
+    "grassblade_free_addons",
+    "grassblade_addons"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show_xapi_content",
+    "xapi_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:14.028Z"
+}

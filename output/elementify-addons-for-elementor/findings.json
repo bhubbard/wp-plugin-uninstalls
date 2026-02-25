@@ -1,0 +1,15 @@
+{
+  "options": [
+    "elementify_addons_for_elementor_object_options",
+    "elementify_addons_for_elementor_activation_redirect",
+    "elementify_addons_for_elementor_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:07.101Z"
+}

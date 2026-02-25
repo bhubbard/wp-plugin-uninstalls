@@ -1,0 +1,17 @@
+{
+  "options": [
+    "thumbgenie_image_model",
+    "thumbgenie_quality",
+    "thumbgenie_style",
+    "thumbgenie_size",
+    "thumbgenie_api_key"
+  ],
+  "transients": [
+    "thumbgenie_subscription_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:15.914Z"
+}

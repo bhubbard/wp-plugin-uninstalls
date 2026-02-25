@@ -1,0 +1,33 @@
+{
+  "options": [
+    "storegrowth_activation_redirect",
+    "active_sitewide_plugins",
+    "spsg_user_consent_data",
+    "spsg_ini_completion",
+    "woocommerce_currency_pos",
+    "spsg_bogo_dokan_vendors_settings",
+    "spsg_bogo_general_settings",
+    "spsg_bogo_migration_backup",
+    "spsg_countdown_timer_settings",
+    "spsg_direct_checkout_settings",
+    "spsg_floating_notification_bar_settings",
+    "spsg_fly_cart_settings",
+    "spsg_progressive_discount_banner_settings",
+    "spsg_discount_banner_flags",
+    "spsg_quick_view_settings",
+    "spsg_popup_products",
+    "spsg_stock_bar_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_spsg_countdown_timer_discount_start",
+    "_spsg_countdown_timer_discount_end",
+    "_spsg_countdown_timer_discount_amount",
+    "_spsg_direct_checkout_button_layout",
+    "wpcvi_images"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:46.681Z"
+}

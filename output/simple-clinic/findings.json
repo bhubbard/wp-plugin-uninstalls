@@ -1,0 +1,18 @@
+{
+  "options": [
+    "simpleclinic_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "suffix",
+    "jobtitle",
+    "pracphoto",
+    "_wp_attachment_image_alt",
+    "pracphoto2",
+    "_wp_attachment_image_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:32.374Z"
+}

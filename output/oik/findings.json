@@ -1,0 +1,31 @@
+{
+  "options": [
+    "bw_options",
+    "bw_options1",
+    "bw_plugins",
+    "bw_buttons",
+    "bw_admin_options",
+    "active_sitewide_plugins",
+    "_site_transient_update_plugins",
+    "bw_themes",
+    "_site_transient_update_themes"
+  ],
+  "transients": [
+    "plugin_slugs",
+    "theme_slugs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bw_image_link",
+    "_wp_attachment_metadata",
+    "_wp_attached_file",
+    "_sc_param_code",
+    "_oik_sc_code",
+    "_lat",
+    "_long",
+    "_post_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:09.747Z"
+}

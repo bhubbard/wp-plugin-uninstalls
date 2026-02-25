@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shared_counter_bitacoras_v2",
+    "_shared_counter_facebook_v2",
+    "_shared_counter_gbuzz_v2",
+    "_shared_counter_linkedin_v2",
+    "_shared_counter_meneame_v2",
+    "_shared_vote_url_meneame",
+    "_shared_counter_twitter_v2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:07.077Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rpi_settings",
+    "rpi_settings_dropdown",
+    "$rpi_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*url",
+    "rpi_label*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:48.502Z"
+}

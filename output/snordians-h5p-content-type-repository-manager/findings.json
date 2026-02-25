@@ -1,0 +1,14 @@
+{
+  "options": [
+    "snordiansh5pcontenttyperepositorymanager_defaults_set",
+    "snordiansh5pcontenttyperepositorymanager_option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "snordiansh5pcontenttyperepositorymanager_update_libraries"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:55.258Z"
+}

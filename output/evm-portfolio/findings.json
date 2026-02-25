@@ -1,0 +1,21 @@
+{
+  "options": [
+    "evm_fb",
+    "evm_twitter",
+    "evm_linkedin",
+    "evm_height",
+    "evm_width",
+    "evm_tcolor",
+    "evm_color",
+    "evm_htbcolor",
+    "evm_htcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:11.067Z"
+}

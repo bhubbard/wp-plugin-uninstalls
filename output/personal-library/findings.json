@@ -1,0 +1,13 @@
+{
+  "options": [
+    "personal_library_contributor",
+    "personal_library_author",
+    "personal_library_editor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:44.661Z"
+}

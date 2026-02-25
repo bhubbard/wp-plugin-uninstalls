@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woo_uploads_allowed_ext",
+    "woo_uploads_upload_as_quantity"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_uploads_on"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:41.475Z"
+}

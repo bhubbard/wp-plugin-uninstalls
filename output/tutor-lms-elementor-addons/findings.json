@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_controls_usage",
+    "_elementor_data",
+    "_tutor_lms_elementor_template_id",
+    "_elementor_css",
+    "_elementor_element_cache",
+    "_is_preview",
+    "_tutor_is_public_course"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:57.492Z"
+}

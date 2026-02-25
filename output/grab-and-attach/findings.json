@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_version",
+    "wpt_checkbox_plugin_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "alt-post-title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:26.835Z"
+}

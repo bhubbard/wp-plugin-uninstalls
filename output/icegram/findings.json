@@ -1,0 +1,57 @@
+{
+  "options": [
+    "icegram_sample_data_imported",
+    "icegram_cache_compatibility",
+    "active_sitewide_plugins",
+    "ig_mailer_is_promotion_notice_dismissed",
+    "ig_mailer_is_tried",
+    "*_icegram",
+    "*_date",
+    "_icegram_activation_redirect",
+    "icegram_db_version",
+    "ig_last_gallery_items",
+    "requested_gallery_item_with_ajax",
+    "ig_cat_list",
+    "icegram_share_love",
+    "icl_sitepress_settings",
+    "ig_imported_gallery_items",
+    "ig_is_onboarding_completed",
+    "ig_engage_plan",
+    "ig_trial_started_at",
+    "ig_opted_trial",
+    "ig_trial_feature_recover",
+    "ig_trial_campaign_id",
+    "ig_trial_message_ids",
+    "ig_trial_to_premium_notice_date",
+    "*_tracker_activated",
+    "*_installed_on",
+    "*_tracking_last_send",
+    "ig_installed_on",
+    "ig_allow_tracking",
+    "ig_offer_bfcm_2025_icegram",
+    "ig_new_admin_ui_icegram"
+  ],
+  "transients": [
+    "ig_last_gallery_item_update",
+    "ig_trial"
+  ],
+  "cron_jobs": [
+    "*_send_tracking_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "campaign_preview",
+    "icegram_campaign_target_rules",
+    "icegram_message_data",
+    "icegram_message_preview_data",
+    "messages",
+    "icegram_campaign_target_pages",
+    "icegram_campaign_exclude_target_pages",
+    "icegram_trial_custom_css",
+    "*_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:28.614Z"
+}

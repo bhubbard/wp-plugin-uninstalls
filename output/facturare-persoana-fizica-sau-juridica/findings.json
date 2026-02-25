@@ -1,0 +1,20 @@
+{
+  "options": [
+    "av_facturare",
+    "woofacturareproupsell",
+    "facturare-rate-time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cnp",
+    "cui",
+    "nr_reg_com",
+    "nume_banca",
+    "iban",
+    "tip_facturare"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:31.772Z"
+}

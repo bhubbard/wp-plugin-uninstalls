@@ -1,0 +1,40 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "yith_wcan_version",
+    "yith_wcan_db_version",
+    "yith_wcan_default_preset_created",
+    "yith_wcan_upgrade_note_status",
+    "yit_wcan_options",
+    "yith_wcan_lazy_load_filters",
+    "yith_wcan_paginate_terms",
+    "woocommerce_attribute_lookup_enabled",
+    "yith_woocommerce_variations_filtering",
+    "yith-wccl-show-single-variations-loop",
+    "yith-wccl-hide-parent-products-loop",
+    "yit_font_awesome_list",
+    "yit_dashicons_list",
+    "yit_plugin_fw_panel_wc_default_options_set",
+    "*_width",
+    "*_height",
+    "*_options",
+    "yit_recently_activated",
+    "yith_system_info",
+    "*-yith-attachment-id",
+    "yith_wcan_ajax_filters"
+  ],
+  "transients": [
+    "yith-plugin-fw-latest-hc-articles",
+    "yith-plugin-fw-system-status-tls-version",
+    "yith-plugin-fw-system-status-output-ip",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "blog-cats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:35.669Z"
+}

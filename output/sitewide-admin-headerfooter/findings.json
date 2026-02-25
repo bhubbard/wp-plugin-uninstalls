@@ -1,0 +1,15 @@
+{
+  "options": [
+    "shf_admin_footer_content",
+    "shf_admin_header_content",
+    "shf_footer_content",
+    "shf_header_content",
+    "shf_add_to_admin_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:37.910Z"
+}

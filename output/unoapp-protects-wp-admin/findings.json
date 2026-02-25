@@ -1,0 +1,16 @@
+{
+  "options": [
+    "unopwa_active",
+    "unopwa_before_rewrite_text",
+    "unopwa_ips",
+    "unopwa_preview",
+    "unopwa_rewrite_text",
+    "unopwa_logout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:57.494Z"
+}

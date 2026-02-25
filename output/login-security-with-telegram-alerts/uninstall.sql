@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('lsec_max_attempts', 'lsec_lockout_duration', 'lsec_bot_token', 'lsec_chat_id', 'lsec_notify_roles', 'lsec_enable_geolocation', 'lsec_notify_on_failed_attempt', 'lsec_notify_admin_on_lockout', 'lsec_manual_blacklist_ips', 'lsec_manual_whitelist_ips', 'lsec_custom_admin_url', 'lsec_notify_new_device_login', 'lsec_db_version', 'lsec_max_devices_per_user', 'lsec_access_denied_message', 'lsec_enable_content_restriction');
+

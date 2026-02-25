@@ -1,0 +1,18 @@
+{
+  "options": [
+    "haway_send_site_details",
+    "haway_listing_page",
+    "haway_listings_per_page",
+    "haway_client_id",
+    "haway_client_secret",
+    "haway_access_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "haway_shortcode_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:30.873Z"
+}

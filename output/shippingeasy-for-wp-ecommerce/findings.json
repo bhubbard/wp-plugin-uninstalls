@@ -1,0 +1,21 @@
+{
+  "options": [
+    "shippingeasy_rate_settings_errors",
+    "base_country",
+    "base_city",
+    "base_zipcode",
+    "shippingeasy_rate_settings",
+    "shippingeasy_main_settings",
+    "shippingeasy_generated_apikey",
+    "shippingeasy_available_services",
+    "currency_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpsc_product_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:41.837Z"
+}

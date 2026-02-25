@@ -1,0 +1,14 @@
+{
+  "options": [
+    "embed_autourls"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "_bstw_visual_editor_disabled_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:58.374Z"
+}

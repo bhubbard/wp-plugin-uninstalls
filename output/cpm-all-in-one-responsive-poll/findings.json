@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cpm_wp_poll_settings",
+    "cpm_wp_poll_voted_user_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cpm_wp_poll_votes",
+    "cpm_wp_poll_chart_type",
+    "cpm_poll_multiple_value",
+    "cpm_wp_poll_show_result_only",
+    "cpm_wp_poll_never_expires",
+    "cpm_poll_expires_on"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:09.472Z"
+}

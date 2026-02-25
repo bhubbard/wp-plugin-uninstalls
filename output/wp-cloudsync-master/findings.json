@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_wizard_completed",
+    "mcloud-storage-provider",
+    "mcloud-storage-google-credentials",
+    "mcloud-storage-google-bucket",
+    "mcloud-storage-s3-access-key",
+    "mcloud-storage-s3-secret",
+    "mcloud-storage-s3-bucket",
+    "mcloud-storage-s3-region",
+    "mcloud-storage-s3-endpoint",
+    "mcloud-storage-prefix",
+    "wpmcs_global_settings",
+    "tantan_wordpress_s3",
+    "sm_root_dir",
+    "sm_bucket",
+    "sm_key_json",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:30.229Z"
+}

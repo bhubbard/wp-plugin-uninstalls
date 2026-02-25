@@ -1,0 +1,35 @@
+{
+  "options": [
+    "sp_eap_settings",
+    "shapedplugin_offer_banner_dismissed_*",
+    "sp_eafree_review_notice_dismiss",
+    "sp_eap_flush_rewrite_rules",
+    "easy_accordion_free_version",
+    "easy_accordion_free_first_version",
+    "easy_accordion_free_activation_date",
+    "easy_accordion_free_db_version",
+    "easy_accordion_page_id*",
+    "_transient_timeout_sp-eap-framework-transient",
+    "_transient_sp-eap-framework-transient",
+    "_transient_timeout_eapro-metabox-transient",
+    "_transient_eapro-metabox-transient",
+    "_transient_timeout_spf-eap-framework-transient",
+    "_transient_spf-eap-framework-transient",
+    "shapedplugin_offer_banner_dismissed_black_friday_2025",
+    "shapedplugin_offer_banner_dismissed_new_year_2026"
+  ],
+  "transients": [
+    "spea_plugins_data",
+    "spea_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sp_eap_upload_options",
+    "sp_eap_shortcode_options",
+    "_eapro_errors_*",
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:44.400Z"
+}

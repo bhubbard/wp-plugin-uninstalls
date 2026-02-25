@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gesundheitsdatenbefreier_mail_text",
+    "gesundheitsdatenbefreier_threshold",
+    "gesundheitsdatenbefreier_info_text",
+    "gesundheitsdatenbefreier_mail_subject",
+    "gesundheitsdatenbefreier_good_bye_text",
+    "gesundheitsdatenbefreier_counter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:27.170Z"
+}

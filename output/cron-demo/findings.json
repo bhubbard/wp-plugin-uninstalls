@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dprx_crondemo_mail",
+    "dprx_crondemo_inseconds",
+    "dprx_crondemo_recc",
+    "dprx_crondemo_triggercount"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dprx_crondemo_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:30.569Z"
+}

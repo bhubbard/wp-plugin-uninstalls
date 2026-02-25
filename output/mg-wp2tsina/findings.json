@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mg_wp2tsina",
+    "mg_wp2tsina_last_result_for_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mg_wp2tsina_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:15.359Z"
+}

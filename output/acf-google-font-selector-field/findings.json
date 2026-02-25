@@ -1,0 +1,13 @@
+{
+  "options": [
+    "acfgfs_api_key"
+  ],
+  "transients": [
+    "acfgfs_fonts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:10.876Z"
+}

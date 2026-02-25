@@ -1,0 +1,51 @@
+{
+  "options": [
+    "aw_shipping_wizard_completed",
+    "aw_shipping_wizard_hidden",
+    "aw_shipping_license",
+    "aw_shipping_settings",
+    "woocommerce_weight_unit",
+    "aw_shipping_cod_enabled",
+    "aw_shipping_cod_activated_at",
+    "aw_shipping_kyc_verified",
+    "aw_shipping_kyc_verified_at",
+    "aw_shipping_analysis_result",
+    "aw_shipping_analysis_timestamp",
+    "woocommerce_jne_shipping_license_code",
+    "*_settings",
+    "*_settings_backup",
+    "woocommerce_shipping_method_selection_priority",
+    "woocommerce_jne_shipping_settings",
+    "woocommerce_price_num_decimals",
+    "woocommerce_email_footer_text",
+    "_transient_timeout_*",
+    "aw_shipping_do_activation_redirect",
+    "aw_shipping_db_version"
+  ],
+  "transients": [
+    "aw_wizard_license_type",
+    "aw_wizard_license_error",
+    "aw_wizard_config_error",
+    "aw_wizard_courier_error",
+    "aw_wizard_services_error",
+    "aw_pending_log_*",
+    "aw_shipping_kyc_status",
+    "aw_pickup_request_*",
+    "aw_bulk_awb_orders_*",
+    "aw_shipping_services_domestic",
+    "aw_shipping_services_instant",
+    "aw_shipping_services_international",
+    "aw_shipping_couriers_domestic",
+    "aw_shipping_couriers_instant",
+    "aw_shipping_couriers_international"
+  ],
+  "cron_jobs": [
+    "aw_api_log_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_weight"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:09.778Z"
+}

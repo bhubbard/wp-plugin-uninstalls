@@ -1,0 +1,16 @@
+{
+  "options": [
+    "REGIEMBL_settings",
+    "REGIEMBL_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "REGIEMBL_daily_check",
+    "REGIEMBL_weekly_cleanup",
+    "REGIEMBL_monthly_report"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:32.225Z"
+}

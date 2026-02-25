@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hits_6",
+    "hits_4",
+    "whois_url",
+    "ipv6detector_v4_msg",
+    "ipv6detector_v6_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:10.306Z"
+}

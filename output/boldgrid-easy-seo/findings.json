@@ -1,0 +1,19 @@
+{
+  "options": [
+    "options_meta_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bgseo_canonical",
+    "bgseo_title",
+    "bgseo_description",
+    "meta_description",
+    "bgseo_robots_follow",
+    "bgseo_robots_index",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:47.651Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "notification_master_version",
+    "notification_master_instagram_tokens"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "ntfm_delete_logs",
+    "ntfm_notifications_delete_logs",
+    "ntfm_cleanup_failed_subscriptions",
+    "notification_master_refresh_instagram_token"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "connections",
+    "ntfm_review_notice_dismissed",
+    "ntfm_review_notice_permanent_dismissed",
+    "ntfm_review_notice_first_seen",
+    "_edit_last",
+    "trigger"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:24.714Z"
+}

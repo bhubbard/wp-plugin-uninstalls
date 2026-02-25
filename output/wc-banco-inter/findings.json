@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_email_base_color",
+    "*_PathKey",
+    "*_PathCRT",
+    "*_WebhookCRT",
+    "plugin_banco_inter_licence_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "banco_inter_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method",
+    "boleto",
+    "nossonumero",
+    "codigoSolicitacao",
+    "transaction",
+    "pixCopiaECola",
+    "pixTxid",
+    "billing_cpf",
+    "billing_cnpj",
+    "pix"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:34.367Z"
+}

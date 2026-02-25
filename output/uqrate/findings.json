@@ -1,0 +1,14 @@
+{
+  "options": [
+    "uqrate_chnkey_key",
+    "uqrate_opt_dropdown_1",
+    "uqrate_opt_checkbox_1",
+    "*error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:36.858Z"
+}

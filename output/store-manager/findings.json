@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sm-options",
+    "*-options",
+    "sm-google-options",
+    "sm-openstreetmap-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sm-address",
+    "sm-openinghours",
+    "sm-contactinfo",
+    "sm-gallery-ids"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:49.591Z"
+}

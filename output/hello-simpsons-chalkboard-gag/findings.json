@@ -1,0 +1,15 @@
+{
+  "options": [
+    "simpsons-gags",
+    "simpsons-first-run",
+    "simpsons-error"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "simpsons-gag-update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:54.189Z"
+}

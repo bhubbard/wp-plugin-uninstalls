@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fwaum_settings",
+    "fwaum_audit_migration_done",
+    "fwaum_network_settings"
+  ],
+  "transients": [
+    "fwaum_online_users_cache"
+  ],
+  "cron_jobs": [
+    "fwaum_cleanup_audit_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fwaum_session_start",
+    "fwaum_last_login"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:54.618Z"
+}

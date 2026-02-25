@@ -1,0 +1,18 @@
+{
+  "options": [
+    "waap_options",
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_atcid",
+    "_anytrack_processed",
+    "_wfocu_primary_order",
+    "_wfocu_upsell_amount",
+    "_anytrack_tracked_upsells"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:00.777Z"
+}

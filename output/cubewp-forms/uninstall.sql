@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cwp_custom_fields');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('forms_email_recipient', 'admin_email_post_types', '_cwp_group_visibility', '_cwp_group_types', '_cwp_group_order', '_cwp_group_fields', '_cwp_group_login', '_cwp_group_recaptcha', '_cwp_group_form_id', '_cwp_group_style', '_cwp_group_button_text', '_cwp_group_button_width', '_cwp_group_button_position', '_cwp_group_button_class', '_cwp_group_display', '_cwp_custom_form_data_id', '_cwp_group_page_id', '_cwp_group_emails', '_cwp_group_user_email', '_cwp_group_mailchimp_list_id', '_cwp_group_mailchimp');
+DELETE FROM wp_usermeta WHERE meta_key IN ('forms_email_recipient', 'admin_email_post_types', '_cwp_group_visibility', '_cwp_group_types', '_cwp_group_order', '_cwp_group_fields', '_cwp_group_login', '_cwp_group_recaptcha', '_cwp_group_form_id', '_cwp_group_style', '_cwp_group_button_text', '_cwp_group_button_width', '_cwp_group_button_position', '_cwp_group_button_class', '_cwp_group_display', '_cwp_custom_form_data_id', '_cwp_group_page_id', '_cwp_group_emails', '_cwp_group_user_email', '_cwp_group_mailchimp_list_id', '_cwp_group_mailchimp');
+DELETE FROM wp_termmeta WHERE meta_key IN ('forms_email_recipient', 'admin_email_post_types', '_cwp_group_visibility', '_cwp_group_types', '_cwp_group_order', '_cwp_group_fields', '_cwp_group_login', '_cwp_group_recaptcha', '_cwp_group_form_id', '_cwp_group_style', '_cwp_group_button_text', '_cwp_group_button_width', '_cwp_group_button_position', '_cwp_group_button_class', '_cwp_group_display', '_cwp_custom_form_data_id', '_cwp_group_page_id', '_cwp_group_emails', '_cwp_group_user_email', '_cwp_group_mailchimp_list_id', '_cwp_group_mailchimp');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('forms_email_recipient', 'admin_email_post_types', '_cwp_group_visibility', '_cwp_group_types', '_cwp_group_order', '_cwp_group_fields', '_cwp_group_login', '_cwp_group_recaptcha', '_cwp_group_form_id', '_cwp_group_style', '_cwp_group_button_text', '_cwp_group_button_width', '_cwp_group_button_position', '_cwp_group_button_class', '_cwp_group_display', '_cwp_custom_form_data_id', '_cwp_group_page_id', '_cwp_group_emails', '_cwp_group_user_email', '_cwp_group_mailchimp_list_id', '_cwp_group_mailchimp');
+

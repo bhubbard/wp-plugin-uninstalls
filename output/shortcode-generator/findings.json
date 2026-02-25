@@ -1,0 +1,12 @@
+{
+  "options": [
+    "scg_version",
+    "scg_widget_many"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:01.732Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_notice_for_logged_in_only",
+    "_notice_color",
+    "pippin_notice_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:05.398Z"
+}

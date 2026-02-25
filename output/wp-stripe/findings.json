@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wp_stripe_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-stripe-public",
+    "wp-stripe-name",
+    "wp-stripe-email",
+    "wp-stripe-live",
+    "wp-stripe-date",
+    "wp-stripe-amount",
+    "wp-stripe-currency",
+    "wp-stripe-fee",
+    "wp-stripe-project-transactions",
+    "wp-stripe-project-funded"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:06.890Z"
+}

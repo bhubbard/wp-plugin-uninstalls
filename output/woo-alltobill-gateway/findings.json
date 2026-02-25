@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_alltobill_title",
+    "woocommerce_alltobill_instance",
+    "woocommerce_alltobill_sid",
+    "woocommerce_alltobill_prefix",
+    "woocommerce_alltobill_logos",
+    "woocommerce_alltobill_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:31.487Z"
+}

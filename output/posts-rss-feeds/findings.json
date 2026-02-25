@@ -1,0 +1,13 @@
+{
+  "options": [
+    "post_type_to_feed",
+    "post_cont_in_feed",
+    "rss_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:19.867Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "filter_more_posts",
+    "infinite_post_settings",
+    "infinite_scroll",
+    "load_more_posts",
+    "pagination_more_posts",
+    "infinite_woo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:40.078Z"
+}

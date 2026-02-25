@@ -1,0 +1,35 @@
+{
+  "options": [
+    "miga_shopconnect_storefront_token",
+    "miga_shopconnect_shop_url",
+    "miga_shopconnect_prefetch",
+    "miga_shopconnect_language",
+    "miga_shopconnect_country",
+    "miga_shopconnect_hide_side_card",
+    "miga_shopconnect_show_side_card",
+    "miga_shopconnect_close_accordion",
+    "miga_shopconnect_show_recommendations",
+    "miga_shopconnect_recommendations_meta",
+    "miga_shopconnect_recommendations_meta_len",
+    "miga_shopconnect_recommendations_amount",
+    "miga_shopconnect_recommendations_layout",
+    "miga_shopconnect_store_button_text",
+    "miga_shopconnect_metafields_json",
+    "miga_shopconnect_storefront_sync",
+    "miga_shopconnect_policy_text",
+    "miga_shopconnect_permalink_products",
+    "miga_shopconnect_permalink_collections"
+  ],
+  "transients": [
+    "shopconnect_*"
+  ],
+  "cron_jobs": [
+    "miga_shopconnect_syncProducts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "layout_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:56.846Z"
+}

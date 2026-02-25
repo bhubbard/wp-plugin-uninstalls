@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sharedaddy_disable_resources",
+    "sharing-options",
+    "sharing-services",
+    "text_direction"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sharing_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:58.240Z"
+}

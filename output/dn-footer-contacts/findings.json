@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dn_footer_contacts-fields",
+    "dn_footer_contacts-last_id",
+    "dn_footer_contacts-invitation",
+    "dn_footer_contacts-settings",
+    "dn_footer_contacts-stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:24.748Z"
+}

@@ -1,0 +1,41 @@
+{
+  "options": [
+    "receiptful_widgets",
+    "receiptful_public_user_key",
+    "_receiptful_queue",
+    "receiptful_debug_mode_enabled",
+    "_receiptful_resend_queue",
+    "receiptful_api_key",
+    "receiptful_woocommerce_version",
+    "woocommerce_tax_display_cart",
+    "receiptful_suppress_wc_processing_email",
+    "receiptful_suppress_wc_completed_email",
+    "receiptful_enable_search",
+    "receiptful_enable_recommendations",
+    "receiptful_enable_feedback_widgets",
+    "receiptful_marketing_optin",
+    "receiptful_marketing_optin_text",
+    "receiptful_completed_initial_product_sync",
+    "receiptful_completed_initial_receipt_sync",
+    "woocommerce_tax_total_display",
+    "woocommerce_version",
+    "receiptful_enable_abandoned_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "receiptful_check_resend",
+    "receiptful_initial_product_sync",
+    "receiptful_initial_receipt_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_receiptful_token",
+    "_receiptful_last_update",
+    "_receiptful_web_link",
+    "_receiptful_receipt_id",
+    "_purchase_note",
+    "_customer_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:59.404Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpcsc_settings",
+    "wpcsc_*"
+  ],
+  "transients": [
+    "wpclever_plugins",
+    "wpcsc_chart_*",
+    "wpcsc_charts_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "type",
+    "terms",
+    "combined",
+    "above_text",
+    "under_text",
+    "table_data",
+    "wpcsc_active",
+    "wpcsc_size_charts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:47.760Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dlm-hideprices",
+    "dlm-name",
+    "dlm-color",
+    "dlm-api-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:10.949Z"
+}

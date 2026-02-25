@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpmc_mail_use_network_settings",
+    "wpmc_mail_message",
+    "wpmc_one_email",
+    "wpmc_one_use_network_settings",
+    "wpmc_two_use_network_settings",
+    "wpmc_three_use_network_settings",
+    "wpmc_five_use_network_settings",
+    "wpmc_six_use_network_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:10.494Z"
+}

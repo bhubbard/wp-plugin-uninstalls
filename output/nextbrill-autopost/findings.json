@@ -1,0 +1,29 @@
+{
+  "options": [
+    "nbapf_openai_api_key",
+    "nbapf_openai_model",
+    "nbapf_use_dalle"
+  ],
+  "transients": [
+    "nbapf_queue_check"
+  ],
+  "cron_jobs": [
+    "nbapf_process_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_canonical",
+    "_yoast_wpseo_is_cornerstone",
+    "rank_math_focus_keyword",
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_canonical_url",
+    "rank_math_primary_focus_keyword"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:37.419Z"
+}

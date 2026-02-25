@@ -1,0 +1,19 @@
+{
+  "options": [
+    "WPGAlerts_Max_Alerts",
+    "WPGAlerts_Strip_Tags",
+    "WPGAlerts_Content_Post",
+    "WPGAlerts_Content_Pre",
+    "WPGAlerts_Author_Post",
+    "WPGAlerts_Author_Pre",
+    "WPGAlerts_Title_Post",
+    "WPGAlerts_Title_Pre",
+    "WPGAlerts_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:19.007Z"
+}

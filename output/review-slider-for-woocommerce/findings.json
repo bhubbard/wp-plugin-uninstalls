@@ -1,0 +1,20 @@
+{
+  "options": [
+    "srfw_woo_settings",
+    "srfw_activated_time_woo",
+    "srfw_notice_hide_woo",
+    "wprevpro_woo_settings",
+    "*_version",
+    "*_current_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "srfw_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:57.503Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "importer_scheduled_cleanup",
+    "yml-importer-products",
+    "yml-importer-categories",
+    "yml-importer"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yml-importer:picture",
+    "yml-importer:id",
+    "yml-importer:date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:32.366Z"
+}

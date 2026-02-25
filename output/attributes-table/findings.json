@@ -1,0 +1,27 @@
+{
+  "options": [
+    "product_attribute",
+    "product_attribute_label",
+    "product_attribute_unit",
+    "product_attributes_number",
+    "al_display_attributes",
+    "ic_standard_attributes",
+    "ic_attributes_compare",
+    "ic_product_upgrade_done",
+    "attributes_table_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ic_scheduled_attributes_clear",
+    "ic_scheduled_attributes_assignment"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_size_length",
+    "_size_width",
+    "_size_height",
+    "_weight"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:07.061Z"
+}

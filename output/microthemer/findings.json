@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_fl_builder_settings",
+    "microthemer_activation",
+    "microthemer_autoload_preferences",
+    "preferences_themer_loader"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "my_body_classes",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:13.744Z"
+}

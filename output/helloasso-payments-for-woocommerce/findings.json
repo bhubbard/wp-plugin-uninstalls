@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_helloasso_settings",
+    "helloasso_access_token_asso",
+    "helloasso_refresh_token_asso",
+    "helloasso_testmode",
+    "helloasso_token_expires_in_asso",
+    "helloasso_refresh_token_expires_in_asso",
+    "helloasso_access_token",
+    "helloasso_refresh_token",
+    "helloasso_token_expires_in",
+    "helloasso_refresh_token_expires_in",
+    "helloasso_code_verifier",
+    "helloasso_state",
+    "helloasso_authorization_url",
+    "helloasso_organization_slug",
+    "helloasso_webhook_url",
+    "helloasso_webhook_data",
+    "woocommerce_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hello_asso_cron_refresh_token_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:25.839Z"
+}

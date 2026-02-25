@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ssmt_marquee_text",
+    "ssmt_marquee_speed",
+    "ssmt_marquee_url",
+    "ssmt_marquee_bg_color",
+    "ssmt_span_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:35.645Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_amember_login_api_url",
+    "wp_amember_login_api_key",
+    "wp_amember_login",
+    "my_option_name",
+    "wp_amember_login_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:51.959Z"
+}

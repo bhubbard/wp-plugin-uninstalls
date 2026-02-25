@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "*_promo_hide"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:41.816Z"
+}

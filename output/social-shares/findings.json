@@ -1,0 +1,15 @@
+{
+  "options": [
+    "social_shares"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "social_shares"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "shares"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:53.385Z"
+}

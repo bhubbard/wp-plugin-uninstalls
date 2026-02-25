@@ -1,0 +1,28 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "widget_*",
+    "advanced_import_settings_options",
+    "advanced_import_reset_notice"
+  ],
+  "transients": [
+    "delayed_posts",
+    "imported_term_ids",
+    "imported_post_ids",
+    "post_orphans",
+    "content.json",
+    "widgets.json",
+    "options.json",
+    "adi_elementor_data_posts"
+  ],
+  "cron_jobs": [
+    "advanced_import_weekly_scheduled_events",
+    "advanced_import_daily_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:03.130Z"
+}

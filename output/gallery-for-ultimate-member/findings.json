@@ -1,0 +1,17 @@
+{
+  "options": [
+    "um_gallery_version",
+    "um_options",
+    "um_gallery",
+    "um_gallery_pro_addons"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "role",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:05.130Z"
+}

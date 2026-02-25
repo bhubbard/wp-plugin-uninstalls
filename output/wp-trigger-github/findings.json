@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_trigger_github_last_triggered_timestamp",
+    "ga_option_token",
+    "ga_option_username",
+    "ga_option_repo",
+    "ga_option_workflow"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:49.947Z"
+}

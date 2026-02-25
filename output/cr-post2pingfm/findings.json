@@ -1,0 +1,39 @@
+{
+  "options": [
+    "cl_post_pingfm_api_key",
+    "cl_post_pingfm_message_template_1",
+    "cl_post_pingfm_message_template_2",
+    "cl_post_pingfm_message_template_3",
+    "cl_post_pingfm_message_template_4",
+    "cl_post_pingfm_message_template_5",
+    "cl_post_pingfm_message_template_6",
+    "cl_post_pingfm_message_template_7",
+    "cl_post_pingfm_message_template_8",
+    "cl_post_pingfm_message_template_9",
+    "cl_post_pingfm_message_template_10",
+    "cr_ping_connection_method",
+    "cr_post_pingfm_template_mode",
+    "cl_post_pingfm_ping_mode",
+    "cl_post_pingfm_ping_mode_category",
+    "cl_post_pingfm_publish_mode",
+    "cl_post_pingfm_republish_template",
+    "cl_post_pingfm_ping_republish_template_text",
+    "cr_post_2_pingfm_submit_post_submitted_*",
+    "cl_post_pingfm_message_template_*",
+    "*_1",
+    "*_2",
+    "*_3",
+    "*_4",
+    "*_5"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cr_post_2_pingfm_custom_message",
+    "_cr_post_2_pingfm_dont_ping_this_post",
+    "_cr_post_2_pingfm_custom_message_send_on_update"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:36.329Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "ECP_cron_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bitcoins_address",
+    "bch_cashaddr",
+    "order_total_in_btc",
+    "bitcoins_paid_total",
+    "bitcoins_refunded",
+    "exchange_rate",
+    "_incoming_payments",
+    "_payment_completed",
+    "bitcoin_variant"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:54.926Z"
+}

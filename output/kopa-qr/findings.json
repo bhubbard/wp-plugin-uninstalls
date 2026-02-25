@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_kopa_custom_img_position",
+    "woocommerce_kopa_max_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_kopa_qr_position",
+    "kopa_qr_code_link",
+    "kopa_deep_link",
+    "kopa_qr_code",
+    "_display_kopa_qr_code",
+    "kopa_qr_post_status",
+    "kopa_qr_code_request"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:51.203Z"
+}

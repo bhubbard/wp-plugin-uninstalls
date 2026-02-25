@@ -1,0 +1,38 @@
+{
+  "options": [
+    "ratcwp_hide_user_role",
+    "ratcwp_hide_cart_button",
+    "ratcwp_hide_products",
+    "cps_hide_categories",
+    "ratcwp_enable_hide_pirce_guest",
+    "ratcwp_enable_hide_pirce_registered",
+    "ratcwp_price_text",
+    "ratcwp_cart_button_link",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "ratcwp_enable_hide_pirce",
+    "ratcwp_enable_hide_pirce_all",
+    "ratcwp_hide_price",
+    "ratcwp_cart_button_text"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpiudacb_disable_add_to_cart",
+    "wpiudacb_inqure_us_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:19.568Z"
+}

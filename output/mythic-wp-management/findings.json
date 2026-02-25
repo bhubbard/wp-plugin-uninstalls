@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mythic-wp-key",
+    "mythic-wp-last_query",
+    "mythic-wp-last_cron",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "mythic_wp_last_cron_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:29.961Z"
+}

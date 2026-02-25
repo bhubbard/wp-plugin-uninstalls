@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "desktop_columns",
+    "tablet_columns",
+    "mobile_columns",
+    "delay_time",
+    "show_buttons",
+    "auto_play",
+    "infinite_loop"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:33.641Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wppt_emailer_version",
+    "wppt_emailer_smtpdebug",
+    "wppt_emailer_smtp_host",
+    "wppt_emailer_smtp_auth",
+    "wppt_emailer_port",
+    "wppt_emailer_username",
+    "wppt_emailer_password",
+    "wppt_emailer_smtpsecure"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:29.304Z"
+}

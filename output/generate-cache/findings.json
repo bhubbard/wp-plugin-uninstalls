@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gen_cache_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gen_cache_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:49.395Z"
+}

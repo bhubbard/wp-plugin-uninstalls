@@ -1,0 +1,14 @@
+{
+  "options": [
+    "deletepages_410_max_404s",
+    "deletepages_410_options_version",
+    "deletepages_410_links_list",
+    "deletepages_410_all_in_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:20.880Z"
+}

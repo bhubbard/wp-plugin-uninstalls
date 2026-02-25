@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wfm_settings_tab_custom_out_of_stock_selection_value",
+    "wfm_settings_tab_custom_add-to-cart",
+    "wfm_settings_tab_custom_checkout",
+    "wfm_settings_tab_custom_place-order",
+    "wfm_settings_tab_custom_add_sku",
+    "wfm_settings_tab_custom_out_of_stock"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_stock_value",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:18.401Z"
+}

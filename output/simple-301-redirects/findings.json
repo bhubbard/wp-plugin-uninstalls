@@ -1,0 +1,22 @@
+{
+  "options": [
+    "301_redirects_wildcard",
+    "simple301redirects_hide_btl_notice",
+    "301_redirects",
+    "wpins_deactivation_reason_*",
+    "wpins_deactivation_details_*",
+    "wpins_allow_tracking",
+    "wpins_last_track_time",
+    "active_sitewide_plugins",
+    "wpins_block_notice",
+    "simple301redirects_version"
+  ],
+  "transients": [
+    "simple_301_redirects_import_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:21.994Z"
+}

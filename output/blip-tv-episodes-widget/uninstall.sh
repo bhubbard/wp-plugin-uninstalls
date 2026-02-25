@@ -1,0 +1,16 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'blip_settings'
+wp option delete 'blip_notifications'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bliptvid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bliptvid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bliptvid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bliptvid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%id'"

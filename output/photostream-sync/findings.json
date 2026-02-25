@@ -1,0 +1,19 @@
+{
+  "options": [
+    "photostream_streams"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "photostream_hourly_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ps_stream",
+    "ps_batch_guid",
+    "ps_photo_guid",
+    "ps_image_data",
+    "ps_exif_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:42.845Z"
+}

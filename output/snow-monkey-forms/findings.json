@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "administrator_email_to",
+    "administrator_email_subject",
+    "administrator_email_body",
+    "administrator_email_replyto",
+    "administrator_email_from",
+    "administrator_email_sender",
+    "auto_reply_email_to",
+    "auto_reply_email_subject",
+    "auto_reply_email_body",
+    "auto_reply_email_replyto",
+    "auto_reply_email_from",
+    "auto_reply_email_sender",
+    "use_confirm_page",
+    "use_progress_tracker",
+    "confirm_button_label",
+    "back_button_label",
+    "send_button_label"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:29.612Z"
+}

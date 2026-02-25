@@ -1,0 +1,30 @@
+{
+  "options": [
+    "fts_version",
+    "fts_settings",
+    "active_sitewide_plugins",
+    "feed_them_social_license_keys",
+    "fts_facebook_custom_api_token_user_id",
+    "fts_facebook_custom_api_token",
+    "fts_facebook_custom_api_token_user_id_biz",
+    "fts_facebook_custom_api_token_biz",
+    "*_license_key",
+    "*_license_status"
+  ],
+  "transients": [
+    "fts_activated",
+    "fts_updated",
+    "fts_t_*",
+    "fts_p_*",
+    "update_plugins",
+    "edd_api_request_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fts_slick_ignore_rating_notice_nag2024",
+    "fts_feed_options_array"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:36.017Z"
+}

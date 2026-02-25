@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tmip-embed",
+    "tmip-mention-text",
+    "tmip-num-of-tweets",
+    "tmip-automatic"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tmip_hour_event",
+    "tmip_load_post_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tmip_twitter_mentions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:44.187Z"
+}

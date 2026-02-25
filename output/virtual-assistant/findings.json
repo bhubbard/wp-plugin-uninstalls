@@ -1,0 +1,38 @@
+{
+  "options": [
+    "bb_license_bbva",
+    "bb_version_bbva",
+    "autoSignIn",
+    "cancelOnTapOutside",
+    "excludedSingle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_helpgent_config",
+    "first_name",
+    "last_name",
+    "description",
+    "*activity",
+    "*speak_content_finally",
+    "*speak_content",
+    "*ask_chat_gpt",
+    "*read_selector",
+    "*link",
+    "*target",
+    "*link_spacing",
+    "*link_replace",
+    "*scroll_target",
+    "*custom_scroll",
+    "*scroll_selector",
+    "*product_id",
+    "*click_selector",
+    "*time_speak_content",
+    "*custom_js",
+    "_wpb_shortcodes_custom_css",
+    "*layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:47.880Z"
+}

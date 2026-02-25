@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "wpmm_rating_notice_remove",
+    "wpmm_options",
+    "WPMM_VER",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "wpmm_layout",
+    "wpmm_nav_options",
+    "_menu_item_menu_item_parent",
+    "metaboxhidden_nav-menus"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:36.319Z"
+}

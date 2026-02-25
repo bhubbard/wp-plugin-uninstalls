@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_order_tracking_link",
+    "_order_tracking_code",
+    "_order_tracking_courier",
+    "_order_tracking_code_sended"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:19.146Z"
+}

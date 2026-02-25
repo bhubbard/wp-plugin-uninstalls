@@ -1,0 +1,34 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "posten-bring-checkout-dark-mode",
+    "woocommerce_vipps_settings",
+    "woocommerce_weight_unit",
+    "posten-bring-checkout-deactivation-reason",
+    "posten-bring-checkout-deactivation-feedback",
+    "posten-bring-checkout-remote-log",
+    "wooexpress_navigation_enabled",
+    "posten-bring-checkout-apikey",
+    "posten-bring-checkout-webshopId",
+    "woocommerce_store_address_2",
+    "woocommerce_address_autocomplete_enabled",
+    "woocommerce_specific_allowed_countries",
+    "woocommerce_dintero_checkout_settings"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_posten_bring_checkout_too_large_for_parcel_locker",
+    "_posten_bring_checkout_too_large_for_mailbox",
+    "_posten_bring_checkout_disable_all",
+    "posten_bring_checkout_dismissed_notifications"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:15.228Z"
+}

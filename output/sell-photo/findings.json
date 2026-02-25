@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sell_photo_plugin_version",
+    "sell_photo_paypal_email",
+    "sell_photo_currency_code",
+    "sell_photo_price_amount",
+    "sell_photo_button_anchor",
+    "sell_photo_return_url",
+    "sell_photo_enable_testmode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:03.527Z"
+}

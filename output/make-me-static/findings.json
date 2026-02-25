@@ -1,0 +1,15 @@
+{
+  "options": [
+    "make-me-static-change",
+    "make-me-static-uuid",
+    "make-me-static-last"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "make_me_static_host_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:36.476Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "gecko_calendar_gcal_refresh_token",
+    "gecko_calendar_gcal_access_token",
+    "gecko_calendar_gcal_active_calendars",
+    "gecko_calendar_gcal_active_calendars_details",
+    "gecko_google_calendar_ping_last_run",
+    "gecko_calendar_gcal_all_calendars",
+    "gecko_google_calendar_settings_oauth",
+    "gecko_google_calendar_settings_debug",
+    "gecko_calendar_gcal_config_location"
+  ],
+  "transients": [
+    "gecko_google_calendar_upcoming_events",
+    "gecko_google_calendar_all_upcoming_events"
+  ],
+  "cron_jobs": [
+    "gecko_google_calendar_ping"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:42.923Z"
+}

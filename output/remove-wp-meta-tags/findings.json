@@ -1,0 +1,28 @@
+{
+  "options": [
+    "ehf_plugin_dismiss_donate_notice",
+    "ehf_plugin_no_thanks_donate_notice",
+    "ehf_plugin_dismissed_time_donate",
+    "ehf_plugin_installed_time_donate",
+    "ehf_plugin_dismiss_rating_notice",
+    "ehf_plugin_no_thanks_rating_notice",
+    "ehf_plugin_dismissed_time",
+    "ehf_plugin_installed_time",
+    "rm_plugin_global_settings"
+  ],
+  "transients": [
+    "ehf-admin-notice-on-activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rm_header_code",
+    "_rm_header_disable",
+    "_rm_footer_code",
+    "_rm_footer_disable",
+    "_rm_body_open_code",
+    "_rm_body_open_disable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:47.735Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mctwc_version",
+    "woocommerce_mailchimp-tags_settings"
+  ],
+  "transients": [
+    "mctwc_api_status"
+  ],
+  "cron_jobs": [
+    "mctwc_daily_health_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "mctwc_dismissed_config_notice",
+    "mctwc_dismissed_invalid_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:04.709Z"
+}

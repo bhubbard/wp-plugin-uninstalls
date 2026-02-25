@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pixrem_last_backup",
+    "pixrem_delete_log",
+    "pixrem_deleted_logs",
+    "sidebars_widgets",
+    "wpseo_social",
+    "pixrem_scan_progress",
+    "pixrem_whitelist_ids",
+    "pixrem_whitelist_paths"
+  ],
+  "transients": [
+    "pixrem_used_ids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:43.898Z"
+}

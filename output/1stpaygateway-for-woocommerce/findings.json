@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vault_id",
+    "vault_key",
+    "subscription_id",
+    "first_name",
+    "last_name",
+    "billing_city",
+    "billing_country",
+    "billing_state",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_postcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:07.144Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'gsteam_dummy_team_data_created', 'gsteam_dummy_shortcode_data_created', 'gs_team_autoimport_done', 'gs_team_plugin_version', 'GS_Team_plugin_permalinks_flushed', 'gs_team_filters_order', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes', 'gs_team_bulk_import_rows', 'gsteam_dummy_team_data_creating', 'gsteam_dummy_shortcode_data_creating', 'gsteam_dummy_attachments', 'gsteam_dummy_members', 'gsplugins-pro-plugins', 'gsplugins_free_plugins');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_gs_des', 'gsteam-demo_data', '_thumbnail_id', 'second_featured_img', '_gs_custom_page', '_gs_email', '_gs_cc', '_gs_bcc', 'gs_social', 'gs_skill', '_gs_team_import_id', '_wp_attachment_image_alt', '_gs_com', '_gs_com_website', '_gs_land', '_gs_cell', '_gs_address', '_gs_ribon', '_gs_zip_code', '_gs_vcard');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_gs_des', 'gsteam-demo_data', '_thumbnail_id', 'second_featured_img', '_gs_custom_page', '_gs_email', '_gs_cc', '_gs_bcc', 'gs_social', 'gs_skill', '_gs_team_import_id', '_wp_attachment_image_alt', '_gs_com', '_gs_com_website', '_gs_land', '_gs_cell', '_gs_address', '_gs_ribon', '_gs_zip_code', '_gs_vcard');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_gs_des', 'gsteam-demo_data', '_thumbnail_id', 'second_featured_img', '_gs_custom_page', '_gs_email', '_gs_cc', '_gs_bcc', 'gs_social', 'gs_skill', '_gs_team_import_id', '_wp_attachment_image_alt', '_gs_com', '_gs_com_website', '_gs_land', '_gs_cell', '_gs_address', '_gs_ribon', '_gs_zip_code', '_gs_vcard');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_gs_des', 'gsteam-demo_data', '_thumbnail_id', 'second_featured_img', '_gs_custom_page', '_gs_email', '_gs_cc', '_gs_bcc', 'gs_social', 'gs_skill', '_gs_team_import_id', '_wp_attachment_image_alt', '_gs_com', '_gs_com_website', '_gs_land', '_gs_cell', '_gs_address', '_gs_ribon', '_gs_zip_code', '_gs_vcard');
+

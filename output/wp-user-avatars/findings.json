@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_user_avatars_roles",
+    "wp_user_avatars_block_gravatar",
+    "wp_user_avatars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_user_avatars",
+    "wp_user_avatars_rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:36.069Z"
+}

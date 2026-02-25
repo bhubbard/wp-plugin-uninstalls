@@ -1,0 +1,27 @@
+{
+  "options": [
+    "quarkcode_enable_gallery",
+    "quarkcode_max_images_session",
+    "quarkcode_enable_continuous_editing",
+    "quarkcode_primary_color",
+    "quarkcode_secondary_color",
+    "quarkcode_button_color",
+    "quarkcode_text_color",
+    "quarkcode_background_style",
+    "quarkcode_api_key",
+    "quarkcode_rate_limit_hour",
+    "quarkcode_rate_limit_day",
+    "quarkcode_rate_limit_month",
+    "quarkcode_allowed_roles"
+  ],
+  "transients": [
+    "quarkcode_rate_hour_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "quarkcode_dismissed_premium_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:24.793Z"
+}

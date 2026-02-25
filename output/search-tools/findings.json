@@ -1,0 +1,15 @@
+{
+  "options": [
+    "seto_db_version",
+    "seto_plugin_activation_date",
+    "seto_free_options",
+    "seto_disable_reviews",
+    "seto_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:49.356Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "ivav_send_reminder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ivav-guid",
+    "ivav-status",
+    "ivav-date",
+    "ivav-birthdate",
+    "ivav-age",
+    "ivav-firstname",
+    "ivav-lastname",
+    "ivav-reason",
+    "ivav-guid-tmp",
+    "ivav-similiarity",
+    "ivav-referenceid",
+    "ivav-gender",
+    "ivav-skip",
+    "_customer_ip_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:50.902Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "prgm_product_gallery_global",
+    "prgm_disable_Product_default_gallery"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_prgm_active_product_gallery"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:37.879Z"
+}

@@ -1,0 +1,61 @@
+{
+  "options": [
+    "wpsurfer_api_access_key",
+    "surfer_connection_details",
+    "surfer_last_gsc_data_update",
+    "surfer_version",
+    "surfer_auth_user",
+    "surfer_image_download_queue",
+    "surfer_notification_dismissals",
+    "surfer_connection_token",
+    "surfer_available_locations"
+  ],
+  "transients": [
+    "_surfer_activation_redirect",
+    "surfer_gsc_weekly_report_email_sent",
+    "surfer_installing",
+    "surfer_updated",
+    "surfer_tracking_first_enabled",
+    "surfer_gsc_data_collection_posts_max",
+    "surfer_gsc_data_collection_posts_done",
+    "surfer_gsc_weekly_report_ready"
+  ],
+  "cron_jobs": [
+    "surfer_gather_drop_monitor_data",
+    "surfer_process_image_queue",
+    "surfer_gather_available_locations",
+    "surfer_gather_position_monitor_data_bunch",
+    "surfer_gather_posts_traffic",
+    "surfer_gather_position_monitor_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "surfer_draft_id",
+    "surfer_last_post_update",
+    "surfer_last_post_update_direction",
+    "surfer_keywords",
+    "surfer_location",
+    "surfer_permalink_hash",
+    "surfer_scrape_ready",
+    "_surfer_json_schema",
+    "manageedit-postcolumnshidden",
+    "surfer_file_name",
+    "surfer_file_original_url",
+    "_wp_attachment_image_alt",
+    "_yoast_wpseo_title",
+    "rank_math_title",
+    "_aioseo_title",
+    "_surferseo_title",
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_aioseo_description",
+    "_surferseo_description",
+    "_elementor_edit_mode",
+    "_elementor_template_type",
+    "_elementor_version",
+    "_elementor_data",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:12.785Z"
+}

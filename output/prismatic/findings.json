@@ -1,0 +1,16 @@
+{
+  "options": [
+    "prismatic_options_general",
+    "prismatic_options_prism",
+    "prismatic_options_highlight",
+    "prismatic_options_plain",
+    "prismatic_options_advanced",
+    "prismatic-dismiss-notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:48.749Z"
+}

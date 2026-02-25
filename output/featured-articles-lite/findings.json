@@ -1,0 +1,43 @@
+{
+  "options": [
+    "default_*",
+    "feat_art_options",
+    "fa_plugin_details",
+    "fa_lite_categories",
+    "fa_lite_home",
+    "fa_lite_pages",
+    "*_size_w",
+    "*_size_h",
+    "fa_plugin_options"
+  ],
+  "transients": [
+    "fa_version"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_wp_attachment_metadata",
+    "_fa_attachment_metadata",
+    "_fa_lite_content",
+    "*_page_ord",
+    "_fa_lite_aspect",
+    "_fa_lite_home_display",
+    "_fa_lite_categ_display",
+    "_fa_lite_page_display",
+    "_fa_lite_theme",
+    "_fa_lite_display",
+    "_fa_lite_js",
+    "_fa_lite_theme_details",
+    "_fa_cust_link",
+    "_fa_cust_class",
+    "_fa_cust_title",
+    "_fa_cust_txt",
+    "_fa_image",
+    "_fa_image_autodetect",
+    "_fa_bg_color",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:07.204Z"
+}

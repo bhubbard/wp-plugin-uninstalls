@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wgdr_plugin_options_1",
+    "wgdr_plugin_options_2",
+    "wgdr_plugin_options_3",
+    "wgdr_hide_deprecation_info",
+    "wgdr_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wgdr_admin_notice_user_meta",
+    "_WGDR_conversion_pixel_fired"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:31.803Z"
+}

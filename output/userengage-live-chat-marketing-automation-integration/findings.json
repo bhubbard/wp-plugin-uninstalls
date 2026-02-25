@@ -1,0 +1,13 @@
+{
+  "options": [
+    "UserEngageScript_domain",
+    "UserEngageScript__apiKey",
+    "UserEngageScript_toggle_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:38.147Z"
+}

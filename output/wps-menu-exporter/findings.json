@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rss_language"
+  ],
+  "transients": [
+    "wps_plugins_adds"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_menu_item_object"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:15.534Z"
+}

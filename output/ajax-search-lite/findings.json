@@ -1,0 +1,17 @@
+{
+  "options": [
+    "asl_analytics",
+    "asl_compatibility",
+    "asl_performance",
+    "asl_version",
+    "asl_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_conversion_rate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:42.332Z"
+}

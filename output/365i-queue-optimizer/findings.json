@@ -1,0 +1,23 @@
+{
+  "options": [
+    "queue_optimizer_time_limit",
+    "queue_optimizer_concurrent_batches",
+    "queue_optimizer_batch_size",
+    "queue_optimizer_retention_days",
+    "queue_optimizer_image_engine",
+    "queue_optimizer_server_type_override",
+    "queue_optimizer_activated",
+    "queue_optimizer_logging_enabled",
+    "queue_optimizer_log_retention_days",
+    "queue_optimizer_last_run",
+    "queue_optimizer_debug_mode",
+    "queue_optimizer_enable_concurrency_filter",
+    "365i_qo_image_engine"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:18.106Z"
+}

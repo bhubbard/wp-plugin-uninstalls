@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fontface-load-css-in-tinymce",
+    "fontface-load-css-style-in-tinymce",
+    "fontface-load-in-admin",
+    "fontface-generate-css-class",
+    "fontface_font_list_count",
+    "fontface-css",
+    "fontface_font_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:08.182Z"
+}

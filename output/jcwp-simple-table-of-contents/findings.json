@@ -1,0 +1,22 @@
+{
+  "options": [
+    "jcorgtoc_active",
+    "jcorgtoc_duration",
+    "jcorgtoc_title",
+    "jcorgtoc_easingType",
+    "jcorgtoc_textlength",
+    "jcorgtoc_height",
+    "jcorgtoc_scroll",
+    "jcorgtoc_scroll_element",
+    "jcorgtoc_position",
+    "jcorgtoc_minimize",
+    "jcorgtoc_linkback",
+    "jcorgtoc_parenttagclass"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:18.189Z"
+}

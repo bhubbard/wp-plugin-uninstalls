@@ -1,0 +1,19 @@
+{
+  "options": [
+    "dscap_player_compact",
+    "dscap_player_show_volume",
+    "dscap_player_show_download",
+    "dscap_player_align",
+    "dscap_player_color",
+    "dscap_player_bg",
+    "dscap_player_icon_color",
+    "dscap_player_width",
+    "dscap_player_show_meta"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:29.188Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp125_ad_orientation",
+    "wp125_num_slots",
+    "wp125_ad_order",
+    "wp125_buyad_url",
+    "wp125_disable_default_style",
+    "wp125_emailonexp",
+    "wp125_defaultad",
+    "wp125_daysbeforeexp",
+    "wp125_dofollow",
+    "wp125_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:29.182Z"
+}

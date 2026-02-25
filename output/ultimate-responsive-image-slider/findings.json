@@ -1,0 +1,15 @@
+{
+  "options": [
+    "WRIS_Settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ris_all_photos_details",
+    "_wp_attachment_image_alt",
+    "WRIS_Gallery_Settings_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:07.640Z"
+}

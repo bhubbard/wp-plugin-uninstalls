@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "hycal_ics_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:22.690Z"
+}

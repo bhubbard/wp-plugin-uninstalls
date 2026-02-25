@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wp_telegram_version",
+    "wp_telegram_dispatches",
+    "wp_telegram_log",
+    "wp_telegram",
+    "wp_telegram_apikey",
+    "wp_telegram_last_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "telegram_name",
+    "telegram_first_name",
+    "telegram_last_name",
+    "telegram_username",
+    "telegram_counter",
+    "telegram_kt",
+    "telegram_otk",
+    "telegram_ikt",
+    "telegram_future_publish",
+    "telegram_tosend",
+    "telegram_tosend_message",
+    "telegram_last_sent",
+    "telegram_tosend_target",
+    "telegram_*",
+    "telegram_last_latitude",
+    "telegram_last_longitude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:18.678Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "quickswish_do_activation_redirect",
+    "woocommerce_cart_redirect_after_add",
+    "quickswish_installed",
+    "quickswish_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:50.657Z"
+}

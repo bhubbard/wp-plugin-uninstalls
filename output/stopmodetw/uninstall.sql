@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('TKP_STOPMODETW_maintenance_mode', 'TKP_STOPMODETW_maintenance_target', 'TKP_STOPMODETW_custom_resources', 'TKP_STOPMODETW_custom_products', 'TKP_STOPMODETW_maintenance_header', 'TKP_STOPMODETW_maintenance_text', 'TKP_STOPMODETW_maintenance_background', 'TKP_STOPMODETW_maintenance_background_image', 'TKP_STOPMODETW_maintenance_logo', 'TKP_STOPMODETW_maintenance_container_background', 'TKP_STOPMODETW_header_font_size', 'TKP_STOPMODETW_header_color', 'TKP_STOPMODETW_header_font', 'TKP_STOPMODETW_text_font_size', 'TKP_STOPMODETW_text_color', 'TKP_STOPMODETW_text_font', 'TKP_STOPMODETW_private_cookie_duration', 'TKP_STOPMODETW_private_cookie_never_expire', 'TKP_STOPMODETW_private_access_key');
+

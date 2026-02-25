@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gocache_option-auto_clear_sitemap_url",
+    "gocache_option-auto_clear_amp_url",
+    "gocache_option-amp",
+    "gocache_option-external_configs",
+    "gocache_option-status",
+    "gocache_option-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:29.805Z"
+}

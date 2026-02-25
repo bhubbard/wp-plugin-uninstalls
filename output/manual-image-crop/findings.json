@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "mic_make2x",
+    "*_crop",
+    "jetpack_photon",
+    "mic_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:03.799Z"
+}

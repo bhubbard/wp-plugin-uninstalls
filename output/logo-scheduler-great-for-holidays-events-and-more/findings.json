@@ -1,0 +1,18 @@
+{
+  "options": [
+    "amwnlogos_name",
+    "amwnlogos_start_date",
+    "amwnlogos_end_date",
+    "amwnlogos_repeat",
+    "amwnlogos_logo_holder",
+    "amwnlogos_replacement_logo",
+    "amwnlogos_replacement_logo_retina",
+    "amwnlogos_show_credit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:51.152Z"
+}

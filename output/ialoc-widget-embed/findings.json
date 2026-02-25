@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ialoc_locale",
+    "ialoc_embed_mode",
+    "ialoc_id",
+    "ialoc_extra_config",
+    "ialoc_callback_type",
+    "ialoc_thank_you_url",
+    "ialoc_custom_js"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:18.103Z"
+}

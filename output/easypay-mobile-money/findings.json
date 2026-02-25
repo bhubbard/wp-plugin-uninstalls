@@ -1,0 +1,39 @@
+{
+  "options": [
+    "easypay_do_activation_redirect",
+    "woocommerce_easypayments_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_easypayment_orderid",
+    "_easypayment_genratepin",
+    "_easypayment_ordertime",
+    "easypayorder_token",
+    "_order_total",
+    "_payment_method",
+    "_easypayment_reference",
+    "_easypayment_transactionId",
+    "_easypayment_amount",
+    "_easypayment_currencyCode",
+    "_easypayment_order_ipn_response",
+    "_easypayment_visa_requiresPIN",
+    "_easypayment_visa_requiresOTP",
+    "_easypayment_visa_suggestedAUTH",
+    "_easypayment_visa_processing",
+    "_easypayment_visa_authurl",
+    "_easypayment_visa_card_holder",
+    "_easypayment_visa_card_number",
+    "_easypayment_visa_card_cvv",
+    "_easypayment_visa_expiry_year",
+    "_easypayment_visa_expiry_month",
+    "_easypayment_order_response",
+    "_easypayment_txid",
+    "_easypayment_finalTxId",
+    "_easypayment_finalAmt",
+    "_easypayment_finalCurrency"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:25.492Z"
+}

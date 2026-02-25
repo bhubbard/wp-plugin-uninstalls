@@ -1,0 +1,21 @@
+{
+  "options": [
+    "refersion_settings",
+    "refersion_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "*first_name",
+    "*last_name",
+    "_subscription_type",
+    "_subscription_price",
+    "_subscription_period",
+    "_subscription_period_interval",
+    "_subscription_sign_up_fee"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:25.259Z"
+}

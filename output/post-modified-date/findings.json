@@ -1,0 +1,28 @@
+{
+  "options": [
+    "jwt_pmd_text",
+    "jltpmd_sheet_promo_data",
+    "jltpmd_sheet_promo_data_hash",
+    "jltpmd_activation_time",
+    "*_allow_tracking"
+  ],
+  "transients": [
+    "jltpmd-plugin-info-*"
+  ],
+  "cron_jobs": [
+    "jltpmd_sheet_promo_data_remote_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:55.516Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "today_gift_details_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "today_gift_sufias_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:50.338Z"
+}

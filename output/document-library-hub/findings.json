@@ -1,0 +1,19 @@
+{
+  "options": [
+    "dlhp_flush_rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dlhp_document_file_source",
+    "_dlhp_document_file_url",
+    "_dlhp_document_external_url",
+    "_dlhp_document_file_size",
+    "_dlhp_document_file_type",
+    "_dlhp_restrict_access",
+    "_dlhp_protected_roles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:27.240Z"
+}

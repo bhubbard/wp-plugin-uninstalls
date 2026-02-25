@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cryptapi_coins_cache"
+  ],
+  "transients": [
+    "cryptapi_pubkey"
+  ],
+  "cron_jobs": [
+    "cryptapi_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:45.430Z"
+}

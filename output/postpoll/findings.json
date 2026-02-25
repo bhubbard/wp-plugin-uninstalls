@@ -1,0 +1,25 @@
+{
+  "options": [
+    "jal_db_version",
+    "postpoll_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "postpoll-votes-*",
+    "poll_options",
+    "camps_options",
+    "sendemail_options",
+    "message_options",
+    "anonimousvoter_options",
+    "typeofselect_options",
+    "showresult",
+    "onlyuser",
+    "savecookie",
+    "useimage",
+    "postpoll-votes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:28.112Z"
+}

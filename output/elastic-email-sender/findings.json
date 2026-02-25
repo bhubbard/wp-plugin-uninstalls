@@ -1,0 +1,28 @@
+{
+  "options": [
+    "ees-connecting-status",
+    "ee_options",
+    "ees_plugin_dir_name",
+    "ee_from_email",
+    "ee_is_created_channels",
+    "elastic-email-to-send-status",
+    "daterangeselect",
+    "ee-apikey",
+    "ee_send-email-type",
+    "ee_mimetype",
+    "ee_config_from_name",
+    "ee_config_override_wooCommerce",
+    "ee_config_from_email",
+    "ee_channel_name",
+    "woocommerce_email_from_address",
+    "ee_config_woocommerce_original_email",
+    "woocommerce_email_from_name",
+    "ee_config_woocommerce_original_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:17.104Z"
+}

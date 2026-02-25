@@ -1,0 +1,20 @@
+{
+  "options": [
+    "monoedge_auth",
+    "monoedge_api_base_url",
+    "monoedge_user_data",
+    "monoedge_button_creator_settings",
+    "monoedge_settings",
+    "monoedge_stores",
+    "monoedge_store_progress",
+    "monoedge_button_styles",
+    "monoedge_analytics_cache",
+    "monoedge_qr_codes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:27.930Z"
+}

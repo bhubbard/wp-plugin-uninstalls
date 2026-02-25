@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpfdm_plugin_tm_fr_rtg"
+  ],
+  "transients": [
+    "wpfdm_plugin_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:26.576Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wizbee_duplicate_order_add_order_menu",
+    "wizbee_duplicate_order_add_order_topbar",
+    "wizbee_duplicate_order_copy_old_price",
+    "wizbee_duplicate_order_copy_fees",
+    "wizbee_duplicate_order_copy_shipping",
+    "wizbee_duplicate_order_apply_coupons",
+    "wizbee_duplicate_order_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wb_edwo_notice_dismissed_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:01.801Z"
+}

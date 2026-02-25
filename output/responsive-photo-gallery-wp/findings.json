@@ -1,0 +1,32 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tps_gallery_cat_name",
+    "tpsgallery_columns",
+    "tpsgallery_total_items",
+    "tpsgallery_theme_id",
+    "tpsgallery_img_size",
+    "tpsgallery_img_captions",
+    "tpsgallery_captions_style",
+    "tpsgallery_captions_positions",
+    "tpsgallery_caption_color",
+    "tpsgallery_caption_color_text",
+    "tpsgallery_caption_font_size",
+    "tpsgallery_caption_text_align",
+    "tpsgallery_nav_value",
+    "tpsgallery_back_color",
+    "show_hide_links",
+    "show_hide_lightboxes",
+    "overlay_color_alpha",
+    "overlay_color_icons",
+    "overlay_icons_bg",
+    "tpsgallery_types_id",
+    "tpsgallery_types_inc",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:12.786Z"
+}

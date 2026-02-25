@@ -1,0 +1,20 @@
+{
+  "options": [
+    "has_icons_migrated",
+    "highlight-and-share",
+    "highlight-and-share-block-editor-options",
+    "highlight-and-share-email-settings",
+    "highlight-and-share-image-options",
+    "highlight-and-share-theme-options",
+    "highlight-and-share-social-networks",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "has_hidden_color_sync_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:58.758Z"
+}

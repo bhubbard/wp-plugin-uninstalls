@@ -1,0 +1,19 @@
+{
+  "options": [
+    "brocardi_cate",
+    "bro_option_name",
+    "brocardi_cron",
+    "brocardi_cron_cate",
+    "301_redirects_brocardi"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "brocardi_link",
+    "brocardi_data",
+    "brocardi_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:15.628Z"
+}

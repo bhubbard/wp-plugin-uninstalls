@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mailsure_do_activation_redirect",
+    "mailsure_latest_test_result",
+    "mailsure_initiated_on_demand_test",
+    "mailsure_new_data_flag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:07.332Z"
+}

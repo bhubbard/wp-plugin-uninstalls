@@ -1,0 +1,22 @@
+{
+  "options": [
+    "eh_turnstile_site_key",
+    "eh_turnstile_secret_key",
+    "eh_turnstile_breakdance_enabled",
+    "eh_turnstile_breakdance_disabled_ids",
+    "eh_turnstile_verified",
+    "eh_turnstile_last_error",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:17.883Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_everypay_settings",
+    "woocommerce_everypay_everypay_iris_enabled",
+    "woocommerce_everypay_everypay_iris_merchant_name",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:33.462Z"
+}

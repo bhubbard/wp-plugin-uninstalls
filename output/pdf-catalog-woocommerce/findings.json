@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gmwcpkey",
+    "_wp_attachment_image_alt",
+    "_gmwcp_exclude_product_single"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:13.220Z"
+}

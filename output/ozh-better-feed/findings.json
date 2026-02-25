@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ozh_betterfeed",
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:54.264Z"
+}

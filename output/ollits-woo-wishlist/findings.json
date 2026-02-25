@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ollits_wishlist_page_id",
+    "ollitsaw_button_position_shop",
+    "ollitsaw_button_priority_shop",
+    "ollitsaw_button_position_product",
+    "ollitsaw_button_priority_product",
+    "ollitsaw_button_add_to_wishlist_text",
+    "ollitsaw_button_remove_from_wishlist_text",
+    "ollitsaw_page_style",
+    "ollitsaw_email_notifications"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ol_its_advanced_wishlist"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:27.607Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fu_fastpostlists_style",
+    "fu_fastpostlists_headhtml",
+    "fu_fastpostlists_posthtml",
+    "fu_fastpostlists_foothtml"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:50.689Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "sbr_apikeys_limit",
+    "sbr_statuses",
+    "sbr_rating_notice",
+    "sbr_review_consent",
+    "sbr_notifications",
+    "sbr_apikeys",
+    "sbr_settings",
+    "sbr_bulk_sources",
+    "sbr_bulk_woocommerce",
+    "cff_style_settings",
+    "sbr_license_key",
+    "sbr_license_data",
+    "sbr_license_status",
+    "sbr_one_click_upgrade",
+    "sbr_db_version",
+    "sbr_usage_tracking_config",
+    "sbi_legacy_feed_settings"
+  ],
+  "transients": [
+    "reviews_feed_rating_notice_waiting"
+  ],
+  "cron_jobs": [
+    "sbr_usage_tracking_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sbr_ignore_dashboard_license_notice",
+    "sbr_ignore_new_user_sale_notice",
+    "sbr_ignore_bfcm_sale_notice",
+    "*_user",
+    "*_token",
+    "*_create_time",
+    "*_expires",
+    "*_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:46.846Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bulk-watermark-settings",
+    "mywebsiteadvisor_pluigin_installer_menu_disable",
+    "watermark_on",
+    "watermark_type",
+    "watermark_text",
+    "watermark_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wporg_favorites"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:06.835Z"
+}

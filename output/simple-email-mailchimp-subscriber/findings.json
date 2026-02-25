@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpmsems_upgrade_v1",
+    "whitelist_options",
+    "wpmsems_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmsems_first_name",
+    "wpmsems_last_name",
+    "wpmsems_dob",
+    "wpmsems_email",
+    "wpmsems_phone",
+    "wpmsems_address",
+    "wpmsems_form_cat",
+    "wpmsems_camp",
+    "wpmsems_form_type",
+    "wpmsems_form_id",
+    "wpmsems_subs_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:47.167Z"
+}

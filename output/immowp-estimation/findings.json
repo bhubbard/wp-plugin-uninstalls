@@ -1,0 +1,20 @@
+{
+  "options": [
+    "immowp_estimation_settings",
+    "immowp_estimation_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_immowp_estimation_status",
+    "_immowp_estimation_submission",
+    "_immowp_estimation_result",
+    "_immowp_estimation_public_id",
+    "_immowp_estimation_admin_note",
+    "_immowp_estimation_payload",
+    "_immowp_estimation_remote_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:16.507Z"
+}

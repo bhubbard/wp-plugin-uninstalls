@@ -1,0 +1,42 @@
+{
+  "options": [
+    "contact_list_settings",
+    "contact-list-sc",
+    "contact_list_how_to_show_notice",
+    "contact_list_rating_show_notice_now_v2",
+    "contact_list_rating_notice_status_v2",
+    "contact_list_version",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "contact_list_rating_notice_later_seconds_v2",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cl_first_name",
+    "_cl_last_name",
+    "_cl_job_title",
+    "_cl_email",
+    "_cl_phone",
+    "_cl_custom_field_*",
+    "_cl_linkedin_url",
+    "_cl_twitter_url",
+    "_cl_facebook_url",
+    "_cl_instagram_url",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:05.438Z"
+}

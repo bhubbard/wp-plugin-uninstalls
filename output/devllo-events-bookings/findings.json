@@ -1,0 +1,32 @@
+{
+  "options": [
+    "devllo-events-bookings-payment-radio",
+    "devllo-events-bookings-pbc-instruction",
+    "devllo-event-registration-page",
+    "devllo-event-checkout-page",
+    "Activated_Plugin",
+    "DEVLLO_EVENTS_BOOKINGS_VERSION"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "devllo_event_price_key",
+    "devllo_event_event_link_key",
+    "devllo_event_url_key",
+    "devllo_event_location_key",
+    "_start_day",
+    "_start_month",
+    "_start_year",
+    "_end_day",
+    "_end_month",
+    "_end_year",
+    "_start_hour",
+    "_start_minute",
+    "_end_hour",
+    "_end_minute",
+    "devllo_event_location_name_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:03.796Z"
+}

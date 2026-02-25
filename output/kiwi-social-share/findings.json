@@ -1,0 +1,31 @@
+{
+  "options": [
+    "kiwi_backup_option",
+    "kiwi_general_settings",
+    "*_version",
+    "kiwi_settings",
+    "kiwi_network_colors"
+  ],
+  "transients": [
+    "*_short_link_transient",
+    "*_share_count_transient",
+    "*_css_transient",
+    "*_license_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kiwi_social-media-pinterest-image",
+    "kiwi_social-media-pinterest-description",
+    "kiwi_social-media-title",
+    "kiwi_social-media-description",
+    "kiwi_social-media-image",
+    "kiwi_social-media-custom-tweet",
+    "*_id",
+    "kiwi_shortcode_networks",
+    "kiwi_shortcode_bar_style",
+    "kiwi_shortcode_list_item_style"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:23.736Z"
+}

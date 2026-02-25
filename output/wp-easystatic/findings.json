@@ -1,0 +1,22 @@
+{
+  "options": [
+    "static_minify_css",
+    "static_critical_enable",
+    "static_exclude_css",
+    "static_critical_css",
+    "static_minify_js",
+    "static_exclude_js",
+    "static_minify_html",
+    "wp_static_page",
+    "static_directory",
+    "wp_static_version",
+    "static_page_field",
+    "static_exclude_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:44.800Z"
+}

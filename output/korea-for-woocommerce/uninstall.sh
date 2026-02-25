@@ -1,0 +1,21 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_korea_settings'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_settings'"
+wp option delete 'woocommerce_korea_version'
+wp option delete 'woocommerce_checkout_phone_field'
+wp option delete 'woocommerce_korea'
+
+# Delete Transients
+wp transient delete 'update_plugins'
+
+# Clear Cron Jobs
+wp cron event delete 'wc_korea_weekly_scheduled_events'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_regular_price'"

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "enable_addons_globally",
+    "default_addon_state",
+    "require_addon_selection",
+    "enable_addon_tax",
+    "addon_tax_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_addons"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:16.351Z"
+}

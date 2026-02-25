@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpah_config_convert_404_to_200', 'wpah_config_wp_admin_new_url', 'wpah_config_syslog', 'wpah_config_apikey', 'wpah_config_block_brute_force', 'wpah_config_block_version', 'wpah_config_block_fingerprint', 'wpah_config_block_rpc', 'wpah_config_add_security_header', 'wpah_config_block_directory_listing', 'wpah_config_block_proxy', 'wpah_config_block_tor', 'wpah_config_block_injection', 'wpah_config_block_scanner', 'wpah_config_add_footer');
+

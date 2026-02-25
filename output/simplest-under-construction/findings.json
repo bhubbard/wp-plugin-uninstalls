@@ -1,0 +1,14 @@
+{
+  "options": [
+    "suc_active",
+    "suc_by_role",
+    "suc_role_to_redirect",
+    "suc_ip_whitelist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:30.714Z"
+}

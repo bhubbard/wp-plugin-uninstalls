@@ -1,0 +1,16 @@
+{
+  "options": [
+    "snoobianalyticsplugin_type",
+    "snoobianalyticsplugin_partner_id",
+    "snoobianalyticsplugin_snoobi_id",
+    "snoobianalyticsplugin_anchors",
+    "snoobianalyticsplugin_cookies",
+    "snoobianalyticsplugin_location"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:28.192Z"
+}

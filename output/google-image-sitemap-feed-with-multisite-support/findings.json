@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gn-sitemap-image-feed-mu-version"
+  ],
+  "transients": [
+    "xml_sitemap_image",
+    "apg_image_sitemap_plugin"
+  ],
+  "cron_jobs": [
+    "enviar_ping"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:06.253Z"
+}

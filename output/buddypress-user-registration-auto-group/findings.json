@@ -1,0 +1,14 @@
+{
+  "options": [
+    "auto_group_name",
+    "auto_group_slug",
+    "auto_group_desc",
+    "auto_group_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:01.210Z"
+}

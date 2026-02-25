@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_qr_pay_gateway_settings",
+    "qr_pay_gateway_enabled",
+    "qr_pay_gateway_title",
+    "qr_pay_gateway_order_status",
+    "qr_pay_gateway_description",
+    "qr_pay_gateway_instructions",
+    "qr_pay_gateway_upload_qr",
+    "qr_pay_gateway_media",
+    "qr_pay_gateway_preview_qr",
+    "qr_pay_gateway_account_name",
+    "qr_pay_gateway_qr_type_selector",
+    "qr_pay_gateway_qr_required_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "essb_full_pay_name",
+    "essb_mobile",
+    "essb_transaction",
+    "essb_transaction_type",
+    "full_pay_name",
+    "mobile",
+    "transaction",
+    "transaction_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:50.956Z"
+}

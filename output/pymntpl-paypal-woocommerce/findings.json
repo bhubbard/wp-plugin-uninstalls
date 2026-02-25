@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce-ppcp-settings"
+  ],
+  "transients": [
+    "wc_ppcp_connection_url_*",
+    "wc_ppcp_client_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ppcp_target_customer_id",
+    "ppcp_customer_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:22.682Z"
+}

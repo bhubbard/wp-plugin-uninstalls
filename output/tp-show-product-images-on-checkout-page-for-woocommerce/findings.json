@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tpspicp_image_width",
+    "tpspicp_image_height",
+    "tpspicp_is_rtl",
+    "tpspicp_image_border_radius",
+    "tpspicp_label_sale",
+    "tpspicp_label_you_saved",
+    "tpspicp_show_total_discount_cart",
+    "tpspicp_show_regular_sale_price_cart",
+    "tpspicp_activate",
+    "tpspicp_add_on_sale"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:13.953Z"
+}

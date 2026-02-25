@@ -1,0 +1,20 @@
+{
+  "options": [
+    "mx-google-authkey",
+    "mx-google-token",
+    "mx-google-refresh-token",
+    "mx-google-counter",
+    "mx-yandex-authkey",
+    "mx-yandex-counter",
+    "mx-statcounter-config",
+    "mx-openstat-config",
+    "mx-openstat-counter",
+    "mx-yandex-token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:31.112Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "$maxWidth_op",
+    "$speed_op",
+    "$img_width_op",
+    "$img_height_op",
+    "$slide_timeout_op",
+    "$fp_pager_op",
+    "$slide_limit_op",
+    "$control_arrow_op",
+    "$hover_control_op",
+    "$auto_play_op",
+    "$random_play_op"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:12.833Z"
+}

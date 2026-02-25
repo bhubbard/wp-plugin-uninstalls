@@ -1,0 +1,20 @@
+{
+  "options": [
+    "logbook-scheduled-event",
+    "logbook-tmp-token",
+    "logbook-api-token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "logbook_scheduled_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_logbook",
+    "_logbook_label",
+    "_logbook_log_level",
+    "_logbook_ip"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:58.619Z"
+}

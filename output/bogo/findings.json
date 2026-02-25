@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bogo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_locale",
+    "_original_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:52.344Z"
+}

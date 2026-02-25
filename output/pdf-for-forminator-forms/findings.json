@@ -1,0 +1,36 @@
+{
+  "options": [
+    "ninja_forms_addons_feed",
+    "_yeepdf_dropbox_api_token",
+    "_yeepdf_dropbox_api_token_refresh_token",
+    "pdf_creator_dropbox_token",
+    "pdf_creator_dropbox_token_secret",
+    "pdf_custom_fonts",
+    "_yeepdf_woocommerce_demo",
+    "pdf_creator_save_folder",
+    "pdf_creator_save_random",
+    "pdf_creator_papers",
+    "pdf_creator_save_pdf",
+    "pdf_download_last",
+    "yeepdf_download_forminator",
+    "yeepdf_forminator_setup",
+    "_redmuber_item_*"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "forminator_form_meta",
+    "data_email",
+    "data_email_email",
+    "_builder_pdf_settings",
+    "_builder_pdf_settings_font_family",
+    "_pdfcreator_forminator",
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:28.125Z"
+}

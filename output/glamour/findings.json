@@ -1,0 +1,20 @@
+{
+  "options": [
+    "glamour_google_fonts",
+    "_glamour_media_list",
+    "_glamour_colors",
+    "_glamour_global_css",
+    "*_css",
+    "*_css_time",
+    "_glamour_global_css_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_glamour_post_css",
+    "_glamour_css_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:02.795Z"
+}

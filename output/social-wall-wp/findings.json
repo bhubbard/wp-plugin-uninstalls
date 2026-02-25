@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_social_wall_api_token",
+    "*_active"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_social_wall_fetch_posts"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:12.488Z"
+}

@@ -1,0 +1,42 @@
+{
+  "options": [
+    "tvg_printnode_api_key",
+    "tvg_api_username",
+    "tvg_api_key",
+    "tvg_xgateway_api_key",
+    "tvg_api_demo",
+    "tvg_admin_notice",
+    "tvg_sender_kt",
+    "tvg_status_update",
+    "woocommerce_tvg_express_settings",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "*address",
+    "*city",
+    "*contact",
+    "*country_code",
+    "*email",
+    "*phone",
+    "*postcode",
+    "*kt",
+    "*name",
+    "tvg_kt",
+    "tvg_printer"
+  ],
+  "transients": [
+    "tvg_shipping_options",
+    "tvg_postboxes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tvg_error",
+    "_tvg_skip_free_shipping",
+    "_tvg_skip_shipping",
+    "tvg_postbox_id",
+    "tvg_method_id",
+    "shipmentID"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:39.761Z"
+}

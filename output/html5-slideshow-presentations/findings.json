@@ -1,0 +1,18 @@
+{
+  "options": [
+    "include-wp_head",
+    "include-wp_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "html5slide_type",
+    "html5slide_class",
+    "html5presentation_type",
+    "html5presentation_edit",
+    "associated_presentation_ID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:05.756Z"
+}

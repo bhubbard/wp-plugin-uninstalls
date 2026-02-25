@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gutenberg_cloud_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fgc_cron_check_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:52.321Z"
+}

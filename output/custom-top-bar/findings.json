@@ -1,0 +1,24 @@
+{
+  "options": [
+    "enable_top_bar",
+    "fixed_top_bar",
+    "display_contact_number",
+    "display_email_address",
+    "top_bar_height",
+    "top_bar_color",
+    "contact_number",
+    "contact_email",
+    "text_color",
+    "show_admin_bar",
+    "button_text",
+    "acction_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "social_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:51.548Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "behamics_organic_api_token",
+    "behamics_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_elementor_template_type",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:51.451Z"
+}

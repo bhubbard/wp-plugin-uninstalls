@@ -1,0 +1,16 @@
+{
+  "options": [
+    "post_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gender_type",
+    "_testimonial_url",
+    "_testimonial_companyname",
+    "_testimonial_username"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:19.990Z"
+}

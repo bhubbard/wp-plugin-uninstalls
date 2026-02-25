@@ -1,0 +1,18 @@
+{
+  "options": [
+    "phplugins_carts_show_id",
+    "phplugins_carts_no_ip",
+    "phplugins_carts_no_url",
+    "phplugins_carts_debug",
+    "phplugins_carts_migration_1_2_0_complete",
+    "phplugins_carts_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "phplugins_livecarts_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:03.631Z"
+}

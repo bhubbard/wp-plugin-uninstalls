@@ -1,0 +1,36 @@
+{
+  "options": [
+    "heateor_sl_login",
+    "heateor_sl_version",
+    "heateor_sl",
+    "theme_my_login"
+  ],
+  "transients": [
+    "heateor-sl-admin-notice-on-activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "heateorsl_linked_accounts",
+    "heateorsl_provider",
+    "heateorsl_current_id",
+    "heateorsl_social_id",
+    "heateorsl_large_avatar",
+    "heateorsl_avatar",
+    "heateorsl_dontupdate_avatar",
+    "heateorsl_gdpr_consent",
+    "heateor_sl_temp_data",
+    "heateor_sl_redirect_to",
+    "heateorsl_twitter_oauthtoken",
+    "heateorsl_twitter_oauthtokensecret",
+    "heateorsl_mc_subscribe",
+    "heateorsl_twitter_redirect",
+    "heateor_sl_linkedin_mc_sub",
+    "heateor_sl_temp_network",
+    "pw_user_status",
+    "heateorsl_key",
+    "heateorsl_social_registration"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:40.454Z"
+}

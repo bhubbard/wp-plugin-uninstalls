@@ -1,0 +1,33 @@
+{
+  "options": [
+    "_omni_ai_custom_answer_prompt",
+    "_omni_ai_custom_search_prompt",
+    "_omni_project_id",
+    "_omni_selected_post_types",
+    "_omni_api_key_status",
+    "_omni_api_key",
+    "_omni_project_name",
+    "_omni_ai_search_answer",
+    "_omni_ai_search_content",
+    "_omni_ai_search_cache",
+    "_omni_ai_search_autocomplete",
+    "_omni_ai_search_results_limit",
+    "_omni_ai_search_trust_level",
+    "_omni_ai_cache",
+    "_omni_selected_fields_option",
+    "_omni_uploaded_fields_option",
+    "_omni_last_sync_date",
+    "_omni_chains_cache",
+    "_omni_chain_id"
+  ],
+  "transients": [
+    "_omni_post_count_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_exclude_from_omni"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:53.748Z"
+}

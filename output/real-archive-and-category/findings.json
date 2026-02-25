@@ -1,0 +1,16 @@
+{
+  "options": [
+    "real_archive_page_styles",
+    "real_archive_page_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "archive_face_content",
+    "archive_related_categories",
+    "archive_related_pages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:03.162Z"
+}

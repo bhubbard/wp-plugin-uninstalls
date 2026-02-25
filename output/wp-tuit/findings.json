@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wptuit_version",
+    "wptuit_cache",
+    "wptuit_username",
+    "wptuit_statuslink",
+    "wptuit_tweets",
+    "wptuit_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:40.032Z"
+}

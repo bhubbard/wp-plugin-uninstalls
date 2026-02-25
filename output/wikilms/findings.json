@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wikilms_price",
+    "wikilms_duration",
+    "wikilms_level",
+    "wikilms_students",
+    "wikilms_access",
+    "wikilms_language",
+    "contact_shortcodes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:04.935Z"
+}

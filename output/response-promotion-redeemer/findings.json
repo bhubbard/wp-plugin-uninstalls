@@ -1,0 +1,25 @@
+{
+  "options": [
+    "promo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "from",
+    "urllink",
+    "ptype",
+    "redURL",
+    "conURL",
+    "conNAME",
+    "conTNAME",
+    "conUSER",
+    "conPASSWORD",
+    "conQSTRING",
+    "queV1",
+    "queV2",
+    "queV3"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:19.207Z"
+}

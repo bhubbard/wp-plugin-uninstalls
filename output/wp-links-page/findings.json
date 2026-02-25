@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wplp_free_passes_req",
+    "wplp_screenshot_size",
+    "wplp_screenshot_refresh",
+    "wplp_apikey",
+    "wplp_grid",
+    "wplf_grid",
+    "wplp_width",
+    "wplf_width",
+    "wplpf_grid",
+    "wplff_grid",
+    "wplpf_width",
+    "wplff_width"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_ajax_wplf_ajax_update_screenshots",
+    "wp_links_page_event",
+    "wp_links_page_free_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wplp_display",
+    "wplp_screenshot_url",
+    "wplp_no_update",
+    "wplp_media_image",
+    "wplp_media_fav"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:16.990Z"
+}

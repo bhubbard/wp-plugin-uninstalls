@@ -1,0 +1,19 @@
+{
+  "options": [
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "sp_icon",
+    "sp_color",
+    "sp_singular",
+    "sp_timed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:26.088Z"
+}

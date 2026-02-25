@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "lamium_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_lamium_merchant_id",
+    "_lamium_customer_reference",
+    "_lamium_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:03.504Z"
+}

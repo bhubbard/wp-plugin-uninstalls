@@ -1,0 +1,19 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('rd_button_chat_options');
+delete_site_option('rd_button_chat_options');
+delete_option('rd_button_chat_setup_options');
+delete_site_option('rd_button_chat_setup_options');
+delete_option('rewrite_rules');
+delete_site_option('rewrite_rules');
+delete_option('rd_button_chat_setup');
+delete_site_option('rd_button_chat_setup');
+delete_option('rd_button_chat_backup_options');
+delete_site_option('rd_button_chat_backup_options');
+

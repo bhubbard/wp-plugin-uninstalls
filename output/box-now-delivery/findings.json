@@ -1,0 +1,32 @@
+{
+  "options": [
+    "boxnow_button_color",
+    "boxnow_button_text",
+    "boxnow_partner_id",
+    "embedded_iframe",
+    "box_now_display_mode",
+    "boxnow_locker_not_selected_message",
+    "boxnow_gps_tracking",
+    "boxnow_api_url",
+    "boxnow_client_id",
+    "boxnow_client_secret",
+    "boxnow_warehouse_id",
+    "boxnow_voucher_option",
+    "boxnow_voucher_email",
+    "boxnow_allow_returns",
+    "boxnow_mobile_number",
+    "boxnow-save-data-addressline1",
+    "boxnow-save-data-postalcode",
+    "boxnow-save-data-addressline2",
+    "_boxnow_parcel_order_id_*",
+    "boxnow_thankyou_page"
+  ],
+  "transients": [
+    "_manual_status_change"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:11.578Z"
+}

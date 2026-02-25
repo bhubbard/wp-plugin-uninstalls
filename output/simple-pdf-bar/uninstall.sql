@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wp_custom_attachment', 'meta-text', 'meta-bg-color', 'meta-text-color', 'meta-checkbox-enablebar', 'meta-include-close', 'meta-include-btn', 'meta-button-text', 'meta-button-link', 'meta-btn-color', 'meta-btn-text-color', 'meta-include-btn-second', 'meta-button-text-second', 'meta-button-link-second', 'meta-btn-color-second', 'meta-btn-text-color-second', 'meta-radio');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wp_custom_attachment', 'meta-text', 'meta-bg-color', 'meta-text-color', 'meta-checkbox-enablebar', 'meta-include-close', 'meta-include-btn', 'meta-button-text', 'meta-button-link', 'meta-btn-color', 'meta-btn-text-color', 'meta-include-btn-second', 'meta-button-text-second', 'meta-button-link-second', 'meta-btn-color-second', 'meta-btn-text-color-second', 'meta-radio');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wp_custom_attachment', 'meta-text', 'meta-bg-color', 'meta-text-color', 'meta-checkbox-enablebar', 'meta-include-close', 'meta-include-btn', 'meta-button-text', 'meta-button-link', 'meta-btn-color', 'meta-btn-text-color', 'meta-include-btn-second', 'meta-button-text-second', 'meta-button-link-second', 'meta-btn-color-second', 'meta-btn-text-color-second', 'meta-radio');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wp_custom_attachment', 'meta-text', 'meta-bg-color', 'meta-text-color', 'meta-checkbox-enablebar', 'meta-include-close', 'meta-include-btn', 'meta-button-text', 'meta-button-link', 'meta-btn-color', 'meta-btn-text-color', 'meta-include-btn-second', 'meta-button-text-second', 'meta-button-link-second', 'meta-btn-color-second', 'meta-btn-text-color-second', 'meta-radio');
+

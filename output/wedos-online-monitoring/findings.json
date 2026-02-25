@@ -1,0 +1,16 @@
+{
+  "options": [
+    "won_api_url",
+    "won_pair_checkId",
+    "won_pair_apiToken",
+    "won_pair_token",
+    "won_pair_publicToken",
+    "won_pair_connectionCheck"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:35.259Z"
+}

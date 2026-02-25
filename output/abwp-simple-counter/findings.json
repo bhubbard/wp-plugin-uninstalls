@@ -1,0 +1,18 @@
+{
+  "options": [
+    "abwp_sc_yandex_webmaster",
+    "abwp_sc_yandex_metrika",
+    "abwp_sc_yandex_metrika_position",
+    "abwp_sc_google_search_console",
+    "abwp_sc_google_analytics",
+    "abwp_sc_google_analytics_position",
+    "abwp_sc_yandex_metrika_token",
+    "abwp_sc_yandex_metrika_counter_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:22.295Z"
+}

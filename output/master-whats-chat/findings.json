@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tmwc_settings_data",
+    "tmwc_settings_data_skin_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tmwc_show_woocommerce_button",
+    "tmwc_woocommerce_button_attendant_id",
+    "tmwc_woocommerce_button_layout",
+    "tmwc_woocommerce_button_attendant_photo_or_icon",
+    "tmwc_woocommerce_button_attendant_title",
+    "tmwc_woocommerce_button_attendant_description",
+    "tmwc_woocommerce_button_position",
+    "tmwc_woocommerce_button_position_shop_archive"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:33.469Z"
+}

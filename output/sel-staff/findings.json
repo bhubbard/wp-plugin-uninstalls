@@ -1,0 +1,17 @@
+{
+  "options": [
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_selthemes_staff_icon_group",
+    "_selthemes_staff_title",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:15.017Z"
+}

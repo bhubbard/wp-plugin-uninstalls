@@ -1,0 +1,25 @@
+{
+  "options": [
+    "optimizelycampaign_newsletter_options",
+    "optimizelycampaign_db_version",
+    "optimizelycampaign_mail_options",
+    "optimizelycampaign_wpcore_options",
+    "optimizelycampaign_woocommerce_options",
+    "optimizelycampaign_other_options"
+  ],
+  "transients": [
+    "optimizelycampaign_smtp_error_log",
+    "optimizelycampaign_subscription_message"
+  ],
+  "cron_jobs": [
+    "optimizelycampaign_error_queue_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "optimizelycampaign_newsletter_subscription",
+    "optimizelycampaign_subscription_message",
+    "optimizelycampaign_previous_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:55.627Z"
+}

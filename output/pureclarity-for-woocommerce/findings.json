@@ -1,0 +1,45 @@
+{
+  "options": [
+    "pureclarity_db_version",
+    "pureclarity_mode",
+    "pureclarity_accesskey",
+    "pureclarity_secretkey",
+    "pureclarity_region",
+    "pureclarity_nightly_feed_enabled",
+    "pureclarity_deltas_enabled",
+    "pureclarity_bmz_debug",
+    "pureclarity_add_bmz_homepage",
+    "pureclarity_add_bmz_searchpage",
+    "pureclarity_add_bmz_categorypage",
+    "pureclarity_add_bmz_productpage",
+    "pureclarity_add_bmz_basketpage",
+    "pureclarity_add_bmz_checkoutpage",
+    "pureclarity_category_feed_required",
+    "pureclarity_feed_debug_logging",
+    "pureclarity_product_feed_exclude_oos",
+    "pureclarity_env_subheading",
+    "pureclarity_feeds_subheading",
+    "pureclarity_zones_subheading",
+    "pureclarity_brandfeed_run",
+    "pureclarity_catfeed_run",
+    "pureclarity_delta_running",
+    "pureclarity_orderfeed_run",
+    "pureclarity_prodfeed_run",
+    "pureclarity_product_deltas",
+    "pureclarity_user_deltas",
+    "pureclarity_userfeed_run"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pureclarity_requested_feeds_cron",
+    "pureclarity_nightly_feeds_cron",
+    "pureclarity_check_signup_status_cron",
+    "pureclarity_scheduled_deltas_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:26.840Z"
+}

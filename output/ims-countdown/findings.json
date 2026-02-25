@@ -1,0 +1,36 @@
+{
+  "options": [
+    "imsc_timezone",
+    "ims_countdown_info",
+    "ims-countdown-default-status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "countdown_type",
+    "countdown_value",
+    "ds",
+    "hr",
+    "mn",
+    "sc",
+    "countdown_start",
+    "countdown_end",
+    "expire_action",
+    "redirect_url",
+    "theme",
+    "font_face",
+    "title_color",
+    "timer_color",
+    "timer_background",
+    "timer_border",
+    "hide_title",
+    "timer_border_range",
+    "days",
+    "hours",
+    "minutes",
+    "seconds"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:01.330Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "png_to_jpg_settings"
+  ],
+  "transients": [
+    "wpseo_total_unindexed_post_type_archives",
+    "wpseo_total_unindexed_general_items",
+    "wpseo_total_unindexed_posts",
+    "wpseo_total_unindexed_terms",
+    "wpseo_unindexed_post_link_count",
+    "wpseo_unindexed_term_link_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "png_converted",
+    "_wp_attached_file",
+    "transparency",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:21.961Z"
+}

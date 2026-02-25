@@ -1,0 +1,27 @@
+{
+  "options": [
+    "crowdfundly_activate_redirect",
+    "crowdfundly_organization_page_id",
+    "crowdfundly_all_campaigns_page_id",
+    "crowdfundly_single_campaign_page_id",
+    "crowdfundly_intro_notice",
+    "crowdfundly_url_update",
+    "crowdfundly_settings",
+    "auth_meta",
+    "links_updated_date_format",
+    "crowdfundly_update_v208"
+  ],
+  "transients": [
+    "crowdfundly_api_sync"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "crowdfundly_organization_page_id",
+    "crowdfundly_all_campaigns_page_id",
+    "crowdfundly_single_campaign_page_id",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:58.512Z"
+}

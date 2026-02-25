@@ -1,0 +1,150 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('pl_wcpt_api_purchase_limit');
+delete_site_option('pl_wcpt_api_purchase_limit');
+delete_option('pl_wcpt_api_username');
+delete_site_option('pl_wcpt_api_username');
+delete_option('pl_wcpt_api_code_release');
+delete_site_option('pl_wcpt_api_code_release');
+delete_option('pl_wcpt_transaction_last');
+delete_site_option('pl_wcpt_transaction_last');
+delete_option('pl_wcpt_api_account_currency');
+delete_site_option('pl_wcpt_api_account_currency');
+delete_option('pl_wcpt_api_password');
+delete_site_option('pl_wcpt_api_password');
+delete_option('pl_api_purchase_limit');
+delete_site_option('pl_api_purchase_limit');
+delete_option('pl_api_username');
+delete_site_option('pl_api_username');
+delete_option('pl_wcpt_api_last_currency');
+delete_site_option('pl_wcpt_api_last_currency');
+delete_option('pl_api_last_currency');
+delete_site_option('pl_api_last_currency');
+delete_option('pl_api_password');
+delete_site_option('pl_api_password');
+delete_option('pl_wcpt_api_public_key');
+delete_site_option('pl_wcpt_api_public_key');
+delete_option('pl_api_public_key');
+delete_site_option('pl_api_public_key');
+delete_option('pl_wcpt_api_private_key');
+delete_site_option('pl_wcpt_api_private_key');
+delete_option('pl_api_private_key');
+delete_site_option('pl_api_private_key');
+delete_option('pl_wcpt_api_environment');
+delete_site_option('pl_wcpt_api_environment');
+delete_option('pl_api_environment');
+delete_site_option('pl_api_environment');
+delete_option('pl_wcpt_api_currency_conversion_value');
+delete_site_option('pl_wcpt_api_currency_conversion_value');
+delete_option('pl_api_currency_conversion_value');
+delete_site_option('pl_api_currency_conversion_value');
+delete_option('pl_api_code_release');
+delete_site_option('pl_api_code_release');
+delete_option('pl_wcpt_api_code_release_regular_email');
+delete_site_option('pl_wcpt_api_code_release_regular_email');
+delete_option('pl_api_code_release_regular_email');
+delete_site_option('pl_api_code_release_regular_email');
+delete_option('pl_wcpt_api_currency_conversion');
+delete_site_option('pl_wcpt_api_currency_conversion');
+delete_option('pl_api_currency_conversion');
+delete_site_option('pl_api_currency_conversion');
+delete_option('woocommerce_email_from_name');
+delete_site_option('woocommerce_email_from_name');
+delete_option('woocommerce_email_from_address');
+delete_site_option('woocommerce_email_from_address');
+delete_option('pl_wcpt_api_import_markup_val');
+delete_site_option('pl_wcpt_api_import_markup_val');
+delete_option('pl_wcpt_force_transaction_last');
+delete_site_option('pl_wcpt_force_transaction_last');
+delete_option('woocommerce_currency');
+delete_site_option('woocommerce_currency');
+delete_option('woocommerce_custom_orders_table_data_sync_enabled');
+delete_site_option('woocommerce_custom_orders_table_data_sync_enabled');
+delete_option('pl_wcpt_api_code_purchase');
+delete_site_option('pl_wcpt_api_code_purchase');
+delete_option('pl_wcpt_api_openexchangerates');
+delete_site_option('pl_wcpt_api_openexchangerates');
+delete_option('pl_wcpt_api_per_product_limit');
+delete_site_option('pl_wcpt_api_per_product_limit');
+delete_option('pl_wcpt_api_code_release_method_limit');
+delete_site_option('pl_wcpt_api_code_release_method_limit');
+delete_option('pl_wcpt_api_code_release_csv_email');
+delete_site_option('pl_wcpt_api_code_release_csv_email');
+delete_option('pl_wcpt_api_low_wallet_email');
+delete_site_option('pl_wcpt_api_low_wallet_email');
+delete_option('pl_wcpt_api_price_mismatch_email');
+delete_site_option('pl_wcpt_api_price_mismatch_email');
+delete_option('wc_settings_woocommerce-fraudlabs-pro_enabled');
+delete_site_option('wc_settings_woocommerce-fraudlabs-pro_enabled');
+delete_option('pl_wcpt_paythem_db_version');
+delete_site_option('pl_wcpt_paythem_db_version');
+delete_option('pl_wcpt_store_last_currency');
+delete_site_option('pl_wcpt_store_last_currency');
+
+// Delete Transients
+delete_transient('pl_wcpt_seller_wallet');
+delete_site_transient('pl_wcpt_seller_wallet');
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('pl_get_order_on_demand_stock');
+wp_clear_scheduled_hook('pl_purchase_product_after_order');
+wp_clear_scheduled_hook('pl_sync_products');
+wp_clear_scheduled_hook('pl_sync_transactions');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_stock_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_stock_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_stock_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_stock_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pt_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pt_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pt_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pt_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pt_stock_management' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pt_stock_management' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pt_stock_management' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pt_stock_management' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pt_stock_level' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pt_stock_level' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pt_stock_level' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pt_stock_level' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pl_pt_on_demand_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pl_pt_on_demand_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pl_pt_on_demand_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pl_pt_on_demand_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pl_pt_base_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pl_pt_base_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pl_pt_base_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pl_pt_base_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pt_autoselling_price_percentage' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pt_autoselling_price_percentage' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pt_autoselling_price_percentage' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pt_autoselling_price_percentage' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pt_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pt_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pt_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pt_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_stock' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pt_sell_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pt_sell_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pt_sell_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pt_sell_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pt_product_start' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pt_product_start' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pt_product_start' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pt_product_start' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pt_product_reserved' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pt_product_reserved' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pt_product_reserved' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pt_product_reserved' ) );
+

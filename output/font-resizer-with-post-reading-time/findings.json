@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fsc_disable_option",
+    "fsc_reading_time_pre_text",
+    "fsc_btn_bg",
+    "fsc_btn_color",
+    "fsc_btn_border",
+    "fsc_reading_time_bg",
+    "fsc_reading_time_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:33.817Z"
+}

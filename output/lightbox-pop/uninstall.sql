@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('xyz_credit_link', 'lightbox_installed_date', 'xyz_lightbox_dnt_shw_notice', 'xyz_lbx_credit_dismiss', 'xyz_lbx_html', 'xyz_tinymce', 'xyz_lbx_top', 'xyz_lbx_width', 'xyz_lbx_height', 'xyz_lbx_left', 'xyz_lbx_enable', 'xyz_lbx_showing_option', 'xyz_lbx_adds_enable', 'xyz_lbx_cache_enable', 'xyz_lbx_delay', 'xyz_lbx_page_count', 'xyz_lbx_mode', 'xyz_lbx_repeat_interval', 'xyz_lbx_repeat_interval_timing', 'xyz_lbx_z_index', 'xyz_lbx_color', 'xyz_lbx_corner_radius', 'xyz_lbx_width_dim', 'xyz_lbx_height_dim', 'xyz_lbx_left_dim', 'xyz_lbx_top_dim', 'xyz_lbx_border_color', 'xyz_lbx_bg_opacity', 'xyz_lbx_bg_color', 'xyz_lbx_opacity', 'xyz_lbx_border_width', 'xyz_lbx_page_option', 'xyz_lbx_close_button_option', 'xyz_lbx_iframe', 'xyz_lbx_positioning', 'xyz_lbx_position_predefined', 'xyz_lbx_display_position', 'xyz_lbx_display_user', 'xyz_lbx_right', 'xyz_lbx_bottom', 'xyz_lbx_right_dim', 'xyz_lbx_bottom_dim', 'xyz_lbx_free_version', 'xyz_lbx_cookie_resett', 'xyz_lbx_referar_message_show_option');
+

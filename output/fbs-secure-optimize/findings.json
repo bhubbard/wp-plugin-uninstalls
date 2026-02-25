@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fbsseop_settings",
+    "fbs_opt_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fbsseop_cleanup_database"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:39.387Z"
+}

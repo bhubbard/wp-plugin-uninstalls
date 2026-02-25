@@ -1,0 +1,62 @@
+{
+  "options": [
+    "sfw_radio_switch_demo",
+    "wps_sfw_first_subscription_box_id",
+    "wps_sfw_enable_plugin",
+    "wps_sfw_add_to_cart_text",
+    "wps_sfw_place_order_button_text",
+    "wps_sfw_cancel_subscription_for_customer",
+    "wps_sfw_enable_subscription_log",
+    "wsp_api_secret_key",
+    "wsp_enable_api_features",
+    "wps_sfw_enable_tracking",
+    "wps_learnpress_course",
+    "wps_sfw_enable_plugin ",
+    "wps_sfw_add_to_cart_text ",
+    "wps_sfw_place_order_button_text ",
+    "wps_sfw_multistep_product_create_done",
+    "woocommerce_wps_paypal_settings",
+    "wps_sfw_multistep_done",
+    "wps_wgm_notify_new_banner_id",
+    "wps_wgm_notify_new_banner_image",
+    "wps_wgm_notify_new_banner_url",
+    "wps_wgm_notify_hide_baneer_notification",
+    "wsp_enable_subscription_box_features",
+    "wps_sfw_subscription_box_add_to_cart_text",
+    "wps_sfw_subscription_box_place_order_button_text",
+    "woocommerce_email_footer_text",
+    "wps_sfw_onboarding_data_skipped",
+    "wps_sfw_onboarding_data_sent",
+    "woocommerce_prices_include_tax",
+    "wpswings_tracker_last_send",
+    "woocommerce_calc_taxes",
+    "wsp_allow_shipping_subscription",
+    "woocommerce_paypal_settings",
+    "woocommerce_ppec_paypal_settings",
+    "audit_cybs_number",
+    "mwb_wsp_license_key",
+    "active_sitewide_plugins",
+    "wps_all_plugins_active"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wps_wgm_check_for_notification_update",
+    "wpswings_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wps_learnpress_course",
+    "wps_sfw_step_settings",
+    "wps_sfw_subscription_box_setup",
+    "wps_sfw_subscription_box_step_label",
+    "wps_sfw_subscription_box_products",
+    "wps_sfw_subscription_box_categories",
+    "_payment_method",
+    "_paypal_subscription_id",
+    "_wps_paypal_subscription_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:15.154Z"
+}

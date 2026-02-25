@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "crudiator_last_query",
+    "_custom_setting_json",
+    "_table_name",
+    "_menu_type",
+    "_capability",
+    "_menu_slug"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:14.841Z"
+}

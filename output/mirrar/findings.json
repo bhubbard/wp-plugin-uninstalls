@@ -1,0 +1,28 @@
+{
+  "options": [
+    "mirrar_brand_id",
+    "mirrar_all_post_type",
+    "mirrar_button_position",
+    "mirrar_btn_product_class",
+    "mirrar_hover_color",
+    "mirrar_button_icon",
+    "mirrar_icon_position",
+    "mirrar_style",
+    "mirrar_button_text",
+    "mirrar_button_alignment",
+    "mirrar_shop",
+    "mirrar_single_product",
+    "mirrar_btn_product_css",
+    "mirrar_all_taxonomy",
+    "mirrar_btn_category_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mirrar_show",
+    "mirrar_brand_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:51.939Z"
+}

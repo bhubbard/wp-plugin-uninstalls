@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fsst_settings"
+  ],
+  "transients": [
+    "fsst_domain_unverified",
+    "fsst_admin_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sharethumb"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:19.099Z"
+}

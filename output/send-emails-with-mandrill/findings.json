@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpmandrill",
+    "wpmandrill-test",
+    "wpmandrill_notice_shown",
+    "wpmandrill-stats",
+    "dashboard_widget_options",
+    "sewm_activated_on"
+  ],
+  "transients": [
+    "wpmandrill-stats",
+    "mandrill-stats"
+  ],
+  "cron_jobs": [
+    "wpm_update_stats"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:51.160Z"
+}

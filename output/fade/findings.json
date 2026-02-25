@@ -1,0 +1,13 @@
+{
+  "options": [
+    "alobaidi_fade_color",
+    "alobaidi_fade_time",
+    "alobaidi_fade_element"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:37.283Z"
+}

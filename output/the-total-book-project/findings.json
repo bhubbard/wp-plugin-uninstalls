@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ttbp_settings"
+  ],
+  "transients": [
+    "book_author_error_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_book_isbn",
+    "_book_publication_date",
+    "_book_publisher",
+    "_book_description",
+    "_book_subtitle",
+    "_book_dedication",
+    "_book_acknowledgments",
+    "_book_about_author",
+    "_book_author",
+    "_*",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:51.582Z"
+}

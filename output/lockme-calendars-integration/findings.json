@@ -1,0 +1,37 @@
+{
+  "options": [
+    "lockme_settings",
+    "lockme_url_key",
+    "lockme_oauth2_state",
+    "lockme_oauth2_token",
+    "lockme_db_ver",
+    "lockme_amelia",
+    "lockme_app",
+    "lockme_booked",
+    "booked_defaults_*",
+    "booked_defaults",
+    "lockme_bookingpress",
+    "lockme_bookly",
+    "lockme_cpabc",
+    "lockme_dopbsp",
+    "lockme_easyapp",
+    "lockme_ezscm",
+    "lockme_wpb",
+    "lockme_wpdevart",
+    "lockme_woo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_appointment_timestamp",
+    "_appointment_guest_name",
+    "_appointment_guest_email",
+    "_appointment_timeslot",
+    "_appointment_source",
+    "_cf_meta_value",
+    "booked_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:20.695Z"
+}

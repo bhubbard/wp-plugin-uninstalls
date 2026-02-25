@@ -1,0 +1,50 @@
+{
+  "options": [
+    "fkwcs_apple_pay_domain_is_verified",
+    "fkwcs_apple_pay_verified_domain",
+    "fkwcs_live_created_webhook",
+    "fkwcs_wp_stripe",
+    "woocommerce_fkwcs_stripe_settings",
+    "fkwcs_mode",
+    "fkwcs_test_pub_key",
+    "fkwcs_pub_key",
+    "fkwcs_stripe_account_settings",
+    "fkwcs_wp_hash",
+    "fkwcs_live_webhook_secret",
+    "fkwcs_live_webhook_url",
+    "fkwcs_test_webhook_secret",
+    "fkwcs_test_created_webhook",
+    "*_webhook_secret",
+    "fkwcs_secret_key",
+    "fkwcs_test_secret_key",
+    "fkwcs_stripe_statement_descriptor_full",
+    "fkwcs_stripe_statement_descriptor_prefix",
+    "woocommerce_default_country",
+    "fkwcs_setup_status",
+    "*_secret_key",
+    "*_created_webhook",
+    "fkwcs_currency_fee",
+    "fkwcs_account_id",
+    "fkwcs_debug_log",
+    "fkwcs_stripe_statement_descriptor_should_customize",
+    "fkwcs_stripe_statement_descriptor_suffix"
+  ],
+  "transients": [
+    "_wc_activation_redirect",
+    "fkwcs_user_tokens_*",
+    "fkwcs_stripe_processing_intent_*",
+    "_fkwcs_refund_id_cache_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fkwcs_notices",
+    "billing_first_name",
+    "billing_last_name",
+    "first_name",
+    "last_name",
+    "_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:04.839Z"
+}

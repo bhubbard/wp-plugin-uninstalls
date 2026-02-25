@@ -1,0 +1,22 @@
+{
+  "options": [
+    "hubon_hubon_display_name",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pickup_date",
+    "status",
+    "order_id",
+    "response",
+    "payload",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_phone",
+    "_hubon_transport_order_created"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:16.469Z"
+}

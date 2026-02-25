@@ -1,0 +1,15 @@
+{
+  "options": [
+    "audio_envelope_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ae_activate_player",
+    "_wp_attachment_image_alt",
+    "_ae_deactivate_player"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:36.371Z"
+}

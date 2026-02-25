@@ -1,0 +1,26 @@
+{
+  "options": [
+    "dgp_autosend",
+    "dgp_api",
+    "dgp_error",
+    "dgp_key",
+    "dgp_delay",
+    "dgp_nativerequest",
+    "dgp_inpageads",
+    "dgp_type",
+    "dgp_theme",
+    "dgp_message",
+    "dgp_title",
+    "dgp_allowbutton",
+    "dgp_denybutton",
+    "dgp_bgimage"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dgp_ntf_sending"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:27.752Z"
+}

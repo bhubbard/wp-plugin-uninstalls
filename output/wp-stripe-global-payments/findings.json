@@ -1,0 +1,36 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "china_payments_area_*",
+    "*_stripe_apple_pay_domain",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_last_notification_id",
+    "china_payments_payment_intent_id",
+    "china_payments_is_live",
+    "china_payments_payment_intent_secret",
+    "membership_level_id",
+    "payment_amount",
+    "payment_currency",
+    "return_url",
+    "button_image_url",
+    "button_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:09.103Z"
+}

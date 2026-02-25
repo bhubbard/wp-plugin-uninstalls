@@ -1,0 +1,43 @@
+{
+  "options": [
+    "dearlms_rewrite_version",
+    "dearlms_flush_rewrite_rules",
+    "dearlms_enable_progress",
+    "dearlms_url_structure",
+    "dearlms_primary_color",
+    "dearlms_secondary_color",
+    "dearlms_text_color",
+    "dearlms_activated",
+    "dearlms_version"
+  ],
+  "transients": [
+    "dearlms_new_lesson_course_id_*",
+    "dearlms_new_topic_lesson_id_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lesson_course_id",
+    "_topic_lesson_id",
+    "_lesson_course",
+    "_course_level",
+    "_course_duration",
+    "_course_price",
+    "_students_enrolled",
+    "_topic_content_type",
+    "_topic_duration",
+    "_lesson_duration",
+    "_lesson_video_url",
+    "_lesson_resources",
+    "_topic_lesson",
+    "_lesson_order",
+    "_topic_order",
+    "_topic_is_introduction",
+    "_topic_video_url",
+    "_is_introduction_topic",
+    "_lesson_introduction_topic",
+    "_course_students"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:55.191Z"
+}

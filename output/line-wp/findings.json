@@ -1,0 +1,21 @@
+{
+  "options": [
+    "line_wp_setting_options_name",
+    "*channel_access_token",
+    "*channel_secret",
+    "line_wp_rated"
+  ],
+  "transients": [
+    "line-wp-error-send-to-line-image",
+    "line-wp-error-send-to-line",
+    "line-wp-success-send-to-line"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_line_wp_last_send_date",
+    "_line_wp_send_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:09.180Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "externallinknotice_review_notice_dismissed",
+    "externallinknotice_activation_date",
+    "externallinknotice_notice_dismiss_count",
+    "externallinknotice_user_already_reviewed",
+    "externallinknotice_user_needs_help",
+    "external_links_notice_options",
+    "leaving_notice_popup_options",
+    "externallinknotice_options"
+  ],
+  "transients": [
+    "externallinknotice_activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:29.260Z"
+}

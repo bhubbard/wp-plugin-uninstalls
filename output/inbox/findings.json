@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wp_inbox_messages",
+    "wp_inbox_gplus_api",
+    "wpinbox_options",
+    "wp_inbox_live_chat_settings",
+    "wp_inbox_admin_msg",
+    "wp_inbox_admin_msg_id",
+    "*_staff",
+    "active_sitewide_plugins",
+    "pages_layout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mail_notification",
+    "_wp_inbox_timezone",
+    "_tlms_ustatus",
+    "_tlms_astatus",
+    "_unread_status_*",
+    "wp_inbox_read_msg",
+    "wp_user_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:39.958Z"
+}

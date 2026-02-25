@@ -1,0 +1,16 @@
+{
+  "options": [
+    "editoria11y_db_version",
+    "ed11y_plugin_settings"
+  ],
+  "transients": [
+    "editoria11y_settings",
+    "ed11y_got_ids",
+    "editoria11y_settinges"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:27.682Z"
+}

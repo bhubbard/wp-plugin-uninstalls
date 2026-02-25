@@ -1,0 +1,28 @@
+{
+  "options": [
+    "mpp-hide-intro-title",
+    "mpp-comments-on-page",
+    "mpp-continue-or-prev-next",
+    "mpp-disable-standard-pagination",
+    "mpp-toc-only-on-the-first-page",
+    "mpp-toc-position",
+    "mpp-toc-row-labels",
+    "mpp-hide-toc-header",
+    "mpp-comments-toc-link",
+    "_mpp-rewrite-title-priority",
+    "_mpp-rewrite-content-priority",
+    "mpp-disable-tinymce-buttons",
+    "_mpp-postmeta-built",
+    "classic-editor-replace",
+    "_mpp_db_version",
+    "multipage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mpp_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:13.236Z"
+}

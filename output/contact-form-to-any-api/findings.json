@@ -1,0 +1,25 @@
+{
+  "options": [
+    "cf7_to_api_entry_hide",
+    "cf7_to_api_log_hide",
+    "cf7_to_api_before_mail_sent"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7anyapi_selected_form",
+    "cf7anyapi_form_field",
+    "cf7anyapi_base_url",
+    "cf7anyapi_basic_auth",
+    "cf7anyapi_bearer_auth",
+    "cf7anyapi_input_type",
+    "cf7anyapi_method",
+    "cf7anyapi_header_request",
+    "cf7anyapi_enable_condition",
+    "cf7anyapi_conditions",
+    "_cf7api_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:59.409Z"
+}

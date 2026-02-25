@@ -1,0 +1,14 @@
+{
+  "options": [
+    "antispamrel_settings",
+    "antispamrel_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "antispamrel_info_visibility"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:45.752Z"
+}

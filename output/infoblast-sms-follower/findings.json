@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sms_user",
+    "sms_password",
+    "sms_signature",
+    "sms_header",
+    "sms_footer",
+    "sms_max",
+    "sms_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sms_send_sms",
+    "sms_sent",
+    "sms_profile_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:48.183Z"
+}

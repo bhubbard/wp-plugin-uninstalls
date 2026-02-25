@@ -1,0 +1,24 @@
+{
+  "options": [
+    "download_counter_options",
+    "simple-download-counter-dismiss-notice"
+  ],
+  "transients": [
+    "update_sdc_download_permalinks"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sdc_download_version",
+    "sdc_download_count",
+    "sdc_download_notes",
+    "sdc_download_url",
+    "sdc_download_path",
+    "sdc_download_type",
+    "sdc_download_size",
+    "sdc_download_ext",
+    "sdc_download_hash"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:15.629Z"
+}

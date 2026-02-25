@@ -1,0 +1,24 @@
+{
+  "options": [
+    "accu_auto_backup_backups",
+    "*_sc_auto_enabled",
+    "*_backup_method",
+    "*_sc_auto_interval",
+    "*_bkp_store_limit",
+    "accu_auto_backup_exclude_table",
+    "accu_auto_backup_log",
+    "accu_auto_backup_sc_auto_enabled",
+    "accu_auto_backup_bkp_store_limit",
+    "accu_last_backup",
+    "accu_auto_backup_backup_method",
+    "accu_auto_backup_sc_auto_interval"
+  ],
+  "transients": [
+    "accu_auto_backup_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:54.805Z"
+}

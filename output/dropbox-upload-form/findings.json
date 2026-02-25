@@ -1,0 +1,17 @@
+{
+  "options": [
+    "db_key",
+    "db_secret",
+    "db_auth_token",
+    "db_auth_token_secret",
+    "db_path",
+    "db_temp_path",
+    "db_allow_ext"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:53.311Z"
+}

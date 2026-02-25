@@ -1,0 +1,25 @@
+{
+  "options": [
+    "scconn_deleted_products_log",
+    "scconn_allowed_plugins",
+    "scconn_settings",
+    "default_product_cat",
+    "scconn_deleted_posts_log",
+    "PELM_SETTINGS",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_subscription_renewal",
+    "_scconn_username",
+    "_scconn_api_token",
+    "wp_user_level"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:33.749Z"
+}

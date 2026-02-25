@@ -1,0 +1,17 @@
+{
+  "options": [
+    "acr_kit_version",
+    "acr_kit_unsubscribe_page_id",
+    "acr_kit_connected_by",
+    "acr_kit_api_token",
+    "acr_kit_app_token"
+  ],
+  "transients": [
+    "acr_kit_connection_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:15.753Z"
+}

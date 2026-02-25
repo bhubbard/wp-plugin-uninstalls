@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ssg_title",
+    "ssg_width",
+    "ssg_height",
+    "ssg_pause",
+    "ssg_fadeduration",
+    "ssg_descreveal",
+    "ssg_descreveal1",
+    "ssg_cycles",
+    "ssg_random",
+    "ssg_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:02.589Z"
+}

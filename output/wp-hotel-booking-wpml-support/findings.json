@@ -1,0 +1,16 @@
+{
+  "options": [
+    "icl_sitepress_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hb_room_origin_capacity",
+    "hb_max_number_of_adults",
+    "_hb_room_capacity",
+    "_hb_room_extra"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:00.588Z"
+}

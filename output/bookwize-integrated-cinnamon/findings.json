@@ -1,0 +1,29 @@
+{
+  "options": [
+    "bw_apiBaseUrl",
+    "bw_apiKey",
+    "bw_hotelId",
+    "bw_primary_color",
+    "bw_secondary_color",
+    "bw_header_color",
+    "wp-dynamic-css-cache",
+    "bw_enable_jcc",
+    "bw_preload",
+    "bw_currency",
+    "bw_debug",
+    "bw_header",
+    "bw_group_text",
+    "bw_theme",
+    "bw_jcc_password",
+    "bw_jcc_merchant",
+    "bw_jcc_acquirer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bookwize_integrated_page_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:34.129Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wc_rma_settings",
+    "wc_rma_settings_accounting",
+    "wc_rma_version",
+    "wc_rma_db_version",
+    "wc_rma_settings_collective_invoice"
+  ],
+  "transients": [
+    "rma-wc-page-activated"
+  ],
+  "cron_jobs": [
+    "run_my_accounts_collective_invoice"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rma_billing_account",
+    "billing_title",
+    "rma_customer",
+    "rma_payment_period"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:30.527Z"
+}

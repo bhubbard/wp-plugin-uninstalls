@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ss_views_delay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "spv",
+    "total_sales"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:30.015Z"
+}

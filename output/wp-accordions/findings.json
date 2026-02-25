@@ -1,0 +1,19 @@
+{
+  "options": [
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "heading_color",
+    "heading_bgcolor",
+    "content_color",
+    "content_bgcolor",
+    "accordion_type",
+    "accordion_open_one",
+    "accordion_meta_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:36.490Z"
+}

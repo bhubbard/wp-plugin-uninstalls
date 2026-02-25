@@ -1,0 +1,23 @@
+{
+  "options": [
+    "incert_coupons",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_incert_coupon_used",
+    "_incert_has_incert_product",
+    "_is_incert",
+    "_partly_redeemable",
+    "*_redemption_id",
+    "*_redeemed_amount",
+    "_incert_order_id",
+    "_incert_coupon_articles",
+    "_incert_order_error",
+    "_incert_coupon_articles_data_set"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:10.718Z"
+}

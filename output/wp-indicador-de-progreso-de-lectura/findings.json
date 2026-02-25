@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpipl_color_barra_progreso",
+    "*_color_barra_progreso",
+    "*_version",
+    "wpipl_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:34.667Z"
+}

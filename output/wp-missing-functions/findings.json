@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wmf_options",
+    "cop_options",
+    "sef_options",
+    "wop_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmf-text-after-price",
+    "wpmf-text-under-price",
+    "wmf_alt_paypal_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:32.918Z"
+}

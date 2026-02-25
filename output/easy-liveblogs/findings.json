@@ -1,0 +1,17 @@
+{
+  "options": [
+    "elb_settings"
+  ],
+  "transients": [
+    "*_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elb_status",
+    "_elb_liveblog",
+    "_elb_is_liveblog"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:50.855Z"
+}

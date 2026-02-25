@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wc_vantiv_version",
+    "woocommerce_vantiv_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_setup_id",
+    "_vantiv_refund_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:41.034Z"
+}

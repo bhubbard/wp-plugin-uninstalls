@@ -1,0 +1,25 @@
+{
+  "options": [
+    "atc-importer-processing",
+    "atc_importer_last_run"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "atc_license_modification",
+    "atc_license_multimediatisation",
+    "atc_license_localisation",
+    "atc_license_distribution",
+    "atc_themes",
+    "atc_version",
+    "atc_delivery_id",
+    "atc_refid",
+    "lang",
+    "characters_count",
+    "words_count",
+    "atc_license_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:48.790Z"
+}

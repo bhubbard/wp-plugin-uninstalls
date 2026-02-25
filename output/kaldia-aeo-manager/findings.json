@@ -1,0 +1,21 @@
+{
+  "options": [
+    "kaldia_openai_model",
+    "kaldia_max_tokens",
+    "kaldia_temperature",
+    "kaldia_api_valid",
+    "kaldia_openai_key",
+    "kaldia_cipher_seed"
+  ],
+  "transients": [
+    "kaldia_models_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kaldia_faq",
+    "_kaldia_schema_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:24.112Z"
+}

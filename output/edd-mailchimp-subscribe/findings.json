@@ -1,0 +1,15 @@
+{
+  "options": [
+    "edd_settings",
+    "eddms_force_refresh"
+  ],
+  "transients": [
+    "eddms_mailchimp_mailinglist",
+    "eddms_mailchimp_stats"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:05.590Z"
+}

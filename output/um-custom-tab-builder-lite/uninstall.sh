@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'um_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_um_ctb_slug'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_um_ctb_slug'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_um_ctb_slug'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_um_ctb_slug'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_um_ctb_icon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_um_ctb_icon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_um_ctb_icon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_um_ctb_icon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_um_ctb_tab_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_um_ctb_tab_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_um_ctb_tab_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_um_ctb_tab_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_um_ctb_private'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_um_ctb_private'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_um_ctb_private'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_um_ctb_private'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_um_ctb_roles_view'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_um_ctb_roles_view'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_um_ctb_roles_view'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_um_ctb_roles_view'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_um_ctb_roles_own'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_um_ctb_roles_own'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_um_ctb_roles_own'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_um_ctb_roles_own'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_um_ctb_type_shortcode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_um_ctb_type_shortcode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_um_ctb_type_shortcode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_um_ctb_type_shortcode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_um_ctb_type_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_um_ctb_type_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_um_ctb_type_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_um_ctb_type_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"

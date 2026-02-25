@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('gutengrow_blocks_status', 'gutengrow_stripe_settings', 'gutengrow_instagram_settings', 'gutengrow_db_version', 'gutengrow_google_sheets_settings', 'gutengrow_stripe_test_secret_key', 'gutengrow_stripe_live_secret_key', 'gutengrow_stripe_configured', 'gutengrow_stripe_products', 'stripe_products', 'gutengrow_products', 'gutengrow_stripe_currency', 'gutengrow_stripe_currency_symbol', 'gutengrow_stripe_publishable_key', 'gutengrow_stripe_success_page', 'gutengrow_stripe_cancel_page', 'stripe_test_secret_key', 'stripe_live_secret_key');
+

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pld_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pld_like_count",
+    "pld_dislike_count",
+    "pld_ips",
+    "pld_users",
+    "pld_ips_info",
+    "pld_users_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:28.001Z"
+}

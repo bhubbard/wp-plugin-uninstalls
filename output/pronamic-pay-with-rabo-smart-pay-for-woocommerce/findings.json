@@ -1,0 +1,53 @@
+{
+  "options": [
+    "pronamic_pay_config_id",
+    "pronamic_pay_active_payment_methods",
+    "pronamic_pay_license_status",
+    "pronamic_pay_license_key",
+    "pronamic_pay_uninstall_clear_data",
+    "pronamic_pay_woocommerce_birth_date_field",
+    "pronamic_pay_woocommerce_birth_date_field_enable",
+    "pronamic_pay_woocommerce_gender_field",
+    "pronamic_pay_woocommerce_gender_field_enable",
+    "woocommerce_currency"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count",
+    "pronamic_pay_admin_redirect",
+    "pronamic_pay_license_data",
+    "pronamic_outdated_webhook_urls"
+  ],
+  "cron_jobs": [
+    "pronamic_pay_license_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pronamic_gateway_id",
+    "_pronamic_gateway_ems_ecommerce_storename",
+    "_pronamic_gateway_ideal_merchant_id",
+    "_pronamic_gateway_buckaroo_website_key",
+    "_pronamic_gateway_icepay_merchant_id",
+    "_pronamic_gateway_mollie_partner_id",
+    "_pronamic_gateway_multisafepay_account_id",
+    "_pronamic_gateway_pay_nl_service_id",
+    "_pronamic_gateway_paydutch_username",
+    "_pronamic_gateway_targetpay_layoutcode",
+    "_pronamic_gateway_ogone_psp_id",
+    "_pronamic_gateway_ogone_user_id",
+    "_pronamic_gateway_ideal_basic_hash_key",
+    "_pronamic_gateway_omnikassa_secret_key",
+    "_pronamic_gateway_buckaroo_secret_key",
+    "_pronamic_gateway_icepay_secret_code",
+    "_pronamic_gateway_ogone_password",
+    "_wp_trash_meta_status",
+    "_pronamic_payment_transaction_id",
+    "_pronamic_payment_config_id",
+    "_pronamic_subscription_description",
+    "_pronamic_subscription_customer_name",
+    "_pronamic_gateway_webhook_log"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:32.804Z"
+}

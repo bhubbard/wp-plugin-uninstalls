@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aicf_consent_given",
+    "aicf_rest_api_key",
+    "aicf_db_version"
+  ],
+  "transients": [
+    "aicf_usage_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:56.989Z"
+}

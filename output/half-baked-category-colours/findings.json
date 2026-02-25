@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pg_cat_colors_enable_pills",
+    "pg_cat_colors_enable_tint",
+    "pg_cat_colors_enable_underline",
+    "pg_cat_colors_default_color",
+    "pg_cat_colors_pill_gap",
+    "pg_cat_colors_border_thickness",
+    "pg_cat_colors_pill_shape",
+    "pg_cat_colors_case_storage",
+    "pg_cat_colors_case_auto",
+    "pg_cat_colors_case_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pg_category_color"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:06.162Z"
+}

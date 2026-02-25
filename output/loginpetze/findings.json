@@ -1,0 +1,12 @@
+{
+  "options": [
+    "loginpetze_options",
+    "loginpetze_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:36.450Z"
+}

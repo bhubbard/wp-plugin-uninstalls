@@ -1,0 +1,13 @@
+{
+  "options": [
+    "jal_db_version",
+    "bv_gr_api_key",
+    "bv_gr_place_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:36.183Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "spambanana_settings",
+    "spambanana_version",
+    "comment_previously_approved"
+  ],
+  "transients": [
+    "spambanana_activation_redirect"
+  ],
+  "cron_jobs": [
+    "spambanana_cleanup_logs",
+    "spambanana_auto_delete_spam"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "spambanana_score"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:09.856Z"
+}

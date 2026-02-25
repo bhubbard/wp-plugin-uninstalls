@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ts_dipwd_notification_email",
+    "ts_dipwd_notification_notes",
+    "ts_dipwd_previous_ip",
+    "ts_dipwd_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:31.823Z"
+}

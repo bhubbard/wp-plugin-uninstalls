@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wc_mailpoet_segment_list",
+    "*_enable_subscription",
+    "*_subscription_position",
+    "*_gdpr_show_unsubscribe",
+    "*_gdpr_unsubscribe_label",
+    "*_checkbox_status",
+    "*_multi_subscription",
+    "*_show_gdpr_consent",
+    "*_gdpr_subscription_consent_text",
+    "*_checkout_label",
+    "wc_mailpoet_subscription_position",
+    "wc_mailpoet_double_optin",
+    "wc_mailpoet_uninstall_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:12.240Z"
+}

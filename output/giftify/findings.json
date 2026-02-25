@@ -1,0 +1,16 @@
+{
+  "options": [
+    "giftify_settings_giftify_checkbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "giftify_title",
+    "message",
+    "giftify_fees",
+    "giftify_select"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:23.405Z"
+}

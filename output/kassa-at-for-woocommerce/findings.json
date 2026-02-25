@@ -1,0 +1,24 @@
+{
+  "options": [
+    "kaw-subdomain",
+    "kaw-key",
+    "kaw-warehouse",
+    "kaw-message-active",
+    "kaw-synchronize-at-singleproduct",
+    "kaw-synchronize-at-cart",
+    "kaw-synchronize-on-order",
+    "kaw-logging-size",
+    "kaw-logging",
+    "woocommerce_manage_stock",
+    "logging-info"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stock",
+    "_manage_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:53.185Z"
+}

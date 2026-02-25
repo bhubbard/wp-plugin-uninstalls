@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gab_options"
+  ],
+  "transients": [
+    "gabfire_socialmashup_widget_twitter_search_transient",
+    "gabfire_socialmashup_widget_twitter_transient",
+    "gabfire_socialmashup_widget_twitter_username_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:58.256Z"
+}

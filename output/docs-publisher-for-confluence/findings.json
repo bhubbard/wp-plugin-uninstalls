@@ -1,0 +1,24 @@
+{
+  "options": [
+    "dpfcrs_last_sync_time",
+    "dpfcrs_onboarding_completed",
+    "dpfcrs_sync",
+    "dpfcrs_connection",
+    "dpfcrs_spaces",
+    "dpfcrs_settings"
+  ],
+  "transients": [
+    "dpfcrs_activation_redirect",
+    "dpfcrs_available_spaces"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dpfcrs_last_sync_time",
+    "_dpfcrs_confluence_id",
+    "_dpfcrs_confluence_space_key",
+    "_dpfcrs_confluence_version"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:10.432Z"
+}

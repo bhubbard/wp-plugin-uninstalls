@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ppfm_db_options",
+    "ppfm_field_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "enclosure"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:40.084Z"
+}

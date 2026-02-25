@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "mpl_msg"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show_author_column_publisher",
+    "show_category_column_publisher",
+    "show_tags_column_publisher"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:05.533Z"
+}

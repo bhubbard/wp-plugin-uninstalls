@@ -1,0 +1,19 @@
+{
+  "options": [
+    "vtofs_settings",
+    "vtofs_plugin_version",
+    "vtofs_onboarding",
+    "vtofs_free_usage"
+  ],
+  "transients": [
+    "vtofs_do_activation_redirect",
+    "vtofs_license_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vtofs_tryon_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:57.592Z"
+}

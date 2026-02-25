@@ -1,0 +1,40 @@
+{
+  "options": [
+    "cod24_meta_data_migrated",
+    "cod24_shipping_api_secure_connection_enabled",
+    "cod24_shipping_username_panel",
+    "cod24__shipping_password_panel",
+    "cod24_shipping_token",
+    "woocommerce_weight_unit",
+    "cod24_shipping_shcod_enabled",
+    "cod24_shipping_disable_shcod_price",
+    "cod24_shipping_shcod_type",
+    "woocommerce_dimension_unit",
+    "cod24_shipping_free_shipping_cod_enabled",
+    "woocommerce_dokan_product_shipping_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "migrate_cod24_meta_data_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cod24_serial",
+    "_cod24_barcode",
+    "_vendor_cod24_username",
+    "_vendor_cod24_password",
+    "_vendor_cod24_shipping_token",
+    "_vendor_cod24_secure_connection",
+    "_vendor_cod24_enabled",
+    "_vendor_cod24_enabled_methods",
+    "_vendor_cod24_pishtaz_title",
+    "_vendor_cod24_pishtaz_fallback_price",
+    "_vendor_cod24_special_title",
+    "_vendor_cod24_special_fallback_price",
+    "_vendor_cod24_tipax_title",
+    "_vendor_cod24_tipax_price",
+    "billing_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:56.042Z"
+}

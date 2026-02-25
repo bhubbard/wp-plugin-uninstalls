@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bozimediazalomeni_prepositions",
+    "bozimediazalomeni_prepositions_list",
+    "bozimediazalomeni_conjunctions",
+    "bozimediazalomeni_conjunctions_list",
+    "bozimediazalomeni_abbreviations",
+    "bozimediazalomeni_abbreviations_list",
+    "bozimediazalomeni_between_number_and_unit",
+    "bozimediazalomeni_between_number_and_unit_list",
+    "bozimediazalomeni_space_between_numbers",
+    "bozimediazalomeni_space_after_ordered_number",
+    "bozimediazalomeni_spaces_in_scales",
+    "bozimediazalomeni_matches",
+    "bozimediazalomeni_replacements",
+    "bozimediazalomeni_acf",
+    "bozimediazalomeni_matches_empty",
+    "bozimediazalomeni_*",
+    "*_list",
+    "bozimediazalomeni_acf_the_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:34.121Z"
+}

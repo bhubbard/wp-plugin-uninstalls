@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wpe_auth_settings",
+    "wpe_settings",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "_unuse_ref",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:39.460Z"
+}

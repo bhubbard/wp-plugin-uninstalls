@@ -1,0 +1,44 @@
+{
+  "options": [
+    "bpfwp-settings",
+    "BPFWP_Trial_Happening",
+    "bpfwp_custom_field_values",
+    "rewrite_rules",
+    "bpfwp-installation-time",
+    "bpfwp-permission-level",
+    "bpfwp-review-ask-time"
+  ],
+  "transients": [
+    "bpfwp-getting-started",
+    "fsp-helper-notice-dismissed",
+    "bpfwp-ait-iat-plugin-notice-dismissed",
+    "bpfwp-admin-install-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geo_address",
+    "geo_latitude",
+    "geo_longitude",
+    "contact_post",
+    "ordering-link",
+    "contact_email",
+    "phone",
+    "clickphone",
+    "cell-phone",
+    "clickcellphone",
+    "whatsapp",
+    "whatsappdisplay",
+    "whatsapptext",
+    "fax",
+    "opening_hours",
+    "exceptions",
+    "disable_main_exceptions",
+    "custom_field_values",
+    "bpfwp-schema-data",
+    "bpfwp_values_*",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:23.743Z"
+}

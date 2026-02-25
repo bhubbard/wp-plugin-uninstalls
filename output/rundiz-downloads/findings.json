@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "rd_downloads_updated"
+  ],
+  "cron_jobs": [
+    "rddownloads_cron_purgelogs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:57.028Z"
+}

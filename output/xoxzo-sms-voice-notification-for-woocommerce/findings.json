@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_xoxzo_sid",
+    "woocommerce_xoxzo_auth_token",
+    "woocommerce_xoxzo_sender_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:10.267Z"
+}

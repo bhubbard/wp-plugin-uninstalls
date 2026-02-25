@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_currency', 'en_connection_settings_suspend_distance_base_shipping', 'en_general_profile_condition', 'en_connection_settings_license_key_distance_base_shipping', 'EN_Plugins', 'EN_DISTANCE_BASE_SHIPPING_carriers', 'en_trial_dbsc_flag', 'subscription_packages_response', 'en_fdo_company_id', 'en_fdo_company_id_status', 'EN_DISTANCE_BASE_SHIPPING_plan_number', 'EN_DISTANCE_BASE_SHIPPING_plan_message', 'active_sitewide_plugins', 'en_quote_settings_allow_other_plugins_distance_base_shipping', 'en_dbsc_package_scac', 'en_settings_how_to_handle_multi_shipment_distance_base_shipping', 'en_connection_settings_multi_shipment_label_distance_base_shipping', 'en_settings_distance_based_multi_ship_profile_include', 'en_settings_distance_based_multi_ship_profile_exclude', 'en_orders_ids_flag', 'en_async_orders_exporting_process', 'en_orders_ids', 'en_quote_settings_rating_method_distance_base_shipping', 'en_quote_settings_custom_label_distance_base_shipping', 'en_quote_settings_show_delivery_estimate_distance_base_shipping', 'en_quote_settings_own_arrangment_distance_base_shipping', 'en_quote_settings_text_for_own_arrangment_distance_base_shipping', 'en_quote_settings_number_of_options_distance_base_shipping', 'en_quote_settings_handling_unit_weight_distance_base_shipping', 'en_quote_settings_handling_fee_distance_base_shipping', 'en_quote_settings_liftgate_delivery_distance_base_shipping', 'distance_base_shipping_liftgate_delivery_as_option', 'en_quote_settings_residential_delivery_distance_base_shipping', 'en_woo_addons_liftgate_with_auto_residential', 'en_quote_settings_checkout_error_message_distance_base_shipping', 'en_quote_settings_option_select_when_unable_retrieve_shipping_distance_base_shipping', 'woocommerce_dimension_unit', 'en_settings_error_management_not_in_profile_distance_base_shipping');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('en_woocommerce_thankyou_done');
+DELETE FROM wp_usermeta WHERE meta_key IN ('en_woocommerce_thankyou_done');
+DELETE FROM wp_termmeta WHERE meta_key IN ('en_woocommerce_thankyou_done');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('en_woocommerce_thankyou_done');
+

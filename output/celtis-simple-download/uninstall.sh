@@ -1,0 +1,24 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'celtisdl_rewrite_slug'
+wp option delete 'celtisdl_option'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_locale'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_locale'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_locale'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_locale'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cs_download_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cs_download_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cs_download_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cs_download_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_metadata'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_metadata'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_metadata'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_metadata'"

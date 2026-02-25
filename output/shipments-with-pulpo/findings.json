@@ -1,0 +1,23 @@
+{
+  "options": [
+    "pulpo_send_to_pulpo_state",
+    "pulpo_force_shipping",
+    "pulpo_test_mode",
+    "*_tenant_id",
+    "pulpo_shipping_db_version",
+    "pulpo_send_order_state"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_updated_for_pulpo",
+    "_barcode",
+    "_management_type",
+    "_variable_barcode",
+    "_variable_management_type",
+    "_pulpo_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:11.573Z"
+}

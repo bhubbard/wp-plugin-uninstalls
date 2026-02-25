@@ -1,0 +1,18 @@
+{
+  "options": [
+    "jm_live_blog_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "live_blog_updates",
+    "live_blog_color_scheme",
+    "live_blog_alert_color",
+    "live_blog_show_widget",
+    "live_blog_widget_title",
+    "live_blog_widget_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:03.124Z"
+}

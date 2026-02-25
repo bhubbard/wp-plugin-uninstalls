@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ny_subscribe_theme_css",
+    "ny_subscribe_field_custom",
+    "ny_subscribe_ticked",
+    "links_updated_date_format",
+    "ny_subscribe_field_sub_form",
+    "ny_subscribe_css",
+    "ny_subscribe_spam_ip_list_remote",
+    "ny_subscribe_spam_ip_list_server",
+    "ny_subscribe_spam_email_list",
+    "ny_subscribe_spam_domain_list",
+    "ny_subscribe_wipe"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ny_subscribe_field_custom",
+    "first_name",
+    "NYSEmailSent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:59.108Z"
+}

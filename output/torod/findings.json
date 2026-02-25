@@ -1,0 +1,32 @@
+{
+  "options": [
+    "torod_enabled_cities",
+    "torod_enabled_states",
+    "torod_payment_gateway",
+    "status_radio",
+    "torod_status_settings",
+    "torod_wp_all_settings",
+    "torod_token",
+    "torod_ordermappingstatus",
+    "torod_enabled_countries",
+    "woocommerce_weight_unit",
+    "torod_demo_account",
+    "torod_log_mode",
+    "torod_location_data",
+    "torod_version"
+  ],
+  "transients": [
+    "torod_webhook_test"
+  ],
+  "cron_jobs": [
+    "torod_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "torod_order_id",
+    "_cart_weight",
+    "_cart_weight_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:22.883Z"
+}

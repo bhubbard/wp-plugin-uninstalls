@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sms_media4u_authentication_key",
+    "sms_media4u_username",
+    "sms_media4u_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "use_sms_media4u",
+    "tel"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:41.099Z"
+}

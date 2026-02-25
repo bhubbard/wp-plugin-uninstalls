@@ -1,0 +1,31 @@
+{
+  "options": [
+    "bew_activation_time",
+    "bew_remind_me_later_time",
+    "bew_upgrade_notice_dismiss_*",
+    "bew_maybe_later_time",
+    "default_product_cat",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismiss_bew_upgrade_notice",
+    "dismiss_bew_rating_notice",
+    "dismiss_bew_rating_top_notice",
+    "_elementor_data",
+    "_elementor_page_settings",
+    "_elementor_template_type",
+    "_elementor_edit_mode",
+    "_elementor_location",
+    "_elementor_conditions",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:18.425Z"
+}

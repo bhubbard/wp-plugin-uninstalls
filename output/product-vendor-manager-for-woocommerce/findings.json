@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vendor_contact",
+    "vendor_phone",
+    "vendor_email",
+    "vendor_address"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:52.254Z"
+}

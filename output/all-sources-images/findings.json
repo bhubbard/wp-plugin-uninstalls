@@ -1,0 +1,33 @@
+{
+  "options": [
+    "ALLSI_plugin_cron_settings",
+    "ALLSI_plugin_compatibility_settings",
+    "ALLSI_plugin_banks_settings",
+    "ALLSI_plugin_main_settings",
+    "ALLSI_plugin_proxy_settings",
+    "ALLSI_plugin_block_settings",
+    "ALLSI_plugin_posts_settings",
+    "ALLSI_plugin_interval_settings",
+    "ALLSI_plugin_rights_settings",
+    "ALLSI_plugin_logs_settings",
+    "ALLSI_hook_checked",
+    "ALLSI_bulk_db_version",
+    "ALLSI_plugin_activation_date"
+  ],
+  "transients": [
+    "ALLSI_interval_generation"
+  ],
+  "cron_jobs": [
+    "ALLSI_generate_scheduled_image",
+    "ALLSI_cron_image_generation",
+    "ALLSI_bulk_process_job",
+    "ALLSI_bulk_process_batch"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_started",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:01.479Z"
+}

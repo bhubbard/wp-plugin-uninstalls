@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mice_widget_id",
+    "mice_style_color",
+    "mice_button_alignment",
+    "mice_source",
+    "mice_button_horizontal_padding",
+    "mice_button_vertical_padding",
+    "mice_enable_button"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mice_widget_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:33.789Z"
+}

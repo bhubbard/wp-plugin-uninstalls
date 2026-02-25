@@ -1,0 +1,82 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'booktics_is_installed'
+wp option delete 'booktics_available_modules'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%__banner_data'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%__banner_last_check'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_never_show'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_ask_me_later'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_install_date'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_first_action_Date'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_first_action'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%__stories_data'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%__stories_last_check'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_ens_config'"
+
+# Delete Transients
+wp transient delete 'booktics_conflict_check_done'
+wp transient delete 'booktics_deactivated_plugins_notice'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%_rating_settings' OR option_name LIKE '_site_transient_%_rating_settings'"
+
+# Clear Cron Jobs
+wp cron event delete 'booktics_booking_clear_schedule'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_team_member_first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_team_member_first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_team_member_first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_team_member_first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_team_member_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_team_member_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_team_member_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_team_member_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'order_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'order_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'order_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'order_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booktics_category_services'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booktics_category_services'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booktics_category_services'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booktics_category_services'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booktics_category_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booktics_category_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booktics_category_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booktics_category_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_google_calendar_event_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_google_calendar_event_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_google_calendar_event_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_google_calendar_event_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'team_member_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'team_member_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'team_member_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'team_member_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booktics_google_auth_token'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booktics_google_auth_token'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booktics_google_auth_token'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booktics_google_auth_token'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'timezone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'timezone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'timezone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'timezone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'group_booking'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'group_booking'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'group_booking'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'group_booking'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'booktics_google_auth'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'booktics_google_auth'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'booktics_google_auth'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'booktics_google_auth'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_notification_flow_flow_config'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_notification_flow_flow_config'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_notification_flow_flow_config'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_notification_flow_flow_config'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ens_flow_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ens_flow_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ens_flow_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ens_flow_id'"

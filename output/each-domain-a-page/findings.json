@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ruigehond007",
+    "ruigehond016_admin_messages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ruigehond007_favicons"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:31.925Z"
+}

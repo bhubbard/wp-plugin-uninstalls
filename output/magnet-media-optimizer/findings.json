@@ -1,0 +1,17 @@
+{
+  "options": [
+    "magnet_media_optimizer_settings",
+    "magnet_media_optimizer_version"
+  ],
+  "transients": [
+    "magnet_media_optimizer_stats_cache",
+    "magnet_media_optimizer_bulk_progress"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:05.734Z"
+}

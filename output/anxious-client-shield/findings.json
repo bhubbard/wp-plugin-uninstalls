@@ -1,0 +1,24 @@
+{
+  "options": [
+    "acs-text1",
+    "acs-text2",
+    "acs-text3",
+    "acs-text4",
+    "acs-text5",
+    "acs-text6",
+    "acs-text7",
+    "acs-text8",
+    "acs-text9",
+    "acs-text10",
+    "acs-active",
+    "acs-admin-level",
+    "acs-custom-lang",
+    "acs-language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:04.699Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woobe_version",
+    "woobe_alert",
+    "woobe_shop_manager_visibility",
+    "woobe_options_*",
+    "woobe_manage_rate_alert"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_attributes",
+    "_sku",
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_stock_status",
+    "_manage_stock",
+    "_stock",
+    "woobe_fprofile_saved",
+    "woobe_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:42.849Z"
+}

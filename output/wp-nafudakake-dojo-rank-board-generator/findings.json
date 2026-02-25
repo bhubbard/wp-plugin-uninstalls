@@ -1,0 +1,22 @@
+{
+  "options": [
+    "nafu_rowcount",
+    "nafu_saveRows",
+    "nafu_saveClasses",
+    "nafu_saveContents",
+    "nafu_slatheight",
+    "nafu_slatwidth",
+    "nafu_slatspacing",
+    "nafu_fontsize",
+    "nafu_showtooltip",
+    "nafu_layouttype"
+  ],
+  "transients": [
+    "browser_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:58.318Z"
+}

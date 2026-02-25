@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gxsb_widget_class",
+    "gxsb_widget_title_class",
+    "category_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gx_sidebar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:24.588Z"
+}

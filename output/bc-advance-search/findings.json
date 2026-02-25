@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bigcommerce_currency_symbol",
+    "bigcommerce_advance_search_option_name",
+    "bas_design_search_box_general",
+    "bas_design_search_box",
+    "bas_design_search_button",
+    "bas_design_search_others"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bigcommerce_calculated_price",
+    "bigcommerce_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:24.845Z"
+}

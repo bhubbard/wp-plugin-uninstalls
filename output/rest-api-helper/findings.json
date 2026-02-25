@@ -1,0 +1,40 @@
+{
+  "options": [
+    "rest_api_helper_plugins",
+    "imh_post_type",
+    "imh_error_notice",
+    "imh_update_notice",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "phone",
+    "birthday",
+    "company",
+    "address_1",
+    "address_2",
+    "city",
+    "state",
+    "postcode",
+    "country",
+    "expired",
+    "_imh_postmeta_onesignal_message",
+    "_wc_average_rating",
+    "_regular_price",
+    "_price",
+    "_sale_price",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_virtual",
+    "_tax_status",
+    "_tax_class",
+    "_visibility",
+    "_purchase_note",
+    "_product_attributes",
+    "total_sales"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:46.183Z"
+}

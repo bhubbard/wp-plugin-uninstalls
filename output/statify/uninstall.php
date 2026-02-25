@@ -1,0 +1,20 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('statify');
+delete_site_option('statify');
+delete_option('disallowed_keys');
+delete_site_option('disallowed_keys');
+
+// Delete Transients
+delete_transient('statify_data');
+delete_site_transient('statify_data');
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('statify_cleanup');
+

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "video_thumbnails",
+    "video_thumbnails_post_types",
+    "video_thumbnails_save_media",
+    "video_thumbnails_set_featured",
+    "video_thumbnails_custom_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "video_thumbnail_test_image",
+    "_tern_wp_youtube_video",
+    "video_thumbnail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:01.248Z"
+}

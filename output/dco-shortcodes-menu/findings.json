@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dco_sm_fields",
+    "_dco_sm_post_type",
+    "_dco_sm_show_in_menu",
+    "_dco_sm_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:59.649Z"
+}

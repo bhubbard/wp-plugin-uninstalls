@@ -1,0 +1,31 @@
+{
+  "options": [
+    "_wcsc_last_error_check",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "wcsc_status",
+    "_wcsc_version"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "wcsc-wp-cron-tested",
+    "doing_cron"
+  ],
+  "cron_jobs": [
+    "wcsc_email_notice_hook",
+    "fs_debug_turn_off_logging_hook",
+    "wcsc_event_start",
+    "wcsc_debug_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:53.513Z"
+}

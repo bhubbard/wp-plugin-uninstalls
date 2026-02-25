@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wangguard_blacklisted_words_list",
+    "woocommerce_enable_myaccount_registration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:19.663Z"
+}

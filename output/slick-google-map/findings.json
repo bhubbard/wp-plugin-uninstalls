@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sgmp_options",
+    "widget_slickgooglemap",
+    "sgmp_persisted_shortcodes"
+  ],
+  "transients": [
+    "sgmp_update_routine",
+    "sgmp_layers_markers_export"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:01.191Z"
+}

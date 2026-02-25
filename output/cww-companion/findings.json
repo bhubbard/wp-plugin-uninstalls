@@ -1,0 +1,31 @@
+{
+  "options": [
+    "elementor_onboarded",
+    "cww_fresh_website_activate",
+    "_cs_options",
+    "widget_*",
+    "sidebars_widgets",
+    "_wc_needs_pages",
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes",
+    "elementor_load_fa4_shim",
+    "elementor_container_width"
+  ],
+  "transients": [
+    "_wc_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "portfolio_client_name",
+    "portfolip_skills",
+    "portfolio_company_website",
+    "portfolio_date",
+    "_wp_attachment_image_alt",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:40.848Z"
+}

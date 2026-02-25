@@ -1,0 +1,17 @@
+{
+  "options": [
+    "atomica_vision_auth_token",
+    "atomica_vision_try_on_button_text",
+    "atomica_vision_try_on_close_button_text",
+    "atomica_vision_try_on_button_position",
+    "atomica_vision_try_on_auto_start"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "atomica_vision_product_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:53.693Z"
+}

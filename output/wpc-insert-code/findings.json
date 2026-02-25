@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_head",
+    "*_top_of_page",
+    "*_above_header",
+    "*_below_header",
+    "*_above_content",
+    "*_below_content",
+    "*_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:24.821Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "styling",
+    "sub_title",
+    "caption",
+    "button_one_url",
+    "button_one_text",
+    "button_one_target",
+    "button_two_url",
+    "button_two_text",
+    "button_two_target",
+    "url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:14.061Z"
+}

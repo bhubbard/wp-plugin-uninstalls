@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_success_bg",
+    "*_warning_bg",
+    "*_error_bg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:36.198Z"
+}

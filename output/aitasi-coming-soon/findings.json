@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aitasi_subscriber_list",
+    "aitasi_options"
+  ],
+  "transients": [
+    "cs-framework-transient",
+    "cs-metabox-transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:15.015Z"
+}

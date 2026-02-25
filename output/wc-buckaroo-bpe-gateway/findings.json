@@ -1,0 +1,58 @@
+{
+  "options": [
+    "woocommerce_buckaroo_creditcard_settings",
+    "woocommerce_buckaroo_mastersettings_settings",
+    "woocommerce_force_ssl_checkout",
+    "*_settings",
+    "woocommerce_buckaroo_applepay_settings",
+    "woocommerce_default_country",
+    "woocommerce_currency",
+    "woocommerce_buckaroo_paypal_settings",
+    "woocommerce_shipping_tax_class"
+  ],
+  "transients": [
+    "buckaroo_creditcard_updated",
+    "buckaroo_credicard_updated",
+    "*buckarooAdminNotice",
+    "*buckaroo_require_woocommerce",
+    "buckaroo_plugin_updated"
+  ],
+  "cron_jobs": [
+    "buckaroo_clean_logger_storage"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "shipping_country",
+    "_wc_order_selected_payment_method",
+    "_wc_order_payment_issuer",
+    "_wc_order_captures",
+    "_wc_order_authorized",
+    "_payload_birthday",
+    "_payment_method",
+    "_payment_method_title",
+    "_payment_method_transaction",
+    "_payload_encrypted_card_data",
+    "buckaroo_idin",
+    "buckaroo_idin_bin",
+    "buckaroo_is_reserved",
+    "_buckaroo_klarnakp_reservation_number",
+    "buckaroo_paymentReference",
+    "buckaroo_IBAN",
+    "buckaroo_BIC",
+    "buckaroo_accountHolderName",
+    "buckaroo_bankAccount",
+    "buckaroo_accountHolderCity",
+    "buckaroo_accountHolderCountry",
+    "_wc_order_is_captured",
+    "_buckaroo_order_in_test_mode",
+    "buckaroo_captures_refunded",
+    "_wc_order_amount_captured",
+    "_capturebuckaroo*",
+    "_pushallowed",
+    "buckaroo_capture",
+    "_refundbuckaroo*",
+    "buckaroo_settlement"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:27.444Z"
+}

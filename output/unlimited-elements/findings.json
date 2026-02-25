@@ -1,0 +1,36 @@
+{
+  "options": [
+    "elementor_element_cache_ttl",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "woocommerce_tax_display_shop",
+    "woocommerce_myaccount_page_id",
+    "icl_sitepress_settings"
+  ],
+  "transients": [
+    "uelm_changelog_import_success",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "uelm_changelog_import_error"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_css",
+    "_elementor_template_type",
+    "_elementor_data",
+    "_wp_page_template",
+    "thumbnail_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:01.101Z"
+}

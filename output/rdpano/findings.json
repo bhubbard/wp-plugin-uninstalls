@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rdpano_title",
+    "rdpano_width",
+    "rdpano_height",
+    "rdpano_global_swf",
+    "rdpano_panopress",
+    "rdpano_panostudio"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:40.130Z"
+}

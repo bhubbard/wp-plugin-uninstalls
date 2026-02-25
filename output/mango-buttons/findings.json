@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mb_subscribed",
+    "mb_email",
+    "mb_icon_color",
+    "mb_extended_language_support",
+    "MB_VERSION"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:26.510Z"
+}

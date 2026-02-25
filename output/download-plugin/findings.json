@@ -1,0 +1,15 @@
+{
+  "options": [
+    "download_plugin_do_activation_redirect",
+    "dpwap_dismiss_eventprime_promotion",
+    "dpwap_dismiss_offer_notice",
+    "dpwap_downloads_url",
+    "dpwap_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:46.521Z"
+}

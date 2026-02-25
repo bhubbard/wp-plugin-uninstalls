@@ -1,0 +1,36 @@
+{
+  "options": [
+    "mim_current_issue",
+    "mim_issue_display_category",
+    "mim_full_article_display",
+    "mim_allow_user_post_article",
+    "mim_default_post_article_status",
+    "mim_new_editor_status",
+    "mim_cover_width",
+    "mim_cover_height",
+    "mim_post_per_page_article",
+    "mim_search_behaviour",
+    "mim_issue_menu_category",
+    "page_for_magazines",
+    "page_for_archives",
+    "page_for_issue_category",
+    "mim_issue_menu_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mim_issue_cover_image",
+    "mim_issue_publish_date",
+    "tag-description",
+    "mim_issue_menu_category",
+    "featured-checkbox",
+    "mim_category_cover_image",
+    "mim_issue_master_category",
+    "mim_issue_pdf_file",
+    "mim_issue_display_category",
+    "mim_user_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:49.431Z"
+}

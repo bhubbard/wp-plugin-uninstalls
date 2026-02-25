@@ -1,0 +1,12 @@
+{
+  "options": [
+    "block_icons_redirect_after_activation_option",
+    "block_icons_active_notices_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:02.240Z"
+}

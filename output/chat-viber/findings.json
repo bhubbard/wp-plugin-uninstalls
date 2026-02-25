@@ -1,0 +1,25 @@
+{
+  "options": [
+    "vchat_review_notice_dismiss",
+    "themeatelier_offer_banner_dismissed_*",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "csf_demo_mode",
+    "vchat-opt"
+  ],
+  "transients": [
+    "themeatelier_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "themeatelier_discount_dismissed",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:06.070Z"
+}

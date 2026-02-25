@@ -1,0 +1,63 @@
+{
+  "options": [
+    "sitelock_2fa_settings",
+    "_transient_timeout_*",
+    "sitelock_2fa_grace_period",
+    "wpslp_options",
+    "sitelock_account_sites",
+    "sitelock_account_scaninfo",
+    "sitelock_malware_get_scan",
+    "sitelock_word_quick",
+    "sitelock_license_key",
+    "sitelock_login_logger_roles",
+    "sitelock_login_logger_retention",
+    "sitelock_password_strength_enabled",
+    "sitelock_password_strength_user_roles",
+    "sitelock_force_logout_enabled",
+    "sitelock_force_logout_duration",
+    "sitelock_force_logout_excluded_roles",
+    "sitelock_badge_location",
+    "sitelock_badge_color",
+    "sitelock_badge_size",
+    "sitelock_badge_type",
+    "sitelock_site_id",
+    "sitelock_badge_link",
+    "sitelock_badge_img",
+    "sitelock_security_settings",
+    "sitelock_login_lockout_enabled",
+    "sitelock_login_lockout_max_attempts",
+    "sitelock_login_lockout_duration",
+    "sitelock_login_lockout_reset_time",
+    "sitelock_blocked_directories",
+    "sitelock_meta_tag",
+    "sitelock_refresh_api",
+    "sitelock_secret"
+  ],
+  "transients": [
+    "sitelock_2fa_setup_notice_*",
+    "sitelock_2fa_verified_*",
+    "sitelock_auth_error",
+    "sitelock_permission_error",
+    "sitelock_pending_2fa_*",
+    "sitelock_auth_success",
+    "slwp-plugin-activation-notice",
+    "sitelock_admin_notice_*"
+  ],
+  "cron_jobs": [
+    "sitelock_check_admins_cron",
+    "sitelock_login_log_cleanup_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sitelock_2fa_enabled",
+    "sitelock_2fa_secret",
+    "sitelock_2fa_backup_codes",
+    "sitelock_2fa_failed_attempts",
+    "sitelock_2fa_recovery_codes",
+    "page_protect",
+    "sitelock_dismissed_admin_warning",
+    "sitelock_force_logout_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:21.615Z"
+}

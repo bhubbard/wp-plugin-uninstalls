@@ -1,0 +1,14 @@
+{
+  "options": [
+    "expertpost_options_posthtml",
+    "expertpost_options_classname",
+    "expertpost_options_homeposturl",
+    "expertpost_options_singleposturl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:55.849Z"
+}

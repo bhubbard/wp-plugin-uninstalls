@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_IQcountrycode",
+    "*_IQmapskey",
+    "*_IQshowaboutreviews",
+    "*_IQassetstodisplay",
+    "*_IQisdirectory",
+    "IQquotationpage_template_IQmapskey",
+    "IQquotationpage_template_IQcountrycode",
+    "IQquotationpage_template_IQisdirectory",
+    "IQquotationpage_template_IQassetstodisplay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_iqpageproperties"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:04.037Z"
+}

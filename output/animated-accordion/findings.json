@@ -1,0 +1,12 @@
+{
+  "options": [
+    "animated_Accordion_db_version",
+    "custom_table_example_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:26.479Z"
+}

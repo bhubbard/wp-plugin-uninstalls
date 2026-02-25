@@ -1,0 +1,32 @@
+{
+  "options": [
+    "hurryt_headline_moved_notice_dismissed",
+    "hurryt_leave_review_dismissed",
+    "hurryt_settings",
+    "hurrytimer_version",
+    "hurrytimer_custom_css",
+    "hurrytimer_upgraded_2_2_28",
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_pay_page_id",
+    "woocommerce_thanks_page_id",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_edit_address_page_id",
+    "woocommerce_view_order_page_id",
+    "woocommerce_terms_page_id"
+  ],
+  "transients": [
+    "hurryt_remind_review_notice"
+  ],
+  "cron_jobs": [
+    "hurrytimer_evergreen_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "labels",
+    "discount_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:44.642Z"
+}

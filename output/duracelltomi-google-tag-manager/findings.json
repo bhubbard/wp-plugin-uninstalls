@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [
+    "gtm4wp-weatherdata-*",
+    "gtm4wp-geodata-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_primary_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:27:51.021Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpan_*",
+    "wp_admin_notification_display_role",
+    "wp_admin_notification_display_term_start",
+    "wp_admin_notification_display_term_end"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:26.694Z"
+}

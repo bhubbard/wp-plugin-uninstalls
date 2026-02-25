@@ -1,0 +1,13 @@
+{
+  "options": [
+    "adbreach_code"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "adbreach_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:55.609Z"
+}

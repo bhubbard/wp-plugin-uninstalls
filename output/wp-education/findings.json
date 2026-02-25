@@ -1,0 +1,34 @@
+{
+  "options": [
+    "pa_maps_save_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpeducation_service_short_des",
+    "_wpeducation_service_icon",
+    "_wpeducation_service_icon_img",
+    "_wpeducation_course_short_des",
+    "_wpeducation_course_age_calculate",
+    "_wpeducation_course_class_size",
+    "_wpeducation_course_class_date",
+    "_wpeducation_events_short_des",
+    "_wpeducation_events_date",
+    "_wpeducation_events_month",
+    "_wpeducation_events_time",
+    "_wpeducation_events_location",
+    "_wpeducation_teamdeg",
+    "_wpeducation_sortcontent",
+    "_wpeducation_teachersicon",
+    "_wpeducation_events_start_date",
+    "_wpeducation_events_end_date",
+    "_wpeducation_events_start_time",
+    "_wpeducation_events_end_time",
+    "_wpeducation_events_bookbtn",
+    "_wpeducation_events_book_link",
+    "_wpteachers_service_short_des"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:36.478Z"
+}

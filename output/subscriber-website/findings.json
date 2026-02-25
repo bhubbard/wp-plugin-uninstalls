@@ -1,0 +1,13 @@
+{
+  "options": [
+    "on_send_admin",
+    "on_send_subscriber",
+    "messenger_email_to"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:06.182Z"
+}

@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cron', 'settings_activecampaign', 'activecampaign_for_woocommerce_dismiss_error_notice', 'activecampaign_for_woocommerce_abandoned_cart_last_run', 'activecampaign_for_woocommerce_last_order_sync', 'woocommerce_api_enabled', 'activecampaign_for_woocommerce_dismiss_plugin_notice', 'activecampaign_for_woocommerce_connection_health_check_last_run', 'activecampaign_for_woocommerce_settings', 'activecampaign_for_woocommerce_db_version', 'activecampaign_for_woocommerce_historical_sync_running_status', 'activecampaign_for_woocommerce_historical_sync_scheduled_status', 'activecampaign_for_woocommerce_historical_sync_stop', 'activecampaign_for_woocommerce_product_sync_last_status', 'woocommerce_dimension_unit', 'activecampaign_for_woocommerce_historical_sync_delay', 'activecampaign_for_woocommerce_subscription_sync_last_run', 'activecampaign_for_woocommerce_last_subscription_sync', 'activecampaign_for_woocommerce_storage', 'activecampaign_for_woocommerce_hs_contacts', 'woocommerce_system_status_wp_version_check', 'activecampaign_for_woocommerce_connection', 'activecampaign_for_woocommerce_all_connections', 'activecampaign_for_woocommerce_features', 'acforwc_cart_updated_hook', 'acforwc_cart_to_order_transition_hook', 'acforwc_order_created_hook', 'acforwc_order_updated_hook', 'acforwc_order_deleted_hook', 'acforwc_abandoned_task_hook');
+DELETE FROM wp_options WHERE option_name LIKE 'activecampaign_for_woocommerce_contact%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('activecampaign_for_woocommerce_ac_customer_id', 'email', 'activecampaign_for_woocommerce_last_synced', 'activecampaign_for_woocommerce_hosted_customer_id', 'first_name', 'last_name');
+DELETE FROM wp_usermeta WHERE meta_key IN ('activecampaign_for_woocommerce_ac_customer_id', 'email', 'activecampaign_for_woocommerce_last_synced', 'activecampaign_for_woocommerce_hosted_customer_id', 'first_name', 'last_name');
+DELETE FROM wp_termmeta WHERE meta_key IN ('activecampaign_for_woocommerce_ac_customer_id', 'email', 'activecampaign_for_woocommerce_last_synced', 'activecampaign_for_woocommerce_hosted_customer_id', 'first_name', 'last_name');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('activecampaign_for_woocommerce_ac_customer_id', 'email', 'activecampaign_for_woocommerce_last_synced', 'activecampaign_for_woocommerce_hosted_customer_id', 'first_name', 'last_name');
+

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mc_avatars_skin_source"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mc_username",
+    "mc_avatar_preset"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:41.913Z"
+}

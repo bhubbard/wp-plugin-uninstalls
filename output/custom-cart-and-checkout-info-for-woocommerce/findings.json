@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "alg_wc_custom_cart_info_item_enabled",
+    "alg_wc_custom_cart_info_enabled",
+    "alg_wc_custom_cart_info_item_before",
+    "alg_wc_custom_cart_info_item_after",
+    "alg_wc_custom_cart_info_content",
+    "alg_wc_custom_cart_info_hook",
+    "alg_wc_custom_cart_info_priority",
+    "alg_wc_custom_cart_info_total_number",
+    "alg_wc_custom_cart_info_version",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "total_sales"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:02.254Z"
+}

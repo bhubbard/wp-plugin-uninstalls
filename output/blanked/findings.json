@@ -1,0 +1,18 @@
+{
+  "options": [
+    "blanked_disable_wp_head",
+    "blanked_disable_wp_body_open",
+    "blanked_enable_post_type__*",
+    "blanked_enable_special_page__*",
+    "blanked_remove_body_class",
+    "blanked_add_body_class",
+    "blanked_remove_post_class",
+    "blanked_add_post_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:34.225Z"
+}

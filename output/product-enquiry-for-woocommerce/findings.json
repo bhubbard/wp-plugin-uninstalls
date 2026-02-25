@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wdm_privacy_notice_dismissed",
+    "wdm_pefree_show_popup_on_next_load",
+    "wdm_pefree_activation_time",
+    "wdm_pefree_activation_banner_dismissed",
+    "wdm_form_data"
+  ],
+  "transients": [
+    "wdm_pefree_show_activation_banner"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:15.415Z"
+}

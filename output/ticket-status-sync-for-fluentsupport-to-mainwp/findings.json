@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mainwp_fluentsupport_site_url",
+    "mainwp_fluentsupport_api_username",
+    "mainwp_fluentsupport_api_password",
+    "mainwp_fluentsupport_sync_log",
+    "mainwp_fluentsupport_last_sync",
+    "*_db_version",
+    "mainwp_fluentsupport_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mainwp_fluentsupport_sync_tickets_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:25.089Z"
+}

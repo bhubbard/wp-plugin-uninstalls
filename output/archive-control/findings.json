@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*_options",
+    "archive_control_tax_category_options",
+    "archive_control_tax_post_tag_options",
+    "*_title",
+    "*_image",
+    "*_before",
+    "*_after",
+    "archive_control_db_current_version",
+    "archive_control_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "archive_control_term_image",
+    "archive_control_term_before",
+    "archive_control_term_after",
+    "archive_control_term_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:14.940Z"
+}

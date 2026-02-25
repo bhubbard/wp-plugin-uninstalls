@@ -1,0 +1,23 @@
+{
+  "options": [
+    "accua_form_api_keys",
+    "accua_forms_avail_fields",
+    "accua_forms_saved_forms",
+    "accua_forms_trash_forms",
+    "accua_forms_default_form_data",
+    "accua_forms_default_file_field_data",
+    "accua_forms_lastid",
+    "accua_forms_default_captcha_field_data",
+    "accua_forms_default_analytics_data",
+    "accua_forms_anonymize_ip_data",
+    "accua_forms_db_version"
+  ],
+  "transients": [
+    "accuaformsub_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:52.833Z"
+}

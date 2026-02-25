@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pap_active_time",
+    "pap_review_dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pap_custom",
+    "Affiliate",
+    "Visitor ID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:03.139Z"
+}

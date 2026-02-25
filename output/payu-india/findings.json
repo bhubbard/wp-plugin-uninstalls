@@ -1,0 +1,35 @@
+{
+  "options": [
+    "woocommerce_payubiz_settings",
+    "woocommerce_pay_page_id",
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_version",
+    "woocommerce_enable_guest_checkout_old"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pass_arguments_to_save_address",
+    "pass_arguments_to_verify",
+    "payu_check_refund_status_check_next_scheduled"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name",
+    "billing_company",
+    "billing_phone",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_state",
+    "billing_postcode",
+    "billing_country",
+    "shipping_phone",
+    "shipping_email",
+    "payu_phone",
+    "_woocommerce_persistent_cart_1",
+    "order_txnid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:48.035Z"
+}

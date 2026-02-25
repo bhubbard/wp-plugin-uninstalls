@@ -1,0 +1,13 @@
+{
+  "options": [
+    "HPWAAddrLookup_GeneralSettings",
+    "HPWAAddrLookup_Woo",
+    "HPWAAddrLookup_Forms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:11.717Z"
+}

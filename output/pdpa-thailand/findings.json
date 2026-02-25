@@ -1,0 +1,24 @@
+{
+  "options": [
+    "pdpa_thailand_settings",
+    "pdpa_thailand_msg",
+    "pdpa_thailand_cookies",
+    "pdpa_thailand_appearance",
+    "pdpa_thailand_js_version",
+    "pdpa_thailand_css_version",
+    "pdpa_thailand_installed",
+    "pdpa_thailand_advanced",
+    "pdpa_thailand_license_status",
+    "pdpa_thailand_license_key"
+  ],
+  "transients": [
+    "pdpa_thailand_script",
+    "pdpa_thailand_style",
+    "pdpa_thailand_rating"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:05.496Z"
+}

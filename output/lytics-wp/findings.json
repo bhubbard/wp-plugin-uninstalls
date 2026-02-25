@@ -1,0 +1,24 @@
+{
+  "options": [
+    "lyticswp_access_token",
+    "lyticswp_account_name",
+    "lyticswp_account_id",
+    "lyticswp_aid",
+    "lyticswp_domain",
+    "lyticswp_enable_tag",
+    "lyticswp_debug_mode",
+    "lyticswp_ignore_admin_users",
+    "lyticswp_tag_config"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lyticswp_widget_configuration",
+    "_lytics_widget_status",
+    "_lytics_widget_description",
+    "lytics_widget_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:21.164Z"
+}

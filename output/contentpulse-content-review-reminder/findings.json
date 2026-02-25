@@ -1,0 +1,19 @@
+{
+  "options": [
+    "contentpulse_review_frequency",
+    "contentpulse_email_notifications",
+    "contentpulse_notification_email",
+    "contentpulse_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "contentpulse_daily_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_contentpulse_last_reviewed",
+    "_contentpulse_next_review_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:24.865Z"
+}

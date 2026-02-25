@@ -1,0 +1,17 @@
+{
+  "options": [
+    "k1fach_api_identifier",
+    "k1fach_enable_button",
+    "k1fach_jwt_duration",
+    "k1fach_button_alignment",
+    "k1fach_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "k1fach_daily_health_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:48.888Z"
+}

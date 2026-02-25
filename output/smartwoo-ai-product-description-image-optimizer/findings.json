@@ -1,0 +1,22 @@
+{
+  "options": [
+    "smartwoo_enable_dalle",
+    "smartwoo_api_key",
+    "smartwoo_max_tokens",
+    "smartwoo_description_tone",
+    "smartwoo_gpt_model",
+    "smartwoo_prompt_title",
+    "smartwoo_prompt_short_description",
+    "smartwoo_prompt_full_description",
+    "smartwoo_prompt_tags",
+    "smartwoo_prompt_image_alt_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:24.386Z"
+}

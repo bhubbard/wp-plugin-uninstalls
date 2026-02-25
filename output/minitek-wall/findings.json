@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [
+    "*_mwall_delete_cropped_messages_success",
+    "*_mwall_delete_cropped_messages_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "grid-elements",
+    "grid-columns",
+    "mci-category-url",
+    "mci-tag-url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:38.893Z"
+}

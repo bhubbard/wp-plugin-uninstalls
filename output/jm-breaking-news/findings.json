@@ -1,0 +1,21 @@
+{
+  "options": [
+    "jm_breaking_news_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jm_breaking_news_internal_link",
+    "jm_breaking_news_in_ex",
+    "jm_breaking_news_link",
+    "jm_breaking_news_limit",
+    "jm_breaking_news_target",
+    "jm_breaking_news_color",
+    "jm_breaking_news_background_color",
+    "jm_breaking_news_text_color",
+    "jm_breaking_news_news_text_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:54.499Z"
+}

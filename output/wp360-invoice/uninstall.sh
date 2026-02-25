@@ -1,0 +1,103 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wp360_firm_details'
+wp option delete 'wp360_invoice_addresses'
+wp option delete 'wp360_invoice_banking'
+wp option delete 'wp360_thankyoumsg'
+wp option delete 'wp360_invoicestartnumber'
+wp option delete 'wp360_company_address'
+wp option delete 'woocommerce_myaccount_page_id'
+wp option delete 'wp360_invoices_page_id'
+wp option delete 'wp360invoice_plugin_activated'
+wp option delete 'wp360invoice_plugin_version'
+
+# Delete Transients
+wp transient delete 'wp360-admin-notice-error'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_user'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_user'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_user'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_user'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_bank'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_bank'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_bank'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_bank'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_firm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_firm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_firm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_firm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'payment_receipt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'payment_receipt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'payment_receipt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'payment_receipt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_items'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_items'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_items'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_items'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp360_invoice_user_extra_fields'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp360_invoice_user_extra_fields'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp360_invoice_user_extra_fields'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp360_invoice_user_extra_fields'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'invoice_createddate'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'invoice_createddate'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'invoice_createddate'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'invoice_createddate'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_address_1'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_address_1'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_address_1'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_address_1'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_address_2'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_address_2'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_address_2'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_address_2'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_country'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_country'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_country'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_country'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_city'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_city'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_city'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_city'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_state'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_state'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_state'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_state'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_postcode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_postcode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_postcode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_postcode'"

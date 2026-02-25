@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('tpwpt_lkey_state', '_tpt_product_category_tooltip_background', '_tpt_product_category_tooltip_color', '_tpt_product_category_tooltip_popup_animation', '_tpt_product_category_tooltip_border', '_tpt_product_category_tooltip_position', '_tpt_product_category_tooltip_position_mobile', '_tpt_product_category_tooltip_title_position', '_tpt_product_category_tooltip_width', '_tpt_product_category_tooltip_text_align', 'tpwpt_lkey', 'tpwpt_lkey_expiresAt');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_tpt_css_background', '_tpt_css_color', '_tpt_min_width', '_tpt_activate', '_tpt_position', '_tpt_position_mobile', '_tpt_title', '_tpt_description', '_tpt_border', '_tpt_height', '_tpt_icon', '_tpt_popup_animation', '_tpt_hover_title', '_tpt_tooltip_position_hook', '_tpt_youtube', '_tpt_youtube_image', '_tpt_youtube_icon_size', '_tpt_youtube_icon_color');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_tpt_css_background', '_tpt_css_color', '_tpt_min_width', '_tpt_activate', '_tpt_position', '_tpt_position_mobile', '_tpt_title', '_tpt_description', '_tpt_border', '_tpt_height', '_tpt_icon', '_tpt_popup_animation', '_tpt_hover_title', '_tpt_tooltip_position_hook', '_tpt_youtube', '_tpt_youtube_image', '_tpt_youtube_icon_size', '_tpt_youtube_icon_color');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_tpt_css_background', '_tpt_css_color', '_tpt_min_width', '_tpt_activate', '_tpt_position', '_tpt_position_mobile', '_tpt_title', '_tpt_description', '_tpt_border', '_tpt_height', '_tpt_icon', '_tpt_popup_animation', '_tpt_hover_title', '_tpt_tooltip_position_hook', '_tpt_youtube', '_tpt_youtube_image', '_tpt_youtube_icon_size', '_tpt_youtube_icon_color');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_tpt_css_background', '_tpt_css_color', '_tpt_min_width', '_tpt_activate', '_tpt_position', '_tpt_position_mobile', '_tpt_title', '_tpt_description', '_tpt_border', '_tpt_height', '_tpt_icon', '_tpt_popup_animation', '_tpt_hover_title', '_tpt_tooltip_position_hook', '_tpt_youtube', '_tpt_youtube_image', '_tpt_youtube_icon_size', '_tpt_youtube_icon_color');
+

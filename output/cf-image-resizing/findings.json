@@ -1,0 +1,30 @@
+{
+  "options": [
+    "cf_image_resizing_siteurl",
+    "cf_image_resizing_sitefolder",
+    "cf_image_resizing_homedir",
+    "cf_image_resizing_hook_1",
+    "cf_image_resizing_hook_2",
+    "cf_image_resizing_hook_3",
+    "cf_image_resizing_hook_4",
+    "cf_image_resizing_hook_5",
+    "cf_image_resizing_hook_6",
+    "cf_image_resizing_fit",
+    "cf_image_resizing_quality",
+    "cf_image_resizing_format",
+    "cf_image_resizing_metadata",
+    "cf_image_resizing_onerror",
+    "cf_image_resizing_strip_img_sizes",
+    "cf_image_resizing_add_img_sizes",
+    "cf_image_resizing_fix_vc_composer",
+    "cf_image_resizing_whitelist",
+    "cf_image_resizing_whitelist_urls",
+    "cf_image_resizing_admin_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:53.799Z"
+}

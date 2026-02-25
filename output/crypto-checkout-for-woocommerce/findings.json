@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_crypto_checkout_settings",
+    "woocommerce_currency",
+    "transactions",
+    "gpcrypto_deferred_admin_notices",
+    "gpcrypto_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:44.065Z"
+}

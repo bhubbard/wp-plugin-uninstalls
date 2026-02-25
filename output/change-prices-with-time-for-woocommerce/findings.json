@@ -1,0 +1,26 @@
+{
+  "options": [
+    "rpt_bulk_product_events",
+    "rpt_bulk_products",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "cpwt_show_countdown_on_shop_pages"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [
+    "rpt_wc_increase_price"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:30.384Z"
+}

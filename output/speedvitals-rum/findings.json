@@ -1,0 +1,13 @@
+{
+  "options": [
+    "speedvitals_rum_site_id",
+    "speedvitals_rum_script_position",
+    "speedvitals_rum_script_loading"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:44.270Z"
+}

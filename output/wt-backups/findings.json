@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wt_backups_init_cron",
+    "wt_backups_init_cron_incremental",
+    "wt_backups_five_min_event",
+    "wt_backups_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:33.442Z"
+}

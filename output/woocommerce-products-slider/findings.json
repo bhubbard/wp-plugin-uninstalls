@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wcps_plugin_info",
+    "wcps_settings",
+    "wcps_info",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wcps_cron_upgrade_settings",
+    "wcps_cron_reset_migrate",
+    "wcps_cron_upgrade_wcps"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wcps_options",
+    "dokan_profile_settings",
+    "layout_elements_data",
+    "layout_options",
+    "custom_scripts",
+    "_wp_attachment_image_alt",
+    "_price",
+    "_product_url",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:18.171Z"
+}

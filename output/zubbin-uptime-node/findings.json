@@ -1,0 +1,15 @@
+{
+  "options": [
+    "zubbin_un_settings"
+  ],
+  "transients": [
+    "zubbin_un_flash_notice"
+  ],
+  "cron_jobs": [
+    "zubbin_un_monitor_tick"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:04.257Z"
+}

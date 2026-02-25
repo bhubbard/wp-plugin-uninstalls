@@ -1,0 +1,12 @@
+{
+  "options": [
+    "cssm_db_version",
+    "CSSM_VERSION_KEY"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:23.298Z"
+}

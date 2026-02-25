@@ -1,0 +1,17 @@
+{
+  "options": [
+    "LA_ads_Off",
+    "LA_arr_How",
+    "LA_arr_Use",
+    "LA_ads_Pub",
+    "LA_ads_Api",
+    "LA_ads_How",
+    "LA_ads_Use"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:45.673Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "shoutbox2024_refresh-interval",
+    "shoutbox2024_default-font-colour",
+    "shoutbox2024_locale",
+    "shoutbox2024_cleanup",
+    "shoutbox2024_pm-background-colour",
+    "shoutbox2024_new-message-colour",
+    "shoutbox2024_height",
+    "shoutbox2024_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shoutbox2024_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:15.554Z"
+}

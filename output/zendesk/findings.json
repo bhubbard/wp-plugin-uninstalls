@@ -1,0 +1,15 @@
+{
+  "options": [
+    "zendesk-settings",
+    "zendesk-settings-remote-auth"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zendesk_user_options",
+    "zendesk-ticket"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:32.353Z"
+}

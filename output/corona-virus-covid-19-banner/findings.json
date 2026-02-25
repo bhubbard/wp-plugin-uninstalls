@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_internal_link",
+    "*_external_link",
+    "*_enabled",
+    "*_display_type",
+    "*_allow_close",
+    "*_allow_close_expiry",
+    "*_display_page",
+    "*_message_title",
+    "*_message_title_header_size",
+    "*_message_text",
+    "*_message_alignment",
+    "*_link_text",
+    "*_link_target",
+    "*_foreground_color",
+    "*_background_color",
+    "*_container_css",
+    "*_container_css_mobile",
+    "*_last_job_run_date",
+    "*_data_frequency",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:39.067Z"
+}

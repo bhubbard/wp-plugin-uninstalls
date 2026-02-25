@@ -1,0 +1,38 @@
+{
+  "options": [
+    "youtubesidebar_formvalidation",
+    "youtubesidebar_installedversion",
+    "youtubesidebar_installeddate",
+    "youtubesidebar_schedule",
+    "youtubesidebar_notifications",
+    "youtubesidebar_is_installed",
+    "youtubesidebar_capabilities",
+    "youtubesidebar_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "youtubesidebar",
+    "youtubesidebar_project_code",
+    "youtubesidebar_record_id",
+    "_thumbnail_id",
+    "skip_post_thumb",
+    "_webtechglobalflags_phpline",
+    "_webtechglobalflags_phpfunction",
+    "_webtechglobalflags_priority",
+    "_webtechglobalflags_type",
+    "_webtechglobalflags_fileurl",
+    "_webtechglobalflags_dataid",
+    "_webtechglobalflags_userid",
+    "_webtechglobalflags_errortext",
+    "_webtechglobalflags_projectid",
+    "_webtechglobalflags_reason",
+    "_webtechglobalflags_action",
+    "_webtechglobalflags_instructions",
+    "_webtechglobalflags_creator",
+    "_webtechglobalflags_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:48.096Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aibui_jwt_token', 'aibui_user_successful_signup', 'aibui_generations_migrated_to_files', 'aibui_multi_page_generations', 'aibui_activation_redirect');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('aibui_meta_description', 'ai_builder_page_css_content', 'ai_builder_block_css_content', 'ai_builder_css_content', 'ai_builder_page_js_content', 'ai_builder_block_js_content', 'ai_builder_js_content', 'ai_builder_page_prompt', '_aibui_created_by_ai', '_ai_lang', '_ai_translation_source', '_ai_translation_group', '_ai_builder_seo_desc', '_yoast_wpseo_metadesc', '_ai_translation_meta_desc', '_wp_template_part_area', '_ai_template_part_slug', '_ai_is_homepage');
+DELETE FROM wp_usermeta WHERE meta_key IN ('aibui_meta_description', 'ai_builder_page_css_content', 'ai_builder_block_css_content', 'ai_builder_css_content', 'ai_builder_page_js_content', 'ai_builder_block_js_content', 'ai_builder_js_content', 'ai_builder_page_prompt', '_aibui_created_by_ai', '_ai_lang', '_ai_translation_source', '_ai_translation_group', '_ai_builder_seo_desc', '_yoast_wpseo_metadesc', '_ai_translation_meta_desc', '_wp_template_part_area', '_ai_template_part_slug', '_ai_is_homepage');
+DELETE FROM wp_termmeta WHERE meta_key IN ('aibui_meta_description', 'ai_builder_page_css_content', 'ai_builder_block_css_content', 'ai_builder_css_content', 'ai_builder_page_js_content', 'ai_builder_block_js_content', 'ai_builder_js_content', 'ai_builder_page_prompt', '_aibui_created_by_ai', '_ai_lang', '_ai_translation_source', '_ai_translation_group', '_ai_builder_seo_desc', '_yoast_wpseo_metadesc', '_ai_translation_meta_desc', '_wp_template_part_area', '_ai_template_part_slug', '_ai_is_homepage');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('aibui_meta_description', 'ai_builder_page_css_content', 'ai_builder_block_css_content', 'ai_builder_css_content', 'ai_builder_page_js_content', 'ai_builder_block_js_content', 'ai_builder_js_content', 'ai_builder_page_prompt', '_aibui_created_by_ai', '_ai_lang', '_ai_translation_source', '_ai_translation_group', '_ai_builder_seo_desc', '_yoast_wpseo_metadesc', '_ai_translation_meta_desc', '_wp_template_part_area', '_ai_template_part_slug', '_ai_is_homepage');
+

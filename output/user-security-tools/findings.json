@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ust_settings",
+    "sust_max_login_attempts",
+    "sust_login_grace_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sust_lastpasswords",
+    "sust_locked",
+    "sust_fail_attempts",
+    "sust_last_login_fail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:39.666Z"
+}

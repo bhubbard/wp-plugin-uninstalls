@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shortcode_settings",
+    "cf_generated_thumbnail",
+    "cf_download_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:56.964Z"
+}

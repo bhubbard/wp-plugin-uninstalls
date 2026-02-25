@@ -1,0 +1,17 @@
+{
+  "options": [
+    "acns_api_url",
+    "acns_api_key",
+    "acns_list_id",
+    "acns_show_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acns_error_log",
+    "acns_check_newsletter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:47.770Z"
+}

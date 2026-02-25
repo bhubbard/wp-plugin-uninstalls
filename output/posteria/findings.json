@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wo_license_information",
+    "wp_oauth_activation_time",
+    "wp_30day_notice",
+    "wp_oauth_server_mapping_settings",
+    "wo_options",
+    "wo_license_key",
+    "wp_oauth_server_db_version",
+    "wpoauth_version"
+  ],
+  "transients": [
+    "fx-admin-notice-example"
+  ],
+  "cron_jobs": [
+    "wpo_global_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "redirect_uri",
+    "client_id",
+    "client_secret",
+    "user_id",
+    "scope",
+    "grant_types",
+    "wo_grant_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:00.557Z"
+}

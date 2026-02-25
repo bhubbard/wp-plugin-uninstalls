@@ -1,0 +1,22 @@
+{
+  "options": [
+    "signals_csmm_meta",
+    "signals_csmm_options",
+    "wf_licensing_*",
+    "csmm_pointers"
+  ],
+  "transients": [
+    "csmm_error_msg",
+    "signals_csmm_err_*",
+    "update_plugins",
+    "csmm_rate_hide",
+    "csmm_welcome_hide",
+    "csmm_olduser_hide",
+    "csmm_subscribe_hide"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:41.588Z"
+}

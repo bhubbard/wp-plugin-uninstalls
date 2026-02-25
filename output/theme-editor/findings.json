@@ -1,0 +1,24 @@
+{
+  "options": [
+    "mk_te_settings_options",
+    "theme_editor_email_verified_*",
+    "theme_editor_email_address_*",
+    "verify_theme_editor_fname_*",
+    "verify_theme_editor_lname_*",
+    "*_debug",
+    "theme_mods_*",
+    "allowedthemes",
+    "*_configvars",
+    "theme_editor_child_theme_permission"
+  ],
+  "transients": [
+    "mk_te_close_te_help_c",
+    "theme_editor_cancel_lk_popup_*",
+    "*_debug"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:46.341Z"
+}

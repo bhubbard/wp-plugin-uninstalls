@@ -1,0 +1,39 @@
+{
+  "options": [
+    "bnfw_suppress_spam",
+    "classic-editor-replace",
+    "bnfw_email_format",
+    "bnfw_enable_shortcodes",
+    "bnfw_allow_tracking",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "bnfw_licenses",
+    "*_license_active"
+  ],
+  "transients": [
+    "bnfw-async-notifications",
+    "bnfw-row-action-success-notice",
+    "bnfw-row-action-error-notice",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "nickname",
+    "description",
+    "bnfw-tab-addon-status",
+    "*user-roles",
+    "*users",
+    "*disabled",
+    "_bnfw_*",
+    "_wp_attachment_image_alt",
+    "_wp_attachment_metadata",
+    "_edit_lock",
+    "_export_file_url",
+    "_export_file_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:05.423Z"
+}

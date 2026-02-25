@@ -1,0 +1,19 @@
+{
+  "options": [
+    "superaddons_products_uploads",
+    "_redmuber_item_*",
+    "ninja_forms_addons_feed"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_uploads_meta",
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:58.266Z"
+}

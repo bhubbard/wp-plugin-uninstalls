@@ -1,0 +1,18 @@
+{
+  "options": [
+    "Woo_floating_minicart_position",
+    "Woo_floating_minicart_show_shop_page_link",
+    "Woo_floating_minicart_show_best_selling_products",
+    "Woo_floating_minicart_hide",
+    "Woo_floating_minicart_offset",
+    "Woo_floating_minicart_primary_color",
+    "Woo_floating_minicart_secondary_color",
+    "Woo_floating_minicart_button_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:38.259Z"
+}

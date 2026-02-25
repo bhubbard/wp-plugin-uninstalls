@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ps_gallery_sort",
+    "photoshelter_default_width",
+    "photoshelter",
+    "ps_cookies",
+    "photoshelter_logged_in",
+    "photoshelter_menu_create",
+    "photoshelter_org"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:44.973Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ljpl-trakttv-use-css",
+    "ljpl-trakttv-has-private-account",
+    "ljpl-trakttv-login",
+    "ljpl-trakttv-password",
+    "ljpl-trakttv-api-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:22.372Z"
+}

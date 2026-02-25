@@ -1,0 +1,12 @@
+{
+  "options": [
+    "trans_from",
+    "trans_to"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:29.477Z"
+}

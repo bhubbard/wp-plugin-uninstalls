@@ -1,0 +1,33 @@
+{
+  "options": [
+    "*_interlinks_options_post_types",
+    "*_interlinks_optimization_post_types",
+    "*_internal_links_data_last_update",
+    "*_internal_links_data_update_frequency",
+    "*_juice_data_last_update",
+    "*_juice_data_update_frequency",
+    "daextinma_options_version",
+    "daextinma_database_version",
+    "*_default_seo_power",
+    "*_optimization_num_of_characters",
+    "*_optimization_delta",
+    "*_penality_per_position_percentage",
+    "*_set_max_execution_time",
+    "daextinma_max_execution_time_value",
+    "*_set_memory_limit",
+    "daextinma_memory_limit_value",
+    "*_dashboard_post_types",
+    "*_limit_posts_analysis",
+    "*_juice_post_types",
+    "*_remove_link_to_anchor",
+    "*_remove_url_parameters"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_daextinma_seo_power"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:02.984Z"
+}

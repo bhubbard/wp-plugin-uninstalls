@@ -1,0 +1,13 @@
+{
+  "options": [
+    "operational_api_key",
+    "operational_log_activity",
+    "operational_baseurl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:15.191Z"
+}

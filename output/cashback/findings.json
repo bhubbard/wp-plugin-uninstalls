@@ -1,0 +1,40 @@
+{
+  "options": [
+    "c247_registered",
+    "c247_replace_existing_links",
+    "c247_token",
+    "c247_username",
+    "c247_user_id",
+    "c247_profile_first_name",
+    "c247_profile_last_name",
+    "c247_profile_email",
+    "c247_website_id",
+    "c247_profile_gender",
+    "c247_site_logo",
+    "c247_site_title",
+    "c247_create_new_links",
+    "c247_show_offers",
+    "c247_new_window",
+    "c247_post_process",
+    "c247_ver",
+    "c247_db_ver",
+    "c247_no_follow_links",
+    "c247_total_posts",
+    "c247_current_post"
+  ],
+  "transients": [
+    "c247_about_page_activated"
+  ],
+  "cron_jobs": [
+    "c247_daily_update",
+    "c247_hourly_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "c247_disabled",
+    "c247_keywords",
+    "c247_disable_offers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:30.234Z"
+}

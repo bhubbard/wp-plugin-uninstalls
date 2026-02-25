@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [
+    "growthstack_lianamailer_status",
+    "growthstack_lianamailer_sites",
+    "growthstack_lianamailer_site_consents",
+    "growthstack_lianamailer_customer_properties",
+    "growthstack_lianamailer_customer"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lianamailer_enabled",
+    "lianamailer_site",
+    "lianamailer_mailing_lists",
+    "lianamailer_properties",
+    "lianamailer_plugin_site_consents"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:56.712Z"
+}

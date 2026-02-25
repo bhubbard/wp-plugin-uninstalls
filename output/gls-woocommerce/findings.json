@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:01.394Z"
+}

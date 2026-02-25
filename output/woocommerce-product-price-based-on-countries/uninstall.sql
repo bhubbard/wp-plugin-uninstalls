@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_default_customer_address', 'wc_price_based_country_caching_support', 'wc_price_based_country_dbip_prefix', 'woocommerce_currency', 'woocommerce_maxmind_geolocation_settings', 'woocommerce_allowed_countries', 'wc_price_based_currency_format', 'woocommerce_price_thousand_sep', 'woocommerce_price_decimal_sep', 'woocommerce_price_num_decimals', 'woocommerce_tax_display_shop', 'woocommerce_default_country', 'wc_price_based_country_based_on', 'wc_price_based_country_shipping_exchange_rate', 'wc_price_based_country_test_mode', 'wc_price_based_country_test_country', 'wc_price_based_country_exchange_rate_api', 'woocommerce_prices_include_tax', 'woocommerce_tax_based_on', 'wc_price_based_country_version', '_oga_wppbc_countries_groups', 'wc_price_based_country_regions', 'wc_price_based_country_gla_integration', 'active_sitewide_plugins', '_wcpay_feature_customer_multi_currency', 'wcpay_multi_currency_enabled_currencies', 'woocommerce_hide_out_of_stock_items', 'woocommerce_ship_to_destination', 'wc_price_based_country_debug_mode', 'wc_price_based_country_debug_ip', 'wc_price_based_country_update_geoip', '_oga_wppbc_apiurl', '_oga_wppbc_api_country_field', 'wc_price_based_shipping_conversion', 'wc_price_based_country_hide_ads', 'wcpbc_updated_geoip', 'wcpbc_products_onsale', 'update_plugins', 'wcpbc_notify_admin_deprecated_pro');
+DELETE FROM wp_options WHERE option_name LIKE 'wc_var_prices_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('zone_pricing_type', 'wc_price_based_country_admin_notices', '_sale_price_dates_from', '_sale_price_dates_to', '_wcpbc_pricing_zone', '_wcpbc_base_exchange_rate');
+DELETE FROM wp_usermeta WHERE meta_key IN ('zone_pricing_type', 'wc_price_based_country_admin_notices', '_sale_price_dates_from', '_sale_price_dates_to', '_wcpbc_pricing_zone', '_wcpbc_base_exchange_rate');
+DELETE FROM wp_termmeta WHERE meta_key IN ('zone_pricing_type', 'wc_price_based_country_admin_notices', '_sale_price_dates_from', '_sale_price_dates_to', '_wcpbc_pricing_zone', '_wcpbc_base_exchange_rate');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('zone_pricing_type', 'wc_price_based_country_admin_notices', '_sale_price_dates_from', '_sale_price_dates_to', '_wcpbc_pricing_zone', '_wcpbc_base_exchange_rate');
+

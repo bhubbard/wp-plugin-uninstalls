@@ -1,0 +1,13 @@
+{
+  "options": [
+    "linkable_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "linkable_tags"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:22.680Z"
+}

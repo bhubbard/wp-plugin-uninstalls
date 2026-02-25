@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vk_filter_search"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vkfs_search_result_page_id",
+    "vkfs_display_result",
+    "vkfs_display_archive"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:34.955Z"
+}

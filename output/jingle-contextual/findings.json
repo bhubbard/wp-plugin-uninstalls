@@ -1,0 +1,20 @@
+{
+  "options": [
+    "jc_shoplist",
+    "jc_2p_uc",
+    "jc_bc",
+    "jc_color",
+    "jc_nproducts",
+    "jc_mwidth",
+    "jc_2p_user",
+    "jc_2p_password",
+    "nproducts",
+    "mwidth"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:45.294Z"
+}

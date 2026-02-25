@@ -1,0 +1,18 @@
+{
+  "options": [
+    "headlesskey_db_version",
+    "jetpack_protect_active",
+    "jetpack_offline_mode",
+    "wpcom_public_coming_soon"
+  ],
+  "transients": [
+    "headlesskey_otp_*",
+    "*_locked",
+    "jetpack_is_single_user"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:23.905Z"
+}

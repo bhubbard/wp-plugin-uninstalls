@@ -1,0 +1,12 @@
+{
+  "options": [
+    "check_external_login_url",
+    "check_external_login_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:40.110Z"
+}

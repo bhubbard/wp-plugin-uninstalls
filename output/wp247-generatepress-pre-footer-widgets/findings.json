@@ -1,0 +1,13 @@
+{
+  "options": [
+    "generate_background_settings",
+    "generate_settings",
+    "generate_spacing_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:20.272Z"
+}

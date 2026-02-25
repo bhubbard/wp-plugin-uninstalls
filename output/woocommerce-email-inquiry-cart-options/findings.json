@@ -1,0 +1,41 @@
+{
+  "options": [
+    "*_clean_on_deletion",
+    "*_enable",
+    "*_google_font_list",
+    "*_style_version",
+    "wc_ei_button_hyperlink_margin_message_dontshow",
+    "wc_ei_hide_inquiry_button_message_dontshow",
+    "wc_ei_hide_addtocart_message_dontshow",
+    "wc_ei_hide_price_message_dontshow",
+    "wc_ei_manual_quote_message_dontshow",
+    "wc_ei_use_woocommerce_css_message_dontshow",
+    "a3rev_wc_email_inquiry_version",
+    "a3rev_wc_email_inquiry_ultimate_version",
+    "a3rev_wc_email_inquiry_just_installed",
+    "woocommerce_db_version",
+    "wc_email_inquiry_customize_email_button",
+    "wc_email_inquiry_global_settings",
+    "wc_email_inquiry_cart_options_style_version",
+    "wc_email_inquiry_contact_success",
+    "wc_email_inquiry_rules_roles_settings",
+    "wc_email_inquiry_email_options",
+    "wc_email_inquiry_3rd_contactforms_settings",
+    "wc_email_inquiry_customize_email_popup",
+    "wc_email_inquiry_contact_form_settings",
+    "wc_email_inquiry_contact_form_information_text",
+    "wc_email_inquiry_contact_form_condition_text"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*opened",
+    "*-custom-boxes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:53.515Z"
+}

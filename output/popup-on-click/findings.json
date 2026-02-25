@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_content_shortcode",
+    "*_popup_title",
+    "*_enable_bootstrap",
+    "*_enable_animation",
+    "popup_on_click_enable_bootstrap",
+    "popup_on_click_content_shortcode",
+    "popup_on_click_enable_animation",
+    "popup_on_click_popup_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:30.480Z"
+}

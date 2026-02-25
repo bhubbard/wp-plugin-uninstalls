@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tadv_admin_settings",
+    "tadv_settings",
+    "tadv_version",
+    "tadv_options",
+    "tadv_toolbars",
+    "tadv_plugins",
+    "tadv_btns1",
+    "tadv_btns2",
+    "tadv_btns3",
+    "tadv_btns4",
+    "tadv_allbtns"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:26:25.761Z"
+}

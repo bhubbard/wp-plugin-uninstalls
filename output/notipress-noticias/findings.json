@@ -1,0 +1,30 @@
+{
+  "options": [
+    "ntpmx_new_content",
+    "ntpmx_api",
+    "ntpmx_rich_text",
+    "ntpmx_links",
+    "ntpmx_source",
+    "ntpmx_show_rows",
+    "ntpmx_clean_rows_in_days",
+    "ntpmx_date_activation",
+    "ntpmx_version",
+    "ntpmx_sku",
+    "ntpmx_product",
+    "ntpmx_date_install",
+    "ntpmx_date_update",
+    "ntpmx_minutes",
+    "ntpmx_qty",
+    "ntpmx_customer_id",
+    "ntpmx_sku_name",
+    "ntpmx_last_check"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ntpmx_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:38.358Z"
+}

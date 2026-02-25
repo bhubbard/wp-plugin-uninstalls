@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "*_parse",
+    "pe_hourly_parse"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "parse_settings",
+    "parse_templates",
+    "pe_period",
+    "parse_result"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:10.430Z"
+}

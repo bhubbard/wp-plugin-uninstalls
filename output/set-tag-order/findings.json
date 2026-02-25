@@ -1,0 +1,18 @@
+{
+  "options": [
+    "settagord_separator",
+    "settagord_class",
+    "settagord_debug_mode",
+    "classic-editor-replace"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_settagord",
+    "classic-editor-remember",
+    "settagord_detected_editor"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:22.040Z"
+}

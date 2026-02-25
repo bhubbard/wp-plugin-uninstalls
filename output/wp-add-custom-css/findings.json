@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpacc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_single_add_custom_css"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:19.007Z"
+}

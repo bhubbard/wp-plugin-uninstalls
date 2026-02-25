@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*last_used_tab",
+    "*cache_stamp",
+    "*version",
+    "*flush_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iworks_classifieds_contact_contact",
+    "google"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:15.805Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "bewpi_template_settings",
+    "bewpi_version",
+    "bewpi_install_date",
+    "bewpi_general_settings",
+    "woocommerce_tax_total_display",
+    "woocommerce_tax_display_cart",
+    "woocommerce_force_ssl_checkout",
+    "bewpi-install-date"
+  ],
+  "transients": [
+    "bewpi-admin-notice-activation",
+    "bewpi_next_invoice_number",
+    "wpi_dismiss_notice_rate"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bewpi_invoice_date",
+    "_bewpi_invoice_number",
+    "_bewpi_invoice_pdf_path",
+    "_bewpi_formatted_invoice_number",
+    "_bewpi_invoice_year",
+    "_vat_number_is_valid",
+    "_vat_number",
+    "_po_number",
+    "bewpi_pdf_invoice_sent",
+    "_customer_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:39.504Z"
+}

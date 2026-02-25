@@ -1,0 +1,18 @@
+{
+  "options": [
+    "login_logout_redirect_login_enable",
+    "login_logout_redirect_login",
+    "login_logout_redirect_login_page",
+    "login_logout_redirect_login_custom",
+    "login_logout_redirect_logout_enable",
+    "login_logout_redirect_logout",
+    "login_logout_redirect_logout_page",
+    "login_logout_redirect_logout_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:22.785Z"
+}

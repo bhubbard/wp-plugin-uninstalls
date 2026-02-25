@@ -1,0 +1,13 @@
+{
+  "options": [
+    "brad_dismiss_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "check_dismissed"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:36.744Z"
+}

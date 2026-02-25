@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tracknow_for_woocommerce_debug_logs",
+    "tracknow_logs_table_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tracknow_click_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:43.904Z"
+}

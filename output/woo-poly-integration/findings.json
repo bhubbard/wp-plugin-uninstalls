@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wpi_wcpagecheck_passed",
+    "hyyan-wpi-flash-messages",
+    "woocommerce_email_footer_text",
+    "*_settings",
+    "polylang",
+    "woocommerce_shop_page_id",
+    "woocommerce_permalinks",
+    "wpi_version",
+    "woocommerce_checkout_privacy_policy_text",
+    "woocommerce_registration_privacy_policy_text",
+    "woocommerce_demo_store_notice",
+    "woocommerce_checkout_terms_and_conditions_checkbox_text",
+    "woocommerce_manage_stock",
+    "woocommerce_price_display_suffix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_translation_porduct_type",
+    "_default_attributes",
+    "user_lang",
+    "display_type",
+    "thumbnail_id",
+    "_point_to_variation"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:39.915Z"
+}

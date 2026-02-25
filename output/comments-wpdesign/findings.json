@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cwpd_version",
+    "cwpd_wp_design",
+    "cwpd_setting_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:30.160Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fbsat_retention_days",
+    "fbsat_auto_cleanup",
+    "fbsat_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fbsat_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:04.071Z"
+}

@@ -1,0 +1,43 @@
+{
+  "options": [
+    "postomatic_speakers_data",
+    "postomatic_activation_status",
+    "postomatic_activation_error"
+  ],
+  "transients": [
+    "postomatic_speakers_data",
+    "postomatic_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_focus_keyword",
+    "_aioseo_title",
+    "_aioseo_description",
+    "_seopress_titles_title",
+    "_seopress_titles_desc",
+    "_metaseo_metatitle",
+    "_metaseo_metadesc",
+    "_genesis_title",
+    "_genesis_description",
+    "_sku",
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_stock_status",
+    "_stock",
+    "_length",
+    "_width",
+    "_height",
+    "_weight",
+    "_wc_average_rating",
+    "_wc_review_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:09.373Z"
+}

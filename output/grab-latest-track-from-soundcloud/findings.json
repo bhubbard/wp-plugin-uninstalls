@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wtwh_soundcloud_trackID-*",
+    "wtwh_soundcloud_pubDateID-*",
+    "wtwh_soundcloud_title-*",
+    "widget_wtwh_soundcloud_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wtwh_soundcloud_cron_job_setup_to_pull_rss_feed"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:27.497Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "findkit_enable_jwt",
+    "findkit_admin_search_show_settings_link",
+    "findkit_adminbar",
+    "findkit_project_id",
+    "findkit_api_endpoint",
+    "findkit_api_key",
+    "findkit_show_superwords_editor",
+    "findkit_show_content_no_highlight_editor",
+    "findkit_enable_live_update",
+    "findkit_override_search_form",
+    "findkit_pubkey"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_findkit_superwords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:24.227Z"
+}

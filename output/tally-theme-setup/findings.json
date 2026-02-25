@@ -1,0 +1,15 @@
+{
+  "options": [
+    "widget_*",
+    "sidebars_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:04.881Z"
+}

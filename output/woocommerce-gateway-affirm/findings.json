@@ -1,0 +1,19 @@
+{
+  "options": [
+    "affirm_us_keys_status",
+    "woocommerce_affirm_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "oauth_init"
+  ],
+  "cron_jobs": [
+    "affirm_api_key_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_gateway_affirm_charge_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:38.803Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ht_options",
+    "ht_greeting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ht_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:41.654Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "uptimerobot_apikey",
+    "uptimerobot_show_ratio",
+    "uptimerobot_custom_period",
+    "uptimerobot_show_psp_link",
+    "uptimerobot_psp_url"
+  ],
+  "transients": [
+    "uptimerobot_widget_cache_*",
+    "uptimerobot_widget_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:30.438Z"
+}

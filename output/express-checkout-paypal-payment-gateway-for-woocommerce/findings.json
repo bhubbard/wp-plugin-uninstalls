@@ -1,0 +1,28 @@
+{
+  "options": [
+    "eh_paypal_express_payer_id",
+    "woocommerce_eh_paypal_express_settings",
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_calc_taxes",
+    "woocommerce_prices_include_tax"
+  ],
+  "transients": [
+    "eh_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "order_comments",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_address_1",
+    "billing_state",
+    "billing_email",
+    "billing_postcode",
+    "billing_phone",
+    "billing_country",
+    "billing_company"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:06.239Z"
+}

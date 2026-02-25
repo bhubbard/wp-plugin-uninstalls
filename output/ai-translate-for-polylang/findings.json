@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ai_translate_new_post",
+    "ai_translate_prompt",
+    "ai_translate_llm",
+    "ai_translate_claude_key",
+    "ai_translate_claude_model",
+    "ai_translate_openai_key",
+    "ai_translate_openai_org",
+    "ai_translate_openai_model",
+    "ai_translate_gemini_model",
+    "ai_translate_gemini_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:06.194Z"
+}

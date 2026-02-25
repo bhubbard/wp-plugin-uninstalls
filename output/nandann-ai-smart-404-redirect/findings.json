@@ -1,0 +1,28 @@
+{
+  "options": [
+    "nandann_smart_ai_404_redirect_options"
+  ],
+  "transients": [
+    "nandann_smart_ai_404_last_mail_error",
+    "nandann_smart_ai_404_quick_stats",
+    "nandann_smart_ai_404_statistics_today",
+    "nandann_smart_ai_404_statistics_week",
+    "nandann_smart_ai_404_statistics_month",
+    "nandann_smart_ai_404_statistics_all",
+    "nandann_smart_ai_404_chart_data",
+    "nandann_smart_ai_404_total_log_count",
+    "nandann_smart_ai_404_email_stats_daily",
+    "nandann_smart_ai_404_email_stats_weekly",
+    "nandann_smart_ai_404_email_stats_monthly"
+  ],
+  "cron_jobs": [
+    "nandann_smart_ai_404_send_email_report_daily",
+    "nandann_smart_ai_404_send_email_report_weekly",
+    "nandann_smart_ai_404_send_email_report_monthly",
+    "nandann_smart_ai_404_cleanup_old_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:58.904Z"
+}

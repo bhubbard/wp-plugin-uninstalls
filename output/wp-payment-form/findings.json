@@ -1,0 +1,62 @@
+{
+  "options": [
+    "wppayform_statuses",
+    "_wppayform_pro_license_status",
+    "_wppayform_user_dashboard_page",
+    "wppayform_global_currency_settings",
+    "_wppayform_paymattic_user_force_redirect",
+    "_wppayform_dashboard_permitted_roles",
+    "_wppayform_global_cancel_subsription_email_settings",
+    "_wppayform_enable_paymattic_user_dashboard",
+    "wppayform_user_dashboard_page",
+    "wppayform_recaptcha_settings",
+    "wppayform_turnstile_settings",
+    "wppayform_turnstile_validation_status",
+    "wppayform_order_items_meta_migrate",
+    "wppayform_ip_logging_status",
+    "wppayform_honeypot_status",
+    "wppayform_abandoned_time",
+    "wppayform_business_name",
+    "wppayform_business_address",
+    "wppayform_business_logo",
+    "wppayform_integration_status",
+    "wppayform_global_modules_status",
+    "_wppayform_form_permission",
+    "active_sitewide_plugins",
+    "wppayform_stripe_payment_settings",
+    "wppayform_coupon_status",
+    "wppayform_settings",
+    "wppayform_payment_settings_offline",
+    "wppayform_payment_settings_*",
+    "wppayform_confirmation_pages",
+    "_wppayform_mailchimp_details",
+    "_wppayform_security_salt",
+    "WPF_DB_VERSION"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "wppayform/daily_reminder_task"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wppayform_form_design_settings",
+    "_recaptcha_status",
+    "_turnstile_status",
+    "wppayform_show_title_description",
+    "wppayform_paymentform_builder_settings",
+    "wppayform_submit_button_settings",
+    "wpf_has_recurring_field",
+    "wpf_has_payment_field",
+    "wpf_form_category",
+    "wppapyform_paymentform_confirmation_settings",
+    "wppayform_paymentform_currency_settings",
+    "wppapyform_receipt_settings",
+    "wppayform_form_scheduling_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:11.175Z"
+}

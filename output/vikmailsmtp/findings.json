@@ -1,0 +1,20 @@
+{
+  "options": [
+    "vikmailsmtp_host",
+    "vikmailsmtp_skipwizard",
+    "vikmailsmtp_port",
+    "vikmailsmtp_security",
+    "vikmailsmtp_auth",
+    "vikmailsmtp_sender",
+    "vikmailsmtp_user",
+    "vikmailsmtp_pass",
+    "vikmailsmtp_logging",
+    "vikmailsmtp_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:28.027Z"
+}

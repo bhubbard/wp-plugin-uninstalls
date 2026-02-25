@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cpmwc_product_id",
+    "cpmwc_user_roles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cpmwc_coupon_deducted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:11.816Z"
+}

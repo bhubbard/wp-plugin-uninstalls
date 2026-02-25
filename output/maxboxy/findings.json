@@ -1,0 +1,25 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "_maxboxy_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*",
+    "_mb_floatany",
+    "auto_loading",
+    "location",
+    "test_mode",
+    "_mb_maxboxy_conversion",
+    "maxboxy_loaded_count",
+    "maxboxy_loaded_count_unique",
+    "maxboxy_views_count",
+    "maxboxy_views_count_unique",
+    "maxboxy_completed_goal",
+    "maxboxy_completed_goal_unique"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:23.986Z"
+}

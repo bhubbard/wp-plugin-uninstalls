@@ -1,0 +1,17 @@
+{
+  "options": [
+    "jes_events",
+    "jes-events",
+    "jes-theme-version",
+    "jes-events-db-version",
+    "site_name"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jes_events_notification_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:24.395Z"
+}

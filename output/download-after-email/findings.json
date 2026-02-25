@@ -1,0 +1,24 @@
+{
+  "options": [
+    "dae_field_labels",
+    "dae_fields",
+    "dae_messages",
+    "dae_subscribers_per_page",
+    "dae_options",
+    "dae_db_version",
+    "dae_htaccess_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dae_cleanup_expired_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dae_settings",
+    "dae_shortcode",
+    "dae_duplicate_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:29.785Z"
+}

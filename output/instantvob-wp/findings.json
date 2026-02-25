@@ -1,0 +1,16 @@
+{
+  "options": [
+    "instantvob_api_url",
+    "instantvob_api_key",
+    "instantvob_notification_email",
+    "instantvob_cf_turnstile_secret",
+    "instantvob_cf_turnstile_sitekey",
+    "instantvob_show_branding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:35.022Z"
+}

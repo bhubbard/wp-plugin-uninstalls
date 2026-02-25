@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_redmuber_item_1504",
+    "_redmuber_item_*",
+    "ninja_forms_addons_feed"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:50.025Z"
+}

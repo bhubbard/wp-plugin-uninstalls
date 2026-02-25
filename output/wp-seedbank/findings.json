@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wp_seedbank_version",
+    "seedbank_options",
+    "*_settings",
+    "*_scientific_name_children"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_expire_exchange"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_exchange_expiry_date",
+    "*_exchange_status",
+    "*_unit",
+    "*_common_name",
+    "*_quantity",
+    "*_exchange_type",
+    "*_seed_expiry_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:46.226Z"
+}

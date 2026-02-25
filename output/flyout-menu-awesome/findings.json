@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_flyout_menu_menu_button_style_choice",
+    "_flyout_menu_button_menu_style",
+    "_flyout_menu_custom_menu_label",
+    "_flyout_menu_button_menu_position_screen",
+    "_flyout_menu_btn_icon_pos",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:26.859Z"
+}

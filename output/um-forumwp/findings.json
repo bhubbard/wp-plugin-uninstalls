@@ -1,0 +1,22 @@
+{
+  "options": [
+    "um_options",
+    "um_forumwp_version",
+    "um_forumwp_last_version_upgrade"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_um_forumwp_can_topic",
+    "_um_forumwp_can_reply",
+    "fmwp_*",
+    "fmwp_original_mentions",
+    "fmwp_um_notifications_need_mention",
+    "fmwp_um_notifications_mentioned",
+    "fmwp_um_notifications_subscribers_need_notified",
+    "fmwp_um_notifications_subscribers_notified"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:38.722Z"
+}

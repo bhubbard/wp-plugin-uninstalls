@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('curiyo_search_page_id', 'curiyo_max_links', 'curiyo_link_color', 'curiyo_site_email', 'curiyo_site_logo', 'curiyo_single_post_on', 'curiyo_pages_on', 'curiyo_home_page_on', 'curiyo_tags_on', 'curiyo_categories_on', 'curiyo_author_archives_on', 'curiyo_search_results_on', 'curiyo_archives_on', 'curiyo_publish_to_curiyo');
+

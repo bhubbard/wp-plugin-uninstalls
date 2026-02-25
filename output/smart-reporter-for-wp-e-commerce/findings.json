@@ -1,0 +1,37 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_version",
+    "*_check_update",
+    "*_license_key",
+    "*_download_url",
+    "*_live_version",
+    "*_installed_version",
+    "sr_network_activate",
+    "sr_is_auto_refresh",
+    "sr_what_to_refresh",
+    "sr_refresh_duration",
+    "sr_data_sync",
+    "sr_old_data_sync",
+    "sr_abandoned_cutoff_time",
+    "sr_abandoned_cutoff_period",
+    "sr_number_format",
+    "woocommerce_price_num_decimals",
+    "sr_dismiss_admin_notice",
+    "currency_type",
+    "sr_admin_footer"
+  ],
+  "transients": [
+    "_sr_activation_redirect",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "sr_send_summary_mails"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:24.627Z"
+}

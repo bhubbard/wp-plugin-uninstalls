@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aac_plugin_version",
+    "aac_commenters_list",
+    "aac_usernames_list",
+    "aac_roles_list",
+    "userid_list",
+    "commenters_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "akismet_result",
+    "akismet_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:40.011Z"
+}

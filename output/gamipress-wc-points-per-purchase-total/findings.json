@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*points_awarded",
+    "*points_deducted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:03.939Z"
+}

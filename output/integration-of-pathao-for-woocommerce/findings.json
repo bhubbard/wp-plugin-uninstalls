@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pathao_access_token",
+    "pathao_refresh_token",
+    "woocommerce_pathao_settings",
+    "pathao_sandbox_mode",
+    "pathao_client_id",
+    "pathao_client_secret",
+    "pathao_installed",
+    "pathao_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pathao_refresh_token_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:44.808Z"
+}

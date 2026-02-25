@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpsb_form_fields",
+    "wpsb_link_love",
+    "wpsb_form_email",
+    "wpsb_privacy_label",
+    "wpsb_form_send",
+    "wpsb_form_header",
+    "wpsb_msg_bad",
+    "wpsb_email_from",
+    "wpsb_msg_fail",
+    "wpsb_double_optin",
+    "wpsb_auto_delete",
+    "wpsb_email_subject",
+    "wpsb_email_message",
+    "wpsb_msg_dbl",
+    "wpsb_msg_sent",
+    "wpsb_form_footer",
+    "wpsb_dbl_sent",
+    "wpsb_dbl_fail",
+    "wpsb_db_version",
+    "wpsb_widget_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:23.394Z"
+}

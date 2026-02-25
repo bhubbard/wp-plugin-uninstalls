@@ -1,0 +1,27 @@
+{
+  "options": [
+    "hejbit_login_dlwcloud",
+    "hejbit_pass_dlwcloud",
+    "hejbit_url_dlwcloud",
+    "hejbit_logs_retention",
+    "hejbit_email_dlwcloud",
+    "hejbit_folder_dlwcloud",
+    "hejbit_frequency_dlwcloud",
+    "hejbit_day_dlwcloud",
+    "hejbit_hour_dlwcloud",
+    "hejbit_db_only_dlwcloud",
+    "db_only_dlwcloud"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "hejbit_Save",
+    "hejbit_SaveInProgress"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:12.242Z"
+}

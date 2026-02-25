@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mdb_display_type",
+    "mdb_facebookappid",
+    "mdb_link",
+    "mdb_redirect_url",
+    "mdb_recipients"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:49.976Z"
+}

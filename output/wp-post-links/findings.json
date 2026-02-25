@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_post_links_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-post-links"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:30.244Z"
+}

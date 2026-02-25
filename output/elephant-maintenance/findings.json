@@ -1,0 +1,16 @@
+{
+  "options": [
+    "elephantm_maintenance_enabled",
+    "elephantm_maintenance_title",
+    "elephantm_maintenance_message",
+    "elephantm_maintenance_phone",
+    "elephantm_maintenance_social",
+    "elephantm_maintenance_bg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:50.017Z"
+}

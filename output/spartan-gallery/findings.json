@@ -1,0 +1,38 @@
+{
+  "options": [
+    "recently_activated"
+  ],
+  "transients": [
+    "_welcome_redirect_wpw",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "image_layout_select",
+    "spartan_gallery_uploaded_images",
+    "spartan_gallery",
+    "_wp_attachment_image_alt",
+    "add_extra_css",
+    "display_original",
+    "img_margin",
+    "thumbnail_options",
+    "textbox_height_range",
+    "display_text",
+    "info_background_color",
+    "container_font_size",
+    "thumbnail_size",
+    "image_width",
+    "image_height",
+    "font_family",
+    "image_measure_value",
+    "button_url_buttontitle*",
+    "container_settings_on_off",
+    "container_height_width_range",
+    "container_background_color",
+    "container_border",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:03.654Z"
+}

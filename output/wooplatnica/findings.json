@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_postcode",
+    "woocommerce_store_city",
+    "woocommerce_uplatnica_settings",
+    "wooplatnica_uplatnica_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:41.176Z"
+}

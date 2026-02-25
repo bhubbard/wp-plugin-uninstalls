@@ -1,0 +1,22 @@
+{
+  "options": [
+    "site_admins",
+    "helpdesk_subject",
+    "helpdesk_admin-notifacation",
+    "helpdesk_new_ticket_message",
+    "helpdesk_ticket-submission-message",
+    "helpdesk_submission-conformation",
+    "helpdesk_open-close",
+    "helpdesk_response_message",
+    "helpdesk_ticket-update-message",
+    "helpdesk_message-order",
+    "helpdesk_email-subject",
+    "helpdesk_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:39.263Z"
+}

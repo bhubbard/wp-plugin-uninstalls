@@ -1,0 +1,19 @@
+{
+  "options": [
+    "enable_hotproducts",
+    "hotproducts_text",
+    "show_flame",
+    "text_background_colour",
+    "text_colour",
+    "enable_hotproducts_archive",
+    "hotproducts_text_archive"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hotproductscount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:58.250Z"
+}

@@ -1,0 +1,83 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_last_send'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_skipped'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_allow_tracking'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_notice'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_completed'"
+wp option delete 'elementor_disable_color_schemes'
+wp option delete 'elementor_disable_typography_schemes'
+wp option delete 'woostify_pro_fully_featured_activate'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_license_key_status'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_child'"
+wp option delete 'allowedthemes'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_license_key'"
+wp option delete 'woostify_pro_license_key_status'
+wp option delete 'recently_activated'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'widget_%'"
+wp option delete 'sidebars_widgets'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%_woostify_sites_redirect' OR option_name LIKE '_site_transient_%_woostify_sites_redirect'"
+wp transient delete 'woostify_sites_import_file_base_name'
+wp transient delete 'update_plugins'
+wp transient delete 'pt_importer_data'
+wp transient delete 'wc_attribute_taxonomies'
+
+# Clear Cron Jobs
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_page_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_page_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_page_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_page_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'woostify-favorite-template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'woostify-favorite-template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'woostify-favorite-template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'woostify-favorite-template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_menu_item'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_menu_item'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_menu_item'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_menu_item'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_parent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_parent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_parent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_parent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_user_slug'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_user_slug'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_user_slug'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_user_slug'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_has_attachment_refs'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_has_attachment_refs'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_has_attachment_refs'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_has_attachment_refs'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_user'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_user'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_user'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_user'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"

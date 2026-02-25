@@ -1,0 +1,38 @@
+{
+  "options": [
+    "timetics_onboard_settings",
+    "timetics_onboard_setup",
+    "timetics_settings",
+    "timetics_demo_data",
+    "*__banner_data",
+    "*__banner_last_check"
+  ],
+  "transients": [
+    "timetics_meeting_products_synced"
+  ],
+  "cron_jobs": [
+    "timetics_booking_remainder_*",
+    "timetics_booking_clear_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "timetics_woocommerce_notice_dismissed",
+    "*calendar_event",
+    "first_name",
+    "last_name",
+    "_tt_apointment_visibility",
+    "_regular_price",
+    "_price",
+    "_tt_wc_order_id",
+    "_tt_booking_id",
+    "timetics_google_auth",
+    "timetics_zoom_token",
+    "timetics_outlook_token",
+    "timetics_staff_onboard_skip",
+    "timetics_meeting_ids",
+    "timetics_google_refresh_token",
+    "timetics_google_auth_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:50.773Z"
+}

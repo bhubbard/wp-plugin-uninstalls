@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ct_custom_options_settings",
+    "__cozythemes_demo_importer_do_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cea_testimonial_position",
+    "cea_testimonial_company",
+    "cea_team_position",
+    "cea_team_company",
+    "cea_team_facebook",
+    "cea_team_twitter",
+    "cea_team_linkedin",
+    "cea_team_youtube",
+    "cea_team_github",
+    "cea_team_instagram"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:30.231Z"
+}

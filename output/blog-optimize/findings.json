@@ -1,0 +1,16 @@
+{
+  "options": [
+    "blog_optimize",
+    "site_name",
+    "blog_optimize_wp_head",
+    "blog_optimize_wp_footer",
+    "blog_optimize_smtp",
+    "blog_optimize_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:42.842Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "TCM_HookPriority"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tcmp_weekly_scheduled_events",
+    "tcmp_daily_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:05.324Z"
+}

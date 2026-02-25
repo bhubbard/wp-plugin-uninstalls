@@ -1,0 +1,25 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "base_url_name",
+    "selector",
+    "nth_item",
+    "file_type_filters",
+    "label_button_use_this",
+    "insert_method",
+    "inserting_html_element",
+    "insert_after_or_before",
+    "url_query_key_values",
+    "is_multiple",
+    "redirect_url_after_upload",
+    "reload_after_upload",
+    "enable_media_library"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:23.824Z"
+}

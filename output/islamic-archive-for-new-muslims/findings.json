@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*language",
+    "*source",
+    "*cronjobtime",
+    "*version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "opic_nm_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "orginal_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:26.277Z"
+}

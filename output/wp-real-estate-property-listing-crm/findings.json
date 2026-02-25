@@ -1,0 +1,37 @@
+{
+  "options": [
+    "api_keys_changed",
+    "plugin-settings",
+    "error-signup-*",
+    "log_crm_*",
+    "save-search",
+    "success-unsubscribe",
+    "fail-unsubscribe",
+    "md_flexmls_api_key",
+    "md_flexmls_api_secret",
+    "md_greatschool_api_key",
+    "broker_id",
+    "property_data_feed",
+    "md_old_plugin-settings",
+    "MWP_ACTIVATE"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lead-data",
+    "facebook-auth",
+    "save-property-*",
+    "xout-property-*",
+    "phone_num",
+    "page_breadcrumb",
+    "page_title",
+    "location_id",
+    "location_data",
+    "first_name",
+    "last_name",
+    "save-search-*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:16.038Z"
+}

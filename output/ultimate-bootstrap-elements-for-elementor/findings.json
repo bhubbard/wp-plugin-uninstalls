@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ube_integrated_api",
+    "*_tf_token",
+    "ube_default_color_previous"
+  ],
+  "transients": [
+    "*_tf_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:48.596Z"
+}

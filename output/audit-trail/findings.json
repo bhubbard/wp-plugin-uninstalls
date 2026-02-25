@@ -1,0 +1,19 @@
+{
+  "options": [
+    "audit_methods",
+    "audit_trail",
+    "audit_expiry",
+    "audit_post",
+    "audit_post_order",
+    "audit_version",
+    "audit_ignore",
+    "audit_support",
+    "audit_error_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:32.202Z"
+}

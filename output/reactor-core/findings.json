@@ -1,0 +1,24 @@
+{
+  "options": [
+    "json_api_plugin_version",
+    "site_admins"
+  ],
+  "transients": [
+    "json_testhelper_coverage",
+    "reactor_activate"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reactor_token",
+    "_app_image_category",
+    "_app_image",
+    "testkey",
+    "_testkey",
+    "testotherkey",
+    "testnewkey",
+    "_testnewkey"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:07.589Z"
+}

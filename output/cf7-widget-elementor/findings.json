@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*-at",
+    "*-never",
+    "dismissed-void-cf7-promotion-notice-ele-query-at",
+    "dismissed-void-cf7-promotion-notice-ele-query-never",
+    "void_cf7_elementor_activation_time",
+    "void_cf7_spare_me",
+    "void_cf7_with_elementor_ran_never",
+    "void_cf7_with_elementor_ran_time",
+    "void_cf7_with_elementor_ran",
+    "void_cf7_elep_2021_temporary",
+    "void_cf7_elep_2021_temporary_time",
+    "void_cf7_elep_2021_never",
+    "void_cf7_email_with_elementor_never",
+    "void_cf7_email_with_elementor",
+    "void_cf7_email_with_elementor_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:14.065Z"
+}

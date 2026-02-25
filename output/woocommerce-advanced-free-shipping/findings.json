@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_terms_page_id",
+    "woocommerce_myaccount_page_id",
+    "wafs_plugin_version",
+    "woocommerce_advanced_free_shipping_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wafs_shipping_method",
+    "_wafs_shipping_method_conditions",
+    "total_sales",
+    "_was_shipping_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:09.019Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wpup_file_download_method",
+    "wpup_members_per_page",
+    "wpup_version",
+    "wpup_frontend_page_id",
+    "wpup_supper_admin",
+    "wpup_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rows",
+    "_cols",
+    "_els",
+    "_header",
+    "_content_width",
+    "_content_width_unit",
+    "profile_picture_id",
+    "first_name",
+    "last_name",
+    "description",
+    "wpup_birthday",
+    "wpup_location",
+    "wpup_phone",
+    "wpup_ele",
+    "wpup_header"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:26.287Z"
+}

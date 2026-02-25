@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*-version",
+    "athemeart_activation_redirect",
+    "woocommerce_shop_page_id",
+    "widget_*",
+    "sidebars_widgets",
+    "elementor_container_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:54.591Z"
+}

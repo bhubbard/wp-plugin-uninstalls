@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lili_user_id",
+    "lili_auth_token",
+    "lili_challenge_id",
+    "lili_challenge",
+    "lili_auth_token_timestamp"
+  ],
+  "transients": [
+    "lili_user_details_*",
+    "lili_user_transactions_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:48.468Z"
+}

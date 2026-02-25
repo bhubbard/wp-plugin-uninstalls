@@ -1,0 +1,19 @@
+{
+  "options": [
+    "hm_wcdon_options",
+    "*_first_activate",
+    "hm_wcdon_rd_notice_hidden",
+    "hm_wcdon_first_activate",
+    "*_rd_notice_hidden"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_donation_amount_increment",
+    "_price",
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:58.955Z"
+}

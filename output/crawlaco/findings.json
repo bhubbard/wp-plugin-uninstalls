@@ -1,0 +1,27 @@
+{
+  "options": [
+    "crawlaco_size_attr_id",
+    "crawlaco_color_attr_id",
+    "crawlaco_brand_attr_id",
+    "crawlaco_wc_api_keys",
+    "crawlaco_setup_step",
+    "crawlaco_website_key",
+    "crawlaco_setup_complete",
+    "crawlaco_wp_api_key",
+    "crawlaco_plugin_activated",
+    "crawlaco_mapped_attributes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "provider_url",
+    "is_archived",
+    "_yoast_wpseo_focuskw",
+    "_custom_yoast_keywords",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:48.861Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ecrfryan_name",
+    "ecrfryan_fname",
+    "ecrfryan_info",
+    "ecrfryan_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "description",
+    "admin_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:04.959Z"
+}

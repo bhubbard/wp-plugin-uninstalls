@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "WP_PJAX_PREFETCH_URLS_TANSIENT",
+    "WP_PJAX_LAST_PREFETCH"
+  ],
+  "cron_jobs": [
+    "wp-pjax-pg-prefetch"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:30.608Z"
+}

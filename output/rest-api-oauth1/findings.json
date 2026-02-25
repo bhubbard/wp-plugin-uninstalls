@@ -1,0 +1,14 @@
+{
+  "options": [
+    "oauth1_request_*",
+    "oauth1_access_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nonces"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:54.688Z"
+}

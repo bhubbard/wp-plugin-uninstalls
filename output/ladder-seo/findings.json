@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ladderseop_schema_type"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ladderseo_generate_content"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ladderseo_hide_from_result",
+    "*-schema",
+    "ladderseo_content_generation_type",
+    "ladderseo_brief_description",
+    "*-canonical",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:32.710Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "stm_vin_method_name",
+    "stm_vin_method_name_history",
+    "stm_vin_decoder_*",
+    "stm_vehicle_listing_options",
+    "value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vin_number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:49.570Z"
+}

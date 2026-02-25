@@ -1,0 +1,15 @@
+{
+  "options": [
+    "affiamsh_cache_ver",
+    "affiamsh_plugin_settings",
+    "affiamsh_pro_display_options",
+    "affiamsh_is_pro",
+    "affiamsh_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:06.652Z"
+}

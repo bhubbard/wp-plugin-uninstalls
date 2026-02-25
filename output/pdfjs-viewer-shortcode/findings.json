@@ -1,0 +1,32 @@
+{
+  "options": [
+    "pdfjs_notice_key",
+    "pdfjs_notice_version",
+    "pdfjs_download_button",
+    "pdfjs_print_button",
+    "pdfjs_search_button",
+    "pdfjs_editing_buttons",
+    "pdfjs_fullscreen_link",
+    "pdfjs_fullscreen_link_text",
+    "pdfjs_fullscreen_link_target",
+    "pdfjs_embed_height",
+    "pdfjs_embed_width",
+    "pdfjs_viewer_scale",
+    "pdfjs_viewer_pagemode",
+    "pdfjs_custom_page"
+  ],
+  "transients": [
+    "pdfjs_button_download_*",
+    "pdfjs_button_print_*",
+    "pdfjs_button_openfile_*",
+    "pdfjs_button_zoom_*",
+    "pdfjs_button_pagemode_*",
+    "pdfjs_button_searchbutton_*",
+    "pdfjs_button_editingbuttons_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:48.242Z"
+}

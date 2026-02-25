@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*restrict",
+    "*exclude_options",
+    "*key_front",
+    "*key_back",
+    "*site_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:11.149Z"
+}

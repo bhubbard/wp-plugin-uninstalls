@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_custom_attachment",
+    "meta-text",
+    "meta-bg-color",
+    "meta-text-color",
+    "meta-checkbox-enablebar",
+    "meta-include-close",
+    "meta-include-btn",
+    "meta-button-text",
+    "meta-button-link",
+    "meta-btn-color",
+    "meta-btn-text-color",
+    "meta-include-btn-second",
+    "meta-button-text-second",
+    "meta-button-link-second",
+    "meta-btn-color-second",
+    "meta-btn-text-color-second",
+    "meta-radio"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:53.356Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cbxtakeatour_version"
+  ],
+  "transients": [
+    "cbxtakeatour_activated_notice",
+    "cbxtakeatour_upgraded_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cbxtourmeta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:01.432Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpda_countdown_extended_params",
+    "wpdevart_countdown_extended_popup_enable",
+    "wpdevart_countdown_extended_product_postiton",
+    "wpdevart_countdown_extended_shop_position",
+    "woocommerce_enable_timer_in_all_prod",
+    "wpdevart_countdown_woocommerce_all_timer",
+    "wpdevart_countdown_woocommerce_all_theme",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpda_countdown_extended_enable",
+    "wpda_countdown_extended_timer",
+    "wpda_countdown_extended_theme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:02.827Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "oper_version_num"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "opera_cron_hook__rule_reset",
+    "opera_cron_hook__rule_run",
+    "opera_cron_hook__reminders_send"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:02.571Z"
+}

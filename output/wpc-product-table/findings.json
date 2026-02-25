@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wpcpt_settings",
+    "wpcpt_*"
+  ],
+  "transients": [
+    "wpclever_plugins",
+    "wpcpq_get_product_meta_keys"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "type",
+    "categories",
+    "tags",
+    "terms",
+    "include",
+    "exclude",
+    "limit",
+    "orderby",
+    "order",
+    "style",
+    "layout",
+    "page_length",
+    "extra_classes",
+    "columns",
+    "localization"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:28.836Z"
+}

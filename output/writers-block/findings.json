@@ -1,0 +1,18 @@
+{
+  "options": [
+    "grepwords_cse_options",
+    "GCS_headline",
+    "GCS_alternativeheadline",
+    "GCS_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "GCS_headline",
+    "GCS_alternativeHeadline",
+    "GCS_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:04.014Z"
+}

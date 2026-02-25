@@ -1,0 +1,23 @@
+{
+  "options": [
+    "mh_HOYGAN",
+    "mh_censura",
+    "mh_SEO",
+    "mh_palabras_censuradas",
+    "mh_no_corregir_doble",
+    "mh_no_corregir_k",
+    "mh_no_corregir_s_t",
+    "mh_ultimo_comentario",
+    "mh_terminado",
+    "terminado",
+    "mensaje_ocultado"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aioseop_keywords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:32.990Z"
+}

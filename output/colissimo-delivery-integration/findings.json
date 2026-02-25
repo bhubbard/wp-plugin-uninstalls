@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cdi_tokentimerswitchnewcdi",
+    "cdi_o_transferoldsettings",
+    "wc_settings_tab_colissimo_cleanonsuppress",
+    "cdi_notice_display",
+    "cdi_options_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:51.221Z"
+}

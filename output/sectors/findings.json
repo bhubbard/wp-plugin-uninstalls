@@ -1,0 +1,17 @@
+{
+  "options": [
+    "qtranslate_enabled_languages"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpca/cache_condition_types"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_edit_last",
+    "_ca_handle",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:45.658Z"
+}

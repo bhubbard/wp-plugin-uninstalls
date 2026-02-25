@@ -1,0 +1,14 @@
+{
+  "options": [
+    "article_with_pictures_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "article_with_pictures_attach_id",
+    "article_with_pictures_attach_id_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:12.295Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "anycomment-generic",
+    "anycomment-social",
+    "anycomment_migration"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "anycomment_email_queue_send_cron",
+    "anycomment_service_sync_cron",
+    "anycomment_tools_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "anycomment_social_original_username",
+    "anycomment_social"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:22.572Z"
+}

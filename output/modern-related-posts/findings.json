@@ -1,0 +1,13 @@
+{
+  "options": [
+    "whp_modern_related_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mrp_related_posts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:39.784Z"
+}

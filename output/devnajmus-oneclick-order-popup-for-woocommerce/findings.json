@@ -1,0 +1,15 @@
+{
+  "options": [
+    "DOPW_button_text",
+    "DOPW_place_order_color",
+    "DOPW_total_color",
+    "DOPW_product_price_color",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:14.711Z"
+}

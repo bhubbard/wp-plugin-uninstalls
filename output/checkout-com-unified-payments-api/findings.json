@@ -1,0 +1,38 @@
+{
+  "options": [
+    "woocommerce_wc_checkout_com_cards_settings",
+    "woocommerce_wc_checkout_com_flow_settings",
+    "woocommerce_wc_checkout_com_alternative_payments_settings",
+    "woocommerce_wc_checkout_com_google_pay_settings",
+    "woocommerce_wc_checkout_com_apple_pay_settings",
+    "woocommerce_wc_checkout_com_paypal_settings",
+    "rewrite_rules",
+    "checkoutcom_blocks_notice_dismissed",
+    "woocommerce_checkout_pay_endpoint",
+    "cko_log_level",
+    "cko_log_max_size_mb",
+    "cko_log_max_files",
+    "cko_log_retention_days",
+    "cko_performance_logging",
+    "cko_async_logging",
+    "cko_log_buffer_size",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [
+    "cko_last_log_cleanup",
+    "cko_validation_email_*",
+    "cko_validation_address_*",
+    "cko_flow_incomplete_order_notice_*"
+  ],
+  "cron_jobs": [
+    "cko_log_cleanup",
+    "cko_cleanup_old_webhooks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_subscription_period",
+    "_subscription_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:54.596Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "pazzey_google_maps_api_key"
+  ],
+  "transients": [
+    "pazzey_import_errors_report",
+    "pazzey_import_data",
+    "pazzey_import_filename",
+    "pazzey_import_results"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pazzey_lat",
+    "pazzey_lng",
+    "pazzey_address",
+    "pazzey_city",
+    "pazzey_state",
+    "pazzey_country",
+    "pazzey_postal"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:58.370Z"
+}

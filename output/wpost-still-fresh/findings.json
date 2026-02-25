@@ -1,0 +1,17 @@
+{
+  "options": [
+    "chron0striggeuss_active",
+    "chron0striggeuss_posts_interval",
+    "chron0striggeuss_posts_backdate",
+    "chron0striggeuss_pages_interval",
+    "chron0striggeuss_pages_backdate",
+    "chron0striggeuss_stored_post_interval",
+    "chron0striggeuss_stored_page_interval"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:32.534Z"
+}

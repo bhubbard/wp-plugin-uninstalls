@@ -1,0 +1,15 @@
+{
+  "options": [
+    "insertabot_api_key_encrypted",
+    "insertabot_security_logs",
+    "insertabot_enabled",
+    "insertabot_api_base",
+    "insertabot_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:53.809Z"
+}

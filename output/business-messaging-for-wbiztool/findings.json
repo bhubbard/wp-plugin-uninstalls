@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wbiztool_messaging_settings",
+    "woocommerce_store_phone",
+    "wbiztool_messaging_version",
+    "wbiztool_messaging_network_settings",
+    "wbiztool_test_setting"
+  ],
+  "transients": [
+    "wbiztool_messaging_connection_test",
+    "wbiztool_messaging_api_status",
+    "wbiztool_messaging_cache"
+  ],
+  "cron_jobs": [
+    "wbiztool_messaging_send_delayed_message",
+    "wbiztool_messaging_cleanup_logs",
+    "wbiztool_messaging_send_queued_messages"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wbiztool_messaging_preferences",
+    "wbiztool_messaging_last_test"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:36.941Z"
+}

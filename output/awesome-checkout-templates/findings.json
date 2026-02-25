@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wacout_template_enable",
+    "wacout_select_template",
+    "wacout_one_page_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wacout_fields_req",
+    "_wacout_template_layout_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:26.638Z"
+}

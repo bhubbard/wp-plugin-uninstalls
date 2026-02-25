@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wpc_filter_settings",
+    "wpc_filter_permalinks",
+    "icl_sitepress_settings",
+    "widget_wpc_sorting_widget",
+    "wpc_seo_rules_settings",
+    "wpc_first_install",
+    "wpc_filter_experimental",
+    "active_sitewide_plugins",
+    "default_product_cat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpc_filter_set_post_type",
+    "wpc_filter_set_query_vars",
+    "_customize_changeset_uuid",
+    "order",
+    "pwb_brand_image",
+    "thumbnail_id",
+    "image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:41.533Z"
+}

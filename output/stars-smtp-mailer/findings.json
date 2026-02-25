@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_mail_type"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "starssmtpmailer_send_weekly_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:01.278Z"
+}

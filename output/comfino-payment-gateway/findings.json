@@ -1,0 +1,21 @@
+{
+  "options": [
+    "comfino_plugin_current_version"
+  ],
+  "transients": [
+    "comfino_plugin_updated",
+    "comfino_plugin_prev_version",
+    "comfino_plugin_updated_at",
+    "comfino_plugin_reset_results",
+    "comfino_error_log_cleared",
+    "comfino_debug_log_cleared",
+    "comfino_github_version_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "comfino_debug_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:14.175Z"
+}

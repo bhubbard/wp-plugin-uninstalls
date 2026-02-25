@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'abtestkit_onboarding_done'
+wp option delete 'abtestkit_do_activation_redirect'
+wp option delete 'abtestkit_fixed_version_b_titles'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_abtestkit_shadow_of'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_abtestkit_shadow_of'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_abtestkit_shadow_of'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_abtestkit_shadow_of'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_abtestkit_variants'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_abtestkit_variants'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_abtestkit_variants'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_abtestkit_variants'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_abtestkit_shadow'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_abtestkit_shadow'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_abtestkit_shadow'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_abtestkit_shadow'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_product_image_gallery'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_product_image_gallery'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_product_image_gallery'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_product_image_gallery'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_abtestkit_rev'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_abtestkit_rev'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_abtestkit_rev'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_abtestkit_rev'"

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "aisiteassistant_chat_enabled",
+    "aisiteassistant_last_db_time",
+    "aisiteassistant_update_frequency",
+    "aisiteassistant_last_url",
+    "aisiteassistant_task_id",
+    "aisiteassistant_task_status",
+    "aisiteassistant_api_key",
+    "aisiteassistant_secret_key",
+    "aisiteassistant_next_scheduled_time",
+    "aisiteassistant_chat_placeholder",
+    "aisiteassistant_chat_send_label",
+    "aisiteassistant_status",
+    "aisiteassistant_last_db"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "AISiteAssistant_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:17.609Z"
+}

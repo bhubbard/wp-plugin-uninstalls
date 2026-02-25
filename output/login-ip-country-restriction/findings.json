@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_db_ver",
+    "*_allow_countries",
+    "*_allow_ips",
+    "*_block_countries",
+    "*_block_ips",
+    "*_custom_redirects",
+    "*_bypass_roles",
+    "*_settings",
+    "*_integration",
+    "*_actions_notices"
+  ],
+  "transients": [
+    "rcil-debug",
+    "rcil-test-*",
+    "rcil-geo-method"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rcil-user-lockout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:37.231Z"
+}

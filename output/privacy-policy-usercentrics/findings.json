@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ppguc_addon_events",
+    "ppguc_usercentrics_page_option",
+    "ppguc_usercentrics_display_page",
+    "ppguc_usercentrics_policy_id",
+    "ppguc_usercentrics_onboarding_complete"
+  ],
+  "transients": [
+    "ppguc_admin_notice",
+    "ppguc_page_published_*",
+    "ppguc_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ppguc_usercentrics_page",
+    "_ppguc_preview_mode_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:15.308Z"
+}

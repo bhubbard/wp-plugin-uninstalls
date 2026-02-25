@@ -1,0 +1,31 @@
+{
+  "options": [
+    "cp_css_*",
+    "cp_js_*",
+    "cp_term_meta_*",
+    "cp_translation_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cp_template",
+    "first_name",
+    "last_name",
+    "meta_title*",
+    "meta_title",
+    "post_title*",
+    "post_title",
+    "meta_description*",
+    "meta_description",
+    "content*",
+    "_cp_thumbnails",
+    "language",
+    "_wp_log_*",
+    "_wp_attachment_image_alt",
+    "_menu_item_*",
+    "alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:07.994Z"
+}

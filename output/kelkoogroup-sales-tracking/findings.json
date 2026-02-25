@@ -1,0 +1,16 @@
+{
+  "options": [
+    "kelkoogroup_salestracking_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kelkoogroup_salestracking_*",
+    "kelkoogroup_salestracking_kelkooId",
+    "kelkoogroup_salestracking_kk_gclid",
+    "kelkoogroup_salestracking_kk_msclkid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:20.149Z"
+}

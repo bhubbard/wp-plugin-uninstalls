@@ -1,0 +1,23 @@
+{
+  "options": [
+    "invelity_product_feeds_setting_values",
+    "woocommerce_currency",
+    "wf_check_duplicate"
+  ],
+  "transients": [
+    "invelity-ikros-invoices-ad",
+    "invelity-plugins-description",
+    "invelity-plugins-ad"
+  ],
+  "cron_jobs": [
+    "invelity_product_feed_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "invelity_google_category",
+    "_wpmr_mpn",
+    "invelity_heureka_category"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:20.787Z"
+}

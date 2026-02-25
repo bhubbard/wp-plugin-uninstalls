@@ -1,0 +1,12 @@
+{
+  "options": [
+    "smntcs_admin_maintenance_enable",
+    "smntcs_admin_maintenance_uid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:50.520Z"
+}

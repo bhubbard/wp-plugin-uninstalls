@@ -1,0 +1,40 @@
+{
+  "options": [
+    "*table_version",
+    "*suppressions_table_version",
+    "*email_count",
+    "*rating_asked",
+    "*counters",
+    "*review_prompter_usage_count",
+    "*survey_status",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "*next_send_ready",
+    "*send_lock",
+    "mass_email_needs_table_creation",
+    "update_plugins",
+    "gops_error",
+    "gops_notice",
+    "fs_snooze_period",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "*delete_old_batches",
+    "*cron_sentinel",
+    "send_mass_email_notifications",
+    "*check_for_scheduled_emails",
+    "*/access/revoke",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:46.478Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "xmas_decoration_bar_type",
+    "xmas_decoration_body_date_range",
+    "xmas_decoration_body_padding_top"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:56.661Z"
+}

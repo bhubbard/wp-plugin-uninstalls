@@ -1,0 +1,15 @@
+{
+  "options": [
+    "card_header_color",
+    "faq_font_color",
+    "card_body_bgcolor",
+    "card_body_fontcolor",
+    "faq_section_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:53.419Z"
+}

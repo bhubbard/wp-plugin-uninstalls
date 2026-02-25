@@ -1,0 +1,31 @@
+{
+  "options": [
+    "dpcw_time_interval_default",
+    "dpcw_time_interval",
+    "dpcw_counter_content",
+    "dpcw_show_on_single_product",
+    "dpcw_sync_time",
+    "dpcw_change_type"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dpcw_update_product_price_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dpcw_first_time_run",
+    "dpcw_original_regular_price",
+    "dpcw_original_sale_price",
+    "dpcw_scheduled_date",
+    "enable_dpcw",
+    "dpcw_change_type",
+    "dpcw_last_price",
+    "dpcw_raise_drop_price",
+    "dpcw_raise_drop_expired",
+    "_sale_price",
+    "_price",
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:59.291Z"
+}

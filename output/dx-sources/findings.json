@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dx-sources-cpts",
+    "dx-sources-numbering"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dx_sources"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:38.334Z"
+}

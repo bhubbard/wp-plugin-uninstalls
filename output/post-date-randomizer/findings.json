@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pdr_date1",
+    "pdr_date2",
+    "pdr_randomize_posts",
+    "pdr_randomize_comments",
+    "pdr_post_type",
+    "pdr_set_modified_date"
+  ],
+  "transients": [
+    "pdr_randomize_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:22.412Z"
+}

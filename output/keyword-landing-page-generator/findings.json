@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpsos_klpg_custom_HTML",
+    "wpsos_klpg_keywords",
+    "wpsos_klpg_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:11.356Z"
+}

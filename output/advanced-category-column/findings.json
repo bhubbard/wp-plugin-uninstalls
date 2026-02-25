@@ -1,0 +1,14 @@
+{
+  "options": [
+    "acc_options",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:54.317Z"
+}

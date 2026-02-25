@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gomo_searchplus_options",
+    "gee_searchplus_options"
+  ],
+  "transients": [
+    "geesearch_dismissed_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:51.661Z"
+}

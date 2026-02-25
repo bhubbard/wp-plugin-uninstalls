@@ -1,0 +1,29 @@
+{
+  "options": [
+    "r_notice_data",
+    "*-transients",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "redux-framework-tracking",
+    "redux_version_upgraded_from",
+    "redux_support_hash",
+    "sl_settings"
+  ],
+  "transients": [
+    "*-transient",
+    "redux_tracking_cache",
+    "redux-extensions-fetch",
+    "_redux_activation_redirect",
+    "redux_contributors"
+  ],
+  "cron_jobs": [
+    "redux_tracking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ignore_hints",
+    "ignore_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:55.599Z"
+}

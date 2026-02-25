@@ -1,0 +1,36 @@
+{
+  "options": [
+    "absolute_addons_version",
+    "absolute_addons_settings",
+    "trix_theme_option",
+    "*_tracking_last_send",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "*_wc_am_migrated",
+    "*_data",
+    "*_product_id",
+    "*_instance",
+    "*_activated",
+    "theme_switched_via_customizer",
+    "*_signature",
+    "*_license_auth_key",
+    "*_license_auth_salt",
+    "*_updated_at",
+    "absp_mc_audience_list",
+    "*-options",
+    "woocommerce_hide_out_of_stock_items"
+  ],
+  "transients": [
+    "*_is_updating_license",
+    "*_cached_promos"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_absp_like_user_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:18.722Z"
+}

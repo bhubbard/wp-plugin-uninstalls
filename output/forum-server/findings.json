@@ -1,0 +1,18 @@
+{
+  "options": [
+    "vasthtml_options",
+    "wpf_mod_option_vers",
+    "wpf_widget",
+    "wpf_topic_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpf_useroptions",
+    "wpf_moderator",
+    "lastvisit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:30.340Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "publish_mu_setttings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "publish_mu_site_image_id",
+    "publish_mu_site_*",
+    "rank_math_canonical_url",
+    "_yoast_wpseo_canonical"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:41.936Z"
+}

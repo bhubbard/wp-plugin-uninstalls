@@ -1,0 +1,14 @@
+{
+  "options": [
+    "nandresmon_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nandresmon_daily_cleanup",
+    "nandresmon_send_report"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:49.614Z"
+}

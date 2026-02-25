@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fox_lms_quiz_integrations",
+    "fox_lms_db_version",
+    "extras_badges_trending_icon",
+    "foxlms_general_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "courseId",
+    "course_builder_data",
+    "course_sections",
+    "ld_course_*",
+    "_foxlms_lesson_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:56.308Z"
+}

@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('blockons_default_options', 'blockons_options', 'active_sitewide_plugins', 'blockons_plugin_version', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'fs_storage_logger', 'fs_active_plugins', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_attachment_image_alt', '_submission_status', '_form_data', '_form_id', '_form_subject', '_email_to', '_cc_to', '_bcc_to', '_submission_date', '_ip_address', '_page_url', 'wp_pattern_category');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_attachment_image_alt', '_submission_status', '_form_data', '_form_id', '_form_subject', '_email_to', '_cc_to', '_bcc_to', '_submission_date', '_ip_address', '_page_url', 'wp_pattern_category');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_attachment_image_alt', '_submission_status', '_form_data', '_form_id', '_form_subject', '_email_to', '_cc_to', '_bcc_to', '_submission_date', '_ip_address', '_page_url', 'wp_pattern_category');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_attachment_image_alt', '_submission_status', '_form_data', '_form_id', '_form_subject', '_email_to', '_cc_to', '_bcc_to', '_submission_date', '_ip_address', '_page_url', 'wp_pattern_category');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_dismissed';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_dismissed';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_dismissed';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_dismissed';
+

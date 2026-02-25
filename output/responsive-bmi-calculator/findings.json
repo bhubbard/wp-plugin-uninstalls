@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pageId_RBMIC",
+    "color_RBMIC",
+    "borde_RBMIC",
+    "texto_RBMIC",
+    "boton1_RBMIC",
+    "boton2_RBMIC",
+    "texto_boton__RBMIC",
+    "colorBorde_RBMIC",
+    "doctor_RBMIC"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:34.511Z"
+}

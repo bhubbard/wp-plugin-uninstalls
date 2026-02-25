@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dlwfq-archive-accordion",
+    "dlwfq-archive-title",
+    "dlwfq-total-posts-on-archive-page",
+    "dlwfq-archive-options-slug",
+    "dlwfq-plugin-v"
+  ],
+  "transients": [
+    "dlwfq_faqizer_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:59.795Z"
+}

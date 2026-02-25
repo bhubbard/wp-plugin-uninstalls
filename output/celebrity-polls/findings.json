@@ -1,0 +1,13 @@
+{
+  "options": [
+    "s22survey_widget_title",
+    "s22survey_dofollow",
+    "s22survey_disable_default_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:00.058Z"
+}

@@ -1,0 +1,63 @@
+{
+  "options": [
+    "tinvwl_activation_date",
+    "tinvwl_notifications_postponed",
+    "rewrite_rules",
+    "*_ver",
+    "*_wizard",
+    "*_db_ver",
+    "tinvwl-*",
+    "tinvwl_wizard",
+    "eh_pricing_discount_cart_catalog_mode",
+    "elex_catalog_remove_addtocart_product",
+    "eh_pricing_discount_price_catalog_mode_exclude_admin",
+    "woocommerce_enable_giftcard_info_requirements",
+    "woocommerce_giftcard_to",
+    "woocommerce_giftcard_toEmail",
+    "woocommerce_giftcard_address",
+    "wpa_field_name",
+    "pewc_hide_zero",
+    "_woosb_bundled_link",
+    "woocommerce_tax_display_shop",
+    "WpFastestCacheExclude",
+    "yith_wapo_settings_show_product_price_cart",
+    "yith_wapo_show_options_in_cart",
+    "woocommerce_cart_redirect_after_add",
+    "*-style_options"
+  ],
+  "transients": [
+    "*_dynamic_",
+    "tinvwl-admin-notice-delay",
+    "_tinvwl_activation_redirect",
+    "rocket_get_refreshed_fragments_cache_*",
+    "rocket_get_refreshed_fragments_cache"
+  ],
+  "cron_jobs": [
+    "tinvwl_disable_notifications_event",
+    "tinvwl_remove_without_author_wishlist",
+    "tinvwl_flush_rewrite_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tinvwl-user-review",
+    "tinvwl-user-premium",
+    "product_adjustment_hide_addtocart_catalog",
+    "product_adjustment_hide_addtocart_catalog_product",
+    "product_adjustment_exclude_admin_catalog",
+    "_giftcard",
+    "afwhp_rule_type",
+    "afwhp_hide_products",
+    "afwhp_hide_categories",
+    "afwhp_hide_user_role",
+    "afwhp_is_hide_addtocart",
+    "afwhp_custom_button_text",
+    "afwhp_custom_button_link",
+    "afwhp_contact7_form",
+    "afwhp_hide_for_countries",
+    "afwhp_apply_on_all_products",
+    "woosb_ids",
+    "_wishlist_analytics_processed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:31.574Z"
+}

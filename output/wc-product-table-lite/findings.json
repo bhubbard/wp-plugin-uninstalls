@@ -1,0 +1,39 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "woocommerce_tax_display_shop",
+    "wcpt_name_change_notice_dismissed",
+    "wcpt_settings",
+    "woocommerce_price_display_suffix",
+    "woocommerce_prices_include_tax",
+    "woocommerce_price_num_decimals",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_currency_pos",
+    "wcpt_preview_template",
+    "wcpt_preview_template_max_width",
+    "woocommerce_enable_review_rating",
+    "wcpt_theme_customizer",
+    "wcpt_settings_*"
+  ],
+  "transients": [
+    "wcpt_variations_*",
+    "wcpt_custom_fields"
+  ],
+  "cron_jobs": [
+    "wcpt_cleanup_sessions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wcpt_data",
+    "_global_unique_id",
+    "wcpt_preset_required",
+    "wcpt_preset_applied__message_required",
+    "wcpt_preset_applied__slug",
+    "wcpt_preview_template_shortcode",
+    "attribute_*",
+    "wcpt_data_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:32.182Z"
+}

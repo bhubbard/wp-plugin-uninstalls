@@ -1,0 +1,38 @@
+{
+  "options": [
+    "_qt_redirects_map",
+    "qtranslate_default_language",
+    "qtranslate_enabled_languages",
+    "qtranslate_url_mode",
+    "_qt_import_status",
+    "qtranslate_term_name",
+    "temp_qtranslate_terms",
+    "temp_hierarchy_terms",
+    "*_children",
+    "qtranslate_language_names",
+    "_qt_importer_clean_has_run",
+    "qtranslate_flag_location",
+    "qtranslate_flags",
+    "qtranslate_locales",
+    "qtranslate_na_messages",
+    "qtranslate_date_formats",
+    "qtranslate_time_formats",
+    "qtranslate_use_strftime",
+    "qtranslate_ignore_file_types",
+    "qtranslate_detect_browser_language",
+    "qtranslate_hide_untranslated",
+    "qtranslate_auto_update_mo",
+    "qtranslate_next_update_mo",
+    "qtranslate_hide_default_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_qt_imported",
+    "_qt_cleaned",
+    "_qt_links_fixed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:54.267Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "nvtrag_wp_schema_ver",
+    "nvtrag_setup_done",
+    "nvtrag_saas_settings"
+  ],
+  "transients": [
+    "nvtrag_wp_activation_redirect",
+    "nvtrag_pending_api_key_fill",
+    "nvtrag_whoami_cache",
+    "nvtrag_unread_sess_count"
+  ],
+  "cron_jobs": [
+    "nvtrag_cron_auto_crawl"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name",
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:07.808Z"
+}

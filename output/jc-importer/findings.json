@@ -1,0 +1,53 @@
+{
+  "options": [
+    "iwp_muplugin_version",
+    "iwp_settings",
+    "iwp_exporter_config_*",
+    "iwp_exporter_csv_config",
+    "iwp_exporter_json_config",
+    "iwp_exporter_xml_config",
+    "iwp_importer_config_*",
+    "iwp_db_version",
+    "jci_db_version",
+    "iwp_is_migrating",
+    "iwp_compat_blacklist"
+  ],
+  "transients": [
+    "jci_db_import_file_ids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_iwp_attachment_src",
+    "_ewp_file_*",
+    "_wp_attachment_image_alt",
+    "_iwp_zip",
+    "_importer_files",
+    "_importer_file_*",
+    "_iwp_session",
+    "_iwp_version",
+    "_iwp_trash_status",
+    "_iwp_trash_importer",
+    "_iwp_session_*",
+    "_thumbnail_id",
+    "_import_settings",
+    "_iwp_v2_importer",
+    "_mapped_fields",
+    "_attachments",
+    "_taxonomies",
+    "_parser_settings",
+    "field_permissions",
+    "_jci_cron_enabled",
+    "_jci_cron_minutes",
+    "_iwp_v1_importer",
+    "_iwp_cron_updated",
+    "_iwp_cron_status",
+    "_iwp_cron_version",
+    "_ewp_status",
+    "_iwp_cron_scheduled",
+    "_iwp_cron_last_ran",
+    "*_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:21.414Z"
+}

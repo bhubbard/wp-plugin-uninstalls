@@ -1,0 +1,14 @@
+{
+  "options": [
+    "A2C_woocommerce_bridge_connector_is_custom",
+    "ptfw_bridge_email",
+    "ptfw_bridge_phone",
+    "A2C_woocommerce_bridge_connector_is_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:12.403Z"
+}

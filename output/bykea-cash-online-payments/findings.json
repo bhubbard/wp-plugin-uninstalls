@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bcash_otp_sent",
+    "otp_verified",
+    "bykea_cash_ipn_registered"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "invoice_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:32.739Z"
+}

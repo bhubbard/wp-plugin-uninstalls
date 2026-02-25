@@ -1,0 +1,18 @@
+{
+  "options": [
+    "scroll_to_top_font_size",
+    "scroll_to_top_btn_color",
+    "scroll_to_top_icon_color",
+    "scroll_to_top_hvr_icon_color",
+    "scroll_to_top_hvr_color",
+    "scroll_to_top_speed",
+    "scroll_to_top_icon",
+    "scroll_to_top_value_exclude"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:17.849Z"
+}

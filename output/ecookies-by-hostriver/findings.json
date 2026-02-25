@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ecookies_hostriver_google_tag_manager_id",
+    "ecookies_hostriver_selected_layout",
+    "ecookies_hostriver_modalPosition",
+    "ecookies_hostriver_disable_page_interaction",
+    "ecookies_hostriver_flip_buttons",
+    "ecookies_hostriver_weight_buttons",
+    "ecookies_hostriver_theme_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:52.575Z"
+}

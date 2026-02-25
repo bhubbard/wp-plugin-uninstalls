@@ -1,0 +1,22 @@
+{
+  "options": [
+    "_subscription_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "user_subscription_daily_event",
+    "user_subscription_weekly_event",
+    "user_subscription_monthly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_subscriber_email",
+    "_subscriber_notification",
+    "_subscriber_categories",
+    "_subscriber_activation_key",
+    "_subscription_date",
+    "_updated_post_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:22.793Z"
+}

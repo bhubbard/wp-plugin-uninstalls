@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aichwp_settings",
+    "aichwp_create_initial_embeddings_running",
+    "aichwp_embeddings_progress",
+    "aichwp_post_embeddings_are_stale",
+    "aichwp_embeddings_progress_semaphore"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:18.676Z"
+}

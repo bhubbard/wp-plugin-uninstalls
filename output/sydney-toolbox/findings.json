@@ -1,0 +1,35 @@
+{
+  "options": [
+    "sydney-fontawesome-v5",
+    "sydney_ele_projects_rewrite_slug",
+    "sydney_ele_project_cats_rewrite_slug",
+    "st_flushed_permalinks",
+    "sydney_toolbox_enable_portfolio"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "wpcf-client-link",
+    "wpcf-position",
+    "wpcf-facebook",
+    "wpcf-twitter",
+    "wpcf-google-plus",
+    "wpcf-custom-link",
+    "wpcf-project-link",
+    "wpcf-service-icon",
+    "wpcf-service-link",
+    "wpcf-single-background-image",
+    "wpcf-single-background-color",
+    "wpcf-single-hide-title",
+    "wpcf-single-content-opacity",
+    "wpcf-client-function",
+    "wpcf-event-date",
+    "wpcf-event-icon",
+    "wpcf-event-icon-color",
+    "wpcf-event-url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:32.233Z"
+}

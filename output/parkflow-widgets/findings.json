@@ -1,0 +1,14 @@
+{
+  "options": [
+    "parkflow_color",
+    "parkflow_tenant",
+    "parkflow_parking",
+    "parkflow_locale"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:25.068Z"
+}

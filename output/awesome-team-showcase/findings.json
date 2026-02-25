@@ -1,0 +1,17 @@
+{
+  "options": [
+    "awts_mem_pro_page_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awts_member_role",
+    "awts_member_facebook",
+    "awts_member_twitter",
+    "awts_member_linkedin",
+    "awts_member_google"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:09.367Z"
+}

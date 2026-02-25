@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gc_general_settings",
+    "gc_event_attributes",
+    "gc_advanced_settings",
+    "gc_pro_features",
+    "my_timezone_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ecfg_activated_on"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:21.559Z"
+}

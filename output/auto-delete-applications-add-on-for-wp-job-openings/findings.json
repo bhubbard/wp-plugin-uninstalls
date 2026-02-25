@@ -1,0 +1,14 @@
+{
+  "options": [
+    "awsm_jobs_adl_general_settings",
+    "awsm_jobs_adl_register_default_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "awsm_jobs_adl_applications"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:43.709Z"
+}

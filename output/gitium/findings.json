@@ -1,0 +1,21 @@
+{
+  "options": [
+    "gitium_keypair",
+    "gitium_webhook_key"
+  ],
+  "transients": [
+    "gitium_versions",
+    "gitium_remote_tracking_branch",
+    "gitium_is_status_working",
+    "gitium_uncommited_changes",
+    "gitium_git_version",
+    "gitium_remote_disconnected",
+    "gitium_menu_bubble",
+    "message_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:32.949Z"
+}

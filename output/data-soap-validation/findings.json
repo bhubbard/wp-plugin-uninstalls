@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dsv_token",
+    "dsv_email_validation",
+    "dsv_telephone_validation",
+    "dsv_password",
+    "dsv_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:43.066Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "helpmate_version"
+  ],
+  "transients": [
+    "*_admin",
+    "helpmate_review_request_*"
+  ],
+  "cron_jobs": [
+    "helpmate_cleanup_completed_job",
+    "helpmate_process_bulk_documents_cron",
+    "helpmate_fallback_process",
+    "helpmate_refresh_segment_counts",
+    "helpmate_send_scheduled_campaign",
+    "helpmate_check_banner_expiration",
+    "helpmate_check_overdue_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "helpmate_crm_analytics_reports",
+    "helpmate_job_notices",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:50.566Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "evcal_options_evcal_1",
+    "evcal_styles",
+    "evcal_options_evcal_2",
+    "evcal_php",
+    "_eventon_create_pages",
+    "evo_dyn_css",
+    "evo_data_log",
+    "eventon_plugin_version",
+    "eventon_events_page_id",
+    "_evo_needs_update",
+    "evo_tax_meta",
+    "taxonomy_*",
+    "evoai_usage_totals"
+  ],
+  "transients": [
+    "_evo_activation_redirect",
+    "eventon_cache_excluded_uris",
+    "evoai_reset_cooldown"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_featured",
+    "evcal_repeat",
+    "evcal_rep_freq",
+    "_evo_lang",
+    "repeat_intervals",
+    "evcal_srow",
+    "evcal_erow",
+    "_*",
+    "evcal_event_color_n",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:27.476Z"
+}

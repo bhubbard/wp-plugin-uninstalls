@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ps_lock_bp",
+    "ps_exclude_levels",
+    "ps_exclude_roles",
+    "ps_restrict_member",
+    "ps_lock_bb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:30.692Z"
+}

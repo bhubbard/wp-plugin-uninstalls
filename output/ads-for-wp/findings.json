@@ -1,0 +1,51 @@
+{
+  "options": [
+    "adsforwp-database-on-first-load",
+    "adsforwp_do_activation_redirect",
+    "adsforwp_activation_date",
+    "adsforwp_settings",
+    "adsforwp-file-upload_url",
+    "advanced-ads-adsense",
+    "advads-ads-placements",
+    "redux_builder_amp",
+    "quick_adsense_settings",
+    "advads-ad-groups",
+    "adsforwp_ip_request_*",
+    "afw_add_blocked_ip",
+    "review_notice_bar_close_date",
+    "adsforwp_review_never",
+    "adsforwp_google_token",
+    "adsforwp_wisdom_block_notice",
+    "wp_rocket_settings"
+  ],
+  "transients": [
+    "adsforwp_admin_notice_transient",
+    "adsforwp_transient_amp_ids",
+    "transient_all_afw_ads_data",
+    "transient_all_groups_data",
+    "adsforwp_transient_ads_ids",
+    "adsforwp_groups_transient_ids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "adsense_pub_id",
+    "adsense_ad_slot_id",
+    "select_adtype",
+    "adsense_type",
+    "visitor_conditions_array",
+    "ad_background_image_detail",
+    "ad_background_redirect_url",
+    "ads-for-wp_amp_compatibilty",
+    "ads_for_wp_non_amp_visibility",
+    "adsforwp_ads",
+    "ads_on_every_paragraphs_number",
+    "adsforwp_ad_margin",
+    "adsforwp_ad_expire_days",
+    "data_group_array",
+    "adsforwp_v_condition_enable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:39.115Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "nsl_facebook",
+    "nextend_fb_connect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fb_profile_picture",
+    "fb_user_access_token",
+    "_wp_attachment_wp_user_avatar",
+    "*user_avatar",
+    "_stionic_jwt_accept"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:18.112Z"
+}

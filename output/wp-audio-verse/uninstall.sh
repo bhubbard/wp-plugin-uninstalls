@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'verse_settings_verse_translate'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'verse_settings_verse_translate'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'verse_settings_verse_translate'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'verse_settings_verse_translate'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'verse_settings_upload_mp3'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'verse_settings_upload_mp3'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'verse_settings_upload_mp3'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'verse_settings_upload_mp3'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'verse_advance_settings_rtl_main_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'verse_advance_settings_rtl_main_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'verse_advance_settings_rtl_main_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'verse_advance_settings_rtl_main_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'verse_advance_settings_rtl_translated_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'verse_advance_settings_rtl_translated_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'verse_advance_settings_rtl_translated_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'verse_advance_settings_rtl_translated_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'verse_advance_settings_play_autoplay'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'verse_advance_settings_play_autoplay'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'verse_advance_settings_play_autoplay'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'verse_advance_settings_play_autoplay'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'verse_advance_settings_player_below_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'verse_advance_settings_player_below_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'verse_advance_settings_player_below_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'verse_advance_settings_player_below_content'"

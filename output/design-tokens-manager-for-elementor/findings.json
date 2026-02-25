@@ -1,0 +1,19 @@
+{
+  "options": [
+    "elementor_scheme_color",
+    "elementor_scheme_typography",
+    "edtm_pending_kit_sync",
+    "elementor_active_kit"
+  ],
+  "transients": [
+    "edtm_sync_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_page_settings",
+    "edtm_last_active_section"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:09.054Z"
+}

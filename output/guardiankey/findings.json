@@ -1,0 +1,38 @@
+{
+  "options": [
+    "gk_resolvescreen",
+    "gk_loginexternal",
+    "gk_agentid",
+    "gk_key",
+    "gk_iv",
+    "gk_orgid",
+    "gk_authgroupid",
+    "gk_service",
+    "gk_dnsreverse",
+    "gk_notify_users",
+    "gk_apiurl",
+    "gk_verifyssl",
+    "gk_mailsubject",
+    "gk_mailhtml",
+    "gk_tinc",
+    "gktinc_api_key",
+    "gktinc_protectiongroup_hashid",
+    "gktinc_default_challenge_level",
+    "gktinc_level",
+    "gktinc_pre_check",
+    "gktinc_pre_enforce_block",
+    "gk_debug",
+    "dnsreverse"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gk_unlock",
+    "clear_blocked_ips_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "session_tokens"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:22.469Z"
+}

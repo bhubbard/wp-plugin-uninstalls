@@ -1,0 +1,21 @@
+{
+  "options": [
+    "osm_default_lat",
+    "osm_default_lon",
+    "osm_default_zoom",
+    "osm_custom_field",
+    "osm_zoom_level"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "OSM_geo_icon",
+    "*_Name",
+    "*_LatLon",
+    "*_Icon",
+    "*_Text"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:17.786Z"
+}

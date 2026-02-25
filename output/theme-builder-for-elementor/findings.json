@@ -1,0 +1,29 @@
+{
+  "options": [
+    "tbfe_settings_page",
+    "tbfe_settings_post",
+    "tbfe_settings_archive",
+    "tbfe_settings_404",
+    "elementor_cpt_support",
+    "tbfe_settings_*",
+    "tbfe_settings",
+    "tbfe_active_time",
+    "tbfe_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tbfe_elementor_header_*",
+    "tbfe_elementor_footer_*",
+    "tbfe_elementor_page",
+    "tbfe_elementor_post",
+    "tbfe_elementor_header_page",
+    "tbfe_elementor_footer_page",
+    "tbfe_elementor_header_post",
+    "tbfe_elementor_footer_post",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:55.065Z"
+}

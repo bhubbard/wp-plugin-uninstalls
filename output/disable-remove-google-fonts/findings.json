@@ -1,0 +1,18 @@
+{
+  "options": [
+    "drgf_do_activation_redirect",
+    "drgf_fonts_check_result",
+    "drgf_fonts_check_time",
+    "dismissed-drgf-welcome",
+    "dismissed-*",
+    "fusion_options"
+  ],
+  "transients": [
+    "drgf_captured_html"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:30.912Z"
+}

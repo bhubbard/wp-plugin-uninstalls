@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'watu_rated'
+wp option delete 'watu_show_answers'
+wp option delete 'watu_no_ajax'
+wp option delete 'watu_integrate_moolamojo'
+wp option delete 'watu_answer_type'
+wp option delete 'watuproshare_facebook_appid'
+wp option delete 'namaste_use_exams'
+wp option delete 'namaste_access_exam_started_lesson'
+wp option delete 'watuproshare_linkedin'
+wp option delete 'watuproshare_twitter'
+wp option delete 'watu_csv_delim'
+wp option delete 'watu_csv_quotes'
+wp option delete 'watu_admin_email'
+wp option delete 'watu_locale_url'
+wp option delete 'watu_datepicker_css'
+wp option delete 'watu_text_captcha'
+wp option delete 'watu_demo_quiz_created'
+wp option delete 'watu_delete_db'
+wp option delete 'watu_delete_db_confirm'
+wp option delete 'watu_use_the_content'
+wp option delete 'watu_debug_mode'
+wp option delete 'watu_quiz_word'
+wp option delete 'watu_quiz_word_plural'
+wp option delete 'watu_dont_autoscroll'
+wp option delete 'watu_single_page'
+wp option delete 'watu_db_tables'
+wp option delete 'watu_version'
+wp option delete 'watu_admin_notice'
+

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "shop_ux_toolkit_options",
+    "woocommerce_shop_page_display"
+  ],
+  "transients": [
+    "shop_ux_toolkit_review_products"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "category_order",
+    "rating",
+    "verified"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:28.190Z"
+}

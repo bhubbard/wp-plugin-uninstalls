@@ -1,0 +1,55 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "lpagery_queue_create_post_secret",
+    "lpagery_database_version",
+    "lpagery_google_sheet_sync_interval",
+    "colibri_page_builder_regenerate_tries_count",
+    "lpagery_sheet_sync_ram_usage"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "suite_oauth_code_*"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "lpagery_backfill_attachment_basename",
+    "lpagery_sync_google_sheet",
+    "lpagery_queue_worker_cron_event",
+    "lpagery_trigger_cron_started_syncs",
+    "lpagery_start_sync_for_process"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_lpagery_plan",
+    "_lpagery_replace_filename",
+    "_lpagery_update_metadata",
+    "_wp_attached_file",
+    "_lpagery_process_post_id",
+    "_wp_attachment_image_alt",
+    "fifu_image_alt",
+    "_lpagery_page_source",
+    "_lpagery_process",
+    "_elementor_css",
+    "brizy",
+    "vcv-pageContent",
+    "_breakdance_data",
+    "_breakdance_css_file_paths_cache",
+    "_breakdance_dependency_cache",
+    "mfn-builder-preview",
+    "mfn-page-items",
+    "mfn-page-object",
+    "_bricks_page_settings",
+    "_bricks_page_content_2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:17.526Z"
+}

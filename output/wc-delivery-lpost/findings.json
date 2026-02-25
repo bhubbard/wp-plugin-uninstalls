@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lpost_wc_api_test",
+    "lpost_wc_logging",
+    "lpost_wc_api_secret",
+    "lpost_wc_api_token",
+    "lpost_wc_api_token_date",
+    "lpost_wc_api_hash"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lp_shipment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:39.025Z"
+}

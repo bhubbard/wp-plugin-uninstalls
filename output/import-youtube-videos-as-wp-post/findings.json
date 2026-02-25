@@ -1,0 +1,24 @@
+{
+  "options": [
+    "yt_to_posts_query",
+    "yt_to_posts_query_type",
+    "yt_to_posts_number",
+    "yt_to_posts_cat",
+    "yt_to_posts_use_video_date",
+    "yt_to_posts_post_type",
+    "yt_to_posts_post_status",
+    "yt_to_posts_author",
+    "yt_to_posts_ck",
+    "yt_to_posts_title_format",
+    "yt_to_posts_content_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "media_url",
+    "yt_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:49.334Z"
+}

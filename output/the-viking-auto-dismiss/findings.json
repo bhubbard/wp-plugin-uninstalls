@@ -1,0 +1,20 @@
+{
+  "options": [
+    "viking_auto_dismiss_site_id",
+    "viking_auto_dismiss_enabled",
+    "viking_auto_dismiss_review_dismissed",
+    "viking_auto_dismiss_review_submitted",
+    "viking_auto_dismiss_review_next_show",
+    "viking_auto_dismiss_review_maybe_later_count",
+    "viking_auto_dismiss_disable_welcome",
+    "viking_auto_dismiss_review_last_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "viking_auto_dismiss_heartbeat"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:05.818Z"
+}

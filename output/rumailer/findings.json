@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rumailer_setting_api",
+    "rumailer_setting_name",
+    "rumailer_setting_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:35.831Z"
+}

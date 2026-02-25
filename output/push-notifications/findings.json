@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pushwoosh_application_code",
+    "pushwoosh_chrome_default_icon",
+    "pushwoosh_api_token",
+    "pushwoosh_safari_action",
+    "pushwoosh_safari_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pushwoosh_message_content",
+    "safari_title",
+    "pushwoosh_filter",
+    "pushwoosh_api_request",
+    "pushwoosh_send_push"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:39.664Z"
+}

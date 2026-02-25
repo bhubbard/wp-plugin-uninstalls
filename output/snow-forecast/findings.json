@@ -1,0 +1,16 @@
+{
+  "options": [
+    "snow-forecast_country",
+    "snow-forecast_resort",
+    "snow-forecast_resort_encoded",
+    "snow-forecast_units",
+    "snow-forecast_size",
+    "snow-forecast_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:17.842Z"
+}

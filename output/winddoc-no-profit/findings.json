@@ -1,0 +1,22 @@
+{
+  "options": [
+    "WDNP_WINDDOC_TOKEN",
+    "WDNP_WINDDOC_NUM_LIST",
+    "WDNP_WINDDOC_TIPO",
+    "WDNP_WINDDOC_SHOW_NOME",
+    "WDNP_WINDDOC_SHOW_COGNOME",
+    "WDNP_WINDDOC_SHOW_CODICEFISCALE",
+    "WDNP_WINDDOC_SHOW_NUMEROTESSERA",
+    "WDNP_WINDDOC_CARIA",
+    "WDNP_WINDDOC_SHOW_DATA_NASCITA",
+    "WDNP_WINDDOC_SHOW_TELEFONO",
+    "winddocnoprofit_db_version",
+    "WD_WINDDOC_TOKEN"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:35.978Z"
+}

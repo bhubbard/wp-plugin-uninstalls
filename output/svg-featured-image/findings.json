@@ -1,0 +1,17 @@
+{
+  "options": [
+    "SFI_NIRUS_PNG_SITE_LOGO_PATH",
+    "SFI_NIRUS_PNG_FOLDER_PATH",
+    "SFI_NIRUS_TWT_OPTION",
+    "SFI_NIRUS_FB_OPTION"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sfi-nirus-featured-png",
+    "sfi-nirus-image-hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:39.154Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tax_meta_*",
+    "iproperty_db_version",
+    "property-amenity_children"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iproperty_agent_id",
+    "property_post_id",
+    "start_time",
+    "end_time",
+    "iproperty_feature_agent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:44.659Z"
+}

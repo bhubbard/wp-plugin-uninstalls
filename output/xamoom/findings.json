@@ -1,0 +1,14 @@
+{
+  "options": [
+    "xamoom_api_key",
+    "xamoom_custom_css"
+  ],
+  "transients": [
+    "xamoom-plugin-activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:54.064Z"
+}

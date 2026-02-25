@@ -1,0 +1,23 @@
+{
+  "options": [
+    "apaczka_woocommerce_SC_CACHE",
+    "apaczka_woocommerce_SC_CACHE_TIMESTAMP",
+    "apaczka_pl_api_returned_error",
+    "woocommerce_custom_orders_table_enabled",
+    "apaczka_countries_cache",
+    "apaczka_woocommerce_settings_general_apaczka_map_debug_mode",
+    "woocommerce_default_country",
+    "apaczka_woocommerce_settings_general_dispath_point_inpost",
+    "apaczka_woocommerce_settings_general_dispath_point_kurier48",
+    "apaczka_woocommerce_settings_general_dispath_point_ups",
+    "apaczka_woocommerce_settings_general_dispath_point_dpd"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_apaczka_last_order_object"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:01.810Z"
+}

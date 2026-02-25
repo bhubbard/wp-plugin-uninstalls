@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [
+    "_tour_operators_specials_flush_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "destination_to_special",
+    "price",
+    "booking_validity_start",
+    "booking_validity_end",
+    "price_type",
+    "tour_to_special",
+    "accommodation_to_special",
+    "travel_dates_start",
+    "travel_dates_end",
+    "travel_dates"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:27.982Z"
+}

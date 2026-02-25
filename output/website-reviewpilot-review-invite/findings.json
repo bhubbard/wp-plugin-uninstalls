@@ -1,0 +1,22 @@
+{
+  "options": [
+    "website_reviewpilot_license_key",
+    "website_reviewpilot_sender_email",
+    "active_sitewide_plugins",
+    "website_reviewpilot_status",
+    "website_reviewpilot_use_style",
+    "reviewpilot_fields_submitted"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woo_reviewpilot_uploaded_file_name_*",
+    "_woo_reviewpilot_uploaded_file_path_*",
+    "_woo_reviewpilot_uploaded_product_name_*",
+    "_woo_reviewpilot_enable",
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:15.082Z"
+}

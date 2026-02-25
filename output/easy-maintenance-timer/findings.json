@@ -1,0 +1,14 @@
+{
+  "options": [
+    "emmwt_countdown_date",
+    "emmwt_maint_message",
+    "emmwt_logo_url",
+    "emmwt_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:03.770Z"
+}

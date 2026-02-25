@@ -1,0 +1,15 @@
+{
+  "options": [
+    "juridicos_form_mapping_*",
+    "juridicos_status_default",
+    "juridicos_last_submission_*",
+    "juridicos_form",
+    "juridicos_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:00.808Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "ss_shipping_method_settings",
+    "*apikey_shipsmart",
+    "ss_shipping_contracts",
+    "ss_apikey_shipsmart",
+    "*_measure",
+    "ss_api_verification",
+    "ss_show_api_verification",
+    "ss_checkout_freight_*",
+    "ss_checkout_taxable_*",
+    "ss_checkout_insurance_*",
+    "ss_checkout_freight_cost_*",
+    "ss_checkout_taxable_cost_*",
+    "ss_checkout_insurance_cost_*",
+    "woocommerce_default_country",
+    "woocommerce_currency",
+    "woocommerce_store_postcode",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2"
+  ],
+  "transients": [
+    "ssfw_admin_activation",
+    "ssfw_admin_desactivation",
+    "ss_quotation_*",
+    "ss_cart_*"
+  ],
+  "cron_jobs": [
+    "update_status_orders_cron",
+    "get_documents_orders_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ss_hs_code_product",
+    "ss_cost_base_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:21.032Z"
+}

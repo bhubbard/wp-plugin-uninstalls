@@ -1,0 +1,45 @@
+{
+  "options": [
+    "mksddn_fh_google_sheets_refresh_token",
+    "mksddn_fh_google_sheets_client_id",
+    "mksddn_fh_google_sheets_client_secret"
+  ],
+  "transients": [
+    "mksddn_fh_fields_config_json_error_*",
+    "mksddn_fh_fields_config_json_value_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_recipients",
+    "_send_to_email",
+    "_send_to_telegram",
+    "_send_to_sheets",
+    "_save_to_admin",
+    "_form_id",
+    "_submission_data",
+    "_delivery_results",
+    "_form_title",
+    "_fields_config",
+    "_allow_any_fields",
+    "_submission_date",
+    "_submission_ip",
+    "_submission_user_agent",
+    "_submission_page_url",
+    "_bcc_recipient",
+    "_subject",
+    "_telegram_bot_token",
+    "_telegram_chat_ids",
+    "_use_custom_telegram_template",
+    "_telegram_template",
+    "_sheets_spreadsheet_id",
+    "_sheets_sheet_name",
+    "_submit_button_text",
+    "_custom_html_after_button",
+    "_success_message_text",
+    "_redirect_url",
+    "_form_custom_classes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:36.077Z"
+}

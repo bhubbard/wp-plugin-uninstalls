@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*-notices",
+    "enable_media_replace",
+    "emr_news",
+    "emr_url_cache"
+  ],
+  "transients": [
+    "emr_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_emr_replace_author",
+    "_wp_attached_file",
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:15.712Z"
+}

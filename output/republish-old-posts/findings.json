@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rop_last_update",
+    "rop_interval",
+    "rop_interval_slop",
+    "rop_age_limit",
+    "rop_omit_cats",
+    "rop_show_original_pubdate",
+    "rop_pos",
+    "rop_at_top"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rop_original_pub_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:29.711Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "seotm_do_activation_redirect",
+    "*_options",
+    "seotm_options",
+    "_plugin_messages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ogTitle",
+    "twitterTitle",
+    "thumbnail_id",
+    "seoTitle",
+    "jsonScript",
+    "_exclude_from_sitemap",
+    "_exclude_taxonomy_from_sitemap"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:25.558Z"
+}

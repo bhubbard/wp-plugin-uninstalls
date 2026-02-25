@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*advanced_delete_cloud_file",
+    "*option_scheme",
+    "*option_keep_copy",
+    "*option_is_active",
+    "*option_addon",
+    "*post_types",
+    "*file_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ucm_storage_metadata",
+    "_ucm_storage_adapter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:12.540Z"
+}

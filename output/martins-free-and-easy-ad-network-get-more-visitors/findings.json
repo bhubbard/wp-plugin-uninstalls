@@ -1,0 +1,14 @@
+{
+  "options": [
+    "maadne_martinsadnetwork_theme",
+    "maadne_martinsadnetwork_position",
+    "maadne_martinsadnetwork_offset",
+    "maadne_martinsadnetwork_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:10.399Z"
+}

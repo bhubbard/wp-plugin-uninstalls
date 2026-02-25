@@ -1,0 +1,20 @@
+{
+  "options": [
+    "twitch_status_client_id",
+    "twitch_status_client_secret",
+    "twitch_status_channels",
+    "twitch_status_channel",
+    "twitch_status_selector",
+    "twitch_status_token",
+    "twitch_status_token_type",
+    "twitch_status_token_expiration"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "twitch_status_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:34.123Z"
+}

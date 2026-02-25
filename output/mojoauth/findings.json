@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mojoauth_option",
+    "woocommerce_enable_checkout_login_reminder",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mj_user_identifier"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:16.893Z"
+}

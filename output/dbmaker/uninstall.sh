@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'save_post_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'save_post_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'save_post_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'save_post_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'format'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'format'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'format'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'format'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'char_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'char_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'char_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'char_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ignore_firstline'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ignore_firstline'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ignore_firstline'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ignore_firstline'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'public_post_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'public_post_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'public_post_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'public_post_type'"

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "msum_default_user_role"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "msum_has_caps"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:46.662Z"
+}

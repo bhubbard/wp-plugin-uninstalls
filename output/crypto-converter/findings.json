@@ -1,0 +1,17 @@
+{
+  "options": [
+    "crypto_converter_coins",
+    "crypto_converter_fiat",
+    "crypto_converter_all",
+    "crypto_converter_footer",
+    "crypto_converter_text_color",
+    "crypto_converter_change_color",
+    "crypto_converter_box_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:51.641Z"
+}

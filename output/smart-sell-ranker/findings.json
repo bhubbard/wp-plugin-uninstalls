@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "SmartSellRanker_cron_start",
+    "SmartSellRanker_setting_saved",
+    "ss_ranker_general_tab_settings",
+    "SmartSellRanker_installed",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "smart_sell_ranker_cron_job"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ss_ranker_sales_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:07.857Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_version",
+    "*_options",
+    "*_authkey",
+    "linkedin_company_posts_data",
+    "linkedin_company_last_refreshed_time",
+    "linkedin_company_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "refresh_linkedin_company_access_token"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:01.718Z"
+}

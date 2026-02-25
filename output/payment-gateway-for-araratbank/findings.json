@@ -1,0 +1,24 @@
+{
+  "options": [
+    "language_payment_araratbank",
+    "rewrite_rules",
+    "hkd_araratbank_version_option",
+    "hkd_araratbank_checkout_id",
+    "hkdump",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cronCheckOrderArarat"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "FailedMessageArarat",
+    "PaymentID",
+    "isBindingOrder",
+    "bindingInfo_araratbank",
+    "recurringChargeARARAT*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:46.516Z"
+}

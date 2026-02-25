@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tfaf_custom_menu_settings",
+    "tfaf_custom_menu",
+    "tfaf_image_upload",
+    "tfaf_plugin_settings",
+    "tfaf_custom_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:20.083Z"
+}

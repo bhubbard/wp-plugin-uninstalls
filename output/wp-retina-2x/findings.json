@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "wr2x_*",
+    "elementor_css_print_method",
+    "*_license",
+    "force_sslverify",
+    "*_pro_serial",
+    "meowapps_hide_meowapps",
+    "litespeed.conf.cache-rest",
+    "mwai_options",
+    "meowapps_news",
+    "*_rating_date"
+  ],
+  "transients": [
+    "wr2x_flush_rules",
+    "wr2x_issues",
+    "wr2x_ignores",
+    "wr2x_optimize_issues"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wr2x_optimize",
+    "_media_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:11.844Z"
+}

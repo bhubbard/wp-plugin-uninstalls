@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "crispgallery_shortcode",
+    "crispgallery_cols",
+    "crispgallery_display",
+    "crispgallery_border",
+    "crispgallery_border_color",
+    "crispgallery_caption_font",
+    "crispgallery_caption_font_size",
+    "crispgallery_caption_font_weight",
+    "crispgallery_caption_font_style",
+    "crispgallery_caption_font_color",
+    "vdw_gallery_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:15.978Z"
+}

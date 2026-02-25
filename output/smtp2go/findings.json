@@ -1,0 +1,17 @@
+{
+  "options": [
+    "smtp2go_api_key",
+    "smtp2go_enabled",
+    "smtp2go_enable_api_logs",
+    "smtp2go_from_address",
+    "smtp2go_force_from_address",
+    "smtp2go_from_name",
+    "smtp2go_custom_headers"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:19.846Z"
+}

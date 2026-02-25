@@ -1,0 +1,12 @@
+{
+  "options": [
+    "mcc_gather_app_url",
+    "mcc_gather_default_user"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:32.755Z"
+}

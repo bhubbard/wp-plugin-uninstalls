@@ -1,0 +1,23 @@
+{
+  "options": [
+    "check_if_xml_invoices_active",
+    "xml_invoices_validator_key",
+    "xml_invoices_ubl_emails",
+    "xml_invoices_supplier_street",
+    "xml_invoices_supplier_city",
+    "xml_invoices_supplier_postal",
+    "xml_invoices_supplier_country",
+    "xml_invoices_supplier_vat",
+    "xml_invoices_currency_code",
+    "xml_invoices_tax_scheme_id",
+    "xml_invoices_on_order_emails",
+    "xml_invoices_repo_version",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:02.526Z"
+}

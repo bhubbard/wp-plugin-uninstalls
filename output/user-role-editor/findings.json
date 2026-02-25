@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "ure_users_without_role",
+    "ure_caps_columns_quant",
+    "ure_caps_readable",
+    "ure_show_deprecated_caps"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:28:05.864Z"
+}

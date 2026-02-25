@@ -1,0 +1,22 @@
+{
+  "options": [
+    "salespopup_mobile_support",
+    "salespopup_start_time",
+    "salespopup_showing_time",
+    "salespopup_gap_time",
+    "salespopup_admin_support",
+    "salespopup_frequent_count",
+    "salespopup_change_user_name",
+    "salespopup_freeze_notification",
+    "salespopup_front_end_support",
+    "salespopup_csv_data",
+    "salespopup_notification_bg_color",
+    "salespopup_upload_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:00.242Z"
+}

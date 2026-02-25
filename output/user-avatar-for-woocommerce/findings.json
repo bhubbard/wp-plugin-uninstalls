@@ -1,0 +1,14 @@
+{
+  "options": [
+    "general_user_avatars_caps",
+    "avatar_woocommerce_impostazioni"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "general_user_avatar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:46.629Z"
+}

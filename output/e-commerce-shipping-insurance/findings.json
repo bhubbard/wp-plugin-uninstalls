@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_shipping_insurance_default_state",
+    "woocommerce_shipping_insurance_label_text",
+    "woocommerce_shipping_insurance_price"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:08.653Z"
+}

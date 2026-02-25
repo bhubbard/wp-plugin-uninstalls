@@ -1,0 +1,34 @@
+{
+  "options": [
+    "hmls_plugin_settings_have_changed",
+    "hmls_grid_temp_settings",
+    "hmls_grid_content_settings",
+    "hmls_grid_style_settings",
+    "hmls_slide_content_settings",
+    "hmls_slide_styles_settings",
+    "hmls_slide_template_settings",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "hmls_logo_url",
+    "hmls_status",
+    "hmls_img_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:24.008Z"
+}

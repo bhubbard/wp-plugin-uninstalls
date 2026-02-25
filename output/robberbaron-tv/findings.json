@@ -1,0 +1,13 @@
+{
+  "options": [
+    "robber_baron_tv_connected",
+    "robber_baron_tv_email_address",
+    "robber_baron_tv_user_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:32.169Z"
+}

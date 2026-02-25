@@ -1,0 +1,24 @@
+{
+  "options": [
+    "dyllto_version",
+    "dyllto_options",
+    "dyllto_ai_options"
+  ],
+  "transients": [
+    "dyllto_settings_applied",
+    "dy_llms_app_context",
+    "dy_llms_context_hash",
+    "dyllto_ai_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_description",
+    "_yoast_wpseo_metadesc",
+    "_dyllto_exclude",
+    "rank_math_robots",
+    "_yoast_wpseo_meta-robots-noindex"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:06.212Z"
+}

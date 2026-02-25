@@ -1,0 +1,24 @@
+{
+  "options": [
+    "acw_timeout_probe_last",
+    "ai_content_wizard_wizard_completed",
+    "ai_content_wizard_completed_steps",
+    "ai_content_wizard_plugin_version",
+    "ai_content_wizard_redirect_on_activation",
+    "active_sitewide_plugins",
+    "ai_content_wizard_content_plan_notice_dismissed"
+  ],
+  "transients": [
+    "ai_content_wizard_image_model_changed",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "ai_content_wizard_generate_post_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:34.073Z"
+}

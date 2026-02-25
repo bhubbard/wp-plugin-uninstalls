@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "wpl_goal_amount",
+    "wpl_candidate_position"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:16.251Z"
+}

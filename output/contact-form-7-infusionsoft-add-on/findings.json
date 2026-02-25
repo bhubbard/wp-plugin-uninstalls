@@ -1,0 +1,14 @@
+{
+  "options": [
+    "infusionsoft_app_name",
+    "infusionsoft_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7_infusionsoft_addon_tag_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:17.331Z"
+}

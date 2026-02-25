@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "fatture-help-wc_cron",
+    "fatturehelp-wc_migration_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fatturehelp-wc-wantInvoice",
+    "_fatturehelp-wc-isCompany",
+    "_fatturehelp-wc-taxcode",
+    "_fatturehelp-wc-VATnumber",
+    "_fatturehelp-wc-CodiceDestinatario",
+    "_fatturehelp-wc-PECDestinatario",
+    "_fatturehelp-wc-haveSdI",
+    "_fatturehelp-wc-wantXML",
+    "_fatturehelp-wc-*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:07.988Z"
+}

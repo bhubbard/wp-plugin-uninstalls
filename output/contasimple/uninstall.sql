@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('contasimple_settings_account', 'woocommerce_integration-contasimple_settings', 'woocommerce_prices_include_tax', 'woocommerce_tax_round_at_subtotal', 'woocommerce_version', 'woocommerce_email_base_color', 'woocommerce_email_footer_text', 'country_API_results');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('cs_currency', 'order_currency', 'externalID', 'state', 'date_sync', 'number', 'companyID', 'attempts', 'order_id', 'refund_id', 'args', 'amount', 'mail_status', 'mask', 'api_message', 'NIF');
+DELETE FROM wp_usermeta WHERE meta_key IN ('cs_currency', 'order_currency', 'externalID', 'state', 'date_sync', 'number', 'companyID', 'attempts', 'order_id', 'refund_id', 'args', 'amount', 'mail_status', 'mask', 'api_message', 'NIF');
+DELETE FROM wp_termmeta WHERE meta_key IN ('cs_currency', 'order_currency', 'externalID', 'state', 'date_sync', 'number', 'companyID', 'attempts', 'order_id', 'refund_id', 'args', 'amount', 'mail_status', 'mask', 'api_message', 'NIF');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('cs_currency', 'order_currency', 'externalID', 'state', 'date_sync', 'number', 'companyID', 'attempts', 'order_id', 'refund_id', 'args', 'amount', 'mail_status', 'mask', 'api_message', 'NIF');
+

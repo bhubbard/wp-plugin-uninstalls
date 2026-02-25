@@ -1,0 +1,33 @@
+{
+  "options": [
+    "pfmswp-options",
+    "pfmswp-options-filesystem",
+    "installed",
+    "*installed",
+    "pfmswp-options-access_control",
+    "pfmswp-options-system_security",
+    "pfmswp-options-monitoring",
+    "*installed_plugins",
+    "*installed_themes",
+    "*audit_passwords",
+    "*activated_rename_login",
+    "*audit_files",
+    "*installed_htaccess",
+    "*installed_htaccess_file",
+    "*installed_robot_txt",
+    "*installed_robots_txt_file",
+    "*last_version_downloaded_targz"
+  ],
+  "transients": [
+    "update_core",
+    "pfms_wp::bruteforce_attempts-*",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "cron_clean_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:01.606Z"
+}

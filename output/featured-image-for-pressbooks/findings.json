@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pressbooks_theme_options_web",
+    "fifp_disable_for_mobile",
+    "_ext_source_id",
+    "fifp_import_fi_to_clones_button_callback"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_wp_attachment_image_alt",
+    "_thumbnail_ext_source_id",
+    "pb_is_based_on"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:16.801Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ommo_menu_id",
+    "ommo_menu_type",
+    "ommo_menu_layout",
+    "ommo_css_source",
+    "ommo_generated_menus",
+    "ommo_cache_version",
+    "ommo_custom_css",
+    "ommo_submenu_filename",
+    "ommo_top_menu_filename"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ommo_regenerate_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_megamenu"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:45.828Z"
+}

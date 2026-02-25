@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rtprov_token",
+    "rtprov_username",
+    "rtprov_wp_userid",
+    "rtprov_last_activity",
+    "rtprov_flash_messages",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:18.175Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "vieww_version",
+    "vieww_design_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "event_date",
+    "event_time",
+    "event_description",
+    "recurring_days",
+    "recurring_start",
+    "recurring_end"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:24.666Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tabnav_widget_enabled",
+    "tabnav_widget_language",
+    "tabnav_widget_color",
+    "tabnav_button_color",
+    "tabnav_button_size",
+    "tabnav_widget_size",
+    "tabnav_widget_location",
+    "tabnav_widget_color_enabled",
+    "tabnav_button_color_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:43.918Z"
+}

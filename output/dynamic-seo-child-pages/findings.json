@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "dscp_sub_pages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dscp_base_page",
+    "dscp_variable_url",
+    "dscp_sitemap_pages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:40.799Z"
+}

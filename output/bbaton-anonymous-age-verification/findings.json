@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bbaa_scroll_to_show",
+    "bbaa_client_id",
+    "background_image",
+    "bbaa_client_secret",
+    "bbaa_redirect_url",
+    "bbaa_lock_pages",
+    "bbaa_exit_url",
+    "bbaa_site_url",
+    "bbaa_headings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:52.875Z"
+}

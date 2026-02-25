@@ -1,0 +1,18 @@
+{
+  "options": [
+    "color1",
+    "color2",
+    "color3",
+    "ver_box"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cw_facebook",
+    "cw_twitter",
+    "cw_google_plus"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:29.613Z"
+}

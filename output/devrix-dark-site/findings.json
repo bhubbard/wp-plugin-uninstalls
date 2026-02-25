@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dx_redirect_to",
+    "dx_my_editor",
+    "dx_margin_top",
+    "dx-dark-site-image",
+    "dx_redirect_name",
+    "dx_editor_id",
+    "dx_margin_field_name",
+    "image_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:32.889Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "simpledc_logo",
+    "simpledc_sidebar_bg",
+    "simpledc_active_menu_bg",
+    "simpledc_menu_text_color",
+    "simpledc_menu_hover_and_submenu_bg",
+    "simpledc_active_menu_text_color",
+    "simpledc_content_bg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:03.491Z"
+}

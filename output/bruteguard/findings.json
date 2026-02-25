@@ -1,0 +1,21 @@
+{
+  "options": [
+    "bruteguard_privacy_opt_in",
+    "bruteguard_saved_settings",
+    "bruteguard_deactivated",
+    "bruteguard_user",
+    "bruteguard_version",
+    "bruteguard_do_activation_redirect",
+    "bruteguard_apikey",
+    "bruteguard_whitelist",
+    "bruteguard_apikey_status",
+    "trusted_ip_header",
+    "bruteguard_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:01.418Z"
+}

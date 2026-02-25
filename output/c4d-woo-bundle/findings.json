@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_currency_pos",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_num_decimals",
+    "woocommerce_price_thousand_sep"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "c4d_woo_bundle"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:14.375Z"
+}

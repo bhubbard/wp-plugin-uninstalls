@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mfcf7-zl-admin-do-not-show-pro-tip",
+    "mfcf7-zl-admin-do-not-show-rating-tip",
+    "mfcf7_zl_plugin_deactivate_request"
+  ],
+  "transients": [
+    "mfcf7-zl-admin-do-not-show-pro-tip",
+    "mfcf7-zl-admin-do-not-show-rating-tip",
+    "mfcf7_zl_deactivation_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:22.490Z"
+}

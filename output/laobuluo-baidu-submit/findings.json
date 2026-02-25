@@ -1,0 +1,13 @@
+{
+  "options": [
+    "laobuluo_bs_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "laobuluo_bs_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:26.362Z"
+}

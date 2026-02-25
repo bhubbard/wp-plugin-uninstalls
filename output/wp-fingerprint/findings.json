@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpfingerprint_checkstamp",
+    "wpfingerprint_invalid",
+    "wpfingerprint_db_version",
+    "wpfingerprint_checksum",
+    "wpfingerprint_last_run",
+    "wp_fingerprint_option",
+    "wpfingerprint_fails",
+    "wpfingerprint_mode"
+  ],
+  "transients": [
+    "wpfingerprint-first-run"
+  ],
+  "cron_jobs": [
+    "wpfingerprint_run_now",
+    "wpfingerprint_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:38.583Z"
+}

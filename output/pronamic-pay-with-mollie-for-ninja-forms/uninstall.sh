@@ -1,0 +1,118 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'pronamic_pay_config_id'
+wp option delete 'pronamic_pay_active_payment_methods'
+wp option delete 'pronamic_pay_license_status'
+wp option delete 'pronamic_pay_license_key'
+wp option delete 'pronamic_pay_uninstall_clear_data'
+
+# Delete Transients
+wp transient delete 'action_scheduler_last_pastdue_actions_check'
+wp transient delete 'action_scheduler_admin_notice'
+wp transient delete 'as_comment_count'
+wp transient delete 'pronamic_pay_admin_redirect'
+wp transient delete 'pronamic_pay_license_data'
+wp transient delete 'pronamic_outdated_webhook_urls'
+
+# Clear Cron Jobs
+wp cron event delete 'pronamic_pay_license_check'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_ems_ecommerce_storename'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_ems_ecommerce_storename'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_ems_ecommerce_storename'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_ems_ecommerce_storename'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_ideal_merchant_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_ideal_merchant_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_ideal_merchant_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_ideal_merchant_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_buckaroo_website_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_buckaroo_website_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_buckaroo_website_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_buckaroo_website_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_icepay_merchant_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_icepay_merchant_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_icepay_merchant_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_icepay_merchant_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_mollie_partner_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_mollie_partner_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_mollie_partner_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_mollie_partner_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_multisafepay_account_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_multisafepay_account_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_multisafepay_account_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_multisafepay_account_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_pay_nl_service_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_pay_nl_service_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_pay_nl_service_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_pay_nl_service_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_paydutch_username'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_paydutch_username'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_paydutch_username'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_paydutch_username'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_targetpay_layoutcode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_targetpay_layoutcode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_targetpay_layoutcode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_targetpay_layoutcode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_ogone_psp_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_ogone_psp_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_ogone_psp_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_ogone_psp_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_ogone_user_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_ogone_user_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_ogone_user_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_ogone_user_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_ideal_basic_hash_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_ideal_basic_hash_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_ideal_basic_hash_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_ideal_basic_hash_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_omnikassa_secret_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_omnikassa_secret_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_omnikassa_secret_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_omnikassa_secret_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_buckaroo_secret_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_buckaroo_secret_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_buckaroo_secret_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_buckaroo_secret_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_icepay_secret_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_icepay_secret_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_icepay_secret_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_icepay_secret_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_ogone_password'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_ogone_password'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_ogone_password'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_ogone_password'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_trash_meta_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_trash_meta_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_trash_meta_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_trash_meta_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_payment_transaction_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_payment_transaction_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_payment_transaction_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_payment_transaction_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_payment_config_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_payment_config_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_payment_config_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_payment_config_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_subscription_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_subscription_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_subscription_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_subscription_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_subscription_customer_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_subscription_customer_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_subscription_customer_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_subscription_customer_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_webhook_log'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_webhook_log'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_webhook_log'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_webhook_log'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_gateway_mollie_api_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_gateway_mollie_api_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_gateway_mollie_api_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_gateway_mollie_api_key'"

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "t4bnt_review_nt",
+    "t4bnt_activation_time",
+    "t4bnt_plugin_version",
+    "t4bnt_general",
+    "t4bnt_content",
+    "t4bnt_advance"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:48.448Z"
+}

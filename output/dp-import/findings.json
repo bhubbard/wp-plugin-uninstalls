@@ -1,0 +1,21 @@
+{
+  "options": [
+    "dp_import_url",
+    "dp_import_verification_key",
+    "dp_import_cron_frequency",
+    "_transient_timeout_dp_import_updating",
+    "dp_import_verified"
+  ],
+  "transients": [
+    "dp_import_errors",
+    "dp_import_notice",
+    "dp_import_updating"
+  ],
+  "cron_jobs": [
+    "dp_import_update_data"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:03.040Z"
+}

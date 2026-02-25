@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "edit_post_per_page",
+    "edit_page_per_page",
+    "upload_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:32.837Z"
+}

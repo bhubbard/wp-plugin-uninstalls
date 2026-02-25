@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_dzcr_lastua_*",
+    "dzcr_latest_url_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dzcr_lastua_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:34.100Z"
+}

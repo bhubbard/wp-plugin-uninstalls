@@ -1,0 +1,33 @@
+{
+  "options": [
+    "egoi_api_key",
+    "egoi_sms_order_sender",
+    "egoi_sms_order_recipients",
+    "egoi_sms_order_texts",
+    "egoi_sms_order_payment_texts",
+    "egoi_email_order_payment_texts",
+    "egoi_tracking_carriers_urls",
+    "egoi_sms_follow_price",
+    "egoi_sms_abandoned_cart",
+    "egoi_custom_carriers",
+    "egoi_transactional_email",
+    "egoi_activation_data",
+    "egoi_sms_counter",
+    "egoi_has_list"
+  ],
+  "transients": [
+    "teste_egoi_1"
+  ],
+  "cron_jobs": [
+    "egoi_sms_order_event",
+    "egoi_woo_smsonw_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "egoi_notification_option",
+    "billing_phone",
+    "billing_country"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:25.787Z"
+}

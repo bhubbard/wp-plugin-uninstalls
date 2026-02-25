@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wprne_settings",
+    "wprne_license_data",
+    "wprne_send_post_pushnotif",
+    "wprne_push_notif_token",
+    "wprne_pages",
+    "wprne_templates",
+    "wprne_apps",
+    "wprne_pages_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wprne_push_notif_sent",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:02.822Z"
+}

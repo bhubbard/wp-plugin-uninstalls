@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wp_imsizer_wplimit_onoff",
+    "wp_imsizer_onoff",
+    "wp_imsizer_width",
+    "wp_imsizer_height",
+    "wp_imsizer_setalts",
+    "wp_imsizer_setname",
+    "wp_imsizer_setcapt",
+    "wp_imsizer_setdesc",
+    "wp_imsizer_restrict_size",
+    "wp_imsizer_max_file_size",
+    "wp_imsizer_file_size_error",
+    "wp_imsizer_convertpng_yesno",
+    "wp_imsizer_width ",
+    "wp_imsizer_height "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:38.087Z"
+}

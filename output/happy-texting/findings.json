@@ -1,0 +1,27 @@
+{
+  "options": [
+    "happy_texting_settings_migrated",
+    "happy_texting_settings_option_name",
+    "happy_texting_settings_sms_option_name",
+    "orddd_location_field_label",
+    "happy_texting_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "happy_texting_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_city",
+    "billing_state",
+    "billing_postcode",
+    "billing_birthdate",
+    "dob",
+    "birth_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:04.173Z"
+}

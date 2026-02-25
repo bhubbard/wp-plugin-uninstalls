@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'incert_coupons'
+wp option delete 'woocommerce_default_country'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_incert_coupon_used'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_incert_coupon_used'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_incert_coupon_used'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_incert_coupon_used'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_incert_has_incert_product'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_incert_has_incert_product'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_incert_has_incert_product'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_incert_has_incert_product'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_is_incert'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_is_incert'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_is_incert'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_is_incert'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_partly_redeemable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_partly_redeemable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_partly_redeemable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_partly_redeemable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_redemption_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_redemption_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_redemption_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_redemption_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_redeemed_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_redeemed_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_redeemed_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_redeemed_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_incert_order_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_incert_order_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_incert_order_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_incert_order_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_incert_coupon_articles'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_incert_coupon_articles'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_incert_coupon_articles'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_incert_coupon_articles'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_incert_order_error'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_incert_order_error'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_incert_order_error'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_incert_order_error'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_incert_coupon_articles_data_set'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_incert_coupon_articles_data_set'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_incert_coupon_articles_data_set'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_incert_coupon_articles_data_set'"

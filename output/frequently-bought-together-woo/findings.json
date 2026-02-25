@@ -1,0 +1,28 @@
+{
+  "options": [
+    "fbtwoo_position",
+    "fbtwoo_title",
+    "fbtwoo_button_text_no_product",
+    "fbtwoo_button_text_one_product",
+    "fbtwoo_button_text_two_product",
+    "fbtwoo_button_text_three_product",
+    "fbtwoo_button_color",
+    "fbtwoo_button_color_hover",
+    "fbtwoo_button_text_color",
+    "fbtwoo_button_text_color_hover",
+    "fbtwoo_save_text_color",
+    "fbtwoo_total_text",
+    "fbtwoo_uninstall_remove_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fbtwoo_apply_discount",
+    "_fbtwoo_discount_type",
+    "_fbtwoo_discount_value",
+    "_fbtwoo_product_ids"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:32.606Z"
+}

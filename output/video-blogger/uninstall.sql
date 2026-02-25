@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wtgvb_notifications', 'wtgvb_installedversion', 'wtgvb_schedule', 'wtgvb_settings', 'wtgvb_theme', 'wtgvb_extensions', 'wtgvb_installeddate', 'wtgvb_is_installed');
+DELETE FROM wp_options WHERE option_name LIKE '%_version';
+DELETE FROM wp_options WHERE option_name LIKE 'ext_activated_%';
+DELETE FROM wp_options WHERE option_name LIKE 'ext_installed_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_VB_flagged', '_thumbnail_id', 'skip_post_thumb', '_videobloggerflags_phpline', '_videobloggerflags_phpfunction', '_videobloggerflags_priority', '_videobloggerflags_type', '_videobloggerflags_fileurl', '_videobloggerflags_dataid', '_videobloggerflags_userid', '_videobloggerflags_errortext', '_videobloggerflags_projectid', '_videobloggerflags_reason', '_videobloggerflags_action', '_videobloggerflags_instructions', '_videobloggerflags_dump', '_videobloggerflags_creator', '_videobloggerflags_version', '_videoblogger_selectedvideos');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_VB_flagged', '_thumbnail_id', 'skip_post_thumb', '_videobloggerflags_phpline', '_videobloggerflags_phpfunction', '_videobloggerflags_priority', '_videobloggerflags_type', '_videobloggerflags_fileurl', '_videobloggerflags_dataid', '_videobloggerflags_userid', '_videobloggerflags_errortext', '_videobloggerflags_projectid', '_videobloggerflags_reason', '_videobloggerflags_action', '_videobloggerflags_instructions', '_videobloggerflags_dump', '_videobloggerflags_creator', '_videobloggerflags_version', '_videoblogger_selectedvideos');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_VB_flagged', '_thumbnail_id', 'skip_post_thumb', '_videobloggerflags_phpline', '_videobloggerflags_phpfunction', '_videobloggerflags_priority', '_videobloggerflags_type', '_videobloggerflags_fileurl', '_videobloggerflags_dataid', '_videobloggerflags_userid', '_videobloggerflags_errortext', '_videobloggerflags_projectid', '_videobloggerflags_reason', '_videobloggerflags_action', '_videobloggerflags_instructions', '_videobloggerflags_dump', '_videobloggerflags_creator', '_videobloggerflags_version', '_videoblogger_selectedvideos');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_VB_flagged', '_thumbnail_id', 'skip_post_thumb', '_videobloggerflags_phpline', '_videobloggerflags_phpfunction', '_videobloggerflags_priority', '_videobloggerflags_type', '_videobloggerflags_fileurl', '_videobloggerflags_dataid', '_videobloggerflags_userid', '_videobloggerflags_errortext', '_videobloggerflags_projectid', '_videobloggerflags_reason', '_videobloggerflags_action', '_videobloggerflags_instructions', '_videobloggerflags_dump', '_videobloggerflags_creator', '_videobloggerflags_version', '_videoblogger_selectedvideos');
+

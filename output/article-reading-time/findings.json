@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ART_plugin_installed",
+    "ART_plugin_version",
+    "article_reading_time_location",
+    "article_reading_time_title",
+    "article_reading_time_word_count",
+    "article_reading_time_character_count",
+    "article_reading_time_read_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:02.643Z"
+}

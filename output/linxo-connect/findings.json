@@ -1,0 +1,14 @@
+{
+  "options": [
+    "linxo_woo_smart_threshold",
+    "linxo_woo_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:41.645Z"
+}

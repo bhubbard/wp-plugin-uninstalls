@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pj_post_thumb_linkto",
+    "pj_post_thumb_size",
+    "pj_custom_post_thumb_width",
+    "pj_custom_post_thumb_height",
+    "pj_custom_post_thumb_crop",
+    "pj_post_thumb_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pj_post_thumbnail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:20.700Z"
+}

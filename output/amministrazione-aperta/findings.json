@@ -1,0 +1,28 @@
+{
+  "options": [
+    "aa_version_number",
+    "aa_disabilita_visauomatica_allegati"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ammap_wysiwyg",
+    "ammap_importo",
+    "ammap_beneficiario",
+    "ammap_fiscale",
+    "ammap_norma",
+    "ammap_assegnazione",
+    "ammap_responsabile",
+    "ammap_determina",
+    "ammap_data",
+    "ammap_importo_previsto",
+    "ammap_data_incarico",
+    "ammap_protocollo",
+    "ammap_data_inizio",
+    "ammap_data_fine",
+    "aa_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:57.464Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "_c2p_active_tab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7_2_post-type",
+    "_cf7_2_post-type_source",
+    "_cf7_2_post-map",
+    "_cf7_2_post_form_submitted",
+    "_config_errors",
+    "_cf7_2_post_flush_rewrite_rules",
+    "_cf7_2_post-taxonomy",
+    "cf7_2_post_map_taxonomy_source-*",
+    "cf7_2_post_map_taxonomy_names-*",
+    "cf7_2_post_map_taxonomy_name-*",
+    "cf7_2_post_map_taxonomy-*",
+    "_cf7_2_post-*",
+    "_mail",
+    "cf7_2_post_map-*",
+    "cf7_2_post_map_meta-*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:11.314Z"
+}

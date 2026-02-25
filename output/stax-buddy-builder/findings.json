@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bpb_settings",
+    "bpb_imported_templates",
+    "bpb_starter_kit_imported",
+    "bp_nouveau_appearance",
+    "_bpb_installed_time",
+    "bpb_profile_listings",
+    "bp-pages",
+    "bpb_listings",
+    "_bp_theme_package_id",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_controls_usage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:50.506Z"
+}

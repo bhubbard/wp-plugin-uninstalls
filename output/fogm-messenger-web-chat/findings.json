@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fogm_chat_options",
+    "fogm_chat_trigger_options",
+    "fogm_chat_greetings_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fogm_chat_review_ignore"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:29.915Z"
+}

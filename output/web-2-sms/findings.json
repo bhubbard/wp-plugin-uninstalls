@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_interval_time",
+    "*_sms_retry",
+    "web2sms_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "web2smsCartNotify"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:47.780Z"
+}

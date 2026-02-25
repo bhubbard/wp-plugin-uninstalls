@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cubm_color",
+    "cubm_call",
+    "cubm_email",
+    "cubm_sms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:53.920Z"
+}

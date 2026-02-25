@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpifs_container_selector",
+    "wpifs_post_selector",
+    "wpifs_enabled",
+    "wpifs_pagination_selector",
+    "wpifs_next_selector",
+    "wpifs_loading_html"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:30.290Z"
+}

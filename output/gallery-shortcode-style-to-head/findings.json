@@ -1,0 +1,12 @@
+{
+  "options": [
+    "gssth_disable_gallery_style",
+    "gssth_override_gallery_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:03.830Z"
+}

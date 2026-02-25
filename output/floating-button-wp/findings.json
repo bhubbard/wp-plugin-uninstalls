@@ -1,0 +1,15 @@
+{
+  "options": [
+    "set_flbtn_bg",
+    "set_flbtn_color",
+    "set_flbtn_txt",
+    "set_close_txt",
+    "set_flbtn_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:16.922Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wcv_assistant_api_system_key",
+    "wcv_assistant_trial_valid_until",
+    "wcva_current_value",
+    "wcva_last_value",
+    "wcva_last_value_updated_at",
+    "wcv_assistant_license_key",
+    "wcv_assistant_uuid",
+    "wcva_valid_license_provided",
+    "woocommerce_permalinks",
+    "wcv_assistant_settings_updated_timestamp",
+    "wcva_product_search",
+    "wcv_assistant_voice"
+  ],
+  "transients": [
+    "wcva_basic_config_option_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:42.831Z"
+}

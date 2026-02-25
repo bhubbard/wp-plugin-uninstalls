@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mobile_api_username', 'mobile_api_password', 'mobile_api_orderby', 'mobile_api_last_sync', 'mobile_api_custom_slug', 'mobile_api_custom_term', 'mobile_api_license', 'mobile_api_is_licensed');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('mobile_api_condition', 'mobile_api_price', 'mobile_api_fuel', 'mobile_api_mileage', 'mobile_api_mobileAdId', '_wp_attachment_image_alt', 'mobile_api_power', 'mobile_api_firstRegistration', 'mobile_api_consumptions', 'mobile_api_emissions', 'mobile_api_images', 'mobile_api_seller', 'mobile_api_vin', 'mobile_api_gearbox', 'mobile_api_numberOfPreviousOwners', 'mobile_api_detailPageUrl', 'mobile_api_vehicleClass');
+DELETE FROM wp_usermeta WHERE meta_key IN ('mobile_api_condition', 'mobile_api_price', 'mobile_api_fuel', 'mobile_api_mileage', 'mobile_api_mobileAdId', '_wp_attachment_image_alt', 'mobile_api_power', 'mobile_api_firstRegistration', 'mobile_api_consumptions', 'mobile_api_emissions', 'mobile_api_images', 'mobile_api_seller', 'mobile_api_vin', 'mobile_api_gearbox', 'mobile_api_numberOfPreviousOwners', 'mobile_api_detailPageUrl', 'mobile_api_vehicleClass');
+DELETE FROM wp_termmeta WHERE meta_key IN ('mobile_api_condition', 'mobile_api_price', 'mobile_api_fuel', 'mobile_api_mileage', 'mobile_api_mobileAdId', '_wp_attachment_image_alt', 'mobile_api_power', 'mobile_api_firstRegistration', 'mobile_api_consumptions', 'mobile_api_emissions', 'mobile_api_images', 'mobile_api_seller', 'mobile_api_vin', 'mobile_api_gearbox', 'mobile_api_numberOfPreviousOwners', 'mobile_api_detailPageUrl', 'mobile_api_vehicleClass');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('mobile_api_condition', 'mobile_api_price', 'mobile_api_fuel', 'mobile_api_mileage', 'mobile_api_mobileAdId', '_wp_attachment_image_alt', 'mobile_api_power', 'mobile_api_firstRegistration', 'mobile_api_consumptions', 'mobile_api_emissions', 'mobile_api_images', 'mobile_api_seller', 'mobile_api_vin', 'mobile_api_gearbox', 'mobile_api_numberOfPreviousOwners', 'mobile_api_detailPageUrl', 'mobile_api_vehicleClass');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'mobile_api_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'mobile_api_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'mobile_api_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'mobile_api_%';
+

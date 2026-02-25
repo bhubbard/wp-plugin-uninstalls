@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pearlbot_logo_id",
+    "pearlbot_woocommerce_integrated",
+    "pearlbot_id",
+    "pearlbot_api_key",
+    "pearlbot_is_active",
+    "train_chatbot",
+    "pearlbot_menu_icon_id"
+  ],
+  "transients": [
+    "pearlbot_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:07.623Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_stories",
+    "wp_story"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_story_items"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:00.320Z"
+}

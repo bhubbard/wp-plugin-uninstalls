@@ -1,0 +1,19 @@
+{
+  "options": [
+    "2checkout_version",
+    "2checkout_install_time",
+    "codexpert-blog-json",
+    "_site_transient_update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "2checkout_daily",
+    "codexpert-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:58.194Z"
+}

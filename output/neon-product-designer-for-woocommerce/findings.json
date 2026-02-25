@@ -1,0 +1,27 @@
+{
+  "options": [
+    "npd-general-options",
+    "npd_clean_promo_stats",
+    "npd-fonts",
+    "woocommerce_currency_pos",
+    "kali-data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "npd_clean_promo_dismissed",
+    "npd_clean_promo_later",
+    "npd-metas",
+    "variation_minimum_allowed_quantity",
+    "minimum_allowed_quantity",
+    "variation_maximum_allowed_quantity",
+    "maximum_allowed_quantity",
+    "npd-colors-palette-data",
+    "npd-config",
+    "npd-scenes-data",
+    "npd_saved_designs"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:46.568Z"
+}

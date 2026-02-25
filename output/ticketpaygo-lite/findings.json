@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ticketpaygo_lite_settings",
+    "tpgl_db_version",
+    "ticketpaygo_email_settings",
+    "tpgl_version",
+    "tpgl_activated",
+    "tpgl_currency_symbol",
+    "tpgl_elementor_notice_dismissed",
+    "tpgl_elementor_notice_shown",
+    "tpgl_settings",
+    "tpgl_force_db_check"
+  ],
+  "transients": [
+    "ticketpaygo_tables_created",
+    "ticketpaygo_tables_error",
+    "tpgl_tables_created",
+    "tpgl_tables_error"
+  ],
+  "cron_jobs": [
+    "tpgl_daily_reminders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ticketpaygo_event_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:34.016Z"
+}

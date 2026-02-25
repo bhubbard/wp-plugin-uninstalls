@@ -1,0 +1,16 @@
+{
+  "options": [
+    "od_rest_api_unavailable",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "od_rest_api_health_check_response"
+  ],
+  "cron_jobs": [
+    "od_trigger_page_cache_invalidation"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:07.024Z"
+}

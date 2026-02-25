@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ocr_tesseract_path",
+    "ocr_resize_percent",
+    "ocr_language_string"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:19.110Z"
+}

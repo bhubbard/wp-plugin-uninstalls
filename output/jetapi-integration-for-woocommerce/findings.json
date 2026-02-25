@@ -1,0 +1,25 @@
+{
+  "options": [
+    "jetapi_settings",
+    "jeti_settings",
+    "jeti_bearer_token",
+    "jeti_authenticated",
+    "jeti_campaigns",
+    "jetapi_sender_name",
+    "jeti_bulk_message_queue",
+    "active_sitewide_plugins",
+    "jeti_activation_notice"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [
+    "jeti_process_bulk_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:40.725Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "google_site_key",
+    "google_site_secret",
+    "google_lang",
+    "google_theme",
+    "custom_error_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:00.706Z"
+}

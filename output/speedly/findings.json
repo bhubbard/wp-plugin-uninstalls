@@ -1,0 +1,14 @@
+{
+  "options": [
+    "Speedly_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "speedly_textfield",
+    "speedly_textarea"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:26.201Z"
+}

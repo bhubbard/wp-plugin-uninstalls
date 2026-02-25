@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ppc_cpt_checklist_data",
+    "ppc_post_types_to_display",
+    "ppc_error_level",
+    "ppc_checklist_data",
+    "_ppc_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ppc_meta_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:59.942Z"
+}

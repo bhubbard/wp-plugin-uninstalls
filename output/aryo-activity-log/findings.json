@@ -1,0 +1,16 @@
+{
+  "options": [
+    "activity_log_db_version"
+  ],
+  "transients": [
+    "elementor_site_mailer_campaign",
+    "elementor_image_optimization_campaign"
+  ],
+  "cron_jobs": [
+    "aal/maintenance/clear_old_items"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:57.012Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_plugin_mode",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [
+    "webdados_invoicexpress_nag"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:07.604Z"
+}

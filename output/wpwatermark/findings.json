@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpwatermark_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpwatermark_clean_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:17.848Z"
+}

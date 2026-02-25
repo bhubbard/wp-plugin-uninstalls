@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpst_country_selected",
+    "wpst_suggestions_limit",
+    "wpst_sortfield",
+    "wpst_sorttype",
+    "wpst_api_key",
+    "wpst_countries"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:31.756Z"
+}

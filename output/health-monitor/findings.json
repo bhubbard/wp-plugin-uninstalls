@@ -1,0 +1,29 @@
+{
+  "options": [
+    "health_monitor_options",
+    "health_monitor_account_settings",
+    "health_monitor_last_email_sent_time",
+    "woocommerce_db_version",
+    "auto_update_plugins",
+    "health_monitor_version"
+  ],
+  "transients": [
+    "health_monitor_latest_wp_version",
+    "update_themes",
+    "health_monitor_latest_plugin_version_*",
+    "health_monitor_latest_curl_version",
+    "health_monitor_latest_mysql_version",
+    "health_monitor_latest_php_version",
+    "health_monitor_db_data_size",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "health_monitor_daily_lighthouse_scores",
+    "health_monitor_hourly_check_email_notification",
+    "health_monitor_cleanup_old_records"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:44.034Z"
+}

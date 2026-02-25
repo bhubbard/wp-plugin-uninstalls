@@ -1,0 +1,136 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('ets_learnpress_discord_client_id');
+delete_site_option('ets_learnpress_discord_client_id');
+delete_option('ets_learnpress_discord_client_secret');
+delete_site_option('ets_learnpress_discord_client_secret');
+delete_option('ets_learnpress_discord_bot_token');
+delete_site_option('ets_learnpress_discord_bot_token');
+delete_option('ets_learnpress_discord_redirect_page_id');
+delete_site_option('ets_learnpress_discord_redirect_page_id');
+delete_option('ets_learnpress_discord_redirect_url');
+delete_site_option('ets_learnpress_discord_redirect_url');
+delete_option('ets_learnpress_discord_server_id');
+delete_site_option('ets_learnpress_discord_server_id');
+delete_option('ets_learnpress_discord_role_mapping');
+delete_site_option('ets_learnpress_discord_role_mapping');
+delete_option('ets_learnpress_discord_all_roles');
+delete_site_option('ets_learnpress_discord_all_roles');
+delete_option('ets_learnpress_discord_roles_color');
+delete_site_option('ets_learnpress_discord_roles_color');
+delete_option('ets_learnpress_discord_default_role_id');
+delete_site_option('ets_learnpress_discord_default_role_id');
+delete_option('ets_learnpress_discord_allow_none_student');
+delete_site_option('ets_learnpress_discord_allow_none_student');
+delete_option('ets_learnpress_discord_send_welcome_dm');
+delete_site_option('ets_learnpress_discord_send_welcome_dm');
+delete_option('ets_learnpress_discord_welcome_message');
+delete_site_option('ets_learnpress_discord_welcome_message');
+delete_option('ets_learnpress_discord_send_course_complete_dm');
+delete_site_option('ets_learnpress_discord_send_course_complete_dm');
+delete_option('ets_learnpress_discord_course_complete_message');
+delete_site_option('ets_learnpress_discord_course_complete_message');
+delete_option('ets_learnpress_discord_send_lesson_complete_dm');
+delete_site_option('ets_learnpress_discord_send_lesson_complete_dm');
+delete_option('ets_learnpress_discord_lesson_complete_message');
+delete_site_option('ets_learnpress_discord_lesson_complete_message');
+delete_option('ets_learnpress_discord_retry_failed_api');
+delete_site_option('ets_learnpress_discord_retry_failed_api');
+delete_option('ets_learnpress_discord_kick_upon_disconnect');
+delete_site_option('ets_learnpress_discord_kick_upon_disconnect');
+delete_option('ets_learnpress_discord_retry_api_count');
+delete_site_option('ets_learnpress_discord_retry_api_count');
+delete_option('ets_learnpress_discord_job_queue_concurrency');
+delete_site_option('ets_learnpress_discord_job_queue_concurrency');
+delete_option('ets_learnpress_discord_job_queue_batch_size');
+delete_site_option('ets_learnpress_discord_job_queue_batch_size');
+delete_option('ets_learnpress_discord_log_api_response');
+delete_site_option('ets_learnpress_discord_log_api_response');
+delete_option('ets_learnpress_discord_embed_messaging_feature');
+delete_site_option('ets_learnpress_discord_embed_messaging_feature');
+delete_option('ets_learnpress_discord_allow_discord_login');
+delete_site_option('ets_learnpress_discord_allow_discord_login');
+delete_option('ets_learnpress_discord_data_erases');
+delete_site_option('ets_learnpress_discord_data_erases');
+delete_option('ets_learnpress_discord_connect_button_bg_color');
+delete_site_option('ets_learnpress_discord_connect_button_bg_color');
+delete_option('ets_learnpress_discord_disconnect_button_bg_color');
+delete_site_option('ets_learnpress_discord_disconnect_button_bg_color');
+delete_option('ets_learnpress_discord_loggedin_button_text');
+delete_site_option('ets_learnpress_discord_loggedin_button_text');
+delete_option('ets_learnpress_discord_non_login_button_text');
+delete_site_option('ets_learnpress_discord_non_login_button_text');
+delete_option('ets_learnpress_discord_disconnect_button_text');
+delete_site_option('ets_learnpress_discord_disconnect_button_text');
+delete_option('ets_learnpress_discord_connected_bot_name');
+delete_site_option('ets_learnpress_discord_connected_bot_name');
+delete_option('ets_learnpress_discord_uuid_file_name');
+delete_site_option('ets_learnpress_discord_uuid_file_name');
+delete_option('check_redirect_connect');
+delete_site_option('check_redirect_connect');
+delete_option('check_res_body');
+delete_site_option('check_res_body');
+delete_option('check_user_body');
+delete_site_option('check_user_body');
+delete_option('check_user_email');
+delete_site_option('check_user_email');
+
+// Delete Transients
+delete_transient('action_scheduler_admin_notice');
+delete_site_transient('action_scheduler_admin_notice');
+delete_transient('as_comment_count');
+delete_site_transient('as_comment_count');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_access_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_access_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_access_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_access_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_refresh_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_refresh_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_refresh_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_refresh_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_last_default_role' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_last_default_role' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_last_default_role' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_last_default_role' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '_ets_learnpress_discord_role_id_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '_ets_learnpress_discord_role_id_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '_ets_learnpress_discord_role_id_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '_ets_learnpress_discord_role_id_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_username' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_username' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_username' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_username' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_user_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_user_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_user_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_user_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_dismissed_notification' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_dismissed_notification' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_dismissed_notification' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_dismissed_notification' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_expires_in' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_expires_in' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_expires_in' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_expires_in' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_join_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_join_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_join_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_join_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_learnpress_discord_dm_channel' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_learnpress_discord_dm_channel' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_learnpress_discord_dm_channel' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_learnpress_discord_dm_channel' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '_ets_learnpress_discord_welcome_dm_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '_ets_learnpress_discord_welcome_dm_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '_ets_learnpress_discord_welcome_dm_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '_ets_learnpress_discord_welcome_dm_for_%' ) );
+

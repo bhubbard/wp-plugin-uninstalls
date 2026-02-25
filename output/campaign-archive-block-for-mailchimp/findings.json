@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cabfm_api_key",
+    "cabfm_server_prefix",
+    "cabfm_api_credentials_validation_result",
+    "cabfm_api_credentials_validation_message",
+    "cabfm_api_credentials_account_name",
+    "mc_api_key",
+    "mailchimp-woocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:33.333Z"
+}

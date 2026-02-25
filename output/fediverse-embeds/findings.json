@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ftf_fediverse_embeds_version",
+    "ftf_fediverse_embeds_deleted_posts",
+    "ftf_fediverse_embeds_theme",
+    "ftf_fediverse_embeds_data_refresh_enabled",
+    "ftf_fediverse_embeds_data_refresh_minutes",
+    "ftf_fediverse_embeds_show_metrics",
+    "ftf_fediverse_embeds_show_post_labels",
+    "ftf_fediverse_embeds_include_bootstrap_styles",
+    "ftf_fediverse_embeds_custom_styles",
+    "ftf_fediverse_embeds_archival_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:22.261Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "zetpy_product_review_settings",
+    "zetpy_product_review_db_version",
+    "zetpy_product_review_activated_at",
+    "zetpy_product_review_version",
+    "zetpy_product_review_show_update_notice",
+    "zetpy_product_review_update_notice_dismissed",
+    "zetpy_rewrite_rules_flushed",
+    "zetpy_rewrite_rules_version"
+  ],
+  "transients": [
+    "zetpy_product_reviews_*",
+    "zetpy_featured_reviews_*"
+  ],
+  "cron_jobs": [
+    "zetpy_send_review_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "zetpy_helpful_votes",
+    "_zetpy_review_stats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:42.415Z"
+}

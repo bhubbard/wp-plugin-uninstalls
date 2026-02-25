@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cpg_options",
+    "cpg_dominant_color_children"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cpg_exclude",
+    "_cpg_show",
+    "_cpg_show_dominant",
+    "_cpg_number_of_colors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:25.926Z"
+}

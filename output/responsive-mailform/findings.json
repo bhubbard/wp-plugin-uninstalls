@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wprm_send_address",
+    "wprm_thanks_page_url",
+    "wprm_from_address",
+    "wprm_send_subject",
+    "wprm_send_body",
+    "wprm_reply_mail",
+    "wprm_send_name",
+    "wprm_thanks_subject",
+    "wprm_thanks_body",
+    "wprm_thanks_body_signature",
+    "wprm_form_html"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:28.001Z"
+}

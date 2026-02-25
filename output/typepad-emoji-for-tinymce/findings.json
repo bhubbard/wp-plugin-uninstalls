@@ -1,0 +1,12 @@
+{
+  "options": [
+    "tpademoji_setting_opt",
+    "tpademoji_checkver_stamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:56.302Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "nothdddding",
+    "h5vp_option",
+    "pdp_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*",
+    "h5vp_playlist_options",
+    "pdp",
+    "h5vp_playlist",
+    "isGutenberg",
+    "_pdp_re_",
+    "_pdp_setting_button",
+    "_pdp_download_button",
+    "_pdp_player_theme",
+    "_pdp_disable_image",
+    "_pdp_audio_repeat",
+    "_pdp_social_label",
+    "_pdp_social_count",
+    "_pdp_disable_social"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:34.690Z"
+}

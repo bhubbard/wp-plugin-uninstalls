@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_smart_preloader_pro_options",
+    "cs-popup",
+    "cs-popup-html"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:51.869Z"
+}

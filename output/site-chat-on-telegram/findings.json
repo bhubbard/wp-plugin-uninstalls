@@ -1,0 +1,21 @@
+{
+  "options": [
+    "scot_all_groups",
+    "scot_settings"
+  ],
+  "transients": [
+    "scot_kb_data",
+    "scot_ai_last_request_*",
+    "scot_ai_count_messages_*",
+    "scot_test"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_start",
+    "*_end",
+    "co_instructor"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:05.099Z"
+}

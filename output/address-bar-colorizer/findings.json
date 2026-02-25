@@ -1,0 +1,14 @@
+{
+  "options": [
+    "address-bar-colorizer-default-color",
+    "address-bar-colorizer-sitewide-enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "address-bar-colorizer"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:25.652Z"
+}

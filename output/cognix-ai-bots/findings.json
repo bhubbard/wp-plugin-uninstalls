@@ -1,0 +1,23 @@
+{
+  "options": [
+    "cognix_script",
+    "cognix_user_consent",
+    "cognix_base_url",
+    "cognix_tokens",
+    "cognix_createdResourceId",
+    "cognix_createdResourceName"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cognix_firstname",
+    "cognix_lastname",
+    "cognix_password",
+    "cognix_email",
+    "cognix_membername",
+    "cognix_curdomain"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:18.792Z"
+}

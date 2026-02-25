@@ -1,0 +1,11 @@
+{
+  "options": [
+    "faqPage_plugin_signature"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:18.698Z"
+}

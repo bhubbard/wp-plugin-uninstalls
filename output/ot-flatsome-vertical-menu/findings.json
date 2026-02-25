@@ -1,0 +1,32 @@
+{
+  "options": [
+    "ot_vm",
+    "menu-icons",
+    "*_license_data",
+    "*_license_status",
+    "*_failed_checks",
+    "*_license_plan",
+    "*_logger_flag",
+    "themeisle_sdk_notifications",
+    "*_install",
+    "*_license"
+  ],
+  "transients": [
+    "themeisle_sdk_cache_token",
+    "themeisle_sdk_feed_items",
+    "themeisle_sdk_products",
+    "*_license_data",
+    "*act_err",
+    "ti_theme_info_*",
+    "ti_plugin_info_*",
+    "update_plugins",
+    "*_warning_rollback",
+    "update_themes",
+    "ti_sdk_pause_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:22.428Z"
+}

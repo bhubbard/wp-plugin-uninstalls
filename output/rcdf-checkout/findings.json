@@ -1,0 +1,18 @@
+{
+  "options": [
+    "rcdf_checkout_first_name",
+    "rcdf_checkout_last_name",
+    "rcdf_checkout_phone",
+    "rcdf_checkout_email",
+    "rcdf_checkout_product_name",
+    "rcdf_checkout_price",
+    "rcdf_checkout_trigger_element",
+    "rcdf_checkout_event_el"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:20.703Z"
+}

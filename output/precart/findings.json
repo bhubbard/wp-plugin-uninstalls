@@ -1,0 +1,17 @@
+{
+  "options": [
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*",
+    "_precart_enable_pre_order",
+    "_precart_release_date",
+    "_precart_pre_order_limit",
+    "_precart_pre_order_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:37.054Z"
+}

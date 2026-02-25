@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_showdashwidget",
+    "*_dashwidgetcoininfo",
+    "Crypto_Dash_Tracker_dashwidgetcoininfo",
+    "Crypto_Dash_Tracker_showdashwidget"
+  ],
+  "transients": [
+    "crypto-dash-tracker"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:58.468Z"
+}

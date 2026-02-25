@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cafi_settings",
+    "cafi_templates_config"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cafi_generated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:50.718Z"
+}

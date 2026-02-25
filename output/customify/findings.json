@@ -1,0 +1,33 @@
+{
+  "options": [
+    "pixcustomify_settings",
+    "*_final",
+    "sm_coloration_level",
+    "sm_color_diversity",
+    "sm_shuffle_colors",
+    "sm_color_palette",
+    "sm_color_palette_variation",
+    "sm_is_custom_color_palette",
+    "sm_font_palette",
+    "sm_font_palette_variation",
+    "sm_is_custom_font_palette",
+    "style_manager_user_feedback_provided",
+    "customify_dbversion",
+    "*_timestamp",
+    "theme_mods_*",
+    "sm_dark_mode_advanced",
+    "sm_dark_mode",
+    "sm_dark_primary_final",
+    "sm_dark_secondary_final",
+    "sm_dark_tertiary_final",
+    "sm_light_primary_final",
+    "sm_light_secondary_final",
+    "sm_light_tertiary_final"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:28.431Z"
+}

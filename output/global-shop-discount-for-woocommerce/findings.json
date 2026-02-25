@@ -1,0 +1,29 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "alg_wc_global_shop_discount_plugin_enabled",
+    "alg_wc_global_shop_discount_load_in_admin",
+    "woocommerce_version",
+    "alg_wc_global_shop_discount_taxonomies",
+    "alg_wc_global_shop_discount_*",
+    "alg_wc_global_shop_discount_stop_on_first_discount_group",
+    "alg_wc_global_shop_discount_cache_product_prices",
+    "alg_wc_global_shop_discount_tool_save_all_products",
+    "alg_wc_global_shop_discount_tool_delete_transients",
+    "alg_wc_global_shop_discount_version",
+    "alg_wc_global_shop_discount_admin_title",
+    "alg_wc_global_shop_discount_taxonomies_orderby",
+    "*_reset"
+  ],
+  "transients": [
+    "alg_wc_gsd_products_*",
+    "alg_wc_gsd_products_onsale"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:45.043Z"
+}

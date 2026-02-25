@@ -1,0 +1,35 @@
+{
+  "options": [
+    "ms_files_rewriting",
+    "*_size_w",
+    "*_size_h",
+    "aws_settings",
+    "active_sitewide_plugins",
+    "*_schema_version",
+    "*_session",
+    "as3cf_constant_*"
+  ],
+  "transients": [
+    "as3cf_regions_cache",
+    "as3cf_attachment_counts",
+    "as3cf_db_init_status",
+    "as3cf_deactivated_notice_id",
+    "as3cf_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata",
+    "as3cf_notices",
+    "as3cf_dismissed_notices",
+    "_wp_attachment_backup_sizes",
+    "as3cf_acf_cropped_to_remove",
+    "_wp_attached_file",
+    "as3cf_filesize_total",
+    "amazonS3_info",
+    "edd_download_files",
+    "wpos3_filesize_total"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:07.776Z"
+}

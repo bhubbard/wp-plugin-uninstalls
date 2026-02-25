@@ -1,0 +1,59 @@
+{
+  "options": [
+    "*_upsell_displayed",
+    "_xl_transient_*",
+    "xl_is_opted",
+    "xlwcty_default_posts",
+    "xlwcty_custom_thank_you_pages",
+    "xlp_is_opted",
+    "_site_transient_update_plugins",
+    "xlwcty_scroll_components",
+    "xlplugin_nextmove_lite_hide_update_notice",
+    "woocommerce_checkout_order_received_endpoint",
+    "xlwcty_global_settings",
+    "fkwcs_wp_stripe",
+    "active_sitewide_plugins",
+    "xl_admin_notices",
+    "xl_uninstall_reasons",
+    "xl_optin_ref",
+    "woocommerce_default_country",
+    "woocommerce_calc_taxes",
+    "woocommerce_enable_guest_checkout",
+    "xl_track_day",
+    "*_license_active",
+    "*license_data"
+  ],
+  "transients": [
+    "update_plugins",
+    "xl_get_modules"
+  ],
+  "cron_jobs": [
+    "xlwcty_installed",
+    "xl_new_maybe_track_usage_scheduled"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_xlwcty_builder_layout",
+    "_xlwcty_builder_template",
+    "_xlwcty_menu_order",
+    "xlwcty_rule",
+    "*_enable",
+    "_xlwcty_is_default",
+    "_xlwcty_order_details_enable",
+    "_xlwcty_customer_information_enable",
+    "_xlwcty_order_enable",
+    "_elementor_edit_mode",
+    "_xlwcty_chosen_order_preview",
+    "wpml_language",
+    "_xlwcty_settings",
+    "_et_pb_page_layout",
+    "_et_pb_use_builder",
+    "_dt_sidebar_position",
+    "gdlr-core-page-option",
+    "date_expires",
+    "expiry_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:11.593Z"
+}

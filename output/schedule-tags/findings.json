@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wpts_tags_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "schedule_tag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:00.613Z"
+}

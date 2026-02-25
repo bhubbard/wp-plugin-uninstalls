@@ -1,0 +1,15 @@
+{
+  "options": [
+    "clm_remNFAuthor",
+    "clm_addNWAuthor",
+    "clm_remNFComment",
+    "clm_addNWComment",
+    "clm_safeNumber"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:11.789Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "supersearch_public_key",
+    "supersearch_mobile_top_offset",
+    "supersearch_desktop_top_offset",
+    "supersearch_private_key",
+    "supersearch_changed_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "supersearch_daily_index_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:19.335Z"
+}

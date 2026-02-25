@@ -1,0 +1,30 @@
+{
+  "options": [
+    "option1",
+    "num_album",
+    "order_album",
+    "check1",
+    "effect",
+    "effect_pic",
+    "background_color",
+    "text_color",
+    "border_pixel",
+    "link_color",
+    "padding",
+    "box_shadow_pixel",
+    "box_shadow",
+    "margin_bottom",
+    "border_pixel_pic",
+    "border_rad_pixel_pic"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_album",
+    "_link",
+    "_comm"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:41.422Z"
+}

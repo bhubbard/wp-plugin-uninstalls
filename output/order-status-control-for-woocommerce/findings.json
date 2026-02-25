@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bp_order_status_control_installed",
+    "wc_order_status_control",
+    "rdn_fetch_*"
+  ],
+  "transients": [
+    "rn_last_notification_*",
+    "wpi_check_ran_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rn_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:08.997Z"
+}

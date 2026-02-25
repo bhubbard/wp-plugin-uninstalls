@@ -1,0 +1,18 @@
+{
+  "options": [
+    "new_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_element_grid_class_meta_box_doc_icon_new_class",
+    "custom_element_grid_class_meta_box_kb_icon_new_class",
+    "custom_element_grid_class_meta_box_desc",
+    "custom_element_grid_class_meta_box_kb_desc",
+    "_thumbs_rating_up",
+    "_thumbs_rating_down"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:19.205Z"
+}

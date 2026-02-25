@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rtbs_tabs_bg_color",
+    "_rtbs_breakpoint",
+    "_rtbs_tbg",
+    "_rtbs_original_font",
+    "_rtbs_tabs_head"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:19.237Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pta_member_categories",
+    "pta_directory_options",
+    "pta_md_datatables_enabled"
+  ],
+  "transients": [
+    "pta_md_last_submit",
+    "pta_md_last_ip"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pta_member_directory_email",
+    "_pta_member_directory_phone",
+    "member_location",
+    "member_category"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:02.861Z"
+}

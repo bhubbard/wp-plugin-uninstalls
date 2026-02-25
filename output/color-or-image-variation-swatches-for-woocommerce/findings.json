@@ -1,0 +1,17 @@
+{
+  "options": [
+    "alg_wc_civs_version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "alg_wc_civs_term_color_color",
+    "alg_wc_civs_term_label_label",
+    "alg_wc_civs_term_image_image_id",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:45.899Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "bitbot_api_key",
+    "bitbot_*",
+    "bitbot_enabled",
+    "bitbot_widget_position",
+    "bitbot_primary_color",
+    "bitbot_welcome_message"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bitbot_scheduled_posts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_bitbot_keywords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:28.518Z"
+}

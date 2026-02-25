@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wof-lite-dev-version",
+    "wof_log_name",
+    "mb-wof-lite-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:09.813Z"
+}

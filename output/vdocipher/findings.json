@@ -1,0 +1,20 @@
+{
+  "options": [
+    "vdo_client_key",
+    "vdo_default_width",
+    "vdo_default_height",
+    "vdo_player_speed",
+    "vdo_embed_version",
+    "vdo_player_theme",
+    "vdo_annotate_code",
+    "vdo_send_user_id_in_api",
+    "vdo_show_plugin_in_sidebar",
+    "vdo_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:54.721Z"
+}

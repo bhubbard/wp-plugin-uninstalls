@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpcpc_settings",
+    "wpcpc_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcpc_conditions",
+    "wpcpc_include",
+    "wpcpc_exclude",
+    "wpcpc_cronjob",
+    "wpcpc_logo",
+    "wpcpc_banner",
+    "wpcpc_banner_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:36.357Z"
+}

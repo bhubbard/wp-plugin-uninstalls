@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ninja_forms_load_deprecated",
+    "remove_rating_widget_ninja",
+    "esig_global_document_id",
+    "WP_ESignature__Ninja_Forms_Digital_Signature_documentation"
+  ],
+  "transients": [
+    "_esign_ninja_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:10.526Z"
+}

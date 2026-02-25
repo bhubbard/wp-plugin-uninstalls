@@ -1,0 +1,16 @@
+{
+  "options": [
+    "aitepc_expiry_date_post_types",
+    "aitepc_custom_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aitepc_check_expiry_date_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aitepc_expiry_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:28.689Z"
+}

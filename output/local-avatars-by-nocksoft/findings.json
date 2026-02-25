@@ -1,0 +1,18 @@
+{
+  "options": [
+    "nstla_setting_redirectgravatar_all",
+    "nstla_setting_localavatar_default",
+    "nstla_setting_localavatar_default_custom_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nstla_setting_localavatar",
+    "nstla_setting_avatarurl",
+    "nstab_setting_localavatar",
+    "nstab_setting_avatarurl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:12.759Z"
+}

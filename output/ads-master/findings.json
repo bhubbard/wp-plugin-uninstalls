@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ads_exclude_ids",
+    "ads_main_enable",
+    "ads_post_top_enable",
+    "ads_post_top_desc",
+    "ads_post_top_corner_enable",
+    "ads_post_top_corner_desc",
+    "ads_post_first_p_enable",
+    "ads_post_first_p_desc",
+    "ads_post_bottom_enable",
+    "ads_post_bottom_desc",
+    "ads_page_top_enable",
+    "ads_page_top_desc",
+    "ads_page_bottom_enable",
+    "ads_page_bottom_desc",
+    "ads_shortcode_enable",
+    "ads_shortcode_desc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:15.416Z"
+}

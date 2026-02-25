@@ -1,0 +1,21 @@
+{
+  "options": [
+    "hack-info_option",
+    "hackinfo_db_version",
+    "hackinfo_digest_enable",
+    "hackinfo_digest_email",
+    "hackinfo_digest_timer",
+    "hackinfo_whois_enable",
+    "hackinfo_digest_sent",
+    "hackinfo_digest_size"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hackinfo_send_digest",
+    "hackinfo_scan_log"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:00.547Z"
+}

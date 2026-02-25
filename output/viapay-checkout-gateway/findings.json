@@ -1,0 +1,43 @@
+{
+  "options": [
+    "woocommerce_viapay_gateway_settings",
+    "woocommerce_viapay_checkout_settings",
+    "viapay_test_api_key_request_date",
+    "viapay_account_creation_request_date",
+    "woocommerce_viapay_webhook_*",
+    "viabill_key",
+    "viabill_secret",
+    "viabill_pricetag",
+    "woocommerce_prices_include_tax",
+    "viapay_activation_redirect",
+    "woocommerce_viapay_version",
+    "woocommerce_viapay_viabill_settings"
+  ],
+  "transients": [
+    "viapay_api_action_error",
+    "viapay_api_action_success",
+    "viapay_webhook_settings_secret",
+    "viapay_invoice_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_viapay_maybe_save_card",
+    "_viapay_capture_transaction",
+    "_viapay_cancel_transaction",
+    "_viapay_credit_note_ids",
+    "viapay_customer_id",
+    "_viapay_locked",
+    "_payment_tokens",
+    "_viapay_token_id",
+    "_viapay_token",
+    "_viapay_source",
+    "_transaction_id",
+    "_viapay_order",
+    "_viapay_state_authorized",
+    "_viapay_state_settled",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:45.058Z"
+}

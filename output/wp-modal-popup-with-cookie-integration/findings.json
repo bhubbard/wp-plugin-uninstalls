@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wmpci_options",
+    "wmpci_plugin_version"
+  ],
+  "transients": [
+    "wmpci_install_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:16.911Z"
+}

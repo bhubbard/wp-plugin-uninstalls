@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ns_loop_image",
+    "ns_single_product_image",
+    "ns_option_single_image_height",
+    "ns_option_single_image_width",
+    "ns_option_image_height",
+    "ns_option_image_width",
+    "ns_option_single_image_heigth",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ns_option_badge",
+    "_ns_option_badge_text",
+    "_ns_option_badge_shape",
+    "_ns_option_badge_single_product_image",
+    "_ns_option_badge_sizeText",
+    "_ns_option_badge_size_shape",
+    "_ns_option_badge_color",
+    "_ns_single_width_image",
+    "_ns_single_height_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:47.782Z"
+}

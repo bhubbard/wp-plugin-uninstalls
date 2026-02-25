@@ -1,0 +1,35 @@
+{
+  "options": [
+    "cptslotsb_addons_active_list",
+    "CPAHB_PASSCODE",
+    "installed_*",
+    "cp_cpappb_statuses_block",
+    "CP_WPTSLOTSBK_CSS",
+    "cp_cptslotsb_rep_enable",
+    "cp_cptslotsb_rep_days",
+    "cp_cptslotsb_rep_hour",
+    "cp_cptslotsb_rep_emails",
+    "cp_cptslotsb_fp_from_email",
+    "cp_cptslotsb_rep_subject",
+    "cp_cptslotsb_rep_emailformat",
+    "cp_cptslotsb_rep_message",
+    "cp_tslotsb_LOAD_SCRIPTS",
+    "CP_WPTS_CSV_SEPARATOR",
+    "cp_wpts_schcsvexclude",
+    "cp_cptslotsb_last_sent_id_*",
+    "cp_cptslotsb_last_verified",
+    "cp_cptslotsb_last_sent*",
+    "*_JS",
+    "*_CSS"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*",
+    "cpeople-captcha-*",
+    "codepeople_wpts_warning_css"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:22.523Z"
+}

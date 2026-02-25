@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ctviwoo_private_company",
+    "_ctviwoo_vat_id",
+    "is_vat_exempt",
+    "_vat_number_is_valid",
+    "_vat_number_validated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:33.766Z"
+}

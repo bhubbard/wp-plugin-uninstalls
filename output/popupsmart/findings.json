@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*-account-id",
+    "*-popupsmart-version",
+    "popupsmart_account_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:52.835Z"
+}

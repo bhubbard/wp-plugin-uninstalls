@@ -1,0 +1,15 @@
+{
+  "options": [
+    "posts_order",
+    "posts_order_upgrade"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "term_order",
+    "_sort_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:41.715Z"
+}

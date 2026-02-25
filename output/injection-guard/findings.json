@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ig_requests_log",
+    "ig_blacklisted"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "last_login",
+    "ip_logs",
+    "ig_last_login",
+    "ig_session_start",
+    "ig_last_session_duration",
+    "ig_last_logout",
+    "ig_last_seen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:46.934Z"
+}

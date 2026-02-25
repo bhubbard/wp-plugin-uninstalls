@@ -1,0 +1,46 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "mrkv_uamrkpl_promua_shop_name",
+    "mrkv_uamrkpl_promua_company",
+    "mrkv_uamrkpl_promua_global_vendor",
+    "mrkv_uamrkpl_promua_custom_vendor",
+    "mrkv_uamrkpl_promua_vendor_by_attributes",
+    "mrkv_uamrkpl_rozetka_vendor_all_possibilities",
+    "mrkv_uamrkpl_promua_background_proc_xml_chk",
+    "mrkv_uamrkpl_promua_background_proc_xml_step",
+    "mrkv_uamrkpl_rozetka_shop_name",
+    "mrkv_uamrkpl_rozetka_company",
+    "mrkv_uamrkpl_rozetka_xml_tags_lang",
+    "mrkv_uamrkpl_rozetka_global_vendor",
+    "mrkv_uamrkpl_rozetka_custom_vendor",
+    "mrkv_uamrkpl_rozetka_vendor_by_attributes",
+    "mrkv_ua_marketplaces",
+    "mrkv_uamrkpl_collation_option",
+    "mrkv_uamrkpl_rozetka_xml_filename",
+    "mrkv_uamrkpl_promua_xml_filename",
+    "mrkv_uamrkpl_rozetka_xmlfile_dir"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "mrkvuamp_update_xml_hook",
+    "mrkvuamp_update_xml_hook_promua",
+    "mrkvuamp_partial_update_xml_hook_promua"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_title",
+    "*_image",
+    "*_description",
+    "mrkvuamp_rozetka_description",
+    "mrkvuamp_promua_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:34.447Z"
+}

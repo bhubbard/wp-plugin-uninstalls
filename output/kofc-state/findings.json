@@ -1,0 +1,34 @@
+{
+  "options": [
+    "otgkofcs_hcaptcha_secret_key",
+    "otgkofcs_number_of_districts",
+    "otgkofcs_email_sender_name",
+    "otgkofcs_email_sender_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "name",
+    "location",
+    "charter_date",
+    "faithful_navigator",
+    "faithful_comptroller",
+    "color_corps_commander",
+    "website",
+    "contact_email",
+    "facebook",
+    "twitter",
+    "instagram",
+    "grand_knight",
+    "district",
+    "assembly",
+    "rss_url",
+    "name_first",
+    "name_last",
+    "email_address",
+    "council"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:28.526Z"
+}

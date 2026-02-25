@@ -1,0 +1,26 @@
+{
+  "options": [
+    "etb_plugin_do_activation_redirect",
+    "etb_textBgColor",
+    "etb_textColor",
+    "etb_socialColor",
+    "etb_socialHover",
+    "etb_titleFontSize",
+    "etb_titleColor",
+    "etb_designationFontSize",
+    "etb_designationColor",
+    "etb_contentFontSize"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "our-team",
+    "fbLink",
+    "ttLink",
+    "linLink",
+    "githLink"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:54.977Z"
+}

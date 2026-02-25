@@ -1,0 +1,14 @@
+{
+  "options": [
+    "smailyforcf7_form_*",
+    "wpcf7"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smaily_for_cf7_deprecation_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:33.856Z"
+}

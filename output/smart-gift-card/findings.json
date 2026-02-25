@@ -1,0 +1,20 @@
+{
+  "options": [
+    "smart_gift_card_plugin_version",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "smart_gift_card_hourly_tasks",
+    "smart_gift_card_daily_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "use_gift_balance",
+    "last_redeemed_gift_codes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:30.437Z"
+}

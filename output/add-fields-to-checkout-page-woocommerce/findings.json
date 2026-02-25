@@ -1,0 +1,30 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wcfe_account_label",
+    "wc_fields_account",
+    "wc_fields_billing",
+    "wc_fields_shipping",
+    "wc_fields_additional",
+    "wc_fields_*",
+    "wcfe_account_sync_fields",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:15.907Z"
+}

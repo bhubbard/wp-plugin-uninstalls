@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dc_moafw_activate",
+    "dc_moafw_minimum",
+    "dc_moafw_message",
+    "dc_moafw_current_total_text",
+    "dc_moafw_currency_display_type",
+    "dc_moafw_message_shop",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:48.574Z"
+}

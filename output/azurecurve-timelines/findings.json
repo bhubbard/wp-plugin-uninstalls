@@ -1,0 +1,13 @@
+{
+  "options": [
+    "azc_t"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "azc_t_metafields"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:33.337Z"
+}

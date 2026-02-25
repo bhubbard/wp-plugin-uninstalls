@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wplf_show_admin_bar_only_admins', 'wplf_lostpassword_subject', 'wplf_lostpassword_message', 'wplf_logo_url', 'wplf_logo_url_title', 'wplf_bg_color', 'wplf_link_color', 'wplf_link_hover_color', 'wplf_font_color', 'wplf_custom_css', 'wplf_login_box_responsive', 'wplf_login_box_bg_color', 'wplf_login_box_color', 'wplf_login_box_border_radius_enable', 'wplf_login_box_border_radius', 'wplf_logo', 'wplf_register_loader', 'wplf_login_loader', 'wplf_from_email_enable', 'wplf_from_email', 'wplf_from_name_enable', 'wplf_from_name', 'wplf_require_activation', 'wplf_register_set_pw', 'wplf_auto_login', 'wplf_registration_email_as_un', 'wplf_registration_custom_fields', 'wplf_auto_disable_rewrites', 'wplf_nginx_enable', 'wplf_rewrite_reset_pw_slug', 'default_post_edit_rows', 'wplf_rewrite_activate', 'wplf_rewrite_activate_slug', 'wplf_uninstall_remove_options', 'WP_LOGIN_FLOW_VERSION', 'WP_LOGIN_MS_NOTICE', 'WP_LOGIN_NGINX_NOTICE');
+DELETE FROM wp_options WHERE option_name LIKE '%_slug';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('dismissed_wp_pointers', 'activation_status', 'activation_date', 'activation_signup');
+DELETE FROM wp_usermeta WHERE meta_key IN ('dismissed_wp_pointers', 'activation_status', 'activation_date', 'activation_signup');
+DELETE FROM wp_termmeta WHERE meta_key IN ('dismissed_wp_pointers', 'activation_status', 'activation_date', 'activation_signup');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('dismissed_wp_pointers', 'activation_status', 'activation_date', 'activation_signup');
+

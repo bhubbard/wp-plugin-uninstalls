@@ -1,0 +1,12 @@
+{
+  "options": [
+    "happierleads_settings_script_val",
+    "happierleads_script_val"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:19.499Z"
+}

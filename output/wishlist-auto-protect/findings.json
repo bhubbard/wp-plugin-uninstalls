@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "atc_process_protect_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "atc-enable-status",
+    "atc-expire-date",
+    "atc-expire-days",
+    "atc-enable-method",
+    "atc-protect-level",
+    "atc-enable-method*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:43.594Z"
+}

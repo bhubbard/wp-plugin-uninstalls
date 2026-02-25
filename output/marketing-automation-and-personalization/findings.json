@@ -1,0 +1,42 @@
+{
+  "options": [
+    "convesioconvert_data_exists",
+    "convesioconvert_consents",
+    "convesioconvert_site_id",
+    "convesioconvert_site_token",
+    "convesioconvert_verification_secret",
+    "convesioconvert_site_url",
+    "convesioconvert_user_email",
+    "convesioconvert_pause",
+    "woo_marketplace_customer_id",
+    "woo_marketplace_subscription_id",
+    "convesioconvert_smart_rating_dismissed",
+    "convesioconvert_smart_rating_last_fetch",
+    "convesioconvert_smart_rating_necessary_info",
+    "convesioconvert_terms_last_modification",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "convesioconvert_activation_redirect",
+    "convesioconvert_dashboard_health_status",
+    "convesioconvert_health_status_fresh",
+    "convesioconvert_health_status",
+    "convesioconvert_consent_key",
+    "convesioconvert_integration_success_id",
+    "convesioconvert_onetime_notices",
+    "convesioconvert_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "convesioconvert_email_consent",
+    "*/convesioconvert/email_consent",
+    "_convesioconvert_user_last_modification",
+    "wooMarketplaceCustomerId",
+    "first_name",
+    "last_name",
+    "edd_saved_cart"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:51.332Z"
+}

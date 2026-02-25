@@ -1,0 +1,13 @@
+{
+  "options": [
+    "os_datahub_map_options"
+  ],
+  "transients": [
+    "osmap-activation-check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:06.063Z"
+}

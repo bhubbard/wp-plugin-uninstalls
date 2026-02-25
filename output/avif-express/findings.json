@@ -1,0 +1,31 @@
+{
+  "options": [
+    "avifautoconvstatus",
+    "avifoperationmode",
+    "avifimagequality",
+    "avifcompressionspeed",
+    "avifconversionengine",
+    "avifontheflyavif",
+    "avifenablelogging",
+    "avifapikey",
+    "aviffallbackmode",
+    "aviflazyload",
+    "aviflazyloadrootmargin",
+    "aviflazyloadjsthreshold",
+    "aviflazyloadbackground",
+    "avifbackgroundConv",
+    "avifbackgroundevents"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "avife_auto_convert"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "avifexpressconverted"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:45.766Z"
+}

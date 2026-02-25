@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpAppbox_autoLinks', 'wpAppbox_anonymizeLinks', 'wpAppbox_includeCSS', 'wpAppbox_disableDefer', 'wpAppbox_disableFonts', 'wpAppbox_amaAPIuse', 'wpAppbox_amaAPIhost', 'wpAppbox_amaAPIpartnerTag', 'wpAppbox_amaAPIaccessKey', 'wpAppbox_amaAPIsecretKey', 'wpAppbox_curlTimeout', 'wpAppbox_eOnlyAuthors', 'wpAppbox_eOutput', 'wpAppbox_forceSSL', 'wpAppbox_imgCache', 'wpAppbox_imgCacheMode', 'wpAppbox_renderGutenberg', 'wpAppbox_imgProxy', 'wpAppbox_defaultButton', 'wpAppbox_advancedToolbar', 'wpAppbox_cacheTime', 'wpAppbox_cacheMode', 'wpAppbox_cronIntervall', 'wpAppbox_cronCount', 'wpAppbox_cachePlugin', 'wpAppbox_blockMissing', 'wpAppbox_blockMissingTime', 'wpAppbox_imgCacheDelay', 'wpAppbox_imgCacheDelayTime', 'wpAppbox_pluginVersion', 'wpAppbox_dbVersion', 'wpAppbox_defaultStyle', 'wpAppbox_colorfulIcons', 'wpAppbox_showRating', 'wpAppbox_nofollow', 'wpAppbox_targetBlank', 'imgCacheDelayTime', 'wpAppbox_screenshotTabs', 'wpAppbox_dontGreyOut', 'wpAppbox_downloadCaption', 'wpAppbox_notifyLastV', 'wpAppbox_replaceAppIcons', 'wpAppbox_amaAPIstatus', 'wpAppbox_buttonWYSIWYG_amazonapps', 'wpAppbox_buttonWYSIWYG_appstore', 'wpAppbox_buttonWYSIWYG_chromewebstore', 'wpAppbox_buttonWYSIWYG_edgeaddons', 'wpAppbox_buttonWYSIWYG_fdroid', 'wpAppbox_buttonWYSIWYG_firefoxaddon', 'wpAppbox_buttonWYSIWYG_googleplay');
+DELETE FROM wp_options WHERE option_name IN ('wpAppbox_buttonWYSIWYG_microsoftstore', 'wpAppbox_buttonWYSIWYG_operaaddons', 'wpAppbox_buttonWYSIWYG_snapcraft', 'wpAppbox_buttonWYSIWYG_wordpress', 'wpAppbox_disableAutoCache', '_transient_timeout_wpAppbox_blockGooglePlay', 'wpAppbox_amaAPIregion', 'wpAppbox_amaAPIaccesskey', 'wpAppbox_amaAPIsecretkey', 'wpappbox_cachePlugin', 'wpAppbox_userAffiliate', 'wpAppbox_affiliateMicrosoftDev', 'wpAppbox_affiliateMicrosoftProgram', 'wpAppbox_affiliateMicrosoftID', 'wpAppbox_storeURL_amazon', 'wpAppbox_affiliateAmazonID', 'wpAppbox_affiliateAmazonDev', 'wpAppbox_amaAPIpublicKey', 'wpAppbox_cacheCronjob', 'wpAppbox_disableCSS', 'wpAppbox_affiliateApple', 'wpAppbox_affiliateAppleDev', 'wpAppbox_affiliateAmazon', 'wpAppbox_affiliateMicrosoft', 'wpAppbox_iTunesGeo', 'wpAppbox_sslAppleImages', 'wpAppbox_eImageApple', 'wpAppbox_disableCache', 'wpAppbox_showReload', 'wpAppbox_imageCache', 'wpAppbox_imageCacheMode', 'wpAppbox', 'wpAppbox_imgCacheBlocked', 'wpAppbox_blockGooglePlay');
+DELETE FROM wp_options WHERE option_name LIKE 'wpAppbox_storeURL_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wpAppbox_storeURL_URL_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_URL';
+DELETE FROM wp_options WHERE option_name LIKE 'wpAppbox_buttonAppbox_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wpAppbox_buttonHTML_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wpAppbox_buttonWYSIWYG_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wpAppbox_buttonHidden_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wpAppbox_buttonHidden_e%';
+DELETE FROM wp_options WHERE option_name LIKE '_transient_timeout_%';
+

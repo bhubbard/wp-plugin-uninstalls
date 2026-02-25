@@ -1,0 +1,26 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('woocommerce_gratify_pay_api_error');
+delete_site_option('woocommerce_gratify_pay_api_error');
+delete_option('woocommerce_currency');
+delete_site_option('woocommerce_currency');
+
+// Delete Transients
+delete_transient('gratify_pay-admin-activation-notice');
+delete_site_transient('gratify_pay-admin-activation-notice');
+delete_transient('gratify_pay-admin-connection-failed-notice');
+delete_site_transient('gratify_pay-admin-connection-failed-notice');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_gratify_pay_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_gratify_pay_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_gratify_pay_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_gratify_pay_token' ) );
+

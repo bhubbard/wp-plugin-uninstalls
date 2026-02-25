@@ -1,0 +1,12 @@
+{
+  "options": [
+    "plugin_wp_version_notifier_settings",
+    "plugin_wp_never_outdated_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:52.408Z"
+}

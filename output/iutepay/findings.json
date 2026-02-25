@@ -1,0 +1,28 @@
+{
+  "options": [
+    "iute_notice",
+    "woocommerce_iutepay_settings",
+    "enabled",
+    "description",
+    "showPromoOnCategoryPage",
+    "enableWebhook",
+    "testmode",
+    "test_iute_api_key",
+    "test_iute_admin_key",
+    "iute_api_key",
+    "iute_admin_key",
+    "country",
+    "emailNotificationAboutNewLoanApplication",
+    "emailNotificationAboutLoanApplicationStatusChange",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:35.298Z"
+}

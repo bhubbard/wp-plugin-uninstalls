@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_linker_redirect",
+    "_linker_count",
+    "_linker_query_params"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:45.126Z"
+}

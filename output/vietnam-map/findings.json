@@ -1,0 +1,40 @@
+{
+  "options": [
+    "ekmap_field",
+    "media_selector_attachment_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ekmap_lon",
+    "ekmap_lat",
+    "ekmap_zoom",
+    "ekmap_bearing",
+    "ekmap_pitch",
+    "ekmap_width",
+    "ekmap_heigth",
+    "ekmap_type",
+    "ekmap_theme",
+    "ekmap_custom_class",
+    "ekmap_direction",
+    "ekmap_marker_content",
+    "ekmap_marker_icon",
+    "ekmap_marker_icon_img",
+    "ekmap_marker_icon_width",
+    "ekmap_marker_icon_height",
+    "ekmap_marker_phone",
+    "ekmap_marker_lon",
+    "ekmap_marker_lat",
+    "ekmap_marker_text_button",
+    "ekmap_marker_text_button_color",
+    "ekmap_marker_text_button_ground",
+    "ekmap_marker_link",
+    "ekmap_marker_open",
+    "ekmap_marker_id",
+    "ekmap_marker_address",
+    "ekmap_marker_icon_img_width"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:37.479Z"
+}

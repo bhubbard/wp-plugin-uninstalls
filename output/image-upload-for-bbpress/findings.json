@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_bbp_allow_anonymous",
+    "*_first_activate",
+    "hm_bbpui_rd_notice_hidden",
+    "hm_bbpui_first_activate",
+    "*_rd_notice_hidden"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hm_bbpui_clean_temp_dir"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:54.790Z"
+}

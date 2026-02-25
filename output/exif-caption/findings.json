@@ -1,0 +1,14 @@
+{
+  "options": [
+    "exifcaption_settings_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_exif_details",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:02.056Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "yabi_settings",
+    "yabi_credit_note_number",
+    "yabi_invoice_number",
+    "yabi_create_prefix",
+    "yabi_resolution_link",
+    "yabi_save_prefixes",
+    "yabi_prefixes",
+    "yabi_resolution"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yabi_response",
+    "yabi_invoice",
+    "yabi_order_meta",
+    "yabi_graphQL",
+    "yabi_cancel",
+    "yabi_person"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:54.366Z"
+}

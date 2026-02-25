@@ -1,0 +1,34 @@
+{
+  "options": [
+    "book_review_general",
+    "book_review_ratings",
+    "book_review_links",
+    "book_review_fields",
+    "book_review_advanced",
+    "book_review_version",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "book_review_archive_post",
+    "book_review_archive_title",
+    "book_review_isbn",
+    "book_review_title",
+    "book_review_series",
+    "book_review_author",
+    "book_review_genre",
+    "book_review_publisher",
+    "book_review_release_date",
+    "book_review_format",
+    "book_review_pages",
+    "book_review_source",
+    "book_review_cover_url",
+    "book_review_summary",
+    "book_review_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:30.223Z"
+}

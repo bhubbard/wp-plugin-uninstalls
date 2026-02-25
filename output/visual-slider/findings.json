@@ -1,0 +1,17 @@
+{
+  "options": [
+    "vs_layer_template",
+    "vs_global_template",
+    "vs_slide_template",
+    "*_template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vs_setting_json",
+    "vs_slide"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:55.660Z"
+}

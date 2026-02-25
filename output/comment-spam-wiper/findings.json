@@ -1,0 +1,14 @@
+{
+  "options": [
+    "csw_api_key",
+    "csw_spam_count"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "csw_scheduled_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:25.412Z"
+}

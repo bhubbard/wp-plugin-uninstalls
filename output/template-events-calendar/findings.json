@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ects_options",
+    "ect-install-date",
+    "ect-initial-save-version",
+    "cpfm_opt_in_choice_cool_events",
+    "ect-free-installDate",
+    "ect-ratingDiv",
+    "ect_elementor_notice_dismissed",
+    "ect_divi_notice_dismissed",
+    "ect-v",
+    "ect-type",
+    "settings_migration_status",
+    "ect_options"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "ect_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:09.643Z"
+}

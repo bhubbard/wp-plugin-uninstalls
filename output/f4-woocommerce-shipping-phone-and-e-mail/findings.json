@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_enable_shipping_field_phone",
+    "woocommerce_enable_shipping_field_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_phone",
+    "_shipping_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:56.770Z"
+}

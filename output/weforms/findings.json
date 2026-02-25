@@ -1,0 +1,32 @@
+{
+  "options": [
+    "weforms_settings",
+    "wp-human-presence",
+    "_weforms_aff_ref",
+    "weforms_review_notice_dismiss",
+    "weforms_installed",
+    "wpuf_general",
+    "weforms_version",
+    "weforms_dismiss_xnotice_*",
+    "weforms_imported_xforms_*",
+    "nf_form_*"
+  ],
+  "transients": [
+    "weforms_activation_redirect",
+    "weforms_prevent_tracker_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpuf_form_settings",
+    "notifications",
+    "integrations",
+    "_weforms_version",
+    "attachment_form_id",
+    "_wpuf_delete_token",
+    "_weforms_view_count",
+    "wef_form_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:51.817Z"
+}

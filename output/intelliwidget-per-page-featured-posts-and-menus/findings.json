@@ -1,0 +1,16 @@
+{
+  "options": [
+    "widget_intelliwidget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "intelliwidget_all_links",
+    "intelliwidget_external_url",
+    "intelliwidget_all_titles",
+    "intelliwidget_alt_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:57.064Z"
+}

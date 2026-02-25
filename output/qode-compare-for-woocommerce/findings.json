@@ -1,0 +1,16 @@
+{
+  "options": [
+    "qode_compare_for_woocommerce_framework_permalinks",
+    "qode_compare_for_woocommerce_framework_permalinks_updated",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "qode_compare_for_woocommerce_user_comparison_items"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:03.205Z"
+}

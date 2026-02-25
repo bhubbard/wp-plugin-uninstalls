@@ -1,0 +1,18 @@
+{
+  "options": [
+    "loginwiaz_cred_storage",
+    "loginwiaz_disable_password_login",
+    "loginwiaz_redirect_url_value",
+    "loginwiaz_client_id_value",
+    "loginwiaz_client_secret_value",
+    "loginwiaz_tenant_id_value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:07.449Z"
+}

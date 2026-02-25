@@ -1,0 +1,41 @@
+{
+  "options": [
+    "livetv_activate_creation_role",
+    "livetv_defaut_role_wordpress",
+    "livetv_users_role_selected",
+    "livetv_h3",
+    "livetv_view_offline",
+    "livetv_effect",
+    "livetv_cache",
+    "livetv_irc",
+    "livetv_twitter",
+    "livetv_facebook",
+    "livetv_qtip",
+    "livetv_3col",
+    "livetv_types_order",
+    "livetv_disable_normal",
+    "livetv_span_color",
+    "livetv_irc_own3d",
+    "livetv_irc_twitch",
+    "livetv_irc_justin",
+    "livetv_width",
+    "livetv_height",
+    "livetv_color",
+    "livetv_visibility",
+    "livetv_message",
+    "livetv_registration",
+    "livetv_autoplay",
+    "livetv_irc_*",
+    "livetv_easy_install"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "count_live_own3d",
+    "count_live_justin",
+    "count_live_twitch"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:29.536Z"
+}

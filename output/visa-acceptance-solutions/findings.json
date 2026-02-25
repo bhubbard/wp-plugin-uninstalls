@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_checkout_pay_endpoint",
+    "woocommerce_subscriptions_sync_payments",
+    "woocommerce_subscriptions_prorate_synced_payments",
+    "woocommerce_subscriptions_enable_early_renewal_via_modal",
+    "woocommerce_subscriptions_zero_initial_payment_requires_payment",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_subscription_sign_up_fee",
+    "_subscription_payment_sync_date",
+    "wc_cybersource_customer_id_*",
+    "*_flex_cvv_token"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:30.254Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "api_key",
+    "api_secret",
+    "richpanel_woo_analytics"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_email",
+    "_billing_first_name",
+    "_billing_last_name",
+    "_wc_shipment_tracking_items",
+    "wf_canadapost_shipment_source",
+    "_wccf_checkout",
+    "_customer_ip_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:07.282Z"
+}

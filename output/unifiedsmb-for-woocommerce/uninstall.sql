@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('unifiedsmb_log_cleanup_settings', 'unifiedsmb_last_sync', 'unifiedsmb_settings', 'unifiedsmb_default_user_role', 'unifiedsmb_quick_sync_type', 'unifiedsmb_user_roles', 'unifiedsmb_brands_sync_as_attribute', 'unifiedsmb_order_webhook_hook', 'unifiedsmb_prefix', 'unifiedsmb_settings_error', 'unifiedsmb_backoffice_payment_gateways', 'unifiedsmb_settings_retail_error', 'unifiedsmb_settings_latest_collection_error', 'unifiedsmb_backoffice_connection_check');
+DELETE FROM wp_options WHERE option_name LIKE 'unifiedsmb_notice_dismissed_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_postcode', 'billing_country', 'billing_state', 'billing_phone', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_country', 'shipping_state', 'unifiedsmb_user');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_postcode', 'billing_country', 'billing_state', 'billing_phone', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_country', 'shipping_state', 'unifiedsmb_user');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_postcode', 'billing_country', 'billing_state', 'billing_phone', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_country', 'shipping_state', 'unifiedsmb_user');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_postcode', 'billing_country', 'billing_state', 'billing_phone', 'billing_email', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_country', 'shipping_state', 'unifiedsmb_user');
+

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "scpv_custom_class",
+    "scpv_enable_woo",
+    "scpv_apply_all_tel",
+    "scpv_default_country",
+    "scpv_woo_default_country",
+    "scpv_cf7_use_default_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:38.275Z"
+}

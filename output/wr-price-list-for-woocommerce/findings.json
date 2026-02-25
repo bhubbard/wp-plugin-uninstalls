@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wrpl-assign-method",
+    "wrpl-hide_price",
+    "wrpl-default_list",
+    "wrpl_plugin_version",
+    "wrpl_plugin_license",
+    "wrpl-format-price-method",
+    "wrpl-custom_msg_no_login_user",
+    "wrpl-*",
+    "wrpl_role-*",
+    "wrpl_cat_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:54.669Z"
+}

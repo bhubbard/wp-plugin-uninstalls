@@ -1,0 +1,23 @@
+{
+  "options": [
+    "npcc_activated_on",
+    "npcc_deactivated_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_discount_in",
+    "*_amt_per",
+    "*_ccstart_date",
+    "*_ccend_date",
+    "*_ccode",
+    "np_ccode__ccode",
+    "np_ccode__discount_in",
+    "np_ccode__amt_per",
+    "np_ccode__ccstart_date",
+    "np_ccode__ccend_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:44.465Z"
+}

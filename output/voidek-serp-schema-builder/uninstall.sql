@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_default_country', 'vserpb_product_schema');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wc_review_count', 'thumbnail_id', 'rating', 'upvoteCount', 'downvoteCount', 'contributor_type', 'contributor_name', 'contributor_url', 'inLanguage_alternateName', 'inLanguage_description', 'inLanguage_identifier', 'inLanguage_name', 'inLanguage_sameAs', 'inLanguage_url', '_location_name', '_street_address', '_address_locality', '_address_region', '_postal_code', '_address_country', '_sku', 'translator_type', 'translator_name', 'translator_url', '_is_accessible_for_free', 'word_count');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wc_review_count', 'thumbnail_id', 'rating', 'upvoteCount', 'downvoteCount', 'contributor_type', 'contributor_name', 'contributor_url', 'inLanguage_alternateName', 'inLanguage_description', 'inLanguage_identifier', 'inLanguage_name', 'inLanguage_sameAs', 'inLanguage_url', '_location_name', '_street_address', '_address_locality', '_address_region', '_postal_code', '_address_country', '_sku', 'translator_type', 'translator_name', 'translator_url', '_is_accessible_for_free', 'word_count');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wc_review_count', 'thumbnail_id', 'rating', 'upvoteCount', 'downvoteCount', 'contributor_type', 'contributor_name', 'contributor_url', 'inLanguage_alternateName', 'inLanguage_description', 'inLanguage_identifier', 'inLanguage_name', 'inLanguage_sameAs', 'inLanguage_url', '_location_name', '_street_address', '_address_locality', '_address_region', '_postal_code', '_address_country', '_sku', 'translator_type', 'translator_name', 'translator_url', '_is_accessible_for_free', 'word_count');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wc_review_count', 'thumbnail_id', 'rating', 'upvoteCount', 'downvoteCount', 'contributor_type', 'contributor_name', 'contributor_url', 'inLanguage_alternateName', 'inLanguage_description', 'inLanguage_identifier', 'inLanguage_name', 'inLanguage_sameAs', 'inLanguage_url', '_location_name', '_street_address', '_address_locality', '_address_region', '_postal_code', '_address_country', '_sku', 'translator_type', 'translator_name', 'translator_url', '_is_accessible_for_free', 'word_count');
+

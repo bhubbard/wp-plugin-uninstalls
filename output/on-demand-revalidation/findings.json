@@ -1,0 +1,16 @@
+{
+  "options": [
+    "on_demand_revalidation_default_settings",
+    "on_demand_revalidation_post_update_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "on_demand_revalidation_on_post_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_old_permalink"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:13.916Z"
+}

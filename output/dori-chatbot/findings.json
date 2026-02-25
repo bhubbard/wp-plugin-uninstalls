@@ -1,0 +1,46 @@
+{
+  "options": [
+    "rocket_exclude_js",
+    "rocket_exclude_defer_js",
+    "rocket_delay_js_exclusions",
+    "autoptimize_js_exclude",
+    "litespeed.conf.optm-js_excludes",
+    "litespeed.conf.optm-js_defer_excludes",
+    "wpo_minify_js_excludes",
+    "wpo_minify_js_noptimize",
+    "dori-chatbot-onboarding-completed",
+    "dori-chatbot-integrate",
+    "dori-chatbot-sharing-id",
+    "dori-chatbot-client-id",
+    "dori-chatbot-temp-user-id",
+    "dori-chatbot-user-phone",
+    "dori-chatbot-client-secret",
+    "dori-chatbot-wc-consumer-key",
+    "dori-chatbot-wc-consumer-secret",
+    "dori-chatbot-version",
+    "dori_chatbot_auto_update",
+    "dori_chatbot_last_update",
+    "dori_chatbot_update_error",
+    "dori_chatbot_last_update_check"
+  ],
+  "transients": [
+    "dori-chatbot-extract-response-data",
+    "dori-chatbot-bot-creation-retries",
+    "dori-chatbot-bot-creation-status",
+    "dori_chatbot_product_count",
+    "dori-chatbot-bot-creation-error",
+    "dori_chatbot_cache"
+  ],
+  "cron_jobs": [
+    "dori_chatbot_send_order_data",
+    "dori_chatbot_send_cart_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_dori_thread_id",
+    "dori_current_thread_id",
+    "dori_session_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:54.548Z"
+}

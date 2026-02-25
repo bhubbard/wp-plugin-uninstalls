@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cubelaunch_settings",
+    "cubelaunch_pro_license_status",
+    "cubelaunch_pro_license_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cubelaunch_shape_type",
+    "_cubelaunch_background_color",
+    "cl_hide_cpt_mobile_notice_v1"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:00.193Z"
+}

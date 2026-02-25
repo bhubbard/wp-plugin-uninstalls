@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wptwittersearch_limit",
+    "wptwittersearch_terms",
+    "wptwittersearch_phrase",
+    "wptwittersearch_nots",
+    "wptwittersearch_author",
+    "wptwittersearch_avatar",
+    "wptwittersearch_date",
+    "wptwittersearch_dateformat",
+    "wptwittersearch_lang",
+    "wptwittersearch_name",
+    "wptwittersearch_linklove"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:12.671Z"
+}

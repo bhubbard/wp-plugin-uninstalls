@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_goal_tracker_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "selector",
+    "selectorType",
+    "eventName",
+    "props"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:14.053Z"
+}

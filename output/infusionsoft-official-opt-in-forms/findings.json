@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_options",
+    "inf_infusionsoft_options",
+    "infusionsoft_redirect_lists",
+    "update_refresh",
+    "inf_infusionsoft_stats_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "infusionsoft_lists_auto_refresh",
+    "infusionsoft_stats_auto_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:59.232Z"
+}

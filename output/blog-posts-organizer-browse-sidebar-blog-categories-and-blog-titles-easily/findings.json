@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_atw_custom_title",
+    "category_icon",
+    "atw_category_order",
+    "atw_category_show"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:57.819Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "enable_advanced_payment",
+    "advance_payment_type",
+    "advance_payment_value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_advance_payment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:02.757Z"
+}

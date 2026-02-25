@@ -1,0 +1,34 @@
+{
+  "options": [
+    "_site_transient_update_core",
+    "_site_transient_update_themes",
+    "_site_transient_update_plugins",
+    "_site_transient_theme_roots",
+    "sct_cron_time",
+    "sct_use_*",
+    "*_author",
+    "*_update",
+    "*_webhook_url",
+    "sct_chatwork_api_token",
+    "sct_chatwork_room_id",
+    "sct_use_slack",
+    "sct_slack_webhook_url",
+    "sct_send_slack_author",
+    "sct_send_slack_update",
+    "sct_use_chatwork",
+    "sct_send_chatwork_author",
+    "sct_send_chatwork_update",
+    "sct_use_discord",
+    "sct_discord_webhook_url",
+    "sct_send_discord_author",
+    "sct_send_discord_update"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sct_update_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:51.895Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "cc_batch_overwrite",
+    "cc_start",
+    "cc_end",
+    "cc_batch_share",
+    "cc_batch_mod",
+    "mc_cc_default_com_setting_name",
+    "mc_cc_default_mod_setting_name",
+    "mc_cc_search_setting_name",
+    "mc_cc_area_setting_name",
+    "mc_cc_image_setting_name",
+    "mc_cc_link_setting_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "*_flag",
+    "_mc_cc_default_mod_setting_name",
+    "_mc_cc_default_com_setting_name",
+    "_mc_cc_default_com_setting_name_flag",
+    "_mc_cc_default_mod_setting_name_flag",
+    "_mc_cc_full_setting_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:10.056Z"
+}

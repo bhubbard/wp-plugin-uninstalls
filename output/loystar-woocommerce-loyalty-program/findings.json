@@ -1,0 +1,34 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_permalinks",
+    "wc_loystar_gokada_option_enable"
+  ],
+  "transients": [
+    "wc_loystar-sync-status",
+    "wc_loystar-setting-total",
+    "wc_loystar-setting-synced",
+    "wc_loystar-sync-started-time",
+    "wc_loystar-last-sync-error",
+    "wc_loystar-sync-completed",
+    "wc_ls_product_sync_total_synced",
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [
+    "wc_loystar_sync_products_cron",
+    "wc_loystar_clear_sync_progress",
+    "woocommerce_flush_rewrite_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_loystar_order_sent",
+    "_loystar_order_uuid",
+    "_loystar_order_id",
+    "_loystar_order_status",
+    "_loystar_product_category_id",
+    "_product_attributes",
+    "attribute_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:33.611Z"
+}

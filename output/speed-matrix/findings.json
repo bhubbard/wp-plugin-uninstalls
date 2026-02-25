@@ -1,0 +1,21 @@
+{
+  "options": [
+    "speed_matrix_settings",
+    "speed_matrix_last_cleanup",
+    "speed_matrix_activated",
+    "speed_matrix_version"
+  ],
+  "transients": [
+    "speed_matrix_activation_notice",
+    "speed_matrix_cleanup_running",
+    "speed_matrix_cache_stats",
+    "speed_matrix_transients_count"
+  ],
+  "cron_jobs": [
+    "speed_matrix_auto_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:55.756Z"
+}

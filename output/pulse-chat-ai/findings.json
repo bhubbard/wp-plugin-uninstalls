@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pulse_chat_ai_options"
+  ],
+  "transients": [
+    "pulse_chat_ai_license_check",
+    "pulse_chat_ai_license_last_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_conversation_messages",
+    "_conversation_page_id",
+    "_conversation_model",
+    "_conversation_start_time",
+    "_conversation_end_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:21.574Z"
+}

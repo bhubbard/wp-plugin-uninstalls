@@ -1,0 +1,36 @@
+{
+  "options": [
+    "rocext_terms_accepted",
+    "rocext_terms_accepted_date",
+    "rocext_terms_accepted_by",
+    "rocext_show_full_history",
+    "rocext_visible_columns",
+    "rocext_user_labels",
+    "rocext_auto_cleanup",
+    "rocext_retention_period",
+    "rocext_policy_version",
+    "rocext_integrity_salt",
+    "rocext_table_suffix",
+    "rocext_date_format",
+    "rocext_time_format",
+    "rocext_apply_display_to_exports",
+    "rocext_geoip_enabled",
+    "rocext_menu_location",
+    "rocext_wizard_state"
+  ],
+  "transients": [
+    "rocext_admin_messages_*",
+    "rocext_invalid_records",
+    "rocext_verification_result"
+  ],
+  "cron_jobs": [
+    "rocext_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rocext_history_warning_dismissed",
+    "rocext_salt_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:37.055Z"
+}

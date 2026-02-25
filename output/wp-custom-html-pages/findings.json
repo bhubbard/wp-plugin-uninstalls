@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpchtmlp_opt_remove_table_on_uninstall",
+    "wpchtmlp_opt_editor_type",
+    "wpchtmlp_opt_editor_style",
+    "wpchtmlp_opt_allow_wp-admin",
+    "wpchtmlp_opt_filter_params",
+    "wpchtmlp_ignore_trailing_slash",
+    "WPCHTMLP_activity_log_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "WPCHTMLP_page_meta_box"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:16.148Z"
+}

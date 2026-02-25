@@ -1,0 +1,49 @@
+{
+  "options": [
+    "gg_woo_feed_feed_*",
+    "gg_woo_feed_config_*",
+    "gg_woo_feed_google_sync",
+    "gg_woo_feed_google_sync_access_token",
+    "gg_woo_feed_temp_*",
+    "gg_woo_feed_settings"
+  ],
+  "transients": [
+    "gg_woo_feed_feed_notices",
+    "gg_woo_feed_installing",
+    "_gg_woo_feed_activation_redirect"
+  ],
+  "cron_jobs": [
+    "gg_woo_feed_update",
+    "gg_woo_feed_generate_feed",
+    "gg_woo_feed_corn"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*google_taxonomy",
+    "*brand",
+    "*mpn",
+    "*adult",
+    "*shipping_label",
+    "*exclude_product",
+    "*custom_title",
+    "*custom_description",
+    "*custom_url",
+    "*gtin",
+    "*multipack",
+    "*color",
+    "*pattern",
+    "*size",
+    "*max_handling_time",
+    "*min_handling_time",
+    "*unit_pricing_measure",
+    "*unit_pricing_base_measure",
+    "*installmentmonths",
+    "*installmentamount",
+    "*promotion_id",
+    "gg_woo_feed-exclude-category",
+    "_price",
+    "_stock"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:29.105Z"
+}

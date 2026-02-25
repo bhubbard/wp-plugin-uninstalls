@@ -1,0 +1,41 @@
+{
+  "options": [
+    "whols_diagnostic_data_notice",
+    "whols_diagnostic_data_agreed",
+    "*_htiop",
+    "*_htiop_bar",
+    "*_htiop_popup",
+    "*_htiop_redirect",
+    "*_htiop_data",
+    "*_htiop_timer",
+    "whols_options",
+    "whols_flush_rewrite_rules_flag",
+    "whols_installed",
+    "whols_onboarding",
+    "woocommerce_myaccount_page_id",
+    "whols_version",
+    "whols_do_activation_redirect",
+    "whols_default_role"
+  ],
+  "transients": [
+    "*_htiop_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "whols_user_request_meta",
+    "whols_request_id",
+    "_whols_mark_this_product_as_wholesale_only",
+    "_whols_price_type_1_properties",
+    "_whols_product_visibility",
+    "_whols_*",
+    "_csf_errors_*",
+    "whols_role_tax_meta",
+    "_whols_price_type_2_properties",
+    "_price",
+    "whols_saved_lists",
+    "whols_test_mode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:01.419Z"
+}

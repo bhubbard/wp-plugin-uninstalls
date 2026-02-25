@@ -1,0 +1,13 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('woocommerce_pay_page_id');
+delete_site_option('woocommerce_pay_page_id');
+delete_option('woocommerce_PixelPay_IPG_Gateway_settings');
+delete_site_option('woocommerce_PixelPay_IPG_Gateway_settings');
+

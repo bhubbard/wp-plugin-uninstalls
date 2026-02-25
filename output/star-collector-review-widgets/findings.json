@@ -1,0 +1,15 @@
+{
+  "options": [
+    "SCRPlugin_activation_completed"
+  ],
+  "transients": [
+    "plugin_info_*"
+  ],
+  "cron_jobs": [
+    "your_cron_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:38.737Z"
+}

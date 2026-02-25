@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dn_wc_minimum_order-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dn_wc_minimum_order_exception"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:03.347Z"
+}

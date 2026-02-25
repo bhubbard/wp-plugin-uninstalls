@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sls_plugin_langs",
+    "sls_plugin_langs_backup",
+    "sls_plugin_linking",
+    "sls_plugin_linking_backup",
+    "sls_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:22.010Z"
+}

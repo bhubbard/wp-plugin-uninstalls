@@ -1,0 +1,20 @@
+{
+  "options": [
+    "zephr",
+    "zephr_user_migration_success"
+  ],
+  "transients": [
+    "zephr_graphql_sites",
+    "zephr_browser_version"
+  ],
+  "cron_jobs": [
+    "zephr_update_proxied_pages",
+    "do_zephr_user_migrate"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "zephr_feature"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:07.554Z"
+}

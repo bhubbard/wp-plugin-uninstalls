@@ -1,0 +1,27 @@
+{
+  "options": [
+    "fundcollector_last_translation_update",
+    "fundcollector_form_dynamic_css",
+    "fundcollector_debug_dates",
+    "fundcollector_ajax_debug_logged"
+  ],
+  "transients": [
+    "fundcollector_settings_errors",
+    "fundcollector_settings_updated",
+    "fundcollector_critical_db_errors",
+    "fundcollector_forms_errors",
+    "fundcollector_token_*",
+    "fundcollector_payment_failed_*"
+  ],
+  "cron_jobs": [
+    "fundcollector_cleanup_temp_data",
+    "fundcollector_cleanup_expired_donations",
+    "fundcollector_daily_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fundcollector_dismissed_db_error_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:55.914Z"
+}

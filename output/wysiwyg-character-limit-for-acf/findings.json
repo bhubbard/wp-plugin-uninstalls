@@ -1,0 +1,15 @@
+{
+  "options": [
+    "acf_wysiwyg_cl_settings",
+    "acf_wysiwyg_cl_tracking_optin",
+    "acf_wysiwyg_cl__plugin_version",
+    "acf_wysiwyg_cl_plugin_version",
+    "acf_wysiwyg_cl_global_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:06.563Z"
+}

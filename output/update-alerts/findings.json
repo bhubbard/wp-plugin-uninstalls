@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_authUsername",
+    "*_authPassword",
+    "*_projectSlug",
+    "*_issueType",
+    "*_day",
+    "*_emailTo",
+    "*_secondEmail",
+    "*_flowEndpoint",
+    "*_iftttEndpoint",
+    "*_zapEndpoint",
+    "current_theme",
+    "ua_db_version"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "update_alerts_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:44.923Z"
+}

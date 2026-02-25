@@ -1,0 +1,19 @@
+{
+  "options": [
+    "dw_verify_max_resend_allowed",
+    "dw_verify_authorize_page",
+    "dw_verify_autologin",
+    "dw_verify_redirect_page",
+    "dwvrf_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "verify-lock",
+    "verify-lock-hash-method",
+    "verify-link-attempts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:28.517Z"
+}

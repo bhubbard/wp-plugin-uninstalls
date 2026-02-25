@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_tradesafe_settings",
+    "tradesafe_api_access",
+    "dokan_selling",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_default_gateway",
+    "tradesafe_client_id",
+    "tradesafe_client_secret",
+    "tradesafe_transaction_industry",
+    "tradesafe_production_mode",
+    "tradesafe_transaction_marketplace",
+    "tradesafe_transaction_fee_allocation",
+    "tradesafe_transaction_fee",
+    "tradesafe_transaction_fee_type",
+    "processing_fee",
+    "tradesafe_payment_gateway_version"
+  ],
+  "transients": [
+    "tradesafe_client_info",
+    "tradesafe_client_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dokan_profile_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:59.097Z"
+}

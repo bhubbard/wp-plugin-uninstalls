@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wappbiz_vendor_type",
+    "wappbiz_enabled_events",
+    "wappbiz_send_vendor_notifications"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcfmmp_profile_settings",
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:44.034Z"
+}

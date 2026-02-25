@@ -1,0 +1,51 @@
+{
+  "options": [
+    "*db_version",
+    "saso-event-tickets-premium_serial",
+    "SASO_EVENTTICKETS_PLUGIN_VERSION",
+    "*mvct",
+    "testprefix_load_option_xyz",
+    "sasoEventtickets*",
+    "saso_eventtickets_expiration"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sasoEventtickets_cronjob_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "saso_eventtickets_ticket_start_date",
+    "saso_eventtickets_is_daychooser",
+    "saso_eventtickets_list",
+    "saso_eventtickets_only_one_day_for_all_tickets",
+    "saso_eventtickets_request_name_per_ticket",
+    "saso_eventtickets_request_value_per_ticket",
+    "saso_eventtickets_request_value_per_ticket_values",
+    "saso_eventtickets_request_value_per_ticket_def",
+    "saso_eventtickets_request_value_per_ticket_mandatory",
+    "saso_eventtickets_request_name_per_ticket_mandatory",
+    "saso_eventtickets_list_formatter",
+    "saso_eventtickets_list_formatter_values",
+    "saso_eventtickets_event_location",
+    "saso_eventtickets_ticket_start_time",
+    "saso_eventtickets_ticket_end_date",
+    "saso_eventtickets_ticket_end_time",
+    "saso_eventtickets_is_date_for_all_variants",
+    "saso_eventtickets_daychooser_exclude_wdays",
+    "saso_eventtickets_daychooser_offset_start",
+    "saso_eventtickets_daychooser_offset_end",
+    "saso_eventtickets_request_daychooser_per_ticket_label",
+    "saso_eventtickets_ticket_max_redeem_amount",
+    "saso_eventtickets_ticket_is_ticket_info",
+    "saso_eventtickets_ticket_amount_per_item",
+    "saso_eventtickets_request_name_per_ticket_label",
+    "saso_eventtickets_request_value_per_ticket_label",
+    "_saso_eventtickets_is_not_ticket",
+    "saso_eventtickets_is_ticket",
+    "saso_eventtickets_list_sale_restriction",
+    "first_name",
+    "saso_eventtickets_seatingplan"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:17.516Z"
+}

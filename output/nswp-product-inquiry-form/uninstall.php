@@ -1,0 +1,17 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('nswp_pif_opts');
+delete_site_option('nswp_pif_opts');
+delete_option('nswp_pif_plugin_options');
+delete_site_option('nswp_pif_plugin_options');
+
+// Delete Transients
+delete_transient('nswp_pif_install_notice');
+delete_site_transient('nswp_pif_install_notice');
+

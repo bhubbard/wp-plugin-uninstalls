@@ -1,0 +1,32 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcf-client-link",
+    "wpcf-position",
+    "wpcf-facebook",
+    "wpcf-twitter",
+    "wpcf-linkedin",
+    "wpcf-custom-link",
+    "wpcf-google-plus",
+    "wpcf-project-link",
+    "wpcf-video-url",
+    "wpcf-service-icon",
+    "wpcf-service-link",
+    "_athemes_toolbox_body_background_key",
+    "_athemes_toolbox_post_background_key",
+    "_athemes_toolbox_text_color_key",
+    "_athemes_toolbox_hide_menu_key",
+    "_athemes_toolbox_hide_title_key",
+    "_athemes_toolbox_hide_footer_key",
+    "wpcf-client-function",
+    "wpcf-event-date",
+    "wpcf-event-icon",
+    "wpcf-event-icon-color",
+    "wpcf-event-url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:20.986Z"
+}

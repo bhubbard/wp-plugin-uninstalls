@@ -1,0 +1,113 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'tlms-domain'
+wp option delete 'tlms-apikey'
+wp option delete 'tlms-woocommerce-active'
+wp option delete 'tlms-enroll-user-to-courses'
+wp option delete 'tlms_courses_page_title'
+wp option delete 'tlms_courses_page_name'
+wp option delete 'tlms_courses_page_id'
+wp option delete 'tlms-automtically-complete-orders'
+wp option delete 'tlms-domain-map'
+wp option delete 'tlms_signup_page_title'
+wp option delete 'tlms_signup_page_name'
+wp option delete 'tlms_signup_page_id'
+
+# Clear Cron Jobs
+wp cron event delete 'hook'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stock_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stock_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stock_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stock_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'total_sales'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'total_sales'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'total_sales'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'total_sales'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_downloadable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_downloadable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_downloadable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_downloadable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_purchase_note'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_purchase_note'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_purchase_note'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_purchase_note'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_featured'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_featured'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_featured'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_featured'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sale_price_dates_from'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sale_price_dates_from'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sale_price_dates_from'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sale_price_dates_from'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sale_price_dates_to'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sale_price_dates_to'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sale_price_dates_to'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sale_price_dates_to'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_manage_stock'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_manage_stock'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_manage_stock'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_manage_stock'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_backorders'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_backorders'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_backorders'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_backorders'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_talentlms_course_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_talentlms_course_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_talentlms_course_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_talentlms_course_id'"

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wc_wps_constant_contact_woo_list_id",
+    "wc_wps_constant_contact_woo_order_status",
+    "wps_cc_woo_log",
+    "wc_wps_constant_contact_woo_access_token",
+    "wc_wps_constant_contact_woo_api_key",
+    "wps_woo_order_expo_to_cc",
+    "wps_woo_order_expo_to_cc_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "constant_contact_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:02.733Z"
+}

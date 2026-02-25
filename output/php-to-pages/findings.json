@@ -1,0 +1,16 @@
+{
+  "options": [
+    "php_on_pages_version",
+    "php_on_pages_enabled_post_types",
+    "php_on_pages_wc_shop",
+    "php_on_pages_wc_cart",
+    "php_on_pages_wc_checkout",
+    "php_on_pages_remove_trailing_slash"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:33.190Z"
+}

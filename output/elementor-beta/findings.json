@@ -1,0 +1,20 @@
+{
+  "options": [
+    "elementor_enable_inspector",
+    "elementor_beta_auto_update",
+    "elementor_allow_tracking",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "elementor_rollback_versions_*",
+    "elementor_pro_rollback_versions_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "elementor_preferences"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:28.207Z"
+}

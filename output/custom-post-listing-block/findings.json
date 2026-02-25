@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fb_url",
+    "tw_url",
+    "go_url",
+    "li_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:08.969Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wbst_tvs_box_end_date",
+    "wbst_tvs_box_position",
+    "wbst_tvs_box_bg_color",
+    "wbst_tvs_box_color",
+    "wbst_tvs_box_text",
+    "wbst_tvs_box_hide",
+    "wbst_tvs_box_once_time",
+    "wbst_tvs_box_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:48.758Z"
+}

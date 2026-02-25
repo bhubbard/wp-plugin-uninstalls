@@ -1,0 +1,30 @@
+{
+  "options": [
+    "imagerr_dismissed_notice",
+    "imagerr_auto_generate_on_upload",
+    "imagerr_meta_bulk_completed_state",
+    "imagerr_api_key",
+    "imagerr_generate_title",
+    "imagerr_generate_caption",
+    "imagerr_generate_description",
+    "imagerr_generation_language",
+    "imagerr_meta_prefix",
+    "imagerr_meta_suffix",
+    "imagerr_enable_debug_logs",
+    "*_completed_state"
+  ],
+  "transients": [
+    "imagerr_bulk_select_*",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_imagerr_uploaded",
+    "_imagerr_error",
+    "_wp_attachment_image_alt",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:04.584Z"
+}

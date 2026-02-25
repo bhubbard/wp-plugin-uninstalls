@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fediboost_accounts",
+    "fediboost_activated",
+    "fediboost_instance_apps",
+    "fediboost_show_activitypub_notice"
+  ],
+  "transients": [
+    "fediboost_account_*",
+    "fediboost_pending_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_activitypub_activity_type",
+    "_activitypub_object_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:40.407Z"
+}

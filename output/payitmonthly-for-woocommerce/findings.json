@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_pim_settings",
+    "_pim_integration_oauth_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pim_wc_product_option_select"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:52.609Z"
+}

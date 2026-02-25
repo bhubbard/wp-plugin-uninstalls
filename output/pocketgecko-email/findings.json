@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pgem_smtp_host",
+    "pgem_smtp_port",
+    "pgem_smtp_encryption_type",
+    "pgem_smtp_authentication",
+    "pgem_smtp_username",
+    "pgem_smtp_password",
+    "pgem_smtp_from_email",
+    "pgem_smtp_from_name"
+  ],
+  "transients": [
+    "pgem-message",
+    "pgem-error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:24.277Z"
+}

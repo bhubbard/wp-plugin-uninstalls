@@ -1,0 +1,31 @@
+{
+  "options": [
+    "bbpmt-ptot-donot-close",
+    "bbpmt-ptot-del-comments",
+    "bbpmt-ptot-add-author",
+    "bbpmt-ptot-anon-author",
+    "bbpmt-ptot-finalcomment-cb",
+    "bbpmt-ptot-finalcomment-link",
+    "bbpmt-ptot-finalcomment-text",
+    "bbpmt-ptot-cuttopic-cb",
+    "bbpmt-ptot-cuttopic-nbr",
+    "bbpmt-ptot-cutcomment-cb",
+    "bbpmt-ptot-cutcomment-nbr",
+    "bbpmt-ptot-add-post-link",
+    "bbpmt-ptot-close-for-comment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbpmt_movedon",
+    "_bbpmt_movedfrom",
+    "_bbp_forum_id",
+    "_bbp_last_active_id",
+    "_bbp_last_active_time",
+    "_bbpmt_zapped",
+    "bbpmt_convtoreply_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:35.480Z"
+}

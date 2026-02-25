@@ -1,0 +1,16 @@
+{
+  "options": [
+    "posts_per_page_of_tax_category",
+    "posts_per_page_of_tax_post_tag",
+    "posts_per_page_of_cpt_*",
+    "posts_per_page_of_tax_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:14.072Z"
+}

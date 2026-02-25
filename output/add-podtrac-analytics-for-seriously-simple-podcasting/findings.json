@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ss_podcasting_podtrac_analytics_episode_measurement_service",
+    "ss_podcasting_podtrac_blubrry_stats_episode_measurement_service",
+    "ss_podcasting_podtrac_analytics_episode_measurement_service_radio",
+    "ss_podcasting_podtrac_blubrry_stats_episode_measurement_service_name",
+    "ss_podcasting_podtrac_blubrry_stats_episode_measurement_service_radio",
+    "ss_podcasting_podtrac_analytics_refresh_rss_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:45.988Z"
+}

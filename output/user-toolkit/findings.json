@@ -1,0 +1,17 @@
+{
+  "options": [
+    "usrtk_can_login",
+    "_user_switch_temp_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "can_login",
+    "last_login",
+    "when_last_login",
+    "_um_last_login"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:27.109Z"
+}

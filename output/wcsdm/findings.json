@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wcsdm_data_version_*",
+    "active_sitewide_plugins",
+    "woocommerce_shipping_debug_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:10.296Z"
+}

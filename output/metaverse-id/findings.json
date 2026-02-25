@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mv-id::EVE",
+    "mv-id::use::HTTP API",
+    "mv-id::*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mv_id_plugin__regenerate_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:54.869Z"
+}

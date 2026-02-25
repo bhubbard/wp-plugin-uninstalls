@@ -1,0 +1,13 @@
+{
+  "options": [
+    "multi_packages_type",
+    "multi_packages_enabled",
+    "multi_packages_free_shipping"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:08.318Z"
+}

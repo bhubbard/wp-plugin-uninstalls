@@ -1,0 +1,12 @@
+{
+  "options": [
+    "job_manager_enable_types",
+    "job_manager_enable_categories"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:54.506Z"
+}

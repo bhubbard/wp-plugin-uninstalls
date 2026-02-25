@@ -1,0 +1,18 @@
+{
+  "options": [
+    "avatar_manager"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_avatar_manager_custom_avatar_rating",
+    "_avatar_manager_is_custom_avatar",
+    "_avatar_manager_custom_avatar",
+    "avatar_manager_custom_avatar",
+    "avatar_manager_avatar_type",
+    "avatar_manager_blog_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:41.880Z"
+}

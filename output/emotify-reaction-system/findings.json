@@ -1,0 +1,12 @@
+{
+  "options": [
+    "emotify_key",
+    "emotify_check_box"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:40.884Z"
+}

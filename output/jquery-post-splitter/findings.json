@@ -1,0 +1,18 @@
+{
+  "options": [
+    "jps_options",
+    "jps_restrictions",
+    "jps_analytics_id",
+    "jps_custom_style",
+    "jps_custom_section",
+    "jps_custom_section_below"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jps_nav_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:55.342Z"
+}

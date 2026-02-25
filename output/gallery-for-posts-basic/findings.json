@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sn_gfp_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sn_gfp_gallery_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:40.011Z"
+}

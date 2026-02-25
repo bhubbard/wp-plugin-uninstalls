@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wccc_cf7_lawmatics_ignore_spam_entry",
+    "cf7_db_version",
+    "wcc_cf7_lawmatics_notification_send_to",
+    "wcc_cf7_lawmatics_notification_subject",
+    "wcc_cf7_lawmatics_debug",
+    "wccc_cf7_lawmatics_notification_send_to\t",
+    "wccc_cf7_lawmatics_notification_subject",
+    "wccc_cf7_lawmatics_debug",
+    "wccc_cf7_lawmatics_uninstall",
+    "wccc_cf7_lawmatics_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:32.755Z"
+}

@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wpstg_license_status'
+wp option delete 'wpstg_rating'
+wp option delete 'wpstg_beta'
+wp option delete 'wpstg_settings'
+wp option delete 'cron'
+wp option delete 'wpstg_backup_schedules'
+wp option delete 'wpstgpro_version'
+wp option delete 'wpstgpro_install_date'
+wp option delete 'wpstgpro_version_upgraded_from'
+wp option delete 'wpstgpro_upgrade_date'
+wp option delete 'wpstg_version_upgraded_from'
+wp option delete 'wpstg_installDate'
+wp option delete 'wpstg_analytics_has_consent'
+wp option delete 'active_sitewide_plugins'
+wp option delete 'wpstg_license_key'
+wp option delete 'wpstg_optimizer_excluded'
+wp option delete 'wpstg_is_staging_site'
+wp option delete 'wpstg_clone_settings'
+wp option delete 'wpstg_emails_disabled'
+wp option delete 'wpstg_version'
+wp option delete 'wpstg_start_poll'
+wp option delete 'wpstg_hide_beta'
+wp option delete 'wpstg_RatingDiv'
+wp option delete 'wpstg.restore.justRestored'
+wp option delete 'wpstg.restore.justRestored.metadata'
+wp option delete 'wpstg.backups.doing_upload'
+wp option delete 'wpstg_existing_clones_beta'
+wp option delete 'wpstg_analytics_fallback_site_hash'
+wp option delete 'fs_accounts'
+wp option delete 'wpstg_connection'
+wp option delete 'wpstg_rmpermalinks_executed'
+wp option delete 'wpstg_resave_permalinks_executed'
+wp option delete 'wordfenceActivated'
+wp option delete 'wpstg_free_install_date'
+wp option delete 'wpstgDisableLicenseNotice'
+
+# Delete Transients
+wp transient delete 'wpstg_activation_redirect'
+wp transient delete 'wpstg.run_daily'
+wp transient delete 'wpstg.directory_listing.last_checked'
+wp transient delete 'update_plugins'
+wp transient delete 'wpstg_user_logged_in_status'
+wp transient delete 'wpstg.bootstrap.opcache.lastCleared'
+wp transient delete 'wpstg_auto_login_failed'
+wp transient delete 'wpstg_auto_login_failed_reason'
+
+# Clear Cron Jobs
+wp cron event delete 'wpstg_weekly_event'
+

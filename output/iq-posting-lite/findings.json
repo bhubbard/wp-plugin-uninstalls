@@ -1,0 +1,14 @@
+{
+  "options": [
+    "iq_posting_notice",
+    "postingiq_settings"
+  ],
+  "transients": [
+    "iq_posting_news"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:55.839Z"
+}

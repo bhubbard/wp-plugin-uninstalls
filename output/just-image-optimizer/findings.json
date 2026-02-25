@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "medium_large_size_w",
+    "medium_large_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "just_image_optimizer_autorun"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_just_img_opt_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:34.692Z"
+}

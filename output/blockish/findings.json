@@ -1,0 +1,18 @@
+{
+  "options": [
+    "blockish_version",
+    "blockish_installed_time",
+    "*_installed",
+    "blockish_inactive_blocks",
+    "*_list",
+    "blockish_device_list"
+  ],
+  "transients": [
+    "dismissed_notice_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:30.911Z"
+}

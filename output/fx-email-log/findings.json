@@ -1,0 +1,12 @@
+{
+  "options": [
+    "fx_email_log_db_version",
+    "fx-email-log_welcome"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:55.132Z"
+}

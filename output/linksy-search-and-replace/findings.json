@@ -1,0 +1,25 @@
+{
+  "options": [
+    "linksy_link_analysis_cron_enabled",
+    "linksy_link_analysis_offset",
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aviaLayoutBuilder_active",
+    "_fl_builder_enabled",
+    "_fl_builder_data",
+    "_fl_builder_draft",
+    "_bricks_editor_mode",
+    "_elementor_edit_mode",
+    "tve_content_before_more",
+    "tcb_editor_enabled"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:18.681Z"
+}

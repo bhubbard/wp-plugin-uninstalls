@@ -1,0 +1,13 @@
+{
+  "options": [
+    "appsell_api_key",
+    "appsell_error",
+    "appsell_error_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:00.025Z"
+}

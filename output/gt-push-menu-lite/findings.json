@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gtpm_options",
+    "gtpm_version",
+    "gtpm_old_version",
+    "GTPM_DOING_UPDATE"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:57.331Z"
+}

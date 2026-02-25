@@ -1,0 +1,16 @@
+{
+  "options": [
+    "heateor_sc_version",
+    "heateor_sc",
+    "heateor_sc_plugin_notification_read",
+    "heateor_sc_gdpr_notification_read"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_heateor_sc_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:18.258Z"
+}

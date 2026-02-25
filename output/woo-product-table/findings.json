@@ -1,0 +1,44 @@
+{
+  "options": [
+    "wpt_pro_license_key",
+    "*_unit",
+    "b2bking_all_products_visible_all_users_setting",
+    "b2bking_disable_visibility_setting",
+    "qv_button_label",
+    "cawqv_general_section",
+    "ywraq_show_btn_link_text",
+    "ywraq_show_btn_link",
+    "ywraq_add_to_quote_button_color",
+    "wpt_configure_options"
+  ],
+  "transients": [
+    "codersaiful_browse_plugins",
+    "*_ajax_visibility"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "conditions",
+    "column_array",
+    "enabled_column_array",
+    "column_settings",
+    "basics",
+    "column_array_mobile",
+    "enabled_column_array_mobile",
+    "column_settings_mobile",
+    "column_array_tablet",
+    "enabled_column_array_tablet",
+    "column_settings_tablet",
+    "mobile",
+    "pagination",
+    "responsive",
+    "search_n_filter",
+    "table_style",
+    "enabled_column_array*",
+    "column_array*",
+    "column_settings*",
+    "config"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:31.927Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*enable_custom_loop",
+    "*default_view",
+    "*number_of_columns",
+    "*padding",
+    "*viewport",
+    "*posts_per_page",
+    "*next_page_text",
+    "*previous_page_text",
+    "*categories",
+    "*product_types",
+    "*order_by",
+    "*order_seq",
+    "*order_by_text",
+    "*show",
+    "*before_or_after",
+    "*content_before",
+    "*content_after",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:38.845Z"
+}

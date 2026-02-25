@@ -1,0 +1,24 @@
+{
+  "options": [
+    "cmpopfly_custom_post_type_support",
+    "cm_popupflyin_json_api_pinprotect",
+    "cm-campaign-show-allpages",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins",
+    "cmpopfly_glossaryPermalink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [
+    "CURRENT_TIMESTAMP"
+  ],
+  "metadata": [
+    "_cm_advertisement_items_custom_fields",
+    "_wp_page_template",
+    "*_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:48.634Z"
+}

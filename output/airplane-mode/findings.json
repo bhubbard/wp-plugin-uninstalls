@@ -1,0 +1,21 @@
+{
+  "options": [
+    "airplane-mode"
+  ],
+  "transients": [
+    "wporg_theme_feature_list",
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "wp_update_themes",
+    "wp_update_plugins",
+    "wp_version_check",
+    "wp_maybe_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:26.781Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "easyfua_settings*",
+    "easyfua_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "easyfua_delete_temp_files"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:01.803Z"
+}

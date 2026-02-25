@@ -1,0 +1,24 @@
+{
+  "options": [
+    "affiliate_coupon_lite_settings",
+    "cp_deal_text",
+    "cp_coupon_text",
+    "cp_dealac_text"
+  ],
+  "transients": [
+    "cp_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cp_store_image",
+    "affiliate_coupon_lite_code",
+    "affiliate_coupon_lite_affiliate_link",
+    "affiliate_coupon_lite_popular",
+    "affiliate_coupon_lite_expiry",
+    "affiliate_coupon_lite_description",
+    "affiliate_coupon_lite_voteup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:39.767Z"
+}

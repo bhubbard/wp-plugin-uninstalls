@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ss_stop_sp_reg_options",
+    "ss_stop_sp_reg_stats",
+    "ss_muswitch",
+    "wordpress_api_key",
+    "ss_cache",
+    "ssp_enable_custom_login"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "signup_ip",
+    "ss_notice_dismissed_*",
+    "ss_wc_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:56.007Z"
+}

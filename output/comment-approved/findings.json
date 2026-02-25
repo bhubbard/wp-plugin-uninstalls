@@ -1,0 +1,18 @@
+{
+  "options": [
+    "comment_approved_message",
+    "comment_approved_subject",
+    "comment_approved_mail_type",
+    "comment_approved_enable",
+    "comment_approved_default"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "notify_me",
+    "comment_approve_notify_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:38.187Z"
+}

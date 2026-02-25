@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mds_db_version",
+    "monthly_data_sheets_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mds_managers",
+    "mds_row_names",
+    "mds_column_names"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:52.075Z"
+}

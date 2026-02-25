@@ -1,0 +1,21 @@
+{
+  "options": [
+    "nearst_upload_key",
+    "nearst_last_error",
+    "nearst_upload_type",
+    "nearst_last_upload_products",
+    "nearst_last_upload",
+    "nearst_product_identifier",
+    "nearst_activated",
+    "nearst_auto_update_enabled",
+    "auto_update_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nearst_regular_upload"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:00.943Z"
+}

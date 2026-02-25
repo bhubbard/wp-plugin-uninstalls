@@ -1,0 +1,11 @@
+{
+  "options": [
+    "me_simple_force_ssl_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:07.421Z"
+}

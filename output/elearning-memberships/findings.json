@@ -1,0 +1,33 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "elm_settings",
+    "elm_access_active_taxonomy",
+    "elm_access_supported_post_types"
+  ],
+  "transients": [
+    "_welcome_redirect_rmp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "elm_user_level_data",
+    "_elm_level_price",
+    "_elm_level_duration",
+    "_elm_level_duration_unit",
+    "_elm_level_billing_type",
+    "_elm_level_status",
+    "_elm_level_period_type",
+    "_elm_level_url",
+    "_elm_associated_levels",
+    "_elm_level_enable_restriction",
+    "_edd_elm_pricing_enable",
+    "_edd_elm_level",
+    "edd_variable_prices",
+    "first_name",
+    "last_name",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:52.638Z"
+}

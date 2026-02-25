@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gf_paytm_form_version",
+    "gf_paytm_form_settings",
+    "gf_paytm_form_site_name",
+    "gf_paytm_form_auth_token",
+    "recently_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:03.536Z"
+}

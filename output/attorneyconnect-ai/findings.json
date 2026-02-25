@@ -1,0 +1,21 @@
+{
+  "options": [
+    "attorneyconnect_ai_website_code",
+    "attorneyconnect_ai_widget_bar_placement",
+    "attorneyconnect_ai_feature_color",
+    "attorneyconnect_ai_text_color",
+    "attorneyconnect_ai_include_title_button",
+    "attorneyconnect_ai_include_call_button",
+    "attorneyconnect_ai_include_email_button",
+    "attorneyconnect_ai_include_chat_button",
+    "attorneyconnect_ai_show_powered_by",
+    "attorneyconnect_ai_show_floating_chat_button",
+    "attorneyconnect_ai_engagement_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:48.548Z"
+}

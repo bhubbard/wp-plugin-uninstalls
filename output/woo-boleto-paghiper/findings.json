@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_paghiper_pix_settings",
+    "woocommerce_paghiper_billet_settings",
+    "woocommerce_manage_stock",
+    "woocommerce_paghiper_db_version",
+    "woocommerce_paghiper_settings",
+    "woocommerce_permalinks"
+  ],
+  "transients": [
+    "woo_paghiper_apikey_valid",
+    "woo_paghiper_notice_2_1",
+    "woo_paghiper_notice_install_date",
+    "woo_paghiper_notice_review_done",
+    "woo_paghiper_notice_review_ignore"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:07.195Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pobt_enabled",
+    "pobt_enabled_at",
+    "pobt_bypass_key",
+    "pobt_retry_after",
+    "pobt_allow_bots",
+    "pobt_bypass_enabled",
+    "surge_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:22.042Z"
+}

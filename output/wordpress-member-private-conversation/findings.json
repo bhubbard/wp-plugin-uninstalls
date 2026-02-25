@@ -1,0 +1,23 @@
+{
+  "options": [
+    "nmconvo_allow_attachment",
+    "nmconvo_size_limit",
+    "nmconvo_file_ext",
+    "nmconvo_file_limit",
+    "nmconvo_db_version",
+    "nmconvo_roles",
+    "nmconvo_notify_user",
+    "nmconvo_email_subject",
+    "nmconvo_email_message",
+    "nmconvo_sent_message",
+    "nmconvo_delete_message",
+    "nmconvo_off_bootstrap",
+    "nmconvo_convo_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:03.205Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "au_attachment_usage_found",
+    "au_color_status",
+    "au_auto_sync",
+    "au_filter_by_usage",
+    "au_display_usage_listview",
+    "sidebars_widgets",
+    "widget_media_image",
+    "widget_media_gallery",
+    "widget_media_audio",
+    "widget_media_video",
+    "au_is_rating_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "au_attachment_item_usage"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:29.860Z"
+}

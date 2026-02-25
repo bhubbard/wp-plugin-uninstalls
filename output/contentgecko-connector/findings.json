@@ -1,0 +1,24 @@
+{
+  "options": [
+    "contentgecko_settings",
+    "contentgecko_api_key",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [
+    "contentgecko_recent_logs",
+    "wc_product_children_*",
+    "wc_var_prices_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_contentgecko_imported",
+    "_wp_attached_file",
+    "_wp_attachment_image_alt",
+    "_contentgecko_cluster_id",
+    "_contentgecko_last_payload",
+    "_contentgecko_last_synced"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:15.071Z"
+}

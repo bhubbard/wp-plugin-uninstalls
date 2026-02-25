@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "template_type",
+    "thumbnail_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:08.597Z"
+}

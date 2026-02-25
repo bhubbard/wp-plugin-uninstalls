@@ -1,0 +1,17 @@
+{
+  "options": [
+    "genpro_option_name",
+    "genpro_serial_text",
+    "genpro_guar_text",
+    "genpro_formbtn_text",
+    "genpro_form_positive",
+    "genpro_form_negative",
+    "genpro_container_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:59.911Z"
+}

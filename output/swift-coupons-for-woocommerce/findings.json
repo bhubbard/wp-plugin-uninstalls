@@ -1,0 +1,22 @@
+{
+  "options": [
+    "swiftcoupons_auto_apply_coupons",
+    "swift_coupons_activate_time",
+    "swift_coupons_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "swiftcoupons_add_products",
+    "swiftcoupons_bxgx",
+    "swiftcoupons_url_apply_override_code",
+    "swiftcoupons_scheduler",
+    "swiftcoupons_qualifiers",
+    "swiftcoupons_url_apply",
+    "swiftcoupons_auto_apply",
+    "swiftcoupons_shipping_discounts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:14.886Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "dfrapi_account",
+    "dfrapi_networks",
+    "dfrapi_merchants",
+    "dfrapi_configuration",
+    "dfrapi_transient_whitelist",
+    "dfrapi_product_networks",
+    "dfrapi_coupon_networks",
+    "dfrapi_version",
+    "dfrapi_usage_notification_tracker"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_owner_datafeedr"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:34.404Z"
+}

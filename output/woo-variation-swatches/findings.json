@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_enable_ajax_add_to_cart",
+    "woocommerce_placeholder_image",
+    "active_sitewide_plugins",
+    "woo_variation_swatches"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product_attribute_color",
+    "product_attribute_image",
+    "show_tooltip",
+    "tooltip_text",
+    "tooltip_image_id",
+    "_wc_attachment_source",
+    "is_dual_color",
+    "secondary_color",
+    "group_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:40.342Z"
+}

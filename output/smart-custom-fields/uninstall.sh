@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%condition-post-ids'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%condition-post-ids'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%condition-post-ids'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%condition-post-ids'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%condition'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%condition'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%condition'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%condition'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%roles'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%roles'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%roles'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%roles'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%taxonomies'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%taxonomies'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%taxonomies'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%taxonomies'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%options-pages'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%options-pages'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%options-pages'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%options-pages'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%setting'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%setting'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%setting'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%setting'"

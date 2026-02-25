@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cloudinary_cloud_name",
+    "cloudinary_auto_mapping_folder",
+    "cloudinary_default_hard_crop",
+    "cloudinary_default_soft_crop",
+    "cloudinary_urls",
+    "cloudinary_content_images"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:20.630Z"
+}

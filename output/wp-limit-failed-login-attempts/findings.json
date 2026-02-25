@@ -1,0 +1,15 @@
+{
+  "options": [
+    "WPLFLA_options",
+    "Block_hash_code",
+    "WPLFLA_version",
+    "Block_hash_code_range_ip",
+    "Block_hash_code_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:40.548Z"
+}

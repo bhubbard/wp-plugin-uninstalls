@@ -1,0 +1,33 @@
+{
+  "options": [
+    "installed_*",
+    "dex_appointments_data",
+    "calendar_language",
+    "calendar_dateformat",
+    "calendar_militarytime",
+    "calendar_weekday",
+    "calendar_mindate",
+    "calendar_maxdate",
+    "calendar_pages",
+    "enable_paypal",
+    "paypal_email",
+    "request_cost",
+    "paypal_product_name",
+    "currency",
+    "url_ok",
+    "url_cancel",
+    "paypal_language",
+    "notification_from_email",
+    "notification_destination_email",
+    "email_subject_confirmation_to_user",
+    "email_confirmation_to_user",
+    "email_subject_notification_to_admin",
+    "email_notification_to_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:03.734Z"
+}

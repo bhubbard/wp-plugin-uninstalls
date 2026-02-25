@@ -1,0 +1,16 @@
+{
+  "options": [
+    "eg_size",
+    "eg_rating",
+    "eg_defaulturl",
+    "eg_style_span",
+    "eg_style_img",
+    "eg_api_hook"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:19.483Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "rg_book_enable",
+    "rg_book_text",
+    "rg_book_url",
+    "rg_left_right",
+    "rg_book_color",
+    "rg_text_color",
+    "rg_book_bottom",
+    "rg_page_id",
+    "rg_target",
+    "rg_width",
+    "rg_font_size",
+    "rg_font_size_m",
+    "rg_btn_pad",
+    "rg_btn_pad_m",
+    "rg_font_family"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "my_meta_box_enable",
+    "my_meta_box_text",
+    "my_meta_box_url",
+    "my_meta_box_bg",
+    "my_meta_box_txtcolor",
+    "my_meta_box_font_size",
+    "my_meta_box_font_size_m",
+    "my_meta_box_btn_pad",
+    "my_meta_box_btn_pad_m",
+    "my_meta_box_target",
+    "my_meta_box_width"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:26.007Z"
+}

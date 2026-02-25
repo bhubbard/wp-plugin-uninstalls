@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wplms_bbb_meetings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wplms_send_wplms_bbb_reminders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bbb-room-moderator-code",
+    "bbb-room-viewer-code",
+    "bbb-room-meeting-id",
+    "bbb-room-recordable",
+    "bbb-room-wait-for-moderator"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:03.573Z"
+}

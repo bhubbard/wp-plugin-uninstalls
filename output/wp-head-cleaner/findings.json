@@ -1,0 +1,11 @@
+{
+  "options": [
+    "wp_head_cleaner_hooks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:00.747Z"
+}

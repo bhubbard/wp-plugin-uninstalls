@@ -1,0 +1,17 @@
+{
+  "options": [
+    "roomlio-pk",
+    "roomlio_admin_notification",
+    "roomlio-hmac-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "roomlio-height",
+    "roomlio-width",
+    "roomlio-room-key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:45.545Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "ic_woocat",
+    "IC_WOOCAT_activation_message_done",
+    "ic_cat_recommended_extensions",
+    "ic_hidden_notices",
+    "implecode_wp_tooltips",
+    "implecode_wp_hidden_tooltips",
+    "IC_EPC_activation_message",
+    "IC_EPC_activation_message_done",
+    "ic_cat_wizard_woo_choice",
+    "ic_enable_page_for_woo",
+    "ic_enable_listing_for_woo",
+    "product_archive_page_id",
+    "product_archive",
+    "woocommerce_shop_page_id",
+    "ic_woocat_woo_gallery"
+  ],
+  "transients": [
+    "implecode_extensions_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ic_woocat_url",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:02.208Z"
+}

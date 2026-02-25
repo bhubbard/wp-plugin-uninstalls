@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bp-dob",
+    "bp-dp-width",
+    "bp-dp-height",
+    "bp-dp-type"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bp_birthday_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:30.135Z"
+}

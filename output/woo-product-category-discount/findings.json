@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpcd_tables_created",
+    "wpcd_category_discount_version",
+    "wpcd_process_method",
+    "wpcd_migration_complete",
+    "wpcd_category_discount",
+    "wpcd_attr_discount",
+    "wpcd_brand_discount",
+    "wpcd_tag_discount",
+    "cron"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpcd_apply_discount_setup",
+    "wpcd_remove_discount_setup",
+    "wpcd_apply_discount",
+    "wpcd_remove_discount",
+    "wpcd_discount_legacy_migrate"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wpcd_discount_id",
+    "_wpcd_original_regular_price",
+    "_wpcd_original_sale_price",
+    "_wpcd_original_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:11.220Z"
+}

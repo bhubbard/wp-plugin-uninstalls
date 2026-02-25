@@ -1,0 +1,14 @@
+{
+  "options": [
+    "agmg_order_status_version_notice",
+    "agmg_order_status_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_agmg_order_status_mail_subject"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:48.015Z"
+}

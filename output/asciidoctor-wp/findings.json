@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpasc_mode_select",
+    "wpasc_check_post",
+    "wpasc_check_page",
+    "wpasc_check_asciidoccss",
+    "wpasc_check_custum",
+    "wpasc_check_image",
+    "wpasc_check_highlight",
+    "wpasc_check_table_paragraph"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpasciidoc_checkbox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:52.850Z"
+}

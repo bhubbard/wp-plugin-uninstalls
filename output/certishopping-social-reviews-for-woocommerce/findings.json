@@ -1,0 +1,15 @@
+{
+  "options": [
+    "certishopping_settings",
+    "woocommerce_enable_review_rating",
+    "native_star_ratings_enabled",
+    "wc_certishopping_just_installed",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:07.791Z"
+}

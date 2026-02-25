@@ -1,0 +1,19 @@
+{
+  "options": [
+    "specific-files_version",
+    "specific-files_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_specific-files_css_files",
+    "_specific-files_css_files_inline",
+    "_specific-files_css_files_root",
+    "_specific-files_js_files",
+    "_specific-files_js_files_inline",
+    "_specific-files_js_files_root"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:11.141Z"
+}

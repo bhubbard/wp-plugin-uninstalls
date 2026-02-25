@@ -1,0 +1,27 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'tantive_text_effects_overall_default_color'
+wp option delete 'tantive_text_effects_square_slide_in_from_left_rectangle_color'
+wp option delete 'tantive_text_effects_pop_out_shadow_color'
+wp option delete 'tantive_text_effects_line_swipe_border_color'
+wp option delete 'tantive_text_effects_gate_mark_gate_color'
+wp option delete 'tantive_text_effects_border_round_trail_border_color'
+wp option delete 'tantive_text_effects_border_split_trail_t2b_border_color'
+wp option delete 'tantive_text_effects_border_split_trail_b2t_border_color'
+wp option delete 'tantive_text_effects_border_split_trail_l2r_border_color'
+wp option delete 'tantive_text_effects_border_split_trail_R2L_border_color'
+wp option delete 'tantive_text_effects_line_curtain_line_color'
+wp option delete 'tantive_text_effects_half_background_rotate_background_color'
+wp option delete 'tantive_text_effects_double_line_slide_in_line_color'
+wp option delete 'tantive_text_effects_accent_underline_grow1_line_color'
+wp option delete 'tantive_text_effects_accent_underline_grow2_line_color'
+wp option delete 'tantive_text_effects_accent_underline_grow3_line_color'
+wp option delete 'tantive_text_effects_accent_underline_grow4_line_color'
+wp option delete 'tantive_text_effects_accent_underline_grow5_line_color'
+wp option delete 'tantive_text_effects_accent_underline_grow6_line_color'
+wp option delete 'tantive_text_effects_accent_underline_grow7_line_color'
+wp option delete 'tantive_text_effects_accent_underline_grow8_line_color'
+wp option delete 'tantive_text_effects_border_split_trail_r2l_border_color'
+

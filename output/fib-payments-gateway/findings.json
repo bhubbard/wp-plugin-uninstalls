@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fibpg_payment_gateway_page_id",
+    "fibpg_base_url",
+    "fibpg_client_id",
+    "fibpg_client_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fib_payment_id",
+    "_fib_qr_data",
+    "_fib_business_app_link",
+    "_fib_corporate_app_link",
+    "_fib_personal_app_link",
+    "_fib_readable_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:52.752Z"
+}

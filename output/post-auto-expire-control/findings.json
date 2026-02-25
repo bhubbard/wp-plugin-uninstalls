@@ -1,0 +1,17 @@
+{
+  "options": [
+    "apextmail",
+    "apext",
+    "apext_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "post_expire"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pebr_day_limit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:38.023Z"
+}

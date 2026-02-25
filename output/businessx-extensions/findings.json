@@ -1,0 +1,19 @@
+{
+  "options": [
+    "widget_bx-item-features",
+    "widget_bx-item-actions",
+    "widget_bx-item-pricing",
+    "widget_bx-item-slider",
+    "bxext_fp_installed",
+    "bxext_dismiss_fp_create",
+    "sidebars_widgets",
+    "businessx_ext_widgets_bk",
+    "jetpack_active_modules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:04.362Z"
+}

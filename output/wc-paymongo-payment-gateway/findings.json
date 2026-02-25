@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_cynder_paymongo_test_mode",
+    "woocommerce_cynder_paymongo_send_invoice_after_payment",
+    "woocommerce_cynder_paymongo_debug_mode",
+    "cynder_paymongo_version",
+    "woocommerce_paymongo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:15.308Z"
+}

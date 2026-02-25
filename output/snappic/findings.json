@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_api_enabled",
+    "woocommerce_snappic_settings"
+  ],
+  "transients": [
+    "_snappic_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:29.147Z"
+}

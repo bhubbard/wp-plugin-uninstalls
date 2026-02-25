@@ -1,0 +1,25 @@
+{
+  "options": [
+    "_ckpn_additional_key_mapping",
+    "ckpn_logs",
+    "_ckpn_additional_app_keys",
+    "ckpn_pushover_notifications_settings",
+    "_ckpn_users_with_keys"
+  ],
+  "transients": [
+    "_wp_push_extensions_listing",
+    "update_plugins",
+    "update_themes",
+    "update_core"
+  ],
+  "cron_jobs": [
+    "ckpn_plugin_update_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ckpn_user_notify_posts",
+    "ckpn_user_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:26.119Z"
+}

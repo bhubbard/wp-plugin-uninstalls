@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-jet-player-setting",
+    "wp-jet-skin-setting",
+    "wp-jet-video-setting"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:15.686Z"
+}

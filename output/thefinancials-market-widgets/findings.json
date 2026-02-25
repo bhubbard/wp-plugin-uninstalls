@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tfcwidgets4wp_install_ping_sent",
+    "tfcwidgets4wp_options"
+  ],
+  "transients": [
+    "tfcwidgets4wp_catalog_v2",
+    "tfcwidgets4wp_catalog_v1"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:23.127Z"
+}

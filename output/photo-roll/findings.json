@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ig_profile",
+    "ig_gallery_counter_show",
+    "ig_gallery_columns",
+    "ig_profile_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ig_cron_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ig_photos_ids",
+    "ig_followers",
+    "ig_shortcode",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:47.478Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "alceris_site_id",
+    "alceris_track_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:25.567Z"
+}

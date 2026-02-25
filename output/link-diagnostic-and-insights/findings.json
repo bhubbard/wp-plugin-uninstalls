@@ -1,0 +1,14 @@
+{
+  "options": [
+    "lhcfwp_scan_state",
+    "lhcfwp_settings"
+  ],
+  "transients": [
+    "lhcfwp_bulk_fix_state"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:09.617Z"
+}

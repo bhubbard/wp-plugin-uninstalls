@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woosw_settings",
+    "woosw_localization",
+    "woosw_*",
+    "woosw_list_*",
+    "woosw_page_id"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woosw_keys",
+    "woosw_key",
+    "woosw_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:37.807Z"
+}

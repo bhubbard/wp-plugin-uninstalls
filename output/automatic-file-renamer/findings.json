@@ -1,0 +1,16 @@
+{
+  "options": [
+    "AFR_prefixe",
+    "AFR_suffixe",
+    "AFR_activation",
+    "AFR_redirection",
+    "AFR_Ou_Rediriger",
+    "AFR_roles_config"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:15.226Z"
+}

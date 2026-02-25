@@ -1,0 +1,15 @@
+{
+  "options": [
+    "recently_bought_settings_pnumber",
+    "recently_bought_settings_text",
+    "recently_bought_settings_randomize",
+    "recently_bought_settings_corner",
+    "recently_bought_settings_slide_in_delay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:48.557Z"
+}

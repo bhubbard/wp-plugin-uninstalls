@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tdd_pb_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tdd_pb_color",
+    "_tdd_pb_input_method",
+    "_tdd_pb_percentage",
+    "_tdd_pb_custom_color",
+    "_tdd_pb_start",
+    "_tdd_pb_end",
+    "_tdd_pb_percentage_display",
+    "_tdd_pb_xofy_display"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:58.033Z"
+}

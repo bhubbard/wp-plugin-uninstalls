@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gsama_transaction_id",
+    "gsama_transaction_price",
+    "gsama_transaction_fee",
+    "gsama_transaction_total_price",
+    "gsama_transaction_status",
+    "gsama_transaction_client_id",
+    "gsama_reference_number",
+    "gsama_payment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:16.696Z"
+}

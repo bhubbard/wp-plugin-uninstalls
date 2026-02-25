@@ -1,0 +1,26 @@
+{
+  "options": [
+    "cf7rzp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7rzp_activate",
+    "_cf7rzp_item_name",
+    "_cf7rzp_item_price",
+    "_cf7rzp_item_id",
+    "cf7rzp_order_id",
+    "item_price",
+    "cf7_id",
+    "gateway",
+    "mode",
+    "item_id",
+    "item_name",
+    "rzp_order_id",
+    "rzp_payment_id",
+    "failure_reason"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:15.389Z"
+}

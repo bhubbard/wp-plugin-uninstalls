@@ -1,0 +1,50 @@
+{
+  "options": [
+    "action_notice_wpematico_addons",
+    "WPeMatico_Options",
+    "wpem_show_locally_addons",
+    "active_sitewide_plugins",
+    "WPeMatico_danger",
+    "edd_api_request_*",
+    "wpematico_license_keys",
+    "wpematico_license_status",
+    "wpematico_db_version",
+    "wpematico_subscription_email_*",
+    "wpematico_level_tnotifications",
+    "icon_eyes_status",
+    "wpematico_lastlog_disabled",
+    "wpematico_dismiss_mdm_notice",
+    "wpematico_level_snotifications",
+    "wpematico_dismiss_wizard_notice",
+    "wpematico_notices",
+    "wpem_hide_reviews",
+    "wpem_menu_position"
+  ],
+  "transients": [
+    "update_plugins",
+    "etruel_wpematico_addons_data",
+    "_wpematico_user_has_seen_welcome_page",
+    "_wpematico_activation_redirect",
+    "_etruel_wpem_reviews_data",
+    "wpematico_i18n_notif_obj_*",
+    "wpematico_encoding_hosts"
+  ],
+  "cron_jobs": [
+    "wpematico_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lastrun",
+    "postscount",
+    "lastpostscount",
+    "last_campaign_log",
+    "_wp_attachment_image_alt",
+    "cronnextrun",
+    "campaign_data",
+    "wpe_campaignid",
+    "wpe_feed",
+    "wpe_sourcepermalink"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:57.829Z"
+}

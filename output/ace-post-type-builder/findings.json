@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cptb_custom_post_types",
+    "cptb_flush_rewrite_rules",
+    "cptb_custom_taxonomies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cptb_notice_dismissed_at"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:42.163Z"
+}

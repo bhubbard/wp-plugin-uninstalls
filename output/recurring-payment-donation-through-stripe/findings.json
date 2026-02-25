@@ -1,0 +1,24 @@
+{
+  "options": [
+    "rpadts_apiMode",
+    "rpadts_currency",
+    "rpadts_secretKey_test",
+    "rpadts_publishKey_test",
+    "rpadts_secretKey_live",
+    "rpadts_publishKey_live",
+    "rpadts_popup_name",
+    "rpadts_popup_desc",
+    "stripe_custom_logo",
+    "rpadts_recurring_payment_check",
+    "rpadts_email_subject",
+    "rpadts_email_messagebody",
+    "rpadts_email_receipt_sender_address",
+    "rpadts_cc_payment_receipt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:48.081Z"
+}

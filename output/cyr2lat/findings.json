@@ -1,0 +1,18 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "*_process_lock",
+    "*_process_completed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_old_slug",
+    "_product_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:51.582Z"
+}

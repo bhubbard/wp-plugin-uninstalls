@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wfv_setting_allow_direct_access",
+    "wfv_db_version",
+    "wfv_setting_file_tpl",
+    "wfv_setting_file_css",
+    "wfv_post_types",
+    "wfv_setting_allowed_ftypes",
+    "wfv_setting_date_format",
+    "wfvIcon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wfv_files"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:59.935Z"
+}

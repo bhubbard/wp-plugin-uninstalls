@@ -1,0 +1,28 @@
+{
+  "options": [
+    "equipe_last_fetch_date",
+    "equipe_club_id",
+    "equipe_rider_licences",
+    "equipe_cat_show_jumping",
+    "equipe_cat_dressage",
+    "equipe_cat_eventing",
+    "equipe_cat_endurance",
+    "equipe_cat_breed_eval",
+    "equipe_cat_multi",
+    "equipe_cat_default",
+    "equipe_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "equipe-fetch-from-api"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "equipe_after_install_ignore_notice",
+    "equipe_id",
+    "equipe_start_date",
+    "equipe_end_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:42.042Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ig_tc_notices",
+    "_ig_tc_mb"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:16.847Z"
+}

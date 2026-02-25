@@ -1,0 +1,42 @@
+{
+  "options": [
+    "falang",
+    "falang_wpml_strings",
+    "active_sitewide_plugins",
+    "falang_dismissed_notices",
+    "*_dismissed_notices",
+    "*_dismissed_notices_date",
+    "falang_wc_attributes",
+    "need_flush",
+    "widget_falang"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*published",
+    "*_menu_item_classes",
+    "_menu_item_type",
+    "*falang_hide",
+    "_menu_item_object_id",
+    "_menu_item_object",
+    "_menu_item_classes",
+    "_falang_strings_translations",
+    "_locale",
+    "*post_name",
+    "*slug",
+    "_falang_menu_item",
+    "_et_pb_use_builder",
+    "falang_hide",
+    "language",
+    "_falang_assoc_*",
+    "_wp_attachment_image_alt",
+    "*name",
+    "description",
+    "*post_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:19.284Z"
+}

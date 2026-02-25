@@ -1,0 +1,23 @@
+{
+  "options": [
+    "sliderpath_api_response",
+    "sliderpath_elements_active"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sliderpath_update_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_page_settings",
+    "_elementor_template_type",
+    "_elementor_edit_mode",
+    "_elementor_css",
+    "_elementor_controls_usage",
+    "_wp_page_template",
+    "_elementor_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:07.579Z"
+}

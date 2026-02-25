@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_boxes",
+    "*_tags",
+    "*_meta",
+    "*_custom_fields",
+    "*_freshdesk_agents",
+    "*_zendesk_agents",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vx_teamwork_id",
+    "vx_zendesk_id",
+    "*_id",
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:13.058Z"
+}

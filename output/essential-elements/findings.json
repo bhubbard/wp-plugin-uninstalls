@@ -1,0 +1,18 @@
+{
+  "options": [
+    "esse_settings",
+    "esse_modules",
+    "esse_progress_bar_settings",
+    "esse_scroll_top_settings",
+    "esse_scroll_bar_settings",
+    "esse_version",
+    "esse_installed",
+    "esse_flash_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:30.674Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_settings",
+    "wsl_settings_Authentiq_app_id",
+    "wsl_settings_Authentiq_app_secret",
+    "woocommerce_enable_myaccount_registration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*authentiq_id",
+    "session_tokens",
+    "*authentiq_obj"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:23.624Z"
+}

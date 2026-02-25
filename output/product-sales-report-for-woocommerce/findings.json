@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ninjalytics_settings",
+    "ninjalytics_report_dates_*",
+    "ninjalytics_hide_inactive_templates",
+    "hm_psr_report_settings"
+  ],
+  "transients": [
+    "hm_psrp_fields_*"
+  ],
+  "cron_jobs": [
+    "ninjalytics_update_field_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_stock",
+    "_manage_stock",
+    "_cogs_total_value",
+    "ninjalytics_admin_notice_hide"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:09.194Z"
+}

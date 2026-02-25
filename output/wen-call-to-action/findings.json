@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cta_custom_class",
+    "_cta_theme",
+    "_cta_button_text",
+    "_cta_button_url",
+    "_cta_button_open_new_window"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:14.450Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "stssm_redirect_to_settings",
+    "stssm_sticky_placement",
+    "stssm_pages_placement",
+    "stssm_posts_placement",
+    "stssm_icons_content",
+    "stssm_icons_sticky",
+    "stssm_icons_sticky_all",
+    "stssm_content_icons_design",
+    "stssm_sticky_icons_design"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:28.968Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fsm_custom_featured_image_caption_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_FSMCFIC_featured_image_nocaption",
+    "_FSMCFIC_featured_image_caption",
+    "_FSMCFIC_featured_image_hide",
+    "et_nocrop"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:08.168Z"
+}

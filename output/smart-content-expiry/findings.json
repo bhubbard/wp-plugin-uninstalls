@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smcoex_myw_expiry_date",
+    "_smcoex_myw_expiry_action",
+    "_smcoex_myw_expiry_message",
+    "_smcoex_myw_expiry_redirect"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:22.829Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_cc_version",
+    "wp_cc_license",
+    "wp_cc_auto_text",
+    "wp_cc_auto_image",
+    "wp_cc_auto_metadata"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:41.956Z"
+}

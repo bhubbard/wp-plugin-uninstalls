@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_xml_file_path",
+    "*_import_frequency",
+    "*_post_title_format",
+    "*_post_content_format",
+    "*_field_mappings"
+  ],
+  "transients": [
+    "afi_activation_notice",
+    "afi_admin_notice"
+  ],
+  "cron_jobs": [
+    "update_xml_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "afi_activation_notice_dismissed",
+    "manufacturer_level2_value",
+    "year_value",
+    "price_value",
+    "mileage_value",
+    "color_value",
+    "_afi_imported_image_urls",
+    "afi_feedback_dismissed",
+    "afi_survey_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:32.418Z"
+}

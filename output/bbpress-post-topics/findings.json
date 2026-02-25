@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bbpress_discussion_defaults",
+    "bbppt_settings",
+    "rewtt",
+    "bbpress_discussion_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bbpress_discussion_tags_copied",
+    "bbpress_discussion_comments_copied",
+    "bbpress_discussion_topic_id",
+    "use_bbpress_discussion_topic",
+    "bbpress_discussion_use_defaults",
+    "bbpress_discussion_display_format",
+    "bbpress_discussion_display_extras",
+    "_bbp_forum_id",
+    "_bbp_*",
+    "bbpress_discussion_hide_topic",
+    "bbppt_draft_settings",
+    "bbppt_imported",
+    "_bbp_bbppt_linked_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:03.907Z"
+}

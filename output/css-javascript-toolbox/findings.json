@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cjtplusinstaller",
+    "__existing_cjt_user",
+    "meta-box-order_cjtoolbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "__CJT-BLOCK-ID",
+    "closedpostboxes_cjtoolbox"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:42.580Z"
+}

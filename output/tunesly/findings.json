@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_linkshare_token",
+    "*_linkshare_generate_timeout",
+    "*_linkshare_advertiser_id",
+    "*_result_label",
+    "*_store_country",
+    "*_result_column",
+    "*_result_row",
+    "*_license_key",
+    "*_ipinfodb_key",
+    "*_store_result_item"
+  ],
+  "transients": [
+    "tunesly_hash",
+    "ipinfodb_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_custom_keyword"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:18.034Z"
+}

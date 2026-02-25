@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wltinv_isaf_next",
+    "wltinv_pvm_next",
+    "wltinv_seller_email",
+    "wltinv_token_ttl_min",
+    "wltinv_secure_download",
+    "wltinv_show_vat_breakdown_migrated",
+    "wltinv_show_vat_breakdown",
+    "wltinv_activated_at",
+    "wltinv_isaf_start",
+    "wltinv_pvm_start"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wltinv_cleanup_tmp_pdfs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wltinv_supply_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:07.798Z"
+}

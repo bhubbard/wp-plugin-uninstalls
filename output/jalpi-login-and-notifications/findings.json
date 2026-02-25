@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "jalpi_ln_country_list",
+    "jalpi_ln_fallback_*",
+    "jalpi_ln_last_cache_cleanup",
+    "jalpi_ln_fallback_country_list",
+    "jalpi_ln_logs_buffer"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "shipping_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:11.078Z"
+}

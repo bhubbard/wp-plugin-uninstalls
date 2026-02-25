@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wgpw_general_tab_enabled",
+    "wgpw_badge_type",
+    "wgpw_badge_position",
+    "wgpw_warranty_badge_text",
+    "wgpw_guarantee_badge_text",
+    "wgpw_tooltip_bg_color",
+    "wgpw_tooltip_text_color",
+    "wgpw_tooltip_font_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wgpw_warranties",
+    "_wgpw_has_valid_warranty",
+    "_wgpw_warranty"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:08.199Z"
+}

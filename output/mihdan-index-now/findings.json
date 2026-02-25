@@ -1,0 +1,20 @@
+{
+  "options": [
+    "crawlwp_bing_indexing_rate_limit_expiration",
+    "crawlwp_google_indexing_rate_limit_expiration",
+    "crawlwp_yandex_indexing_rate_limit_expiration",
+    "*_version"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "*_custom_healthcheck"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_last_update"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:42.327Z"
+}

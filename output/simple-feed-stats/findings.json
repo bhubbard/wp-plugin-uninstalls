@@ -1,0 +1,29 @@
+{
+  "options": [
+    "sfs_options",
+    "sfs_alert",
+    "sfs_version"
+  ],
+  "transients": [
+    "feed_count",
+    "rss2_count",
+    "comment_count",
+    "all_count",
+    "comments_count",
+    "_transient_all_count",
+    "_transient_feed_count",
+    "_transient_rss2_count",
+    "_transient_comments_count",
+    "_transient_timeout_all_count",
+    "_transient_timeout_feed_count",
+    "_transient_timeout_rss2_count",
+    "_transient_timeout_comment_count"
+  ],
+  "cron_jobs": [
+    "sfs_create_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:30.499Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aithenticate_license_key",
+    "aithenticate_license_email",
+    "aithenticate_fixed_ai_post_types",
+    "aithenticate_version"
+  ],
+  "transients": [
+    "*_up"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_content_type",
+    "_aithenticate_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:23.690Z"
+}

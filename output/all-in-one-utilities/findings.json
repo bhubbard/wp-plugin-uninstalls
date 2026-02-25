@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aiowpu_enabled_*",
+    "aiowpu_db_version",
+    "aiowpu_disable_unnecessary_features_options",
+    "aiowpu_featured_image_id"
+  ],
+  "transients": [
+    "aiowpu_database_type",
+    "aiowpu_database_version"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:03.126Z"
+}

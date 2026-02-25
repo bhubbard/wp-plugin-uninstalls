@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpc_select_product_name_color",
+    "wpc_select_product_description_color",
+    "wpc_select_product_short_description_color",
+    "wpc_select_product_category_color",
+    "wpc_select_product_category_bg_color",
+    "wpc_select_product_tag_color",
+    "wpc_select_product_tag_bg_color",
+    "wpc_select_product_review_color",
+    "wpc_select_product_price_color",
+    "wpc_select_product_add_to_cart_color",
+    "wpc_select_product_add_to_cart_bg_color",
+    "wpc_select_product_sale_color",
+    "wpc_select_product_sale_bg_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:30.796Z"
+}

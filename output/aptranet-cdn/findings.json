@@ -1,0 +1,16 @@
+{
+  "options": [
+    "aptranet_cdn_distribution",
+    "aptranet_cdn_distribution_name",
+    "aptranet_cdn_access_key",
+    "aptranet_cdn_secret",
+    "aptranet_cdn_enable",
+    "aptranet_cdn_base_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:28.192Z"
+}

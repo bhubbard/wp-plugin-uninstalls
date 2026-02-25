@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_videogate_video_id",
+    "_videogate_video_source",
+    "_clicks_data",
+    "_total_clicks"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:03.718Z"
+}

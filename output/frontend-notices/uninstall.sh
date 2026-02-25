@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'fenotices_display_location'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'fenotices_display_location'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'fenotices_display_location'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'fenotices_display_location'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'fenotices_notice_dismissable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'fenotices_notice_dismissable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'fenotices_notice_dismissable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'fenotices_notice_dismissable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'fenotices_show_users'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'fenotices_show_users'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'fenotices_show_users'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'fenotices_show_users'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'fenotices_user_roles'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'fenotices_user_roles'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'fenotices_user_roles'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'fenotices_user_roles'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'fenotices_post_types'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'fenotices_post_types'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'fenotices_post_types'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'fenotices_post_types'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'fenotices_mobile_only'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'fenotices_mobile_only'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'fenotices_mobile_only'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'fenotices_mobile_only'"

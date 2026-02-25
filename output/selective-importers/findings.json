@@ -1,0 +1,23 @@
+{
+  "options": [
+    "blogger_importer"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_cron_importer_hook",
+    "selective_import_check_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "blogger_blog",
+    "blogger_author",
+    "blogger_permalink",
+    "_import_expiration",
+    "*_permalink",
+    "*_id",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:31.872Z"
+}

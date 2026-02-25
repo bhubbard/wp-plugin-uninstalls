@@ -1,0 +1,23 @@
+{
+  "options": [
+    "jltwann_activation_time",
+    "*_allow_tracking"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "jeweltheme_start_date",
+    "jeweltheme_end_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:35.067Z"
+}

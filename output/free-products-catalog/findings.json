@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wbcp_display_display_image",
+    "wbcp_display_meta",
+    "wbcp_display_cat_and_tag",
+    "wbcp_product_layout",
+    "wbcp_archive_layout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wb_products_colors",
+    "wb_products_dim",
+    "wb_products_sku",
+    "wb_products_series",
+    "wb_products_type",
+    "wb_products_price",
+    "wb_products_available"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:52.698Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "edhbb_enable_htaccess_blocking",
+    "edhbb_block_duration_days"
+  ],
+  "transients": [
+    "edhbb_debug_info"
+  ],
+  "cron_jobs": [
+    "edhbb_update_hostnames_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:26.582Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tfcm_plugin_version",
+    "tfcm_old_log_export_notice"
+  ],
+  "transients": [
+    "tfcm_all_bots",
+    "tfcm_quarantine_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*columnshidden",
+    "tfcm_elements_per_page",
+    "managetoplevel_page_traffic-monitorcolumnshidden"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:05.474Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "_wooaddtocart_settings_button_bg_color",
+    "_wooaddtocart_settings_button_text_color",
+    "_wooaddtocart_settings_button_border_color",
+    "_wooaddtocart_settings_button_hover_color",
+    "_wooaddtocart_settings_button_border_size",
+    "_wooaddtocart_settings_button_radius_size",
+    "_wooaddtocart_settings_button_font_size",
+    "_wooaddtocart_settings_button_type",
+    "wooaddtocart_settings_button_padding_top",
+    "wooaddtocart_settings_button_padding_bottom",
+    "wooaddtocart_settings_button_padding_right",
+    "wooaddtocart_settings_button_padding_left",
+    "_wooaddtocart_settings_button_icon",
+    "_wooaddtocart_settings_button_icon_position",
+    "_wooaddtocart_settings_button_hide"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wooaddtocart_product_hide_cart_button",
+    "_wooaddtocart_product_cart_button_text",
+    "_wooaddtocart_product_hide_price",
+    "atcbc-notice-dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:59.259Z"
+}

@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_simple_short_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_simple_short_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_simple_short_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_simple_short_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_simple_author'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_simple_author'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_simple_author'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_simple_author'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_simple_pub_cal'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_simple_pub_cal'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_simple_pub_cal'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_simple_pub_cal'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_simple_pub_cal_man'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_simple_pub_cal_man'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_simple_pub_cal_man'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_simple_pub_cal_man'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_listing_image_id_750_350'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_listing_image_id_750_350'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_listing_image_id_750_350'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_listing_image_id_750_350'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_listing_image_id_740_360'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_listing_image_id_740_360'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_listing_image_id_740_360'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_listing_image_id_740_360'"

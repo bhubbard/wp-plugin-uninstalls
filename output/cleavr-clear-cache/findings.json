@@ -1,0 +1,12 @@
+{
+  "options": [
+    "cleavr_auto_clear_cache",
+    "cleavr_nginx_cache_hook"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:25.188Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "akmsich_activate",
+    "akmsich_theme_color",
+    "akmsich_numbers",
+    "akmsich_chat_heading",
+    "akmsich_chat_sub_heading",
+    "akmsich_label",
+    "akmsich_fixed_button_label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:02.442Z"
+}

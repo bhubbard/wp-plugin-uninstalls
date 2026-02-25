@@ -1,0 +1,41 @@
+{
+  "options": [
+    "rsfirewall_log_emails_count",
+    "rsfirewall_log_emails_send_after",
+    "rsfirewall_version",
+    "rsfirewall_lite_version",
+    "rsfirewall_backend_password",
+    "rsfirewall_system_check",
+    "rsfirewall_active_scanner",
+    "rsfirewall_core_scanner",
+    "rsfirewall_lockdown",
+    "rsfirewall_logging",
+    "rsfirewall_import",
+    "rsfirewall_updates",
+    "rsfirewall_grade",
+    "rsfirewall_system_check_last_run",
+    "rsfirewall_admin_users",
+    "rsfirewall_hardening"
+  ],
+  "transients": [
+    "global_admin_notice",
+    "update_plugins",
+    "update_core",
+    "rsf_bulk_add_ips_form_data"
+  ],
+  "cron_jobs": [
+    "rsfirewall_clear_transient"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rsfirewall_ip",
+    "rsfirewall_reason",
+    "rsfirewall_code",
+    "rsfirewall_debug_variables",
+    "rsfirewall_type",
+    "rsfirewall_level",
+    "rsfirewall_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:50.121Z"
+}

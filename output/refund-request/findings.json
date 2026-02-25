@@ -1,0 +1,22 @@
+{
+  "options": [
+    "Refund-Request_email_address",
+    "refund_requests_enabled",
+    "refund_request_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_line_total",
+    "_line_tax",
+    "_line_subtotal",
+    "_line_subtotal_tax",
+    "משקל (kg)",
+    "_qty",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:21.235Z"
+}

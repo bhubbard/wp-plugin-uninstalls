@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_price_decimal_sep"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_regular_price",
+    "_price",
+    "_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:30.473Z"
+}

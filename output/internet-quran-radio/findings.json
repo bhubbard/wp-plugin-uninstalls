@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mp3quran_form",
+    "mp3quran_title",
+    "mp3quran_height",
+    "mp3quran_autostart",
+    "mp3quran_viewtitle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:22.319Z"
+}

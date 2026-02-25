@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gopay_review_dismiss",
+    "woocommerce_price_num_decimals",
+    "*_settings",
+    "pickup_location_pickup_locations",
+    "woocommerce_wc_gopay_gateway_settings",
+    "*_multiple_purchase"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_payment_methods_and_banks"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:08.685Z"
+}

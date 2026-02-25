@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jm_awesome_icon",
+    "jm_awesome_position",
+    "jm_awesome_url",
+    "jm_awesome_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:08.138Z"
+}

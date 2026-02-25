@@ -1,0 +1,23 @@
+{
+  "options": [
+    "odflc_options",
+    "odflc_form_custom_css",
+    "odflc_products_details"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_odflc_lead_email",
+    "_odflc_lead_phone",
+    "_odflc_lead_sku",
+    "_odflc_lead_product_title",
+    "_odflc_lead_phone_code",
+    "_odflc_classification",
+    "_odflc_is_odf_contact_id",
+    "_odflc_backlog",
+    "_odflc_is_odf_deal_created"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:15.703Z"
+}

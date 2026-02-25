@@ -1,0 +1,15 @@
+{
+  "options": [
+    "matrixian_enabled",
+    "matrixian_api_user",
+    "matrixian_api_password"
+  ],
+  "transients": [
+    "matrixian_auth_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:42.314Z"
+}

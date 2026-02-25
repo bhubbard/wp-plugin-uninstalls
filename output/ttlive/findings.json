@@ -1,0 +1,22 @@
+{
+  "options": [
+    "TTLive_refreshHours",
+    "TTLive_baseurl",
+    "TTLive_divisionID",
+    "TTLive_tableclassname_TeamSpielplan",
+    "TTLive_tableclassname_Tabelle",
+    "TTLive_tableclassname_Hallenplan",
+    "TTLive_tableclassname_Rangliste",
+    "TTLive_tableclassname_14Tage",
+    "TTLive_tableclassname_Mannschaft"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mannschaft_id",
+    "staffel_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:22.020Z"
+}

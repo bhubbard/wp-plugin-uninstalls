@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*invalid_email_address",
+    "*duplicate_email_address",
+    "*successfully_added",
+    "*error_added",
+    "WPSS_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*ip_address",
+    "*firstname",
+    "*lastname",
+    "*status",
+    "*date",
+    "*first_name",
+    "*last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:20.531Z"
+}

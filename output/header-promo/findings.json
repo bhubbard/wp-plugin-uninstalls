@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bphp_promo",
+    "bphp_plugin_do_activation_redirect",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:01.990Z"
+}

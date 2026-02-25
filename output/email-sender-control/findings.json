@@ -1,0 +1,13 @@
+{
+  "options": [
+    "md_esc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "md_esc_clean_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:30.545Z"
+}

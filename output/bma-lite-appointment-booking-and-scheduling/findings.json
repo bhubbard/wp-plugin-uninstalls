@@ -1,0 +1,23 @@
+{
+  "options": [
+    "rtwbmal_front_display_option",
+    "rtwbma_general_settings",
+    "rtwbmal_holidays_option",
+    "rtwbmal_frntend_brdr_radi",
+    "rtwbmal_general_settings",
+    "rtwbmal_company_option",
+    "rtwbmal_payment_option",
+    "rtwbmal_business_hour",
+    "rtwbmal_lite_installed",
+    "rtwwdpd_verification_done",
+    "rtwbmal_frontend_option",
+    "rtwbmal_reg_temp_opt",
+    "rtwbmal_return_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:59.380Z"
+}

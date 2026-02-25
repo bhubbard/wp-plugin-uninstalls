@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wphhsecure_excluded_folders",
+    "wphhsecure_processed_batches",
+    "wphhsecure_total_batches",
+    "wphhsecure_site_lock_status",
+    "wphhsecure_site_failed_files",
+    "wphhsecure_custom_login_path",
+    "wphhsecure_progress"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wphhsecure_process_files"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:30.454Z"
+}

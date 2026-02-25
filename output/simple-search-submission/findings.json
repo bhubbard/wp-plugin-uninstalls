@@ -1,0 +1,15 @@
+{
+  "options": [
+    "simple_search_submission_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "simple_search_submission_async_ping"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_simple_search_submission_urls"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:22.483Z"
+}

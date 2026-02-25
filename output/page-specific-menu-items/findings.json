@@ -1,0 +1,13 @@
+{
+  "options": [
+    "psmi_defaults"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_currentpage_items"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:46.799Z"
+}

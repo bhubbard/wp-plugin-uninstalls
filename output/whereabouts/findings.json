@@ -1,0 +1,14 @@
+{
+  "options": [
+    "whab_settings",
+    "whab_location_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "whab_location_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:45.304Z"
+}

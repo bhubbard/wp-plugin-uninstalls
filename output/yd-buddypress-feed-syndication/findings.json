@@ -1,0 +1,23 @@
+{
+  "options": [
+    "yd-buddypress-feed-syndication",
+    "YD_P_hourly",
+    "YD_P_daily",
+    "YD_P_last_action"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yd_hourly_event",
+    "yd_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yd_syndications",
+    "yd_syndications_status",
+    "yd_syndications_refresh",
+    "yd_syndications_title",
+    "yd_syndications_updated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:15.278Z"
+}

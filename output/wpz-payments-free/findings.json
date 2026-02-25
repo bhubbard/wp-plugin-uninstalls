@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wpz_payments_settings",
+    "wpz_payments_first_activate",
+    "wpz_payments_notice_hidden",
+    "wpz_payments_debug_log"
+  ],
+  "transients": [
+    "wpz_payments_stripe_intent_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method",
+    "_source_id",
+    "_transaction_id",
+    "_pending_status",
+    "_total",
+    "_currency",
+    "_description",
+    "_quantity",
+    "_payment_error",
+    "_wp_trash_meta_status",
+    "_internal_notes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:49.685Z"
+}

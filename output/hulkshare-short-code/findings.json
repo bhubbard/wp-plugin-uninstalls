@@ -1,0 +1,18 @@
+{
+  "options": [
+    "hulkshare_player_width",
+    "hulkshare_player_color",
+    "hulkshare_player_download",
+    "hulkshare_player_cover",
+    "hulkshare_player_type ",
+    "hulkshare_player_width ",
+    "hulkshare_player_autoplay",
+    "hulkshare_player_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:17.074Z"
+}

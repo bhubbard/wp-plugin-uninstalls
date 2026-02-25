@@ -1,0 +1,25 @@
+{
+  "options": [
+    "yespo_options",
+    "*-settings",
+    "woocommerce_db_sync_enabled",
+    "yespo-version",
+    "*_promo_hide"
+  ],
+  "transients": [
+    "yespo_user_event_triggered",
+    "yespo_add_to_cart_event_triggered",
+    "yespo_update_cart_event_triggered"
+  ],
+  "cron_jobs": [
+    "yespo_export_data_cron",
+    "yespo_script_cron_event",
+    "yespo_remove_old_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "locale"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:39.294Z"
+}

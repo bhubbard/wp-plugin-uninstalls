@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ajaxcf_recipient",
+    "ajaxcf_subject",
+    "ajaxcf_confirm",
+    "ajaxcf_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [
+    "wp_design_form"
+  ],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:14.740Z"
+}

@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mstrt_client_id', 'mstrt_secret_key_enc', 'mstrt_secret_key_hash', 'mstrt_registered_domain', 'mstrt_registered_time', 'mstrt_secret_key');
+DELETE FROM wp_options WHERE option_name LIKE '%_backup';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_elementor_data', '_aviaLayoutBuilderCleanData', '_product_image_gallery', '_mstrt_source_product', '_mstrt_target_lang', '_mstrt_translated_date', '_purchase_note', '_button_text', '_product_attributes', '_variation_description', '_mstrt_source_variation', '_mstrt_source_term', '_mstrt_multilingual_plugin', '_mstrt_source_page', '_mstrt_content_type', '_elementor_edit_mode', '_elementor_template_type', '_elementor_version', '_elementor_css', '_elementor_element_cache', '_mstrt_multilingual_linked');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_elementor_data', '_aviaLayoutBuilderCleanData', '_product_image_gallery', '_mstrt_source_product', '_mstrt_target_lang', '_mstrt_translated_date', '_purchase_note', '_button_text', '_product_attributes', '_variation_description', '_mstrt_source_variation', '_mstrt_source_term', '_mstrt_multilingual_plugin', '_mstrt_source_page', '_mstrt_content_type', '_elementor_edit_mode', '_elementor_template_type', '_elementor_version', '_elementor_css', '_elementor_element_cache', '_mstrt_multilingual_linked');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_elementor_data', '_aviaLayoutBuilderCleanData', '_product_image_gallery', '_mstrt_source_product', '_mstrt_target_lang', '_mstrt_translated_date', '_purchase_note', '_button_text', '_product_attributes', '_variation_description', '_mstrt_source_variation', '_mstrt_source_term', '_mstrt_multilingual_plugin', '_mstrt_source_page', '_mstrt_content_type', '_elementor_edit_mode', '_elementor_template_type', '_elementor_version', '_elementor_css', '_elementor_element_cache', '_mstrt_multilingual_linked');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_elementor_data', '_aviaLayoutBuilderCleanData', '_product_image_gallery', '_mstrt_source_product', '_mstrt_target_lang', '_mstrt_translated_date', '_purchase_note', '_button_text', '_product_attributes', '_variation_description', '_mstrt_source_variation', '_mstrt_source_term', '_mstrt_multilingual_plugin', '_mstrt_source_page', '_mstrt_content_type', '_elementor_edit_mode', '_elementor_template_type', '_elementor_version', '_elementor_css', '_elementor_element_cache', '_mstrt_multilingual_linked');
+

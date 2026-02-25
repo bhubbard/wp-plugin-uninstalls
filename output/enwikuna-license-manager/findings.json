@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_enable_signup_and_login_from_checkout",
+    "active_sitewide_plugins",
+    "woocommerce_manage_stock",
+    "woocommerce_myaccount_licenses_endpoint",
+    "elm_*",
+    "woocommerce_myaccount_view_license_endpoint",
+    "woocommerce_myaccount_validate_license_endpoint",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [
+    "doing_cron",
+    "elm_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elm_required_product_licenses_product_ids",
+    "_elm_product_use_generator",
+    "_elm_product_use_stock",
+    "_elm_product_assigned_generator",
+    "_elm_product_uuid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:41.912Z"
+}

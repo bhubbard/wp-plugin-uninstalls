@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('user_sso', 'oc_clientscope', 'oc_client_authorization', 'oc_appname', 'oc_apptype', 'settings_saved', 'test_configuration', 'test_data_format', 'oc_uname', 'oc_uemail', 'oc_clientid', 'oc_client_request_in_body', 'oc_client_token_endpoint', 'oc_clientsecret', 'oc_client_userinfo_endpoint', 'oc_selectedserver', 'oc_client_request_in_header', 'saved_attribute_mapping', 'restrictWPUserCreation', 'oc_attributes_names_received', 'ADgroups', 'reasonToRestrictWPUser', 'update_core');
+

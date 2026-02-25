@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "secondline_latest_timestamp",
+    "secondline_attachment_md5",
+    "secondline_imported_youtube_video_id",
+    "secondline_themes_external_embed",
+    "secondline_themes_parent_show_post",
+    "secondline_import_import_type",
+    "secondline_youtube_playlist_id",
+    "secondline_youtube_channel_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:13.762Z"
+}

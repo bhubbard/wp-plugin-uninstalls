@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_brand",
+    "_last4",
+    "_card_details"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:02.340Z"
+}

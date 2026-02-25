@@ -1,0 +1,13 @@
+{
+  "options": [
+    "nskw_ogp_id_select",
+    "nskw_ogp_img",
+    "nskw_ogp_app_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:51.293Z"
+}

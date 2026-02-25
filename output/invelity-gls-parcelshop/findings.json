@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [
+    "invelity-plugins-description",
+    "invelity-plugins-ad",
+    "invelity-admin-message-gls-parcelshop"
+  ],
+  "cron_jobs": [
+    "invelityGlsParcelShopCron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "inv_gls_picked_shop_id",
+    "inv_gls_picked_shop_name",
+    "inv_gls_picked_shop_address",
+    "inv_gls_parcelshop_id_dopravy",
+    "_shipping_city",
+    "_shipping_postcode",
+    "_shipping_address_1"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:30.963Z"
+}

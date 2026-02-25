@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_db_backup_excs",
+    "wpdb_backup_recip",
+    "wp_cron_backup_schedule",
+    "wp_cron_backup_tables",
+    "wp_cron_backup_recipient",
+    "wp_cron_daily_lastrun"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_db_backup_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:02.343Z"
+}

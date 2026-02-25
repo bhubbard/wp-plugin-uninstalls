@@ -1,0 +1,29 @@
+{
+  "options": [
+    "acf_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "acf_plugin_updates"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "*_per_page",
+    "mfs_slider_data_de_inicio",
+    "mfs_slider_data_de_termino",
+    "mfs_slider_link",
+    "mfs_slider_imagem_desktop",
+    "mfs_slider_imagem_mobile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:42.165Z"
+}

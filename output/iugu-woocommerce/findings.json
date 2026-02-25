@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wcbcf_settings",
+    "*_settings",
+    "iugu_subscription_discount_type",
+    "woocommerce_iugu-credit-card_settings",
+    "woocommerce_iugu-payment-booklets_settings",
+    "woocommerce_iugu-bank-slip_settings",
+    "_wc_iugu_webhook_created",
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_enable_signup_and_login_from_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_iugu_number_installments",
+    "_iugu_customer_id_date_validation",
+    "_validou_cpf",
+    "_iugu_customer_id",
+    "_iugu_payable_with",
+    "user_status",
+    "user_status_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:48.321Z"
+}

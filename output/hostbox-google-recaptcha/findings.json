@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hostbox_recaptcha_site_key",
+    "hostbox_recaptcha_secret_key",
+    "hostbox_recaptcha_version",
+    "hostbox_recaptcha_min_score",
+    "hostbox_recaptcha_just_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:38.165Z"
+}

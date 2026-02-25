@@ -1,0 +1,15 @@
+{
+  "options": [
+    "scrobbled_blocks_username",
+    "scrobbled_blocks_api_key",
+    "scrobbled_blocks_placeholder_id"
+  ],
+  "transients": [
+    "*_stale"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:26.398Z"
+}

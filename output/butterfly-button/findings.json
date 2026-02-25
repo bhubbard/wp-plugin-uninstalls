@@ -1,0 +1,19 @@
+{
+  "options": [
+    "butterfly_button_api_key",
+    "butterfly_button_auto_inject",
+    "butterfly_button_display_mode",
+    "butterfly_button_size",
+    "butterfly_button_align",
+    "butterfly_button_horizontal_space",
+    "butterfly_button_vertical_space",
+    "butterfly_button_horizontal_unit",
+    "butterfly_button_vertical_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:58:07.758Z"
+}

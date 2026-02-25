@@ -1,0 +1,17 @@
+{
+  "options": [
+    "brt-dtt-next_number",
+    "brt-dtt-mitt_default",
+    "brt-dtt-tracking_enable",
+    "brt-dtt-tracking_required",
+    "brt-dtt-tracking_length",
+    "brt-dtt-checkformat",
+    "brt-dtt-cod-mitt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:10.435Z"
+}

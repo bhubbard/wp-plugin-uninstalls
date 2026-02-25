@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dx_option_from_ajax",
+    "dx_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dx_test_input"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:43.004Z"
+}

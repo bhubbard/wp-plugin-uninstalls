@@ -1,0 +1,38 @@
+{
+  "options": [
+    "eniture_plugins",
+    "eniture_quote_settings_allow_other_plugins",
+    "eniture_api_key",
+    "eniture_ignore_items_through_freight_classification",
+    "woocommerce_dimension_unit",
+    "eniture_rtsq_plan_name",
+    "eniture_rtsq_plan_expiry_days",
+    "eniture_rtsq_plan_expiry_date",
+    "eniture_rtsq_plan",
+    "eniture_api_key_status",
+    "eniture_rtsq_plan_type",
+    "active_sitewide_plugins",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nestedPercentage",
+    "_nestedDimension",
+    "_maxNestedItems",
+    "_nestedStakingProperty",
+    "_hazardousmaterials",
+    "_en_product_markup_variation",
+    "_en_product_markup",
+    "_ltl_freight",
+    "_enable_dropship",
+    "_dropship_location",
+    "_eniture_product_nmfc_number_variation",
+    "_eniture_product_nmfc_number",
+    "_en_insurance_fee",
+    "_nestedMaterials"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:04.898Z"
+}

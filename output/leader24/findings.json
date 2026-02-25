@@ -1,0 +1,15 @@
+{
+  "options": [
+    "leader24_settings",
+    "woocommerce_notify_low_stock_amount",
+    "leader24_wc_credentials"
+  ],
+  "transients": [
+    "leader24_agent_verified"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:40.456Z"
+}

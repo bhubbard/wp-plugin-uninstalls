@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tscl_show_activation_notice",
+    "tscl_settings",
+    "cl_settings",
+    "cl_show_activation_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:18.413Z"
+}

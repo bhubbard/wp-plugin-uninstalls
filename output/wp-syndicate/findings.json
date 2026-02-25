@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp_syndicate_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_syndicate-feed-retrieve-term",
+    "wp_syndicate-feed-url",
+    "wp_syndicate-registration-method",
+    "wp_syndicate-default-post-type",
+    "wp_syndicate-author-id",
+    "wp_syndicate-default-post-status",
+    "wp_syndicate-basic-auth-user",
+    "wp_syndicate-basic-auth-pass"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:42.350Z"
+}

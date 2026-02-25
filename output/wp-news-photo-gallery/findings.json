@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wpnpg_gallery_title_display",
+    "wpnpg_gallery_title",
+    "wpnpg_auto_play",
+    "wpnpg_animation_type",
+    "wpnpg_control_nav",
+    "wpnpg_pause_hover",
+    "wpnpg_slide_loop",
+    "wpnpg_thumbnail_width",
+    "wpnpg_thumbnail_margin",
+    "WPNPG_Recent_Gallery",
+    "wpnpg_order",
+    "wpnpg",
+    "wpnpg_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpnpg_second_iamge",
+    "wpnpg_third_iamge",
+    "wpnpg_fourth_iamge",
+    "wpnpg_fifth_iamge",
+    "wpnpg_sixth_iamge"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:29.621Z"
+}

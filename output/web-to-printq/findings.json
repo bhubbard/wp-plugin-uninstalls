@@ -1,0 +1,21 @@
+{
+  "options": [
+    "printq_designer_version",
+    "pqd"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pqd_enable",
+    "pqd_template",
+    "pqd_template_settings",
+    "product_id",
+    "width",
+    "height",
+    "page_number",
+    "add_to_cart_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:59.630Z"
+}

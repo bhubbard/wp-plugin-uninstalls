@@ -1,0 +1,78 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wtgcsvexporter_formvalidation'
+wp option delete 'wtgcsvexporter_installedversion'
+wp option delete 'wtgcsvexporter_installeddate'
+wp option delete 'wtgcsvexporter_schedule'
+wp option delete 'wtgcsvexporter_notifications'
+wp option delete 'wtgcsvexporter_is_installed'
+wp option delete 'wtgcsvexporter_capabilities'
+wp option delete 'wtgcsvexporter_settings'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'skip_post_thumb'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'skip_post_thumb'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'skip_post_thumb'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'skip_post_thumb'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_phpline'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_phpline'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_phpline'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_phpline'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_phpfunction'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_phpfunction'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_phpfunction'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_phpfunction'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_priority'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_priority'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_priority'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_priority'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_fileurl'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_fileurl'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_fileurl'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_fileurl'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_dataid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_dataid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_dataid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_dataid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_userid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_userid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_userid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_userid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_errortext'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_errortext'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_errortext'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_errortext'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_projectid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_projectid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_projectid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_projectid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_reason'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_reason'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_reason'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_reason'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_action'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_action'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_action'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_action'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_instructions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_instructions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_instructions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_instructions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_creator'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_creator'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_creator'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_creator'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webtechglobalflags_version'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webtechglobalflags_version'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webtechglobalflags_version'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webtechglobalflags_version'"

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "scs-opt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "themeatelier_discount_dismissed",
+    "_scs_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:12.812Z"
+}

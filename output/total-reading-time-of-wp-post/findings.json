@@ -1,0 +1,11 @@
+{
+  "options": [
+    "trtwp_reading_per_minute"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:02.519Z"
+}

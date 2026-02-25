@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_oik_weight_zone_shipping_settings",
+    "woocommerce_awd_shipping_settings",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:16.183Z"
+}

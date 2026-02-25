@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cms_tpv_show_promo",
+    "cms_tpv_options",
+    "cms_tpv_show_annoying_little_box",
+    "cms_tpv_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edit_last"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:45.159Z"
+}

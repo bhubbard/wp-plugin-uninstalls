@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ai_chatbot_adminsettings', 'ai_chatbot_question_action', 'ai_chatbot_rating_action', 'ai_chatbot_chatbot_widget', 'ai_chatbot_botdata_ids', 'ai_chatbot_is_public', 'ai_chatbot_get_script', 'ai_chatbot_otp', 'ai_chatbot_startup', 'ai_chatbot_current_page', 'ai_chatbot_getotp', 'ai_chatbot_otpcheck', 'ai_chatbot_userplan', 'ai_chatbot_add_website', 'ai_chatbot_test_get_res1', 'ai_chatbot_r_req', 'ai_chatbot_test_1', 'ai_chatbot_test_2', 'ai_chatbot_test_3', 'ai_chatbot_botsend_last_response', 'ai_chatbot_widget');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_yoast_wpseo_title', '_yoast_wpseo_metadesc');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_yoast_wpseo_title', '_yoast_wpseo_metadesc');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_yoast_wpseo_title', '_yoast_wpseo_metadesc');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_yoast_wpseo_title', '_yoast_wpseo_metadesc');
+

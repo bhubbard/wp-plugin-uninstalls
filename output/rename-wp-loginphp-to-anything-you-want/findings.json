@@ -1,0 +1,22 @@
+{
+  "options": [
+    "loginsecurity_version",
+    "loginsecurity_options",
+    "loginsecurity_last_reset",
+    "loginsecurity_whitelist",
+    "loginsecurity_blacklist",
+    "lz_version",
+    "loginsecurity_ins_time",
+    "site_name",
+    "loginsecurity_license",
+    "rwl_page",
+    "rwl_redirect",
+    "rwl_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:25.062Z"
+}

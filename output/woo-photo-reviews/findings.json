@@ -1,0 +1,39 @@
+{
+  "options": [
+    "woocommerce_enable_reviews",
+    "woocommerce_enable_coupons",
+    "_wcpr_nkt_setting",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*",
+    "woocommerce_review_rating_verification_label"
+  ],
+  "transients": [
+    "woocommerce_photo_review_update_data_version_1_1_0",
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [
+    "wpr_schedule_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wcpr_user_reviewed_product",
+    "reviews-images",
+    "rating",
+    "kt_unique_coupon",
+    "verified",
+    "coupon_for_reviews",
+    "coupon_email",
+    "gdpr_agree",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:30.031Z"
+}

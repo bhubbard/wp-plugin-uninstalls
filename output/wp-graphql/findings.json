@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wp_graphql_version",
+    "recently_activated",
+    "menu_items",
+    "graphql_experiments_settings",
+    "rewrite_rules",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "wpgraphql_incompatible_plugins",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpgraphql_dismissed_admin_notices",
+    "_wp_attachment_image_alt",
+    "_edit_last",
+    "_wp_desired_post_slug",
+    "_edit_lock",
+    "_menu_item_object_id",
+    "_menu_item_type",
+    "enclosure",
+    "_wp_page_template",
+    "show_admin_bar_front",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:05.711Z"
+}

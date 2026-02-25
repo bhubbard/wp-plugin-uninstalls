@@ -1,0 +1,28 @@
+{
+  "options": [
+    "publishpress_checklists_checklists_options",
+    "publishpress_checklists_settings_options",
+    "*_options",
+    "classic-editor-replace",
+    "publishpress_checklist_options",
+    "wpb_js_gutenberg_disable",
+    "ppch_activated",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "ppch_reset_labels_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_attachment_image_caption",
+    "_elementor_edit_mode",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_content_score",
+    "_yoast_wpseo_linkdex"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:53.680Z"
+}

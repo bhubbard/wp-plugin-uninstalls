@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wd_image_toggle",
+    "world_domination"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:34.495Z"
+}

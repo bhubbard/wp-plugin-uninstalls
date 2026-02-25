@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_id",
+    "_attachment_exist",
+    "_from",
+    "_uid",
+    "_message_id",
+    "_date",
+    "dropbox_shareablelink",
+    "dropbox_file_path",
+    "_mdrop_mail_server",
+    "_mdrop_email",
+    "_mdrop_password",
+    "_mdrop_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:02.552Z"
+}

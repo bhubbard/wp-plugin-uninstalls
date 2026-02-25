@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_quick_view_settings"
+  ],
+  "transients": [
+    "_product_quick_view_for_woocommerce_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_checkbox"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:10.898Z"
+}

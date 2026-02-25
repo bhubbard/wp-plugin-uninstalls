@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpmdb_api_key",
+    "wpmdb_donated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmdb_search_field",
+    "*title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:46.262Z"
+}

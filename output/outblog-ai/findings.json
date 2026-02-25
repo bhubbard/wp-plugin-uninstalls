@@ -1,0 +1,29 @@
+{
+  "options": [
+    "outblog_api_key",
+    "outblog_post_as_draft"
+  ],
+  "transients": [
+    "outblog_activation_redirect"
+  ],
+  "cron_jobs": [
+    "outblog_daily_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_aioseo_description",
+    "_seopress_titles_desc",
+    "_yoast_wpseo_focuskw",
+    "rank_math_focus_keyword",
+    "_aioseo_keyphrases",
+    "_seopress_analysis_target_kw",
+    "_yoast_wpseo_title",
+    "rank_math_title",
+    "_aioseo_title",
+    "_seopress_titles_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:17.777Z"
+}

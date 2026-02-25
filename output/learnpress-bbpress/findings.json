@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lp_bbpress_forum_enable",
+    "_lp_course_forum",
+    "_lp_bbpress_forum_enrolled_user",
+    "_bbp_forum_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:01.060Z"
+}

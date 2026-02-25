@@ -1,0 +1,18 @@
+{
+  "options": [
+    "clicky_fv_player_type",
+    "clicky_fv_player_color",
+    "clicky_fv_overlay_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_featured_video_url",
+    "_product_featured_video_type",
+    "_product_featured_video_thumbnail",
+    "_product_featured_video_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:22.455Z"
+}

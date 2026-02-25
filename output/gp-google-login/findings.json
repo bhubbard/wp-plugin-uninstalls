@@ -1,0 +1,17 @@
+{
+  "options": [
+    "Gp_google_login_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "googleplus_access_token",
+    "googleplus_profile_img",
+    "gp_display_name",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:37.315Z"
+}

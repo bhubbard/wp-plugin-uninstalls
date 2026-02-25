@@ -1,0 +1,22 @@
+{
+  "options": [
+    "zohomailwoo_client_id",
+    "zohomailwoo_client_secret",
+    "zohomailwoo_refresh_token",
+    "zohomailwoo_access_token",
+    "zohomailwoo_domain_name",
+    "zohomailwoo_timestamp",
+    "zohomailwoo_mail_accid",
+    "zohomailwoo_from_email_id",
+    "zohomailwoo_from_name",
+    "zohomailwoo_is_configured",
+    "zohomailwoo_from_*",
+    "zohomailwoo_from_General"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:01.666Z"
+}

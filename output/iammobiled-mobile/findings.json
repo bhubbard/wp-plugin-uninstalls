@@ -1,0 +1,19 @@
+{
+  "options": [
+    "iammobiled_ad_option",
+    "iammobiled_ad_share",
+    "iammobiled_user_admob_id",
+    "iammobiled_admob_id",
+    "iammobiled_mobile_template",
+    "cfmobi_mobile_browsers",
+    "cfmobi_touch_browsers",
+    "iammobiled_mobile_theme",
+    "current_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:19.447Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "jal_db_version",
+    "cf7nxt_view_install_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "enq_star",
+    "enq_name",
+    "enq_status",
+    "enq_email",
+    "enq_label",
+    "enq_formname",
+    "enq_formid",
+    "_cf7nxt_save_name_tag",
+    "_cf7nxt_save_email_tag",
+    "_cf7nxt_save_subject_tag",
+    "_cf7nxt_save_file_tag",
+    "_cf7nxt_other_save_tags",
+    "_cf7nxt_other_labels_save_tags",
+    "enq_attach",
+    "enq_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:35.809Z"
+}

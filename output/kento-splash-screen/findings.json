@@ -1,0 +1,19 @@
+{
+  "options": [
+    "kento_splash_screen_demo",
+    "kento_splash_screen_bg_color",
+    "kento_splash_screen_bg_img",
+    "kento_splash_screen_border_size",
+    "kento_splash_screen_border_color",
+    "kento_splash_screen_content",
+    "kento_splash_screen_width",
+    "kento_splash_screen_height",
+    "kento_splash_screen_left"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:04.885Z"
+}

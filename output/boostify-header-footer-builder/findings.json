@@ -1,0 +1,29 @@
+{
+  "options": [
+    "plugin_permalinks_flushed",
+    "woocommerce_shop_page_id",
+    "elementor_maintenance_mode_mode",
+    "elementor_maintenance_mode_template_id",
+    "woocommerce_cart_redirect_after_add",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bhf_type",
+    "bhf_display",
+    "bhf_post",
+    "bhf_post_type",
+    "bhf_no_display",
+    "bhf_ex_post_type",
+    "bhf_ex_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:46.671Z"
+}

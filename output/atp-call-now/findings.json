@@ -1,0 +1,24 @@
+{
+  "options": [
+    "atpcn_page_id",
+    "atpcn_link",
+    "atpcn_text",
+    "atpcn_left_right",
+    "atpcn_bottom_top",
+    "atpcn_hide_pc",
+    "atpcn_hide_mb",
+    "atpcn_image_url",
+    "atpcn_size",
+    "atpcn_long",
+    "atpcn_color",
+    "atpcn_color_bg",
+    "atpcn_color_text",
+    "atpcn_not_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:41.549Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "accessible_tooltips_custom_css",
+    "accessible_tooltips_theme",
+    "accessible_tooltips_interactive_border_size",
+    "accessible_tooltips_placement",
+    "accessible_tooltips_fallback_placement",
+    "accessible_tooltips_allow_html",
+    "accessible_tooltips_hide_on_click"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:56.109Z"
+}

@@ -1,0 +1,44 @@
+{
+  "options": [
+    "surecontact_sync_batches",
+    "surecontact_sync_job_cancelled",
+    "surecontact_third_party_integrations",
+    "surecontact_workspace_uuid",
+    "surecontact_bearer_token",
+    "surecontact_connection_id",
+    "surecontact_last_status_sync",
+    "surecontact_last_bulk_sync",
+    "surecontact_last_field_sync",
+    "surecontact_synced_metadata",
+    "surecontact_contact_fields",
+    "surecontact_custom_metafields",
+    "surecontact_general_settings",
+    "surecontact_api_queue_table_version",
+    "surecontact_integrations_table_version",
+    "surecontact_db_version"
+  ],
+  "transients": [
+    "surecontact_api_circuit_breaker",
+    "surecontact_latepoint_tracked_*",
+    "surecontact_woo_processing_*",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "surecontact_suremembers_check_expirations"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wcf-step-type",
+    "wcf-order-bumps",
+    "video_id",
+    "first_name",
+    "nickname",
+    "last_name",
+    "suremembers_user_access_group",
+    "_surecontact_review_tagged"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:23.526Z"
+}

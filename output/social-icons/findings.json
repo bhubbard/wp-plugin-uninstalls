@@ -1,0 +1,21 @@
+{
+  "options": [
+    "social_icons_meta_box_errors",
+    "social_icons_admin_footer_text_rated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sortable_icons",
+    "background_style",
+    "icon_font_size",
+    "_manage_label",
+    "_greyscale_icons",
+    "_open_new_tab",
+    "_add_nofollow",
+    "icon_padding"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:25.733Z"
+}

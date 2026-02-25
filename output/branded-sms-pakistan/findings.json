@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_setting",
+    "_bsp_optin",
+    "1.0",
+    "wcj_order_number_prefix",
+    "bsp_gateway_credentials_front_page_options",
+    "bsp_order_verification_front_page_options",
+    "bsp_messages_text_front_page_options",
+    "bsp_support_front_page_options"
+  ],
+  "transients": [
+    "fx-admin-notice-test",
+    "fx-admin-notice-example"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dvs_courier_tracking"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:06.307Z"
+}

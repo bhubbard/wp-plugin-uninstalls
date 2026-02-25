@@ -1,0 +1,17 @@
+{
+  "options": [
+    "clp_background_url",
+    "clp_logo_url",
+    "clp_logo_height",
+    "clp_logo_width",
+    "clp_primary_color",
+    "clp_primary_text_color",
+    "clp_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:29.081Z"
+}

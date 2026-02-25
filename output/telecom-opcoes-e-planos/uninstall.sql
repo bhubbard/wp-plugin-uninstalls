@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('company_name', 'company_cnpj', 'company_sobre_titulo', 'company_sobre_texto', 'company_cobertura', 'company_endereco', 'company_endereco_maps', 'company_horario', 'central_nome', 'central_url', 'app_titulo', 'app_subtitulo', 'app_url_android', 'app_url_ios', 'company_phone1', 'company_phone2', 'company_email', 'company_whatsapp', 'company_instagram', 'company_facebook', 'top_slides_desktop', 'top_slides_mobile', 'observacoes_planos', 'top_pro_license_status');
+DELETE FROM wp_options WHERE option_name LIKE 'faq_pergunta_%';
+DELETE FROM wp_options WHERE option_name LIKE 'faq_resposta_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_top_plan_velocidade', '_top_plan_unidade', '_top_plan_velocidade_planometro', '_top_plan_preco', '_top_plan_tecnologia', '_top_plan_tecnologia_imagem', '_top_plan_diferencial1', '_top_plan_diferencial2', '_top_plan_diferencial3', '_top_plan_diferencial4', '_top_plan_diferencial5', '_top_plan_destaque', '_top_plan_combo', '_top_plan_tipo', '_top_plan_cidades', '_top_plan_categorias', '_top_plan_texto_combo', '_top_plan_observacoes', '_top_plan_bairros');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_top_plan_velocidade', '_top_plan_unidade', '_top_plan_velocidade_planometro', '_top_plan_preco', '_top_plan_tecnologia', '_top_plan_tecnologia_imagem', '_top_plan_diferencial1', '_top_plan_diferencial2', '_top_plan_diferencial3', '_top_plan_diferencial4', '_top_plan_diferencial5', '_top_plan_destaque', '_top_plan_combo', '_top_plan_tipo', '_top_plan_cidades', '_top_plan_categorias', '_top_plan_texto_combo', '_top_plan_observacoes', '_top_plan_bairros');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_top_plan_velocidade', '_top_plan_unidade', '_top_plan_velocidade_planometro', '_top_plan_preco', '_top_plan_tecnologia', '_top_plan_tecnologia_imagem', '_top_plan_diferencial1', '_top_plan_diferencial2', '_top_plan_diferencial3', '_top_plan_diferencial4', '_top_plan_diferencial5', '_top_plan_destaque', '_top_plan_combo', '_top_plan_tipo', '_top_plan_cidades', '_top_plan_categorias', '_top_plan_texto_combo', '_top_plan_observacoes', '_top_plan_bairros');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_top_plan_velocidade', '_top_plan_unidade', '_top_plan_velocidade_planometro', '_top_plan_preco', '_top_plan_tecnologia', '_top_plan_tecnologia_imagem', '_top_plan_diferencial1', '_top_plan_diferencial2', '_top_plan_diferencial3', '_top_plan_diferencial4', '_top_plan_diferencial5', '_top_plan_destaque', '_top_plan_combo', '_top_plan_tipo', '_top_plan_cidades', '_top_plan_categorias', '_top_plan_texto_combo', '_top_plan_observacoes', '_top_plan_bairros');
+

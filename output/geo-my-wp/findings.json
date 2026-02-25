@@ -1,0 +1,52 @@
+{
+  "options": [
+    "gmw_version",
+    "gmw_options",
+    "gmw_addons_status",
+    "gmw_license_data",
+    "gmw_addons_data",
+    "gmw_internal_cache_status",
+    "gmw_tracking_notice",
+    "gmw_tracking_last_send",
+    "*_fields",
+    "gmw_license_keys",
+    "gmw_premium_plugin_status",
+    "gmw_old_locations_tables_exist",
+    "gmw_old_locations_tables_updated",
+    "gmw_importer_bp_xprofile_fields",
+    "gmw_importer_post_meta_fields",
+    "gmw_importer_user_meta_fields",
+    "active_sitewide_plugins",
+    "gmw_forms",
+    "gmw_forms_old",
+    "gmw_extensions_updater",
+    "gmw_addons_version",
+    "gmw_forms_table_updated",
+    "gmw_db_version"
+  ],
+  "transients": [
+    "gmw_extensions_feed",
+    "gmw_verify_license_keys",
+    "update_plugins",
+    "gmw_geocoded_*",
+    "*_meta",
+    "*_id",
+    "gmw_user_ids_by_role_*"
+  ],
+  "cron_jobs": [
+    "gmw_weekly_scheduled_events",
+    "gmw_daily_scheduled_events",
+    "gmw_hourly_scheduled_events",
+    "gmw_clear_expired_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wppl_days_hours",
+    "_gmw_locations_export",
+    "gmw_featured_object",
+    "select_options",
+    "bp_ps_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:15.126Z"
+}

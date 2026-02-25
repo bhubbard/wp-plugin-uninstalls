@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_user_activity_object_type",
+    "wp_user_activity_object_subtype",
+    "wp_user_activity_object_name",
+    "wp_user_activity_object_id",
+    "wp_user_activity_action",
+    "wp_user_activity_ip",
+    "wp_user_activity_ua",
+    "wp_user_activity_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:21.413Z"
+}

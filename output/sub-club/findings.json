@@ -1,0 +1,17 @@
+{
+  "options": [
+    "subdotclub_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_subdotclub_post_type",
+    "_subdotclub_delete_premium",
+    "_subdotclub_post_published",
+    "_subdotclub_post_url",
+    "_subdotclub_post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:13.478Z"
+}

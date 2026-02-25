@@ -1,0 +1,26 @@
+{
+  "options": [
+    "interakt_plugin_options_name",
+    "interakt_mail_options",
+    "interakt_contactform_options",
+    "interakt_contactform_msgs_options",
+    "interakt_manageapps_options",
+    "interaktSyncedUsers",
+    "nav_menu_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "billing_*",
+    "shipping_*",
+    "_transaction_id",
+    "_menu_item_menu_item_parent",
+    "nav_menu_recently_edited"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:16.044Z"
+}

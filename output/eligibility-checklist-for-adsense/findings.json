@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ecfa_settings"
+  ],
+  "transients": [
+    "ecfa_adsense_audit_results_v8",
+    "ecfa_adsense_audit_timestamp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:41.653Z"
+}

@@ -1,0 +1,66 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'cx_redirect_user'
+wp option delete 'cx_convert_serialize_to_json'
+wp option delete 'hide_couponx_plugins'
+wp option delete 'cx_wc_popup'
+wp option delete 'cx_total_widget'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_hide_review_box'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_show_review_box_after'"
+wp option delete 'hide_coupon-x_cta'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'prm_cx_widget_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'prm_cx_widget_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'prm_cx_widget_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'prm_cx_widget_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'version'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'version'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'version'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'version'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'coupon_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'coupon_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'coupon_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'coupon_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'widget_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'widget_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'widget_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'widget_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cx_widget_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cx_widget_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cx_widget_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cx_widget_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'start_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'start_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'start_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'start_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'end_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'end_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'end_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'end_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'coupon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'coupon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'coupon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'coupon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'visitor'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'visitor'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'visitor'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'visitor'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'widget_open'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'widget_open'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'widget_open'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'widget_open'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'coupon_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'coupon_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'coupon_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'coupon_amount'"

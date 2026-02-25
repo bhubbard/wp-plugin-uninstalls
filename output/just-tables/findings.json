@@ -1,0 +1,32 @@
+{
+  "options": [
+    "justtables_diagnostic_data_agreed",
+    "justtables_diagnostic_data_notice",
+    "*_htiop",
+    "*_htiop_bar",
+    "*_htiop_popup",
+    "*_htiop_redirect",
+    "*_htiop_data",
+    "*_htiop_timer",
+    "justtables_delete_data_fetch_cache",
+    "justtables_maybe_later_time",
+    "justtables_rating_already_rated",
+    "woocommerce_currency_pos",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "just_tables_installed",
+    "just_tables_version",
+    "csf_demo_mode"
+  ],
+  "transients": [
+    "*_htiop_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_jt_product_table_options",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:40.701Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "nextservice_ai_embed_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nextservice_ai_branch"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:29.613Z"
+}

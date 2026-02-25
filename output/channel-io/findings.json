@@ -1,0 +1,19 @@
+{
+  "options": [
+    "channel_io_plugin_key",
+    "channel_io_secret_key",
+    "channel_io_hide_default_launcher",
+    "channel_io_mobile_messenger_mode",
+    "channel_io_z_index",
+    "channel_io_custom_launcher_selector",
+    "channel_io_member_hash"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:16.195Z"
+}

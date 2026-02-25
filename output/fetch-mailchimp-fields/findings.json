@@ -1,0 +1,12 @@
+{
+  "options": [
+    "mailchimp_config_api_key",
+    "mailchimp_config_list_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:37.103Z"
+}

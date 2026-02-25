@@ -1,0 +1,33 @@
+{
+  "options": [
+    "ilj_dismiss_dash_notice_until",
+    "fs_accounts",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "updraft_task_manager_dbversion",
+    "updraft_task_manager_plugins"
+  ],
+  "transients": [
+    "ilj_upload_settings",
+    "ilj_upload_keywords",
+    "ilj_upload_*",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:33.228Z"
+}

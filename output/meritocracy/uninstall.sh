@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cashcred_user_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cashcred_user_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cashcred_user_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cashcred_user_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cost'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cost'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cost'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cost'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cashcred_payment_transfer_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cashcred_payment_transfer_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cashcred_payment_transfer_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cashcred_payment_transfer_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cashcred_log_1'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cashcred_log_1'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cashcred_log_1'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cashcred_log_1'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cashcred_log_counter'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cashcred_log_counter'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cashcred_log_counter'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cashcred_log_counter'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'cashcred_log_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'cashcred_log_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'cashcred_log_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'cashcred_log_%'"

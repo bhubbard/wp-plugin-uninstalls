@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wppizza",
+    "wppizza_addingredients",
+    "wppizza_dbp",
+    "wppizza_pickup_prices",
+    "wppizza_preorder",
+    "wppizza_stockmanagement",
+    "wppizza_cad",
+    "wppizza_cad_coupons",
+    "wppizza_cad_discounts",
+    "wppizza_gateway_cod",
+    "wppizza_gateway_paypal"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:16.945Z"
+}

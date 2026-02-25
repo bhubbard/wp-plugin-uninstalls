@@ -1,0 +1,16 @@
+{
+  "options": [
+    "admin_instant_search_settings_polyplugins",
+    "admin_instant_search_notice_dismissed_polyplugins",
+    "admin_instant_search_version_polyplugins",
+    "admin_instant_search_indexes_polyplugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "admin_instant_search_background_worker"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:13.033Z"
+}

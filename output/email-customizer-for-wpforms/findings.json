@@ -1,0 +1,22 @@
+{
+  "options": [
+    "_redmuber_item_*",
+    "ninja_forms_addons_feed",
+    "yeemail_wpforms_setup"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yeemail_wpforms",
+    "_mail_template",
+    "yeeaddons_dismissed_*",
+    "data_email",
+    "_mail_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:50.190Z"
+}

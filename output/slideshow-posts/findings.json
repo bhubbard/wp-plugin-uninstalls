@@ -1,0 +1,16 @@
+{
+  "options": [
+    "CW_Slideshow_Posts"
+  ],
+  "transients": [
+    "CW_Slideshow_Posts_flush"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cw_slides",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:04.807Z"
+}

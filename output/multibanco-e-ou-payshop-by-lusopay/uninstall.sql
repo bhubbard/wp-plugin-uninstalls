@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('applepay_db_version', 'cofi_db_version', 'email_sent', 'lusopaygateway_custom_field_2_value', 'custom_field_2_value', 'woocommerce_multibanco-e-ou-payshop-by-lusopay_settings', 'mbway_db_version', 'mag_db_version', 'pisp_db_version', 'woocommerce_lusopay_applepay_settings', 'woocommerce_lusopay_cofi_settings', 'woocommerce_lusopaygateway_settings', 'woocommerce_lusopay_mbway_settings', 'woocommerce_lusopay_payshop_settings', 'woocommerce_version', 'lusopay_terms_accepted', 'active_sitewide_plugins');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_phone', 'wpml_language', 'admin_notice_lusopaygateway_instrutions_to_client_dismissed', 'admin_notices_lusopaygateway_instrutions_dismissed', 'admin_notice_lusopaygateway_marketing_dismissed');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_phone', 'wpml_language', 'admin_notice_lusopaygateway_instrutions_to_client_dismissed', 'admin_notices_lusopaygateway_instrutions_dismissed', 'admin_notice_lusopaygateway_marketing_dismissed');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_phone', 'wpml_language', 'admin_notice_lusopaygateway_instrutions_to_client_dismissed', 'admin_notices_lusopaygateway_instrutions_dismissed', 'admin_notice_lusopaygateway_marketing_dismissed');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_phone', 'wpml_language', 'admin_notice_lusopaygateway_instrutions_to_client_dismissed', 'admin_notices_lusopaygateway_instrutions_dismissed', 'admin_notice_lusopaygateway_marketing_dismissed');
+

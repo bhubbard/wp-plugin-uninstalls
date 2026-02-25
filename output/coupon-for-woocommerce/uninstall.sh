@@ -1,0 +1,88 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'coupon_series_id'
+wp option delete 'product_id'
+wp option delete 'coupon_codes'
+wp option delete 'usage_limit'
+wp option delete 'coupon_amount'
+wp option delete 'expiry'
+wp option delete 'cblock_count'
+wp option delete 'cblock_length'
+wp option delete 'coupon_series_id_delete'
+wp option delete 'coupon_count'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'discount_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'coupon_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'coupon_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'coupon_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'coupon_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'individual_use'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'individual_use'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'individual_use'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'individual_use'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'product_ids'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'product_ids'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'product_ids'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'product_ids'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exclude_product_ids'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exclude_product_ids'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exclude_product_ids'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exclude_product_ids'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'usage_limit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'usage_limit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'usage_limit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'usage_limit'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'usage_limit_per_user'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'usage_limit_per_user'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'usage_limit_per_user'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'usage_limit_per_user'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'limit_usage_to_x_items'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'limit_usage_to_x_items'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'limit_usage_to_x_items'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'limit_usage_to_x_items'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'expiry_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'expiry_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'expiry_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'expiry_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'free_shipping'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'free_shipping'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'free_shipping'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'free_shipping'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exclude_sale_items'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exclude_sale_items'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exclude_sale_items'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exclude_sale_items'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'product_categories'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'product_categories'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'product_categories'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'product_categories'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exclude_product_categories'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exclude_product_categories'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exclude_product_categories'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exclude_product_categories'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'minimum_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'minimum_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'minimum_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'minimum_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'maximum_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'maximum_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'maximum_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'maximum_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'customer_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'customer_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'customer_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'customer_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'coupon-for-woocommerce_series_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'coupon-for-woocommerce_series_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'coupon-for-woocommerce_series_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'coupon-for-woocommerce_series_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'is_voucher'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'is_voucher'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'is_voucher'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'is_voucher'"

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "findwise_redirect_to_finish_setup",
+    "findwise_pairing_token",
+    "findwise_pairing_callback_token",
+    "findwise_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:40.562Z"
+}

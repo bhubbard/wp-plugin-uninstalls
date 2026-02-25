@@ -1,0 +1,21 @@
+{
+  "options": [
+    "lergs_image_label",
+    "lergs_hover_animation",
+    "lergs_layout_type",
+    "lergs_thumbnail_layout",
+    "lergs_hover_color",
+    "lergs_hover_text_color",
+    "lergs_gallry_custom_css",
+    "lergs_slider_play"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lergs_all_photos_details",
+    "lergs_total_images_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:44.741Z"
+}

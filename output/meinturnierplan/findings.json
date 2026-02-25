@@ -1,0 +1,53 @@
+{
+  "options": [
+    "mtrn_plugin_version",
+    "mtrn_default_settings"
+  ],
+  "transients": [
+    "mtrn_temporary_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "locale",
+    "_mtrn_language",
+    "_mtrn_group",
+    "_mtrn_tournament_id",
+    "_mtrn_projector_presentation",
+    "_mtrn_si",
+    "_mtrn_sf",
+    "_mtrn_st",
+    "_mtrn_sg",
+    "_mtrn_sr",
+    "_mtrn_se",
+    "_mtrn_sp",
+    "_mtrn_sh",
+    "_mtrn_participant",
+    "_mtrn_match_number",
+    "_mtrn_font_size",
+    "_mtrn_header_font_size",
+    "_mtrn_text_color",
+    "_mtrn_main_color",
+    "_mtrn_table_padding",
+    "_mtrn_inner_padding",
+    "_mtrn_logo_size",
+    "_mtrn_border_color",
+    "_mtrn_bsizeh",
+    "_mtrn_bsizev",
+    "_mtrn_bsizeoh",
+    "_mtrn_bsizeov",
+    "_mtrn_head_bottom_border_color",
+    "_mtrn_bbsize",
+    "_mtrn_width",
+    "_mtrn_height",
+    "_mtrn_suppress_wins",
+    "_mtrn_suppress_logos",
+    "_mtrn_suppress_num_matches",
+    "_mtrn_navigation_for_groups",
+    "_mtrn_ehrsize",
+    "_mtrn_ehrtop",
+    "_mtrn_ehrbottom"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:06.376Z"
+}

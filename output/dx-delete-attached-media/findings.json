@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dx_delete_attached_media_options"
+  ],
+  "transients": [
+    "dx_dam_activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:11.037Z"
+}

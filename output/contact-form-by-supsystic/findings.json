@@ -1,0 +1,27 @@
+{
+  "options": [
+    "*_plugin_activation_errors",
+    "*db_version",
+    "*db_installed",
+    "*plug_was_used",
+    "*_full_installed",
+    "*_opts_data",
+    "cfs_ac_subscribe",
+    "cfs_ac_remind",
+    "cfs_ac_disabled",
+    "*_last__time_contact_send",
+    "*cleared_trash_stat_data",
+    "cfs_show_love_link",
+    "cfs_last_check_love_link",
+    "*welcome_sent",
+    "*_unique_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*-tour-hst"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:45.461Z"
+}

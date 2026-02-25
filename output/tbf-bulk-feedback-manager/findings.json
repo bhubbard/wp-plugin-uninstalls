@@ -1,0 +1,22 @@
+{
+  "options": [
+    "tbfbuusm_bulk_manager_history"
+  ],
+  "transients": [
+    "tbfbuusm_slug_fix_plan_*",
+    "tbfbuusm_slug_fix_progress_*",
+    "tbfbuusm_user_gen_plan_*",
+    "tbfbuusm_user_gen_progress_*",
+    "tbfbuusm_user_gen_results_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tbfbuusm_avatar_url",
+    "tbfbuusm_gender",
+    "bp_latest_avatar",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:03.345Z"
+}

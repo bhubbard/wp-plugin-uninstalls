@@ -1,0 +1,19 @@
+{
+  "options": [
+    "caldera_google_sheet_info",
+    "cf_gs_access_code",
+    "cf_gs_verify",
+    "cf_gs_token",
+    "active_sitewide_plugins",
+    "is_new_client_secret_calderagsc",
+    "caldera_email_account"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "caldera_gs_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:00.890Z"
+}

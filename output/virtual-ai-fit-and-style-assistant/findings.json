@@ -1,0 +1,28 @@
+{
+  "options": [
+    "aitnb_settings",
+    "aitnb_activation_status"
+  ],
+  "transients": [
+    "aitnb_gemini_models_list",
+    "aitnb_activation_notice",
+    "aitnb_style_recs_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aitnb_enable_tryon",
+    "_aitnb_item_type",
+    "_aitnb_overlay_asset_id",
+    "_aitnb_ar_mode",
+    "_aitnb_asset_position",
+    "_aitnb_asset_scale",
+    "_aitnb_enable_fit_recommender",
+    "_aitnb_size_chart",
+    "_aitnb_enable_style_assistant",
+    "_aitnb_style_assistant_categories",
+    "_aitnb_purchase_tracked"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:55.288Z"
+}

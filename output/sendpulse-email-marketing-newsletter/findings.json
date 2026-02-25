@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sp_emp_session_storage_notice_dismissed",
+    "sp_emp_file_storage_notice_dismissed",
+    "sp_import_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sp_user_ip",
+    "_sp_form_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:14.163Z"
+}

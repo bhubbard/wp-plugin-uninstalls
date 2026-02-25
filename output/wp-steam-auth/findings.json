@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wpsapSettings_steamAppFlush",
+    "wpsapOption_popupEnabled",
+    "wpsapSettings_apiKey",
+    "wpsapSettings_logoutRedirect",
+    "wpsapSettings_loginRedirect",
+    "wpsapSettings_logoutRedirectReferer",
+    "wpsapSettings_loginRedirectReferer",
+    "wpsapOption_avatarUpload",
+    "wpsapOption_avatarEnabled",
+    "wpsapSettings_steamAppUrl",
+    "wpsapSettings_steamAppLoginUrl",
+    "wpsapSettings_steamAppSyncUrl",
+    "wpsapSettings_steamAppLogoutUrl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "steam_wp_avatar",
+    "steam_steamid",
+    "steam_force_resync",
+    "steam_personaname",
+    "steam_realname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:35.479Z"
+}

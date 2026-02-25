@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_webship_api_key",
+    "last_request_received_from_webship_timestamp",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_webship-setup_notice",
+    "_shipping_postcode",
+    "_wc_shipment_tracking_items",
+    "_webship_total_item_qty_already_shipped",
+    "_tracking_provider",
+    "_tracking_number",
+    "_date_shipped"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:40.265Z"
+}

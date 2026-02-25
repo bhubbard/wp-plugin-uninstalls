@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_ai_client_provider_credentials"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "mcp_adapter_sessions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:07.754Z"
+}

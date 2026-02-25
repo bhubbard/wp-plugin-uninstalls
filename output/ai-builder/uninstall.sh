@@ -1,0 +1,88 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'aibui_jwt_token'
+wp option delete 'aibui_user_successful_signup'
+wp option delete 'aibui_generations_migrated_to_files'
+wp option delete 'aibui_multi_page_generations'
+
+# Delete Transients
+wp transient delete 'aibui_activation_redirect'
+
+# Clear Cron Jobs
+wp cron event delete 'aibui_daily_cleanup'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aibui_meta_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aibui_meta_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aibui_meta_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aibui_meta_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ai_builder_page_css_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ai_builder_page_css_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ai_builder_page_css_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ai_builder_page_css_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ai_builder_block_css_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ai_builder_block_css_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ai_builder_block_css_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ai_builder_block_css_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ai_builder_css_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ai_builder_css_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ai_builder_css_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ai_builder_css_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ai_builder_page_js_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ai_builder_page_js_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ai_builder_page_js_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ai_builder_page_js_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ai_builder_block_js_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ai_builder_block_js_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ai_builder_block_js_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ai_builder_block_js_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ai_builder_js_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ai_builder_js_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ai_builder_js_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ai_builder_js_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ai_builder_page_prompt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ai_builder_page_prompt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ai_builder_page_prompt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ai_builder_page_prompt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_aibui_created_by_ai'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_aibui_created_by_ai'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_aibui_created_by_ai'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_aibui_created_by_ai'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ai_lang'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ai_lang'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ai_lang'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ai_lang'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ai_translation_source'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ai_translation_source'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ai_translation_source'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ai_translation_source'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ai_translation_group'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ai_translation_group'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ai_translation_group'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ai_translation_group'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ai_builder_seo_desc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ai_builder_seo_desc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ai_builder_seo_desc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ai_builder_seo_desc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_yoast_wpseo_metadesc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_yoast_wpseo_metadesc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_yoast_wpseo_metadesc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_yoast_wpseo_metadesc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ai_translation_meta_desc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ai_translation_meta_desc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ai_translation_meta_desc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ai_translation_meta_desc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_template_part_area'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_template_part_area'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_template_part_area'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_template_part_area'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ai_template_part_slug'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ai_template_part_slug'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ai_template_part_slug'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ai_template_part_slug'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ai_is_homepage'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ai_is_homepage'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ai_is_homepage'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ai_is_homepage'"

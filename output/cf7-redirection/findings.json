@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpcf7_redirect_admin_notice_dismiss",
+    "wpcf7_redirect_banner_dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpcf7_redirect_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:35.949Z"
+}

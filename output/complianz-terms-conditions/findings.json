@@ -1,0 +1,31 @@
+{
+  "options": [
+    "cmplz-tc-current-version",
+    "cmplz_tc_documents_update_date",
+    "cmplz_documents_update_date",
+    "cmplz_generate_pdf_languages",
+    "cmplz_pdf_dir_token",
+    "*_custom_page",
+    "complianz_tc_options_*",
+    "*_custom_page_url",
+    "cmplz_deleted_cookies",
+    "cmplz_tc_review_notice_shown",
+    "cmplz_tc_activation_time",
+    "cmplz_wizard_completed_once",
+    "trp_settings",
+    "complianz_tc_options_settings"
+  ],
+  "transients": [
+    "cmplz_tc_redirect_to_settings",
+    "cmplz_tc_shortcode_*",
+    "cmplz_wizard_locked_by_user"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cmplz_tc_document_status",
+    "cmplz_tc_shortcode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:52.557Z"
+}

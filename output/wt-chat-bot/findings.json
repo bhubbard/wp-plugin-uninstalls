@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "guest_name",
+    "guest_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:23.639Z"
+}

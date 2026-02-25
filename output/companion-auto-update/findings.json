@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cau_db_version",
+    "cau_redirectToWelcomeScreen"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cau_set_schedule_mail",
+    "wp_update_plugins",
+    "wp_update_themes",
+    "wp_version_check",
+    "cau_custom_hooks_plugins",
+    "cau_custom_hooks_themes",
+    "cau_log_updater",
+    "cau_outdated_notifier"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:50.809Z"
+}

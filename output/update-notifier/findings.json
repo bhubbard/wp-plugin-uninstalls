@@ -1,0 +1,18 @@
+{
+  "options": [
+    "updatenote_options",
+    "current_theme"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "updatenotifier_sendmail"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:47.314Z"
+}

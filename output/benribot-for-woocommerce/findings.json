@@ -1,0 +1,18 @@
+{
+  "options": [
+    "benribot_widget_embedded",
+    "benribot_client_key",
+    "benribot_connected",
+    "benribot_oauth_state",
+    "benribot_secret_key",
+    "benribot_consumer_key",
+    "benribot_consumer_secret",
+    "benribot_wc_api_key_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:32.686Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "infapg_keywords",
+    "infapg_category",
+    "infapg_api_type",
+    "infapg_openai_api_key",
+    "infapg_gemini_api_key",
+    "infapg_grok_api_key",
+    "infapg_article_language",
+    "infapg_keyword_index"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "infapg_auto_publish_articles"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_infapg_publish_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:44.673Z"
+}

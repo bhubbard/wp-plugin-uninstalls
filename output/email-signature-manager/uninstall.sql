@@ -1,0 +1,56 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_emsg_company_mail', '_emsg_company_name', '_emsg_redirect_visits', '_emsg_redirect_start', '_emsg_redirect_end', '_emsg_redirect_enabled', '_emsg_redirect_target', '_emsg_redirect_src', '_emsg_person_photoHref', '_emsg_person_photoSrc', '_emsg_company_website', '_emsg_company_logoSrc', '_emsg_person_twitterId', '_emsg_person_linkedinId', '_emsg_person_facebookId', '_wp_page_template');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_emsg_company_mail', '_emsg_company_name', '_emsg_redirect_visits', '_emsg_redirect_start', '_emsg_redirect_end', '_emsg_redirect_enabled', '_emsg_redirect_target', '_emsg_redirect_src', '_emsg_person_photoHref', '_emsg_person_photoSrc', '_emsg_company_website', '_emsg_company_logoSrc', '_emsg_person_twitterId', '_emsg_person_linkedinId', '_emsg_person_facebookId', '_wp_page_template');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_emsg_company_mail', '_emsg_company_name', '_emsg_redirect_visits', '_emsg_redirect_start', '_emsg_redirect_end', '_emsg_redirect_enabled', '_emsg_redirect_target', '_emsg_redirect_src', '_emsg_person_photoHref', '_emsg_person_photoSrc', '_emsg_company_website', '_emsg_company_logoSrc', '_emsg_person_twitterId', '_emsg_person_linkedinId', '_emsg_person_facebookId', '_wp_page_template');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_emsg_company_mail', '_emsg_company_name', '_emsg_redirect_visits', '_emsg_redirect_start', '_emsg_redirect_end', '_emsg_redirect_enabled', '_emsg_redirect_target', '_emsg_redirect_src', '_emsg_person_photoHref', '_emsg_person_photoSrc', '_emsg_company_website', '_emsg_company_logoSrc', '_emsg_person_twitterId', '_emsg_person_linkedinId', '_emsg_person_facebookId', '_wp_page_template');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%redirectService';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%redirectService';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%redirectService';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%redirectService';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%name';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%name';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%name';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%name';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%mail';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%mail';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%mail';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%mail';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%website';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%website';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%website';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%website';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%firstname';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%firstname';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%firstname';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%firstname';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%lastname';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%lastname';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%lastname';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%lastname';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%company';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%company';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%company';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%company';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%key';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%key';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%key';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%key';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%type';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%type';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%type';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%type';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%src';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%src';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%src';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%src';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%usermail';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%usermail';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%usermail';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%usermail';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%target';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%target';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%target';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%target';
+

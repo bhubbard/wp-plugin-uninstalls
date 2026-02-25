@@ -1,0 +1,19 @@
+{
+  "options": [
+    "recrm_estate_props",
+    "recrm_agent_props",
+    "recrm_options",
+    "recrm_estate_types"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "recrm_cron_import"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "recrm_hash_*",
+    "recrm_gallery_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:28.434Z"
+}

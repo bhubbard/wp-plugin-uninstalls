@@ -1,0 +1,29 @@
+{
+  "options": [
+    "moodmoderator_api_key",
+    "moodmoderator_strictness",
+    "moodmoderator_custom_tones",
+    "moodmoderator_enable_logging",
+    "moodmoderator_cache_duration",
+    "moodmoderator_predefined_tones",
+    "moodmoderator_version"
+  ],
+  "transients": [
+    "moodmoderator_api_calls_count",
+    "moodmoderator_no_api_key_warning",
+    "moodmoderator_dashboard_widget"
+  ],
+  "cron_jobs": [
+    "moodmoderator_analyze_comment"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "moodmoderator_tone",
+    "moodmoderator_content_hash",
+    "moodmoderator_analyzed_at",
+    "moodmoderator_confidence",
+    "moodmoderator_ai_reasoning"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:43.866Z"
+}

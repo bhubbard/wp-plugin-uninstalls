@@ -1,0 +1,21 @@
+{
+  "options": [
+    "lettermint_api_token",
+    "lettermint_from_email",
+    "lettermint_from_name",
+    "lettermint_force_email",
+    "lettermint_force_from_name",
+    "lettermint_enable_logs",
+    "lettermint_show_advanced",
+    "lettermint_route_slug",
+    "lettermint_tag",
+    "lettermint_force_html",
+    "lettermint_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:58.663Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "ewtc-email-subject",
+    "ewtc-email-text-body",
+    "ewtc-email-sending-test",
+    "ewtc-delete-options",
+    "ewtc-company-name",
+    "ewtc-email-sending-smtp",
+    "ewtc-email-sending-server",
+    "ewtc-email-sending-postmail",
+    "ewtc-email-sending-username",
+    "ewtc-email-sending-password",
+    "ewtc-email-sending-port",
+    "ewtc-email-sending-secure",
+    "woocommerce_version",
+    "ewtc-num-orders"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ewtc_courier_name",
+    "_ewtc_tracking_code",
+    "_ewtc_tracking_date",
+    "_ewtc_email_sending_enable",
+    "_billing_first_name",
+    "_billing_last_name",
+    "_ewtc_email_sent_status",
+    "_ewtc_email_sent_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:40.102Z"
+}

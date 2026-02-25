@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ntrpp-open-comment-links-in-new-window",
+    "ntrpp-othar-comment-links-in-new-window",
+    "ntrpp-website-full-url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:03.696Z"
+}

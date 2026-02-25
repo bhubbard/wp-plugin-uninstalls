@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hidsf_blocked_today",
+    "hidsf_is_permalink_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:42.060Z"
+}

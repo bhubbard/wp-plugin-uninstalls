@@ -1,0 +1,33 @@
+{
+  "options": [
+    "sensei-settings",
+    "woothemes-sensei-version",
+    "sensei-version",
+    "sensei_certificates_version",
+    "sensei_certificate_user_data_installer",
+    "sensei_certificate_templates_installer"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sensei_certificates_check_run_installer"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_certificate_font_color",
+    "_certificate_font_size",
+    "_certificate_font_family",
+    "_certificate_font_style",
+    "_certificate_template_fields",
+    "_image_ids",
+    "_course_certificate_template",
+    "*_font_family",
+    "*_font_size",
+    "*_font_style",
+    "course_id",
+    "learner_id",
+    "certificate_hash",
+    "_lesson_course"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:09.354Z"
+}

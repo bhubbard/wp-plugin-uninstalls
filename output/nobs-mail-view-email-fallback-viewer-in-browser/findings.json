@@ -1,0 +1,19 @@
+{
+  "options": [
+    "nobsmv_enabled",
+    "nobsmv_custom_message",
+    "nobsmv_link_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nobsmv_access_token",
+    "_nobsmv_recipient_email",
+    "_nobsmv_email_headers",
+    "_nobsmv_email_attachments",
+    "_nobsmv_sent_timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:36.006Z"
+}

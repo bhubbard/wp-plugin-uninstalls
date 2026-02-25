@@ -1,0 +1,21 @@
+{
+  "options": [
+    "foodlist_demo_data_ids",
+    "foodlist_first_start",
+    "foodlist_last_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "_fl_menu_section_note",
+    "_fl_menu_section_multi_number",
+    "_fl_menu_sections_order",
+    "_fl_menu_item_multi_number",
+    "_fl_menu_items_order",
+    "_fl_price_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:23.175Z"
+}

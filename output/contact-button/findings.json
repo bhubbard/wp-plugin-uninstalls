@@ -1,0 +1,14 @@
+{
+  "options": [
+    "contact-button-id",
+    "contact-button-cb-verify-status",
+    "contact-button-cb-verify-curl-body",
+    "contact-button-cb-in-header"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:07.678Z"
+}

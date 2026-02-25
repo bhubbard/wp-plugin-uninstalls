@@ -1,0 +1,15 @@
+{
+  "options": [
+    "default_post_edit_rows",
+    "rfr2b_activate",
+    "rfr2b_name",
+    "rfr2b_email",
+    "wsa_alert_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:34.792Z"
+}

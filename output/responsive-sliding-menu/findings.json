@@ -1,0 +1,22 @@
+{
+  "options": [
+    "rsm_chosen_menu",
+    "rsm_responsive_width",
+    "rsm_main_menu_transform",
+    "rsm_main_menu_size",
+    "rsm_main_menu_color",
+    "rsm_hover_menu_color",
+    "rsm_burger_menu_size",
+    "rsm_burger_menu_background",
+    "rsm_main_burger_color",
+    "rsm_hover_burger_color",
+    "rsm_burger_menu_color",
+    "rsm_burger_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:30.922Z"
+}

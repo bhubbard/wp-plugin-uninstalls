@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_postcode_order_restriction_enabled",
+    "woocommerce_restrict_gateways_placeorder",
+    "woocommerce_postcode_order",
+    "woocommerce_allow_restrict",
+    "woocommerce_restrict_option",
+    "woocommerce_specific_allowed_gateways",
+    "woocommerce_error_gateways",
+    "woocommerce_error_placeorder"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:46.268Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "buddymeet_jitsi_appid",
+    "buddymeet_jitsi_apikeyid",
+    "buddymeet_jitsi_privatekey",
+    "buddymeet_jitsi_domain",
+    "active_sitewide_plugins",
+    "_buddymeet_enabled",
+    "_buddymeet_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:37.815Z"
+}

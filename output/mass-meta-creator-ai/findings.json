@@ -1,0 +1,24 @@
+{
+  "options": [
+    "mass_meta_creator_homepage_context",
+    "mass_meta_creator_provider",
+    "mass_meta_creator_api_key",
+    "mass_meta_creator_gemini_model"
+  ],
+  "transients": [
+    "mass_meta_creator_api_check",
+    "mass_meta_creator_model_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_focus_keyword"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:03.118Z"
+}

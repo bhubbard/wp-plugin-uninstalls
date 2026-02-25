@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mxp_pchome2wp_db_version', 'mxp_pchome2wp_user_id', 'mxp_pchome2wp_account', 'mxp_pchome2wp_pay_user', 'mxp_pchome2wp_post_tags', 'mxp_pchome2wp_post_status', 'mxp_pchome2wp_post_author', 'mxp_pchome2wp_post_comment_status', 'mxp_pchome2wp_post_ping_status', 'mxp_pchome2wp_post_type', 'mxp_pchome2wp_post_comment_admin_displayname', 'mxp_pchome2wp_post_comment_admin_email', 'mxp_enable_debug', 'mxp_complete_remove', 'mxp_pchome2wp_post_category', 'mxp_pchome2wp_agree_terms', 'mxp_pchome2wp_auth_token', 'mxp_pchome2wp_post_quota', 'mxp_pchome2wp_usage', 'mxp_pchome2wp_blogname');
+

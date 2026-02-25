@@ -1,0 +1,18 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc_billingo_show_settings_notification', 'wc_billingo_api_key', 'wc_billingo_disable_proforma_invoicing', 'wc_billingo_storno_email', 'wc_billingo_invoice_block', 'wc_billingo_bank_account_huf', 'wc_billingo_bank_account_eur', 'wc_billingo_fallback_payment', 'wc_billingo_invoice_lang', 'wc_billingo_note', 'wc_billingo_invoice_round', 'wc_billingo_unit', 'wc_billingo_manual_type', 'wc_billingo_is_generate_erase_code', 'wc_billingo_auto_state', 'wc_billingo_company_name', 'wc_billingo_vat_number_form_custom', 'wc_billingo_vat_number_notice', 'wc_billingo_electronic', 'wc_billingo_product_sync', 'wc_billingo_note_barion', 'wc_billingo_sku', 'mark_paid_without_financial_fulfillment', 'wc_billingo_flip_name', 'wc_billingo_invoice_lang_wpml', 'wc_billingo_note_orderid', 'wc_billingo_block_child_orders', 'wc_billingo_vat_number_form', 'wc_billingo_vat_number_form_checkbox_custom', 'wc_billingo_discount_is_unique_item', 'wc_billingo_decimalsoff', 'wc_billingo_shippingcomment', 'wc_billingo_test', 'wc_billingo_auto_storno', 'wc_billingo_payment_request_auto', 'wc_billingo_auto', 'wc_billingo_tax_override_choice', 'wc_billingo_tax_override', 'wc_billingo_tax_override_entitlements', 'wc_billingo_tax_override_value', 'wc_billingo_tax_override_zero_entitlements', 'wc_billingo_tax_override_include_carrier', 'wc_billingo_tax_shipping_pirce_type_is_net', 'wc_billingo_always_add_carrier', 'wc_billingo_email', 'wc_billingo_proforma_email', 'wc_billingo_proforma_email_woo_btn', 'wc_billingo_email_woo_btn', 'wc_billingo_storno_email_woo_btn', 'wc_billingo_proforma_email_woo_text');
+DELETE FROM wp_options WHERE option_name IN ('wc_billingo_email_woo_text', 'wc_billingo_storno_email_woo_text', 'woocommerce_prices_include_tax', 'woocommerce_currency');
+DELETE FROM wp_options WHERE option_name LIKE 'wc_billingo_payment_method_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wc_billingo_paymentdue_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wc_billingo_mark_as_paid_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wc_billingo_mark_as_paid2_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wc_billingo_proforma_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wc_billingo_doff_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('adoszam', '_billing_vat_number', '_billing_tax_number', '_billingo_original_prices_saved', '_yith_wcpb_bundled_items', '_yith_wcpb_bundle_data', '_yith_wcpb_bundle', '_is_manual', '_wjecf_shipping_restrictions', '_purchase_price', '_product_attributes', 'billingo_notice_review_dismissed');
+DELETE FROM wp_usermeta WHERE meta_key IN ('adoszam', '_billing_vat_number', '_billing_tax_number', '_billingo_original_prices_saved', '_yith_wcpb_bundled_items', '_yith_wcpb_bundle_data', '_yith_wcpb_bundle', '_is_manual', '_wjecf_shipping_restrictions', '_purchase_price', '_product_attributes', 'billingo_notice_review_dismissed');
+DELETE FROM wp_termmeta WHERE meta_key IN ('adoszam', '_billing_vat_number', '_billing_tax_number', '_billingo_original_prices_saved', '_yith_wcpb_bundled_items', '_yith_wcpb_bundle_data', '_yith_wcpb_bundle', '_is_manual', '_wjecf_shipping_restrictions', '_purchase_price', '_product_attributes', 'billingo_notice_review_dismissed');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('adoszam', '_billing_vat_number', '_billing_tax_number', '_billingo_original_prices_saved', '_yith_wcpb_bundled_items', '_yith_wcpb_bundle_data', '_yith_wcpb_bundle', '_is_manual', '_wjecf_shipping_restrictions', '_purchase_price', '_product_attributes', 'billingo_notice_review_dismissed');
+

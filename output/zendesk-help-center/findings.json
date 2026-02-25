@@ -1,0 +1,23 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "zndskhc_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [
+    "auto_synchronize_zendesk_hc"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:52.333Z"
+}

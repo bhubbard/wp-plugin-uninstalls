@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('dls_sus_email_from', 'dls_sus_detailed_errors', 'fdsus_disabled_roles', 'dls_sus_recaptcha_private_key', 'dls_sus_email_subject', 'dls_sus_custom_task_fields', 'dls_sus_db_version', 'dls_sus_sheet_slug', 'dls_sus_hide_address', 'dls_sus_db_version_type', 'fdsus_disable_signup_link_hash', 'fdsus_signup_link_hash', 'dls_sus_roles', 'dls_sus_sheet_order', 'dls_sus_signup_receipt', 'dls_sus_display_all', 'dls_sus_disable_user_autopopulate', 'dls_sus_disable_honeypot', 'dls_sus_deactivate_email_validation', 'dls_sus_disable_captcha', 'dls_sus_recaptcha', 'dls_sus_recaptcha_version', 'fdsus_enable_confirmation_email', 'fdsus_enable_removal_confirmation_email', 'fdsus_cache_clear_on_signup', 'dls_sus_hide_email', 'dls_sus_hide_phone', 'dls_sus_optional_phone', 'dls_sus_optional_address', 'fdsus_optional_email', 'dls_sus_recaptcha_public_key', 'dlssus_migration_running', 'dlssus_migration_timeout_rerun_count', 'dlssus_flush_rewrite_rules');
+DELETE FROM wp_options WHERE option_name LIKE '%_alert_recipient';
+DELETE FROM wp_options WHERE option_name LIKE 'dls_sus_text_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_admin_notices';
+DELETE FROM wp_options WHERE option_name LIKE '%_flush_rewrite_rules';
+DELETE FROM wp_options WHERE option_name LIKE '%_migration_timeout_rerun_count';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('dlssus_id_v2_0', 'dlssus_date', 'dlssusdlssus_use_task_dates', 'dlssus_sheet_bcc', 'dlssus_optional_phone', 'dlssus_optional_address', 'dlssus_hide_email', 'dlssus_hide_phone', 'dlssus_hide_address', 'dlssus_compact_signups', 'dlssus_use_task_checkboxes', 'dlssus_task_signup_limit', 'dlssus_contiguous_task_signup_limit', 'dlssus_sheet_reminder_days', 'dlssus_sheet_email_message', 'dlssus_sheet_email_conf_message');
+DELETE FROM wp_usermeta WHERE meta_key IN ('dlssus_id_v2_0', 'dlssus_date', 'dlssusdlssus_use_task_dates', 'dlssus_sheet_bcc', 'dlssus_optional_phone', 'dlssus_optional_address', 'dlssus_hide_email', 'dlssus_hide_phone', 'dlssus_hide_address', 'dlssus_compact_signups', 'dlssus_use_task_checkboxes', 'dlssus_task_signup_limit', 'dlssus_contiguous_task_signup_limit', 'dlssus_sheet_reminder_days', 'dlssus_sheet_email_message', 'dlssus_sheet_email_conf_message');
+DELETE FROM wp_termmeta WHERE meta_key IN ('dlssus_id_v2_0', 'dlssus_date', 'dlssusdlssus_use_task_dates', 'dlssus_sheet_bcc', 'dlssus_optional_phone', 'dlssus_optional_address', 'dlssus_hide_email', 'dlssus_hide_phone', 'dlssus_hide_address', 'dlssus_compact_signups', 'dlssus_use_task_checkboxes', 'dlssus_task_signup_limit', 'dlssus_contiguous_task_signup_limit', 'dlssus_sheet_reminder_days', 'dlssus_sheet_email_message', 'dlssus_sheet_email_conf_message');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('dlssus_id_v2_0', 'dlssus_date', 'dlssusdlssus_use_task_dates', 'dlssus_sheet_bcc', 'dlssus_optional_phone', 'dlssus_optional_address', 'dlssus_hide_email', 'dlssus_hide_phone', 'dlssus_hide_address', 'dlssus_compact_signups', 'dlssus_use_task_checkboxes', 'dlssus_task_signup_limit', 'dlssus_contiguous_task_signup_limit', 'dlssus_sheet_reminder_days', 'dlssus_sheet_email_message', 'dlssus_sheet_email_conf_message');
+

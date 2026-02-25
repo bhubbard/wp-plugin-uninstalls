@@ -1,0 +1,20 @@
+{
+  "options": [
+    "alanforms_contact_form_7_integration",
+    "alanforms_elementor_pro_integration",
+    "alanforms_site_key_field",
+    "alanforms_api_key_field",
+    "alanforms_language",
+    "alanforms_language_attribute_unverified",
+    "alanforms_language_attribute_verified",
+    "alanforms_language_attribute_retry",
+    "alanforms_language_attribute_working",
+    "alanforms_language_attribute_start"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:08.620Z"
+}

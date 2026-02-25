@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sem_entropy",
+    "widget_author_image",
+    "widget_contexts"
+  ],
+  "transients": [
+    "author_image_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "author_image_cache",
+    "sem_aboutme_page",
+    "description",
+    "author_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:48.635Z"
+}

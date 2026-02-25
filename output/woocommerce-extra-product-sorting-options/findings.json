@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "wc_rename_default_sorting",
+    "woocommerce_default_catalog_orderby",
+    "active_sitewide_plugins",
+    "wc_extra_sorting_options_version",
+    "wc_extra_product_sorting_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:44.148Z"
+}

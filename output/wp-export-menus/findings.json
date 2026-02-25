@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rss_language",
+    "wem_version",
+    "wem_allow_tracking"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_type",
+    "_menu_item_object",
+    "_menu_item_object_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:18.060Z"
+}

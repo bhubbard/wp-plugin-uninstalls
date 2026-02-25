@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_tax_classes"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wc_eu_vat_rates_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:10.925Z"
+}

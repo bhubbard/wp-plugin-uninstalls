@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sh-branch_id",
+    "sh-origin",
+    "sh-mode",
+    "sh-agree"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:50.280Z"
+}

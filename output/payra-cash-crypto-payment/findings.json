@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "payracacr_custom_cron_transactions",
+    "payracacr_custom_cron_news"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:39.151Z"
+}

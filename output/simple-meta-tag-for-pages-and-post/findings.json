@@ -1,0 +1,44 @@
+{
+  "options": [
+    "dp-metatags-general-description",
+    "dp-metatags-general-keywords",
+    "dp-metatags-general-title",
+    "dp-metatags-og-title",
+    "dp-metatags-og-type",
+    "dp-metatags-og-audio",
+    "dp-metatags-og-image",
+    "dp-metatags-og-video",
+    "dp-metatags-og-url",
+    "dp-metatags-og-description",
+    "dp-metatags-twitter-card",
+    "dp-metatags-twitter-title",
+    "dp-metatags-twitter-description",
+    "dp-metatags-twitter-image",
+    "dp-metatags-custom"
+  ],
+  "transients": [
+    "dp-metatags-activation-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dp-metatags-general-description",
+    "dp-metatags-general-keywords",
+    "dp-metatags-general-title",
+    "dp-metatags-og-title",
+    "dp-metatags-og-type",
+    "dp-metatags-og-audio",
+    "dp-metatags-og-image",
+    "dp-metatags-og-video",
+    "dp-metatags-og-url",
+    "dp-metatags-og-description",
+    "dp-metatags-twitter-card",
+    "dp-metatags-twitter-title",
+    "dp-metatags-twitter-description",
+    "dp-metatags-twitter-image",
+    "dp-metatags-custom",
+    "ddp-metatags-og-url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:47.483Z"
+}

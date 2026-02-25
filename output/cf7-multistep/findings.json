@@ -1,0 +1,31 @@
+{
+  "options": [
+    "_redmuber_item_19635969",
+    "_redmuber_item_*",
+    "ninja_forms_addons_feed"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7_multistep_name",
+    "_cf7_multistep",
+    "_cf7_multistep_type",
+    "multistep_cf7_steps_next",
+    "multistep_cf7_steps_prev",
+    "multistep_cf7_steps_background",
+    "multistep_cf7_steps_color",
+    "multistep_cf7_steps_inactive_background",
+    "multistep_cf7t_steps_inactive",
+    "multistep_cf7t_steps_completed_backgound",
+    "multistep_cf7_steps_completed",
+    "multistep_cf7_steps_first",
+    "_multistep_cf7_steps_data",
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:00.965Z"
+}

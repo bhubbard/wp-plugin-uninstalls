@@ -1,0 +1,14 @@
+{
+  "options": [
+    "csg_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "csg_create_sitemap",
+    "csg_create_sitemap "
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:27.478Z"
+}

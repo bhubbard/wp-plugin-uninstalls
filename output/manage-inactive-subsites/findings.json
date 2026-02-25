@@ -1,0 +1,17 @@
+{
+  "options": [
+    "manage-inactive-subsites-deactivate",
+    "manage_inactive_subsites_interval_type",
+    "manage_inactive_subsites_interval_size",
+    "manage_inactive_subsites_action",
+    "mis_cron_query_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "manage_inactive_subsites_cron_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:43.102Z"
+}

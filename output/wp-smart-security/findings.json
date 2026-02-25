@@ -1,0 +1,30 @@
+{
+  "options": [
+    "si_captcha",
+    "bitset_wpspro",
+    "si_captcha_comment",
+    "wpspro_file_log",
+    "wpspro_intrusion_warning",
+    "WPSPRO_options",
+    "WPSPRO_Login_Slug",
+    "WPSPRO_versions",
+    "wpspro_filecheck",
+    "wpspro_awaymode"
+  ],
+  "transients": [
+    "wpspro_away",
+    "bitset_wpspro_backup"
+  ],
+  "cron_jobs": [
+    "wp_version_check",
+    "wp_update_plugins",
+    "wp_update_themes",
+    "wpspro_backup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpspro_enable_ssl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:23.851Z"
+}

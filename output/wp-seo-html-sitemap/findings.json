@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpseosms",
+    "wpseo_xml",
+    "wpseo_taxonomy_meta"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_meta-robots-noindex",
+    "_yoast_wpseo_sitemap-include",
+    "_yoast_wpseo_redirect"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:14.153Z"
+}

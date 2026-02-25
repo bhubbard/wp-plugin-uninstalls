@@ -1,0 +1,14 @@
+{
+  "options": [
+    "genesis_simple_share_sort"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_disable_gss",
+    "_gss_alternate_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:57.044Z"
+}

@@ -1,0 +1,38 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'lime_adsense_tag_comments'
+wp option delete 'lime_adsense_tag_posts'
+wp option delete 'lime_rss_tagging'
+wp option delete 'lime_rss_tag_source'
+wp option delete 'lime_rss_tag_medium'
+wp option delete 'lime_rss_tag_campaign'
+wp option delete 'lime_wt_mode'
+wp option delete 'lime_wt_file'
+wp option delete 'lime_analytics_id'
+wp option delete 'lime_analytics_track_404'
+wp option delete 'lime_analytics_track_404_prefix'
+wp option delete 'lime_wt_meta'
+wp option delete 'lime_analytics_adsense'
+wp option delete 'lime_chromeframe_enabled'
+wp option delete 'lime_jquery_enabled'
+wp option delete 'lime_jquery_version'
+wp option delete 'lime_jqueryui_enabled'
+wp option delete 'lime_jqueryui_version'
+wp option delete 'lime_wp_hide_menu_update'
+wp option delete 'lime_wp_hide_menu_posts'
+wp option delete 'lime_wp_hide_menu_media'
+wp option delete 'lime_wp_hide_menu_links'
+wp option delete 'lime_wp_hide_menu_pages'
+wp option delete 'lime_wp_hide_menu_comments'
+wp option delete 'lime_wp_hide_menu_appearance'
+wp option delete 'lime_wp_hide_menu_plugins'
+wp option delete 'lime_wp_hide_menu_users'
+wp option delete 'lime_wp_hide_menu_tools'
+wp option delete 'lime_wp_hide_menu_settings'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'lime_active_%'"
+wp option delete 'lime_show_inactive_modules'
+wp option delete 'rewrite_rules'
+wp option delete 'lime_show_news'
+

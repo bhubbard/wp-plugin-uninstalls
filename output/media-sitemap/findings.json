@@ -1,0 +1,15 @@
+{
+  "options": [
+    "msfg_mime_types",
+    "msfg_youtube_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:36.547Z"
+}

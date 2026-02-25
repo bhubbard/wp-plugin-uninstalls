@@ -1,0 +1,13 @@
+{
+  "options": [
+    "chiqm_applist",
+    "chiqm_custom_appdir",
+    "chiqm_custom_appurl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:54.064Z"
+}

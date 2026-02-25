@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_fraktjakt_shipping_method_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_virtual",
+    "customs_description",
+    "hscode",
+    "taric",
+    "country",
+    "Country",
+    "shipping_company",
+    "shipping_address_1",
+    "shipping_address_2",
+    "shipping_postcode",
+    "shipping_city",
+    "shipping_country",
+    "billing_email",
+    "billing_phone",
+    "shipping_phone",
+    "shipping_first_name",
+    "shipping_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:56.229Z"
+}

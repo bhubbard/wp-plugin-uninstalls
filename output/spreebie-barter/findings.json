@@ -1,0 +1,24 @@
+{
+  "options": [
+    "spreebie_barter_ethereum_address",
+    "spreebie_barter_widget_text",
+    "spreebie_barter_error_stage_children"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "customer_name",
+    "customer_email",
+    "payment_currency",
+    "payment_amount",
+    "payment_description",
+    "payment_token",
+    "payment_settled",
+    "donation_currency",
+    "donation_description",
+    "donation_token"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:35.598Z"
+}

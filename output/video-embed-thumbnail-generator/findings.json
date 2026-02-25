@@ -1,0 +1,56 @@
+{
+  "options": [
+    "kgvid_video_embed_network_options",
+    "kgvid_video_embed_options",
+    "kgvid_video_embed_cms_switch",
+    "active_sitewide_plugins",
+    "jetpack_options",
+    "jetpack-twitter-cards-site-tag",
+    "kgvid_video_embed_queue",
+    "cron",
+    "wp_attachment_pages_enabled",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "kgvid_*",
+    "kgvid_new_attachment_transient",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "kgvid_cleanup_queue",
+    "kgvid_cron_new_attachment",
+    "kgvid_cron_check_post_parent",
+    "kgvid_cleanup_generated_logfiles",
+    "kgvid_cleanup_generated_thumbnails",
+    "kgvid_cron_queue_check",
+    "kgvid_cron_replace_video_check",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_kgflashmediaplayer-format",
+    "_kgflashmediaplayer-pickedformat",
+    "_kgflashmediaplayer-poster-id",
+    "_kgflashmediaplayer-poster",
+    "_kgflashmediaplayer-video-id",
+    "_kgvid-meta",
+    "_kgflashmediaplayer-embed",
+    "_kgflashmediaplayer-*",
+    "_kgflashmediaplayer-externalurl",
+    "*-mime",
+    "_wp_attached_file",
+    "_thumbnail-id",
+    "_kgvid_first_embedded_video",
+    "_yoast_wpseo_metadesc",
+    "_aioseop_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:44.136Z"
+}

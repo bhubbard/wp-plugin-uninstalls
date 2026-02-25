@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "rwwcl_total_converted",
+    "rwwcl_total_saved_bytes",
+    "rwwcl_last_converted"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rwwcl_skipped_small",
+    "_rwwcl_converted"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:20.969Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "srpp_enable",
+    "srpp_type",
+    "srpp_percentage",
+    "srpp_fixed_amount",
+    "srpp_min_floor",
+    "srpp_shipping_only",
+    "srpp_threshold",
+    "srpp_reminder_days",
+    "srpp_enable_reminders"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:52.759Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "answerx_api_key",
+    "answerx_company_info",
+    "answerx_widget_show",
+    "answerx_company_id",
+    "answerx_installed",
+    "answerx_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:51.790Z"
+}

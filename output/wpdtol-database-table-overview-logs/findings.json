@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpdtol_database_table_overview_logs_version",
+    "wpdtol_database_table_overview_logs_email_report_recipients"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpdtol_database_table_overview_logs_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpdtol_database_table_overview_logs_admin_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:48.023Z"
+}

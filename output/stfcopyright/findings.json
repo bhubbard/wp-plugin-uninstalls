@@ -1,0 +1,17 @@
+{
+  "options": [
+    "stf_tools",
+    "stf_tools_iyear",
+    "stf_tools_uyear",
+    "stf_tools_aoutupdate",
+    "stf_tools_owner",
+    "stf_tools_type",
+    "stf_tools_freetext"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:19.403Z"
+}

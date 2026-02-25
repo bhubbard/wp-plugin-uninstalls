@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wptelegram_ver",
+    "wptelegram_telegram",
+    "wptelegram",
+    "wptelegram_wordpress",
+    "wptelegram_message",
+    "wptelegram_notify",
+    "wptelegram_proxy",
+    "wptelegram_*",
+    "wptelegram_p2tg"
+  ],
+  "transients": [
+    "wptelegram_p2tg_errors"
+  ],
+  "cron_jobs": [
+    "wptelegram_*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*sent2tg",
+    "*options",
+    "*send2tg"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:50.651Z"
+}

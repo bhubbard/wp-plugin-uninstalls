@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpfomo_primary_text",
+    "wpfomo_secondary_text",
+    "wpfomo_link_text",
+    "wpfomo_image_url",
+    "wpfomo_image_url_src",
+    "wpfomo_url",
+    "wpfomo_user_template",
+    "wpfomo_show_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpfomo_ignore_notice110"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:51.851Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "atk_known_plugins",
+    "atk_options",
+    "atk_ai_db_version",
+    "atk_notification"
+  ],
+  "transients": [
+    "atkai_geoiploc_*"
+  ],
+  "cron_jobs": [
+    "atkai_network_create_tables_event",
+    "atk_ai_logs_cleanup_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:27.396Z"
+}

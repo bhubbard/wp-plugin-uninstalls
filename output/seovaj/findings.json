@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_wpseo_metadesc",
+    "rank_math_description",
+    "_yoast_wpseo_focuskw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:56.091Z"
+}

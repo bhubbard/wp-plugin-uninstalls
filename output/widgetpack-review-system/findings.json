@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wprev_disable_ssr",
+    "wprev_mdata_off",
+    "wprev_best_rating",
+    "wprev_ext_js",
+    "wprev_sync_off",
+    "wprev_site_id",
+    "wprev_replace",
+    "wprev_debug",
+    "wprev_active",
+    "wprev_api_key",
+    "wprev_version",
+    "_wprev_sync_modif",
+    "_wprev_sync_lock",
+    "wprev_last_id",
+    "wprev_last_modif",
+    "wprev_last_modif_offset_id",
+    "wprev_last_modif_2"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wprev_sync_modif",
+    "wprev_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wprev_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:09.336Z"
+}

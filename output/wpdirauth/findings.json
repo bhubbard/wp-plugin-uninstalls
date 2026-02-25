@@ -1,0 +1,32 @@
+{
+  "options": [
+    "dirAuthCookieMarker",
+    "dirAuthControllers",
+    "dirAuthBaseDn",
+    "dirAuthPreBindUser",
+    "dirAuthPreBindPassword",
+    "dirAuthAccountSuffix",
+    "dirAuthFilter",
+    "dirAuthEnableSsl",
+    "dirAuthUseGroups",
+    "dirAuthGroups",
+    "dirAuthEnable",
+    "dirAuthRequireSsl",
+    "dirAuthAutoRegister",
+    "dirAuthInstitution",
+    "dirAuthLoginScreenMsg",
+    "dirAuthChangePassMsg",
+    "dirAuthTOS",
+    "dirAuthMarketingSSOID",
+    "dirAuthCookieExpire"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpDirAuthFlag",
+    "wpDirAuthTOS"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:35.849Z"
+}

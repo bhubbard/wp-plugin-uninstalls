@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_ljo_hook_priority",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:33.816Z"
+}

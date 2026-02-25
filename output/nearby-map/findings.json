@@ -1,0 +1,24 @@
+{
+  "options": [
+    "nbm_important"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nbm_address",
+    "_nbm_do_u_define_coords",
+    "_nbm_coords",
+    "_nbm_coords_sexa",
+    "_nbm_icon",
+    "_nbm_tel",
+    "_nbm_email",
+    "_nbm_website",
+    "_nbm_hours",
+    "_nbm_type_of_place",
+    "_nbm_important",
+    "_nbm_size"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:15.249Z"
+}

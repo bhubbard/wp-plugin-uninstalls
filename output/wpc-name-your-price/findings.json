@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woonp_settings",
+    "woonp_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woonp_status",
+    "_woonp_type",
+    "_woonp_min",
+    "_woonp_max",
+    "_woonp_step",
+    "_woonp_values"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:51.595Z"
+}

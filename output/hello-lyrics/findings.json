@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hls_lyric_text_title",
+    "hls_lyric_text_by",
+    "hls_lyric_textarea_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:18.274Z"
+}

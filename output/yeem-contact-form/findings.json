@@ -1,0 +1,16 @@
+{
+  "options": [
+    "yeem_your_name",
+    "yeem_sender_email_address",
+    "yeem_email_subject",
+    "yeem_confirmation_msg",
+    "yeem_email_msg",
+    "yeem_form_elements"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:37.596Z"
+}

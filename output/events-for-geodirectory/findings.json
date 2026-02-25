@@ -1,0 +1,29 @@
+{
+  "options": [
+    "gdevents_installed",
+    "geodir_event_version",
+    "geodir_event_db_version",
+    "*category_installed",
+    "geodirectory_db_version",
+    "geodirevents_db_version",
+    "geodirectory_version",
+    "geodir_settings",
+    "recently_activated"
+  ],
+  "transients": [
+    "_geodir_event_activation_redirect",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "geodir_event_schedule_handle_past_events",
+    "geodir_flush_rewrite_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "event_rsvp_yes",
+    "event_rsvp_maybe",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:19.349Z"
+}

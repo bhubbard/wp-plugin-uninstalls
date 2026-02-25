@@ -1,0 +1,17 @@
+{
+  "options": [
+    "eswc_first_activate",
+    "eswc_settingz",
+    "active_sitewide_plugins",
+    "eswc_url_before_login",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_cart_page_id",
+    "eswc_dismiss_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:15.583Z"
+}

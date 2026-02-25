@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dry_ice",
+    "mjeperiship_signature_required",
+    "mjeperiship_declared_value",
+    "shipping_class",
+    "mjeperiship_dry_ice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:54.422Z"
+}

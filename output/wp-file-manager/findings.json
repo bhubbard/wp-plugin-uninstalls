@@ -1,0 +1,22 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "filemanager_email_verified_*",
+    "filemanager_email_address_*",
+    "verify_filemanager_fname_*",
+    "verify_filemanager_lname_*",
+    "fm_key",
+    "wp_file_manager_settings",
+    "mk_fm_close_fm_help_c_fm"
+  ],
+  "transients": [
+    "filemanager_cancel_lk_popup_*",
+    "wp_fm_lang",
+    "wp_fm_theme"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:26:56.903Z"
+}

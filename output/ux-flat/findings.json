@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zalo",
+    "tiktok",
+    "facebook",
+    "instagram",
+    "linkedin",
+    "myspace",
+    "pinterest",
+    "soundcloud",
+    "tumblr",
+    "wikipedia",
+    "x",
+    "youtube",
+    "threads",
+    "_avatar",
+    "layout",
+    "_thumbnail_id",
+    "_related_posts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:18.113Z"
+}

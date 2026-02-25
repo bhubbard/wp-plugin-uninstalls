@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpmk_portfolio_templates",
+    "wpmk_portfolio_current_templates",
+    "wpmk_portfolio_enable_filter",
+    "wpmk_portfolio_filter_sort",
+    "wpmk_portfolio_template_css",
+    "wpmk_portfolio_animate_status",
+    "wpmk_portfolio_current_animate",
+    "wpmk_portfolio_current_animate_delay",
+    "wpmk_portfolio_current_animate_speed",
+    "wpmk_portfolio_animate",
+    "wpmk_portfolio_animate_delay",
+    "wpmk_portfolio_animate_speed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmk_portfolio_project"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:12.959Z"
+}

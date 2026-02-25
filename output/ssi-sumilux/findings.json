@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ssi_debug_mode",
+    "ssi_debug_app_secret",
+    "ssi_debug_widget_name",
+    "ssi_app_secret",
+    "ssi_widget_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ssi_uid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:07.946Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ghlconnect_access_token",
+    "ghlconnect_locationId",
+    "ghlconnect_client_id",
+    "ghlconnect_client_secret",
+    "ghlconnect_refresh_token",
+    "ghlconnect_loc_name",
+    "woo_contact_id",
+    "ghlconnect_contact_register_choice",
+    "ghlconnect_location_connected",
+    "ghlconnect_order_status"
+  ],
+  "transients": [
+    "is_access_token_valid",
+    "ghlconnect_location_tags",
+    "ghlconnect_location_wokflow"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ghlconnect_location_tags",
+    "ghlconnect_location_workflow"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:58.099Z"
+}

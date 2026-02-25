@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_myaccount_payment_methods_endpoint",
+    "woocommerce_version",
+    "tbk_review_notice_showed",
+    "transbank_webpay_oneclick_rest_showed_welcome_message",
+    "transbank_webpay_rest_showed_welcome_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:20.791Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "food_calorie_options",
+    "calorie_burning_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "email",
+    "age",
+    "unit",
+    "height",
+    "weight",
+    "activity_factor",
+    "bmr"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:34.877Z"
+}

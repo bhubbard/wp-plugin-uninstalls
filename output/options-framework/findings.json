@@ -1,0 +1,13 @@
+{
+  "options": [
+    "optionsframework"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "optionsframework_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:36.395Z"
+}

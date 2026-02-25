@@ -1,0 +1,14 @@
+{
+  "options": [
+    "addtocart_btn_text_simple",
+    "addtocart_btn_text_variable",
+    "addtocart_btn_text_external",
+    "addtocart_btn_text_grouped"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:56.715Z"
+}

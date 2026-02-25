@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_db_version",
+    "*_do_activation_redirect"
+  ],
+  "transients": [
+    "acoofmf_cdn_base_urls"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acoofm_presigned_urls"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:41.734Z"
+}

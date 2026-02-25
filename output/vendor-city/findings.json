@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vendorname",
+    "establishment_year",
+    "street_name",
+    "area_name",
+    "state",
+    "pincode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:17.772Z"
+}

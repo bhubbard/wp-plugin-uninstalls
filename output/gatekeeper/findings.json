@@ -1,0 +1,23 @@
+{
+  "options": [
+    "gatekeeper_active",
+    "gatekeeper_placeholder_redirect_page",
+    "gatekeeper_placeholder_behavior",
+    "gatekeeper_allowadmins",
+    "gatekeeper_autoprotect_adminip",
+    "gatekeeper_adminip",
+    "gatekeeper_whitelist",
+    "gatekeeper_blacklist_behavior",
+    "gatekeeper_blacklist_redirect_page",
+    "gatekeeper_blacklist",
+    "gatekeeper_stats_blacklist_blocks",
+    "gatekeeper_stats_whitelist_views",
+    "gatekeeper_stats_offline_redirects"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:52.735Z"
+}

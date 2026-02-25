@@ -1,0 +1,17 @@
+{
+  "options": [
+    "qtranslate_language_names",
+    "qtranslate_enabled_languages",
+    "qtranslate_default_language",
+    "qtranslate_term_name",
+    "qtranslate_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_qts_slug_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:42.866Z"
+}

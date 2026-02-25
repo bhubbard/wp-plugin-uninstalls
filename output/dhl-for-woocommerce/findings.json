@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_currency_pos",
+    "woocommerce_weight_unit",
+    "woocommerce_pr_dhl_handover",
+    "_pr_dhl_bulk_action_confirmation",
+    "woocommerce_pr_dhl_paket_settings",
+    "woocommerce_pr_dhl_ecomm_settings",
+    "wc_pip_link_color"
+  ],
+  "transients": [
+    "_dhl_auth_token_rest"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pr_shipment_dhl_label_tracking",
+    "_pr_shipment_dhl_label_items",
+    "_dhl_manufacture_country",
+    "_dhl_hs_code",
+    "_dhl_export_description",
+    "_dhl_dangerous_goods",
+    "_dhl_no_same_day_transfer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:36.988Z"
+}

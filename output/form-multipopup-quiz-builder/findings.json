@@ -1,0 +1,24 @@
+{
+  "options": [
+    "fmpqb_email_templates",
+    "fmpqb_email_settings",
+    "fmpqb_saved_quizzes",
+    "fmpqb_registration_form_settings",
+    "fmpqb_roles_stats_snapshot",
+    "role_created_*",
+    "fmpqb_user_supported_plugin",
+    "fmpqb_users_columns"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "phone",
+    "registered_via_custom_form",
+    "last_login"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:04.755Z"
+}

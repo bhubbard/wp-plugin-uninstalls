@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpsal_allowed_cpt",
+    "wpsal_filter_menus_nav_blocks",
+    "wpsal_default_redirect_page_id",
+    "wpsal_always_allow_admins",
+    "wpsal_show_admin_column"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpsal_users",
+    "_wpsal_roles",
+    "_wpsal_redirect",
+    "_wpsal_has_permissions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:22.644Z"
+}

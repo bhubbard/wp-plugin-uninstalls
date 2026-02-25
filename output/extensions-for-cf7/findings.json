@@ -1,0 +1,35 @@
+{
+  "options": [
+    "ht_cf7extensions_diagnostic_data_agreed",
+    "ht_cf7extensions_diagnostic_data_notice",
+    "extcf7_delete_data_fetch_cache",
+    "extcf7_mcmp_*",
+    "htcf7ext_conditional_field_module_settings",
+    "htcf7ext_redirection_extension_module_settings",
+    "*_htiop",
+    "*_htiop_bar",
+    "*_htiop_popup",
+    "*_htiop_redirect",
+    "*_htiop_data",
+    "*_htiop_timer",
+    "extcf7_db_table_alter_status",
+    "htcf7ext_opt",
+    "htcf7ext_opt_extensions"
+  ],
+  "transients": [
+    "extcf7-notice-id-diagnostic-data",
+    "*_htiop_data",
+    "extcf7_unread_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "extcf7_conditional_options",
+    "extcf7_*",
+    "extcf7_range_slider",
+    "extcf7_redirect_options",
+    "extcf7_signature"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:37.736Z"
+}

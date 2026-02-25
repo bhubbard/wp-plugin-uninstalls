@@ -1,0 +1,46 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "*_license_data",
+    "wpsl_notices",
+    "wpsl_settings",
+    "wpsl_valid_server_key",
+    "wpsl_flush_rewrite",
+    "wpsl_delete_transient",
+    "wpsl_legacy_support",
+    "wpsl_version",
+    "wpsl_convert_cpt"
+  ],
+  "transients": [
+    "update_plugins",
+    "wpsl_addons",
+    "wpsl_autoload_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_warning",
+    "wpsl_disable_wp_rocket_warning",
+    "dismissed_wp_pointers",
+    "wpsl_country_iso",
+    "wpsl_lat",
+    "wpsl_lng",
+    "wpsl_hours",
+    "wpsl_*",
+    "wpsl_address",
+    "wpsl_address2",
+    "wpsl_country",
+    "wpsl_phone",
+    "wpsl_fax",
+    "wpsl_email",
+    "wpsl_url",
+    "wpsl_city",
+    "wpsl_state",
+    "wpsl_zip",
+    "wpsl_disable_location_warning",
+    "wpsl_stores_per_page"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:50.721Z"
+}

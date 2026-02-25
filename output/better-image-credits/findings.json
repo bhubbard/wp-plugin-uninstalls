@@ -1,0 +1,17 @@
+{
+  "options": [
+    "better-image-credits-options",
+    "better-image-credits_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_source_name",
+    "_wp_attachment_source_url",
+    "_wp_attachment_license",
+    "_wp_attachment_license_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:31.459Z"
+}

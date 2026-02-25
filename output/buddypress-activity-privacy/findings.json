@@ -1,0 +1,15 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "_bp_activity_privacy_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rtmedia_counts_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:45.615Z"
+}

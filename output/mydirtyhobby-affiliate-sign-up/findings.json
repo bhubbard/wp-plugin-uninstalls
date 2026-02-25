@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_profile_link",
+    "*_nav_display",
+    "*_sc_register_btn_class",
+    "*_code",
+    "*_promo_code_type",
+    "*_profile_pic_link",
+    "*_nav_register_btn_txt",
+    "*_register_popup_lang",
+    "mdh-promo_profile_pic_link",
+    "mdh-promo_profile_link",
+    "mdh-promo_nav_display",
+    "mdh-promo_register_popup_lang",
+    "mdh-promo_promo_code_type",
+    "mdh-promo_code",
+    "mdh-promo_nav_register_btn_txt",
+    "mdh-promo-sc-register-btn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:30.210Z"
+}

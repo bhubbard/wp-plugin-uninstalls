@@ -1,0 +1,24 @@
+{
+  "options": [
+    "webdesk_approval_dynamic_fields",
+    "customer_approval_plugin_version",
+    "webdesk_approval_version",
+    "ca_dynamic_fields",
+    "ca_approveReject",
+    "webdesk_approval_approveReject",
+    "ca_emailSent",
+    "webdesk_approval_emailSent"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webdesk_approval_approveReject",
+    "webdesk_approval_emailSent",
+    "user_registration_fields",
+    "customer_group",
+    "nickname"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:49.108Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bitffzc_erase_all",
+    "bitffzc_db_version",
+    "bitffzc_installed",
+    "bitffzc_version",
+    "bitffzc_routes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:03.120Z"
+}

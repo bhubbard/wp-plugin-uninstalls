@@ -1,0 +1,33 @@
+{
+  "options": [
+    "cf7m_rebrand_seen",
+    "cf7m_onboarding_completed",
+    "cf7m_onboarding_skipped",
+    "cf7m_features",
+    "cf7m_install_date",
+    "divi_cf7_styler_install_date",
+    "cf7m_current_version",
+    "cf7m_webhook_urls",
+    "cf7m_onboarding_step",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "cf7m_run_onboarding_*",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:22.197Z"
+}

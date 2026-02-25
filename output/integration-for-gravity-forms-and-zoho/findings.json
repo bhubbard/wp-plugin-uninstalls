@@ -1,0 +1,28 @@
+{
+  "options": [
+    "igzf_zoho_token",
+    "igzf_zoho_fields_*",
+    "zoho_crm_module_data*",
+    "*-reqfields",
+    "igzf_data_form_*",
+    "zoho_users_list",
+    "igzf_zoho_datacenter",
+    "igzf_zoho_client_id",
+    "igzf_zoho_client_secret",
+    "igzf_zoho_redirection_url",
+    "igzf_zoho_domain",
+    "igzf_zoho",
+    "ignbk_zohobooks_token",
+    "gf_zoho_notification_send_to",
+    "gf_zoho_notification_subject",
+    "zoho_module_data",
+    "igzf_zoho_action_*",
+    "igzf_zoho_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:15.950Z"
+}

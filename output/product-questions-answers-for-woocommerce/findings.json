@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ets_load_more_button",
+    "ets_product_q_qa_list_length",
+    "ets_load_more_button_name",
+    "ets_product_qa_paging_type",
+    "ets_qa_approve"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ets_question_answer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:32.311Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "betterblocks_post_types",
+    "betterblocks_remove_directory",
+    "betterblocks_force_preview",
+    "betterblocks_sidebar_acf"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:58.145Z"
+}

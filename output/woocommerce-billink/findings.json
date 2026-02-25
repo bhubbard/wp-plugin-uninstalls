@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_billink_settings",
+    "woocommerce_billink_gateway_description_version",
+    "woocommerce_tax_based_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:54.720Z"
+}

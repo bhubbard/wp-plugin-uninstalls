@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*portfolio",
+    "genesis-cpt-archive-settings-portfolio"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:34.261Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cf_title",
+    "cf_app_id",
+    "cf_secret_key",
+    "cf_payment_mode",
+    "cf_success_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:48.083Z"
+}

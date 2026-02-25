@@ -1,0 +1,15 @@
+{
+  "options": [
+    "jetpack_options",
+    "carousel_enable_it",
+    "carousel_display_exif",
+    "carousel_display_geo",
+    "carousel_background_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:28.435Z"
+}

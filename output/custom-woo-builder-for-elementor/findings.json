@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_enable_review_rating",
+    "woocommerce_enable_ajax_add_to_cart",
+    "default_product_cat",
+    "woocommerce_default_catalog_orderby"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sample_product",
+    "_custom_woo_builder_content",
+    "thumbnail_id",
+    "_elementor_page_settings",
+    "_template_type",
+    "_custom_woo_template",
+    "_elementor_template_type",
+    "_elementor_edit_mode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:40.322Z"
+}

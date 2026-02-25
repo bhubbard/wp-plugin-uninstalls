@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('Activated_Akismet', 'wordpress_api_key', 'akismet_spam_count', 'akismet_show_user_comments_approved', 'akismet_available_servers', 'akismet_connectivity_time', 'akismet_alert_code', 'akismet_alert_msg', 'akismet_alert_api_calls', 'akismet_alert_usage_limit', 'akismet_alert_upgrade_plan', 'akismet_alert_upgrade_url', 'akismet_alert_upgrade_type', 'akismet_alert_upgrade_via_support', 'akismet_alert_recommended_plan_name', 'akismet_strictness', 'akismet_discard_month', 'akismet_comment_form_privacy_notice', 'akismet_comment_nonce', 'akismet_ssl_disabled');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('akismet_result', 'akismet_skipped', 'akismet_error', 'akismet_user_result', 'akismet_user', 'akismet_as_submitted', 'akismet_delayed_moderation_email', 'akismet_delay_moderation_email', 'akismet_schedule_approval_fallback', 'akismet_schedule_email_fallback', 'akismet_history', 'akismet_rechecking', 'akismet_guid', 'akismet_skipped_microtime');
+DELETE FROM wp_usermeta WHERE meta_key IN ('akismet_result', 'akismet_skipped', 'akismet_error', 'akismet_user_result', 'akismet_user', 'akismet_as_submitted', 'akismet_delayed_moderation_email', 'akismet_delay_moderation_email', 'akismet_schedule_approval_fallback', 'akismet_schedule_email_fallback', 'akismet_history', 'akismet_rechecking', 'akismet_guid', 'akismet_skipped_microtime');
+DELETE FROM wp_termmeta WHERE meta_key IN ('akismet_result', 'akismet_skipped', 'akismet_error', 'akismet_user_result', 'akismet_user', 'akismet_as_submitted', 'akismet_delayed_moderation_email', 'akismet_delay_moderation_email', 'akismet_schedule_approval_fallback', 'akismet_schedule_email_fallback', 'akismet_history', 'akismet_rechecking', 'akismet_guid', 'akismet_skipped_microtime');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('akismet_result', 'akismet_skipped', 'akismet_error', 'akismet_user_result', 'akismet_user', 'akismet_as_submitted', 'akismet_delayed_moderation_email', 'akismet_delay_moderation_email', 'akismet_schedule_approval_fallback', 'akismet_schedule_email_fallback', 'akismet_history', 'akismet_rechecking', 'akismet_guid', 'akismet_skipped_microtime');
+

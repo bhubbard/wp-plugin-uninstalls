@@ -1,0 +1,25 @@
+{
+  "options": [
+    "elite-notification_o_APBD_notification_setting",
+    "apbd_snlf_nt",
+    "elite-notification_o_APBD_notification_source",
+    "_appsbd_slnf_sulog",
+    "apbd_prov_*",
+    "active_sitewide_plugins",
+    "health-check-allowed-plugins"
+  ],
+  "transients": [
+    "__slnf_load_requrie"
+  ],
+  "cron_jobs": [
+    "appsbd-slnf-load-source-item"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_payment_meta",
+    "rating",
+    "xs_public_review_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:55.752Z"
+}

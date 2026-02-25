@@ -1,0 +1,45 @@
+{
+  "options": [
+    "rcpmst_notifications",
+    "rcpmst-plugin-settings",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "rcpmst_settings"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rcpmst_ingredient_or_recipe_meta",
+    "rcpmst_price_meta",
+    "rcpmst_supplier_meta",
+    "rcpmst_dietary_notes_meta",
+    "rcpmst_source_meta",
+    "rcpmst_recipe_meta",
+    "rcpmst_abv_meta",
+    "rcpmst_amount_meta",
+    "rcpmst_retail_meta",
+    "rcpmst_storage_meta",
+    "rcpmst_ingredient_listing_meta",
+    "rcpmst_allergens_meta",
+    "rcpmst_ingredients_meta",
+    "rcpmst_activities_meta",
+    "dietary_notes_display_name",
+    "dietary_notes_negative_name",
+    "dietary_notes_any_vs_all",
+    "dietary_notes_enabled",
+    "rcpmst_checklist_meta",
+    "rcpmst_source"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:37.011Z"
+}

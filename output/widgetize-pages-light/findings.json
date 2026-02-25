@@ -1,0 +1,21 @@
+{
+  "options": [
+    "otw_lc_*",
+    "*_dnms",
+    "*_templates",
+    "otw_wpl_plugin_error",
+    "otw_sidebars",
+    "otw_widget_settings",
+    "sidebars_widgets",
+    "otw_plugin_options"
+  ],
+  "transients": [
+    "otw_upd_plug",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:14.007Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*is_enabled",
+    "*allowed_ip",
+    "*allowed_rest_routes",
+    "*allowed_ajax_actions",
+    "*block_rest_post",
+    "*block_rest_put_patch",
+    "*block_rest_delete",
+    "*rest_error_message",
+    "*rest_status_code",
+    "*block_xmlrpc",
+    "*xmlrpc_error_message",
+    "*xmlrpc_status_code",
+    "*ajax_error_message",
+    "*ajax_status_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:04.893Z"
+}

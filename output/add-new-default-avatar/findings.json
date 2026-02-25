@@ -1,0 +1,15 @@
+{
+  "options": [
+    "kl_addnewdefaultavatar",
+    "add_new_default_avatar",
+    "pre_anda_avatar_default"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "simple_local_avatar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:15.989Z"
+}

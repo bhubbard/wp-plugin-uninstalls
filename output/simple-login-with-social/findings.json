@@ -1,0 +1,13 @@
+{
+  "options": [
+    "fb_api_id",
+    "fb_app_secret",
+    "fb_login_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:11.082Z"
+}

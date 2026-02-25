@@ -1,0 +1,31 @@
+{
+  "options": [
+    "sp_wp_carousel_free_review_notice_dismiss",
+    "shapedplugin_offer_banner_dismissed_*",
+    "sp_wpcp_settings",
+    "_wpcf_options",
+    "wp_carousel_free_version",
+    "wp_carousel_free_db_version",
+    "wpcp_page_data",
+    "shapedplugin_offer_banner_dismissed_black_friday_2025",
+    "shapedplugin_offer_banner_dismissed_new_year_2026"
+  ],
+  "transients": [
+    "spwpcp_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sp_wpcp_upload_options",
+    "sp_wpcp_shortcode_options",
+    "wpcplinking",
+    "crop_position",
+    "wpcplinktarget",
+    "_wp_attachment_image_alt",
+    "wpcf_upload_options",
+    "_wpcf_errors_*",
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:09.335Z"
+}

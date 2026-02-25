@@ -1,0 +1,41 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'onoffice-settings-duration-cache'
+wp option delete 'onoffice-address-detail-view-showInfoUserUrl'
+wp option delete 'onoffice-duplicate-check-warning'
+wp option delete 'onoffice-click-button-close-action'
+wp option delete 'onoffice-settings-title-and-description'
+wp option delete 'onoffice-settings-default-email'
+wp option delete 'onoffice-detail-view-showTitleUrl'
+wp option delete 'onoffice-settings-thousand-separator'
+wp option delete 'onoffice-favorization-enableFav'
+wp option delete 'onoffice-favorization-favButtonLabelFav'
+wp option delete 'onoffice-settings-captcha-secretkey'
+wp option delete 'onoffice-settings-honeypot'
+wp option delete 'onoffice-is-encryptcredent'
+wp option delete 'onoffice-settings-captcha-enterprise-projectid'
+wp option delete 'onoffice-settings-captcha-enterprise-sitekey'
+wp option delete 'onoffice-settings-captcha-sitekey'
+wp option delete 'onoffice-default-view'
+wp option delete 'oo_plugin_db_version'
+wp option delete 'onoffice-similar-estates-settings-view'
+wp option delete 'onoffice-notice-cache-was-cleared'
+wp option delete 'onoffice-maps-mapprovider'
+wp option delete 'onoffice-settings-apisecret'
+wp option delete 'onoffice-settings-apikey'
+wp option delete 'onoffice-pagination-paginationprovider'
+wp option delete 'onoffice-pagination-paginationbyonoffice'
+wp option delete 'onoffice-settings-google-bot-index-pdf-expose'
+wp option delete 'onoffice-settings-googlemaps-key'
+wp option delete 'onoffice-apply-thousand-separator'
+wp option delete 'onoffice-settings-opengraph'
+wp option delete 'onoffice-settings-twittercards'
+wp option delete 'onoffice-default-address-view'
+wp option delete 'onoffice-settings-captcha-enterprise-apikey'
+wp option delete 'add-detail-posts-to-rewrite-rules'
+
+# Clear Cron Jobs
+wp cron event delete 'oo_cache_renew'
+

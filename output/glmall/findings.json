@@ -1,0 +1,15 @@
+{
+  "options": [
+    "glmall_flash_notices",
+    "glmall_activation_error",
+    "glmall_plugin_version",
+    "glmall_installl_completed",
+    "glmall_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:57.788Z"
+}

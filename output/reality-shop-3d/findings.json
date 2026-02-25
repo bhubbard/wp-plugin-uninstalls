@@ -1,0 +1,17 @@
+{
+  "options": [
+    "reality_shop_delete_data",
+    "reality_shop_open_in_modal",
+    "reality_shop_remove_comments_and_empty_lines",
+    "reality_shop_lazy_load",
+    "reality_shop_files"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_reality_shop_shortcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:52.782Z"
+}

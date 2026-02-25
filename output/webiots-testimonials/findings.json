@@ -1,0 +1,24 @@
+{
+  "options": [
+    "site_key",
+    "secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_testimonials_name",
+    "_testimonials_description",
+    "_testimonials_author_name",
+    "_testimonials_designation",
+    "_testimonials_profile_url",
+    "_testimonials_youtube",
+    "_testimonials_fb_url",
+    "_testimonials_linkedin_url",
+    "_testimonials_twitter",
+    "_testimonials_rate",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:30.252Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "useadminpass_whichroles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "allow_other_users_passwords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:08.633Z"
+}

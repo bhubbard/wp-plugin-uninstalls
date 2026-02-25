@@ -1,0 +1,20 @@
+{
+  "options": [
+    "firevert_settings",
+    "woocommerce_shop_page_id",
+    "logger_enabled"
+  ],
+  "transients": [
+    "firevert_validation_errors",
+    "firevert_module_disabled"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_iwo_price_lowest_date",
+    "firevert_promo_time_widget_display_position",
+    "firevert_spectator_views_display_position"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:14.578Z"
+}

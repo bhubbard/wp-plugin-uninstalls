@@ -1,0 +1,20 @@
+{
+  "options": [
+    "arewa_mbn_settings",
+    "arewa_mbn_buttons",
+    "arewa_mbn_submenus",
+    "arewa_mbn_visibility_cache_version",
+    "arewa_mbn_settings_backup",
+    "arewa_mbn_buttons_backup",
+    "arewa_mbn_submenus_backup",
+    "arewa_mbn_settings_backup_time",
+    "arewa_mbn_buttons_backup_time",
+    "arewa_mbn_submenus_backup_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:56.367Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "codott_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "codott_class_time_table_class",
+    "codott_teacher_time_table_teacher",
+    "codott_class_time_table",
+    "time_table_filledslotcolor",
+    "time_table_emptyslotcolor",
+    "time_table_nofclassesperweek",
+    "repeatable_fields_codott_timeslot",
+    "repeatable_fields_codott_dayslot",
+    "repeatable_fields_codott_roomslot",
+    "repeatable_fields_codott_class",
+    "repeatable_fields_codott_courseslot",
+    "time_table_cust_classes_sem",
+    "time_table_cust_classes_courses_assign",
+    "time_table_cust_empty_slots",
+    "codott_teacher_time_table",
+    "time_table_type",
+    "time_table_classes_sem",
+    "time_table_classes_courses_assign",
+    "time_table_empty_slots"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:27.649Z"
+}

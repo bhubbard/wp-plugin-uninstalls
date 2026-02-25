@@ -1,0 +1,15 @@
+{
+  "options": [
+    "igfw_installed_by",
+    "wwp_installed_by",
+    "woocommerce_igfw_invoice_gateway_settings",
+    "igfw_enable_purchase_order_number",
+    "igfw_default_order_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:52.467Z"
+}

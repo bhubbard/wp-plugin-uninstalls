@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dizetech_rem_settings_templates",
+    "dizetech_rem_settings_general",
+    "dizetech_rem_settings_advanced",
+    "cron_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dizetech_rem_event_datetime",
+    "_dizetech_rem_notes",
+    "_dizetech_rem_notifications"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:22.807Z"
+}

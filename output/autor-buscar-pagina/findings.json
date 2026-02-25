@@ -1,0 +1,13 @@
+{
+  "options": [
+    "abp_autor",
+    "abp_buscar",
+    "abp_pagina"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:33.223Z"
+}

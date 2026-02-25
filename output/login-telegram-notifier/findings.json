@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ltgntf_bot_token",
+    "ltgntf_chat_id",
+    "ltgntf_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:41.852Z"
+}

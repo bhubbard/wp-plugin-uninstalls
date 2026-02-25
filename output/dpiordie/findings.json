@@ -1,0 +1,19 @@
+{
+  "options": [
+    "max_upload_size",
+    "min_dpi_size",
+    "max_dpi_size",
+    "dropbox_code",
+    "dropbox_token",
+    "upload_to_dropbox",
+    "dropbox_folder_path",
+    "dropbox_user_id",
+    "upload_space_check_disabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:56.383Z"
+}

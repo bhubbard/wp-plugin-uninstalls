@@ -1,0 +1,36 @@
+{
+  "options": [
+    "fancy_coming_soon_preview",
+    "fancy_coming_soon_uses_option",
+    "fancy_coming_soon_background_color",
+    "fancy_coming_soon_background_repeat",
+    "fancy_coming_soon_background_position",
+    "fancy_coming_soon_background_cover",
+    "fancy_coming_soon_background_image",
+    "fancy_coming_soon_page_custom_css",
+    "fancy_coming_soon_custom_code_header",
+    "fancy_coming_soon_content_color",
+    "fancy_coming_soon_plugin_logo",
+    "fancy_coming_soon_plugin_logo_force_https",
+    "fancy_coming_soon_percentage_completed",
+    "fancy_coming_soon_page_heading",
+    "fancy_coming_soon_page_content",
+    "fancy_coming_soon_mailchimp_form",
+    "fancy_coming_soon_mailchimp_form_url",
+    "fancy_coming_soon_social_twitter",
+    "fancy_coming_soon_social_facebook",
+    "fancy_coming_soon_social_instagram",
+    "fancy_coming_soon_social_whatsapp",
+    "fancy_coming_soon_social_email",
+    "fancy_coming_soon_page_footer",
+    "fancy_coming_soon_custom_code_footer"
+  ],
+  "transients": [
+    "fancy_coming_soon_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:50.595Z"
+}

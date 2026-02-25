@@ -1,0 +1,29 @@
+{
+  "options": [
+    "options_meta_keywords",
+    "options_meta_title",
+    "options_meta_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "meta_keywords",
+    "meta_robots_index",
+    "meta_robots_follow",
+    "meta_robots_advanced",
+    "og_type",
+    "meta_og_title",
+    "meta_og_description",
+    "meta_og_image",
+    "meta_og_url",
+    "meta_tw_title",
+    "meta_tw_description",
+    "meta_tw_image",
+    "meta_title",
+    "meta_description",
+    "meta_canonical"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:51.660Z"
+}

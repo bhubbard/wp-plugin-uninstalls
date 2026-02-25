@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wa_general"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "webarchive_create_snapshot"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:33.336Z"
+}

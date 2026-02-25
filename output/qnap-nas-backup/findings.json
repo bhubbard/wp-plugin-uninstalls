@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_elementor_global_css",
+    "elementor-custom-breakpoints-files",
+    "fs_accounts",
+    "fs_dbg_accounts",
+    "fs_active_plugins",
+    "fs_api_cache",
+    "fs_dbg_api_cache",
+    "fs_debug_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:45.485Z"
+}

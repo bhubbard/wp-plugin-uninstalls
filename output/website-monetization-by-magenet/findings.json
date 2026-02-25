@@ -1,0 +1,13 @@
+{
+  "options": [
+    "magenet_links_show_by",
+    "magenet_links_autoinstall_key",
+    "magenet_links_last_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:24.884Z"
+}

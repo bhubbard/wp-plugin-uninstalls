@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bwpl_slug",
+    "bwpl_wp_version",
+    "daf_options",
+    "bwpl_known_ips",
+    "*_purchased",
+    "*_donated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*-notice-dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:29.704Z"
+}

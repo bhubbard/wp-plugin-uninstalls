@@ -1,0 +1,47 @@
+{
+  "options": [
+    "wsnm_subscribe_confirmation_status",
+    "wsnm_form_recaptcha_status",
+    "wsnm_recaptcha_site_key",
+    "wsnm_recaptcha_secret_key",
+    "wsnm_mode",
+    "wsnm_btn_background_color",
+    "wsnm_btn_text_color",
+    "wsnm_button_display",
+    "wsnm_subscribe_confirmation_email",
+    "wsnm_subscribe_confirmation_email_subject",
+    "wsnm_subscribe_notification_email",
+    "wsnm_subscribe_notification_email_subject",
+    "wsnm_form_first_last_name",
+    "wsnm_btn_text",
+    "wsnm_modal_title",
+    "wsnm_pre_form_content",
+    "wsnm_after_form_content",
+    "wsnm_hubspot_enabled",
+    "wsnm_hubspot_token",
+    "wsnm_hubspot_portal_id",
+    "wsnm_db_version"
+  ],
+  "transients": [
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wsnm_hubspot_contact_id",
+    "wsnm_hubspot_synced_at",
+    "wsnm_hubspot_error",
+    "wsnm_product_pause",
+    "wsnm_status",
+    "wsnm_action_id",
+    "wsnm_action_time",
+    "wsnm_product_id",
+    "wsnm_variation_id",
+    "wsnm_first_name",
+    "wsnm_last_name",
+    "wsnm_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:14.846Z"
+}

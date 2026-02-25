@@ -1,0 +1,17 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "bw_tides_desc_*",
+    "bw_tides_title_*",
+    "bw_tides_link_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bw_image_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:38.309Z"
+}

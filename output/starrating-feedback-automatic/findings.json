@@ -1,0 +1,26 @@
+{
+  "options": [
+    "yelp-url",
+    "facebook-url",
+    "display-page",
+    "display-post",
+    "yelp-key",
+    "site_img",
+    "site_title",
+    "site_phone",
+    "site_streetaddr",
+    "site_cityaddr",
+    "site_stateaddr",
+    "site_postaladdr",
+    "fb-rating",
+    "fb-count",
+    "yelp-rating",
+    "yelp-count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:40.975Z"
+}

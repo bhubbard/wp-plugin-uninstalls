@@ -1,0 +1,16 @@
+{
+  "options": [
+    "user_registration_kit_account_page",
+    "name",
+    "lrk_flush_rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lrk_user_account_page",
+    "lrk_avatar_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:04.620Z"
+}

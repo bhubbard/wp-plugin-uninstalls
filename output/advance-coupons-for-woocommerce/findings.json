@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sdwac_url",
+    "sdwac_first_time_purchase_coupon",
+    "sdwac_price_cut_from",
+    "sdwac_multi"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sdwac_coupon_meta",
+    "sdwac_coupon_panel",
+    "sdwac_coupon_main",
+    "sdwac_coupon_filters",
+    "_sdevs_coupon_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:13.196Z"
+}

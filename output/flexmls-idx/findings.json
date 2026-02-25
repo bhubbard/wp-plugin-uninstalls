@@ -1,0 +1,34 @@
+{
+  "options": [
+    "fmc_settings",
+    "fmc_cache_version",
+    "fmc_db_cache_key",
+    "fmc_tracked_transients",
+    "fmc_plugin_version",
+    "fmc_my_type",
+    "fmc_my_office",
+    "fmc_my_company",
+    "fmc_my_id",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "fmc_permabase_changed",
+    "fmc_destlink_changed",
+    "fmc_cache_tracker",
+    "fmc_cache_*",
+    "flexmls_auth_token",
+    "flexmls_auth_failures_timestamps",
+    "flexmls_query_*",
+    "fmc_api",
+    "fmc_last_authtoken"
+  ],
+  "cron_jobs": [
+    "flexmls_hourly_cache_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:34.585Z"
+}

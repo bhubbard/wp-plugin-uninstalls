@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wcbbd_discount_percentage",
+    "wcbbd_discount_products",
+    "wcbbd_discount_minimum",
+    "wcbbd_auto_coupon_cleanup"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wcbbd_daily_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "expiry_date",
+    "apply_before_tax",
+    "free_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:08.502Z"
+}

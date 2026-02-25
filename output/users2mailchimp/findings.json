@@ -1,0 +1,19 @@
+{
+  "options": [
+    "u2mc-api_key",
+    "u2mc-list",
+    "u2mc-group",
+    "u2mc-subgroup",
+    "u2mc-use_roles",
+    "u2mc-needconfirm",
+    "u2mc-accept"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "u2mc_mailchimp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:16.134Z"
+}

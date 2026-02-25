@@ -1,0 +1,17 @@
+{
+  "options": [
+    "vfb_dashboard_widget_options",
+    "vfb-settings",
+    "vfb_db_version",
+    "recently_activated",
+    "visual-form-builder-screen-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vfb-form-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:58.744Z"
+}

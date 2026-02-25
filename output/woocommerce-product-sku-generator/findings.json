@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "active_sitewide_plugins",
+    "wc_sku_generator_simple",
+    "wc_sku_generator_variation",
+    "wc_sku_generator_attribute_spaces",
+    "wc_sku_generator_version",
+    "wc_sku_generator_select"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:53.435Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rss_feed_styles_enabled_readers",
+    "rss_feed_styles_enabled_buttons",
+    "rss_feed_styles_credit_disabled",
+    "rss_feed_styles_full_html",
+    "rss_feed_styles_secret_id",
+    "rss_feed_styles_upsell_url",
+    "rss_feed_styles_last_fetch_upsell"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:31.092Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "emc_setting_countries",
+    "emc_setting_number",
+    "emc_setting_welcome",
+    "emc_setting_account_sid",
+    "emc_setting_auth_token",
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:24.320Z"
+}

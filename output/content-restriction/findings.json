@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "_content_restriction_redirect_to_dashboard",
+    "_content_restriction_first_activation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "login_me_now_facebook_verified",
+    "login_me_now_google_verified"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:09.443Z"
+}

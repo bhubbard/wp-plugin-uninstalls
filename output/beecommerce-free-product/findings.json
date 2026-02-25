@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_free_products_gift_id",
+    "_free_products_auto",
+    "_free_products_min_matching_product_qty",
+    "_free_products_free_product_qty",
+    "_free_products_type",
+    "minimum_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:55.952Z"
+}

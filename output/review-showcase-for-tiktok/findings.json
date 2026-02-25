@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [
+    "revishfo_cache_key*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "revishfo_embed",
+    "revishfo_video_url",
+    "revishfo_video_id",
+    "revishfo_star_rating",
+    "revishfo_cta_text",
+    "revishfo_cta_url",
+    "revishfo_rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:21.916Z"
+}

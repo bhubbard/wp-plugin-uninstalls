@@ -1,0 +1,25 @@
+{
+  "options": [
+    "otw_pm_portfolio_details",
+    "otw_pm_lists",
+    "otw_lc_*",
+    "*_dnms",
+    "otw_pm_plugin_options",
+    "otw_pml_rewrite_rules"
+  ],
+  "transients": [
+    "otw_upd_plug",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "otw_pm_meta_data",
+    "otw_pm_tabs_meta_data",
+    "otw_pm_options_meta_data",
+    "otw_pm_portfolio_detail_*",
+    "otw_pm_light_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:57.202Z"
+}

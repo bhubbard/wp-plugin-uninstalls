@@ -1,0 +1,15 @@
+{
+  "options": [
+    "whereabouts_swarm_current_location",
+    "whereabouts_swarm_settings",
+    "whereabouts_swarm_auth_code"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "whereabouts_swarm_fetch_location"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:08.884Z"
+}

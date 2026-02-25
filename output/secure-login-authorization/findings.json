@@ -1,0 +1,19 @@
+{
+  "options": [
+    "itc_slawp_secure_login_authorization",
+    "itc_slawp_secure_login_authorization_plugin_access",
+    "itc_slawp_secure_login_authorization_plugin_reset_secret",
+    "itc_slawp_login_authorization_paused"
+  ],
+  "transients": [
+    "itc_slawp_secure_login_authorization*",
+    "itc_slawp_clear_transient_secure_login_authorization"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "itc_slawp_wp_secure_access_expiry"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:54.503Z"
+}

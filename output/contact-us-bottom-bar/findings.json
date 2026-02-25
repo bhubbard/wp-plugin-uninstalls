@@ -1,0 +1,14 @@
+{
+  "options": [
+    "contact_us_hotline_number",
+    "contact_us_facebook_messenger_link",
+    "contact_us_zalo_number",
+    "contact_us_google_map_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:08.977Z"
+}

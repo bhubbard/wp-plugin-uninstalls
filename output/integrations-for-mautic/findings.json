@@ -1,0 +1,26 @@
+{
+  "options": [
+    "intmau_mautic_base_url",
+    "intmau_mautic_client_id",
+    "intmau_mautic_client_secret",
+    "intmau_mautic_tracking_enabled",
+    "intmau_mautic_access_token",
+    "intmau_woocommerce_enable_newsletter",
+    "intmau_woocommerce_newsletter_tag",
+    "intmau_woocommerce_newsletter_message",
+    "intmau_mautic_refresh_token",
+    "intmau_mautic_token_expires",
+    "intmau_module_elementor",
+    "intmau_module_woocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "intmau_refresh_mautic_token"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "accepts_marketing"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:16.277Z"
+}

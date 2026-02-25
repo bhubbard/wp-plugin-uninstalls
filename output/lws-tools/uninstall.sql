@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('lws_tools_chatbot_data', 'lws_tk_ia_chatbot_state', 'lws_aff_new_login', 'whl_page', 'easy_hide_login_options', 'lws_preprod', 'lws_tk_keep_data_on_delete', 'lws_tk_reduce_revisions_number', 'lwstk_do_not_ask_again', 'lws_tk_llm_optimisation', 'lws_tk_sanitize_media', 'lws_tk_delete_live_writer', 'lws_tk_err_co', 'lws_tk_hide_gen', 'lws_tk_less_revision', 'lws_tk_no_h1_mce', 'lws_tk_no_emote_wp', 'lws_tk_page_author_link', 'lws_tk_medium_large', 'lws_tk_no_apirest', 'lws_tk_no_user_ep_rest', 'lws_tk_no_rss', 'lws_tk_no_comment_rss', 'lws_tk_no_user_sitemap', 'lws_tk_remove_password_strength_meter', 'kws_tk_no_self_ping', 'lws_tk_remove_shortlink', 'lws_tk_remove_feeds_links', 'lwstk_remind_me', 'lws_tk_ssl_cert', 'update_plugins', 'update_themes');
+DELETE FROM wp_options WHERE option_name LIKE 'lws_tk_%';
+

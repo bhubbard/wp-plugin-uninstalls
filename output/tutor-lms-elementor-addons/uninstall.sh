@@ -1,0 +1,35 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_tax_display_shop'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_controls_usage'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_controls_usage'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_controls_usage'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_controls_usage'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_tutor_lms_elementor_template_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_tutor_lms_elementor_template_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_tutor_lms_elementor_template_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_tutor_lms_elementor_template_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_element_cache'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_element_cache'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_element_cache'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_element_cache'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_is_preview'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_is_preview'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_is_preview'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_is_preview'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_tutor_is_public_course'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_tutor_is_public_course'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_tutor_is_public_course'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_tutor_is_public_course'"

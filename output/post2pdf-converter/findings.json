@@ -1,0 +1,15 @@
+{
+  "options": [
+    "post2pdf_conv_setting_opt",
+    "post2pdf_conv_exc",
+    "post2pdf_conv_sig",
+    "post2pdf_conv_updated",
+    "post2pdf_conv_checkver_stamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:54.737Z"
+}

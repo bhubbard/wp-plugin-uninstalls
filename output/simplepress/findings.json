@@ -1,0 +1,48 @@
+{
+  "options": [
+    "embed_autourls",
+    "ms_files_rewriting",
+    "widget_spf",
+    "widget_sforum",
+    "sfInstallID",
+    "sp_storage1",
+    "sp_storage2"
+  ],
+  "transients": [
+    "sp_update_plugins",
+    "sp_update_themes"
+  ],
+  "cron_jobs": [
+    "sph_stats_cron",
+    "sph_cron_user",
+    "sph_transient_cleanup_cron",
+    "sph_news_cron",
+    "sph_check_addons_status_interval",
+    "spf_cron_pm",
+    "spf_cron_sitemap"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sp_change_pw",
+    "first_name",
+    "last_name",
+    "location",
+    "description",
+    "aim",
+    "yim",
+    "jabber",
+    "msn",
+    "icq",
+    "skype",
+    "facebook",
+    "myspace",
+    "twitter",
+    "linkedin",
+    "youtube",
+    "googleplus",
+    "instagram",
+    "photos"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:44.940Z"
+}

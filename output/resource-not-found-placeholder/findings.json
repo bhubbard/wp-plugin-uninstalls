@@ -1,0 +1,15 @@
+{
+  "options": [
+    "eos_rnfp_activation_info",
+    "eos_rnfp_version"
+  ],
+  "transients": [
+    "rnfp-notice-fail",
+    "eos-rnfp-notice-fail"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:04.635Z"
+}

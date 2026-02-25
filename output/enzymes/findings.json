@@ -1,0 +1,15 @@
+{
+  "options": [
+    "enzymes3_legacy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sample-name",
+    "sample name",
+    "implode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:58.568Z"
+}

@@ -1,0 +1,41 @@
+{
+  "options": [
+    "g_reCaptcha_version",
+    "g_reCaptcha_site_key",
+    "g_reCaptcha_site_key_v3",
+    "g_reCaptcha_secret_key",
+    "g_reCaptcha_secret_key_v3",
+    "wla_disable_login_attmpt",
+    "g_reCaptcha_enable",
+    "wla_lim_login_handle_log_key",
+    "wla_lim_logo_url",
+    "wla_lim_logo_file",
+    "wla_lim_login_background_img",
+    "wla_lim_login_background_color",
+    "wla_lim_lost_ur_pwd",
+    "wla_lim_hide_login_page",
+    "wla_lim_redirect_login_wpadmin",
+    "wla_lim_lockouts_cal",
+    "wla_lim_login_retries",
+    "wla_lim_login_retries_valid",
+    "wla_lim_lockoutstotal",
+    "site_name",
+    "wla_lim_login_clienttype_key",
+    "wla_lim_login_allowed_retries_key",
+    "wla_lim_login_lockout_duration_key",
+    "wla_lim_login_allowed_lockouts_key",
+    "wla_lim_login_long_duration_key",
+    "wla_lim_login_valid_duration_key",
+    "wla_lim_login_lockout_notify_key",
+    "wla_lim_login_notify_email_after_key",
+    "wla_lim_login_cookies_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wla_lim_prev_cookie"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:18.226Z"
+}

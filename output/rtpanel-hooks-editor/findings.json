@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rtp_hooks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "screen_layout_appearance_page_rtp_hooks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:36.089Z"
+}

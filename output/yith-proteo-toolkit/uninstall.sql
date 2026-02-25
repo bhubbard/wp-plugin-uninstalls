@@ -1,0 +1,19 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('yith_proteo_toolkit_modules_active', 'yith_proteo_toolkit_first_setup_run', 'yith_proteo_toolkit_run_setup', 'recently_activated', 'allowedthemes', 'woocommerce_shop_page_id', 'woocommerce_cart_page_id', 'woocommerce_checkout_page_id', 'woocommerce_myaccount_page_id', 'widget_yith_proteo_account_widget', 'elementor_disable_color_schemes', 'elementor_disable_typography_schemes', 'sidebars_widgets', 'elementor_activation_redirect', 'update_plugins', 'wizard_import_file_base_name', 'pt_importer_data', 'wc_attribute_taxonomies');
+DELETE FROM wp_options WHERE option_name LIKE '%_completed';
+DELETE FROM wp_options WHERE option_name LIKE '%_child';
+DELETE FROM wp_options WHERE option_name LIKE 'widget_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_wizard_redirect';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('proteo_testimonial_review', '_wp_attachment_is_custom_header', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'proteo_testimonial_small_quote', 'proteo_testimonial_subtitle', 'proteo_testimonial_website', 'proteo_testimonial_social_facebook', 'proteo_testimonial_social_twitter', 'proteo_testimonial_social_youtube', 'proteo_testimonial_social_instagram', 'proteo_testimonial_social_tiktok', 'proteo_testimonial_social_linkedin', 'proteo_testimonial_social_skype');
+DELETE FROM wp_usermeta WHERE meta_key IN ('proteo_testimonial_review', '_wp_attachment_is_custom_header', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'proteo_testimonial_small_quote', 'proteo_testimonial_subtitle', 'proteo_testimonial_website', 'proteo_testimonial_social_facebook', 'proteo_testimonial_social_twitter', 'proteo_testimonial_social_youtube', 'proteo_testimonial_social_instagram', 'proteo_testimonial_social_tiktok', 'proteo_testimonial_social_linkedin', 'proteo_testimonial_social_skype');
+DELETE FROM wp_termmeta WHERE meta_key IN ('proteo_testimonial_review', '_wp_attachment_is_custom_header', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'proteo_testimonial_small_quote', 'proteo_testimonial_subtitle', 'proteo_testimonial_website', 'proteo_testimonial_social_facebook', 'proteo_testimonial_social_twitter', 'proteo_testimonial_social_youtube', 'proteo_testimonial_social_instagram', 'proteo_testimonial_social_tiktok', 'proteo_testimonial_social_linkedin', 'proteo_testimonial_social_skype');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('proteo_testimonial_review', '_wp_attachment_is_custom_header', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'proteo_testimonial_small_quote', 'proteo_testimonial_subtitle', 'proteo_testimonial_website', 'proteo_testimonial_social_facebook', 'proteo_testimonial_social_twitter', 'proteo_testimonial_social_youtube', 'proteo_testimonial_social_instagram', 'proteo_testimonial_social_tiktok', 'proteo_testimonial_social_linkedin', 'proteo_testimonial_social_skype');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%';
+

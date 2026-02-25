@@ -1,0 +1,13 @@
+{
+  "options": [
+    "revicoul_revision_limit",
+    "revicoul_autosave_enabled",
+    "revicoul_delete_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:40.504Z"
+}

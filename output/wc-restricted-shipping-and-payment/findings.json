@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_condition_rules",
+    "payment_condition_rules",
+    "shipping_condition_rules",
+    "_wp_page_template",
+    "excluded_payment_gateways",
+    "excluded_shipping_methods"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:19.692Z"
+}

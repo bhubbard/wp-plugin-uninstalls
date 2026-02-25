@@ -1,0 +1,39 @@
+{
+  "options": [
+    "epa_sys_settings",
+    "epa_stripe_settings",
+    "epa_db_version",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "epa_email_list",
+    "stripe_express_email_sender_from_email",
+    "epa_elements",
+    "epa_email_sender_from_name",
+    "epa_email_sender_from_email",
+    "epa_email_style_background_color",
+    "epa_email_style_body_background_color",
+    "epa_email_style_base_color",
+    "epa_email_style_text_color",
+    "epa_email_enable_custom_template",
+    "epa_email_template_name"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "epa_stripe_configs",
+    "epa_stripe_price_list"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:55.607Z"
+}

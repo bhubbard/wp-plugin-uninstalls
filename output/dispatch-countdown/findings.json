@@ -1,0 +1,20 @@
+{
+  "options": [
+    "dispatch_countdown_enabled",
+    "dispatch_countdown_wording",
+    "dispatch_countdown_monday",
+    "dispatch_countdown_tuesday",
+    "dispatch_countdown_wednesday",
+    "dispatch_countdown_thursday",
+    "dispatch_countdown_friday",
+    "dispatch_countdown_saturday",
+    "dispatch_countdown_sunday",
+    "dispatch_countdown_blacklist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:01.777Z"
+}

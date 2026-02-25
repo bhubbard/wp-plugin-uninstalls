@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*ga_plugin",
+    "gap_options",
+    "googlesitekit_analytics_settings",
+    "*promotion_off"
+  ],
+  "transients": [
+    "*has_todos"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:05.353Z"
+}

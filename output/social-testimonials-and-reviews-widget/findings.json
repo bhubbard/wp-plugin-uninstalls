@@ -1,0 +1,27 @@
+{
+  "options": [
+    "rw_apikey",
+    "rw_account",
+    "repuso_js_code",
+    "repuso_page_type_front-page",
+    "repuso_page_type_blog-index",
+    "repuso_page_type_pages",
+    "repuso_page_type_posts",
+    "repuso_page_show_*",
+    "repuso_page_hide_*",
+    "url_itself",
+    "url_type",
+    "rw_notice_settings_dismissed_until",
+    "rw_notice_review_dismissed_until",
+    "rw_posts",
+    "rw_widgets",
+    "rw_trial",
+    "repuso_page_type_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:48.310Z"
+}

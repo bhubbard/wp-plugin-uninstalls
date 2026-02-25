@@ -1,0 +1,16 @@
+{
+  "options": [
+    "primary_color_cmyk",
+    "secondry_color_cmyk"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "with_pdf",
+    "show_subarticle_in_new_page",
+    "pdf_quality"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:38.861Z"
+}

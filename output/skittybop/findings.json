@@ -1,0 +1,13 @@
+{
+  "options": [
+    "skittybop_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "skittybop_last_seen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:46.835Z"
+}

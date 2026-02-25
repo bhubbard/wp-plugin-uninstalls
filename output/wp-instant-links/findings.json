@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_dont-use-cdn",
+    "*_include_query",
+    "*_include_external",
+    "*_exclude",
+    "*_debug",
+    "*_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:00.624Z"
+}

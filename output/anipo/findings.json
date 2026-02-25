@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_anipo_is_voluminous"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:31.854Z"
+}

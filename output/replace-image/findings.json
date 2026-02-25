@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_first_activate",
+    "hm_replace_image_rd_notice_hidden",
+    "hm_replace_image_first_activate",
+    "*_rd_notice_hidden"
+  ],
+  "transients": [
+    "dirsize_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:40.827Z"
+}

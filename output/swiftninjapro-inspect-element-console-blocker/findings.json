@@ -1,0 +1,18 @@
+{
+  "options": [
+    "SwiftNinjaProInspectElementBlocker_DisableOn404",
+    "SwiftNinjaProInspectElementBlocker_DisableOnMobile",
+    "SwiftNinjaProInspectElementBlocker_AllowSearchEngine",
+    "SwiftNinjaProInspectElementBlocker_DisableOnAdmin",
+    "SwiftNinjaProInspectElementBlocker_DisableOnLogin",
+    "SwiftNinjaProInspectElementBlocker_ForceJS",
+    "SwiftNinjaProInspectElementBlocker_BlockRightClick",
+    "SwiftNinjaProInspectElementBlocker_Secure404"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:56.085Z"
+}

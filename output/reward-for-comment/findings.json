@@ -1,0 +1,24 @@
+{
+  "options": [
+    "rfcx_satoshi_balance",
+    "rfcx_min_satoshi",
+    "rfcx_max_satoshi",
+    "rfcx_notify_empty",
+    "rfcx_notify_reward",
+    "rfcx_satoshi_api_key",
+    "rfcx_system_ready",
+    "rfcx_txt_satoshi",
+    "rfcx_txt_chars",
+    "rfcx_extra_satoshi",
+    "rfcx_extra_words",
+    "site_admins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "satoshi_reward"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:16.998Z"
+}

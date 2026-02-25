@@ -1,0 +1,35 @@
+{
+  "options": [
+    "itap_interval_time",
+    "itap_post_type",
+    "itap_user_id",
+    "itap_search_string",
+    "itap_consumer_key",
+    "itap_consumer_secret",
+    "itap_access_token",
+    "itap_access_token_secret",
+    "itap_tweet_from",
+    "itap_search_result_type",
+    "itap_tweets_count",
+    "itap_assigned_category",
+    "itap_post_status",
+    "itap_post_comment_status",
+    "itap_import_retweets",
+    "itap_exclude_replies",
+    "itap_display_retweets_username",
+    "itap_wp_time_as_published_date",
+    "itap_post_title",
+    "itap_post_title_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "import_tweets_as_posts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tweet_id",
+    "_tweet_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:41.975Z"
+}

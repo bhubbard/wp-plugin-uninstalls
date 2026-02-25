@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpcvt_settings",
+    "wpcvt_localization",
+    "wpcvt_*",
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpcvt_active",
+    "wpcvt_name",
+    "wpcvt_image",
+    "wpcvt_image_id",
+    "_wpcvt_dropdown",
+    "wpcvi_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:49.663Z"
+}

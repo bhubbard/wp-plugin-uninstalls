@@ -1,0 +1,14 @@
+{
+  "options": [
+    "nlws_ehfi_settings",
+    "nlws_ehfi_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nlws_efhi"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:53.668Z"
+}

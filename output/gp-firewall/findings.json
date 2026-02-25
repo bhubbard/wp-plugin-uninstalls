@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_waffirewall"
+  ],
+  "transients": [
+    "waffirewall_ckey"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:27.968Z"
+}

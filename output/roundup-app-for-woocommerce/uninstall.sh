@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'roundup_advanced_settings'
+wp option delete 'roundup_api_key'
+wp option delete 'roundup_public_key'
+wp option delete 'roundup_beta_product'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_downloadable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_downloadable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_downloadable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_downloadable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_tax-status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_tax-status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_tax-status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_tax-status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_tax_class'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_tax_class'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_tax_class'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_tax_class'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'attribute_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'attribute_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'attribute_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'attribute_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sku'"

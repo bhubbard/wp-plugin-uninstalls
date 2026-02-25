@@ -1,0 +1,25 @@
+{
+  "options": [
+    "urbanpush_password",
+    "urbanpush_appname",
+    "urbanpush_appkey",
+    "urbanpush_appmaster",
+    "urbanpush_appname2",
+    "urbanpush_appkey2",
+    "urbanpush_appmaster2",
+    "urbanpush_appname3",
+    "urbanpush_appkey3",
+    "urbanpush_appmaster3",
+    "urbanpush_appname4",
+    "urbanpush_appkey4",
+    "urbanpush_appmaster4"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "push sent for *"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:22.846Z"
+}

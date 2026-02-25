@@ -1,0 +1,16 @@
+{
+  "options": [
+    "floacowi_phone_contact_phone",
+    "floacowi_phone_contact_whatsapp",
+    "floacowi_phone_contact_greeting",
+    "floacowi_phone_contact_prefilled",
+    "floacowi_phone_contact_whatsapp_text",
+    "floacowi_phone_contact_call_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:34.671Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "dlap_settings",
+    "dlap_access_token",
+    "dlap_token_expires",
+    "dlap_linkedin_api_version",
+    "dlap_last_expiry_email",
+    "dlap_organizations",
+    "dlap_gallery_rotation_index",
+    "dlap_member_id"
+  ],
+  "transients": [
+    "dlap_test_error",
+    "dlap_last_error"
+  ],
+  "cron_jobs": [
+    "dlap_daily_check",
+    "dlap_process_post_share"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_dlap_disable",
+    "_dlap_shared",
+    "_dlap_share_queued",
+    "_dlap_error",
+    "_dlap_share_attempt",
+    "_dlap_post_id",
+    "_dlap_error_personal",
+    "_dlap_error_organization"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:07.856Z"
+}

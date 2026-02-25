@@ -1,0 +1,19 @@
+{
+  "options": [
+    "engage_widget_settings",
+    "engage_widget_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_engage_widget_likes",
+    "_engage_widget_comment_likes",
+    "_engage_widget_dislikes",
+    "_engage_widget_comment_dislikes",
+    "engage_widget_votes",
+    "engage_widget_comment_votes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:10.442Z"
+}

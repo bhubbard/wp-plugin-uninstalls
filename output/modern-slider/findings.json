@@ -1,0 +1,28 @@
+{
+  "options": [
+    "cmb_empty_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "test_test",
+    "rest_test",
+    "*_id",
+    "field_test_field",
+    "test_value_input_empty",
+    "test_value_input_empty_id",
+    "*container",
+    "*image_group",
+    "*speed",
+    "*transition_speed",
+    "*navigation",
+    "*caption_pos",
+    "*overlay",
+    "*overlay_color",
+    "*overlay_alpha"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:28.306Z"
+}

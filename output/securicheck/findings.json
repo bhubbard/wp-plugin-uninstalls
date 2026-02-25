@@ -1,0 +1,39 @@
+{
+  "options": [
+    "hpixl_securicheck_hotlinking_image_url",
+    "hpixl_securicheck_destinataire_email_notifications",
+    "hpixl_securicheck_toggle_notifications",
+    "hpixl_securicheck_toggle_notifications_scan",
+    "hpixl_securicheck_toggle_notifications_compte_admin",
+    "hpixl_securicheck_toggle_notifications_ip_bloquee",
+    "hpixl_securicheck_toggle_notifications_ip_debloquee",
+    "hpixl_securicheck_toggle_limite_nombre_audit",
+    "hpixl_securicheck_text_limite_nombre_audit",
+    "hpixl_securicheck_toggle_delete_audits_after_uninstall",
+    "hpixl_securicheck_toggle_delete_reglages_after_uninstall",
+    "hpixl_securicheck_toggle_page_connexion_url",
+    "hpixl_securicheck_textarea_page_connexion_url",
+    "hpixl_securicheck_toggle_page_connexion_redirection",
+    "hpixl_securicheck_textarea_page_connexion_redirection",
+    "hpixl_securicheck_toggle_brute_force",
+    "hpixl_securicheck_text_max_tentatives_brute_force",
+    "hpixl_securicheck_text_periode_tentatives_brute_force",
+    "hpixl_securicheck_text_duree_blocage_brute_force",
+    "_transient_timeout_*",
+    "hpixl_securicheck_db_version"
+  ],
+  "transients": [
+    "blocked_ip_*",
+    "hpixl_securicheck_reset_*",
+    "hpixl_securicheck_remind_me"
+  ],
+  "cron_jobs": [
+    "hpixl_securicheck_pro_automatisation_audit_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "securicheck_promo_banner_hidden_until"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:48.864Z"
+}

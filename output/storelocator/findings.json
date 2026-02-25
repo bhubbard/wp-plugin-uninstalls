@@ -1,0 +1,16 @@
+{
+  "options": [
+    "storelocator_url",
+    "storelocator_path",
+    "storelocator_url_input",
+    "storelocator_path_input"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "storelocator_getting_started_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:26.725Z"
+}

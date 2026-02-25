@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dqcb_settings",
+    "dqcb_install_date",
+    "dqcb_review_notice_dismissed_permanently",
+    "dqcb_review_notice_dismissed_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:37.660Z"
+}

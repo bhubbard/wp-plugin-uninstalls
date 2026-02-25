@@ -1,0 +1,17 @@
+{
+  "options": [
+    "social_icon_list",
+    "socail_btn_style",
+    "button_position",
+    "social_post_types",
+    "facebook_app_id",
+    "youtube_username",
+    "instagram_username"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:24.388Z"
+}

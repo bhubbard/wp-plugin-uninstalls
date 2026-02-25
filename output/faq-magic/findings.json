@@ -1,0 +1,14 @@
+{
+  "options": [
+    "faqm_options",
+    "faqm_log"
+  ],
+  "transients": [
+    "faqm_member_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:52.157Z"
+}

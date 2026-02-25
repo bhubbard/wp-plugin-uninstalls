@@ -1,0 +1,18 @@
+{
+  "options": [
+    "praisonpress_github_token",
+    "praisonpress_github_repo"
+  ],
+  "transients": [
+    "praison_export_*"
+  ],
+  "cron_jobs": [
+    "praison_background_export"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_praison_file_path"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:59.827Z"
+}

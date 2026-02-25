@@ -1,0 +1,17 @@
+{
+  "options": [
+    "popup_window_width",
+    "popup_window_height",
+    "popup_window_top",
+    "popup_window_left",
+    "popup_scrollbar",
+    "popup_window_toolbar",
+    "popup_window_location"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:58.174Z"
+}

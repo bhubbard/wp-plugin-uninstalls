@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpsummarize_site_key', 'wpsummarize_openai_api_key', 'wpsummarize_options', 'wpsummarize_rating_notice_dismissed', 'wpsummarize_rating_notice_delay_until', 'wpsummarize_activation_time', 'wpsummarize_usage_count', 'wpsummarize_rating_notice_dismiss_reason', 'wpsummarize_custom_css', 'wpsummarize_custom_html_before_heading', 'wpsummarize_custom_html_after_summary', 'wpsummarize_custom_prompt', 'wpsummarize_ai_api_provider', 'wpsummarize_last_quota_notice', 'wpsummarize_last_token_limit_notice', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'wpsummarize_quota_error', 'wpsummarize_token_limit_reached', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes', 'action_scheduler_last_pastdue_actions_check', 'action_scheduler_admin_notice', 'as_comment_count');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wpsummarize_api_key_notice_dismissed', '_wpsummarize_post_settings', 'wpsummarize_running_api', '_wpsummarize_summary_set', '_wpsummarize_summary_set_manual', 'wpsummarize_action_scheduled', 'ct_builder_json', 'panels_data', 'mlp_original_blog', 'mlp_original_content');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wpsummarize_api_key_notice_dismissed', '_wpsummarize_post_settings', 'wpsummarize_running_api', '_wpsummarize_summary_set', '_wpsummarize_summary_set_manual', 'wpsummarize_action_scheduled', 'ct_builder_json', 'panels_data', 'mlp_original_blog', 'mlp_original_content');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wpsummarize_api_key_notice_dismissed', '_wpsummarize_post_settings', 'wpsummarize_running_api', '_wpsummarize_summary_set', '_wpsummarize_summary_set_manual', 'wpsummarize_action_scheduled', 'ct_builder_json', 'panels_data', 'mlp_original_blog', 'mlp_original_content');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wpsummarize_api_key_notice_dismissed', '_wpsummarize_post_settings', 'wpsummarize_running_api', '_wpsummarize_summary_set', '_wpsummarize_summary_set_manual', 'wpsummarize_action_scheduled', 'ct_builder_json', 'panels_data', 'mlp_original_blog', 'mlp_original_content');
+

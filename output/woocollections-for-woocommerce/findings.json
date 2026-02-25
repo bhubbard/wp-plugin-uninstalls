@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wooc_settings_collections"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_collection_owner",
+    "_collection_items"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:58.751Z"
+}

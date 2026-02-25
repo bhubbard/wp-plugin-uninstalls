@@ -1,0 +1,13 @@
+{
+  "options": [
+    "venobox_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_venobox_check"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:43.200Z"
+}

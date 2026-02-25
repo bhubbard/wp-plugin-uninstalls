@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "ekl_rss_process_rss_sources_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ekl_rss_rss_item_link",
+    "ekl_rss_rss_item_thumbnail",
+    "ekl_rss_rss_item_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:59.076Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_wf_dhl_shipping_settings",
+    "wf_dhl_insurance_enabled_checkout_no_real_time_enabled",
+    "wf_dhl_insurance",
+    "current_order_data",
+    "*_settings",
+    "woocommerce_tax_display_cart",
+    "custom_services",
+    "wf_dhl_shipping_validation_data",
+    "wf_dhl_validation_error",
+    "dhl_activation_status",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_composite_title_express_dhl_elex",
+    "user_dhl_receiver_eori",
+    "user_dhl_receiver_vat"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:37.574Z"
+}

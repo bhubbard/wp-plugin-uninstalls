@@ -1,0 +1,24 @@
+{
+  "options": [
+    "say2eat_token",
+    "say2eat_delivery_time",
+    "say2eat_week_days",
+    "say2eat_pickup_time",
+    "woocommerce_default_country",
+    "*_settings",
+    "woocommerce_store_address_2",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "say2eat_app_id",
+    "say2eat_plugin_configured",
+    "say2eat_store_token",
+    "say2eat_store_config"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:46.865Z"
+}

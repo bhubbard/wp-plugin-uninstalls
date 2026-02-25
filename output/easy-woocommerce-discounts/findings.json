@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_conditions_admin_notices",
+    "woocommerce_conditions_db_version",
+    "*_added",
+    "wccs_settings",
+    "wccs_version",
+    "wccs_version_upgraded_from",
+    "wccs_install_timestamp",
+    "woocommerce_tax_round_at_subtotal",
+    "*_db_version",
+    "woocommerce_tax_display_shop",
+    "woocommerce_tax_display_cart",
+    "asnp_ewd_review"
+  ],
+  "transients": [
+    "wccs_installing",
+    "wccs_discounted_products",
+    "wccs_can_read_variation_cached_prices_hash",
+    "wccs_can_read_variation_cached_prices_hash_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice",
+    "dismissed_ewd_sale_badges_free_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:13.203Z"
+}

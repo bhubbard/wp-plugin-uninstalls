@@ -1,0 +1,15 @@
+{
+  "options": [
+    "connect_ez_plugin_options",
+    "connect_ez_plugin_do_activation_redirect",
+    "sip_form_token_*"
+  ],
+  "transients": [
+    "sip_secure_data_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:19.537Z"
+}

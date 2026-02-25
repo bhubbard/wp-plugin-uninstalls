@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "rjcart_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rejoiner_subscribe",
+    "rejoiner_unsubscribe"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:09.361Z"
+}

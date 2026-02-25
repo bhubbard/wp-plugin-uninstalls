@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_option_fb_value_key",
+    "_option_tw_value_key",
+    "_option_bh_value_key",
+    "_option_in_value_key",
+    "_option_dr_value_key",
+    "_option_designation_value_key",
+    "_option_shortcode_value_key",
+    "_option_layouts_value_key",
+    "_option_limit_value_key",
+    "_option_slugs_value_key",
+    "_option_desktop_value_key",
+    "_option_tab_value_key",
+    "_option_mobile_value_key",
+    "_option_orderby_value_key",
+    "_option_order_value_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:58.295Z"
+}

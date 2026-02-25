@@ -1,0 +1,20 @@
+{
+  "options": [
+    "caldav2ics_calendar_urls",
+    "caldav2ics_calendar_users",
+    "caldav2ics_calendar_passwords",
+    "caldav2ics_calendar_files",
+    "caldav2ics_calendar_excludes"
+  ],
+  "transients": [
+    "caldav2ics_upgrade",
+    "caldav2ics"
+  ],
+  "cron_jobs": [
+    "bl_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:36.971Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sdm_downloads_options', 'sdm_global_options', 'sdm_plugin_activated_time', 'sdm_advanced_options', 'sdm_db_version');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('sdm_upload_thumbnail', 'sdm_description', 'sdm_upload', 'sdm_item_dispatch', 'sdm_item_new_window', 'sdm_item_disable_single_download_page', 'sdm_item_hide_dl_button_single_download_page', 'sdm_item_anonymous_can_download', 'sdm_count_offset', 'sdm_item_no_log', 'sdm_item_show_date_fd', 'sdm_item_show_file_size_fd', 'sdm_item_show_item_version_fd', 'sdm_item_file_size', 'sdm_item_version', 'sdm_download_button_text', 'sdm_is_protected_download', '_exclude_from_media_library');
+DELETE FROM wp_usermeta WHERE meta_key IN ('sdm_upload_thumbnail', 'sdm_description', 'sdm_upload', 'sdm_item_dispatch', 'sdm_item_new_window', 'sdm_item_disable_single_download_page', 'sdm_item_hide_dl_button_single_download_page', 'sdm_item_anonymous_can_download', 'sdm_count_offset', 'sdm_item_no_log', 'sdm_item_show_date_fd', 'sdm_item_show_file_size_fd', 'sdm_item_show_item_version_fd', 'sdm_item_file_size', 'sdm_item_version', 'sdm_download_button_text', 'sdm_is_protected_download', '_exclude_from_media_library');
+DELETE FROM wp_termmeta WHERE meta_key IN ('sdm_upload_thumbnail', 'sdm_description', 'sdm_upload', 'sdm_item_dispatch', 'sdm_item_new_window', 'sdm_item_disable_single_download_page', 'sdm_item_hide_dl_button_single_download_page', 'sdm_item_anonymous_can_download', 'sdm_count_offset', 'sdm_item_no_log', 'sdm_item_show_date_fd', 'sdm_item_show_file_size_fd', 'sdm_item_show_item_version_fd', 'sdm_item_file_size', 'sdm_item_version', 'sdm_download_button_text', 'sdm_is_protected_download', '_exclude_from_media_library');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('sdm_upload_thumbnail', 'sdm_description', 'sdm_upload', 'sdm_item_dispatch', 'sdm_item_new_window', 'sdm_item_disable_single_download_page', 'sdm_item_hide_dl_button_single_download_page', 'sdm_item_anonymous_can_download', 'sdm_count_offset', 'sdm_item_no_log', 'sdm_item_show_date_fd', 'sdm_item_show_file_size_fd', 'sdm_item_show_item_version_fd', 'sdm_item_file_size', 'sdm_item_version', 'sdm_download_button_text', 'sdm_is_protected_download', '_exclude_from_media_library');
+

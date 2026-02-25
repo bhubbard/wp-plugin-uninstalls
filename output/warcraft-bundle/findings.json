@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wb_force_locale",
+    "wb_force_utf8",
+    "wb_cache_time",
+    "wb_guild_name",
+    "wb_realm_name",
+    "wb_guild_rank",
+    "wb_gm_name",
+    "wb_active_tool",
+    "wb_calendar_alert",
+    "wb_utc"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wb_schedule_roster"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:20.165Z"
+}

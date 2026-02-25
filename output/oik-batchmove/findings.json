@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bw_bmcs",
+    "bw_bmts",
+    "bw_scheduled"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "oik_batchmove_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_meta-robots-noindex",
+    "_yoast_wpseo_meta-robots-nofollow",
+    "_yoast_wpseo_sitemap-include"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:44.331Z"
+}

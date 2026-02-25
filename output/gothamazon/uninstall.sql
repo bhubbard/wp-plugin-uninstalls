@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('gothamazon_option_aturner', 'gothamazon_ama_kapsule_apijeton', 'gothamazon_ama_login', 'gothamazon_option_powered', 'gothamazon_version', 'gothamazon_option_marketplace', 'gothamazon_ama_key', 'gothamazon_ama_track', 'gothamazon_option_amaprime', 'gothamazon_option_cachingtime', 'gothamazon_option_neufunik', 'gothamazon_option_sortbay', 'gothamazon_option_vendeur', 'gothamazon_option_cloaking', 'gothamazon_option_cloakingimage', 'gothamazon_option_css', 'gothamazon_option_legal', 'gothamazon_option_economycostapi', 'gothamazon_option_speedboutique', 'gtz_tokyo4', 'gtz_tokyo4_3bay', 'gtz_linquery_default', 'gtz_awin_ref_id', 'gothamazon_option_prixbarre', 'gothamazon_option_rating', 'gothamazon_option_boodisplayprice', 'gothamazon_option_hidetitre', 'gothamazon_option_color_cta', 'gothamazon_option_color_price_bg', 'gothamazon_option_marchandlogo', 'gothamazon_ama_track2', 'gothamazon_option_urlgta', 'gothamazon_option_css_rowshop', 'gothamazon_option_css_rowcatspeed', 'gothamazon_option_css_yourstyle');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('gotham_dynamic_store_widget');
+DELETE FROM wp_usermeta WHERE meta_key IN ('gotham_dynamic_store_widget');
+DELETE FROM wp_termmeta WHERE meta_key IN ('gotham_dynamic_store_widget');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('gotham_dynamic_store_widget');
+

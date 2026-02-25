@@ -1,0 +1,21 @@
+{
+  "options": [
+    "devtree_vipzone_hide_shop_for_guests",
+    "woocommerce_currency_pos",
+    "devtree_vipzone_delete_data_on_uninstall",
+    "DEVTREE_VIPZONE_PLUGIN_VERSION"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "devtree_vipzone_verify_license_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_devtree_vipzone_hide_product",
+    "_devtree_vipzone_blur_product",
+    "_devtree_vipzone_hide_title",
+    "_devtree_vipzone_hide_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:08.747Z"
+}

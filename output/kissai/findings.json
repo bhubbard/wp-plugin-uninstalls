@@ -1,0 +1,18 @@
+{
+  "options": [
+    "openai_api_key",
+    "api_key_type",
+    "kissai_db_version"
+  ],
+  "transients": [
+    "kissai_vars_nonce_*",
+    "kissai_service_key"
+  ],
+  "cron_jobs": [
+    "kissai_cleanup_expired_guids"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:31.145Z"
+}

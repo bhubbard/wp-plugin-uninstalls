@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pwa_active",
+    "pwa_rewrite_text",
+    "pwa_restrict",
+    "pwa_logout",
+    "pwa_allow_custom_users",
+    "pwa_logo_path",
+    "pwa_login_page_bg_color",
+    "pwa_login_page_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:17.684Z"
+}

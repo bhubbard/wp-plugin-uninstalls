@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vacation_text_section_on",
+    "vacation_text_section_on_notice",
+    "vacation_text_section",
+    "vacation_text_section_to",
+    "vacation_text_section_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:50.797Z"
+}

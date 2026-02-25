@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wc_chilean_bundle_configuration_options",
+    "wc_chilean_bundle_about_us_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Rut"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:55.276Z"
+}

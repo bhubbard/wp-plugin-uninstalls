@@ -1,0 +1,23 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "_booster_sweeper_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*",
+    "_mb_booster_sweeper",
+    "booster_sweeper_discover_styles_frontend",
+    "booster_sweeper_discover_scripts_frontend",
+    "booster_sweeper_discover_styles_backend",
+    "booster_sweeper_discover_scripts_backend",
+    "booster_sweeper_dequeued_styles_frontend",
+    "booster_sweeper_dequeued_scripts_frontend",
+    "booster_sweeper_dequeued_styles_backend",
+    "booster_sweeper_dequeued_scripts_backend"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:57.165Z"
+}

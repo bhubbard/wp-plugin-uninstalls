@@ -1,0 +1,16 @@
+{
+  "options": [
+    "my_plugin_do_activation_redirect",
+    "cookie_text_data",
+    "cookie_text_time",
+    "cookie_text_url",
+    "cookie_text_bg",
+    "cookie_text_brd"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:34.059Z"
+}

@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Clear Cron Jobs
+wp cron event delete 'smmail_schedule_hook'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'event'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'event'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'event'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'event'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'trigger'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'trigger'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'trigger'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'trigger'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'subject'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'subject'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'subject'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'subject'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'managetoplevel_page_follow-up-emailscolumnshidden'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'managetoplevel_page_follow-up-emailscolumnshidden'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'managetoplevel_page_follow-up-emailscolumnshidden'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'managetoplevel_page_follow-up-emailscolumnshidden'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'managetoplevel_page_supporthost_list_tablecolumnshidden'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'managetoplevel_page_supporthost_list_tablecolumnshidden'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'managetoplevel_page_supporthost_list_tablecolumnshidden'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'managetoplevel_page_supporthost_list_tablecolumnshidden'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'auto_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'auto_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'auto_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'auto_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'email'"

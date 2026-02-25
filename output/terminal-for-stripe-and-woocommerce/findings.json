@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_shop_page_id",
+    "woocommerce_stripe_terminal_settings",
+    "woocommerce_default_country",
+    "woocommerce_stripe_settings",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_based_on",
+    "wc_stripe_terminal_version",
+    "wc_stripe_show_terminal_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stripe_intent_id",
+    "_stripe_customer_id",
+    "_customer_user"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:05.365Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "document-library-lite-setup-wizard_completed",
+    "dlp_should_flush_rewrite_rules",
+    "dlw_should_flush_rewrite_rules",
+    "dlw_review_notice_triggered",
+    "dlw_document_count",
+    "dlw_review_notice_user",
+    "dlw_review_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dlp_document_link_type",
+    "_dlp_attached_file_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:20.649Z"
+}

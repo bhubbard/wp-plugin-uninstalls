@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sharedaddy_disable_resources"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sms_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:15.014Z"
+}

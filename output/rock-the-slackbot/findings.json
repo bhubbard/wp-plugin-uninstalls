@@ -1,0 +1,27 @@
+{
+  "options": [
+    "rock_the_slackbot_outgoing_webhooks",
+    "rock_the_slackbot_network_outgoing_webhooks",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "rock_the_slackbot_add_outgoing_webhook",
+    "settings_errors",
+    "rock_the_slackbot_pre_upgrade_information",
+    "rock_the_slack_core_update_available",
+    "rock_the_slack_plugin_update_available",
+    "update_plugins",
+    "rock_the_slack_theme_update_available",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_menu_item_type",
+    "_menu_item_url",
+    "_menu_item_object_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:23.658Z"
+}

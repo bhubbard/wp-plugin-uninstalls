@@ -1,0 +1,30 @@
+{
+  "options": [
+    "f-social",
+    "t-social",
+    "g-social",
+    "y-social",
+    "googleplus-button",
+    "home_title",
+    "meta_settings",
+    "canonical",
+    "author",
+    "publisher",
+    "ga",
+    "google-verification",
+    "bing-verification",
+    "home_desc",
+    "robots",
+    "xmlsitemap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Title",
+    "Desc",
+    "tags"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:12.621Z"
+}

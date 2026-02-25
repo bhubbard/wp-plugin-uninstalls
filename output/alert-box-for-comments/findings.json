@@ -1,0 +1,14 @@
+{
+  "options": [
+    "abfc_top",
+    "abfc_left",
+    "abfc_top2",
+    "abfc_left2"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:50.503Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "move_do_activation_redirect",
+    "htmove_widget_list",
+    "htmove_userdata_list",
+    "htmove_module_list",
+    "move_installed",
+    "MOVE_ADDONS_VERSION",
+    "yith_wcwl_wishlist_page_id",
+    "yith_wcwl_add_to_wishlist_text",
+    "yith_wcwl_browse_wishlist_text",
+    "yith_wcwl_product_added_text",
+    "job_manager_enable_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:21.587Z"
+}

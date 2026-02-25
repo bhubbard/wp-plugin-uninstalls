@@ -1,0 +1,37 @@
+{
+  "options": [
+    "pixel_apfw_plugin_options",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "pixel_apfw_conflict_notice_*",
+    "pixel_apfw_active_promo_id",
+    "pixel_apfw_last_active_promo_id",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pixel_apfw_start_datetime",
+    "_pixel_apfw_end_datetime",
+    "_pixel_apfw_description",
+    "_pixel_apfw_color",
+    "_pixel_apfw_promo_image_id",
+    "_pixel_apfw_woo_coupon_id",
+    "_pixel_apfw_primary_coupon_code",
+    "_pixel_apfw_primary_coupon_amount",
+    "_pixel_apfw_discount_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:28.779Z"
+}

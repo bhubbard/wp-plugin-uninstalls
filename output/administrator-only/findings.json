@@ -1,0 +1,17 @@
+{
+  "options": [
+    "admon_delete_data",
+    "admon_front_end",
+    "admon_front_end_link",
+    "admon_rest_api",
+    "admon_rest_api_link",
+    "admon_excluded_pages",
+    "admon_excluded_routes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:58.043Z"
+}

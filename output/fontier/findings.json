@@ -1,0 +1,19 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "fontier_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fontier_notice_dismissed",
+    "_csf_errors_*",
+    "font_preview_enable",
+    "font_repeater",
+    "edd_download_files",
+    "custom_fontier_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:42.298Z"
+}

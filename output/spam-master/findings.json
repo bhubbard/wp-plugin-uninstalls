@@ -1,0 +1,23 @@
+{
+  "options": [
+    "spam_master_keys_db_version",
+    "spam_master_connection",
+    "blacklist_keys_bk",
+    "spam_master_whitelist",
+    "spam_master_upgrade_to_6"
+  ],
+  "transients": [
+    "spam_master_license_data",
+    "spam_master_repo_license_data",
+    "spam_master_all_settings"
+  ],
+  "cron_jobs": [
+    "spam_master_key_load",
+    "spam_master_tasks_load",
+    "spam_master_weekly_report_load"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:12.873Z"
+}

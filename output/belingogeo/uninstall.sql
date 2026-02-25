@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('belingo_geo_exclude_nonobject', 'belingo_geo_url_type', 'belingo_geo_sitemap_per_page', 'belingo_geo_basic_popup_window_header', 'belingo_geo_basic_popup_window_text1', 'belingo_geo_basic_popup_window_text2', 'belingo_geo_basic_forced_slug_generation', 'belingo_geo_basic_forced_region_slug_generation', 'belingo_geo_exclude_posts', 'belingo_geo_exclude_post_types', 'belingo_geo_exclude_pages', 'belingo_geo_exclude_terms', 'belingo_geo_exclude_tags', 'belingo_geo_exclude_taxonomies', 'belingo_geo_basic_default_nonecity', 'belingo_geo_basic_finding_nonecity', 'belingo_geo_disable_subdomain_redirect', 'belingo_geo_disable_subdirectory_redirect', 'belingo_geo_basic_show_first_city_when_nonecity', 'belingo_geo_exclude_posts_in_archives', 'belingo_geo_basic_show_in_breadcrumbs', 'belingo_geo_basic_rewrite_cookie_by_url', 'belingo_geo_basic_rewrite_cookie_by_url_on_nogeo', 'belingo_geo_basic_forced_confirmation_city', 'belingo_geo_basic_default_text_nonecity', 'belingo_geo_basic_filter_links_by_url', 'belingo_geo_basic_woo_auto_detect_city_checkout', 'belingo_geo_basic_enable_search_in_popup', 'belingo_geo_basic_add_city_to_woo_page_title', 'belingo_geo_basic_enable_windows_in_footer', 'belingo_geo_exclude_all_posts', 'belingo_geo_exclude_all_pages', 'belingo_geo_basic_disable_url');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('city_addon_contacts', 'city_eng', 'city_padej1', 'city_padej2', 'city_padej3', 'city_phone', 'city_phone_link', 'city_address', 'bg_regions_phone', 'bg_regions_address');
+DELETE FROM wp_usermeta WHERE meta_key IN ('city_addon_contacts', 'city_eng', 'city_padej1', 'city_padej2', 'city_padej3', 'city_phone', 'city_phone_link', 'city_address', 'bg_regions_phone', 'bg_regions_address');
+DELETE FROM wp_termmeta WHERE meta_key IN ('city_addon_contacts', 'city_eng', 'city_padej1', 'city_padej2', 'city_padej3', 'city_phone', 'city_phone_link', 'city_address', 'bg_regions_phone', 'bg_regions_address');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('city_addon_contacts', 'city_eng', 'city_padej1', 'city_padej2', 'city_padej3', 'city_phone', 'city_phone_link', 'city_address', 'bg_regions_phone', 'bg_regions_address');
+

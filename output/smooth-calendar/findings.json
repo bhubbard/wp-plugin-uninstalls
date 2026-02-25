@@ -1,0 +1,24 @@
+{
+  "options": [
+    "calendar_setting_header_bg",
+    "calendar_setting_days_bg",
+    "calendar_setting_link_bg",
+    "calendar_setting_single",
+    "calendar_setting_gcal"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "meta_calendar_date",
+    "meta_calendar_start",
+    "meta_calendar_end",
+    "meta_calendar_location",
+    "meta_calendar_description",
+    "meta_calendar_month",
+    "meta_calendar_year",
+    "meta_calendar_dateFormatted"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:42.414Z"
+}

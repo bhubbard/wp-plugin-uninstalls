@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_samedaycourier_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_samedaycourier_settings_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sameday_shipping_open_package_option"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:47.245Z"
+}

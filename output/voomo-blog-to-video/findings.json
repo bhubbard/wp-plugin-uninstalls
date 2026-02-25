@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpbtv_organization_id",
+    "wpbtv_api_key",
+    "wpbtv_auto_embed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpbtv_video_url",
+    "wpbtv_video_attachment_id",
+    "wpbtv_generation_requested",
+    "wpbtv_generation_error",
+    "wpbtv_video_source_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:00.578Z"
+}

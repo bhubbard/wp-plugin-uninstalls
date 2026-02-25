@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ghosttrap_settings",
+    "ghosttrap_stats",
+    "ghosttrap_install_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ghosttrap_review_dismissed",
+    "ghosttrap_review_dismissed_time",
+    "ghosttrap_donation_shown",
+    "ghosttrap_positive_review_action",
+    "ghosttrap_info_visibility"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:52.153Z"
+}

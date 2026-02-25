@@ -1,0 +1,41 @@
+{
+  "options": [
+    "tss_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tss-match-date",
+    "tss-match-datetime",
+    "tss-match-location",
+    "tss-match-season",
+    "tss-match-opponent",
+    "tss-match-attendance",
+    "tss-match-matchtype",
+    "tss-match-additional-matchtype",
+    "tss-match-goals-for",
+    "tss-match-goals-against",
+    "tss-match-goals-for-pen",
+    "tss-match-goals-against-pen",
+    "tss-match-overtime",
+    "tss-match-penalties",
+    "tss-match-show-opponent-stats",
+    "tss-match-calculate-stats",
+    "tss-match-opponent-starters",
+    "tss-match-opponent-substitutes",
+    "tss-match-opponent-substitutions",
+    "tss-match-opponent-goals",
+    "tss-match-opponent-yellows",
+    "tss-match-opponent-reds",
+    "tss-shirtnumber",
+    "tss-position",
+    "tss-dob",
+    "tss-pob",
+    "tss-height",
+    "tss-weight",
+    "tss-previous-clubs"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:19.537Z"
+}

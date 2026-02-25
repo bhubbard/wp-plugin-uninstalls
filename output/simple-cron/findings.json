@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simple_cron_plugin",
+    "tools_page_cron_table_per_page",
+    "simple_cron_installed"
+  ],
+  "transients": [
+    "simple_security_nag",
+    "simple_cron_nag"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:25.031Z"
+}

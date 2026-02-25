@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_purchased",
+    "*_donated",
+    "reset_customizer",
+    "theme_mods_*",
+    "*_bak"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*-notice-dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:11.428Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "asbfg_log_retention_days",
+    "asbfg_blocked_ips",
+    "asbfg_blocked_emails",
+    "asbfg_blocked_domains",
+    "asbfg_blocked_countries",
+    "asbfg_blocked_text",
+    "asbfg_custom_ip_message",
+    "asbfg_custom_email_message",
+    "asbfg_custom_domain_message",
+    "asbfg_custom_country_message",
+    "asbfg_custom_text_message"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "asbfg_cleanup_old_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:57.716Z"
+}

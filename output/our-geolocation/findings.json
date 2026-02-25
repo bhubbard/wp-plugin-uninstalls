@@ -1,0 +1,16 @@
+{
+  "options": [
+    "our-geolocation-getdir",
+    "our-geolocation-address",
+    "our-geolocation-latitude",
+    "our-geolocation-longitude",
+    "our-geolocation-width",
+    "our-geolocation-height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:06.998Z"
+}

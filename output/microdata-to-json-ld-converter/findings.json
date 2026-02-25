@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mdtj_remove_microdata",
+    "mdtj_regenerate_on_update",
+    "mdtj_create_json",
+    "mdtj_scheduler_settings",
+    "mdtj_last_scheduled_rebuild_log"
+  ],
+  "transients": [
+    "mdtj_rebuild_queue"
+  ],
+  "cron_jobs": [
+    "mdtj_cron_rebuild_initiator",
+    "mdtj_cron_rebuild_worker"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mdtj_json_ld"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:57.534Z"
+}

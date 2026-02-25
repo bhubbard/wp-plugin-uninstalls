@@ -1,0 +1,31 @@
+{
+  "options": [
+    "Shrief",
+    "yaysmtp_settings_bk",
+    "yaysmtp_settings",
+    "yaysmtp_email_log_settings_bk",
+    "yaysmtp_email_log_settings",
+    "yaysmtp_reviewed",
+    "yaysmtp_debug",
+    "yaysmtp_debug_fallback",
+    "yaysmtp_imported_log_plugin_trace_settings",
+    "easy_wp_smtp",
+    "wp_mail_smtp",
+    "smtp_mailer_options",
+    "wp_smtp_options",
+    "postman_options",
+    "yay_smtp_version"
+  ],
+  "transients": [
+    "YAYSMTP_ROOT"
+  ],
+  "cron_jobs": [
+    "yaysmtp_delete_email_log_schedule_hook",
+    "yaysmtp_send_email_report_weekly_schedule_hook",
+    "yaysmtp_send_email_report_monthly_schedule_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:29.840Z"
+}

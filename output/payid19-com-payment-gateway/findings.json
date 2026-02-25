@@ -1,0 +1,12 @@
+{
+  "options": [
+    "woocommerce_WC_Gateway_Payid19",
+    "woocommerce_WC_Gateway_Payid19_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:27.933Z"
+}

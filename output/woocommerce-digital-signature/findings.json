@@ -1,0 +1,34 @@
+{
+  "options": [
+    "remove_rating_widget_woocommerce",
+    "esign_woo_agreement_setting",
+    "esign_woo_sad_page",
+    "woocommerce_checkout_order_received_endpoint",
+    "woocommerce_force_ssl_checkout",
+    "esig_global_document_id",
+    "esign_woo_logic",
+    "esign_woo_after_checkout_logic",
+    "rupom",
+    "esign_woo_agreement_in_product_renewal",
+    "WP_ESignature__Auto_Add_My_Signature_documentation",
+    "WP_ESignature__woocommerce_documentation",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "_esign_woo_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_esig_woo_meta_product_agreement",
+    "_esig_woo_meta_sad_page",
+    "_esign_woo_sign_logic",
+    "woo_esig_agreement",
+    "yith_quote_agreement_generated",
+    "has_esig_agreement",
+    "_esig-agreement-created-*",
+    "_esig_after_checkout_doc_list"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:25.764Z"
+}

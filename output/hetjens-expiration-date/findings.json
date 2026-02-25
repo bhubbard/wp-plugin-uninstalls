@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "Hetjens_Expiration_Date"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_expiration_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:59.272Z"
+}

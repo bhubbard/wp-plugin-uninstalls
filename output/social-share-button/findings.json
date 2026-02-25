@@ -1,0 +1,26 @@
+{
+  "options": [
+    "social_share_button_version",
+    "social_share_button_migrate_2_1_1",
+    "social_share_button_migrate_2_1_6",
+    "social_share_button_settings",
+    "social_share_button_tc_text",
+    "social_share_button_tc_themes",
+    "social_share_button_sites",
+    "social_share_button_total",
+    "social_share_button_theme",
+    "social_share_button_more_display",
+    "social_share_button_display_total_count",
+    "social_share_button_display",
+    "social_share_button_count_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "social_share_button_share_count",
+    "ssb_post_sites"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:03.848Z"
+}

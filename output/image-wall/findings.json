@@ -1,0 +1,20 @@
+{
+  "options": [
+    "image_wall_regen",
+    "image_wall_regen_method",
+    "image_wall_regen_salt"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tmn_iw_attachment_hash_regenerate",
+    "tmn_iw_regenerate_action",
+    "tmn_tmp_iw_regenerate_action",
+    "iw_attachment_hash_regenerate"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tmn-iw-hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:50.175Z"
+}

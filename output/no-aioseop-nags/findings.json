@@ -1,0 +1,19 @@
+{
+  "options": [
+    "no_aioseop_nags_custom_css",
+    "no_aioseop_nags_custom_css-checkbox",
+    "no_aioseop_nags_your_custom_css",
+    "no_aioseop_nags_your_custom-checkbox",
+    "no_aioseop_nags_menu-checkbox",
+    "no_aioseop_nags_yoast",
+    "no_aioseop_nags_all_messages",
+    "abl_no_aioseop_nags_version",
+    "dismissed-prefix_deprecated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:29.317Z"
+}

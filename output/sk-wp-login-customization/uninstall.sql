@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('skwll_login_img', 'skwll_login_img_size', 'skwll_login_img_size_custom', 'skwll_login_img_position', 'skwll_login_img_position_custom', 'skwll_login_img_container_width', 'skwll_login_img_container_height', 'skwll_login_img_custom_css', 'skwll_login_background_img', 'skwll_login_background_img_size', 'skwll_login_background_img_size_custom', 'skwll_login_background_img_position_custom', 'skwll_login_background_img_position', 'skwll_login_background_img_custom_css', 'skwll_more_css', 'skwll_custom_login_url', 'skwll_form_margin_status', 'skwll_margin_left', 'skwll_margin_right', 'skwll_margin_top', 'skwll_margin_bottom', 'skwll_border_radius_status', 'skwll_border_radius_left', 'skwll_border_radius_bottom', 'skwll_border_radius_right', 'skwll_border_radius_top', 'skwll_form_shadow_status', 'skwll_form_shadow_left', 'skwll_form_shadow_bottom', 'skwll_form_shadow_right', 'skwll_form_shadow_top', 'skwll_login_form_container_width');
+

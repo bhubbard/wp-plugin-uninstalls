@@ -1,0 +1,20 @@
+{
+  "options": [
+    "safe_sites_force_ssl",
+    "auto_update_core_major",
+    "safe_sites_virustotal_api_key",
+    "jetpack_protect_active",
+    "wpcom_public_coming_soon"
+  ],
+  "transients": [
+    "update_plugins",
+    "safe_sites-demo-block-data",
+    "safesites_notices",
+    "jetpack_is_single_user"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:48.297Z"
+}

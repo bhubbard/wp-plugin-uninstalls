@@ -1,0 +1,49 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "_ang_import_history",
+    "elementor_experiment-container",
+    "ang_hide_*",
+    "ang_queue_flush_rewrite_rules",
+    "elementor_active_kit",
+    "analog_onboarding",
+    "ang_options",
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes",
+    "ran_onboarding",
+    "_ang_installed_time",
+    "ang_hide_custom_library_promo",
+    "elementor_scheme_color-picker",
+    "style_kits_previous_db_version",
+    "style_kits_db_version"
+  ],
+  "transients": [
+    "ang_rollback_versions_*",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "analog_get_kits",
+    "ang_license_message",
+    "analogwp_template_info"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "analog/tracker/send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tokens_data",
+    "_elementor_page_settings",
+    "_elementor_template_type",
+    "_elementor_data",
+    "_elementor_edit_mode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:22.962Z"
+}

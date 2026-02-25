@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_tax_round_at_subtotal",
+    "wc_wallee_base_gateway_url",
+    "woocommerce_manage_stock",
+    "ywpo_order_status"
+  ],
+  "transients": [
+    "wc_wallee_payment_methods"
+  ],
+  "cron_jobs": [
+    "wallee_five_minutes_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wallee-previous-wc-min-version",
+    "_wallee_subscription_space_id",
+    "_wallee_subscription_token_id",
+    "_wallee_subscription_failed_renewal"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:52.673Z"
+}

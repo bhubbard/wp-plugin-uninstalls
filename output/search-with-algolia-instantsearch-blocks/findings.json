@@ -1,0 +1,12 @@
+{
+  "options": [
+    "aib_algolia_app_id",
+    "aib_algolia_searchonly_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:38.743Z"
+}

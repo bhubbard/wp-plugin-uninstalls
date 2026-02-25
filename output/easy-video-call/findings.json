@@ -1,0 +1,20 @@
+{
+  "options": [
+    "evc_app_id",
+    "evc_button_text",
+    "evc_app_certificate",
+    "evc_video_wrapper_bg_color",
+    "evc_button_bg_color",
+    "evc_button_text_color",
+    "evc_mik_camera_bg_color",
+    "evc_mik_camera_text_color",
+    "evc_leave_call_bg_color",
+    "evc_leave_call_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:47.659Z"
+}

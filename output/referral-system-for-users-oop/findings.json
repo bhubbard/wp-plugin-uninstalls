@@ -1,0 +1,32 @@
+{
+  "options": [
+    "name_of_unit",
+    "bonus_for_referrer",
+    "bonus_for_new_user",
+    "email_service",
+    "login_service",
+    "password_service",
+    "name_sender",
+    "course_of_units",
+    "telegram_channel_url",
+    "facebook_channel_url",
+    "twitter_channel_url",
+    "twitter_channel_title",
+    "phone_user_meta_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "counter",
+    "Verified_phone_by_sms",
+    "units",
+    "user_registration_facebook_account",
+    "user_registration_twitter_account",
+    "user_registration_telegram_account",
+    "user_registration_number_box_1529446202",
+    "sms_secret_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:58.913Z"
+}

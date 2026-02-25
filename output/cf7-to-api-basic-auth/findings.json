@@ -1,0 +1,16 @@
+{
+  "options": [
+    "qs_cf7_api_notices_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qs_cf7_api_debug_url",
+    "qs_cf7_api_debug_result",
+    "qs_cf7_api_debug_params",
+    "api_errors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:00.286Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*_tables_menu_capability",
+    "daextletal_options_version",
+    "daextletal_database_version",
+    "*_tools_menu_capability",
+    "*_maintenance_menu_capability",
+    "*_items_per_page_tables_menu",
+    "*_enable_link_cell_property",
+    "*_enable_image_left_cell_property",
+    "*_enable_image_right_cell_property",
+    "*_widget_text_shortcode",
+    "*_load_google_font_1",
+    "*_load_google_font_2",
+    "*_general_stylesheet_file_url",
+    "*_tablesorter_library_url",
+    "*_general_javascript_file_url",
+    "*_limit_shortcode_parsing",
+    "*_verify_single_shortcode",
+    "*_max_execution_time",
+    "daextletal_dismissible_notice_a"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:49.244Z"
+}

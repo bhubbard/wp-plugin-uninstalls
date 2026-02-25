@@ -1,0 +1,71 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('kaliforms_pro_license_key', 'wordpress_api_key', 'kaliforms_pro_license_status', 'kaliforms_pro_license_data', 'kaliforms_notices', 'kaliforms_smtp_auth', 'kaliforms_smtp_host', 'kaliforms_smtp_port', 'kaliforms_smtp_secure', 'kaliforms_smtp_username', 'kaliforms_smtp_password', 'kaliforms_extensions');
+DELETE FROM wp_options WHERE option_name LIKE '%_email_send_test_dismissed';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_provider';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_host';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_auth';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_disable_autotls';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_port';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_secure';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_username';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_password';
+DELETE FROM wp_options WHERE option_name LIKE '%_email_log';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_com_api_key';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_com_sender_name';
+DELETE FROM wp_options WHERE option_name LIKE '%_sendin_blue_api';
+DELETE FROM wp_options WHERE option_name LIKE '%_return_path';
+DELETE FROM wp_options WHERE option_name LIKE '%_mailgun_domain_name';
+DELETE FROM wp_options WHERE option_name LIKE '%_mailgun_private_key';
+DELETE FROM wp_options WHERE option_name LIKE '%_mailgun_region';
+DELETE FROM wp_options WHERE option_name LIKE '%_postmark_server_api';
+DELETE FROM wp_options WHERE option_name LIKE '%_email_smtp_settings_dismissed';
+DELETE FROM wp_options WHERE option_name LIKE '%_never_rate';
+DELETE FROM wp_options WHERE option_name LIKE '%_rating_timestamp';
+DELETE FROM wp_options WHERE option_name LIKE '%_settings_updated_for_220';
+DELETE FROM wp_options WHERE option_name LIKE '%_smtp_advanced';
+DELETE FROM wp_options WHERE option_name LIKE '%_save_ip_address';
+DELETE FROM wp_options WHERE option_name LIKE '%_extensions';
+DELETE FROM wp_options WHERE option_name LIKE '%_latest_blog_posts';
+DELETE FROM wp_options WHERE option_name LIKE 'kaliforms_dont_delete_this_image_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_welcome_activation_redirect';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('formId', 'ip_address', 'kaliforms_submission_view_page', 'kaliforms_file_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('formId', 'ip_address', 'kaliforms_submission_view_page', 'kaliforms_file_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('formId', 'ip_address', 'kaliforms_submission_view_page', 'kaliforms_file_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('formId', 'ip_address', 'kaliforms_submission_view_page', 'kaliforms_file_id');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_field_components';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_field_components';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_field_components';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_field_components';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_multiple_selections_separator';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_multiple_selections_separator';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_multiple_selections_separator';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_multiple_selections_separator';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_delete_entries_after';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_delete_entries_after';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_delete_entries_after';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_delete_entries_after';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_selected_form_style';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_selected_form_style';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_selected_form_style';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_selected_form_style';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_payments_live';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_payments_live';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_payments_live';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_payments_live';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_paypal_client_id_sandbox';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_paypal_client_id_sandbox';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_paypal_client_id_sandbox';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_paypal_client_id_sandbox';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_paypal_client_id';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_paypal_client_id';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_paypal_client_id';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_paypal_client_id';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_currency';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_currency';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_currency';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_currency';
+

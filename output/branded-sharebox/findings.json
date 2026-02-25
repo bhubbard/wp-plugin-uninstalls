@@ -1,0 +1,28 @@
+{
+  "options": [
+    "branded_sharebox_api_key",
+    "branded_sharebox_domain",
+    "branded_sharebox_show_on",
+    "branded_sharebox_show_at",
+    "branded_sharebox_show_counter",
+    "branded_sharebox_align_where",
+    "branded_sharebox_button_style",
+    "branded_sharebox_should_float",
+    "branded_sharebox_show_non_singular",
+    "branded_sharebox_icon_color",
+    "branded_sharebox_icon_color_custom",
+    "branded_sharebox_icon_size",
+    "branded_sharebox_icon_size_custom",
+    "branded_sharebox_url_box",
+    "branded_sharebox_url_social_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "branded_sharebox_link_click_counter",
+    "branded_sharebox_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:51.571Z"
+}

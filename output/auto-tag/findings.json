@@ -1,0 +1,17 @@
+{
+  "options": [
+    "autotag_tag_posts",
+    "autotag_tag_pages",
+    "autotag_number",
+    "autotag_remove_tags"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_auto_tag_removed_tags",
+    "_auto_tag_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:24.501Z"
+}

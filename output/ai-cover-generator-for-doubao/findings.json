@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aicg_api_key",
+    "aicg_api_base_url",
+    "aicg_text_model",
+    "aicg_image_model"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:37.290Z"
+}

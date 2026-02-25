@@ -1,0 +1,34 @@
+{
+  "options": [
+    "artistpress_artist_settings",
+    "artistpress_show_settings",
+    "artistpress_show_list_settings",
+    "artistpress_gallery_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "artistpress_artist_phone_number",
+    "artistpress_artist_email_address",
+    "artistpress_artist_web_address",
+    "artistpress_artist_bio",
+    "artistpress_show_date",
+    "artistpress_show_time",
+    "artistpress_show_type",
+    "artistpress_show_price",
+    "artistpress_ticket_phone",
+    "artistpress_ticket_url",
+    "artistpress_show_add_info",
+    "artistpress_venue_address",
+    "artistpress_venue_city",
+    "artistpress_venue_state",
+    "artistpress_venue_postal_code",
+    "artistpress_venue_country",
+    "artistpress_venue_website",
+    "artistpress_venue_telephone",
+    "artistpress_venue_latlng"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:25.930Z"
+}

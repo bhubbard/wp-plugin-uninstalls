@@ -1,0 +1,17 @@
+{
+  "options": [
+    "iw_pc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "page_url",
+    "Identificador",
+    "state",
+    "xPosition",
+    "yPosition"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:12.833Z"
+}

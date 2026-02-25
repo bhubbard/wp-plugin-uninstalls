@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aurora_heatmap_option",
+    "Activated_Plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aurora_heatmap_cron_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:51.983Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "widget_block",
+    "drwidgetsblocks-widget",
+    "dr_widgets_blocks_google_fonts",
+    "drwb_block_settings",
+    "drwb_widget_settings",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "delisho_pro_license"
+  ],
+  "transients": [
+    "_drwidgetsblocks_preview_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_drwidgetsblocks_css",
+    "_drwidgetsblocks_active",
+    "dr_taxonomy_metas"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:57.968Z"
+}

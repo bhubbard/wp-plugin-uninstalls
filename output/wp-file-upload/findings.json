@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wordpress_file_upload_table_log_version",
+    "wordpress_file_upload_table_userdata_version",
+    "wordpress_file_upload_table_dbxqueue_version",
+    "wfu_environment_variables",
+    "wordpress_file_upload_options",
+    "wfu_maintenance_options",
+    "wordpress_file_upload_last_idlog",
+    "wfu_params_*",
+    "wfu_gst_*",
+    "*_count",
+    "wfu_params_index",
+    "wordpress_file_upload_pd_policies"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wfu_daily_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "status",
+    "category",
+    "brief",
+    "action",
+    "last_update",
+    "WFU_Consent_Data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:46.724Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aiar_light_api_key",
+    "aiar_light_disable_ai",
+    "aiar_light_business_description",
+    "aiar_light_selected_form",
+    "aiar_light_conversation_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:37.878Z"
+}

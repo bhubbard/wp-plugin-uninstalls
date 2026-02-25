@@ -1,0 +1,17 @@
+{
+  "options": [
+    "page_sidebar_home_id",
+    "page_sidebar_widget_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_custom",
+    "add2sidebar",
+    "prepend_to_sidebar",
+    "use_sidebar_group"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:42.040Z"
+}

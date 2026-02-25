@@ -1,0 +1,20 @@
+{
+  "options": [
+    "onetap_options",
+    "autoSignIn",
+    "cancelOnTapOutside",
+    "excludedSingle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "description",
+    "onetap_profilepicture_url",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:57.004Z"
+}

@@ -1,0 +1,11 @@
+{
+  "options": [
+    "miqid_woo_save-for-later_auto_delete"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:16.881Z"
+}

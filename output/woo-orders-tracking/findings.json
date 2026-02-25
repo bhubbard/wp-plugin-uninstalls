@@ -1,0 +1,36 @@
+{
+  "options": [
+    "woo_orders_tracking_update_data_new_version_1.0.8",
+    "woo_orders_tracking_settings",
+    "woocommerce_feature_custom_order_tables_enabled",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_custom_orders_table_data_sync_enabled",
+    "vi_wot_send_mails_for_import_csv_function_orders",
+    "woocommerce_shop_page_id",
+    "vi_woo_orders_tracking_page_track_order",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "vi_wot_importer_file",
+    "villatheme_call",
+    "villatheme_ads",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called"
+  ],
+  "cron_jobs": [
+    "woo_orders_tracking_cron_update_tracking",
+    "vi_wot_importer_scheduled_cleanup",
+    "vi_wot_send_mails_for_import_csv_function",
+    "vi_wot_send_mail_tracking_code"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:08.259Z"
+}

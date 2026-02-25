@@ -1,0 +1,19 @@
+{
+  "options": [
+    "declarando_options",
+    "declarando_gestion_facturas_options"
+  ],
+  "transients": [
+    "settings_errors",
+    "declarando_gestion_facturas_update_data"
+  ],
+  "cron_jobs": [
+    "declarando_sync_orders",
+    "declarando_cleanup_logs",
+    "declarando_check_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:03.532Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_all_ctaw",
+    "_is_front_ctaw",
+    "_is_page_ctaw",
+    "_is_home_ctaw",
+    "_is_single_ctaw",
+    "_is_archive_ctaw",
+    "_is_author_ctaw",
+    "_is_404_ctaw",
+    "_is_search_ctaw",
+    "ctaw_impressions",
+    "ctaw_clicks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:49.892Z"
+}

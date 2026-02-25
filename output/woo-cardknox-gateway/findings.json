@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_cardknox_settings",
+    "woocommerce_force_ssl_checkout",
+    "wc_cardknox_version",
+    "woocommerce_cardknox-googlepay_settings",
+    "woocommerce_cardknox-applepay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cardknox_token",
+    "_cardknox_masked_card",
+    "_cardknox_cardtype",
+    "_cardknox_xrefnum",
+    "_cardknox_transaction_captured",
+    "_transaction_id",
+    "billing_email",
+    "_payment_method",
+    "Sola Payment ID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:42.710Z"
+}

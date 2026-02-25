@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "rib_lite_items_capped"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:33.913Z"
+}

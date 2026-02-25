@@ -1,0 +1,14 @@
+{
+  "options": [
+    "engagebay_lp_builder_domain",
+    "engagebay_lp_builder_rest_api",
+    "engagebay_lp_builder_email",
+    "engagebay_lp_builder_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:09.514Z"
+}

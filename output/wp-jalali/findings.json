@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ztjalali_do_activation",
+    "ztjalali_options",
+    "ztjalali_version",
+    "mps_jd_options_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:24.487Z"
+}

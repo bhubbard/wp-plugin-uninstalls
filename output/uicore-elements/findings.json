@@ -1,0 +1,23 @@
+{
+  "options": [
+    "uicore_elements_mailchimp_secret_key",
+    "uicore_elements_newsletter_service_key",
+    "uicore_elements_recaptcha_site_key",
+    "uicore_elements_recaptcha_secret_key",
+    "elementor_active_kit",
+    "uicore_connect",
+    "uicore_elements_installed",
+    "uicore_elements_version"
+  ],
+  "transients": [
+    "ui_elements_widgetdata_*",
+    "ui_e_form_widget_settings_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "page_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:09.992Z"
+}

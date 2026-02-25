@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wb_mc_custom_css",
+    "wb_mc_custom_js",
+    "wb_mc_deactivation_reason_*",
+    "wb_mc_deactivation_details_*",
+    "wb_mc_deactivation_email_*",
+    "wb_mc_deactivation_main_reason_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:49.404Z"
+}

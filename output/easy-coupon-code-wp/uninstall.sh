@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'npcc_activated_on'
+wp option delete 'npcc_deactivated_on'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_discount_in'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_discount_in'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_discount_in'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_discount_in'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_amt_per'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_amt_per'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_amt_per'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_amt_per'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_ccstart_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_ccstart_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_ccstart_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_ccstart_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_ccend_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_ccend_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_ccend_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_ccend_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_ccode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_ccode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_ccode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_ccode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'np_ccode__ccode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'np_ccode__ccode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'np_ccode__ccode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'np_ccode__ccode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'np_ccode__discount_in'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'np_ccode__discount_in'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'np_ccode__discount_in'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'np_ccode__discount_in'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'np_ccode__amt_per'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'np_ccode__amt_per'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'np_ccode__amt_per'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'np_ccode__amt_per'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'np_ccode__ccstart_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'np_ccode__ccstart_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'np_ccode__ccstart_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'np_ccode__ccstart_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'np_ccode__ccend_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'np_ccode__ccend_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'np_ccode__ccend_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'np_ccode__ccend_date'"

@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "tainacan_extra_viewmodes_plugin_notification_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:58.758Z"
+}

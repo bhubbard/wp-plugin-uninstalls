@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pinsavepinterest_pin_text",
+    "pinsavepinterest_button_bg_color",
+    "pinsavepinterest_font_color",
+    "pinsavepinterest_button_location",
+    "pinsavepinterest_autohide"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:39.087Z"
+}

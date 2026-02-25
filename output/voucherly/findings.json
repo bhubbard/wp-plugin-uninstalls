@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_voucherly_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "voucherly_finalize_orders_event",
+    "voucherly_update_payment_gateways_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:40.111Z"
+}

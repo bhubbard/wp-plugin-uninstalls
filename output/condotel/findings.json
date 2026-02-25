@@ -1,0 +1,18 @@
+{
+  "options": [
+    "condotel_total_units",
+    "condotel_max_stay",
+    "condotel_guest_tracking",
+    "condotel_notify_email",
+    "condotel_email_enabled",
+    "condotel_allow_unit_edit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Unit_Number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:52.719Z"
+}

@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('edd_ach_routing_number', 'edd_ach_account_number', 'edd_ach_account_number_verify', 'edd_ach_ssn', 'edd_ach_ach', 'edd-datax-account', 'selected-validation', 'save-bank-account-datax', 'save-bank-account-datax-new', 'save-bank-account-yodlee', 'edd-ach-email', 'edd-account', 'edd-account-number', 'edd-routing', 'edd-ach-uuid', 'edd_ach_error', 'edd_ach_location', 'datax-code');
+DELETE FROM wp_usermeta WHERE meta_key IN ('edd_ach_routing_number', 'edd_ach_account_number', 'edd_ach_account_number_verify', 'edd_ach_ssn', 'edd_ach_ach', 'edd-datax-account', 'selected-validation', 'save-bank-account-datax', 'save-bank-account-datax-new', 'save-bank-account-yodlee', 'edd-ach-email', 'edd-account', 'edd-account-number', 'edd-routing', 'edd-ach-uuid', 'edd_ach_error', 'edd_ach_location', 'datax-code');
+DELETE FROM wp_termmeta WHERE meta_key IN ('edd_ach_routing_number', 'edd_ach_account_number', 'edd_ach_account_number_verify', 'edd_ach_ssn', 'edd_ach_ach', 'edd-datax-account', 'selected-validation', 'save-bank-account-datax', 'save-bank-account-datax-new', 'save-bank-account-yodlee', 'edd-ach-email', 'edd-account', 'edd-account-number', 'edd-routing', 'edd-ach-uuid', 'edd_ach_error', 'edd_ach_location', 'datax-code');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('edd_ach_routing_number', 'edd_ach_account_number', 'edd_ach_account_number_verify', 'edd_ach_ssn', 'edd_ach_ach', 'edd-datax-account', 'selected-validation', 'save-bank-account-datax', 'save-bank-account-datax-new', 'save-bank-account-yodlee', 'edd-ach-email', 'edd-account', 'edd-account-number', 'edd-routing', 'edd-ach-uuid', 'edd_ach_error', 'edd_ach_location', 'datax-code');
+

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wsm_ignore_product_ids",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wsm_check_launch_sales_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wsm_status",
+    "_wsm_discount",
+    "_wsm_start",
+    "_wsm_end",
+    "_wsm_filters"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:26.173Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cookie_policy_link",
+    "cookie_accept_button_text",
+    "cookie_message",
+    "cookie_what_are_link_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:03.943Z"
+}

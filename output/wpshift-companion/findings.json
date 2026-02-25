@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wpshift_user",
+    "wpshift_api_token",
+    "wpshift_connected_at",
+    "wpshift_email_settings",
+    "wpshift_site_health_token",
+    "wpshift_companion_version"
+  ],
+  "transients": [
+    "wpshift_pending_import",
+    "wpshift_oauth_result",
+    "wpshift_import_error",
+    "wpshift_current_backup",
+    "wpshift_oauth_state",
+    "wpshift_connect_code",
+    "wpshift_site_status",
+    "wpshift_smtp_settings",
+    "wpshift_backup_state_*",
+    "wpshift_magic_login_error"
+  ],
+  "cron_jobs": [
+    "wpshift_process_backup_chunk"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:47.368Z"
+}

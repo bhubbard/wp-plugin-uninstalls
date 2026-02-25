@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ig_posts_carousel_option_name",
+    "ig_post_carousel_widget_img_width",
+    "ig_post_carousel_widget_img_heigth"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:27.175Z"
+}

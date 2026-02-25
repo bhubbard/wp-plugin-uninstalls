@@ -1,0 +1,16 @@
+{
+  "options": [
+    "justin_legal_hash",
+    "justin_legal_lawFirmName",
+    "justin_legal_emailAddress",
+    "justin_legal_hex",
+    "justin_legal_font",
+    "justin_legal_borderState"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:08.213Z"
+}

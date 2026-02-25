@@ -1,0 +1,37 @@
+{
+  "options": [
+    "login_page",
+    "register_page",
+    "link_page",
+    "logout_frontpage",
+    "bsauth_custom_button",
+    "bs_auth_hide_local",
+    "bs_auth_signup_user_url",
+    "bs_auth_signup_user_email",
+    "bs_auth_signup_display_name",
+    "bs_auth_signup_nickname",
+    "bs_auth_signup_first_name",
+    "bs_auth_signup_last_name",
+    "bs_auth_signup_description",
+    "bs_auth_signup_jabber",
+    "bs_auth_signup_aim",
+    "bs_auth_signup_yim",
+    "bsauth_oauth_debug",
+    "bsauth_oauth_debug_http",
+    "blaatlogin_page",
+    "bs_oauth_dbversion",
+    "bs_debug_updatedb",
+    "bs_oauth_dataversion",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:33.176Z"
+}

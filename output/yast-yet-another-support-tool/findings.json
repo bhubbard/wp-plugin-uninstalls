@@ -1,0 +1,22 @@
+{
+  "options": [
+    "yast_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "assigned",
+    "priority",
+    "page",
+    "navigator",
+    "reporter",
+    "visibility",
+    "remote",
+    "server_ticket",
+    "spent_time",
+    "token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:17.991Z"
+}

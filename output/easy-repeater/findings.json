@@ -1,0 +1,21 @@
+{
+  "options": [
+    "easy_post_meta_title",
+    "repeat_meta_post_type",
+    "repeat_main_number",
+    "repeat_meta_number",
+    "repeat_main_array_save",
+    "repeat_menu_name",
+    "repeat_main_name",
+    "repeat_menu_des"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reapeter_meta_key",
+    "reapeter_meta_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:06.644Z"
+}

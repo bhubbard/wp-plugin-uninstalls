@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('product_share_option', 'variation_price_display_option', 'variation_price_display_option_advanced', 'variation_price_display_license', 'vpd_price_types', 'vpd_from_before_min_price', 'vpd_up_to_before_max_price', 'vpd_custom_price_text', 'vpd_change_price', 'vpd_hide_default_price', 'vpd_hide_reset_link', 'vpd_format_sale_price', 'vpd_display_condition', 'vpd_display_variation_sku', 'vpd_display_discount_badge', 'vpd_disable_price_format_for_admin', 'vpd_license_key_text', 'wpx_notice_dismissed_date');
+

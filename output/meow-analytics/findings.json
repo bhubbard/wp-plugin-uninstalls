@@ -1,0 +1,33 @@
+{
+  "options": [
+    "mga_client_id",
+    "mga_client_secret",
+    "mga_access_token",
+    "mga_refresh_token",
+    "mga_tracking_id",
+    "mga_property_id",
+    "mga_tracking_ids",
+    "mga_disable_tracking",
+    "mga_track_logged_users",
+    "mga_track_power_users",
+    "meowapps_hide_ads",
+    "mga_expires_at",
+    "*_license",
+    "force_sslverify",
+    "*_pro_serial",
+    "meowapps_hide_meowapps",
+    "litespeed.conf.cache-rest",
+    "mwai_options",
+    "meowapps_news",
+    "*_rating_date"
+  ],
+  "transients": [
+    "mga_message",
+    "mga_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:04.218Z"
+}

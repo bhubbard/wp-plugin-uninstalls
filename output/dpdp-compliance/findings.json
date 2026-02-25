@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dpdp_settings",
+    "dpdp_policy_text",
+    "dpdp_total_consents"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dpdp_retention_purge"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:57.103Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "leadmahu_states"
+  ],
+  "transients": [
+    "leadmahu_captcha_*",
+    "leadmahu_captcha_nonce_*",
+    "leadmahu_last_submission_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_leadmahu_email",
+    "_leadmahu_phone",
+    "_leadmahu_company",
+    "_leadmahu_status",
+    "_leadmahu_observations",
+    "_form_fields",
+    "_recipient_email",
+    "_subject_client",
+    "_client_default_text",
+    "_custom_fields",
+    "_form_required_*",
+    "_form_required_name",
+    "_form_required_email",
+    "_form_required_message",
+    "_leadmahu_custom_*",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:01.418Z"
+}

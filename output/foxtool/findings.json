@@ -1,0 +1,37 @@
+{
+  "options": [
+    "foxtool_font_settings",
+    "foxtool_settings",
+    "woocommerce_currency",
+    "foxtool_ads_settings",
+    "*_size_w",
+    "foxtool_code_settings",
+    "foxtool_debug_settings",
+    "foxtool_extend_settings",
+    "foxtool_fontset_settings",
+    "foxtool_gindex_settings",
+    "foxtool_notify_settings",
+    "foxtool_redirects_settings",
+    "foxtool_search_settings",
+    "foxtool_shortcode_settings",
+    "foxtool_toc_settings"
+  ],
+  "transients": [
+    "foxtool_index_count"
+  ],
+  "cron_jobs": [
+    "wp_version_check",
+    "wp_update_languages",
+    "wp_update_themes",
+    "wp_update_plugins",
+    "wp_maybe_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "toc_status",
+    "foxtoolpic"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:35.887Z"
+}

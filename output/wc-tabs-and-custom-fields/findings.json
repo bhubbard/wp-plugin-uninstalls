@@ -1,0 +1,23 @@
+{
+  "options": [
+    "EWD_WCTCF_Custom_Fields",
+    "EWD_WCTCF_Use_Product",
+    "EWD_WCTCF_Custom_CSS",
+    "plugin_error",
+    "EWD_WCTCF_Full_Version",
+    "EWD_WCTCF_Install_Flag",
+    "EWD_WCTCF_Version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wctcf_tab_visbility",
+    "EWD_WCTCF_*",
+    "*_Toggle",
+    "EWD_WCTCF_Tab_Order",
+    "EWD_WCTCF_Tab_Callback"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:09.282Z"
+}

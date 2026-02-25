@@ -1,0 +1,14 @@
+{
+  "options": [
+    "impact_existing_user",
+    "impact_request_value",
+    "impact_settings_option_name",
+    "impact_integration_delete_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:29.585Z"
+}

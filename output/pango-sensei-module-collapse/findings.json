@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lesson_video_embed",
+    "_lesson_length",
+    "_attached_media",
+    "_quiz_has_questions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:32.272Z"
+}

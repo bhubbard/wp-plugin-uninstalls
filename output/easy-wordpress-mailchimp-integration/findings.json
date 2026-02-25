@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ewmi_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ewmi_subscribed_to_mailchimp",
+    "ewmi_mailchimp_list"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:43.344Z"
+}

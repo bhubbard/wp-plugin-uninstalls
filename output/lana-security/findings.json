@@ -1,0 +1,30 @@
+{
+  "options": [
+    "lana_security_encrypt_version",
+    "lana_security_insecure_files",
+    "lana_security_login_captcha",
+    "lana_security_register_captcha",
+    "lana_security_lostpassword_captcha",
+    "lana_security_logs",
+    "lana_security_logs_cleanup_by_amount",
+    "lana_security_logs_cleanup_amount",
+    "lana_security_logs_cleanup_by_time",
+    "lana_security_logs_cleanup_time",
+    "lana_security_login_logs",
+    "lana_security_login_logs_cleanup_by_amount",
+    "lana_security_login_logs_cleanup_amount",
+    "lana_security_login_logs_cleanup_by_time",
+    "lana_security_login_logs_cleanup_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lana_security_logs_cleanup_by_amount",
+    "lana_security_logs_cleanup_by_time",
+    "lana_security_login_logs_cleanup_by_amount",
+    "lana_security_login_logs_cleanup_by_time"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:19.336Z"
+}

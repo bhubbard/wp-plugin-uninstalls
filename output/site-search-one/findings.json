@@ -1,0 +1,30 @@
+{
+  "options": [
+    "site-search-one-premium-install-location",
+    "site-search-one-install-location"
+  ],
+  "transients": [
+    "ss1-endpoint-url",
+    "ss1-apiKey",
+    "ss1-disableLongRunningThreads",
+    "ss1-maximumBatchSize",
+    "ss1-queue-paused",
+    "ss1-searchform-override",
+    "ss1-globals-installed",
+    "ss1-indexes-installed",
+    "ss1-site-vars-installed",
+    "ss1-tokens-has-sites",
+    "ss1-search-pages-installed",
+    "ss1-active"
+  ],
+  "cron_jobs": [
+    "ss1_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "type",
+    "_ss1_noindex"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:48.066Z"
+}

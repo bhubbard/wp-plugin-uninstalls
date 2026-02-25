@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woosq_settings",
+    "woosq_localization",
+    "woocommerce_cart_redirect_after_add",
+    "woosq_*"
+  ],
+  "transients": [
+    "wpclever_plugins",
+    "woosq_get_product_meta_keys"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcvi_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:59.220Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "kuaza_wlops_css",
+    "wlops_konu_temasi",
+    "wlops_default_resimler_nasil_gorunsun",
+    "kuaza_wlops_loop_direk",
+    "kuaza_wlops_hide_cat",
+    "kuaza_wlops_hide_tag",
+    "kuaza_wlops_hide_upload",
+    "kuaza_wlops_guvenlik_public",
+    "kuaza_wlops_guvenlik_private",
+    "kuaza_wlops_guvenlik_tema",
+    "*_size_w",
+    "*_size_h",
+    "wlops_default_resimler_gosterilsinmi"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wlops",
+    "_wlops_konu_temasi",
+    "_wlops_resimler_nasil_gorunecek",
+    "_wlops_loop_direk",
+    "_wlops_link",
+    "_*",
+    "_wlops_views"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:43.992Z"
+}

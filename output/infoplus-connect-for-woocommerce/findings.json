@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wc_infoplus_order_source_id",
+    "wc_infoplus_wc_api_key_id",
+    "wc_infoplus_url",
+    "wc_infoplus_api_key",
+    "wc_infoplus_order_update_auto_complete",
+    "wc_infoplus_debug_mode",
+    "active_sitewide_plugins",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [
+    "wc_infoplus_configured"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_infoplus_status",
+    "_wc_infoplus_fulfillment",
+    "_wc_infoplus_orders",
+    "_api_version",
+    "*_dismissed_messages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:07.140Z"
+}

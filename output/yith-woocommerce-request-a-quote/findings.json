@@ -1,0 +1,53 @@
+{
+  "options": [
+    "ywraq_page_id",
+    "ywraq_hide_add_to_cart",
+    "ywraq_after_click_action",
+    "ywraq_show_button_near_add_to_cart",
+    "ywraq_show_btn_link",
+    "ywraq_hide_price",
+    "ywctm_exclude_price_alternative_text",
+    "_yith_ywraq_session_*",
+    "ywraq_show_btn_link_text",
+    "ywraq_add_to_quote_button_color",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "ywraq_activate_thank_you_page",
+    "ywraq_show_btn_single_page",
+    "ywraq_accept_link_label",
+    "ywraq_reject_link_label",
+    "yit_font_awesome_list",
+    "yit_dashicons_list",
+    "yit_plugin_fw_panel_wc_default_options_set",
+    "*_width",
+    "*_height",
+    "*_options",
+    "yit_recently_activated",
+    "yith_system_info",
+    "*-yith-attachment-id",
+    "woocommerce_email_footer_text",
+    "ywraq_add_privacy_checkbox",
+    "ywraq_privacy_description",
+    "ywraq_privacy_label",
+    "ywraq_show_sku",
+    "ywraq_show_update_list",
+    "ywraq_update_list_label",
+    "ywraq_page_list_layout_template"
+  ],
+  "transients": [
+    "yith-plugin-fw-latest-hc-articles",
+    "yith-plugin-fw-system-status-tls-version",
+    "yith-plugin-fw-system-status-output-ip",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "ywraq_clean_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "blog-cats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:44.624Z"
+}

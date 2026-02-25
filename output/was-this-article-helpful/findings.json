@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wthf_types",
+    "wthf_question_text",
+    "wthf_yes_text",
+    "wthf_no_text",
+    "wthf_thank_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wthf_yes",
+    "_wthf_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:18.518Z"
+}

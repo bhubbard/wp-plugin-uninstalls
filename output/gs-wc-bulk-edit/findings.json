@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dt_colums_settings",
+    "bs_filter_query",
+    "default_product_cat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:20.945Z"
+}

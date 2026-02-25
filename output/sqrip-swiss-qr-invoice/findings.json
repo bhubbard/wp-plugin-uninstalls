@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_sqrip_settings",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode"
+  ],
+  "transients": [
+    "sqrip_admin_action_errors"
+  ],
+  "cron_jobs": [
+    "sqrip_media_cleaner"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sqrip_qr_pdf_attachment_id",
+    "sqrip_pdf_file_url",
+    "sqrip_pdf_file_path",
+    "iban_num",
+    "sqrip_reference_id",
+    "sqrip_pdf_file",
+    "sqrip_png_file_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:49.112Z"
+}

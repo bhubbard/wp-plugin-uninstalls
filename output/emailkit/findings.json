@@ -1,0 +1,43 @@
+{
+  "options": [
+    "emailkit_installed",
+    "emailkit_version",
+    "shopengine-metform_get_free_templates_banner_dismissed_*",
+    "elements_kit_onboard_status",
+    "met_form_onboard_status",
+    "shopengine_onboard_status",
+    "emailkit_option__settings",
+    "woocommerce_currency_pos",
+    "woocommerce_cancelled_order_settings",
+    "woocommerce_failed_order_settings",
+    "woocommerce_new_order_settings",
+    "*__banner_data",
+    "*__banner_last_check",
+    "*_never_show",
+    "*_ask_me_later",
+    "*_install_date",
+    "*_first_action_Date",
+    "*_first_action",
+    "*_version",
+    "*__stories_data",
+    "*__stories_last_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "emailkit_template_content_object",
+    "emailkit_template_content_html",
+    "emailkit_template_type",
+    "emailkit_template_status",
+    "emailkit_email_subject",
+    "emailkit_email_preheader",
+    "emailkit_template_initial_content_object",
+    "emailkit_template_id",
+    "emailkit_email_type",
+    "emailkit_form_id",
+    "emailkit_template_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:21.557Z"
+}

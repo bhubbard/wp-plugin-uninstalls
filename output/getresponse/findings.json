@@ -1,0 +1,33 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "fca_eoi_settings",
+    "paf",
+    "fca_eoi_license_key",
+    "fca_eoi_allow_customform",
+    "fca_eoi_last_provider",
+    "fca_eoi_last_form_meta",
+    "fca_eoi_dismiss_review",
+    "fca_eoi_license_status",
+    "fca_eoi_subscribers_table_ver",
+    "fca_eoi_comment_optin_settings",
+    "fca_eoi_comment_optin_post",
+    "easy_opt_in_settings"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fca_eoi",
+    "fca_eoi_animation",
+    "fca_eoi_meta_format",
+    "fca_eoi_head",
+    "fca_eoi_layout",
+    "fca_eoi_provider"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:13.490Z"
+}

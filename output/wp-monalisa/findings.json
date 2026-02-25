@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpml-opts",
+    "wpml-linesperpage",
+    "wpml_excludes",
+    "wpml_use_smilies_backup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:22.858Z"
+}

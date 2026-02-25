@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tlwpvg_m2m_id",
+    "tlwpvg_m2m_key",
+    "auto_update_core",
+    "auto_update_plugins",
+    "auto_update_themes",
+    "tlwpvg_last_sync_date"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "TLWPVG_send_installation_info"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:47.855Z"
+}

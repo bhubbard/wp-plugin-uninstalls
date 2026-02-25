@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sll_db_ver",
+    "users_page_login_log_per_page",
+    "simple_login_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "truncate_sll",
+    "truncate_log",
+    "SimpleLoginLog::truncate_log"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:47.262Z"
+}

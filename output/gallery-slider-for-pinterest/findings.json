@@ -1,0 +1,17 @@
+{
+  "options": [
+    "WRIS_Settings",
+    "uris_updated_slider_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ris_all_photos_details",
+    "WRIS_Gallery_Settings_*",
+    "_wp_attachment_image_alt",
+    "gspint_metabox_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:55.685Z"
+}

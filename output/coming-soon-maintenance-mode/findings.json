@@ -1,0 +1,19 @@
+{
+  "options": [
+    "csmm_current_version",
+    "csmm_last_version",
+    "csmm_settings",
+    "csmm_templates",
+    "csmm_content",
+    "csmm_social_media",
+    "csmm_more"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_custom_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:37.651Z"
+}

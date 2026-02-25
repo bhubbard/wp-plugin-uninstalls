@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sform_recaptcha_version",
+    "sform_*",
+    "sform_settings",
+    "sform_attributes",
+    "*_settings",
+    "*_attributes"
+  ],
+  "transients": [
+    "sform_version_alert"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:29.583Z"
+}

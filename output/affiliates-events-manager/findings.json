@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dbem_rsvp_enabled",
+    "dbem_bookings_currency",
+    "aff_default_referral_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:37.043Z"
+}

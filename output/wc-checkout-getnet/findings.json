@@ -1,0 +1,23 @@
+{
+  "options": [
+    "getnet_admin_warning",
+    "woocommerce_getnet-billet_settings",
+    "woocommerce_getnet-creditcard_settings",
+    "woocommerce_getnet-pix_settings",
+    "wc_getnet_settings_environment",
+    "_policy_privacy_accept",
+    "_policy_privacy_accept_date",
+    "privacy_policy_information_displayed",
+    "*_information_displayed"
+  ],
+  "transients": [
+    "getnet_api_warning_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:46.490Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tlap_add_analytics_option_main",
+    "tlap_add_analytics_option_counters",
+    "tlap_add_analytics_option_metrica",
+    "tlap_add_analytics_option_speedup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:21.354Z"
+}

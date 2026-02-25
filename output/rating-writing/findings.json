@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_t_key_01",
+    "_t_key_02",
+    "_t_key_03",
+    "_t_key_04",
+    "_t_key_05",
+    "_key_01",
+    "_key_02",
+    "_key_03",
+    "_key_04",
+    "_key_05",
+    "_t_t_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:08.540Z"
+}

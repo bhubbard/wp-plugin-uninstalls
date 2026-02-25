@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pp_lite_activation_date"
+  ],
+  "transients": [
+    "bb-powerpack-lite-admin-notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pp_lite_review_dismiss"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:34.420Z"
+}

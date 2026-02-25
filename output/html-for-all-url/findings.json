@@ -1,0 +1,12 @@
+{
+  "options": [
+    "old_permalink_structure",
+    "hfa_selected_post_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:43.560Z"
+}

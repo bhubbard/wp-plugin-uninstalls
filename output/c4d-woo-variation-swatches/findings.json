@@ -1,0 +1,20 @@
+{
+  "options": [
+    "recently_activated",
+    "c4d_woo_vs_attributes"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "c4d_woo_vs_product_image_gallery_images",
+    "tgmpa_dismissed_notice_*",
+    "c4d_woo_vs",
+    "c4d_woo_vs_product_image_gallery_tax",
+    "c4d_woo_vs_product_image_gallery_values"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:36.460Z"
+}

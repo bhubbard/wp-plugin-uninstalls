@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wbvcbaic_custom_css",
+    "wbvcbaic_custom_js",
+    "vcbaic_deactivation_reason_*",
+    "vcbaic_deactivation_details_*",
+    "vcbaic_deactivation_email_*",
+    "vcbaic_deactivation_main_reason_*"
+  ],
+  "transients": [
+    "wb_vc_baic_review_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:15.016Z"
+}

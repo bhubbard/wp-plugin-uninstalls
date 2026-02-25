@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_css",
+    "awsm_social",
+    "awsm-team-designation",
+    "awsm-team-short-desc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:55.339Z"
+}

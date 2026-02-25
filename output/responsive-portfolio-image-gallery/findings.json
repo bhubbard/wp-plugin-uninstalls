@@ -1,0 +1,24 @@
+{
+  "options": [
+    "rpgal_global_options",
+    "rpgal_spare_me",
+    "rpgal_a08n_time",
+    "rpgal_custom_css",
+    "rpgal_plugin_version",
+    "rcpig_general",
+    "rcpig_advanced",
+    "rcpig_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_button_text",
+    "_button_link",
+    "_button_ntab",
+    "_*",
+    "_multi_img_array"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:41.563Z"
+}

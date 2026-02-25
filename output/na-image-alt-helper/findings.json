@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aatg_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_aatg_previous_alt",
+    "_aatg_generated_alt",
+    "_sku",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_focuskw_text_input",
+    "rank_math_focus_keyword"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:09.653Z"
+}

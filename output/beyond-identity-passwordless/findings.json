@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_transient_beyond-identity-passwordless--*"
+  ],
+  "transients": [
+    "beyond-identity-passwordless-state--*",
+    "beyond-identity-passwordless--*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "beyond-identity-passwordless-last-token-response",
+    "beyond_identity_user_id",
+    "beyond-identity-passwordless-last-id-token-claim",
+    "beyond-identity-passwordless-last-user-claim",
+    "beyond-identity-passwordless-subject-identity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:11.152Z"
+}

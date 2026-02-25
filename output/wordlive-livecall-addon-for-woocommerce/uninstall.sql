@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wordlive_howtojoinpage_slug', 'save_settings', 'wordlive_enable_shop_page_btn', 'wordlive_button_loc_shop_page', 'wordlive_enable_product_details_page_btn', 'wordlive_button_loc_product_details_page', 'wordlive_guestlogin_enable', 'wordlive_loginpage_slug', 'wordlive_livecall_slug', 'wordlive_livecall_btn_text', 'wordlive_livecall_btn_width', 'wordlive_livecall_btn_height', 'wordlive_livecall_btn_margin_type', 'wordlive_livecall_btn_margin_top', 'wordlive_livecall_btn_margin_right', 'wordlive_livecall_btn_margin_bottom', 'wordlive_livecall_btn_margin_left', 'wordlive_livecall_btn_padding_type', 'wordlive_livecall_btn_padding_top', 'wordlive_livecall_btn_padding_right', 'wordlive_livecall_btn_padding_bottom', 'wordlive_livecall_btn_padding_left', 'wordlive_livecall_btn_textalign', 'wordlive_livecall_btn_font_size', 'wordlive_livecall_btn_fontfamily', 'wordlive_livecall_btn_text_color', 'wordlive_livecall_btn_border_width', 'wordlive_livecall_btn_border_color', 'wordlive_livecall_btn_border_radius', 'wordlive_livecall_btn_bg_color', 'wordlive_livecall_btn_font_size_hover', 'wordlive_livecall_btn_text_color_hover', 'wordlive_livecall_btn_border_width_hover', 'wordlive_livecall_btn_border_color_hover', 'wordlive_livecall_btn_border_radius_hover', 'wordlive_livecall_btn_bg_color_hover', 'wordlive_seller_email_subject', 'wordlive_seller_email_temp', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_active_plugins', 'fs_storage_logger', 'fs_snooze_period', 'update_plugins', 'update_themes', '_fs_api_connection_retry_counter');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('dokan_profile_settings', '_wp_page_template');
+DELETE FROM wp_usermeta WHERE meta_key IN ('dokan_profile_settings', '_wp_page_template');
+DELETE FROM wp_termmeta WHERE meta_key IN ('dokan_profile_settings', '_wp_page_template');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('dokan_profile_settings', '_wp_page_template');
+

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "bank_mellat_settings_fields_arrays",
+    "bank_mellat_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:34.332Z"
+}

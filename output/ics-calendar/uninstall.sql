@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('r34ics_version', 'r34ics_admin_access', 'r34ics_deferred_admin_notices', 'r34ics_paused', 'r34ics_previous_version', 'r34ics_display_calendar_memory_limit', 'r34ics_transients_expiration', 'r34ics_colors_match_theme_json', 'r34ics_colors_darkmode', 'r34ics_allowed_hosts', 'r34ics_register_customizer', 'r34ics_locale', 'r34ics_display_add_calendar_button_false', 'r34ics_use_new_defaults_10_6', 'r34ics_default_shortcode', 'r34ics_transient_expiration', 'r34ics_url_get_contents_legacy_method', 'r34ics_ajax_by_default', 'r34ics_allowed_ports', 'r34ics_load_css_js_on_wp_enqueue_scripts', 'r34ics_feed_urls_permanent', 'r34ics_pre_wp53_deprecated', 'r34ics_i18n_locales', 'r34ics_feed_urls', 'r34ics_refreshed', 'r34ics_activation_redirect', 'r34ics_ajax_bypass_nonce', 'r34ics_admin_first_run', 'r34ics_rate_limited');
+

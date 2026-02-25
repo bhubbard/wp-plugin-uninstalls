@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_transient__mailster_send_period_timeout",
+    "_transient__mailster_send_period"
+  ],
+  "transients": [
+    "mailster_check_bounces_lock",
+    "_mailster_sendgrid_last_bounce_check"
+  ],
+  "cron_jobs": [
+    "mailster_sendgrid_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:47.619Z"
+}

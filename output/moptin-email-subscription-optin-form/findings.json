@@ -1,0 +1,31 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cookie",
+    "subheading",
+    "bg_color",
+    "bg_color_opacity",
+    "text_color",
+    "btn_color",
+    "input_bg_color",
+    "input_color",
+    "placeholder_color",
+    "btn_text_color",
+    "img_size",
+    "img_align",
+    "form",
+    "boxed",
+    "imgC_width",
+    "conC_width",
+    "type",
+    "input__border_radius__width",
+    "input__border_width",
+    "input__border_color",
+    "display_condition"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:01.030Z"
+}

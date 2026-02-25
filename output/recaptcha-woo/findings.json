@@ -1,0 +1,26 @@
+{
+  "options": [
+    "rcfwc_key",
+    "rcfwc_secret",
+    "rcfwc_theme",
+    "rcfwc_login",
+    "rcfwc_register",
+    "rcfwc_reset",
+    "rcfwc_woo_checkout",
+    "rcfwc_guest_only",
+    "rcfwc_woo_login",
+    "rcfwc_woo_register",
+    "rcfwc_woo_reset",
+    "rcfwc_selected_payment_methods",
+    "rcfwc_woo_checkout_pos",
+    "rcfwc_scripts_all",
+    "rcfwc_tested",
+    "rcfwc_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:28.876Z"
+}

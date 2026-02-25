@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ultimus_currency_rates",
+    "alister_property_dictionary"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "alister_source_link",
+    "source",
+    "ali_image",
+    "endpoint_args",
+    "ignore_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:26.828Z"
+}

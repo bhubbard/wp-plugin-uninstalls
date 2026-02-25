@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "woocommerce_myaccount_page_id",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_update_failing_payment_method_called",
+    "_your_gateway_customer_token_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:11.580Z"
+}

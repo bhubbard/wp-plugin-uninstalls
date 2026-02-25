@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sce_mailchimp_lists",
+    "wordpress_api_key",
+    "sce_options",
+    "ajax-edit-comments_security_key_count",
+    "comment-edit-lite-activate"
+  ],
+  "transients": [
+    "sce_security_keys",
+    "sce_timer_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sce",
+    "sce_mailchimp_id",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:18.388Z"
+}

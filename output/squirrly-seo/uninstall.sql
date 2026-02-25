@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('active_sitewide_plugins', 'trp_settings', 'wpseo_social', 'wpseo_titles', 'wpseo', 'aioseo_options', 'rank-math-options-general', 'rank-math-options-titles', 'autodescription-site-settings', '_psp_options', 'seopress_social_option_name', 'seopress_google_analytics_option_name', 'wpseo_taxonomy_meta', 'seopress_titles_option_name', 'sq_indexnow_log', 'woocommerce_tax_display_shop', 'sq_checkin', 'sq_stats', 'sq_briefcase_stats', 'sq_activate', 'sq_import', 'sq_auditpage_all', 'sq_innerlinks_suggestion', 'update_plugins');
+DELETE FROM wp_options WHERE option_name LIKE 'sq_auditpage_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_sq_image_downloaded', '_sq_sla', '_sq_keywords', 'sq_keyword', '_sq_old_slug', 'ct_oxygenberg_full_page_block', 'ct_builder_shortcodes', '_sq_woocommerce', 'description', 'rank_math_focus_keyword', '_yoast_wpseo_focuskw', '_aioseo_keywords', '_seopress_analysis_target_kw', '_sq_video', '_sq_title', '_sq_description', '_sq_jsonld_custom', '_sq_jsonld_builder', 'rating', '_sq_pixel_custom');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_sq_image_downloaded', '_sq_sla', '_sq_keywords', 'sq_keyword', '_sq_old_slug', 'ct_oxygenberg_full_page_block', 'ct_builder_shortcodes', '_sq_woocommerce', 'description', 'rank_math_focus_keyword', '_yoast_wpseo_focuskw', '_aioseo_keywords', '_seopress_analysis_target_kw', '_sq_video', '_sq_title', '_sq_description', '_sq_jsonld_custom', '_sq_jsonld_builder', 'rating', '_sq_pixel_custom');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_sq_image_downloaded', '_sq_sla', '_sq_keywords', 'sq_keyword', '_sq_old_slug', 'ct_oxygenberg_full_page_block', 'ct_builder_shortcodes', '_sq_woocommerce', 'description', 'rank_math_focus_keyword', '_yoast_wpseo_focuskw', '_aioseo_keywords', '_seopress_analysis_target_kw', '_sq_video', '_sq_title', '_sq_description', '_sq_jsonld_custom', '_sq_jsonld_builder', 'rating', '_sq_pixel_custom');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_sq_image_downloaded', '_sq_sla', '_sq_keywords', 'sq_keyword', '_sq_old_slug', 'ct_oxygenberg_full_page_block', 'ct_builder_shortcodes', '_sq_woocommerce', 'description', 'rank_math_focus_keyword', '_yoast_wpseo_focuskw', '_aioseo_keywords', '_seopress_analysis_target_kw', '_sq_video', '_sq_title', '_sq_description', '_sq_jsonld_custom', '_sq_jsonld_builder', 'rating', '_sq_pixel_custom');
+

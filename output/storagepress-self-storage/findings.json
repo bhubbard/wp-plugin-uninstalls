@@ -1,0 +1,30 @@
+{
+  "options": [
+    "storagepress_name",
+    "storagepress_address",
+    "storagepress_phone",
+    "storagepress_email",
+    "storagepress_rental_terms",
+    "storagepress_checks_payable_to",
+    "storagepress_listing_page",
+    "storagepress_display_credit_link",
+    "storagepress_feature_options",
+    "storagepress_default_thumbnail_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "stpr_length",
+    "stpr_unit",
+    "stpr_width",
+    "stpr_price",
+    "stpr_tenant",
+    "stpr_features",
+    "stpr_reservation_inquirer",
+    "stpr_last_rental_date",
+    "stpr_last_vacant_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:14.553Z"
+}

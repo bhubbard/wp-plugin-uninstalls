@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*-media",
+    "*-text",
+    "*-blockquote",
+    "*-citation",
+    "*-parent",
+    "*-save-publish",
+    "*-save-draft",
+    "press-this-extended-legacy",
+    "press-this-extended-media",
+    "press-this-extended-text",
+    "press-this-extended-citation",
+    "press-this-extended-editor",
+    "press-this-extended-blockquote",
+    "press-this-extended-parent",
+    "press-this-extended-save-publish",
+    "press-this-extended-save-draft"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:18.570Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_wc_gerencianet_assinaturas_boleto_settings",
+    "woocommerce_wc_gerencianet_assinaturas_cartao_settings",
+    "woocommerce_wc_gerencianet_assinaturas_pix_settings",
+    "woocommerce_currency",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gn_billing_neighborhood",
+    "gn_billing_number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:56.078Z"
+}

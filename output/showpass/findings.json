@@ -1,0 +1,22 @@
+{
+  "options": [
+    "option_use_showpass_beta",
+    "option_use_showpass_demo",
+    "option_showpass_access_token",
+    "option_organization_id",
+    "option_widget_color",
+    "option_showpass_default_button_class",
+    "option_keep_shopping",
+    "option_show_widget_description",
+    "option_disable_verify_ssl",
+    "format_date",
+    "format_time",
+    "option_theme_dark"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:37.883Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "dplr_version",
+    "dplr_settings",
+    "dplrwoo_api_connected",
+    "dplrwoo_last_synch",
+    "dplr_subscribers_list",
+    "dplrwoo_mapping",
+    "dplrwoo_version",
+    "dplr_wc_consent_text",
+    "dplr_wc_consent_location",
+    "dplr_wc_open_graph_meta",
+    "dplr_wc_consent"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dplrwoo_cron_job",
+    "dplrwoo_cron_clean_views",
+    "dplrwoo_synch_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:42.773Z"
+}

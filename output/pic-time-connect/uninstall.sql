@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ptbsb_sitemap_cache_time', 'ptbsb_rewrite_rules_version', 'ptbsb_selective_gallery_mode', 'ptbsb_wp_sitemap_integration', 'ptbsb_debug_logging', 'ptbsb_seo_integration_mode', 'ptbsb_force_add_robots_txt', 'ptbsb_disable_robots_txt', 'ptbsb_seo_integration_result', 'ptbsb_seo_integration_timestamp', 'ptbsb_sitemap_cache_stale', 'ptbsb_robots_cleanup_needed', 'ptbsb_log_files_migrated', 'ptbsb_seo_conflict_handled', 'ptbsb_seo_plugins_hash', 'ptbsb_last_sitemap_generation', 'ptbsb_update_cache_buster', 'ptbsb_use_dummy_data', 'ptbsb_sitemap_metadata', 'ptbsb_seo_conflict_notice', 'ptbsb_scan_success', 'ptbsb_sitemap_cache', 'robots_txt', 'wp_robots_txt', 'ptbsb_update_check', 'ptbsb_reset_success', 'ptbsb_seo_integration_result', 'ptbsb_settings_updated', 'ptbsb_robots_verification_scheduled', 'ptbsb_robots_write_failed', 'ptbsb_scan_partial', 'ptbsb_scan_failed', 'ptbsb_robots_analysis', 'ptbsb_robots_platform_restriction', 'ptbsb_robots_notice_dismissed', 'ptbsb_seopress_test_result', 'ptbsb_scan_queue', 'ptbsb_scan_progress', 'ptbsb_sitemap_regenerating', 'ptbsb_robots_physical_check_done', 'ptbsb_seo_check_cache', 'ptbsb_needs_flush', 'ptbsb_update_available');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_ptbsb_last_scanned', '_ptbsb_last_scan_image_count', '_ptbsb_scan_status', '_ptbsb_gallery_ids', '_ptbsb_cached_images');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_ptbsb_last_scanned', '_ptbsb_last_scan_image_count', '_ptbsb_scan_status', '_ptbsb_gallery_ids', '_ptbsb_cached_images');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_ptbsb_last_scanned', '_ptbsb_last_scan_image_count', '_ptbsb_scan_status', '_ptbsb_gallery_ids', '_ptbsb_cached_images');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_ptbsb_last_scanned', '_ptbsb_last_scan_image_count', '_ptbsb_scan_status', '_ptbsb_gallery_ids', '_ptbsb_cached_images');
+

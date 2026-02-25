@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aarambha_kits_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_term_image",
+    "_term_bg_color",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:14.860Z"
+}

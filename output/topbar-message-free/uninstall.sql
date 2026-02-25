@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('tbm_free_check', 'tbm_free_message', 'tbm_free_bg_color', 'tbm_free_message_text_color', 'tbm_free_message_text_size', 'tbm_free_message_text_link', 'tbm_free_height', 'tbm_free_button_check', 'tbm_free_button_text', 'tbm_free_button_color', 'tbm_free_button_text_color', 'tbm_free_topbar_statement', 'tbm_free_button_link', 'tbm_free_button_text_size', 'tbm_free_button_border', 'tbm_free_removible_check', 'tbm_free_remove_button_color');
+

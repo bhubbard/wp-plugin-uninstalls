@@ -1,0 +1,16 @@
+{
+  "options": [
+    "loco_settings"
+  ],
+  "transients": [
+    "update_plugins",
+    "theme_roots"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "loco_prefs"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:26:35.673Z"
+}

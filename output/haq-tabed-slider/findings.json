@@ -1,0 +1,14 @@
+{
+  "options": [
+    "HAQTS_default_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "haqts_total_slide_details",
+    "haqts_total_images_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:00.575Z"
+}

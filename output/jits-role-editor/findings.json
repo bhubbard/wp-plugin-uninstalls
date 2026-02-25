@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "roles_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:29.965Z"
+}

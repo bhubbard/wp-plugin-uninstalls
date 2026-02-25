@@ -1,0 +1,17 @@
+{
+  "options": [
+    "IR_TextLength",
+    "IR_SameTime",
+    "IR_Height",
+    "IR_type",
+    "IR_random",
+    "IR_pluginversion",
+    "IR_Title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:27.393Z"
+}

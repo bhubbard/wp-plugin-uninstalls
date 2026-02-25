@@ -1,0 +1,14 @@
+{
+  "options": [
+    "signcoap_p2s_key",
+    "signcoap_base_url",
+    "signcoap_events",
+    "signcoap_pii_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:56.446Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "trustlocal_widgets_api_key",
+    "trustlocal_widgets_country_code",
+    "trustlocal_widgets_data_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:44.968Z"
+}

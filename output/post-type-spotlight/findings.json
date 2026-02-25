@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pts_featured_post_types_settings",
+    "pts_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pts_featured_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:50.945Z"
+}

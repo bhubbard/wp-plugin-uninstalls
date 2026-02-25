@@ -1,0 +1,33 @@
+{
+  "options": [
+    "woocommerce_permalinks",
+    "speedsearch-updating",
+    "speedsearch-activation-handled",
+    "speedsearch-user-data-that-activated-the-plugin",
+    "speedsearch-post-activation-handled",
+    "speedsearch-synced",
+    "speedsearch-store-was-authorised",
+    "speedsearch-setting-debug-mode-products",
+    "speedsearch-last-plugin-error",
+    "speedsearch__license_status",
+    "speedsearch__license_key",
+    "woocommerce_hide_out_of_stock_items"
+  ],
+  "transients": [
+    "speedsearch_store_authorized",
+    "speedsearch-shop-pages-count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "speedsearch-swatch-image",
+    "_wp_attachment_image_alt",
+    "display_type",
+    "order",
+    "thumbnail_id",
+    "speedsearch_product_last_modified_time",
+    "speedsearch-add-to-feed-buffer-last-time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:47.375Z"
+}

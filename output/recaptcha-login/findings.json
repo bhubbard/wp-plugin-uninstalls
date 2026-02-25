@@ -1,0 +1,22 @@
+{
+  "options": [
+    "recaptchalogin_public_key",
+    "recaptchalogin_private_key",
+    "recaptchalogin_welcome_heading",
+    "recaptchalogin_avatar",
+    "recaptchalogin_logged_in_links",
+    "recaptchalogin_logout_redirect",
+    "recaptchalogin_heading",
+    "recaptchalogin_login_redirect",
+    "recaptchalogin_register_link",
+    "recaptchalogin_forgotton_link",
+    "recaptchalogin_color",
+    "recaptcha_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:54.625Z"
+}

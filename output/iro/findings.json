@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fg_color",
+    "bg_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:28.808Z"
+}

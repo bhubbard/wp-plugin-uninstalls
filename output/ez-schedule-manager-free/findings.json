@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ezscm_debug_mode",
+    "ezscm_required_text",
+    "ezscm_uninstall_keep_data",
+    "ezscm_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:19.787Z"
+}

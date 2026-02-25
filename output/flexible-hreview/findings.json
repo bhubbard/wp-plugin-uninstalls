@@ -1,0 +1,28 @@
+{
+  "options": [
+    "fhr_categories",
+    "fhr_rating_max",
+    "fhr_use_average",
+    "fhr_use_average_label",
+    "fhr_use_average_text",
+    "fhr_before_rating_text",
+    "fhr_after_rating_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hreview_summary",
+    "hreview_type",
+    "hreview_item",
+    "restaurant_name",
+    "hreview_item_url",
+    "restaurant_url",
+    "hreview_rating_max",
+    "*_commentary",
+    "review_summary",
+    "*_max"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:52.504Z"
+}

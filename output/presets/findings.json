@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cmb_empty_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "preset_actions_repeat_group",
+    "*notes",
+    "_wp_page_template",
+    "test_test",
+    "rest_test",
+    "*_id",
+    "field_test_field",
+    "test_value_input_empty",
+    "test_value_input_empty_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:45.328Z"
+}

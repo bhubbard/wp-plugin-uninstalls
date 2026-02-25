@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fwebmanifest_description",
+    "fwebmanifest_start_url",
+    "fwebmanifest_display",
+    "fwebmanifest_orientation",
+    "fwebmanifest_name",
+    "fwebmanifest_short_name",
+    "fwebmanifest_lang",
+    "fwebmanifest_dir",
+    "fwebmanifest_bgcolor",
+    "fwebmanifest_themecolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:37.512Z"
+}

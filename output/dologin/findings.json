@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dologin.*",
+    "dologin_test"
+  ],
+  "transients": [
+    "dologin_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "phone_number",
+    "2fa"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:55.164Z"
+}

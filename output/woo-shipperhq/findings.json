@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_shipperhq_settings",
+    "shipperhq_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "listing_status",
+    "listing_id",
+    "must_ship_freight",
+    "freight_class",
+    "shipperhq_warehouse",
+    "shipperhq_shipping_group",
+    "shipperhq_dim_group",
+    "ship_separately",
+    "shipperhq_hs_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:12.378Z"
+}

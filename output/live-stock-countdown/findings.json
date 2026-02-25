@@ -1,0 +1,11 @@
+{
+  "options": [
+    "woo_live_stock_threshold"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:44.433Z"
+}

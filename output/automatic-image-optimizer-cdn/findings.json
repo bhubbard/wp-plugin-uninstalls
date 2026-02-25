@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpio_api_key",
+    "wpio_site_id",
+    "wpio_cdn_url",
+    "wpio_status",
+    "wpio_registered_domain",
+    "wpio_cache_version"
+  ],
+  "transients": [
+    "wpio_activation_redirect",
+    "wpio_usage_info"
+  ],
+  "cron_jobs": [
+    "wpio_daily_status_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpio_dismissed_*",
+    "wpio_dismissed_limit_reached",
+    "wpio_dismissed_limit_warning"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:43.916Z"
+}

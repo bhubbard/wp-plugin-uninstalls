@@ -1,0 +1,15 @@
+{
+  "options": [
+    "growify_api_key",
+    "growify_enable_admin_tracking",
+    "growify_api_version"
+  ],
+  "transients": [
+    "growify_ai_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:38.292Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cme-display-activation-message",
+    "default_*",
+    "category-metabox-enhanced_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:16.308Z"
+}

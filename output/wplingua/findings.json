@@ -1,0 +1,49 @@
+{
+  "options": [
+    "wplng_custom_css",
+    "wplng_excluded_url",
+    "wplng_excluded_selectors",
+    "wplng_request_free_key",
+    "wplng_api_key_data",
+    "wplng_api_key",
+    "wplng_website_language",
+    "wplng_target_languages",
+    "wplng_flags_style",
+    "wplng_sitemap_xml",
+    "wplng_hreflang",
+    "wplng_translate_search",
+    "wplng_sitemap_xsl_override",
+    "wplng_load_in_progress",
+    "wplng_browser_language_redirect",
+    "wplng_website_flag",
+    "wplng_insert",
+    "wplng_theme",
+    "wplng_style",
+    "wplng_name_format",
+    "wplng_dictionary_entries",
+    "wplng_link_media_entries",
+    "wplng_api_overloaded",
+    "wplng_hb_last_update",
+    "wplng_version"
+  ],
+  "transients": [
+    "wplng_api_key_error",
+    "wplng_cached_translations",
+    "wplng_cached_slugs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wplng_slug_translations",
+    "wplng_translation_translations",
+    "wplng_slug_original",
+    "wplng_slug_md5",
+    "wplng_slug_original_language_id",
+    "wplng_translation_discovery_url",
+    "wplng_translation_original_language_id",
+    "wplng_translation_md5",
+    "wplng_translation_original"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:14.397Z"
+}

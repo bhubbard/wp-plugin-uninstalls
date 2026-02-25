@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wapt_premium_status",
+    "wapt_license_status",
+    "wapt_last_checked",
+    "wapt_license_key",
+    "wapt_license_message",
+    "wapt_license_expires",
+    "wapt_alt_title_locations",
+    "wapt_gemini_api_key"
+  ],
+  "transients": [
+    "wapt_is_licensed"
+  ],
+  "cron_jobs": [
+    "wapt_check_license_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "alternative_title",
+    "disable_alt_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:41.419Z"
+}

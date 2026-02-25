@@ -1,0 +1,25 @@
+{
+  "options": [
+    "osn_twilio_sid",
+    "osn_twilio_token",
+    "osn_plivo_auth",
+    "osn_plivo_token",
+    "osn_plivo_number",
+    "osn_twilio_number",
+    "active_sitewide_plugins",
+    "osn_admin_notification_status",
+    "osn_customer_notification_status",
+    "osn_admin_notification_text",
+    "osn_service",
+    "osn_admin_phone",
+    "osn_customer_notification_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:30.422Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "simplemaps_first_map_id",
+    "sm_settings",
+    "simplemaps_mapdata_url",
+    "simplemaps_mapfile_url",
+    "simplemaps_legacy_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_map_file_url",
+    "_map_data_url",
+    "_is_protected"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:16.686Z"
+}

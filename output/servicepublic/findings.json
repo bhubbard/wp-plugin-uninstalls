@@ -1,0 +1,15 @@
+{
+  "options": [
+    "SPP_CRON"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sp_rubrique"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:05.477Z"
+}

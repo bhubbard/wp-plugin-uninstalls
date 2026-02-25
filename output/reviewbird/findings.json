@@ -1,0 +1,24 @@
+{
+  "options": [
+    "reviewbird_*",
+    "reviewbird_store_id",
+    "reviewbird_store_status",
+    "reviewbird_enable_widget",
+    "reviewbird_enable_schema",
+    "reviewbird_force_reviews_open"
+  ],
+  "transients": [
+    "reviewbird_oauth_error",
+    "reviewbird_oauth_success",
+    "reviewbird_star_color"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_reviewbird_avg_stars",
+    "_reviewbird_reviews_count",
+    "_reviewbird_rating_counts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:08.818Z"
+}

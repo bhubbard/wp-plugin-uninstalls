@@ -1,0 +1,13 @@
+{
+  "options": [
+    "r3df_dashboard_language_switcher"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "r3df_dashboard_language"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:58.873Z"
+}

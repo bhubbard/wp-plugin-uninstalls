@@ -1,0 +1,35 @@
+{
+  "options": [
+    "bup_options",
+    "ultimatecaptcha_options",
+    "ultimatecaptcha_profile_fields",
+    "ultimatecaptcha_c_key",
+    "ultimatecaptcha_pro_active",
+    "ultimatecaptcha_ini_setup",
+    "ultimatecaptcha_my_account_page",
+    "ultimatecaptcharoaw_aweber_list",
+    "ucaptcha_plugin_do_activation_redirect",
+    "ucaptcha_ini_setup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_pic",
+    "user_profile_bg",
+    "bup_description",
+    "bup_summary",
+    "country",
+    "city",
+    "address",
+    "bup_mailchimp",
+    "ultimatecaptcha_user_registered_ip",
+    "last_name",
+    "first_name",
+    "ultimatecaptcha_ultra_very_key",
+    "ultimatecaptcha_aweber",
+    "ultimatecaptcha_account_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:14.893Z"
+}

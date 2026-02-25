@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aeoaudi_faq_questions",
+    "_aeoaudi_faq_answers",
+    "_aeoaudi_faq_show",
+    "_aeoaudi_enable_schema",
+    "_aeoaudi_enable_speakable",
+    "_aeoaudi_enable_summary",
+    "_aeoaudi_ai_summary"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:19.757Z"
+}

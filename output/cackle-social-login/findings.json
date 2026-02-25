@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cackle_social_login_siteId"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cackle_avatar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:24.968Z"
+}

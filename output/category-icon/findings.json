@@ -1,0 +1,14 @@
+{
+  "options": [
+    "category-icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pix_term_icon",
+    "pix_term_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:16.678Z"
+}

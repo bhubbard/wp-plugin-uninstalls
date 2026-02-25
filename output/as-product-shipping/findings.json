@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_asprsh_custom_shipping_enabled",
+    "_asprsh_shipping_type",
+    "_asprsh_custom_shipping_rate",
+    "_asprsh_weight"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:44.275Z"
+}

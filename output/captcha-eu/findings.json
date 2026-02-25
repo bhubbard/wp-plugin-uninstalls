@@ -1,0 +1,27 @@
+{
+  "options": [
+    "captcha_at_plugin",
+    "captcha_at_fragprotect",
+    "captcha_at_proxy_enabled",
+    "captcha_at_public_key",
+    "captcha_at_host",
+    "captcha_at_rest_key",
+    "captcha_at_proxy_sdkjs_content",
+    "captcha_at_proxy_sdkjs_updated_at",
+    "captcha_at_errors_catched",
+    "captcha_at_version_sdk",
+    "captcha_at_update_available",
+    "captcha_at_update_version",
+    "captcha_at_update_url"
+  ],
+  "transients": [
+    "captcha-at-notice-activation"
+  ],
+  "cron_jobs": [
+    "captcha_at_sched_sdk_version"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:07.831Z"
+}

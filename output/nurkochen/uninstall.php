@@ -1,0 +1,15 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('user_id');
+delete_site_option('user_id');
+delete_option('button_color');
+delete_site_option('button_color');
+delete_option('button_text_color');
+delete_site_option('button_text_color');
+

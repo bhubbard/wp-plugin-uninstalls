@@ -1,0 +1,13 @@
+{
+  "options": [
+    "google_photos_picker_setting_browser_key",
+    "google_photos_picker_setting_client_id",
+    "google_photos_picker_setting_img_tag_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:46.883Z"
+}

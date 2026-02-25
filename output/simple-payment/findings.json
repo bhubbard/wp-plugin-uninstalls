@@ -1,0 +1,35 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "sp_license",
+    "sp",
+    "sp_db_version",
+    "sp_uninstall",
+    "recently_activated",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "sp_message",
+    "sp_license_issue",
+    "sp_updated",
+    "sp_activated",
+    "sp_*",
+    "sp-payment-last",
+    "sp-msg-*",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "sp_cron",
+    "sp_cron_purge"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sp_provider_url",
+    "_transaction_data",
+    "_sp_transaction_id*",
+    "_wpjb_stripe_customer_id",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:17.708Z"
+}

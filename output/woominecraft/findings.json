@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wm_servers",
+    "wm_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wmc_commands",
+    "player_id",
+    "_wmc_commands_*",
+    "_wmc_delivered_*",
+    "minecraft_woo"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:47.455Z"
+}

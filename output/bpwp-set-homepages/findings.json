@@ -1,0 +1,12 @@
+{
+  "options": [
+    "page_on_front_user_role",
+    "page_on_front_logged_in"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:43.717Z"
+}

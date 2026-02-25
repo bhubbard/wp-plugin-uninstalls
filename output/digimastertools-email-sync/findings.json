@@ -1,0 +1,29 @@
+{
+  "options": [
+    "dmwkti_username",
+    "dmwkti_password",
+    "dmwkti_tag_category",
+    "dmwkti_tag_product_name",
+    "dmwkti_global_tag",
+    "dmwkti_product",
+    "dmwkti_product_free",
+    "dm_email_sync_global_product_meta",
+    "dmwkti_checkbox_checkout_tag",
+    "dmwkti_optin",
+    "dmwkti_license",
+    "dmwkti_global_tag_*",
+    "dmwkti_checkbox_checkout",
+    "dmwkti_checkbox_checkout_title",
+    "dmwkti_checkbox_checkout_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dmwkti_product_settings",
+    "dm_email_sync_product_meta",
+    "dm_email_sync_coupon_tag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:04.429Z"
+}

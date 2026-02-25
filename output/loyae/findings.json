@@ -1,0 +1,15 @@
+{
+  "options": [
+    "loyae_site_id",
+    "loyae_api_token",
+    "loyae_site_token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "loyae_cleanup_analyses"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:34.150Z"
+}

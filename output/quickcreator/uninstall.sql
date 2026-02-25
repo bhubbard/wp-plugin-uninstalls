@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('quickcreator_api_access_key', 'quickcreator_connection_details', 'quickcreator_version', 'quickcreator_auth_user', 'elementor_cpt_support', 'megamenu_settings', 'theplus_options', 'quickcreator_connection_token', 'quickcreator_installing', '_quickcreator_activation_redirect', 'quickcreator_updated', 'megamenu_failed_to_write_css_to_filesystem', 'quickcreatorblog_connection_token');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('quickcreator_draft_id', 'quickcreator_permalink_hash', 'quickcreator_keywords', 'quickcreator_location', 'quickcreator_scrape_ready', 'quickcreator_last_post_update', 'quickcreator_last_post_update_direction', '__qucikcreator_id', 'quickcreator_file_name', '_wp_attachment_image_alt', '_elementor_edit_mode', '_elementor_template_type', '_elementor_version', '_elementor_data');
+DELETE FROM wp_usermeta WHERE meta_key IN ('quickcreator_draft_id', 'quickcreator_permalink_hash', 'quickcreator_keywords', 'quickcreator_location', 'quickcreator_scrape_ready', 'quickcreator_last_post_update', 'quickcreator_last_post_update_direction', '__qucikcreator_id', 'quickcreator_file_name', '_wp_attachment_image_alt', '_elementor_edit_mode', '_elementor_template_type', '_elementor_version', '_elementor_data');
+DELETE FROM wp_termmeta WHERE meta_key IN ('quickcreator_draft_id', 'quickcreator_permalink_hash', 'quickcreator_keywords', 'quickcreator_location', 'quickcreator_scrape_ready', 'quickcreator_last_post_update', 'quickcreator_last_post_update_direction', '__qucikcreator_id', 'quickcreator_file_name', '_wp_attachment_image_alt', '_elementor_edit_mode', '_elementor_template_type', '_elementor_version', '_elementor_data');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('quickcreator_draft_id', 'quickcreator_permalink_hash', 'quickcreator_keywords', 'quickcreator_location', 'quickcreator_scrape_ready', 'quickcreator_last_post_update', 'quickcreator_last_post_update_direction', '__qucikcreator_id', 'quickcreator_file_name', '_wp_attachment_image_alt', '_elementor_edit_mode', '_elementor_template_type', '_elementor_version', '_elementor_data');
+

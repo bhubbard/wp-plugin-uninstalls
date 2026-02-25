@@ -1,0 +1,28 @@
+{
+  "options": [
+    "perfectwpthemes_themes",
+    "widget_*",
+    "sidebars_widgets",
+    "perfetwpthemes_themes"
+  ],
+  "transients": [
+    "PWPT_importer_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice_ignore",
+    "_wp_attachment_is_custom_header",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id",
+    "masonry-blog-pro_notice_ignore"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:58.274Z"
+}

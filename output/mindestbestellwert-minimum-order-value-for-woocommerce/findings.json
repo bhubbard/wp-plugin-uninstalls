@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bb_minorderval_value",
+    "bb_minorderval_msg_cart",
+    "bb_minorderval_msg_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:50.314Z"
+}

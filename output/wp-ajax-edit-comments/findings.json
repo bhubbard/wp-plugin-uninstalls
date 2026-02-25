@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ajax-edit-comments_security_key_count",
+    "wordpress_api_key",
+    "aec_dependency_upload_dir",
+    "WPAjaxEditAuthoruserOptions",
+    "WPAjaxEditAuthoruser_options",
+    "WPAjaxEditComments20"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:48.865Z"
+}

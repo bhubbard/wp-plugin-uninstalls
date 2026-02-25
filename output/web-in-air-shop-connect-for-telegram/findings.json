@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wasct_settings",
+    "wasct_cache_version"
+  ],
+  "transients": [
+    "wasct_user_context_*",
+    "wasct_panel_msg_*",
+    "wasct_user_lang_*",
+    "wasct_user_state_*",
+    "wasct_show_tags_button",
+    "wasct_show_brands_button",
+    "wasct_variation_selection_*",
+    "wasct_search_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:00.063Z"
+}

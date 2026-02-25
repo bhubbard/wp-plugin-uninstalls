@@ -1,0 +1,52 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'otys_option_document_template_confirm_jobalert'
+wp option delete 'otys_option_jobalert_filters'
+wp option delete 'otys_option_language_routes'
+wp option delete 'otys_option_api_key'
+wp option delete 'otys_option_recaptcha_site_key'
+wp option delete 'otys_option_recaptcha_secret_key'
+wp option delete 'otys_option_website'
+wp option delete 'otys_option_is_production_website'
+wp option delete 'otys_option_vacancies_filters_match_criteria'
+wp option delete 'otys_option_vacancies_list_match_criteria_labels'
+wp option delete 'otys_option_vacancies_detail_match_criteria_labels'
+wp option delete 'otys_option_document_template_apply_notify_candidate'
+wp option delete 'otys_option_document_template_apply_notify_new_candidate'
+wp option delete 'otys_option_document_template_open_apply_notify_candidate'
+wp option delete 'otys_option_document_template_apply_confirm_email'
+wp option delete 'otys_option_document_template_apply_notify_consultant'
+wp option delete 'otys_option_document_template_open_apply_notify_consultant'
+wp option delete 'otys_option_vacancies_per_page'
+wp option delete 'otys_option_vacancies_options_sorting'
+wp option delete 'otys_option_use_mobile_questionset'
+wp option delete 'otys_option_recaptcha_threshold'
+wp option delete 'otys_option_email_open_apply_consultant_email'
+wp option delete 'otys_option_vacancies_header_falllback'
+wp option delete 'otys_option_meta_description_textfield'
+wp option delete 'otys_option_system_mails_from_owner'
+wp option delete 'otys_option_pagination_max_pages'
+wp option delete 'otys_option_pagination_buttons_prev_next'
+wp option delete 'otys_option_pagination_buttons_prev_icon'
+wp option delete 'otys_option_pagination_buttons_next_icon'
+wp option delete 'otys_option_pagination_buttons_first_last'
+wp option delete 'otys_option_pagination_buttons_first_icon'
+wp option delete 'otys_option_pagination_buttons_last_icon'
+wp option delete 'otys_option_show_candidate_login_link_at_form'
+wp option delete 'otys_option_use_known_candidate_questionset'
+wp option delete 'otys_option_document_template_forgot_password'
+wp option delete 'otys_option_webhook_url'
+wp option delete 'otys_option_created_standard_documents'
+wp option delete 'otys_option_candidate_authentication_routes'
+wp option delete 'otys_plugin_version'
+
+# Delete Transients
+wp transient delete 'otys_updater'
+wp transient delete 'otys_check_session'
+
+# Clear Cron Jobs
+wp cron event delete 'otys_cache_cron'
+wp cron event delete 'otys_log_cron'
+

@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sm_sortable_order', 'min_order_quantity_reached', 'max_order_quantity_exceeded', 'min_order_value_reached', 'max_order_value_exceeded', 'min_order_item_reached', 'max_order_item_exceeded', 'min_order_quantity', 'max_order_quantity', 'min_order_value', 'max_order_value', 'min_items_quantity', 'max_items_quantity', 'mmqw_plugin_data_migrated', 'mmqw_where_hear_about_us', 'mmqw_data_submited_in_sendiblue', 'max_order_item_exceeded ', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'mmqw_version', 'chk_enable_logging', 'woocommerce_prices_include_tax', '_welcome_screen_mmqw_mode_activation_redirect_data', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes', 'mmqw-admin-notice');
+DELETE FROM wp_options WHERE option_name LIKE 'sm_sortable_order_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('mmqw_total_groups', 'mmqw_rule_groups', 'fee_settings_unique_shipping_title', 'sm_status', 'cost_on_product_status', 'cost_on_product_variation_status', 'cost_on_category_status', 'cost_on_country_status', 'sm_metabox_ap_product', 'sm_metabox_ap_product_variation', 'sm_metabox_ap_category', 'sm_metabox_ap_country');
+DELETE FROM wp_usermeta WHERE meta_key IN ('mmqw_total_groups', 'mmqw_rule_groups', 'fee_settings_unique_shipping_title', 'sm_status', 'cost_on_product_status', 'cost_on_product_variation_status', 'cost_on_category_status', 'cost_on_country_status', 'sm_metabox_ap_product', 'sm_metabox_ap_product_variation', 'sm_metabox_ap_category', 'sm_metabox_ap_country');
+DELETE FROM wp_termmeta WHERE meta_key IN ('mmqw_total_groups', 'mmqw_rule_groups', 'fee_settings_unique_shipping_title', 'sm_status', 'cost_on_product_status', 'cost_on_product_variation_status', 'cost_on_category_status', 'cost_on_country_status', 'sm_metabox_ap_product', 'sm_metabox_ap_product_variation', 'sm_metabox_ap_category', 'sm_metabox_ap_country');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('mmqw_total_groups', 'mmqw_rule_groups', 'fee_settings_unique_shipping_title', 'sm_status', 'cost_on_product_status', 'cost_on_product_variation_status', 'cost_on_category_status', 'cost_on_country_status', 'sm_metabox_ap_product', 'sm_metabox_ap_product_variation', 'sm_metabox_ap_category', 'sm_metabox_ap_country');
+

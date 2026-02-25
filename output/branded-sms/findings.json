@@ -1,0 +1,15 @@
+{
+  "options": [
+    "apg_sms_settings"
+  ],
+  "transients": [
+    "apg_sms_plugin"
+  ],
+  "cron_jobs": [
+    "apg_sms_ejecuta_el_temporizador"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:51.194Z"
+}

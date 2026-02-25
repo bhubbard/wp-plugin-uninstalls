@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('xhtheme_ai_toolbox_settings', 'xhtheme_ai_toolbox_thread_rewrite', 'xhtheme_ai_toolbox_automate_rules', 'xhtheme_aitoolbox_users', 'xhaitool_theme_notices', 'xhtheme_aitoolbox_chatmodels', 'xhtheme_aitoolbox_chatversion', 'xhtheme_ai_toolbox_avatarlocal_error', 'xhtheme_ai_toolbox_addmysql', 'xhtheme_ai_toolbox_interact_dbver', 'default_favorites', 'xhtheme_ai_toolbox_automate', 'xhaitool_thread_pageid', 'xhtheme_ai_toolbox_activated', 'xhtheme_ai_toolbox_error_log', 'xhaitool_errorrate_limit', 'xhtheme_react_error_rate_limit', 'xhtheme_aitoolbox_apicheck', 'xhtheme_aitoolbox_users_error', 'xhtheme_aitoolbox_users', 'xhtheme_aitoolbox_chatmodels_time', 'xhtheme_aitoolbox_chatmodels_lasttime', 'xhaitoolbox_clear_overduecrons_2', 'xhaitoolbox_cron_queue_process', 'xhtheme_randcomment_cooldown', 'xhtheme_ai_toolbox_automate_migrated', 'xhinteract_aiwords');
+DELETE FROM wp_options WHERE option_name LIKE 'default_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_excerptai', '_xhai_excerpt', '_seotitle', '_xhaitool_aitasks', '_aiimage_cueword', '_aiimage_status', '_xhai_role', '_ai_interact_type', '_ai_avatar', '_ai_task_status', '_ai_interact_reason', '_xhaitool_aitasks_status', 'xhai_postparent', 'xhai_threadtype', 'xhai_perspective', '_comment_likes');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_excerptai', '_xhai_excerpt', '_seotitle', '_xhaitool_aitasks', '_aiimage_cueword', '_aiimage_status', '_xhai_role', '_ai_interact_type', '_ai_avatar', '_ai_task_status', '_ai_interact_reason', '_xhaitool_aitasks_status', 'xhai_postparent', 'xhai_threadtype', 'xhai_perspective', '_comment_likes');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_excerptai', '_xhai_excerpt', '_seotitle', '_xhaitool_aitasks', '_aiimage_cueword', '_aiimage_status', '_xhai_role', '_ai_interact_type', '_ai_avatar', '_ai_task_status', '_ai_interact_reason', '_xhaitool_aitasks_status', 'xhai_postparent', 'xhai_threadtype', 'xhai_perspective', '_comment_likes');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_excerptai', '_xhai_excerpt', '_seotitle', '_xhaitool_aitasks', '_aiimage_cueword', '_aiimage_status', '_xhai_role', '_ai_interact_type', '_ai_avatar', '_ai_task_status', '_ai_interact_reason', '_xhaitool_aitasks_status', 'xhai_postparent', 'xhai_threadtype', 'xhai_perspective', '_comment_likes');
+

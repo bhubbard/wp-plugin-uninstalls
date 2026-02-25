@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sspdt_feed_options",
+    "sspdt_api_key",
+    "sspdt_api_path",
+    "sspdt_format_options",
+    "sspdt_api_cache",
+    "sspdt_helpers",
+    "sspdt_defaults",
+    "sspdt_fancybox",
+    "widget_sspdt_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:02.305Z"
+}

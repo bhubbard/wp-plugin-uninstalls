@@ -1,0 +1,17 @@
+{
+  "options": [
+    "puff_settings",
+    "widget_ps_puff",
+    "puff_plugin_version",
+    "puff_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_puff_meta",
+    "_puff_link"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:21.307Z"
+}

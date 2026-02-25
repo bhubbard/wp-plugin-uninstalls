@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wpccp",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:04.083Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [
+    "contentExceIimporter_notification"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_weight",
+    "_regular_price",
+    "_sale_price",
+    "_stock",
+    "_visibility",
+    "_price",
+    "_stock_status",
+    "_manage_stock",
+    "_length",
+    "_width",
+    "_height",
+    "_virtual"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:31.688Z"
+}

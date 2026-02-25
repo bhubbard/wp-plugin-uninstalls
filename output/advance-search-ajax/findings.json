@@ -1,0 +1,18 @@
+{
+  "options": [
+    "title",
+    "e_date",
+    "e_keyword",
+    "e_author",
+    "e_tag",
+    "e_cats",
+    "loadin_img",
+    "s_posts_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:55.090Z"
+}

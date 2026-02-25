@@ -1,0 +1,14 @@
+{
+  "options": [
+    "jft_timezone",
+    "jft_custom_field",
+    "jft_page_url",
+    "jft_more_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:48.327Z"
+}

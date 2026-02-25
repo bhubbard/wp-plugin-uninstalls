@@ -1,0 +1,17 @@
+{
+  "options": [
+    "status_ccwp",
+    "cursor_type_ccwp",
+    "ccwp_cursor_color",
+    "ccwp_show_default_cursor",
+    "ccwp_cursor_size",
+    "ccwp_front_cursor_type",
+    "cursor-image-url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:03.209Z"
+}

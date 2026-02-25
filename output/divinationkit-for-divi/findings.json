@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dina_divinatiokit_installed",
+    "dina_divinatiokit_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dina_gallery_item_url",
+    "dina_gallery_item_link_target",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:19.899Z"
+}

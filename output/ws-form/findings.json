@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ws_form_wp_cron_action_database"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ws_form_submissions_clear_hidden_fields",
+    "first_name",
+    "last_name",
+    "description",
+    "nickname",
+    "admin_color",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:26.426Z"
+}

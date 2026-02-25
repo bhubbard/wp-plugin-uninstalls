@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'modify_login_settings'
+wp option delete 'modify_login_login_endpoint'
+wp option delete 'modify_login_rewrite_rules_flushed'
+wp option delete 'modify_login_background_color'
+wp option delete 'modify_login_form_background'
+wp option delete 'modify_login_button_color'
+wp option delete 'modify_login_button_text_color'
+wp option delete 'modify_login_background_image'
+wp option delete 'modify_login_background_size'
+wp option delete 'modify_login_background_position'
+wp option delete 'modify_login_background_repeat'
+wp option delete 'modify_login_background_opacity'
+wp option delete 'modify_login_logo_url'
+wp option delete 'modify_login_form_border_radius'
+wp option delete 'modify_login_form_padding'
+wp option delete 'modify_login_custom_css'
+wp option delete 'modify_login_label_color'
+wp option delete 'modify_login_link_color'
+wp option delete 'modify_login_link_hover_color'
+wp option delete 'modify_login_version'
+wp option delete 'modify_login_previous_endpoint'
+wp option delete 'modify_login_logo_width'
+wp option delete 'modify_login_logo_height'
+wp option delete 'modify_login_logo_position'
+wp option delete 'modify_login_enable_recaptcha'
+wp option delete 'modify_login_recaptcha_site_key'
+

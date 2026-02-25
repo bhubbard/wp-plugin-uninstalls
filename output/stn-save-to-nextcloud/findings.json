@@ -1,0 +1,27 @@
+{
+  "options": [
+    "login_dlwcloud",
+    "pass_dlwcloud",
+    "url_dlwcloud",
+    "email_dlwcloud",
+    "frequency_dlwcloud",
+    "day_dlwcloud",
+    "hour_dlwcloud",
+    "auto_update_dlwcloud",
+    "folder_dlwcloud",
+    "nb_save_dlwcloud",
+    "bdd_only_dlwcloud"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "stn_Save",
+    "stn_SaveInProgress"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:09.528Z"
+}

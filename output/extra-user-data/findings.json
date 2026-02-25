@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "registration_ip",
+    "login_count",
+    "last_login",
+    "last_login_ip"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:34.770Z"
+}

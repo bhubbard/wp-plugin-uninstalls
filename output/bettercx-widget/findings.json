@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bettercx_widget_settings",
+    "bettercx_widget_version"
+  ],
+  "transients": [
+    "bettercx_widget_cache",
+    "bettercx_widget_connection_test"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "bettercx_widget_user_preferences"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:33.688Z"
+}

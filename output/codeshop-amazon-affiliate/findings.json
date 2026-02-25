@@ -1,0 +1,15 @@
+{
+  "options": [
+    "caaps_amazon-product-shop-settings",
+    "caaps_amazon-product-shop-displayoptions",
+    "caaps_amazonshop_frontpageid"
+  ],
+  "transients": [
+    "caaps_transient_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:36.401Z"
+}

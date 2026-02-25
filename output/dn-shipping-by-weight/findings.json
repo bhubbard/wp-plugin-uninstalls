@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dn_shipping_by_weight-tables",
+    "dn_shipping_by_weight-last_id",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:32.466Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "postrank_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "postrank_weekly_restat_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_post_views",
+    "_post_rank"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:32.820Z"
+}

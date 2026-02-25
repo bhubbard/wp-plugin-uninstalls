@@ -1,0 +1,15 @@
+{
+  "options": [
+    "love_me_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "love_me_like",
+    "love_me_hide",
+    "love_me_ips"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:31.051Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wsl_login_enable",
+    "wsl_plugin_activated",
+    "wsl_installation",
+    "wsl_installation_token",
+    "wsl_webshoplogin_account_exists",
+    "wsl_login_api_key",
+    "wsl_login_api_secret",
+    "wsl_login_state_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wsl_user_version",
+    "_wsl_user_id",
+    "_wsl_customer_version",
+    "_wsl_billing_address_version",
+    "_wsl_shipping_address_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:13.176Z"
+}

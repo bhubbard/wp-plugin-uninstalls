@@ -1,0 +1,16 @@
+{
+  "options": [
+    "kurs_security_disable_rest_api",
+    "kurs_security_disable_rest_api_guests",
+    "kurs_security_disable_xmlrpc",
+    "kurs_security_disable_file_editor",
+    "kurs_security_redirect_failed_login",
+    "kurs_security_hide_wp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:11.703Z"
+}

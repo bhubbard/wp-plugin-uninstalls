@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wiseagent_options",
+    "wiseagent_hcaptcha_options",
+    "wiseagent_recaptcha_options",
+    "wiseagent_content_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "designation",
+    "event_date",
+    "event_location",
+    "event_start_time",
+    "event_button_text",
+    "event_url",
+    "event_start_time_iso"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:35.270Z"
+}

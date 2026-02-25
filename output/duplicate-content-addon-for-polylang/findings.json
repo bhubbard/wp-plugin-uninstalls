@@ -1,0 +1,24 @@
+{
+  "options": [
+    "dupcap-installDate",
+    "dupcap_initial_save_version",
+    "dupcap-atp-notice",
+    "cpel_autopoly_installed",
+    "active_sitewide_plugins",
+    "dupcap-v",
+    "dupcap-type",
+    "dupcap-ratingDiv"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "pll_duplicate_content",
+    "_wp_attachment_metadata",
+    "_wp_attached_file",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:05.866Z"
+}

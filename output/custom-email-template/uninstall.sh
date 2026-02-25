@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'custom_email_logo_url'
+wp option delete 'custom_email_logo_alignment'
+wp option delete 'custom_email_footer_text'
+wp option delete 'custom_email_preserve_data'
+wp option delete 'custom_email_from_email'
+wp option delete 'custom_email_from_name'
+wp option delete 'custom_email_reply_to'
+wp option delete 'custom_email_avatar_url'
+wp option delete 'custom_email_bg_color'
+wp option delete 'custom_email_container_bg_color'
+wp option delete 'custom_email_header_border_color'
+wp option delete 'custom_email_primary_text_color'
+wp option delete 'custom_email_secondary_text_color'
+wp option delete 'custom_email_footer_text_color'
+wp option delete 'custom_email_footer_border_color'
+wp option delete 'custom_email_button_bg_color'
+wp option delete 'custom_email_button_text_color'
+wp option delete 'custom_email_exclude_tutor_lms'
+wp option delete 'custom_email_exclude_woocommerce'
+wp option delete 'custom_email_use_smtp'
+wp option delete 'custom_email_smtp_host'
+wp option delete 'custom_email_smtp_auth'
+wp option delete 'custom_email_smtp_port'
+wp option delete 'custom_email_smtp_username'
+wp option delete 'custom_email_smtp_password'
+wp option delete 'custom_email_smtp_encryption'
+wp option delete 'custom_email_smtp_debug'
+

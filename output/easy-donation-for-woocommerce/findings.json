@@ -1,0 +1,16 @@
+{
+  "options": [
+    "edfw_donation_position",
+    "edfw_donation_label_text",
+    "edfw_donation_button_text",
+    "edfw_donation_button_color",
+    "edfw_donation_button_text_color",
+    "edfw_donation_note"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:25.212Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "foxmetrics_analytics_settings",
+    "woocommerce_tax_display_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:16.372Z"
+}

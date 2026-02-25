@@ -1,0 +1,14 @@
+{
+  "options": [
+    "buganimation_enabled",
+    "buganimation_min_bugs",
+    "buganimation_max_bugs",
+    "buganimation_mouse_over"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:32.016Z"
+}

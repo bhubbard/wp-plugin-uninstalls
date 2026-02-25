@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ec_stars_rating_use_jquery",
+    "ec_stars_rating_size",
+    "ec_stars_rating_hover_color",
+    "ec_stars_rating_default_color",
+    "ec_stars_rating_active_color",
+    "ec_stars_rating_show_votes",
+    "ec_stars_rating_use_microformats",
+    "ec_stars_rating_enable_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ec_stars_rating",
+    "ec_stars_rating_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:09.062Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ventocalendar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_start_date",
+    "_end_date",
+    "_start_time",
+    "_end_time",
+    "_color"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:06.784Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pdwpst_search_tracker_telemetry_allowed",
+    "pdwpst_search_tracker_show_telemetry_prompt",
+    "search_tracker_show_telemetry_prompt",
+    "search_tracker_telemetry_allowed",
+    "pdwpst_search_tracker_delete_on_uninstall",
+    "pdwpst_user_searches_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pdwpst_search_tracker_telemetry_cron",
+    "search_tracker_telemetry_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:42.146Z"
+}

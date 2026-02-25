@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ad_unblock_verification_code",
+    "ad_unblock_custom_api_endpoint",
+    "ad_unblock_page_rules"
+  ],
+  "transients": [
+    "ad_unblock_script_sources"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:00.778Z"
+}

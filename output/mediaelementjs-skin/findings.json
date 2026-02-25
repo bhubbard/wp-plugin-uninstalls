@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mep_video_skin",
+    "mep_script_on_demand",
+    "mep_default_video_height",
+    "mep_default_video_width",
+    "mep_default_video_type",
+    "mep_default_audio_height",
+    "mep_default_audio_width",
+    "mep_default_audio_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:41.011Z"
+}

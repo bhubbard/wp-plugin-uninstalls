@@ -1,0 +1,27 @@
+{
+  "options": [
+    "mepr_free_square_mode",
+    "mepr_free_square_access_token_sandbox",
+    "mepr_free_square_access_token",
+    "square_refund_id_*",
+    "mepr_free_square_locations*",
+    "mepr_free_square_refresh_token_sandbox",
+    "mepr_free_square_response_body_sandbox",
+    "mepr_free_square_refresh_token",
+    "mepr_free_square_response_body",
+    "mepr_options",
+    "mepr-square-locationId",
+    "mepr_free_square_app_id",
+    "mepr_free_square_locations_sandbox",
+    "mepr_integrations_*",
+    "mepr_free_square_locations"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mepr_product_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:48.291Z"
+}

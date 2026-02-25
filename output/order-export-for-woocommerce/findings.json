@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_attributes",
+    "attribute_*",
+    "_sku",
+    "_tax_status",
+    "_completed_date",
+    "_customer_user",
+    "_billing_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:42.770Z"
+}

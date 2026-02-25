@@ -1,0 +1,19 @@
+{
+  "options": [
+    "slpa_post_wordcut",
+    "slpa_post_letters",
+    "slpa_post_linktext",
+    "slpa_post_ending",
+    "slpa_post_home",
+    "slpa_post_category",
+    "slpa_post_archive",
+    "slpa_post_search",
+    "slpa_striptags"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:33.151Z"
+}

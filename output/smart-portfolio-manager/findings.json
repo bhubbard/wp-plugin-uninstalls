@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "technology_language",
+    "portfolio_client_name",
+    "portfolio_project_type",
+    "android_project_url",
+    "ios_project_url",
+    "website_project_url",
+    "spmpcl_project_portfolio_img",
+    "spmpcl_portfolio_feature"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:00.463Z"
+}

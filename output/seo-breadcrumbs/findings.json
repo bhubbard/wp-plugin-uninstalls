@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sbc_id",
+    "sbc_separator",
+    "sbc_home",
+    "sbc_default_settings",
+    "sbc_*",
+    "sbc_before_bgcolor",
+    "sbc_after_bgcolor",
+    "sbc_before_fontcolor",
+    "sbc_after_fontcolor",
+    "sbc_separator_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:16.672Z"
+}

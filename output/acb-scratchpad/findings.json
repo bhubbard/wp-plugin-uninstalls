@@ -1,0 +1,24 @@
+{
+  "options": [
+    "acb_sp_php_code",
+    "acb_sp_php_submit_button_type",
+    "acb_sp_php_installed",
+    "acb_sp_php_installed_enable",
+    "acb_sp_js_code",
+    "acb_sp_js_submit_button_type",
+    "acb_sp_js_result",
+    "acb_sp_js_installed",
+    "acb_sp_js_installed_enable",
+    "acb_sp_css_code",
+    "acb_sp_css_submit_button_type",
+    "acb_sp_css_installed",
+    "acb_sp_css_installed_enable",
+    "acb_sp_css_installed_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:11.267Z"
+}

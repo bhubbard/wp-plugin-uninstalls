@@ -1,0 +1,26 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "pbxblowball_stores_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpcf7-blowball_options",
+    "_wpcf7-blowball_attribute_mapping",
+    "_wpcf7-blowball_global_attribute_mapping",
+    "_wpcf7-blowball_options_mapping",
+    "_wpcf7-blowball_field_mapping",
+    "_wpcf7-blowball_option_mapping",
+    "billing_last_name",
+    "billing_first_name",
+    "pbxbb_user_meta",
+    "_unit",
+    "_unit_product",
+    "_unit_base",
+    "_unit_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:27.346Z"
+}

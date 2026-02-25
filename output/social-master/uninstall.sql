@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('social_master_system_wide_facebook_display', 'social_master_system_wide_facebook_page', 'social_master_system_wide_facebook_lang', 'social_master_system_wide_facebook_id', 'social_master_system_wide_facebook_og_name_on', 'social_master_system_wide_facebook_og_type_on', 'social_master_system_wide_facebook_og_title_on', 'social_master_system_wide_facebook_og_url_on', 'social_master_system_wide_facebook_og_description_on', 'social_master_system_wide_facebook_og_image_on', 'social_master_system_wide_facebook_og_image', 'social_master_system_wide_twitter_user', 'social_master_system_wide_twitter_follow_w', 'social_master_system_wide_twitter_tweet_w', 'social_master_system_wide_linkedin_page', 'social_master_system_wide_youtube_id', 'social_master_system_wide_instagram_user', 'social_master_system_wide_soundcloud_page', 'social_master_system_wide_reverbnation_page', 'social_master_system_wide_spotify_page', 'social_master_system_wide_feedly_page', 'social_master_wb_show_display', 'tsm_quote');
+

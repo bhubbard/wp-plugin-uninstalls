@@ -1,0 +1,23 @@
+{
+  "options": [
+    "zhanzhangb_baidu_token",
+    "zhanzhangb_baidu_realtime_token",
+    "zhanzhangb_baidu_check",
+    "zhanzhangb_baidu_custom_post_types",
+    "zhanzhangb_baidu_set_time",
+    "zhanzhangb_baidu_submit_number",
+    "zhanzhangb_baidu_submissions",
+    "zhanzhangb_baidu_realtime_number",
+    "zhanzhangb_baidu_realtime_date",
+    "zhanzhangb_baidu_push"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "rank_math_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:33.212Z"
+}

@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ct_custom_options_settings'
+wp option delete '__cozythemes_demo_importer_do_redirect'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_testimonial_position'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_testimonial_position'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_testimonial_position'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_testimonial_position'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_testimonial_company'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_testimonial_company'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_testimonial_company'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_testimonial_company'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_team_position'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_team_position'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_team_position'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_team_position'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_team_company'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_team_company'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_team_company'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_team_company'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_team_facebook'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_team_facebook'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_team_facebook'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_team_facebook'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_team_twitter'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_team_twitter'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_team_twitter'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_team_twitter'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_team_linkedin'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_team_linkedin'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_team_linkedin'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_team_linkedin'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_team_youtube'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_team_youtube'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_team_youtube'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_team_youtube'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_team_github'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_team_github'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_team_github'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_team_github'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cea_team_instagram'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cea_team_instagram'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cea_team_instagram'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cea_team_instagram'"

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "_fspi_inquiry_form_fields",
+    "_fspi_server_url",
+    "_fspi_license_settings",
+    "_fspi_email_heading_text",
+    "_fspi_email_footer_text",
+    "_fspi_email_from",
+    "_fspi_email_from_address",
+    "_fspi_customer_email_sub",
+    "_fspi_customer_email_body_text",
+    "_fspi_email_admin",
+    "_fspi_admin_email_sub",
+    "_fspi_admin_email_body_text",
+    "_fspi_inquiry_form_open_in_popup",
+    "_fspi_product_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "_fs_short_description",
+    "_fs_product_price",
+    "_fs_product_selling_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:58.761Z"
+}

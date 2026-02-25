@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('tracking_ready_text', 'mail_send_general', 'sms_provider', 'sms_send_general', 'BsmsApp_UserName', 'BsmsApp_Password', 'BsmsApp_Header', 'BsmsApp_sms_url_send', 'BsmsApp_footer', 'BsmsApp_sender', 'BsmsApp_type', 'Bsmsapp_sim', 'Bsmsapp_mode', 'Bsmsapp_device', 'Bsmsapp_deviceid', 'Bsmsapp_waid', 'BsmsApp_m1', 'BsmsApp_m2');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('tracking_company', 'tracking_code');
+DELETE FROM wp_usermeta WHERE meta_key IN ('tracking_company', 'tracking_code');
+DELETE FROM wp_termmeta WHERE meta_key IN ('tracking_company', 'tracking_code');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('tracking_company', 'tracking_code');
+

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "travel_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dates",
+    "route_show",
+    "route_color",
+    "route_dashed",
+    "details",
+    "code",
+    "route_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:46.172Z"
+}

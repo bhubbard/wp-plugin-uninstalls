@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tls_munber_of_images",
+    "tls_controls",
+    "tls_pagination",
+    "tls_slide_speed",
+    "tls_navigation_text_next",
+    "tls_navigation_text_prev"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "tls_logo_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:54.943Z"
+}

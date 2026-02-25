@@ -1,0 +1,14 @@
+{
+  "options": [
+    "soisy-pagamento-rateale",
+    "*_instalment_table"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "soisy_orderToken"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:18.470Z"
+}

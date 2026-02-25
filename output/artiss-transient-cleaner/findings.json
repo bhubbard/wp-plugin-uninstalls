@@ -1,0 +1,15 @@
+{
+  "options": [
+    "transient_clean_options",
+    "transient_clean_expired",
+    "transient_clean_all"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "housekeep_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:15.869Z"
+}

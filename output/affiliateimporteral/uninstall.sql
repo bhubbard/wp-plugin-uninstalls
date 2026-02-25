@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aeidn_activate_redirect', 'aeidn_use_proxy', 'aeidn_proxies_list', 'aeidn_db_version', 'aeidn_default_type', 'aeidn_default_status', 'aeidn_price_auto_update', 'aeidn_regular_price_auto_update', 'aeidn_price_auto_update_period', 'aeidn_currency_conversion_factor', 'aeidn_not_available_product_status', 'aeidn_remove_link_from_desc', 'aeidn_remove_img_from_desc', 'aeidn_update_per_schedule', 'aeidn_import_product_images_limit', 'aeidn_min_product_quantity', 'aeidn_max_product_quantity', 'aeidn_tr_aliexpress_language', 'aeidn_tr_aliexpress_bing_secret', 'aeidn_tr_aliexpress_bing_client_id', 'aeidn_ali_per_page', 'aeidn_ali_links_to_affiliate', 'aeidn_ali_local_currency', 'aeidn_per_page', 'aeidn_import_attributes', 'aeidn_import_extended_attribute', 'active_sitewide_plugins', 'wc_attribute_taxonomies');
+DELETE FROM wp_options WHERE option_name LIKE '%_version_data';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('external_id', '_aeidn_filters', '_manage_stock', '_stock_status', '_stock', '_visibility', 'price_last_update', 'product_url', 'seller_url', '_sku', '_product_url', 'import_type', 'aeidn_import', 'original_product_url', 'ship_price', 'discount_perc', '_product_image_gallery', '_price', '_regular_price', '_sale_price', '_product_attributes');
+DELETE FROM wp_usermeta WHERE meta_key IN ('external_id', '_aeidn_filters', '_manage_stock', '_stock_status', '_stock', '_visibility', 'price_last_update', 'product_url', 'seller_url', '_sku', '_product_url', 'import_type', 'aeidn_import', 'original_product_url', 'ship_price', 'discount_perc', '_product_image_gallery', '_price', '_regular_price', '_sale_price', '_product_attributes');
+DELETE FROM wp_termmeta WHERE meta_key IN ('external_id', '_aeidn_filters', '_manage_stock', '_stock_status', '_stock', '_visibility', 'price_last_update', 'product_url', 'seller_url', '_sku', '_product_url', 'import_type', 'aeidn_import', 'original_product_url', 'ship_price', 'discount_perc', '_product_image_gallery', '_price', '_regular_price', '_sale_price', '_product_attributes');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('external_id', '_aeidn_filters', '_manage_stock', '_stock_status', '_stock', '_visibility', 'price_last_update', 'product_url', 'seller_url', '_sku', '_product_url', 'import_type', 'aeidn_import', 'original_product_url', 'ship_price', 'discount_perc', '_product_image_gallery', '_price', '_regular_price', '_sale_price', '_product_attributes');
+

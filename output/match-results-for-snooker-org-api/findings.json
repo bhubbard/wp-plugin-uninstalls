@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mrfs_snooker_org_api_key",
+    "mrfs_snooker_org_show_powered_by"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "snooker_org_cron_event_10_minutes",
+    "snooker_weekly_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:22.753Z"
+}

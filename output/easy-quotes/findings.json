@@ -1,0 +1,16 @@
+{
+  "options": [
+    "easy_quotes_flush_rewrite_rules",
+    "easy-quotes-db-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "quote_author",
+    "quote_date",
+    "quote_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:42.584Z"
+}

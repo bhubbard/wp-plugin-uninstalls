@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_squad_settings",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_squad_token",
+    "_squad_txn_ref",
+    "_transaction_id",
+    "_order_currency"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:15.085Z"
+}

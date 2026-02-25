@@ -1,0 +1,38 @@
+{
+  "options": [
+    "iafwmc_account_data",
+    "iafwmc_email_validation_keywords",
+    "iafwmc_email_validation_handling",
+    "iafwmc_email_detection_keywords",
+    "iafwmc_email_detection_handling",
+    "iafwmc_spam_detection_keywords",
+    "iafwmc_spam_detection_handling",
+    "iafwmc_delete_data_on_uninstall",
+    "iafwmc_error_notification",
+    "iafwmc_error_notification_email",
+    "iafwmc_error_notification_subject",
+    "iafwmc_request_key",
+    "iafwmc_session_key",
+    "iafwmc_session_plan",
+    "iafwmc_review_enabled",
+    "iafwmc_review_dismissed",
+    "iafwmc_review_remind_me_later"
+  ],
+  "transients": [
+    "iafwmc_account_message",
+    "iafwmc_error_log_success",
+    "iafwmc_error_log_fail",
+    "iafwmc_settings_saved",
+    "iafwmc_license_fail",
+    "iafwmc_license_success",
+    "iafwmc_setup_message",
+    "iafwmc_auth_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:21.977Z"
+}

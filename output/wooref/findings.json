@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wooref_cookie_expire",
+    "wooref_trackme",
+    "wooref_track_admin_email",
+    "wooref_track_user_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wooref_site_ref"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:46.417Z"
+}

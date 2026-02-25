@@ -1,0 +1,29 @@
+{
+  "options": [
+    "tmaupd_settings_all_options",
+    "tmaupd_plugin_mode_radio",
+    "tmaupd_post_types_check",
+    "tmaupd_post_dates_update",
+    "tmaupd_manual_date",
+    "tmaupd_auto_mode_period",
+    "tmaupd_keep_log",
+    "tmaupd_post_filter_mode",
+    "tmaupd_post_filter_mode_status",
+    "tmaupd_filter_ind_pid",
+    "tmaupd_filter_tax_terms",
+    "tmaupd_cpt_*",
+    "tmaupd_manual_datetime",
+    "tmaupd_auto_mode_freq",
+    "tmaupd_auto_mode_offset_mode",
+    "tmaupd_auto_mode_offset_value",
+    "tmaupd_auto_mode_offset_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tmaupd_cron_job_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:01.219Z"
+}

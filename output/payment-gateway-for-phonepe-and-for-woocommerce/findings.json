@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pgppw_activation_time",
+    "pgppw_review_notice_hide_v1",
+    "pgppw_next_show_time"
+  ],
+  "transients": [
+    "pgppw_oauth_token_live",
+    "pgppw_oauth_token_sandbox",
+    "easy_pgppw_for_woocommerce_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_phonepe_refund_txn_id",
+    "_phonepe_merchant_refund_txn_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:14.400Z"
+}

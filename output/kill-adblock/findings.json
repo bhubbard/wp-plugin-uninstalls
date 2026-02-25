@@ -1,0 +1,18 @@
+{
+  "options": [
+    "kill_adBlock_status",
+    "kill_adBlock_random_class_name",
+    "kill_adBlock_message",
+    "kill_adBlock_message_delay",
+    "kill_adBlock_close_btn",
+    "kill_adBlock_close_automatically",
+    "kill_adBlock_close_automatically_delay",
+    "kill_adBlock_message_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:50.276Z"
+}

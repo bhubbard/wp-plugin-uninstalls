@@ -1,0 +1,13 @@
+{
+  "options": [
+    "event-scheduler"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "event_scheduler_mail_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:17.057Z"
+}

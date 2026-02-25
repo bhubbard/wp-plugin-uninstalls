@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tinypng_logging_enabled",
+    "*_size_w",
+    "*_size_h",
+    "tantan_wordpress_s3"
+  ],
+  "transients": [
+    "tiny_rpc_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:19.102Z"
+}

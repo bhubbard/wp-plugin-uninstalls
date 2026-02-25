@@ -1,0 +1,22 @@
+{
+  "options": [
+    "xeweb-sam_admin_see_all_pages",
+    "xeweb-sam_redirect_page",
+    "xeweb-sam_shortcode_all_pages",
+    "xeweb-sam_message_no_posts",
+    "xeweb-sam_post_limit_widget",
+    "xeweb-sam_list_posts_text",
+    "xeweb-sam_allowed_post_types",
+    "xeweb-sam_admin_remove_empty_cats",
+    "xeweb-sam_auto_menu_remove",
+    "xeweb-sam_list_posts_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "txsc_allowed_users"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:10.603Z"
+}

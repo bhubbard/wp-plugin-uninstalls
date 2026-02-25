@@ -1,0 +1,30 @@
+{
+  "options": [
+    "__templateberg_do_redirect",
+    "__gutentor_do_redirect"
+  ],
+  "transients": [
+    "templateberg_edt_free",
+    "templateberg_edt_max",
+    "templateberg_edt_*",
+    "templateberg_tj_*",
+    "templateberg_gt_max",
+    "templateberg_gt_total",
+    "templateberg_tt_max",
+    "templateberg_tt_total",
+    "*_max",
+    "*_total",
+    "templateberg_gt_*",
+    "templateberg_tt_*",
+    "templateberg_ct_p_*",
+    "templateberg_gt_p_*",
+    "templateberg_tt_p_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "templateberg-gutentor-imd-tmls"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:52.442Z"
+}

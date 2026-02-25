@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_price_thousand_sep",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_num_decimals",
+    "woocommerce_currency_pos",
+    "_redmuber_item_*",
+    "ninja_forms_addons_feed"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:45.810Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "*_log",
+    "eefcf7_emercury_db_issues_log",
+    "eefcf7_emercury_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:52.976Z"
+}

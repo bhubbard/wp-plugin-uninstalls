@@ -1,0 +1,25 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*",
+    "*_dismiss_news",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "total_sales",
+    "_stock",
+    "_stock_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:59.642Z"
+}

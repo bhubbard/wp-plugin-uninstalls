@@ -1,0 +1,17 @@
+{
+  "options": [
+    "spfw_version",
+    "woocommerce_version",
+    "spfw_empty_behavior"
+  ],
+  "transients": [
+    "_spfw_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_spfw_related_ids"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:49.022Z"
+}

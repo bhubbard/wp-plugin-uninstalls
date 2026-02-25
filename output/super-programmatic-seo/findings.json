@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ai_service",
+    "groq_api_key",
+    "gemini_api_key",
+    "hf_api_key",
+    "super_programmatic_seo_campaigns",
+    "super_programmatic_seo_company_details",
+    "pseo_company_details",
+    "super_programmatic_seo_monthly_usage",
+    "super_programmatic_seo_api_settings"
+  ],
+  "transients": [
+    "super_programmatic_seo_campaign_error",
+    "super_programmatic_seo_campaign_success"
+  ],
+  "cron_jobs": [
+    "super_programmatic_seo_process_campaigns_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_super_programmatic_seo_generated",
+    "_super_programmatic_seo_generated_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:21.384Z"
+}

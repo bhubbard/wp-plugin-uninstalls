@@ -1,0 +1,31 @@
+{
+  "options": [
+    "category_indexer_version",
+    "category_indexer_category_options",
+    "_transient_*",
+    "_transient_timeout_*",
+    "category_indexer_option_shop",
+    "category_indexer_option_shop_canonical",
+    "category_indexer_option_orderby",
+    "category_indexer_option_url_parameters",
+    "category_indexer_option_search",
+    "category_indexer_option_pagination",
+    "category_indexer_global_category_defaults",
+    "category_indexer_per_page",
+    "category_indexer_redirect_log_db_version",
+    "woocommerce_permalinks",
+    "category_indexer_redirect_options"
+  ],
+  "transients": [
+    "category_indexer_categories",
+    "category_indexer_options",
+    "category_indexer_parents",
+    "category_indexer_show_upgrade_notice",
+    "ci_cleanup_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:18.027Z"
+}

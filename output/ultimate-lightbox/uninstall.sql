@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ulb-settings', 'EWD_ULB_Full_Version', 'ulb-permission-level', 'EWD_ULB_Custom_CSS', 'EWD_ULB_Add_Lightbox', 'EWD_ULB_Image_Class_List', 'EWD_ULB_Image_Selector_List', 'EWD_ULB_Transition_Effect', 'EWD_ULB_Transition_Speed', 'EWD_ULB_Background_Close', 'EWD_ULB_Gallery_Loop', 'EWD_ULB_Mousewheel_Navigation', 'EWD_ULB_Curtain_Slide', 'EWD_ULB_Overlay_Text_Source', 'EWD_ULB_Disable_Other_Lightboxes', 'EWD_ULB_Show_Thumbnails', 'EWD_ULB_Show_Thumbnail_Toggle', 'EWD_ULB_Show_Overlay_Text', 'EWD_ULB_Start_Autoplay', 'EWD_ULB_Autoplay_Interval', 'EWD_ULB_Show_Progress_Bar', 'EWD_ULB_Hide_On_Mobile', 'EWD_ULB_Min_Height', 'EWD_ULB_Min_Width', 'EWD_ULB_Transition_Type', 'EWD_ULB_Top_Right_Controls', 'EWD_ULB_Top_Left_Controls', 'EWD_ULB_Bottom_Right_Controls', 'EWD_ULB_Bottom_Left_Controls', 'EWD_ULB_Arrow', 'EWD_ULB_Icon_Set', 'EWD_ULB_Styling_Title_Font', 'EWD_ULB_Styling_Title_Font_Size', 'EWD_ULB_Styling_Title_Font_Color', 'EWD_ULB_Styling_Description_Font', 'EWD_ULB_Styling_Description_Font_Size', 'EWD_ULB_Styling_Description_Font_Color', 'EWD_ULB_Styling_Arrow_Size', 'EWD_ULB_Styling_Arrow_Color', 'EWD_ULB_Styling_Arrow_Background_Color', 'EWD_ULB_Styling_Arrow_Background_Opacity', 'EWD_ULB_Styling_Icon_Size', 'EWD_ULB_Styling_Icon_Color', 'EWD_ULB_Styling_Background_Overlay_Color', 'EWD_ULB_Styling_Background_Overlay_Opacity', 'EWD_ULB_Styling_Toolbar_Color', 'EWD_ULB_Styling_Toolbar_Opacity', 'EWD_ULB_Styling_Image_Overlay_Color', 'EWD_ULB_Styling_Image_Overlay_Opacity', 'EWD_ULB_Styling_Thumbnail_Bar_Color');
+DELETE FROM wp_options WHERE option_name IN ('EWD_ULB_Styling_Thumbnail_Bar_Opacity', 'EWD_ULB_Styling_Thumbnail_Scroll_Arrow_Color', 'EWD_ULB_Styling_Active_Thumbnail_Border_Color', 'ulb-review-ask-time', 'EWD_ULB_Ask_Review_Date', 'ulb-installation-time', 'EWD_ULB_Install_Time', 'ulb-getting-started');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_EWD_ULB_Add_Lightbox', '_EWD_ULB_Paired_Image_ID');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_EWD_ULB_Add_Lightbox', '_EWD_ULB_Paired_Image_ID');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_EWD_ULB_Add_Lightbox', '_EWD_ULB_Paired_Image_ID');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_EWD_ULB_Add_Lightbox', '_EWD_ULB_Paired_Image_ID');
+

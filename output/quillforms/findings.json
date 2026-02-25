@@ -1,0 +1,34 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "quillforms_version",
+    "quillforms-flush-rewrite-rules",
+    "quillforms_ai_api_key",
+    "quillforms_license"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count",
+    "quillforms_installing"
+  ],
+  "cron_jobs": [
+    "quillforms_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "blocks",
+    "messages",
+    "notifications",
+    "payments",
+    "products",
+    "coupons_usage_count",
+    "theme",
+    "settings",
+    "quiz",
+    "description",
+    "customCSS"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:29.633Z"
+}

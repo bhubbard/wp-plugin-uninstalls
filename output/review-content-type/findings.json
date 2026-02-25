@@ -1,0 +1,33 @@
+{
+  "options": [
+    "rct_permalink_settings",
+    "rct_version",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "rct_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rct_*",
+    "_rct_name",
+    "_rct_pros",
+    "_rct_cons",
+    "_rct_summary",
+    "_rct_min_price",
+    "_rct_max_price",
+    "_rct_pros_heading",
+    "_rct_cons_heading",
+    "_rct_summary_heading",
+    "_rct_featured_image_link",
+    "_rct_link_url",
+    "_rct_link_text",
+    "_rct_link_style",
+    "_rct_rating_type",
+    "_rct_rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:40.824Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "glycerine_api_key",
+    "glycerine_iaw_base_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:22.058Z"
+}

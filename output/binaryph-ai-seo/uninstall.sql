@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('binaryph_ai_seo_grok_api_key', 'binaryph_ai_seo_gemini_api_key', 'binaryph_ai_seo_openrouter_api_key', 'binaryph_ai_seo_ollama_api_key', 'binaryph_ai_seo_openwebui_api_key', 'binaryph_ai_seo_openwebui_instance_url', 'binaryph_ai_seo_default_ai', 'binaryph_ai_seo_ai_model', 'binaryph_ai_seo_pages_last_synced', 'binaryph_ai_seo_posts_last_synced', 'binaryph_ai_seo_products_last_synced', 'binaryph_ai_seo_schedule_enabled', 'binaryph_ai_seo_schedule_frequency', 'binaryph_ai_seo_schedule_time');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_yoast_wpseo_focuskw', 'rank_math_focus_keyword');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_yoast_wpseo_focuskw', 'rank_math_focus_keyword');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_yoast_wpseo_focuskw', 'rank_math_focus_keyword');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_yoast_wpseo_focuskw', 'rank_math_focus_keyword');
+

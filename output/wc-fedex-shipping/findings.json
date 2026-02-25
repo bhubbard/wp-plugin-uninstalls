@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2"
+  ],
+  "transients": [
+    "*_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_length",
+    "_width",
+    "_height",
+    "_weight"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:44.604Z"
+}

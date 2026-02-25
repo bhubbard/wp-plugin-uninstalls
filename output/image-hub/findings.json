@@ -1,0 +1,29 @@
+{
+  "options": [
+    "image_hub_enable_media_modal",
+    "image_hub_max_image_width",
+    "image_hub_max_image_height",
+    "image_hub_api_keys_giphy_api_key",
+    "image_hub_api_keys_openverse_client_id",
+    "image_hub_api_keys_openverse_client_secret",
+    "image_hub_api_keys_pexels_api_key",
+    "image_hub_api_keys_pixabay_api_key",
+    "image_hub_api_keys_unsplash_access_key",
+    "image_hub_enable_unsplash",
+    "image_hub_enable_openverse",
+    "image_hub_enable_pixabay",
+    "image_hub_enable_pexels",
+    "image_hub_enable_giphy",
+    "image_hub_enable_image_attribution",
+    "image_hub_use_default_keys",
+    "image_hub_enable_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:31.360Z"
+}

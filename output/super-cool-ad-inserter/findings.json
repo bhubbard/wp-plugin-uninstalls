@@ -1,0 +1,16 @@
+{
+  "options": [
+    "scaip_settings_start",
+    "scaip_settings_period",
+    "scaip_settings_repetitions",
+    "scaip_settings_min_paragraphs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "scaip_prevent_shortcode_addition"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:09.637Z"
+}

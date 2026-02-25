@@ -1,0 +1,19 @@
+{
+  "options": [
+    "jlplg_lovecoding-field1-cookie-message",
+    "jlplg_lovecoding-field3-cookie-button-text",
+    "jlplg_lovecoding-field2-checkbox-privacy-policy",
+    "jlplg_lovecoding-field5-background-color",
+    "jlplg_lovecoding-field6-text-color",
+    "jlplg_lovecoding-field7-button-background-color",
+    "jlplg_lovecoding-field8-button-text-color",
+    "jlplg_lovecoding-field4-cookie-plugin-placement",
+    "jlplg_lovecoding-field9-cookie-expire-time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:13.879Z"
+}

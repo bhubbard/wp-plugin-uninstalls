@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wp_paypal_enable_ipn_validation",
+    "wp_paypal_enable_receiver_check",
+    "wp_paypal_merchant_id",
+    "wp_paypal_email",
+    "wp_paypal_checkout_options",
+    "wp_paypal_enable_debug",
+    "wp_paypal_enable_testmode",
+    "wp_paypal_db_version",
+    "wp_paypal_currency_code",
+    "wp_paypal_checkout_load_scripts_globally",
+    "wppaypal_logfile_suffix",
+    "wp_paypal_email_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_txn_id",
+    "_first_name",
+    "_last_name",
+    "_payer_email",
+    "_mc_gross",
+    "_payment_status",
+    "_custom",
+    "_ipn_data",
+    "_payment_data",
+    "wp-paypal-custom-field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:27.547Z"
+}

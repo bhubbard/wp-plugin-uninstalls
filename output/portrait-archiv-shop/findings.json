@@ -1,0 +1,16 @@
+{
+  "options": [
+    "PAWPS_DISPLAY_ROWS",
+    "PAWPS_DISPLAY_COLS",
+    "PAWPS_TEMPLATE_NAME",
+    "PAWPS_DEBUG"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pawps_refresh_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:12.505Z"
+}

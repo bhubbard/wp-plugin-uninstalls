@@ -1,0 +1,15 @@
+{
+  "options": [
+    "zazzle_gallery_name",
+    "zazzle_theme",
+    "zazzle_background_color",
+    "zazzle_product_image_size",
+    "zazzle_product_line"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:12.271Z"
+}

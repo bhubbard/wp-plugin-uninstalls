@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lhr_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lhr_cleanup_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:03.295Z"
+}

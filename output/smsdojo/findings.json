@@ -1,0 +1,18 @@
+{
+  "options": [
+    "smsdojo_enable_order_creation_trigger",
+    "smsdojo_enable_order_update_trigger",
+    "smsdojo_enable_order_cancellation_trigger",
+    "smsdojo_sim_id",
+    "smsdojo_api_key",
+    "smsdojo_sms_template_order_creation",
+    "smsdojo_sms_template_order_update",
+    "smsdojo_sms_template_order_cancellation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:31.748Z"
+}

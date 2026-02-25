@@ -1,0 +1,14 @@
+{
+  "options": [
+    "vbean_favicon_metrobgcolour",
+    "vbean_favicon_iconimage",
+    "vbean_favicon_iconlandscape",
+    "vbean_favicon_faviconoverridetheme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:05.017Z"
+}

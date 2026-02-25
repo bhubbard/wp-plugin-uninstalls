@@ -1,0 +1,17 @@
+{
+  "options": [
+    "spotify_master_load_size_basic",
+    "spotify_master_load_size_detailed",
+    "spotify_master_load_theme_light",
+    "spotify_master_load_theme_dark",
+    "spotifybutton_size_choice",
+    "spotifybutton_theme_choice",
+    "tsm_quote"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:20.307Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_elementor_fep_settings",
+    "fep_informations",
+    "fep_how_to_configure",
+    "fep_debug"
+  ],
+  "transients": [
+    "fep-admin-notice-migration-done",
+    "fep-admin-notice-activation",
+    "fep-admin-notice-update-user-preferences"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "elementor_preferences"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:28.434Z"
+}

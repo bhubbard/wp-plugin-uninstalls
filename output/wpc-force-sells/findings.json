@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woofs_settings",
+    "woofs_localization",
+    "woofs_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woofs_separately",
+    "woofs_sync_quantity",
+    "woofs_layout",
+    "woofs_before_text",
+    "woofs_after_text",
+    "woofs_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:05.893Z"
+}

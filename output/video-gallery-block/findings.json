@@ -1,0 +1,13 @@
+{
+  "options": [
+    "vgbAPIKey",
+    "vgbUtils",
+    "fs_lite_accounts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:09.608Z"
+}

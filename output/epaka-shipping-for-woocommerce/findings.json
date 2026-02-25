@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_checkout_fields",
+    "woocommerce_checkout_field_editor_fields",
+    "woocommerce_meta_box_order",
+    "woocommerce_shop_order_columns",
+    "epakshfo_plugin_version"
+  ],
+  "transients": [
+    "wc_admin_active_fields",
+    "wc_admin_meta_boxes",
+    "wc_order_export_columns",
+    "wc_checkout_fields",
+    "epakshfo_deactivation_notice",
+    "wc_shipping_method_count",
+    "shipping_method_count_*",
+    "epakshfo_flash_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_house_number",
+    "_shipping_house_number",
+    "_billing_nip",
+    "_billing_company",
+    "_block_order_structure",
+    "_order_processed_by_epakshfo_plugin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:53.733Z"
+}

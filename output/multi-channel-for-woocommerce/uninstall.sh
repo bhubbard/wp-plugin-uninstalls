@@ -1,0 +1,55 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_mapping_saved'"
+wp option delete 'momcs_sync_seller_id'
+
+# Delete Transients
+wp transient delete 'momcs_miniorange_notice'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_amz_asin'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_amz_asin'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_amz_asin'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_amz_asin'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_amz_listing_issues'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_amz_listing_issues'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_amz_listing_issues'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_amz_listing_issues'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_amz_listing_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_amz_listing_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_amz_listing_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_amz_listing_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_amz_channel_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_amz_channel_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_amz_channel_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_amz_channel_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_momcs_amz_bullet_point_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_momcs_amz_bullet_point_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_momcs_amz_bullet_point_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_momcs_amz_bullet_point_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_amz_id_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_amz_id_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_amz_id_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_amz_id_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_amz_id_value'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_amz_id_value'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_amz_id_value'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_amz_id_value'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_amz_condition'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_amz_condition'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_amz_condition'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_amz_condition'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_sync_restrictions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_sync_restrictions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_sync_restrictions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_sync_restrictions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_asin'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_asin'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_asin'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_asin'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_momcs_sync_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_momcs_sync_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_momcs_sync_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_momcs_sync_date'"

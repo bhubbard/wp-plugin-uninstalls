@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tes_user",
+    "couryier_account_no",
+    "woocommerce_default_country",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city"
+  ],
+  "transients": [
+    "currency_rates"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awb_tracking_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:22.540Z"
+}

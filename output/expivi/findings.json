@@ -1,0 +1,37 @@
+{
+  "options": [
+    "expivi-settings",
+    "expivi-prf-settings",
+    "expivi-smd-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "xpv_generated",
+    "expivi_id",
+    "xpv_pre_configuration",
+    "xpv_show_3d_hover_icon",
+    "xpv_auto_rotate_product",
+    "xpv_show_progress",
+    "xpv_camera_position_thumbnail",
+    "xpv_show_options",
+    "xpv_hide_price",
+    "xpv_hide_price_when_zero",
+    "xpv_price_layout",
+    "xpv_add_to_cart_process",
+    "xpv_enable_pdf_download",
+    "xpv_pdf_orientation",
+    "xpv_add_to_cart_text",
+    "xpv_sku_generation_text",
+    "xpv_sku_generation_delimiter",
+    "xpv_shop_flow",
+    "xpv_auto_scroll_stepper",
+    "placeableProducts",
+    "placeable_products",
+    "pre_configuration",
+    "xpv_placeable_products"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:47.819Z"
+}

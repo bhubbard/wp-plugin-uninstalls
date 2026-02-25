@@ -1,0 +1,23 @@
+{
+  "options": [
+    "html_validation_completed_scan",
+    "html_validation_cron_frequency",
+    "html_validation_error_types",
+    "html_validation_version",
+    "html_validation_terms",
+    "html_validation_posttypes",
+    "html_validation_scan_themes",
+    "html_validation_errors_per_page",
+    "html_validation_external_sources"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "html_validation_initial_scan_cron_hook",
+    "html_validation_auto_scan_cron_hook",
+    "html_validation_inital_scan_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:11.552Z"
+}

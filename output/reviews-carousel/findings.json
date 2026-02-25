@@ -1,0 +1,17 @@
+{
+  "options": [
+    "revica_items",
+    "revica_autoplay",
+    "revica_arrows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_revica_media_type",
+    "_revica_video_id",
+    "_revica_image_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:24.121Z"
+}

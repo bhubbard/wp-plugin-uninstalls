@@ -1,0 +1,20 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('analytify_profile_exception', 'analytify_ga4_exceptions', 'analytify_tracking_property_info', 'wpanalytify_settings', 'wp-analytify-email', 'analytics_file_aliases', 'analytify_logs_setup', 'analytify_date_differ', 'pa_google_token', 'analytify_search_console_data', 'wp_analytify_modules', 'wp-analytify-profile', 'analytify_current_version', 'analytify_gtag_move_to_notice', 'analytify-ga4-streams', 'wp-analytify-advanced', 'pt_webprofile', 'pt_webprofile_dashboard', 'analytify_code', 'display_tracking_code', 'post_analytics_disable_back', 'post_analytics_access_back', 'analytify_posts_stats', 'post_analytics_settings_back', 'post_analytics_exclude_posts_back', 'wp-analytify-admin', 'post_analytics_exclude_posts', 'post_analytics_exclude_categories', 'post_analytics_exclude_tags', 'post_analytics_exclude_custom_post_types', 'post_analytics_exclude_roles', 'post_analytics_exclude_ips', 'post_analytics_exclude_domains', 'post_analytics_exclude_terms', 'post_analytics_exclude_author', 'post_analytics_exclude_date', 'post_analytics_exclude_meta', 'post_analytics_exclude_taxonomies', 'post_analytics_exclude_roles_back', 'post_analytics_exclude_ips_back', 'post_analytics_exclude_domains_back', 'post_analytics_exclude_terms_back', 'post_analytics_exclude_author_back', 'post_analytics_exclude_date_back', 'post_analytics_exclude_meta_back', 'post_analytics_exclude_taxonomies_back', 'wp-analytify-dashboard', 'analytify_free_upgrade_routine', 'analytify_ga4_mode', 'analytify_show_rank_math_notice');
+DELETE FROM wp_options WHERE option_name IN ('rank_math_google_analytic_options', 'analytify_admin_footer_text_rated', 'analytify_authentication_date', 'analytify_dismiss_pointer', 'analytify_remove_comparison_gif', 'analytify_deactivation_reason', 'analytify_deactivation_feedback', 'wpb_sdk_wp-analytify', '_analytify_optin', 'wp-analytify-events-tracking', 'wp-analytify-custom-dimensions', 'wp-analytify-forms', 'post_analytics_token', 'analytify_token_refresh_failed_email_sent', 'wpa_current_version', 'analytify_mp_secrets', 'access_role_dashboard', 'dashboard_panels', 'profiles_list_summary', 'analytify-ga-properties-summery', 'analytify_reporting_property_info', 'analytify_ua_code', 'wp-analytify-modules', 'wp_analytify_pro_addons', 'analytify_default_settings', 'analytify_active_date', 'show_welcome_page', 'profiles_list_summary_backup', 'ga4_update_number', 'ua_update_number', 'WP_ANALYTIFY_PLUGIN_VERSION', 'wp_analytify_review_dismiss_4_1_8', 'wp_analytify_active_time', 'wp_analytify_buy_pro_active_time', 'wp_analytify_buy_pro_notice', 'show_tracking_pointer_1', 'wpb_api_cache', 'WP_ANALYTIFY_NEW_LOGIN', 'WP_ANALYTIFY_PLUGIN_VERSION_OLD', 'pt_webprofile_url', 'hide_profiles', 'analytify_ga4_exception', 'analytify_ga_properties_list', 'wp-analytify-mode', 'analytify-deprecated-auth', 'analytify_quota_exception', 'profiles_list', 'analytify_token_request_error_logged', 'analytify_token_error_logged', 'analytify_token_response_error_logged');
+DELETE FROM wp_options WHERE option_name IN ('analytify_token_exception_error_logged', 'analytify_api_addons', 'update_plugins', 'update_themes');
+DELETE FROM wp_options WHERE option_name LIKE 'wpb_sdk_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_property_info';
+DELETE FROM wp_options WHERE option_name LIKE '%_dismissed';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_analytify_skip_tracking', '_analytify_exclude_from_analytics');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_analytify_skip_tracking', '_analytify_exclude_from_analytics');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_analytify_skip_tracking', '_analytify_exclude_from_analytics');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_analytify_skip_tracking', '_analytify_exclude_from_analytics');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_analytify_log_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_analytify_log_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_analytify_log_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_analytify_log_%';
+

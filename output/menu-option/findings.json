@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mo-option",
+    "_mo-option-roles",
+    "_mo-option-redirect"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:16.235Z"
+}

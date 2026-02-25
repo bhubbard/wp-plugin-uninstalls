@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_kuick_list_api_key",
+    "_kuicklist_api_key"
+  ],
+  "transients": [
+    "_kuicklist_checklists_data",
+    "_kuicklist_checklist_data_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kuick_list_checklist_id",
+    "_kuicklist_no_optin"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:15.050Z"
+}

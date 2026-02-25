@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "btcnew_connect"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "btcnew_comment_counts",
+    "btcnew_comment_summary",
+    "btcnew_post",
+    "btcnew_own_blog_comment",
+    "btcnew_retweet"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:35.603Z"
+}

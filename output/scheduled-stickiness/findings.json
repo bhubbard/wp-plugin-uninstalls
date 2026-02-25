@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "mknu_stickiness_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "mknu_sticky_date",
+    "mknu_unsticky_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:45.661Z"
+}

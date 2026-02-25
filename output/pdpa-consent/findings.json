@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pdpa-consent-page-id",
+    "pdpa_option",
+    "Activated_Plugin",
+    "pdpa-consent-user_privacy-page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pdpa_status",
+    "pdpa_status_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:15.868Z"
+}

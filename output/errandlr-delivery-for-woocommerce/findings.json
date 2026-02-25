@@ -1,0 +1,15 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_errandlr_delivery_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "errandlr_reference",
+    "errandlr_request"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:02.569Z"
+}

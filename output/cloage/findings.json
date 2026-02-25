@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_downloads_grant_access_after_payment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_cover_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:28.662Z"
+}

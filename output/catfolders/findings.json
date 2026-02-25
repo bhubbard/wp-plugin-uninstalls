@@ -1,0 +1,22 @@
+{
+  "options": [
+    "catf_license",
+    "catf_banner_sidebar_dismissed",
+    "catf_first_folder",
+    "catf_first_folder_notice_dismiss",
+    "catf_rest_api_key",
+    "catf_version",
+    "catf_settings",
+    "*_folders_import",
+    "*_attachments_import"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "catf_user_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:44.377Z"
+}

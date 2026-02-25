@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nick_ls_aboutus",
+    "nick_ls_aboutus1",
+    "nick_ls_contact",
+    "nick_ls_countdown",
+    "nick_ls_dashboard",
+    "nick_ls_design",
+    "nick_ls_seo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:20.524Z"
+}

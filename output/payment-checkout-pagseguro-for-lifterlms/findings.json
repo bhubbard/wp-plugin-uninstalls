@@ -1,0 +1,18 @@
+{
+  "options": [
+    "llms_gateway_pagseguro-v1_logging_enabled",
+    "llms_gateway_pagseguro-v1_payment_instructions",
+    "llms_gateway_pagseguro-v1_plugin_license",
+    "llms_gateway_pagseguro-v1_email",
+    "llms_gateway_pagseguro-v1_token_key",
+    "llms_gateway_pagseguro-v1_env_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_llms_order_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:27.687Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "features",
+    "instockavailability",
+    "ifoutofstock",
+    "include_tax",
+    "group_variations",
+    "custom_productId",
+    "custom_mpn",
+    "skroutz_atts_color",
+    "skroutz_atts_size",
+    "skroutz_atts_manuf",
+    "exclude_cats",
+    "enable_gtin",
+    "gtin_label",
+    "gtin_value",
+    "rollback",
+    "last_update",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "skroutz_xml_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:42.942Z"
+}

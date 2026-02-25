@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "responsive_gallery_style",
+    "responsive_image_gallery_images",
+    "responsive_image_collage",
+    "responsive_image_photobox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:52.507Z"
+}

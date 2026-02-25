@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nav_menu_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_asm-unfold",
+    "_asm-orderby",
+    "_asm-order",
+    "_asm-item-depth",
+    "_asm-item-titles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:48.557Z"
+}

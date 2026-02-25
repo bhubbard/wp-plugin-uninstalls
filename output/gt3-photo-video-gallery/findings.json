@@ -1,0 +1,36 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "gt3pg_disable_notice_pro_required_update",
+    "gt3_rate_date",
+    "gt3pg_photo_gallery",
+    "gt3pg_disable_rate_notice",
+    "gt3pg_disable_50_off",
+    "gt3pg_*"
+  ],
+  "transients": [
+    "gt3_watermark_processing",
+    "update_plugins",
+    "_gt3pg_page_welcome_redirect"
+  ],
+  "cron_jobs": [
+    "gt3pg_lite_single_event_usage"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gt3_video_url",
+    "gt3_external_link_url",
+    "_gt3pg_shortcode_count",
+    "_wp_attachment_image_alt",
+    "lazy-placeholder",
+    "_watermark_original",
+    "_watermark_id",
+    "_cpt_gt3_gallery_images_count",
+    "_cpt_gt3_gallery_images",
+    "_cpt_gt3_gallery_type",
+    "_cpt_gt3_gallery_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:55.447Z"
+}

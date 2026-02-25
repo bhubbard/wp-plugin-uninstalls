@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'playhq_date_format'
+wp option delete 'playhq_time_format'
+wp option delete 'playhq_api_key'
+wp option delete 'playhq_team_id'
+wp option delete 'playhq_organisation_id'
+wp option delete 'playhq_filter'
+wp option delete 'playhq_clean_team_names'
+wp option delete 'playhq_enable_team_selector'
+wp option delete 'playhq_selected_team_color'
+wp option delete 'playhq_phq_tenant'
+wp option delete 'playhq_table_header_bg'
+wp option delete 'playhq_table_header_text'
+wp option delete 'playhq_table_row_bg'
+wp option delete 'playhq_table_row_alt_bg'
+wp option delete 'playhq_table_text_color'
+wp option delete 'playhq_table_border_style'
+wp option delete 'playhq_table_border_weight'
+wp option delete 'playhq_table_border_color'
+wp option delete 'playhq_table_font_size'
+wp option delete 'playhq_table_header_align'
+wp option delete 'playhq_table_row_hover_bg'
+wp option delete 'playhq_table_outer_border_style'
+wp option delete 'playhq_table_outer_border_weight'
+wp option delete 'playhq_table_outer_border_color'
+wp option delete 'playhq_teams_list'
+wp option delete 'playhq_season_id'
+

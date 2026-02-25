@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_subscription_payment",
+    "edd_price",
+    "edd_variable_prices",
+    "edd_download_files",
+    "_edd_bundled_products",
+    "_edd_bundled_products_conditions",
+    "_variable_pricing",
+    "_edd_default_price_id",
+    "_edd_hide_purchase_link",
+    "_edd_download_limit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:58.061Z"
+}

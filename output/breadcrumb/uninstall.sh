@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'breadcrumb_info'
+wp option delete 'breadcrumb_options'
+wp option delete 'breadcrumb_text'
+wp option delete 'breadcrumb_home_text'
+wp option delete 'breadcrumb_display_auto_post_types'
+wp option delete 'breadcrumb_display_auto_post_title_positions'
+wp option delete 'breadcrumb_separator'
+wp option delete 'breadcrumb_display_last_separator'
+wp option delete 'breadcrumb_word_char'
+wp option delete 'breadcrumb_word_char_count'
+wp option delete 'breadcrumb_word_char_end'
+wp option delete 'breadcrumb_display_home'
+wp option delete 'breadcrumb_url_hash'
+wp option delete 'breadcrumb_hide_wc_breadcrumb'
+wp option delete 'breadcrumb_padding'
+wp option delete 'breadcrumb_margin'
+wp option delete 'breadcrumb_bg_color'
+wp option delete 'breadcrumb_link_color'
+wp option delete 'breadcrumb_font_size'
+wp option delete 'display_after_action'
+wp option delete 'display_after_action_priority'
+wp option delete 'breadcrumb_themes'
+wp option delete 'breadcrumb_separator_color'
+wp option delete 'breadcrumb_custom_css'
+wp option delete 'breadcrumb_custom_js'
+wp option delete 'woocommerce_permalinks'
+wp option delete 'breadcrumb_options_old'
+

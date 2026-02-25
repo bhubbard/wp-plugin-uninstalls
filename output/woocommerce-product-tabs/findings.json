@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wc_product_tabs_made_fields_translatable",
+    "wpt_options",
+    "woocommerce-product-tabs-setup-wizard_completed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpt_override_*",
+    "_wpt_conditions_category",
+    "_wpt_display_tab_globally",
+    "_wpt_option_use_default_for_all"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:51.605Z"
+}

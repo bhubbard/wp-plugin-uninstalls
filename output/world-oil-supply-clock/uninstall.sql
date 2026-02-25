@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('odl_background_color', 'odl_title_color', 'odl_text_color', 'odl_counter_color', 'odl_font_size', 'odl_oil_remaining', 'odl_total_world', 'odl_used_barrels', 'odl_copyright_link', 'odl_widget_background_color', 'odl_widget_title_color', 'odl_widget_text_color', 'odl_widget_font_size', 'odl_widget_counter_color', 'odl_widget_oil_remaining', 'odl_widget_total_world', 'odl_widget_used_barrels', 'odl_widget_runs_out', 'odl_widget_daily_consumption', 'odl_runs_out', 'odl_daily_consumption');
+

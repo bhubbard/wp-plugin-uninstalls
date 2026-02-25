@@ -1,0 +1,19 @@
+{
+  "options": [
+    "akawoo_url",
+    "akawoo_company_id",
+    "akawoo_email",
+    "akawoo_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:13.763Z"
+}

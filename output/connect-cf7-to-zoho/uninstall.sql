@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('Cf7zh_grand_token', 'Cf7zh_accounts_server', 'Cf7zh_client_id', 'Cf7zh_client_secret', 'Cf7zh_access_token_stored_flag', 'Cf7zh_leads', 'cfhs_notification_send_to', 'cfhs_notification_subject', 'Cf7zh_current_user_email', 'Cf7zh_notification_subject', 'Cf7zh_notification_send_to', 'Cf7zh_uninstall', 'Cf7zh_access_token');
+DELETE FROM wp_options WHERE option_name LIKE 'Cf7zh_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_form', 'Cf7zh_active', 'Cf7zh_update_person', 'Cf7zh_update_org', 'Cf7zh_fields');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_form', 'Cf7zh_active', 'Cf7zh_update_person', 'Cf7zh_update_org', 'Cf7zh_fields');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_form', 'Cf7zh_active', 'Cf7zh_update_person', 'Cf7zh_update_org', 'Cf7zh_fields');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_form', 'Cf7zh_active', 'Cf7zh_update_person', 'Cf7zh_update_org', 'Cf7zh_fields');
+

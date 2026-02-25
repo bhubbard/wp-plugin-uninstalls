@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "status_auto_res",
+    "responder_attachment",
+    "auto_responder_subject",
+    "auto_responder_message",
+    "form_code",
+    "user_email",
+    "mail_content",
+    "submit_txt",
+    "redirect_url",
+    "messages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:45.207Z"
+}

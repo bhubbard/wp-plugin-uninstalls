@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "*_id",
+    "*image_size",
+    "*lazyLoad",
+    "*link_to_size",
+    "*rel",
+    "*images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:58.285Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "thwdpf_since",
+    "active_sitewide_plugins",
+    "thwdpf_advanced_settings"
+  ],
+  "transients": [
+    "thwdpf_review_request_notice_dismissed",
+    "thwdpf_skip_review_request_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thwdpf_deactivation_snooze"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:58.667Z"
+}

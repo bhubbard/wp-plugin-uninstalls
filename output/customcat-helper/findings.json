@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ccoos_tracking_numbers",
+    "ccoos_api_key",
+    "ccoos_frequency",
+    "ccoos_email_on_update",
+    "ccoos_tracking_suppress_note_email",
+    "ccoos_tracking_mark_completed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ccoos_stock_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_is_discontinued",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:15.357Z"
+}

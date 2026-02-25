@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mrkv_nova_api_token",
+    "mrkv_nova_api_server",
+    "mrkv_nova_delivery",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:49.350Z"
+}

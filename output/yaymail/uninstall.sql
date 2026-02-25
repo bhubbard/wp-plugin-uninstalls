@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('yaymail_version_backup', 'yaymail_default_email_test', 'yaymail_settings', 'yaymail_review', 'yaymail_ghf_tour', 'yaymail_show_multi_select_notice', 'yaymail_viewed_new_elements', 'woocommerce_feature_email_improvements_enabled', 'woocommerce_email_header_image', 'woocommerce_email_base_color', 'woocommerce_email_background_color', 'woocommerce_email_body_background_color', 'woocommerce_email_body_text_color', 'woocommerce_email_footer_text', 'woocommerce_email_footer_text_color', 'yaymail_version', 'rank-math-options-titles', 'yaymail_addon_versions', '_yaymail_successful_migrations', 'yaymail_next_recommendation_suggest_addons_notice_time', 'yaymail_next_recommendation_upgrade_notice_time', 'yaymail_next_recommendation_notice_time', 'woocos_custom_order_statuses', 'woocommerce_currency', 'woocommerce_tax_display_cart', 'update_plugins');
+DELETE FROM wp_options WHERE option_name LIKE 'edd_api_request_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_license_info';
+DELETE FROM wp_options WHERE option_name LIKE '%_license_key';
+DELETE FROM wp_options WHERE option_name LIKE '%_version_info';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_pr_shipment_dhl_label_tracking', '_email_backgroundColor_settings', '_yaymail_email_order_item_title', '_email_title_billing', '_email_title_shipping', 'first_name', 'last_name', 'status_slug');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_pr_shipment_dhl_label_tracking', '_email_backgroundColor_settings', '_yaymail_email_order_item_title', '_email_title_billing', '_email_title_shipping', 'first_name', 'last_name', 'status_slug');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_pr_shipment_dhl_label_tracking', '_email_backgroundColor_settings', '_yaymail_email_order_item_title', '_email_title_billing', '_email_title_shipping', 'first_name', 'last_name', 'status_slug');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_pr_shipment_dhl_label_tracking', '_email_backgroundColor_settings', '_yaymail_email_order_item_title', '_email_title_billing', '_email_title_shipping', 'first_name', 'last_name', 'status_slug');
+

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sspp_select_template",
+    "sspp_show_buttons",
+    "sspp_show_in_pages",
+    "sspp_enable_disable",
+    "sspp_show_social_links"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:06.525Z"
+}

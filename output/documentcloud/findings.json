@@ -1,0 +1,13 @@
+{
+  "options": [
+    "documentcloud_default_height",
+    "documentcloud_default_width",
+    "documentcloud_full_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:39.370Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "iworks_orphans_options_import_messages",
+    "iworks_orphan_own_orphans",
+    "*last_used_tab",
+    "*cache_stamp",
+    "*version",
+    "*flush_rules",
+    "iworks_orphan_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:58.998Z"
+}

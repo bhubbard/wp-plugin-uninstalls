@@ -1,0 +1,30 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_currency_pos",
+    "woocommerce_weight_unit",
+    "woocommerce_checkout_page_id",
+    "woocommerce_dhlpwc_settings",
+    "woocommerce_dhlpwc_switch_loading",
+    "woocommerce_pr_dhl_dp_settings"
+  ],
+  "transients": [
+    "dhlpwc_bulk_download_*",
+    "dhlpwc_connector_cache_*",
+    "dhlpwc_debug_mail_cache_*",
+    "dhlpwc_postcode_validation_*",
+    "dhlpwc_postcode_validation*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dhlpwc_send_with_bp",
+    "dhlpwc_send_with_bp_count",
+    "dhlpwc_send_with_bp_mix",
+    "dhlpwc_enable_method_limit",
+    "dhlpwc_selected_method_limit",
+    "dhlpwc_additional_shipping_fee"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:41.799Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "italseva_validator_settings",
+    "italseva_validation_count_*",
+    "italseva_authoritative_domains",
+    "italseva_validator_db_version",
+    "italseva_validator_version",
+    "italseva_validator_delete_data_on_uninstall"
+  ],
+  "transients": [
+    "italseva_sitemap_urls",
+    "italseva_cannibalization_sitemap_posts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_italseva_meta_description",
+    "_italseva_meta_title",
+    "_italseva_intent",
+    "_yoast_wpseo_focuskw",
+    "rank_math_focus_keyword",
+    "_italseva_keyword",
+    "_italseva_result",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "rank_math_title",
+    "rank_math_description",
+    "_italseva_seo_title",
+    "_italseva_seo_description",
+    "_italseva_slug",
+    "_italseva_validation_results",
+    "_italseva_validation_timestamp",
+    "_italseva_user_tier",
+    "italseva_validator_tier",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:40.928Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "csld_version",
+    "wn_course_schedular_general_settings",
+    "wn_course_schedular_course_settings",
+    "wn_course_schedular_lesson_settings",
+    "wn_course_schedular_quiz_settings",
+    "wn_course_schedular_topic_settings",
+    "course_scheduler_ld_addon_setting",
+    "cs_ld_addon_show_course_message",
+    "cs_ld_addon_hide_course_message",
+    "cs_ld_addon_show_lesson_message",
+    "cs_ld_addon_hide_lesson_message",
+    "cs_ld_addon_show_quiz_message",
+    "cs_ld_addon_hide_quiz_message",
+    "cs_ld_addon_show_topic_message",
+    "cs_ld_addon_hide_topic_message",
+    "*_settings"
+  ],
+  "transients": [
+    "csld_review_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "course_schedule",
+    "_sfwd-lessons",
+    "_sfwd-quiz",
+    "_sfwd-topic"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:00.868Z"
+}

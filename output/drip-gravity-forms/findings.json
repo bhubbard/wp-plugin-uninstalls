@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gf_drip_version",
+    "gf_drip_settings"
+  ],
+  "transients": [
+    "gfp_drip_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gfp_drip_dismiss_menu",
+    "gfp_drip_field_guide"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:45.348Z"
+}

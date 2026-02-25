@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ctcp_merchant_id",
+    "ctc_merchant_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ctcp_payment_email",
+    "_ctcp_card_exp_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:47.946Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "magnet_related_widget_id",
+    "magnet_related_widget_order",
+    "magnet_recommended_widget_id",
+    "magnet_recommended_widget_order",
+    "magnet_entities_widget_id",
+    "magnet_entities_widget_order",
+    "magnet_intext_widget_id",
+    "magnet_intext_widget_order",
+    "magnet_follow_widget_id",
+    "magnet_follow_widget_order",
+    "magnet_customer_id",
+    "magnet_related_page_id",
+    "magnet_related_entity_id",
+    "magnet_entity_follow_widget_id",
+    "magnet_entity_follow_widget_top",
+    "magnet_entity_follow_widget_bottom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:30.340Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "elementor_leads_view_role",
+    "elementor_leads_edit_role",
+    "elementor_leads_enable_tracking"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lenix_lead_source_data",
+    "_elementor_template_widget_type",
+    "_elementor_global_widget_included_posts",
+    "_elementor_data",
+    "form_slug",
+    "post_id",
+    "lead_data",
+    "response_history",
+    "status_color",
+    "lead_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:31.898Z"
+}

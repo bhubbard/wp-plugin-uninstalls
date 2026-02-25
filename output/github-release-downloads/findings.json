@@ -1,0 +1,13 @@
+{
+  "options": [
+    "grd_token",
+    "grd_user",
+    "grd_repo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:46.643Z"
+}

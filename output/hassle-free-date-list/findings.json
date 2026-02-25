@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wpcf7"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_item_data",
+    "_date_format",
+    "_custom_day_format",
+    "_day-*",
+    "_closed_dropdown_text",
+    "_item_max",
+    "_item_count",
+    "_base_date",
+    "_base_date_abs",
+    "_base_date_rel",
+    "_closed",
+    "_closed_design",
+    "_closed_text",
+    "_closed_content",
+    "_full",
+    "_full_design",
+    "_full_text",
+    "_cp_tab",
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:37.640Z"
+}

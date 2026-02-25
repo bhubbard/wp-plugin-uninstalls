@@ -1,0 +1,25 @@
+{
+  "options": [
+    "_kre_select_collection",
+    "_KRE_STORAGE_AUTO",
+    "_KRE_STORAGE_CHOICE",
+    "IPFS_API",
+    "IPFS_CLUSTER_API",
+    "IPFS_PINNING_API",
+    "_KRE_IPFS_STORAGE_KEY",
+    "_KRE_SWARM_ENDPOINT",
+    "_KRE_SWARM_STORAGE_KEY"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kre_nid",
+    "_kre_pdf_modified_date",
+    "_kre_url",
+    "_kre_uri",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:09.363Z"
+}

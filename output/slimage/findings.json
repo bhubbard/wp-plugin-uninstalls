@@ -1,0 +1,20 @@
+{
+  "options": [
+    "slimage_enable_compression",
+    "slimage_server_path",
+    "slimage_jpegoptim_level",
+    "slimage_optipng_level",
+    "slimage_jpegoptim_extras",
+    "slimage_optipng_extras"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slimage_override",
+    "slimage_quality",
+    "slimage_extras"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:32.039Z"
+}

@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('elex_nyp_customization_data', 'nyp_general_settings', 'elex_cpp_settings_enable_min_product_price', 'elex_cpp_settings_tab_min_product_price', 'elex_cpp_settings_tab_min_product_price_type', 'elex_cpp_settings_tab_max_product_price', 'elex_cpp_settings_tab_max_product_price_type', 'elex_cpp_settings_tab_min_product_price_label', 'elex_cpp_settings_tab_min_product_price_description', 'elex_cpp_settings_add_to_cart_label', 'elex_cpp_settings_enable_regular_sale_price_on_product_page', 'elex_cpp_settings_disable_settings_on_shop_page', 'woocommerce_price_num_decimals', 'elex_cpp_settings_tab_product_category', 'active_sitewide_plugins');
+DELETE FROM wp_options WHERE option_name LIKE '%_review_never_ask_again';
+DELETE FROM wp_options WHERE option_name LIKE '%_review_will_do_it_later';
+DELETE FROM wp_options WHERE option_name LIKE '%_troubleshoot_never_ask_again';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('elex_wfp_category_custom_text_field_flag', 'elex_wfp_category_custom_min_price_type_text_field', 'elex_wfp_category_custom_min_price_text_field', 'elex_wfp_category_custom_max_price_type_text_field', 'elex_wfp_category_custom_max_price_text_field', 'elex_wfp_product_min_price_dynamic_label', 'elex_wfp_product_min_price_description', 'elex_wfp_hide_price_regular_sale_flag', 'elex_wfp_add_to_cart_text');
+DELETE FROM wp_usermeta WHERE meta_key IN ('elex_wfp_category_custom_text_field_flag', 'elex_wfp_category_custom_min_price_type_text_field', 'elex_wfp_category_custom_min_price_text_field', 'elex_wfp_category_custom_max_price_type_text_field', 'elex_wfp_category_custom_max_price_text_field', 'elex_wfp_product_min_price_dynamic_label', 'elex_wfp_product_min_price_description', 'elex_wfp_hide_price_regular_sale_flag', 'elex_wfp_add_to_cart_text');
+DELETE FROM wp_termmeta WHERE meta_key IN ('elex_wfp_category_custom_text_field_flag', 'elex_wfp_category_custom_min_price_type_text_field', 'elex_wfp_category_custom_min_price_text_field', 'elex_wfp_category_custom_max_price_type_text_field', 'elex_wfp_category_custom_max_price_text_field', 'elex_wfp_product_min_price_dynamic_label', 'elex_wfp_product_min_price_description', 'elex_wfp_hide_price_regular_sale_flag', 'elex_wfp_add_to_cart_text');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('elex_wfp_category_custom_text_field_flag', 'elex_wfp_category_custom_min_price_type_text_field', 'elex_wfp_category_custom_min_price_text_field', 'elex_wfp_category_custom_max_price_type_text_field', 'elex_wfp_category_custom_max_price_text_field', 'elex_wfp_product_min_price_dynamic_label', 'elex_wfp_product_min_price_description', 'elex_wfp_hide_price_regular_sale_flag', 'elex_wfp_add_to_cart_text');
+

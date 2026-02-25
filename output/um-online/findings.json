@@ -1,0 +1,18 @@
+{
+  "options": [
+    "um_online_users",
+    "um_online_users_last_updated",
+    "um_options",
+    "um_online_version",
+    "um_online_last_version_upgrade",
+    "widget_um_online_users"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hide_online_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:26.669Z"
+}

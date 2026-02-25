@@ -1,0 +1,29 @@
+{
+  "options": [
+    "levelup_library_settings",
+    "levelup-library-version",
+    "levelup-library-loaded-version",
+    "_elementor_global_css",
+    "levelup_default_designs_load",
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "levelup_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "design_unique_name",
+    "design_preview_url",
+    "design_feature_image_url",
+    "_elementor_css",
+    "_wp_page_template",
+    "_elementor_edit_mode",
+    "amp_html_markup",
+    "non_amp_html_markup",
+    "design_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:29.765Z"
+}

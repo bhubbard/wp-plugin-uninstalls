@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_bco_settings",
+    "billmate_common_activateonstatus",
+    "billmate_common_cancelonstatus"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_kco_check_optimize_notice",
+    "_billmate_transaction_id",
+    "billmate_invoice_id",
+    "_billmate_reservation_cancelled",
+    "_billmate_payment_method_id",
+    "_billmate_reservation_activated",
+    "_krokedil_refunded"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:18.480Z"
+}

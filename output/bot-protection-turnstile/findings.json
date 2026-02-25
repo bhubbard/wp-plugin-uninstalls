@@ -1,0 +1,14 @@
+{
+  "options": [
+    "AcceptStripePayments-settings",
+    "sdm_advanced_options",
+    "bpcft_db_version",
+    "bpcft_configs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:00.516Z"
+}

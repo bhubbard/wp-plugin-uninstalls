@@ -1,0 +1,19 @@
+{
+  "options": [
+    "moderncart_is_onboarding_complete",
+    "woocommerce_tax_total_display",
+    "woocommerce_private_link",
+    "woocommerce_share_key",
+    "moderncart_version"
+  ],
+  "transients": [
+    "moderncart_redirect_to_onboarding"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:14.250Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "SP_text_1",
+    "SP_text_2",
+    "ps_myphoto_page_id",
+    "SP_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:22.365Z"
+}

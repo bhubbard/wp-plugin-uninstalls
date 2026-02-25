@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_debug",
+    "theme_mods_*",
+    "allowedthemes",
+    "*_configvars",
+    "external_updates-*"
+  ],
+  "transients": [
+    "*_debug",
+    "plugins_delete_result_*"
+  ],
+  "cron_jobs": [
+    "check_plugin_updates-*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "chld_thm_cfg_upgrade_notice",
+    "_wp_attachment_is_custom_header",
+    "admin_color",
+    "ctc_pro_upgrade_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:33.795Z"
+}

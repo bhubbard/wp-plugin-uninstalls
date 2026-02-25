@@ -1,0 +1,21 @@
+{
+  "options": [
+    "number_vendor_option",
+    "vendors_ids",
+    "vendor_name_option_*",
+    "list_products_selected",
+    "vendor_list_product_option_*",
+    "is_activate_test_option",
+    "is_activate_live_option",
+    "vendor_pk_live_option_*",
+    "vendor_sk_live_option_*",
+    "vendor_pk_test_option_*",
+    "vendor_sk_test_option_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:04.450Z"
+}

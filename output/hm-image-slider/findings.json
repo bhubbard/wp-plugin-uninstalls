@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hmis_post_slider_settings",
+    "hmis_post_slides"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:54.534Z"
+}

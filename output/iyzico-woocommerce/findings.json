@@ -1,0 +1,28 @@
+{
+  "options": [
+    "iyzico_overlay_token",
+    "iyzicoWebhookUrlKey",
+    "iyzico_google_products_xml_last_update",
+    "iyzico_google_products_next_send_time",
+    "iyzico_google_products_xml_url",
+    "iyzico_google_products_retry_data",
+    "iyzico_google_products_last_sent",
+    "iyziTLS",
+    "iyzico_overlay_position",
+    "iyzico_thank_you",
+    "init_active_webhook_url"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "iyzico_generate_google_products_xml"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_brand",
+    "_gtin",
+    "_mpn",
+    "_google_product_category"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:12.955Z"
+}

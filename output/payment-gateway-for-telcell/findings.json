@@ -1,0 +1,18 @@
+{
+  "options": [
+    "hkd_telcell_version_option",
+    "language_payment_telcell",
+    "hkdigital_telcell_checkout_id",
+    "hkd_check_activation_telcell",
+    "hkdigital_dump_telcell",
+    "woocommerce_hkd_telcell_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "PaymentID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:50.116Z"
+}

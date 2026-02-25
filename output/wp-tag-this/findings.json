@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wptagthis_data",
+    "WPtagthis"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tag_this_votes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:08.945Z"
+}

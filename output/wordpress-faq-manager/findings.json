@@ -1,0 +1,16 @@
+{
+  "options": [
+    "faq_options"
+  ],
+  "transients": [
+    "wpfaq_admin_fetch_faqs",
+    "wpfaq_widget_fetch_random",
+    "wpfaq_widget_fetch_recent",
+    "wpfaq_total_faq_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:45.235Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wpmll_db_version",
+    "woocommerce_enable_checkout_login_reminder"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:22.031Z"
+}

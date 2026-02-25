@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_options",
+    "*_account_subscribe_lists"
+  ],
+  "transients": [
+    "mp-am-last-action-data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ignore_error_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:12.757Z"
+}

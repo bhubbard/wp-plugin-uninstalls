@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ds_chatbot_delete_on_uninstall",
+    "**",
+    "ds_chatbot_api_key",
+    "ds_chatbot_endpoint",
+    "ds_chatbot_system_role",
+    "ds_chatbot_model",
+    "ds_chatbot_title",
+    "ds_chatbot_user_color",
+    "ds_chatbot_bot_color",
+    "ds_chatbot_user_text_color",
+    "ds_chatbot_bot_text_color",
+    "ds_chatbot_input_placeholder",
+    "ds_chatbot_opening_prompt",
+    "ds_chatbot_style_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ds_chatbot_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:54.877Z"
+}

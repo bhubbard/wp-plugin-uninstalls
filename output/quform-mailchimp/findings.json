@@ -1,0 +1,17 @@
+{
+  "options": [
+    "quform_mailchimp_activated",
+    "quform_mailchimp_db_version",
+    "quform_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "quform_mailchimp_integrations_order_by",
+    "quform_mailchimp_integrations_order",
+    "quform_mailchimp_integrations_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:45.852Z"
+}

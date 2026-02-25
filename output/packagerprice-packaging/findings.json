@@ -1,0 +1,14 @@
+{
+  "options": [
+    "packager_pricing_plans",
+    "packager_pricing_table_title"
+  ],
+  "transients": [
+    "packager_currency_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:22.664Z"
+}

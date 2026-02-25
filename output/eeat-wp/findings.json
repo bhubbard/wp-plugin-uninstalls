@@ -1,0 +1,25 @@
+{
+  "options": [
+    "_eeatwpcp_citations_limit",
+    "eeatwpcp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eeatwpcp_citations",
+    "eeatwpcp_description",
+    "eeatwpcp_alumni_of",
+    "eeatwpcp_employer",
+    "eeatwpcp_job_title",
+    "eeatwpcp_knows_about",
+    "eeatwpcp_website",
+    "eeatwpcp_facebook",
+    "eeatwpcp_twitter",
+    "eeatwpcp_linkedin",
+    "_eeatwpcp_co_authors",
+    "_eeatwpcp_review_by"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:01.619Z"
+}

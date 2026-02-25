@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_documentation_permalinks",
+    "wp_documentation_settings",
+    "wp_documentation_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "list_serialized",
+    "_wp_documentation",
+    "wp_documentation_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:59.462Z"
+}

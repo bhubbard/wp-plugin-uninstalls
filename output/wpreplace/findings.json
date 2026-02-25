@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpreplace_options",
+    "wpreplace_version",
+    "wpreplace_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpreplace_cleanup_old_backups"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:38.334Z"
+}

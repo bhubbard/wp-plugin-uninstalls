@@ -1,0 +1,28 @@
+{
+  "options": [
+    "eism_backupsettings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_price",
+    "_product_image_gallery",
+    "_regular_price",
+    "_sale_price",
+    "_stock",
+    "_sold_individually",
+    "_low_stock_amount",
+    "_weight",
+    "_height",
+    "_length",
+    "_width",
+    "_shipping_class",
+    "_backorders"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:14.936Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "castio_rewrite_flushed",
+    "castio_rewrite_sig",
+    "castio_hls_latency",
+    "castio_default_poll",
+    "castio_max_minutes",
+    "castio_invite_enabled",
+    "castio_invite_subject",
+    "castio_license_key",
+    "castio_stripe_pk",
+    "castio_stripe_sk",
+    "castio_default_currency",
+    "castio_invite_template"
+  ],
+  "transients": [
+    "*_last",
+    "*_win",
+    "castio_license_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "castio_purchases",
+    "castio_purchases_detail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:21.746Z"
+}

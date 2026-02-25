@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wcvs_is_installed",
+    "*_flash_messages",
+    "_transient_*",
+    "active_sitewide_plugins",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hover_image",
+    "color",
+    "image",
+    "label"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:24.295Z"
+}

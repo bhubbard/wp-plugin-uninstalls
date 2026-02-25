@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpp_setting",
+    "wpp_redirection_feed*",
+    "num_post_rss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_image",
+    "download_count",
+    "like_count",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:31.967Z"
+}

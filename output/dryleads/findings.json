@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dryleads_flow_id",
+    "dryleads_enable_widget",
+    "dryleads_contact_form_7",
+    "dryleads_city"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:57.625Z"
+}

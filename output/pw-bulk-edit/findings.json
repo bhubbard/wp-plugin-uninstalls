@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_calc_taxes",
+    "woocommerce_manage_stock",
+    "woocommerce_tax_classes",
+    "pwbe_views",
+    "pwbe_database_version",
+    "pwbe_hide_pimwick_menu",
+    "hide_pimwick_menu",
+    "pwbe_requires_capability",
+    "pwbe_selected_view",
+    "pwbe_help_minimize_filter_help",
+    "pwbe_help_dismiss_intro"
+  ],
+  "transients": [
+    "wc_featured_products"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:55.731Z"
+}

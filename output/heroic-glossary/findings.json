@@ -1,0 +1,12 @@
+{
+  "options": [
+    "htgb_activation_time",
+    "htgb_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:17.832Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hhg_scrol_to_top_image_src",
+    "hhg_scrol_to_top_enabled",
+    "hhg_scrol_to_top_time",
+    "hhg_scrol_to_top_position",
+    "hhg_scrol_to_top_padding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:08.251Z"
+}

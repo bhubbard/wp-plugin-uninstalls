@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wc_ps_general",
+    "wc_ps_cart_page",
+    "wc_ps_checkout_page",
+    "wc_ps_order_view_page",
+    "wc_ps_shop_page",
+    "wc_ps_single_product",
+    "_wc_product_subtitle",
+    "*_active_addons",
+    "*_ignore",
+    "*_notice_ignore",
+    "wponion_*",
+    "_wponion_endpoints",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_ps_subtitle",
+    "_sku",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:38.261Z"
+}

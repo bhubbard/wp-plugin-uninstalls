@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "floact_enable",
+    "floact_button_text",
+    "floact_sub_text",
+    "floact_url",
+    "floact_position",
+    "floact_opacity",
+    "floact_button_color",
+    "floact_click_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:06.797Z"
+}

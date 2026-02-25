@@ -1,0 +1,27 @@
+{
+  "options": [
+    "popup_overlay_color",
+    "popup_border_radius",
+    "popup_box_shadow",
+    "popup_close_button_size",
+    "popup_close_button_radius",
+    "popup_close_button_alignment",
+    "popupfe_redirect_on_activation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_popup_id_*",
+    "_elementor_popup_show_on_load",
+    "_elementor_popup_delay",
+    "_elementor_popup_show_on_scroll",
+    "_elementor_popup_scroll_percentage",
+    "_elementor_popup_exit_intent",
+    "_elementor_exit_intent_display_mode",
+    "_elementor_trigger_selector_enabled",
+    "_elementor_trigger_selector"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:20.230Z"
+}

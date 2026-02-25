@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pulsemaps_options",
+    "pulsemaps_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pulsemaps_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:41.315Z"
+}

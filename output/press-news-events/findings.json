@@ -1,0 +1,25 @@
+{
+  "options": [
+    "rewrite_rules",
+    "pne_settings_press_releases",
+    "pne_press_release_boilderplate",
+    "pne_admin_notices",
+    "pne_settings_auto_archive",
+    "pne_settings_inject_meta"
+  ],
+  "transients": [
+    "pne_flush_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_location",
+    "_all_day",
+    "_starts",
+    "_ends",
+    "_link",
+    "_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:08.034Z"
+}

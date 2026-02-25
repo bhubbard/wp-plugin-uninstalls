@@ -1,0 +1,14 @@
+{
+  "options": [
+    "apb_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "apb_start_date",
+    "apb_end_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:55.308Z"
+}

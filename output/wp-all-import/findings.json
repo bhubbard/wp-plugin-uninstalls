@@ -1,0 +1,42 @@
+{
+  "options": [
+    "wp_all_import_taxonomies_hierarchy_*",
+    "wp_all_import_comments_hierarchy_*",
+    "wp_all_import_posts_hierarchy_*",
+    "wp_all_import_comment_posts_*",
+    "_wp_all_import_functions_hash_*",
+    "*_notice_ignore",
+    "wpai_parser_type",
+    "*_",
+    "wpai_parser_type_0",
+    "wpai_parser_type_*",
+    "default_term_*",
+    "default_product_cat",
+    "post_count",
+    "acf_addon_notice_ignore",
+    "wp_all_export_notice_ignore",
+    "active_sitewide_plugins",
+    "pmxi_is_migrated",
+    "*_Options",
+    "wpai_modal_review_dismissed",
+    "wpai_modal_review_dismissed_time",
+    "wpai_modal_review_dismissed_modals",
+    "wpai_modal_review_dismissed_times"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stock_status",
+    "_stock",
+    "thumbnail_id",
+    "nickname",
+    "description",
+    "_wp_old_slug",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:43.924Z"
+}

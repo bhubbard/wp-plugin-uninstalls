@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wplra_login_redirect_enable",
+    "wplra_login_redirect_filters"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:10.526Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ppgbo_premium_userId', 'ppgbo_obfuscation', 'ppgbo_price_display', 'ppgbo_oldprice_display', 'ppgbo_description_display', 'ppgbo_description_short_display', 'ppgbo_image_display', 'ppgbo_image_display_hover', 'ppgbo_name_display', 'ppgbo_balise_title', 'ppgbo_counter_line', 'ppgbo_css_custom', 'ppgbo_hide_inactive', 'ppgbo_hide_available', 'ppgbo_on_sale', 'ppgbo_description_short_size', 'ppgbo_description_size', 'ppgbo_template_product', 'ppgbo_message', 'ppgbo_new_tab', 'ppgbo_hide_visibility', 'ppgbo_counter_freemium', 'ppgbo_use_cache', 'ppgbo_image_format', 'ppgbo_btn_goto_product', 'ppgbo_navigation_carrousel', 'ppgbo_arrows_carrousel', 'ppgbo_dots_carrousel', 'ppgbo_hide_stock', 'ppgbo_prestashop_webservice', 'ppgbo_prestashop_url', 'ppgbo_premium_key', 'ppgbo_use_categories');
+

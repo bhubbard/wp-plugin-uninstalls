@@ -1,0 +1,23 @@
+{
+  "options": [
+    "gtm4publishers_settings",
+    "gtm4publishers_activation_redirect"
+  ],
+  "transients": [
+    "gtm4pubs_cache",
+    "gtm4pubs_temp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gtm4pubs_premium_content",
+    "_gtm4pubs_evergreen_content",
+    "_elementor_edit_mode",
+    "_et_pb_use_builder",
+    "_et_pb_built_for_post_type",
+    "_wpb_vc_js_status",
+    "_wpb_vc_js_interface_version"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:07.296Z"
+}

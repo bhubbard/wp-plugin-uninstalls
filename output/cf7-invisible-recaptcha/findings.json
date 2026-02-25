@@ -1,0 +1,20 @@
+{
+  "options": [
+    "invisible_recaptcha_sitekey",
+    "invisible_recaptcha_secretkey",
+    "invisible_recaptcha_badge",
+    "invisible_recaptcha_badge_position",
+    "invisible_recaptcha_button_class",
+    "invisible_recaptcha_badge_exclude",
+    "invisible_recaptcha_enable",
+    "wpgdprc_integrations_contact-form-7_error_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_messages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:32.745Z"
+}

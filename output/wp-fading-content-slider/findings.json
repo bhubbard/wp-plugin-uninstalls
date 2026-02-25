@@ -1,0 +1,27 @@
+{
+  "options": [
+    "sort",
+    "order",
+    "timeout",
+    "fading_slider_width",
+    "fading_slider_height",
+    "fading_slider_bg",
+    "fading_slider_border",
+    "text_width",
+    "text_color",
+    "img_width",
+    "img_height",
+    "limit",
+    "points",
+    "limit_posts",
+    "auto_switch"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fading_slider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:39.459Z"
+}

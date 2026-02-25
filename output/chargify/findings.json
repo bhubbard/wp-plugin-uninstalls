@@ -1,0 +1,17 @@
+{
+  "options": [
+    "chargify"
+  ],
+  "transients": [
+    "chargify-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "chargify_access_check",
+    "chargify_access",
+    "chargify_level"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:10.962Z"
+}

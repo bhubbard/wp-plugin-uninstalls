@@ -1,0 +1,29 @@
+{
+  "options": [
+    "cpnfwc_webform_settings",
+    "cpnfwc_cart_abandone_settings",
+    "plugin_status_campaign_plus",
+    "compaign_syn_prodcuts_list",
+    "compaign_syn_customers_list",
+    "compaign_syn_orders_list"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cpnfwc_shopCustomerScheduler",
+    "cpnfwc_shopProductsScheduler",
+    "cpnfwc_shopOrdersScheduler",
+    "cpnfwc_shopForceContact",
+    "cpnfwc_shopForceProductsSync",
+    "cpnfwc_shopForceOrdersSync",
+    "cpnfwc_campaignPlusDailySync",
+    "CampaignCartAbandone"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "campaignplus_newsletter_status",
+    "_regular_price",
+    "_sale_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:50.320Z"
+}

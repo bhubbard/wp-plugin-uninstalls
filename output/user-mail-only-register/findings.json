@@ -1,0 +1,16 @@
+{
+  "options": [
+    "usermailonlyregister",
+    "multibytecaptchalogin"
+  ],
+  "transients": [
+    "umor_captcha_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lp_terms_of_use"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:05.713Z"
+}

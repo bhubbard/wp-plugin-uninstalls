@@ -1,0 +1,30 @@
+{
+  "options": [
+    "nvb_shortcode-text",
+    "nvb_table-maxrow",
+    "nvb_result-maxrow",
+    "nvb_fixture-maxrow",
+    "*algemeen-vereniging",
+    "*algemeen-locatie",
+    "*algemeen-datumtijd",
+    "*algemeen-highlight",
+    "*algemeen-icon",
+    "*algemeen-style",
+    "*algemeen-htmlstyle",
+    "*table-maxname",
+    "*table-fixture",
+    "*table-sets",
+    "*fixture-location",
+    "*fixture-city",
+    "*fixture-ical",
+    "*fixture-route",
+    "*table-result",
+    "*result-sets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:26.459Z"
+}

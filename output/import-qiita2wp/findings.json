@@ -1,0 +1,17 @@
+{
+  "options": [
+    "import_qiita2wp_settings",
+    "import_qiita2wp_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "import_qiita2wp_update_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "import_qiita2wp_url",
+    "qiita2wp_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:51.332Z"
+}

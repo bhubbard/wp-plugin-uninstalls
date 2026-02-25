@@ -1,0 +1,17 @@
+{
+  "options": [
+    "awd_modified_date_color",
+    "awd_modified_date_font_size",
+    "awd_modified_date_font_weight",
+    "awd_modified_date_font_style",
+    "awd_modified_date_prefix_type",
+    "awd_modified_date_custom_prefix",
+    "awd_modified_date_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:29.688Z"
+}

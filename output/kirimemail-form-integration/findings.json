@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ke_wpform_api_username",
+    "ke_form_active",
+    "ke_wpform_api_token",
+    "ke-wp-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kirimemail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:25.067Z"
+}

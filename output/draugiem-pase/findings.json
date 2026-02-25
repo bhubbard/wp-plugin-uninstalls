@@ -1,0 +1,13 @@
+{
+  "options": [
+    "draugiem_config"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "draugiem_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:14.189Z"
+}

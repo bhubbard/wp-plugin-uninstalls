@@ -1,0 +1,20 @@
+{
+  "options": [
+    "catablog-options",
+    "catablogcart_pageid",
+    "catablogcart_hideprices",
+    "catablogcart_mpclientid",
+    "catablogcart_mpclientscrt",
+    "catablogcart_mpsandbox",
+    "catablogcart_emailfrom",
+    "catablogcart_emailsubject",
+    "catablogcart_emailhtml",
+    "catablogcart_emailtemplate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:53.141Z"
+}

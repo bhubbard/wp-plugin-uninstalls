@@ -1,0 +1,13 @@
+{
+  "options": [
+    "recooty_widget_id",
+    "recooty_widget_language",
+    "recooty_widget_jobsperpage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:39.193Z"
+}

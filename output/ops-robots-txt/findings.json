@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "whatsapp_no",
+    "whatsapp_msg",
+    "shopingwebsite",
+    "noindex_value"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:40.166Z"
+}

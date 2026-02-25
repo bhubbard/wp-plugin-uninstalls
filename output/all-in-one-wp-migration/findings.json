@@ -1,0 +1,21 @@
+{
+  "options": [
+    "_elementor_global_css",
+    "_elementor_assets_data",
+    "elementor-custom-breakpoints-files",
+    "woocommerce_force_ssl_checkout",
+    "fs_accounts",
+    "fs_dbg_accounts",
+    "fs_active_plugins",
+    "fs_api_cache",
+    "fs_dbg_api_cache",
+    "fs_debug_mode",
+    "cron"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:25:43.807Z"
+}

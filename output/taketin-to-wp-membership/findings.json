@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tmp-finish-setup",
+    "tmp-settings",
+    "taketin-mp-messages",
+    "tmp-use-tickets",
+    "tmp-messages",
+    "tmp-db-version",
+    "tmp_use_tickets",
+    "tmp2db_db_version",
+    "tmp2wp_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nav_menu_exclude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:49.589Z"
+}

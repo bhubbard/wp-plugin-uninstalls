@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ect_portfolio",
+    "ect_testimonial",
+    "ect_featured_content",
+    "ect_service",
+    "ect_food_menu",
+    "featured_content_content",
+    "ect_food_menu_order",
+    "jetpack_portfolio_content",
+    "ect_service_content",
+    "jetpack_testimonial_content",
+    "ctp_options"
+  ],
+  "transients": [
+    "featured-content-count-cache",
+    "jetpack-portfolio-count-cache",
+    "service-count-cache",
+    "jetpack-testimonial-count-cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ect_food_price",
+    "ect_testimonial_position"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:34.806Z"
+}

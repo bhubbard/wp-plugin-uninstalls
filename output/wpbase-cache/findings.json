@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpbase_cache_options",
+    "wpbase_req_cache_new",
+    "wpbase_check_site"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:03.212Z"
+}

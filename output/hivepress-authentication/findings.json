@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hp_user_auth_methods",
+    "hp_facebook_app_id",
+    "hp_google_client_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:40.219Z"
+}

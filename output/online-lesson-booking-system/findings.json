@@ -1,0 +1,21 @@
+{
+  "options": [
+    "olbversion"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "olb_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "user_address",
+    "user_phone",
+    "user_skype",
+    "olbgroup",
+    "olbterm",
+    "show_admin_bar_front",
+    "olbprofile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:14.638Z"
+}

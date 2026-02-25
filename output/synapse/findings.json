@@ -1,0 +1,23 @@
+{
+  "options": [
+    "synapse_api_rate_limit",
+    "synapse_enable_login_tracking",
+    "synapse_plugin_tags_cache",
+    "sg_security_login_url",
+    "synapse_api_keys"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "synapse_new_api_key_*"
+  ],
+  "cron_jobs": [
+    "synapse_update_plugin_tags_cache_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "last_login"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:22.123Z"
+}

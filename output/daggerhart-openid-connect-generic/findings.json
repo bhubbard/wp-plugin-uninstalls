@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_transient_openid-connect-generic-state--*",
+    "openid-connect-generic-plugin-version"
+  ],
+  "transients": [
+    "openid-connect-generic-state--*"
+  ],
+  "cron_jobs": [
+    "openid-connect-generic-cron-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "openid-connect-generic-last-token-response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:08.712Z"
+}

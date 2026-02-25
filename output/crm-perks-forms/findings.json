@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_plugin_version",
+    "*_meta",
+    "crm_perks_upload_folder",
+    "*_msgs",
+    "*_upload_folder",
+    "cfx_form_install_entries_notice",
+    "*_install_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_form"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:40.864Z"
+}

@@ -1,0 +1,35 @@
+{
+  "options": [
+    "eafl_migrated_to_version",
+    "eafl_specific_migrations",
+    "eafl_find_relations",
+    "eafl_flush",
+    "eafl_settings",
+    "eafl_activated",
+    "wpurp_cache",
+    "eafl_option",
+    "eafl_click_db_version",
+    "eafl_relation_db_version",
+    "*_settings"
+  ],
+  "transients": [
+    "eafl_import_links_csv",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eafl_feedback",
+    "eafl_dismissed_notices",
+    "eafl_clicks",
+    "eafl_clicks_summary",
+    "eafl_clicks_total",
+    "wprmp_equipment_eafl",
+    "wprmp_ingredient_eafl",
+    "wprmp_term_eafl",
+    "wpupg_custom_image_id",
+    "eafl_replacement"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:13.133Z"
+}

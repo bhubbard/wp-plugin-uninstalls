@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bbp_unread_posts_debug",
+    "bbp_unread_post_image_path_unread",
+    "bbp_unread_post_image_path_read",
+    "bbp_unread_post_amount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_last_active_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:31.519Z"
+}

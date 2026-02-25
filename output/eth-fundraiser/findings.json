@@ -1,0 +1,22 @@
+{
+  "options": [
+    "eth_fundraiser_version",
+    "eth_fundraiser_address",
+    "eth_fundraiser_banner_background",
+    "eth_fundraiser_title",
+    "eth_fundraiser_title_color",
+    "eth_fundraiser_svg_circle",
+    "eth_fundraiser_svg_eth_icon",
+    "eth_fundraiser_button_background",
+    "eth_fundraiser_close_btn_color",
+    "eth_fundraiser_eth_price_color",
+    "eth_fundraiser_banner",
+    "eth_fundraiser_button_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:02.991Z"
+}

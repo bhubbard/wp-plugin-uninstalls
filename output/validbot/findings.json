@@ -1,0 +1,13 @@
+{
+  "options": [
+    "validbot_api_key",
+    "validbot_email",
+    "validbot_subscriber"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:55.225Z"
+}

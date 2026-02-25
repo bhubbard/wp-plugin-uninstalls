@@ -1,0 +1,15 @@
+{
+  "options": [
+    "simple_subtitles_version",
+    "simple_subtitle_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_simple_subtitle",
+    "_lp_simple_subtitle"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:06.925Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "beautiful_taxonomy_filters_version",
+    "beautiful_taxonomy_filters_post_types",
+    "polylang",
+    "beautiful_taxonomy_filters_taxonomies",
+    "beautiful_taxonomy_filters_automagic",
+    "beautiful_taxonomy_filters_styles",
+    "beautiful_taxonomy_filters_custom_css",
+    "beautiful_taxonomy_filters_disable_select2",
+    "beautiful_taxonomy_filters_clear_all",
+    "beautiful_taxonomy_filters_show_count",
+    "beautiful_taxonomy_filters_show_description",
+    "beautiful_taxonomy_filters_hide_empty",
+    "beautiful_taxonomy_filters_disable_heading",
+    "beautiful_taxonomy_filters_disable_postcount",
+    "beautiful_taxonomy_filters_dropdown_behaviour",
+    "beautiful_taxonomy_filters_settings",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "btf_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:43.112Z"
+}

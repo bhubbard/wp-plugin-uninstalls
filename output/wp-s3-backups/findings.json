@@ -1,0 +1,17 @@
+{
+  "options": [
+    "s3b-schedule",
+    "s3b-access-key",
+    "s3b-secret-key",
+    "s3b-bucket",
+    "s3b-section"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "s3-backup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:36.728Z"
+}

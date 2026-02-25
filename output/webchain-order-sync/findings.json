@@ -1,0 +1,16 @@
+{
+  "options": [
+    "webchain_user_email",
+    "webchain_wallet",
+    "webchain_connection_status",
+    "webchain_sync_errors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_webchain_tx_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:44.955Z"
+}

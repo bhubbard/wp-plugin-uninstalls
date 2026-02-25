@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_background_color",
+    "_custom_background_image_id",
+    "_custom_background_repeat",
+    "_custom_background_position_x",
+    "_custom_background_position_y",
+    "_custom_background_attachment",
+    "_wp_attachment_is_custom_background"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:44.371Z"
+}

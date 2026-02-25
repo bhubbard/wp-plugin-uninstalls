@@ -1,0 +1,15 @@
+{
+  "options": [
+    "simpods_all_tables",
+    "pprf_updated_tables"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pod_index",
+    "pandarepeaterfield_field_width"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:49.041Z"
+}

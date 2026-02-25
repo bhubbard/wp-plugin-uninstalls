@@ -1,0 +1,50 @@
+{
+  "options": [
+    "mulopimfwc_license_key",
+    "mulopimfwc_license_status",
+    "mulopimfwc_display_options",
+    "woocommerce_manage_stock",
+    "mulopimfwc_database_indexes_added",
+    "onepaquc_analytics_last_sent"
+  ],
+  "transients": [
+    "mulopimfwc_admin_notice",
+    "mulopimfwc_settings_reset",
+    "mulopimfwc_bulk_action_assign_location",
+    "mulopimfwc_bulk_action_remove_location"
+  ],
+  "cron_jobs": [
+    "send_plugin_analytics_*",
+    "mulopimfwc_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "street_address",
+    "city",
+    "state",
+    "postal_code",
+    "country",
+    "email",
+    "phone",
+    "display_order",
+    "pickup_locations",
+    "mlpimforwc_ny_notice_dismissed_until",
+    "mulopimfwc_assigned_locations",
+    "mulopimfwc_manager_capabilities",
+    "_stock",
+    "_stock_status",
+    "_location_stock_*",
+    "_location_sale_price_*",
+    "_price",
+    "_purchase_price",
+    "_purchase_quantity",
+    "_location_disabled_*",
+    "_location_backorders_*",
+    "_location_regular_price_*",
+    "_sale_price",
+    "_regular_price",
+    "mulopimfwc_user_locations"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:16.163Z"
+}

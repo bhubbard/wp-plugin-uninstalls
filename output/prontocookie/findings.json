@@ -1,0 +1,17 @@
+{
+  "options": [
+    "prontocookie_app_key",
+    "prontocookie_app_secret",
+    "prc_disable_sslverify",
+    "prc_site_configuration",
+    "prntck_disable_sslverify",
+    "prntck_site_configuration",
+    "*-prntck-logger-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:00.779Z"
+}

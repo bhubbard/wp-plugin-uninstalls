@@ -1,0 +1,22 @@
+{
+  "options": [
+    "BugLibraryGeneral"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bug-library-assignee",
+    "first_name",
+    "last_name",
+    "bug-library-product-version",
+    "bug-library-reporter-name",
+    "bug-library-reporter-email",
+    "bug-library-resolution-date",
+    "bug-library-resolution-version",
+    "bug-library-image-path",
+    "public_bug_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:02.000Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "categories-image-id",
+    "_reference_knowledgebase_menu_meta_key",
+    "_reference_knowledgebase_comment_feedback_meta_key",
+    "_reference_knowledgebase_breadcrumbs_meta_key",
+    "_knowledgebase_feedback_ip_meta_key",
+    "_knowledgebase_feedback_confirm_meta_key",
+    "_knowledgebase_feedback_decline_meta_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:12.932Z"
+}

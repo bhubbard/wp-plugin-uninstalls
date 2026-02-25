@@ -1,0 +1,14 @@
+{
+  "options": [
+    "argonz_groq_api_key",
+    "argonz_aiml_api_key",
+    "argonz_api_service",
+    "argonz_api_models"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:24.913Z"
+}

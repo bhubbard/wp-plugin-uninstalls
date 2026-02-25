@@ -1,0 +1,32 @@
+{
+  "options": [
+    "renewai_debug_mode",
+    "renewai_api_provider",
+    "renewai_openai_model",
+    "renewai_openai_max_tokens",
+    "renewai_openai_temperature",
+    "renewai_openai_system_prompt",
+    "renewai_prompt_library",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "renewai_first_interaction"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:46.314Z"
+}

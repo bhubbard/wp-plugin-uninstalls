@@ -1,0 +1,19 @@
+{
+  "options": [
+    "dashdig_api_key",
+    "dashdig_enabled",
+    "dashdig_script_position",
+    "dashdig_exclude_admins",
+    "dashdig_tracking_id",
+    "dashdig_tracking_enabled",
+    "dashdig_track_admins",
+    "dashdig_site_id",
+    "dashdig_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:52.486Z"
+}

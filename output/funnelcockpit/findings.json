@@ -1,0 +1,21 @@
+{
+  "options": [
+    "funnelcockpit_apikey_private",
+    "funnelcockpit_apikey_public",
+    "funnelcockpit_funnel_id",
+    "funnelcockpit_print_head"
+  ],
+  "transients": [
+    "*_time",
+    "*_head",
+    "*_body",
+    "*_splitTestsEnabled"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "funnelpage_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:23.926Z"
+}

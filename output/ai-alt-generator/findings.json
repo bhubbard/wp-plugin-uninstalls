@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aialge_access_token",
+    "aialge_custom_prompt",
+    "aialge_username",
+    "aialge_password",
+    "aialge_auto_approve",
+    "aialge_passord"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_ai_proposed_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:43.890Z"
+}

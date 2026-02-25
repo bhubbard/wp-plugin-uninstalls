@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpcev_settings",
+    "wpcev_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcev_url",
+    "wpcev_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:28.542Z"
+}

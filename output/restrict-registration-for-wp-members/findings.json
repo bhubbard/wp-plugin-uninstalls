@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ntmrr_blacklisted_emails",
+    "ntmrr_whitelisted_emails",
+    "ntmrr_email_not_approved_message",
+    "ntmrr_redirect_on_unapproved",
+    "ntmrr_redirect_on_unapproved_url",
+    "ntmrr_registration_form_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:10.227Z"
+}

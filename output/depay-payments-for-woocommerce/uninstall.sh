@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'depay_wc_db_version'
+wp option delete 'depay_wc_gateway_type'
+wp option delete 'depay_wc_blockchains'
+wp option delete 'depay_wc_accepted_payments'
+wp option delete 'depay_wc_tokens'
+wp option delete 'depay_wc_checkout_description_arbitrum'
+wp option delete 'depay_wc_checkout_description_avalanche'
+wp option delete 'depay_wc_checkout_description_base'
+wp option delete 'depay_wc_checkout_description_bsc'
+wp option delete 'depay_wc_checkout_description_ethereum'
+wp option delete 'depay_wc_checkout_description_fantom'
+wp option delete 'depay_wc_checkout_description_gnosis'
+wp option delete 'depay_wc_checkout_description_optimism'
+wp option delete 'depay_wc_checkout_description_polygon'
+wp option delete 'depay_wc_checkout_description_solana'
+wp option delete 'depay_wc_checkout_description_worldchain'
+wp option delete 'depay_wc_checkout_title'
+wp option delete 'depay_wc_checkout_description'
+wp option delete 'depay_wc_api_key'
+wp option delete 'depay_wc_token_for_denomination'
+wp option delete 'woocommerce_price_num_decimals'
+wp option delete 'woocommerce_default_country'
+wp option delete 'woocommerce_currency'
+wp option delete 'depay_wc_receiving_wallet_address'
+wp option delete 'depay_wc_displayed_currency'
+

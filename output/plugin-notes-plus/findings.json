@@ -1,0 +1,12 @@
+{
+  "options": [
+    "plugin_notes_plus_db_version",
+    "plugin_notes_plus_note_placement"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:57.465Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "outpaceseo_settings",
+    "outpaceseo_search_settings",
+    "outpaceseo_sitemap_settings",
+    "outpaceseo_bulk_counter",
+    "op_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_outpaceseo_script_status",
+    "_outpaceseo_script_position",
+    "_outpaceseo_script_code",
+    "_outpaceseo_script_pagetrack",
+    "_outpaceseo_script_pagetrack_type",
+    "_outpaceseo_script_page",
+    "_outpaceseo_script_post",
+    "_outpaceseo_title",
+    "_outpaceseo_meta_desc",
+    "_outpaceseo_page_slug",
+    "_outpaceseo_indexing",
+    "_outpaceseo_follow",
+    "_outpaceseo_canonical_url",
+    "_wp_attachment_image_alt",
+    "outpaceseo-schema-type",
+    "outpaceseo-*",
+    "outpaceseo-schema-location",
+    "outpaceseo-schema-exclusion",
+    "outpaceseo-review",
+    "*-location",
+    "*-exclusion",
+    "*-users",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:36.308Z"
+}

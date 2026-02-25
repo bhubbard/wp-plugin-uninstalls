@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpseoai_log",
+    "wpseoai_debug",
+    "wpseoai_credit",
+    "wpseoai_host",
+    "wpseoai_subscription_id",
+    "wpseoai_secret",
+    "wpseoai_llm",
+    "wpseoai_mode",
+    "wpseoai_return_host"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:59.541Z"
+}

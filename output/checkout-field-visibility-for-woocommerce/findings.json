@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*cron_log",
+    "*api_license_key",
+    "*hide_shipping_fields_toggle",
+    "*hide_billing_fields_toggle",
+    "*results_returned",
+    "wcbilling_hide_fn",
+    "wcbilling_hide_zerototal",
+    "*billing_conditions",
+    "*billing_operator",
+    "*billing_condition_subfield",
+    "woo_checkout_hide_shipping_fields_toggle",
+    "woo_checkout_hide_billing_fields_toggle",
+    "woo_checkout_api_get_response",
+    "wp_zamartz_admin_event_tracker",
+    "zamartz_api_admin_notice_data",
+    "*api_password",
+    "*api_product_id",
+    "*api_purchase_emails",
+    "*api_get_response",
+    "*api_admin_notice_data",
+    "*network_admin_api_status",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zamartz_api_cron_schedule_twice_monthly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:58.245Z"
+}

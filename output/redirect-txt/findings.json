@@ -1,0 +1,13 @@
+{
+  "options": [
+    "redirect_txt_rules",
+    "redirect_txt_logs",
+    "redirect_txt_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:32.501Z"
+}

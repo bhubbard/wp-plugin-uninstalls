@@ -1,0 +1,27 @@
+{
+  "options": [
+    "author_info_Settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "description",
+    "followbitbucket",
+    "followdropbox",
+    "followfb",
+    "followflicker",
+    "followgithub",
+    "followinsta",
+    "followlinkdln",
+    "followpint",
+    "followtumbler",
+    "followtwit",
+    "followtVk",
+    "weblizar_Settings_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:39.456Z"
+}

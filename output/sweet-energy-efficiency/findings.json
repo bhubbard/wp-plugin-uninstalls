@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wal_checkbox_enable_winterlock_dash_styles",
+    "see_db_version",
+    "sweet-energy-efficiency-menuitems",
+    "sweet-energy-efficiency-submenuitems",
+    "see_allowed_admins",
+    "see_allowed_roles",
+    "see_clickatell_one_api_key",
+    "see_clickatell_http_api_key",
+    "see_smsapicom_http_api_key",
+    "see_smsto_api_key",
+    "winter_mvc_active_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:41.869Z"
+}

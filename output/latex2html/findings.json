@@ -1,0 +1,18 @@
+{
+  "options": [
+    "l2h_options",
+    "l2h_upgrade_options",
+    "latex2html_mathjax_custom_config",
+    "latex_chinese",
+    "latex_single_show",
+    "latex2html_mathjax_custom_cdn",
+    "latex_preamble",
+    "latex_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:07.180Z"
+}

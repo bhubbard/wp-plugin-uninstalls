@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mixer_ezembed_options_wall",
+    "mixer_ezembed_appearance_options_wall",
+    "mixer_ezembed_license_options_wall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:05.072Z"
+}

@@ -1,0 +1,59 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id",
+    "bonus_option_name",
+    "bfw_alternate_server",
+    "cashback_orders_to_recount",
+    "bfw_version_db",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "woocommerce_email_background_color",
+    "woocommerce_email_base_color",
+    "woocommerce_email_body_background_color",
+    "woocommerce_email_text_color",
+    "woocommerce_email_footer_text",
+    "rewrite_rules",
+    "woocommerce_myaccount_view_order_endpoint",
+    "bonus-for-woo-offline-product",
+    "bfw_partial_statistics"
+  ],
+  "transients": [
+    "bfw_pro_updated",
+    "bfw_stat_user_status_count"
+  ],
+  "cron_jobs": [
+    "bfw_clear_old_cashback",
+    "bfw_search_birthday",
+    "bfw_daily_cashback_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bfw_points_referral",
+    "bfw_points_referral_invite",
+    "points_every_day",
+    "dob",
+    "_constant_cashback_percentage",
+    "_constant_cashback_percentage_variation",
+    "f14",
+    "computy_point",
+    "daily_coupon",
+    "computy_fast_point",
+    "_order_shipping",
+    "_visibility",
+    "_stock_status",
+    "_virtual",
+    "_regular_price",
+    "_price",
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "usage_limit",
+    "expiry_date",
+    "mail_remove_points",
+    "this_year",
+    "bfw_status",
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:48.148Z"
+}

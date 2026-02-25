@@ -1,0 +1,17 @@
+{
+  "options": [
+    "raeven_b",
+    "raodd_b",
+    "caeven_b",
+    "caodd_b",
+    "fcfrcolumn_b",
+    "fcfrrow_b",
+    "customizeSettingB"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:54.762Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "mobilebanner_bgcolour",
+    "mobilebanner_textcolour",
+    "mobilebanner_text",
+    "mobilebanner_url",
+    "mobilebanner_width",
+    "mobilebanner_height",
+    "mobilebanner_chkclose",
+    "mobilebanner_cookiedays",
+    "mobilebanner_chknewtab",
+    "mobilebanner_hiddenpages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:30.427Z"
+}

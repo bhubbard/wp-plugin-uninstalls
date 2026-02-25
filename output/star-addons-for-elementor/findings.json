@@ -1,0 +1,20 @@
+{
+  "options": [
+    "new_settings2",
+    "new_settings4",
+    "new_settings1",
+    "new_settings3",
+    "new_settings5",
+    "new_settings6"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "showcase-taxonomy-image-id",
+    "showcase-tag-image-id",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:58.405Z"
+}

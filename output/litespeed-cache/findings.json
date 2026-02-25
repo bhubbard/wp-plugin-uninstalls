@@ -1,0 +1,22 @@
+{
+  "options": [
+    "litespeed.data.upgrading",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_wp_attachment_metadata",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:25:44.302Z"
+}

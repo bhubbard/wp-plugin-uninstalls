@@ -1,0 +1,14 @@
+{
+  "options": [
+    "flywp_migrate_temp_dir",
+    "flywp_migration_key"
+  ],
+  "transients": [
+    "flywp_initial_resume_interval"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:27.867Z"
+}

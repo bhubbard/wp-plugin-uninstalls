@@ -1,0 +1,35 @@
+{
+  "options": [
+    "anrghg",
+    "anrghg_convert",
+    "anrghg_reuse"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "anrghg_contents_label",
+    "anrghg_note_list_label",
+    "anrghg_source_list_label",
+    "anrghg_process_complements",
+    "anrghg_writing_dir_notes",
+    "anrghg_writing_dir_sources",
+    "anrghg_note_list_collapse",
+    "anrghg_source_list_collapse",
+    "anrghg_note_list_full_expansion",
+    "anrghg_source_list_full_expansion",
+    "anrghg_complement_list_footer_deferral",
+    "anrghg_insert_contents",
+    "anrghg_align_contents",
+    "anrghg_collapse_contents",
+    "anrghg_published_first_top",
+    "anrghg_published_first_end",
+    "anrghg_published_first_top_prefill",
+    "anrghg_published_first_end_prefill",
+    "anrghg_append_thank_you",
+    "anrghg_thank_you_template",
+    "anrghg_thank_you_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:42.697Z"
+}

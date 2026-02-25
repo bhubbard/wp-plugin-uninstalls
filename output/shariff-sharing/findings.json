@@ -1,0 +1,32 @@
+{
+  "options": [
+    "shariff_gplus",
+    "shariff_fb",
+    "shariff_twitter",
+    "shariff_linkedin",
+    "shariff_pinterest",
+    "shariff_xing",
+    "shariff_reddit",
+    "shariff_stumbleupon",
+    "shariff_whatsapp",
+    "shariff_email",
+    "shariff_info",
+    "shariff_beforeafter",
+    "shariff_image",
+    "shariff_hideonoverview",
+    "shariff_twittervia",
+    "shariff_infourl",
+    "shariff_temp",
+    "shariff_ttl",
+    "shariff_color",
+    "shariff_orientation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shariff_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:27.467Z"
+}

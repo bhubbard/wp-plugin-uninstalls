@@ -1,0 +1,36 @@
+{
+  "options": [
+    "VWvideoShareOptions",
+    "VWpaidMembershipOptions",
+    "widget_videowhisper_videos"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cron_4min_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "video-views",
+    "video-lastview",
+    "video-source-file",
+    "video-duration",
+    "video-width",
+    "video-height",
+    "video-rotate",
+    "video-bitrate",
+    "video-codec-video",
+    "video-codec-audio",
+    "video-adaptive",
+    "space-statistics",
+    "space-total",
+    "video-source-size",
+    "video-thumbnail",
+    "rateStarReview_rating",
+    "video-snapshot",
+    "convert-queued",
+    "bp_activity_id",
+    "tvshow-seasons"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:05.870Z"
+}

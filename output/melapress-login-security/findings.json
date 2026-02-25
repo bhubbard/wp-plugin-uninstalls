@@ -1,0 +1,62 @@
+{
+  "options": [
+    "*_options",
+    "fs_mls_premium",
+    "melapress_login_security_freemius_state",
+    "*_activation",
+    "*_reset_timestamp",
+    "mls_migration_status",
+    "mls_200_migration_complete",
+    "mls_migration_required",
+    "*_inactive_users",
+    "*_update_notice_needed",
+    "ppm_migration_required",
+    "ppmwp_setting",
+    "ppmwp_options",
+    "mls_migration_started",
+    "mls_setting",
+    "*_setting",
+    "*_redirect_to_settings"
+  ],
+  "transients": [
+    "fs_mls_premium",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "mls_send_summary_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_recently_unlocked_reason",
+    "*_user_has_manually_reset",
+    "*_inactive_set_time",
+    "*_recently_unlocked_time",
+    "*_recently_unlocked",
+    "*_pw_expires_soon_notice_dismissed",
+    "*_pw_expires_soon",
+    "mls_temp_user",
+    "*_last_activity",
+    "*_blocked_since",
+    "dismissed_wp_pointers",
+    "*_security_prompt_responses",
+    "mls_reset_pw_on_login",
+    "*is_blocked_user",
+    "mls_login_ips",
+    "mls_temp_user_expires_on",
+    "mls_login_count",
+    "mls_temp_user_expires_on_date",
+    "mls_temp_user_expired",
+    "mls_temp_user_max_login_limit",
+    "mls_last_login",
+    "mls_temp_user_created_on",
+    "mls_temp_user_skip_2fa",
+    "mls_temp_user_redirect_to",
+    "locale",
+    "mls_temp_user_token",
+    "wp_2fa_enforcement_state",
+    "show_welcome_panel",
+    "mls_temp_user_updated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:10.475Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "garantie_sgr_creating",
+    "garantie_sgr_version",
+    "garantie_sgr_product_id",
+    "garantie_sgr_pending_setup"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "garantie_sgr_setup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_price",
+    "_regular_price",
+    "_tax_status",
+    "_virtual",
+    "_manage_stock",
+    "_enable_sgr"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:34.112Z"
+}

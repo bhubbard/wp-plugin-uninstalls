@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wll_settings",
+    "wll_current_version",
+    "wll_notice_hide",
+    "wll_notice_hide_1",
+    "wll_notice_hide_2"
+  ],
+  "transients": [
+    "when_last_login_add_ons_page"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "when_last_login",
+    "when_last_login_count",
+    "wll_user_ip_address",
+    "wll_consent_to_track",
+    "wll_consent_to_track_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:37.233Z"
+}

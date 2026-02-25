@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_registration_generate_password",
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_registration_generate_username",
+    "woocommerce_cart_redirect_after_add",
+    "awcs-general-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:17.553Z"
+}

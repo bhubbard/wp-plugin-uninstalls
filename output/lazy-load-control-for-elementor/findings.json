@@ -1,0 +1,13 @@
+{
+  "options": [
+    "eos_llcfe_sent_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:06.223Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ch_wbitly_url_option"
+  ],
+  "transients": [
+    "wbitly_guid_success",
+    "wbitly_guid_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wbitly_shorturl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:42.176Z"
+}

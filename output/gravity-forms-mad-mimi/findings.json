@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gf_madmimi_version",
+    "gf_madmimi_settings",
+    "recently_activated"
+  ],
+  "transients": [
+    "*_remote_ad"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:40.588Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ecommerce_dashboard_options"
+  ],
+  "transients": [
+    "ecommerce_dashboard_stats"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:26.280Z"
+}

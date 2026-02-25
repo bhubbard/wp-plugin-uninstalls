@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dsn_context",
+    "dsn_priority",
+    "dsn_target",
+    "dsn_target_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:59.510Z"
+}

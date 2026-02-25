@@ -1,0 +1,18 @@
+{
+  "options": [
+    "orghunter_api_url",
+    "orghunter_api_key",
+    "orghunter_charity_search_categories_cache",
+    "orghunter_charity_search_results_page_id",
+    "orghunter_affiliate_id",
+    "orghunter_return_url",
+    "orghunter_results_count",
+    "orghunter_powered_by"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:40.121Z"
+}

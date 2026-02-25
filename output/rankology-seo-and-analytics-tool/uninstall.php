@@ -1,0 +1,138 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('rankology_setting_options');
+delete_site_option('rankology_setting_options');
+delete_option('rankology_setting_schemas');
+delete_site_option('rankology_setting_schemas');
+delete_option('rankology_setting_htaccess');
+delete_site_option('rankology_setting_htaccess');
+delete_option('rankology_setting_robot');
+delete_site_option('rankology_setting_robot');
+delete_option('rankology_apikey');
+delete_site_option('rankology_apikey');
+delete_option('woocommerce_cart_page_id');
+delete_site_option('woocommerce_cart_page_id');
+delete_option('woocommerce_checkout_page_id');
+delete_site_option('woocommerce_checkout_page_id');
+delete_option('woocommerce_myaccount_page_id');
+delete_site_option('woocommerce_myaccount_page_id');
+delete_option('rankology_ai_api_key');
+delete_site_option('rankology_ai_api_key');
+delete_option('rankology_ai_model');
+delete_site_option('rankology_ai_model');
+delete_option('rankology_ai_default_tone');
+delete_site_option('rankology_ai_default_tone');
+delete_option('rankology_ai_default_language');
+delete_site_option('rankology_ai_default_language');
+delete_option('rankology_ai_provider');
+delete_site_option('rankology_ai_provider');
+delete_option('rankology_ai_enable_product_description');
+delete_site_option('rankology_ai_enable_product_description');
+delete_option('rankology_ai_generation_history');
+delete_site_option('rankology_ai_generation_history');
+delete_option('rankology_ai_usage_logs');
+delete_site_option('rankology_ai_usage_logs');
+delete_option('bloglangage');
+delete_site_option('bloglangage');
+delete_option('rankology_image_optimizer_stats');
+delete_site_option('rankology_image_optimizer_stats');
+delete_option('rankology_image_optimizer_queue');
+delete_site_option('rankology_image_optimizer_queue');
+delete_option('rankology_webhook_secret');
+delete_site_option('rankology_webhook_secret');
+delete_option('rankology_api_key');
+delete_site_option('rankology_api_key');
+delete_option('rankology_webhook_secret_key');
+delete_site_option('rankology_webhook_secret_key');
+delete_option('rankology_cpt_settings');
+delete_site_option('rankology_cpt_settings');
+delete_option('rankology_spb_setting_options');
+delete_site_option('rankology_spb_setting_options');
+delete_option('rankology_html_stats_before');
+delete_site_option('rankology_html_stats_before');
+delete_option('rankology_html_stats_after');
+delete_site_option('rankology_html_stats_after');
+delete_option('rankology_pagespeed_cache_duration');
+delete_site_option('rankology_pagespeed_cache_duration');
+delete_option('rankology_spb_header_cache_options');
+delete_site_option('rankology_spb_header_cache_options');
+
+// Delete Transients
+delete_transient('rankology_css_regenerating_active');
+delete_site_transient('rankology_css_regenerating_active');
+delete_transient('rankology_js_regenerating_active');
+delete_site_transient('rankology_js_regenerating_active');
+delete_transient('rankology_html_precaching_active');
+delete_site_transient('rankology_html_precaching_active');
+delete_transient('rankology_cache_header_error');
+delete_site_transient('rankology_cache_header_error');
+delete_transient('rankology_cache_header_success');
+delete_site_transient('rankology_cache_header_success');
+delete_transient('rankology_gzip_success');
+delete_site_transient('rankology_gzip_success');
+delete_transient('rankology_gzip_error');
+delete_site_transient('rankology_gzip_error');
+delete_transient('rankology_pagespeed_cache_last_cleanup');
+delete_site_transient('rankology_pagespeed_cache_last_cleanup');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'rankology_enable_auto_schema_structure' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'rankology_enable_auto_schema_structure' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'rankology_enable_auto_schema_structure' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'rankology_enable_auto_schema_structure' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'rankology_schema_structure_manually' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'rankology_schema_structure_manually' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'rankology_schema_structure_manually' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'rankology_schema_structure_manually' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'rankology_meta_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'rankology_meta_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'rankology_meta_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'rankology_meta_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_rankology_ai_featured_image_optimization' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_rankology_ai_featured_image_optimization' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_rankology_ai_featured_image_optimization' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_rankology_ai_featured_image_optimization' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_short_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_short_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_short_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_short_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'rankology_redirect_meta' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'rankology_redirect_meta' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'rankology_redirect_meta' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'rankology_redirect_meta' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'redirect_type_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'redirect_type_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'redirect_type_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'redirect_type_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'rankology_header_footer' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'rankology_header_footer' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'rankology_header_footer' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'rankology_header_footer' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_rankology_webp_created' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_rankology_webp_created' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_rankology_webp_created' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_rankology_webp_created' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_rankology_original_size' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_rankology_original_size' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_rankology_original_size' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_rankology_original_size' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_rankology_optimized' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_rankology_optimized' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_rankology_optimized' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_rankology_optimized' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_rankology_optimized_size' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_rankology_optimized_size' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_rankology_optimized_size' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_rankology_optimized_size' ) );
+

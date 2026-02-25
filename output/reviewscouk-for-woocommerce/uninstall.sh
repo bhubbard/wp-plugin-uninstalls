@@ -1,0 +1,78 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'REVIEWSio_product_feed_custom_attributes'
+wp option delete 'REVIEWSio_product_feed_wpseo_global_ids'
+wp option delete 'REVIEWSio_enable_gpf_data'
+wp option delete 'REVIEWSio_enable_product_feed_cron'
+wp option delete 'REVIEWSio_product_identifier'
+wp option delete 'REVIEWSio_use_parent_product'
+wp option delete 'REVIEWSio_hide_legacy'
+wp option delete 'REVIEWSio_store_id'
+wp option delete 'REVIEWSio_api_key'
+wp option delete 'REVIEWSio_region'
+wp option delete 'REVIEWSio_send_product_review_invitation'
+wp option delete 'REVIEWSio_enable_rich_snippet'
+wp option delete 'REVIEWSio_enable_product_rich_snippet'
+wp option delete 'REVIEWSio_enable_product_rich_snippet_server_side'
+wp option delete 'REVIEWSio_product_feed'
+wp option delete 'REVIEWSio_product_feed_cron_frequency'
+wp option delete 'REVIEWSio_polaris_lang'
+wp option delete 'REVIEWSio_minimum_rating'
+wp option delete 'REVIEWSio_disable_rating_snippet_offset'
+wp option delete 'REVIEWSio_widget_hex_colour'
+wp option delete 'REVIEWSio_hide_write_review_button'
+wp option delete 'REVIEWSio_per_page_review_widget'
+wp option delete 'REVIEWSio_polaris_custom_styles'
+wp option delete 'REVIEWSio_polaris_review_widget'
+wp option delete 'REVIEWSio_reviews_tab_name'
+wp option delete 'REVIEWSio_polaris_review_widget_questions'
+wp option delete 'REVIEWSio_sentiment_analysis'
+wp option delete 'REVIEWSio_widget_custom_header_config'
+wp option delete 'REVIEWSio_widget_custom_filtering_config'
+wp option delete 'REVIEWSio_widget_custom_reviews_config'
+wp option delete 'REVIEWSio_custom_reviews_widget_styles'
+wp option delete 'REVIEWSio_enable_product_rating_snippet'
+wp option delete 'REVIEWSio_rating_snippet_no_linebreak'
+wp option delete 'REVIEWSio_rating_snippet_text'
+wp option delete 'REVIEWSio_disable_rating_snippet_popup'
+wp option delete 'REVIEWSio_enable_rating_snippet_listen_for_changes'
+wp option delete 'REVIEWSio_enable_rating_snippet_show_empty_stars'
+wp option delete 'REVIEWSio_disable_rating_snippet_popup_category'
+wp option delete 'REVIEWSio_enable_rating_snippet_custom_collection_location'
+wp option delete 'REVIEWSio_custom_rating_snippet_collection_hook'
+wp option delete 'REVIEWSio_enable_nuggets_widget'
+wp option delete 'REVIEWSio_nuggets_widget_options'
+wp option delete 'REVIEWSio_enable_floating_react_widget'
+wp option delete 'REVIEWSio_floating_react_widget_options'
+wp option delete 'REVIEWSio_enable_survey_widget'
+wp option delete 'REVIEWSio_survey_widget_options'
+wp option delete 'REVIEWSio_survey_widget_campaign_options'
+wp option delete 'REVIEWSio_carousel_type'
+wp option delete 'REVIEWSio_carousel_custom_styles'
+wp option delete 'REVIEWSio_enable_footer_scripts'
+wp option delete 'REVIEWSio_custom_footer_hooks'
+wp option delete 'REVIEWSio_footer_show_on_homepage'
+wp option delete 'REVIEWSio_footer_show_on_collection_pages'
+wp option delete 'REVIEWSio_footer_custom_script'
+wp option delete 'REVIEWSio_enable_floating_widget'
+wp option delete 'REVIEWSio_product_review_widget'
+wp option delete 'REVIEWSio_widget_custom_css'
+wp option delete 'REVIEWSio_question_answers_widget'
+wp option delete 'REVIEWSio_disable_elementor_blocks'
+wp option delete 'REVIEWSio_disable_reviews_per_product'
+wp option delete 'REVIEWSio_enable_cron'
+wp option delete 'REVIEWSio_enable_order_processing_offset'
+wp option delete 'REVIEWSio_order_processing_offset_days'
+wp option delete 'REVIEWSio_use_parent_product_rich_snippet'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpseo_global_identifier_values'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpseo_global_identifier_values'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpseo_global_identifier_values'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpseo_global_identifier_values'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_woocommerce_gpf_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_woocommerce_gpf_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_woocommerce_gpf_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_woocommerce_gpf_data'"

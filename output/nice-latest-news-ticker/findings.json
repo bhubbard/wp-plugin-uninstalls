@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "nice_ticker_cl_repeat_group",
+    "nice_ticker_heading",
+    "nice_ticker_heading_font_color",
+    "nice_ticker_heading_bg",
+    "nice_ticker_heading_bg_hover"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:22.181Z"
+}

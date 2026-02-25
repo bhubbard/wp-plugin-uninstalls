@@ -1,0 +1,27 @@
+{
+  "options": [
+    "termly_website",
+    "termly_api_key",
+    "termly_business_info",
+    "termly_business_settings",
+    "termly_banner",
+    "termly_banner_settings",
+    "termly_cookie_preference_button",
+    "termly_site_scan",
+    "termly_display_banner",
+    "termly_display_auto_blocker",
+    "termly_display_custom_map",
+    "termly_custom_blocking_map"
+  ],
+  "transients": [
+    "termly-feature-set",
+    "termly-site-scan-results"
+  ],
+  "cron_jobs": [
+    "termly_account_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:17.551Z"
+}

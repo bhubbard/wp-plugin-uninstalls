@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tzpost_excerptlen_one",
+    "tzpost_excerptlen",
+    "tzpostsmethod*",
+    "tzpost*",
+    "tzpostsmethod1",
+    "tzpostsmethod2",
+    "tzpostsmethod3"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:04.077Z"
+}

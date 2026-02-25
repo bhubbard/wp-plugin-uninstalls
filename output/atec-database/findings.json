@@ -1,0 +1,17 @@
+{
+  "options": [
+    "atec_WPAS_stats",
+    "atec_allow_integrity_check",
+    "atec_dev_mode",
+    "*_settings",
+    "atec_admin_debug"
+  ],
+  "transients": [
+    "atec_license_code"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:35.394Z"
+}

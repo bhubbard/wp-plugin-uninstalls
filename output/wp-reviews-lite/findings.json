@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "review_source",
+    "review_blurb",
+    "review_company",
+    "review_position",
+    "review_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:26.794Z"
+}

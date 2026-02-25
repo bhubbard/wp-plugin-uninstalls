@@ -1,0 +1,34 @@
+{
+  "options": [
+    "qunb_ga_token",
+    "qunb_ga_refresh_token",
+    "qunb_gp_emails",
+    "qunb_ga_profile",
+    "qunb_ga_profile_label",
+    "qunb_ga_profile_timezone",
+    "qunb_ga_web_property",
+    "qunb_ga_account",
+    "qunb_ghost_avg",
+    "qunb_ghost_avg_cumul",
+    "qunb_facebook_url",
+    "qunb_facebook_likes",
+    "qunb_twitter_screen_name",
+    "qunb_twitter_followers",
+    "qunb_nb_connections",
+    "qunb_test",
+    "qunb_cron_error"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "qunb_single_cron_hook",
+    "qunb_single_cron2_hook",
+    "qunb_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pageViews_cumul",
+    "pageViews"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:09.228Z"
+}

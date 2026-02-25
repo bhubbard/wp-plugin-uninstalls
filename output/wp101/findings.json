@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wp101-available-series",
+    "wp101_api_key",
+    "wp101_custom_topics",
+    "wp101_hidden_topics",
+    "wp101-bulk-migration-lock",
+    "wp101_db_version",
+    "wp101_admin_restriction"
+  ],
+  "transients": [
+    "wp101_topics",
+    "wp101_jetpack_topics",
+    "wp101_woocommerce_topics",
+    "wp101_wpseo_topics",
+    "wp101_message",
+    "wp101_get_admin_count",
+    "wp101_api_key_valid"
+  ],
+  "cron_jobs": [
+    "wp101-bulk-migration"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wp101-dismissed-notifications"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:28.086Z"
+}

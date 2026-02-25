@@ -1,0 +1,38 @@
+{
+  "options": [
+    "de_text_validation",
+    "de_menu_editor_enabled",
+    "de_edit_menu_page",
+    "de_menu_editor_pages",
+    "de_menu_editor_de_archive_pages",
+    "de_menu_editor_de_webforms",
+    "de_menu_editor_categories",
+    "de_menu_editor_taxonomies_*",
+    "de_menu_editor_posts",
+    "de_menu_editor_posts_*",
+    "de_page_for_*",
+    "de_smart_urls",
+    "de_wp_login_redirect",
+    "de_login_form",
+    "automatic_updates_key",
+    "de_options_wp_hooks",
+    "de_options_custom_page_types"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "de_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "de_new_page",
+    "de_slug",
+    "de_title_not_translated",
+    "de_post_parent",
+    "de_title",
+    "de_description",
+    "de_navigation_label",
+    "de_wp_hooks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:23.299Z"
+}

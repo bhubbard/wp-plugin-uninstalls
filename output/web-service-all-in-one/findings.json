@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mamurjorcoursenumber_custom_meta_key",
+    "_mamurjorcoursfeedback_custom_meta_key",
+    "_mamurjorlearn_custom_meta_key",
+    "_mamurjorteam_custom_meta_key",
+    "_mamurjorsociallink_custom_meta_key",
+    "_mamurjorsociallinktext_custom_meta_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:40.662Z"
+}

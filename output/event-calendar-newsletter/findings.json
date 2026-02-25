@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ecn_pro_license_status",
+    "wisdom_deactivation_reason_*",
+    "wisdom_deactivation_details_*",
+    "wisdom_last_track_time",
+    "wisdom_allow_tracking",
+    "wisdom_notification_times",
+    "wisdom_block_notice",
+    "wisdom_collect_email",
+    "wisdom_admin_emails"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "put_do_weekly_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_EventTimezone",
+    "_wp_attachment_image_alt",
+    "_tribe_featured",
+    "_EventHideFromUpcoming"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:38.129Z"
+}

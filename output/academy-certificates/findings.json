@@ -1,0 +1,25 @@
+{
+  "options": [
+    "academyc_default_certificate_id",
+    "academyc_required_rewrite_flush",
+    "academy_pro_version",
+    "academyc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_certificate_font_color",
+    "_certificate_font_size",
+    "_certificate_font_family",
+    "_certificate_font_style",
+    "_certificate_template_fields",
+    "_image_ids",
+    "_course_certificate_template",
+    "*_font_family",
+    "*_font_size",
+    "*_font_style"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:23.739Z"
+}

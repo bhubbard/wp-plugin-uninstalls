@@ -1,0 +1,21 @@
+{
+  "options": [
+    "acs_div_wrapper",
+    "acs_class_name",
+    "acs_slideshow_effect",
+    "acs_slideshow_interval",
+    "acs_slideshow_transition_time",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins",
+    "acs_active",
+    "cmac_afterActivation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:55.154Z"
+}

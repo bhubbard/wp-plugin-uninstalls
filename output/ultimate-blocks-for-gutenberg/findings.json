@@ -1,0 +1,36 @@
+{
+  "options": [
+    "master_blocks_saved_templates",
+    "master_blocks_global_settings",
+    "jltmb_blocks_settings",
+    "jltmb_sheet_promo_data",
+    "jltmb_sheet_promo_data_hash",
+    "active_sitewide_plugins",
+    "jltmb_activation_time",
+    "*_allow_tracking"
+  ],
+  "transients": [
+    "master_blocks_templates",
+    "jltmb_api_*",
+    "jltmb-plugin-info-*",
+    "jltmb_master_blocks_rollbacks_*",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "jltmb_sheet_promo_data_remote_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "_hello_gutenberg_field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:31.447Z"
+}

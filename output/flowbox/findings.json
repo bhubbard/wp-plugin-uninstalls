@@ -1,0 +1,13 @@
+{
+  "options": [
+    "flowbox_checkout_script",
+    "flowbox_checkout_identifier",
+    "woocommerce_review_rating_verification_required"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:32.573Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "webyx_fg_hide_admin_top_bar",
+    "webyx_fg_menu",
+    "webyx_fg_activation_time",
+    "webyx_fg_spare_me"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:50.951Z"
+}

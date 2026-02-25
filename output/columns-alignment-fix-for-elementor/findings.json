@@ -1,0 +1,12 @@
+{
+  "options": [
+    "elementor_fix_columns_alignment_default",
+    "elementor_stretched_section_container"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:25.693Z"
+}

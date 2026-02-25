@@ -1,0 +1,13 @@
+{
+  "options": [
+    "tinysolutions_pqe_settings",
+    "tinysolutions_pqe_plugin_version",
+    "tinysolutions_pqe_plugin_activation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:59.185Z"
+}

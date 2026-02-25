@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dj_access_roles",
+    "dj_default_name",
+    "dj_time_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shifts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:20.927Z"
+}

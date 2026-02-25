@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pafe_review_notification_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pafe_template_type",
+    "pafe_template_post_type",
+    "pafe_template_taxonomy",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:21.955Z"
+}

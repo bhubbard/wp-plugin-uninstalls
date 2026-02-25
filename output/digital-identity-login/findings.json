@@ -1,0 +1,23 @@
+{
+  "options": [
+    "mo_digital_id_dock_configuration_details",
+    "mo_digital_id_ms_authenticator_callback_api_key",
+    "mo_digital_id_ms_authenticator_callback_api_key_iv",
+    "mo_digital_id_ms_authenticator_configuration_details",
+    "mo_digital_id_ms_authenticator_is_app_configured",
+    "mo_digital_id_supported_wallets",
+    "mo_digital_id_admin_email",
+    "mo_digital_id_encryption_key"
+  ],
+  "transients": [
+    "mo_digital_id_proof_request_*",
+    "mo_digital_id_proof_request_status_*",
+    "mo_digital_identity_message",
+    "mo_digital_identity_support_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:45.825Z"
+}

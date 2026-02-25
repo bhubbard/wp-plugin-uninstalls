@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vccs_auto_slide",
+    "vccs_slide_speed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "vccs_logo_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:18.718Z"
+}

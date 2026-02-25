@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pic_format",
+    "pic_css",
+    "pic_days"
+  ],
+  "transients": [
+    "pic_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:21.610Z"
+}

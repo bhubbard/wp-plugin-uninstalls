@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_cashflows_card_settings",
+    "woocommerce_cashflows_paypal_settings",
+    "iccf_debug",
+    "iccf_develop",
+    "iccf_prod_api_key",
+    "iccf_prod_configuration_id",
+    "iccf_int_api_key",
+    "iccf_int_configuration_id",
+    "woocommerce_hold_stock_minutes",
+    "iccf_additional_data",
+    "iccf_google_ananlytics",
+    "iccf_store_customer_data",
+    "iccf_log_days_to_keep"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cashflows_int_customerReference",
+    "cashflows_prod_customerReference"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:43.618Z"
+}

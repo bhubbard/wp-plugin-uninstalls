@@ -1,0 +1,24 @@
+{
+  "options": [
+    "mmawpg_exc_shipping_crg",
+    "mmawpg_cod_min",
+    "mmawpg_cheque_min",
+    "mmawpg_paypal_min",
+    "mmawpg_bank_min",
+    "mmawpg_cod_max",
+    "mmawpg_cheque_max",
+    "mmawpg_paypal_max",
+    "mmawpg_bank_max",
+    "mmawpg_calc_cart",
+    "woocommerce_currency_pos",
+    "mmawpg_error_notice_min",
+    "mmawpg_error_notice_max",
+    "mmawpg_enable_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:41.835Z"
+}

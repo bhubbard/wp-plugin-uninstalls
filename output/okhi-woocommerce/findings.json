@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_okhi-integration_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_okhi_street_name",
+    "billing_okhi_property_name",
+    "billing_okhi_property_number",
+    "billing_okhi_lat",
+    "billing_okhi_lon",
+    "billing_okhi_place_id",
+    "billing_okhi_id",
+    "billing_okhi_url",
+    "billing_okhi_state",
+    "billing_okhi_neighborhood"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:22.347Z"
+}

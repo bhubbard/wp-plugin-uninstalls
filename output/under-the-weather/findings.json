@@ -1,0 +1,15 @@
+{
+  "options": [
+    "under_the_weather_settings",
+    "under_the_weather_usage_stats",
+    "under_the_weather_ratelimit_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "utw_geocoder_history"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:57.068Z"
+}

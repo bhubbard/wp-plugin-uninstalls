@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('clickrank_ai_db_version', 'clickrank_ai_max_log_entries', 'clickrank_ai_api_key', '_clickrank_ai_homepage_revert_data', '_clickrank_ai_homepage_schema', '_clickrank_ai_homepage_canonical', '_clickrank_ai_homepage_title', '_clickrank_ai_homepage_description', 'clickrank_ai_api_status', 'clickrank_ai_enable_title_opt', 'clickrank_ai_enable_meta_opt', 'clickrank_ai_enable_canonical_opt', 'clickrank_ai_enable_schema_opt', 'clickrank_ai_enable_img_alt_opt', 'clickrank_ai_enable_link_title_opt', 'clickrank_ai_activation_time', 'clickrank_ai_table_creation_error', 'clickrank_ai_install_date', 'clickrank_ai_plugin_version', 'clickrank_ai_remove_data_on_deactivate', 'clickrank_ai_last_deactivation', 'clickrank_ai_migration_results', 'clickrank_ai_use_post_meta', 'wpseo_titles', 'rank-math-options-titles', 'rank-math-options-general', 'rank_math_homepage_title', 'rank_math_homepage_description', 'clickrank_ai_last_health_check', 'clickrank_ai_activation_redirect', 'clickrank_ai_last_successful_connection');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('clickrank_ai_activation_notice', '_clickrank_ai_revert_data', '_clickrank_ai_canonical_url', '_clickrank_ai_page_schema', '_wp_attachment_image_alt', '_clickrank_ai_link_titles', '_clickrank_ai_seo_title', '_clickrank_ai_meta_description');
+DELETE FROM wp_usermeta WHERE meta_key IN ('clickrank_ai_activation_notice', '_clickrank_ai_revert_data', '_clickrank_ai_canonical_url', '_clickrank_ai_page_schema', '_wp_attachment_image_alt', '_clickrank_ai_link_titles', '_clickrank_ai_seo_title', '_clickrank_ai_meta_description');
+DELETE FROM wp_termmeta WHERE meta_key IN ('clickrank_ai_activation_notice', '_clickrank_ai_revert_data', '_clickrank_ai_canonical_url', '_clickrank_ai_page_schema', '_wp_attachment_image_alt', '_clickrank_ai_link_titles', '_clickrank_ai_seo_title', '_clickrank_ai_meta_description');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('clickrank_ai_activation_notice', '_clickrank_ai_revert_data', '_clickrank_ai_canonical_url', '_clickrank_ai_page_schema', '_wp_attachment_image_alt', '_clickrank_ai_link_titles', '_clickrank_ai_seo_title', '_clickrank_ai_meta_description');
+

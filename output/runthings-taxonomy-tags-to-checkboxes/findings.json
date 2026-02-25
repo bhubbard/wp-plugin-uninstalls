@@ -1,0 +1,15 @@
+{
+  "options": [
+    "runthings_ttc_selected_taxonomies",
+    "runthings_ttc_height_settings",
+    "runthings_ttc_show_links",
+    "runthings_ttc_allow_term_create",
+    "runthings_ttc_search_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:07.502Z"
+}

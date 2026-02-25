@@ -1,0 +1,18 @@
+{
+  "options": [
+    "digiconsent_settings",
+    "digiconsent_activation_timestamp",
+    "digiconsent_review_notice_dismissed"
+  ],
+  "transients": [
+    "digiconsent_review_notice_dismissed_temporarily",
+    "digiconsent_pro_license_details"
+  ],
+  "cron_jobs": [
+    "digiconsent_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:33.369Z"
+}

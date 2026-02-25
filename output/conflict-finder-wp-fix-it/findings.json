@@ -1,0 +1,15 @@
+{
+  "options": [
+    "conflict_finder_email_test_status",
+    "conflict_finder_plugins_temporarily_deactivated",
+    "conflict_finder_theme_temporarily_switched",
+    "conflict_finder_saved_active_theme",
+    "conflict_finder_saved_active_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:17.084Z"
+}

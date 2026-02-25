@@ -1,0 +1,30 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "cptui_post_types",
+    "cptui_taxonomies",
+    "acf_version",
+    "*_version",
+    "*_ip_grace_period_data"
+  ],
+  "transients": [
+    "acf_deactivated_notice_id",
+    "acf_network_upgrade_needed_*"
+  ],
+  "cron_jobs": [
+    "*_send_emails"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:15.471Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "opm_options",
+    "_opm_messages",
+    "starterpack_options",
+    "opm_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:45.628Z"
+}

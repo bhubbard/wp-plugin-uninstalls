@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cmfp-pipedrive-register",
+    "cmfp-pipedrive-register-stage",
+    "cmfp-pipedrive-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:24.099Z"
+}

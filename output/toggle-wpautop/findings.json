@@ -1,0 +1,14 @@
+{
+  "options": [
+    "lp_toggle_wpautop_settings",
+    "lp_toggle_wpautop_auto"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lp_disable_wpautop"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:25.834Z"
+}

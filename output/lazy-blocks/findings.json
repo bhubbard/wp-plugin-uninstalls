@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "lzb_db_version"
+  ],
+  "transients": [
+    "lazy_blocks_deactivated_notice_id"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lzb_template_data",
+    "_lzb_template_blocks",
+    "_lzb_template_convert_blocks_to_content",
+    "_lzb_template_lock",
+    "_lzb_template_post_types",
+    "lazyblocks_code_use_php",
+    "lazyblocks_code_output_method",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:45.123Z"
+}

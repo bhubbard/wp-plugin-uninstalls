@@ -1,0 +1,13 @@
+{
+  "options": [
+    "creative_scroll_to_top_button_settings"
+  ],
+  "transients": [
+    "creative_scroll_to_top_button_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:52.115Z"
+}

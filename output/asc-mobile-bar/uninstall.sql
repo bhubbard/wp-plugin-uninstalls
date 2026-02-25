@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ascmb_custom_css', 'ascmb_ddd_whatsapp', 'ascmb_WhatsApp_phone', 'ascmb_WhatsApp_message', 'ascmb_ddd_telefone', 'ascmb_telefone', 'ascmb_mapa', 'ascmb_WhatsApp_color', 'ascmb_whatsAppFont_color', 'ascmb_telefone_color', 'ascmb_telefoneFont_color', 'ascmb_share_color', 'ascmb_shareFont_color', 'ascmb_mapa_color', 'ascmb_mapaFont_color', 'ascmb_Background_color', 'ascmb_checkWhatsApp', 'ascmb_checkTelefone', 'ascmb_checkMapa', 'ascmb_checkShare', 'ascmb_checkBar');
+

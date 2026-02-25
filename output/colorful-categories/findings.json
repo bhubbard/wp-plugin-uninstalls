@@ -1,0 +1,14 @@
+{
+  "options": [
+    "colorful-categories-adbv",
+    "*_colors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cc_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:44.605Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "altvision_settings",
+    "altvision_license_status",
+    "altvision_license_key",
+    "altvision_license_error"
+  ],
+  "transients": [
+    "altvision_license_check",
+    "altvision_last_verify"
+  ],
+  "cron_jobs": [
+    "altvision_check_license",
+    "altvision_daily_license_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "altvision_default_language",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:22.596Z"
+}

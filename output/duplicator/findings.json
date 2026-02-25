@@ -1,0 +1,15 @@
+{
+  "options": [
+    "backwpup_cfg_logfolder",
+    "site_admins",
+    "active_sitewide_plugins",
+    "gd_system_last_cache_flush",
+    "duplicator_exe_safe_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:26:51.995Z"
+}

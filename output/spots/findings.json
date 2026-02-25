@@ -1,0 +1,17 @@
+{
+  "options": [
+    "spots_norobots",
+    "spots_cache_time",
+    "*_setup",
+    "spots_do_once_setup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_spot_part",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:38.184Z"
+}

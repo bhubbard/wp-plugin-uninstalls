@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('proton_google', 'proton_display_google', 'proton_google_places', 'proton_yelp', 'proton_display_yelp', 'proton_google_position', 'proton_yelp_position', 'proton_logo', 'proton_company_name', 'proton_screen_choice', 'proton_site_key', 'proton_secret_key', 'proton_location_id', 'proton_google_api_key', 'proton_yelp_id', 'proton_template', 'proton_google_array1', 'proton_mail_to', 'proton_negative_heading', 'proton_negative_message', 'proton_recommend');
+

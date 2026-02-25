@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cookiepilot_mode",
+    "cookiepilot_access_token",
+    "cookiepilot_refresh_token",
+    "cookiepilot_domain_id",
+    "cookiepilot_api_key",
+    "cookiepilot_agency_token"
+  ],
+  "transients": [
+    "cookiepilot_config_cache"
+  ],
+  "cron_jobs": [
+    "cookiepilot_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:16.003Z"
+}

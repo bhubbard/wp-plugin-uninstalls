@@ -1,0 +1,13 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('wdasr_options');
+delete_site_option('wdasr_options');
+delete_option('wdasr_saved_filters');
+delete_site_option('wdasr_saved_filters');
+

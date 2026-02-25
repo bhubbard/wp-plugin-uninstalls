@@ -1,0 +1,13 @@
+{
+  "options": [
+    "HPWAddrLookup_GeneralSettings",
+    "HPWAddrLookup_Forms",
+    "HPWAddrLookup_Woo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:01.377Z"
+}

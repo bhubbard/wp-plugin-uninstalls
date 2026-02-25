@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lyode_typing_default_loop",
+    "lyode_typing_default_style",
+    "lyode_typing_default_cursor",
+    "lyode_typing_enable_statistics",
+    "lyode_typing_statistics"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:59.850Z"
+}

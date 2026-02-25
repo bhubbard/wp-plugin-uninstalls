@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*_color",
+    "*_hover_color",
+    "ec_color",
+    "ec_hover_color",
+    "ec_cat_color_*",
+    "*_date_format",
+    "*_time_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_event_location",
+    "_event_all_day",
+    "_event_recurring",
+    "_event_frequency",
+    "_event_start_date",
+    "_event_start_time",
+    "_event_end_date",
+    "_event_end_duration",
+    "_event_end_time",
+    "_event_color",
+    "_event_hover_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:06.986Z"
+}

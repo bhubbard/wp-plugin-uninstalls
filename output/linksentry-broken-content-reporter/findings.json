@@ -1,0 +1,19 @@
+{
+  "options": [
+    "linkbrco_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "linkbrco_issue_type",
+    "linkbrco_page_url",
+    "linkbrco_message",
+    "linkbrco_read",
+    "linkbrco_reporter_email",
+    "linkbrco_user_agent",
+    "linkbrco_ip_hash"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:56.802Z"
+}

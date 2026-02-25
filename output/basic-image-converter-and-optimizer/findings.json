@@ -1,0 +1,20 @@
+{
+  "options": [
+    "basiimco_webp_quality",
+    "basiimco_avif_quality",
+    "basiimco_enable_webp",
+    "basiimco_enable_avif",
+    "basiimco_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "basiimco_cleanup_task"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_basiimco_optimized_format",
+    "_basiimco_original_size"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:45.655Z"
+}

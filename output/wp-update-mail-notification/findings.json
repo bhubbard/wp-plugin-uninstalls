@@ -1,0 +1,29 @@
+{
+  "options": [
+    "awun-is-active",
+    "awun-mail",
+    "awun-mail-headline",
+    "awun-mail-subtitle",
+    "awun-small-notice",
+    "awun-logo",
+    "awun-mail-color",
+    "awun-mail-content-header",
+    "awun-mail-content-footer",
+    "awun-mail-subject",
+    "awun-import-text",
+    "awun-schedule",
+    "awun-export-text",
+    "awun-inport-text",
+    "awun_last_sended"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "awun-scheduled"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:48.206Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_header_image_id",
+    "_custom_header_text_display",
+    "_custom_header_text_color",
+    "_wp_attachment_is_custom_header"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:37.850Z"
+}

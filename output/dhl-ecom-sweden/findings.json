@@ -1,0 +1,23 @@
+{
+  "options": [
+    "dhl_do_activation_redirect",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "create_dhl_order_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tracking_url",
+    "tracking_number",
+    "dhl_order_created"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:12.088Z"
+}

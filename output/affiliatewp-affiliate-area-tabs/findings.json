@@ -1,0 +1,14 @@
+{
+  "options": [
+    "affwp_version",
+    "affwp_aat_version",
+    "affwp_aat_version_upgraded_from",
+    "affwp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:16.438Z"
+}

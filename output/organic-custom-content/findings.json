@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tour_date_info_time",
+    "tour_date_info_date",
+    "tour_date_info_location_city_state_province_country_etc_",
+    "tour_date_info_venue",
+    "tour_date_info_venue_ticketing_url",
+    "tour_date_info_timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:03.448Z"
+}

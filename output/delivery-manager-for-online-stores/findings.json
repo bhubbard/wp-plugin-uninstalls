@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dmfos_enable_weekend",
+    "dmfos_enable_date_field",
+    "dmfos_delivery_fee"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dmfos_delivery_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:56.878Z"
+}

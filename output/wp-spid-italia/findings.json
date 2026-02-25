@@ -1,0 +1,18 @@
+{
+  "options": [
+    "spid",
+    "spid_version",
+    "spid_metadata_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "codice_fiscale",
+    "spid_attributes",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:43.468Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "berocket_dynamic_pricing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "minimum_amount",
+    "coupon_amount",
+    "discount_type",
+    "product one",
+    "product two",
+    "count_product_one",
+    "count_product_two",
+    "value_discount",
+    "type_discount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "expiry_date",
+    "apply_before_tax",
+    "free_shipping",
+    "exclude_sale_items",
+    "product_categories",
+    "exclude_product_categories",
+    "customer_email",
+    "unique"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:21.350Z"
+}

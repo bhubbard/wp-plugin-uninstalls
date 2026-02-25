@@ -1,0 +1,12 @@
+{
+  "options": [
+    "stsc_Elements",
+    "stsc_min_screen"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:00.844Z"
+}

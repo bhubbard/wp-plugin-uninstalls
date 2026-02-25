@@ -1,0 +1,63 @@
+{
+  "options": [
+    "avatar_default_wp_user_avatar",
+    "wp_user_avatar_disable_gravatar",
+    "wp_user_avatar_resize_crop",
+    "wp_user_avatar_resize_h",
+    "wp_user_avatar_resize_upload",
+    "wp_user_avatar_resize_w",
+    "wp_user_cover_upload_size_limit",
+    "wp_user_avatar_upload_size_limit",
+    "wp_user_cover_default_image_url",
+    "*_size_w",
+    "*_size_h",
+    "wp_user_avatar_default_avatar_updated",
+    "wp_user_avatar_users_updated",
+    "wp_user_avatar_media_updated",
+    "ppress_db_ver",
+    "ppress_license_key",
+    "ppress_connect_token",
+    "ppress_abdc_options",
+    "ppress_plugin_activated",
+    "ppress_new_v4_install",
+    "ppress_dismiss_leave_review_forever",
+    "ppress_install_date",
+    "ppress_cpf_select_multi_selectable",
+    "ppress_license_status",
+    "ppress_license_expired_status",
+    "fwp_dismiss_fwpadnotice",
+    "ppress_debug_log_token",
+    "ppressbfnote_dismiss_adnotice_*",
+    "ppressbfnote2022_dismiss_adnotice",
+    "ppress_is_from_wp_user_avatar",
+    "ppress_checkout_fields",
+    "ppress_login_redirect_rules",
+    "ppress_extension_manager",
+    "pand-*",
+    "wp_user_avatar_load_scripts",
+    "wpua_has_gravatar"
+  ],
+  "transients": [
+    "geoip_*",
+    "yolo-plugin-info-*",
+    "ppress_check_protection_files"
+  ],
+  "cron_jobs": [
+    "ppress_daily_recurring_job",
+    "wp_ppress_session_garbage_collection"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*user_avatar",
+    "wp_user_avatar",
+    "_wp_attachment_wp_user_avatar",
+    "pp_profile_cover_image",
+    "pp_profile_avatar",
+    "pp_uploaded_files",
+    "_pp_signup_melange_via",
+    "_pp_signup_via",
+    "description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:23.370Z"
+}

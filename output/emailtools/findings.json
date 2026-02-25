@@ -1,0 +1,15 @@
+{
+  "options": [
+    "emailtools"
+  ],
+  "transients": [
+    "emt_terms_and_conditions",
+    "required_wc",
+    "emt_required_wc"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:28.767Z"
+}

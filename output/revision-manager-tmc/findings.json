@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tmcrevisionmanagersrccomponentslicense_license",
+    "tmcrevisionmanagersrccomponentslicense_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "linked_post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:49.485Z"
+}

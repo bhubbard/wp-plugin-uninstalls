@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sms_sender_api_key",
+    "sms_sender_capabilities",
+    "sms_sender_test"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:49.592Z"
+}

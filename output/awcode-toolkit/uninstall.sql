@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aw_remote_management', 'aw_maint_mode', 'aw_maint_exceptions', 'aw_maint_title', 'aw_maint_message', 'active_sitewide_plugins', 'aw_remote_api_key', 'aw_remote_api_secret', 'aw_woo_prod_sales_count', 'aw_woo_prod_dimensions', 'aw_woo_past_order_count', 'aw_woo_utm', 'aw_woo_msp', 'aw_update_site_url', 'update_core', 'update_plugins', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_supplier_info', '_supplier_id', '_supplier', '_customer_user', '_utm');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_supplier_info', '_supplier_id', '_supplier', '_customer_user', '_utm');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_supplier_info', '_supplier_id', '_supplier', '_customer_user', '_utm');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_supplier_info', '_supplier_id', '_supplier', '_customer_user', '_utm');
+

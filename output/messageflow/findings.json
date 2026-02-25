@@ -1,0 +1,36 @@
+{
+  "options": [
+    "messageflow-settings-account-sid",
+    "messageflow-settings-auth-token",
+    "messageflow-settings-from-phone",
+    "messageflow-user-id",
+    "messageflow-settings-visibility-permission",
+    "messageflow-settings-enable-test-mode",
+    "messageflow-settings-include-statuses",
+    "messageflow-settings-test-account-sid",
+    "messageflow-settings-test-auth-token",
+    "messageflow-settings-test-from-phone",
+    "messageflow-settings-*",
+    "messageflow-settings-default-message",
+    "*account-sid",
+    "*auth-token",
+    "*from-phone",
+    "*enable-test-mode",
+    "*test-account-sid",
+    "*test-auth-token",
+    "*test-from-phone",
+    "*checkout-sms-subscription-default",
+    "*include-statuses",
+    "*default-message",
+    "*visibility-permission",
+    "*notify-service-sid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "messageflow_order_noti_is_subscribed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:11.022Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ph_peeps_phone_format",
+    "ph_peeps_public_cpt",
+    "ph_peeps_has_archive",
+    "ph_peeps_cpt_slug",
+    "ph_peeps_menu_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ph_peeps_email",
+    "ph_peeps_first_name",
+    "ph_peeps_middle_name",
+    "ph_peeps_last_name",
+    "ph_peeps_phone",
+    "ph_peeps_social_links"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:16.339Z"
+}

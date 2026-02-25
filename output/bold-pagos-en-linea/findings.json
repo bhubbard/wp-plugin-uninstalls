@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_store_logo",
+    "woocommerce_manage_stock",
+    "woocommerce_hold_stock_minutes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_test_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:57.463Z"
+}

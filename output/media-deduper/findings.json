@@ -1,0 +1,28 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "mdd_version",
+    "mdd_reindex_updated",
+    "mdd_reindex_option_changed",
+    "mdd-activated"
+  ],
+  "transients": [
+    "mdd_wp_cron_request",
+    "mdd_count_*",
+    "mdd_duplicate_ids",
+    "mdd_sharedfile_ids",
+    "mdd_count_all",
+    "mdd_count_indexed",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mdd_dismissed_notices",
+    "mdd_hash",
+    "_thumbnail_id",
+    "mdd_size"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:47.595Z"
+}

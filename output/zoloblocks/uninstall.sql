@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('zolo_sigmative_api_key', 'bdt_biggopti_dismissals', 'zolo_maintenance_mode', 'zolo_coming_soon_mode', 'zolo_maintenance_mode_template', 'zolo_site_visibility_private_link', 'zolo_site_visibility_secret_key', 'zolo_favorite_templates', 'zolo_google_api_key', 'zolo_google_spread_sheet_api_key', 'zolo_support_svg', 'zolo_enable_recaptcha', 'zolo_recaptcha_site_key', 'zolo_recaptcha_secret_key', 'zolo_mailchimp_api_key', 'zolo_mailchimp_audience_id', 'zolo_enable_template_library', 'zolo_disable_core_patterns', 'zolo_auto_recovery', 'zolo_sidebar_opener', 'zolo_webhooks', 'zolo_enable_video_link', 'zolo_blocks_settings', 'zolo_favorites', 'zolo_extensions_settings', 'zolo_meta_keys');
+DELETE FROM wp_options WHERE option_name LIKE '%-version';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('zolo-category-image-id', 'zoloClassManagerStyles', 'form_settings', 'submission_settings', 'validation_rules', 'form_entry_data', 're_captcha', 'zolo_popup_id', 'zolo_popup_repeat_num', 'zolo_popup_infinite_repeat', 'zolo_popup_trigger', 'zolo_popup_enable_disable');
+DELETE FROM wp_usermeta WHERE meta_key IN ('zolo-category-image-id', 'zoloClassManagerStyles', 'form_settings', 'submission_settings', 'validation_rules', 'form_entry_data', 're_captcha', 'zolo_popup_id', 'zolo_popup_repeat_num', 'zolo_popup_infinite_repeat', 'zolo_popup_trigger', 'zolo_popup_enable_disable');
+DELETE FROM wp_termmeta WHERE meta_key IN ('zolo-category-image-id', 'zoloClassManagerStyles', 'form_settings', 'submission_settings', 'validation_rules', 'form_entry_data', 're_captcha', 'zolo_popup_id', 'zolo_popup_repeat_num', 'zolo_popup_infinite_repeat', 'zolo_popup_trigger', 'zolo_popup_enable_disable');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('zolo-category-image-id', 'zoloClassManagerStyles', 'form_settings', 'submission_settings', 'validation_rules', 'form_entry_data', 're_captcha', 'zolo_popup_id', 'zolo_popup_repeat_num', 'zolo_popup_infinite_repeat', 'zolo_popup_trigger', 'zolo_popup_enable_disable');
+

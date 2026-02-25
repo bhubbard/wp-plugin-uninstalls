@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aegis_shield_failed_logins",
+    "aegis_shield_cron_enabled",
+    "aegis_shield_cron_frequency",
+    "aegis_shield_last_cron_scan",
+    "aegis_shield_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aegis_shield_cron_scan"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:58.149Z"
+}

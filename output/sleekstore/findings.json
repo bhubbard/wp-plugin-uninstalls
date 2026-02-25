@@ -1,0 +1,33 @@
+{
+  "options": [
+    "w9ss_addcartnumber",
+    "*_pageid",
+    "*_db_version",
+    "w9ss_autocart",
+    "w9ss_posttype",
+    "w9ss_usecss",
+    "w9ss_pageid",
+    "w9ss_email_from",
+    "w9ss_currency",
+    "w9ss_gotocart",
+    "w9ss_useamount",
+    "w9ss_unit",
+    "w9ss_hidenoinv",
+    "w9ss_payment_methods",
+    "w9ss_payment_options",
+    "w9ss_deliveries"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_w9ss_price",
+    "_w9ss_unit",
+    "_w9ss_inventory",
+    "_w9ss_useinv",
+    "_w9ss_useamount",
+    "_w9ss_limit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:59.576Z"
+}

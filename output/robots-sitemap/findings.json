@@ -1,0 +1,26 @@
+{
+  "options": [
+    "custom_sitemap_options",
+    "vo3da_ping_results",
+    "vo3da_robots_options",
+    "attachment_sitemap_items",
+    "*_sitemap_items",
+    "home_sitemap_items",
+    "*_excludeurl",
+    "wpseo_taxonomy_meta",
+    "seo_ultimate_module_meta"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "prioriti",
+    "frequencies",
+    "excludeurl",
+    "_yoast_wpseo_meta-robots-noindex",
+    "_su_meta_robots_noindex",
+    "term_last_mod"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:32.853Z"
+}

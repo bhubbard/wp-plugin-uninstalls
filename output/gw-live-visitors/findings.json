@@ -1,0 +1,24 @@
+{
+  "options": [
+    "gwlv_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gwlv_purge_old_sessions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sid",
+    "last_seen",
+    "last_url",
+    "hits",
+    "ip",
+    "country",
+    "lat",
+    "lon",
+    "first_seen",
+    "ua"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:08.096Z"
+}

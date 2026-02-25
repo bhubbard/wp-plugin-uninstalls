@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ss_selected_networks",
+    "ss_title_networks",
+    "ss_wordpress_text",
+    "ss_email_text",
+    "ss_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:35.154Z"
+}

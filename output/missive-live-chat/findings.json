@@ -1,0 +1,28 @@
+{
+  "options": [
+    "missive_chat",
+    "missive_chat_account_id",
+    "missive_chat_main_color",
+    "message_welcome",
+    "message_help",
+    "message_identify",
+    "message_error",
+    "message_title",
+    "message_online",
+    "message_offline",
+    "message_connecting",
+    "message_chat",
+    "message_internet",
+    "message_identifyName",
+    "message_identifyEmail",
+    "message_identifySubmit",
+    "message_identifyRequired",
+    "message_identifyThanks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:39.035Z"
+}

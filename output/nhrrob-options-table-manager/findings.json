@@ -1,0 +1,15 @@
+{
+  "options": [
+    "nhrotm_auto_cleanup_enabled",
+    "nhrotm_history_retention_days"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nhrotm_daily_cleanup",
+    "nhrotm_daily_history_prune"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:40.562Z"
+}

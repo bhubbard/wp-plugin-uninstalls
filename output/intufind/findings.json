@@ -1,0 +1,34 @@
+{
+  "options": [
+    "intufind_api_key",
+    "intufind_workspace_id"
+  ],
+  "transients": [
+    "intufind_connection_verified",
+    "intufind_cloud_stats",
+    "*_taxonomy"
+  ],
+  "cron_jobs": [
+    "intufind_scheduled_sync",
+    "intufind_process_sync_batch",
+    "intufind_process_sync_batch_taxonomy",
+    "*_taxonomy"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "intufind_dismissed_notices",
+    "_elementor_edit_mode",
+    "_elementor_data",
+    "_fl_builder_enabled",
+    "_fl_builder_data",
+    "thumbnail_id",
+    "display_type",
+    "product_attribute_color",
+    "pa_color",
+    "ta_color",
+    "product_attribute_image",
+    "ta_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:56.189Z"
+}

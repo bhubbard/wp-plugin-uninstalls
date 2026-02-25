@@ -1,0 +1,35 @@
+{
+  "options": [
+    "affpromos_settings",
+    "*last_full_update_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*promotion_image",
+    "*vendor_url",
+    "*vendor_category",
+    "*promotion_code",
+    "*promotion_discount",
+    "*promotion_vendor",
+    "*promotion_url",
+    "*promotion_title",
+    "*promotion_valid_from",
+    "*promotion_valid_until",
+    "*promotion_description",
+    "*offer_vendor",
+    "*offer_url",
+    "*offer_title",
+    "*offer_price",
+    "*offer_price_sale",
+    "*offer_description",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "*offer_image_url",
+    "*offer_specs",
+    "*vendor_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:18.500Z"
+}

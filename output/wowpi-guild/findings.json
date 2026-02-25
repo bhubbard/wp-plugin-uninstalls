@@ -1,0 +1,34 @@
+{
+  "options": [
+    "wowpi_guild_credentials",
+    "wowpi_guild_guild",
+    "wowpi_guild_realms",
+    "wowpi_guild_guild_roster",
+    "wowpi_guild_classes",
+    "wowpi_guild_class_*",
+    "wowpi_guild_races",
+    "wowpi_guild_specializations",
+    "*_specs",
+    "acf_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "acf_plugin_updates"
+  ],
+  "cron_jobs": [
+    "wowpi_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:34.156Z"
+}

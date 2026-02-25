@@ -1,0 +1,35 @@
+{
+  "options": [
+    "shopnotify_cart_timeout",
+    "shopnotify_first_notification_timeout",
+    "shopnotify_second_notification_timeout",
+    "shopnotify_third_notification_timeout",
+    "shopnotify_delete_cart_after_timeout",
+    "shopnotify_cart_deletion_timeout",
+    "shpn_whatsapp_license_key",
+    "shopnotify_first_shpn_template",
+    "shopnotify_second_shpn_template",
+    "shopnotify_third_shpn_template",
+    "shpn_whatsapp_license_status",
+    "Shopnotify_redirect",
+    "Shopnotify_enable_whatsapp",
+    "shopnotify_first_email_template",
+    "shopnotify_first_email_subject",
+    "shopnotify_second_email_template",
+    "shopnotify_second_email_subject",
+    "shopnotify_third_email_template",
+    "shopnotify_third_email_subject",
+    "shpn_store_name"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shpn_clear_old_carts",
+    "shpn_send_abandoned_cart_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:41.373Z"
+}

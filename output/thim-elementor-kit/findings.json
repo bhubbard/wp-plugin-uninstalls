@@ -1,0 +1,27 @@
+{
+  "options": [
+    "thim_login_page",
+    "woocommerce_stock_format",
+    "thim_ekit_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thim_elementor_type",
+    "thim_loop_item_post_type",
+    "thim_ekits_conditions",
+    "thim_elementor_sticky",
+    "_elementor_data",
+    "_sale_price_dates_to",
+    "_lp_featured_review",
+    "_lp_course_result",
+    "_lp_cert",
+    "_lp_sale_end",
+    "_wp_attachment_image_alt",
+    "thim_ekit_slider_type",
+    "thim_ekits_cond_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:48.013Z"
+}

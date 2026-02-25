@@ -1,0 +1,17 @@
+{
+  "options": [
+    "idt_show_title",
+    "idt_testimonial_heading",
+    "idt_testimonial_desc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "idt_testimonial_logo",
+    "testimonial_editor",
+    "idt_t_author"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:33.013Z"
+}

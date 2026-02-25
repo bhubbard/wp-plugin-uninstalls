@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "tshoqu_deactivated_notice_id"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tshoqu_quiz_image",
+    "_tshoqu_hotspots",
+    "_tshoqu_manual_total_points",
+    "_tshoqu_interaction_type",
+    "_tshoqu_total_points",
+    "_tshoqu_mode",
+    "_tshoqu_time_limit",
+    "_tshoqu_pass_mark",
+    "_tshoqu_question_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:28.822Z"
+}

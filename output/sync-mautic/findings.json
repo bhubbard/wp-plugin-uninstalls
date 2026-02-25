@@ -1,0 +1,22 @@
+{
+  "options": [
+    "dogbytemarketing_sync_mautic_settings",
+    "dogbytemarketing_sync_mautic_start_time",
+    "dogbytemarketing_sync_mautic_total_orders",
+    "dogbytemarketing_last_sync_mautic_order_index",
+    "dogbytemarketing_sync_mautic_past_orders_complete",
+    "mautic_sync_settings"
+  ],
+  "transients": [
+    "dogbytemarketing_mautic_access_token"
+  ],
+  "cron_jobs": [
+    "dogbytemarketing_sync_mautic_past_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mautic_lead_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:41.571Z"
+}

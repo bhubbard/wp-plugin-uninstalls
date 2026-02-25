@@ -1,0 +1,15 @@
+{
+  "options": [
+    "infocob_crm_forms_settings",
+    "infocob_db_version",
+    "INFOCOB_CRM_FORMS_UPGRADE_VERSION"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "infocob_crm_forms_purge_logs_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:05.379Z"
+}

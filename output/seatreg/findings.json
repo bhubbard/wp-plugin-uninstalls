@@ -1,0 +1,14 @@
+{
+  "options": [
+    "seatreg_db_current_version",
+    "seatreg_trigger_side_effect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "seatreg_pending_booking_expiration"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:34.074Z"
+}

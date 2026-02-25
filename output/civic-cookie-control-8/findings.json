@@ -1,0 +1,16 @@
+{
+  "options": [
+    "civic_cookiecontrol_settings",
+    "civic_cookiecontrol_apikey_version",
+    "civic_cookie_control_version",
+    "civic_cookiecontrol_settings_v9",
+    "cookiecontrol_settings",
+    "civic_cookiecontrol_productval"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:58.485Z"
+}

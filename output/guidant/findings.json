@@ -1,0 +1,38 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "wpguidant_guides",
+    "wpguidant_guide_settings",
+    "wpguidant_filters",
+    "wpguidant_filter_settings",
+    "wpguidant_elements",
+    "wpguidant_element_settings",
+    "wpguidant_conditions",
+    "wpguidant_condition_settings",
+    "wpguidant_fields",
+    "wpguidant_field_settings",
+    "wpguidant_submissions",
+    "wpguidant_submissions_data",
+    "wpguidant_results",
+    "wpguidant_result_settings",
+    "wpguidant_logics",
+    "wpguidant_logic_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sale_price",
+    "_regular_price",
+    "_price",
+    "_wc_average_rating",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:38.769Z"
+}

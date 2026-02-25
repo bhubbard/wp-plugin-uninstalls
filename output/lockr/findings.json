@@ -1,0 +1,24 @@
+{
+  "options": [
+    "lockr_default_deleted",
+    "lockr_options",
+    "lockr_partner",
+    "lockr_cert",
+    "lockr_region",
+    "lockr_encrypt_posts",
+    "lockr_hash_pass",
+    "lockr_prod_migrate",
+    "*_abstract_migrated",
+    "give_settings",
+    "staging_environment",
+    "lockr_db_version",
+    "lockr_prod_abstract_migrated",
+    "lockr_dev_abstract_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:21.026Z"
+}

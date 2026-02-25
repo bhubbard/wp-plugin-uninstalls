@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*_settings",
+    "paytiko_enable_auto_cleaner",
+    "paytiko_interval_clearing",
+    "paytiko_auto_cleaner_first_init",
+    "paytiko_enable_subscription",
+    "paytiko_plan_name",
+    "paytiko_billing_interval",
+    "paytiko_interval_count",
+    "woocommerce_dummy_settings",
+    "woocommerce_paytiko_gateway_settings",
+    "paytiko_payout_table_created"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "paytiko_auto_cleaner_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_paytiko_tab_field",
+    "paytiko_transact_id",
+    "payment_processor",
+    "external_transaction_id",
+    "status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:13.916Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "rewrite_rules",
+    "update_core",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tk_image_user_data",
+    "envato_tk_post_meta",
+    "_thumbnail_id",
+    "_elementor_page_settings",
+    "_wp_page_template",
+    "_elementor_data",
+    "_elementor_conditions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:08.441Z"
+}

@@ -1,0 +1,63 @@
+{
+  "options": [
+    "blaminhor_essentials_module_fatal-error-recovery_settings",
+    "blaminhor_essentials_module_https-redirect_settings",
+    "blaminhor_essentials_active_modules",
+    "blaminhor_essentials_options",
+    "blaminhor_essentials_delete_data",
+    "blaminhor_essentials_feedback_dismissed",
+    "blaminhor_essentials_dismissed_pre_restore",
+    "blaminhor_essentials_broken_links_db_version",
+    "ap_fer_last_error",
+    "blaminhor_essentials_fatal-error-recovery_settings",
+    "*_size_w",
+    "*_size_h",
+    "blaminhor_essentials_pending_redirects",
+    "blaminhor_essentials_sitemap_rules_flushed",
+    "blaminhor_essentials_smtp_db_version",
+    "wp_mail_smtp",
+    "postman_options",
+    "swpsmtp_options",
+    "cron"
+  ],
+  "transients": [
+    "blaminhor_essentials_activation_redirect",
+    "blaminhor_backup_plan_*",
+    "blaminhor_backup_in_progress",
+    "blaminhor_essentials_term_old_slug_*",
+    "blaminhor_essentials_seo_settings_saved"
+  ],
+  "cron_jobs": [
+    "blaminhor_essentials_scheduled_backup_db",
+    "blaminhor_essentials_scheduled_backup_files",
+    "ap_db_scheduled_cleanup",
+    "blaminhor_essentials_cleanup_email_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_css",
+    "_fl_builder_draft_css",
+    "_fl_builder_css",
+    "_brizy_compiled_css",
+    "ct_css_cache",
+    "blaminhor_menu_order",
+    "_redirect_rule_from",
+    "_redirect_rule_to",
+    "_blaminhor_essentials_*",
+    "_blaminhor_essentials_noindex",
+    "_blaminhor_essentials_nofollow",
+    "_blaminhor_essentials_noai",
+    "_elementor_data",
+    "_blaminhor_essentials_seo_title",
+    "_blaminhor_essentials_seo_description",
+    "_blaminhor_essentials_seo_keywords",
+    "_blaminhor_essentials_og_title",
+    "_blaminhor_essentials_og_description",
+    "_blaminhor_essentials_og_image",
+    "_blaminhor_essentials_twitter_title",
+    "_blaminhor_essentials_twitter_description",
+    "_blaminhor_essentials_canonical_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:29.262Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "spawning_block_ccbot",
+    "spawning_block_gptbot",
+    "block_ccbot",
+    "block_gptbot"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:21.264Z"
+}

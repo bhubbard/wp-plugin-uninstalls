@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_apc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thank_you",
+    "_length",
+    "_height",
+    "_width",
+    "_weight",
+    "apc_response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:16.496Z"
+}

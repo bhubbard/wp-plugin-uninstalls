@@ -1,0 +1,15 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('chaindesk_onboarding');
+delete_site_option('chaindesk_onboarding');
+delete_option('chaindesk_agent_id');
+delete_site_option('chaindesk_agent_id');
+delete_option('chaindesk_verify');
+delete_site_option('chaindesk_verify');
+

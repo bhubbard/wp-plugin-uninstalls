@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "cron_pixie_passed_event",
+    "cron_pixie_future_event",
+    "cron_pixie_single_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:10.299Z"
+}

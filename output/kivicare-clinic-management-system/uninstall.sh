@@ -1,0 +1,186 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%widgetSetting'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%widget_order_list'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%is_appointment_widget_migrated'"
+wp option delete 'kivicare_settings'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%default_telemed_provider'"
+wp option delete 'kiviCare_onesignal_config'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%zoom_telemed_setting'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%razorpay_setting'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%enocunter_modules'"
+wp option delete 'sms_config_data'
+wp option delete 'whatsapp_config_data'
+wp option delete 'kc_setup_wizard_completed'
+wp option delete 'setup_step_1'
+wp option delete 'clinic_setup_wizard'
+wp option delete 'setup_step_4'
+wp option delete 'kivicare_session_first_time'
+wp option delete 'kc_setup_wizard_completed_steps'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%zoom_telemed_server_to_server_oauth_status'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%is_email_working'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%modules'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'kivicare_email_key_%'"
+wp option delete 'kivicare_widget_login_page'
+wp option delete 'kivicare_appointment_page'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'kivicare_clinic_notifications_enabled_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'kivicare_notification_history_%'"
+wp option delete 'kivicare_export_logs'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%version'"
+wp option delete 'kivicare_dashboard_theme'
+wp option delete 'kivicare_dashboard_layout'
+wp option delete 'kivicare_sidebar_type'
+wp option delete 'kivicare_navbar_color'
+wp option delete 'kivicare_sidebar_color'
+wp option delete 'kivicare_sidebar_active_style'
+wp option delete 'kivicare_enable_rtl'
+wp option delete 'kivicare_enable_dark_mode'
+wp option delete 'kivicare_fluid_layout'
+
+# Delete Transients
+wp transient delete 'action_scheduler_last_pastdue_actions_check'
+wp transient delete 'action_scheduler_admin_notice'
+wp transient delete 'as_comment_count'
+
+# Clear Cron Jobs
+wp cron event delete 'kivicare_cleanup_exports'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kivicare_user_role'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kivicare_user_role'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kivicare_user_role'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kivicare_user_role'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'google_cal_access_token'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'google_cal_access_token'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'google_cal_access_token'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'google_cal_access_token'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'telemed_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'telemed_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'telemed_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'telemed_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mobile_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mobile_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mobile_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mobile_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'patient_unique_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'patient_unique_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'patient_unique_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'patient_unique_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_source_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_source_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_source_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_source_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'basic_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'basic_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'basic_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'basic_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'clinic_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'clinic_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'clinic_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'clinic_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'clinic_admin_profile_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'clinic_admin_profile_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'clinic_admin_profile_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'clinic_admin_profile_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kc_user_preferences'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kc_user_preferences'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kc_user_preferences'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kc_user_preferences'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'locale'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'locale'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'locale'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'locale'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'patient_profile_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'patient_profile_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'patient_profile_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'patient_profile_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'speciality'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'speciality'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'speciality'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'speciality'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'doctor_profile_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'doctor_profile_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'doctor_profile_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'doctor_profile_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'doctor_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'doctor_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'doctor_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'doctor_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'doctor_signature'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'doctor_signature'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'doctor_signature'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'doctor_signature'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'receptionist_profile_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'receptionist_profile_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'receptionist_profile_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'receptionist_profile_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kiviCare_zoom_telemed_connect'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kiviCare_zoom_telemed_connect'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kiviCare_zoom_telemed_connect'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kiviCare_zoom_telemed_connect'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'zoom_server_to_server_oauth_config_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'zoom_server_to_server_oauth_config_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'zoom_server_to_server_oauth_config_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'zoom_server_to_server_oauth_config_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kiviCare_google_meet_connect'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kiviCare_google_meet_connect'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kiviCare_google_meet_connect'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kiviCare_google_meet_connect'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'country_calling_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'country_calling_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'country_calling_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'country_calling_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'content_sid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'content_sid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'content_sid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'content_sid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'contact_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'contact_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'contact_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'contact_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'patient_added_by'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'patient_added_by'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'patient_added_by'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'patient_added_by'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_payment_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_payment_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_payment_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_payment_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pronamic_payment_transaction_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pronamic_payment_transaction_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pronamic_payment_transaction_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pronamic_payment_transaction_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kivicare_appointment_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kivicare_appointment_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kivicare_appointment_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kivicare_appointment_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kivicare_doctor_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kivicare_doctor_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kivicare_doctor_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kivicare_doctor_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kivicare_widget_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kivicare_widget_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kivicare_widget_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kivicare_widget_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kivicare_service_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kivicare_service_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kivicare_service_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kivicare_service_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_payment_method_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_payment_method_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_payment_method_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_payment_method_title'"

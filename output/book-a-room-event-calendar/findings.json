@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bookaroom_events_db_key",
+    "bookaroom_events_db_database",
+    "bookaroom_events_db_username",
+    "bookaroom_events_db_password",
+    "bookaroom_events_prefix",
+    "bookaroom_events_db_host",
+    "bookaroom_events_regpage_URL",
+    "bookaroom_db_versions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:43.659Z"
+}

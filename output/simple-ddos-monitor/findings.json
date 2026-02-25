@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ddos_monitor_urls",
+    "ddos_monitor_enable_email",
+    "ddos_monitor_email"
+  ],
+  "transients": [
+    "ddos_monitor_status_*",
+    "ddos_monitor_background_running"
+  ],
+  "cron_jobs": [
+    "ddos_monitor_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:41.891Z"
+}

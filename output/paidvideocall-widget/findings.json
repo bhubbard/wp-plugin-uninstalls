@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_pvcw_widget_api_key",
+    "_pvcw_widget_url",
+    "_pvcw_widget_page",
+    "pvcw_widget_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:08.119Z"
+}

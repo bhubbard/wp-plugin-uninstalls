@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gflc_enabled",
+    "gflc_language_override",
+    "gflc_pro_provider",
+    "gflc_recaptcha_site_key",
+    "gflc_recaptcha_secret_key",
+    "gflc_hcaptcha_site_key",
+    "gflc_hcaptcha_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:01.325Z"
+}

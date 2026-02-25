@@ -1,0 +1,15 @@
+{
+  "options": [
+    "splc_options",
+    "woocommerce_gzdp_invoice_path_suffix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sent_to_plc",
+    "_splc_shipping_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:46.955Z"
+}

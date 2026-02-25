@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "us2fa_redirect_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "us2fa_temp_secret",
+    "us2fa_secret",
+    "us2fa_enabled",
+    "us2fa_backup_codes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:56.315Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "gupfw_plugin_notifications",
+    "gupfw_settings_arr",
+    "gupfw_keeplogs",
+    "active_sitewide_plugins",
+    "gupfw_registered_feeds_arr",
+    "gupfw_last_feed_id",
+    "gupfw_version",
+    "gupfw_feed_content",
+    "gupfw_hook_name_for_gift_info",
+    "gupfw_hook_name_for_gift_in_category_info",
+    "gupfw_last_element_feed_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gupfw_product_gift_ids",
+    "_days_of_the_week",
+    "_days_of_the_hours",
+    "_gupfw_stopgift",
+    "_two_price_one"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:06.894Z"
+}

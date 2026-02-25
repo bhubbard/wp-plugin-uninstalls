@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "pdfprnt_options",
+    "widget_pdfprint_buttons",
+    "widget_pdfprnt_buttons"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers",
+    "pdfprnt_count_generation"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:28.467Z"
+}

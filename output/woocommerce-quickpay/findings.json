@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woocommerce_quickpay_settings",
+    "woocommerce_thanks_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_quickpay_version",
+    "woocommerce_quickpay_maintenance",
+    "woocommerce_email_footer_text",
+    "active_sitewide_plugins",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "wcqp_transaction_*",
+    "_wcqp_admin_notices",
+    "_wcqp_admin_runtime_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:46.526Z"
+}

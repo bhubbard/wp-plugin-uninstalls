@@ -1,0 +1,24 @@
+{
+  "options": [
+    "_mishmch_api_key",
+    "_misha_mailchimp_lists_with_webhooks",
+    "_mishmch_2optin",
+    "_misha_mailchimp_scheduled_rules",
+    "_nointerests_for_*",
+    "_resync_in_process",
+    "_misha_mailchimp_resync_users_offset"
+  ],
+  "transients": [
+    "mishmch_lists1"
+  ],
+  "cron_jobs": [
+    "misha_cron_mailchimp_resync_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_misha_mailchimp_plan_statuses",
+    "*approved"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:14.920Z"
+}

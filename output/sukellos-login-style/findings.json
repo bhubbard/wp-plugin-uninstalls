@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_login_logo",
+    "*_login_logo_width",
+    "*_login_logo_height",
+    "*_login_main_color",
+    "*_login_button_text_color",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:03.212Z"
+}

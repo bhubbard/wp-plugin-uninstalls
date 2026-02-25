@@ -1,0 +1,17 @@
+{
+  "options": [
+    "customer_notes_install_time",
+    "allow_user_edit",
+    "allow_order_edit",
+    "enable_sticky_note",
+    "customer_notes_review_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_textarea"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:24.618Z"
+}

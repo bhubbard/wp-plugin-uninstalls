@@ -1,0 +1,19 @@
+{
+  "options": [
+    "xpro_cloud_templates",
+    "_xpro_cloud_templats",
+    "xpro_beaver_addons_options",
+    "_fl_builder_xpro_cloud_templates"
+  ],
+  "transients": [
+    "xpro_cloud_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fl_builder_template_global",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:09.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "nbp_enabled",
+    "nbp_needs_flush",
+    "wwhry_nbp_enabled",
+    "wwhry_nbp_needs_flush"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:49.778Z"
+}

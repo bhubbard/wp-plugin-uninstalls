@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rpg-slider-images-default",
+    "img-slider-v",
+    "img-slider-type",
+    "img-slider-installDate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slider-images",
+    "img-slider-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:53.569Z"
+}

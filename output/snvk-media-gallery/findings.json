@@ -1,0 +1,15 @@
+{
+  "options": [
+    "show_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "snv_mediagallery",
+    "snv_mediatitle",
+    "snv_mediaurl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:47.944Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sms_provider', 'kargoTR_custom_cargoes', 'kargoTR_disabled_cargoes', 'kargoTR_cargo_delivery_times', 'kargo_turkey_address_enabled', 'kargo_tc_id_enabled', 'kargo_tax_info_enabled', 'kargoTr_email_template', 'kargoTr_use_wc_template', 'woocommerce_email_background_color', 'woocommerce_email_body_background_color', 'woocommerce_email_base_color', 'woocommerce_email_text_color', 'woocommerce_email_header_image', 'kargoTr_sms_template', 'kargo_estimated_delivery_enabled', 'NetGsm_UserName', 'NetGsm_Password', 'NetGsm_Header', 'NetGsm_AppKey', 'NetGsm_sms_url_send', 'Kobikom_ApiKey', 'Kobikom_Header', 'kargoTR_status_mapping_presets', 'kargoTR_status_mappings', 'mail_send_general', 'kargoTR_prevent_duplicate_notification', 'kargoTR_sms_template', 'kargo_hazirlaniyor_text', 'kargo_estimated_delivery_days', 'kargoTr_whatsapp_enabled', 'kargoTr_kargowp_api_key');
+

@@ -1,0 +1,152 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('commentpress_theme_settings');
+delete_site_option('commentpress_theme_settings');
+delete_option('bp_groupblog_blog_defaults_options');
+delete_site_option('bp_groupblog_blog_defaults_options');
+delete_option('default_post_edit_rows');
+delete_site_option('default_post_edit_rows');
+delete_option('commentpress_sidebars_widgets');
+delete_site_option('commentpress_sidebars_widgets');
+delete_option('sidebars_widgets');
+delete_site_option('sidebars_widgets');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'commentpress_%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('commentpress_options');
+delete_site_option('commentpress_options');
+delete_option('cp_options');
+delete_site_option('cp_options');
+delete_option('cp_page_for_posts');
+delete_site_option('cp_page_for_posts');
+delete_option('commentpress_page_for_posts');
+delete_site_option('commentpress_page_for_posts');
+delete_option('cp_show_on_front');
+delete_site_option('cp_show_on_front');
+delete_option('commentpress_show_on_front');
+delete_site_option('commentpress_show_on_front');
+delete_option('cp_page_on_front');
+delete_site_option('cp_page_on_front');
+delete_option('commentpress_page_on_front');
+delete_site_option('commentpress_page_on_front');
+delete_option('cp_page_comments');
+delete_site_option('cp_page_comments');
+delete_option('commentpress_page_comments');
+delete_site_option('commentpress_page_comments');
+delete_option('cp_theme_settings');
+delete_site_option('cp_theme_settings');
+delete_option('theme_mods_commentpress');
+delete_site_option('theme_mods_commentpress');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'theme_mods_%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('cp_para_comments_enabled');
+delete_site_option('cp_para_comments_enabled');
+delete_option('cp_show_posts_or_pages_in_toc');
+delete_site_option('cp_show_posts_or_pages_in_toc');
+delete_option('cp_show_subpages');
+delete_site_option('cp_show_subpages');
+delete_option('cp_toc_chapter_is_page');
+delete_site_option('cp_toc_chapter_is_page');
+delete_option('cp_comment_editor');
+delete_site_option('cp_comment_editor');
+delete_option('cp_promote_reading');
+delete_site_option('cp_promote_reading');
+delete_option('cp_title_visibility');
+delete_site_option('cp_title_visibility');
+delete_option('cp_header_bg_colour');
+delete_site_option('cp_header_bg_colour');
+delete_option('cp_js_scroll_speed');
+delete_site_option('cp_js_scroll_speed');
+delete_option('cp_min_page_width');
+delete_site_option('cp_min_page_width');
+delete_option('cp_default_skin');
+delete_site_option('cp_default_skin');
+delete_option('cp_default_left_position');
+delete_site_option('cp_default_left_position');
+delete_option('cp_default_top_position');
+delete_site_option('cp_default_top_position');
+delete_option('cp_default_width');
+delete_site_option('cp_default_width');
+delete_option('cp_default_height');
+delete_site_option('cp_default_height');
+delete_option('cp_allow_users_to_iconize');
+delete_site_option('cp_allow_users_to_iconize');
+delete_option('cp_allow_users_to_minimize');
+delete_site_option('cp_allow_users_to_minimize');
+delete_option('cp_allow_users_to_resize');
+delete_site_option('cp_allow_users_to_resize');
+delete_option('cp_allow_users_to_drag');
+delete_site_option('cp_allow_users_to_drag');
+delete_option('cp_allow_users_to_save_position');
+delete_site_option('cp_allow_users_to_save_position');
+delete_option('cp_excerpt_length');
+delete_site_option('cp_excerpt_length');
+delete_option('cp_para_comments_live');
+delete_site_option('cp_para_comments_live');
+delete_option('cp_special_pages');
+delete_site_option('cp_special_pages');
+delete_option('cp_welcome_page');
+delete_site_option('cp_welcome_page');
+delete_option('cp_general_comments_page');
+delete_site_option('cp_general_comments_page');
+delete_option('cp_all_comments_page');
+delete_site_option('cp_all_comments_page');
+delete_option('cp_comments_by_page');
+delete_site_option('cp_comments_by_page');
+delete_option('cp_blog_page');
+delete_site_option('cp_blog_page');
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+delete_option('cpmu_options');
+delete_site_option('cpmu_options');
+delete_option('cpmu_version');
+delete_site_option('cpmu_version');
+delete_option('registration');
+delete_site_option('registration');
+delete_option('commentpress_version');
+delete_site_option('commentpress_version');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'Notes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'Notes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'Notes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'Notes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_editor_test_3' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_editor_test_3' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_editor_test_3' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_editor_test_3' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_editor_test_4' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_editor_test_4' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_editor_test_4' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_editor_test_4' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_editor_test_1' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_editor_test_1' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_editor_test_1' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_editor_test_1' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_editor_test_2' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_editor_test_2' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_editor_test_2' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_editor_test_2' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_cp_post_type_override' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_cp_post_type_override' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_cp_post_type_override' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_cp_post_type_override' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'Vocabulary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'Vocabulary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'Vocabulary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'Vocabulary' ) );
+

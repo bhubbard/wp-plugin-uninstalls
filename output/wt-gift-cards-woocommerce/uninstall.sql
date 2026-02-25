@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wbte_gc_smart_coupon_menu_higlight_is_removed', 'wbte_sc_hidden_promotion_banners', 'wt_gc_products_old_visibility_state', 'wt_gc_migrated_from_smart_coupon', 'wt-smart-coupon-for-woo_store_credit', 'woocommerce_prices_include_tax', 'woocommerce_email_footer_text');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wt_gc_templates', '_wt_gc_enable_template', '_wt_smart_coupon_credit_activated', '_wt_smart_coupon_initial_credit', '_wt_gc_gift_card_product', 'wt_credit_coupons', 'wt_auto_generated_store_credit_coupon', '_wt_gc_auto_generated_store_credit_coupon', '_wt_gc_store_credit_coupon', '_wt_gc_purchase_options', '_wt_gc_amounts', '_wt_sc_send_date_gmt', 'wt_credit_history', '_wt_sc_send_the_generated_credit');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wt_gc_templates', '_wt_gc_enable_template', '_wt_smart_coupon_credit_activated', '_wt_smart_coupon_initial_credit', '_wt_gc_gift_card_product', 'wt_credit_coupons', 'wt_auto_generated_store_credit_coupon', '_wt_gc_auto_generated_store_credit_coupon', '_wt_gc_store_credit_coupon', '_wt_gc_purchase_options', '_wt_gc_amounts', '_wt_sc_send_date_gmt', 'wt_credit_history', '_wt_sc_send_the_generated_credit');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wt_gc_templates', '_wt_gc_enable_template', '_wt_smart_coupon_credit_activated', '_wt_smart_coupon_initial_credit', '_wt_gc_gift_card_product', 'wt_credit_coupons', 'wt_auto_generated_store_credit_coupon', '_wt_gc_auto_generated_store_credit_coupon', '_wt_gc_store_credit_coupon', '_wt_gc_purchase_options', '_wt_gc_amounts', '_wt_sc_send_date_gmt', 'wt_credit_history', '_wt_sc_send_the_generated_credit');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wt_gc_templates', '_wt_gc_enable_template', '_wt_smart_coupon_credit_activated', '_wt_smart_coupon_initial_credit', '_wt_gc_gift_card_product', 'wt_credit_coupons', 'wt_auto_generated_store_credit_coupon', '_wt_gc_auto_generated_store_credit_coupon', '_wt_gc_store_credit_coupon', '_wt_gc_purchase_options', '_wt_gc_amounts', '_wt_sc_send_date_gmt', 'wt_credit_history', '_wt_sc_send_the_generated_credit');
+

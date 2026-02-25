@@ -1,0 +1,46 @@
+{
+  "options": [
+    "location_weather_settings",
+    "sp_ua_site_type",
+    "splw_allow_anonymous_data",
+    "splw_blocks_visibility_options",
+    "splw_setup_wizard_visited",
+    "location_weather_db_version",
+    "widget_block",
+    "splw_ignored_consent_notice",
+    "splw_consent_notice_start_time",
+    "location_weather_review_notice_dismiss",
+    "shapedplugin_offer_banner_dismissed_*",
+    "location_weather_version",
+    "location_weather_first_version",
+    "location_weather_activation_date",
+    "_sp_options",
+    "splw_blocks_custom_colors_options",
+    "_spl_weather_widget_*",
+    "_spl_weather_fonts_widget_*",
+    "location_weather_premade_wishlist",
+    "splw_default_call",
+    "splw_weather_api_default_call",
+    "splw_site_type",
+    "sp_lw_page_id*"
+  ],
+  "transients": [
+    "splw_changelogs",
+    "splw_plugins",
+    "_spl_weather_preview_*",
+    "_spl_weather_preview_fonts_*"
+  ],
+  "cron_jobs": [
+    "location_weather_weekly_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sp_location_weather_generator",
+    "sp_location_weather_layout",
+    "_spl_weather_css",
+    "_splwt_errors_*",
+    "_spl_weather_fonts"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:37.749Z"
+}

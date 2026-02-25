@@ -1,0 +1,38 @@
+{
+  "options": [
+    "aica_settings",
+    "aica_magic_prompts",
+    "woocommerce_currency_pos",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_num_decimals",
+    "aica_installed",
+    "aica_version",
+    "aica_activated",
+    "aica_onboarding_completed",
+    "aica_last_indexed",
+    "aica_system_prompts",
+    "aica_db_version"
+  ],
+  "transients": [
+    "aica_activation_redirect",
+    "aica_indexing_progress",
+    "aica_product_count",
+    "aica_last_index_time"
+  ],
+  "cron_jobs": [
+    "aica_reindex_products",
+    "aica_cleanup_old_data",
+    "aica_generate_embeddings",
+    "aica_optimize_database"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aica_conversions",
+    "_aica_conversion_value",
+    "aica_dismissed_notices",
+    "aica_onboarding_complete"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:36.637Z"
+}

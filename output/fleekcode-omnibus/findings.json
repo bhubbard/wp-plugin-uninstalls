@@ -1,0 +1,26 @@
+{
+  "options": [
+    "fleekcode_omnibus_settings",
+    "fleekcode_omnibus_enabled",
+    "fleekcode_omnibus_text",
+    "fleekcode_omnibus_display_location",
+    "fleekcode_omnibus_price_position",
+    "fleekcode_omnibus_days",
+    "fleekcode_omnibus_min_price_display_mode",
+    "fleekcode_omnibus_display_method",
+    "fleekcode_omnibus_version",
+    "fleekcode_statistics_consent",
+    "fleekcode_statistics_consent_time",
+    "fleekcode_statistics_last_sent"
+  ],
+  "transients": [
+    "fleekcode_omnibus_updated_variations"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fleekcode_hide_review_banner"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:28.495Z"
+}

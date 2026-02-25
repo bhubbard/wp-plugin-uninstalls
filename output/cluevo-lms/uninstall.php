@@ -1,0 +1,116 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('cluevo-modules-display-mode');
+delete_site_option('cluevo-modules-display-mode');
+delete_option('cluevo-modules-display-position');
+delete_site_option('cluevo-modules-display-position');
+delete_option('cluevo-enable-guests');
+delete_site_option('cluevo-enable-guests');
+delete_option('cluevo-auto-add-new-users');
+delete_site_option('cluevo-auto-add-new-users');
+delete_option('cluevo-display-diagonal-tiles');
+delete_site_option('cluevo-display-diagonal-tiles');
+delete_option('cluevo-delete-data-on-uninstall');
+delete_site_option('cluevo-delete-data-on-uninstall');
+delete_option('cluevo-max-level');
+delete_site_option('cluevo-max-level');
+delete_option('cluevo-exp-first-level');
+delete_site_option('cluevo-exp-first-level');
+delete_option('cluevo-level-titles');
+delete_site_option('cluevo-level-titles');
+delete_option('cluevo-basic-module-security');
+delete_site_option('cluevo-basic-module-security');
+delete_option('cluevo-force-https-embeds');
+delete_site_option('cluevo-force-https-embeds');
+delete_option('cluevo-modules-only-score-once');
+delete_site_option('cluevo-modules-only-score-once');
+delete_option('cluevo-login-enabled');
+delete_site_option('cluevo-login-enabled');
+delete_option('cluevo-breadcrumbs-enabled');
+delete_site_option('cluevo-breadcrumbs-enabled');
+delete_option('cluevo-display-item-status-row');
+delete_site_option('cluevo-display-item-status-row');
+delete_option('cluevo-display-item-type-text');
+delete_site_option('cluevo-display-item-type-text');
+delete_option('cluevo-show-tile-indicator');
+delete_site_option('cluevo-show-tile-indicator');
+delete_option('cluevo-display-module-ratings');
+delete_site_option('cluevo-display-module-ratings');
+delete_option('cluevo-display-empty-item-message');
+delete_site_option('cluevo-display-empty-item-message');
+delete_option('cluevo-redirect-single-tree-index');
+delete_site_option('cluevo-redirect-single-tree-index');
+delete_option('cluevo-display-module-ratings-threshold');
+delete_site_option('cluevo-display-module-ratings-threshold');
+delete_option('cluevo-login-page');
+delete_site_option('cluevo-login-page');
+delete_option('cluevo-modules-attempt-prompt');
+delete_site_option('cluevo-modules-attempt-prompt');
+delete_option('cluevo-module-ratings');
+delete_site_option('cluevo-module-ratings');
+delete_option('cluevo-modules-scorm-completion-commit');
+delete_site_option('cluevo-modules-scorm-completion-commit');
+delete_option('cluevo-module-ratings-trigger');
+delete_site_option('cluevo-module-ratings-trigger');
+delete_option('cluevo-module-guest-progress-notification');
+delete_site_option('cluevo-module-guest-progress-notification');
+delete_option('cluevo-module-commit-interval');
+delete_site_option('cluevo-module-commit-interval');
+delete_option('cluevo-modules-scorm-success');
+delete_site_option('cluevo-modules-scorm-success');
+delete_option('cluevo-hide-item-list-style-switch');
+delete_site_option('cluevo-hide-item-list-style-switch');
+delete_option('cluevo-default-item-list-style');
+delete_site_option('cluevo-default-item-list-style');
+delete_option('cluevo-tree-index-page');
+delete_site_option('cluevo-tree-index-page');
+delete_option('cluevo-tree-index-page-content-mode');
+delete_site_option('cluevo-tree-index-page-content-mode');
+delete_option('cluevo-user-profile-page');
+delete_site_option('cluevo-user-profile-page');
+delete_option('cluevo-user-profile-page-content-mode');
+delete_site_option('cluevo-user-profile-page-content-mode');
+delete_option('cluevo-login-page-content-mode');
+delete_site_option('cluevo-login-page-content-mode');
+delete_option('cluevo-display-db-update-result');
+delete_site_option('cluevo-display-db-update-result');
+delete_option('cluevo-selected-course-group');
+delete_site_option('cluevo-selected-course-group');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cluevo-module-rating-avg' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cluevo-module-rating-avg' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cluevo-module-rating-avg' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cluevo-module-rating-avg' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cluevo_reports_progress_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cluevo_reports_progress_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cluevo_reports_progress_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cluevo_reports_progress_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cluevo_reports_main_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cluevo_reports_main_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cluevo_reports_main_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cluevo_reports_main_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cluevo_reports_scorm_parms_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cluevo_reports_scorm_parms_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cluevo_reports_scorm_parms_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cluevo_reports_scorm_parms_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cluevo-last-change-date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cluevo-last-change-date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cluevo-last-change-date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cluevo-last-change-date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_cluevo-lms-meta-path' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_cluevo-lms-meta-path' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_cluevo-lms-meta-path' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_cluevo-lms-meta-path' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", 'cluevo-admin-notice-dismissed-%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", 'cluevo-admin-notice-dismissed-%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", 'cluevo-admin-notice-dismissed-%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", 'cluevo-admin-notice-dismissed-%' ) );
+

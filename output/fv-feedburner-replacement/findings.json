@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fv_feedburner_replacement",
+    "fv_feedburner_replacement_deferred_notices",
+    "fv_feedburner_replacement_deferred_errors",
+    "fv_feedburner_replacement_ad_disable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:44.681Z"
+}

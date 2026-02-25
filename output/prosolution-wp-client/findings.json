@@ -1,0 +1,22 @@
+{
+  "options": [
+    "prosolwpclient_additionalsite",
+    "prosolwpclient_frontend",
+    "prosolwpclient_sync_time",
+    "prosolwpclient_api_config",
+    "prosolwpclient_designtemplate",
+    "prosolwpclient_encryptionkey",
+    "prosolwpclient_languages",
+    "prosolwpclient_vectorkey",
+    "prosolwpclient_applicationform",
+    "prosolwpclient_privacypolicy"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_ajax_proSol_dailytask_tableJobs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:41.509Z"
+}

@@ -1,0 +1,48 @@
+{
+  "options": [
+    "yp_purchase_code",
+    "*_css",
+    "wt_css",
+    "yp-output-option",
+    "yp-draft-mode",
+    "yp-default-global",
+    "wt_search_css",
+    "wt_tag_css",
+    "wt_category_css",
+    "wt_archive_css",
+    "wt_author_css",
+    "wt_404_css",
+    "wt_home_css",
+    "wt_login_css",
+    "wt_register_css",
+    "wt_lostpassword_css",
+    "yp_selector_comments",
+    "yp_anim_*",
+    "yp_op_*",
+    "wt_styles",
+    "*_styles",
+    "yp_new_custom_CSS_dir",
+    "yp_700_db_updateX",
+    "yp_live_view_css_data",
+    "wt_author_styles",
+    "wt_tag_styles",
+    "wt_category_styles",
+    "wt_archive_styles",
+    "wt_404_styles",
+    "wt_search_styles",
+    "wt_home_styles",
+    "yp_revisions"
+  ],
+  "transients": [
+    "wyp_plugin_active_notice",
+    "wyp_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wt_css",
+    "_wt_styles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:25.520Z"
+}

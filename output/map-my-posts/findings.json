@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_settings",
+    "*_category_country_list",
+    "*_category_marker_list",
+    "*_post_tag_country_list",
+    "*_post_tag_marker_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:28.644Z"
+}

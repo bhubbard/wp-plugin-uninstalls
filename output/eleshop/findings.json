@@ -1,0 +1,28 @@
+{
+  "options": [
+    "jltels_activation_time",
+    "eleshop_addons_settings",
+    "jltels_extensions_save_settings",
+    "eleshop_third_party_plugins_save_settings",
+    "jltels_update_redirect",
+    "eleshop_settings_firstname",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "jltels_update_redirect",
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:42.651Z"
+}

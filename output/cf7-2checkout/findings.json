@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cf7_2checkout_mode",
+    "cf7_test_2checkout_sellerid",
+    "cf7_test_2checkout_privatekey",
+    "cf7_test_2checkout_publickey",
+    "cf7_live_2checkout_sellerid",
+    "cf7_live_2checkout_privatekey",
+    "cf7_live_2checkout_publickey"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7_2checkout_address_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:35.470Z"
+}

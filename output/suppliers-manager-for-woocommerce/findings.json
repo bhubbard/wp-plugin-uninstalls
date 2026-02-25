@@ -1,0 +1,32 @@
+{
+  "options": [
+    "ft_smfw_alert_stock_min",
+    "*show_go_pro_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ft_smfw_supplier",
+    "ft_smfw_supplier_price",
+    "ft_smfw_supplier_packaging",
+    "ft_smfw_supplier_part_number",
+    "ft_smfw_business_name",
+    "ft_smfw_website",
+    "ft_smfw_email",
+    "ft_smfw_phone",
+    "ft_smfw_direct_name",
+    "ft_smfw_direct_email",
+    "ft_smfw_direct_phone",
+    "ft_smfw_street",
+    "ft_smfw_zipcode",
+    "ft_smfw_city",
+    "ft_smfw_state",
+    "ft_smfw_country",
+    "ft_smfw_delivery_time",
+    "ft_smfw_free_delivery",
+    "ft_smfw_comment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:14.121Z"
+}

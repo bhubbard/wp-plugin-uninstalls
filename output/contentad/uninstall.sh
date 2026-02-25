@@ -1,0 +1,68 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'contentad_api_key'
+wp option delete 'contentad_install_key'
+wp option delete 'contentad_version'
+
+# Clear Cron Jobs
+wp cron event delete 'ca_cron'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placement'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placement'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placement'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placement'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ca_widget_inactive'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ca_widget_inactive'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ca_widget_inactive'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ca_widget_inactive'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ca_display_cat_tag'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ca_display_cat_tag'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ca_display_cat_tag'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ca_display_cat_tag'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ca_display_home'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ca_display_home'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ca_display_home'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ca_display_home'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_excluded_categories'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_excluded_categories'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_excluded_categories'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_excluded_categories'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_excluded_tags'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_excluded_tags'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_excluded_tags'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_excluded_tags'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_widget_guid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_widget_guid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_widget_guid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_widget_guid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_widget_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_widget_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_widget_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_widget_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_widget_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_widget_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_widget_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_widget_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_widget_exit_pop'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_widget_exit_pop'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_widget_exit_pop'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_widget_exit_pop'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_widget_mobile_exit_pop'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_widget_mobile_exit_pop'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_widget_mobile_exit_pop'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_widget_mobile_exit_pop'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exclude_tags'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exclude_tags'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exclude_tags'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exclude_tags'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exclude_cats'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exclude_cats'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exclude_cats'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exclude_cats'"

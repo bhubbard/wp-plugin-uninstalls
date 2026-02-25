@@ -1,0 +1,14 @@
+{
+  "options": [
+    "agentivo_chatbots_bubble_chat_id",
+    "agentivo_chatbots_inline_chat_id",
+    "agentivo_chatbots_inline_width",
+    "agentivo_chatbots_inline_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:26.644Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aditum_antifraude_id",
+    "aditum_antifraude_type",
+    "woocommerce_pay_page_id",
+    "woocommerce_thanks_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:24.131Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "word_stats_options",
+    "word_stats_state"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "word_stats_worker"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "word_stats_cached",
+    "readability_ARI",
+    "readability_CLI",
+    "readability_LIX",
+    "word_stats_word_count",
+    "word_stats_keywords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:38.150Z"
+}

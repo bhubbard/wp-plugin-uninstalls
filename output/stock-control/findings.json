@@ -1,0 +1,21 @@
+{
+  "options": [
+    "oacs_sc_stock_control_next_data_purge",
+    "oacs_sc_stock_control_last_data_purge",
+    "oacs_sc_stock_control_purge_data_after_days"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "purge_stock_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_stock",
+    "_stock_status",
+    "_backorders",
+    "_manage_stock",
+    "_low_stock_amount"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:49.680Z"
+}

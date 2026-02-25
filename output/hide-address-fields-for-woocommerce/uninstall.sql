@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('active_sitewide_plugins', 'wc_haf_shipping_methods', 'wc_haf_payment_methods', 'wc_haf_top_shipping_methods', 'wc_haf_hide_country', 'wc_haf_top_state', 'wc_haf_hide_postcode', 'wc_haf_top_payment_methods', 'woocommerce_tax_based_on', 'wc_haf_hide_city', 'wc_haf_hide_state', 'wc_haf_hide_first_name', 'wc_haf_hide_last_name', 'wc_haf_hide_company', 'wc_haf_hide_phone', 'wc_haf_hide_comments', 'woocommerce_tax_total_display');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_city', 'billing_postcode', 'billing_state', 'billing_country', 'billing_phone', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_company', 'shipping_city', 'shipping_postcode', 'shipping_state', 'shipping_country', 'shipping_address_1', 'shipping_address_2', 'shipping_first_name', 'shipping_last_name', 'shipping_company');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_city', 'billing_postcode', 'billing_state', 'billing_country', 'billing_phone', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_company', 'shipping_city', 'shipping_postcode', 'shipping_state', 'shipping_country', 'shipping_address_1', 'shipping_address_2', 'shipping_first_name', 'shipping_last_name', 'shipping_company');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_city', 'billing_postcode', 'billing_state', 'billing_country', 'billing_phone', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_company', 'shipping_city', 'shipping_postcode', 'shipping_state', 'shipping_country', 'shipping_address_1', 'shipping_address_2', 'shipping_first_name', 'shipping_last_name', 'shipping_company');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_city', 'billing_postcode', 'billing_state', 'billing_country', 'billing_phone', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_company', 'shipping_city', 'shipping_postcode', 'shipping_state', 'shipping_country', 'shipping_address_1', 'shipping_address_2', 'shipping_first_name', 'shipping_last_name', 'shipping_company');
+

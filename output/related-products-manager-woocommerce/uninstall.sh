@@ -1,0 +1,37 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'prowc_related_products_manager_enabled'
+wp option delete 'woocommerce_version'
+wp option delete 'prowc_related_products_manager_relate_by_category'
+wp option delete 'prowc_related_products_manager_relate_by_tag'
+wp option delete 'prowc_related_products_manager_hide'
+wp option delete 'prowc_related_products_manager_exclude_section_enabled'
+wp option delete 'prowc_related_products_manager_exclude_taxonomy'
+wp option delete 'prowc_related_products_manager_num'
+wp option delete 'prowc_related_products_manager_orderby'
+wp option delete 'prowc_related_products_manager_order'
+wp option delete 'prowc_related_products_manager_columns'
+wp option delete 'prowc_related_products_manager_relate_by_attribute_name'
+wp option delete 'prowc_related_products_manager_relate_by_attribute_value'
+wp option delete 'prowc_related_products_manager_relate_by_attribute_type'
+wp option delete 'prowc_related_products_manager_relate_by_attribute_enabled'
+wp option delete 'prowc_related_products_manager_override_cats_and_tags'
+wp option delete 'prowc_related_products_manager_limit'
+wp option delete 'woocommerce_hide_out_of_stock_items'
+wp option delete 'prowc_related_products_manager_orderby_meta_value_meta_key'
+wp option delete 'prowc_related_products_manager_clear_transients_time_limit'
+wp option delete 'prowc_related_products_manager_clear_transients_block'
+wp option delete 'prowc_related_products_manager_relate_per_product_select_type'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_reset'"
+wp option delete 'prowc_related_products_manager_version'
+wp option delete 'prowc_related_products_manager_plugin_notice_nopemaybelater'
+wp option delete 'prowc_related_products_manager_plugin_notice_remindlater'
+wp option delete 'prowc_related_products_manager_plugin_reviewtrack'
+wp option delete 'prowc_rpmw_activation_time'
+wp option delete 'prowc_related_products_manager_plugin_notice_dismissed'
+wp option delete 'prowc_rpmw_notice_remindlater_rating'
+wp option delete 'prowc_rpmw_notice_dismissed_rating'
+wp option delete 'prowc_related_products_manager_plugin_notice_alreadydid'
+

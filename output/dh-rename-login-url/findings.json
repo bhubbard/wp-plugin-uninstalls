@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dh_login",
+    "dh_tfa",
+    "dh_google_tfa_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_user_tfa_feature",
+    "_user_login_tfa_verified"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:43.327Z"
+}

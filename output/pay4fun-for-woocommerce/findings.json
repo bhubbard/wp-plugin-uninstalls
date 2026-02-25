@@ -1,0 +1,14 @@
+{
+  "options": [
+    "p4f_options",
+    "p4f_db_version",
+    "woocommerce_pay4fun_settings",
+    "widget_wp_p4fdonationswidget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:15.359Z"
+}

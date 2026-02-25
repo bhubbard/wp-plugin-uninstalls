@@ -1,0 +1,34 @@
+{
+  "options": [
+    "codirun_linkalert_imported_pretty_links",
+    "codirun_linkalert_tracking_enabled",
+    "codirun_linkalert_flush_needed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "codirun_linkalert_tracking_retry_event",
+    "codirun_linkalert_daily_license_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_codirun_click_count",
+    "_codirun_linkalert_conversion_enabled",
+    "_codirun_target_url",
+    "_codirun_pass_parameters",
+    "_codirun_redirect_type",
+    "_codirun_redirect_method",
+    "_codirun_nofollow",
+    "_codirun_sponsored",
+    "_codirun_linkalert_tracking_enabled",
+    "_codirun_name",
+    "_codirun_linkalert_notification_message",
+    "_codirun_linkalert_conversion_event_name",
+    "_codirun_linkalert_conversion_action",
+    "_codirun_linkalert_conversion_category",
+    "_codirun_linkalert_conversion_label",
+    "_codirun_linkalert_conversion_value",
+    "_codirun_linkalert_conversion_currency"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:59.820Z"
+}

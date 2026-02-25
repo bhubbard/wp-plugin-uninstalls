@@ -1,0 +1,15 @@
+{
+  "options": [
+    "autoauthor_category_user_map",
+    "autoauthor_access_control"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_autoauthor_manual_choice_hash",
+    "_autoauthor_manual_author"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:55.660Z"
+}

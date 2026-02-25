@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_shipping_tax_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:13.316Z"
+}

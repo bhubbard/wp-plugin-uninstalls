@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mood_ctcf_settings",
+    "mg_wc_cfmb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mg_wc_tab_custom_field_*",
+    "mg_wc_tab_order",
+    "mg_wc_tab_active",
+    "mg_wc_tab_footer",
+    "mg_cf_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:07.979Z"
+}

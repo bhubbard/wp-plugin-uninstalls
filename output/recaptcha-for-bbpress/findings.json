@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rfb_bbp_recaptcha_registerd_user",
+    "_bbp_allow_anonymous",
+    "rfb_bbp_recaptcha_site_key",
+    "rfb_bbp_recaptcha_server_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:51.769Z"
+}

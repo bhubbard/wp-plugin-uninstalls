@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_ccd_bkash_settings",
+    "woocommerce_ccd_nagad_settings",
+    "woocommerce_ccd_rocket_settings",
+    "ccd_enable_advance_payment",
+    "ccd_advance_payment_status_label",
+    "ccd_advance_payment_title",
+    "ccd_advance_payment_text",
+    "ccd_remaining_payment_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bkash_number",
+    "_bkash_transaction",
+    "_ccd_nagad_number",
+    "_ccd_nagad_transaction",
+    "_ccd_rocket_number",
+    "_ccd_rocket_transaction",
+    "_ccd_payoneeer_sender_email",
+    "_ccd_payoneer_transaction_id",
+    "_ccd_advance_payment_received",
+    "_ccd_original_order_total",
+    "_ccd_advance_amount_paid",
+    "_ccd_remaining_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:51.981Z"
+}

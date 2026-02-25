@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('admin_colour_dashboard', 'admin_colour_dashboard_text', 'admin_colour_dashboard_icon', 'admin_colour_posts', 'admin_colour_posts_text', 'admin_colour_posts_icon', 'admin_colour_media', 'admin_colour_media_text', 'admin_colour_media_icon', 'admin_colour_page', 'admin_colour_page_text', 'admin_colour_page_icon', 'admin_colour_comments', 'admin_colour_comments_text', 'admin_colour_comments_icon', 'admin_colour_appearance', 'admin_colour_appearance_text', 'admin_colour_appearance_icon', 'admin_colour_plugins', 'admin_colour_plugins_text', 'admin_colour_plugins_icon', 'admin_colour_users', 'admin_colour_users_text', 'admin_colour_users_icon', 'admin_colour_tools', 'admin_colour_tools_text', 'admin_colour_tools_icon', 'admin_colour_settings', 'admin_colour_settings_text', 'admin_colour_settings_icon', 'admin_colour_active', 'admin_colour_active_text', 'admin_colour_drop_bg', 'admin_colour_drop_text', 'admin_colour_master_bg');
+

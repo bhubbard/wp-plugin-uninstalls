@@ -1,0 +1,116 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('woo_variation_gallery_do_activate_redirect');
+delete_site_option('woo_variation_gallery_do_activate_redirect');
+delete_option('woocommerce_single_image_width');
+delete_site_option('woocommerce_single_image_width');
+delete_option('woocommerce_placeholder_image');
+delete_site_option('woocommerce_placeholder_image');
+delete_option('woo_variation_gallery_thumbnails_columns');
+delete_site_option('woo_variation_gallery_thumbnails_columns');
+delete_option('woo_variation_gallery_thumbnails_gap');
+delete_site_option('woo_variation_gallery_thumbnails_gap');
+delete_option('woo_variation_gallery_width');
+delete_site_option('woo_variation_gallery_width');
+delete_option('woo_variation_gallery_medium_device_width');
+delete_site_option('woo_variation_gallery_medium_device_width');
+delete_option('woo_variation_gallery_small_device_width');
+delete_site_option('woo_variation_gallery_small_device_width');
+delete_option('woo_variation_gallery_small_device_clear_float');
+delete_site_option('woo_variation_gallery_small_device_clear_float');
+delete_option('woo_variation_gallery_extra_small_device_width');
+delete_site_option('woo_variation_gallery_extra_small_device_width');
+delete_option('woo_variation_gallery_extra_small_device_clear_float');
+delete_site_option('woo_variation_gallery_extra_small_device_clear_float');
+delete_option('woo_variation_gallery_margin');
+delete_site_option('woo_variation_gallery_margin');
+delete_option('woo_variation_gallery_preloader_disable');
+delete_site_option('woo_variation_gallery_preloader_disable');
+delete_option('woo_variation_gallery_preload_style');
+delete_site_option('woo_variation_gallery_preload_style');
+delete_option('woo_variation_gallery_slider_autoplay');
+delete_site_option('woo_variation_gallery_slider_autoplay');
+delete_option('woo_variation_gallery_slider_autoplay_speed');
+delete_site_option('woo_variation_gallery_slider_autoplay_speed');
+delete_option('woo_variation_gallery_slide_speed');
+delete_site_option('woo_variation_gallery_slide_speed');
+delete_option('woo_variation_gallery_slider_fade');
+delete_site_option('woo_variation_gallery_slider_fade');
+delete_option('woo_variation_gallery_slider_arrow');
+delete_site_option('woo_variation_gallery_slider_arrow');
+delete_option('woo_variation_gallery_zoom');
+delete_site_option('woo_variation_gallery_zoom');
+delete_option('woo_variation_gallery_lightbox');
+delete_site_option('woo_variation_gallery_lightbox');
+delete_option('woo_variation_gallery_thumbnail_slide');
+delete_site_option('woo_variation_gallery_thumbnail_slide');
+delete_option('woo_variation_gallery_thumbnail_arrow');
+delete_site_option('woo_variation_gallery_thumbnail_arrow');
+delete_option('woo_variation_gallery_zoom_position');
+delete_site_option('woo_variation_gallery_zoom_position');
+delete_option('woo_variation_gallery_thumbnail_position');
+delete_site_option('woo_variation_gallery_thumbnail_position');
+delete_option('woo_variation_gallery_remove_featured_image');
+delete_site_option('woo_variation_gallery_remove_featured_image');
+delete_option('woo_variation_gallery_disabled_product_type');
+delete_site_option('woo_variation_gallery_disabled_product_type');
+delete_option('woo_variation_gallery_thumbnail_width');
+delete_site_option('woo_variation_gallery_thumbnail_width');
+delete_option('woo_variation_gallery_reset_on_variation_change');
+delete_site_option('woo_variation_gallery_reset_on_variation_change');
+delete_option('woo_variation_gallery_image_preload');
+delete_site_option('woo_variation_gallery_image_preload');
+delete_option('woo_variation_gallery');
+delete_site_option('woo_variation_gallery');
+delete_option('woocommerce_show_marketplace_suggestions');
+delete_site_option('woocommerce_show_marketplace_suggestions');
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+delete_option('woo_variation_gallery_defer_js');
+delete_site_option('woo_variation_gallery_defer_js');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'woo_variation_gallery_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'woo_variation_gallery_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'woo_variation_gallery_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'woo_variation_gallery_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wc_attachment_source' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wc_attachment_source' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wc_attachment_source' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wc_attachment_source' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wc_additional_variation_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wc_additional_variation_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wc_additional_variation_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wc_additional_variation_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'variation_image_gallery' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'variation_image_gallery' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'variation_image_gallery' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'variation_image_gallery' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_product_image_gallery' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_product_image_gallery' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_product_image_gallery' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_product_image_gallery' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'avmi_image_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'avmi_image_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'avmi_image_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'avmi_image_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'rtwpvg_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'rtwpvg_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'rtwpvg_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'rtwpvg_images' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'woo_variation_gallery_media_video' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'woo_variation_gallery_media_video' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'woo_variation_gallery_media_video' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'woo_variation_gallery_media_video' ) );
+

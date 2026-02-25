@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ptu_disable_acf_post_types",
+    "ptu_flush_rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ptu_supports",
+    "_ptu_publicly_queryable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:35.449Z"
+}

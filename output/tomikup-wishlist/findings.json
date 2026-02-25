@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tmk-woocommerce-position",
+    "tmk-data",
+    "tmk-status",
+    "tmk-default-script",
+    "tmk-button-design"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:21.696Z"
+}

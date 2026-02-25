@@ -1,0 +1,18 @@
+{
+  "options": [
+    "Activated_WooCommerce_Umba",
+    "woocommerce_currency",
+    "umba_currency_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "umba_error",
+    "umba_status",
+    "umba_payment_reference",
+    "umba_error_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:58.146Z"
+}

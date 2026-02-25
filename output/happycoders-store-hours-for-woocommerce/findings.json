@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hcsh_weekly_hours",
+    "hcsh_manual_close",
+    "hcsh_mode",
+    "hcsh_open_time",
+    "hcsh_close_time",
+    "hcsh_closed_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:40.416Z"
+}

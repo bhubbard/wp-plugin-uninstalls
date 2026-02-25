@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lpg_*",
+    "*_page_id",
+    "lpg_admin_notices",
+    "lpg_saving_settings",
+    "lpg_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:30.578Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "Profile_CCT_settings",
+    "Profile_CCT_taxonomy",
+    "Profile_CCT_form_fields",
+    "Profile_CCT_page_fields",
+    "Profile_CCT_list_page",
+    "Profile_CCT_form_fields_bench",
+    "Profile_CCT_form_fields_side",
+    "Profile_CCT_*"
+  ],
+  "transients": [
+    "profile_cct_name_list",
+    "Profile_CCT_needs_refresh"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "profile_cct",
+    "profile_cct_last_name",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:29.692Z"
+}

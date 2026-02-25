@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cargohub_free_activation_date",
+    "cargohub_free_custom_carriers"
+  ],
+  "transients": [
+    "cargohub_free_logger_initialized",
+    "cargohub_free_tracking_notice_*"
+  ],
+  "cron_jobs": [
+    "cargohub_free_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cargohub_last_email_hash",
+    "_cargohub_tracking_email_sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:20.583Z"
+}

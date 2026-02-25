@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woosb_settings', 'woosb_localization', 'woocommerce_manage_stock', 'woocommerce_notify_no_stock', 'woocommerce_stock_email_recipient', 'woocommerce_notify_low_stock', 'wpclever_plugins');
+DELETE FROM wp_options WHERE option_name LIKE 'woosb_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('woosb_optional_products', 'woosb_limit_each_min', 'woosb_limit_each_min_default', 'woosb_limit_each_max', '_sku', '_stock', 'woosb_shipping_fee', 'woosb_manage_stock', 'woosb_disable_auto_price', 'woosb_exclude_unpurchasable', 'woosb_discount_amount', 'woosb_discount', 'woosb_ids', 'woosb_limit_whole_min', 'woosb_limit_whole_max', 'woosb_total_limits_min', 'woosb_total_limits_max', 'woosb_total_limits', 'woosb_custom_price', 'woosb_layout', 'woosb_before_text', 'woosb_after_text');
+DELETE FROM wp_usermeta WHERE meta_key IN ('woosb_optional_products', 'woosb_limit_each_min', 'woosb_limit_each_min_default', 'woosb_limit_each_max', '_sku', '_stock', 'woosb_shipping_fee', 'woosb_manage_stock', 'woosb_disable_auto_price', 'woosb_exclude_unpurchasable', 'woosb_discount_amount', 'woosb_discount', 'woosb_ids', 'woosb_limit_whole_min', 'woosb_limit_whole_max', 'woosb_total_limits_min', 'woosb_total_limits_max', 'woosb_total_limits', 'woosb_custom_price', 'woosb_layout', 'woosb_before_text', 'woosb_after_text');
+DELETE FROM wp_termmeta WHERE meta_key IN ('woosb_optional_products', 'woosb_limit_each_min', 'woosb_limit_each_min_default', 'woosb_limit_each_max', '_sku', '_stock', 'woosb_shipping_fee', 'woosb_manage_stock', 'woosb_disable_auto_price', 'woosb_exclude_unpurchasable', 'woosb_discount_amount', 'woosb_discount', 'woosb_ids', 'woosb_limit_whole_min', 'woosb_limit_whole_max', 'woosb_total_limits_min', 'woosb_total_limits_max', 'woosb_total_limits', 'woosb_custom_price', 'woosb_layout', 'woosb_before_text', 'woosb_after_text');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('woosb_optional_products', 'woosb_limit_each_min', 'woosb_limit_each_min_default', 'woosb_limit_each_max', '_sku', '_stock', 'woosb_shipping_fee', 'woosb_manage_stock', 'woosb_disable_auto_price', 'woosb_exclude_unpurchasable', 'woosb_discount_amount', 'woosb_discount', 'woosb_ids', 'woosb_limit_whole_min', 'woosb_limit_whole_max', 'woosb_total_limits_min', 'woosb_total_limits_max', 'woosb_total_limits', 'woosb_custom_price', 'woosb_layout', 'woosb_before_text', 'woosb_after_text');
+

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "dmnic_enable_debug_log",
+    "dmnic_enable_cron",
+    "dmnic_max_width",
+    "dmnic_min_size_kb",
+    "dmnic_enable_aggressive_compression",
+    "dmnic_quality"
+  ],
+  "transients": [
+    "dmnic_image_compression_counts"
+  ],
+  "cron_jobs": [
+    "dmnic_cron_compress_images",
+    "dmnic_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_dmnic_image_compressed",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:26.298Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aqi_api_key",
+    "aqi_api_zip",
+    "aqi_widget_show_forecast",
+    "aqi_widget_show_legend",
+    "aqi_widget_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:00.599Z"
+}

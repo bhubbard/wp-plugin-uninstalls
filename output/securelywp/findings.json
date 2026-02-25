@@ -1,0 +1,22 @@
+{
+  "options": [
+    "securelywp_hardening_options",
+    "securelywp_headers_options",
+    "securelywp_2fa_options",
+    "securelywp_firewall_options",
+    "securelywp_blocked_requests",
+    "securelywp_options"
+  ],
+  "transients": [
+    "securelywp_cache_purged",
+    "securelywp_email_2fa_code_*",
+    "securelywp_2fa_user_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "securelywp_2fa_user_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:38.147Z"
+}

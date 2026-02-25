@@ -1,0 +1,16 @@
+{
+  "options": [
+    "awpr_user_login_api",
+    "awpr_post_api",
+    "awpr_user_api",
+    "awpr_product_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "picture"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:26.707Z"
+}

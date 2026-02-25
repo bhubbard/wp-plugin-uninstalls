@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ez-backup-settings",
+    "ELISQLREPORTS_settings_array",
+    "ELISQLREPORTS_BACKUP_DB"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "ELISQLREPORTS_daily_backup",
+    "ELISQLREPORTS_hourly_backup",
+    "ezbackup_db_daily",
+    "ezbackup_db_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:13.165Z"
+}

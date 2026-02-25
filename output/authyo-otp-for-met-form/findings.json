@@ -1,0 +1,21 @@
+{
+  "options": [
+    "authyo_otp_mf_settings",
+    "authyo_otp_mf_form_settings",
+    "authyo_otp_mf_country_list",
+    "authyo_otp_mf_country_list_updated_at",
+    "authyo_mf_email_subscription_dismissed",
+    "authyo_mf_email_subscription_completed",
+    "authyo_otp_mf_entry_file_index"
+  ],
+  "transients": [
+    "authyo_mf_show_email_subscription",
+    "authyo_otp_mf_verified_*",
+    "*:email"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:12.433Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cwrm_job_fields",
+    "cwrm_css_field",
+    "cwrm_gen_opt_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cwrm_attachment_id",
+    "_cwrm_applicant_email",
+    "_cwrm_applicant_for",
+    "_cwrm_job_fields",
+    "_cwrm_job_min_salary",
+    "_cwrm_job_max_salary",
+    "_cwrm_job_last_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:03.758Z"
+}

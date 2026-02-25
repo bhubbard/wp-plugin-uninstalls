@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_woocci_zaytech_settings",
+    "woocci_jwt_token",
+    "woocci_pakms_key",
+    "woocci_reviews_installed_on",
+    "woocci_total_success_orders",
+    "wooccii_zaytech_version",
+    "woocci_version"
+  ],
+  "transients": [
+    "woocci_force_pakms"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woocci_reviews_dismissed_triggers",
+    "_woocci_reviews_last_dismissed",
+    "_woocci_reviews_already_did"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:30.410Z"
+}

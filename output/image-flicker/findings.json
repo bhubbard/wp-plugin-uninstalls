@@ -1,0 +1,15 @@
+{
+  "options": [
+    "image_flicker_num_images",
+    "image_flicker_delay",
+    "image_flicker_link_*",
+    "image_flicker_src_*",
+    "image_flicker_desc_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:04.990Z"
+}

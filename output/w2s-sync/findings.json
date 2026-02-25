@@ -1,0 +1,36 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_custom_orders_table_data_sync_is_enabled",
+    "woocommerce_order_number_start",
+    "woocommerce_order_number_prefix",
+    "woocommerce_order_number_suffix",
+    "w2ssyn_sync_config",
+    "w2ssyn_last_sync_time",
+    "w2ssyn_shopify_store_name",
+    "w2ssyn_shopify_access_token",
+    "w2ssyn_consumer_key",
+    "w2ssyn_consumer_secret",
+    "w2ssyn_custom_fields_mapping"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [
+    "swi_sync_event",
+    "swi_custom_sync_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "_global_unique_id",
+    "_alg_ean",
+    "_ean",
+    "_gtin",
+    "_isbn",
+    "_upc",
+    "_barcode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:08.902Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_specific_allowed_countries",
+    "woocommerce_default_country",
+    "wps_countries_updated",
+    "woocommerce_shipping_tax_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_pickup_stores",
+    "_shipping_pickup_store_id",
+    "_exclude_store",
+    "city",
+    "phone",
+    "waze",
+    "map",
+    "description",
+    "address",
+    "store_order_email",
+    "enable_order_email",
+    "store_country",
+    "store_shipping_cost",
+    "taxable_store"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:58.708Z"
+}

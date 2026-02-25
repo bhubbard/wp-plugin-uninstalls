@@ -1,0 +1,33 @@
+{
+  "options": [
+    "rover_hosting_cache_notices_dismissed",
+    "roveridx_has_diverse_solutions",
+    "roveridx_dismissed_diverse_solutions",
+    "roveridx_db_version",
+    "roveridx_css_amp"
+  ],
+  "transients": [
+    "idx_plugin_updated",
+    "roveridx_activation_error",
+    "roveridx_activation_success"
+  ],
+  "cron_jobs": [
+    "roveridx_cron_daily",
+    "roveridx_cron_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rover_idx_page_title",
+    "rover_idx_desc",
+    "rover_idx_side_desc",
+    "prev-parent-id",
+    "rover-idx-migrated",
+    "rover_guid",
+    "_genesis_layout",
+    "_layout",
+    "rover-idx-mlnumber",
+    "rover-idx-cat"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:46.510Z"
+}

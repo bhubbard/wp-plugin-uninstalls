@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gb_gratitude_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gb_gratitude_meta_appreciate",
+    "gb_gratitude_meta_grat",
+    "gb_gratitude_meta_opp",
+    "gb_gratitude_meta_did",
+    "gb_gratitude_meta_do",
+    "gb_gratitude_meta_app"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:39.223Z"
+}

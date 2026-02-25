@@ -1,0 +1,15 @@
+{
+  "options": [
+    "relay_api_key"
+  ],
+  "transients": [
+    "health-check-site-status-result",
+    "update_plugins",
+    "relay_directory_sizes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:52.745Z"
+}

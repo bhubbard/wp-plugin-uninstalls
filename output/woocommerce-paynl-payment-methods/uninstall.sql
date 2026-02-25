@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('paynl_order_description_prefix', 'paynl_payment_expire_time', 'paynl_high_risk', 'paynl_exchange_url', 'paynl_show_vat_number', 'paynl_show_coc_number', 'paynl_terminals', 'paynl_cores', 'paynl_payment_options', 'woocommerce_force_ssl_checkout', 'paynl_tokencode', 'paynl_apitoken', 'paynl_serviceid', 'paynl_failover_gateway', 'paynl_custom_failover_gateway', 'paynl_test_ipadress', 'paynl_paylogger', 'paynl_test_mode', 'paynl_status_paid', 'paynl_status_cancel', 'paynl_status_failed', 'paynl_status_authorized', 'paynl_status_verify', 'paynl_status_chargeback', 'paynl_verify_amount', 'paynl_payment_method_display', 'paynl_externalrefund', 'paynl_exclude_restock', 'pay_db_version', 'paynl_standard_style', 'paynl_auto_capture', 'paynl_auto_void');
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('CustomerName', 'CustomerKey', '_vat_number', '_coc_number');
+DELETE FROM wp_usermeta WHERE meta_key IN ('CustomerName', 'CustomerKey', '_vat_number', '_coc_number');
+DELETE FROM wp_termmeta WHERE meta_key IN ('CustomerName', 'CustomerKey', '_vat_number', '_coc_number');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('CustomerName', 'CustomerKey', '_vat_number', '_coc_number');
+

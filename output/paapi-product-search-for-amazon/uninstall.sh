@@ -1,0 +1,50 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'psfa_access_key_id'
+wp option delete 'psfa_secret_access_key'
+wp option delete 'psfa_associate_tag'
+wp option delete 'psfa_button_text'
+wp option delete 'psfa_button_border_radius'
+wp option delete 'psfa_button_font_size'
+wp option delete 'psfa_button_font_weight'
+wp option delete 'psfa_card_layout'
+wp option delete 'psfa_title_font'
+wp option delete 'psfa_description_font'
+wp option delete 'psfa_price_font'
+wp option delete 'psfa_theme_colors'
+wp option delete 'psfa_hide_category_banner'
+wp option delete 'psfa_filter_visibility'
+wp option delete 'psfa_display_mode'
+wp option delete 'psfa_auth_type'
+wp option delete 'psfa_oauth_client_id'
+wp option delete 'psfa_oauth_client_secret'
+wp option delete 'psfa_oauth_credential_version'
+wp option delete 'psfa_oauth_auth_region'
+wp option delete 'psfa_marketplace'
+wp option delete 'psfa_features'
+wp option delete 'psfa_selected_theme'
+wp option delete 'psfa_hide_search'
+wp option delete 'psfa_hide_filters'
+wp option delete 'psfa_oauth_access_token'
+wp option delete 'psfa_oauth_token_expires'
+wp option delete 'psfa_button_bg_color'
+wp option delete 'psfa_button_text_color'
+wp option delete 'psfa_white_label'
+wp option delete 'fs_debug_mode'
+wp option delete '_transient_timeout_fs_snooze_period'
+wp option delete '_site_transient_timeout_fs_snooze_period'
+wp option delete 'active_sitewide_plugins'
+wp option delete 'fs_storage_logger'
+wp option delete 'fs_active_plugins'
+
+# Delete Transients
+wp transient delete 'fs_snooze_period'
+wp transient delete 'update_plugins'
+wp transient delete '_fs_api_connection_retry_counter'
+wp transient delete 'update_themes'
+
+# Clear Cron Jobs
+wp cron event delete 'fs_debug_turn_off_logging_hook'
+

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "blossomthemes_email_newsletter_settings",
+    "bten_aw_auth_info",
+    "bten_sib_temp_list"
+  ],
+  "transients": [
+    "bten_sib_list_*",
+    "sib_attributes_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bten_api_update_admin_notice",
+    "blossomthemes_email_newsletter_setting"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:00.714Z"
+}

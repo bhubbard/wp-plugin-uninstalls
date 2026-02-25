@@ -1,0 +1,28 @@
+{
+  "options": [
+    "doobert_api_token_value",
+    "doobert_validation_data",
+    "_doobert_token_value",
+    "doobert-chatbot-custom-settings",
+    "doobert-chatbot-petclove-settings",
+    "doobert-chatbot-adopt-settings",
+    "doobert_is_training_data_loaded",
+    "_doobert_excluded_posts_from_api",
+    "doobert_audit_email",
+    "_doobert_token_time_stamp",
+    "_doobert_chatbot_design_settings"
+  ],
+  "transients": [
+    "token"
+  ],
+  "cron_jobs": [
+    "custom_scrape_doobert_data",
+    "doobertbottest_daily_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_doobert_filename_pdf"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:35.398Z"
+}

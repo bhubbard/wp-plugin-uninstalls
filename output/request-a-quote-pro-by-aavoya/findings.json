@@ -1,0 +1,23 @@
+{
+  "options": [
+    "awraq_getGoogleCaptchaKeys",
+    "awraq_blocked_ips",
+    "aavoya_wraq_global_settings",
+    "aavoya_wraq_random_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aavoya_wraq_fe_is_opened",
+    "awraqFormAdminNotification",
+    "awraqFormUserNotification",
+    "googleCaptchaMeta",
+    "aavoya_wraq_meta_key",
+    "_awraq_button_data",
+    "_awraq_form_data",
+    "awraq_term_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:56.167Z"
+}

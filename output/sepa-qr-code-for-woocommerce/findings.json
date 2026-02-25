@@ -1,0 +1,15 @@
+{
+  "options": [
+    "muxp_payment_request_text",
+    "muxp_qr_max_width",
+    "muxp_store_qr_code_as_image",
+    "muxp_payment_request_email_text",
+    "woocommerce_bacs_accounts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:54.694Z"
+}

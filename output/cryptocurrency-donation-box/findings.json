@@ -1,0 +1,33 @@
+{
+  "options": [
+    "cdbbc_activated",
+    "cdbbc-alreadyRated",
+    "cdbbc_activation_time",
+    "cdbbc_spare_me",
+    "cdbbc_email_verification",
+    "cddbc_activated",
+    "cdbbc_settings",
+    "CDBBC_do_activation_redirect",
+    "CDBBC_FRESH_INSTALLATION",
+    "cdbbc_migarte_codestar",
+    "CDBBC_FREE_VERSION",
+    "cdbbc_migarte_settings",
+    "meta_public_key",
+    "meta_private_key",
+    "*_db_version",
+    "cdbbc-add-wallet",
+    "cdbbc-coin-settings"
+  ],
+  "transients": [
+    "cdbbc_init_activation",
+    "donation_auth_token",
+    "*_init_activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:01.684Z"
+}

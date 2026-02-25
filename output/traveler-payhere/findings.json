@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "total_price",
+    "item_id",
+    "st_first_name",
+    "st_last_name",
+    "st_address",
+    "st_address2",
+    "st_city",
+    "st_country",
+    "st_email",
+    "st_phone",
+    "status",
+    "order_token_code",
+    "is_meta_payment_gateway_st_payhere"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:06.945Z"
+}

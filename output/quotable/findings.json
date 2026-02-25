@@ -1,0 +1,18 @@
+{
+  "options": [
+    "quotable_activation",
+    "wpseo_social"
+  ],
+  "transients": [
+    "quotable_updated",
+    "quotable_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_quotable_blockquote_disable",
+    "_quotable_text_disable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:27.325Z"
+}

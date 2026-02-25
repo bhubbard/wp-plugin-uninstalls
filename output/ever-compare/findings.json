@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woolentor_others_tabs",
+    "evercompare_do_activation_redirect",
+    "woocommerce_weight_unit",
+    "evercompare_installed",
+    "evercompare_version",
+    "ever_compare_table_settings_tabs",
+    "ever_compare_settings_tabs",
+    "ever_compare_style_tabs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:37.763Z"
+}

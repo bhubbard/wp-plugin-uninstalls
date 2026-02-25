@@ -1,0 +1,22 @@
+{
+  "options": [
+    "contentstudio_redirect",
+    "contentstudio_token",
+    "contentstudio_save_media_in_wp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "contentstudio_wpseo_title",
+    "contentstudio_wpseo_description",
+    "_wp_attachment_image_alt",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_aioseop_title",
+    "_aioseop_description",
+    "_wp_old_slug"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:56.091Z"
+}

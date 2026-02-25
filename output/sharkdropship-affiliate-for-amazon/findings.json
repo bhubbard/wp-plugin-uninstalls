@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sharamaf_extension_notice_dismissed",
+    "_price",
+    "product_views",
+    "productUrl",
+    "amazon_sharkdropship_extension_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:44.375Z"
+}

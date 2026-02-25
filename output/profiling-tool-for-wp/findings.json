@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ptfwp_backup_active_plugins",
+    "PROFILING_TOOL_FOR_WP_LANGUAGE",
+    "ptfwp_db_version",
+    "TBIWP_FREE_KEY"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:12.883Z"
+}

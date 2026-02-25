@@ -1,0 +1,15 @@
+{
+  "options": [
+    "spoki_ca_gdpr_message",
+    "spoki_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "spoki_abandoned_carts_cron_hook",
+    "spoki_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:26.636Z"
+}

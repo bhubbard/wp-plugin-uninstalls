@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fm_filter",
+    "fm_comment_handling",
+    "fm_api_key",
+    "fm_api_send_mail",
+    "fm_api_block_score",
+    "fm_use_spamhaus",
+    "fm_use_uribl",
+    "fm_whitelist",
+    "fm_blacklist",
+    "fm_api_key_score",
+    "fm_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:56.669Z"
+}

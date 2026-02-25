@@ -1,0 +1,20 @@
+{
+  "options": [
+    "split_test_counter_*",
+    "split_children_count_*",
+    "split_number_counter_*",
+    "sct_api_key",
+    "sct_last_domain_ID",
+    "rlm_version_simple_click_tracker",
+    "sct_notification"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sct_dflt_domain_id",
+    "sct_dflt_group_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:25.554Z"
+}

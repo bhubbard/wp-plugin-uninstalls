@@ -1,0 +1,24 @@
+{
+  "options": [
+    "dbem_locations_enabled",
+    "dbem_rsvp_enabled",
+    "dbem_bookings_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_event_all_day",
+    "_event_start_date",
+    "_event_start_time",
+    "_event_end_date",
+    "_event_end_time",
+    "_location_id",
+    "_event_rsvp",
+    "_event_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:55.429Z"
+}

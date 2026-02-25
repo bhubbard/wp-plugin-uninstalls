@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pkl_wpz_rest_api_auth_enable",
+    "pkl_wpz_rest_api_auth_allow_root_endpoint",
+    "pkl_wpz_rest_api_auth_allow_pages",
+    "pkl_wpz_rest_api_auth_allow_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:55.086Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "username",
+    "posting_key",
+    "default_tags",
+    "error_reporting_consent",
+    "wordsteem_notice_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wordsteem_is_published_key",
+    "_wordsteem_reward_key",
+    "_wordsteem_username_key",
+    "_wordsteem_permalink_key",
+    "_wordsteem_tags_key",
+    "_wordsteem_to_publish_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:12.833Z"
+}

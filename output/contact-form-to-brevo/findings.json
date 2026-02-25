@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cfb_psd_fields",
+    "cfb_psd_enable",
+    "cfb_psd_update_existing",
+    "cfb_psd_credentials"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:49.688Z"
+}

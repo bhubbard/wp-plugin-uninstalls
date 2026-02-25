@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sml_subscribe_widget_title",
+    "sml_subscribe_widget_prepend",
+    "sml_subscribe_widget_jsthanks",
+    "sml_subscribe_widget_thankyou",
+    "sml_subscribe_widget_showname",
+    "sml_subscribe_widget_nametxt",
+    "sml_subscribe_widget_nameholder",
+    "sml_subscribe_widget_emailtxt",
+    "sml_subscribe_widget_emailholder",
+    "sml_subscribe_widget_showsubmit",
+    "sml_subscribe_widget_submittxt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:15.645Z"
+}

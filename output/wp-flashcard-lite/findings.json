@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_flashcard_width_setting",
+    "wp_flashcard_height_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "falshcard_slides",
+    "flashcard_short_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:08.733Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_custom_orders_table_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_state",
+    "*_city",
+    "*_address_2",
+    "billing_state",
+    "shipping_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:20.936Z"
+}

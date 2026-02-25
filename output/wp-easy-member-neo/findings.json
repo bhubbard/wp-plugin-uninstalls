@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wp_wpemp_ver",
+    "wpemp_show_powered",
+    "wp_wpemp_fopen",
+    "wpemp_url",
+    "wpemp_name",
+    "wpemp_powered_link",
+    "wpemp_signup_link",
+    "wpemp_show_post",
+    "wpemp_show_page",
+    "wpemp_member_levels",
+    "wpemp_cat_options",
+    "wpemp_cat_levels_*",
+    "wpemp_show_*",
+    "cat_levels_key_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpemp_levels",
+    "_wpemp_dropdown",
+    "_wpemp_excerpt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:00.566Z"
+}

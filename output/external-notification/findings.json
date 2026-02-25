@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*slack_webhook_url",
+    "*slack_member_id",
+    "*forward_email_to_slack"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*slack_member_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:14.596Z"
+}

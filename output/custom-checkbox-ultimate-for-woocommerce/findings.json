@@ -1,0 +1,17 @@
+{
+  "options": [
+    "icwcu_custom_services_title",
+    "icwcu_custom_radioservices_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "icwcu_custom_services",
+    "icwcu_custom_servicesradio",
+    "icwcu_custom_services_title",
+    "icwcu_custom_radioservices_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:11.176Z"
+}

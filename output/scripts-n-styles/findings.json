@@ -1,0 +1,17 @@
+{
+  "options": [
+    "SnS_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_SnS_styles",
+    "uFp_styles",
+    "_SnS_scripts",
+    "uFp_scripts",
+    "_SnS"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:17.419Z"
+}

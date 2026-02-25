@@ -1,0 +1,24 @@
+{
+  "options": [
+    "presentations_term_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "data-x",
+    "data-y",
+    "data-z",
+    "data-rotate-x",
+    "data-rotate-y",
+    "data-rotate-z",
+    "data-scale",
+    "step-class",
+    "head-text",
+    "step-format",
+    "step-empty",
+    "step_bgimage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:07.957Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "cliredas_report_last_7_days",
+    "cliredas_report_last_30_days"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cliredas_ga4_oauth_state_token"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:38.798Z"
+}

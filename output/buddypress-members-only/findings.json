@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bprestrictrestapi",
+    "bpmoinitsetup",
+    "bpmofreecurrentversion",
+    "bpdisableallfeature",
+    "bpmoregisterpageurl",
+    "saved_open_page_url",
+    "bprestrictsbuddypresssection",
+    "bpenablepagelevelprotect",
+    "tomas_bbp_member_only_free_custom_links_login",
+    "bpmemonlypro_enabled_post_type",
+    "bpstandardcomponent",
+    "bpmo_user_first_run_guide_bar_free",
+    "members_only_free_have_new_version_*",
+    "bpopenedcustomizedcomponent",
+    "bpenableaallbprssrestricts",
+    "bpenablerssrestricts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bp_members_only_access_to_this_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:26.871Z"
+}

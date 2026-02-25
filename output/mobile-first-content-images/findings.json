@@ -1,0 +1,15 @@
+{
+  "options": [
+    "option_add_css",
+    "options_add_css_class",
+    "option_image_size",
+    "option_image_class",
+    "EP_MFCI_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:27.580Z"
+}

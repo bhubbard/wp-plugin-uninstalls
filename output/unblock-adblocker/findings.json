@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*-options",
+    "uaau_error_log",
+    "*_error_log",
+    "*-review-notify",
+    "unblockadblocker-options",
+    "unblockadblocker-install-date",
+    "unblockadblocker-review-notify",
+    "*-install-date"
+  ],
+  "transients": [
+    "uaau-activation-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:38.816Z"
+}

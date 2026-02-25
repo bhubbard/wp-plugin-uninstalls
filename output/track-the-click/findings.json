@@ -1,0 +1,39 @@
+{
+  "options": [
+    "*_local",
+    "*_retain_days",
+    "*_exclude_addresses",
+    "*_click_counts",
+    "*_remove_noreferrer",
+    "*_track_admins",
+    "*_track_users",
+    "*_license",
+    "*_license_status",
+    "track_the_click_license_status",
+    "track_the_click_exclude_addresses",
+    "date_format ",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "track_the_click_local",
+    "track_the_click_version",
+    "track_the_click_click_counts",
+    "track_the_click_retain_days",
+    "track_the_click_ga_options",
+    "track_the_click_remove_noreferrer",
+    "track_the_click_track_license",
+    "track_the_click_track_license_status",
+    "track_the_click_track_admins",
+    "track_the_click_track_users",
+    "track_the_click_patterns_1"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "track_the_click_delete_old_data"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:03.612Z"
+}

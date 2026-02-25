@@ -1,0 +1,27 @@
+{
+  "options": [
+    "onclickpopup_setting1",
+    "onclickpopup_setting1_left",
+    "onclickpopup_setting1_top",
+    "onclickpopup_title",
+    "onclickpopup_setting2",
+    "onclickpopup_setting2_left",
+    "onclickpopup_setting2_top",
+    "onclickpopup_setting3",
+    "onclickpopup_setting3_left",
+    "onclickpopup_setting3_top",
+    "onclickpopup_setting4",
+    "onclickpopup_setting4_left",
+    "onclickpopup_setting4_top",
+    "onclickpopup_setting5",
+    "onclickpopup_setting5_left",
+    "onclickpopup_setting5_top",
+    "onclickpopup_Title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:59.827Z"
+}

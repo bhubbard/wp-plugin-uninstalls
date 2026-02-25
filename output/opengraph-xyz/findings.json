@@ -1,0 +1,15 @@
+{
+  "options": [
+    "opengraph_xyz_api_key"
+  ],
+  "transients": [
+    "opengraph_xyz_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "opengraph-xyz"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:52.127Z"
+}

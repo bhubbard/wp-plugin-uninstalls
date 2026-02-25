@@ -1,0 +1,19 @@
+{
+  "options": [
+    "automagicalinks_options",
+    "autolinking",
+    "automagicality",
+    "link_characters",
+    "link_escape_character",
+    "allowed_post_types",
+    "allowed_link_names",
+    "excluded_elements",
+    "aliases"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:32.219Z"
+}

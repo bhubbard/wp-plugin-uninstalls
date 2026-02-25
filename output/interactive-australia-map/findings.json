@@ -1,0 +1,17 @@
+{
+  "options": [
+    "freeaustraliahtml5map_options",
+    "freeaustraliahtml5map_goptions",
+    "freeaustraliahtml5map_imported_map_key",
+    "freefreeaustraliahtml5map_map_data",
+    "freefreeaustraliahtml5map_nameColor",
+    "freefreeaustraliahtml5map_state_info_*",
+    "freefreeaustraliahtml5map_nameFontSize"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:53.869Z"
+}

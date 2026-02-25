@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_settings",
+    "*_license_active",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_license_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:28.590Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dup1",
+    "dup2",
+    "dup3",
+    "dup4",
+    "dup5",
+    "link",
+    "title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:03.176Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "vi_title_text",
+    "vi_title_check",
+    "vi_excerpt_text",
+    "vi_excerpt_check",
+    "vi_content_text",
+    "vi_content_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:46.514Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "auto_translate_options",
+    "auto_translate_just_activated",
+    "auto_translate_should_clear_cookies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_translate3k_content_lang"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:53.451Z"
+}

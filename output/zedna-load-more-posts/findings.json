@@ -1,0 +1,17 @@
+{
+  "options": [
+    "posts_parent_container",
+    "pagination_container",
+    "article_contianer",
+    "load_on_scroll",
+    "lang_text_button_default",
+    "lang_text_button_loading",
+    "lang_text_button_nopost"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:45.085Z"
+}

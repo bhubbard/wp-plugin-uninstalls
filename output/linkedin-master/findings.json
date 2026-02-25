@@ -1,0 +1,13 @@
+{
+  "options": [
+    "linkedin_master_system_wide",
+    "linkedin_master_system_wide_language",
+    "tsm_quote"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:17.886Z"
+}

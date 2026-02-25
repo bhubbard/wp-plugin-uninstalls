@@ -1,0 +1,15 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('zednamm_maintenance_role');
+delete_site_option('zednamm_maintenance_role');
+delete_option('zednamm_redirect_to_login');
+delete_site_option('zednamm_redirect_to_login');
+delete_option('zednamm_message');
+delete_site_option('zednamm_message');
+

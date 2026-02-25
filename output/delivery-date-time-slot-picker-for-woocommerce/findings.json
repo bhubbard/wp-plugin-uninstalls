@@ -1,0 +1,15 @@
+{
+  "options": [
+    "delidaam_delivery_blackout_dates",
+    "delidaam_delivery_time_slots"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Delivery Date",
+    "Delivery Time Slot"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:06.777Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woopei_show_rating",
+    "woopei_hide_rating"
+  ],
+  "transients": [
+    "woopei_notified",
+    "woopei_notification"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sale_price",
+    "_regular_price",
+    "_price",
+    "_sku",
+    "_weight",
+    "_stock",
+    "_manage_stock",
+    "_stock_status",
+    "_virtual",
+    "_visibility"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:54.784Z"
+}

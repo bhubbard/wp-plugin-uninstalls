@@ -1,0 +1,34 @@
+{
+  "options": [
+    "surefeedback_connection_id",
+    "surefeedback_site_id",
+    "surefeedback_bearer_token",
+    "surefeedback_organization_id",
+    "surefeedback_access_token",
+    "surefeedback_webhook_state",
+    "surefeedback_allowed_roles",
+    "surefeedback_page_settings",
+    "surefeedback_widget_control_enabled",
+    "surefeedback_site_token",
+    "surefeedback_parent_url",
+    "surefeedback_widget_script_url",
+    "surefeedback_is_fully_verified",
+    "surefeedback_last_verification",
+    "surefeedback_last_sync",
+    "surefeedback_verification_status",
+    "surefeedback_load_in_admin"
+  ],
+  "transients": [
+    "surefeedback_activation_redirect"
+  ],
+  "cron_jobs": [
+    "surefeedback_poll_connection_tokens",
+    "surefeedback_auto_verify",
+    "surefeedback_hourly_verify",
+    "surefeedback_cleanup_rate_limits"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:01.398Z"
+}

@@ -1,0 +1,15 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('pingler_apikey');
+delete_site_option('pingler_apikey');
+delete_option('pingler_category');
+delete_site_option('pingler_category');
+delete_option('pingler_message');
+delete_site_option('pingler_message');
+

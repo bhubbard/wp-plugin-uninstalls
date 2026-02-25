@@ -1,0 +1,16 @@
+{
+  "options": [
+    "votd_font_family_settings",
+    "votd_language",
+    "votd_background_type",
+    "votd_activation_date",
+    "votd_review_notice_delayed_until",
+    "votd_review_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:50.096Z"
+}

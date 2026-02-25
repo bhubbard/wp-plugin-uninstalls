@@ -1,0 +1,26 @@
+{
+  "options": [
+    "rntfw_settings",
+    "rntfw_site_registered",
+    "rntfw_site_secret",
+    "woocommerce_notify_low_stock_amount"
+  ],
+  "transients": [
+    "rntfw_limit_reached_notice",
+    "rntfw_bot_info",
+    "rntfw_site_reg_status",
+    "rntfw_limit_upgrade_url",
+    "rntfw_old_product_price_*"
+  ],
+  "cron_jobs": [
+    "rntfw_scheduled_sms_cron",
+    "rntfw_daily_cleanup_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rntfw_dismissed_notice_*",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:51.663Z"
+}

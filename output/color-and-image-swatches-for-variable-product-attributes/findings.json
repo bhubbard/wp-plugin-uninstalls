@@ -1,0 +1,21 @@
+{
+  "options": [
+    "recently_activated",
+    "enable_plugin",
+    "color_swatches_setting_values",
+    "attr_image_size",
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "phoe_swatch_options",
+    "attribute_position"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:43.753Z"
+}

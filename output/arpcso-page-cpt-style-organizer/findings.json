@@ -1,0 +1,15 @@
+{
+  "options": [
+    "arpcso_page_cpt_ct_groups"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_arpcso_page_cpt_ct_group",
+    "_arpcso_page_cpt_ct_type",
+    "_arpcso_page_cpt_ct_role"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:06.170Z"
+}

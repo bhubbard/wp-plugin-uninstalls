@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "gravitecnet_db_version"
+  ],
+  "transients": [
+    "gravitecnet_transient_error",
+    "gravitecnet_transient_success"
+  ],
+  "cron_jobs": [
+    "gravitecnet_abandoned_cart"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "recipients",
+    "status",
+    "response_body",
+    "send_gravitec_push",
+    "gravitec_meta_box_implemented"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:12.242Z"
+}

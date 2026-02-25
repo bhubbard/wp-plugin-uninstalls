@@ -1,0 +1,36 @@
+{
+  "options": [
+    "dicha_skroutz_feed_manufacturer",
+    "dicha_skroutz_feed_color",
+    "dicha_skroutz_feed_size",
+    "dicha_skroutz_feed_size_default_one_size",
+    "dicha_skroutz_feed_availability",
+    "dicha_skroutz_feed_include_backorders",
+    "dicha_skroutz_feed_title_attributes",
+    "dicha_skroutz_feed_description",
+    "dicha_skroutz_feed_global_markup",
+    "dicha_skroutz_feed_enable_ean_field",
+    "dicha_skroutz_feed_filter_categories",
+    "dicha_skroutz_feed_filter_tags",
+    "dicha_skroutz_incl_excl_mode_categories",
+    "dicha_skroutz_incl_excl_mode_tags",
+    "dicha_skroutz_feed_shipping_cost",
+    "dicha_skroutz_feed_free_shipping",
+    "dicha_skroutz_feed_log_level",
+    "dicha_skroutz_feed_monitor_enabled",
+    "dicha_skroutz_feed_monitor_email",
+    "dicha_skroutz_feed_cron",
+    "dicha_skroutz_feed_last_run",
+    "dicha_skroutz_feed_last_alert_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dicha_skroutz_feed_custom_availability",
+    "dicha_skroutz_feed_ean_barcode",
+    "dicha_skroutz_feed_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:00.758Z"
+}

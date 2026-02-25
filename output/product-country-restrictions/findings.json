@@ -1,0 +1,14 @@
+{
+  "options": [
+    "product-country-restrictions-message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fz_restricted_countries",
+    "_fz_country_restriction_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:50.156Z"
+}

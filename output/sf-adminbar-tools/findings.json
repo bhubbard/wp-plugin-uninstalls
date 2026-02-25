@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sfabt_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sf-abt-no-autosave",
+    "sfabt-no-autosave"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:12.384Z"
+}

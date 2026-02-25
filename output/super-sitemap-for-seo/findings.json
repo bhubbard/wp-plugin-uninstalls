@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ss4seo_custom_taxs",
+    "wpseo_titles",
+    "rank-math-options-titles",
+    "wpseo",
+    "rank_math_modules",
+    "rank-math-options-sitemap",
+    "active_sitewide_plugins",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:01.438Z"
+}

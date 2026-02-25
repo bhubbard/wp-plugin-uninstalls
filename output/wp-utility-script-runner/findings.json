@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_util_script_runner"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_util_cron_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:50.700Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "human_resources_department",
+    "hrm_deferred_admin_notices",
+    "hrm_version",
+    "other_hrms",
+    "hrm_daily",
+    "remote_logging_option",
+    "hrm_box_removed",
+    "logoff_logging_option",
+    "auto_logoff_option",
+    "post_measure_logging_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Arbeitszeit_gesamt_*",
+    "in_office",
+    "Arbeitszeitbeginn",
+    "Pausenkonto",
+    "whow",
+    "_time_spend_*",
+    "is_ill",
+    "is_ill_until",
+    "Arbeitszeitbeginn_readable",
+    "in_pause",
+    "Pausenbeginn",
+    "Pausenbeginn_readable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:22.269Z"
+}

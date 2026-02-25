@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_anet_temp_token",
+    "wc_anet_temp_id",
+    "wc_anet_pm_payerid",
+    "_wc_anet_pm"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:08.839Z"
+}

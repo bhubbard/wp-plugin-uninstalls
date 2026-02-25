@@ -1,0 +1,13 @@
+{
+  "options": [
+    "back-ops"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smartlink-1"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:52.616Z"
+}

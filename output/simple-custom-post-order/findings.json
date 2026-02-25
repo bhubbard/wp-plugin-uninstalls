@@ -1,0 +1,14 @@
+{
+  "options": [
+    "simple-rate-time",
+    "scporder_options",
+    "scporder_install",
+    "scporder_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:48.661Z"
+}

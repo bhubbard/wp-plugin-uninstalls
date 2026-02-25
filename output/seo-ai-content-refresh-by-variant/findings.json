@@ -1,0 +1,21 @@
+{
+  "options": [
+    "scr_refresh_post_types",
+    "scr_refresh_openai_key",
+    "scr_refresh_content_age",
+    "scr_refresh_modification_level",
+    "scr_refresh_batch_size",
+    "scr_refresh_custom_prompt"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "scr_refresh_process_batch"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "scr_refresh_last_edit",
+    "src_backup_revision"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:13.320Z"
+}

@@ -1,0 +1,43 @@
+{
+  "options": [
+    "reviewxpress_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "reviewxpress_send_delayed_coupon_email",
+    "reviewxpress_send_delayed_review_emails"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "usage_limit",
+    "usage_limit_per_user",
+    "maximum_amount",
+    "minimum_amount",
+    "free_shipping",
+    "exclude_sale_items",
+    "customer_email",
+    "product_ids",
+    "exclude_product_ids",
+    "date_expires",
+    "_reviewxpress_test_product",
+    "_price",
+    "_regular_price",
+    "_manage_stock",
+    "_stock_status",
+    "_visibility",
+    "limit_usage_to_x_items",
+    "usage_count",
+    "apply_before_tax",
+    "product_categories",
+    "exclude_product_categories",
+    "expiry_date",
+    "date_created",
+    "date_modified",
+    "_reviewxpress_test_coupon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:52.084Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_gdex_settings",
+    "gdex_admin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "consignment_number",
+    "parcel_type",
+    "content",
+    "pieces",
+    "weight",
+    "order_id",
+    "name",
+    "address1",
+    "address2",
+    "postcode",
+    "city",
+    "state",
+    "country",
+    "mobile",
+    "rate",
+    "invoice_number",
+    "total",
+    "consignment_status",
+    "service_type",
+    "pick_up_date",
+    "pick_up_time",
+    "pick_up_transportation",
+    "pick_up_trolley_required",
+    "pick_up_remark"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:59.516Z"
+}

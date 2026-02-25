@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lockspire_email_logs",
+    "lockspire_blocked_today",
+    "lockspire_blocked_ips",
+    "lockspire_activity_log",
+    "lockspire_activity_log_key",
+    "lockspire_notification_emails",
+    "lockspire_options",
+    "lockspire_last_scan",
+    "lockspire_firewall_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:41.523Z"
+}

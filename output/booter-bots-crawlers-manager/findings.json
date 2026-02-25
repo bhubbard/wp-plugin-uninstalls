@@ -1,0 +1,27 @@
+{
+  "options": [
+    "booter_settings",
+    "booter_version",
+    "wpseo_xml",
+    "wpseo",
+    "aioseop_options"
+  ],
+  "transients": [
+    "booter_disavow_list_downloaded_at",
+    "booter_bad_referers",
+    "booter_bad_robots",
+    "booter_bad_referers_updated_at",
+    "booter_bad_robots_updated_at",
+    "upress_enable"
+  ],
+  "cron_jobs": [
+    "booter_404_log_cleanup",
+    "booter_404_log_daily_report",
+    "booter_404_log_report",
+    "booter_write_robots_file"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:18.682Z"
+}

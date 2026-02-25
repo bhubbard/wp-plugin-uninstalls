@@ -1,0 +1,14 @@
+{
+  "options": [
+    "kp_cspgen_settings_name",
+    "wpsh_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kpshg_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:16.615Z"
+}

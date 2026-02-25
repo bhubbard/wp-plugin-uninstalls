@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "originalityai_admin_notice_error",
+    "originalityai_admin_notice_success"
+  ],
+  "cron_jobs": [
+    "ai_scan_batch_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_originalityai_scan_status",
+    "_originalityai_scan_batch",
+    "_originalityai_logo"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:35.721Z"
+}

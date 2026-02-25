@@ -1,0 +1,25 @@
+{
+  "options": [
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "*dots",
+    "*arrows",
+    "*loop",
+    "*autoplay",
+    "*effect",
+    "*duration",
+    "*transition",
+    "*mobile",
+    "*desktop",
+    "*overlay",
+    "*text",
+    "*slides"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:47.003Z"
+}

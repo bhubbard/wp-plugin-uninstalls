@@ -1,0 +1,42 @@
+{
+  "options": [
+    "*-notices",
+    "bulkProcessingStatus",
+    "spio_site_delivery",
+    "*_size_w",
+    "*_size_h",
+    "spio_settings",
+    "active_sitewide_plugins",
+    "jetpack_active_modules",
+    "litespeed.conf.img_optm-webp",
+    "_transient_timeout_*",
+    "wp-short-pixel-bulk-previous-percent",
+    "wp-short-pixel-activation-date",
+    "wp-short-pixel-current-total-files",
+    "wp-short-pixel-activation-notice",
+    "wp-short-pixel-bulk-last-status",
+    "wp-short-pixel-remove-settings-on-delete-plugin"
+  ],
+  "transients": [
+    "spio_settings_ai_example",
+    "spio_settings_ai_example_id",
+    "bulk-secret",
+    "othermedia_refresh_folder_delay",
+    "avif_server_check",
+    "quotaData"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shortpixel_alt_requests",
+    "_shortpixel_was_converted",
+    "wp_media_library_mode",
+    "_wp_attachment_image_alt",
+    "_wp_attachment_metadata",
+    "_shortpixel_prevent_optimize",
+    "_shortpixel_status",
+    "_frm_temporary"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:51.564Z"
+}

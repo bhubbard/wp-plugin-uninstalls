@@ -1,0 +1,44 @@
+{
+  "options": [
+    "berocket_key_activated_plugins",
+    "berocket_framework_option_global",
+    "BeRocket_Framework_plugins_version_check",
+    "berocket_admin_notices",
+    "berocket_email_subscribed",
+    "berocket_last_close_notices_time",
+    "berocket_current_displayed_notice",
+    "berocket_admin_notices_last_on_options",
+    "berocket_admin_notices_rate_stars",
+    "berocket_plugin_error_*",
+    "berocket_information_notices",
+    "BeRocket_account_option",
+    "*_upgrade",
+    "brwwl_hash",
+    "br_wish_list_*"
+  ],
+  "transients": [
+    "berocket_framework_plugin_is_active_*",
+    "berocket_plugin_paid_info",
+    "*_paid_info",
+    "update_plugins",
+    "br_plugin_activation",
+    "br_plugin_api_*",
+    "brplugin_info_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "total_sales",
+    "berocket_post_order",
+    "berocket_wait",
+    "berocket_*",
+    "*_users",
+    "*_users_count",
+    "wait_users",
+    "wish_users_count",
+    "wait_users_count",
+    "berocket_wish"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:19.632Z"
+}

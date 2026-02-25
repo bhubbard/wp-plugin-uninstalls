@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mailniaga_balance",
+    "mailniaga_wp_connector_settings"
+  ],
+  "transients": [
+    "mailniaga_test_email_result",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "mailniaga_check_balance_hook",
+    "mailniaga_clean_email_logs",
+    "mailniaga_unsubscribe_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:32.352Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "op_client",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "gspdribbble_activation_redirect",
+    "gs_dribb_active_time",
+    "gs_dribb_review_dismiss",
+    "gs_dribb_maybe_later"
+  ],
+  "transients": [
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:09.471Z"
+}

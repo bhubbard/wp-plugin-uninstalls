@@ -1,0 +1,43 @@
+{
+  "options": [
+    "cs_sc_openai_api_key",
+    "cs_sc_primary_color",
+    "cs_sc_text_color",
+    "cs_sc_font_family",
+    "cs_sc_header_bg_color",
+    "cs_sc_header_text_color",
+    "cs_sc_body_bg_color",
+    "cs_sc_body_text_color",
+    "cs_sc_table_header_bg",
+    "cs_sc_table_header_text",
+    "cs_sc_table_row_bg",
+    "cs_sc_table_row_text",
+    "cs_sc_display_position",
+    "cs_sc_enable_ai_quiz",
+    "cs_sc_delete_on_uninstall",
+    "cs_sc_activated_time",
+    "cs_sc_version",
+    "cs_sc_db_version"
+  ],
+  "transients": [
+    "cs_sc_flush_rewrite_rules",
+    "cs_sc_stats_0"
+  ],
+  "cron_jobs": [
+    "cs_sc_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cs_size_chart_id",
+    "_cs_assignment_type",
+    "_cs_assigned_products",
+    "_cs_assigned_categories",
+    "_cs_size_chart_data",
+    "_cs_size_chart_display_position",
+    "_cs_size_chart_layout",
+    "_cs_size_chart_style",
+    "_cs_size_chart_quiz"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:09.795Z"
+}

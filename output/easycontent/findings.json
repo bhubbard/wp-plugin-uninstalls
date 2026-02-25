@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ec-current-db-version",
+    "ec-is-plugin-connected",
+    "ec-public-api-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ec-source-url",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:32.441Z"
+}

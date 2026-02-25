@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ss_podcasting_podtrac_analytics_episode_measurement_service', 'ss_podcasting_podtrac_blubrry_stats_episode_measurement_service', 'ss_podcasting_podtrac_analytics_episode_measurement_service_radio', 'ss_podcasting_podtrac_blubrry_stats_episode_measurement_service_name', 'ss_podcasting_podtrac_blubrry_stats_episode_measurement_service_radio', 'ss_podcasting_podtrac_analytics_refresh_rss_cache');
+

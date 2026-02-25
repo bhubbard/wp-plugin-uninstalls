@@ -1,0 +1,36 @@
+{
+  "options": [
+    "fakturo_dashboard_options_group",
+    "fakturo_system_options_group",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "fktr_license_keys",
+    "fktr_license_status",
+    "fktr_first_time_wizard",
+    "fakturo_info_options_group",
+    "last_receipt_number",
+    "last_invoice_number",
+    "fktr_last_mananger_caps",
+    "fktr_last_seller_caps",
+    "fktr_db_version",
+    "fakturo_subscription_email_*"
+  ],
+  "transients": [
+    "fakturo_addons_data",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "balance",
+    "content",
+    "description",
+    "subject",
+    "assigned",
+    "stocks",
+    "receipts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:07.067Z"
+}

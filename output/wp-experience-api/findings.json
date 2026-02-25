@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpxapi_settings",
+    "json_api_base",
+    "wpxapi_network_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpxapi_run_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:26.646Z"
+}

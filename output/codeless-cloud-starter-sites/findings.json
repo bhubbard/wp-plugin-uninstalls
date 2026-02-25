@@ -1,0 +1,29 @@
+{
+  "options": [
+    "theme_switched",
+    "specular_purchase_info",
+    "codeless_ob_plugins_installed",
+    "codeless_blocks_settings_redirect",
+    "widget_*",
+    "sidebars_widgets",
+    "theme_mods_*",
+    "*-widget",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "_wc_activation_redirect",
+    "wpforms_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "_elementor_data",
+    "_elementor_version",
+    "_elementor_edit_mode",
+    "_elementor_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:07.320Z"
+}

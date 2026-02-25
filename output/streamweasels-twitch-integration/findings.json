@@ -1,0 +1,45 @@
+{
+  "options": [
+    "swti_options_player",
+    "swti_options_rail",
+    "swti_options_status",
+    "swti_options_vods",
+    "swti_options_wall",
+    "swti_options",
+    "swti_translations",
+    "swti_debug_log",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "swti_options_feature",
+    "swti_options_nav"
+  ],
+  "transients": [
+    "swti_twitch_token_expires",
+    "swti_notice_closed5",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "swti_game_*",
+    "swti_team_*",
+    "swti_channel_*",
+    "swti_twitch_token",
+    "swti_twitch_auth_token",
+    "swti_twitch_auth_token_expires"
+  ],
+  "cron_jobs": [
+    "swti_cron",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_channel_status",
+    "_team_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:47.026Z"
+}

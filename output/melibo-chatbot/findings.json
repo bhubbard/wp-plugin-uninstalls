@@ -1,0 +1,15 @@
+{
+  "options": [
+    "melibo_api_key",
+    "melibo_environment_id",
+    "melibo_environment_select_pages",
+    "melibo_activate",
+    "melibo_excluded_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:11.748Z"
+}

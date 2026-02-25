@@ -1,0 +1,16 @@
+{
+  "options": [
+    "unity_birthday_setting",
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "unity_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "unity-birth-date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:47.831Z"
+}

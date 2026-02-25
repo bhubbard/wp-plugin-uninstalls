@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woei_customer_tracking_note",
+    "woei_tracking_url"
+  ],
+  "transients": [
+    "waei-import-file-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:45.903Z"
+}

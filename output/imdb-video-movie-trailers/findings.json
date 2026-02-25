@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cinemabase_players",
+    "cinemabase_token",
+    "cinemabase_excerpt",
+    "cinemabase_welcome_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:45.185Z"
+}

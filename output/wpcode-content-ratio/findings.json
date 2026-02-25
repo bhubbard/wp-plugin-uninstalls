@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpcode_options",
+    "wpcode_tags_ratio",
+    "wpcode_categories_ratio",
+    "wpcode_author_ratio",
+    "*_ratio"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ratio"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:07.295Z"
+}

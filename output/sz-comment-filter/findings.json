@@ -1,0 +1,13 @@
+{
+  "options": [
+    "szmcf_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "szmcf_info_visibility"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:09.508Z"
+}

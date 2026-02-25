@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fish-and-ships-woocommerce",
+    "fish-and-ships-woocommerce-user-default",
+    "fish-and-ships-woocommerce-news",
+    "woocommerce_currency",
+    "wc-fns-translatable",
+    "wc_fns_logs_index",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "group_title",
+    "field_label",
+    "fish-and-ships-woocommerce"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:42.224Z"
+}

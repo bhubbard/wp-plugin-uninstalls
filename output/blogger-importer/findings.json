@@ -1,0 +1,23 @@
+{
+  "options": [
+    "blogger_importer",
+    "blogger_importer_connector",
+    "blogger_importer_blog_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "blogger_blog",
+    "blogger_author",
+    "blogger_permalink",
+    "blogger_internal",
+    "geo_latitude",
+    "geo_longitude",
+    "geo_public",
+    "geo_address",
+    "blogger_largeimgispage"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:29.514Z"
+}

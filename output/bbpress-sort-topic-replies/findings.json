@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_bbp_sort_desc_global",
+    "_bbp_sort_desc_global_no_parent",
+    "_bbp_sort_show_lead_topic"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_forum_id",
+    "_bbp_topic_sort_desc",
+    "_bbp_sort_desc",
+    "_bbp_topic_sort_show_lead_topic",
+    "_bbp_topic_sort_show_lead_topic_forum"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:30.979Z"
+}

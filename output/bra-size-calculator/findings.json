@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bscp_btn_bg",
+    "bscp_btn_bg_hover",
+    "bscp_btn_text",
+    "bscp_btn_text_hover"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:04.775Z"
+}

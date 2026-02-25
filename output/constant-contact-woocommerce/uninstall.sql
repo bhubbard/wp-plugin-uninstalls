@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cc_abandoned_carts_db_version', 'cc_woo_import_connection_established', 'cc_woo_store_information_first_name', 'cc_woo_store_information_last_name', 'cc_woo_store_information_phone_number', 'cc_woo_store_information_store_name', 'cc_woo_store_information_currency', 'cc_woo_store_information_contact_email', 'cc_woo_store_information_alt_login_url', 'constant_contact_for_woo_has_setup', 'cc_woo_customer_data_allow_import', 'cc-woo-is-reviewed', 'cc-woo-review-dismissed-count', 'cc_woo_store_information_checkbox_location', 'cc_abandoned_checkouts_db_version');
+

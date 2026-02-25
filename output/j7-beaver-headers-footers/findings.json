@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bbp_hft_license_key",
+    "bbp_hft_license_status",
+    "bbp_hft_license_status_info",
+    "bbp_hft_license_authsite",
+    "_fl_builder_user_templates_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:26.287Z"
+}

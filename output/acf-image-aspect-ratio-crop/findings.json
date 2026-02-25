@@ -1,0 +1,22 @@
+{
+  "options": [
+    "acf-image-aspect-ratio-crop-settings",
+    "acf-image-aspect-ratio-crop-version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aiarc_delete_unused_attachments"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "acf_image_aspect_ratio_crop_parent_post_id",
+    "acf_image_aspect_ratio_crop_temp_post_id",
+    "acf_image_aspect_ratio_crop_timestamp",
+    "acf_image_aspect_ratio_crop_coordinates",
+    "acf_image_aspect_ratio_crop",
+    "acf_image_aspect_ratio_crop_original_image_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:52.208Z"
+}

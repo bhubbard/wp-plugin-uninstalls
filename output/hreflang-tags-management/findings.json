@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hreflang_tags_mgmt_settings_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hreflang_tags_mgmt_meta_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:26.973Z"
+}

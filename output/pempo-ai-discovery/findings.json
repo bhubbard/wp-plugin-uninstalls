@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pempo_citation_style",
+    "pempo_source_reliability",
+    "pempo_publication_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:26.054Z"
+}

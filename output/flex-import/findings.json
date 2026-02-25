@@ -1,0 +1,29 @@
+{
+  "options": [
+    "fleximp_current_text_domain",
+    "fleximp_dynamic_template_php",
+    "fleximp_dynamic_template_css",
+    "fleximp_dynamic_template_js",
+    "fleximp_is_premium",
+    "fleximp_plugin_license_key",
+    "fleximp_plugin_license_validation_status",
+    "flex_template_is_imported",
+    "fleximp_validation_status",
+    "fleximp_suspension_status"
+  ],
+  "transients": [
+    "fleximp_show_elementor_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_edit_mode",
+    "_wp_page_template",
+    "elementskit_template_activation",
+    "elementskit_template_type",
+    "elementskit_template_condition_a"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:58.125Z"
+}

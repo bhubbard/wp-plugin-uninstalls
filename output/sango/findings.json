@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cardtype_options",
+    "remove_pubdate",
+    "copyprotect_options",
+    "protectuser_options",
+    "protectfunction_options",
+    "loadinganime_options",
+    "sangoplusfont_options",
+    "my_theme_options",
+    "tagcloud_options",
+    "pagecss_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:08.052Z"
+}

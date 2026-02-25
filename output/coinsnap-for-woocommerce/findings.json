@@ -1,0 +1,31 @@
+{
+  "options": [
+    "coinsnap_provider",
+    "woocommerce_currency",
+    "coinsnap_connection_status_display",
+    "coinsnap_sats_mode",
+    "btcpay_server_url",
+    "coinsnap_permalinks_flushed",
+    "btcpay_api_key",
+    "btcpay_store_id",
+    "woocommerce_coinsnap_settings",
+    "coinsnap_modal_checkout",
+    "coinsnap_order_states",
+    "coinsnap_send_customer_data",
+    "coinsnap_returnurl",
+    "coinsnap_autoredirect",
+    "coinsnap_separate_gateways",
+    "coinsnap_api_key",
+    "coinsnap_store_id",
+    "coinsnap_webhook",
+    "coinsnap_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Coinsnap_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:36.080Z"
+}

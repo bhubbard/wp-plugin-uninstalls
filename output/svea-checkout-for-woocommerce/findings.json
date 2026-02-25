@@ -1,0 +1,29 @@
+{
+  "options": [
+    "sco_request_violation",
+    "woocommerce_myaccount_svea_subscription_payment_method_endpoint",
+    "woocommerce_enable_order_comments",
+    "sco_last_push",
+    "svea_checkout_admin_notices",
+    "active_sitewide_plugins",
+    "woocommerce_price_num_decimals",
+    "woocommerce_checkout_company_field",
+    "woocommerce_checkout_address_2_field",
+    "woocommerce_checkout_phone_field",
+    "woocommerce_calc_taxes",
+    "woocommerce_tax_round_at_subtotal",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [
+    "woocommerce_sco_country_credentials_status_code_*"
+  ],
+  "cron_jobs": [
+    "sco_check_pa_order_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_svea_co_minimum_age"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:07.301Z"
+}

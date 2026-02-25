@@ -1,0 +1,27 @@
+{
+  "options": [
+    "quantity_discounts_settings",
+    "min_max_quantity_discounts_settings",
+    "quantity_discounts_general_settings"
+  ],
+  "transients": [
+    "quantity_discounts_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpiron_qd_quantity",
+    "_wpiron_qd_price",
+    "_wpiron_qd_label",
+    "_wpiron_qd_description",
+    "_wpiron_qd_quantity_enabled",
+    "_wpiron_qd_display_method",
+    "_wpiron_qd_min_max_enabled",
+    "_wpiron_qd_min_value",
+    "_wpiron_qd_max_value",
+    "_sale_price",
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:04.164Z"
+}

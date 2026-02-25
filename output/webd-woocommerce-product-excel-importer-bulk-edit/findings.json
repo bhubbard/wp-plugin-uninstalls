@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [
+    "webd_bulk_notified",
+    "webd_bulk_notification"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sale_price",
+    "_price",
+    "_regular_price",
+    "_sku",
+    "_stock",
+    "_stock_status",
+    "_length",
+    "_width",
+    "_height",
+    "_weight",
+    "_manage_stock",
+    "_visibility",
+    "_virtual"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:11.755Z"
+}

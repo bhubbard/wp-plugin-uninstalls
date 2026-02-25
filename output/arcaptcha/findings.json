@@ -1,0 +1,16 @@
+{
+  "options": [
+    "arcaptcha_api_key",
+    "arcaptcha_theme",
+    "arcaptcha_language",
+    "arcaptcha_color",
+    "arcaptcha_size",
+    "arcaptcha_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:38.985Z"
+}

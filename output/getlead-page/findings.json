@@ -1,0 +1,16 @@
+{
+  "options": [
+    "getlead_page-api",
+    "getlead_page-widget",
+    "getlead_page-type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "getlead_page-disable",
+    "getlead_page-widget"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:16.214Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "brevwoo_brevo_api_key",
+    "brevwoo_default_lists",
+    "brevwoo_order_status",
+    "brevwoo_debug_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_brevwoo_product_lists"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:47.189Z"
+}

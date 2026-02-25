@@ -1,0 +1,14 @@
+{
+  "options": [
+    "am_tm_install_time",
+    "pw_tm_suspend"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_expired_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:46.017Z"
+}

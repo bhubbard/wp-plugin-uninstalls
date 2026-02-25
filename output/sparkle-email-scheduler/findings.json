@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sesn_email_templates"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_sesn_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:02.320Z"
+}

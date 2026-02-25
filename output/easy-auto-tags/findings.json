@@ -1,0 +1,15 @@
+{
+  "options": [
+    "min_ch",
+    "repeat_ch",
+    "exclude_word"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_results_tags"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:10.665Z"
+}

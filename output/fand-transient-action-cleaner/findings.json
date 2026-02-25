@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fand_tac_delay_failed",
+    "fand_tac_delay_completed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fand_tac_weekly_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:21.955Z"
+}

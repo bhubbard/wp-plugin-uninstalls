@@ -1,0 +1,31 @@
+{
+  "options": [
+    "scheai_bulk_progress",
+    "scheai_google_api_key",
+    "scheai_enable_caching",
+    "scheai_cache_duration",
+    "scheai_async_processing",
+    "scheai_load_assets_conditionally",
+    "scheai_delete_data_on_uninstall",
+    "scheai_version",
+    "scheai_db_version"
+  ],
+  "transients": [
+    "scheai_schema_*",
+    "scheai_*",
+    "scheai_schema_hash_*"
+  ],
+  "cron_jobs": [
+    "scheai_process_batch",
+    "scheai_cleanup_cache",
+    "scheai_bulk_processing"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_scheai_schema",
+    "_scheai_validation",
+    "_scheai_schema_hash"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:35.879Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "enq_me_user_licence",
+    "enq_me_root_dependancy",
+    "enq_me_assets_to_enqueue",
+    "enq_me_assets_ids_to_enqueue"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "enq_me_last_modified"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:44.604Z"
+}

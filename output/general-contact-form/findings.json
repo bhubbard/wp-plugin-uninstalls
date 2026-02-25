@@ -1,0 +1,22 @@
+{
+  "options": [
+    "CF_fields",
+    "CF_records",
+    "CF_title",
+    "CF_On_SendEmail",
+    "CF_On_MyEmail",
+    "CF_On_MySubject",
+    "CF_On_Captcha",
+    "CF_Captcha_field_length",
+    "CF_CSS_textbox_size",
+    "CF_CSS_textarea_size_row",
+    "CF_CSS_textarea_size_col",
+    "$result->fieldid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:44.159Z"
+}

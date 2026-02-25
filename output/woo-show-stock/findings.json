@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wc_always_show_stock",
+    "wc_show_stock_where",
+    "bpwcss_installed",
+    "bvsclose",
+    "bpwss-review-dismiss",
+    "woostock_show_detailed_admin"
+  ],
+  "transients": [
+    "bpwss-later-dismiss"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woostock_display_type",
+    "_manage_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:15.077Z"
+}

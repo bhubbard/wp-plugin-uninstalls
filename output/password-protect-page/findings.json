@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ppwp_previous_protected_categories",
+    "ppwp_previous_protected_tags",
+    "wp_protect_password_license_key",
+    "wp_protect_password_licensed",
+    "WpFastestCacheExclude",
+    "ppw_data_checksum",
+    "wpfolio_ppwp_anylc_redirect",
+    "wpfolio_ppwp_anylc_site_uid"
+  ],
+  "transients": [
+    "*_process_lock",
+    "ppwp_sidebar_content",
+    "wpfolio_ppwp_anylc_optin_notice_*",
+    "wpfolio_ppwp_state_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ppwp_post_password_bk"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:55.801Z"
+}

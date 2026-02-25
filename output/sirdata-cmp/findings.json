@@ -1,0 +1,17 @@
+{
+  "options": [
+    "STCMP_custom_consent_partner_id",
+    "STCMP_custom_consent_config_id",
+    "STCMP_custom_consent_email",
+    "STCMP_custom_consent_domain",
+    "STCMP_custom_consent_url",
+    "STCMP_custom_consent_accept_cgv",
+    "STCMP_error_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:09.520Z"
+}

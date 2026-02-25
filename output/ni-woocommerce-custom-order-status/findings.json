@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_notify_no_stock_amount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ni_order_status_email_content",
+    "_ni_order_status_email_enable",
+    "_ni_order_status_subject_line",
+    "_ni_order_status_slug",
+    "_ni_order_status_color",
+    "_ni_order_status_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:08.019Z"
+}

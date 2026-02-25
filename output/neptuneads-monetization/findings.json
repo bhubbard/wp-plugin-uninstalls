@@ -1,0 +1,13 @@
+{
+  "options": [
+    "neptune_affiliate_id",
+    "neptune_push_overlay",
+    "neptune_push_overlay_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:09.983Z"
+}

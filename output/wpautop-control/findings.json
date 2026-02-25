@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpautop_by_default",
+    "wpautop_on_by_default"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpautop"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:13.701Z"
+}

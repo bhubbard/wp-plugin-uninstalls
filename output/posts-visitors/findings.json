@@ -1,0 +1,21 @@
+{
+  "options": [
+    "posts_visitors_label_text",
+    "posts_visitors_checkbox_label",
+    "posts_visitors_checkbox_icon",
+    "posts_visitors_icon_class",
+    "posts_visitors_color",
+    "posts_visitors_select",
+    "posts_visitors_general",
+    "posts_visitors_shortcode",
+    "posts_visitors_shorcode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_visitors_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:15.749Z"
+}

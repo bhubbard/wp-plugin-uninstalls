@@ -1,0 +1,26 @@
+{
+  "options": [
+    "heygov_id",
+    "heygov_features",
+    "heygov_btn_text",
+    "heygov_btn_position",
+    "heygov_location_required",
+    "heygov_banner",
+    "heygov_banner_bg_color",
+    "heygov_banner_img_big",
+    "heygov_banner_img_small",
+    "heygov_api_key"
+  ],
+  "transients": [
+    "heygov-venues",
+    "forms",
+    "venue-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "heygov_venues"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:09.934Z"
+}

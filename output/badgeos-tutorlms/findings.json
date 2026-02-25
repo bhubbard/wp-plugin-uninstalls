@@ -1,0 +1,16 @@
+{
+  "options": [
+    "badgeos_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_badgeos_count",
+    "_badgeos_tutor_trigger",
+    "_badgeos_tutor_object_id",
+    "_badgeos_tutor_object_arg1"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:53.422Z"
+}

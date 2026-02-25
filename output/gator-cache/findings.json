@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "jetpack_active_modules",
+    "wp_mobile_disable",
+    "wordpress-https_ssl_host"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:04.647Z"
+}

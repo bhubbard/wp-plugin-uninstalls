@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ns_product_brand_active",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "brand-image-id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:27.581Z"
+}

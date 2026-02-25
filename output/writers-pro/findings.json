@@ -1,0 +1,16 @@
+{
+  "options": [
+    "clwp_api_pass_test",
+    "clwp_api_username",
+    "clwp_api_password"
+  ],
+  "transients": [
+    "cl_msg_error",
+    "cl_msg_success"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:33.846Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "truebooker_db_version",
+    "truebooker_skin_color",
+    "truebooker_dark_color",
+    "truebooker_body_color",
+    "truebooker_white_color",
+    "truebooker_black_color",
+    "truebooker_cl_lightdark",
+    "truebooker_gray_color",
+    "truebooker_border_color",
+    "truebooker_active_skin",
+    "truebooker_font_family"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:29.962Z"
+}

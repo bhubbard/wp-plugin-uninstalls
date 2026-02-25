@@ -1,0 +1,15 @@
+{
+  "options": [
+    "venjuewidget_business_vat",
+    "venjuewidget_accent_color",
+    "venjuewidget_language",
+    "venjuewidget_gtm_id",
+    "venjuewidget_custom_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:21.428Z"
+}

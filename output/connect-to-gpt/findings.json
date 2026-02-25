@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gpttkconnect_show_onboarding",
+    "gpttkconnect_onboarding_step",
+    "gpttkconnect_safe_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:37.045Z"
+}

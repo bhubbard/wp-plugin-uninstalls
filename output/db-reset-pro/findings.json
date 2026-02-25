@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dup_db_reset_pro_reset_count",
+    "dup_db_reset_pro_review_status",
+    "dup_db_reset_pro_review_snooze_until",
+    "dup_db_reset_pro_review_snooze_reset_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "default_password_nag",
+    "*default_password_nag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:41.633Z"
+}

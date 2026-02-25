@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lbls_logo",
+    "lbls_background_color",
+    "lbls_background",
+    "lbls_background_opacity",
+    "lbls_title",
+    "lbls_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:52.989Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "core_update_previous_version",
+    "MSS"
+  ],
+  "transients": [
+    "mss_license_status"
+  ],
+  "cron_jobs": [
+    "mss_scan_monitor_event",
+    "mss_scheduled_scan"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "session_tokens"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:51.819Z"
+}

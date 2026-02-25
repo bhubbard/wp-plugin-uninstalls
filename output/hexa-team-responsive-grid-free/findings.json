@@ -1,0 +1,27 @@
+{
+  "options": [
+    "cat",
+    "background_color",
+    "add_to_cart_1_color",
+    "add_to_cart_2_color",
+    "view_1_color",
+    "view_2_color",
+    "product_title_color",
+    "font_color",
+    "num_prod",
+    "title_size",
+    "option_etc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wct_position",
+    "wct_facebook",
+    "wct_twitter",
+    "wct_linkedin",
+    "wct_instagram"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:31.927Z"
+}

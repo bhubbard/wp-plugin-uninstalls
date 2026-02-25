@@ -1,0 +1,27 @@
+{
+  "options": [
+    "hc_wcma_checkout_selector_style",
+    "hc_wcma_checkout_allow_new_address",
+    "*_addresses",
+    "hc_wcma_limit_max_billing_addresses",
+    "hc_wcma_limit_max_shipping_addresses",
+    "hc_wcma_checkout_saved_address_display",
+    "hc_wcma_my_account_menu_item_text",
+    "hc_wcma_my_account_address_display_style",
+    "woocommerce_checkout_phone_field",
+    "woocommerce_checkout_company_field",
+    "woocommerce_checkout_address_2_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_key",
+    "_hc_wcma_selected_billing_address_snapshot",
+    "_hc_wcma_selected_shipping_address_snapshot",
+    "_hc_wcma_billing_addresses",
+    "_hc_wcma_shipping_addresses"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:14.904Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ump_general_settings",
+    "ump_register_page_id",
+    "ump_downlines_page_id",
+    "*_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_ump_page",
+    "menu_item_ump",
+    "ump_first_name",
+    "ump_last_name",
+    "ump_username",
+    "ump_address",
+    "ump_sponsor_id",
+    "ump_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:02.980Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "shadowscan_last_error",
+    "shadowscan_sentry_telemetry_enabled"
+  ],
+  "transients": [
+    "update_plugins",
+    "shadowscan_mfa_notice_*",
+    "update_core",
+    "update_themes",
+    "shadowscan_heartbeat_lock",
+    "shadowscan_pair_notice",
+    "shadowscan_pair_notice_type"
+  ],
+  "cron_jobs": [
+    "shadowscan_emergency_heartbeat",
+    "shadowscan_heartbeat",
+    "shadowscan_poll_commands",
+    "shadowscan_integrity_scan",
+    "shadowscan_integrity_targeted_scan",
+    "shadowscan_owasp_daily_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "shadowscan_locked_until",
+    "shadowscan_lock_count",
+    "shadowscan_lock_reason"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:35.400Z"
+}

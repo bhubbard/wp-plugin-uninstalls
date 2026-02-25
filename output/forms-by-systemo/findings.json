@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "check_new_msg_and_send"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "email_send",
+    "meta_*",
+    "notice_template",
+    "meta_email_to",
+    "emails"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:43.685Z"
+}

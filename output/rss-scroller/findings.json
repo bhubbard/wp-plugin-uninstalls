@@ -1,0 +1,19 @@
+{
+  "options": [
+    "rss_scr_width",
+    "rss_scr_height",
+    "rss_scr_delay",
+    "rss_scr_speed",
+    "rss_scr_num",
+    "rss_scr_url",
+    "rss_scr_url2",
+    "rss_scr_url3",
+    "rss_scr_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:13.525Z"
+}

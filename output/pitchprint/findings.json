@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ppa_api_key",
+    "ppa_secret_key",
+    "ppa_cat_customize",
+    "ppa_email_download_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_w2p_set_option",
+    "_w2p_required_option",
+    "_w2p_pdf_download_option",
+    "_w2p_use_design_preview_option",
+    "_w2p_display_option"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:38.596Z"
+}

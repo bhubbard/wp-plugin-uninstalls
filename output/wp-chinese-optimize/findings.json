@@ -1,0 +1,19 @@
+{
+  "options": [
+    "XH_WP_OPTIMIZE_ALL",
+    "XH_WP_OPTIMIZE_HEADER",
+    "XH_WP_OPTIMIZE_FOOTER",
+    "XH_WP_OPTIMIZE_POST"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_version_check",
+    "wp_update_plugins",
+    "wp_update_themes",
+    "wp_maybe_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:43.929Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "authyo_otp_options",
+    "authyo_nf_email_subscription_dismissed",
+    "authyo_nf_email_subscription_completed"
+  ],
+  "transients": [
+    "authyo_nf_trigger_tracking",
+    "authyo_nf_show_email_subscription",
+    "authyo_verified_*",
+    "authyo_mask_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:08.515Z"
+}

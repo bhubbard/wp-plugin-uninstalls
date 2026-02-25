@@ -1,0 +1,21 @@
+{
+  "options": [
+    "privacy_policy_sitename",
+    "privacy_policy_before_heading",
+    "privacy_policy_after_heading",
+    "privacy_policy_before_paragraph",
+    "privacy_policy_after_paragraph",
+    "privacy_policy_contact",
+    "privacy_policy_title",
+    "privacy_policy_slug",
+    "privacy_policy_pp_help",
+    "privacy_policy_browser_help",
+    "privacy_policy_credit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:14.445Z"
+}

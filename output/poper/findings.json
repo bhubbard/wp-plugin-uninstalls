@@ -1,0 +1,17 @@
+{
+  "options": [
+    "poper-cache-notice",
+    "poper-dismiss-notice",
+    "poper_account_id",
+    "poper_account_id_verified",
+    "poper_account_id_md5"
+  ],
+  "transients": [
+    "poper_dismiss_notice_temporary"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:00.409Z"
+}

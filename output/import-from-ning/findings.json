@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bp_ning_group_array",
+    "bp_ning_import_users",
+    "bp_ning_user_array",
+    "bp_ning_import_finished",
+    "bp_ning_emails_sent",
+    "bp_ning_profiles_imported",
+    "bp_ning_profile_mapping",
+    "bp_ning_discussions_imported",
+    "bp_ning_events_imported",
+    "bp_ning_emails_sent_to",
+    "bp-xprofile-fullname-field-name",
+    "bp_ning_skip_forum_activity",
+    "bp_ning_import_email_subject",
+    "bp_ning_import_email_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ning_comments_imported",
+    "ning_profile_imported",
+    "_bp_ning_event_website"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:38.317Z"
+}

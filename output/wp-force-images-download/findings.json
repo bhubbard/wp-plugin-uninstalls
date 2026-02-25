@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_force_images_download_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpfid_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:45.474Z"
+}

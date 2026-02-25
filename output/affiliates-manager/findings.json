@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpam_db_version",
+    "wpam_options_version",
+    "wpam_payout_report_generated",
+    "wp_affiliates_manager_referrers",
+    "wp_affiliates_manager_payouts",
+    "*_new_email",
+    "wpam_logfile_suffix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:33.837Z"
+}

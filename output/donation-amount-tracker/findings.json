@@ -1,0 +1,29 @@
+{
+  "options": [
+    "donamt_total_donation_amount",
+    "donamt_settings",
+    "donamt_display_settings",
+    "donamt_version",
+    "total_donation_amount",
+    "donamt_previous_version",
+    "donamt_hpos_compatible",
+    "donation_amount_settings",
+    "donation_amount_display_settings",
+    "donation_amount_version",
+    "dat_settings",
+    "dat_display_settings",
+    "dat_total_donation_amount",
+    "dat_version",
+    "dat_previous_version"
+  ],
+  "transients": [
+    "donamt_redirect_after_save",
+    "donamt_version_changed",
+    "donamt_checked_amount"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:57.932Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "varnish_socket_timeout",
+    "varnish_control_terminal",
+    "varnish_version",
+    "varnish_control_key",
+    "purge_varnish_expire",
+    "purge_varnish_action",
+    "varnish_bantype"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:38.059Z"
+}

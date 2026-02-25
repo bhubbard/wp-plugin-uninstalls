@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ash_wp_header_animate",
+    "ash_wp_header_animation_type",
+    "ash_wp_header_full_width",
+    "ash_wp_header_class",
+    "ash_wp_header_shadow",
+    "ash_wp_header_sticky_already"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:40.006Z"
+}

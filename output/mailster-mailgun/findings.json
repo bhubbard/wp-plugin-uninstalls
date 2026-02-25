@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "mailster_check_bounces_lock",
+    "_mailster_mailgun_last_bounce_check"
+  ],
+  "cron_jobs": [
+    "mailster_mailgun_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:08.803Z"
+}

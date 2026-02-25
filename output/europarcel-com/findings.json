@@ -1,0 +1,14 @@
+{
+  "options": [
+    "EUROPARCELCOM_WC_VERSION",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "europarcelcom_wc_carrier_lockers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:33.164Z"
+}

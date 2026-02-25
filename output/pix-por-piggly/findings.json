@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wc_piggly_pix_settings",
+    "wc_piggly_pix_dbversion",
+    "wc_piggly_pix_version",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pgly_cron_wc_piggly_pix_processing"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:53.094Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_type",
+    "type",
+    "columns",
+    "post_limit",
+    "bg_color",
+    "text_color",
+    "button_color",
+    "show_title",
+    "show_image",
+    "show_date",
+    "show_description",
+    "show_button",
+    "field_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:01.908Z"
+}

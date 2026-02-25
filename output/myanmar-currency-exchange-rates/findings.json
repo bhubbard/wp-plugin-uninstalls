@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mwd_mcer_options",
+    "mwd_mcer_latest_fxrates",
+    "mwd_mcer_fxcurrencies",
+    "widget_mfr"
+  ],
+  "transients": [
+    "mwd_mcer_fxrates",
+    "mwd_mcer_fxcurrencies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:10.711Z"
+}

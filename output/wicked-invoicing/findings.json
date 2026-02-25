@@ -1,0 +1,55 @@
+{
+  "options": [
+    "wicked_invoicing_settings",
+    "wicked_invoicing_active_bundles",
+    "wicked_invoicing_status_labels",
+    "wicked_invoicing_invoice_slug"
+  ],
+  "transients": [
+    "wicked_invoicing_notif_cron_lock"
+  ],
+  "cron_jobs": [
+    "wicked_invoicing_notifications_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wicked_invoicing_hash",
+    "_wicked_invoicing_subtotal",
+    "_wicked_invoicing_tax_amount",
+    "_wicked_invoicing_discount_amount",
+    "_wicked_invoicing_total",
+    "_wicked_invoicing_paid",
+    "_wicked_invoicing_client_name",
+    "_wicked_invoicing_client_user_id",
+    "company_name",
+    "_wicked_invoicing_company_name",
+    "_wicked_invoicing_start_date",
+    "_wicked_invoicing_due_date",
+    "_wicked_invoicing_po_number",
+    "_wicked_invoicing_reference_number",
+    "_wicked_invoicing_payment_terms",
+    "_wicked_invoicing_sub_enabled",
+    "_wicked_invoicing_sub_days",
+    "_wicked_invoicing_sub_next_run",
+    "_wicked_invoicing_sub_mode",
+    "_wicked_invoicing_sub_anchor_dom",
+    "_wicked_invoicing_client_email",
+    "_wicked_invoicing_client_address",
+    "_wicked_invoicing_billing_address",
+    "_wicked_invoicing_shipping_address",
+    "_wicked_invoicing_line_items",
+    "_wicked_invoicing_notes",
+    "_wicked_invoicing_terms_and_conditions",
+    "_wicked_invoicing_footer_text",
+    "paid",
+    "due_date",
+    "start_date",
+    "wicked_invoicing_cc",
+    "wicked_invoicing_bcc",
+    "_wicked_invoicing_hide_title",
+    "_wicked_invoicing_template_max_width",
+    "_wicked_invoicing_use_theme_wrapper"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:21.796Z"
+}

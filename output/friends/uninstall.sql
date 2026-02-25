@@ -1,0 +1,17 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('friends_plugin_version', 'friends_private_rss_key', 'friends_enable_wp_friendships', 'friends_selected_emojis', 'friends_enable_retention_number', 'friends_retention_number', 'friends_enable_retention_days', 'friends_retention_days', 'friends_retention_delete_reacted', 'friends_force_enable_post_formats', 'friends_limit_homepage_post_format', 'friends_expose_post_format_feeds', 'friends_default_friend_role', 'friends_notification_keywords', 'friends_comment_registration_message', 'friends_codeword', 'friends_require_codeword', 'friends_wrong_codeword_message', 'friends_main_user_id', 'friends_automatic_status_disabled', 'friends_frontend_default_view', 'sidebars_widgets', 'rewrite_rules');
+DELETE FROM wp_options WHERE option_name LIKE 'friends_in_token_%';
+DELETE FROM wp_options WHERE option_name LIKE 'friends_%';
+DELETE FROM wp_options WHERE option_name LIKE 'friends_feed_rules_%';
+DELETE FROM wp_options WHERE option_name LIKE 'friends_feed_catch_all_%';
+DELETE FROM wp_options WHERE option_name LIKE 'widget_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_option_name';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('feed_url', 'activitypub_content_visibility', 'url', 'external-id', 'ap_outbox_like_id', 'boosted', 'reblogged', 'ap_outbox_announce_id', 'protocol', 'wp_capabilities', 'author', 'remote_post_id', 'parser', 'reblog', 'reblog_of', 'reblogged_by', 'friends_widget_state', 'type', 'module', 'friends_feed_url', 'remote_reactions', 'roles', 'avatar_url', 'starred', 'user_url', 'display_name', 'description', 'created', 'active', 'post-format', 'mime-type', 'title', 'last-log', 'interval', 'modifier', 'next-poll', 'last-poll');
+DELETE FROM wp_usermeta WHERE meta_key IN ('feed_url', 'activitypub_content_visibility', 'url', 'external-id', 'ap_outbox_like_id', 'boosted', 'reblogged', 'ap_outbox_announce_id', 'protocol', 'wp_capabilities', 'author', 'remote_post_id', 'parser', 'reblog', 'reblog_of', 'reblogged_by', 'friends_widget_state', 'type', 'module', 'friends_feed_url', 'remote_reactions', 'roles', 'avatar_url', 'starred', 'user_url', 'display_name', 'description', 'created', 'active', 'post-format', 'mime-type', 'title', 'last-log', 'interval', 'modifier', 'next-poll', 'last-poll');
+DELETE FROM wp_termmeta WHERE meta_key IN ('feed_url', 'activitypub_content_visibility', 'url', 'external-id', 'ap_outbox_like_id', 'boosted', 'reblogged', 'ap_outbox_announce_id', 'protocol', 'wp_capabilities', 'author', 'remote_post_id', 'parser', 'reblog', 'reblog_of', 'reblogged_by', 'friends_widget_state', 'type', 'module', 'friends_feed_url', 'remote_reactions', 'roles', 'avatar_url', 'starred', 'user_url', 'display_name', 'description', 'created', 'active', 'post-format', 'mime-type', 'title', 'last-log', 'interval', 'modifier', 'next-poll', 'last-poll');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('feed_url', 'activitypub_content_visibility', 'url', 'external-id', 'ap_outbox_like_id', 'boosted', 'reblogged', 'ap_outbox_announce_id', 'protocol', 'wp_capabilities', 'author', 'remote_post_id', 'parser', 'reblog', 'reblog_of', 'reblogged_by', 'friends_widget_state', 'type', 'module', 'friends_feed_url', 'remote_reactions', 'roles', 'avatar_url', 'starred', 'user_url', 'display_name', 'description', 'created', 'active', 'post-format', 'mime-type', 'title', 'last-log', 'interval', 'modifier', 'next-poll', 'last-poll');
+

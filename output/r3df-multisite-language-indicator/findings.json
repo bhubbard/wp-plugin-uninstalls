@@ -1,0 +1,14 @@
+{
+  "options": [
+    "r3df_multisite_language_indicator_global",
+    "r3df_multisite_language_indicator"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "r3df_multisite_language_indicator"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:45.068Z"
+}

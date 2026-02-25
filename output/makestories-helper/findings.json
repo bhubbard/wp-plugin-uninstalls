@@ -1,0 +1,27 @@
+{
+  "options": [
+    "mscpt_makestories_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "pages",
+    "story_id",
+    "publisher_details",
+    "scheduleData",
+    "scheduleId",
+    "version",
+    "widget_id",
+    "container",
+    "title",
+    "js-block",
+    "type",
+    "design",
+    "categories",
+    "divId"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:37.878Z"
+}

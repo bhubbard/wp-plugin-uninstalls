@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gmwqp_field_customizer_enble",
+    "gmwqp_field_customizer_required",
+    "gmwqp_field_customizer_field",
+    "gmwqp_field_customizer_type",
+    "gmwqp_field_customizer_order",
+    "gmwqp_field_customizer_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product_gmwqp",
+    "productid_gmwqp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:58.820Z"
+}

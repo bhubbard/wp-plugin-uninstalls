@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wc_customer_source_export",
+    "wc_customer_source_settings",
+    "*-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_customer_source_checkout_field",
+    "wc_customer_source_checkout_other_field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:27.399Z"
+}

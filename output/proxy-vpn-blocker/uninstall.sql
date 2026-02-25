@@ -1,0 +1,19 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('pvb_setup_complete', 'pvb_enable_debugging', 'pvb_defined_protected_paths', 'pvb_option_ip_header_type', 'proxy_vpn_blocker_version', 'proxy_vpn_blocker_proxycheck_api_version', 'pvb_proxycheckio_current_key', 'pvb_proxycheckio_API_Key_field', 'pvb_proxycheckio_custom_blocked_page', 'pvb_proxycheckio_blocked_select_pages_field', 'pvb_proxycheckio_API_Key_invalid', 'pvb_proxycheckio_dummy_data', 'pvb_db_version', 'pvb_proxycheckio_blocked_select_posts_field', 'pvb_proxycheckio_master_activation', 'pvb_proxycheckio_VPN_select_box', 'pvb_proxycheckio_TAG_select_box', 'pvb_proxycheckio_Custom_TAG_field', 'pvb_proxycheckio_denied_access_field', 'pvb_proxycheckio_Days_Selector', 'pvb_proxycheckio_all_pages_activation', 'pvb_proxycheckio_blocked_countries_field', 'pvb_proxycheckio_whitelist_countries_select_box', 'pvb_proxycheckio_good_ip_cache_time', 'pvb_proxycheckio_opt_redirect_url', 'pvb_proxycheckio_redirect_bad_visitor', 'pvb_proxycheckio_Admin_Alert_Denied_Email', 'pvb_protect_login_authentication', 'pvb_allow_staff_bypass', 'pvb_cache_buster', 'pvb_http_referrer_addresses', 'pvb_blocked_pages_ids_array', 'classic-editor-replace', 'pvb_log_user_ip_select_box', 'pvb_proxycheck_apikey_details', 'pvb_proxycheckio_risk_select_box', 'proxycheckio_max_riskscore_vpn', 'proxycheckio_max_riskscore_proxy', 'proxy_vpn_blocker_last_update', 'pvb_cors_integration', 'pvb_option_help_mode', 'pvb_proxycheckio_max_riskscore_vpn', 'pvb_proxycheckio_max_riskscore_proxy', 'pvb_protected_paths', 'pvb_proxycheckio_HMAC_verification_key', 'pvb_CORS_protect_on_webcache', 'pvb_proxycheckio_CORS_public_key', 'pvb_CORS_antiadblock', 'pvb_protect_default_login_page', 'pvb_protect_comments');
+DELETE FROM wp_options WHERE option_name IN ('pvb_proxycheckio_CLOUDFLARE_select_box', 'pvb_blocked_posts_array', 'pvb_blocked_pages_array', 'pvb_blocked_permalinks_array', 'pvb_proxycheckio_detectiontype_vpn', 'pvb_proxycheckio_detectiontype_proxy', 'pvb_proxycheckio_detectiontype_compromised', 'pvb_proxycheckio_detectiontype_tor', 'pvb_cleanup_on_uninstall', 'pvb_review_stats', 'pvb_db_upgrade_running');
+DELETE FROM wp_options WHERE option_name LIKE '%_pvb_activation_redirect';
+DELETE FROM wp_options WHERE option_name LIKE '%_version';
+DELETE FROM wp_options WHERE option_name LIKE '%_own_domain_added_';
+DELETE FROM wp_options WHERE option_name LIKE '%_own_domain_removed_';
+DELETE FROM wp_options WHERE option_name LIKE '%_webcache_domains_added_';
+DELETE FROM wp_options WHERE option_name LIKE '%_webcache_domains_removed_';
+DELETE FROM wp_options WHERE option_name LIKE 'pvb_admin_email_denied_timeout_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_pvb_checkbox_block_on_post', 'registration_ip', 'registration_ip_metrics', 'last_login_ip', 'last_login_ip_metrics', 'signup_ip');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_pvb_checkbox_block_on_post', 'registration_ip', 'registration_ip_metrics', 'last_login_ip', 'last_login_ip_metrics', 'signup_ip');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_pvb_checkbox_block_on_post', 'registration_ip', 'registration_ip_metrics', 'last_login_ip', 'last_login_ip_metrics', 'signup_ip');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_pvb_checkbox_block_on_post', 'registration_ip', 'registration_ip_metrics', 'last_login_ip', 'last_login_ip_metrics', 'signup_ip');
+

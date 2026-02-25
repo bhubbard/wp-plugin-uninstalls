@@ -1,0 +1,112 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('futura_title_text');
+delete_site_option('futura_title_text');
+delete_option('futura_html_posts_wrap_bg_color');
+delete_site_option('futura_html_posts_wrap_bg_color');
+delete_option('futura_html_border_color');
+delete_site_option('futura_html_border_color');
+delete_option('futura_html_border_title_color');
+delete_site_option('futura_html_border_title_color');
+delete_option('futura_html_h3_font_size');
+delete_site_option('futura_html_h3_font_size');
+delete_option('futura_post_title_font_size');
+delete_site_option('futura_post_title_font_size');
+delete_option('futura_summary_font_size');
+delete_site_option('futura_summary_font_size');
+delete_option('futura_author_font_size');
+delete_site_option('futura_author_font_size');
+delete_option('futura_deactivate_style');
+delete_site_option('futura_deactivate_style');
+delete_option('futura_items_display');
+delete_site_option('futura_items_display');
+delete_option('futura_custom_post_setting');
+delete_site_option('futura_custom_post_setting');
+delete_option('futura_custom_post_not_show_setting');
+delete_site_option('futura_custom_post_not_show_setting');
+delete_option('futura_custom_fields_setting');
+delete_site_option('futura_custom_fields_setting');
+delete_option('futura_record_setting');
+delete_site_option('futura_record_setting');
+delete_option('futura_number_of_posts');
+delete_site_option('futura_number_of_posts');
+delete_option('futura_display');
+delete_site_option('futura_display');
+delete_option('futura_displya_device');
+delete_site_option('futura_displya_device');
+delete_option('futura_default_thumbnail');
+delete_site_option('futura_default_thumbnail');
+delete_option('futura_content_percentage');
+delete_site_option('futura_content_percentage');
+delete_option('futura_title_percentage');
+delete_site_option('futura_title_percentage');
+delete_option('futura_excerpt_percentage');
+delete_site_option('futura_excerpt_percentage');
+delete_option('futura_image_percentage');
+delete_site_option('futura_image_percentage');
+delete_option('futura_tag_percentage');
+delete_site_option('futura_tag_percentage');
+delete_option('futura_tax_percentage');
+delete_site_option('futura_tax_percentage');
+delete_option('futura_cf_percentage');
+delete_site_option('futura_cf_percentage');
+delete_option('futura_author_percentage');
+delete_site_option('futura_author_percentage');
+delete_option('futura_custom_post_types_s');
+delete_site_option('futura_custom_post_types_s');
+delete_option('futura_search-custom_field_setting');
+delete_site_option('futura_search-custom_field_setting');
+delete_option('futura_license');
+delete_site_option('futura_license');
+delete_option('futura_paged');
+delete_site_option('futura_paged');
+delete_option('futura_user_id');
+delete_site_option('futura_user_id');
+delete_option('futura_stored_version');
+delete_site_option('futura_stored_version');
+delete_option('futura_last_action_time');
+delete_site_option('futura_last_action_time');
+delete_option('futura_min_tag_count');
+delete_site_option('futura_min_tag_count');
+delete_option('futura_payment_status');
+delete_site_option('futura_payment_status');
+delete_option('futura_check_version');
+delete_site_option('futura_check_version');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'futura_percentage_for_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'futura_percentage_for_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'futura_percentage_for_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'futura_percentage_for_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'futura_exclude_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'futura_exclude_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'futura_exclude_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'futura_exclude_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'futura_related_posts' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'futura_related_posts' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'futura_related_posts' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'futura_related_posts' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'futura_include_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'futura_include_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'futura_include_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'futura_include_post' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'futura_mutal_link' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'futura_mutal_link' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'futura_mutal_link' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'futura_mutal_link' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'futura_tags' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'futura_tags' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'futura_tags' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'futura_tags' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'futura_click_record' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'futura_click_record' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'futura_click_record' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'futura_click_record' ) );
+

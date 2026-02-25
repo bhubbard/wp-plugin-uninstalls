@@ -1,0 +1,16 @@
+{
+  "options": [
+    "logaction_enable_logs_deletion",
+    "logaction_delete_logs_after_days",
+    "logaction_enable_logs_export",
+    "logaction_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_logs_older_than_30_days_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:04.131Z"
+}

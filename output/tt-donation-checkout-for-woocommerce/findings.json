@@ -1,0 +1,18 @@
+{
+  "options": [
+    "donation_tip_checkout_enabled",
+    "donation_tip_checkout_message",
+    "donation_tip_checkout_button",
+    "donation_tip_checkout_label",
+    "donation_tip_checkout_default_amount",
+    "donation_tip_checkout_min_amount",
+    "donation_tip_checkout_taxable",
+    "donation_tip_checkout_minorder"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:50.417Z"
+}

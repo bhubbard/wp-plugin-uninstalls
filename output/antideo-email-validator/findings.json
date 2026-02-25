@@ -1,0 +1,21 @@
+{
+  "options": [
+    "adev_token",
+    "adev_token_expired_message",
+    "adev_whitelist",
+    "adev_blacklist",
+    "adev_domain_whitelist",
+    "adev_domain_blacklist",
+    "adev_allow_free_email",
+    "adev_allow_role_business_email",
+    "adev_allow_disposable_email",
+    "adev_attempts",
+    "adev_ignored_uris"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:43.231Z"
+}

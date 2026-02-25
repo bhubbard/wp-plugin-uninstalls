@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rpsfw_migration_completed",
+    "rpsfw_migration_notice_dismissed_permanently",
+    "rpsfw_migration_notice_dismissed_until",
+    "woocommerce_paypal_settings",
+    "woocommerce_restore_paypal_standard_settings",
+    "rpsfw_migration_notice_count"
+  ],
+  "transients": [
+    "rpsfw_migration_success",
+    "rpsfw_show_migration_notice",
+    "rpsfw_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:37.361Z"
+}

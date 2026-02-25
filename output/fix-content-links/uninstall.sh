@@ -1,0 +1,7 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%_replacements' OR option_name LIKE '_site_transient_%_replacements'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%_admin_notice' OR option_name LIKE '_site_transient_%_admin_notice'"
+

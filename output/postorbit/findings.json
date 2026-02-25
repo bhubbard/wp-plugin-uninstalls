@@ -1,0 +1,20 @@
+{
+  "options": [
+    "postorbit_webhook_secret",
+    "postorbit_settings",
+    "postorbit_version"
+  ],
+  "transients": [
+    "postorbit_api_status"
+  ],
+  "cron_jobs": [
+    "postorbit_daily_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_postorbit_article_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:58.169Z"
+}

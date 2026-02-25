@@ -1,0 +1,29 @@
+{
+  "options": [
+    "rewrite_rules",
+    "wp_attachment_pages_enabled",
+    "*_crop",
+    "disallowed_keys"
+  ],
+  "transients": [
+    "wpjam_basic_verify"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpjam_weixin_user",
+    "wpjam_weixin_user_failed_times",
+    "custom_*",
+    "avatarurl",
+    "posts_per_page",
+    "views",
+    "seo_*",
+    "toc_hidden",
+    "toc_depth",
+    "images",
+    "thumbnail",
+    "source_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:31.150Z"
+}

@@ -1,0 +1,35 @@
+{
+  "options": [
+    "wbam_setup_complete",
+    "wbam_setup_dismissed",
+    "wbam_settings",
+    "wbam_email_submissions",
+    "wbam_link_prefix",
+    "wbam_currency"
+  ],
+  "transients": [
+    "_wbam_activation_redirect"
+  ],
+  "cron_jobs": [
+    "wbam_daily_cleanup",
+    "wbam_hourly_stats"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wbam_enabled",
+    "_wbam_placements",
+    "_wbam_ad_data",
+    "_wbam_priority",
+    "_wbam_session_limit",
+    "_wbam_display_rules",
+    "_wbam_schedule",
+    "_wbam_start_date",
+    "_wbam_end_date",
+    "_wbam_visitor_conditions",
+    "_wbam_geo_targeting",
+    "_wbam_sample_ad",
+    "_wbam_code_sandbox"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:51.732Z"
+}

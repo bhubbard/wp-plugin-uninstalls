@@ -1,0 +1,14 @@
+{
+  "options": [
+    "surbma_premium_wp_google_analytics_fields",
+    "surbma_premium_wp_social_fields",
+    "surbma_premium_wp_google_tag_manager_fields",
+    "surbma_premium_wp_extra_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:11.759Z"
+}

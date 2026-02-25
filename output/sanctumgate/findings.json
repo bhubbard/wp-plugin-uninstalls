@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sanctumgate_delete_on_uninstall",
+    "sanctumgate_usage_stats",
+    "sac_allowed_pages",
+    "sac_allowed_categories"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sanctumgate_review_dismissed",
+    "sanctumgate_review_dismissed_time",
+    "sanctumgate_donation_shown",
+    "sanctumgate_positive_review_action"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:58.974Z"
+}

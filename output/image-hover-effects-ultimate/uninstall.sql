@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('oxi_image_user_permission', 'image_hover_ultimate_update_complete', 'oxi_image_hover_activation_date', 'oxi_image_hover_nobug', 'image_hover_ultimate_mobile_device_key', 'oxi_addons_font_awesome', 'oxi_addons_way_points', 'oxi_addons_google_font', 'oxi_addons_custom_parent_class', 'oxi_image_support_massage', 'oxi_image_hover_version', 'oxi_image_hover_recommended', 'oxi_addons_font_awesome_version', 'oxilab_flip_box_version', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'oxi_image_user_permission_role', 'oxi_image_hover_activation_redirect', 'oxi_flip_box_activation_redirect', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+

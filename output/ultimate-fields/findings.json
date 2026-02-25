@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_pending",
+    "uf_boarding_finished"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "layout",
+    "style",
+    "description",
+    "description_position",
+    "roles",
+    "_group_fields",
+    "container_locations",
+    "_uf_hash",
+    "container_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:49.622Z"
+}

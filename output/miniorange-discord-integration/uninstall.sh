@@ -1,0 +1,88 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'mo_discord_logout_redirection_enable'
+wp option delete 'mo_discord_login_theme'
+wp option delete 'mo_discord_enable'
+wp option delete 'mo_login_icon_space'
+wp option delete 'mo_login_icon_custom_width'
+wp option delete 'mo_login_icon_custom_height'
+wp option delete 'mo_login_icon_custom_size'
+wp option delete 'mo_login_icon_custom_color'
+wp option delete 'mo_discord_login_custom_theme'
+wp option delete 'mo_discord_login_button_customize_text'
+wp option delete 'mo_login_icon_custom_boundary'
+wp option delete 'mo_discord_login_widget_customize_logout_name_text'
+wp option delete 'mo_discord_login_widget_customize_logout_text'
+wp option delete 'mo_login_discord_login_widget_customize_textcolor'
+wp option delete 'mo_discord_login_widget_customize_text'
+wp option delete 'app_pos'
+wp option delete 'mo_discord_login_app'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'mo_discord_enable_custom_app_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_enable'"
+wp option delete 'mo_discord_integrator_version'
+wp option delete 'mo_discord_fonawesome_load'
+wp option delete 'mo_discord_bootstrap_load'
+wp option delete 'mo_discord_login_redirect'
+wp option delete 'mo_discord_login_redirect_url'
+wp option delete 'mo_discord_relative_login_redirect_url'
+wp option delete 'mo_discord_logout_redirect'
+wp option delete 'mo_discord_logout_redirect_url'
+wp option delete 'mo_discord_verify_customer'
+wp option delete 'mo_discord_registration_status'
+wp option delete 'mo_discord_admin_email'
+wp option delete 'mo_discord_admin_phone'
+wp option delete 'mo_discord_admin_customer_key'
+wp option delete 'mo_discord_message'
+wp option delete 'mo_discord_admin_api_key'
+wp option delete 'mo_discord_customer_token'
+wp option delete 'mo_discord_new_registration'
+wp option delete 'mo_dis_basic_role_mapping'
+wp option delete 'mo_discord_integrator_host_name'
+wp option delete 'regi_pop_up'
+wp option delete 'pop_regi_msg'
+wp option delete 'mo_discord_user_activation_date1'
+wp option delete 'mo_discord_admin_company_name'
+wp option delete 'mo_discord_admin_first_name'
+wp option delete 'mo_discord_admin_last_name'
+wp option delete 'mo_default_role'
+wp option delete 'mo_discord_default_login_enable'
+wp option delete 'mo_discord_default_register_enable'
+wp option delete 'mo_discord_social_login_avatar'
+wp option delete 'mo_discord_deactivate_reason_form'
+wp option delete 'mo_discord_user_activation_date'
+wp option delete 'mo_discord_login_field_option'
+wp option delete 'mo_discord_attr_email'
+wp option delete 'mo_discord_attr_username'
+wp option delete 'mo_discord_attr_display_name'
+wp option delete 'mo_registration_error_message'
+wp option delete 'mo_existing_username_error_message'
+wp option delete 'mo_delete_user_error_message'
+wp option delete 'mo_discord_malform_error'
+wp option delete 'Activated_Plugin'
+wp option delete 'mo_discord_attr_fname'
+wp option delete 'mo_discord_attr_lname'
+wp option delete 'mo_discord_test_configuration'
+wp option delete 'mo_discord_cust'
+wp option delete 'mo_discord_new_user'
+wp option delete 'pop_login_msg'
+wp option delete 'mo_discord_feedback_form'
+wp option delete 'mo_discord_rateus_activation'
+wp option delete 'mo_openid_discord_enable_check'
+wp option delete 'mo_account_linking_title'
+wp option delete 'mo_account_linking_new_user_button'
+wp option delete 'mo_account_linking_existing_user_button'
+wp option delete 'mo_account_linking_new_user_instruction'
+wp option delete 'mo_account_linking_existing_user_instruction'
+wp option delete 'mo_account_linking_extra_instruction'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'modiscord_user_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'modiscord_user_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'modiscord_user_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'modiscord_user_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'user_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'user_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'user_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'user_name'"

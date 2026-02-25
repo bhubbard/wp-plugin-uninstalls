@@ -1,0 +1,30 @@
+{
+  "options": [
+    "azure_storage_account_name",
+    "azure_storage_account_primary_access_key",
+    "azure_storage_override_container_path",
+    "cname",
+    "azure_storage_use_for_default_upload",
+    "http_proxy_host",
+    "http_proxy_port",
+    "http_proxy_username",
+    "http_proxy_password",
+    "default_azure_storage_account_container_name",
+    "azure_storage_keep_local_file",
+    "azure_browse_cache_results",
+    "azure_cache_control"
+  ],
+  "transients": [
+    "azure_progress_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "windows_azure_storage_info",
+    "_wp_attachment_metadata",
+    "_wp_attachment_replace_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:04.660Z"
+}

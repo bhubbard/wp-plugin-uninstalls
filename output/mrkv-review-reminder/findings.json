@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mrkv_review_reminder",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "woocommerce_email_base_color",
+    "woocommerce_email_background_color",
+    "woocommerce_email_body_background_color",
+    "woocommerce_email_text_color",
+    "woocommerce_email_footer_text_color",
+    "woocommerce_email_header_image"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mrkv_next_reminder"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:56.474Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "wpm_gravity_conversational_licenses",
+    "gravity_conversation_field_slug"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:41.833Z"
+}

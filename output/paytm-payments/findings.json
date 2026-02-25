@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_paytm_settings",
+    "woocommerce_checkout_page_id",
+    "isWebsiteAdded",
+    "websiteOption",
+    "woocommerce_pay_page_id",
+    "woocommerce_custom_orders_table_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:56.126Z"
+}

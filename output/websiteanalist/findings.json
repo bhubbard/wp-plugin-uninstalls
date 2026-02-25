@@ -1,0 +1,17 @@
+{
+  "options": [
+    "websiteanalist_site_id",
+    "websiteanalist_base_url",
+    "websiteanalist_tracking_enabled",
+    "websiteanalist_track_tel",
+    "websiteanalist_track_email",
+    "websiteanalist_debug_mode",
+    "websiteanalist_custom_actions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:15.938Z"
+}

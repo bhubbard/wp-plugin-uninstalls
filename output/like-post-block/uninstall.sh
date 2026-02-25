@@ -1,0 +1,12 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rolpb_ip_addresses'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rolpb_ip_addresses'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rolpb_ip_addresses'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rolpb_ip_addresses'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rolpb_user_ids'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rolpb_user_ids'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rolpb_user_ids'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rolpb_user_ids'"

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "uvs_api_system_key",
+    "uvs_current_value",
+    "uvs_last_value",
+    "uvs_last_value_updated_at",
+    "uvs_license_key",
+    "uvs_first_activation",
+    "uvs_uuid",
+    "uvs_settings_updated_timestamp",
+    "uvs_version",
+    "uvs_selected_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:14.073Z"
+}

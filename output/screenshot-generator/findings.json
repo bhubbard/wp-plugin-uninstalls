@@ -1,0 +1,22 @@
+{
+  "options": [
+    "scrgen_width",
+    "scrgen_height",
+    "scrgen_enable_cropping",
+    "scrgen_crop_left",
+    "scrgen_crop_top",
+    "scrgen_crop_width",
+    "scrgen_crop_height",
+    "scrgen_social_strategy"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "scrgen_update_post_screenshot"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_scrgen_screenshot"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:28.656Z"
+}

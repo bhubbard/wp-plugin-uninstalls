@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_default_country",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "Treggo_New_Installation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:24.138Z"
+}

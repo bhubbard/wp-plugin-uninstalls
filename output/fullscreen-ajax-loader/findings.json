@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fs_background_color",
+    "fs_background_opacity",
+    "fs_loader_scale",
+    "fs_wc_compat",
+    "fs_loader_img",
+    "fs_template",
+    "fs_exclude_urls",
+    "fs_exclude_params"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:55.171Z"
+}

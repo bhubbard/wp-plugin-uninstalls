@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ilc_flvbox_path",
+    "ilc_flvbox_width",
+    "ilc_flvbox_height",
+    "ilc_tb",
+    "ilc_player",
+    "ilc_flvbox_osflv_bgcolor",
+    "ilc_flvbox_osflv_fgcolor",
+    "ilc_flvbox_osflv_volume"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:18.325Z"
+}

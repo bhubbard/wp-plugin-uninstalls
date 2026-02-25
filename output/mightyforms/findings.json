@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mightyforms_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mf_next_schedule_review_notice_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:36.820Z"
+}

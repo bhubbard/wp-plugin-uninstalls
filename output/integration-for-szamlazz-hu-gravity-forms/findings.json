@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_gf_szamlazz_pro_enabled",
+    "_gf_szamlazz_pro_key",
+    "_gf_szamlazz_pro_email",
+    "_gf_szamlazz_error",
+    "_gf_szamlazz_cookie_name"
+  ],
+  "transients": [
+    "gf_szamlazz_mnb_arfolyam_kozep"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gf_szamlazz_admin_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:43.474Z"
+}

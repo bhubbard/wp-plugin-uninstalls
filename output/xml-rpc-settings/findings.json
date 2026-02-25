@@ -1,0 +1,24 @@
+{
+  "options": [
+    "allow_disallow_get_access",
+    "allow_disallow_multicall",
+    "allow_disallow_listmethods",
+    "allow_disallow_auth",
+    "allow_disallow_pingbacks",
+    "allow_disallow_header",
+    "allow_disallow_verify_agent",
+    "allow_disallow_send_agent",
+    "allow_disallow_demo",
+    "allow_disallow_blogger",
+    "allow_disallow_metaweblog",
+    "allow_disallow_movabletype",
+    "allowed_ip",
+    "methods_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:08.208Z"
+}

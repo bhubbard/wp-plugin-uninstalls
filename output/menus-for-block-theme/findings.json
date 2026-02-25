@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mfbt_add_theme_support_menu",
+    "mfbt_show_customizer",
+    "mfbt_disable_files_editor",
+    "mfbt_show_reusable_blocks",
+    "mfbt_show_navigation_menu",
+    "mfbt_show_templates",
+    "mfbt_show_template_parts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:53.601Z"
+}

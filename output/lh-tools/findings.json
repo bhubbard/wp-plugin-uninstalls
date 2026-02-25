@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rdf_tools_*",
+    "rdf_tools_endpoint_read_key",
+    "rdf_tools_endpoint_write_key",
+    "rdf_tools_endpoint_src_file"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lh_tools_load_endpoint_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:00.663Z"
+}

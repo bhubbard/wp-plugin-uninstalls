@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpinfobox_maxitems",
+    "wpinfobox_css",
+    "wpinfobox_on_posts",
+    "wpinfobox_on_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpinfobox_title",
+    "wpinfobox_lead",
+    "wpinfobox_item_*",
+    "wpinfobox_copy"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:36.832Z"
+}

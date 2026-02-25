@@ -1,0 +1,19 @@
+{
+  "options": [
+    "blfpst_options",
+    "_blfpst_plugin_version",
+    "_blfpst_db_lock",
+    "_blfpst_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_blfpst_subscribe_mailmagazine",
+    "_blfpst_text_only",
+    "_blfpst_content_type_html",
+    "_blfpst_send_mail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:45.022Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "textme_sms_account",
+    "textme_sms_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_first_name",
+    "_billing_last_name",
+    "_billing_address_1",
+    "_billing_city",
+    "_billing_email",
+    "_billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:24.818Z"
+}

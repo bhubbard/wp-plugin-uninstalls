@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpvme_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "map_engine",
+    "map_settings",
+    "styles",
+    "map_global_styles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:28.654Z"
+}

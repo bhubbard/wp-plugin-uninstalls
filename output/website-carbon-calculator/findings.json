@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpcc_settings",
+    "wpcc::*",
+    "wpcc::search",
+    "wpcc::404",
+    "carbon_calculator",
+    "wpcc_details::*",
+    "wpcc_details::search",
+    "wpcc_details::404"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcc",
+    "wpcc_details",
+    "wpcc_pending"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:26.127Z"
+}

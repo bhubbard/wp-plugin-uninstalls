@@ -1,0 +1,20 @@
+{
+  "options": [
+    "TravelpayoutsSettingsFrameworkPlugin_ACTIVATED_NOTICES",
+    "active_sitewide_plugins",
+    "TravelpayoutsSettingsFrameworkPlugin",
+    "*-transients",
+    "auto_update_Redux_Travelpayouts_google_fonts"
+  ],
+  "transients": [
+    "*-transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ignore_*",
+    "ignore_hints"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:42.972Z"
+}

@@ -1,0 +1,50 @@
+{
+  "options": [
+    "_exceed_cfpezw_l",
+    "_exceed_cfpezw",
+    "*enable_log"
+  ],
+  "transients": [
+    "cf7pe_install_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_form_data",
+    "_form_id",
+    "_transaction_status",
+    "_total",
+    "_currency",
+    "_paymen_type",
+    "subscription_canceled",
+    "_attachment",
+    "_transaction_id",
+    "*use_paypal",
+    "*mode_sandbox",
+    "*sandbox_client_id",
+    "*sandbox_client_secret",
+    "*live_client_id",
+    "*live_client_secret",
+    "*amount",
+    "*email",
+    "*description",
+    "*quantity",
+    "*mailsend",
+    "*success_returnurl",
+    "*cancel_returnurl",
+    "*message",
+    "*currency",
+    "*enable_on_site_payment",
+    "_email",
+    "_payer_email",
+    "_amount",
+    "_quantity",
+    "_request_Ip",
+    "_transaction_response",
+    "_invoice_no",
+    "_last_payment_reference",
+    "_transaction_status_on_site"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:17.949Z"
+}

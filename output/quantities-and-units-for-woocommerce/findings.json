@@ -1,0 +1,33 @@
+{
+  "options": [
+    "ipq_options"
+  ],
+  "transients": [
+    "ipq_rules_*",
+    "ipq_rules_guest"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_priority",
+    "_min",
+    "_max",
+    "_step",
+    "_cats",
+    "_tags",
+    "_roles",
+    "_min_oos",
+    "_max_oos",
+    "_wpbo_deactive",
+    "_wpbo_step",
+    "_wpbo_minimum",
+    "_wpbo_maximum",
+    "_wpbo_override",
+    "_wpbo_minimum_oos",
+    "_wpbo_maximum_oos",
+    "unit",
+    "wpbo_thumbnail_input_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:02.574Z"
+}

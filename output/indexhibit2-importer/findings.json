@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ix2_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ix2_exhibit_format"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:09.358Z"
+}

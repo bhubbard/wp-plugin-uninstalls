@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp_tube_user",
+    "wp_tube_cat",
+    "wp_tube_lud",
+    "wp_tube_default_player",
+    "wp_tube_player_colors",
+    "wp_tube_player_width_x",
+    "wp_tube_player_width_y",
+    "wp_tube_bump",
+    "wp_tube_custom_player",
+    "wp_tube_dbv"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:49.697Z"
+}

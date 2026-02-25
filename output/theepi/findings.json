@@ -1,0 +1,15 @@
+{
+  "options": [
+    "plugin_permalinks_flushed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eo_menu_minimize",
+    "*_user_level",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:49.739Z"
+}

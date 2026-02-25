@@ -1,0 +1,18 @@
+{
+  "options": [
+    "AHSITW_quality",
+    "AHSITW_conversion_count"
+  ],
+  "transients": [
+    "AHSITW_unconverted_count_rough"
+  ],
+  "cron_jobs": [
+    "AHSITW_daily_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_AHSITW_converted"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:17.533Z"
+}

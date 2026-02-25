@@ -1,0 +1,36 @@
+{
+  "options": [
+    "slicewp_remote_add_ons",
+    "slicewp_helpscout_beacon_welcome",
+    "slicewp_website_registered",
+    "slicewp_setup_wizard_visited",
+    "slicewp_dismissed_admin_notices",
+    "slicewp_review_request",
+    "slicewp_flush_rewrite_rules",
+    "slicewp_license_key",
+    "slicewp_setup_wizard_hidden",
+    "slicewp_setup_wizard_current_step",
+    "*_version",
+    "slicewp_license_key_data",
+    "slicewp_*",
+    "slicewp_first_activation",
+    "slicewp_migrations",
+    "slicewp_version",
+    "slicewp_settings"
+  ],
+  "transients": [
+    "_slicewp_activated"
+  ],
+  "cron_jobs": [
+    "slicewp_plugin_usage_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "slicewp_user_preferences",
+    "_edd_sl_is_renewal",
+    "slicewp_disable_commissions",
+    "slicewp-disable-commissions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:36.242Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cgrid_options",
+    "_cgrid_skin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:58.840Z"
+}

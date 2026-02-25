@@ -1,0 +1,20 @@
+{
+  "options": [
+    "mrz_social_links",
+    "mrz_social_counters",
+    "mrz_social_twitter_token"
+  ],
+  "transients": [
+    "mrz_social_facebook_count",
+    "mrz_social_facebook_page_id",
+    "mrz_social_gplus_count",
+    "mrz_social_gplus_page_url",
+    "mrz_social_twitter_count",
+    "mrz_social_twitter_screen_name"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:40.574Z"
+}

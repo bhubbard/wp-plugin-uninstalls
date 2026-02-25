@@ -1,0 +1,21 @@
+{
+  "options": [
+    "enable_woocommerce_advanced_shipping_validation",
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_terms_page_id",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_conditions",
+    "_message",
+    "total_sales",
+    "_was_shipping_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:06.930Z"
+}

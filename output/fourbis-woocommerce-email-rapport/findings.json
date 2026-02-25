@@ -1,0 +1,13 @@
+{
+  "options": [
+    "fwer_main_mail_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fwer_email_cron_monthly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:34.918Z"
+}

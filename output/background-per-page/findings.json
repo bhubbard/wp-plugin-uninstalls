@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bpp_element",
+    "_bpp_background",
+    "_bpp_repeat-x",
+    "_bpp_repeat-y",
+    "_bpp_color",
+    "_bpp_position",
+    "_bpp_attachment",
+    "_bpp_fade",
+    "_bpp_fade_height",
+    "example_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:41.659Z"
+}

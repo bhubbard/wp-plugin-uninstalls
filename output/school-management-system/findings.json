@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wlsm_delete_on_uninstall",
+    "wlsm_current_session",
+    "wlsm_currency",
+    "wlsm_date_format",
+    "wlsm_gdpr_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wlsm_notify_for_invoice_generated",
+    "wlsm_notify_for_offline_fee_submission",
+    "wlsm_notify_for_student_admission",
+    "wlsm_notify_for_online_fee_submission",
+    "wlsm_notify_for_student_registration_to_student",
+    "wlsm_notify_for_student_registration_to_admin"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wlsm_school_id",
+    "wlsm_current_session"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:43.019Z"
+}

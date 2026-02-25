@@ -1,0 +1,38 @@
+{
+  "options": [],
+  "transients": [
+    "mipl_cf7_crm_export_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mipl_cf7_crm_body_details",
+    "_mipl_cf7_crm_settings",
+    "_mipl_cf7_selected_crm",
+    "_mipl_cf_crm_form_submission",
+    "_mipl_lead_collection_data",
+    "_mipl_cf7_crm_error_config",
+    "mipl_cf7_crm_display_field_mapping",
+    "_mipl_cf7_crm_details",
+    "_mipl_cf7_crm_details_error",
+    "_mipl_cf7_extra_headers_data",
+    "_mipl_cf7_crm_form_data",
+    "_mipl_cf7_crm_default_data",
+    "_mipl_cf7_crm_email_configuration",
+    "_mipl_cf7_crm_email_setting",
+    "_mipl_cf7_crm_submission_filter",
+    "_mipl_cf_ck_oauth2_state",
+    "_mipl_oauth_details",
+    "_mipl_oauth_refresh_generation_time",
+    "_mipl_cf7_crm_jwt_token",
+    "_mipl_cf_ck_oauth2_jwt_state",
+    "_mipl_cf7_crm_oauth_jwt_token",
+    "_mipl_crm_lead_cf7_form",
+    "_mipl_cf7_crm",
+    "_mipl_cf7_zapier_webhook_url",
+    "_form",
+    "_mipl_cf7_endpoint_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:09.154Z"
+}

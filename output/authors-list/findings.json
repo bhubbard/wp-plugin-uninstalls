@@ -1,0 +1,23 @@
+{
+  "options": [
+    "authors_list_item_draft_*",
+    "authors_list_items",
+    "authors_list_data",
+    "authors_list_item_settings_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "facebook",
+    "instagram",
+    "linkedin",
+    "pinterest",
+    "tumblr",
+    "twitter",
+    "youtube",
+    "tiktok"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:03.354Z"
+}

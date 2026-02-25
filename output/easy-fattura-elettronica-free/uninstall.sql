@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('efe-fatturazione-elettronica-abilitata', 'efe-delete-options', 'efe-pad-num-fattura', 'efe-denominazione-soggetto', 'efe-codice-fornitore', 'efe-cf-fornitore', 'efe-regime-fiscale-fornitore', 'efe-tipo-documento-fatture', 'efe-nome-ditta-fornitore', 'efe-nome-fornitore', 'efe-cognome-fornitore', 'woocommerce_version', 'woocommerce_store_address', 'woocommerce_store_address_2', 'woocommerce_store_city', 'woocommerce_store_postcode', 'efe-counter-fattura', 'woocommerce_weight_unit', 'woocommerce_default_country', 'efe-provider-selected', 'efe-nota-credito-periodo-fatt', 'efe-layout', 'efe-fa-ri-abilitati', 'efe-pi-cf-abilitati', 'efe-counter-ricevuta', 'efe-abilita-soggetto', 'efe-counter-nota-credito', 'efe-license', 'efe-token', 'efe-app-pin');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_order_number', '_efe_partitaiva_codicefiscale', '_order_currency', '_order_total', '_order_tax', '_billing_first_name', '_billing_last_name', '_efe_privato_azienda', '_efe_fattura_ricevuta', '_efe_codice_pec', '_completed_date', '_payment_method', '_efe_data_fattura', '_order_shipping');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_order_number', '_efe_partitaiva_codicefiscale', '_order_currency', '_order_total', '_order_tax', '_billing_first_name', '_billing_last_name', '_efe_privato_azienda', '_efe_fattura_ricevuta', '_efe_codice_pec', '_completed_date', '_payment_method', '_efe_data_fattura', '_order_shipping');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_order_number', '_efe_partitaiva_codicefiscale', '_order_currency', '_order_total', '_order_tax', '_billing_first_name', '_billing_last_name', '_efe_privato_azienda', '_efe_fattura_ricevuta', '_efe_codice_pec', '_completed_date', '_payment_method', '_efe_data_fattura', '_order_shipping');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_order_number', '_efe_partitaiva_codicefiscale', '_order_currency', '_order_total', '_order_tax', '_billing_first_name', '_billing_last_name', '_efe_privato_azienda', '_efe_fattura_ricevuta', '_efe_codice_pec', '_completed_date', '_payment_method', '_efe_data_fattura', '_order_shipping');
+

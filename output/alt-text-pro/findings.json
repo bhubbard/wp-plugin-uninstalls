@@ -1,0 +1,22 @@
+{
+  "options": [
+    "alt_text_pro_settings"
+  ],
+  "transients": [
+    "alt_text_pro_bulk_*",
+    "alt_text_pro_success_*",
+    "alt_text_pro_error_*"
+  ],
+  "cron_jobs": [
+    "alt_text_pro_bulk_process_batch",
+    "alt_text_pro_cleanup",
+    "alt_text_pro_generate_background"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_alt_text_pro_context"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:02.128Z"
+}

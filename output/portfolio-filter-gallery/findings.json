@@ -1,0 +1,34 @@
+{
+  "options": [
+    "pfg_filters",
+    "awl_portfolio_filter_gallery_categories",
+    "pfg_last_backup",
+    "pfg_global_settings",
+    "pfg_last_backup_date",
+    "pfg_filters_legacy_backup",
+    "pfg_migration_log",
+    "pfg_installed_version",
+    "pfg_previous_version",
+    "pfg_first_installed_version",
+    "pfg_version_timestamp",
+    "pfg_db_version",
+    "pfg_show_tour"
+  ],
+  "transients": [
+    "pfg_activation_redirect"
+  ],
+  "cron_jobs": [
+    "pfg_continue_migration"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pfg_images",
+    "_wp_attachment_image_alt",
+    "_pfg_migration_completed",
+    "_pfg_settings",
+    "_pfg_migrated",
+    "_pfg_legacy_backup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:27.753Z"
+}

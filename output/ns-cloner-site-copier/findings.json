@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ns_cloner_finish_queries",
+    "ns_cloner_exited",
+    "ns-media-source-site-url",
+    "ns_cloner_saved_request",
+    "ns_cloner_installed_version",
+    "illegal_names",
+    "registration",
+    "*_primary_keys",
+    "ns_cloner_default_template"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "ns_cloner_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:31.467Z"
+}

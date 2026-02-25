@@ -1,0 +1,35 @@
+{
+  "options": [
+    "termageddon_usercentrics_settings_id",
+    "termageddon_usercentrics_embed_code",
+    "termageddon_usercentrics_script_snippets",
+    "termageddon_usercentrics_disable_admin",
+    "termageddon_usercentrics_disable_editor",
+    "termageddon_usercentrics_disable_logged_in",
+    "termageddon_usercentrics_location_psl_hide",
+    "termageddon_usercentrics_psl_alternate",
+    "termageddon_usercentrics_embed_priority",
+    "termageddon_usercentrics_embed_injection_method",
+    "termageddon_usercentrics_embed_version",
+    "termageddon_usercentrics_disable_auto_blocker",
+    "termageddon_usercentrics_disable_cdn",
+    "termageddon_usercentrics_disable_troubleshooting",
+    "termageddon_usercentrics_geoip_enabled",
+    "termageddon_usercentrics_show_in_*",
+    "termageddon_usercentrics_location_debug",
+    "termageddon_usercentrics_location_ajax",
+    "termageddon_usercentrics_integration_*",
+    "termageddon_usercentrics_auto_refresh_providers",
+    "termageddon_usercentrics_disable_blocking_providers",
+    "termageddon_usercentrics_download_error_count",
+    "termageddon_usercentrics_download_error_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "termageddon_usercentrics_maxmind_download"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:26.642Z"
+}

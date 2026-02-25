@@ -1,0 +1,16 @@
+{
+  "options": [
+    "MOIP_MAX_ATTACHMENTS_PER_SCAN",
+    "moip_image_type",
+    "moip_out_file_type"
+  ],
+  "transients": [
+    "mapping_of_image_posts_filename",
+    "lines_affected"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:43.286Z"
+}

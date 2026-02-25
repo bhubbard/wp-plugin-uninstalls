@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cloud_s3_storage_mime_types",
+    "cloud_s3_settings",
+    "cloud_s3_storage_status"
+  ],
+  "transients": [
+    "cloud_s3_storage_cached_file_attach_list",
+    "cloud_s3_storage_cached_id_list"
+  ],
+  "cron_jobs": [
+    "cloud_s3_storage_action_reindex_image",
+    "cloud_s3_storage_action_clear_image"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "disable_media_field",
+    "enable_media_field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:37.589Z"
+}

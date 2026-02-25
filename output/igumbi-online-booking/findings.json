@@ -1,0 +1,16 @@
+{
+  "options": [
+    "igumbi_hotel_id",
+    "igumbi_language",
+    "igumbi_wide",
+    "igumbi_custom_css",
+    "igumbi_responsive",
+    "igumbi_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:52.878Z"
+}

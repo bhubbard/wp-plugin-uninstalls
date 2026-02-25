@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('nemtly_booking_business_persona', 'nemtly_booking_availability', 'nemtly_booking_setup_completed', 'nemtly_currency_symbol', 'nemtly_booking_settings', 'nemtly_booking_event_templates');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('nemtly_event_date', 'nemtly_event_time', 'nemtly_event_duration', 'nemtly_location', 'nemtly_max_attendees', 'nemtly_price', 'nemtly_event_location', 'nemtly_event_price', '_nemtly_event_date', '_nemtly_event_time', '_nemtly_location', 'nemtly_event_status', 'nemtly_recurrence_exceptions', 'nemtly_booking_preferences', 'nemtly_booking_blocked', 'nemtly_booking_favorite_events', 'nemtly_booking_cutoff', 'nemtly_allow_waitlist');
+DELETE FROM wp_usermeta WHERE meta_key IN ('nemtly_event_date', 'nemtly_event_time', 'nemtly_event_duration', 'nemtly_location', 'nemtly_max_attendees', 'nemtly_price', 'nemtly_event_location', 'nemtly_event_price', '_nemtly_event_date', '_nemtly_event_time', '_nemtly_location', 'nemtly_event_status', 'nemtly_recurrence_exceptions', 'nemtly_booking_preferences', 'nemtly_booking_blocked', 'nemtly_booking_favorite_events', 'nemtly_booking_cutoff', 'nemtly_allow_waitlist');
+DELETE FROM wp_termmeta WHERE meta_key IN ('nemtly_event_date', 'nemtly_event_time', 'nemtly_event_duration', 'nemtly_location', 'nemtly_max_attendees', 'nemtly_price', 'nemtly_event_location', 'nemtly_event_price', '_nemtly_event_date', '_nemtly_event_time', '_nemtly_location', 'nemtly_event_status', 'nemtly_recurrence_exceptions', 'nemtly_booking_preferences', 'nemtly_booking_blocked', 'nemtly_booking_favorite_events', 'nemtly_booking_cutoff', 'nemtly_allow_waitlist');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('nemtly_event_date', 'nemtly_event_time', 'nemtly_event_duration', 'nemtly_location', 'nemtly_max_attendees', 'nemtly_price', 'nemtly_event_location', 'nemtly_event_price', '_nemtly_event_date', '_nemtly_event_time', '_nemtly_location', 'nemtly_event_status', 'nemtly_recurrence_exceptions', 'nemtly_booking_preferences', 'nemtly_booking_blocked', 'nemtly_booking_favorite_events', 'nemtly_booking_cutoff', 'nemtly_allow_waitlist');
+

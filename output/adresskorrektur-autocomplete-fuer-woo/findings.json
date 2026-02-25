@@ -1,0 +1,12 @@
+{
+  "options": [
+    "api_key",
+    "enqueue_map_js"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:45.966Z"
+}

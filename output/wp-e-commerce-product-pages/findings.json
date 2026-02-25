@@ -1,0 +1,14 @@
+{
+  "options": [
+    "product_list_url",
+    "shopping_cart_url",
+    "transact_url",
+    "user_account_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:13.515Z"
+}

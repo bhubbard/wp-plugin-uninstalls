@@ -1,0 +1,29 @@
+{
+  "options": [
+    "fgs2wp_options",
+    "fgs2wp_last_spip_article_id",
+    "fgs2wp_last_spip_news_id",
+    "fgs2wp_last_news_category_id",
+    "fgs2wp_save_posts",
+    "fgs2wp_save_terms",
+    "fgs2wp_save_term_relationships",
+    "fgs2wp_stop_import",
+    "*_children"
+  ],
+  "transients": [
+    "wc_count_comments"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fgs2wp_old_article_id",
+    "_fgs2wp_old_news_id",
+    "lien_titre",
+    "lien_url",
+    "_fgs2wp_old_file",
+    "_wp_attachment_image_alt",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:49.093Z"
+}

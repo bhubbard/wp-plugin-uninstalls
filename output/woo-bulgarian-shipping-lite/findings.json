@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "name",
+    "phone",
+    "custum_address",
+    "custum_town",
+    "custum_office",
+    "custum_grad_address",
+    "shipping_mode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:28.161Z"
+}

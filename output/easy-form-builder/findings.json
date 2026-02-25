@@ -1,0 +1,20 @@
+{
+  "options": [
+    "emsfb_settings",
+    "emsfb_email_status",
+    "Emsfb_db_version",
+    "emsfb_pro",
+    "emsfb_version"
+  ],
+  "transients": [
+    "emsfb_settings_transient"
+  ],
+  "cron_jobs": [
+    "delete_preview_page_efb",
+    "download_all_addons_efb"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:21.613Z"
+}

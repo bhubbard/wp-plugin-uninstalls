@@ -1,0 +1,28 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*frequency",
+    "*timezone",
+    "*recurrence_duration",
+    "*recurrence_duration_num_repeat",
+    "*recurrence_duration_end_date",
+    "*weekly_days_of_week_to_repeat",
+    "*hourly_num_of_hours",
+    "*daily_num_of_days",
+    "*weekly_num_of_weeks",
+    "*monthly_num_of_months",
+    "*yearly_num_of_years",
+    "*instance_start",
+    "*instance_end",
+    "*monthly_nth_weekday_of_month",
+    "*monthly_nth_weekday_of_month_nth",
+    "*monthly_nth_weekday_of_month_weekday",
+    "*exceptions_dates",
+    "*action"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:44.142Z"
+}

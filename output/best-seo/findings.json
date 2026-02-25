@@ -1,0 +1,14 @@
+{
+  "options": [
+    "seo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_moz_keyword",
+    "_moz_rockScore"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:21.090Z"
+}

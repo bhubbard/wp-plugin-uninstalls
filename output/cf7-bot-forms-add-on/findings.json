@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7bot_enabled",
+    "_cf7bot_toggle",
+    "_cf7bot_form_id",
+    "_cf7bot_form_outer",
+    "_cf7bot_bot_icon",
+    "_cf7bot_user_icon",
+    "_cf7bot_form_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:18.317Z"
+}

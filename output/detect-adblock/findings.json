@@ -1,0 +1,20 @@
+{
+  "options": [
+    "oba_dab_ex_admin",
+    "oba_dab_ex_editor",
+    "oba_dab_ex_author",
+    "oba_dab_ex_con",
+    "oba_dab_ex_sub",
+    "oba_dab_ex_any_logged",
+    "oba_dab_ex_any_visitor",
+    "oba_dab_op_title",
+    "oba_dab_op_message",
+    "adab_cookie_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:24.093Z"
+}

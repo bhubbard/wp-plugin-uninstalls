@@ -1,0 +1,20 @@
+{
+  "options": [
+    "gfcnp_plugin",
+    "pmpro_gateway",
+    "pmpro_clickandpledge_level_sku_*",
+    "pmpro_clickandpledge_level_gau_*",
+    "pmpro_clickandpledge_connect_campaign_*",
+    "pmpro_clickandpledge_connect_campaign",
+    "pmpro_clickandpledge_connect_campaign_subscription",
+    "pmpro_clickandpledge_connect_campaign_trial"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pmpro_cron_example_subscription_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:05.624Z"
+}

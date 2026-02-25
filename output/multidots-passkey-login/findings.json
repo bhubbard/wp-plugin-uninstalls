@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mdlogin_passkey_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mdlogin_passkey_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "mdlogin_passkey_created_user",
+    "mdlogin_passkey_created_date",
+    "mdlogin_passkey_user_handle",
+    "mdlogin_passkey_credentials"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:31.346Z"
+}

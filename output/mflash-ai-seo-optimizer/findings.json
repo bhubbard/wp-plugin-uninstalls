@@ -1,0 +1,27 @@
+{
+  "options": [
+    "mflash_ai_seo_optimizer_settings",
+    "mflash_mflash_ai_seo_optimizer_settings"
+  ],
+  "transients": [
+    "mflash_ai_seo_optimizer_auth_key",
+    "mflash_ai_seo_optimizer_welcome"
+  ],
+  "cron_jobs": [
+    "mflash_ai_seo_optimizer_calculate_existing_scores"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mflash_ai_seo_score",
+    "_ai_seo_title",
+    "_ai_seo_description",
+    "_ai_seo_keywords",
+    "_mflash_ai_seo_title",
+    "_mflash_ai_seo_description",
+    "_mflash_ai_seo_keywords",
+    "_mflash_ai_seo_optimization_changes",
+    "_mflash_ai_seo_optimization_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:56.386Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "prc_cat",
+    "prc_limited",
+    "prc_role"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_read_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:13.497Z"
+}

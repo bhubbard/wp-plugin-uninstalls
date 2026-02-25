@@ -1,0 +1,17 @@
+{
+  "options": [
+    "savap_auth_secret",
+    "savap_secret_work",
+    "savap_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thankyou_action_done",
+    "savap-*",
+    "savyour_cancellation_reason"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:36.570Z"
+}

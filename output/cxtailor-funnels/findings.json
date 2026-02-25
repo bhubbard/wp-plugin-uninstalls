@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cxtf_username",
+    "cxtf_password",
+    "cxtf_access_token",
+    "cxtf_workspace_id",
+    "cxtf_user_id",
+    "cxtf_token_updated_at"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:21.483Z"
+}

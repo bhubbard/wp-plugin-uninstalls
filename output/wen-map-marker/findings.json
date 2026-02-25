@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wen_map_marker_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wen_map_marker_address",
+    "wen_map_marker_zoom",
+    "wen_map_marker_lat",
+    "wen_map_marker_lng",
+    "wen_map_marker_content_append"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:59.142Z"
+}

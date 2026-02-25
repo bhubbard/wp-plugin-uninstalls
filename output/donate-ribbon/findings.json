@@ -1,0 +1,14 @@
+{
+  "options": [
+    "donate_ribbon_url",
+    "donate_ribbon_title",
+    "donate_ribbon_user_offset",
+    "donate_ribbon_admin_offset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:45.876Z"
+}

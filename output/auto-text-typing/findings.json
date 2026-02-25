@@ -1,0 +1,24 @@
+{
+  "options": [
+    "message",
+    "text-color",
+    "background-color",
+    "padding",
+    "border-radius",
+    "border-width",
+    "border-style",
+    "copyrighte",
+    "melibu-plugin-typing-version",
+    "melibu-plugin-typing-db-version",
+    "copyright",
+    "melibu-plugin-typing-logo-get"
+  ],
+  "transients": [
+    "melibu-plugin-typing-page-activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:07.093Z"
+}

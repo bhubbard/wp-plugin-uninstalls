@@ -1,0 +1,16 @@
+{
+  "options": [
+    "timeline_express_date_time_migration_notice",
+    "timeline_express_date_time_migration_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "announcement-date-time",
+    "announcement_date",
+    "announcement-date-format"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:33.194Z"
+}

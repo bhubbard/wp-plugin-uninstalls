@@ -1,0 +1,28 @@
+{
+  "options": [
+    "longshot_ai_api_key",
+    "longshot_ai_unique_id",
+    "longshot_ai_auth_id",
+    "longshot_ai_extension_allowed",
+    "longshot_ai_persistent_message",
+    "longshot_ai_feedback_dismissed",
+    "longshot_ai_feedback_given",
+    "longshot_ai_feedback_message",
+    "longshot_ai_*",
+    "longshot_ai_author_id"
+  ],
+  "transients": [
+    "longshot_ai_login_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "longshot_ai_post_topic",
+    "longshot_ai_country",
+    "longshot_ai_language",
+    "longshot_ai_semantic_seo_score",
+    "longshot_ai_meta_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:48.795Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fvp-settings",
+    "fvp-version",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fvp_video",
+    "_fvp_image_url",
+    "_thumbnail_id",
+    "_fvp_image",
+    "dismissed_wp_pointers",
+    "fvp_activation_notification_ignore"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:10.342Z"
+}

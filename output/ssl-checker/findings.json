@@ -1,0 +1,20 @@
+{
+  "options": [
+    "gritonl_ssl_checker_errors",
+    "gritonl_ssl_checker_debug",
+    "gritonl_ssl_checker_emails",
+    "gritonl_ssl_checker_ssl_expiry_ts",
+    "gritonl_ssl_checker_ssl_expiry",
+    "gritonl_ssl_checker_domain_expiry_ts",
+    "gritonl_ssl_checker_domain_expiry",
+    "gritonl_ssl_checker_alerts"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gritonl_ssl_checker"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:18.465Z"
+}

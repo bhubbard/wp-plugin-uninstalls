@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "activity_type",
+    "activity_data",
+    "taskpress_status",
+    "taskpress_position",
+    "taskpress_board_labels",
+    "taskpress_archived",
+    "taskpress_board_id",
+    "taskpress_assigned_to",
+    "taskpress_due_date",
+    "taskpress_card_labels",
+    "taskpress_labels",
+    "taskpress_priority",
+    "taskpress_created_by",
+    "taskpress_list_id",
+    "taskpress_theme_class",
+    "taskpress_cards"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:11.937Z"
+}

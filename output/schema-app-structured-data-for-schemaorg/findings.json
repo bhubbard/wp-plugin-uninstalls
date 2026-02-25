@@ -1,0 +1,25 @@
+{
+  "options": [
+    "schema_option_name",
+    "schema_option_name_genesis",
+    "schema_option_name_license"
+  ],
+  "transients": [
+    "HunchSchema-Markup-*",
+    "_welcome_screen_activation_redirect",
+    "hunch_schema_delete_transient_cache_success",
+    "hunch_schema_delete_transient_cache_failure"
+  ],
+  "cron_jobs": [
+    "schema_app_cron_resource_from_api"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_HunchSchemaType",
+    "_HunchSchemaMarkup",
+    "_HunchSchemaDisableMarkup",
+    "_HunchSchemaEnableMarkup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:29.868Z"
+}

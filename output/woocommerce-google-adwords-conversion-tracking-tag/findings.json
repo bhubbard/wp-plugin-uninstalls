@@ -1,0 +1,47 @@
+{
+  "options": [
+    "wgact_plugin_options",
+    "GTranslate",
+    "nitropack-siteId",
+    "nitropack-siteSecret",
+    "wp_rocket_settings",
+    "wgact_plugin_options_1",
+    "wgact_plugin_options_2",
+    "rewrite_rules",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "pmw_tracking_accuracy_analysis",
+    "pmw_tracking_accuracy_analysis_date",
+    "pmw_tracking_accuracy_analysis_time",
+    "pmw_tracking_accuracy_analysis_running",
+    "pmw_tracking_accuracy_analysis_max_orders",
+    "pmw_tracking_accuracy_analysis_weighted",
+    "pmw_tracked_payment_methods",
+    "pmw_google_tag_id",
+    "pmw_test_transient",
+    "geoip_*",
+    "_pmw_pro_version_demo_active",
+    "pmw_products_for_datalayer_*",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "pmw_tracking_accuracy_analysis",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:59.466Z"
+}

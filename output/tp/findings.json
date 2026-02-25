@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tp_options",
+    "tp_app_options",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "twuid",
+    "twitter_user_id",
+    "twitter_profile_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:04.093Z"
+}

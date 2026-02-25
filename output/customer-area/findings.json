@@ -1,0 +1,24 @@
+{
+  "options": [
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "cuar/cron/events?schedule=weekly",
+    "cuar/cron/events?schedule=daily",
+    "cuar/cron/events?schedule=hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cuar_gateway_*",
+    "cuar/private-content/files/download_count?user=*",
+    "cuar_private_file_file",
+    "cuar_private_page_view_count",
+    "cuar_*",
+    "__cuar_session"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:58.735Z"
+}

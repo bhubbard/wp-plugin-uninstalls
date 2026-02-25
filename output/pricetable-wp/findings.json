@@ -1,0 +1,14 @@
+{
+  "options": [
+    "siteorigin_pricetable_wp_welcome"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nk_price_table",
+    "pricetable_wp_setting"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:01.661Z"
+}

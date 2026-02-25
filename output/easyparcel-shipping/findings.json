@@ -1,0 +1,21 @@
+{
+  "options": [
+    "jal_db_version",
+    "woocommerce_email_from_address",
+    "woocommerce_default_country",
+    "_easyparcel_migrated_v2",
+    "easyparcel_auto_fulfillment_settings",
+    "woocommerce_easyparcel_settings",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "easyparcel_log_store_info_once",
+    "easyparcel_delete_old_zip_files"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:48.203Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "bulk_alt_text_processing",
+    "altgen_attachments_jobs",
+    "bdaiatg_bulk_generating",
+    "error_during_background_task_no_credit",
+    "altgen_last_bulk_stats",
+    "csf_demo_mode",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_focus_keyword",
+    "_yoast_wpseo_focuskw",
+    "_wp_attachment_image_alt",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:18.458Z"
+}

@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_condition_rules'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_condition_rules'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_condition_rules'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_condition_rules'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'payment_condition_rules'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'payment_condition_rules'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'payment_condition_rules'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'payment_condition_rules'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_condition_rules'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_condition_rules'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_condition_rules'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_condition_rules'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'excluded_payment_gateways'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'excluded_payment_gateways'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'excluded_payment_gateways'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'excluded_payment_gateways'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'excluded_shipping_methods'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'excluded_shipping_methods'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'excluded_shipping_methods'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'excluded_shipping_methods'"

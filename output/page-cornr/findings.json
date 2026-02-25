@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pagecornr_version",
+    "pagecornr_ad_url",
+    "pagecornr_ad_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:47.573Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "pws_install_cities",
+    "sabira_set_iran_cities",
+    "pws_notices",
+    "pws_dismiss_notice_*",
+    "pws_dismiss_notice_all",
+    "PW_Options",
+    "nabik_taxonomy_*",
+    "pws_*",
+    "nabik_taxonomy_tapin_*",
+    "pws_tapin_services"
+  ],
+  "transients": [
+    "pws_installing_cities",
+    "pws_update_notices",
+    "pws_states",
+    "pws_cities_*",
+    "pws_tapin_states",
+    "pws_tapin_cities_*",
+    "pws_tapin_shop_*",
+    "pws_tapin_services",
+    "pws_tapin_credit",
+    "pws_admin_updating"
+  ],
+  "cron_jobs": [
+    "pws_check_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pws_map_location",
+    "*_district",
+    "tapin_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:30.209Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "spinupwp_cf_email",
+    "spinupwp_cf_zone_id",
+    "spinupwp_cf_api_key",
+    "spinupwp_cf_api_key_legacy",
+    "spinupwp_cf_auth_type",
+    "spinupwp_cf_purge_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:57.256Z"
+}

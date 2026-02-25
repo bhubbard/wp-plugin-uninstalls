@@ -1,0 +1,21 @@
+{
+  "options": [
+    "xpwp_sdk_active",
+    "xpwp_client_id",
+    "xpwp_version",
+    "axeptio_versions",
+    "axeptio/sdk_proxy_key",
+    "axeptio/need_flush",
+    "axeptio_plugin_activated",
+    "axeptio_settings",
+    "axeptio/version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "axeptio_disable_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:11.430Z"
+}

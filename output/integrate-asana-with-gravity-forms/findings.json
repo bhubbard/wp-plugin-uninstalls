@@ -1,0 +1,38 @@
+{
+  "options": [
+    "iawgf_migrated_slug_to_new",
+    "iawgf_backup_settings",
+    "iawgf_settings_source",
+    "*access_token",
+    "iawgf_fs_access_token",
+    "iawgf_fs_refresh_token",
+    "iawgf_rating_asked",
+    "iawgf_task_creation_count",
+    "*rating_asked",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "oauth_state",
+    "oauth_code_verifier",
+    "update_plugins",
+    "gops_error",
+    "gops_notice",
+    "fs_snooze_period",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "asana_token_refresh",
+    "*/access/revoke",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:34.706Z"
+}

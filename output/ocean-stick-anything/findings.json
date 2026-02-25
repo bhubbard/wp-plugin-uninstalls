@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*-version",
+    "osa_stick_elements",
+    "osa_stick_offset",
+    "osa_unstick",
+    "osa_settings",
+    "osa_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:27.841Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wb_imgspy_history",
+    "wb_imgspy_history_post_id",
+    "wb_imgspy_scan",
+    "wb_imgspider_ver",
+    "wb_imgspider_cnf_*",
+    "*ver"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wb_imgspy_watermark_image",
+    "wb_imgspy_auto_save_image"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wb_watermark",
+    "wb_imgspy_auto_save_image",
+    "_edit_lock",
+    "imgspy_errors",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:16.215Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_order_wompi_Hash",
+    "_wc_order_wompi_cadena",
+    "_wc_order_wompi_StatusHash",
+    "_wc_order_wompi_transactionid",
+    "_wc_order_wompi_authcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:56.952Z"
+}

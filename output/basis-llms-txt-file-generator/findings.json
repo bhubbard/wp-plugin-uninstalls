@@ -1,0 +1,18 @@
+{
+  "options": [
+    "basis_llms_txt_file_generator_options",
+    "basis_llms_txt_file_generator_last_generated"
+  ],
+  "transients": [
+    "basis_llms_txt_file_generator_count_*",
+    "basis_llms_txt_file_generator_terms_*"
+  ],
+  "cron_jobs": [
+    "basis_llms_txt_file_generator_update",
+    "basis_llms_txt_file_generator_immediate_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:09.547Z"
+}

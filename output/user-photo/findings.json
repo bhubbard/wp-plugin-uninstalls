@@ -1,0 +1,27 @@
+{
+  "options": [
+    "userphoto_jpeg_compression",
+    "userphoto_maximum_dimension",
+    "userphoto_thumb_dimension",
+    "userphoto_admin_notified",
+    "userphoto_level_moderated",
+    "userphoto_use_avatar_fallback",
+    "userphoto_override_avatar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "userphoto_error",
+    "userphoto_approvalstatus",
+    "userphoto_image_file",
+    "userphoto_image_width",
+    "userphoto_image_height",
+    "userphoto_thumb_file",
+    "userphoto_thumb_width",
+    "userphoto_thumb_height",
+    "userphoto_rejectionreason"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:24.746Z"
+}

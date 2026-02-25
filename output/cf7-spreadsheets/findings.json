@@ -1,0 +1,19 @@
+{
+  "options": [
+    "CF7spreadsheets_api_file"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "CF7spreadsheets_option_url",
+    "CF7spreadsheets_option_id",
+    "CF7spreadsheets_option_enabled",
+    "CF7spreadsheets_option_mail",
+    "CF7spreadsheets_output_tags",
+    "CF7spreadsheets_output_types",
+    "_form"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:12.474Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "epakaAdminToken",
+    "epakaShippingCourierMapping",
+    "epakaSession",
+    "epakaE",
+    "epakaP",
+    "epaka_plugin_version",
+    "epaka_updated_metadata",
+    "epaka_credits_agree"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:23.780Z"
+}

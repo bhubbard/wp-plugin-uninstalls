@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*-activation-date",
+    "spam-destroyer-stats",
+    "spam-destroyer-key",
+    "spam-destroyer-version",
+    "spam-destroyer-gd-notice-removed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "taxonomy-header-image",
+    "*_id",
+    "_wp_attachment_image_alt",
+    "_custom_header_image_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:14.480Z"
+}

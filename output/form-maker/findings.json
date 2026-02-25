@@ -1,0 +1,36 @@
+{
+  "options": [
+    "contact_form_forms",
+    "wd_form_maker_version",
+    "fm_subscribe_email",
+    "two-front-page-speed",
+    "twb_images_total_size",
+    "twb_speed_score",
+    "tenweb_domain_id",
+    "*_workspace_id",
+    "*_domain_id",
+    "tenweb_access_token",
+    "twb_show_cta",
+    "twb_hompage_optimized",
+    "*_settings",
+    "fm_db_full_privileged",
+    "fm_db_full_privileged_notice",
+    "tenweb_webinar_status",
+    "fm_email_data_user_*",
+    "fm_email_data_*"
+  ],
+  "transients": [
+    "twb_optimized_pages",
+    "tenweb_subscription_id",
+    "fm_update_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "two_page_speed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:37.599Z"
+}

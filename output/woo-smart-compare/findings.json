@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woosc_settings",
+    "woosc_localization",
+    "woosc_list_*",
+    "woosc_hash_*",
+    "woosc_*"
+  ],
+  "transients": [
+    "wpclever_plugins",
+    "woosc_get_product_meta_keys"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woosc_products",
+    "woosc_fields_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:44.141Z"
+}

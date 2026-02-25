@@ -1,0 +1,14 @@
+{
+  "options": [
+    "no_exists_value",
+    "wc_settings_tab_smart_upsell_compare_wcsuc_enabled",
+    "wc_settings_tab_smart_upsell_compare_wcsuc_product",
+    "wc_settings_tab_smart_upsell_compare_wcsuc_product_cp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:56.155Z"
+}

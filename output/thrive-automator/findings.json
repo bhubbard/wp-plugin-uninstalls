@@ -1,0 +1,19 @@
+{
+  "options": [
+    "thrive_automator_activation_redirect",
+    "tap_log_settings",
+    "active_sitewide_plugins",
+    "tpm_bk_connection"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tap_delayed_automations_improved"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tap-*",
+    "thrive_social_urls"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:55.037Z"
+}

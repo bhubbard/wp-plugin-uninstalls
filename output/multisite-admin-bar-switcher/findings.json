@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mabs"
+  ],
+  "transients": [
+    "mabs_activeblog_*",
+    "mabs_bloglist_*",
+    "mabs_is_below_min_*",
+    "mabs_admin_urls",
+    "mabs_bloglist_network",
+    "mabs_site_count_*",
+    "mabs_user_blogs_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "primary_blog",
+    "source_domain"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:35.731Z"
+}

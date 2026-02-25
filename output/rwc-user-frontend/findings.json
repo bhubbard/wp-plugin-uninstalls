@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rwcufr_spare_me",
+    "rwcufr_a08n_time",
+    "rwcufr_generals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rwcufr_author_status",
+    "rwcufr_status_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:48.530Z"
+}

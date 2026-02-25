@@ -1,0 +1,23 @@
+{
+  "options": [
+    "lfh_mapquest_key",
+    "lfh_distance_unit",
+    "lfh_height_unit",
+    "lfh_parent_cache",
+    "lfh_background_sub",
+    "lfh_background",
+    "lfh_cache_parent"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lfh_helper_unactive",
+    "lfh_stroke_color",
+    "lfh_stroke_width",
+    "lfh_download_gpx",
+    "lfh_"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:54.069Z"
+}

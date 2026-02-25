@@ -1,0 +1,44 @@
+{
+  "options": [
+    "eo_notice",
+    "eventorganiser_options",
+    "*_admin_notices",
+    "*_plm_local_key",
+    "*_license",
+    "polylang",
+    "eo-event-category_*",
+    "eventorganiser_admin_notices",
+    "eventorganiser_version",
+    "widget_eo_calendar_widget",
+    "widget_eo_list_widget"
+  ],
+  "transients": [
+    "eo_widget_agenda",
+    "eo_widget_calendar",
+    "eventorganiser_add_ons",
+    "*_check",
+    "*_check_lock",
+    "eo_full_calendar_public",
+    "eo_full_calendar_admin",
+    "eo_full_calendar_public_priv",
+    "eo_is_multi_event_organiser"
+  ],
+  "cron_jobs": [
+    "eventorganiser_delete_expired"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "eofc_time_format",
+    "_menu_item_url",
+    "_menu_item_menu_item_parent",
+    "_eventorganiser_uid",
+    "_eventorganiser_event_schedule",
+    "_eventorganiser_schedule_start_start",
+    "_eventorganiser_schedule_start_finish",
+    "_eventorganiser_schedule_last_start",
+    "_eventorganiser_schedule_last_finish",
+    "_eventorganiser_schedule_until"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:47.789Z"
+}

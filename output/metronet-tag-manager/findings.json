@@ -1,0 +1,14 @@
+{
+  "options": [
+    "metronet_tag_manager"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gtm_vars",
+    "gtm_body_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:35.898Z"
+}

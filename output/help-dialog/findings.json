@@ -1,0 +1,26 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "ephd_one_time_notices",
+    "ephd_ongoing_notices",
+    "classic-editor-replace",
+    "ephd_run_setup",
+    "ephd_version",
+    "ephd_error_log",
+    "ephd_global_config",
+    "ephd_notification_rules_config",
+    "ephd_show_upgrade_message",
+    "ephd_analytics_purge_date"
+  ],
+  "transients": [
+    "_ephd_advanced_search_debug_activated",
+    "_ephd_plugin_activated",
+    "_ephd_delete_all_hd_data",
+    "_ephd_plugin_installed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:36.024Z"
+}

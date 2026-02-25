@@ -1,0 +1,14 @@
+{
+  "options": [
+    "DIS_cache",
+    "woocommerce_shopwedo_service_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shopwedo_service"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:35.671Z"
+}

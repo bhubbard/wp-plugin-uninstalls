@@ -1,0 +1,18 @@
+{
+  "options": [
+    "freshmarketer_project_code",
+    "freshmarketer_token",
+    "freshmarketer_auth_token",
+    "freshmarketer_org_id",
+    "freshmarketer_project_id",
+    "freshmarketer_user",
+    "freshmarketer_user_id",
+    "freshmarketer_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:28.280Z"
+}

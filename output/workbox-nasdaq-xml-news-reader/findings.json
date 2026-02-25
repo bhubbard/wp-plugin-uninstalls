@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wb_xml_news_user_id",
+    "wb_xml_news_items_amount",
+    "wb_xml_news_cache_minutes",
+    "wb_xml_news_last_cache_time",
+    "wb_xml_news_read_all",
+    "wb_xml_news_last_ts"
+  ],
+  "transients": [
+    "wb_news_xml_update_process"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "external_url",
+    "wb_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:33.410Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "ame_cpe_settings",
+    "ame_cpe_restricted_items",
+    "ws_menu_editor",
+    "ws_ame_plugin_visibility",
+    "ws_ame_dashboard_widgets",
+    "ws_ame_hide_pv_notice",
+    "ws_ame_redirects",
+    "ws_ame_rui_first_change"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ame_show_hints",
+    "_ame_cpe_post_policy",
+    "ws_nmh_seen_menus",
+    "ame_rui_first_login_done"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:27.237Z"
+}

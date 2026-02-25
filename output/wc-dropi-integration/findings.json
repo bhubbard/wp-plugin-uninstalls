@@ -1,0 +1,33 @@
+{
+  "options": [
+    "dropi-woocomerce-autosync_orders",
+    "dropi-woocomerce-create_product_if_no_exist",
+    "dropi-woocomerce-deactive_cities_and_departments",
+    "dropi-woocomerce-sync_prods_stock",
+    "dropi-woocomerce-token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_stock_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_dropi_product",
+    "_dropi_token",
+    "_dropi_variation",
+    "_dropi_token_store",
+    "_dropi_product_id",
+    "_is_dropi_order",
+    "_dropi_order_id",
+    "shipping_guide",
+    "_price",
+    "_regular_price",
+    "_sku",
+    "_stock",
+    "_manage_stock",
+    "attribute_*",
+    "_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:37.654Z"
+}

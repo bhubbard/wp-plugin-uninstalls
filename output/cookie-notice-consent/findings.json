@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cookie_notice_consent_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cookie_notice_consent_purger"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "categories",
+    "uuid",
+    "remote_addr",
+    "http_user_agent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:21.088Z"
+}

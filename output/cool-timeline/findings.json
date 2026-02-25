@@ -1,0 +1,53 @@
+{
+  "options": [
+    "ctl-postmeta-migration",
+    "cool-free-timeline-v",
+    "cool-timelne-v",
+    "cool_timeline_options",
+    "cool_timeline_settings",
+    "ctl_settings_migration_status",
+    "timeline_express_migrated",
+    "timeline_express_storage",
+    "csf_demo_mode",
+    "ctl_initial_save_version",
+    "ctl-install-date",
+    "cpfm_opt_in_choice_cool-timeline",
+    "dismiss_ele_addon_notice",
+    "*_remove_notice",
+    "cool-timelne-installDate",
+    "cool-timelne-ratingDiv",
+    "cool-timeline-already-rated",
+    "ctl_flush_rewrite_rules_flag",
+    "cool-timelne-plugin-type",
+    "ctl-upgraded",
+    "cool-timelne-type",
+    "ctl_shortcode_page_ids",
+    "ctl_layout_used"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ctl_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "story_type",
+    "story_media",
+    "story_icon",
+    "announcement_date",
+    "announcement_icon",
+    "announcement_color",
+    "announcement_image_id",
+    "announcement_custom_excerpt",
+    "_ctl_visible",
+    "ctl_story_timestamp",
+    "story_date",
+    "story_color",
+    "_csf_errors_*",
+    "ctl_post_meta",
+    "ctl_story_date",
+    "story_based_on",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:32.905Z"
+}

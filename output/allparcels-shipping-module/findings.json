@@ -1,0 +1,29 @@
+{
+  "options": [
+    "allparcels_api",
+    "allparcels_terminals",
+    "allparcels_kurjeriai",
+    "allparcels_pickup_point",
+    "allparcels_post_office"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "terminalui",
+    "kurjeriui",
+    "express_paslauga",
+    "pristatymas_sestadieni",
+    "dokumentu_grazinimas",
+    "informuoti_pastu",
+    "informuoti_pastug",
+    "informuoti_sms",
+    "informuoti_smsg",
+    "savarankiskas",
+    "skyriui",
+    "taskui",
+    "_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:01.718Z"
+}

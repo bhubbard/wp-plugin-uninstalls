@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tarotxhoroscope_chatbox_settings",
+    "tarotxhoroscope_daily_tarot_settings",
+    "tarotxhoroscope_aries_attachment_id",
+    "tarotxhoroscope_horoscope_settings",
+    "tarotxhoroscope_one_card_settings",
+    "tarotxhoroscope_three_card_settings",
+    "tarotxhoroscope_api_key",
+    "tarotxhoroscope_domain",
+    "tarotxhoroscope_remove_data_on_uninstall"
+  ],
+  "transients": [
+    "tarotxhoroscope_redirect_to_settings"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:07.698Z"
+}

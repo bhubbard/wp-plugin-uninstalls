@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "*_inital_run"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*-link_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:06.371Z"
+}

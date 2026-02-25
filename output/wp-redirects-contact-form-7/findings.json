@@ -1,0 +1,26 @@
+{
+  "options": [
+    "cf7r_tab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "check_id",
+    "succ_page_id",
+    "succ_page_url",
+    "file_url",
+    "file_id",
+    "yspl_cf7r_redirect_needed",
+    "yspl_cf7r_submission_download_needed",
+    "yspl_cf7r_custom_js_needed",
+    "custom_js_cf7",
+    "yspl_cf7r_submission_popup_needed",
+    "popup_mail_sent",
+    "popup_warning_invalid",
+    "popup_failed_mail",
+    "popup_failed_recaptcha"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:33.136Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "firstchoice",
+    "first_choice_token",
+    "modified_after",
+    "firstchoice_log_message_type",
+    "firstchoice_log_message",
+    "products_imported",
+    "firstchoice_sync_count",
+    "firstchoice_sync_countt",
+    "firstchoice_sync_total"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [
+    "sync_products_periodically",
+    "sync_all_products",
+    "firstchoice_sync_products"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_lockupcode",
+    "_msrp",
+    "_cost",
+    "_location",
+    "_product_attributes",
+    "_stock_status",
+    "attribute_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:03.256Z"
+}

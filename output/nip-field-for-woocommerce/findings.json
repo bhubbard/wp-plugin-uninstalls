@@ -1,0 +1,19 @@
+{
+  "options": [
+    "nip_field_wc_settings",
+    "nip_field_wc_gus",
+    "nip_field_wc_messages",
+    "nip_field_wc_banner_dismissed",
+    "nip_field_wc_banner_remind_later",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_nip",
+    "_billing_nip"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:51.248Z"
+}

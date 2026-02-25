@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpmtpages",
+    "wpmt_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "nickname",
+    "display_name",
+    "*address",
+    "*dobdate",
+    "*mobilenumber"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:33.411Z"
+}

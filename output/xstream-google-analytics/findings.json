@@ -1,0 +1,14 @@
+{
+  "options": [
+    "xga_tracking_id",
+    "xga_track_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_xstream_ga"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:42.991Z"
+}

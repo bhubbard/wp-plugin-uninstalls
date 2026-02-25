@@ -1,0 +1,18 @@
+{
+  "options": [
+    "staging_bot_block_options",
+    "staging_bot_block_show_activation_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bb_redirect_enabled",
+    "bb_redirect_choice",
+    "bb_redirect_url",
+    "bb_redirect_type",
+    "bb_redirect_enable_warning_banner"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:15.546Z"
+}

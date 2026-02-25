@@ -1,0 +1,25 @@
+{
+  "options": [
+    "formality_templates",
+    "formality_welcome",
+    "formality_notice",
+    "formality_flush",
+    "formality_token",
+    "formality_version"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "formality_background_download_templates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_formality_type",
+    "id",
+    "_formality_bg_layout",
+    "_formality_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:34.190Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpeft_types",
+    "wpeft_custom_types",
+    "wpeft_no_strict",
+    "wpeft_no_wp",
+    "wpeft_gf_hack"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:50.696Z"
+}

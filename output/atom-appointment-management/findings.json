@@ -1,0 +1,23 @@
+{
+  "options": [
+    "atom_aam_settings",
+    "atom_aam_settings_rulebased",
+    "atom_aam_settings_individual",
+    "atom_aam_settings_email",
+    "atom_aam_version"
+  ],
+  "transients": [
+    "aam_admin_notification_badge",
+    "atom_appointment_transient_minmaxtime"
+  ],
+  "cron_jobs": [
+    "aam_async_appointment_confirmed_tasks",
+    "aam_async_appointment_cancelled_tasks",
+    "aam_daily_cronjob",
+    "aam_async_after_booking_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:25.966Z"
+}

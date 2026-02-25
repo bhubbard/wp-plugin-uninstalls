@@ -1,0 +1,24 @@
+{
+  "options": [
+    "cf7ass_blocked_email_domains",
+    "cf7ass_blocked_email_addresses",
+    "cf7ass_blocked_email_message",
+    "cf7ass_blocked_domain_message",
+    "cf7ass_min_submission_time",
+    "cf7ass_fast_submission_message",
+    "cf7ass_submission_limit",
+    "cf7ass_submission_time_window",
+    "cf7ass_max_submission_message",
+    "cf7ass_too_many_submissions_message",
+    "cf7ass_duplicate_submission_message"
+  ],
+  "transients": [
+    "cf7ass_dep_notice",
+    "cf7ass_submission_count*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:12.624Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "agents24x7_version"
+  ],
+  "transients": [
+    "agents24x7_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:01.151Z"
+}

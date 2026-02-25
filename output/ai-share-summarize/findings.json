@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ayudawp_aiss_version",
+    "ayudawp_aiss_options",
+    "ayudawp_aiss_db_version",
+    "ayudawp_aiss_activation_notice_dismissed",
+    "ayudawp_aiss_vigia_tip_dismissed"
+  ],
+  "transients": [
+    "ayudawp_aiss_just_activated"
+  ],
+  "cron_jobs": [
+    "ayudawp_aiss_daily_purge"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aioseo_noindex"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:58.028Z"
+}

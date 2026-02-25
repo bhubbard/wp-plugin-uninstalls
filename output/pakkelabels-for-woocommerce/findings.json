@@ -1,0 +1,15 @@
+{
+  "options": [
+    "shipmondo_migration_version",
+    "shipmondo_settings",
+    "woocommerce_weight_unit",
+    "Price_*",
+    "Weight_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:07.218Z"
+}

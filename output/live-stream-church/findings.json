@@ -1,0 +1,18 @@
+{
+  "options": [
+    "livestreamchurch_page_live_id",
+    "livestreamchurch-channelid",
+    "livestreamchurch-offlinevideo",
+    "livestreamchurch-logoimage",
+    "livestreamchurch-logoimageprofile",
+    "livestreamchurch-videotitle",
+    "livestreamchurch-descriptiontext",
+    "livestreamchurch-offeringlink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:31.600Z"
+}

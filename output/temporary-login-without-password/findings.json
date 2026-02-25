@@ -1,0 +1,41 @@
+{
+  "options": [
+    "tlwp_settings",
+    "wtlwp_one_click_user_status",
+    "tlwp_close_promotion_notice",
+    "tlwp_mailer_is_promotion_notice_dismissed",
+    "tlwp_mailer_is_tried",
+    "tlwp_db_version",
+    "tlwp_update_tasks_to_process",
+    "tlwp_update_processed_tasks",
+    "temporary_logins_data",
+    "tlwp_plugin_activation_time",
+    "tlwp_plugin_version",
+    "active_sitewide_plugins",
+    "tlwp_do_activation_redirect"
+  ],
+  "transients": [
+    "wtlwp_one_click_user_id",
+    "wtlwp_one_click_user_active",
+    "tlwp_installing",
+    "tlwp_updating"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wtlwp_expire",
+    "_wtlwp_user",
+    "_wtlwp_created",
+    "_wtlwp_max_login_limit",
+    "_wtlwp_token",
+    "_wtlwp_redirect_to",
+    "show_welcome_panel",
+    "locale",
+    "_wtlwp_updated",
+    "_wtlwp_last_login",
+    "_wtlwp_login_count",
+    "*_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:57.490Z"
+}

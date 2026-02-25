@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*-version",
+    "mwm_rrss_actives",
+    "*-actives",
+    "mwm_rrss_posicion",
+    "*-posicion",
+    "mwm_rrss_twitter",
+    "*-twitter",
+    "*-init",
+    "*-appearance",
+    "*-alignment",
+    "mwm-plugins",
+    "mwm-plugin-notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:36.769Z"
+}

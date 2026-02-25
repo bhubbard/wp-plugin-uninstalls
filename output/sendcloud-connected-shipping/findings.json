@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_api_enabled",
+    "woocommerce_weight_unit",
+    "woocommerce_currency",
+    "*_settings",
+    "woocommerce_dimension_unit",
+    "SCCSP_SENDCLOUD_SCHEMA_VERSION"
+  ],
+  "transients": [
+    "service_point_carriers"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "productUpdateHash"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:58.072Z"
+}

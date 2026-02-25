@@ -1,0 +1,31 @@
+{
+  "options": [
+    "totalcontest_nps",
+    "totalcontest_onboarding",
+    "widget_totalcontest_contest",
+    "totalcontest_uninstall_feedback",
+    "totalcontest_options_repository",
+    "*account",
+    "*license_key",
+    "*license_status",
+    "*license_email"
+  ],
+  "transients": [
+    "*_modules_store_response",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "totalcontest/actions/urls/flush"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tc_views",
+    "_tc_votes",
+    "_tc_rate",
+    "_migrated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:50.484Z"
+}

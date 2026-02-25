@@ -1,0 +1,26 @@
+{
+  "options": [
+    "dgv_settings",
+    "dgv_tmp_files",
+    "dgv_last_metadata_sync",
+    "dgv_last_status_sync"
+  ],
+  "transients": [
+    "dgv_settings_backup",
+    "dgv_news",
+    "*_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dgv_response",
+    "dgv_link",
+    "dgv_context",
+    "dgv_last_sync_at",
+    "dgv_source",
+    "dgv_size",
+    "dgv"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:07.592Z"
+}

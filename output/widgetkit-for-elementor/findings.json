@@ -1,0 +1,32 @@
+{
+  "options": [
+    "notice_dissmissed",
+    "widgetkit_save_settings",
+    "widgetkit_save_woo_settings",
+    "widgetkit_save_woo_single_settings",
+    "widgetkit_save_ld_settings",
+    "widgetkit_save_lp_settings",
+    "widgetkit_save_sensei_settings",
+    "widgetkit_save_lifter_settings",
+    "widgetkit_save_tutor_settings",
+    "wkfe_mailchimp_api_key",
+    "wkfe_mailchimp_list_id",
+    "wk_pro_license_key",
+    "active_sitewide_plugins",
+    "wk-td-ads-notice",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "changelog_data"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:51.708Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpcf7_telegram_chats",
+    "wpcf7_telegram_pre_releases",
+    "wpcf7_telegram_tkn",
+    "wpcf7_telegram_last_update_id",
+    "cf7tg_version",
+    "cf7tg_migration_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:07.264Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "danw_first_time_notifcation",
+    "danw_time_notifcation",
+    "danw_day_notification",
+    "danw_duration_notification",
+    "danw_text_notifcation_view",
+    "danw_show_powered_by",
+    "danw_display_notification",
+    "danw_viewed_post",
+    "danw_viewed_page",
+    "danw_text_notifcation_purchase",
+    "danw_viewed_product"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*count_viewed_post",
+    "*time_viewed_post",
+    "*count_viewed_page",
+    "*time_viewed_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:49.006Z"
+}

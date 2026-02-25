@@ -1,0 +1,36 @@
+{
+  "options": [
+    "FREE_PDA_SETTINGS",
+    "whitelist_roles",
+    "remote_log",
+    "pda_license_key",
+    "jal_db_version",
+    "pda_jal_db_version_free",
+    "pda_is_licensed",
+    "pda_options",
+    "FREE_PDA_SETTINGS_IP",
+    "FREE_PDA_SETTINGS_DOWNLOAD",
+    "pda_free_is_rewrite_rules",
+    "updated_htaccess_success",
+    "pda_free_migrated",
+    "wpfolio_pda_anylc_redirect",
+    "wpfolio_pda_anylc_site_uid"
+  ],
+  "transients": [
+    "pda_sidebar_content",
+    "wpfolio_pda_anylc_optin_notice_*",
+    "wpfolio_pda_state_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes",
+    "_wp_attached_file",
+    "_wp_attachment_metadata",
+    "_pda_protection",
+    "pda_subscribed",
+    "pda_free_subscribe"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:13.406Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "smart_portfolio_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smart_portfolio_client_name",
+    "_smart_portfolio_project_date",
+    "_smart_portfolio_project_url",
+    "_smart_portfolio_project_address",
+    "_smart_portfolio_external_url",
+    "_smart_portfolio_open_in_new_tab",
+    "_smart_portfolio_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:25.552Z"
+}

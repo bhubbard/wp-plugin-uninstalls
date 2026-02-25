@@ -1,0 +1,21 @@
+{
+  "options": [
+    "gonowo_options",
+    "gonowo_color_main",
+    "gonowo_color_main_hover",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "gonowo_customer_info",
+    "gonowo_price",
+    "gonowo_attribute",
+    "gonowo_extra",
+    "gonowo_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:56.616Z"
+}

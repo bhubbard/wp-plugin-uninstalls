@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wcbs_whatsapp_number",
+    "wcbs_message",
+    "wcbs_whatsapp_button_class",
+    "wcbs_button_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:07.169Z"
+}

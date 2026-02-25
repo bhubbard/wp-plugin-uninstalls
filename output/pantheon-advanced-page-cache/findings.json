@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pantheon-cache",
+    "pantheon_max_age_updated"
+  ],
+  "transients": [
+    "papc_max_age_compare"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pantheon_max_age_global_warning_notice",
+    "pantheon_max_age_updated_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:28.154Z"
+}

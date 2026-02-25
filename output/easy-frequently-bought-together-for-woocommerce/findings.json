@@ -1,0 +1,22 @@
+{
+  "options": [
+    "efbtw_bundles_save_id",
+    "efbtw_global_settings",
+    "woocommerce_currency_pos",
+    "efbtw_product_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "efbtw_bundle_item_group",
+    "efbtw_primary_discount_type",
+    "efbtw_bundle_primary_item_price",
+    "_efbtw_allow_customization",
+    "_efbtw_hide_outof_stock",
+    "_efbtw_fbtcheckboxstate",
+    "_efbtw_select_bundle_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:44.750Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "deposet_enable",
+    "deposet_category_rules",
+    "deposet_disable_roles",
+    "deposet_checkout_enabled",
+    "deposet_type",
+    "deposet_amount",
+    "deposet_default_selection",
+    "deposet_stock_reduce",
+    "deposet_disabled_gateways",
+    "deposet_force_deposit",
+    "deposet_require_login",
+    "deposet_keep_data_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "deposet_send_payment_reminder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_deposet_inherit",
+    "_deposet_force",
+    "_deposet_enable",
+    "_deposet_type",
+    "_deposet_amount"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:09.262Z"
+}

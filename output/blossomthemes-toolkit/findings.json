@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bttk_queue_flush_rewrite_rules",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "category-image-id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:56.725Z"
+}

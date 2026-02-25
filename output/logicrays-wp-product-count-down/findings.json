@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lr_count_down_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "coupon_amount",
+    "expiry_date",
+    "free_shipping",
+    "_lr_checkbox",
+    "_lr_sale_price_from",
+    "_lr_sale_price_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:03.093Z"
+}

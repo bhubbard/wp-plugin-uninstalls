@@ -1,0 +1,18 @@
+{
+  "options": [
+    "tka_lsc_title",
+    "tka_lsc_format",
+    "tka_lsc_fuseau",
+    "tka_lsc_hidesecond",
+    "tka_lsc_font",
+    "tka_lsc_font_size",
+    "tka_lsc_font_color",
+    "tka_lsc_font_weight"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:48.637Z"
+}

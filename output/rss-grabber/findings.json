@@ -1,0 +1,18 @@
+{
+  "options": [
+    "rss_grab_author",
+    "rss_grab_name",
+    "rss_grab_url",
+    "rss_grab_video"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rss_graber_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:24.718Z"
+}

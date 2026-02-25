@@ -1,0 +1,19 @@
+{
+  "options": [
+    "storeui_license_key",
+    "storeui_wc_api_keys",
+    "storeui_app_password",
+    "storeui_debug_mode",
+    "storeui_license_active"
+  ],
+  "transients": [
+    "storeui_messages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_application_passwords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:06.170Z"
+}

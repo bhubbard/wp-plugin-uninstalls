@@ -1,0 +1,16 @@
+{
+  "options": [
+    "weblizar_wnlsp_options",
+    "weblizar_nls_options",
+    "weblizar_nls_mailchimp_key",
+    "weblizar_nls_madmimi_list",
+    "nls_nht_plugin_do_activation_redirect",
+    "weblizar_nls_mailchimp_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:51.200Z"
+}

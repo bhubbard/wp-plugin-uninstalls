@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_math_captcha",
+    "*_image_captcha",
+    "*_google_captcha",
+    "*_google_captcha_v3",
+    "*_general_config_captcha"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:04.143Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "heartbeat_control_settings",
+    "imagify_settings",
+    "heartbeat_control_version",
+    "heartbeat_location",
+    "heartbeat_frequency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:32.344Z"
+}

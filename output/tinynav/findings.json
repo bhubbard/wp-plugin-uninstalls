@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tn_menu_marginleft",
+    "tn_menu_marginright",
+    "tn_menu_margintop",
+    "tn_menu_marginbottom",
+    "tn_menu_customclass",
+    "tn_menu_customwidth",
+    "tn_menu_customwidth2",
+    "tn_tinynav_viewport",
+    "tn_tinynav_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:34.368Z"
+}

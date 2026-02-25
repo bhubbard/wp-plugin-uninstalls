@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_landing_pages_enabled",
+    "*_activation_redirect",
+    "*_activation_date",
+    "*_dismiss_review_notice",
+    "mailmunch_activation_redirect",
+    "*user_token",
+    "*user_email",
+    "*user_password",
+    "*data",
+    "*guest_user",
+    "*wordpress_instance_id",
+    "*site_id",
+    "*list_id",
+    "*class-mailmunchaccess_token",
+    "*class-mailmunchlist_id",
+    "*_auto_embed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:25.508Z"
+}

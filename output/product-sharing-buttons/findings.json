@@ -1,0 +1,15 @@
+{
+  "options": [
+    "psb_display_product_share_button",
+    "psb_buttons_visible_position",
+    "psb_button_design",
+    "blank_tab_enable",
+    "psb_social_buttons"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:07.685Z"
+}

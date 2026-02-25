@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_schema_review_type",
+    "_schema_ref",
+    "_schema_review_rating_scale",
+    "_schema_review_rating",
+    "_schema_review_name",
+    "_schema_review_exclude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:46.505Z"
+}

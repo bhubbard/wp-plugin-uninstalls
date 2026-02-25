@@ -1,0 +1,25 @@
+{
+  "options": [
+    "brutef_whitelisted_ips",
+    "brutef_setup_wizard_completed",
+    "brutef_rate_limit_settings",
+    "brutef_geo_settings",
+    "brutef_login_url_settings"
+  ],
+  "transients": [
+    "brutefort_activation_redirect",
+    "brutef_free_activated"
+  ],
+  "cron_jobs": [
+    "brutef_cleanup_logs",
+    "brutef_license_check",
+    "brutef_update_check",
+    "brutefort_cleanup_logs",
+    "brutefort_license_check",
+    "brutefort_update_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:00.997Z"
+}

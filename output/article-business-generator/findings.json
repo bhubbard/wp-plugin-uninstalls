@@ -1,0 +1,22 @@
+{
+  "options": [
+    "artbusgen_lite_groq_api_key",
+    "artbusgen_lite_groq_model_name",
+    "artbusgen_lite_article_topic",
+    "artbusgen_lite_system_prompt",
+    "artbusgen_lite_category",
+    "artbusgen_lite_post_status",
+    "artbusgen_lite_frequency",
+    "artbusgen_lite_authoritative_site_1"
+  ],
+  "transients": [
+    "artbusgen_lite_is_generating"
+  ],
+  "cron_jobs": [
+    "artbusgen_lite_generate_article_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:17.588Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "persondoc_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "billing_first_name",
+    "last_name",
+    "billing_last_name",
+    "billing_phone",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_postcode",
+    "billing_city",
+    "billing_country",
+    "billing_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:56.799Z"
+}

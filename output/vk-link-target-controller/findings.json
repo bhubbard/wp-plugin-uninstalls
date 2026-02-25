@@ -1,0 +1,14 @@
+{
+  "options": [
+    "custom-post-types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vk-ltc-link",
+    "vk-ltc-target"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:17.595Z"
+}

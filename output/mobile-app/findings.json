@@ -1,0 +1,26 @@
+{
+  "options": [
+    "canvas_editor_css",
+    "canvas-generated-existing-login-html-template-complete",
+    "canvas-generated-existing-registration-html-template-complete",
+    "canvas-generated-existing-css-template-complete",
+    "canvas-*",
+    "theme_mods_*",
+    "woocommerce_custom_orders_table_enabled",
+    "ml_pnt-push_tags_status"
+  ],
+  "transients": [
+    "__canvas_activation_redirect",
+    "canvas_push_api_down"
+  ],
+  "cron_jobs": [
+    "canvas_send_delayed_push_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "default_title",
+    "_order_tag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:19.515Z"
+}

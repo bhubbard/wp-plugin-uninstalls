@@ -1,0 +1,14 @@
+{
+  "options": [
+    "simpankira",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "simpankira_woocommerce_push_transaction"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:34.642Z"
+}

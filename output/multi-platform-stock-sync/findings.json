@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mpss_cron_last_call",
+    "mpss_cronjob_settings",
+    "mpss_platforms",
+    "mpss_log_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mpss_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:49.656Z"
+}

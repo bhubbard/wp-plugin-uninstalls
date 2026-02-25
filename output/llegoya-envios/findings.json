@@ -1,0 +1,16 @@
+{
+  "options": [
+    "llegoya_envios_settings"
+  ],
+  "transients": [
+    "ly_deposito_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_llegoya_modo",
+    "_llegoya_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:25.532Z"
+}

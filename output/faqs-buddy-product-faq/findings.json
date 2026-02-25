@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wfby_plugin_is_activated",
+    "wfby_main_menu_name_wg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wfby_faqs_groups",
+    "_wfby_add_faqs_product_des"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:40.815Z"
+}

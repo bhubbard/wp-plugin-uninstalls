@@ -1,0 +1,55 @@
+{
+  "options": [
+    "awpa_seed_insert",
+    "awpa_setting_options",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "awpa_upgrade_notice_start_time",
+    "awpa_pro_rating_settings",
+    "awpa_integrations_setting_options",
+    "aft_wpa_social_login_integrations_setting_options",
+    "aft_wpa_mail_settings",
+    "awpa_author_metabox_integration"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice_dismiss",
+    "*_notice_dismiss_temporary",
+    "awpa_upgrade_notice_dismiss_temporary_start_time",
+    "awpa_upgrade_notice_dismiss",
+    "first_name",
+    "last_name",
+    "description",
+    "advance_input",
+    "profile_image",
+    "wpma_linked_guest",
+    "awpa_contact_*",
+    "*_rating_reviewed_user",
+    "*_rating_review",
+    "awpa_top_rated_posts_*",
+    "nickname",
+    "wpma_author",
+    "awpa_pro_post_5_star_rating_review",
+    "wpma_mainauthor",
+    "wpma_coauthors",
+    "awpa_rating_review_enable",
+    "awpa_post_rating_title",
+    "awpa_post_global_type",
+    "awpa_post_rating_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:36.752Z"
+}

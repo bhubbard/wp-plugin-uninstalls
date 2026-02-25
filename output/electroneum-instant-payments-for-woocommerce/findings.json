@@ -1,0 +1,14 @@
+{
+  "options": [
+    "payment_post_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "etn_ips_payment_id",
+    "etn_ips_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:01.380Z"
+}

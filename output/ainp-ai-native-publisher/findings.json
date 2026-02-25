@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ainp_settings"
+  ],
+  "transients": [
+    "ainp_fallback_cron_check",
+    "ainp_manual_context"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ainp_hide_welcome_panel",
+    "_ainp_guid",
+    "_ainp_original_link",
+    "_ainp_source_url",
+    "_ainp_source_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:17.926Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "phoenix_folding_stats"
+  ],
+  "transients": [
+    "phoenix_folding_stats"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:25.452Z"
+}

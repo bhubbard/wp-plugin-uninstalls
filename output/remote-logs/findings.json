@@ -1,0 +1,13 @@
+{
+  "options": [
+    "remote_logs_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "remote_logs_cleanup_expired_tokens"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:24.211Z"
+}

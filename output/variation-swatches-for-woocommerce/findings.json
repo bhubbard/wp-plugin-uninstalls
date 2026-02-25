@@ -1,0 +1,33 @@
+{
+  "options": [
+    "tawcvs_restore_attributes_time",
+    "tawcvs_backup_attributes_time",
+    "aovup_dismissed_swatch",
+    "woosuite_variation_swatches_option",
+    "woocommerce_hide_out_of_stock_items",
+    "wcvs_current_version",
+    "wcvs_welcome_page_shown_v_*"
+  ],
+  "transients": [
+    "tawcvs_attribute_taxonomies",
+    "wc_attribute_taxonomies",
+    "*_0",
+    "*_1",
+    "woosuite-all-plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "variation_swatches_disabled",
+    "dismissed_black_friday_banner",
+    "_wp_attachment_image_alt",
+    "color",
+    "image",
+    "label",
+    "show-tooltip",
+    "tooltip-text",
+    "tooltip-image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:45.720Z"
+}

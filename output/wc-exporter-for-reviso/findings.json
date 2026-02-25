@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wcefr-customers-role",
+    "wcefr_company_invoice",
+    "wcefr_private_invoice",
+    "wcefr_private",
+    "wcefr_cf_mandatory",
+    "wcefr_fields_check",
+    "billing_wcefr_pec_active",
+    "billing_wcefr_pa_code_active",
+    "billing_wcefr_piva_active",
+    "billing_wcefr_cf_active",
+    "wcefr-suppliers-role",
+    "wcefr-agt",
+    "wcefr_only_italy",
+    "wcefr_cf_only_italy",
+    "*_active",
+    "wcefr-number-series-prefix",
+    "*-group",
+    "*-role"
+  ],
+  "transients": [
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:21.582Z"
+}

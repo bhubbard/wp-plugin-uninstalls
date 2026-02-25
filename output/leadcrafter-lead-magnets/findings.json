@@ -1,0 +1,13 @@
+{
+  "options": [
+    "leadcrafter_api_secret",
+    "leadcrafter_form_id",
+    "leadcrafter_fallback_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:37.479Z"
+}

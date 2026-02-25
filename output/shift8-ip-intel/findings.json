@@ -1,0 +1,20 @@
+{
+  "options": [
+    "shift8_ipintel_encryptionkey",
+    "shift8_ipintel_action",
+    "shift8_ipintel_action301",
+    "shift8_ipintel_email",
+    "shift8_ipintel_timeout",
+    "shift8_ipintel_actionthreshold",
+    "shift8_ipintel_subdomain",
+    "shift8_ipintel_safemode",
+    "shift_ipintel_action",
+    "shift8_ipintel_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:01.454Z"
+}

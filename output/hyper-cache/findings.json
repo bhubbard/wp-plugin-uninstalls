@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hyper-cache"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hyper_cache_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:50.851Z"
+}

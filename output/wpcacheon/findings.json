@@ -1,0 +1,15 @@
+{
+  "options": [
+    "autoptimize_html"
+  ],
+  "transients": [
+    "cache_size"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_clear_post_cache_on_update"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:43.940Z"
+}

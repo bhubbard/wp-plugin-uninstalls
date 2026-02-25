@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hi_express_settings",
+    "hi_express_webhook_registered"
+  ],
+  "transients": [
+    "hi_express_govs_simple_v2",
+    "hi_express_govs_v5",
+    "hi_express_order_statuses_v2",
+    "hi_express_bulk_errors_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:54.406Z"
+}

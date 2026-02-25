@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aucp_settings"
+  ],
+  "transients": [
+    "aucp-exchange-rates"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_aucp_api_key_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:37.850Z"
+}

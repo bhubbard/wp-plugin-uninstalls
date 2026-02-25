@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tiny_2fa_version",
+    "tiny_2fa_encryption_key",
+    "tiny_2fa_brute_force_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tiny_2fa_secret_key",
+    "tiny_2fa_enabled",
+    "tiny_2fa_email_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:49.847Z"
+}

@@ -1,0 +1,47 @@
+{
+  "options": [
+    "bkrntl_options",
+    "*_plugin_db_version",
+    "default_*",
+    "*_options",
+    "bkng_attributes",
+    "bstwbsftwppdtplgns_options",
+    "sldr_options",
+    "recently_activated",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [
+    "bws_bkng_clear_cart"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_amenity-icon-id",
+    "bkng_rental_interval",
+    "bkng_exclude_from_search",
+    "bws_bkng_products_images",
+    "bkng_*",
+    "bkng_term_address",
+    "bkng_sku",
+    "bkng_in_stock",
+    "bkng_price_on_request",
+    "bkng_product_for",
+    "_thumbnail_id",
+    "bkng_product_status",
+    "bkng_quantity_available",
+    "user_phone",
+    "bkng_user_avatar",
+    "bkng_agency_working_hours",
+    "bkng_agency_phone",
+    "bkng_term_longitude",
+    "bkng_term_latitude",
+    "*_featured_image",
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:14.049Z"
+}

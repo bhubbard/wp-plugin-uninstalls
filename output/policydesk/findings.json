@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pdesk_settings",
+    "pdesk_manual_cookies",
+    "pdesk_scanned_cookies"
+  ],
+  "transients": [
+    "pdesk_consent_stats",
+    "pdesk_cookie_scan_results"
+  ],
+  "cron_jobs": [
+    "pdesk_cleanup_usage_limits"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:30.540Z"
+}

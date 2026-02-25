@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_default_catalog_orderby",
+    "woo_heat_orderby"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_heat",
+    "woo_heat_scoville"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:06.568Z"
+}

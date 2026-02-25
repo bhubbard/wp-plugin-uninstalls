@@ -1,0 +1,33 @@
+{
+  "options": [
+    "hmls_form_temp_settings",
+    "wpsd_key_settings",
+    "wpsd_recaptcha_Settings",
+    "wpsd_receipt_email_settings",
+    "wpsd_receipt_email_temp_settings",
+    "wpsd_temp_settings",
+    "wpsd_form_style_settings",
+    "wpsd_fundraising_settings",
+    "wpsd_fundraising_style_settings",
+    "wpsd_general_settings",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:24.873Z"
+}

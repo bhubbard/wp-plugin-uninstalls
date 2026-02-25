@@ -1,0 +1,23 @@
+{
+  "options": [
+    "scb_button_status",
+    "scb_whatsapp_number",
+    "scb_whatsapp_chat_text",
+    "scb_button_text",
+    "scb_button_target",
+    "scb_button_position",
+    "scb_button_z_index",
+    "scb_desktop_link_type",
+    "scb_desktop_bottom_margin",
+    "scb_tablet_bottom_margin",
+    "scb_mobile_bottom_margin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_scb_button_hide_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:27.107Z"
+}

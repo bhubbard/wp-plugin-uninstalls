@@ -1,0 +1,15 @@
+{
+  "options": [
+    "nwsfilter_settings",
+    "nwsfilter_categories_auto_expand",
+    "nwsfilter_categories_before_filter",
+    "nwsfilter_collapsed_default",
+    "nwsfilter_hide_selected_filters"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:28.453Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hgc_db_version",
+    "gravatar_disable_hovercards",
+    "widget_authors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:32.899Z"
+}

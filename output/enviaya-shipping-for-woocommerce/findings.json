@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency",
+    "woocommerce_version",
+    "woocommerce_enviaya_settings",
+    "wc_enviaya_shipping_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_check_origin_direction"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_length",
+    "_width",
+    "_height",
+    "_weight"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:58.207Z"
+}

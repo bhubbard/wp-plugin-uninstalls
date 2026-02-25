@@ -1,0 +1,28 @@
+{
+  "options": [
+    "smartdocs_hero_title",
+    "smartdocs_hero_description",
+    "smartdocs_use_built_in_doc_archive",
+    "smartdocs_custom_doc_page",
+    "smartdocs_archive_page_slug",
+    "smartdocs_category_slug",
+    "smartdocs_enable_single_template",
+    "smartdocs_enable_taxonomy_template",
+    "smartdocs_support_page_url",
+    "smartdocs_search_post_types",
+    "smartdocs_rewrite_rules_flushed",
+    "smartdocs_installed_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smartdocs_upvotes",
+    "_smartdocs_downvotes",
+    "taxonomy_thumbnail_id",
+    "thumbnail_id",
+    "order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:36.002Z"
+}

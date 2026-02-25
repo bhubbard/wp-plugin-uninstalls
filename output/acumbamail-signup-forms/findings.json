@@ -1,0 +1,18 @@
+{
+  "options": [
+    "acumbamail_options",
+    "custom_user_logged_in",
+    "acumba_widget_fields",
+    "acumba_chosen_list",
+    "acumba_ordered_fields",
+    "theme_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acumba_subscribe"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:58.792Z"
+}

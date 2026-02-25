@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tfwc_settings_tab_timologia_comp_move",
+    "tfwc_settings_tab_timologia_tim_move"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_timologio",
+    "_billing_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:17.851Z"
+}

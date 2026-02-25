@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sb2t_color",
+    "sb2t_pointer",
+    "sb2t_location",
+    "sb2t_size",
+    "sb2t_shape",
+    "sb2t_arrowcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:53.546Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "mapy_cz_api_key",
+    "wpify_logs_max_files",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ecomail_subscribe"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:15.460Z"
+}

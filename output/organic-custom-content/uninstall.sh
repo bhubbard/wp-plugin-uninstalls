@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'tour_date_info_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'tour_date_info_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'tour_date_info_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'tour_date_info_time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'tour_date_info_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'tour_date_info_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'tour_date_info_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'tour_date_info_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'tour_date_info_location_city_state_province_country_etc_'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'tour_date_info_location_city_state_province_country_etc_'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'tour_date_info_location_city_state_province_country_etc_'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'tour_date_info_location_city_state_province_country_etc_'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'tour_date_info_venue'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'tour_date_info_venue'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'tour_date_info_venue'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'tour_date_info_venue'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'tour_date_info_venue_ticketing_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'tour_date_info_venue_ticketing_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'tour_date_info_venue_ticketing_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'tour_date_info_venue_ticketing_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'tour_date_info_timestamp'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'tour_date_info_timestamp'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'tour_date_info_timestamp'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'tour_date_info_timestamp'"

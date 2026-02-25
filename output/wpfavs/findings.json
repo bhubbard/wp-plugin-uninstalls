@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*wpfav_apikey",
+    "*wpfav_quickkey",
+    "*wpfav_wpuser",
+    "recently_activated"
+  ],
+  "transients": [
+    "wpfav_install",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_wpfav_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:02.066Z"
+}

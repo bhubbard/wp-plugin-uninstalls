@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'cnpl_last_active_panel'
+wp option delete 'cnpl_text_panel_opened'
+wp option delete 'cnpl_position'
+wp option delete 'cnpl_content_text'
+wp option delete 'cnpl_content_link_regulation_br'
+wp option delete 'cnpl_content_link_regulation_text'
+wp option delete 'cnpl_content_link_regulation_url'
+wp option delete 'cnpl_content_link_howto_br'
+wp option delete 'cnpl_content_link_howto_text'
+wp option delete 'cnpl_content_link_howto_url'
+wp option delete 'cnpl_content_button_text'
+wp option delete 'cnpl_theme_css_box_inner'
+wp option delete 'cnpl_theme_css_box_outer'
+wp option delete 'cnpl_theme_css_button'
+wp option delete 'cnpl_theme_css_links'
+wp option delete 'cnpl_theme_css_text'
+wp option delete 'cnpl_settings_time'
+wp option delete 'cnpl_on_off'
+wp option delete 'cnpl_remember_border'
+wp option delete 'cnpl_remember_corners'
+wp option delete 'cnpl_remember_button'
+wp option delete 'cnpl_html'
+wp option delete 'cnpl_js'
+wp option delete 'cnpl_css'
+wp option delete 'my_plugin_do_activation_redirect'
+wp option delete 'cnpl_form_hash'
+

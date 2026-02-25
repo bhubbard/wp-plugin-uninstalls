@@ -1,0 +1,25 @@
+{
+  "options": [
+    "spiffy_calendar_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_spiffy_event_recur_multiplier",
+    "_spiffy_event_recur",
+    "_spiffy_event_hide_events",
+    "color",
+    "_spiffy_event_begin",
+    "_spiffy_event_end",
+    "_spiffy_event_time",
+    "_spiffy_event_end_time",
+    "_spiffy_event_location",
+    "_spiffy_event_link_location",
+    "_spiffy_event_link",
+    "_spiffy_event_repeats",
+    "_spiffy_event_show_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:41.687Z"
+}

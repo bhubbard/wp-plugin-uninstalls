@@ -1,0 +1,14 @@
+{
+  "options": [
+    "no_of_days_since_first_post",
+    "total_no_of_words_in_blog",
+    "total_no_posts_since_start",
+    "avg_words_published_per_day"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:15.823Z"
+}

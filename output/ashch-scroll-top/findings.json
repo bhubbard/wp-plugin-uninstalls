@@ -1,0 +1,20 @@
+{
+  "options": [
+    "scrltop_enable_button",
+    "scrltop_button_color",
+    "scrltop_arrow_color",
+    "scrltop_arrow",
+    "scrltop_form_button",
+    "scrltop_start_scrolling",
+    "scrltop_position_button",
+    "scrltop_position_button_left",
+    "scrltop_position_button_right",
+    "scrltop_position_button_bottom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:28.144Z"
+}

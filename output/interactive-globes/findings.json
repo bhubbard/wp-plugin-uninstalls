@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ittglobe_version",
+    "ittglobes",
+    "csf_demo_mode",
+    "fs_active_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "globe_id",
+    "globe_info",
+    "points_info",
+    "dotLabels_info",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:03.255Z"
+}

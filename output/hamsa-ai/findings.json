@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hamsa_api_key"
+  ],
+  "transients": [
+    "hamsa_ai_notifications"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:27.165Z"
+}

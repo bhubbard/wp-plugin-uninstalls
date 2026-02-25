@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sectionize_id_prefix",
+    "sectionize_start_section",
+    "sectionize_end_section",
+    "sectionize_include_toc_threshold",
+    "sectionize_before_toc",
+    "sectionize_after_toc",
+    "sectionize_disabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:49.569Z"
+}

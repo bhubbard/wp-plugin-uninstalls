@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_innovext_allpay_aio_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "allpay_aio_auto_update_order"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_RtnCode",
+    "_PaymentType",
+    "_MerchantTradeNo",
+    "_ExpireDate",
+    "_PayUse",
+    "_allpay_payment_method",
+    "_payment_bank_code",
+    "_payment_bank_vaccount",
+    "_allpay_cvs_payment_no",
+    "_transaction_id",
+    "_payment_method_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:03.984Z"
+}

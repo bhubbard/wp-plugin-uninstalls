@@ -1,0 +1,33 @@
+{
+  "options": [
+    "yuko_plugin_options",
+    "yuko_carousel_html_timestamp",
+    "yuko_previous_version",
+    "active_sitewide_plugins",
+    "yuko_general_settings",
+    "yuko_settings_data",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "yuko_current_version",
+    "yuko_all_reviews_view_content",
+    "yuko_carousel_html",
+    "yuko_floating_product_view_content"
+  ],
+  "transients": [
+    "yuko_plugin_options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yuko_average_rating",
+    "yuko_review_count",
+    "yuko_questions_count",
+    "yuko_local_updated_at",
+    "yuko_product_last_updated_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:12.103Z"
+}

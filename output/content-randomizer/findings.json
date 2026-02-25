@@ -1,0 +1,16 @@
+{
+  "options": [
+    "elm_randomizer_permalinks",
+    "elm_randomizer",
+    "elm_randomizer_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_date_from",
+    "_date_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:15.340Z"
+}

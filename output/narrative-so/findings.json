@@ -1,0 +1,18 @@
+{
+  "options": [
+    "narrative_last_request"
+  ],
+  "transients": [
+    "narratibe_update_secret"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "narrative_post_script",
+    "_narrative_meta_title",
+    "_narrative_meta_description",
+    "_narrative_meta_keywords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:40.534Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "arc_publication_id",
+    "arc_api_key",
+    "redirect_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:17.877Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dbse_migrated_storage",
+    "dbse_options",
+    "db_excel_sync_delete_data",
+    "db_excel_sync_options"
+  ],
+  "transients": [
+    "db_excel_sync_preview_data"
+  ],
+  "cron_jobs": [
+    "dbse_cleanup_backups_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:28.136Z"
+}

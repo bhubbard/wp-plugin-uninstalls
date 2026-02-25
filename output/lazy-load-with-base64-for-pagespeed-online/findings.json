@@ -1,0 +1,26 @@
+{
+  "options": [
+    "base64_data_checkbox",
+    "base64_include_image_checkbox",
+    "base64_include_image_content",
+    "base64_include_og_url_for_image_checkbox",
+    "base64_include_og_url_for_image_content",
+    "base64_set_max_file_size_content",
+    "base64_set_max_file_size_checkbox",
+    "base64_do_not_include_admin_checkbox",
+    "lazy_load_data_checkbox",
+    "lazy_load_exclude_image_checkbox",
+    "lazy_load_exclude_image_content",
+    "lazy_load_do_not_include_admin_checkbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "base64_include_image_content",
+    "base64_include_og_url_for_image_content",
+    "lazy_load_exclude_image_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:36.349Z"
+}

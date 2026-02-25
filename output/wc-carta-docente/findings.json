@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wccd-sandbox",
+    "wccd-cert-activation",
+    "wccd-password",
+    "wccd-categories",
+    "wccd-image",
+    "wccd-coupon",
+    "wccd-orders-on-hold",
+    "wccd-exclude-shipping",
+    "wccd-items-check",
+    "wccd-email-order-received",
+    "wccd-email-order-failed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:25.133Z"
+}

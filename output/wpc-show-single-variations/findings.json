@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woosv_enable",
+    "woosv_hide_parent",
+    "woosv_hide_parent_exclude",
+    "woosv_settings",
+    "woosv_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woosv_enable",
+    "woosv_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:34.359Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fs_cb_height', 'fs_position', 'fs_active_fs_hit_column', 'fs_skip_single', 'fs_single_posts', 'fs_single_pages', 'fs_home', 'fs_search', 'fs_archive', 'fs_active_align', 'fs_design', 'fs_active_counter', 'fs_active_flatmix', 'fs_active_big', 'fs_intro_height', 'fs_intro_text', 'fs_facebook_share', 'fs_twitter_share', 'fs_flattr_share', 'fs_digg_share', 'fs_delicious_share', 'fs_gplus_share', 'fs_xing_share', 'fs_linkedin_share', 'fs_pinterest_share', 'fs_stumbleupon_share', 'fs_tumblr_share', 'fs_whatsapp_share', 'fs_pocket_share', 'fs_feedly_share', 'fs_active_sharebar', 'fs_active_post_stats', 'fs_active_privacy', 'fs_deactivate_supportlink', 'fs_privacy_text', 'fs_privacy_link_intro', 'fs_twitter_text', 'fs_flattr_id', 'altimg', 'fs_categories', 'fs_altimg');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('fs_post_views_count', '_yoast_wpseo_title', '_yoast_wpseo_metadesc');
+DELETE FROM wp_usermeta WHERE meta_key IN ('fs_post_views_count', '_yoast_wpseo_title', '_yoast_wpseo_metadesc');
+DELETE FROM wp_termmeta WHERE meta_key IN ('fs_post_views_count', '_yoast_wpseo_title', '_yoast_wpseo_metadesc');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('fs_post_views_count', '_yoast_wpseo_title', '_yoast_wpseo_metadesc');
+

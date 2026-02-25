@@ -1,0 +1,26 @@
+{
+  "options": [
+    "sp-location-id",
+    "sp-primary-background-color",
+    "sp-secondary-background-color",
+    "sp-tertiary-background-color",
+    "sp-font-family",
+    "sp-base-font-size",
+    "sp-item-casing",
+    "sp-primary-font-color",
+    "sp-secondary-font-color",
+    "sp-tertiary-font-color",
+    "sp-display-announcements",
+    "sp-display-photos",
+    "sp-display-currency-symbol",
+    "sp-display-price",
+    "sp-display-disclaimer",
+    "sp-attribution-image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:24.707Z"
+}

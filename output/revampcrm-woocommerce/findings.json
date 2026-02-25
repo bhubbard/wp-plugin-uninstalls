@@ -1,0 +1,36 @@
+{
+  "options": [
+    "revampcrm_woocommerce_version",
+    "revampcrm-woocommerce-resource-last-updated",
+    "revampcrm-woocommerce",
+    "revampcrm-woocommerce-store_id",
+    "revampcrm-woocommerce-sync.started_at",
+    "revampcrm-woocommerce-sync.completed_at",
+    "revampcrm_woocommerce_plugin_do_activation_redirect",
+    "revampcrm-woocommerce-sync.products.completed_at",
+    "revampcrm-woocommerce-sync.products.current_page",
+    "revampcrm-woocommerce-sync.orders.prevent",
+    "revampcrm-woocommerce-sync.orders.completed_at",
+    "revampcrm-woocommerce-sync.orders.current_page",
+    "revampcrm-woocommerce-sync.syncing",
+    "revampcrm-woocommerce-errors.store_info",
+    "revampcrm-woocommerce-validation.api.ping",
+    "revampcrm-woocommerce-cached-api-lists",
+    "revampcrm-woocommerce-cached-api-ping-check",
+    "revampcrm_woocommerce_db_revampcrm_carts",
+    "revampcrm-woocommerce-*"
+  ],
+  "transients": [
+    "http_worker_lock"
+  ],
+  "cron_jobs": [
+    "revampcrm_sync_task_hook",
+    "http_worker_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "revampcrm_woocommerce_is_subscribed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:32.512Z"
+}

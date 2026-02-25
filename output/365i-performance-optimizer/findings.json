@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wppo_settings",
+    "i365_po_settings",
+    "i365_po_settings_backups",
+    "i365_po_profiles",
+    "i365_po_db_version"
+  ],
+  "transients": [
+    "i365_po_local_fonts_cache"
+  ],
+  "cron_jobs": [
+    "i365_po_scheduled_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:02.428Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc_remove-checkout-fields_billing_fname', 'wc_remove-checkout-fields_billing_lname', 'wc_remove-checkout-fields_billing_phone', 'wc_remove-checkout-fields_billing_company', 'wc_remove-checkout-fields_billing_country', 'wc_remove-checkout-fields_billing_address2', 'wc_remove-checkout-fields_billing_address', 'wc_remove-checkout-fields_billing_city', 'wc_remove-checkout-fields_billing_state', 'wc_remove-checkout-fields_billing_postcode', 'wc_remove-checkout-fields_Shipping_fname', 'wc_remove-checkout-fields_Shipping_lname', 'wc_remove-checkout-fields_Shipping_phone', 'wc_remove-checkout-fields_Shipping_company', 'wc_remove-checkout-fields_Shipping_country', 'wc_remove-checkout-fields_Shipping_address2', 'wc_remove-checkout-fields_Shipping_address', 'wc_remove-checkout-fields_Shipping_city', 'wc_remove-checkout-fields_Shipping_state', 'wc_remove-checkout-fields_Shipping_postcode', 'wc_remove-checkout-fields_order_notes');
+

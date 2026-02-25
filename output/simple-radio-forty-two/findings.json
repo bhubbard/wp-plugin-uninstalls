@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sr42_podcast_url",
+    "sr42_round_url",
+    "sr42_radio_title",
+    "sr42_background_url",
+    "sr42_play_url",
+    "sr42_pause_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:56.995Z"
+}

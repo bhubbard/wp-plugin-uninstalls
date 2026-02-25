@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wp_event_calendar_cron_hook",
+    "wp_event_calendar_update_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wp_event_calendar_date_time",
+    "wp_event_calendar_all_day",
+    "wp_event_calendar_end_date_time",
+    "wp_event_calendar_location",
+    "wp_event_calendar_repeat",
+    "_wp_trash_meta_status",
+    "wp_event_calendar_expire"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:41.841Z"
+}

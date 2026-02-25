@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_number",
+    "_billing_neighborhood",
+    "appmax_order_id",
+    "appmax_tracking_code",
+    "appmax_pay_reference",
+    "appmax_link_billet",
+    "appmax_digitable_line",
+    "appmax_upsell_parent_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:57.503Z"
+}

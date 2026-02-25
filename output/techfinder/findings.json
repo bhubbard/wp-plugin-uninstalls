@@ -1,0 +1,25 @@
+{
+  "options": [
+    "techfinder_options"
+  ],
+  "transients": [
+    "techfinder_update_brands_cron_running",
+    "techfinder_process_products_cron_running",
+    "techfinder_regenerate_products_cron_running",
+    "techfinder_regenerate_without_image_products_cron_running",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "techfinder_process_products_cron",
+    "techfinder_update_brands_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "techfinder_sku",
+    "techfinder_compatible_with"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:11.029Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "medshi_geo_block_dashboard_stats",
+    "medshi_geo_block_logs_summary",
+    "medshi_geo_export_all_logs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:35.248Z"
+}

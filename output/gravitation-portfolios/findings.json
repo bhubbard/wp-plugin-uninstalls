@@ -1,0 +1,22 @@
+{
+  "options": [
+    "portfolios_count",
+    "portfolio_bootstrap",
+    "portfolio_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_portfolios_post_price",
+    "_portfolios_post_phone",
+    "_portfolios_post_mobile",
+    "ba_re_",
+    "_portfolios_post_page",
+    "_portfolios_post_client",
+    "_portfolios_post_website"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:27.096Z"
+}

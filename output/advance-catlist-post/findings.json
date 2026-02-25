@@ -1,0 +1,14 @@
+{
+  "options": [
+    "default_number_of_posts",
+    "show_date",
+    "show_new_gif",
+    "new_gif_post_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:21.732Z"
+}

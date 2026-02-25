@@ -1,0 +1,31 @@
+{
+  "options": [
+    "quotes_for_wc",
+    "qwc_menu_notice",
+    "qwc_add_to_cart_button_text",
+    "qwc_enable_global_quote",
+    "qwc_enable_global_prices",
+    "qwc_proceed_checkout_btn_label",
+    "qwc_cart_page_name",
+    "qwc_checkout_page_name",
+    "qwc_hide_address_fields",
+    "woocommerce_quotes-gateway_settings",
+    "qwc_place_order_text",
+    "*_allow_tracking",
+    "*_tracker_last_send",
+    "qwc_allow_tracking",
+    "woocommerce_store_city",
+    "woocommerce_default_country",
+    "active_sitewide_plugins",
+    "qwc_tracker_last_send"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qwc_display_prices",
+    "qwc_enable_quotes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:55.453Z"
+}

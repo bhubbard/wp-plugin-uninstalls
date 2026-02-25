@@ -1,0 +1,14 @@
+{
+  "options": [
+    "web3devs_near_access_configured_coins_setting",
+    "web3devs_near_access_denial_page_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_web3devs_near_access_meta_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:44.859Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cp_concierge_tenant",
+    "_cp_concierge_router",
+    "_cp_concierge_form"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:00.945Z"
+}

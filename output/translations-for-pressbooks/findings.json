@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tfp_uninstall_save",
+    "tfp_book_translation_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "efp_trans_language",
+    "pb_is_based_on",
+    "tfp_post_translation_disable",
+    "pb_language"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:22.013Z"
+}

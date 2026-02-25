@@ -1,0 +1,25 @@
+{
+  "options": [
+    "masspost_debug_logs",
+    "masspost_api_token",
+    "masspost_api_user",
+    "masspost_websites"
+  ],
+  "transients": [
+    "masspost_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "footnotes",
+    "_masspost_selected_sites",
+    "_masspost_errors",
+    "_masspost_errors_time",
+    "_masspost_content_hash",
+    "_masspost_source_post_id",
+    "_masspost_featured_src",
+    "_masspost_synced_images"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:02.314Z"
+}

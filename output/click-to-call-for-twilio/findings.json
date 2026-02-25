@@ -1,0 +1,15 @@
+{
+  "options": [
+    "twt_setting_countries",
+    "twt_setting_number",
+    "twt_setting_welcome",
+    "twt_setting_account_sid",
+    "twt_setting_auth_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:34.532Z"
+}

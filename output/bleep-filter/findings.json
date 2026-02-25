@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bleep_filter_content",
+    "bleep_filter_content_rss",
+    "bleep_filter_comment",
+    "bleep_filter_comment_rss",
+    "bleep_filter_bbpress",
+    "bleep_filter_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bleep_replacement"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:46.481Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_email_from_address",
+    "woocommerce_checkout_phone_field",
+    "woocommerce_default_country",
+    "woocommerce_tax_classes",
+    "woocommerce_calc_taxes",
+    "woocommerce_tax_based_on"
+  ],
+  "transients": [
+    "indian_gst_restore_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_indian_gst_hsn_sac",
+    "_tax_class",
+    "_indian_gst_rate",
+    "_indian_gst_model_number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:40.867Z"
+}

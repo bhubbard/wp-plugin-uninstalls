@@ -1,0 +1,22 @@
+{
+  "options": [
+    "twochop_public_wpkey",
+    "twochop_publicpublisherkey",
+    "twochop_reserved1key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "twochop_public_updatekey",
+    "twochop_public_idtype",
+    "twochop_public_id",
+    "twochop_public_customdata",
+    "twochop_public_buttonstyle",
+    "twochop_public_updatedatetime",
+    "twochop_public_dataversion",
+    "twochop_public_originkey"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:00.831Z"
+}

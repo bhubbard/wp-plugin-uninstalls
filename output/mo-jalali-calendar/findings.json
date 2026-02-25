@@ -1,0 +1,15 @@
+{
+  "options": [
+    "molsc_wp_presiandate",
+    "molsc_wc_datepicker",
+    "molsc_persian",
+    "molsc_install_time",
+    "molsc_gave_feedback"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:42.183Z"
+}

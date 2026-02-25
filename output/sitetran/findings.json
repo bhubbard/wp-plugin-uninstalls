@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sitetran_authentication_key",
+    "sitetran_site_id",
+    "sitetran_connect_google_analytics",
+    "sitetran_auto_detect_language",
+    "sitetran_original_language_code",
+    "sitetran_target_languages",
+    "sitetran_had_conflict",
+    "sitetran_plugin_conflict_message",
+    "sitetran_pages_sent",
+    "sitetran_intialize_success_message_seen",
+    "sitetran_flush_rewrite_rules",
+    "sitetran_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:24.513Z"
+}

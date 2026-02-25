@@ -1,0 +1,28 @@
+{
+  "options": [
+    "maxbuttons_borderbox",
+    "maxbuttons_hidedescription",
+    "maxbuttons_autoresponsive",
+    "maxbuttons_autor_font",
+    "maxbuttons_autor_width",
+    "maxbuttons_pro_license_expires",
+    "maxbuttons_pro_license_activated",
+    "MBFREE_CREATED",
+    "MBFREE_HOMEURL",
+    "maxbuttons_protocol",
+    "maxbuttons_forcefa",
+    "maxbuttons_minify",
+    "maxbuttons_user_level",
+    "maxbuttons_noshowtinymce",
+    "maxbuttons_usecssfile",
+    "maxbuttons_pro_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "maxbuttons_review_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:51.794Z"
+}

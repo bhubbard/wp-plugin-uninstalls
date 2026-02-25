@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*_settings",
+    "txnid_*",
+    "token_type_*",
+    "woocommerce_bizumredsys_settings",
+    "woocommerce_googlepayredirecredsys_settings",
+    "woocommerce_inespayredsys_settings",
+    "woocommerce_redsys_settings",
+    "woocommerce-redsys-version",
+    "woocommerce-redsys-rate",
+    "hide-new-version-redsys-notice",
+    "telegram-redsys-notice"
+  ],
+  "transients": [
+    "redsys_signature_*",
+    "*_redsys_refund",
+    "redys_order_temp_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_accept_haders",
+    "_billing_agente_navegador_field",
+    "_billing_idioma_navegador_field",
+    "_billing_altura_pantalla_field",
+    "_billing_anchura_pantalla_field",
+    "_billing_profundidad_color_field",
+    "_billing_diferencia_horaria_field",
+    "last_update"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:04.356Z"
+}

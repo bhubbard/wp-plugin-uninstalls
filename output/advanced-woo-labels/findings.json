@@ -1,0 +1,21 @@
+{
+  "options": [
+    "awl_settings",
+    "active_sitewide_plugins",
+    "qtranslate_enabled_languages",
+    "awl_plugin_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_awl_label",
+    "_awl_label_priority",
+    "_product_image_gallery",
+    "_et_pb_use_builder",
+    "_awl_disable_labels",
+    "total_sales"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:34.053Z"
+}

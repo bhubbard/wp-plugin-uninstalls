@@ -1,0 +1,13 @@
+{
+  "options": [
+    "metronet-reorder-posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reorder_items_per_page"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:14.852Z"
+}

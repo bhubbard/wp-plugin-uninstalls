@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ufg_current_version",
+    "ufg_last_version",
+    "ufg_details_*",
+    "ufg_filters_*",
+    "ufg_gallery_*",
+    "ufg_settings_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:26.881Z"
+}

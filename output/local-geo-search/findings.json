@@ -1,0 +1,14 @@
+{
+  "options": [
+    "geo_seo_option_name",
+    "geo_seo_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:42.594Z"
+}

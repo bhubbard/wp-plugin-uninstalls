@@ -1,0 +1,60 @@
+{
+  "options": [
+    "wallets_caps_initialized",
+    "wallets_rates_tor_enabled",
+    "wallets_rates_tor_ip",
+    "wallets_rates_tor_port",
+    "wallets_addresses_max_count",
+    "wallets_disable_cache",
+    "wallets_transients_broken",
+    "wallets_deposit_cutoff",
+    "wallets_shortcodes_in_posts",
+    "wallets_frontend_vs_amount_decimals",
+    "wallets_polling_interval",
+    "wallets_legacy_json_api",
+    "wallets_move_spills_users",
+    "wallets_emails_max_batch_size",
+    "wallets_emails_max_recipients_batch_size",
+    "wallets_confirm_move_user_enabled",
+    "wallets_confirm_withdraw_user_enabled",
+    "wallets_confirm_redirect_page",
+    "wallets_email_forwarding_enabled",
+    "wallets_email_error_forwarding_enabled",
+    "wallets_cron_task_timeout",
+    "wallets_cron_verbose",
+    "wallets_cron_approve_withdrawals",
+    "wallets_withdrawals_max_batch_size",
+    "wallets_moves_max_batch_size",
+    "wallets_cron_aggregate",
+    "wallets_cron_autocancel",
+    "wallets_http_timeout",
+    "wallets_http_redirects",
+    "wallets_http_tor_enabled",
+    "wallets_http_tor_ip",
+    "wallets_http_tor_port",
+    "wallets_rates_vs",
+    "wallets_fiat_fixerio_key",
+    "wallets_fiat_fixerio_currencies",
+    "ds-activation-code"
+  ],
+  "transients": [
+    "wallets_transients_test"
+  ],
+  "cron_jobs": [
+    "wallets_cron_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wallets_pointers_dismissed_1",
+    "wallets_pointers_dismissed_2",
+    "wallets_pointers_dismissed_3",
+    "wallets_pointers_dismissed_4",
+    "wallets_apikey",
+    "wallets_admin_approved",
+    "wallets_wd_counter_day",
+    "wallets_wd_counter",
+    "wallets_adapter_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:12.651Z"
+}

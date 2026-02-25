@@ -1,0 +1,14 @@
+{
+  "options": [
+    "charitable_instamojo_version",
+    "charitable_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "donor"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:20.013Z"
+}

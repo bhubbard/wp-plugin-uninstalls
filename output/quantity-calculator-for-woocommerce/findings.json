@@ -1,0 +1,25 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "eniture_quantity_calculator_settings_app_block_options",
+    "eniture_quantity_calculator_status",
+    "eniture_quantity_calculator_last_date_check",
+    "eniture_quantity_calculator_coverage_input_size",
+    "eniture_quantity_calculator_settings_cart_input_size",
+    "eniture_quantity_calculator_settings_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eniture_enable_quantity_calculator",
+    "eniture_quantity_per_unit",
+    "eniture_minimum_square_feet_value",
+    "eniture_maximum_square_feet_value",
+    "eniture_unit_measurement_value",
+    "eniture_message_for_user",
+    "eniture_coverage_input_label"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:27.096Z"
+}

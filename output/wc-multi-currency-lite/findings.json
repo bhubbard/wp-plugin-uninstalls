@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "woocommerce_currency_pos",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_num_decimals",
+    "_wooexp_currency",
+    "_wooexp_currencies",
+    "_wooexp_currencies_last_update"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wooexp_currency_rates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:58.639Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wmp_measurement_units",
+    "wmp_bar_type",
+    "wmp_show_on_all_pages",
+    "wmp_dropdown_page",
+    "wmp_wrapper_class",
+    "wmp_display_blog",
+    "wmp_default_data_imported"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_wmp_blog_category",
+    "user_display_blog_shortcode",
+    "wmp_show_blog_shortcode",
+    "warmp_post_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:07.125Z"
+}

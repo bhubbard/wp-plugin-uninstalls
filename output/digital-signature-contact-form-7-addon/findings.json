@@ -1,0 +1,17 @@
+{
+  "options": [
+    "esig_global_document_id",
+    "WP_ESignature__Cf7_Forms_Digital_Signature_documentation",
+    "remove_rating_widget_cf7"
+  ],
+  "transients": [
+    "_esign_cf7_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "esig-cf7-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:15.160Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wpjobs_send_mail",
+    "wp_jobs_currency",
+    "wp_jobs_listing",
+    "wpjobs_wg_bg_color",
+    "wp_jobs_list_sidebar",
+    "wp_jobs_detail_sidebar",
+    "wpjobs_pg_pro_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_jobs_designation",
+    "wp_jobs_location",
+    "wp_jobs_salary",
+    "wp_jobs_type",
+    "wpjobseditorqualification",
+    "wp_jobs_frm",
+    "wp_jobs_application_email",
+    "wp_jobs_date_start",
+    "wp_jobs_date_close"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:44.536Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "stag_options",
+    "stagtools_settings_general",
+    "stagtools_settings_social",
+    "twitterwptoken",
+    "stag_custom_sidebars",
+    "stag_twitter_widget_tweets",
+    "stag_twitter_widget_last_cache"
+  ],
+  "transients": [
+    "codestag_themes_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stag_team_info"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:55.931Z"
+}

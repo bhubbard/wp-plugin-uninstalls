@@ -1,0 +1,17 @@
+{
+  "options": [
+    "timezone_option",
+    "hidemenu_option",
+    "columns_option",
+    "disable_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "data_nec_events",
+    "link_nec_events"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:18.407Z"
+}

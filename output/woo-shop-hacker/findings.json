@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woo_shop_hacker_apikey",
+    "woo_shop_hacker_apisecret",
+    "woo_shop_hacker_merchantid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shop_hacker_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:20.355Z"
+}

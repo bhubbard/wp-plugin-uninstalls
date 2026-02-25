@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ctrlbs_settings",
+    "ctrlbs_donation_notice_shown",
+    "ctrlbs_donation_notice_dismissed"
+  ],
+  "transients": [
+    "ctrlbs_cache",
+    "ctrlbs_rate_limit_*",
+    "ctrlbs_rate_limit_time_*",
+    "ctrlbs_throttle_*"
+  ],
+  "cron_jobs": [
+    "ctrlbs_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:17.671Z"
+}

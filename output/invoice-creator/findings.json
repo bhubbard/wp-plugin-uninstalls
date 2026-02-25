@@ -1,0 +1,34 @@
+{
+  "options": [
+    "plugin_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pravel_invoice_customer_first_name",
+    "pravel_invoice_customer_last_name",
+    "pravel_invoice_customer_email",
+    "pravel_invoice_customer_mobile_number",
+    "pravel_invoice_items",
+    "pravel_invoice_random_invoice_number",
+    "pravel_invoice_total",
+    "pravel_invoice_product_price",
+    "company_name",
+    "company_address_1",
+    "company_address_2",
+    "company_city",
+    "company_pincode",
+    "company_logo",
+    "customer_mobile",
+    "has_to_be_activated",
+    "aftre_active_role",
+    "first_name",
+    "last_name",
+    "show_admin_bar_front",
+    "wp_capabilities",
+    "forgot_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:58.849Z"
+}

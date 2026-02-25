@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "elex-discount-per-country_label",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again",
+    "elex_discount_per_country_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:29.624Z"
+}

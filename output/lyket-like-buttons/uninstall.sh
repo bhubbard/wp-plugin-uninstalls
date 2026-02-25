@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'lyket_api_key'
+wp option delete 'lyket_disable_session_id'
+wp option delete 'lyket_page_button_type'
+wp option delete 'lyket_page_template'
+wp option delete 'lyket_page_text_color'
+wp option delete 'lyket_page_primary_color'
+wp option delete 'lyket_page_secondary_color'
+wp option delete 'lyket_page_background_color'
+wp option delete 'lyket_page_highlight_color'
+wp option delete 'lyket_page_icon_color'
+wp option delete 'lyket_page_h_align'
+wp option delete 'lyket_page_v_align'
+wp option delete 'lyket_page_enable'
+wp option delete 'lyket_post_button_type'
+wp option delete 'lyket_post_template'
+wp option delete 'lyket_post_text_color'
+wp option delete 'lyket_post_primary_color'
+wp option delete 'lyket_post_secondary_color'
+wp option delete 'lyket_post_background_color'
+wp option delete 'lyket_post_highlight_color'
+wp option delete 'lyket_post_icon_color'
+wp option delete 'lyket_post_h_align'
+wp option delete 'lyket_post_v_align'
+wp option delete 'lyket_post_enable'
+wp option delete 'lyket_post_excerpt_enable'
+

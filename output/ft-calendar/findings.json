@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ft_calendar_options",
+    "ftcalendar_meta",
+    "ftc_ec3_imported",
+    "ftcal_show_discount",
+    "*_meta",
+    "ft_cal_db_version",
+    "ft_cal_version",
+    "external_updates-*",
+    "rss_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "feature_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:09.101Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wp-human-presence",
+    "ninja_forms_version",
+    "ninja_forms_load_deprecated",
+    "wp-human-presence-upgrade-3-4-6"
+  ],
+  "transients": [
+    "human_presence_license"
+  ],
+  "cron_jobs": [
+    "human_presence_autoprotect_scan",
+    "hp_autoprotect_scan",
+    "hpres_autoprotect_scan"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpforms_entries_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:44.257Z"
+}

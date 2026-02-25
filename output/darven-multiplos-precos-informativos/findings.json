@@ -1,0 +1,17 @@
+{
+  "options": [
+    "darven_epi_option_compatibility",
+    "darven_epi_option_*",
+    "darven_epi_option_positions",
+    "darven_epi_option_general"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_darven_epi_is_incash_enabled",
+    "_darven_epi_is_installment_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:55.871Z"
+}

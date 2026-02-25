@@ -1,0 +1,35 @@
+{
+  "options": [
+    "dscpw_enable_debug",
+    "dscpw_sortable_order",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "_welcome_screen_dscpw_mode_activation_redirect_data",
+    "dscpw_name_address_fields",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sm_product_cost",
+    "dscpw_cp_status",
+    "shipping_method_list",
+    "cost_rule_match",
+    "cp_metabox",
+    "cp_actions_metabox",
+    "cp_message_metabox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:05.864Z"
+}

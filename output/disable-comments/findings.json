@@ -1,0 +1,22 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "disable_comments_sitewide_settings",
+    "disable_comments_options",
+    "disable_comments_post_types",
+    "disable_comment_version",
+    "wpins_deactivation_reason_*",
+    "wpins_deactivation_details_*",
+    "wpins_allow_tracking",
+    "wpins_last_track_time",
+    "wpins_block_notice"
+  ],
+  "transients": [
+    "wc_count_comments"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:26:34.380Z"
+}

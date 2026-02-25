@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gumlet_settings",
+    "gumlet_width_from_img",
+    "gumlet_width_from_flex",
+    "gumlet_min_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:10.623Z"
+}

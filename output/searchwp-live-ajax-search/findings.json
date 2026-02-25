@@ -1,0 +1,24 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "searchwp_forms",
+    "*forms",
+    "searchwp_live_search_version",
+    "searchwp_live_search_version_upgraded_from",
+    "searchwp_live_search_last_update",
+    "searchwp_live_search_activation_redirect",
+    "searchwp_license",
+    "searchwp_live_search_admin_notices"
+  ],
+  "transients": [
+    "searchwp_live_search_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "searchwp_admin_form_embed_wizard",
+    "searchwp_live_search_admin_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:47.583Z"
+}

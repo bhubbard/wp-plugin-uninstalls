@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_status",
+    "default_post_edit_rows",
+    "hey_notify_settings",
+    "hey_notify_settings_general",
+    "hey_notify_settings_licenses",
+    "hey_notify_settings_uninstall",
+    "hey_notify_live_preview",
+    "hey_notify_custom_post_types",
+    "hey_notify_version",
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:34.184Z"
+}

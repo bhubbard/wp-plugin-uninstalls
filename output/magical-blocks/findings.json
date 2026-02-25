@@ -1,0 +1,13 @@
+{
+  "options": [
+    "magical_blocks_version",
+    "magical_blocks_has_pro",
+    "magical_blocks_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:09.511Z"
+}

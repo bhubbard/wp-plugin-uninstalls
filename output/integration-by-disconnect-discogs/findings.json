@@ -1,0 +1,13 @@
+{
+  "options": [
+    "disconnect_woocommerce_consumer_key",
+    "woocommerce_api_enabled",
+    "disconnect_woocommerce_consumer_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:43.554Z"
+}

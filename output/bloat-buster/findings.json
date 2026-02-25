@@ -1,0 +1,22 @@
+{
+  "options": [
+    "_bbuster_disable_emoji",
+    "_bbuster_disable_fse_global_styles",
+    "_bbuster_remove_rsd_link",
+    "_bbuster_remove_shortlink",
+    "_bbuster_disable_embed",
+    "_bbuster_disable_xmlrpc",
+    "_bbuster_hide_wp_version",
+    "_bbuster_disable_heartbeat",
+    "_bbuster_dequeue_dashicon",
+    "_bbuster_*"
+  ],
+  "transients": [
+    "_import_success"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:07.408Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_editarea_enable",
+    "wp_editarea_*",
+    "wp_editarea_start_highlight",
+    "wp_editarea_allow_toggle",
+    "wp_editarea_word_wrap",
+    "wp_editarea_language",
+    "wp_editarea_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:14.985Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "srrl_options",
+    "srrl_backup_option_capabilities",
+    "*user_roles"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:22.457Z"
+}

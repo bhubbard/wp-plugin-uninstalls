@@ -1,0 +1,34 @@
+{
+  "options": [
+    "ac_logging",
+    "ipacn_api_key",
+    "ipacn_api_url",
+    "ipacn_from_name",
+    "ipacn_from_email",
+    "ipacn_reply_to",
+    "ipacn_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ipacn_logcleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ac_deployment_date",
+    "ac_hh",
+    "ac_mm",
+    "ac_ampm",
+    "test_recipient",
+    "message_id",
+    "campaign_id",
+    "ipacn_deployment_date",
+    "mailing_subject",
+    "mailing_sent",
+    "duplicated_flag",
+    "TrackId",
+    "mailing_id",
+    "acfetch_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:08.567Z"
+}

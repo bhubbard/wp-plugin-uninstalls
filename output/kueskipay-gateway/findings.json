@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_kueski-gateway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "isa_add_every_kueski_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:49.011Z"
+}

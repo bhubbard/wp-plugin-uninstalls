@@ -1,0 +1,20 @@
+{
+  "options": [
+    "horshipsrectors_popularity_track_pagerank",
+    "horshipsrectors_popularity_track_alexa",
+    "horshipsrectors_popularity_track_links",
+    "horshipsrectors_popularity_daystocheck",
+    "horshipsrectors_popularity_daystodisplay",
+    "horshipsrectors_popularity_checker_google_check",
+    "horshipsrectors_popularity_checker_google_value_*",
+    "horshipsrectors_popularity_checker_alexa_check",
+    "horshipsrectors_popularity_checker_alexa_rank_*",
+    "horshipsrectors_popularity_checker_alexa_links_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:39.136Z"
+}

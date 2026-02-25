@@ -1,0 +1,13 @@
+{
+  "options": [
+    "first_param",
+    "second_param",
+    "third_param"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:22.219Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ubigeo_checkout_checkbox",
+    "ubigeo_emails_checkbox",
+    "ubigeo_thanks_checkbox",
+    "ubigeo_title_checkbox",
+    "ubigeo_format_checkbox",
+    "ubigeo_priority_method_free_checkbox",
+    "rt_ubigeo_peru_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_departamento",
+    "_billing_provincia",
+    "_billing_distrito",
+    "_shipping_departamento",
+    "_shipping_provincia",
+    "_shipping_distrito"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:29.622Z"
+}

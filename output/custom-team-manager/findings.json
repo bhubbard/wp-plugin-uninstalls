@@ -1,0 +1,23 @@
+{
+  "options": [
+    "hide_ajax_notification",
+    "cmt_single_page",
+    "cmt_ajax_load",
+    "cmt_show_gridview",
+    "cmt_mem_pro_page_slug",
+    "cmt_profile_page",
+    "cmt_mem_per_page",
+    "cmt_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cmt_member_role",
+    "cmt_member_facebook",
+    "cmt_member_twitter",
+    "cmt_member_linkedin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:04.679Z"
+}

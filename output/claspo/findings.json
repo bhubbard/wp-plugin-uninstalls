@@ -1,0 +1,16 @@
+{
+  "options": [
+    "claspo_script_id",
+    "claspo_script_code",
+    "claspo_plugin_activated"
+  ],
+  "transients": [
+    "claspo_api_error",
+    "claspo_success_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:33.086Z"
+}

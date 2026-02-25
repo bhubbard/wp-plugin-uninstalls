@@ -1,0 +1,13 @@
+{
+  "options": [
+    "powr_token",
+    "powr_powr_pack_plugin_do_activation_redirect",
+    "powr_install_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:33.803Z"
+}

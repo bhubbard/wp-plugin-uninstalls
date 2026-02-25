@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cm_api_option",
+    "cm_list_id_option",
+    "cm_dashboard_widget_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:03.425Z"
+}

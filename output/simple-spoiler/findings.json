@@ -1,0 +1,13 @@
+{
+  "options": [
+    "simple_spoiler_bg_wrap",
+    "simple_spoiler_bg_body",
+    "simple_spoiler_br_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:50.010Z"
+}

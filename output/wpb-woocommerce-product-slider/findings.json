@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_enable_review_rating"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpb_wps_pro_discount_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:17.708Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "unpaid_orders_daily_process",
+    "webhook_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_piva",
+    "_billing_pec",
+    "_billing_sdi",
+    "_billing_cf"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:51.796Z"
+}

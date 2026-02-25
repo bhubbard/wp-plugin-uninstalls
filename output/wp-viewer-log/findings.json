@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpvl-options",
+    "wpvl-version"
+  ],
+  "transients": [
+    "wpvl_log_error",
+    "wpvl_config_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:47.872Z"
+}

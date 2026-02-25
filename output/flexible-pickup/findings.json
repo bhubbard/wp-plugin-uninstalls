@@ -1,0 +1,27 @@
+{
+  "options": [
+    "flexible_pickup_settings",
+    "recently_activated",
+    "*_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_company",
+    "_address",
+    "_address_2",
+    "_postal_code",
+    "_city",
+    "_cost",
+    "_cod",
+    "tgmpa_dismissed_notice_flexible-pickup",
+    "_flexible_pickup",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:31.861Z"
+}

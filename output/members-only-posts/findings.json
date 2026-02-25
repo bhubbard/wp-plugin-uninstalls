@@ -1,0 +1,12 @@
+{
+  "options": [
+    "widget_members_entries",
+    "widget_club_news"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:55.694Z"
+}

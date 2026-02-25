@@ -1,0 +1,38 @@
+{
+  "options": [
+    "advwl_btn_position",
+    "advwl_after_add_to_wishlist_behaviour_add",
+    "advwl_btn_text",
+    "advwl_btn_view_text",
+    "advwl_btn_remove_text",
+    "advwl_btn_already_in",
+    "advwl_pro_added_text",
+    "advwl_btn_archive",
+    "advwl_btn_archive_position",
+    "advwl_btn_style",
+    "advwl_btn_icon",
+    "advwl_wishlist_page",
+    "advwl_wishlist_name",
+    "advwl_remove_from_wishlist",
+    "advwl_redirect_to_cart",
+    "advwl_success_notice",
+    "advwl_show_prod_image",
+    "advwl_show_prod_title",
+    "advwl_show_prod_price",
+    "advwl_show_prod_stock",
+    "advwl_show_date_added",
+    "advwl_cart_style",
+    "advwl_cart_text",
+    "advwl_show_remove_icon",
+    "woocommerce_currency",
+    "advwl_plugin_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stock_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:46.329Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "ccbpress_import_in_progress",
+    "ccbpress_last_import",
+    "ccbpress_cancel_import",
+    "*_active",
+    "default_post_edit_rows",
+    "ccbpress_ccb",
+    "ccbpress_settings",
+    "ccbpress_settings_import",
+    "ccbpress_licenses",
+    "ccbpress_tools_cron",
+    "ccbpress_tools_cache",
+    "ccbpress_rate_limits",
+    "*_license_key_active",
+    "ccbpress_license_data",
+    "ccbpress_current_import",
+    "ccbpress_core_db_version",
+    "ccbpress_ccb_forms_lightbox",
+    "ccbpress_ccb_links_forms",
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "ccbpress-addons",
+    "update_plugins",
+    "wp_ccbpress_get_process_lock",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "ccbpress_maintenance",
+    "ccbpress_import",
+    "ccbpress_transient_cache_cleanup",
+    "wp_ccbpress_get_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:35.799Z"
+}

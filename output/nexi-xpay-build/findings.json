@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_settings",
+    "nexi_xpay_data_version",
+    "xpay_npg_available_methods",
+    "xpay_available_methods",
+    "xpay_logo_small",
+    "xpay_logo_large",
+    "nexi_unique",
+    "*_db_version",
+    "woocommerce_subscriptions_turn_off_automatic_payments"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_nexi_polling",
+    "wp_nexi_update_npg_payment_methods"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:00.834Z"
+}

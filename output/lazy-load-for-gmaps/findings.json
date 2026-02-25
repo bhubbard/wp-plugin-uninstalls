@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ll_gmaps_settings",
+    "llgmaps_version",
+    "llgmaps_date_install",
+    "ll_gmaps_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:57.237Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "nepali_calendar_admin_notices",
+    "nepali_calendar_admin_notice_*",
+    "nepali_calendar_db_version",
+    "nepali_calendar_file_download_method",
+    "nepali_calendar_version",
+    "nepali_calendar_myaccount_page_id",
+    "nepali_calendar_checkout_page_id"
+  ],
+  "transients": [
+    "nepali_calendar_cache_excluded_uris",
+    "_ur_activation_redirect"
+  ],
+  "cron_jobs": [
+    "nepali_calendar_flush_rewrite_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:21.676Z"
+}

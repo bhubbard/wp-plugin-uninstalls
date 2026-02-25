@@ -1,0 +1,26 @@
+{
+  "options": [
+    "assistio_plugin_activation_redirect",
+    "assistio_plugin_application_password",
+    "assistiobot_oauth_settings",
+    "assistio_plugin_initial_setup_completed",
+    "recently_activated",
+    "assistio_missing_dependencies",
+    "woocommerce_currency",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:07.210Z"
+}

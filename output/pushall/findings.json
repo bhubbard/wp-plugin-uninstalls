@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pushall_chanel_id",
+    "pushall_chanel_key",
+    "pushall_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pushall_should_send_push",
+    "_pushall_custom_title",
+    "_pushall_custom_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:01.203Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ss_just_activated",
+    "ss_*",
+    "ss_version",
+    "ss_shopsite_url",
+    "ss_config_type",
+    "ss_media_url",
+    "ss_config_dump",
+    "ss_clientid",
+    "ss_secretkey",
+    "ss_code",
+    "ss_authorizationurl",
+    "ss_identifier",
+    "ss_remember_search",
+    "ss_remembered_search_string"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:45.765Z"
+}

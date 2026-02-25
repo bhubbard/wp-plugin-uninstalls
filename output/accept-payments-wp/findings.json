@@ -1,0 +1,21 @@
+{
+  "options": [
+    "success_page",
+    "failure_page",
+    "test_mode",
+    "merchant_id",
+    "public_key",
+    "private_key",
+    "tokenization_key",
+    "acwp_currency",
+    "acwp_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_form_settings_meta_box_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:28.036Z"
+}

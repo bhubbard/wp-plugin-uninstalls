@@ -1,0 +1,27 @@
+{
+  "options": [
+    "tecs_activation_redirect",
+    "ecs-show-link",
+    "ecs_activation_date",
+    "wisdom_deactivation_reason_*",
+    "wisdom_deactivation_details_*",
+    "wisdom_last_track_time",
+    "wisdom_allow_tracking",
+    "wisdom_notification_times",
+    "wisdom_block_notice",
+    "wisdom_collect_email",
+    "wisdom_admin_emails"
+  ],
+  "transients": [
+    "tecs_activation_redirect"
+  ],
+  "cron_jobs": [
+    "put_do_weekly_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tribe_featured"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:30.196Z"
+}

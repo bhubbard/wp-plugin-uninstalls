@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_actr_redirect_to_checkout",
+    "_edd_atcr_redirect_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:32.265Z"
+}

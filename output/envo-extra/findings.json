@@ -1,0 +1,50 @@
+{
+  "options": [
+    "et_fc",
+    "woocommerce_shop_page_id",
+    "envo_plugin_do_activation_redirect",
+    "classic-editor-replace",
+    "kirki_downloaded_font_files",
+    "envo_extra_actions_dismiss",
+    "*-version",
+    "envothemes_active_time",
+    "envothemes_active_pro_time",
+    "envothemes_demo_import_url",
+    "envothemes_activation_redirect",
+    "envothemes_maybe_later",
+    "envothemes_review_dismiss",
+    "elementor_onboarded",
+    "active_envo_one_time",
+    "widget_*",
+    "sidebars_widgets",
+    "_wc_needs_pages",
+    "woocommerce_single_image_width",
+    "woocommerce_thumbnail_image_width",
+    "woocommerce_thumbnail_cropping",
+    "woocommerce_thumbnail_cropping_custom_width",
+    "woocommerce_thumbnail_cropping_custom_height",
+    "elementor_container_width",
+    "elementor_experiment-container"
+  ],
+  "transients": [
+    "kirki_googlefonts_cache",
+    "kirki_googlefont_names_cache",
+    "kirki_remote_url_contents",
+    "_wc_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "envo_extra_meta_*",
+    "envo_extra_hide_title",
+    "envo_extra_hide_sidebar",
+    "envo_extra_transparent_header",
+    "envo_extra_header_text_color",
+    "kirki_fa_nag_dismissed",
+    "*_notice_ignore",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:49.136Z"
+}

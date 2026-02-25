@@ -1,0 +1,42 @@
+{
+  "options": [
+    "jobpassIdKey",
+    "JobpassOrganisationId",
+    "JobpassSpontaneousApplication",
+    "JobpassSpontaneousDescription",
+    "JobpassAllowCredits",
+    "JobpassHeaderBackgroundColor",
+    "JobpassMainTitle",
+    "JobpassFontTitleColor",
+    "JobpassOffersData",
+    "JobpassCompanyDescription",
+    "JobpassCompanyName",
+    "JobPassHeaderBackgroundColor",
+    "JobPassSpontaneousApplication",
+    "JobPassSpontaneousDescription",
+    "JobPassOrganisationId",
+    "JobPassMainTitle",
+    "JobPassFontTitleColor",
+    "JobPassOffersData",
+    "JobPassAllowCredits",
+    "JobPassCompanyName",
+    "JobPassCompanyDescription"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jp_place",
+    "jp_completeAddress",
+    "jp_postalCode",
+    "jp_addressRegion",
+    "jp_startDate",
+    "jp_validThrough",
+    "jp_contract",
+    "jp_remote",
+    "jp_salary",
+    "jp_experience"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:19.275Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "atta_*",
+    "atta_api_endpoint",
+    "atta_api_key",
+    "atta_default_language",
+    "atta_default_style"
+  ],
+  "transients": [
+    "atta_bulk_images",
+    "atta_account_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:43.279Z"
+}

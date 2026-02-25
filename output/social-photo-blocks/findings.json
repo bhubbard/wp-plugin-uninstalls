@@ -1,0 +1,17 @@
+{
+  "options": [
+    "InstagramClientID",
+    "InstagramClientSecret",
+    "InstagramAccessToken",
+    "InstagramUserId",
+    "InstagramAccessTokenLong"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "token_renew_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:57.570Z"
+}

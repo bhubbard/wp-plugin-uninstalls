@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ninja_forms_transactional_email_enabled",
+    "ninja_forms_transactional_email_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:54.931Z"
+}

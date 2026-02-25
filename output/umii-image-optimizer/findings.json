@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smart_image_optimizer_default_format",
+    "smart_image_optimizer_default_quality",
+    "smart_image_optimizer_auto_optimize"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sio_optimized"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:24.932Z"
+}

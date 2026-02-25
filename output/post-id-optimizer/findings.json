@@ -1,0 +1,29 @@
+{
+  "options": [],
+  "transients": [
+    "dirsize_cache"
+  ],
+  "cron_jobs": [
+    "publish_future_post",
+    "do_pings"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_wp_trash_meta_status",
+    "_wp_trash_meta_time",
+    "_wp_trash_meta_comments_status",
+    "_wp_desired_post_slug",
+    "_wp_attachment_context",
+    "_wp_page_template",
+    "_wp_attachment_backup_sizes",
+    "_thumbnail_id",
+    "_wp_attachment_metadata",
+    "_wp_old_slug",
+    "_wp_old_date",
+    "_pingme",
+    "_encloseme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:20.789Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "notix_error_notices",
+    "notix_tag_notify_feature_enabled_setting",
+    "notix_auto_send_feature_enabled_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "notix_push_sended",
+    "notix_send_checkbox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:06.085Z"
+}

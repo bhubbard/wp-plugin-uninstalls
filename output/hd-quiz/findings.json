@@ -1,0 +1,24 @@
+{
+  "options": [
+    "hdq_settings",
+    "HDQ_PLUGIN_VERSION",
+    "HDQ_UPDATED",
+    "hdq_new_addon"
+  ],
+  "transients": [
+    "hdq_new_addon"
+  ],
+  "cron_jobs": [
+    "hdq_check_for_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "hdq_quiz_type",
+    "hdq_author_id",
+    "hdq_question_data",
+    "question_data",
+    "quiz_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:50.305Z"
+}

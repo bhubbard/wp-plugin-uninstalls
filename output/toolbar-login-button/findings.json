@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tlb_show_logged_in",
+    "tlb_show_logged_out",
+    "tlb_remember_user_role",
+    "tlb_redirect_after_login",
+    "tlb_cookie_expire",
+    "tlb_uninstall_delete"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:46.480Z"
+}

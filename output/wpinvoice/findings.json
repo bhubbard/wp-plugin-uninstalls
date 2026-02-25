@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_ref_type",
+    "*_ref_prefix",
+    "*_ref_number_count",
+    "*_round_number_count",
+    "eoinvoice_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:14.684Z"
+}

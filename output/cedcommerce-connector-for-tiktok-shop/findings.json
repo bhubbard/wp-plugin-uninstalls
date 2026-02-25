@@ -1,0 +1,36 @@
+{
+  "options": [
+    "*_shipping_carriers",
+    "ced_tiktok_woo_connection_data",
+    "woocommerce_default_country",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency",
+    "ced_woo_cedcommerce_connection_data"
+  ],
+  "transients": [
+    "ced-connector-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ced_connector_ean",
+    "ced_connector_brand",
+    "_ced_marketplace",
+    "shipping_label",
+    "_trackingCompany",
+    "_trackingNumber",
+    "tracking_errors",
+    "first_name",
+    "nickname",
+    "last_name",
+    "billing_phone",
+    "shipping_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:16.955Z"
+}

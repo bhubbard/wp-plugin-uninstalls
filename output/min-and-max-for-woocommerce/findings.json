@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mmfwc_options_option_name",
+    "woocommerce_enable_ajax_add_to_cart",
+    "mmfwc_installed",
+    "mmfwc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mmfwc_max",
+    "_mmfwc_min",
+    "_mmfwc_prd_opt_enable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:23.344Z"
+}

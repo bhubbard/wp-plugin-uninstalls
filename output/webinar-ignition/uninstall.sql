@@ -1,0 +1,30 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('hundered_ms_management_token', 'show_webinarignition_footer_logo', 'webinarignition_show_footer_branding', 'webinarignition_affiliate_link', 'webinarignition_branding_copy', 'webinarignition_activated', 'wi_optin_confirmed', 'wi_support_confirmed', 'webinarignition_registration_shortcode', 'wi_changelog_version', 'webinarignition_enable_third_party_server', 'webinarignition_email_verification', 'webinarignition_auto_clean_log_db', 'webinarignition_auto_login_password_email', 'webinarignition_registration_auto_login', 'wi_has_old_webinars', 'wp2leads_itm_webinarignition_webinar_to_map', 'webinarignition_unsubscribe_links', 'webinarignition_email_templates_from_name', 'webinarignition_email_templates_from_email', 'webinarignition_upgraded_smtp', 'webinarignition_smtp_credentials_failed', 'webinarignition_defer_notice_dismissed', 'webinarignition_map_campaign_hash_to_id', 'webinarignition_map_campaign_id_to_hash', 'webinarignition_smtp_email', 'wi_data_conversion_status', 'wi_update_once', 'wi_data_conversion_page', 'wi_converted_webinars', 'webinarignition_footer_text_color', 'webinarignition_branding_background_color', 'wi_redirect_after_installation', 'wi_first_install', 'webinarignition_enable_header_img_max_width', 'webinarignition_email_logo_max_width', 'webinarignition_smtp_name', 'webinarignition_reply_to_email', 'webinarignition_smtp_host', 'webinarignition_smtp_port', 'webinarignition_smtp_protocol', 'webinarignition_smtp_user', 'webinarignition_smtp_pass', 'webinarignition_smtp_connect', 'webinarignition_plugin_activation_date', 'webinarignition_activate_freemius', 'preview_url', 'webinarignition_email_verification_template', 'webinarignition_footer_text', 'sidebar_cta');
+DELETE FROM wp_options WHERE option_name IN ('webinarignition_installer_version', 'webinarignition_2_2_0_update', 'webinarignition_2_3_0_update', 'webinarignition_2_2_17_update', 'webinarignition_2_4_4_update', 'webinarignition_2_5_0_update', 'webinarignition_2_6_5_update', 'webinarignition_2_6_8_update', 'webinarignition_2_9_0_update', 'webinarignition_2_12_0_update', 'webinarignition_enable_honeypot_field', 'webinarignition_use_grid_custom_color', 'wi_lead_watch_time_[lead_id]', 'webinarignition_hide_top_admin_bar', 'webinarignition_smtp_settings_global', 'webinarignition_show_email_header_img', 'webinarignition_email_logo_url', 'header_img_algnmnt', 'webinarignition_email_background_color', 'webinarignition_email_body_background_color', 'webinarignition_email_text_color', 'webinarignition_body_text_line_height', 'webinarignition_headings_color', 'webinarignition_email_font_size', 'webinarignition_heading_background_color', 'webinarignition_heading_text_color', 'webinarignition_email_signature', 'webinarignition_emails_signatur', 'webinarignition_brand_color', 'webinarignition_brand_contrast_color', 'webinarignition_db_version', 'webinarignition_migrated_smtp', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'wi_has_old_webinars', 'update_plugins', 'fs_snooze_period', '_fs_api_connection_retry_counter', 'update_themes');
+DELETE FROM wp_options WHERE option_name LIKE 'webinar_data_restricted_mails%';
+DELETE FROM wp_options WHERE option_name LIKE 'lead_data_restricted_mails%';
+DELETE FROM wp_options WHERE option_name LIKE 'webinarignition_lead_confirmed_%';
+DELETE FROM wp_options WHERE option_name LIKE 'webinarignition_campaign_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wi_webinar_post_id_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wi_lead_watch_time_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', '_wi_support_token', 'webinar_import_mapped_fields', 'webinarignitionx_meta_box_select', 'notice-webinarignition-free');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', '_wi_support_token', 'webinar_import_mapped_fields', 'webinarignitionx_meta_box_select', 'notice-webinarignition-free');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', '_wi_support_token', 'webinar_import_mapped_fields', 'webinarignitionx_meta_box_select', 'notice-webinarignition-free');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_first_name', 'billing_last_name', '_wi_support_token', 'webinar_import_mapped_fields', 'webinarignitionx_meta_box_select', 'notice-webinarignition-free');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wi_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wi_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wi_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wi_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%token';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%token';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%token';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%token';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%status';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%status';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%status';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%status';
+

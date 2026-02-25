@@ -1,0 +1,19 @@
+{
+  "options": [
+    "FancyPostPRO_lic_Key",
+    "FancyPostPRO_lic_email",
+    "_fpblock_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fpblock_errors_*",
+    "_wp_attachment_image_alt",
+    "post_views_count",
+    "_frhd_fp_post_options",
+    "_frhd_fp_user_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:46.049Z"
+}

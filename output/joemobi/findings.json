@@ -1,0 +1,15 @@
+{
+  "options": [
+    "joemobi_api_controllers",
+    "joemobi_api_base",
+    "joemobi_api_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dsq_thread_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:50.216Z"
+}

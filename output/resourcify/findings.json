@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_template_footer_options",
+    "resourcify__cur_tab__",
+    "_resourcify_output_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "resourcify__cur_tab__",
+    "resourcify_sources"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:02.586Z"
+}

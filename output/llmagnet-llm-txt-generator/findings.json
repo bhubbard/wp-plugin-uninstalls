@@ -1,0 +1,44 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "llmagnet_last_generated",
+    "llmagnet_ai_seo_optimizer_image_count",
+    "llmagnet_ai_seo_optimizer_images_without_alt",
+    "llmagnet_ai_seo_optimizer_settings",
+    "llmagnet_report_email",
+    "llmagnet_report_template",
+    "llmagnet_report_frequency",
+    "llmagnet_report_send_time",
+    "llmagnet_report_company_logo",
+    "llmagnet_plan",
+    "llmagnet_is_trial",
+    "llmagnet_db_version"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "llmagnet_woo_active",
+    "llmagnet_product_paths",
+    "llmagnet_ai_seo_optimizer_last_run"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "llmagnet_ai_seo_daily_event",
+    "llmagnet_visibility_score_daily",
+    "llmagnet_scheduled_email_report",
+    "llmagnet_weekly_analytics_report"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:49.759Z"
+}

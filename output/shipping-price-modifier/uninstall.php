@@ -1,0 +1,13 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('dynowp_shipping_price_modifier_options');
+delete_site_option('dynowp_shipping_price_modifier_options');
+delete_option('woocommerce_currency_pos');
+delete_site_option('woocommerce_currency_pos');
+

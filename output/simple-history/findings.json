@@ -1,0 +1,36 @@
+{
+  "options": [
+    "simple_history_detective_mode_enabled",
+    "simple_history_experimental_features_enabled",
+    "simple_history_enable_rss_feed",
+    "simple_history_rss_secret",
+    "simple_history_email_report_enabled",
+    "simple_history_pager_size",
+    "simple_history_pager_size_dashboard",
+    "simple_history_show_on_dashboard",
+    "simple_history_show_as_page",
+    "simple_history_show_in_admin_bar",
+    "simple_history_total_logged_events_count",
+    "simple_history_install_date_gmt",
+    "simple_history_email_report_recipients",
+    "simple_history_db_version",
+    "simple_history_menu_page_location",
+    "limit_login_retries",
+    "*_plugin_info_before_update",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "settings_errors",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "simple_history/email_report",
+    "simple_history/maybe_purge_db"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:47.335Z"
+}

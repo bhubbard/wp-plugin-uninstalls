@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('opcm_plugin_options_logger', 'opcm_plugin_options_adminbar', 'opcm_plugin_options_usecdn', 'opcm_plugin_options_nag', 'opcm_plugin_features_analytics', 'opcm_plugin_features_history', 'opcm_plugin_features_metrics', 'opcm_plugin_features_reset_frequency', 'opcm_plugin_features_warmup', 'auto_update_plugins', 'update_plugins');
+

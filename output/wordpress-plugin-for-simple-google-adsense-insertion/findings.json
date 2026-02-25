@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_in_article_ad_code",
+    "wp_post_article_ad_code",
+    "wp_ad_camp_1_code",
+    "wp_ad_camp_2_code",
+    "wp_ad_camp_3_code",
+    "wp_ad_camp_4_code",
+    "wp_ad_camp_5_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:35.547Z"
+}

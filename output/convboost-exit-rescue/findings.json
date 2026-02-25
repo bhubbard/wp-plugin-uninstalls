@@ -1,0 +1,14 @@
+{
+  "options": [
+    "convbst_er_settings",
+    "convbst_er_health"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_convbst_er_disable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:28.603Z"
+}

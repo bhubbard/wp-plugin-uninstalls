@@ -1,0 +1,21 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpmembers_dialogs', 'wpmem_dismiss_filesystem_upgrade_notice', 'wpmembers_utfields', 'wpmembers_usfields', 'wpmembers_captcha', 'wpmembers_tos', 'wpmembers_dropins', 'wpmembers_email_wpfrom', 'wpmembers_email_wpname', 'wpmembers_email_html', 'wpmembers_fields', 'wpmembers_wcchkout_fields', 'wpmembers_wcacct_fields', 'wpmembers_wcupdate_fields', 'wpmem_upgrade_filesystem_move_complete', 'wpmem_legacy_dialogs', 'wpmembers_settings', 'wpmembers_optin', 'wpmem_file_dir_hash', 'wpmem_memberships', 'wpmem_hidden_posts', 'wpmembers_install_state', 'wpmem_enable_field_sc', 'wpmembers_msurl', 'wpmembers_regurl', 'wpmembers_logurl', 'wpmembers_cssurl', 'wpmembers_style', 'wpmembers_autoex', 'wpmembers_attrib', 'wpmembers_export', 'wpmembers_email_newreg', 'wpmembers_email_newmod', 'wpmembers_email_appmod', 'wpmembers_email_repass', 'wpmembers_email_footer', 'wpmembers_email_notify', 'wpmembers_email_getuser', 'wpmembers_email_validated', 'widget_widget_wpmemwidget', 'widget_wpmemwidget', 'wpmem_user_counts', '_wpmem_hidden_posts');
+DELETE FROM wp_options WHERE option_name LIKE '%-license';
+DELETE FROM wp_options WHERE option_name LIKE 'wpmem_user_counts_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wpmem_block', 'block', 'unblock', 'active', '_wpmem_user_confirmed', 'wpmem_product_child_access', 'wpmem_product_message', 'wpmem_product_name', 'wpmem_product_default', 'wpmem_product_role', 'wpmem_product_expires', 'wpmem_product_no_gap', 'wpmem_product_fixed_period', '_wpmem_activation_confirm', 'expires', 'wpmem_user_dir_hash', 'exp_type', 'wpmem_reg_url', 'wpmem_reg_ip', 'tos', 'exported', '_wpmem_products');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wpmem_block', 'block', 'unblock', 'active', '_wpmem_user_confirmed', 'wpmem_product_child_access', 'wpmem_product_message', 'wpmem_product_name', 'wpmem_product_default', 'wpmem_product_role', 'wpmem_product_expires', 'wpmem_product_no_gap', 'wpmem_product_fixed_period', '_wpmem_activation_confirm', 'expires', 'wpmem_user_dir_hash', 'exp_type', 'wpmem_reg_url', 'wpmem_reg_ip', 'tos', 'exported', '_wpmem_products');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wpmem_block', 'block', 'unblock', 'active', '_wpmem_user_confirmed', 'wpmem_product_child_access', 'wpmem_product_message', 'wpmem_product_name', 'wpmem_product_default', 'wpmem_product_role', 'wpmem_product_expires', 'wpmem_product_no_gap', 'wpmem_product_fixed_period', '_wpmem_activation_confirm', 'expires', 'wpmem_user_dir_hash', 'exp_type', 'wpmem_reg_url', 'wpmem_reg_ip', 'tos', 'exported', '_wpmem_products');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wpmem_block', 'block', 'unblock', 'active', '_wpmem_user_confirmed', 'wpmem_product_child_access', 'wpmem_product_message', 'wpmem_product_name', 'wpmem_product_default', 'wpmem_product_role', 'wpmem_product_expires', 'wpmem_product_no_gap', 'wpmem_product_fixed_period', '_wpmem_activation_confirm', 'expires', 'wpmem_user_dir_hash', 'exp_type', 'wpmem_reg_url', 'wpmem_reg_ip', 'tos', 'exported', '_wpmem_products');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wpmem_product_set_default_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wpmem_product_set_default_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wpmem_product_set_default_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wpmem_product_set_default_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_wpmem_products_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_wpmem_products_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_wpmem_products_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_wpmem_products_%';
+

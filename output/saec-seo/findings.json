@@ -1,0 +1,28 @@
+{
+  "options": [
+    "saec_seo_systemic_last",
+    "saec_seo_systemic_alerts_last_sent",
+    "saec_seo_gsc_pages"
+  ],
+  "transients": [
+    "saec_seo_last_notice_details",
+    "saec_seo_gsc_state_*"
+  ],
+  "cron_jobs": [
+    "saec_seo_cron_rebuild_scores",
+    "saec_seo_cron_run_autofix",
+    "saec_seo_daily_rebuild_scores",
+    "saec_seo_daily_autofix_dryrun",
+    "saec_seo_daily_regression_scan",
+    "saec_seo_systemic_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_saec_seo_title",
+    "_saec_seo_description",
+    "_saec_seo_social_image",
+    "_saec_seo_baseline"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:28.685Z"
+}

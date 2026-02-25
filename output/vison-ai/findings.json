@@ -1,0 +1,14 @@
+{
+  "options": [
+    "vison_ai_token",
+    "vison_ai_domain",
+    "vison_ai_analysis_url",
+    "vison_ai_script_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:48.286Z"
+}

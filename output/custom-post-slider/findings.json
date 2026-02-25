@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tzcustom-db-version",
+    "tzcustom-update-notification",
+    "tzcustom-curr-version",
+    "tzcustom_excerptlen_one",
+    "tzcustom_excerptlen",
+    "tzcustomsmethod*",
+    "optset*",
+    "tzcustomsmethod1",
+    "tzcustomsmethod2",
+    "tzcustomsmethod3"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:39.397Z"
+}

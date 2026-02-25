@@ -1,0 +1,23 @@
+{
+  "options": [
+    "donate_areas",
+    "wanttoforgive",
+    "buttonlocation",
+    "donationplace",
+    "buttontitle",
+    "test",
+    "text",
+    "number",
+    "textarea",
+    "select",
+    "editor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "donate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:03.470Z"
+}

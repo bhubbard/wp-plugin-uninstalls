@@ -1,0 +1,17 @@
+{
+  "options": [
+    "threecal_settings",
+    "threecal_db_version"
+  ],
+  "transients": [
+    "threecal_activated"
+  ],
+  "cron_jobs": [
+    "threecal_daily_notifications",
+    "threecal_cleanup_expired"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:43.141Z"
+}

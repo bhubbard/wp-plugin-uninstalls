@@ -1,0 +1,16 @@
+{
+  "options": [
+    "push7_appno",
+    "wpbitly-options"
+  ],
+  "transients": [
+    "*push7_register_url"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:08.639Z"
+}

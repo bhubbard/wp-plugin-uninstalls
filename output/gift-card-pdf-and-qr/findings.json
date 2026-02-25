@@ -1,0 +1,25 @@
+{
+  "options": [
+    "gcpqr_product_id"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_product_attributes",
+    "attribute_*",
+    "_regular_price",
+    "_price",
+    "_manage_stock",
+    "_stock",
+    "_stock_status",
+    "recipient_email",
+    "amount",
+    "order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:30.313Z"
+}

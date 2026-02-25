@@ -1,0 +1,16 @@
+{
+  "options": [
+    "thpeddup_pro_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thpeddup_enable_checkout_page",
+    "thpeddup_upcross_select",
+    "thpeddup_enable_popup",
+    "thpeddup_popup_heading"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:04.278Z"
+}

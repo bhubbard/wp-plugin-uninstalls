@@ -1,0 +1,19 @@
+{
+  "options": [
+    "traqueamento",
+    "produto",
+    "categoria",
+    "keywords",
+    "compre_ja",
+    "mercado_pago",
+    "min",
+    "max",
+    "style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:52.987Z"
+}

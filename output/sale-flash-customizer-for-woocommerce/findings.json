@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woocommerce_version",
+    "alg_wc_sale_flash_customizer_global_enabled",
+    "alg_wc_sale_flash_customizer_per_product_enabled",
+    "alg_wc_sale_flash_customizer_per_product_cat_enabled",
+    "alg_wc_sale_flash_customizer_per_product_tag_enabled",
+    "alg_wc_sale_flash_customizer_hide_everywhere",
+    "alg_wc_sale_flash_customizer_hide_on_archives",
+    "alg_wc_sale_flash_customizer_hide_on_single",
+    "alg_wc_sale_flash_customizer_global_html",
+    "*_list",
+    "*_html",
+    "alg_wc_sale_flash_customizer_version",
+    "*_reset",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:47.890Z"
+}

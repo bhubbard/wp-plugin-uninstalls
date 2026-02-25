@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wbte_gc_smart_coupon_menu_higlight_is_removed",
+    "wbte_sc_hidden_promotion_banners",
+    "wt_gc_products_old_visibility_state",
+    "wt_gc_migrated_from_smart_coupon",
+    "wt-smart-coupon-for-woo_store_credit",
+    "woocommerce_prices_include_tax",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wt_gc_templates",
+    "_wt_gc_enable_template",
+    "_wt_smart_coupon_credit_activated",
+    "_wt_smart_coupon_initial_credit",
+    "_wt_gc_gift_card_product",
+    "wt_credit_coupons",
+    "wt_auto_generated_store_credit_coupon",
+    "_wt_gc_auto_generated_store_credit_coupon",
+    "_wt_gc_store_credit_coupon",
+    "_wt_gc_purchase_options",
+    "_wt_gc_amounts",
+    "_wt_sc_send_date_gmt",
+    "wt_credit_history",
+    "_wt_sc_send_the_generated_credit"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:29.356Z"
+}

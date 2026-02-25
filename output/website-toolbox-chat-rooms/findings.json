@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wtbChatRoomPageid",
+    "wtb_chatroom_username",
+    "wtb_chatroom_api",
+    "wtb_chatroom_redirect",
+    "wtb_chatroom_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_links_chat_to",
+    "_links_chat_to_target",
+    "_links_chat_to_type",
+    "_wtbchatroom_redirect_active"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:59.874Z"
+}

@@ -1,0 +1,16 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'postfo_options'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_postfo_processing_%' OR option_name LIKE '_site_transient_postfo_processing_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_postfo_lock_%' OR option_name LIKE '_site_transient_postfo_lock_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_postfo_forwarded_%' OR option_name LIKE '_site_transient_postfo_forwarded_%'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'postfo_product'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'postfo_product'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'postfo_product'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'postfo_product'"

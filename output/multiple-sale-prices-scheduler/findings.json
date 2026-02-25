@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ayudawp_msps_settings"
+  ],
+  "transients": [
+    "msps_notified_*",
+    "msps_notifications",
+    "ayudawp_msps_activation_notice"
+  ],
+  "cron_jobs": [
+    "ayudawp_msps_check_scheduled_sales"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_msps_scheduled_sales",
+    "_msps_overlap_priority",
+    "msps_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:03.690Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "h24_ca_gdpr_message"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "h24_cartflow_ca_update_order_status_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "shipping_phone",
+    "thumbnail_id",
+    "my_database_admin_active_db",
+    "WooCommerceEventsTicketsGenerated",
+    "WooCommerceEventsTicketID",
+    "WooCommerceEventsTicketHash",
+    "WooCommerceEventsProductID"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:09.124Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "categories_filter",
+    "show_unique"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ppw_cache_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:45.671Z"
+}

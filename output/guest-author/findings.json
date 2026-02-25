@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bs-guest-author-integration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "BS_guest_author_name",
+    "BS_guest_author_url",
+    "BS_guest_author_description",
+    "BS_guest_author_image_id",
+    "BS_author_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:48.701Z"
+}

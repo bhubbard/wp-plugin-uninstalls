@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_settings",
+    "logisnap_settings",
+    "logisnap_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "parcel_pickup_id",
+    "_customer_user",
+    "parcel_pickup_place_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:01.684Z"
+}

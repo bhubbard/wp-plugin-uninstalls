@@ -1,0 +1,17 @@
+{
+  "options": [
+    "etrp_version",
+    "etrp_cache_version",
+    "etrp_delete_data_on_uninstall",
+    "etrp_max_replacements",
+    "etrp_cache_expiration"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:13.552Z"
+}

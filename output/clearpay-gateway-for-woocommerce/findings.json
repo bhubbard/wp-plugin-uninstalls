@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_clearpay_settings",
+    "woocommerce_clearpay_api_error",
+    "woocommerce_currency"
+  ],
+  "transients": [
+    "clearpay-admin-activation-notice"
+  ],
+  "cron_jobs": [
+    "clearpay_do_cron_jobs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:19.361Z"
+}

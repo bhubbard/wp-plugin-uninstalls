@@ -1,0 +1,18 @@
+{
+  "options": [
+    "yrc_version",
+    "*_refresh",
+    "yrc_keys",
+    "yrc_lang_terms",
+    "yrc_license_key",
+    "yrc_wrong_version_notice"
+  ],
+  "transients": [
+    "*_perm"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:58.366Z"
+}

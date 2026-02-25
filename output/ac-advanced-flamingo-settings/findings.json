@@ -1,0 +1,25 @@
+{
+  "options": [
+    "acafs_enable_persistent_uploads",
+    "acafs_disable_address_book",
+    "acafs_rename_flamingo",
+    "acafs_default_flamingo_page",
+    "acafs_version",
+    "acafs_display_fields"
+  ],
+  "transients": [
+    "acafs_import_started",
+    "acafs_import_success",
+    "acafs_export_file",
+    "acafs_export_success",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_email",
+    "_field_your-message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:44.871Z"
+}

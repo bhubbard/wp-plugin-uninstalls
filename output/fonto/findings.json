@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*font_source",
+    "*embed_code_font_service",
+    "*embed_code_self_hosted",
+    "*font_name_style",
+    "*font_family_name",
+    "*font_variations",
+    "*_individual",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:24.407Z"
+}

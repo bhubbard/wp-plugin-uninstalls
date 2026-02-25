@@ -1,0 +1,24 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "thswc_since",
+    "thswc_user_role",
+    "thswc_user_email",
+    "thswc_brand_logo",
+    "thswc_brand_color",
+    "woocommerce_ship_to_destination",
+    "woocommerce_enable_order_comments",
+    "woocommerce_tax_total_display",
+    "woocommerce_enable_shipping_calc"
+  ],
+  "transients": [
+    "thswc_check_preview_*",
+    "thswc_template_preview*",
+    "thswc_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:36.846Z"
+}

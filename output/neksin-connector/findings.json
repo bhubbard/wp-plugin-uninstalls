@@ -1,0 +1,42 @@
+{
+  "options": [
+    "neksin_api_key",
+    "neksin_is_connected",
+    "neksin_validated_at",
+    "neksin_rate_limit_data"
+  ],
+  "transients": [
+    "neksin_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_product_short_description",
+    "_fl_builder_data",
+    "ct_builder_json",
+    "ct_builder_shortcodes",
+    "_bricks_page_content_2",
+    "brizy_post_compiled_html",
+    "brizy_post_editor_data",
+    "tve_updated_post",
+    "tve_content_before_more",
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_aioseo_description",
+    "_seopress_titles_desc",
+    "_elementor_edit_mode",
+    "_et_pb_use_builder",
+    "_fl_builder_enabled",
+    "brizy_post_uid",
+    "_neksin_elementor_backup_last",
+    "_elementor_css",
+    "_elementor_inline_svg",
+    "_elementor_controls_usage",
+    "_elementor_page_assets",
+    "_product_url",
+    "_button_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:36.459Z"
+}

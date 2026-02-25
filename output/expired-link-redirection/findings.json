@@ -1,0 +1,22 @@
+{
+  "options": [
+    "elrlitev_options"
+  ],
+  "transients": [
+    "elrlitev_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elrlitev_original_url",
+    "_elrlitev_redirect_url",
+    "_elrlitev_expire_time",
+    "_elrlitev_hits",
+    "_elrlitev_is_template",
+    "_elrlitev_autolink_keywords",
+    "_elrlitev_expire_value",
+    "_elrlitev_expire_unit"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:32.330Z"
+}

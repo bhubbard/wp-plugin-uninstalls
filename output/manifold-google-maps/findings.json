@@ -1,0 +1,20 @@
+{
+  "options": [
+    "manifold_google_maps_googlekey",
+    "*_googlekey"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "manifold-google-maps-address",
+    "manifold-google-maps-lat",
+    "manifold-google-maps-long",
+    "manifold-google-maps-phone",
+    "manifold-google-maps-weblink",
+    "manifold-google-maps-email",
+    "manifold-google-maps-description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:37.918Z"
+}

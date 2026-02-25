@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*db_version",
+    "*facebook_app_id",
+    "*facebook_app_secret",
+    "*youtube_api_key",
+    "*stats",
+    "*api_call_count",
+    "*locale",
+    "*cache_time",
+    "*cache_unit",
+    "*strings",
+    "*custom_css",
+    "*license_key",
+    "*logs",
+    "*sources",
+    "*timezone"
+  ],
+  "transients": [
+    "cgusf_api_call_tick"
+  ],
+  "cron_jobs": [
+    "*refreshAccessTokens"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:39.982Z"
+}

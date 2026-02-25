@@ -1,0 +1,15 @@
+{
+  "options": [
+    "acadlix_single_course_elementor_template",
+    "acadlix_all_course_elementor_template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type",
+    "description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:21.118Z"
+}

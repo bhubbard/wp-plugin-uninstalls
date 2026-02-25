@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sticky_topbar_bg', 'sticky_topbar_tcolor', 'sticky_topbar_bbg', 'sticky_topbar_tc', 'sticky_topbar_font_size', 'sticky_topbar_height', 'sticky_topbar_show_on', 'sticky_topbar_text', 'sticky_topbar_url', 'sticky_topbar_btn_text', 'sticky_topbar_facebook', 'sticky_topbar_twitter', 'sticky_topbar_linkedIn', 'sticky_topbar_pinterest', 'sticky_topbar_instagram', 'sticky_topbar_youtube', 'sticky_topbar_dribbble', 'sticky_topbar_medium', 'sticky_topbar_tumblr', 'sticky_topbar_vimeo', 'sticky_topbar_cell', 'sticky_topbar_social_off', 'sticky_topbar_social_hide_on_mob', 'sticky_cd_mth', 'sticky_cd_date', 'sticky_cd_yer', 'sticky_cd_time_hr', 'sticky_cd_time_min', 'sticky_cd_time_sec', 'topbar_countdown_off', 'topbar_show_on', 'studio_player_topbar_text', 'studio_player_topbar_url', 'studio_player_topbar_btn_text');
+

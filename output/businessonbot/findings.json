@@ -1,0 +1,51 @@
+{
+  "options": [
+    "businessonbot_db_version",
+    "businessonbot_api_script",
+    "businessonbot_abandoned_product_timeout",
+    "businessonbot_abandoned_cart_timeout",
+    "businessonbot_security_key",
+    "businessonbot_plugin_track_guest_cart_from_cart_page",
+    "businessonbot_enable_gdpr_consent",
+    "businessonbot_guest_cart_capture_msg",
+    "businessonbot_gdpr_allow_opt_out",
+    "businessonbot_gdpr_opt_out_message",
+    "businessonbot_plugin_cart_abandoned_time",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [
+    "businessonbot_abandoned_id",
+    "businessonbot_sent_id",
+    "businessonbot_user_id"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "businessonbot_gdpr_tracking_choice",
+    "_businessonbot_modified_cart",
+    "_woocommerce_persistent_cart",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_email",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_state",
+    "billing_country",
+    "billing_zipcode",
+    "shipping_first_name",
+    "shipping_last_name",
+    "shipping_address_1",
+    "shipping_address_2",
+    "shipping_city",
+    "shipping_state",
+    "shipping_postcode",
+    "shipping_country",
+    "_businessonbot_coupon",
+    "_woocommerce_persistent_cart_*",
+    "_businessonbot_modified_cart*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:13.590Z"
+}

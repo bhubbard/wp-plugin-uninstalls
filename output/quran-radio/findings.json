@@ -1,0 +1,28 @@
+{
+  "options": [
+    "radio_key",
+    "show_radio_url",
+    "show_radio_pdf",
+    "show_radio_podcast",
+    "show_radio_alllinks",
+    "show_radio_MediaPlayer",
+    "show_radio_QuickTime",
+    "show_radio_realplayer",
+    "show_radio_Winamp",
+    "show_radio_appstore",
+    "show_radio_tunein",
+    "show_radio_soundcloud",
+    "show_radio_twitter",
+    "show_radio_facebook",
+    "check_autostart",
+    "radio_title",
+    "hidden_radio_player",
+    "hidden_radio_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:53.707Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vimo_csbl_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vimo_csbl_title",
+    "vimo_csbl_menu",
+    "vimo_csbl_selectedPages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:56.948Z"
+}

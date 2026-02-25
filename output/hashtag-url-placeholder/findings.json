@@ -1,0 +1,25 @@
+{
+  "options": [
+    "hashtag_name_one",
+    "hashtag_post_type_query_one",
+    "hashtag_post_type_category_query_one",
+    "hashtag_name_two",
+    "hashtag_post_type_query_two",
+    "hashtag_post_type_category_query_two",
+    "hashtag_name_three",
+    "hashtag_post_type_query_three",
+    "hashtag_post_type_category_query_three",
+    "hashtag_name_four",
+    "hashtag_post_type_query_four",
+    "hashtag_post_type_category_query_four",
+    "hashtag_name_five",
+    "hashtag_post_type_query_five",
+    "hashtag_post_type_category_query_five"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:28.167Z"
+}

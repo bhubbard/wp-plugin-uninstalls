@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpfp_where_hear_about_us",
+    "wpfp_data_submited_in_sendiblue",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "wpfp_version",
+    "md_woocommerce_shipping_method_format",
+    "woocommerce_recommoded_product_record"
+  ],
+  "transients": [
+    "_welcome_screen_activation_redirect_wpfp",
+    "prd_att_qry*",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:25.286Z"
+}

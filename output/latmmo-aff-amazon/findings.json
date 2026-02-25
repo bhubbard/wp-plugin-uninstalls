@@ -1,0 +1,40 @@
+{
+  "options": [
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_price_history",
+    "_asin",
+    "_url",
+    "_brand",
+    "_featured",
+    "_review_count",
+    "_rating",
+    "_system_rating",
+    "_amazon_img",
+    "_merchant_name",
+    "_merchant_id",
+    "_stock",
+    "is_prime",
+    "_gallery",
+    "_product_list",
+    "fields_visible_type",
+    "fields_visible",
+    "table_enable_redirect_single_product",
+    "table_text_score",
+    "table_rating_note",
+    "table_text_view_on_amazon",
+    "table_end_note",
+    "price_text_desc",
+    "price_text_note",
+    "_csf_errors_*",
+    "layout_type",
+    "table_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:52.540Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_spam_question_filter_db_version",
+    "wp_spam_question_filter_enable",
+    "wp_spam_question_filter_questions",
+    "wp_spam_question_filter_answers",
+    "wp_spam_question_filter_registration",
+    "wp_spam_question_filter_prefix",
+    "wp_spam_question_filter_question"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:13.413Z"
+}

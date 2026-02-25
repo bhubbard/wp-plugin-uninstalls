@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smartsupport_wp_settings",
+    "smartsupport_wp_rag_collections"
+  ],
+  "transients": [
+    "smartsupport_rag_notice",
+    "smartsupport_wp_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:35.012Z"
+}

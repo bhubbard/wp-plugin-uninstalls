@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('f12_prof_settings', 'f12_prof_crawl_status', 'f12_prof_crawl_lock', 'f12_prof_admin_notices', 'f12_prof_db_version', 'f12_perf_db_version', 'f12_prof_asset_conflicts', 'f12_prof_asset_suggestions', 'f12_prof_asset_suggestions_dismissed', 'f12_prof_asset_suggestions_generated_at', 'f12_prof_key_preloads', 'f12_prof_checklist_manual', 'f12_prof_image_opt_status', 'f12_prof_asset_scan_status', 'f12_prof_asset_scan_lock', 'f12_prof_asset_rules_cache', 'f12_prof_last_pagespeed_run', 'f12_prof_table_owners', 'f12_prof_autoload_snapshot', 'f12_perf_settings', 'f12_perf_crawl_status', 'f12_perf_crawl_lock', 'f12_perf_admin_notices', 'f12_perf_asset_scan_status', 'f12_perf_asset_scan_lock', 'f12_perf_asset_rules_cache', 'f12_perf_asset_conflicts', 'f12_perf_asset_suggestions', 'f12_perf_asset_suggestions_dismissed', 'f12_perf_asset_suggestions_generated_at', 'f12_perf_image_opt_status', 'f12_perf_last_pagespeed_run', 'f12_perf_table_owners', 'f12_prof_last_pagespeed_run', 'f12_prof_checklist_auto');
+

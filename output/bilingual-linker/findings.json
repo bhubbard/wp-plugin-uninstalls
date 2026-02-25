@@ -1,0 +1,18 @@
+{
+  "options": [
+    "BilingualLinkerGeneral"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bilingual-linker-other-lang-url-1",
+    "bilingual-linker-other-lang-url-2",
+    "bilingual-linker-other-lang-url-3",
+    "bilingual-linker-other-lang-url-4",
+    "bilingual-linker-other-lang-url-5",
+    "bilingual-linker-other-lang-url-*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:14.068Z"
+}

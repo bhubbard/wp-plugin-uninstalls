@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smart_address_enable_extension",
+    "smart_address_api_key",
+    "smart_address_country_list"
+  ],
+  "transients": [
+    "smart_address_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:45.992Z"
+}

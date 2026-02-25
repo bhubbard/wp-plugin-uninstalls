@@ -1,0 +1,15 @@
+{
+  "options": [
+    "payu_settings_option_name",
+    "_payu_plugin_version",
+    "woocommerce_payulistbanks_settings",
+    "woocommerce_payucreditcard_settings",
+    "woocommerce_payuinstallments_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:58.158Z"
+}

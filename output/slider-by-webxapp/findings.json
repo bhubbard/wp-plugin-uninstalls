@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wxas_slide_settings",
+    "wxas_theme_id",
+    "wxas_theme_meta",
+    "wxas_items_list"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:39.816Z"
+}

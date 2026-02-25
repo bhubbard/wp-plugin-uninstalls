@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ondokusan_do_activation_redirect",
+    "ondokusan_settings",
+    "ondokusan_last_result",
+    "ondokusan_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ondoku_mp3_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:46.554Z"
+}

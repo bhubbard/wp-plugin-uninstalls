@@ -1,0 +1,26 @@
+{
+  "options": [
+    "bctext",
+    "bc_d_ie6",
+    "bc_d_ie7",
+    "bc_d_ie8",
+    "bc_d_opera",
+    "bc_d_safari",
+    "bc_d_ns",
+    "bc_d_chrome",
+    "bc_d_mozilla",
+    "resolution",
+    "bc_d_iphone",
+    "bc_closebutton",
+    "bc_bg_colour",
+    "bc_text_colour",
+    "bc_swidth",
+    "bc_sheight"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:17.734Z"
+}

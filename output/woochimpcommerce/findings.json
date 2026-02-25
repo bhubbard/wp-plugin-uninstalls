@@ -1,0 +1,28 @@
+{
+  "options": [
+    "mailchimp_api",
+    "add_prostatus_mailChimp",
+    "allcat_status_mailchimp",
+    "_mailchimpCustom",
+    "_mailchimp_checkbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_email",
+    "_mailchimpProSingle",
+    "billing_phone",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_company",
+    "billing_country",
+    "billing_address_1",
+    "billing_city",
+    "billing_state",
+    "billing_postcode",
+    "mailchimp_checkbox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:03.579Z"
+}

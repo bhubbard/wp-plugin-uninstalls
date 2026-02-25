@@ -1,0 +1,25 @@
+{
+  "options": [
+    "VWpictureGalleryOptions",
+    "VWpaidMembershipOptions",
+    "VWpictureGalleryWidgetOptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "picture-thumbnail",
+    "picture-views",
+    "rateStarReview_rating",
+    "picture-lastview",
+    "picture-width",
+    "picture-height",
+    "picture-source-file",
+    "picture-snapshot",
+    "ip_uploader",
+    "email_uploader",
+    "bp_activity_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:01.830Z"
+}

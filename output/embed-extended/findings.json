@@ -1,0 +1,19 @@
+{
+  "options": [
+    "embed_extended_version",
+    "embed_extended_notice_dismiss_greeting",
+    "embed_extended_notice_dismiss_*",
+    "embed_extended_url_patterns",
+    "embed_extended_url_patterns_mode",
+    "embed_extended_gmaps_api_key",
+    "embed_extended_parse_html_content",
+    "embed_extended_thumbnail_position",
+    "embed_extended_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:22.771Z"
+}

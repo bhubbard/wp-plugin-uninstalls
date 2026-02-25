@@ -1,0 +1,20 @@
+{
+  "options": [
+    "shwcp_main_settings*",
+    "shwcp_permissions*",
+    "shwcp_frontend_settings*",
+    "classic-editor-replace",
+    "shwcp_db_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wcp_cron_schedule_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wcp_db_select",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:55.799Z"
+}

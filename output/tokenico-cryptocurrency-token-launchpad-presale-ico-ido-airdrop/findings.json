@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_feedback_activation",
+    "bp_dismissed_notices",
+    "*_version",
+    "*_old_columns",
+    "tokenico_deployed_contracts",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:17.468Z"
+}

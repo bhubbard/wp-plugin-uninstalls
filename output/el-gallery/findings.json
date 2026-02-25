@@ -1,0 +1,22 @@
+{
+  "options": [
+    "el_gallery_mobile_detect",
+    "el_gallery_time",
+    "el_gallery_width",
+    "el_gallery_height",
+    "el_gallery_nav",
+    "el_gallery_nav_color",
+    "el_gallery_nav_light",
+    "el_gallery_center",
+    "el_gallery_icon",
+    "el_gallery_links"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:15.256Z"
+}

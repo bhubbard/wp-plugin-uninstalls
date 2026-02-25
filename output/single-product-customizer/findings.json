@@ -1,0 +1,25 @@
+{
+  "options": [
+    "sppcfw_basic",
+    "sppcfw_advanced",
+    "sppcfw_plugin_do_activation_redirect",
+    "sppcfw_myplugin_activation_date",
+    "sppcfw_review_dismissed",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "webcfwc_variation_meta",
+    "sppcfw_category_based_settings",
+    "sppcfw_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:36.645Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "inner_img",
+    "inner_main_title",
+    "inner_main_sub_title",
+    "gym_master_feature_one",
+    "service_meta_fields",
+    "field_one",
+    "inner_field_two",
+    "inner_field_three",
+    "inner_field_four",
+    "inner_shortcode",
+    "member_designation",
+    "member_facebook_link",
+    "member_google_plus_link",
+    "member_twitter_link",
+    "member_instagram_link",
+    "member_linkedin_link",
+    "member_youtube_link",
+    "member_pinterest_link",
+    "testimonial_member_designation",
+    "title",
+    "descriptions",
+    "pricing_meta_fields",
+    "gym_master_sidebar_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:21.541Z"
+}

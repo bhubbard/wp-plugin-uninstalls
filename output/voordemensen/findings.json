@@ -1,0 +1,13 @@
+{
+  "options": [
+    "voordemensen_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_voordemensen_meta_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:50.658Z"
+}

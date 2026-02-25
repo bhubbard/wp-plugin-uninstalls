@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cashtippr_tables",
+    "cashtippr_memcached_secret",
+    "cashtippr_is_installed",
+    "cashtippr_version",
+    "cashtippr_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ct_unused_address_search"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tipAmount",
+    "author_bch_address"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:45.412Z"
+}

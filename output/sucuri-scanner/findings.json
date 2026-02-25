@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_paged"
+  ],
+  "transients": [
+    "sucuriscan_online_users"
+  ],
+  "cron_jobs": [
+    "sucuriscan_scheduled_scan"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sucuriscan_preferred_theme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:13.064Z"
+}

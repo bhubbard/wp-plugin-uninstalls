@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ghl_clnt_id",
+    "ghl_clnt_scrt",
+    "ghl_location_connected"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:29.623Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpdesk_helper_options",
+    "flexible_coupons_expiry_date_format",
+    "_wcml_settings",
+    "woocommerce_currency",
+    "flexible_coupons_sample_templates",
+    "flexible_coupons_wpml_support",
+    "wpdesk_tracker_notice",
+    "wpdesk_tracker_agree"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_flexible_coupon_variation_base_on",
+    "_*",
+    "_editor_data",
+    "_fcpdf_coupon_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:15.784Z"
+}

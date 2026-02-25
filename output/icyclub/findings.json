@@ -1,0 +1,22 @@
+{
+  "options": [
+    "item_details_page",
+    "widget_businessup_slider-widget",
+    "widget_businessup_service_widget",
+    "widget_archives",
+    "widget_search",
+    "sidebars_widgets",
+    "widget_transportex_slider-widget",
+    "widget_transportex_service_widget",
+    "widget_yoga_slider-widget",
+    "widget_yoga_service_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:50.270Z"
+}

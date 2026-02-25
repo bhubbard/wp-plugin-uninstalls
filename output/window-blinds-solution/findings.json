@@ -1,0 +1,29 @@
+{
+  "options": [
+    "bmfm_is_blinds_order_placed",
+    "bmfm_freemium_page_id",
+    "bmfm_shop_blinds_page_id",
+    "bmfm_shop_accessories_page_id",
+    "bmfm_settings_resetted",
+    "*_page_id",
+    "woocommerce_email_from_address",
+    "woocommerce_email_from_name",
+    "woocommerce_currency",
+    "bmfm_stored_data",
+    "bmfm_plugin_status",
+    "bmfm_plugin_saved_date_timestamp",
+    "bmfm_blinds_plugin_activated",
+    "bmfm_requested_post_id",
+    "bm_requested_post_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bmfm_blinds_product",
+    "_wp_page_template",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:11.430Z"
+}

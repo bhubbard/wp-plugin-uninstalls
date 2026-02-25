@@ -1,0 +1,47 @@
+{
+  "options": [
+    "1day_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "eventSyncHotels"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "oneday_filter_form_url",
+    "property_code",
+    "oneday_filter_form_property_code",
+    "oneday_filter_form_hide_sorting",
+    "oneday_filter_form_default_sorting",
+    "oneday_filter_form_one_line",
+    "oneday_filter_form_alignment",
+    "oneday_filter_form_widget_width",
+    "oneday_filter_form_bg_color",
+    "oneday_filter_form_font_color",
+    "oneday_filter_form_border_radius",
+    "oneday_filter_form_btn_color",
+    "oneday_filter_form_btn_font_color",
+    "oneday_filter_form_btn_border_radius",
+    "oneday_filter_form_btn_text",
+    "oneday_filter_results_hide_hotel_name",
+    "oneday_filter_results_hide_hotel_image",
+    "oneday_filter_results_hide_hotel_description",
+    "oneday_filter_results_buttons_class",
+    "oneday_filter_results_buttons_padding",
+    "oneday_filter_results_buttons_background",
+    "oneday_filter_results_buttons_font_color",
+    "hotel_short_description",
+    "hotel_description",
+    "hotel_image",
+    "room_resources",
+    "room_deposits",
+    "room_checkin",
+    "room_checkout",
+    "room_features",
+    "odp_booking_data",
+    "_sku",
+    "1day_notice_closed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:39.097Z"
+}

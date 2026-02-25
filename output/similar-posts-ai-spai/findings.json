@@ -1,0 +1,12 @@
+{
+  "options": [
+    "spai_table_posts_data_sync_version",
+    "spai"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:29.660Z"
+}

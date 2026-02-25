@@ -1,0 +1,14 @@
+{
+  "options": [
+    "easyresy_reservation_days",
+    "easyresy_reservation_time_slots",
+    "easyresy_reservation_max_people",
+    "easyresy_reservation_theme_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:03.124Z"
+}

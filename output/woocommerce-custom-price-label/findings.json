@@ -1,0 +1,35 @@
+{
+  "options": [
+    "woocommerce_local_price_labels_enabled",
+    "woocommerce_custom_price_labels_disabled_options",
+    "*_reset",
+    "woocommerce_custom_price_label_enabled",
+    "woocommerce_custom_price_label_disable_for_bots",
+    "woocommerce_custom_price_label_override_global_with_local",
+    "alg_woocommerce_global_price_labels_hide_on",
+    "alg_woocommerce_global_price_labels_show_on",
+    "woocommerce_global_price_labels_enabled",
+    "alg_woocommerce_global_price_labels_roles_to_hide",
+    "alg_woocommerce_global_price_labels_roles_to_show",
+    "woocommerce_global_price_labels_add_before_text",
+    "woocommerce_global_price_labels_add_after_text",
+    "woocommerce_global_price_labels_between_regular_and_sale_text",
+    "woocommerce_global_price_labels_remove_text",
+    "woocommerce_global_price_labels_replace_text",
+    "woocommerce_global_price_labels_replace_with_text",
+    "woocommerce_version",
+    "woocommerce_local_price_labels_wrap_enabled",
+    "*_prepend",
+    "*_append",
+    "active_sitewide_plugins",
+    "alg_wc_custom_price_label_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:14.343Z"
+}

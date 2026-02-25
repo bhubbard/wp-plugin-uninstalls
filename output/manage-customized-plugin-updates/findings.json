@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wsx_mcpu_plugin_do_activation_redirect",
+    "wsx_set_user_accs"
+  ],
+  "transients": [
+    "wsx-mcpu-active-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:34.497Z"
+}

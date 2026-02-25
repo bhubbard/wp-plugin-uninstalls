@@ -1,0 +1,17 @@
+{
+  "options": [
+    "el_edd_data",
+    "apbd_prov_*",
+    "active_sitewide_plugins",
+    "health-check-allowed-plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "edd_variable_prices",
+    "_el_product_license"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:10.095Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "like_dislike_vote_tracking_enabled",
+    "like_dislike_hide_dislike_btn",
+    "like_dislike_for_wp_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:59.548Z"
+}

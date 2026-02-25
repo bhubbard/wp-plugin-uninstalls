@@ -1,0 +1,17 @@
+{
+  "options": [
+    "CP_MVC_LOAD_SCRIPTS",
+    "CP_MVC_DATEFORMAT",
+    "installed_*"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [
+    "cpmvc_data_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:55.854Z"
+}

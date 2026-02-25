@@ -1,0 +1,14 @@
+{
+  "options": [
+    "smartcb_banner_title",
+    "smartcb_banner_desc",
+    "smartcb_banner_accept_btn",
+    "smartcb_banner_decline_btn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:10.471Z"
+}

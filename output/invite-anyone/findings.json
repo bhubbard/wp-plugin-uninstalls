@@ -1,0 +1,21 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "invite_anyone",
+    "invite_anyone_db_version",
+    "limited_email_domains"
+  ],
+  "transients": [
+    "cloudsponge-services",
+    "ia_user_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bp_ia_accepted",
+    "bp_ia_is_cloudsponge",
+    "opt_out"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:17.353Z"
+}

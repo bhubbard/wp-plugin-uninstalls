@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_amf_show_admin_menu",
+    "_amf_admin_menu_html",
+    "_amf_collapse_admin_menu",
+    "_amf_fixate_admin_menu"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:35.519Z"
+}

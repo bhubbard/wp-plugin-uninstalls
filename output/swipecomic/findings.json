@@ -1,0 +1,35 @@
+{
+  "options": [
+    "swipecomic_default_zoom",
+    "swipecomic_default_pan",
+    "swipecomic_episodes_per_page",
+    "swipecomic_show_lightbox_tools",
+    "swipecomic_thumbnail_size",
+    "swipecomic_media_optimization",
+    "swipecomic_delete_on_remove",
+    "swipecomic_use_url_prefix",
+    "swipecomic_url_prefix",
+    "swipecomic_version"
+  ],
+  "transients": [
+    "swipecomic_flush_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_swipecomic_images",
+    "_wp_attachment_image_alt",
+    "_swipecomic_episode_number",
+    "_swipecomic_default_zoom_type",
+    "_swipecomic_default_zoom_value",
+    "_swipecomic_default_pan_type",
+    "_swipecomic_default_pan_x",
+    "_swipecomic_default_pan_y",
+    "series_cover_image_id",
+    "series_logo_id",
+    "series_logo_position",
+    "_swipecomic_chapter_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:59.771Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "crmfwc-users-roles",
+    "crmfwc-email",
+    "crmfwc-passw",
+    "wcexd_company_invoice",
+    "wcexd_private_invoice",
+    "wcefr_company_invoice",
+    "wcefr_private_invoice"
+  ],
+  "transients": [
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "crmfwc-id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:54.695Z"
+}

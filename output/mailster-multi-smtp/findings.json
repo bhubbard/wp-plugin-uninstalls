@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_transient_timeout__mailster_send_period_timeout_*",
+    "_transient_timeout__mailster_send_period_timeout"
+  ],
+  "transients": [
+    "_mailster_send_period_timeout_*",
+    "_mailster_send_period_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mailster-multismtp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:09.598Z"
+}

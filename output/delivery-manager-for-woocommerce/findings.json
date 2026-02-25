@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dman_is_auto_complete_delivery",
+    "dman_is_complete_order_on_delivery",
+    "dman_deliveries_menu_title",
+    "dman_version",
+    "dman_flash_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:28.874Z"
+}

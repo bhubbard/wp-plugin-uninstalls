@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ayudawp_wvc_jetpack_notice_dismissed",
+    "jetpack_active_modules",
+    "widget_*",
+    "ayudawp_wvc_conditions",
+    "ayudawp_wvc_settings",
+    "ayudawp_wvc_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:04.865Z"
+}

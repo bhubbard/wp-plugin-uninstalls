@@ -1,0 +1,52 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "gsportfolio_dummy_data_created",
+    "gsportfolio_dummy_shortcode_data_created",
+    "gs_portfolio_autoimport_done",
+    "gsportfolio_activation_redirect",
+    "gsportfolio_active_time",
+    "gsportfolio_maybe_later",
+    "gsadmin_maybe_later",
+    "gs_portfolio_permalinks_flushed",
+    "gs_portfolio_plugin_version",
+    "gsp_terms_table_altered"
+  ],
+  "transients": [
+    "gsportfolio_dummy_data_creating",
+    "gsportfolio_dummy_shortcode_data_creating",
+    "gsportfolio_dummy_terms",
+    "gsportfolio_dummy_attachments",
+    "gsportfolio_dummy_portfolios",
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "client_url",
+    "gsportfolio-demo_data",
+    "_thumbnail_id",
+    "gsp_video_url",
+    "gsp_audio_url",
+    "gsp_gallery",
+    "gsp_media",
+    "_gs_portfolio_import_id",
+    "_wp_attachment_image_alt",
+    "gsp_subtitle",
+    "gsp_client_name",
+    "start_date",
+    "end_date",
+    "wp_editor",
+    "gsp_skills",
+    "status",
+    "gsp_additional_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:36.801Z"
+}

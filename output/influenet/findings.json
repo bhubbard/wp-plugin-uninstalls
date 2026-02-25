@@ -1,0 +1,15 @@
+{
+  "options": [
+    "influenet_api_key",
+    "influenet_author_id",
+    "influenet_author"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "meta_influenet"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:15.840Z"
+}

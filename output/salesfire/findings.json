@@ -1,0 +1,13 @@
+{
+  "options": [
+    "salesfire_tracking",
+    "salesfire_uuid",
+    "salesfire_product_prefix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:27.951Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wcp_pro_features",
+    "wcp_debug_mode",
+    "wcp_disable_all",
+    "wcp_ruleset_order",
+    "woocommerce_tax_display_cart",
+    "wcp_updated_200",
+    "wcp_*",
+    "wcp_updated_214"
+  ],
+  "transients": [
+    "wcp_name_address_fields"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcp_enabled",
+    "_wcp_operator",
+    "_wcp_conditions",
+    "_wcp_actions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:55.134Z"
+}

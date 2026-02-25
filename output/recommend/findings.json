@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_recommend_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_recommend_likes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:53.858Z"
+}

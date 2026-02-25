@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ipv_count_blocked",
+    "ipv_log_keep_days",
+    "ipv_modus",
+    "ipv_request_includes",
+    "ipv_request_excludes",
+    "ipv_auth_slug",
+    "ipv_gdpr_ips",
+    "ipv_use_asn",
+    "ipv_home_path",
+    "ipv_whitelist",
+    "ipv_auth_page_id"
+  ],
+  "transients": [
+    "ipv_ip_*"
+  ],
+  "cron_jobs": [
+    "ipv_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "session_tokens"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:31.429Z"
+}

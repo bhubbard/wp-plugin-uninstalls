@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_price_decimal_sep",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_display_shop",
+    "woocommerce_tax_display_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wyse_me_gift_card",
+    "coupon_amount",
+    "coupon_used",
+    "_cart_discount",
+    "_cart_discount_tax"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:41.365Z"
+}

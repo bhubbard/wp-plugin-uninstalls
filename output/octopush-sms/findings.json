@@ -1,0 +1,30 @@
+{
+  "options": [
+    "octopush_sms_email",
+    "octopush_sms_key",
+    "octopush_sms_sender",
+    "octopush_sms_admin_alert",
+    "octopush_sms_admin_alert_sent",
+    "octopush_sms_freeoption",
+    "octopush_sms_option_id_product",
+    "octopush_sms_admin_phone"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "octopush_sms_event_daily_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "last_login",
+    "billing_phone",
+    "billing_country",
+    "first_name",
+    "last_name",
+    "billing_last_name",
+    "billing_first_name",
+    "billing_firstname",
+    "billing_lastname"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:21.657Z"
+}

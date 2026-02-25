@@ -1,0 +1,22 @@
+{
+  "options": [
+    "voidempo_user_dashboard_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_employee_disabled",
+    "voidempo_project_start_date",
+    "voidempo_project_end_date",
+    "voidempo_project_manager",
+    "voidempo_project_members",
+    "voidempo_project_status",
+    "user_dob",
+    "user_joining_date",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:48.525Z"
+}

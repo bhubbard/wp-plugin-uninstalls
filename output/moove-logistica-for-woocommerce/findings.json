@@ -1,0 +1,36 @@
+{
+  "options": [
+    "txtClientNumber",
+    "txtDispatchDate",
+    "txtWeightInGrams",
+    "txtWidthInCentimeters",
+    "txtLengthInCentimeters",
+    "txtHeightInCentimeters",
+    "txtNoteOne",
+    "txtNoteTwo",
+    "txtRecipientCharge",
+    "txtVolumesNumber",
+    "txtCountry",
+    "txtZipCode",
+    "txtAddress",
+    "txtCity",
+    "txtState",
+    "txtContactName",
+    "txtPhone",
+    "txtEmail",
+    "txtAdditionalServices",
+    "txtStartDate",
+    "txtEndDate",
+    "ddlStatus",
+    "txtApiKey",
+    "plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:30.278Z"
+}

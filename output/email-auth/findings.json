@@ -1,0 +1,24 @@
+{
+  "options": [
+    "eauth_spf_server_ip",
+    "eauth_spf_server_ip_custom",
+    "eauth_from_address_force",
+    "eauth_from_address_name",
+    "eauth_reply_to",
+    "eauth_reply_to_name",
+    "eauth_dkim_selector",
+    "eauth_bounce_address_mode",
+    "eauth_dkim_domain_custom",
+    "eauth_from_address",
+    "eauth_bounce_address",
+    "eauth_dkim_domain"
+  ],
+  "transients": [
+    "eauth_org_domain_map"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:00.145Z"
+}

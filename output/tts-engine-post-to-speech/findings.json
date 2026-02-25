@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ttsengine_button_location_bottom",
+    "ttsengine_display_link",
+    "ttsengine_link_location_bottom",
+    "ttsengine_language",
+    "ttsengine_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:13.509Z"
+}

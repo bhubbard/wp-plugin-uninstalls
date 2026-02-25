@@ -1,0 +1,12 @@
+{
+  "options": [
+    "lzd_skyway_webrtc_api_key",
+    "lzd_skyway_webrtc_enable_external_user"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:37.091Z"
+}

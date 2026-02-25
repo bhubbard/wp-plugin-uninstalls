@@ -1,0 +1,26 @@
+{
+  "options": [
+    "mwp_inter_wc_chave_pix",
+    "mwp_inter_wc_patch_key_path",
+    "mwp_inter_wc_patch_ctr_path",
+    "mwp_inter_wc_token",
+    "mwp_inter_wc_secret_token",
+    "mwp_inter_wc_conta_corrente",
+    "mwp_inter_wc_beneficiario",
+    "mwp_inter_wc_cidade"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mwp_inter_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "qrcode",
+    "arquivo",
+    "copypast",
+    "nossoNumero",
+    "txid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:43.572Z"
+}

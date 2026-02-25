@@ -1,0 +1,32 @@
+{
+  "options": [
+    "mesh_settings",
+    "mesh_version",
+    "mesh_activation",
+    "mesh_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mesh_column_width",
+    "_mesh_css_class",
+    "_mesh_offset",
+    "_mesh_centered",
+    "show_mesh_template_panel",
+    "_mesh_template",
+    "_thumbnail_id",
+    "_mesh_*",
+    "dismissed_wp_pointers",
+    "_mesh_template_layout",
+    "_mesh_template_original",
+    "_mesh_section_id",
+    "_mesh_lp_equal",
+    "_mesh_row_class",
+    "_mesh_collapse",
+    "_mesh_title_display",
+    "_mesh_push_pull"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:28.096Z"
+}

@@ -1,0 +1,38 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_additionalServices'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_frontend_label'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_frontend_description'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_min'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_cost'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_cost_type'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_apikey'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_conf'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_brand'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_dropoff'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_dropoff_min'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_dropoff_cost'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_dropoff_cost_type'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_apply'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_area'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_limit'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'reshark_dropoffCode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'reshark_dropoffCode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'reshark_dropoffCode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'reshark_dropoffCode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'reshark_courierConfiguration'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'reshark_courierConfiguration'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'reshark_courierConfiguration'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'reshark_courierConfiguration'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_order_weight'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_order_weight'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_order_weight'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_order_weight'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_order_dimensions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_order_dimensions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_order_dimensions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_order_dimensions'"

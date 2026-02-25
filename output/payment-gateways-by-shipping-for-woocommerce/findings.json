@@ -1,0 +1,15 @@
+{
+  "options": [
+    "alg_wc_pgbsm_use_shipping_instance",
+    "alg_wc_pgbsm_reset_payment_method_on_totals",
+    "alg_wc_pgbsm_version",
+    "*_reset",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:35.531Z"
+}

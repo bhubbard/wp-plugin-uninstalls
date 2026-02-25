@@ -1,0 +1,18 @@
+{
+  "options": [
+    "notification",
+    "notification_bg_color",
+    "notification_txt_color",
+    "notification_bar_fonts",
+    "notification_btn_txt",
+    "notification_btn_url",
+    "notification_btn_bg_color",
+    "notification_btn_txt_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:36.474Z"
+}

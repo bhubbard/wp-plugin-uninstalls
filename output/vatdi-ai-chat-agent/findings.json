@@ -1,0 +1,42 @@
+{
+  "options": [
+    "vatdi_ai_chat_agent_site_key",
+    "vatdi_ai_chat_agent_site_secret",
+    "vatdi_ai_chat_agent_widget_enabled",
+    "vatdi_ai_chat_agent_dashboard_url",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_store_address_email",
+    "woocommerce_store_address_phone",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "vatdi_connect_nonce",
+    "vatdi_ai_chat_agent_connection_status"
+  ],
+  "cron_jobs": [
+    "vatdi_ai_chat_agent_sync_full_background",
+    "vatdi_ai_chat_agent_sync_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_description",
+    "rank_math_canonical_url",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_canonical",
+    "_yoast_wpseo_opengraph-title",
+    "_yoast_wpseo_opengraph-description",
+    "_yoast_wpseo_opengraph-image",
+    "_menu_modified",
+    "_wp_attachment_image_alt",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:20.870Z"
+}

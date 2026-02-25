@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sc_cart_theme",
+    "sc_cart_primary",
+    "sc_cart_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:34.441Z"
+}

@@ -1,0 +1,34 @@
+{
+  "options": [
+    "summaraize_openai_api_key",
+    "summaraize_post_types",
+    "summaraize_google_gemini_api_key",
+    "summaraize_oneclick_license",
+    "summaraize_ai_provider",
+    "summaraize_widget_title",
+    "summaraize_display_position",
+    "summaraize_display_mode",
+    "summaraize_button_style",
+    "summaraize_button_color",
+    "summaraize_list_type",
+    "summaraize_ai_model"
+  ],
+  "transients": [
+    "summaraize_gemini_api_key_valid",
+    "summaraize_openai_models"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "summaraize_points",
+    "summaraize_override_settings",
+    "summaraize_view",
+    "summaraize_mode",
+    "summaraize_widget_title",
+    "summaraize_button_style",
+    "summaraize_button_color",
+    "summaraize_list_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:02.372Z"
+}

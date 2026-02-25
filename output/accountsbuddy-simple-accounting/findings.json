@@ -1,0 +1,36 @@
+{
+  "options": [
+    "abas_plugin_is_activated",
+    "abas_main_menu_name",
+    "abas_accounting_logo",
+    "abas_accounting_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "active_company",
+    "_company_id",
+    "_account_number",
+    "_account_title",
+    "_account_type",
+    "_account_description",
+    "_*",
+    "_taxonomy-abas_account_groups",
+    "_company-logo",
+    "_company_manual_id",
+    "_business_type",
+    "_address_1",
+    "_address_2",
+    "_city",
+    "_state",
+    "_country",
+    "_zip_code",
+    "_phone",
+    "_email",
+    "_currency",
+    "_about_company"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:54.918Z"
+}

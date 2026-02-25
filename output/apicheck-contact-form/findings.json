@@ -1,0 +1,16 @@
+{
+  "options": [
+    "apicheckcontactform_enable_disabled",
+    "apicheckcontactform_validate_number_addition",
+    "apicheckcontactform_validate_email",
+    "apicheckcontactform_api_key",
+    "apicheckcontactform_enabled_countries",
+    "apicheckcontactform_all_countries_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:09.521Z"
+}

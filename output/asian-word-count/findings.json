@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bjl_word_count_main",
+    "bjl_word_count_cache",
+    "bjl_word_count_author",
+    "bjl_word_count_month"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:34.888Z"
+}

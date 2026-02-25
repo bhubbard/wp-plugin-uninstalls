@@ -1,0 +1,16 @@
+{
+  "options": [
+    "auto_twitter_consumerKey",
+    "auto_twitter_consumerSecret",
+    "auto_twitter_accesToken",
+    "auto_twitter_accesTokenSecret",
+    "auto_twitter_bitly_username",
+    "auto_twitter_bitly_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:39.825Z"
+}

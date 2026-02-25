@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dashboard_quick_link_widget_enable",
+    "dashboard_quick_link_widget_title",
+    "dashboard_quick_link_widget_header_notice",
+    "dashboard_quick_link_widget_link_list",
+    "dashboard_quick_link_widget_open_link",
+    "dashboard_quick_link_widget_footer_notice",
+    "dashboard_quick_link_widget_mbox_bcolor",
+    "dashboard_quick_link_widget_mbox_fcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:53.327Z"
+}

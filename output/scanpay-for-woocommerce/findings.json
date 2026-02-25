@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wc_scanpay_version",
+    "woocommerce_scanpay_settings",
+    "woocommerce_scanpay_mobilepay_settings",
+    "woocommerce_scanpay_applepay_settings"
+  ],
+  "transients": [
+    "wc_scanpay_updating",
+    "*_needs_processing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:41.286Z"
+}

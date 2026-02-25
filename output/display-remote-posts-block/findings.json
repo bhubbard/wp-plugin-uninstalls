@@ -1,0 +1,17 @@
+{
+  "options": [
+    "display_remote_posts_block_cache",
+    "*_purchased",
+    "*_donated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "display_remote_posts_block_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*-notice-dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:04.183Z"
+}

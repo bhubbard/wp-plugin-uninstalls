@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_favepay_settings"
+  ],
+  "transients": [
+    "wc_favepay_order_payment_url_*"
+  ],
+  "cron_jobs": [
+    "wc_favepay_check_transaction_status"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:04.875Z"
+}

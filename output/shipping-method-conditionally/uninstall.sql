@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ship_hide_req', 'opening_hours_mon', 'opening_hours_tue', 'opening_hours_wed', 'opening_hours_thu', 'opening_hours_fri', 'opening_hours_sat', 'opening_hours_sun', 'select_time_zone', 'ship_hide_method_id', 'ship_hide_method_title', 'woo_same_installed', 'woo_same_version');
+

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ad_menu_settings_option",
+    "ad_menu_settings_toggle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:29.390Z"
+}

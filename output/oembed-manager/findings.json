@@ -1,0 +1,27 @@
+{
+  "options": [
+    "oemm_plugin_options_logger",
+    "oemm_plugin_options_adminbar",
+    "oemm_plugin_options_usecdn",
+    "oemm_plugin_options_nag",
+    "oemm_consumer_misc_disable_consumer",
+    "oemm_consumer_misc_mode",
+    "oemm_consumer_rules_block_*",
+    "oemm_consumer_rules_param_*",
+    "oemm_consumer_rules_text_*",
+    "oemm_consumer_advanced_clickable",
+    "oemm_consumer_advanced_ttl",
+    "oemm_consumer_advanced_timeout",
+    "oemm_consumer_advanced_size",
+    "oemm_producer_disable_producer",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:44.128Z"
+}

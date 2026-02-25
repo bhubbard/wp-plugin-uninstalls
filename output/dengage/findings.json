@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dengage_cdmp_api_username",
+    "dengage_cdmp_api_password",
+    "dengage_cdmp_execution_mode",
+    "dengage_cdmp_region",
+    "dengage_cdmp_sdk_script",
+    "dengage_accessToken"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dengage_enqueue"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:20.985Z"
+}

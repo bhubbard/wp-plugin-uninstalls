@@ -1,0 +1,48 @@
+{
+  "options": [
+    "_fluentcrm_experimental_settings",
+    "learndash_settings_groups_management_display",
+    "mint_contact_primary_fields",
+    "btcbi_app_conf",
+    "btcbi_db_version",
+    "btcbi_installed",
+    "btcbi_version",
+    "bit_integrations_pro_integrate_key_data",
+    "*allow_tracking",
+    "*tracking_notice_dismissed",
+    "*tracking_skipped",
+    "*tracking_last_sended_at"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "btcbi_delete_integ_log",
+    "*send_tracking_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_spam_meta_status",
+    "_bbp_pre_trashed_replies",
+    "_bbp_pre_spammed_replies",
+    "_sfwd-quizzes",
+    "_sfwd-quiz",
+    "completed_*",
+    "course_completed_*",
+    "learndash_course_expired_*",
+    "_sfwd-course_progress",
+    "curriculum",
+    "_pods_*",
+    "_*",
+    "ws_id",
+    "ndpv_attach_type",
+    "_wpf_member_obj",
+    "_price",
+    "_product_image_gallery",
+    "_downloadable",
+    "_wp_attachment_image_alt",
+    "_form",
+    "_sku",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:03.348Z"
+}

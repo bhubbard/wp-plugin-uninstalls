@@ -1,0 +1,19 @@
+{
+  "options": [
+    "kitgenix_order_tracking_for_woocommerce_lookup_count",
+    "kitgenix_order_tracking_for_woocommerce_tracking_numbers_added",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "kitgenix_order_tracking_for_woocommerce_carriers_settings"
+  ],
+  "transients": [
+    "kitgenix_order_tracking_for_woocommerce_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:43.620Z"
+}

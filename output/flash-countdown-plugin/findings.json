@@ -1,0 +1,24 @@
+{
+  "options": [
+    "fcdp_sponsor_link",
+    "fcdp_form_url",
+    "fcdp_xml_options",
+    "fcdp_title",
+    "fcdp_target_date",
+    "fcdp_target_time",
+    "fcdp_target_timezone",
+    "fcdp_background_color",
+    "fcdp_header_color",
+    "fcdp_header_txt_color",
+    "fcdp_panel_color",
+    "fcdp_countdown_txt_color",
+    "fcdp_panel_txt_color",
+    "fcdp_image_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:17.823Z"
+}

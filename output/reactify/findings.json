@@ -1,0 +1,17 @@
+{
+  "options": [
+    "reactify_reaction_title",
+    "reactify_reaction_title_enable",
+    "reactify_selected_reaction_type",
+    "reactify_custom_emojis",
+    "reactify_reaction_title_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reactify_disable_reactions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:23.401Z"
+}

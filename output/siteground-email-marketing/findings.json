@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sg_email_marketing_initial_activation",
+    "sg_email_marketing_version",
+    "sg_email_marketing_update_timestamp",
+    "sg_email_marketing_token",
+    "sg_email_marketing_seen",
+    "sg_email_marketing_token_status"
+  ],
+  "transients": [
+    "_sg_email_marketing_installing",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sg_email_marketing_user_data",
+    "sg_email_marketing_groups"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:27.354Z"
+}

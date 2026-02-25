@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mfat_theme_options",
+    "mfat_login_options",
+    "mfat_settings_options"
+  ],
+  "transients": [
+    "mfat_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:21.626Z"
+}

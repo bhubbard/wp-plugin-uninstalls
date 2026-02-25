@@ -1,0 +1,26 @@
+{
+  "options": [
+    "prmcslv_option_description",
+    "prmcslv_option_social_facebook",
+    "prmcslv_option_social_x",
+    "prmcslv_option_social_linkedin",
+    "prmcslv_option_social_instagram",
+    "prmcslv_option_social_youtube",
+    "prmcslv_option_social_tiktok",
+    "prmcslv_option_social_color",
+    "prmcslv_option_mode",
+    "prmcslv_option_title",
+    "prmcslv_option_headline",
+    "prmcslv_option_background_color",
+    "prmcslv_option_background_image",
+    "prmcslv_option_headline_color",
+    "prmcslv_option_description_color",
+    "prmcslv_option_font_policy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:12.433Z"
+}

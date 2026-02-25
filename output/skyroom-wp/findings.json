@@ -1,0 +1,30 @@
+{
+  "options": [
+    "skyroom_site_url",
+    "skyroom_api_key",
+    "skyroom_integrated_plugin",
+    "skyroom_link_ttl",
+    "skyroom_link_ttl_unit",
+    "skyroom_last_sync",
+    "skyroom_db_version"
+  ],
+  "transients": [
+    "*_process_lock",
+    "skyroom_sync_data_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_skyroom_access",
+    "vibe_product",
+    "_skyroom_id",
+    "_skyroom_title",
+    "_skyroom_name",
+    "_skyroom_capacity",
+    "total_sales",
+    "_stock",
+    "_manage_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:30.997Z"
+}

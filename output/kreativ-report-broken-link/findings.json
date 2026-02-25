@@ -1,0 +1,12 @@
+{
+  "options": [
+    "krbl_notify_email",
+    "krbl_enabled_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:39.384Z"
+}

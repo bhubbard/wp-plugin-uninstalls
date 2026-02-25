@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lwsgp_options_v06",
+    "lwsgp_last_generated_gmt",
+    "active_sitewide_plugins",
+    "lwsgp_preview_nonce"
+  ],
+  "transients": [
+    "lwsgp_flash_scan",
+    "lwsgp_flash_preview",
+    "lwsgp_flash_generic",
+    "*:auto_off_note"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:37.410Z"
+}

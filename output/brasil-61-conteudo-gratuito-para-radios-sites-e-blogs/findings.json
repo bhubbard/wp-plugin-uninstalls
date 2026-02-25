@@ -1,0 +1,35 @@
+{
+  "options": [
+    "br61_key",
+    "br61_cron",
+    "br61_importar_imagem",
+    "br61_importar_resumo",
+    "br61_backlink",
+    "br61_autor",
+    "br61_status",
+    "br61_data_importacao",
+    "b61_categoria_last_page_*",
+    "br61_categorias",
+    "b61_tag_last_page_*",
+    "br61_tags",
+    "b61_categoria_total_pages_*",
+    "b61_tag_total_pages_*",
+    "b61_post_update_date",
+    "b61_update_last_page"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "br61_cron_hook",
+    "br61_cron_post_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "b61_post_view",
+    "b61_noticia_id",
+    "br61_post_create_date",
+    "br61_post_update_date",
+    "br61_post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:21.597Z"
+}

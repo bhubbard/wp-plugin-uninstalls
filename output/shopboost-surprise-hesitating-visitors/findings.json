@@ -1,0 +1,14 @@
+{
+  "options": [
+    "shopboost_merchant_id",
+    "shopboost_enable",
+    "shopboost_enable_for_admin",
+    "shopboost_first_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:27.181Z"
+}

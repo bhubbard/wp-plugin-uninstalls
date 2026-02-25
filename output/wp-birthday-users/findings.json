@@ -1,0 +1,19 @@
+{
+  "options": [
+    "birthdayusers_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "birthday_date",
+    "nickname",
+    "birthday_share",
+    "birthday_age",
+    "birthday_change",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:52.873Z"
+}

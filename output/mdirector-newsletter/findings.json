@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mdirector_active",
+    "mdirector-notice",
+    "mdirector_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "md_newsletter_build"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:55.172Z"
+}

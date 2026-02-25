@@ -1,0 +1,18 @@
+{
+  "options": [
+    "asm_global_settings",
+    "asm_version",
+    "asm_remove_data_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_asm_header_scripts",
+    "_asm_body_scripts",
+    "_asm_footer_scripts",
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:33.215Z"
+}

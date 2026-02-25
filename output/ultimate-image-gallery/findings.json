@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*_default"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uig_gallery_type",
+    "uig_gallery_items",
+    "uig_display_image_title",
+    "uig_display_image_description",
+    "uig_masonry_layout",
+    "uig_gallery_column",
+    "uig_gallery_item_space",
+    "uig_border_radius",
+    "uig_filter_button_bg_color",
+    "uig_filter_button_text_color",
+    "uig_filter_button_active_bg_color",
+    "uig_filter_button_active_text_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:44.539Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "jotform_ai_chatbot_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jotform_ai_chatbot_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:00.433Z"
+}

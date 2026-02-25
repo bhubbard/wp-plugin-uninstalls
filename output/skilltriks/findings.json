@@ -1,0 +1,33 @@
+{
+  "options": [
+    "stlms_permalinks_flushed",
+    "stlms_settings",
+    "*_page_id"
+  ],
+  "transients": [
+    "stlms_import_data",
+    "stlms_notification_data_*",
+    "stlms_notification_data"
+  ],
+  "cron_jobs": [
+    "stlms_check_due_courses_daily",
+    "stlms_check_over_due_courses_daily",
+    "stlms_check_due_soon_courses_daily",
+    "stlms_notify_course_content_changes",
+    "stlms_daily_notification_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "grade_percentage",
+    "attempted_questions",
+    "time_str",
+    "quiz_id",
+    "course_id",
+    "correct_answers",
+    "imports_per_page",
+    "total_questions",
+    "passing_grade"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:47.920Z"
+}

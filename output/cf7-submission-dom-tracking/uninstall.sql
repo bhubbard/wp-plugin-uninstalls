@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('apa_cf7sdomt_pages_with_contact_forms', 'apa_cf7sdomt_ga_page_view', 'apa_cf7sdomt_ga_event', 'apa_cf7sdomt_fb_pixel_lead', 'apa_cf7sdomt_ga_page_view_url', 'apa_cf7sdomt_ga_event_category', 'apa_cf7sdomt_ga_event_action', 'apa_cf7sdomt_hide_form', 'apa_cf7sdomt_deregister_styles', 'apa_cf7sdomt_deregister_javascript');
+

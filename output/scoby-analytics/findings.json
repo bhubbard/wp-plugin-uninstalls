@@ -1,0 +1,16 @@
+{
+  "options": [
+    "scoby_analytics_version",
+    "scoby_analytics_options"
+  ],
+  "transients": [
+    "scoby_analytics_check_config",
+    "scoby_analytics_flush_cache_notice",
+    "scoby_analytics_use_client_integration"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:50.423Z"
+}

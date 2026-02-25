@@ -1,0 +1,19 @@
+{
+  "options": [
+    "support_admin_email",
+    "support_admin_from_email",
+    "ticket_sc_page",
+    "ticket_before_login_message_create",
+    "ticket_before_login_message_search",
+    "ticket_before_login_message_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ticket_status",
+    "last_post_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:00.647Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wwcr_enable_checkout_review_page",
+    "wwcr_public_css_whereshow",
+    "wwcr_content_wrapper_selector",
+    "wwcr_terminology_review_order_text",
+    "wwcr_terminology_place_order_text",
+    "wwcr_billing_section_title",
+    "wwcr_billing_section_format",
+    "wwcr_shipping_section_title",
+    "wwcr_shipping_section_format",
+    "wwcr_order_section_title",
+    "wwcr_order_section_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:32.641Z"
+}

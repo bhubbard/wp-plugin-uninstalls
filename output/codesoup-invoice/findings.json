@@ -1,0 +1,25 @@
+{
+  "options": [
+    "csip_permalinks_flushed",
+    "csip_company_nin",
+    "_csip_company_nin",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [
+    "csip_countries",
+    "csip_currencies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_inv_number",
+    "_inv_client",
+    "_cli_net_period",
+    "_csip_company_account_details",
+    "_csip_company_account_details_other",
+    "_wp_page_template",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:05.320Z"
+}

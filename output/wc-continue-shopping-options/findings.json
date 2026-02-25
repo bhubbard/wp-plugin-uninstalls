@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_cart_redirect_after_add",
+    "wc_continue_shopping_section_url",
+    "custom_link_for_continue"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:36.561Z"
+}

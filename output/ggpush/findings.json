@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ggpush_options"
+  ],
+  "transients": [
+    "ggpush_publish_post_id"
+  ],
+  "cron_jobs": [
+    "ggpush_run_baidu_cron",
+    "ggpush_run_baidu_fast_cron",
+    "ggpush_run_bing_cron",
+    "ggpush_run_indexnow_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:45.324Z"
+}

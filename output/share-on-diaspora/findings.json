@@ -1,0 +1,13 @@
+{
+  "options": [
+    "share-on-diaspora-settings",
+    "share-on-diaspora-settings2",
+    "dpu-podlist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:39.619Z"
+}

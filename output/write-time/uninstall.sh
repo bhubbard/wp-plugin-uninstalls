@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'create_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'create_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'create_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'create_time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'created_total_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'created_total_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'created_total_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'created_total_time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'start_edit_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'start_edit_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'start_edit_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'start_edit_time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'first_created_endtime'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'first_created_endtime'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'first_created_endtime'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'first_created_endtime'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'total_article_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'total_article_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'total_article_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'total_article_time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'total_edit_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'total_edit_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'total_edit_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'total_edit_time'"

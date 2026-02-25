@@ -1,0 +1,17 @@
+{
+  "options": [
+    "arplay_app_url",
+    "arplay_api_url",
+    "arplay_woocommerce",
+    "arplay_plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_arplay_exist",
+    "_product_arplay_path"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:47.963Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cookiefy_consent_logs",
+    "cookiefy_domain_id",
+    "cookiefy_ui_theme",
+    "cookiefy_core_mode",
+    "cookiefy_enabled",
+    "cookiefy_custom_config"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:11.682Z"
+}

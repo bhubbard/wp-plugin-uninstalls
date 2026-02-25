@@ -1,0 +1,27 @@
+{
+  "options": [
+    "agent_analytics_settings",
+    "agent_analytics_site_id",
+    "agent_analytics_db_version",
+    "agent_analytics_install_time",
+    "agent_analytics_remove_data_on_uninstall",
+    "agent_analytics_preserve_data_on_uninstall",
+    "agent_analytics_network_settings"
+  ],
+  "transients": [
+    "agent_analytics_sending_lock",
+    "agent_analytics_circuit_breaker",
+    "agent_analytics_last_send",
+    "agent_analytics_last_error"
+  ],
+  "cron_jobs": [
+    "agent_analytics_send_logs",
+    "agent_analytics_cleanup_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "agent_analytics_dismissed_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:40.206Z"
+}

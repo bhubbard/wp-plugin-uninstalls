@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gts_addtopost_top_enabled",
+    "gts_addtopost_top",
+    "gts_addtopost_bottom_enabled",
+    "gts_addtopost_bottom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:21.004Z"
+}

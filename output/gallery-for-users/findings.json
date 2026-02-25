@@ -1,0 +1,16 @@
+{
+  "options": [
+    "users_gallery_button_colours",
+    "users_gallery_text_font",
+    "users_gallery_terms_added"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gallery_item_video_url",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:40.447Z"
+}

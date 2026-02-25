@@ -1,0 +1,40 @@
+{
+  "options": [
+    "wc_preorders_avaiable_date_text",
+    "csf_demo_mode",
+    "bp_preorder",
+    "wc_preorders_mode",
+    "preorder-review-dismiss",
+    "bp22-dismiss",
+    "wc_preorders_button_text",
+    "wc_preorders_status_text",
+    "woocommerce_preorders_show_general_cart_notice",
+    "wc_preorders_cart_product_text",
+    "wc_preorders_badge_text",
+    "woocommerce_email_footer_text",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "rdn_fetch_*"
+  ],
+  "transients": [
+    "preorder-review-dismiss-temp",
+    "rn_last_notification_*",
+    "wpi_check_ran_*"
+  ],
+  "cron_jobs": [
+    "check_for_released_preorders",
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_is_pre_order",
+    "_pre_order_date",
+    "_csf_errors_*",
+    "_preorder_date",
+    "_rn_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:24.102Z"
+}

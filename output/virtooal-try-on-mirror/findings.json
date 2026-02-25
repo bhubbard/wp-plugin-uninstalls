@@ -1,0 +1,15 @@
+{
+  "options": [
+    "virtooal_*",
+    "virtooal_api",
+    "virtooal_installation_id",
+    "virtooal_settings",
+    "virtooal_try_on_mirror_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:17.863Z"
+}

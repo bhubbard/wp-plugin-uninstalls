@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lwptoc_general",
+    "lwptoc_appearance",
+    "lwptoc_autoInsert",
+    "lwptoc_misc",
+    "rate_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ct_builder_json",
+    "_lwptoc_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:42.644Z"
+}

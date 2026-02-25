@@ -1,0 +1,16 @@
+{
+  "options": [
+    "merlic_playlist_player_title",
+    "mp3_playlist_version",
+    "merlic_playlist_version",
+    "merlic_playlist_widget_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:39.630Z"
+}

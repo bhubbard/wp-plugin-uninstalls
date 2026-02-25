@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_gstin_number",
+    "woocommerce_product_types",
+    "woocommerce_gst_multi_select_slab",
+    "woocommerce_gst_single_select_slab",
+    "woocommerce_tax_classes",
+    "woocommerce_store_state",
+    "active_sitewide_plugins",
+    "wc_gst_telemetry_optin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hsn_prod_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:31.115Z"
+}

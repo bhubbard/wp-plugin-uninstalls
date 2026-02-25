@@ -1,0 +1,24 @@
+{
+  "options": [
+    "supsystic_tbl_welcome_page_was_showed",
+    "supsystic_tbl_settings",
+    "dtgs_ac_remind",
+    "dtgs_ac_subscribe",
+    "dtgs_ac_disabled",
+    "*welcome_page_was_showed",
+    "*plug_welcome_show",
+    "*plug_was_used",
+    "*settings",
+    "supsystic_tables_love_link_title",
+    "supsystic_tables_show_love_link",
+    "supsystic_tables_last_check_love_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "supsystic-tables-tutorial_was_showed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:23.152Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "jetpack_post_views_wp_api_key",
+    "jetpack_post_views_settings",
+    "jetpack-post-views_version",
+    "jetpack_post_views_stats_has_run",
+    "jetpack_post_views"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jetpack_post_views_scheduled_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "jetpack-post-views",
+    "jetpack-post-views-*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:18.434Z"
+}

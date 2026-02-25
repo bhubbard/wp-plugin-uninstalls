@@ -1,0 +1,19 @@
+{
+  "options": [
+    "is-page-404tboc",
+    "page-404tboc",
+    "startText404tboc",
+    "text-button-main404tboc",
+    "text-button-continue404tboc",
+    "text-button-restart404tboc",
+    "is-text-button-restart404tboc",
+    "is-text-support404tboc",
+    "skin-404tboc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:38.965Z"
+}

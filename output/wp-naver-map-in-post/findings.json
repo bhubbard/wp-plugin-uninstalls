@@ -1,0 +1,14 @@
+{
+  "options": [
+    "alghost-navermap-client-id",
+    "alghost-navermap-client-secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "keyword"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:10.202Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "epda_version",
+    "epda_version_first",
+    "epda_config"
+  ],
+  "transients": [
+    "_epda_plugin_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:38.395Z"
+}

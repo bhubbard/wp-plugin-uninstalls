@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*initialised",
+    "*twitter_link",
+    "*facebook_link",
+    "*google_link",
+    "*linkedin_link",
+    "*instagram_link",
+    "*pinterest_link",
+    "*tumblr_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:00.911Z"
+}

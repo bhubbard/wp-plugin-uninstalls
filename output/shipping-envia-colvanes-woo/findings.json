@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_shipping_envia_colvanes_ec_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_custom_price_product_smp",
+    "guide_envia_colvanes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:49.008Z"
+}

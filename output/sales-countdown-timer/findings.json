@@ -1,0 +1,39 @@
+{
+  "options": [
+    "sales_countdown_timer_params",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "_sales_countdown_timer_demo_product_init",
+    "wc_products_onsale",
+    "woo_sctr_update_variable_price_start_sale_*",
+    "wc_var_prices_*",
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woo_ctr_select_countdown_timer",
+    "_price",
+    "_sale_price_old_woo_ctr",
+    "_woo_ctr_product_sold_quantity",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_sale_price_times_from",
+    "_sale_price_times_to",
+    "_woo_ctr_enable_progress_bar",
+    "_woo_ctr_progress_bar_goal",
+    "_woo_ctr_progress_bar_initial"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:03.183Z"
+}

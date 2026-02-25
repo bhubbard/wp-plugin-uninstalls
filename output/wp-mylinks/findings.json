@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wp_mylinks_hide_notice",
+    "mylinks_theme",
+    "mylinks_meta_title",
+    "mylinks_meta_description",
+    "mylinks_upload_favicon",
+    "wp_mylinks_nofollow",
+    "wp_mylinks_noindex",
+    "wp_mylinks_credits",
+    "wp_mylinks_analytics",
+    "wp_mylinks_header_script",
+    "wp_mylinks_open_body_script",
+    "wp_mylinks_footer_script",
+    "wp_mylinks_custom_css",
+    "wp_mylinks_dequeue",
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_mylinks_count_visits",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:15.927Z"
+}

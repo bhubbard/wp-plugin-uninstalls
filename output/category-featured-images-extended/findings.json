@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cks_cfix_exclude_category",
+    "cks_cfix_fallback_category",
+    "cks_cfix_version",
+    "cks_cfix_use_yoast_primary",
+    "cks_cfix_featured_images",
+    "cfi_featured_images",
+    "cfix_featured_images",
+    "cks_cfix_version "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_primary_category"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:00.844Z"
+}

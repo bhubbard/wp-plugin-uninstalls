@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_private_comment_notes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:12.313Z"
+}

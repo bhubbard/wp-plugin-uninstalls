@@ -1,0 +1,16 @@
+{
+  "options": [
+    "p2HeaderCode",
+    "p2HeaderAdDisplayOption",
+    "p2HeaderShowAfterContent",
+    "p2HeaderShowOnFrontPage",
+    "p2HeaderPriority",
+    "p2HeaderShowOnFrontpage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:34.004Z"
+}

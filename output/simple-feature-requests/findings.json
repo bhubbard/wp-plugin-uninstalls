@@ -1,0 +1,34 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "sfr_flush_rewrite_rules_flag",
+    "sfr_status_slug_tracker",
+    "sfr_db_names_updated",
+    "sfr_settings",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "*_settings"
+  ],
+  "transients": [
+    "sfr_notices",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_via",
+    "_attachments",
+    "_wp_page_template",
+    "sfr_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:47.903Z"
+}

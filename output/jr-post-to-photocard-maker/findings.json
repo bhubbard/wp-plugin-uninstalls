@@ -1,0 +1,12 @@
+{
+  "options": [
+    "jrpcm_page_id",
+    "jrpcm_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:16.681Z"
+}

@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_free_products_gift_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_free_products_gift_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_free_products_gift_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_free_products_gift_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_free_products_auto'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_free_products_auto'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_free_products_auto'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_free_products_auto'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_free_products_min_matching_product_qty'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_free_products_min_matching_product_qty'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_free_products_min_matching_product_qty'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_free_products_min_matching_product_qty'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_free_products_free_product_qty'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_free_products_free_product_qty'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_free_products_free_product_qty'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_free_products_free_product_qty'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_free_products_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_free_products_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_free_products_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_free_products_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'minimum_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'minimum_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'minimum_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'minimum_amount'"

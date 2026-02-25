@@ -1,0 +1,22 @@
+{
+  "options": [
+    "kt_woomail",
+    "woocommerce_email_background_color",
+    "woocommerce_email_base_color",
+    "woocommerce_email_footer_text",
+    "active_sitewide_plugins",
+    "woocommerce_registration_generate_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name",
+    "formatted_billing_full_name",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:56.140Z"
+}

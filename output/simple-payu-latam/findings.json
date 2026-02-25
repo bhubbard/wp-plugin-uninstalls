@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sp_spl_payulatam_user",
+    "sp_spl_payulatam_password",
+    "sp_spl_payulatam_accountid",
+    "sp_spl_payulatam_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:00.010Z"
+}

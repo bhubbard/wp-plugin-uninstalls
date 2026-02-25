@@ -1,0 +1,17 @@
+{
+  "options": [
+    "acm_options"
+  ],
+  "transients": [
+    "acm_validation_error_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "priority",
+    "operator",
+    "conditionals"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:50.222Z"
+}

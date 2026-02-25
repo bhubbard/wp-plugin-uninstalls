@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mab_clear_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mab_profile_bio_*",
+    "mab_profile_bio%"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:35.296Z"
+}

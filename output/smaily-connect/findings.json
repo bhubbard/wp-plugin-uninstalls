@@ -1,0 +1,24 @@
+{
+  "options": [
+    "smaily_connect_flush_rewrite_rules",
+    "wpcf7"
+  ],
+  "transients": [
+    "smaily_connect_plugin_updated",
+    "smaily_connect_cart_updated"
+  ],
+  "cron_jobs": [
+    "smaily_connect_cron_sync_subscribers",
+    "smaily_connect_cron_abandoned_carts_status",
+    "smaily_connect_cron_abandoned_carts_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "smaily_connect_user_language",
+    "icl_admin_language",
+    "smaily_connect_notice_dismissed",
+    "user_newsletter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:52.388Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ns_wcapb_test_mode",
+    "ns_wcapb_text",
+    "ns_wcapb_delay",
+    "wt_wcapb_color_layer",
+    "wt_wcapb_opacity_layer",
+    "wt_wcapb_color_content",
+    "wt_wcapb_border_size",
+    "wt_wcapb_border_color",
+    "wt_wcapb_padding",
+    "ns_wcapb_test_mode_premium",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:55.446Z"
+}

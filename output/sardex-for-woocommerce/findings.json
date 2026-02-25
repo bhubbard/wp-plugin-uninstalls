@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wc_sardex_b2b_payment_enabled",
+    "woocommerce_currency",
+    "woocommerce_force_ssl_checkout",
+    "wc_sardex_username",
+    "wc_sardex_password",
+    "wc_sardex_sandbox_enabled",
+    "wc_sardex_bisoo_payment_enabled",
+    "wc_sardex_bisoo_recharge_enabled"
+  ],
+  "transients": [
+    "transient-sardex-bisoo-recharge-error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sardex_ticket_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:52.318Z"
+}

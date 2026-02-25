@@ -1,0 +1,33 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "farn_log_cleanup_cron",
+    "easyNewsletterHook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "en_subject",
+    "en_newsletter_attachments",
+    "en_custom_html_injection",
+    "en_alternative_sender_email",
+    "en_alternative_reply_to_email",
+    "en_alreadySend",
+    "en_excerpt",
+    "en_test_emailaddress",
+    "en_eMailAddress",
+    "en_token",
+    "en_doubleOptIn",
+    "en_status",
+    "en_unsubscribedCategories",
+    "en_subscriberCategory",
+    "en_firstName",
+    "en_lastName",
+    "en_salutation",
+    "en_lastReceived",
+    "en_allReceived",
+    "en_ranking"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:11.814Z"
+}

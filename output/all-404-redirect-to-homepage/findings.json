@@ -1,0 +1,20 @@
+{
+  "options": [
+    "p404_redirect_options",
+    "P404_email_update",
+    "p404_migration_status2",
+    "P404REDIRECT_upgrade_msg",
+    "P404_alert_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "p404_daily_email_summary",
+    "p404_weekly_email_summary",
+    "p404_monthly_email_summary",
+    "p404_send_scheduled_email"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:57.840Z"
+}

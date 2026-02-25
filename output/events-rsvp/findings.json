@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ersvp-settings",
+    "ersvp-settings "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "date",
+    "max_registrations",
+    "waiting_list",
+    "name",
+    "email",
+    "phone",
+    "additional_info"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:37.142Z"
+}

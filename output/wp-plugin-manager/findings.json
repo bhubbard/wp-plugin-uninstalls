@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_htiop",
+    "*_htiop_bar",
+    "*_htiop_popup",
+    "*_htiop_redirect",
+    "*_htiop_data",
+    "*_htiop_timer",
+    "htpm_options",
+    "htpm_dashboard_options",
+    "htpm_diagnostic_data_agreed",
+    "htpm_diagnostic_data_notice",
+    "wp_plugin_manager_delete_data_fetch_cache",
+    "htpm_status",
+    "htpm_available_post_types",
+    "htpm_installed",
+    "WPPluginManagerPro_lic_email"
+  ],
+  "transients": [
+    "*_htiop_data",
+    "update_plugins",
+    "hastech-notice-id-htpm-diagnostic-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "htpm_changelog_read"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:50.917Z"
+}

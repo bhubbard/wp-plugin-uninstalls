@@ -1,0 +1,29 @@
+{
+  "options": [
+    "concursos_tap_concursos",
+    "widget_epic_recent_posts",
+    "TAP_BOOKIES"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_post_tipo_publicacion",
+    "_tipster_statistics_last",
+    "_social_link_display_in",
+    "_social_link_url_href",
+    "_social_link_url_target",
+    "_social_link_icon",
+    "_pick_tipster",
+    "_pick_evento",
+    "_pick_pronostico",
+    "_pick_cuota",
+    "_pick_stake",
+    "_pick_casa_apuesta",
+    "_pick_fecha_evento",
+    "_pick_hora_evento",
+    "_pick_resultado"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:27.478Z"
+}

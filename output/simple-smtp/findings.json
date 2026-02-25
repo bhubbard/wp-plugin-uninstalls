@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpssmtp_smtp_ms",
+    "wpssmtp_smtp",
+    "wpssmtp_echk",
+    "wpss_resent",
+    "wpssmtp_keycheck_fail"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpss_clear_resent",
+    "wpss_clear_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "error",
+    "attachments",
+    "recipients",
+    "headers",
+    "timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:59.798Z"
+}

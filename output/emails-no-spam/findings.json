@@ -1,0 +1,46 @@
+{
+  "options": [
+    "EmailsNoSpam_Plugin_WebServervice",
+    "EmailsNoSpam_Plugin_SelectService",
+    "swpsmtp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "my_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "[s-emailnospam-cron-cron]",
+    "_menu_item_type",
+    "_menu_item_menu_item_parent",
+    "_menu_item_object_id",
+    "_menu_item_object",
+    "_menu_item_target",
+    "_menu_item_classes",
+    "_menu_item_xfn",
+    "_menu_item_url",
+    "[s-emailnospam-list-csv-example]",
+    "[s-emailnospam-list-recipients-list-recipients]",
+    "[s-emailnospam-list-recipients-list-subscribe]",
+    "[s-emailnospam-list-recipients-list-unsubscribe]",
+    "[s-emailnospam-login-checkout]",
+    "[s-emailnospam-login-login]",
+    "[s-emailnospam-my-list-clear-list]",
+    "[s-emailnospam-my-lists-my-lists]",
+    "[s-emailnospam-new-list-import-recipients]",
+    "[s-emailnospam-new-list-new-list]",
+    "[s-emailnospam-shortcode-post-template-01]",
+    "[s-emailnospam-shortcode-post-template-support]",
+    "[s-emailnospam-send-list-cron]",
+    "[s-emailnospam-servers-include-servers]",
+    "[s-emailnospam-servers-list-servers]",
+    "[s-emailnospam-servers-reset-servers]",
+    "[s-emailnospam-servers-setting-servers]",
+    "[s-emailnospam-servers-sync-servers]",
+    "[s-emailnospam-support-contact-form]",
+    "[s-emailnospam-support-support]",
+    "[s-emailnospam-tables-manager-fields]"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:38.111Z"
+}

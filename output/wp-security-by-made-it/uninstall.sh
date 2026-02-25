@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'madeit_security_maintenance_api_key'
+wp option delete 'madeit_security_maintenance_enable'
+wp option delete 'madeit_security_api_key'
+wp option delete 'madeit_security_backup_ftp_enable'
+wp option delete 'madeit_security_backup_s3_enable'
+wp option delete 'initial_db_version'
+wp option delete 'madeit_security_scan_repo_fast'
+wp option delete 'madeit_security_scan_repo_core'
+wp option delete 'madeit_security_scan_repo_theme'
+wp option delete 'madeit_security_scan_repo_plugin'
+wp option delete 'madeit_security_scan_update'
+wp option delete 'madeit_security_maintenance_backup'
+wp option delete 'madeit_security_backup_enabled'
+wp option delete 'madeit_security_backup_files'
+wp option delete 'madeit_security_backup_ftp_server'
+wp option delete 'madeit_security_backup_ftp_username'
+wp option delete 'madeit_security_backup_ftp_password'
+wp option delete 'madeit_security_backup_ftp_destination_directory'
+wp option delete 'madeit_security_backup_s3_access_key'
+wp option delete 'madeit_security_backup_s3_secret_key'
+wp option delete 'madeit_security_backup_s3_bucket_name'
+wp option delete 'madeit_security_firewall_enabled'
+wp option delete 'madeit_security_firewall_login_attempts_delay_time'
+wp option delete 'madeit_security_firewall_login_attempts_failed'
+wp option delete 'madeit_security_firewall_login_attempts_block_time'
+wp option delete 'madeit_security_firewall_login_attempts_block_wrong_user'
+wp option delete 'madeit_security_firewall_login_attempts_block_wrong_user_count'
+wp option delete 'madeit_security_report_weekly_enabled'
+wp option delete 'madeit_security_report_weekly_email'
+
+# Delete Transients
+wp transient delete 'madeit_security_repo_scan'
+wp transient delete 'madeit_security_update_scan'
+wp transient delete 'madeit_security_backup'
+wp transient delete 'madeit_security_scan'
+wp transient delete 'update_core'
+wp transient delete 'madeit_security_scan_again'
+wp transient delete 'update_plugins'
+wp transient delete 'update_themes'
+
+# Clear Cron Jobs
+wp cron event delete 'madeit_security_loadfiles'
+wp cron event delete 'madeit_security_check_plugin_updates'
+wp cron event delete 'madeit_security_backup'
+wp cron event delete 'madeit_security_loadfiles_run'
+wp cron event delete 'madeit_security_backup_run'
+wp cron event delete 'madeit_security_report_weekly'
+wp cron event delete 'madeit_security_firewall_renderblockfile'
+

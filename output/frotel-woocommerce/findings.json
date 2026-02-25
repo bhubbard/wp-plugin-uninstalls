@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_frotel_shipping_settings",
+    "frotel_chose_bank_title",
+    "frotel_chose_bank_name",
+    "frotel_chose_bank_page_id",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "packing",
+    "_frotel_factor"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:46.879Z"
+}

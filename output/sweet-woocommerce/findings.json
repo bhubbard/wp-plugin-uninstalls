@@ -1,0 +1,17 @@
+{
+  "options": [
+    "SWEET_TRACKER_ID",
+    "SWEET_INIT_ERROR",
+    "SWEET_INIT_SUCCESS",
+    "SWEET_TRACKER",
+    "SWEET_BASKET_TRACKER"
+  ],
+  "transients": [
+    "fx-admin-notice-sweet"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:26.625Z"
+}

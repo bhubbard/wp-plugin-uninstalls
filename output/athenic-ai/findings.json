@@ -1,0 +1,13 @@
+{
+  "options": [
+    "athenic_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "athenic_data_push_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:57.853Z"
+}

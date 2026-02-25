@@ -1,0 +1,21 @@
+{
+  "options": [
+    "putler_connector_settings",
+    "*_last_updated",
+    "putler_connector_authenticated",
+    "putler_connector_temp_token",
+    "putler_connector_putler_temp_token",
+    "_wpc_activation_redirect",
+    "active_sitewide_plugins",
+    "_wpc_update_redirect_2911",
+    "_wpc_update_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_refund_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:49.071Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "cache-enabler",
+    "cache_enabler",
+    "autoptimize_html"
+  ],
+  "transients": [
+    "cache_enabler_cache_size",
+    "cache_enabler_disk_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_clear_post_cache_on_update"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:55.994Z"
+}

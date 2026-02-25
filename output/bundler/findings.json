@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_currency_pos",
+    "woocommerce_cart_redirect_after_add",
+    "woobundles_db_version",
+    "bdlr_install",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "bdlr_pro_just_activated",
+    "bdlr_lite_just_deactivated",
+    "bdlr_lite_just_activated",
+    "bdlr_first_time_activated"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_preview_product_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:45.670Z"
+}

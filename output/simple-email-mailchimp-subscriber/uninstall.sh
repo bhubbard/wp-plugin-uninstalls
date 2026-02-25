@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wpmsems_upgrade_v1'
+wp option delete 'whitelist_options'
+wp option delete 'wpmsems_settings'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_dob'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_dob'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_dob'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_dob'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_form_cat'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_form_cat'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_form_cat'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_form_cat'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_camp'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_camp'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_camp'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_camp'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_form_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_form_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_form_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_form_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_form_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_form_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_form_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_form_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpmsems_subs_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpmsems_subs_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpmsems_subs_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpmsems_subs_status'"

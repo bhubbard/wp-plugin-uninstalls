@@ -1,0 +1,15 @@
+{
+  "options": [
+    "jal_db_version",
+    "smart_links_submenu_page",
+    "Smartlink_postorder_control"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Smartlink_postorder"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:52.406Z"
+}

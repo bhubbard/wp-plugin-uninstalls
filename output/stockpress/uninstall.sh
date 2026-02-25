@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stockpress_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stockpress_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stockpress_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stockpress_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stockpress_uuid'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stockpress_uuid'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stockpress_uuid'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stockpress_uuid'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stockpress_auth_token'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stockpress_auth_token'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stockpress_auth_token'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stockpress_auth_token'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stockpress_user_token'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stockpress_user_token'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stockpress_user_token'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stockpress_user_token'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'stockpress_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'stockpress_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'stockpress_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'stockpress_%'"

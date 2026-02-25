@@ -1,0 +1,25 @@
+{
+  "options": [
+    "nimble_version",
+    "nimble_version_upgraded_from",
+    "nimble_started_with_version",
+    "nimble_start_date",
+    "nimble_last_update_notice",
+    "active_sitewide_plugins",
+    "nimble_api_news_data",
+    "__nimble_options__",
+    "nb_prebuild_section_json",
+    "wp_rocket_settings"
+  ],
+  "transients": [
+    "started_using_hueman"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:10.275Z"
+}

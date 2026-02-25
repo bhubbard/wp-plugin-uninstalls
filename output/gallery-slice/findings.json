@@ -1,0 +1,22 @@
+{
+  "options": [
+    "gallery_slice_link2full",
+    "gallery_slice_waiting_img",
+    "gallery_slice_threshold",
+    "gallery_slice_downto",
+    "gallery_slice_*",
+    "gallery_slice_version",
+    "wp_minify",
+    "bwp_minify_general"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gallery_noslice",
+    "_gallery_link2full",
+    "_gallery_downto"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:46.744Z"
+}

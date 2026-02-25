@@ -1,0 +1,33 @@
+{
+  "options": [
+    "joyofplants_api_username",
+    "joyofplants_api_password",
+    "joyofplants_api_clientid",
+    "joyofplants_api_clientsecret",
+    "joyofplants_api_accesstoken",
+    "joyofplants_api_accesstoken_expire",
+    "joyofplants_dummy_image",
+    "woocommerce_placeholder_image",
+    "joyofplants_export_index",
+    "joyofplants_export_date",
+    "joyofplants_plantfinder_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jop_product_pid",
+    "jop_product_image_l",
+    "jop_product_image_m",
+    "jop_product_image_s",
+    "jop_product_image_expire",
+    "jop_product_image_error",
+    "jop_product_image_*",
+    "_product_image_gallery",
+    "jop_product_display_image",
+    "_sku",
+    "jop_product_display_text"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:00.736Z"
+}

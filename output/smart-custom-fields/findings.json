@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*condition-post-ids",
+    "*condition",
+    "*roles",
+    "*taxonomies",
+    "*options-pages",
+    "*setting"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:37.273Z"
+}

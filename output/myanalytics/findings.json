@@ -1,0 +1,17 @@
+{
+  "options": [
+    "myanalytics_setting_use_webmaster_tools",
+    "myanalytics_setting_code_id",
+    "myanalytics_setting_code",
+    "myanalytics_setting_code_letter",
+    "myanalytics_setting_message",
+    "myanalytics_setting_message_dnt",
+    "myanalytics_setting_message_decline"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:36.530Z"
+}

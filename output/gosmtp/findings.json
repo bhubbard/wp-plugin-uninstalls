@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gosmtp_pro_version",
+    "gosmtp_version",
+    "gosmtp_options",
+    "softaculous_plugin_update_notice"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "gosmtp_log_retention_cron",
+    "gosmtp_weekly_email_reports_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:47.969Z"
+}

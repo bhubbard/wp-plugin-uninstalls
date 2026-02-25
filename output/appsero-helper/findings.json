@@ -1,0 +1,27 @@
+{
+  "options": [
+    "appsero_selling_plugin",
+    "appsero_shortcode_pages_created_at",
+    "appsero_affiliate_wp_settings",
+    "appsero_general_settings",
+    "appsero_connected_products"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "appsero_post_state",
+    "_appsero_order_license_for_product_*",
+    "_api_activations",
+    "_software_product_id",
+    "billing_country",
+    "billing_state",
+    "billing_phone",
+    "billing_image",
+    "billing_company",
+    "billing_address_1",
+    "billing_postcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:41.181Z"
+}

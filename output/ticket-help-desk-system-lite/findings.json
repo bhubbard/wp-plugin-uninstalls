@@ -1,0 +1,30 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "APF_MyFirstFrom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "company-agentEmail",
+    "company-tickets-perpage",
+    "company-customers-blocked",
+    "company-customers-opened",
+    "company-faqs",
+    "company-notificationEmails",
+    "company-departments",
+    "company_custom_script",
+    "company_custom_css",
+    "ticket-selectedAgent",
+    "ticket-action-status",
+    "ticket-status",
+    "ticket-commentAttachment",
+    "ticket-selected_department",
+    "ticket-selectedCompany",
+    "ticket-authorityID",
+    "ticket-rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:57.567Z"
+}

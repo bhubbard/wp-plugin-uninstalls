@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpscp_nop",
+    "wpscp_mnop",
+    "wpscp_cat",
+    "wpscp_readmore",
+    "wpscp_enable",
+    "wpscp_thumbnail_enable",
+    "wpscp_title_enable",
+    "wpscp_date_enable",
+    "wpscp_excerpt_enable",
+    "wpscp_readmore_enable",
+    "wpscp_c_len",
+    "wpscp_direction",
+    "wpscp_mousepause",
+    "wpscp_speed",
+    "wpscp_ptime"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:37.830Z"
+}

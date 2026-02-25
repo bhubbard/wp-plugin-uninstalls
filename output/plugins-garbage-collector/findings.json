@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pgc_options",
+    "pgc_settings",
+    "active_sitewide_plugins",
+    "pgc_scanprogress_current",
+    "pgc_scanprogress_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:35.593Z"
+}

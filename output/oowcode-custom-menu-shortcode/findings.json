@@ -1,0 +1,15 @@
+{
+  "options": [
+    "oow_dismissed_notice_elementor",
+    "oow_dismissed_notice_divi",
+    "oow_dismissed_notice_wpbakery",
+    "oow_dismissed_notice_*",
+    "oowcode_admin_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:52.211Z"
+}

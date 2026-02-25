@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ttw_manager_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "taxonomy_thumb_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:16.746Z"
+}

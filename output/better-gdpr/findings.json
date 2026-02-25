@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bettergdpr_xtoken",
+    "bettergdpr_subdomain",
+    "privacybunker_subdomain",
+    "bettergdpr_sitekey",
+    "woocommerce_enable_myaccount_registration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_export_file_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:41.699Z"
+}

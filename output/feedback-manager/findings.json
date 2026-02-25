@@ -1,0 +1,15 @@
+{
+  "options": [
+    "znfp_widgetID",
+    "znfp_tab_color",
+    "znfp_tab_text",
+    "znfp_header_text",
+    "znfp_intro_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:57.293Z"
+}

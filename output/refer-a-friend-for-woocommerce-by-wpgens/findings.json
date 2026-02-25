@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wp_dismissed_notices",
+    "gens_raf_disable",
+    "gens_raf_email_message",
+    "gens_raf_email_subject",
+    "gens_raf_coupon_amount",
+    "gens_raf_coupon_duration",
+    "gens_raf_individual_use",
+    "gens_raf_coupon_type",
+    "gens_raf_min_order",
+    "gens_raf_cookie_remove",
+    "gens_raf_cookie_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_raf_id",
+    "gens_referral_id",
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "customer_email",
+    "usage_count",
+    "exclude_product_ids",
+    "usage_limit",
+    "expiry_date",
+    "minimum_amount",
+    "apply_before_tax",
+    "free_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:43.089Z"
+}

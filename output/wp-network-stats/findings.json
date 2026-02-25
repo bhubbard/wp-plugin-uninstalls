@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wp_network_stats_version",
+    "network_stats_db_version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "ns_blog_list",
+    "ns_active_plugins",
+    "ns_active_themes",
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "cron_refresh_user_stats",
+    "cron_refresh_plugin_stats",
+    "cron_refresh_theme_stats",
+    "cron_refresh_site_stats",
+    "cron_send_notification_email"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:53.197Z"
+}

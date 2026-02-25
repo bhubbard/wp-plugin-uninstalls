@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_resume_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_resume_from",
+    "wp_resume_to",
+    "wp_resume"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:10.784Z"
+}

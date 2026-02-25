@@ -1,0 +1,28 @@
+{
+  "options": [
+    "markai_api_key",
+    "markai_api_user",
+    "markai_integration_id",
+    "markai_author_mode",
+    "markai_association_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_edit_mode",
+    "_elementor_version",
+    "_elementor_template_type",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "rank_math_title",
+    "rank_math_description",
+    "_aioseo_title",
+    "_aioseo_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:55.392Z"
+}

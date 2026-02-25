@@ -1,0 +1,13 @@
+{
+  "options": [
+    "form_email_fields",
+    "display_error_message",
+    "list_of_block_domains"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:10.335Z"
+}

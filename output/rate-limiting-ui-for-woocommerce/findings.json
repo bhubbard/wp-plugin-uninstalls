@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rate_limiting_enabled",
+    "rate_limiting_seconds",
+    "rate_limiting_limit",
+    "rate_limiting_proxy_support"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:42.648Z"
+}

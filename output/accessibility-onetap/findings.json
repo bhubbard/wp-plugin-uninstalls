@@ -1,0 +1,28 @@
+{
+  "options": [
+    "onetap_settings",
+    "apop_localized_labels",
+    "onetap_install_timestamp",
+    "onetap_review_banner_disabled",
+    "onetap_review_banner_next_show",
+    "onetap_show_accessibility",
+    "onetap_select_language",
+    "onetap_company_name",
+    "onetap_company_website",
+    "onetap_business_email",
+    "onetap_confirmation_checkbox",
+    "onetap_editor_generator",
+    "onetap_license_status",
+    "onetap_modules",
+    "onetap_general_settings",
+    "onetap_localized_labels"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:01.531Z"
+}

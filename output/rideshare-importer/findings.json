@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rideshare_provider",
+    "rideshare_id",
+    "rideshare_type",
+    "raw_import_data",
+    "geo_polyline_encoded",
+    "geo_public"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:09.855Z"
+}

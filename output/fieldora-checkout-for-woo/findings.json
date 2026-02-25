@@ -1,0 +1,17 @@
+{
+  "options": [
+    "scfm_label_position",
+    "scfm_error_position",
+    "scfm_stylish_options",
+    "scfm_delete_data_on_uninstall",
+    "scfm_required_indicator",
+    "scfm_custom_fields",
+    "scfm_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:01.220Z"
+}

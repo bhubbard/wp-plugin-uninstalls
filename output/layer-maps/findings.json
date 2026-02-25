@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_layermaps_layer_pin_colour_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_layermaps_pin_colour",
+    "_layermaps_postcode",
+    "_layermaps_lat",
+    "_layermaps_long",
+    "_layermaps_pin_id",
+    "_layermaps_kml_layer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:54.612Z"
+}

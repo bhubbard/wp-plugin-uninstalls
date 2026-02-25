@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mca_mail_limit",
+    "mca_Mail_From_Name",
+    "mca_Mail_From_Email",
+    "mca_gravatar_bg",
+    "mca_gravatar_border",
+    "mca_Reserve_List",
+    "mca_db_version",
+    "MyCommentAuthors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:13.232Z"
+}

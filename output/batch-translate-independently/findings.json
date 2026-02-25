@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ignore_bti79_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_icl_lang_duplicate_of"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:42.907Z"
+}

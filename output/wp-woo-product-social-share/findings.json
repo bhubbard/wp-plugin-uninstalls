@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wpsi_register_settings_fields",
+    "wpsi_active_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:46.301Z"
+}

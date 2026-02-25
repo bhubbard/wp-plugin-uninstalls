@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_calc_taxes",
+    "woocommerce_logs_logging_enabled",
+    "woocommerce_bacs_accounts",
+    "woocommerce_prices_include_tax",
+    "woocommerce_shipping_tax_class",
+    "woocommerce_tax_based_on",
+    "wc_tax_rates_backup",
+    "aruba_fe_wc_tax_rates_classes_backup",
+    "aruba_fe_wc_tax_rates_backup",
+    "wc_tax_rates_classes_backup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_customer_type_aruba_fe",
+    "_billing_need_invoice_aruba_fe",
+    "_aruba_fe_order_id",
+    "_aruba_fe_order_number",
+    "_aruba_fe_order_status",
+    "_aruba_fe_invoices",
+    "_aruba_fe_drafts",
+    "_aruba_fe_has_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:08.834Z"
+}

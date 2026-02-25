@@ -1,0 +1,30 @@
+{
+  "options": [
+    "mmcfr-show-avg-rating",
+    "mmcfr-custom-css",
+    "mmcfr-remove-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "*mmcfr-stars-required",
+    "*mmcfr-stars-required-message",
+    "*rating",
+    "*mmcfr-stars-style",
+    "*mmcfr-stars-count",
+    "*use-default-style",
+    "*color",
+    "*hover-color",
+    "*selected-color",
+    "*border-color",
+    "*hover-border-color",
+    "*selected-border-color",
+    "*text-color",
+    "*hover-text-color",
+    "*selected-text-color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:22.144Z"
+}

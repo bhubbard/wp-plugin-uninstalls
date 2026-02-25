@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pootlepb-template-product"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woobuilder",
+    "woobuilder_used_builder",
+    "panels_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:12.471Z"
+}

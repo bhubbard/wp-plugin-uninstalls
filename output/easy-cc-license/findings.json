@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mbk_ez_cc_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mbk_ez_cc_license"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:06.351Z"
+}

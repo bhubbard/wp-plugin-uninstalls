@@ -1,0 +1,21 @@
+{
+  "options": [
+    "title",
+    "speed",
+    "item",
+    "singleitem",
+    "stop",
+    "bg_color",
+    "height",
+    "pagination",
+    "pnumber",
+    "navigation",
+    " navigation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:21.071Z"
+}

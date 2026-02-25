@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [
+    "handyplugins_paddlepress_installing",
+    "paddlepress_paddle_products",
+    "paddlepress_paddle_products_sandbox",
+    "paddlepress_paddle_subscriptions",
+    "paddlepress_paddle_subscriptions_sandbox",
+    "paddlepress_billing_prices",
+    "paddlepress_billing_prices_sandbox",
+    "paddlepress_billing_products",
+    "paddlepress_billing_products_sandbox"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:50.455Z"
+}

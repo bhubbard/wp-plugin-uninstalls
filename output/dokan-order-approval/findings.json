@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sgda_total_orders",
+    "sg_doa_orders_auto_cancel",
+    "sg_doa_orders_auto_cancel_duration",
+    "sg_doa_orders_auto_cancel_duration_mode",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sgits_doa_cancel_unpaid_orders_action_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thankyou_action_done",
+    "_payment_method"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:44.247Z"
+}

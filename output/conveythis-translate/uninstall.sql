@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('is_active_domain', 'style_change_flag', 'style_change_language', 'api_key', 'source_language', 'target_languages', 'target_languages_translations', 'default_language', 'style_flag', 'style_text', 'style_position_vertical', 'style_position_horizontal', 'style_indenting_vertical', 'style_indenting_horizontal', 'auto_translate', 'hide_conveythis_logo', 'dynamic_translation', 'translate_media', 'translate_document', 'translate_links', 'translate_structured_data', 'change_direction', 'conveythis_clear_cache', 'conveythis_select_region', 'alternate', 'accept_language', 'blockpages', 'show_javascript', 'style_position_type', 'style_position_vertical_custom', 'style_selector_id', 'url_structure', 'style_background_color', 'style_hover_color', 'style_border_color', 'style_text_color', 'style_corner_type', 'custom_css_json', 'style_widget', 'conveythis_system_links', 'use_trailing_slash', 'is_translated', 'conveythis_new_user', 'no_translate_element_id', 'no_translate_element_classes', 'mb_admin_notice', 'convey_permalink_structure');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('convey_meta');
+DELETE FROM wp_usermeta WHERE meta_key IN ('convey_meta');
+DELETE FROM wp_termmeta WHERE meta_key IN ('convey_meta');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('convey_meta');
+

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sacksonweb_premium_settings_option_name",
+    "sacksonweb_collected_data-*",
+    "sacksonweb_last_log-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:09.299Z"
+}

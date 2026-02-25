@@ -1,0 +1,20 @@
+{
+  "options": [
+    "alg_wc_gateways_by_location_force_js_checkout_update",
+    "*section_enabled",
+    "alg_wc_gateways_by_location_version",
+    "alg_wc_gateways_by_location_country_type",
+    "alg_wc_gateways_by_location_state_type",
+    "alg_wc_gateways_by_location_cities_type",
+    "alg_wc_gateways_by_location_postcodes_type",
+    "woocommerce_default_country",
+    "*_reset",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:20.277Z"
+}

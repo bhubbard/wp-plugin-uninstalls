@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_remove_google_apis",
+    "pss_lfsmanager_current_version",
+    "pss_lfsmanager_setting_remove_google_apis",
+    "pss_lfsmanager_setting_exclude_list",
+    "pss_lfsmanager_setting_enable_cache_styles",
+    "pss_lfsmanager_setting_enable_unite_styles",
+    "ao_lfsmanager_setting_remove_google_apis",
+    "ao_lfsmanager_current_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:48.997Z"
+}

@@ -1,0 +1,36 @@
+{
+  "options": [
+    "dv_disable_single_view",
+    "dv_coupon_template",
+    "dv_display_likes",
+    "dv_display_dislikes",
+    "dv_display_clicks",
+    "tgt_favicon",
+    "dv_use_store_imgs",
+    "dv_use_timthumb",
+    "dv_use_cloaked_url",
+    "dv_dis_facebook",
+    "dv_dis_twitter",
+    "dv_dis_gplus"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "coupon_store_url",
+    "store_url",
+    "store_img",
+    "coupon_discount",
+    "liked_dis_people",
+    "clicked_people",
+    "likes",
+    "dislikes",
+    "clicks",
+    "coupon_code",
+    "views",
+    "is_verified",
+    "coupon_expiry_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:32.223Z"
+}

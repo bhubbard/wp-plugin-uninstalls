@@ -1,0 +1,12 @@
+{
+  "options": [
+    "thinkstack_chatbot_id",
+    "thinkstack_chatbot_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:36.856Z"
+}

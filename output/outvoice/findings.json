@@ -1,0 +1,17 @@
+{
+  "options": [
+    "outvoice_users",
+    "outvoice_plugin_options",
+    "outvoice_options"
+  ],
+  "transients": [
+    "outvoice_error",
+    "outvoice_success",
+    "outvoice_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:19.296Z"
+}

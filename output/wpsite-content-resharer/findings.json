@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpsite_twitter_reshare_settings",
+    "wpsite_twitter_reshare_version",
+    "*version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsite-twitter-reshare-meta-box-hashtags",
+    "wpsite_twitter_reshare_meta_box_*",
+    "*hashtags"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:00.331Z"
+}

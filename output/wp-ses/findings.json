@@ -1,0 +1,34 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wposes_tracking_key",
+    "site_admins",
+    "wposes_last_cron_run",
+    "wposes_last_cron_check",
+    "wposes_cron_error_email",
+    "wposes_constant_*",
+    "wposes_lite_version",
+    "wposes_doing_upgrade",
+    "wposes_settings",
+    "wpses_options"
+  ],
+  "transients": [
+    "wposes_deactivated_notice_id",
+    "wposes_unverified_senders",
+    "wposes_notices",
+    "wposes_doing_cron_check",
+    "wposes_verified_senders",
+    "wposes_triggered_queue"
+  ],
+  "cron_jobs": [
+    "deliciousbrains_wp_offload_ses_log_cleanup",
+    "deliciousbrains_wp_offload_ses_queue_connection"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wposes_notices",
+    "wposes_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:41.995Z"
+}

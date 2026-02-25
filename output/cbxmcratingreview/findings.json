@@ -1,0 +1,23 @@
+{
+  "options": [
+    "cbxmcratingreview_emails",
+    "cbxmcratingreview_version",
+    "cbxmcratingreview_email_tpl",
+    "cbxmcratingreview_pages"
+  ],
+  "transients": [
+    "cbxmcratingreview_upgraded_notice",
+    "cbxmcratingreview_activated_notice",
+    "cbxmcratingreview_proaddon_deactivated",
+    "cbxmcratingreview_commentaddon_deactivated",
+    "cbxmcratingreview_mycredaddon_deactivated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cbxmcratingreview_avg",
+    "_cbxmcratingreview_total"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:17.124Z"
+}

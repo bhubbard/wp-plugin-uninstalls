@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mchl_optimizely_data",
+    "mchl_optimizely_project_id",
+    "mchl_optimizely_saveadmin_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:42.377Z"
+}

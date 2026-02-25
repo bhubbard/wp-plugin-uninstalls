@@ -1,0 +1,28 @@
+{
+  "options": [
+    "furgefutar_gls_csomagpont_api_kulcs",
+    "furgefutar_gls_csomagpont_tipus",
+    "furgefutar_allapot",
+    "furgefutar_fizetesi_modok",
+    "furgefutar_felado_neve",
+    "furgefutar_felado_bank_neve",
+    "furgefutar_felado_bankszamlaszama",
+    "furgefutar_tiltott_aru",
+    "furgefutar_aszf",
+    "furgefutar_tesztkornyezet",
+    "furgefutar_email",
+    "furgefutar_jelszo",
+    "furgefutar_debug",
+    "furgefutar_cod_notice_dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_furgefutar_kivalasztott_gls_csomagpont",
+    "_furgefutar_azonosito",
+    "_furgefutar_fuvarlevelszam"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:12.319Z"
+}

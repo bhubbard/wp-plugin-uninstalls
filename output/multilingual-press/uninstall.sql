@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('inpsyde_multilingual', 'inpsyde_multilingual_cpt', 'inpsyde_companyname', 'mlp_version', 'inpsyde_multilingual_quicklink_options', 'state_modules', 'multilingual_press_check_db', 'inpsyde_multilingual_blog_relationship', 'inpsyde_multilingual_redirect', 'inpsyde_multilingual_flag_url', 'inpsyde_multilingual_default_actions', 'inpsyde_license_status_MultilingualPress Pro');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_thumbnail_id', 'post_is_translated', '_post_is_translated', 'trash_the_other_posts', '_trash_the_other_posts', '_menu_item_url', '_wp_attached_file');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_thumbnail_id', 'post_is_translated', '_post_is_translated', 'trash_the_other_posts', '_trash_the_other_posts', '_menu_item_url', '_wp_attached_file');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_thumbnail_id', 'post_is_translated', '_post_is_translated', 'trash_the_other_posts', '_trash_the_other_posts', '_menu_item_url', '_wp_attached_file');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_thumbnail_id', 'post_is_translated', '_post_is_translated', 'trash_the_other_posts', '_trash_the_other_posts', '_menu_item_url', '_wp_attached_file');
+

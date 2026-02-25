@@ -1,0 +1,17 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "ss_wc_mailchimp_dismissed_notices",
+    "sswcmc_lists",
+    "sswcmc_list_web_ids",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:31.496Z"
+}

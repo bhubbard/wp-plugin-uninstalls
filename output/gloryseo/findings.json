@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gloryseo_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gloryseo_focus_keyword",
+    "_gloryseo_meta_title",
+    "_gloryseo_meta_description",
+    "_gloryseo_seo_score",
+    "_gloryseo_og_image",
+    "_gloryseo_twitter_card"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:09.936Z"
+}

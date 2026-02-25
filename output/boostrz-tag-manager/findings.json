@@ -1,0 +1,14 @@
+{
+  "options": [
+    "boostrz_api_token",
+    "boostrz_api_token_expiry",
+    "boostrz_current_website_selected",
+    "boostrz_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:14.751Z"
+}

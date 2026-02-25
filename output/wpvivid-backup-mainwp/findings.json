@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpvivid_custom_select_website_size_ex",
+    "wpvivid_remote_backups_lock",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "medium_large_size_w",
+    "medium_large_size_h",
+    "mainwp_primaryBackup",
+    "mainwp_wpvivid_backups_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mwp_wpvivid_check_version_event",
+    "mwp_wpvivid_refresh_latest_pro_version_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:42.418Z"
+}

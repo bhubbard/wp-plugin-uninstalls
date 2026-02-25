@@ -1,0 +1,15 @@
+{
+  "options": [
+    "googlenewssitemap_tagkeywords",
+    "googlenewssitemap_includePages",
+    "googlenewssitemap_includePosts",
+    "googlenewssitemap_excludeCat",
+    "rss_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:17.394Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "scupSettings_icon_size",
+    "scupSettings_speed",
+    "scupSettings_width",
+    "scupSettings_height",
+    "scupSettings_distance_right",
+    "scupSettings_distance_bottom",
+    "scupSettings_background",
+    "scupSettings_icon_color",
+    "scupSettings_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:34.906Z"
+}

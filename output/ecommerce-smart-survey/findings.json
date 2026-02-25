@@ -1,0 +1,19 @@
+{
+  "options": [
+    "__ES_SURVEY_base_path",
+    "__ES_SURVEY_base_path_old",
+    "__ES_SURVEY_general_widget",
+    "__ES_SURVEY_home_widget",
+    "ES_SURVEY_db_version",
+    "ES_SURVEY_is_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_no_of_questions",
+    "ES_SURVEY_options_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:28.779Z"
+}

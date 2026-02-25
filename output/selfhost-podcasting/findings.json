@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "*_recent_dispatch",
+    "*_dispatch_count",
+    "*_consecutive_errors",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:30.875Z"
+}

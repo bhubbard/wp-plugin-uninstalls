@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('trackship_apikey', 'trackers_balance', 'user_plan', 'plan_period', 'trackship_db', 'trackship_settings', 'trackship_email_settings', 'all-shipment-status-delivered', 'wc_advanced_shipment_tracking_ts_page', 'alg_wc_custom_order_numbers_enabled', 'wcj_order_numbers_enabled', 'wcj_order_number_prefix', 'wcj_order_number_date_prefix', 'wcj_order_number_suffix', 'wcj_order_number_date_suffix', 'wcj_order_number_sequential_enabled', 'wpla_use_amazon_order_number', 'woocommerce_default_country', 'woocommerce_feature_fulfillments_enabled', 'trackship_map_provider', 'wc_ast_show_shipment_status_filter', 'enable_email_widget', 'enable_notification_for_amazon_order', 'wc_ast_use_tracking_page', 'wc_ast_trackship_page_id', 'wc_ast_trackship_other_page', 'trackship_trigger_order_statuses', 'late_shipments_email_settings', 'wc_ast_remove_trackship_branding', 'shipment_email_settings', 'wc_ast_select_bg_color', 'wc_ast_select_font_color', 'wc_ast_select_border_color', 'wc_ast_select_border_radius', 'wc_ast_select_link_color', 'tracking_page_type', 'wc_ast_hide_tracking_events', 'wc_ast_select_tracking_page_layout', 'wc_ast_link_to_shipping_provider', 'wc_ast_hide_tracking_provider_image', 'wc_ast_hide_from_to', 'wc_ast_hide_list_mile_tracking', 'wc_ast_status_delivered', 'wc_ast_api_key', 'wc_ast_api_enabled', 'tracking_form_settings', 'shipped_product_label', 'shipping_address_label', 'wcast_pickupreminder_email_settings', 'wcast_intransit_email_settings');
+DELETE FROM wp_options WHERE option_name IN ('wcast_returntosender_email_settings', 'wcast_availableforpickup_email_settings', 'wcast_exception_email_settings', 'wcast_onhold_email_settings', 'wcast_failure_email_settings', 'wcast_delivered_status_email_settings', 'wcast_outfordelivery_email_settings', 'email_preview', 'klaviyo_settings', 'omnisend_api_key', 'time_schedule_from', 'time_schedule_to', 'all-shipment-status-sms-delivered', 'smswoo_from_asid', 'smswoo_sender_phone_number', 'smswoo_sms_provider', 'smswoo_default_sms_template', 'smswoo_clicksend_username', 'smswoo_clicksend_key', 'smswoo_active_charsets', 'smswoo_fast2sms_key', 'smswoo_msg91_authkey', 'smswoo_msg91_dlt', 'smswoo_nexmo_key', 'smswoo_nexmo_secret', 'smswoo_smsalert_key', 'smswoo_twilio_account_sid', 'smswoo_twilio_auth_token', 'enable_twilio_whatsapp', 'whatsapp_business_authkey', 'kt_woomail');
+DELETE FROM wp_options WHERE option_name LIKE '%_sms_template_enabled_customer';
+DELETE FROM wp_options WHERE option_name LIKE '%_sms_template';
+DELETE FROM wp_options WHERE option_name LIKE '%_sms_template_templete_id';
+DELETE FROM wp_options WHERE option_name LIKE '%_sms_template_template_var';
+DELETE FROM wp_options WHERE option_name LIKE '%_sms_template_template_lang';
+DELETE FROM wp_options WHERE option_name LIKE 'all-shipment-status-%';
+DELETE FROM wp_options WHERE option_name LIKE '%_usage_data_selector';
+DELETE FROM wp_options WHERE option_name LIKE '%_optin_email_notification';
+DELETE FROM wp_options WHERE option_name LIKE '%_enable_usage_data';
+DELETE FROM wp_options WHERE option_name LIKE '%_usage_tracker_last_send';
+

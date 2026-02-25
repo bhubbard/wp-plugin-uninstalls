@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "infixs_pingo_notify_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "has_sub_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:39.955Z"
+}

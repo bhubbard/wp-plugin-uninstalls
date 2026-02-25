@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ecctdm_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:43.391Z"
+}

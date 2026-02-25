@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "form_id",
+    "responder_pojo_responder_values"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:42.380Z"
+}

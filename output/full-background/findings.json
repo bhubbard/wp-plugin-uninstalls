@@ -1,0 +1,12 @@
+{
+  "options": [
+    "alobaidi_full_background_random",
+    "alobaidi_full_background_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:58.536Z"
+}

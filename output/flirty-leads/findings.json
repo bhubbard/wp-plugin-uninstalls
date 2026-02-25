@@ -1,0 +1,31 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ecs_owp_show_lc",
+    "_ecs_owp_cta_color",
+    "_ecs_owp_cta_size",
+    "_ecs_owp_cta_weight",
+    "_ecs_owp_cta_height",
+    "_ecs_owp_lead_capture_header",
+    "_ecs_owp_referer",
+    "_ecs_owp_btnsays",
+    "_ecs_owp_lcemail",
+    "_ecs_owp_btn_text_color",
+    "_ecs_owp_btn_color",
+    "_ecs_owp_use_mailchimp",
+    "_ecs_owp_mc_actionurl",
+    "_ecs_owp_mc_userid",
+    "_ecs_owp_mc_listid",
+    "_ecs_owp_mc_emailname",
+    "_ecs_owp_lcemail ",
+    "_ecs_owp_cta_color ",
+    "_ecs_owp_cta_size ",
+    "_ecs_owp_cta_weight ",
+    "_ecs_owp_cta_height "
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:00.744Z"
+}

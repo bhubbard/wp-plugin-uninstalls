@@ -1,0 +1,17 @@
+{
+  "options": [
+    "background-music-menu",
+    "bmm_wp_last_menu_id"
+  ],
+  "transients": [
+    "bmm_wp_table_change_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "description-nonce",
+    "menu-item"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:18.242Z"
+}

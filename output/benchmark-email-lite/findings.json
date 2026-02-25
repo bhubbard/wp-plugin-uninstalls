@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wpbme_key",
+    "wpbme_temp_token",
+    "wpbme_usage_disable",
+    "wpbme_debug",
+    "wpbme_temp_token_ttl",
+    "wpbme_ap_token",
+    "wpbme_tracking_disable",
+    "wpbme_legacy_widget_*",
+    "wpbme_sister_dismissed",
+    "wpbme_db_version",
+    "benchmark-email-lite_group",
+    "bmew_key",
+    "widget_benchmarkemaillite_widget",
+    "widget_wpbme_widget",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "*_fallback"
+  ],
+  "cron_jobs": [
+    "wpbme_token_renew"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:58.629Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gf_aqayepardakht_configured",
+    "gf_aqayepardakht_version",
+    "gf_aqayepardakht_settings",
+    "recently_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:40.813Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_last_queried",
+    "integrate_convertkit_wpforms_version",
+    "ck_code_verifier",
+    "*-review-request",
+    "*-review-dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "integrate_convertkit_wpforms_refresh_token",
+    "convertkit_resource_refresh_*"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:49.074Z"
+}

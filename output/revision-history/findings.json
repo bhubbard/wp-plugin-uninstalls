@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rh_adjust_title",
+    "rh_title_class",
+    "rh_show_page_revisions",
+    "rh_show_post_revisions",
+    "rh_show_autosaves"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:28.913Z"
+}

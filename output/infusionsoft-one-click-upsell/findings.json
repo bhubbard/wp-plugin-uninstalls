@@ -1,0 +1,25 @@
+{
+  "options": [
+    "novaksolutions_upsell_default_*",
+    "novaksolutions_upsell_default_image",
+    "novaksolutions_upsell_default_image_width",
+    "novaksolutions_upsell_default_image_height",
+    "novaksolutions_upsell_merchantaccount_id",
+    "novaksolutions_upsell_button_type",
+    "infusionsoft_sdk_app_name",
+    "infusionsoft_sdk_api_key",
+    "novaksolutions_upsell_test_merchantaccount_id",
+    "novaksolutions_upsell_default_success_url",
+    "novaksolutions_upsell_default_failure_url",
+    "novaksolutions_upsell_default_button_text",
+    "novaksolutions_upsell_default_action_set_id",
+    "novaksolutions_upsell_default_id",
+    "novaksolutions_upsell_default_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:43.710Z"
+}

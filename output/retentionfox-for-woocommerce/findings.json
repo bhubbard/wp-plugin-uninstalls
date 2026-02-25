@@ -1,0 +1,16 @@
+{
+  "options": [
+    "retentionfox_settings",
+    "woocommerce_myaccount_page_id",
+    "retentionfox_unsubs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "retentionfox_send_abandoned_carts",
+    "retentionfox_send_abandoned_emails"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:38.238Z"
+}

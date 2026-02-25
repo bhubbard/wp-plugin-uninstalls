@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fac4wp-options",
+    "fathom_exclude_roles",
+    "fathom_site_id",
+    "fac_options",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fac_url_page",
+    "_fac_url_event_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:49.630Z"
+}

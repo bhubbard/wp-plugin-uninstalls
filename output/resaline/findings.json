@@ -1,0 +1,16 @@
+{
+  "options": [
+    "resaline_frame_height",
+    "resaline_frame_length",
+    "resaline_frame_background",
+    "resaline_nb_calendars",
+    "resaline_calendar_*",
+    "resaline_account_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:12.559Z"
+}

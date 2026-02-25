@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_301_redirects",
+    "wp_301_redirects_wildcard",
+    "wp301redirects_hide_btl_notice",
+    "wp301redirects_version"
+  ],
+  "transients": [
+    "wp_301_redirects_import_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:29.179Z"
+}

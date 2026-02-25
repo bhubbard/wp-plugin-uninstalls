@@ -1,0 +1,18 @@
+{
+  "options": [
+    "Blue_Triangle_Automated_CSP_Free_Directives",
+    "Blue_Triangle_Automated_CSP_Free_Directive_Options",
+    "Blue_Triangle_Automated_CSP_Free_Errors",
+    "Blue_Triangle_Automated_CSP_Free_Report_Mode",
+    "Blue_Triangle_Automated_CSP_Free_CSP",
+    "Blue_Triangle_Automated_CSP_Free_Version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "Blue_Triangle_Automated_CSP_Free_Cron_Update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:34.553Z"
+}

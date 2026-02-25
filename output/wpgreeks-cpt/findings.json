@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpgreeks_plugin_cpt",
+    "wpgreeks_plugin_tax",
+    "wpgreeks_plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:50.881Z"
+}

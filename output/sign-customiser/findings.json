@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_enable_ajax_add_to_cart",
+    "spcwp_debug",
+    "spcwp_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "spcwp_ajax_cart_dismiss",
+    "spcwp_migration_banner_dismiss",
+    "_spcwp_processed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:28.593Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpdt_quick_profiler",
+    "wpdt_log_predefined_php",
+    "wpdt_*",
+    "save_log_predefined_php",
+    "wpdt_login_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:56.566Z"
+}

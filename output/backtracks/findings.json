@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bt_settings_api",
+    "bt_dismissed_api-keys",
+    "bt_settings_general",
+    "bt_dismissed_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:45.876Z"
+}

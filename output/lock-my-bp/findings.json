@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bplock_general_settings",
+    "bplock-pages",
+    "bplock_gen_globals_copied",
+    "bp-components",
+    "custom-post-types",
+    "bplock-default-set"
+  ],
+  "transients": [
+    "_bplock_is_new_install",
+    "bplock_login_attempts_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:44.670Z"
+}

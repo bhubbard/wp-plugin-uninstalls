@@ -1,0 +1,12 @@
+{
+  "options": [
+    "qrcdr_country_codes",
+    "*_review_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:49.018Z"
+}

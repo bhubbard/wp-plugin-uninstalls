@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpv_skw_settings",
+    "skw_active_modules",
+    "woocommerce_manage_stock",
+    "skw_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_cart_text_single",
+    "_custom_cart_text_archive",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_max_stock_reference"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:06.202Z"
+}

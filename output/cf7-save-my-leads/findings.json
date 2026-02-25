@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_leads_created_by_cf7_id",
+    "_leads_created_in_post_id",
+    "leads_status",
+    "leads_handled_by",
+    "leads_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:03.866Z"
+}

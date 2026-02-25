@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mightyshare"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mightyshare_enabled",
+    "mightyshare_template",
+    "mightyshare_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:19.779Z"
+}

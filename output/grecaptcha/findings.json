@@ -1,0 +1,17 @@
+{
+  "options": [
+    "grecaptcha_site_key",
+    "grecaptcha_secret_key",
+    "grecaptcha_version",
+    "grecaptcha_theme",
+    "grecaptcha_v2_size",
+    "grecaptcha_v2_badge",
+    "grecaptcha_v3_threshold"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:21.481Z"
+}

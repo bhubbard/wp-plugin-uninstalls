@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_default_country",
+    "woocommerce_weight_unit",
+    "woocommerce_email_from_address",
+    "andreani_pyme_info",
+    "andreani_corporativo_info"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:23.565Z"
+}

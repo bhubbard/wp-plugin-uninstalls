@@ -1,0 +1,23 @@
+{
+  "options": [
+    "cheritto-admin-grid-columns-count-*",
+    "cheritto-admin-grid-container-bg-*",
+    "cheritto-admin-grid-item-bg-*",
+    "cheritto-admin-grid-theme-*",
+    "cheritto-admin-grid-per-page-*",
+    "cheritto-admin-grid-show-image-*",
+    "cheritto-admin-grid-show-title-*",
+    "cheritto-admin-grid-show-author-*",
+    "cheritto-admin-grid-show-categories-*",
+    "cheritto-admin-grid-show-tags-*",
+    "cheritto-admin-grid-show-actions-*",
+    "cheritto-admin-grid-show-date-*",
+    "cheritto-admin-grid-show-cb-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:49.274Z"
+}

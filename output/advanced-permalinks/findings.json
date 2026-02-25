@@ -1,0 +1,16 @@
+{
+  "options": [
+    "advanced_permalinks_cache",
+    "advanced_permalinks_settings",
+    "advanced_permalinks_posts",
+    "advanced_permalinks_migration",
+    "advanced_permalinks_categories",
+    "advanced_permalinks_migration_rule"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:03.753Z"
+}

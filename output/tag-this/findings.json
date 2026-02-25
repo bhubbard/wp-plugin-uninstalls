@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tt_secret",
+    "tt_display",
+    "tt_spamstrength",
+    "tt_customcss",
+    "tt_displaytags",
+    "tt_manualmod",
+    "tt_nfrontpage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:15.462Z"
+}

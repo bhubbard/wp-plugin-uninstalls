@@ -1,0 +1,20 @@
+{
+  "options": [
+    "readoxin_class_sync_mode",
+    "readoxin_class_storage_type",
+    "ct_components_classes",
+    "ct_style_folders",
+    "oxygen_options_autoload",
+    "oxygen_vsb_google_fonts_cache",
+    "readoxin_font_mappings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_readoxin_file_hash",
+    "_readoxin_filesize"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:50.455Z"
+}

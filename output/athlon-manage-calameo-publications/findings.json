@@ -1,0 +1,13 @@
+{
+  "options": [
+    "AthlonManageCalameoPublications_db_version",
+    "calameo_subscription_ids",
+    "calameo_credentials"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:56.307Z"
+}

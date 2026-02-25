@@ -1,0 +1,21 @@
+{
+  "options": [
+    "zip_code_based_product_price_settings",
+    "woocommerce_tax_display_shop",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "zip_code_based_price_enable",
+    "zip_code_based_product_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:10.912Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "apww_notice_dismiss",
+    "apww_license",
+    "apww_license_active",
+    "apsw_license_active",
+    "apsw_license_notices_web",
+    "appw_wishlist_achive_product_list_*",
+    "woocommerce_myaccount_page_id",
+    "__apww_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "appw_wishlist_achive_product_info",
+    "appw_meta_wishlist"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:14.913Z"
+}

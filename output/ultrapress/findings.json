@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ultrapress_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ultrapress_seo_title",
+    "_ultrapress_meta_description",
+    "_ultrapress_focus_keyword"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:35.462Z"
+}

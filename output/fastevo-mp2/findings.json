@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fastevo_mp2_api_key",
+    "fastevo_mp2_storage_method"
+  ],
+  "transients": [
+    "fastevo_mp2_api_key_error",
+    "fastevo_mp2_api_key_success"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:58.167Z"
+}

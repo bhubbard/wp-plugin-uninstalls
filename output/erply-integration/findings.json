@@ -1,0 +1,16 @@
+{
+  "options": [
+    "erply-integration_id",
+    "woocommerce_api_enabled",
+    "erply-integration-use-development-sandbox",
+    "erply-integration-account",
+    "erply-integration-user",
+    "erply-integration-password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:58.661Z"
+}

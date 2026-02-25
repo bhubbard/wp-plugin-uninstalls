@@ -1,0 +1,21 @@
+{
+  "options": [
+    "erm-settings",
+    "erm_is_first_time",
+    "erm_custom_design",
+    "erm_text_color",
+    "erm_button_text_size",
+    "erm_background_color",
+    "erm_border",
+    "erm_padding",
+    "erm_margin",
+    "erm_button_text",
+    "erm_is_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:22.256Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "twgm_gmaps_api_key",
+    "twgm_gmaps_def_lat",
+    "twgm_gmaps_def_lng",
+    "twgm_gmaps_def_theme",
+    "twgm_gmaps_def_zoom",
+    "plugin_error",
+    "twgm_db_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_twgm_applymarker",
+    "_twgm_data",
+    "_twgm_category",
+    "_twgm_map"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:00.385Z"
+}

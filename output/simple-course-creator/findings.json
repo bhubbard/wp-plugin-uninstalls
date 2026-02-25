@@ -1,0 +1,17 @@
+{
+  "options": [
+    "course_display_settings",
+    "display_position",
+    "list_type",
+    "scc_orderby",
+    "scc_order",
+    "current_post",
+    "taxonomy_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:40.025Z"
+}

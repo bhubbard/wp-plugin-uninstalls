@@ -1,0 +1,33 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*enable_slider",
+    "*switch",
+    "*design_style",
+    "*gallery_id",
+    "*arrow_slider",
+    "*pagination_slider",
+    "*autoplay_slider",
+    "*autoplay_speed_slider",
+    "*auto_stop_slider",
+    "*speed_slider",
+    "*animation_slider",
+    "*height_slider",
+    "*autoheight_slider",
+    "*direction_slider",
+    "*pagination_type_slider",
+    "*space_between_slider",
+    "*loop_slider",
+    "*mouse_wheel",
+    "*img_height",
+    "*img_width",
+    "*disableOnInteraction",
+    "slider_spider_switch",
+    "slider_spider_enable_slider"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:08.325Z"
+}

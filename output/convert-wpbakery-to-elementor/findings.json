@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpbakery_to_elementor_options",
+    "wpbakery_to_elementor_placeholder_image_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "site-content-layout",
+    "_elementor_edit_mode",
+    "_elementor_template_type",
+    "_elementor_version",
+    "_elementor_data",
+    "_cwte_attachment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:05.346Z"
+}

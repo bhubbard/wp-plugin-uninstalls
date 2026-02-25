@@ -1,0 +1,15 @@
+{
+  "options": [
+    "different_roles_select"
+  ],
+  "transients": [
+    "*dsabafwerror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:33.261Z"
+}

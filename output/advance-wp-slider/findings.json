@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slider_button_text",
+    "slider_button_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:37.235Z"
+}

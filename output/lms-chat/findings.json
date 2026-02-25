@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lmsc_config",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "allow_conversation",
+    "course_id",
+    "_tutor_course_id_for_lesson",
+    "_llms_parent_course",
+    "_lesson_course",
+    "ir_shared_instructor_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:23.506Z"
+}

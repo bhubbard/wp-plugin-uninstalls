@@ -1,0 +1,11 @@
+{
+  "options": [
+    "wpfms_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:36.949Z"
+}

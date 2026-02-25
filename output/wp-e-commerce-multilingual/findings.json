@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpec_wpml_glue"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpshpcrt_usr_profile_language",
+    "_wpscml_copy_downloads"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:01.672Z"
+}

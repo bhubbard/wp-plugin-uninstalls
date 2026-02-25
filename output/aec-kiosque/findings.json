@@ -1,0 +1,20 @@
+{
+  "options": [
+    "aec_load_kiosque_aec_build",
+    "aec_instance_name",
+    "aec_extranet_instance_name",
+    "aec_extranet_api_token",
+    "aec_etablishment_type",
+    "aec_course_detail_page_url",
+    "web_instance_domain",
+    "aec_template_in_use"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "arc_extranet_domain"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:43.182Z"
+}

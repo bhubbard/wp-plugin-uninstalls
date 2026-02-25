@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sale_twitter_timeline_username",
+    "sale_twitter_timeline_items",
+    "sale_twitter_timeline_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:58.169Z"
+}

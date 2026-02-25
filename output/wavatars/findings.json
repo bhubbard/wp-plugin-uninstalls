@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wavatar_auto",
+    "wavatar_noplug",
+    "wavatar_size",
+    "wavatar_border",
+    "wavatar_suffix",
+    "wavatar_prefix",
+    "wavatar_gravatars",
+    "wavatar_rating",
+    "wavatar_email_blank"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:37.977Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "guaven_dxtag_tagslug",
+    "guaven_dxtag_flush",
+    "guaven_dxtag_activated",
+    "guaven_dxtag_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "guaven_dxtag_rule",
+    "cron_update_this_dxtag"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:27.247Z"
+}

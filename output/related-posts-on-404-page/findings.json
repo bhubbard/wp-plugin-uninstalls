@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rpp_hide_admin_notice",
+    "rpp_display_notice_time",
+    "rpp_activation_time",
+    "rpp_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:32.364Z"
+}

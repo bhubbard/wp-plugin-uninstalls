@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simple_ticker",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "_sale_price_dates_to"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:45.368Z"
+}

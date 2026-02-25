@@ -1,0 +1,22 @@
+{
+  "options": [
+    "reviewer_*",
+    "reviewer_review_archive_page_id",
+    "active_sitewide_plugins",
+    "reviewer_archive_image_size",
+    "reviewer_review_image_size",
+    "reviewer_max_rating",
+    "reviewer_rating_step"
+  ],
+  "transients": [
+    "reviewer_extensions_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rating",
+    "_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:02.325Z"
+}

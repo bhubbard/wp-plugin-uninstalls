@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wpmjgu_batch_optimization_intensive_resources_consumption_mode",
+    "wpmjgu_batch_optimization_max_simultaneous_processes",
+    "wpmjgu_mode",
+    "wpmjgu_path_filter",
+    "wpmjgu_jpeg_encoder_location",
+    "*_errorvalue",
+    "wpmjgu_plugin_working_directory",
+    "wpmjgu_default_jpeg_quality",
+    "wpmjgu_jpeg_compression_min_benefit",
+    "wpmjgu_ssh_server",
+    "wpmjgu_ssh_port",
+    "wpmjgu_ssh_username",
+    "wpmjgu_ssh_password",
+    "wpmjgu_ssh_working_directory",
+    "wpmjgu_mozjpeg_encoder_directory",
+    "wpmjgu_guetzli_encoder_directory",
+    "wpmjgu_webp_encoder_directory",
+    "wpmjgu_settings_validation_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmjgu_webp_duplicate",
+    "wpmjgu_optimized"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:51.335Z"
+}

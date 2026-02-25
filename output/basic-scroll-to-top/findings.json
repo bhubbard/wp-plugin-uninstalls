@@ -1,0 +1,23 @@
+{
+  "options": [
+    "media_selector_attachment_id",
+    "scroll_enable",
+    "scroll_duration",
+    "scroll_offset",
+    "scroll_position",
+    "scroll_right_margin",
+    "scroll_bottom_margin",
+    "scroll_size",
+    "scroll_button_bgcolor",
+    "scroll_button_color",
+    "scroll_text",
+    "scroll_type",
+    "scroll_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:05.686Z"
+}

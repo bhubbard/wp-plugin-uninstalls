@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'asmkc_schema_settings'
+wp option delete 'asmkc_schema_control'
+wp option delete 'asmkc_person_defaults'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_schema_enable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_schema_enable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_schema_enable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_schema_enable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_schema_type_control'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_schema_type_control'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_schema_type_control'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_schema_type_control'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_schema_detected_types'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_schema_detected_types'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_schema_detected_types'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_schema_detected_types'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_person_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_person_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_person_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_person_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_person_job'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_person_job'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_person_job'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_person_job'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_person_desc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_person_desc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_person_desc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_person_desc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_person_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_person_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_person_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_person_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_person_sns'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_person_sns'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_person_sns'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_person_sns'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_service_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_service_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_service_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_service_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_service_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_service_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_service_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_service_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_asmkc_service_parent_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_asmkc_service_parent_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_asmkc_service_parent_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_asmkc_service_parent_url'"

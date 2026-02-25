@@ -1,0 +1,110 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('quickppr_redirects');
+delete_site_option('quickppr_redirects');
+delete_option('quickppr_redirects_meta');
+delete_site_option('quickppr_redirects_meta');
+delete_option('ppr_override-nofollow');
+delete_site_option('ppr_override-nofollow');
+delete_option('ppr_override-newwindow');
+delete_site_option('ppr_override-newwindow');
+delete_option('ppr_use-jquery');
+delete_site_option('ppr_use-jquery');
+delete_option('ppr_qpprptypeok');
+delete_site_option('ppr_qpprptypeok');
+delete_option('ppr_override-redirect-type');
+delete_site_option('ppr_override-redirect-type');
+delete_option('ppr_override-active');
+delete_site_option('ppr_override-active');
+delete_option('ppr_override-URL');
+delete_site_option('ppr_override-URL');
+delete_option('ppr_override-rewrite');
+delete_site_option('ppr_override-rewrite');
+delete_option('qppr_meta_addon_content');
+delete_site_option('qppr_meta_addon_content');
+delete_option('ppr_meta-message');
+delete_site_option('ppr_meta-message');
+delete_option('qppr_meta_addon_sec');
+delete_site_option('qppr_meta_addon_sec');
+delete_option('ppr_meta-seconds');
+delete_site_option('ppr_meta-seconds');
+delete_option('ppr_override-casesensitive');
+delete_site_option('ppr_override-casesensitive');
+delete_option('ppr_show-columns');
+delete_site_option('ppr_show-columns');
+delete_option('ppr_version');
+delete_site_option('ppr_version');
+delete_option('ppr_meta_clean');
+delete_site_option('ppr_meta_clean');
+delete_option('ppr_use-custom-post-types');
+delete_site_option('ppr_use-custom-post-types');
+delete_option('qppr_jQuery_hide_message2');
+delete_site_option('qppr_jQuery_hide_message2');
+delete_option('qppr_meta_addon_load');
+delete_site_option('qppr_meta_addon_load');
+delete_option('qppr_meta_addon_trigger');
+delete_site_option('qppr_meta_addon_trigger');
+delete_option('qppr_meta_append_to');
+delete_site_option('qppr_meta_append_to');
+delete_option('enable_tag_redirect');
+delete_site_option('enable_tag_redirect');
+delete_option('qppr_jQuery_hide_message');
+delete_site_option('qppr_jQuery_hide_message');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'dismissed_wp_pointers' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'dismissed_wp_pointers' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'dismissed_wp_pointers' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'dismissed_wp_pointers' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pprredirect_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pprredirect_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pprredirect_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pprredirect_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pprredirect_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pprredirect_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pprredirect_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pprredirect_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pprredirect_active' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pprredirect_active' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pprredirect_active' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pprredirect_active' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pprredirect_rewritelink' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pprredirect_rewritelink' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pprredirect_rewritelink' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pprredirect_rewritelink' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pprredirect_newwindow' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pprredirect_newwindow' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pprredirect_newwindow' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pprredirect_newwindow' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pprredirect_relnofollow' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pprredirect_relnofollow' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pprredirect_relnofollow' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pprredirect_relnofollow' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pprredirect_meta_secs' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pprredirect_meta_secs' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pprredirect_meta_secs' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pprredirect_meta_secs' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'qppr_meta_trigger' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'qppr_meta_trigger' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'qppr_meta_trigger' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'qppr_meta_trigger' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'qppr_meta_load' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'qppr_meta_load' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'qppr_meta_load' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'qppr_meta_load' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'qppr_meta_content' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'qppr_meta_content' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'qppr_meta_content' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'qppr_meta_content' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'qppr_meta_append' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'qppr_meta_append' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'qppr_meta_append' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'qppr_meta_append' ) );
+

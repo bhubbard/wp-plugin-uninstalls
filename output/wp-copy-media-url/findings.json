@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_cmu_button_text",
+    "wp_cmu_button_text_copied",
+    "wp_cmu_button_color",
+    "wp_cmu_button_text_color",
+    "wp_cmu_link_text",
+    "wp_cmu_link_text_copied",
+    "wp_cmu_link_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:53.302Z"
+}

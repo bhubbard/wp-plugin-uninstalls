@@ -1,0 +1,20 @@
+{
+  "options": [
+    "hm_custom_javascript_ver",
+    "hm_custom_css_ver",
+    "*_minify",
+    "*_ver",
+    "*_first_activate",
+    "hm_custom_css_js_rd_notice_hidden",
+    "hm_custom_css_js_first_activate",
+    "*_rd_notice_hidden",
+    "hm_custom_javascript_minify",
+    "hm_custom_css_minify"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:57.159Z"
+}

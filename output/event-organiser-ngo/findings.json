@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ngo_show_events",
+    "ngo_show_productions",
+    "ngo_show_concerts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "event_portal",
+    "event_feed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:05.041Z"
+}

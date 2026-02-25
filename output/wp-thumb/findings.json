@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpthumb_crop_pos",
+    "wpthumb_wm_position",
+    "use_watermark",
+    "wpthumb_wm_padding",
+    "wpthumb_wm_pre_resize",
+    "wpthumb_wm_mask",
+    "wm_position",
+    "wm_padding",
+    "wm_pre_resize",
+    "wm_mask"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:32.380Z"
+}

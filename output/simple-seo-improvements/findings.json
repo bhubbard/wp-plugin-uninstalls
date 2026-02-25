@@ -1,0 +1,23 @@
+{
+  "options": [
+    "iworks_ssi_post_types",
+    "*last_used_tab",
+    "*cache_stamp",
+    "*version",
+    "*flush_rules",
+    "*_base",
+    "iworks_ssi_other_archives"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_title",
+    "custom_description",
+    "custom_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:34.725Z"
+}

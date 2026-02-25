@@ -1,0 +1,14 @@
+{
+  "options": [
+    "koppel_je_boekhouding_importer_id",
+    "koppel_je_boekhouding_connection_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "koppel_je_boekhouding_connection_check_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:01.609Z"
+}

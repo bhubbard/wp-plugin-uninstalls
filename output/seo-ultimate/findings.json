@@ -1,0 +1,17 @@
+{
+  "options": [
+    "seo_ultimate",
+    "su_version"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "googleplus",
+    "twitter"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:10.967Z"
+}

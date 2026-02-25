@@ -1,0 +1,21 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "groups_plugin_version",
+    "groups_delete_data"
+  ],
+  "transients": [
+    "groups_plugin_updated_legacy",
+    "groups_plugin_activated",
+    "groups_plugin_updated",
+    "groups_utility_tree"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "groups-join-data",
+    "groups-leave-data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:38.030Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mo_fb_host_name', 'mo_firebase_authentication_admin_email', 'mo_firebase_authentication_admin_phone', 'password', 'mo_firebase_authentication_admin_fname', 'mo_firebase_authentication_admin_lname', 'mo_firebase_authentication_admin_company', 'mo_firebase_authentication_admin_customer_key', 'mo_firebase_authentication_admin_api_key', 'mo_firebase_authentication_lk', 'mo_firebase_authentication_new_registration', 'mo_firebase_authentication_verify_customer', 'mo_firebase_authentication_email', 'mo_enable_firebase_auth', 'mo_firebase_auth_disable_wordpress_login', 'mo_firebase_auth_enable_admin_wp_login', 'mo_firebase_auth_project_id', 'mo_firebase_auth_api_key', 'mo_firebase_auth_cert1', 'mo_firebase_auth_cert2', 'mo_firebase_auth_cert3', 'mo_firebase_auth_kid1', 'mo_firebase_auth_kid2', 'mo_firebase_auth_kid3', 'mo_firebase_authentication_current_plugin_version', 'mo_firebase_authentication_lv', 'mo_firebase_authentication_customer_token', 'mo_firebase_auth_message', 'mo_firebase_authentication_registration_status', 'message', ' mo_firebase_authentication_lv', ' mo_firebase_authentication_lk', 'mo_firebase_authentication_new_customer', 'mo_firebase_authentication_current_plugin_version ', 'mo_firebase_auth_woocommerce_intigration', 'mo_enable_firebase_auto_register', 'mo_firebase_auth_buddypress_intigration');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('mo_firebase_user_dn');
+DELETE FROM wp_usermeta WHERE meta_key IN ('mo_firebase_user_dn');
+DELETE FROM wp_termmeta WHERE meta_key IN ('mo_firebase_user_dn');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('mo_firebase_user_dn');
+

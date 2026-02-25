@@ -1,0 +1,17 @@
+{
+  "options": [
+    "seed_cl_customizer_settings",
+    "seed_cl_settings_1",
+    "seed_cl_settings_2",
+    "seed_cl_settings_4",
+    "seed_cl_settings_content"
+  ],
+  "transients": [
+    "_seed_cl_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:48.665Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp-hypermd-settings",
+    "hypermd_basics",
+    "hypermd_syntax_highlighting",
+    "hypermd_editor_advanced"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:27.152Z"
+}

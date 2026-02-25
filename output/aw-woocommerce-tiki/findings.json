@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_tiki_shipping_license_code",
+    "woocommerce_weight_unit",
+    "*_settings",
+    "*_settings_backup",
+    "woocommerce_shipping_method_selection_priority",
+    "woocommerce_tiki_shipping_settings",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:20.148Z"
+}

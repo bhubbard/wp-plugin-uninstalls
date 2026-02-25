@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bearr_setup_custom_page_header"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp-less-garbage-collection",
+    "wp-less_garbage_collection"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:50.631Z"
+}

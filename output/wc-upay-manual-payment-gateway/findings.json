@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_hasib_upay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_upay_number",
+    "_upay_transaction"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:43.451Z"
+}

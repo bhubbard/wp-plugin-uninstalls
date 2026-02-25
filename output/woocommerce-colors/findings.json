@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_colors",
+    "woocommerce_colors_css",
+    "woocommerce_frontend_css_colors",
+    "woocommerce_admin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:33.496Z"
+}

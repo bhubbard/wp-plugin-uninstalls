@@ -1,0 +1,32 @@
+{
+  "options": [
+    "athemes-addons-settings",
+    "athemes_addons_installed_time",
+    "athemes-addons-modules",
+    "athemes-addons-elementor"
+  ],
+  "transients": [
+    "athemes_addons_notifications",
+    "aafe_custom_js_*",
+    "athemes_addons_theme_builder_flushed_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "athemes_addons_dashboard_notifications_latest_read",
+    "athemes_addons_disable_review_notice",
+    "delay_athemes_addons_disable_review_notice_partially",
+    "_ahf_template_type",
+    "_ahf_template_conditions",
+    "_ahf_header_type",
+    "_elementor_template_type",
+    "_wp_attachment_image_alt",
+    "thumbnail_id",
+    "ahf_display_rules",
+    "_ahf_hook_type",
+    "_ahf_hook_priority",
+    "_ahf_merge_header"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:16.656Z"
+}

@@ -1,0 +1,41 @@
+{
+  "options": [
+    "pose_plugin_advanced_buffer_limit",
+    "pose_plugin_advanced_zk_tsize",
+    "pose_plugin_advanced_zk_semaphore",
+    "pose_plugin_advanced_zk_cycle",
+    "pose_plugin_options_logger",
+    "pose_plugin_options_podd",
+    "pose_plugin_options_geoip",
+    "pose_plugin_options_usecdn",
+    "pose_plugin_options_nag",
+    "pose_plugin_messages_fallback",
+    "pose_plugin_messages_blocked_message",
+    "pose_plugin_messages_bad_ip_message",
+    "pose_plugin_features_rolemode",
+    "pose_plugin_features_forceip",
+    "pose_plugin_features_followip",
+    "pose_plugin_features_killonreset",
+    "pose_plugin_features_analytics",
+    "pose_plugin_features_history",
+    "pose_plugin_features_metrics",
+    "pose_plugin_roles_block_*",
+    "pose_plugin_roles_maxip_*",
+    "pose_plugin_roles_limit_*",
+    "pose_plugin_roles_method_*",
+    "pose_plugin_roles_idle_*",
+    "pose_plugin_roles_cookie-ttl_*",
+    "pose_plugin_roles_cookie-rttl_*",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "session_tokens"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:23.258Z"
+}

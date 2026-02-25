@@ -1,0 +1,29 @@
+{
+  "options": [
+    "f8mcrm_analytics_connection_start",
+    "f8mcrm_analytics_connection_complete",
+    "f8mcrm_analytics_plugin_data_sent",
+    "f8mcrm_analytics_auto_export_enabled",
+    "f8mcrm_analytics_tracking_website_id",
+    "f8mcrm_analytics_tracking_script_url",
+    "site_unique_id",
+    "f8mcrm_analytics_is_tracking_injected",
+    "f8mcrm_analytics_marketing_api_key",
+    "f8mcrm_analytics_custom_tracking_enabled",
+    "f8mcrm_analytics_contents_exported",
+    "f8mcrm_analytics_last_export_timestamp"
+  ],
+  "transients": [
+    "f8mcrm_analytics_activation_redirect",
+    "f8mcrm_analytics_connection_status",
+    "f8mcrm_analytics_plugin_data"
+  ],
+  "cron_jobs": [
+    "f8mcrm_analytics_retry_plugin_data",
+    "f8mcrm_analytics_export_single_post"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:57.231Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "isc_options",
+    "isc_storage",
+    "isc_unused_images_total_items",
+    "isc_scanner_log"
+  ],
+  "transients": [
+    "isc-unused-attachments-stats",
+    "isc-show-missing-sources-warning"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata",
+    "isc_image_posts",
+    "isc_post_images",
+    "isc_image_source_own",
+    "isc_image_source",
+    "isc_image_source_url",
+    "isc_image_licence",
+    "_wp_attached_file",
+    "isc_newsletter_closed",
+    "isc_newsletter_subscribed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:46.851Z"
+}

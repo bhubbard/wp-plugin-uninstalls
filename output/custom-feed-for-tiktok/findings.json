@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpsr_tiktok_global_settings",
+    "wpsr_tiktok_connected_sources_config",
+    "wpsr_tiktok_local_avatars",
+    "wpsr_tiktok_revoke_platform_data",
+    "*_global_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpsr_template_config",
+    "_wpsr_template_styles_config",
+    "_wpsn_elementor_ids",
+    "_wpsn_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:14.761Z"
+}

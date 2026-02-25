@@ -1,0 +1,35 @@
+{
+  "options": [
+    "*enable",
+    "*cookie",
+    "*ttl",
+    "*ttl_unit",
+    "*homepage_ttl",
+    "*ips",
+    "*debug",
+    "onecom_vcache_info",
+    "proisp_varnish_caching_ttl",
+    "proisp_varnish_caching_homepage_ttl",
+    "proisp_varnish_caching_ttl_unit",
+    "onecom_staging_existing_live",
+    "onecom_plugin_version_vcache",
+    "oc_cdn_enabled",
+    "oc_rules_version",
+    "*purge_key",
+    "*truncate_notice",
+    "*ssl",
+    "*hosts",
+    "*dynamic_host",
+    "*stats_json_file",
+    "*purge_menu_save"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_oct_exclude_from_cache",
+    "*ttl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:53.181Z"
+}

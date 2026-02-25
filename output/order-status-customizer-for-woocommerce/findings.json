@@ -1,0 +1,22 @@
+{
+  "options": [
+    "nos_logging",
+    "nos_selected_status",
+    "novarum_osc_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "input_nos_background_color",
+    "input_nos_color",
+    "select_status_from",
+    "select_status_to",
+    "select_action",
+    "input_nos_email_to",
+    "input_nos_email_subject",
+    "input_nos_email_content"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:10.064Z"
+}

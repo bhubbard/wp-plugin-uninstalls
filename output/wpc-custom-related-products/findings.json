@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocr_settings",
+    "woocr_rules",
+    "woocr_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woocr_orderby",
+    "woocr_order",
+    "woocr_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:49.908Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_email_footer_text",
+    "partially_shipped_status",
+    "partially_auto_complete",
+    "partially_hide_status",
+    "partially_enable_status_popup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:32.652Z"
+}

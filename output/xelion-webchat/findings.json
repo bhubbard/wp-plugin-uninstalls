@@ -1,0 +1,16 @@
+{
+  "options": [
+    "xwc_initial_form_enquiry_required",
+    "xwc_api_host",
+    "xwc_api_tenant",
+    "xwc_api_gateway",
+    "xwc_api_token",
+    "xwc_api_is_valid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:59.555Z"
+}

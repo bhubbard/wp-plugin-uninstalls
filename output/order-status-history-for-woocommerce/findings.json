@@ -1,0 +1,31 @@
+{
+  "options": [
+    "oshwoo_wc_colors_update",
+    "oshwoo_multicurrency_symbol",
+    "oshwoo_hx_guest",
+    "oshwoo_hx_aggregate",
+    "oshwoo_hx_pending",
+    "oshwoo_hx_processing",
+    "oshwoo_hx_onhold",
+    "oshwoo_hx_completed",
+    "oshwoo_hx_cancelled",
+    "oshwoo_hx_refunded",
+    "oshwoo_hx_failed",
+    "oshwoo_hx_other",
+    "oshwoo_hx_text",
+    "oshwoo_hx_history",
+    "woocommerce_version",
+    "oshwoo_*"
+  ],
+  "transients": [
+    "osh_orders_query__wp-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "oshwoo_aggregated"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:59.710Z"
+}

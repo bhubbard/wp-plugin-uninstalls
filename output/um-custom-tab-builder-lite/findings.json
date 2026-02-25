@@ -1,0 +1,21 @@
+{
+  "options": [
+    "um_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_um_ctb_slug",
+    "_um_ctb_icon",
+    "_um_ctb_tab_type",
+    "_um_ctb_private",
+    "_um_ctb_roles_view",
+    "_um_ctb_roles_own",
+    "_um_ctb_type_shortcode",
+    "_um_ctb_type_content",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:03.653Z"
+}

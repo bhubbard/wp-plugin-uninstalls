@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpcmt_aisays_custom_language",
+    "wpcmt_aisays_provider",
+    "wpcmt_aisays_total_generations",
+    "wpcmt_aisays_gemini_model",
+    "wpcmt_aisays_language",
+    "wpcmt_aisays_openai_model",
+    "wpcmt_aisays_prompt_template",
+    "wpcmt_aisays_display_mode",
+    "wpcmt_aisays_display_position",
+    "wpcmt_aisays_shortcode",
+    "wpcmt_aisays_max_tokens",
+    "wpcmt_aisays_gemini_api_key",
+    "wpcmt_aisays_openai_api_key"
+  ],
+  "transients": [
+    "wpcmt_aisays_daily_usage",
+    "wpcmt_aisays_bulk_ids_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpcmt_aisays_description",
+    "_wpcmt_aisays_language",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:37.519Z"
+}

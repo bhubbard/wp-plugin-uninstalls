@@ -1,0 +1,17 @@
+{
+  "options": [
+    "alquemie_audience_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "alq_audience_division",
+    "alq_audience_subject",
+    "alq_audience_buyerstage",
+    "alq_audience_audience1",
+    "alq_audience_audience2"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:35.494Z"
+}

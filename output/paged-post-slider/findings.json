@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pps_scroll_up",
+    "pps_style_sheet",
+    "pps_show_all_link",
+    "pps_nav_position",
+    "pps_loop_slides",
+    "pps_count_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:41.502Z"
+}

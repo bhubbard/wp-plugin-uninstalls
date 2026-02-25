@@ -1,0 +1,14 @@
+{
+  "options": [
+    "shipping_by_rules_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rules_shipping_shipping_method",
+    "_rules_shipping_ruleset"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:15.935Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "iscpgallery_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_iscp-image-link"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:26.096Z"
+}

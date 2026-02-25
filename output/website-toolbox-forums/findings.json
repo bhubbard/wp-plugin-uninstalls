@@ -1,0 +1,50 @@
+{
+  "options": [
+    "*websitetoolbox_url",
+    "*websitetoolbox_pageid",
+    "*websitetoolbox_activation_redirect",
+    "*websitetoolbox_username",
+    "*websitetoolbox_api",
+    "*wt_secret_key",
+    "*websitetoolbox_user_roles",
+    "*websitetoolbox_embedUrl",
+    "*websitetoolbox_redirect",
+    "*websitetoolbox_settings_updated",
+    "*websitetoolbox_failHttpRequest",
+    "*websitetoolbox_error",
+    "websitetoolbox_page_content",
+    "websitetoolbox_page_category",
+    "websitetoolbox_post_content",
+    "websitetoolbox_post_category",
+    "*_category",
+    "*_content",
+    "websitetoolbox_url"
+  ],
+  "transients": [
+    "wtb_first_time_setup",
+    "wtb_used_existing_page",
+    "wtb_created_new_page",
+    "wtbAuthtokenInUrl",
+    "websitetoolbox_transient_reply",
+    "websitetoolbox_transient_replyCount"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_wtbredirect_active",
+    "*_links_to",
+    "_elementor_data",
+    "_elementor_css",
+    "website_toolbox_forum_postUrl",
+    "website_toolbox_forum_publishing_error",
+    "website_toolbox_publish_on_forum",
+    "website_toolbox_forum_category",
+    "forum_topicId",
+    "result",
+    "forum_postId",
+    "website_toolbox_existing_forum_category",
+    "forum_postContent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:33.017Z"
+}

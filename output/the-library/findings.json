@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "wprl_download_*"
+  ],
+  "cron_jobs": [
+    "wprl_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "phone",
+    "_wprl_file_data",
+    "_wprl_file_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:33.438Z"
+}

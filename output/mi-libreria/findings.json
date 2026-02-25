@@ -1,0 +1,20 @@
+{
+  "options": [
+    "prh_ml_options_saved_time",
+    "prh_ml_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_prh_ml_saved_time",
+    "_prh_ml_books",
+    "_prh_ml_keywords",
+    "_prh_ml_exclusions",
+    "_prh_ml_auto_override",
+    "_prh_ml_manual_override",
+    "_prh_ml_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:53.402Z"
+}

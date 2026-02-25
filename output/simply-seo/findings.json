@@ -1,0 +1,21 @@
+{
+  "options": [
+    "simply_seo_settings",
+    "simply_seo_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_simply_seo_title",
+    "_simply_seo_description",
+    "_simply_seo_keywords",
+    "_simply_seo_social_image",
+    "_simply_seo_image",
+    "_simply_seo_noindex",
+    "_simply_seo_nofollow",
+    "_simply_seo_canonical"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:40.497Z"
+}

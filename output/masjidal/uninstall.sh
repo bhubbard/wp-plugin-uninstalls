@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'masjid_id'
+wp option delete 'montly_pdf_url'
+wp option delete 'masjid_calendar_type'
+wp option delete 'masjid_calendar_layout'
+wp option delete 'highlighted_color'
+wp option delete 'jumuah3_time'
+wp option delete 'jumuah3time'
+wp option delete 'khutbah_time1'
+wp option delete 'timeformat_24'
+wp option delete 'iqamahChange'
+wp option delete 'khutbah_time'
+wp option delete 'highlighted_text_color'
+wp option delete 'starts_lable'
+wp option delete 'top_heading'
+wp option delete 'iqamah_lable'
+wp option delete 'sunrise_lable'
+wp option delete 'fajr_lable'
+wp option delete 'dhuhr_lable'
+wp option delete 'asr_lable'
+wp option delete 'maghrib_lable'
+wp option delete 'isha_lable'
+wp option delete 'jumuah_header'
+wp option delete 'jumuah1_lable'
+wp option delete 'jumuah2_lable'
+wp option delete 'jumuah3_lable'
+wp option delete 'montly_text'
+wp option delete 'khutbah_label'
+wp option delete 'widget_mpsti_wpb_widget'
+

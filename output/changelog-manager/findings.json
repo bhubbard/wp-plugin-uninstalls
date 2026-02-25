@@ -1,0 +1,34 @@
+{
+  "options": [
+    "chanma_free_settings",
+    "chanma_free_tutorial_completed",
+    "chanma_version",
+    "chanma_tutorial_completed",
+    "chanma_settings",
+    "chanma_default_statuses_created",
+    "chanma_default_project_created",
+    "chanma_subscribers",
+    "chanma_custom_block_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_chanma_version",
+    "_chanma_release_date",
+    "_chanma_features",
+    "_chanma_bugfixes",
+    "_chanma_improvements",
+    "_chanma_security",
+    "_chanma_removed",
+    "_chanma_roadmap_priority",
+    "_chanma_roadmap_deadline",
+    "_chanma_roadmap_progress",
+    "_chanma_roadmap_order",
+    "_chanma_notes",
+    "_chanma_type",
+    "_chanma_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:11.798Z"
+}

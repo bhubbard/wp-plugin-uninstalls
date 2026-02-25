@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wc_settings_tab_tcs_username",
+    "wc_settings_tab_tcs_password",
+    "wc_settings_tab_tcs_cost_center_code",
+    "wc_settings_tab_tcs_origin_city"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ywot_picked_up",
+    "ywot_tracking_code",
+    "ywot_carrier_name",
+    "ywot_pick_up_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:18.202Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "seon_licence_key",
+    "seon_activate_agent"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_order_seon_status",
+    "_order_seon_score",
+    "_order_seon_id",
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:15.738Z"
+}

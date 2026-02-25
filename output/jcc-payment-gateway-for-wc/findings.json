@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*_settings",
+    "active_sitewide_plugins",
+    "woocommerce_jccgateway_settings",
+    "woocommerce_calc_taxes",
+    "woocommerce_jccgateway_title",
+    "woocommerce_jccgateway_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "orderId",
+    "_fes_truCode",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_phone",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_state",
+    "billing_postcode",
+    "billing_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:27.408Z"
+}

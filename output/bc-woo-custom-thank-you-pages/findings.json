@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_bacs_accounts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ga_tracked",
+    "_tracked"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:51.038Z"
+}

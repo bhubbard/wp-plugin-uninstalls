@@ -1,0 +1,13 @@
+{
+  "options": [
+    "buddyforms_custom_login_settings",
+    "buddyforms_registration_page",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:15.877Z"
+}

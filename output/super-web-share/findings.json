@@ -1,0 +1,23 @@
+{
+  "options": [
+    "superwebshare_version",
+    "superwebshare_settings",
+    "superwebshare_floatingsettings",
+    "superwebshare_floating_settings",
+    "superwebshare_inline_settings",
+    "superwebshare_fallback_settings",
+    "superwebshare_appearance_settings"
+  ],
+  "transients": [
+    "superwebshare_admin_notice_activation",
+    "superwebshare_admin_notice_upgrade_complete"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_superwebshare_post_inline_active",
+    "_superwebshare_post_floating_active"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:34.066Z"
+}

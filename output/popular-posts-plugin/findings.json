@@ -1,0 +1,14 @@
+{
+  "options": [
+    "popular-posts",
+    "widget_rrm_popular_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pvc_views"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:04.111Z"
+}

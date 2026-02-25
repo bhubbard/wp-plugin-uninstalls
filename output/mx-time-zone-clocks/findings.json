@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mxmtzc_hire_developer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_olena_theme_install_notice_viewed",
+    "_how_does_it_work_notice_viewed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:41.710Z"
+}

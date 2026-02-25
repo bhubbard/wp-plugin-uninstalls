@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('berq_opt_mode', 'berqwp_enable_sandbox', 'berqwp_optimize_post_types', 'berqwp_cache_rules', 'berqwp_license_key', 'berqwp_can_use_fluid_images', 'berqwp_cf_creden', 'berqwp_enable_cache_for_loggedin', 'berqwp_cache_lifespan', 'berqwp_webp_max_width', 'berqwp_webp_quality', 'bwp_require_flush_cache', 'berqwp_image_lazyloading', 'berqwp_disable_webp', 'berqwp_fluid_images', 'berqwp_enable_cdn', 'berqwp_enable_cwv', 'berqwp_preload_cookiebanner', 'berqwp_preload_fontfaces', 'berqwp_disable_emojis', 'berqwp_lazyload_youtube_embed', 'berqwp_preload_yt_poster', 'berqwp_javascript_execution_mode', 'berqwp_optimize_taxonomies', 'berqwp_interaction_delay', 'berq_exclude_cdn', 'berq_exclude_urls', 'berq_ignore_urls_params', 'berq_exclude_js_css', 'berq_css_optimization', 'berq_js_optimization', 'berqwp_sync_addons', 'berqwp_server_queue', 'bwph_max_beats_per_minute', 'berqwp_uploaded_assets', 'berqwp_optimize_queue', 'berqwp_site_url', 'berqwp_custom_cache_header', 'bwp_quit_feedback', 'berqwp_post_type_names', 'trp_settings', 'ewww_image_optimizer_lazy_load', 'berqwp_product_sale_check', 'berq_lic_response_cache', 'berqwp_connection_status', 'bqwp_hide_feedback_notice', 'berqwp_redirect', 'berq_purge_page_notice', 'berq_force_cache_notice', 'berq_purge_cdn_notice');
+DELETE FROM wp_options WHERE option_name IN ('berq_purge_site_notice', 'berq_purge_criticalcss_notice', 'berq_cache_cleared_notice', 'berq_cache_warmup_notice', 'berqwp_warmup_running', 'cache_warmup_in_progress', 'berqwp_doing_cache_warmup', 'berqwp_connection_status_sl', 'action_scheduler_last_pastdue_actions_check', 'action_scheduler_admin_notice', 'as_comment_count');
+DELETE FROM wp_options WHERE option_name LIKE 'bwp_warmup_lock_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_sale_price_dates_to');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_sale_price_dates_to');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_sale_price_dates_to');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_sale_price_dates_to');
+

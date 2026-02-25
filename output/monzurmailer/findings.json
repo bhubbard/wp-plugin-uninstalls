@@ -1,0 +1,21 @@
+{
+  "options": [
+    "monzurmailer_email_templates",
+    "monzurmailer_email_logs",
+    "monzurmailer_from_name",
+    "monzurmailer_from_email",
+    "monzurmailer_footer_note",
+    "monzurmailer_smtp_enable",
+    "monzurmailer_smtp_host",
+    "monzurmailer_smtp_port",
+    "monzurmailer_smtp_username",
+    "monzurmailer_smtp_password",
+    "monzurmailer_smtp_encryption"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:39.037Z"
+}

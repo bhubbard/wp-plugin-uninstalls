@@ -1,0 +1,59 @@
+{
+  "options": [
+    "*db_version",
+    "*ip_proxy",
+    "*activated",
+    "bedrock_autoloader",
+    "nitropack-autoCachePurge",
+    "wlpr_settings",
+    "woocommerce_review_rating_verification_label",
+    "woocommerce_default_catalog_orderby",
+    "woocommerce_review_rating_verification_required",
+    "woocommerce_enable_reviews",
+    "ic-settings",
+    "_glsr_rebusify",
+    "sidebars_widgets",
+    "glsr_trustalyze",
+    "_glsr_trustalyze",
+    "widget_site-reviews",
+    "widget_site-reviews-form",
+    "widget_site-reviews-summary",
+    "site_reviews",
+    "glsr_activated",
+    "glsr_db_version"
+  ],
+  "transients": [
+    "*rollback_version",
+    "*rollback_versions",
+    "*remote_post_test",
+    "*system_info",
+    "*gatekeeper",
+    "*_cloudflare_ips",
+    "*_remote_post_test",
+    "*cloudflare_ips",
+    "*notices",
+    "action_scheduler_admin_notice",
+    "glsr_cloudflare_ips",
+    "glsr_remote_post_test",
+    "glsr_system_info",
+    "glsr_migrations",
+    "action_scheduler_last_pastdue_actions_check",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "site-reviews/schedule/session/purge"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "redirect_to",
+    "dismissed_wp_pointers",
+    "*_filters",
+    "_submitted",
+    "_submitted_hash",
+    "_elementor_data",
+    "imported",
+    "_verified"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:17.200Z"
+}

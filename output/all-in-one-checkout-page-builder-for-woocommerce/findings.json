@@ -1,0 +1,16 @@
+{
+  "options": [
+    "caf_fa_icons",
+    "trusty_active_template",
+    "woocommerce_ship_to_destination",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "trusty_checkout_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:41.922Z"
+}

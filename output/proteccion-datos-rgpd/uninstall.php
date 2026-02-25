@@ -1,0 +1,112 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('pdrgpd_vies');
+delete_site_option('pdrgpd_vies');
+delete_option('pdrgpd_existencia_formulario_contacto');
+delete_site_option('pdrgpd_existencia_formulario_contacto');
+delete_option('pdrgpd_akismet_formulario_contacto');
+delete_site_option('pdrgpd_akismet_formulario_contacto');
+delete_option('pdrgpd_existencia_boletin');
+delete_site_option('pdrgpd_existencia_boletin');
+delete_option('pdrgpd_aplicar_formulario_comentar');
+delete_site_option('pdrgpd_aplicar_formulario_comentar');
+delete_option('akismet_comment_form_privacy_notice');
+delete_site_option('akismet_comment_form_privacy_notice');
+delete_option('pdrgpd_existencia_suscripcion_jetpack');
+delete_site_option('pdrgpd_existencia_suscripcion_jetpack');
+delete_option('pdrgpd_pie_enlace_legal');
+delete_site_option('pdrgpd_pie_enlace_legal');
+delete_option('pdrgpd_pie_enlace_privacidad');
+delete_site_option('pdrgpd_pie_enlace_privacidad');
+delete_option('pdrgpd_pie_enlace_cookies');
+delete_site_option('pdrgpd_pie_enlace_cookies');
+delete_option('pdrgpd_pie_multilinea');
+delete_site_option('pdrgpd_pie_multilinea');
+delete_option('pdrgpd_titular');
+delete_site_option('pdrgpd_titular');
+delete_option('pdrgpd_nif');
+delete_site_option('pdrgpd_nif');
+delete_option('pdrgpd_direccion');
+delete_site_option('pdrgpd_direccion');
+delete_option('pdrgpd_cp');
+delete_site_option('pdrgpd_cp');
+delete_option('pdrgpd_poblacion');
+delete_site_option('pdrgpd_poblacion');
+delete_option('pdrgpd_provincia');
+delete_site_option('pdrgpd_provincia');
+delete_option('pdrgpd_telefono');
+delete_site_option('pdrgpd_telefono');
+delete_option('pdrgpd_email');
+delete_site_option('pdrgpd_email');
+delete_option('pdrgpd_rmercant_poblacion');
+delete_site_option('pdrgpd_rmercant_poblacion');
+delete_option('pdrgpd_rmercant_provincia');
+delete_site_option('pdrgpd_rmercant_provincia');
+delete_option('pdrgpd_rmercant_fecha');
+delete_site_option('pdrgpd_rmercant_fecha');
+delete_option('pdrgpd_rmercant_presentacion');
+delete_site_option('pdrgpd_rmercant_presentacion');
+delete_option('pdrgpd_rmercant_seccion');
+delete_site_option('pdrgpd_rmercant_seccion');
+delete_option('pdrgpd_rmercant_libro');
+delete_site_option('pdrgpd_rmercant_libro');
+delete_option('pdrgpd_rmercant_tomo');
+delete_site_option('pdrgpd_rmercant_tomo');
+delete_option('pdrgpd_rmercant_folio');
+delete_site_option('pdrgpd_rmercant_folio');
+delete_option('pdrgpd_rmercant_hoja');
+delete_site_option('pdrgpd_rmercant_hoja');
+delete_option('pdrgpd_rmercant_protocolo');
+delete_site_option('pdrgpd_rmercant_protocolo');
+delete_option('pdrgpd_rmercant_num');
+delete_site_option('pdrgpd_rmercant_num');
+delete_option('pdrgpd_sitio');
+delete_site_option('pdrgpd_sitio');
+delete_option('pdrgpd_dominio');
+delete_site_option('pdrgpd_dominio');
+delete_option('pdrgpd_uri_aviso');
+delete_site_option('pdrgpd_uri_aviso');
+delete_option('pdrgpd_uri_privacidad');
+delete_site_option('pdrgpd_uri_privacidad');
+delete_option('pdrgpd_uri_cookies');
+delete_site_option('pdrgpd_uri_cookies');
+delete_option('pdrgpd_formato_primera_capa');
+delete_site_option('pdrgpd_formato_primera_capa');
+delete_option('pdrgpd_google_analytics_id');
+delete_site_option('pdrgpd_google_analytics_id');
+delete_option('pdrgpd_facebook_pixel_id');
+delete_site_option('pdrgpd_facebook_pixel_id');
+delete_option('pdrgpd_pie_copyright');
+delete_site_option('pdrgpd_pie_copyright');
+delete_option('pdrgpd_version');
+delete_site_option('pdrgpd_version');
+delete_option('pdrgpd_finalidad_formulario_contacto_mini');
+delete_site_option('pdrgpd_finalidad_formulario_contacto_mini');
+delete_option('pdrgpd_finalidad_formulario_contacto');
+delete_site_option('pdrgpd_finalidad_formulario_contacto');
+delete_option('pdrgpd_finalidad_suscripcion_boletin_mini');
+delete_site_option('pdrgpd_finalidad_suscripcion_boletin_mini');
+delete_option('pdrgpd_finalidad_suscripcion_boletin');
+delete_site_option('pdrgpd_finalidad_suscripcion_boletin');
+delete_option('pdrgpd_existencia_formulario_comentar');
+delete_site_option('pdrgpd_existencia_formulario_comentar');
+delete_option('pdrgpd_finalidad_formulario_comentar_mini');
+delete_site_option('pdrgpd_finalidad_formulario_comentar_mini');
+delete_option('pdrgpd_finalidad_formulario_comentar');
+delete_site_option('pdrgpd_finalidad_formulario_comentar');
+delete_option('jetpack_active_modules');
+delete_site_option('jetpack_active_modules');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pdrgpd_acepto_politica_privacidad' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pdrgpd_acepto_politica_privacidad' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pdrgpd_acepto_politica_privacidad' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pdrgpd_acepto_politica_privacidad' ) );
+

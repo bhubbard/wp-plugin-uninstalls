@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fs_lite_accounts",
+    "tiktok_api_version"
+  ],
+  "transients": [
+    "ttp_tiktok_videos",
+    "ttp_tiktok_user_info",
+    "ttp_tiktok_access_token",
+    "*_ttp_tiktok_videos",
+    "ttp_tiktok_authorized_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:38.551Z"
+}

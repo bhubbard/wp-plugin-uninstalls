@@ -1,0 +1,21 @@
+{
+  "options": [
+    "gtw_servernum",
+    "gtw_field_servernum",
+    "gtw_field_*",
+    "gtw_autojoin",
+    "gtw_timezone",
+    "gtw_registered",
+    "gtw_field_firstname",
+    "gtw_field_lastname",
+    "gtw_field_email",
+    "gtw_field_phone",
+    "gtw_field_gtwid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:38.865Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sideosurl",
+    "token",
+    "did",
+    "templateID",
+    "showlogo",
+    "disablesubmit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "did"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:00.412Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cleancodenzexlp_customfield_name",
+    "cleancodenzexlp_customfield_value",
+    "cleancodenzexlp_notinsearch",
+    "cleancodenzexlp_notinsearch_only"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:58.103Z"
+}

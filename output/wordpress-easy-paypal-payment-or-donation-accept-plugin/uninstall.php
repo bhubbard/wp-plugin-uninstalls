@@ -1,0 +1,112 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('wp_pp_payment_email');
+delete_site_option('wp_pp_payment_email');
+delete_option('paypal_payment_currency');
+delete_site_option('paypal_payment_currency');
+delete_option('wp_pp_payment_subject');
+delete_site_option('wp_pp_payment_subject');
+delete_option('wp_pp_payment_item1');
+delete_site_option('wp_pp_payment_item1');
+delete_option('wp_pp_payment_value1');
+delete_site_option('wp_pp_payment_value1');
+delete_option('wp_pp_payment_item2');
+delete_site_option('wp_pp_payment_item2');
+delete_option('wp_pp_payment_value2');
+delete_site_option('wp_pp_payment_value2');
+delete_option('wp_pp_payment_item3');
+delete_site_option('wp_pp_payment_item3');
+delete_option('wp_pp_payment_value3');
+delete_site_option('wp_pp_payment_value3');
+delete_option('wp_paypal_widget_title_name');
+delete_site_option('wp_paypal_widget_title_name');
+delete_option('payment_button_type');
+delete_site_option('payment_button_type');
+delete_option('wp_pp_show_other_amount');
+delete_site_option('wp_pp_show_other_amount');
+delete_option('wp_pp_show_ref_box');
+delete_site_option('wp_pp_show_ref_box');
+delete_option('wp_pp_ref_title');
+delete_site_option('wp_pp_ref_title');
+delete_option('wp_pp_return_url');
+delete_site_option('wp_pp_return_url');
+delete_option('wp_pp_cancel_url');
+delete_site_option('wp_pp_cancel_url');
+delete_option('wpapp_collect_shipping_address');
+delete_site_option('wpapp_collect_shipping_address');
+delete_option('wpapp_enable_debug_logging');
+delete_site_option('wpapp_enable_debug_logging');
+delete_option('wp_pp_payment_item4');
+delete_site_option('wp_pp_payment_item4');
+delete_option('wp_pp_payment_value4');
+delete_site_option('wp_pp_payment_value4');
+delete_option('wp_pp_payment_item5');
+delete_site_option('wp_pp_payment_item5');
+delete_option('wp_pp_payment_value5');
+delete_site_option('wp_pp_payment_value5');
+delete_option('wp_pp_payment_item6');
+delete_site_option('wp_pp_payment_item6');
+delete_option('wp_pp_payment_value6');
+delete_site_option('wp_pp_payment_value6');
+delete_option('cart_payment_currency');
+delete_site_option('cart_payment_currency');
+delete_option('wpapp_logfile_suffix');
+delete_site_option('wpapp_logfile_suffix');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'payment_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'payment_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'payment_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'payment_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'payment_currency' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'payment_currency' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'payment_currency' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'payment_currency' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'trial_billing_cycle' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'trial_billing_cycle' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'trial_billing_cycle' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'trial_billing_cycle' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'recurring_billing_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'recurring_billing_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'recurring_billing_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'recurring_billing_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'trial_billing_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'trial_billing_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'trial_billing_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'trial_billing_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'trial_billing_cycle_term' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'trial_billing_cycle_term' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'trial_billing_cycle_term' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'trial_billing_cycle_term' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'recurring_billing_cycle' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'recurring_billing_cycle' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'recurring_billing_cycle' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'recurring_billing_cycle' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'recurring_billing_cycle_term' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'recurring_billing_cycle_term' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'recurring_billing_cycle_term' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'recurring_billing_cycle_term' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'recurring_billing_cycle_count' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'recurring_billing_cycle_count' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'recurring_billing_cycle_count' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'recurring_billing_cycle_count' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'recurring_billing_reattempt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'recurring_billing_reattempt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'recurring_billing_reattempt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'recurring_billing_reattempt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pp_subscription_plan_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pp_subscription_plan_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pp_subscription_plan_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pp_subscription_plan_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pp_subscription_plan_mode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pp_subscription_plan_mode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pp_subscription_plan_mode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pp_subscription_plan_mode' ) );
+

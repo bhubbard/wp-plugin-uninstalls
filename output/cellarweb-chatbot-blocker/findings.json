@@ -1,0 +1,13 @@
+{
+  "options": [
+    "CWCB_settings",
+    "CWCB_chatbot_content",
+    "cw_chatbot_block_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:31.225Z"
+}

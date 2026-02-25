@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mobsms_customer_key",
+    "mobsms_phone_meta_key",
+    "mobsms_api_key",
+    "mobsms_verify_customer",
+    "mobsms_email",
+    "mobsms_customer_token",
+    "mobsms_admin_phone",
+    "mobsms_app_secret",
+    "mobsms_activated_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_nicename"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:45.474Z"
+}

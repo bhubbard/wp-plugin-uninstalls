@@ -1,0 +1,12 @@
+{
+  "options": [
+    "im_published_categories",
+    "im_unpublished_categories"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:23.533Z"
+}

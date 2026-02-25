@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*-pages-login",
+    "*-pages-after-login",
+    "*-pages-after-logout",
+    "*-pages-register",
+    "*-pages-lostpassword",
+    "*-pages-resetpassword",
+    "*-pages-editprofile",
+    "*-pages-account",
+    "*-recaptcha-site-key",
+    "*-recaptcha-secret-key",
+    "happycula-custom-user-pages-pages-login",
+    "happycula-custom-user-pages-pages-after-login",
+    "happycula-custom-user-pages-pages-after-logout",
+    "happycula-custom-user-pages-pages-register",
+    "happycula-custom-user-pages-pages-lostpassword",
+    "happycula-custom-user-pages-pages-resetpassword",
+    "happycula-custom-user-pages-pages-editprofile",
+    "happycula-custom-user-pages-pages-account",
+    "happycula-custom-user-pages-recaptcha-site-key",
+    "happycula-custom-user-pages-recaptcha-secret-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:54.232Z"
+}

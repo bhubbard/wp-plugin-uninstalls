@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_checkout_page_id",
+    "tabby_checkout_*",
+    "tabby_checkout_order_timeout",
+    "tabby_share_feed",
+    "tabby_countries",
+    "tabby_checkout_disable_for_sku",
+    "woocommerce_manage_stock",
+    "tabby_checkout_failed_action",
+    "woocommerce_cart_page_id",
+    "tabby_promo",
+    "tabby_promo_cart",
+    "tabby_promo_inherit_bg",
+    "tabby_checkout_public_key",
+    "tabby_checkout_promo_price",
+    "tabby_checkout_promo_min_total",
+    "tabby_plugin_version",
+    "woocommerce_tabby_installments_settings",
+    "tabby_checkout_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woocommerce_tabby_cancel_unpaid_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:31.819Z"
+}

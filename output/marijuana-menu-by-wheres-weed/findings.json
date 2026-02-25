@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ww_menu_business_url",
+    "ww_menu_show_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:32.323Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mdemch_pro_settings"
+  ],
+  "transients": [
+    "mdemch_scan_progress",
+    "mdemch_scan_in_progress"
+  ],
+  "cron_jobs": [
+    "mdemch_run_scan",
+    "mdemch_process_chunk_v2"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:48.247Z"
+}

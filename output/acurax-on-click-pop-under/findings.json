@@ -1,0 +1,17 @@
+{
+  "options": [
+    "acurax_popunder_installed_date",
+    "acurax_popunder_array",
+    "acurax_popunder_timeout",
+    "acurax_popunder_service_banners",
+    "acurax_popunder_premium_ad",
+    "acurax_popunder_version_p",
+    "acurax_popunder_td"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:52.708Z"
+}

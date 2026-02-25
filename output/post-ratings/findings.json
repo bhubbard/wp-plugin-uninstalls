@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "post_ratings_ip_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "votes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:05.516Z"
+}

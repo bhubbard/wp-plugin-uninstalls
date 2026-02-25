@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('gra4_plugin_do_activation_redirect', 'gra4_version', 'gra4_dom_tree', 'gra4_dom_node_id', 'gra4_margin_none', 'gra4_set_width', 'gra4_delta_width', 'gra4_set_custom_template', 'gra4_reset_page', 'gra4_theme_name', 'rewrite_rules');
+

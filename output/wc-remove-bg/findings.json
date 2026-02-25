@@ -1,0 +1,22 @@
+{
+  "options": [
+    "RemoveBG_ApiKey",
+    "RemoveBG_products",
+    "RemoveBG_products_IDs",
+    "RemoveBG_thumbnail",
+    "RemoveBG_gallery",
+    "RemoveBG_Background",
+    "RemoveBG_Background_Color",
+    "RemoveBG_Preserve_Resize",
+    "RemoveBG_Include_Processed",
+    "RemoveBG_Background_Image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:03.406Z"
+}

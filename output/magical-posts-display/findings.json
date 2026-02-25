@@ -1,0 +1,29 @@
+{
+  "options": [
+    "mgpd_update_notice_1_2_53",
+    "mgpd_pro_info_text1",
+    "mgposte_install_date",
+    "mgelhide9",
+    "has_magical_posts_pro",
+    "mgposte_plugin_activated",
+    "mgposte_latest_activated",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "mpd_my_post_viewed",
+    "mp_post_post_viewed",
+    "mp_post_week_viewed",
+    "mp_post_view_time",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:38.755Z"
+}

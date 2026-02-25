@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "tmu/cron/fetch_trustmeup_products",
+    "tmu/cron/autoconnect_non_connected_products"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:03.967Z"
+}

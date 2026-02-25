@@ -1,0 +1,46 @@
+{
+  "options": [
+    "Activated_EN_Plugin",
+    "easynotify_opt",
+    "easy_notify_pro_aweber_auth_info",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "easynotify_featured_feed"
+  ],
+  "cron_jobs": [
+    "enoty_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "enoty_cp_layoutmode",
+    "enoty_cp_cookies",
+    "*_swc",
+    "enoty_cp_img",
+    "enoty_ignore_notice",
+    "enoty_cp_open_effect",
+    "enoty_cp_close_effect",
+    "enoty_cp_thumbsize_swc",
+    "enoty_cp_thumbsize_tw",
+    "enoty_cp_thumbsize_th",
+    "enoty_cp_notify_delay",
+    "dismissed_wp_pointers",
+    "enoty_cp_header_text",
+    "enoty_cp_header_back_col",
+    "enoty_cp_maincontent",
+    "enoty_cp_main_text_size_col_fnt",
+    "enoty_cp_main_text_size_col_clr",
+    "enoty_cp_bullet",
+    "enoty_cp_bullet_list_text_fnt",
+    "enoty_cp_bullet_list_text_clr",
+    "enoty_cp_bullet_style_color",
+    "enoty_cp_bullet_swc",
+    "enoty_cp_header_text_size_col_fnt",
+    "enoty_cp_header_text_size_col_clr",
+    "enoty_cp_pattern",
+    "enoty_cp_overlay_col",
+    "enoty_cp_overlay_opcty"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:31.031Z"
+}

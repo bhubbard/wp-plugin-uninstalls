@@ -1,0 +1,16 @@
+{
+  "options": [
+    "plui_enabled",
+    "plui_custom_text",
+    "plui_display_position",
+    "plui_disable_on_single_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_plui_disable_last_update"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:45.747Z"
+}

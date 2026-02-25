@@ -1,0 +1,19 @@
+{
+  "options": [
+    "CRMZT_refresh_token",
+    "CRMZT_client_id",
+    "CRMZT_client_secret",
+    "CRMZT_auth_code",
+    "CRMZT_maxmind_account_id",
+    "CRMZT_maxmind_license_key",
+    "CRMZT_org_id",
+    "CRMZT_access_token",
+    "CRMZT_crmformswpbuilder_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:35.203Z"
+}

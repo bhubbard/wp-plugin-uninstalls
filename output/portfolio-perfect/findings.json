@@ -1,0 +1,18 @@
+{
+  "options": [
+    "content_blog",
+    "content_contact",
+    "content_testimonials"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_simple_email",
+    "_wp_page_template",
+    "_background_image_value_key",
+    "_choices_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:27.625Z"
+}

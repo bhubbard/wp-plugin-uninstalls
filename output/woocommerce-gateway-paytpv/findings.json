@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "IdUser",
+    "TokenUser",
+    "Resultado",
+    "Log de operación",
+    "_customer_ip_address",
+    "PAN",
+    "_next_paytpv_ref",
+    "referencia_paytpv"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:15.291Z"
+}

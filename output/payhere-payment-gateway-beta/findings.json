@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_payhere_settings",
+    "woocommerce_myaccount_page_id",
+    "payhere_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "payhere_customer_token",
+    "payhere_customer_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:54.169Z"
+}

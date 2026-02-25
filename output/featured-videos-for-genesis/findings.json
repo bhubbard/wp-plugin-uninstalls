@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gfv_thumb_width",
+    "gfv_thumb_height",
+    "gfv_thumb_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gfv_video_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:19.707Z"
+}

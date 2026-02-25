@@ -1,0 +1,24 @@
+{
+  "options": [
+    "portfolio_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*avatar",
+    "phone",
+    "*_latitude",
+    "*_longitude",
+    "*_address",
+    "*gallery",
+    "_pending_to_use_",
+    "*avatar_id",
+    "*_id",
+    "_wp_page_template",
+    "opal_portfolio_color",
+    "opal_portfolio_desc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:39.639Z"
+}

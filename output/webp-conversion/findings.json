@@ -1,0 +1,24 @@
+{
+  "options": [
+    "webpc_auto",
+    "webpc_svg",
+    "webpc_ico",
+    "webpc_remove",
+    "webpc_*",
+    "webpc_conversion_library",
+    "webpc_200kb",
+    "webpc_1000kb",
+    "webpc_2500kb",
+    "webpc_more_2500kb"
+  ],
+  "transients": [
+    "webpc_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_webpc_backup_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:27.065Z"
+}

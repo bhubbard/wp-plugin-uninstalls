@@ -1,0 +1,14 @@
+{
+  "options": [
+    "oras_option_name",
+    "oras_api",
+    "oras_languague",
+    "oras_privacy_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:29.424Z"
+}

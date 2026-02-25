@@ -1,0 +1,13 @@
+{
+  "options": [
+    "featherlight_plugin_db_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zeroneit_featherlight_disable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:05.176Z"
+}

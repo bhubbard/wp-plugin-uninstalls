@@ -1,0 +1,22 @@
+{
+  "options": [
+    "_umy_wdw_templates",
+    "umy_wdw_hide_from_subsites",
+    "umy_wdw_version"
+  ],
+  "transients": [
+    "umy_wdw_settings_saved"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_bricks_page_content_2",
+    "_et_pb_use_builder",
+    "_fl_builder_enabled",
+    "ct_builder_shortcodes",
+    "_breakdance_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:45.548Z"
+}

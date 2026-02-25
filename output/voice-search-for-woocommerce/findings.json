@@ -1,0 +1,20 @@
+{
+  "options": [
+    "vswc_api_system_key",
+    "vswc_current_value",
+    "vswc_last_value",
+    "vswc_last_value_updated_at",
+    "vswc_license_key",
+    "vswc_first_activation",
+    "vswc_uuid",
+    "vswc_settings_updated_timestamp",
+    "vswc_version",
+    "vswc_selected_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:27.326Z"
+}

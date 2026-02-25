@@ -1,0 +1,22 @@
+{
+  "options": [
+    "jetpack_private_options",
+    "jetpack_options",
+    "cpy_payments_error_tokens",
+    "_cpy_current_token",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [
+    "wcpay_account_data"
+  ],
+  "cron_jobs": [
+    "cpy_tokens_change_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "woocommerce_payments_token_name",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:45.424Z"
+}

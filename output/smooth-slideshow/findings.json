@@ -1,0 +1,15 @@
+{
+  "options": [
+    "axc_slideshow_width",
+    "axc_slideshow_height",
+    "axc_slideshow_border_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slide"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:17.309Z"
+}

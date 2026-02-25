@@ -1,0 +1,17 @@
+{
+  "options": [
+    "crd_id"
+  ],
+  "transients": [
+    "scalenut_plugin_error_message",
+    "scalenut_plugin_warning_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:39.147Z"
+}

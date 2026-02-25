@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_languages",
+    "*_default_language",
+    "*_switcher",
+    "*_autotranslate",
+    "*_styling",
+    "*_googleapikey",
+    "visual_composer_multilanguage_default_language",
+    "visual_composer_multilanguage_languages",
+    "visual_composer_multilanguage_switcher",
+    "visual_composer_multilanguage_googleapikey",
+    "visual_composer_multilanguage_styling",
+    "visual_composer_multilanguage_autotranslate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:09.496Z"
+}

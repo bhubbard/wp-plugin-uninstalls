@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ns-placeholder-image-from-list",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:23.209Z"
+}

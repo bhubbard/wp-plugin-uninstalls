@@ -1,0 +1,14 @@
+{
+  "options": [
+    "edd_use_php_sessions",
+    "sw_data_consent"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_session_garbage_collection"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:06.790Z"
+}

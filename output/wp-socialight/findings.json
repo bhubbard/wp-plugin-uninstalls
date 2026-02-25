@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp-socialight-facebook",
+    "wp-socialight-twitter",
+    "wp-socialight-linkedin",
+    "wp-socialight-google",
+    "wp-socialight-buffer",
+    "wp-socialight-whatsapp",
+    "wp-socialight-mail",
+    "wp-socialight-home",
+    "wp-socialight-pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:09.478Z"
+}

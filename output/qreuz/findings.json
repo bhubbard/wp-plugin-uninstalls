@@ -1,0 +1,23 @@
+{
+  "options": [
+    "qreuz_db_version",
+    "qreuz_user_data_auth_status",
+    "qreuz_smart_pricing_premium_category",
+    "qreuz_smart_pricing_premium_percent",
+    "qreuz_smart_pricing_sale_category",
+    "qreuz_smart_pricing_sale_percent",
+    "qreuz_smart_pricing_price_scheme",
+    "qreuz_tracking_method",
+    "qreuz_user_data_toqen",
+    "qreuz_user_data_qkey",
+    "qreuz_user_data_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_qreuz_track_woocommerce_thankyou_done"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:02.265Z"
+}

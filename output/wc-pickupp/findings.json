@@ -1,0 +1,32 @@
+{
+  "options": [
+    "pickupp_region",
+    "pickupp_api_key",
+    "pickupp_auth_method",
+    "pickup_contact_person",
+    "pickup_contact_phone",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pickupp_order_number",
+    "_pickupp_order_status",
+    "_already_sent_with_pickupp",
+    "_shipping_phone",
+    "_weight",
+    "_length",
+    "_width",
+    "_height",
+    "_shipping_weight",
+    "_shipping_length",
+    "_shipping_width",
+    "_shipping_height"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:42.353Z"
+}

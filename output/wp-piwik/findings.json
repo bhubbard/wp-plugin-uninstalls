@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wp-piwik_global-*",
+    "wp-piwik-*",
+    "wp-piwik-manually",
+    "wp-piwik-notices",
+    "wp-piwik_global-settings",
+    "wp-piwik_settings",
+    "wpmu-piwik_global-settings"
+  ],
+  "transients": [
+    "wp-piwik_c_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-piwik_custom_cat*",
+    "wp-piwik_custom_val*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:23.959Z"
+}

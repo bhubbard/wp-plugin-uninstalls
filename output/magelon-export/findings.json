@@ -1,0 +1,23 @@
+{
+  "options": [
+    "magelon_export_interval",
+    "magelon_id_option",
+    "magelon_description_option",
+    "magelon_mpn_option",
+    "magelon_field_mapping"
+  ],
+  "transients": [
+    "magelon_export_admin_notice",
+    "magelon_total_products"
+  ],
+  "cron_jobs": [
+    "magelon_export_scheduled_event",
+    "magelon_export_event_checker"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:10.983Z"
+}

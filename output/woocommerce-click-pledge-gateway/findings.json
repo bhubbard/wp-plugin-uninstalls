@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_clickandpledge_paymentsettings",
+    "woocommerce_clickandpledge_recurring",
+    "woocommerce_clickandpledge_additionalfee",
+    "woocommerce_tax_display_cart",
+    "woocommerce_clickandpledge_zeropaymentsettings",
+    "woocommerce_clickandpledge_acceptedcreditcards",
+    "woocommerce_force_ssl_checkout",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:27.189Z"
+}

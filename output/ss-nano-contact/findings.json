@@ -1,0 +1,15 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "ss-nano-contact"
+  ],
+  "transients": [
+    "wp_plugin_dependencies_deactivate_plugins",
+    "wp_plugin_dependencies_plugin_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:04.059Z"
+}

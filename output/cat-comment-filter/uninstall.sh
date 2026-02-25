@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'Cat-Comment-Filter-1'
+wp option delete 'Cat-Comment-Filter-2'
+wp option delete 'Cat-Comment-Filter-3'
+wp option delete 'Cat-Comment-Filter-4'
+wp option delete 'Cat-Comment-Filter-5'
+wp option delete 'Cat-Comment-Filter-6'
+wp option delete 'Cat-Comment-Filter-7'
+wp option delete 'Cat-Comment-Filter-8'
+wp option delete 'Cat-Comment-Filter-9'
+wp option delete 'Cat-Comment-Filter-10'
+wp option delete 'Cat-Comment-Filter-11'
+wp option delete 'Cat-Comment-Filter-15'
+wp option delete 'Cat-Comment-Filter-16'
+wp option delete 'Cat-Comment-Filter-17'
+wp option delete 'Cat-Comment-Filter-18'
+wp option delete 'Cat-Comment-Filter-19'
+wp option delete 'Cat-Comment-Filter-20'
+wp option delete 'Cat-Comment-Filter-21'
+wp option delete 'Cat-Comment-Filter-22'
+wp option delete 'Cat-Comment-Filter-23'
+wp option delete 'Cat-Comment-Filter-24'
+wp option delete 'Cat-Comment-Filter-25'
+wp option delete 'Cat-Comment-Filter-12'
+wp option delete 'Cat-Comment-Filter-13'
+wp option delete 'Cat-Comment-Filter-14'
+

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gspaudio_my_audios_page_id",
+    "gspaudio_editor_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_my_meta_value_key",
+    "wp_audio_editor_review_action",
+    "wp_audio_editor_review_dismissed_at"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:48.712Z"
+}

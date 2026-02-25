@@ -1,0 +1,26 @@
+{
+  "options": [
+    "selektable_store_id",
+    "selektable_app_url",
+    "selektable_integrations",
+    "woocommerce_dimension_unit",
+    "selektable_db_version",
+    "selektable_widget_id",
+    "selektable_button_placement",
+    "selektable_button_text",
+    "selektable_button_class",
+    "selektable_enable_all",
+    "selektable_enabled_categories",
+    "selektable_enabled_tags"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_selektable_status",
+    "_selektable_override_image_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:42.172Z"
+}

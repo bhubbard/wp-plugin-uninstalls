@@ -1,0 +1,28 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ep_regform",
+    "_ep_invite_confirmed",
+    "_ep_*",
+    "_ep_schedule_unit",
+    "_ep_schedule_magnitude",
+    "_ep_schedule_till",
+    "_ep_schedule_series",
+    "_ep_start",
+    "_ep_end",
+    "_ep_startreg",
+    "_ep_stopreg",
+    "_ep_confirmreg",
+    "_wp_trash_meta_time",
+    "_ep_invited_by",
+    "_ep_map",
+    "_ep_latlong",
+    "_ep_venue",
+    "_ep_limitreg"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:08.599Z"
+}

@@ -1,0 +1,48 @@
+{
+  "options": [
+    "execvitr_email",
+    "execvitr_google_api_key",
+    "execvitr_country",
+    "execvitr_currency",
+    "execvitr_km_price",
+    "execvitr_minimum_price",
+    "execvitr_max_distance",
+    "execvitr_whatsapp_number",
+    "execvitr_notify_admin",
+    "execvitr_notify_whatsapp",
+    "execvitr_distance_unit",
+    "execvitr_enable_cash",
+    "execvitr_min_booking_hours",
+    "execvitr_cars",
+    "execvitr_form_page_id",
+    "execvitr_product_id",
+    "execvitr_needs_product_setup",
+    "execvitr_*",
+    "vts_*",
+    "execvitr_company_name",
+    "execvitr_company_taxno",
+    "execvitr_company_iban",
+    "execvitr_google_server_key",
+    "vts_google_api_key",
+    "vts_country"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "execvitr_license_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_execvitr_booking_product",
+    "_virtual",
+    "_sold_individually",
+    "_manage_stock",
+    "_stock_status",
+    "_regular_price",
+    "_price",
+    "_tax_status",
+    "_visibility",
+    "_catalog_visibility"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:10.194Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "reamaze_account_id",
+    "reamaze_version",
+    "reamaze_account_sso_key",
+    "reamaze_widget_display",
+    "reamaze_widget_code",
+    "reamaze_cue_code",
+    "reamaze_post_reamaze-kb",
+    "reamaze_post_reamaze-support"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reamaze-conversation"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:46.559Z"
+}

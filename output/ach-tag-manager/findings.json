@@ -1,0 +1,15 @@
+{
+  "options": [
+    "achtm_google_measurement_id",
+    "achtm_google_anaytics_code",
+    "achtm_tag_manager_id"
+  ],
+  "transients": [
+    "achtm-admin-notice-on-activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:37.926Z"
+}

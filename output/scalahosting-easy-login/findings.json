@@ -1,0 +1,22 @@
+{
+  "options": [
+    "easyloginforscala_plugin_do_redirect",
+    "easyloginforscala_api_key",
+    "easyloginforscala_api_url",
+    "easyloginforscala_panel_path",
+    "easyloginforscala_admin_email",
+    "easyloginforscala_accountuser",
+    "easyloginforscala_username",
+    "easyloginforscala_shortcode_text",
+    "easyloginforscala_btn_color",
+    "easyloginforscala_btn_hover",
+    "easyloginforscala_btn_textcolor",
+    "easyloginforscala_btn_textsize"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:42.527Z"
+}

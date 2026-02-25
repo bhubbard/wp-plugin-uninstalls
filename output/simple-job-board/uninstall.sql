@@ -1,0 +1,19 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sjb_default_loader_list', 'sjba_addons', 'job_application_setting_form_fields_enable', 'jobapp_settings_options', 'job_board_application_form_fields_enable', 'job_post_layout_settings', 'job_board_features_enable', 'jobfeature_settings_options', 'job_board_container_class', 'job_board_container_width', 'quick_apply_btn_text', 'read_more_btn_text', 'apply_now_btn_text', 'job_board_container_id', 'job_board_pages_layout', 'job_board_jobpost_content', 'job_post_title_settings', 'job_board_listing', 'job_board_typography', 'sjb_fonts', 'sjb_quick_apply', 'sjb_view_less_more_btn', 'sjb_loader_image', 'job_board_job_features', 'job_board_apply_for_job', 'job_board_application_form_ph_no_fields_format_disable', 'default_fields_count', 'settings_hr_email', 'settings_admin_email', 'job_board_hr_notification', 'job_board_admin_notification', 'job_board_applicant_notification', 'job_board_category_filter', 'job_board_jobtype_filter', 'job_board_location_filter', 'job_board_search_bar', 'display_job_tags', 'job_board_jobpost_slug', 'job_archives_name', 'job_board_job_category_slug', 'job_board_job_type_slug', 'job_board_job_location_slug', 'sjb_date_format', 'sjb_date_format_text', 'sjb_job_post_page_id', 'delete_data_on_uninstall', 'job_board_privacy_settings', 'job_board_privacy_checkbox_settings', 'job_board_terms_condition_settings', 'sjb_erasure_request_removes_applicant_data');
+DELETE FROM wp_options WHERE option_name IN ('job_board_privacy_policy_label', 'job_board_privacy_policy_content', 'job_board_term_conditions_label', 'job_board_term_conditions_content', 'job_file_max_size', 'job_board_all_extensions_check', 'job_board_upload_file_ext', 'job_board_anti_hotlinking', 'job_board_listing_view', 'job_board_allowed_extensions', 'sjb_htaccess_hash', 'elementor_cpt_support', 'sjb_csrf_token_disable', 'sjb_version', 'sjb_update_ui_notice', 'job_privacy_checkbox_settings', 'sjb_addons_extensions');
+DELETE FROM wp_options WHERE option_name LIKE '%_size_w';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_h';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_crop';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_sjb_template_notice_dismissed_until', 'sjb_jobapp_status', 'sjb_enable_single_page_app_fields', 'resume', 'resume_path', 'attachments_meta', 'jobseeker_phone_number', 'first_name', 'last_name', 'enable_job_feature', '_elementor_edit_mode', '_wpb_vc_js_status');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_sjb_template_notice_dismissed_until', 'sjb_jobapp_status', 'sjb_enable_single_page_app_fields', 'resume', 'resume_path', 'attachments_meta', 'jobseeker_phone_number', 'first_name', 'last_name', 'enable_job_feature', '_elementor_edit_mode', '_wpb_vc_js_status');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_sjb_template_notice_dismissed_until', 'sjb_jobapp_status', 'sjb_enable_single_page_app_fields', 'resume', 'resume_path', 'attachments_meta', 'jobseeker_phone_number', 'first_name', 'last_name', 'enable_job_feature', '_elementor_edit_mode', '_wpb_vc_js_status');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_sjb_template_notice_dismissed_until', 'sjb_jobapp_status', 'sjb_enable_single_page_app_fields', 'resume', 'resume_path', 'attachments_meta', 'jobseeker_phone_number', 'first_name', 'last_name', 'enable_job_feature', '_elementor_edit_mode', '_wpb_vc_js_status');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'simple_job_board%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'simple_job_board%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'simple_job_board%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'simple_job_board%';
+

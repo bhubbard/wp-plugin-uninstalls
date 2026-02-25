@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "location",
+    "border",
+    "border_color",
+    "shadow_size",
+    "shadow_blur"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:19.322Z"
+}

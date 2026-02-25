@@ -1,0 +1,13 @@
+{
+  "options": [
+    "glossary_index_flush_rewrite_rules",
+    "glossary_index_redirect_on_activation",
+    "glossary_index_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:42.634Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_price_num_decimals",
+    "usetada_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "usetada_topup_status",
+    "usetada_topup_items",
+    "usetada_topup_last_process",
+    "usetada_topup_last_api_response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:13.805Z"
+}

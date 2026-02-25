@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_settings",
+    "*_debug",
+    "*_email_log_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_delete_email_log_schedule_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:36.080Z"
+}

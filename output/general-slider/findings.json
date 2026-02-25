@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sss_delete_all_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "general_slider_group",
+    "_gs_meta_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:34.283Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bkash_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bkash_last_digit",
+    "_payment_method",
+    "_billing_first_name",
+    "_billing_email",
+    "_billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:14.757Z"
+}

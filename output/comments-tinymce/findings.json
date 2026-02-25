@@ -1,0 +1,21 @@
+{
+  "options": [
+    "comment_tinymce_heading_one",
+    "comment_tinymce_heading_two",
+    "comment_tinymce_heading_three",
+    "comment_tinymce_heading_four",
+    "comment_tinymce_heading_five",
+    "comment_tinymce_heading_six",
+    "comment_tinymce_media_btn",
+    "comment_tinymce_pre_tag",
+    "comment_tinymce_blockquote",
+    "comment_tinymce_code_text_tab",
+    "comment_tinymce_in_edit_comment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:21.862Z"
+}

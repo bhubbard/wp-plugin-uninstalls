@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ebh_settings",
+    "eboekhouden_username_text",
+    "eboekhouden_security_code_1_text",
+    "eboekhouden_security_code_2_text",
+    "eboekhouden_code_1_text",
+    "eboekhouden_code_2_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mutation_nr",
+    "_product_attributes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:42.317Z"
+}

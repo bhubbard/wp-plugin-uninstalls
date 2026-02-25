@@ -1,0 +1,17 @@
+{
+  "options": [
+    "intel_form_track_submission_default",
+    "intel_form_track_submission_value_default",
+    "intel_setup",
+    "wpcf7_intel_form_settings_*",
+    "intel_demo_mode"
+  ],
+  "transients": [
+    "intel_activated_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:54.832Z"
+}

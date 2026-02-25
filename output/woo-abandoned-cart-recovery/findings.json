@@ -1,0 +1,50 @@
+{
+  "options": [
+    "woocommerce_tax_display_cart",
+    "wacv_last_export_customer_emails",
+    "wacv_params",
+    "wacv_hide_notice",
+    "wacv_dismiss_notice",
+    "wacv_private_key",
+    "test_log_1",
+    "test_log_2",
+    "wacv_time_range",
+    "wacv_cron_key",
+    "wacv_check_balance",
+    "wacv_unsubscribe_endpoint",
+    "woocommerce_shop_page_id",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [
+    "wacv_execute_cron",
+    "wacv_remove_abandoned_cart",
+    "wacv_delete_coupon"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wacv_email_settings_new",
+    "wacv_email_html_edit",
+    "wacv_background_color",
+    "wacv_template_used",
+    "wacv_email_settings",
+    "billing_country",
+    "last_name",
+    "wacv_user_ref",
+    "_woocommerce_persistent_cart_*",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:43.814Z"
+}

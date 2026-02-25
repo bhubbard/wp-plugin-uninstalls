@@ -1,0 +1,23 @@
+{
+  "options": [
+    "tp_ads_popup_title_color",
+    "tp_ads_popup_content_color",
+    "tp_ads_popup_ads_bg_color",
+    "kento_popup_ads_button_color",
+    "kento_popup_ads_texts_color",
+    "tp_ads_popup_adds_sidebar",
+    "tp_ads_popup_ads_title",
+    "tp_ads_popup_screen_bg_img",
+    "tp_ads_popup_adds_desc",
+    "tp_ads_popup_purchase_btn",
+    "tp_ads_popup_ads_button_link",
+    "tp_ads_popup_adds_open_page",
+    "kento_scroll_popup_screen_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:12.627Z"
+}

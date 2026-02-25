@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sc_wpun_settings",
+    "sc_wpun_settings_ver"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "update_themes",
+    "sc_wpun_send_test_slack",
+    "sc_wpun_send_test_email"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:15.496Z"
+}

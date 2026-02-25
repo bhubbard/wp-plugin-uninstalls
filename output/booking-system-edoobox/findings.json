@@ -1,0 +1,20 @@
+{
+  "options": [
+    "maps_google_api_key",
+    "edbs_next_options",
+    "edbs_next_options_templates",
+    "edbs_next_options_currentTemplate",
+    "edoobox_cache_time_in_s",
+    "edbs_edid",
+    "edbs_token",
+    "edbs_token_expires_at"
+  ],
+  "transients": [
+    "edoobox_cache_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:28.272Z"
+}

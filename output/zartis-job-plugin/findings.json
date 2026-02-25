@@ -1,0 +1,15 @@
+{
+  "options": [
+    "Zartis_Unique_ID",
+    "Zartis_Page_ID",
+    "Zartis_Notice",
+    "Zartis_Group",
+    "Zartis_Width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:28.223Z"
+}

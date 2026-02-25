@@ -1,0 +1,30 @@
+{
+  "options": [
+    "jwl_options_group1",
+    "_transient_plugin_slugs",
+    "EasyModal_Theme-*",
+    "EasyModal_ThemeList",
+    "EasyModal_Modal-*",
+    "EasyModal_ModalList",
+    "EasyModal_Settings",
+    "EasyModal_License",
+    "EasyModal_License_Status",
+    "EasyModal_License_LastChecked",
+    "EasyModal_Version"
+  ],
+  "transients": [
+    "*-license-check",
+    "*-addon-list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_post_modals",
+    "emodal_popup_maker_notice_dismissed",
+    "easy-modal-pro_autoopen",
+    "easy-modal-pro-exit-modals_autoexit",
+    "easy-modal-pro-login-modals_loginmodal"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:20.095Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "apa_cli_logo_file",
+    "apa_cli_logo_url",
+    "apa_cli_login_background_color",
+    "apa_cli_show_server_ip",
+    "apa_cli_show_server_hostname"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:23.156Z"
+}

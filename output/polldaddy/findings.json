@@ -1,0 +1,41 @@
+{
+  "options": [
+    "polldaddy_api_key",
+    "crowdsignal_api_key_secret",
+    "polldaddy_settings",
+    "polldaddy_use_ssl",
+    "polldaddy_multiple_accounts",
+    "polldaddy_load_poll_inline",
+    "pd-rating-usercode",
+    "pd-rating-title-filter",
+    "pd-rating-posts-id",
+    "pd-rating-pages-id",
+    "pd-rating-comments-id",
+    "polldaddy_usercode_user",
+    "crowdsignal_user_code",
+    "jetpack_active_modules",
+    "pd-usercode-*",
+    "crowdsignal_api_key",
+    "*-id",
+    "pd-rating-*",
+    "pd-rich-snippets",
+    "pd-rating-posts",
+    "pd-rating-posts-index",
+    "pd-rating-posts-pos",
+    "pd-rating-posts-index-pos",
+    "pd-rating-pages",
+    "pd-rating-pages-pos",
+    "pd-rating-comments",
+    "pd-rating-comments-pos",
+    "pd-rating-exclude-post-ids",
+    "pd-rating-exclude-page-ids"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "polldaddy_rating_update_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:19.263Z"
+}

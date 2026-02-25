@@ -1,0 +1,45 @@
+{
+  "options": [
+    "pll_language_taxonomies",
+    "_transient_*",
+    "pll_language_from_content_available",
+    "pll_dismissed_notices",
+    "default_*",
+    "wp_attachment_pages_enabled",
+    "active_sitewide_plugins",
+    "polylang_wpml_strings",
+    "rewrite_rules",
+    "edd_api_request_*",
+    "polylang",
+    "dm_no_primary_domain",
+    "dm_301_redirect",
+    "polylang_licenses",
+    "widget_polylang",
+    "_transient_pll_languages_list"
+  ],
+  "transients": [
+    "update_plugins",
+    "pll_languages_list",
+    "featured_content_ids",
+    "pll_activation_redirect",
+    "settings_errors"
+  ],
+  "cron_jobs": [
+    "polylang_check_licenses"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pll_filter_content",
+    "_pll_menu_item",
+    "pll_dismissed_notices",
+    "description_*",
+    "_wp_attachment_image_alt",
+    "_menu_item_menu_item_parent",
+    "_pll_strings_translations",
+    "fallback",
+    "amazonS3_info",
+    "as3cf_filesize_total"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:27:49.042Z"
+}

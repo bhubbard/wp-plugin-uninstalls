@@ -1,0 +1,44 @@
+{
+  "options": [
+    "wcmp_addon_player",
+    "wcmp_cpmediaplayer_addon_skin",
+    "wcmp_dokan_enabled",
+    "wcmp_dokan_hide_settings",
+    "wcmp_mvx_enabled",
+    "wcmp_mvx_hide_settings",
+    "wcmp_wcfm_enabled",
+    "wcmp_wcfm_hide_settings",
+    "wcmp_wcv_enabled",
+    "wcmp_wcv_hide_settings",
+    "installed_*",
+    "wcmp-landing-page",
+    "wcmp_global_settings"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*",
+    "wcmp-landing-page",
+    "wcmp-landing-page-redirect",
+    "wcmp_clear_expired_transients"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_downloadable_files",
+    "_wcmp_playback_counter",
+    "_wcmp_enable_player",
+    "_wcmp_show_in",
+    "_wcmp_player_layout",
+    "_wcmp_player_controls",
+    "_wcmp_player_volume",
+    "_wcmp_player_title",
+    "_wcmp_play_all",
+    "_wcmp_preload",
+    "_wcmp_visualizer",
+    "_wcmp_single_player",
+    "_wcmp_merge_in_grouped",
+    "_wcmp_loop",
+    "_wcmp_on_cover"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:42.696Z"
+}

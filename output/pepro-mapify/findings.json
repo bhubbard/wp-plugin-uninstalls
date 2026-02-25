@@ -1,0 +1,24 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "place_details_*",
+    "place_details_content_template",
+    "place_details_address",
+    "place_details_phone",
+    "place_details_site",
+    "place_details_email",
+    "place_details_socailtw",
+    "place_details_socailfb",
+    "place_details_socailig",
+    "place_details_socailtg",
+    "place_details_socailli",
+    "place_details_additional",
+    "place_details_map_data",
+    "place_details_pinimg"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:02.847Z"
+}

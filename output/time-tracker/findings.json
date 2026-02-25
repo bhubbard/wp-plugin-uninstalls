@@ -1,0 +1,29 @@
+{
+  "options": [
+    "time_tracker_sql_result",
+    "time_tracker_admin_notices",
+    "time_tracker_install_time",
+    "time_tracker_categories",
+    "time_tracker_style",
+    "time_tracker_version",
+    "time-tracker-sql-result",
+    "time_tracker-sql-result",
+    "time-tracker"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tt_recurring_task_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_form",
+    "_mail",
+    "_mail_2",
+    "_messages",
+    "_additional_settings",
+    "_locale",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:38.632Z"
+}

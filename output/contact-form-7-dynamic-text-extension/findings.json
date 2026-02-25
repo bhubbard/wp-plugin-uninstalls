@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cf7dtx_settings",
+    "cf7dtx_version",
+    "cf7dtx_v4_2_0_access_scan_check_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:42.144Z"
+}

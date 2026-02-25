@@ -1,0 +1,26 @@
+{
+  "options": [
+    "lt_options",
+    "lt_open_exchange_data",
+    "lt_set_option",
+    "lt_set_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lt_open_exchange_rates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*lang_code",
+    "*lang",
+    "*offer_lang",
+    "*lang_conv_price",
+    "*user_email",
+    "*file_data",
+    "*tran_from",
+    "*tran_to",
+    "*translate_level"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:58.400Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "efs-settings",
+    "efs-slides",
+    "efs-images",
+    "efs-settings-group"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "efslider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:18.005Z"
+}

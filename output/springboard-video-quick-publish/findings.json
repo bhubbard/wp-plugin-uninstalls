@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sb_pub_id",
+    "sb_api_key",
+    "sb_player"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:16.803Z"
+}

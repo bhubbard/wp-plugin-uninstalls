@@ -1,0 +1,14 @@
+{
+  "options": [
+    "autopaging_post_types",
+    "autopaging_paging_type",
+    "autopaging_num_pages",
+    "autopaging_num_words"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:42.076Z"
+}

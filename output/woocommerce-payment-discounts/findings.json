@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_payment_discounts_version",
+    "woocommerce_payment_discounts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:06.463Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wmbm_bg_color",
+    "wmbm_icon_color",
+    "wmbm_active_icon_color",
+    "wmbm_cart_bubble_color",
+    "wmbm_cart_bubble_text_color",
+    "wmbm_border_radius",
+    "wmbm_glassmorphism",
+    "woocommerce_myaccount_page_id",
+    "wmbm_hide_on_scroll",
+    "wmbm_item2_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:54.941Z"
+}

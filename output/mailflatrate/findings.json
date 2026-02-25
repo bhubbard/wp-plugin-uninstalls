@@ -1,0 +1,43 @@
+{
+  "options": [
+    "mailflatrate-successfully-subscribeed",
+    "mailflatrate-invalid-email-address",
+    "mailflatate_already_subscribed",
+    "mailflatrate-agree_to_terms",
+    "missing-email-address",
+    "data-protection",
+    "mailflatrate_public_key",
+    "mailflatrate_private_key",
+    "mailflatrate_sync_status_text",
+    "mailflatrate-sync-list-export",
+    "mailflatrate-sync-sel_import_into",
+    "mailflatrate-sync-fieldEmail",
+    "mailflatrate-sync-fieldfirstname",
+    "mailflatrate-sync-fieldlastname",
+    "mailflatrate_form_code",
+    "mailflatrate-list",
+    "mailflatrate-successfully-subscribeed-color",
+    "mailflatrate-agree_to_terms-color",
+    "mailflatrate-invalid-email-address-color",
+    "mailflatrate-field-missing",
+    "mailflatate_already_subscribed-color",
+    "mailflatrate_form_error",
+    "mailflatrate_form_unsubscribed",
+    "mailflatrate_form_not_subscribed",
+    "mailflatrate_form_no_lists_selected",
+    "missing-email-address-color",
+    "data-protection-color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name",
+    "display_name",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:05.099Z"
+}

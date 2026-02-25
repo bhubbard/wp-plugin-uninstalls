@@ -1,0 +1,22 @@
+{
+  "options": [
+    "photonic_options",
+    "photonic_authentication",
+    "photonic_css",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [
+    "*_token",
+    "photonic_deviantart_refresh_token_*"
+  ],
+  "cron_jobs": [
+    "photonic_token_monitor"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "photonic_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:34.528Z"
+}

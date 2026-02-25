@@ -1,0 +1,9 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc_settings_shippit_api_key', 'wc_settings_shippit_environment', 'wc_settings_shippit_debug', 'wc_settings_shippit_atl_enabled', 'wc_settings_shippit_tariff_code_attribute', 'wc_settings_shippit_tariff_code_custom_attribute', 'wc_settings_shippit_origin_country_code_attribute', 'wc_settings_shippit_origin_country_code_custom_attribute', 'wc_settings_shippit_dangerous_goods_code_attribute', 'wc_settings_shippit_dangerous_goods_code_custom_attribute', 'wc_settings_shippit_dangerous_goods_text_attribute', 'wc_settings_shippit_dangerous_goods_text_custom_attribute', 'woocommerce_dimension_unit', 'woocommerce_weight_unit', 'wc_settings_shippit_standard_shipping_methods', 'wc_settings_shippit_express_shipping_methods', 'wc_settings_shippit_clickandcollect_shipping_methods', 'wc_settings_shippit_plainlabel_shipping_methods', 'wc_settings_shippit_enabled', 'wc_settings_shippit_auto_sync_orders', 'wc_settings_shippit_fulfillment_enabled', 'wcj_order_numbers_enabled', 'wcj_order_number_prefix', 'wcj_order_number_sequential_enabled', 'wc_settings_shippit_fulfillment_tracking_reference', 'wc_shippit_version', 'woocommerce_mamis_shippit_settings', 'woocommerce_mamis_shippit_legacy_settings');
+DELETE FROM wp_options WHERE option_name LIKE '%standard_shipping_methods';
+DELETE FROM wp_options WHERE option_name LIKE '%express_shipping_methods';
+DELETE FROM wp_options WHERE option_name LIKE '%send_all_orders';
+DELETE FROM wp_options WHERE option_name LIKE '%auto_sync_orders';
+

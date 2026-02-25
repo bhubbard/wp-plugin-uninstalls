@@ -1,0 +1,28 @@
+{
+  "options": [
+    "widget_happyforms_widget",
+    "widget_block",
+    "happyforms-validation-messages",
+    "happyforms_modal_dismissed_onboarding",
+    "happyforms_show_powered_by",
+    "_happyforms_received_submissions",
+    "happyforms-tracking",
+    "ttf_updates_key_happyforms",
+    "happyforms-data-version",
+    "_happyforms_cleanup_on_deactivate"
+  ],
+  "transients": [
+    "happyforms_review_notice_recommend",
+    "happyforms_admin_notices_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "happyforms-dismissed-notices",
+    "_happyforms_parts",
+    "syntax_highlighting",
+    "happyforms-settings-sections-states"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:44.723Z"
+}

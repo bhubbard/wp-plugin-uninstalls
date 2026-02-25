@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hidden_stuff_active",
+    "hidden_stuff_text",
+    "hidden_stuff_button_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:17.634Z"
+}

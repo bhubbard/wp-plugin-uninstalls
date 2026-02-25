@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_enable_guest_checkout",
+    "pi_ewcl_do_activation_redirect",
+    "pi_customer_row",
+    "pi_ewcl_enable_email",
+    "pi_ewcl_email",
+    "pi_ewcl_email_subject",
+    "pi_ewcl_email_message",
+    "pi_guest_row"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pisol_ewcl_clear_old_files"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:15.583Z"
+}

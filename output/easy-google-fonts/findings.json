@@ -1,0 +1,24 @@
+{
+  "options": [
+    "egf_version",
+    "egf_force_user_redirect",
+    "egf_show_admin_pointer",
+    "tt-font-google-api-key",
+    "tt_font_theme_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "control_description",
+    "force_styles",
+    "control_selectors",
+    "min_screen_amount",
+    "min_screen_unit",
+    "max_screen_amount",
+    "max_screen_unit",
+    "control_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:20.198Z"
+}

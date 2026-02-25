@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hide_content_message",
+    "hide_content_links",
+    "hide_content_text_signup",
+    "hide_content_url_signup",
+    "hide_content_text_login",
+    "hide_content_url_login"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:47.809Z"
+}

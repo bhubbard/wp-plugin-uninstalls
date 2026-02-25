@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sqrl_redirect_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sqrl_idk",
+    "sqrl_hardlock",
+    "sqrl_disable_user",
+    "sqrl_sqrlonly",
+    "sqrl_suk",
+    "sqrl_vuk"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:34.382Z"
+}

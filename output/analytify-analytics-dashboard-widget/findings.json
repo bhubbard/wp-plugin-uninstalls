@@ -1,0 +1,13 @@
+{
+  "options": [
+    "post_analytics_token",
+    "pa_google_token",
+    "analytify_widget_date_differ"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:35.243Z"
+}

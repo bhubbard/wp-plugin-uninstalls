@@ -1,0 +1,35 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "pwyw_enable_plugin",
+    "pwyw_allow_own_price",
+    "pwyw_add_to_cart_btn_inside_loop",
+    "pwyw_products_area",
+    "pwyw_price_group",
+    "pwyw_product_categories",
+    "pwyw_price_fraction",
+    "pwyw_min_price",
+    "pwyw_price_text",
+    "pwyw_predefined_price_set"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pwyw-single-price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:54.405Z"
+}

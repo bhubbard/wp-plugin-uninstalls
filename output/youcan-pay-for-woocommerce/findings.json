@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wc_youcanpay_show_ssl_notice",
+    "wc_youcanpay_show_keys_notice",
+    "wc_youcanpay_show_phpver_notice",
+    "wc_youcanpay_show_wcver_notice",
+    "wc_youcanpay_show_curl_notice",
+    "woocommerce_youcanpay_settings",
+    "*_notice",
+    "wc_youcanpay_show_youcan_pay_notice",
+    "wc_youcanpay_show_youcan_pay_standalone_notice",
+    "woocommerce_gateway_youcanpay_retention",
+    "*_settings",
+    "wc_youcanpay_show_standalone_notice",
+    "wc_youcanpay_version",
+    "woocommerce_youcanpay_standalone_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:16.724Z"
+}

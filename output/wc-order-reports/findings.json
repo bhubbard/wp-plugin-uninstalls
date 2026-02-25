@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pmw_pixels_option",
+    "wcor_option",
+    "woocommerce_default_country",
+    "woocommerce_currency",
+    "woocommerce_custom_orders_table_enabled",
+    "wcor_api_store"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:25.492Z"
+}

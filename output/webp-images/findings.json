@@ -1,0 +1,20 @@
+{
+  "options": [
+    "webp_images_compatibility_notice",
+    "webp-images-pro_license_key",
+    "webp-images-pro_last_license_check",
+    "webp_images_quality",
+    "webp_images_auto_convert",
+    "webp_images_version",
+    "webp_images_installation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata",
+    "webp_src"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:45.087Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "am_sass_path",
+    "am_use_compass",
+    "am_compass_path",
+    "am_coffeescript_path",
+    "am_async_flag",
+    "am_dev_mode",
+    "am_files_to_exclude",
+    "am_compress_styles",
+    "am_compress_scripts",
+    "am_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:51.238Z"
+}

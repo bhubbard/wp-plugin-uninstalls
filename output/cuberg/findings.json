@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cuberg_status",
+    "cuberg_global_settings",
+    "cuberg_config",
+    "activate_cuberg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:43.230Z"
+}

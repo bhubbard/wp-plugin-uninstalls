@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wechatreplay_wzt_token1",
+    "wechatreplay_wzt_token2",
+    "wechatreplay_wzt_token3",
+    "wechat_replay",
+    "wechat_replay_qrcode",
+    "WechatReplay_captcha",
+    "WechatReplay_*",
+    "WechatReplay_login",
+    "WechatReplay_access_token",
+    "WechatReplay_art_tongbu",
+    "WechatReplay_tongbu_num",
+    "wechat_replay_share",
+    "wechatreplay_tongji",
+    "wechatreplay_level",
+    "WechatReplay_log",
+    "wechatreplay_shouquan",
+    "WechatReplay_wzt_token1",
+    "WechatReplay_wzt_token2",
+    "WechatReplay_wzt_token3"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wechatreplay_cronhook1"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wechatreplay_key",
+    "wechatreplay_openid",
+    "wechatreplay_article",
+    "WechatReplay_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:42.247Z"
+}

@@ -1,0 +1,47 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "active-print-barcodes-version",
+    "alg_wc_ean_title",
+    "wpm_pgw_label",
+    "hwp_gtin_text",
+    "woocommerce_currency_pos",
+    "woocommerce_currency",
+    "*_notice_dismissed"
+  ],
+  "transients": [
+    "*3.4.12",
+    "wpbcu_old_post",
+    "wpbcu_validation_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "a4b_bulk_list_raw",
+    "dokan_enable_selling",
+    "_field_*",
+    "first_name",
+    "last_name",
+    "date_expires",
+    "_manage_stock",
+    "_stock",
+    "_stock_status",
+    "_customer_user",
+    "_supplier",
+    "_code",
+    "_length",
+    "_width",
+    "_height",
+    "_regular_price",
+    "_sale_price",
+    "attribute_pa_*",
+    "_product_attributes",
+    "_variation_description",
+    "wpseo_variation_global_identifiers_values",
+    "wpseo_global_identifier_values",
+    "_booking_start",
+    "dokan_store_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:43.029Z"
+}

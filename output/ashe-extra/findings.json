@@ -1,0 +1,24 @@
+{
+  "options": [
+    "sb_instagram_settings",
+    "ashe_options",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:17.845Z"
+}

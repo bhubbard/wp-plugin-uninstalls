@@ -1,0 +1,46 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'newcodebyte_chatbot_title'
+wp option delete 'newcodebyte_chatbot_welcome_message'
+wp option delete 'newcodebyte_chatbot_api_key'
+wp option delete 'newcodebyte_chatbot_model'
+wp option delete 'newcodebyte_chatbot_responses_info'
+wp option delete 'newcodebyte_chatbot_behavior_type'
+wp option delete 'newcodebyte_chatbot_enable_prechat_form'
+wp option delete 'newcodebyte_chatbot_prechat_title'
+wp option delete 'newcodebyte_chatbot_prechat_description'
+wp option delete 'newcodebyte_chatbot_enable_proactive_message'
+wp option delete 'newcodebyte_chatbot_proactive_message_text'
+wp option delete 'newcodebyte_chatbot_proactive_message_delay'
+wp option delete 'newcodebyte_chatbot_display_mode'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'newcodebyte_%'"
+wp option delete 'newcodebyte_chatbot_window_height'
+wp option delete 'newcodebyte_chatbot_position'
+wp option delete 'newcodebyte_chatbot_notification_sound_url'
+wp option delete 'newcodebyte_chatbot_save_messages'
+wp option delete 'newcodebyte_chatbot_show_powered_by'
+wp option delete 'newcodebyte_chatbot_header_bg_color'
+wp option delete 'newcodebyte_chatbot_header_text_color'
+wp option delete 'newcodebyte_chatbot_chatbox_bg_color'
+wp option delete 'newcodebyte_chatbot_user_message_bg_color'
+wp option delete 'newcodebyte_chatbot_user_message_text_color'
+wp option delete 'newcodebyte_chatbot_bot_message_bg_color'
+wp option delete 'newcodebyte_chatbot_bot_message_text_color'
+wp option delete 'newcodebyte_chatbot_send_button_bg_color'
+wp option delete 'newcodebyte_chatbot_send_button_text_color'
+wp option delete 'newcodebyte_chatbot_user_avatar_url'
+wp option delete 'newcodebyte_chatbot_bot_avatar_url'
+wp option delete 'newcodebyte_chatbot_icon_open_url'
+wp option delete 'newcodebyte_chatbot_icon_closed_url'
+wp option delete 'newcodebyte_chatbot_prechat_name_label'
+wp option delete 'newcodebyte_chatbot_prechat_email_label'
+wp option delete 'newcodebyte_chatbot_prechat_button_text'
+wp option delete 'newcodebyte_chatbot_prechat_error_message'
+wp option delete 'newcodebyte_chatbot_db_version'
+
+# Delete Transients
+wp transient delete 'newcodebyte_chatbot_unread_count'
+wp transient delete 'newcodebyte_openrouter_models'
+

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_device_types",
+    "*_excluded_pages",
+    "*_excluded_types",
+    "*_excluded_terms",
+    "*_user_roles",
+    "*_load_admin_js"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:13.634Z"
+}

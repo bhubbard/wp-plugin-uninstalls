@@ -1,0 +1,44 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'installed_%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_JS' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_CSS' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('CP_CFPP_LOAD_SCRIPTS');
+delete_site_option('CP_CFPP_LOAD_SCRIPTS');
+delete_option('CP_CFPP_LOAD_SCRIPTS_ADMIN');
+delete_site_option('CP_CFPP_LOAD_SCRIPTS_ADMIN');
+delete_option('autoptimize_js_exclude');
+delete_site_option('autoptimize_js_exclude');
+delete_option('CP_PPPRO_JS');
+delete_site_option('CP_PPPRO_JS');
+delete_option('CP_PPPRO_CSS');
+delete_site_option('CP_PPPRO_CSS');
+
+// Delete Transients
+global $wpdb;
+$transients = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s OR option_name LIKE %s", '_transient_codepeople_promote_banner_%', '_site_transient_codepeople_promote_banner_%' ) );
+foreach ( $transients as $transient ) {
+	delete_option( $transient );
+}
+

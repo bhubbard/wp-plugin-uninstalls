@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rt_wufoo_gravity_subdomain",
+    "rt_wufoo_gravity_api_key",
+    "*_fields",
+    "*_user_map",
+    "*_field_map"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:19.932Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wcbcf_settings",
+    "woocommerce_pagseguro_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_sandbox",
+    "_wc_pagseguro_payment_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:54.940Z"
+}

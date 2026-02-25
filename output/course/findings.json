@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "course_type",
+    "course_target",
+    "course_duration",
+    "course_description",
+    "course_legislation",
+    "course_legisltion"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:02.468Z"
+}

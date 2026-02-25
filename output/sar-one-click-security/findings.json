@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sar_ocs_apache24_notice",
+    "sar_ocs_ver",
+    "sar_ocs_wpc_htaccess"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:25.124Z"
+}

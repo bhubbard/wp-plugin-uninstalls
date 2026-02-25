@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpim_default_data",
+    "wpim_license",
+    "wp_inventory_rewrite"
+  ],
+  "transients": [
+    "wpim_full_add_ons",
+    "wpim_flush_rewrite_rules",
+    "wpim_messages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:42.332Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lsdp_initial_save_version",
+    "lsdp-ratingDiv",
+    "lsdp-installDate",
+    "lsdp-v",
+    "lsdp-type",
+    "lsdp_plugin_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:59.268Z"
+}

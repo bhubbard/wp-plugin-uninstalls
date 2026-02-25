@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ils_log_chunk_index"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_init_view_count",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:14.732Z"
+}

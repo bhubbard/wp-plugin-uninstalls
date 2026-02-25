@@ -1,0 +1,28 @@
+{
+  "options": [
+    "fiscalisation_training_mode_enabled",
+    "fiscalisation_refund_mode_enabled",
+    "fiscalisation_shipping_mode_enabled",
+    "*_enabled",
+    "*_status",
+    "*_proforma_status",
+    "*_proforma_enabled",
+    "*_purs",
+    "fiscalisation_api_key",
+    "fiscalisation_shipping_mode_item_name",
+    "fiscalisation_training_mode_email",
+    "fiscalisation_default_tax_label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vpfr_buyer_id_value",
+    "_vpfr_buyer_id_code",
+    "_verification_url*",
+    "_verification_url",
+    "_vpfr_wc_labels"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:12.107Z"
+}

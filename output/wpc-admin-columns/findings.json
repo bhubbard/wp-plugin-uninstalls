@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpcac_settings",
+    "woocommerce_custom_orders_table_enabled",
+    "wpcac_*"
+  ],
+  "transients": [
+    "wpcac_get_users_meta_keys_*",
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcac_intro_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:03.199Z"
+}

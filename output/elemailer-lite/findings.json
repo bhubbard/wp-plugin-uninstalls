@@ -1,0 +1,18 @@
+{
+  "options": [
+    "elemailer_lite_info",
+    "elemailer_hide_mail_branding",
+    "elemailer_lite_notice_not_now_time",
+    "elemailer_lite_notice_never_show"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_elementor_data",
+    "_elementor_template_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:46.746Z"
+}

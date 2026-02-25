@@ -1,0 +1,13 @@
+{
+  "options": [
+    "chatabird_app_id",
+    "chatabird_identity_key",
+    "chatabird_enable_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:23.283Z"
+}

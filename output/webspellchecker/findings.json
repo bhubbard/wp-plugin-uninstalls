@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wsc_proofreader_info",
+    "wsc",
+    "wsc_proofreader_version",
+    "wsc_proofreader"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:11.709Z"
+}

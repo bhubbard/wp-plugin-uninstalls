@@ -1,0 +1,50 @@
+{
+  "options": [
+    "cb_map_last_nominatim_call",
+    "*_bookingcodes_db_version",
+    "commons-booking-settings-pages"
+  ],
+  "transients": [
+    "commonsbooking_options_saved",
+    "clearCacheHasBeenDone",
+    "commonsbooking_booking_validation_failed_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geo_latitude",
+    "geo_longitude",
+    "first_name",
+    "last_name",
+    "*-id",
+    "phone",
+    "address",
+    "*markup",
+    "commons-booking_location_contactinfo_text",
+    "commons-booking_item_descr",
+    "_thumbnail_id",
+    "commons-booking_location_closeddays",
+    "cancellation_time",
+    "*bookingcode",
+    "internal-comment",
+    "type",
+    "weekdays",
+    "full-day",
+    "grid",
+    "*_admins",
+    "location-id",
+    "*location_email_bcc",
+    "cb_map_options",
+    "custom_marker_media",
+    "custom_marker_cluster",
+    "marker_item_draft",
+    "filtergroups",
+    "*use_global_settings",
+    "*allow_lockdays_in_range",
+    "*count_lockdays_in_range",
+    "*count_lockdays_maximum",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:36.387Z"
+}

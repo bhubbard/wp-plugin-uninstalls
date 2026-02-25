@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpdmi_version",
+    "wpdmi",
+    "wpdmi_token_email_text",
+    "wpdmi_hide_notice",
+    "wpdmi_token_email_text "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "wpdmi_mobiletoken"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:12.057Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "item_admin_email",
+    "item_surface_label",
+    "item_measurement_label",
+    "item_calculate_button_label",
+    "item_result_label",
+    "item_contact_section_title",
+    "item_contact_button_label",
+    "item_currency",
+    "item_show_quote"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "item_value"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:41.465Z"
+}

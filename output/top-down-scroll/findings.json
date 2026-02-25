@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tdsc_icon_size",
+    "tdsc_background_color",
+    "tdsc_hover_color",
+    "tdsc_enable_down",
+    "tdsc_enable_top",
+    "tdsc_position",
+    "tdsc_top_button_icon_url",
+    "tdsc_down_button_icon_url",
+    "tdsc_ackground_color"
+  ],
+  "transients": [
+    "tdsc-scroll-activation-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:58.588Z"
+}

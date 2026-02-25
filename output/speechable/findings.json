@@ -1,0 +1,16 @@
+{
+  "options": [
+    "speechable_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_speechable_audio",
+    "_speechable_word_timings",
+    "piper_tts_audio",
+    "piper_tts_word_timings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:20.874Z"
+}

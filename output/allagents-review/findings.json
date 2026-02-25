@@ -1,0 +1,24 @@
+{
+  "options": [
+    "allagentsreviews_review_settings",
+    "allagentsreviews_api_key_reviews",
+    "allagentsreviews_api_key_overall",
+    "allagentsreviews_api_url_reviews",
+    "allagentsreviews_api_url_overall",
+    "allagentsreviews_shortcode_container_bg",
+    "allagentsreviews_shortcode_text_color",
+    "allagentsreviews_widget_background_color",
+    "allagentsreviews_widget_text_color",
+    "allagentsreviews_overall_widget_background_color",
+    "allagentsreviews_overall_widget_text_color"
+  ],
+  "transients": [
+    "allagentsreviews_review_cached_reviews",
+    "allagentsreviews_review_cached_reviews_overall"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:31.383Z"
+}

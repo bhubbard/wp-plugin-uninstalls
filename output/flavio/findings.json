@@ -1,0 +1,17 @@
+{
+  "options": [
+    "flavio_token",
+    "flavio_plan_uuid",
+    "flavio_api_domain",
+    "flavio_signature",
+    "flavio_noindex_filter_enabled",
+    "flavio_structured_data_home_active",
+    "flavio_site_domain"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:00.524Z"
+}

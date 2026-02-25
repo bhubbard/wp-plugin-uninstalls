@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wkidcg_fallback_color_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wkidcg_dominant_color",
+    "wkidcg_colors_palette"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:56.539Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wpestate_custom_fields_list",
+    "wp_estate_custom_fields",
+    "wpresaddon_can_update_slider",
+    "wp_estate_theme_slider",
+    "wp_estate_feature_list",
+    "wp_estate_status_list",
+    "*_ignore",
+    "*_notice_ignore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "property_theme_slider",
+    "temp_is_update_hidden_address",
+    "property_address",
+    "property_zip",
+    "hidden_address",
+    "_wp_page_template",
+    "image_to_attach"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:37.832Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "gam_secret_iv",
+    "gam_web_client_secret",
+    "gam_web_client_id",
+    "gam_redirect_uri",
+    "gam_ads_ad_manager_and_ad_exchange_tokens",
+    "gam_ads_ad_manager_and_ad_exchange_networks",
+    "gam_ads_ad_manager_and_ad_exchange_network_code",
+    "*_adunit",
+    "gamadsmbai_lbl_credit",
+    "gamadsmbai_lbl_advertisement",
+    "save_path",
+    "gam_using_default_config",
+    "gamadsmbai_license_key",
+    "gamadsmbai_license_token",
+    "gamadsmbai_activated_at",
+    "gamadsmbai_expires_at",
+    "gamadsmbai_license_plan",
+    "gamadsmbai_license_status",
+    "gamadsmbai_review_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gam_ads_ad_manager_and_ad_exchange_refresh_tokens_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:04.483Z"
+}

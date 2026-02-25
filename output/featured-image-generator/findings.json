@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fig_downloaded",
+    "fig_unsplash_api",
+    "fig_thumb_defaut_size_width",
+    "fig_thumb_defaut_size_height",
+    "fig_font_family",
+    "fig_pixabay_api",
+    "fig_pixabay_safesearch",
+    "fig_post_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:10.679Z"
+}

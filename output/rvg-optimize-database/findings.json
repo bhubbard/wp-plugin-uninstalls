@@ -1,0 +1,17 @@
+{
+  "options": [
+    "odb_rvg_options",
+    "odb_rvg_excluded_tabs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "odb_scheduler",
+    "rvg_optimize_database"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "keep_revisions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:21.798Z"
+}

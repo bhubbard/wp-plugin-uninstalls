@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_guavapay_settings",
+    "woocommerce_tax_display_cart",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:18.726Z"
+}

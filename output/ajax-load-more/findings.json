@@ -1,0 +1,19 @@
+{
+  "options": [
+    "alm_drop_pluginVersion",
+    "alm_version",
+    "alm_settings",
+    "_alm_settings",
+    "woocommerce_default_catalog_orderby",
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:29.760Z"
+}

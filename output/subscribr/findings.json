@@ -1,0 +1,20 @@
+{
+  "options": [
+    "WP_EX_FONTS_LIST"
+  ],
+  "transients": [
+    "rwp_google_fonts_*",
+    "gwf_raw_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "subscribr-send-html",
+    "subscribr-terms",
+    "subscribr-pause",
+    "subscribr-unsubscribe",
+    "_subscribr_opt_out"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:03.211Z"
+}

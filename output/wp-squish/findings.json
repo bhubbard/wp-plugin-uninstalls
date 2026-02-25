@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pp_wpsq_api_stats_*",
+    "pp_wpsq_api_run",
+    "pp_wpsq_api_stats_jpeg",
+    "pp_wpsq_api_stats_png",
+    "pp_wpsq_settings",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pp_wpsq_api_run"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pp-wpsq-processed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:19.512Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "unlockafe_ai_text_generator_settings",
+    "_unlockafe_addons_opstions",
+    "unlockafe_default_header",
+    "unlockafe_default_footer",
+    "unlockafe_google_sheets_settings",
+    "unlockafe_google_map_api_key",
+    "unlockafe_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "unlockafe_abandoned_cart_check",
+    "unlockafe_send_scheduled_gift_card",
+    "unlockafe_sync_advantage_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "coupon_categories",
+    "unlockafe_limit_usage_per_time_period",
+    "unlockafe_allowed_user_roles_usage",
+    "unlockafe_strict_one_time_use",
+    "_used_by",
+    "usage_count",
+    "_unlockafe_gift_card_amount",
+    "_regular_price",
+    "_price",
+    "_unlockafe_store_credit",
+    "_unlockafe_gift_card_template",
+    "_unlockafe_allow_custom_amount",
+    "_unlockafe_header_template",
+    "_unlockafe_footer_template",
+    "_wp_attachment_image_alt",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:53.134Z"
+}

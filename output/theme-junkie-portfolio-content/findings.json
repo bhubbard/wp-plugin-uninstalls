@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tj_image_ids",
+    "tj_portfolio_short_desc",
+    "tj_portfolio_client",
+    "tj_portfolio_link",
+    "tj_video_embed_portfolio"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:49.415Z"
+}

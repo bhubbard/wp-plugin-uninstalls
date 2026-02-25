@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_BrowserDetectAlgorithm",
+    "*_useNewBrowserDetect",
+    "*_Redirect404",
+    "*_RedirectLogin",
+    "*_BlockProxy",
+    "*_AllowShortBots",
+    "*_IPUseAdmin",
+    "*_BRUseAdmin",
+    "*_RecoveryGUID"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:20.492Z"
+}

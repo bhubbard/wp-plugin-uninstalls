@@ -1,0 +1,16 @@
+{
+  "options": [
+    "grassblade_tincan_endpoint",
+    "grassblade_free_addons",
+    "grassblade_addons",
+    "visibility_control_for_woocommerce",
+    "woocommerce_custom_orders_table_data_sync_enabled",
+    "woocommerce_custom_orders_table_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:07.934Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*api_token",
+    "*sender_id",
+    "*reg_phone",
+    "*country",
+    "*country_code",
+    "wpcf7is_history",
+    "wpcf7_international_sms_*"
+  ],
+  "transients": [
+    "*_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:57.987Z"
+}

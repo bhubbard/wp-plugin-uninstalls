@@ -1,0 +1,40 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'automatic_post_tagger'
+wp option delete 'automatic_post_tagger_keywords'
+wp option delete 'automatic_post_tagger_groups'
+wp option delete 'apt_plugin_version'
+wp option delete 'apt_admin_notice_install'
+wp option delete 'apt_admin_notice_update'
+wp option delete 'apt_admin_notice_donate'
+wp option delete 'apt_hidden_widgets'
+wp option delete 'apt_stats_current_tags'
+wp option delete 'apt_stats_assigned_tags'
+wp option delete 'apt_stats_install_date'
+wp option delete 'apt_post_analysis_title'
+wp option delete 'apt_post_analysis_content'
+wp option delete 'apt_post_analysis_excerpt'
+wp option delete 'apt_handling_current_tags'
+wp option delete 'apt_string_manipulation_convert_diacritic'
+wp option delete 'apt_string_manipulation_lowercase'
+wp option delete 'apt_string_manipulation_strip_tags'
+wp option delete 'apt_string_manipulation_replace_whitespaces'
+wp option delete 'apt_string_manipulation_replace_nonalphanumeric'
+wp option delete 'apt_string_manipulation_ignore_asterisks'
+wp option delete 'apt_word_recognition_separators'
+wp option delete 'apt_miscellaneous_tag_maximum'
+wp option delete 'apt_miscellaneous_tagging_occasion'
+wp option delete 'apt_miscellaneous_substring_analysis'
+wp option delete 'apt_miscellaneous_substring_analysis_length'
+wp option delete 'apt_miscellaneous_substring_analysis_start'
+wp option delete 'apt_miscellaneous_wildcards'
+wp option delete 'apt_bulk_tagging_posts_per_cycle'
+wp option delete 'apt_bulk_tagging_range'
+wp option delete 'apt_bulk_tagging_statuses'
+
+# Clear Cron Jobs
+wp cron event delete 'apt_bulk_tagging_event_single_batch'
+wp cron event delete 'apt_bulk_tagging_event'
+

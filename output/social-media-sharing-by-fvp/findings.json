@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fvp_sm_share_posts_active",
+    "fvp_sm_share_front_page_active",
+    "fvp_sm_share_pages_active",
+    "fvp_sm_sharing_items_order",
+    "fvp_sm_buttons_type",
+    "fvp_sm_buttons_text",
+    "fvp_sm_buttons_place"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:18.244Z"
+}

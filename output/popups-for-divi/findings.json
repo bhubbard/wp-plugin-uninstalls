@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "dm_admin_cron_notice_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pfd_onboarding",
+    "_dm_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:43.514Z"
+}

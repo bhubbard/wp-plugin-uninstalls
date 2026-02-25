@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tsvg_dismissed_notice",
+    "tsvg_remindme_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:26.273Z"
+}

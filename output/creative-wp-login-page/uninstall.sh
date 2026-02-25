@@ -1,0 +1,38 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'cwlp_version'
+wp option delete 'simple_style'
+wp option delete 'captcha_style'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_secret_key'"
+wp option delete 'recaptcha_v3_secret_key'
+wp option delete 'cwlpeffecttype'
+wp option delete 'stylecwlp'
+wp option delete 'cwlp-bshadow'
+wp option delete 'cwlp-fontfamily'
+wp option delete 'cwlp-custom-logo'
+wp option delete 'cwlp-custom-ibc'
+wp option delete 'cwlp-custom-ibu'
+wp option delete 'cwlp-lswitch'
+wp option delete 'cwlp-logo-url'
+wp option delete 'cwlp-login-url-message'
+wp option delete 'cwlp-login-error-style'
+wp option delete 'cwlp-login-urls'
+wp option delete 'cwlplabeluname'
+wp option delete 'cwlplabelpass'
+wp option delete 'cwlplabelremember'
+wp option delete 'cwlplabelpasslost'
+wp option delete 'cwlplabelogin'
+wp option delete 'cwlpllabelsolvethis'
+wp option delete 'cwlploginposition'
+wp option delete 'cwlp-instagram'
+wp option delete 'cwlp-telegram'
+wp option delete 'cwlp-pinterest'
+wp option delete 'cwlp-whatsapp'
+wp option delete 'cwlp-facebook'
+wp option delete 'cwlp-twitter'
+wp option delete 'cwlp-linkedin'
+wp option delete 'cwlp-dmode'
+wp option delete 'optionsframework'
+

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_pay_page_id",
+    "woocommerce_thanks_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "netpay_order_id",
+    "netpay_payment_status",
+    "netpay_transaction_id",
+    "_sale_price",
+    "_regular_price",
+    "_tax_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:12.468Z"
+}

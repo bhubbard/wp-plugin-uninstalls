@@ -1,0 +1,40 @@
+{
+  "options": [
+    "inavii_social_feed_e_version",
+    "inavii_social_feed_public_auth_token",
+    "inavii_social_feed_number_of_posts_imported",
+    "inavii_social_feed_cron_interval",
+    "inavii_social_feed_email_notifications",
+    "inavii_social_feed_email_to_notifications",
+    "inavii_social_feed_render_type",
+    "inavii_instagram_media_to_download",
+    "inavii_social_feed_version_history",
+    "inavii_social_feed_first_active",
+    "inavii_social_feed_plugin_do_activation_redirect",
+    "inavii_social_feed_cron_last_status",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "inavii_social_feed_update_media",
+    "inavii_social_feed_refresh_token",
+    "inavii_instagram_import_hook",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_inline_svg"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:44.598Z"
+}

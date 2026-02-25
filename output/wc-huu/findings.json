@@ -1,0 +1,15 @@
+{
+  "options": [
+    "setup_huu_wts_prod_box_block_woo",
+    "setup_huu_wts_prod_box_woo",
+    "setup_huu_wts_prod_page_woo",
+    "setup_huu_wts_text_woo",
+    "setup_huu_wts_number_woo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:02.029Z"
+}

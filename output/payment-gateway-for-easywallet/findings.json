@@ -1,0 +1,18 @@
+{
+  "options": [
+    "hkdigital_easywallet_version_option",
+    "woocommerce_payment-gateway-for-easy-wallet_settings",
+    "hkdigital_payment-gateway-for-easy-wallet_verification_id",
+    "hkdigital_check_activation_easy_wallet",
+    "hkdigital_dump"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hkdigital_cronCheckOrderEasyWallet",
+    "hkdigital_cron_cleanup_easywallet_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:11.559Z"
+}

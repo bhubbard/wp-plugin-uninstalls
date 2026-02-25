@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wplp_settings",
+    "has_views_count_post_meta_key",
+    "_wplp_onceLoad",
+    "wplp_category_image",
+    "*_jureview_installation_time",
+    "*_jufeedback_version",
+    "*_disallow_feedback",
+    "ju_user_token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wplp_update_post_views"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wplp_settings",
+    "_wpcufpn_settings",
+    "_elementor_data",
+    "_wp_attachment_metadata",
+    "wplp_notice_dismissed_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:58.803Z"
+}

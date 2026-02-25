@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cpglry_options",
+    "cpglry_setup_notice_dismissed",
+    "cpglry_shortcode_notice_dismissed",
+    "cpglry_new_shortcode_notice_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:36.311Z"
+}

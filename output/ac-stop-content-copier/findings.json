@@ -1,0 +1,14 @@
+{
+  "options": [
+    "acbd_captcha_page",
+    "acbd-seconds"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acbd-log"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:01.979Z"
+}

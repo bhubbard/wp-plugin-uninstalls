@@ -1,0 +1,25 @@
+{
+  "options": [
+    "kasppaga_wallet_configured",
+    "kaspa_rate_last_updated",
+    "kasppaga_wallet_kpub",
+    "kasppaga_wallet_address",
+    "kasppaga_next_address_index",
+    "kasppaga_wallet_setup_date",
+    "kasppaga_address_type",
+    "kasppaga_wallet_data",
+    "woocommerce_kaspa_settings"
+  ],
+  "transients": [
+    "kaspa_rate_cache"
+  ],
+  "cron_jobs": [
+    "kasppaga_poll_payments"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "kasppaga_review_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:53.767Z"
+}

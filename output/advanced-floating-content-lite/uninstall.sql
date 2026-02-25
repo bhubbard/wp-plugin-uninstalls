@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ct_afc_options', 'verified_purchase', 'ct_afc_installed_date', 'ct_afc_remind_later', 'ct_afc_remind_date');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('ct_afc_notice_dismissed', 'ct_afc_control_devices_medium', 'ct_afc_close_button', 'ct_afc_position_place', 'ct_afc_position_y', 'ct_afc_position_x', 'ct_afc_width', 'ct_afc_width_unit', 'ct_afc_background_color', 'ct_afc_margin_top', 'ct_afc_margin_right', 'ct_afc_margin_bottom', 'ct_afc_margin_left', 'ct_afc_border_top', 'ct_afc_border_type', 'ct_afc_border_color', 'ct_afc_border_right', 'ct_afc_border_bottom', 'ct_afc_border_left', 'ct_afc_border_radius');
+DELETE FROM wp_usermeta WHERE meta_key IN ('ct_afc_notice_dismissed', 'ct_afc_control_devices_medium', 'ct_afc_close_button', 'ct_afc_position_place', 'ct_afc_position_y', 'ct_afc_position_x', 'ct_afc_width', 'ct_afc_width_unit', 'ct_afc_background_color', 'ct_afc_margin_top', 'ct_afc_margin_right', 'ct_afc_margin_bottom', 'ct_afc_margin_left', 'ct_afc_border_top', 'ct_afc_border_type', 'ct_afc_border_color', 'ct_afc_border_right', 'ct_afc_border_bottom', 'ct_afc_border_left', 'ct_afc_border_radius');
+DELETE FROM wp_termmeta WHERE meta_key IN ('ct_afc_notice_dismissed', 'ct_afc_control_devices_medium', 'ct_afc_close_button', 'ct_afc_position_place', 'ct_afc_position_y', 'ct_afc_position_x', 'ct_afc_width', 'ct_afc_width_unit', 'ct_afc_background_color', 'ct_afc_margin_top', 'ct_afc_margin_right', 'ct_afc_margin_bottom', 'ct_afc_margin_left', 'ct_afc_border_top', 'ct_afc_border_type', 'ct_afc_border_color', 'ct_afc_border_right', 'ct_afc_border_bottom', 'ct_afc_border_left', 'ct_afc_border_radius');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('ct_afc_notice_dismissed', 'ct_afc_control_devices_medium', 'ct_afc_close_button', 'ct_afc_position_place', 'ct_afc_position_y', 'ct_afc_position_x', 'ct_afc_width', 'ct_afc_width_unit', 'ct_afc_background_color', 'ct_afc_margin_top', 'ct_afc_margin_right', 'ct_afc_margin_bottom', 'ct_afc_margin_left', 'ct_afc_border_top', 'ct_afc_border_type', 'ct_afc_border_color', 'ct_afc_border_right', 'ct_afc_border_bottom', 'ct_afc_border_left', 'ct_afc_border_radius');
+

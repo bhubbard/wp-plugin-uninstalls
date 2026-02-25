@@ -1,0 +1,18 @@
+{
+  "options": [
+    "stockquote_db_ver",
+    "stockquote_av_last",
+    "stockquote_av_last_timestamp",
+    "stockquote_av_progress",
+    "stockquote_av_tier_end_timestamp",
+    "stockquote_version",
+    "stock_quote_defaults",
+    "stockquote_defaults"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:42.490Z"
+}

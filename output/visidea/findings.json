@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_default_country",
+    "visidea_plugin_options",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_feed_mpn",
+    "woo_feed_ean",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:35.373Z"
+}

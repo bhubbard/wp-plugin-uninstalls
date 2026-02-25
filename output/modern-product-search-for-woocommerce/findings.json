@@ -1,0 +1,32 @@
+{
+  "options": [
+    "mpsfw_install_date",
+    "mpsfw_review_dismissed_time",
+    "mpsfw_settings",
+    "mpsfw_plugin_ver",
+    "mpsfw_index_table_version",
+    "mpsfw_reindex_version",
+    "qtranslate_enabled_languages",
+    "active_sitewide_plugins",
+    "mpsfw_search_query_args",
+    "sep_exclude"
+  ],
+  "transients": [
+    "mpsfw_index_processed"
+  ],
+  "cron_jobs": [
+    "mpsfw_reindex_table"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bm_conditional_all_products",
+    "bm_conditional_products",
+    "bm_conditional_categories",
+    "_dfrps_product",
+    "_alg_wc_pvbur_visible",
+    "_alg_wc_pvbur_invisible",
+    "dfw_enable_deal"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:56.309Z"
+}

@@ -1,0 +1,34 @@
+{
+  "options": [
+    "viralmarketingwp_export_log",
+    "viralmarketingwp_settings"
+  ],
+  "transients": [
+    "viralmarketingwp_export_throttle_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_viralmarketingwp_lead_firstname",
+    "_viralmarketingwp_lead_lastname",
+    "_viralmarketingwp_lead_email",
+    "_viralmarketingwp_lead_campaign_id",
+    "_viralmarketingwp_lead_referral_id",
+    "_viralmarketingwp_lead_referrer_id",
+    "_viralmarketingwp_lead_ip",
+    "viralmarketingwp_hide_welcome",
+    "_viralmarketingwp_campaign_description",
+    "_viralmarketingwp_campaign_start_date",
+    "_viralmarketingwp_campaign_end_date",
+    "_viralmarketingwp_campaign_fields",
+    "_viralmarketingwp_campaign_rewards",
+    "_viralmarketingwp_campaign_expiration_date",
+    "_viralmarketingwp_lead_phone",
+    "_viralmarketingwp_lead_referral_count",
+    "_viralmarketingwp_campaign_hit_count",
+    "_viralmarketingwp_campaign_page_id",
+    "_viralmarketingwp_lead_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:28.273Z"
+}

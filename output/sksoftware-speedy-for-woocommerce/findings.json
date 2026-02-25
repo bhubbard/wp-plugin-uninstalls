@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "sksoftware_speedy_for_woocommerce_is_authenticated",
+    "sksoftware_speedy_for_woocommerce_client_contracts",
+    "woocommerce_currency",
+    "woocommerce_default_country",
+    "woocommerce_calc_taxes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:17.246Z"
+}

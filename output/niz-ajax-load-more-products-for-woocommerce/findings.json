@@ -1,0 +1,13 @@
+{
+  "options": [
+    "niz_woo_ajload"
+  ],
+  "transients": [
+    "niz_ajax_loadmore_products_custom_query"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:04.912Z"
+}

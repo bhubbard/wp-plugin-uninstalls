@@ -1,0 +1,41 @@
+{
+  "options": [
+    "indieblocks_settings",
+    "indieblocks_webmention_db_version"
+  ],
+  "transients": [
+    "indieblocks_flush_permalinks",
+    "indieblocks:html:*",
+    "indieblocks:mf2:*",
+    "indieblocks:webmention_endpoint:*"
+  ],
+  "cron_jobs": [
+    "indieblocks_preview_card",
+    "indieblocks_webmention_send",
+    "indieblocks_process_webmentions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "indieblocks_webmention_source",
+    "indieblocks_webmention_kind",
+    "url",
+    "webmention_source_url",
+    "_indieblocks_link_preview",
+    "geo_address",
+    "_indieblocks_weather",
+    "_share_on_mastodon_url",
+    "_share_on_pixelfed_url",
+    "geo_latitude",
+    "geo_longitude",
+    "_indieblocks_kind",
+    "_indieblocks_linked_url",
+    "indieblocks_webmention_avatar",
+    "avatar",
+    "avatar_url",
+    "_indieblocks_webmention",
+    "_indieblocks_webmention_status",
+    "_indieblocks_webmention_history"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:05.198Z"
+}

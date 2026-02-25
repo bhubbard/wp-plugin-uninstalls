@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'shipinsure_woocommerce_is_authorized'
+wp option delete 'shipinsure_is_staging_site'
+wp option delete 'shipinsure_production_site_url'
+wp option delete 'shipinsure_debug_mode'
+wp option delete 'shipinsure_widget_position'
+wp option delete 'shipinsure_widget_alignment'
+wp option delete 'shipinsure_coverage_type'
+wp option delete 'shipinsure_widget_logo'
+wp option delete 'shipinsure_widget_logo_size'
+wp option delete 'shipinsure_widget_title_color'
+wp option delete 'shipinsure_widget_title_size'
+wp option delete 'shipinsure_widget_desc_color'
+wp option delete 'shipinsure_widget_desc_size'
+wp option delete 'shipinsure_widget_price_color'
+wp option delete 'shipinsure_widget_price_size'
+wp option delete 'shipinsure_widget_toggle_on'
+wp option delete 'shipinsure_widget_toggle_off'
+wp option delete 'shipinsure_fee_type'
+wp option delete 'shipinsure_use_single_sku'
+wp option delete 'shipinsure_widget_title'
+wp option delete 'shipinsure_widget_description'
+wp option delete 'shipinsure_disclaimer_enabled'
+wp option delete 'shipinsure_company_name'
+wp option delete 'shipinsure_disclaimer_text'
+wp option delete 'shipinsure_script_enabled'
+wp option delete 'shipinsure_script_tag'
+wp option delete 'shipinsure_script_version'
+wp option delete 'shipinsure_widget_logo_id'
+wp option delete 'shipinsure_merchant_uuid'
+wp option delete 'woocommerce_default_country'
+wp option delete 'woocommerce_currency'
+wp option delete 'shipinsure_merchant_record'
+wp option delete 'shipinsure_woocommerce_keys'
+wp option delete 'shipinsure_fee_prices'
+wp option delete 'shipinsure_protection_prices'
+
+# Delete Transients
+wp transient delete '_shipinsure_activation_redirect'
+

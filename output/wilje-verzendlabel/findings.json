@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_store_city",
+    "woocommerce_store_company_name",
+    "woocommerce_default_country",
+    "woocommerce_store_address_2",
+    "woocommerce_store_address",
+    "woocommerce_store_postcode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "postnl_barcode",
+    "barcode_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:50.612Z"
+}

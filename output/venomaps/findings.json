@@ -1,0 +1,20 @@
+{
+  "options": [
+    "venomaps_settings",
+    "*_review_notice_dismissed",
+    "venomaps_activation_date",
+    "venomaps_review_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "venomaps_routes",
+    "venomaps_marker",
+    "venomaps_lat",
+    "venomaps_lon",
+    "venomaps_style"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:01.974Z"
+}

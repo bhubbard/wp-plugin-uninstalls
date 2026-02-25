@@ -1,0 +1,27 @@
+{
+  "options": [
+    "sugar_calendar_bookings_initial_version",
+    "sugar_calendar_bookings_initial_activation_time",
+    "wp_mail_smtp_activation_prevent_redirect",
+    "sugar_calendar_bookings_admin_notices",
+    "sugar_calendar_bookings_connect_token",
+    "sugar_calendar_bookings_connect",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "scb_just_activated",
+    "scbookings_lite_just_activated",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "sugar_calendar_bookings_hourly_reminder_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sugar_calendar_bookings_admin_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:30.788Z"
+}

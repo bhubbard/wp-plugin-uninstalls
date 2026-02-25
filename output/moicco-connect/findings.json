@@ -1,0 +1,13 @@
+{
+  "options": [
+    "moicco_token_info"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "moicco_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:59.179Z"
+}

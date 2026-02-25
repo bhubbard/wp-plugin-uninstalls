@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fal_allow_tracking",
+    "fal_tracker_last_send",
+    "_surror_tools_town_secret",
+    "surror_tools_town_info",
+    "surror_notices_dismissed_*"
+  ],
+  "transients": [
+    "fal_ask_again"
+  ],
+  "cron_jobs": [
+    "fal_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "surror_notices_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:30.577Z"
+}

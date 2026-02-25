@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bu_link_target"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:19.860Z"
+}

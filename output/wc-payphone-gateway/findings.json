@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_manage_stock",
+    "payphone_g_btn_version",
+    "pp_woo_enabled",
+    "woocommerce_payphone_settings",
+    "pp_woo_logoImageUrl",
+    "pp_woo_paymentAction",
+    "pp_woo_subtotalMismatchBehavior",
+    "pp_woo_environment",
+    "pp_woo_button_size",
+    "pp_woo_blockEChecks",
+    "pp_woo_requireBillingAddress",
+    "pp_woo_logging_enabled",
+    "payphone_g_btn_bootstrap_warning_message",
+    "payphone_g_btn_bootstrap_warning_message_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woocommerce_cancel_unpaid_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "client_tx_id",
+    "payphone_tx_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:26.516Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "nb_business_id",
+    "nb_base_url",
+    "nb_primary_colour",
+    "nb_secondary_colour",
+    "nb_bathing_availability_active",
+    "nb_cards_active",
+    "nb_styling",
+    "nb_button_style",
+    "nb_xml_status_*",
+    "timezone_strong"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:36.423Z"
+}

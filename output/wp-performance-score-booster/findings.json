@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wppsb_plugin_version",
+    "wppsb_remove_query_strings",
+    "wppsb_enable_gzip",
+    "wppsb_expire_caching",
+    "wppsb_instant_page_preload",
+    "wppsb_review_notice",
+    "wppsb_activation_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:43.615Z"
+}

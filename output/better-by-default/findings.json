@@ -1,0 +1,21 @@
+{
+  "options": [
+    "better_by_default_simplify_option",
+    "better_by_default_performance_option",
+    "better_by_default_miscellaneous_option",
+    "better_by_default_personalize_option",
+    "better_by_default_protect_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "bbd_default_network_template",
+    "ppp_enabled_preview",
+    "better_by_default_critical_css",
+    "better_by_default_last_login_on"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:41.609Z"
+}

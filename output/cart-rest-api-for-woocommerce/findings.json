@@ -1,0 +1,59 @@
+{
+  "options": [
+    "cocart_version",
+    "cocart_install_date",
+    "cocart_admin_notices",
+    "cocart_admin_notice_*",
+    "cocart_plugin_suggestions",
+    "airplane-mode",
+    "auto_update_plugins",
+    "cocart_schema_missing_tables",
+    "active_sitewide_plugins",
+    "cocart_db_version",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_placeholder_image",
+    "woocommerce_default_catalog_orderby",
+    "woocommerce_tax_display_cart",
+    "woocommerce_tax_total_display",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_default_country",
+    "woocommerce_store_postcode",
+    "woocommerce_hide_out_of_stock_items",
+    "woocommerce_tax_display_shop",
+    "woocommerce_currency_pos",
+    "advanced_shipping_packages_default_package_name"
+  ],
+  "transients": [
+    "cocart_setup_wizard_store_new",
+    "_cocart_db_creation_failed",
+    "_cocart_activation_redirect",
+    "cocart_plugin_data_*",
+    "cocart_plugin_data",
+    "cocart_installing"
+  ],
+  "cron_jobs": [
+    "woocommerce_cleanup_sessions",
+    "cocart_cleanup_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice",
+    "dismissed_cocart_base_tables_missing_notice",
+    "dismissed_cocart_update_db_notice",
+    "_woocommerce_persistent_cart_*",
+    "_woocommerce_load_saved_cart_after_login",
+    "order_*",
+    "display_type",
+    "order",
+    "thumbnail_id",
+    "_wp_attachment_image_alt",
+    "rating",
+    "verified",
+    "_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:41.734Z"
+}

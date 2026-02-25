@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woow_whatsapp_number",
+    "woow_show_after",
+    "woow_rev_notice_hide",
+    "woow_show_on_shop_single",
+    "woocommerce_currency",
+    "woow_custom_message",
+    "woow_hide_add_to_cart",
+    "woow_hide_proceed_to_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:00.707Z"
+}

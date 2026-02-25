@@ -1,0 +1,18 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "alg_wc_email_recipients_section_enabled",
+    "alg_wc_email_recipients",
+    "alg_wc_email_recipients_forwarding_section_enabled",
+    "alg_wc_email_recipients_cc_email",
+    "alg_wc_email_recipients_bcc_email",
+    "alg_wc_email_recipients_version",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:30.829Z"
+}

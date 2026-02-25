@@ -1,0 +1,12 @@
+{
+  "options": [
+    "simple_restrict_setting_one",
+    "simple_restrict_setting_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:07.766Z"
+}

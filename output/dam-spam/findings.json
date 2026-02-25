@@ -1,0 +1,46 @@
+{
+  "options": [
+    "dam_spam_options",
+    "dam_spam_stats",
+    "dam_spam_require_activation",
+    "dam_spam_muswitch",
+    "dam_spam_enable_custom_login",
+    "dam_spam_manual_bans",
+    "dam_spam_automatic_bans",
+    "ss_stop_sp_reg_options",
+    "ss_stop_sp_reg_stats",
+    "dam_spam_migrated_from_ss",
+    "dam_spam_migrated_from_ds",
+    "wordpredam_spam_api_key",
+    "dam_spam_enable_firewall",
+    "dam_spam_login_attempts",
+    "dam_spam_login_type",
+    "dam_spam_honeypot_cf7",
+    "dam_spam_honeypot_bbpress",
+    "dam_spam_honeypot_elementor",
+    "dam_spam_honeypot_divi",
+    "dam_spam_login_attempts_threshold",
+    "dam_spam_login_attempts_duration",
+    "dam_spam_activation_auto_delete",
+    "dam_spam_login_attempts_unit",
+    "dam_spam_login_attempts_by_ip",
+    "dam_spam_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dam_spam_cleanup_unverified"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dam_spam_notice_dismissed_2026_1",
+    "dam_spam_wc_notice_dismissed",
+    "signup_ip",
+    "dam_spam_activation_pending",
+    "dam_spam_activation_key",
+    "dam_spam_activation_sent",
+    "_IUD_userBlockedTime",
+    "dam_spam_is_locked"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:40.161Z"
+}

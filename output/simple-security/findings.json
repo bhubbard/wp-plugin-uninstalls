@@ -1,0 +1,22 @@
+{
+  "options": [
+    "users_page_access_log_per_page",
+    "simple-security-ip-blacklist",
+    "simple-security-settings",
+    "simple_security_db_version",
+    "simple_security_plugin",
+    "simple_security",
+    "simple_security_installed",
+    "simple_security_ip_blacklist"
+  ],
+  "transients": [
+    "simple_security_nag"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "last_login"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:01.772Z"
+}

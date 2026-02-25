@@ -1,0 +1,24 @@
+{
+  "options": [
+    "post_views_counter_settings_general",
+    "post_views_counter_settings_other",
+    "post_views_counter_settings_display",
+    "post_views_counter_pro_version",
+    "post_views_counter_version",
+    "post_views_counter_settings_integrations",
+    "post_views_counter_activation_date"
+  ],
+  "transients": [
+    "post_views_counter_ip_cache"
+  ],
+  "cron_jobs": [
+    "pvc_reset_counts",
+    "pvc_flush_cached_counts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pvc_dashboard"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:10.589Z"
+}

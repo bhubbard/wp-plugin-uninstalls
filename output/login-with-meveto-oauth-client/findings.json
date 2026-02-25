@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*oauth_client_id",
+    "*oauth_client_secret",
+    "*allow_passwords",
+    "*pusher_app_id",
+    "*pusher_key",
+    "*pusher_secret",
+    "*pusher_cluster",
+    "meveto_pusher_key",
+    "meveto_pusher_cluster",
+    "meveto_oauth_client_id",
+    "meveto_oauth_client_secret",
+    "meveto_allow_passwords",
+    "meveto_pusher_app_id",
+    "meveto_pusher_secret",
+    "meveto_connect_page",
+    "meveto_login_with_meveto_page",
+    "meveto_oauth_scope",
+    "meveto_oauth_authorize_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:31.061Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pi_post_types",
+    "pi_hp_deactivated_plugins",
+    "pi_op_deactivated_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pi_deactivated_plugins_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:13.027Z"
+}

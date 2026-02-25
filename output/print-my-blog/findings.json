@@ -1,0 +1,30 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "pmb_activation",
+    "pmb_rechecked_on_upgrade"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "*_dashboard_news"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pmb_title",
+    "pmb_buttons",
+    "*_dismiss_dashboard_news"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:10.893Z"
+}

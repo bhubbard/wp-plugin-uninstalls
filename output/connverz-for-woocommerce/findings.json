@@ -1,0 +1,35 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "cwep_total_time_minutes",
+    "connv_abandoned_cart_template_name",
+    "connv_abandoned_cart_variables",
+    "cwep_access_token",
+    "cwep_templates",
+    "connverz_show_product_whatsapp_button",
+    "cwep_whatsapp_button_message_product",
+    "cwep_whatsapp_button_message_general",
+    "*_template_name",
+    "*_variables",
+    "connv_new_order_template_name",
+    "connv_new_order_variables",
+    "connv_delivered_order_template_name",
+    "connv_delivered_order_variables",
+    "connv_canceled_order_template_name",
+    "connv_canceled_order_variables"
+  ],
+  "transients": [
+    "connverz_cart_activity_*",
+    "connverz_abandoned_cart_notification_*"
+  ],
+  "cron_jobs": [
+    "connverz_check_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_whatsapp_optin",
+    "connverz_active_tab"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:59.591Z"
+}

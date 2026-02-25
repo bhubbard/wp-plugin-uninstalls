@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "nexron_ai_chat_organization_id",
+    "nexron_ai_chat_uid",
+    "nexron_ai_chat_product_status"
+  ],
+  "transients": [
+    "nexron_ai_chat_original_product_id_*"
+  ],
+  "cron_jobs": [
+    "nexron_ai_chat_daily_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_product_update_processed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:56.202Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "OPH_interval",
+    "OPH_interval_aleatoire",
+    "OPH_age_limit",
+    "OPH_show_original_pubdate",
+    "OPH_give_credit",
+    "OPH_pos",
+    "OPH_at_top",
+    "OPH_omit_cats",
+    "OPH_FORCED_POSTS",
+    "OPH_last_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "OPH_original_pub_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:57.220Z"
+}

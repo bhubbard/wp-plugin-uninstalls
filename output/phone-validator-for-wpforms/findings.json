@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpfpv_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpfpv_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:32.745Z"
+}

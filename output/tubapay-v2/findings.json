@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tubapay2_statuses_upgrade",
+    "tubapay2_token",
+    "tubapay2_refresh_token",
+    "tubapay2_token_expires",
+    "woocommerce_tubapay2_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method",
+    "agreementNumber",
+    "tubapay2Response",
+    "raty",
+    "tubapay2_RODO_BP"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:18.767Z"
+}

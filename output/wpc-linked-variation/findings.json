@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpclv_settings",
+    "wpclv_localization",
+    "wpclv_*"
+  ],
+  "transients": [
+    "wpclever_plugins",
+    "wpclv_linked_products_*",
+    "wpclv_linked_data_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpclv_link",
+    "wpcvs_button",
+    "wpcvs_color",
+    "wpcvs_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:09.710Z"
+}

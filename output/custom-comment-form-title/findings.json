@@ -1,0 +1,14 @@
+{
+  "options": [
+    "custom_comment_form_title",
+    "disqus_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ccft_post_comment_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:14.284Z"
+}

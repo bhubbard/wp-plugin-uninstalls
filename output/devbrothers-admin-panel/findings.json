@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dbst_settings",
+    "devbrothers_version",
+    "devbrothers_settings"
+  ],
+  "transients": [
+    "devbrothers_plugins_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:24.688Z"
+}

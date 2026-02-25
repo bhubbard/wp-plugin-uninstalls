@@ -1,0 +1,23 @@
+{
+  "options": [
+    "apprl_version",
+    "apprl_activation_date",
+    "apprl_cron_running",
+    "apprl_token",
+    "apprl_error",
+    "apprl__auto_transform",
+    "apprl__auto_span",
+    "apprl__auto_transform_optout"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "apprl_reprocess_auto_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "apprl__auto_transform_optout",
+    "apprl__links"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:30.547Z"
+}

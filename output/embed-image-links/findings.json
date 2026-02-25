@@ -1,0 +1,12 @@
+{
+  "options": [
+    "embed_image_links_max_width_percentage",
+    "embed_image_links_alignment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:04.450Z"
+}

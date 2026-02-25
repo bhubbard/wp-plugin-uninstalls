@@ -1,0 +1,16 @@
+{
+  "options": [
+    "youtube_live_settings",
+    "wp-youtube-live-1714-notice-dismissed",
+    "youtube_live_version"
+  ],
+  "transients": [
+    "wp-youtube-live-api-response",
+    "youtube-live-upcoming-videos"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:15.724Z"
+}

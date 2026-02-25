@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tvapm_email",
+    "tvapm_settings",
+    "tvapm_site_id",
+    "tvapm_14_days_trial_applied",
+    "tvapm_entitlements",
+    "tvapm_is_trial",
+    "tvapm_is_paid",
+    "tvapm_trial_end"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tvapm_weekly_email",
+    "tvapm_viking_heartbeat"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:36.315Z"
+}

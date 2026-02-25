@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wpe_ishipp_base_location",
+    "wpe_ishipp_base_location_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:34.366Z"
+}

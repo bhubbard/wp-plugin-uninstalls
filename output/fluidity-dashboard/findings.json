@@ -1,0 +1,22 @@
+{
+  "options": [
+    "fldtydash_icon_source"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edit_last",
+    "admin_color",
+    "_elementor_edit_mode",
+    "_wpb_vc_js_status",
+    "beaver_builder_enabled",
+    "_fl_builder_enabled",
+    "_oxygen",
+    "_cornerstone_data",
+    "_et_pb_used",
+    "tve_page_builder_editor"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:14.626Z"
+}

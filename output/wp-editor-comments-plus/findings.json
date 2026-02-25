@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_all",
+    "*_reply",
+    "*_edit",
+    "*_submit",
+    "*_cancel",
+    "*_toolbar1",
+    "*_toolbar2",
+    "*_toolbar3",
+    "*_toolbar4",
+    "*_comments",
+    "*_respond",
+    "*_comment_form",
+    "*_comment_textarea"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:33.695Z"
+}

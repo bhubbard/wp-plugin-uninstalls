@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_last_checked"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pb_settings_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:37.039Z"
+}

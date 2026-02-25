@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mn_title",
+    "mn_placeholder",
+    "mn_incorrect",
+    "mn_already_exist",
+    "mn_register_success",
+    "mn_header_name",
+    "mn_header_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:09.778Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ebn_auto_generate_installed_bricks_plugin_menuitems",
+    "ebn_order_by",
+    "ebn_show_all_in_new_tab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ebn_menuitem_name",
+    "ebn_menuitem_menu_color",
+    "ebn_menuitem_url",
+    "ebn_menuitem_origin",
+    "ebn_menuitem_menu_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:17.961Z"
+}

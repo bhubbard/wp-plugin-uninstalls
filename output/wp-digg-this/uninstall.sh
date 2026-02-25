@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'twitter'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'twitter'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'twitter'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'twitter'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'fb'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'fb'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'fb'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'fb'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'digg'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'digg'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'digg'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'digg'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'stumble'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'stumble'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'stumble'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'stumble'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'deli'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'deli'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'deli'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'deli'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mixx'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mixx'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mixx'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mixx'"

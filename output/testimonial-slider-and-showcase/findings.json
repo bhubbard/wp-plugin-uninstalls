@@ -1,0 +1,32 @@
+{
+  "options": [
+    "rttss_ny_2022",
+    "rttss_bf_2021",
+    "rttss_plugin_activation_time",
+    "rttss_spare_me",
+    "rttss_remind_me",
+    "rttss_rated",
+    "rtts_activation_redirect",
+    "elementor_experiment-e_swiper_latest"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rtts_sc_tab",
+    "tss_layout",
+    "tss_designation",
+    "tss_company",
+    "tss_location",
+    "tss_rating",
+    "tss_video",
+    "tss_social_media",
+    "tss_custom_image_size",
+    "_wp_attachment_image_alt",
+    "tss_author_name_style",
+    "tss_author_bio_style",
+    "_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:15.132Z"
+}

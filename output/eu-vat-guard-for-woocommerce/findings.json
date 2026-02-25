@@ -1,0 +1,28 @@
+{
+  "options": [
+    "eu_vat_guard_hide_registration_fields",
+    "eu_vat_guard_require_company",
+    "eu_vat_guard_require_vat",
+    "eu_vat_guard_require_vies",
+    "eu_vat_guard_ignore_vies_error",
+    "eu_vat_guard_enable_block_checkout",
+    "eu_vat_guard_disable_exemption",
+    "eu_vat_guard_fixed_prices",
+    "eu_vat_guard_company_label",
+    "eu_vat_guard_vat_label",
+    "eu_vat_guard_exemption_message",
+    "eu_vat_guard_override_b2b_plugins",
+    "woocommerce_tax_classes"
+  ],
+  "transients": [
+    "eu_vat_guard_admin_error_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "email",
+    "billing_is_vat_exempt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:33.032Z"
+}

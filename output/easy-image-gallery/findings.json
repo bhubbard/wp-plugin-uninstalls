@@ -1,0 +1,16 @@
+{
+  "options": [
+    "easy-image-gallery"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_easy_image_gallery",
+    "_easy_image_gallery_v2",
+    "_easy_image_gallery_link_images",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:09.422Z"
+}

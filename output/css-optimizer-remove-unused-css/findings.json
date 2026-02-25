@@ -1,0 +1,25 @@
+{
+  "options": [
+    "cssoptimizer_options_enable",
+    "cssoptimizer_options_token",
+    "cssoptimizer_options_generateccss",
+    "cssoptimizer_options_safelist",
+    "cssoptimizer_options_limitpagepost",
+    "cssoptimizer_options_exclude",
+    "cssoptimizer_options_exclude_css",
+    "cssoptimizer_cache_clean",
+    "cssoptimizer_activation_redirect",
+    "cssoptimizer_first_time_guide"
+  ],
+  "transients": [
+    "cssop_ccss_queue"
+  ],
+  "cron_jobs": [
+    "cssoptimizer_purge_queue",
+    "cssop_filter_job_queue_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:13.314Z"
+}

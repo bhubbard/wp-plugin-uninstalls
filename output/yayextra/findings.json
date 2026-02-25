@@ -1,0 +1,21 @@
+{
+  "options": [
+    "yaye_settings",
+    "yaye_stock_flag",
+    "woocommerce_calc_taxes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yaye_options",
+    "_yaye_status",
+    "_yaye_actions",
+    "_yaye_products",
+    "_yaye_name",
+    "_yaye_description",
+    "_yaye_custom_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:14.522Z"
+}

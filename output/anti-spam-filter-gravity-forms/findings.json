@@ -1,0 +1,17 @@
+{
+  "options": [
+    "asfgf_subject_text",
+    "asfgf_form_id",
+    "asfgf_kill_spam",
+    "asfgf_enabled",
+    "asfgf_keywords_enabled",
+    "asfgf_keywords",
+    "asfgf_cyrillic"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:53.641Z"
+}

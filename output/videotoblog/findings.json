@@ -1,0 +1,14 @@
+{
+  "options": [
+    "videotoblog_token",
+    "videotoblog_is_new_user"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:04.384Z"
+}

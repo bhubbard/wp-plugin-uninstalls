@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpsu_options",
+    "current_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_user_merged_array"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:02.004Z"
+}

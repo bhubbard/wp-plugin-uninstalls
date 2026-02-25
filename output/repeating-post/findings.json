@@ -1,0 +1,13 @@
+{
+  "options": [
+    "duplicate_post_copyexcerpt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:43.281Z"
+}

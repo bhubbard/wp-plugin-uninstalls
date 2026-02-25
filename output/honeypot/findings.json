@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpa_reviews_notice_hide",
+    "wpa_pateron_notice_hide",
+    "wpa_extended_notice_hide",
+    "wpa_installed_date",
+    "wpa_stats",
+    "wpa_field_name",
+    "wpa_error_message",
+    "wpa_disable_test_widget",
+    "wpa_disable_jquery"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:29.147Z"
+}

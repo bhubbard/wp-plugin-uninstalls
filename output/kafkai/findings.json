@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*token",
+    "*settings",
+    "*imported_articles",
+    "*api_user",
+    "*settings_json",
+    "kafkaiwp_settings",
+    "kafkaiwp_api_user",
+    "kafkaiwp_token"
+  ],
+  "transients": [
+    "*temporary_openapi_data",
+    "*new_niches",
+    "*new_languages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kafkai_article_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:35.078Z"
+}

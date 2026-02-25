@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aicw_db_version', 'aicw_display_option', 'aicw_specific_pages', 'aicw_chat_width', 'aicw_chat_height', 'aicw_typing_indicator_text', 'aicw_enable_icon_animation', 'aicw_widget_icon', 'aicw_custom_icon_svg', 'aicw_openai_key', 'aicw_anthropic_key', 'aicw_gemini_key', 'aicw_selected_model', 'aicw_widget_title', 'aicw_widget_subtitle', 'aicw_primary_color', 'aicw_chat_position', 'aicw_temperature', 'aicw_max_tokens', 'aicw_enable_widget', 'aicw_custom_instructions', 'aicw_knowledge_base', 'aicw_top_p', 'aicw_frequency_penalty', 'aicw_presence_penalty', 'aicw_knowledge_base_summary', 'aicw_assistant_logo');
+

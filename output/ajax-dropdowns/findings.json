@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ajax_post",
+    "ajaxd_method",
+    "ajaxd_no_content",
+    "ajaxd_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:30.074Z"
+}

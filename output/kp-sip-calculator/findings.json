@@ -1,0 +1,12 @@
+{
+  "options": [
+    "kp_sip_calculator_options",
+    "kp_sip_calculator_tools"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:00.328Z"
+}

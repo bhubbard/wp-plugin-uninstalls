@@ -1,0 +1,13 @@
+{
+  "options": [
+    "formbricks_environment_id",
+    "formbricks_api_host",
+    "formbricks_global_toggle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:56.997Z"
+}

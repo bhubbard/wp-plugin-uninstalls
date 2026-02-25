@@ -1,0 +1,17 @@
+{
+  "options": [
+    "send_pulse_deferred_admin_notices",
+    "sendpulse_code",
+    "sendpulse_active",
+    "sendpulse_addinfo",
+    "sendpulse_push_url",
+    "sendpulse_script_id",
+    "sendpulse_script_params"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:16.123Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "errp_license_server_url",
+    "errp_settings",
+    "errp_performance_data"
+  ],
+  "transients": [
+    "errp_license_cache_*",
+    "errp_license_status_*",
+    "errp_current_pricing",
+    "errp_post_analysis_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:11.872Z"
+}

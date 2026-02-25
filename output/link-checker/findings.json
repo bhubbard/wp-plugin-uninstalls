@@ -1,0 +1,15 @@
+{
+  "options": [
+    "link-checker-token",
+    "link-checker-max-fetchers",
+    "link-checker-login-page-url",
+    "link-checker-login-form-selector",
+    "link-checker-login-data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:36.476Z"
+}

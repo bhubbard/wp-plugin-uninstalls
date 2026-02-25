@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mmh_sitemap_display_options",
+    "mmh_sitemap_help_options",
+    "wppb_demo_input_examples"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:04.647Z"
+}

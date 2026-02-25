@@ -1,0 +1,29 @@
+{
+  "options": [
+    "mb_template",
+    "mb_nav_format",
+    "mb_easing",
+    "mb_start_panel",
+    "mb_width",
+    "mb_panel_width",
+    "mb_reduced_size",
+    "mb_fixed_height",
+    "mb_speed",
+    "mb_wrap",
+    "mb_hash_tags",
+    "mb_show_nav",
+    "mb_structure",
+    "mb_current_class",
+    "mb_tooltip"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mb_all_images",
+    "mb_active_images",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:23.977Z"
+}

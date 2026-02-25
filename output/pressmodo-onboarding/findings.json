@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pressmodo_demo_installed",
+    "bsr_data",
+    "bsr_page_size",
+    "bsr_update_site_url"
+  ],
+  "transients": [
+    "bsr_results"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:50.855Z"
+}

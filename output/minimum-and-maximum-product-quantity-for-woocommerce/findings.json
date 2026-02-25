@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_enable_ajax_add_to_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mmqwp_option_enable",
+    "_mmqwp_min",
+    "_mmqwp_max",
+    "_mmqwp_multi_qty"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:25.817Z"
+}

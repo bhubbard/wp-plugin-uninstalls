@@ -1,0 +1,35 @@
+{
+  "options": [
+    "smartship_enabled_cities",
+    "smartship_enabled_states",
+    "smartship_payment_gateway",
+    "smartship_status_radio",
+    "smartship_status_settings",
+    "smartship_wp_all_settings",
+    "smartship_token",
+    "smartship_ordermappingstatus",
+    "woocommerce_weight_unit",
+    "smartship_enabled_countries",
+    "smartship_demo_account",
+    "smartship_log_mode",
+    "smartship_version"
+  ],
+  "transients": [
+    "smartship_webhook_test"
+  ],
+  "cron_jobs": [
+    "smartship_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "smartship_order_id",
+    "tracking_id",
+    "aws_label",
+    "smartship_description",
+    "smartship_shipment_tracking_url",
+    "_cart_weight",
+    "_cart_weight_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:54.134Z"
+}

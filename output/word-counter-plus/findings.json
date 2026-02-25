@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wcp_schedule_initial_wordcount"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wcp_word_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:04.204Z"
+}

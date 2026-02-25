@@ -1,0 +1,25 @@
+{
+  "options": [
+    "myreads_plugin_version",
+    "myreads_auto_regenerate_json",
+    "myreads_default_pattern",
+    "myreads_csv_file"
+  ],
+  "transients": [
+    "myreads_flush_rewrites",
+    "myreads_csv_import_success"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_myreads_author",
+    "_myreads_format",
+    "_myreads_rating",
+    "_myreads_ratingStyle",
+    "_myreads_isFavorite",
+    "_myreads_currentlyReading",
+    "_myreads_amazonLink"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:52.201Z"
+}

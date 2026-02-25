@@ -1,0 +1,81 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'calculation_forms_settings'
+wp option delete 'calculation_forms_settings_analytics_code'
+wp option delete 'calculation_forms_settings_analytics'
+wp option delete 'calculation_forms_settings_mailchimp'
+wp option delete '_calculation_forms_mailchimp_lists'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_redmuber_item_%'"
+wp option delete 'ninja_forms_addons_feed'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_yeekit_addons_%' OR option_name LIKE '_site_transient_yeekit_addons_%'"
+wp transient delete 'yeekit_addons'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_form_coupon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_form_coupon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_form_coupon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_form_coupon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_form_mails'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_form_mails'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_form_mails'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_form_mails'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_forms_multistep_style'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_forms_multistep_style'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_forms_multistep_style'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_forms_multistep_style'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_form'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_form'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_form'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_form'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_form_messages'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_form_messages'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_form_messages'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_form_messages'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_form_paypal'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_form_paypal'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_form_paypal'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_form_paypal'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_payment'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_payment'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_payment'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_payment'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_form_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_form_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_form_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_form_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_form_id_mail_attachments'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_form_id_mail_attachments'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_form_id_mail_attachments'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_form_id_mail_attachments'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_payment_total'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_payment_total'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_payment_total'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_payment_total'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_payment_currency_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_payment_currency_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_payment_currency_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_payment_currency_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_forms_mailchimp'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_forms_mailchimp'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_forms_mailchimp'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_forms_mailchimp'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_forms_mailchimp_merge_fields'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_forms_mailchimp_merge_fields'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_forms_mailchimp_merge_fields'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_forms_mailchimp_merge_fields'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_forms_pdf'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_forms_pdf'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_forms_pdf'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_forms_pdf'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_calculation_forms_zapier'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_calculation_forms_zapier'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_calculation_forms_zapier'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_calculation_forms_zapier'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'yeeaddons_dismissed_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'yeeaddons_dismissed_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'yeeaddons_dismissed_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'yeeaddons_dismissed_%'"

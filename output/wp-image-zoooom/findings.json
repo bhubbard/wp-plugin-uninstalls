@@ -1,0 +1,16 @@
+{
+  "options": [
+    "zoooom_settings",
+    "zoooom_general",
+    "fusion_options",
+    "zoooom_activation_time",
+    "zoooom_version",
+    "zoooom_dismiss_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:17.019Z"
+}

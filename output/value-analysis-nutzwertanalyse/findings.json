@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vave_dashData",
+    "vave_data",
+    "vave_weighting_data",
+    "vave_opportunities_data",
+    "vave_opp_choose_data",
+    "vave_result_data",
+    "vave_editble_switch"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:53.772Z"
+}

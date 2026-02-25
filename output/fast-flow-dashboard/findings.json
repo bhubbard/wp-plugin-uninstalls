@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fast_tag_link_type",
+    "fast_tag_member_type",
+    "fast_tag_subscriber_type",
+    "_fastflow_sonod_data",
+    "fast_tagger_db_version",
+    "ff_widget_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tag_list",
+    "tag_color",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:12.743Z"
+}

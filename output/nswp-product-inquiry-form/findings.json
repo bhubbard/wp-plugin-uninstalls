@@ -1,0 +1,14 @@
+{
+  "options": [
+    "nswp_pif_opts",
+    "nswp_pif_plugin_options"
+  ],
+  "transients": [
+    "nswp_pif_install_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:49.010Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "active_sitewide_plugins",
+    "woo_ml_key",
+    "woo_ml_wizard_setup",
+    "woocommerce_mailerlite_settings",
+    "woo_ml_account_name",
+    "account_id",
+    "account_subdomain",
+    "woo_ml_shop_id",
+    "woo_ml_last_synced_guest_id",
+    "woo_mailerlite",
+    "woocommerce_version"
+  ],
+  "transients": [
+    "mailerlite_custom_fields"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woo_ml_product_ignored",
+    "_woo_ml_product_tracked",
+    "_woo_ml_category_tracked"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:17.394Z"
+}

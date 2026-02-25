@@ -1,0 +1,36 @@
+{
+  "options": [
+    "allow_buy_course_pts",
+    "learndash_mycred_exchange_rate",
+    "learndash_point_type",
+    "learndash_allow_leaderboard"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "allow_buy_course_pts",
+    "_sfwd-courses",
+    "score_quiz_based",
+    "myCred_badges_override",
+    "lesson_id",
+    "course_id",
+    "leaderboard_default",
+    "leaderboard_course_based",
+    "leaderboard_lesson_based",
+    "leaderboard_topic_based",
+    "leaderboard_quiz_based",
+    "leaderboard_shortcode",
+    "myCred_point",
+    "myCred_override_hook",
+    "myCred_point_type",
+    "myCred_quiz_point_fail",
+    "min_percentage",
+    "min_percentage_range",
+    "earn_points",
+    "times",
+    "max_percentage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:46.119Z"
+}

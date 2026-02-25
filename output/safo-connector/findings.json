@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_prices_include_tax",
+    "safo_crm_logging"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies",
+    "safo_crm_api_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_safocrm_wc_gpf_data",
+    "_safo_api_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:48.691Z"
+}

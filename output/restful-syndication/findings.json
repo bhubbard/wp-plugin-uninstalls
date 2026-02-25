@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*settings",
+    "*history",
+    "*history_delete",
+    "*history_delete_media",
+    "*last_attempt"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "restful-syndication_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "author_profile_image",
+    "restfulsyndication_original_url",
+    "_wp_attachment_image_alt",
+    "*source_guid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:59.223Z"
+}

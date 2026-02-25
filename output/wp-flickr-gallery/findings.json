@@ -1,0 +1,17 @@
+{
+  "options": [
+    "recently_activated",
+    "flickr_api_settings"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "awl_fg_post_settings_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:41.498Z"
+}

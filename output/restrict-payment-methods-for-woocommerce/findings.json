@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gmwrpm_enable",
+    "gmwrpm_hide_unpurchase",
+    "gmwrpm_layout",
+    "gmwrpm_showchoose",
+    "gmwrpm_showimg",
+    "gmwrpm_showdesc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gmwrpm_condintal_data",
+    "gmwrpm_payment_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:06.862Z"
+}

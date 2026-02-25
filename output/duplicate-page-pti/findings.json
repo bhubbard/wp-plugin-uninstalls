@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dppti_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_elementor_css",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:49.192Z"
+}

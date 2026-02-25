@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bisteinoff_plugin_contact_data",
+    "bisteinoff_plugin_contact_shortcodes_migrated",
+    "bisteinoff_plugin_contact_shortcode_migration_completed"
+  ],
+  "transients": [
+    "bisteinoff_shortcode_check_results",
+    "bisteinoff_shortcode_migration_results"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:19.914Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "woocommerce_webdebit_payment_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:04.053Z"
+}

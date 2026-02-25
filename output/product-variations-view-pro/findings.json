@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dro_pvvp_is_enabled",
+    "dro_pvvp_show_range_price",
+    "dro_pvvp_show_main_product_short_description",
+    "dro_pvvp_show_product_gallery",
+    "woocommerce_currency_pos",
+    "woocommerce_price_trim_zeros"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:50.735Z"
+}

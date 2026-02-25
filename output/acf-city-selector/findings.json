@@ -1,0 +1,26 @@
+{
+  "options": [
+    "acfcs_version",
+    "acfcs_db_version",
+    "acfcs_city_update_1_8_0",
+    "current_theme",
+    "charset",
+    "registration",
+    "b3_registration_type",
+    "acfcs_delete_cities_table",
+    "acfcs_city_update_1_8_0_*",
+    "acfcs_city_update_1_8_0_be",
+    "acfcs_city_update_1_8_0_nl",
+    "acf_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acfcs_search_country",
+    "acfcs_search_state",
+    "acfcs_search_city"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:21.826Z"
+}

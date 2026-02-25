@@ -1,0 +1,29 @@
+{
+  "options": [
+    "feedaty-merchant-code",
+    "feedaty-client-secret",
+    "fdOrderStatus",
+    "feedaty-prod-microdata-enabled",
+    "feedaty-prod-tab-enabled",
+    "wid-store-enabled",
+    "wid-store-style",
+    "prod-enabled",
+    "prod-position",
+    "product-badge-style"
+  ],
+  "transients": [
+    "debug-acme"
+  ],
+  "cron_jobs": [
+    "feedaty_cron_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "feedaty_ean",
+    "_feedaty_rate",
+    "_feedaty_count",
+    "_feedaty_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:30.343Z"
+}

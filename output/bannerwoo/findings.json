@@ -1,0 +1,23 @@
+{
+  "options": [
+    "bannerwoo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bannerwoo_unit_time",
+    "bannerwoo_size_select",
+    "bannerwoo_max_rotation",
+    "_tipo",
+    "_current_rot",
+    "*_expire",
+    "*_state",
+    "*_user",
+    "*_image",
+    "*_url",
+    "*_order_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:42.609Z"
+}

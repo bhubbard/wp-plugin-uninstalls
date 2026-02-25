@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "zempr_active_scripts_v1"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_zempr_location",
+    "_zempr_condition",
+    "_zempr_post_ids"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:59.959Z"
+}

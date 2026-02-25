@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp-yadisk-files-default-download-label",
+    "wp-yadisk-files-root-directory",
+    "wp-yadisk-files-default-directory",
+    "wp-yadisk-files-login",
+    "wp-yadisk-files-pass",
+    "wp-yadisk-files-transparent-mode",
+    "yadisk_download_counters"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:21.445Z"
+}

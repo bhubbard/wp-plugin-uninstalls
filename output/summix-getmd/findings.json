@@ -1,0 +1,27 @@
+{
+  "options": [
+    "summix_getmd_db_version",
+    "summix_getmd_frontend_view_enabled",
+    "summix_getmd_settings"
+  ],
+  "transients": [
+    "summix_getmd_export_files_*",
+    "summix_getmd_export_progress_*",
+    "summix_getmd_media_errors_*",
+    "summix_getmd_export_single_content_*",
+    "summix_getmd_export_media_*",
+    "summix_getmd_media_settings_*",
+    "summix_getmd_capabilities_cached",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "summix_getmd_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:21.932Z"
+}

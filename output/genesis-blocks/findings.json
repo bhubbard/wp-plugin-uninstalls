@@ -1,0 +1,20 @@
+{
+  "options": [
+    "genesis_blocks_has_content_to_migrate",
+    "atomic_blocks_mailchimp_api_key",
+    "genesis_page_builder_block_settings_permissions",
+    "genesis_blocks_pro_migrated_from_genesis_blocks_pro",
+    "genesis_blocks_migrated_from_atomic_blocks",
+    "genesis_blocks_mailchimp_api_key"
+  ],
+  "transients": [
+    "genesis_blocks_mailchimp_lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "genesis_blocks_favorite_layouts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:11.730Z"
+}

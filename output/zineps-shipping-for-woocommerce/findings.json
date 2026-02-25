@@ -1,0 +1,18 @@
+{
+  "options": [
+    "zineps_api_mode",
+    "zineps_working_api",
+    "zineps_client_id",
+    "zineps_client_secret",
+    "zineps_shop_name",
+    "zineps_default_carrier",
+    "zineps_default_method",
+    "zineps_default_complete_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:46.360Z"
+}

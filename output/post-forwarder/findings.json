@@ -1,0 +1,17 @@
+{
+  "options": [
+    "postfo_options"
+  ],
+  "transients": [
+    "postfo_processing_*",
+    "postfo_lock_*",
+    "postfo_forwarded_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "postfo_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:28.236Z"
+}

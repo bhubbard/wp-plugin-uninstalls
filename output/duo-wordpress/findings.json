@@ -1,0 +1,16 @@
+{
+  "options": [
+    "duo_ikey",
+    "duo_skey",
+    "duo_host",
+    "duo_roles",
+    "duo_xmlrpc",
+    "duo_akey"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:23.672Z"
+}

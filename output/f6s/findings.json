@@ -1,0 +1,12 @@
+{
+  "options": [
+    "f6s_api_key",
+    "f6s_reset_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:52.908Z"
+}

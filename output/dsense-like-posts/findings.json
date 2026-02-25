@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_post_like_count",
+    "_user_liked",
+    "_user_IP"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:03.569Z"
+}

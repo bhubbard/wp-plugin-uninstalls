@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lean_csns_settings",
+    "lean_csns_db_version",
+    "lean_csns_first_install"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:52.736Z"
+}

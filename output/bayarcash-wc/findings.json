@@ -1,0 +1,35 @@
+{
+  "options": [
+    "woocommerce_bayarcash_settings",
+    "*_settings",
+    "woocommerce_bayarcash-wc_settings",
+    "bayarcash_enable_multi_merchant",
+    "bayarcash_enable_fpx_gateways",
+    "bayarcash_additional_fpx",
+    "bayarcash_enable_duitnow_gateways",
+    "bayarcash_additional_duitnow",
+    "woocommerce_directdebit-wc_settings",
+    "woocommerce_duitnowboost-wc_settings",
+    "woocommerce_duitnow-wc_settings",
+    "woocommerce_duitnownets-wc_settings",
+    "woocommerce_duitnowqr-wc_settings",
+    "woocommerce_duitnowqris-wc_settings",
+    "woocommerce_duitnowqriswallet-wc_settings",
+    "woocommerce_duitnowshopee-wc_settings",
+    "woocommerce_linecredit-wc_settings"
+  ],
+  "transients": [
+    "bayarcash_admin_notice"
+  ],
+  "cron_jobs": [
+    "bayarcash_wc_checkpayment",
+    "bayarcash_wc_check_transaction"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bayarcash_wc_transaction_id",
+    "bc_payment_intent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:23.591Z"
+}

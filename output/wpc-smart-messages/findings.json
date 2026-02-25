@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [
+    "wpcsm_product_random_number_*",
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcsm_activate",
+    "wpcsm_example",
+    "wpcsm_location",
+    "wpcsm_conditions",
+    "wpcsm_custom_location",
+    "wpcsm_container",
+    "wpcsm_extra_classes",
+    "wpcsm_design",
+    "wpcsm_custom_css",
+    "wpcsm_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:42.296Z"
+}

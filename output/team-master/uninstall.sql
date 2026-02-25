@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('tm_default_template', 'tm_default_column', 'tm_default_perpage', 'tm_default_background_color', 'tm_default_color', 'tm_default_btn_color', 'tm_default_btn_font_color', 'tm_default_load_more', 'tm_default_activate_carousel', 'tm_default_auto_play_carousel', 'tm_default_title_color', 'tm_default_designation_color');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('member_social_media', 'member_designation', 'member_email', 'member_tel', 'member_short_description');
+DELETE FROM wp_usermeta WHERE meta_key IN ('member_social_media', 'member_designation', 'member_email', 'member_tel', 'member_short_description');
+DELETE FROM wp_termmeta WHERE meta_key IN ('member_social_media', 'member_designation', 'member_email', 'member_tel', 'member_short_description');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('member_social_media', 'member_designation', 'member_email', 'member_tel', 'member_short_description');
+

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "djd_site_post_settings",
+    "djd_site_post_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "guest_name",
+    "guest_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:46.974Z"
+}

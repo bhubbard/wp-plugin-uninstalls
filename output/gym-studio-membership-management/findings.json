@@ -1,0 +1,19 @@
+{
+  "options": [
+    "fitsoft_livekey",
+    "fitsoft_accesskey",
+    "my_fitsoft_options",
+    "fitsoft_previewurl",
+    "my_fitsoft_color_options",
+    "my_fitsoft_hovermenu_options",
+    "my_fitsoft_chat_options",
+    "my_fitsoft_membership_options",
+    "fitsoft_membership_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:52.745Z"
+}

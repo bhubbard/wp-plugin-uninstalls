@@ -1,0 +1,15 @@
+{
+  "options": [
+    "background-image-field-like",
+    "background-image-field-dislike",
+    "plb_background-image-field-like",
+    "plb_background-image-field-dislike",
+    "plb_your_style_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:55.174Z"
+}

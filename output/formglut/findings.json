@@ -1,0 +1,45 @@
+{
+  "options": [
+    "formglut_global_modules_status",
+    "_formglut_global_form_settings",
+    "_formglut_security_salt",
+    "__formglut_global_form_settings",
+    "_formglut_installed_version",
+    "formglut_entry_details_migrated",
+    "formglut_db_formglut_logs_added",
+    "formglut_scheduled_actions_migrated",
+    "_fg_ins_by",
+    "_formglut_hCaptcha_keys_status",
+    "_formglut_reCaptcha_keys_status",
+    "_formglut_turnstile_keys_status",
+    "_formglut_form_permission",
+    "_formglut_reCaptcha_details",
+    "_formglut_hCaptcha_details",
+    "_formglut_turnstile_details",
+    "_formglut_mailchimp_details",
+    "__formglut_payment_module_settings",
+    "_formglut_email_report_summary",
+    "__fg_imorted_forms_map",
+    "recently_activated",
+    "_formglut_ins_by"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "formglut_do_scheduled_tasks",
+    "formglut_do_email_report_scheduled_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_has_formglut",
+    "_formg_forms_has_role",
+    "_form",
+    "formglut_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:11.024Z"
+}

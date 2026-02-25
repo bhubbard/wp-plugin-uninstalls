@@ -1,0 +1,15 @@
+{
+  "options": [
+    "flywp_email_settings",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_themes",
+    "update_core"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:15.940Z"
+}

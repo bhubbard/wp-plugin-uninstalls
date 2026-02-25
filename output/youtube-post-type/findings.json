@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [
+    "dirsize_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rating",
+    "_duration",
+    "youtube_v_id",
+    "source",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:49.978Z"
+}

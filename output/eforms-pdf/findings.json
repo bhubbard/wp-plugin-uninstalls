@@ -1,0 +1,30 @@
+{
+  "options": [
+    "ninja_forms_addons_feed",
+    "crm_marketing_*",
+    "pdf_custom_fonts",
+    "pdf_creator_papers",
+    "pdf_creator_font",
+    "pdf_download_last",
+    "_redmuber_item_1695",
+    "woocommerce_pdf_packing",
+    "woocommerce_pdf",
+    "_redmuber_item_*"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "data_email",
+    "_builder_pdf_settings_font_family",
+    "_builder_pdf_settings",
+    "data_email_email",
+    "_pdfcreator_eform",
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:31.344Z"
+}

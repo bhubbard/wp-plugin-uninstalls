@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_enable_ajax_add_to_cart"
+  ],
+  "transients": [
+    "depicter_do_activation_redirect"
+  ],
+  "cron_jobs": [
+    "depicter/document/schedule/publish",
+    "depicter/document/schedule/draft",
+    "depicter/document/schedule/clear/cache",
+    "depicter_check_authorize",
+    "depicter_collect_usage_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fl_builder_data",
+    "_elementor_data",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "use_builder"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:28.115Z"
+}

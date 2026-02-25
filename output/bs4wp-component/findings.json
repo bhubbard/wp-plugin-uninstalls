@@ -1,0 +1,12 @@
+{
+  "options": [
+    "bs4wp_component_select",
+    "bs4wp_component_textarea"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:22.085Z"
+}

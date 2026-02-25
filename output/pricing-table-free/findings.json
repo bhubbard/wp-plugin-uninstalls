@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pricing_table_wordpress_post_themes",
+    "pricing_table_wordpress_header_f_size",
+    "pricing_table_wordpress_features_f_size",
+    "pricing_table_wordpress_subtitle_font_color",
+    "pricing_table_wordpress_features_font_color",
+    "pricing_table_wordpress_subtitle_f_size",
+    "_wp_page_template",
+    "pricing_table_wp_columns"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:27.747Z"
+}

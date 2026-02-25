@@ -1,0 +1,17 @@
+{
+  "options": [
+    "e2w_version",
+    "e2w_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "e2w_doc_save_export",
+    "e2w_doc_tree_properties",
+    "e2w_tmpl_content",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:28.289Z"
+}

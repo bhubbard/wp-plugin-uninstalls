@@ -1,0 +1,17 @@
+{
+  "options": [
+    "airdrop-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "airdrop_symbol",
+    "airdrop_website",
+    "airdrop_enddate",
+    "airdrop_estimatedvalue",
+    "airdrop_requirement"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:31.011Z"
+}

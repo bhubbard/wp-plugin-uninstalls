@@ -1,0 +1,49 @@
+{
+  "options": [
+    "*_key",
+    "cubewp_framework_installed_on",
+    "permanently_removed_notices",
+    "cwpOptions",
+    "cwp_custom_taxonomies",
+    "cwp_custom_types",
+    "cwp_userdash",
+    "*_form",
+    "cwp_custom_post_types",
+    "theme_user_licenses"
+  ],
+  "transients": [
+    "*_update_check",
+    "*_checking",
+    "cubewp_crm_ping"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cwp_group_fields",
+    "cubewp_post_views",
+    "plan_id",
+    "plan_price",
+    "payment_status",
+    "template_location",
+    "*_lat",
+    "*_lng",
+    "cwp_save_user_post",
+    "template_type",
+    "_wp_attachment_image_alt",
+    "plan_post_type",
+    "default_col_class",
+    "_cwp_group_visibility",
+    "preview_post_id",
+    "primary_post_card",
+    "preview_term_slug",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "_cwp_group_terms",
+    "_cwp_group_sub_fields",
+    "_cwp_group_order",
+    "_cwp_group_types",
+    "_cwp_group_user_roles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:26.359Z"
+}

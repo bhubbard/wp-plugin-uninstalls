@@ -1,0 +1,27 @@
+{
+  "options": [
+    "proclaimer_auth_token",
+    "proclaimer_instance_id",
+    "proclaimer_api_key",
+    "proclaimer_tos_accepted_*",
+    "proclaimer-banner-human",
+    "proclaimer-large-human",
+    "proclaimer-small-human"
+  ],
+  "transients": [
+    "proclaimer_validation_lock_*",
+    "proclaimer_subscription_status",
+    "proclaimer_session_lock",
+    "proclaimer_session_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "proclaimer_result",
+    "proclaimer_last_content",
+    "proclaimer_last_check",
+    "proclaimer_error_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:23.981Z"
+}

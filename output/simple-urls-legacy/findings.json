@@ -1,0 +1,15 @@
+{
+  "options": [
+    "surleg_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_surl_redirect",
+    "_surl_count",
+    "date_published"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:16.824Z"
+}

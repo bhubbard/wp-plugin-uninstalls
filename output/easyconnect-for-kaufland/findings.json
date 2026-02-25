@@ -1,0 +1,24 @@
+{
+  "options": [
+    "klcnn_client_key",
+    "klcnn_secret_key",
+    "klcnn_connected_since",
+    "klcnn_marketplace",
+    "klcnn_encryption_key",
+    "klcnn_recent_manufacturers"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_klcnn_ean",
+    "_klcnn_sync_status",
+    "_klcnn_kaufland_category_id",
+    "_klcnn_kaufland_category_name",
+    "_klcnn_kaufland_category_title",
+    "_klcnn_last_synced",
+    "_klcnn_processed_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:15.197Z"
+}

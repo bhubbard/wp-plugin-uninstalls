@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ntkrpnn_neuralnet_learningon', 'ntkrpnn_neuralnet_urlmusthave', 'ntkrpnn_neuralnet_urlmustnot', 'ntkrpnn_neuralnet_stripget', 'ntkrpnn_neuralnet_removeget', 'ntkrpnn_neuralnet_noadmin', 'ntkrpnn_neuralnet_maximumweight', 'ntkrpnn_neuralnet_maximumscore', 'ntkrpnn_neuralnet_pro', 'ntk_neuralnet_learningon', 'ntk_neuralnet_siteid', 'ntkrpnn_neuralnet_siteid', 'ntk_neuralnet_pro', 'ntk_neuralnet_deleteold', 'ntkrpnn_neuralnet_deleteold', 'ntk_neuralnet_urlmusthave', 'ntk_neuralnet_urlmustnot', 'ntk_neuralnet_stripget', 'ntk_neuralnet_removeget', 'ntk_neuralnet_debug', 'ntkrpnn_neuralnet_debug', 'ntk_neuralnet_noadmin', 'ntk_neuralnet_maximumweight', 'ntk_neuralnet_maximumscore');
+

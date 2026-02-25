@@ -1,0 +1,13 @@
+{
+  "options": [
+    "smartpayinvoices_option_db_version",
+    "smartpayinvoices_options",
+    "woocommerce_tax_round_at_subtotal"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:33.365Z"
+}

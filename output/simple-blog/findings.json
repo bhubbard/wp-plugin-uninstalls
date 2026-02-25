@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_simple_short_content",
+    "_simple_author",
+    "_simple_pub_cal",
+    "_simple_pub_cal_man",
+    "_listing_image_id_750_350",
+    "_listing_image_id_740_360"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:50.952Z"
+}

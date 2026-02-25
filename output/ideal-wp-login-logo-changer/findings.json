@@ -1,0 +1,19 @@
+{
+  "options": [
+    "iwllc_wp_logo_url",
+    "iwllc_wp_set_bg",
+    "iwllc_wp_bg_color",
+    "iwllc_wp_bg_img_url",
+    "iwllc_wp_logo_link",
+    "iwllc_wp_link_color",
+    "iwllc_wp_link_hover_color",
+    "iwllc_wp_logo_width",
+    "iwllc_wp_logo_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:41.035Z"
+}

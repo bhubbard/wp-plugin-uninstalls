@@ -1,0 +1,13 @@
+{
+  "options": [
+    "google_tag_manager_id",
+    "simple_googletag_diagnostic_data_notice",
+    "simple_googletag_diagnostic_data_agreed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:41.779Z"
+}

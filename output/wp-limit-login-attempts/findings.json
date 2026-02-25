@@ -1,0 +1,18 @@
+{
+  "options": [
+    "no_of_wp_limit_login_attepts",
+    "limit_login_attepts_delay_time",
+    "limit_login_attepts_captcha",
+    "limit_login_captcha",
+    "limit_login_install_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_limit_login_nag_ignore",
+    "limit_login_rating_ignore_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:25.608Z"
+}

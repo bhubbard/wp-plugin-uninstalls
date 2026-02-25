@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*purge_all_roles",
+    "*purge_path",
+    "purgebox_*",
+    "purgebox_plugin_version",
+    "purgebox_purge_path",
+    "purgebox_multisite_enabled",
+    "purgebox_manual_purgepath_enabled",
+    "purgebox_api_key",
+    "purgebox_group",
+    "purgebox_version"
+  ],
+  "transients": [
+    "*_purged"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:50.866Z"
+}

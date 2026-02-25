@@ -1,0 +1,30 @@
+{
+  "options": [
+    "before_list",
+    "after_list",
+    "before_items",
+    "after_items",
+    "num",
+    "api_key",
+    "country_shortcode",
+    "update_interval",
+    "delete_interval",
+    "auto_insert_post",
+    "auto_insert_page",
+    "auto_insert_firma",
+    "auto_tag_insert",
+    "custom_field_name"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wake_up_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "key_words",
+    "ecpt_last_update",
+    "key_words_date_use"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:02.254Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wp_mainwp_stream_network",
+    "wp_mainwp_stream",
+    "*_connectors",
+    "*_registered_connectors",
+    "mainwp_child_reports_db",
+    "mainwp_child_branding_settings",
+    "wp_mainwp_stream_plugins_to_delete",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [
+    "wp_mainwp_stream_auto_purge"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rule"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:53.059Z"
+}

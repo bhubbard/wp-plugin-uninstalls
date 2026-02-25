@@ -1,0 +1,25 @@
+{
+  "options": [
+    "kspt_enable_ajax",
+    "kspt_konu_otomatik",
+    "kspt_konu_temasi",
+    "kspt_konu_temasi_css",
+    "kspt_enable_plugins",
+    "kspt_settimetime",
+    "kspt_konudagoster_neresi",
+    "kspt_disable_search",
+    "kspt_cache_time",
+    "kspt_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kpst_konuda_goster",
+    "_*",
+    "_wlops_link",
+    "_wlops_views"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:35.573Z"
+}

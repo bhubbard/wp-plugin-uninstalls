@@ -1,0 +1,25 @@
+{
+  "options": [
+    "bh_site_migration_country_code",
+    "bh_site_migration_geo_data",
+    "bh_site_migration_region_urls",
+    "bh_site_migration_id",
+    "bh_site_migration_token",
+    "wp_module_tasks_schedules"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "bluehost_site_migrator_can_migrate"
+  ],
+  "cron_jobs": [
+    "bluehost_site_migrator_purge_migration_packages",
+    "task_execution_hook",
+    "scheduler_task_runner",
+    "cleanup_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:05.998Z"
+}

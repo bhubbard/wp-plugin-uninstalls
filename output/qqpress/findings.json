@@ -1,0 +1,14 @@
+{
+  "options": [
+    "qqpress_message",
+    "qqpress_db_version",
+    "qq_oauth_token",
+    "qq_oauth_token_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:22.003Z"
+}

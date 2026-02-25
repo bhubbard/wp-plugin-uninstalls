@@ -1,0 +1,21 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_oscw_sc_actived",
+    "_oscw_product_apply",
+    "_oscw_condition_relation",
+    "_oscw_conditions",
+    "_oscw_include_products",
+    "_oscw_exclude_products",
+    "_oscw_above_content",
+    "_oscw_main_content",
+    "_oscw_under_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:09.544Z"
+}

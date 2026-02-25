@@ -1,0 +1,13 @@
+{
+  "options": [
+    "chatasbot_client_id",
+    "chatasbot_api_key",
+    "chatasbot_base_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:23.245Z"
+}

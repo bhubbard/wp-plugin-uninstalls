@@ -1,0 +1,35 @@
+{
+  "options": [
+    "swslcdt",
+    "sws_index_rebuild_interval_hours",
+    "sws_show_price",
+    "sws_show_stock",
+    "sws_show_debug_score",
+    "sws_enable_cache",
+    "sws_top_search_target",
+    "sws_search_classes_mobile",
+    "sws_search_classes_desktop",
+    "sws_custom_css",
+    "sws_insert_method",
+    "sws_disable_logging_for_admins",
+    "sws_enable_keyword_column",
+    "sws_license_email",
+    "sws_license_key"
+  ],
+  "transients": [
+    "sws_activation_redirect"
+  ],
+  "cron_jobs": [
+    "quote_cron_swsvalid"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sws_notice_dismissed_until",
+    "_sws_searched_keywords",
+    "_sws_addtocart_keywords",
+    "external_image",
+    "external_image_gallery"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:41.150Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "my_field_name",
+    "woo_display_order_location"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:25.996Z"
+}

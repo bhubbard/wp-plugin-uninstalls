@@ -1,0 +1,47 @@
+{
+  "options": [
+    "a3rev_rslider_version",
+    "*_clean_on_deletion",
+    "a3rev_rslider_just_installed",
+    "a3_responsive_slider_style_version",
+    "*_enable",
+    "*_google_font_list",
+    "*_style_version",
+    "a3_rslider_template_1",
+    "a3_rslider_template_2",
+    "a3_rslider_template_card",
+    "a3_rslider_template_widget",
+    "a3_rslider_template_mobile",
+    "a3_rslider_template1_control_settings",
+    "*_google_api_key",
+    "*_toggle_box_open",
+    "*-custom-boxes",
+    "*_global_settings",
+    "a3_rslider_*",
+    "*_dimensions_settings",
+    "*_slider_styles_settings",
+    "*_control_settings",
+    "*_pager_settings",
+    "*_title_settings",
+    "*_caption_settings",
+    "*_readmore_settings",
+    "*_shortcode_settings"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*opened",
+    "*-custom-boxes",
+    "_a3_slider_id",
+    "_a3_slider_settings",
+    "_a3_slider_template",
+    "_a3_slider_is_used",
+    "_a3_slider_is_used_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:32.858Z"
+}

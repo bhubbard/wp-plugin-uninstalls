@@ -1,0 +1,20 @@
+{
+  "options": [
+    "mailpoet_bbpress_subscribe_too",
+    "mailpoet_bbpress_addon_version",
+    "mailpoet_bbpress_addon_db_version",
+    "_mailpoet_bbpress_addon_needs_update",
+    "_bbp_mailpoet_lists",
+    "_bbp_enable_mailpoet_checkbox_on_registration",
+    "_bbp_mailpoet_checkbox_label",
+    "_bbp_precheck_mailpoet_checkbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bbpress_user_subscribe_to_mailpoet"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:06.414Z"
+}

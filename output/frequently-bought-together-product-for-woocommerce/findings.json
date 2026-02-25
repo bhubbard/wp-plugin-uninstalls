@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_currency_pos",
+    "add_to_cart_text"
+  ],
+  "transients": [
+    "*sslpfwerror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "occp_select2",
+    "occp_off_per",
+    "occp_discount_type",
+    "occp_block_width",
+    "attr_cus"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:07.140Z"
+}

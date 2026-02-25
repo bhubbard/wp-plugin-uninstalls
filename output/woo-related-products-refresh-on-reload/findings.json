@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woorelated_wtitle",
+    "woorelated_nproducts",
+    "woorelated_basedon",
+    "woorelated_exclude",
+    "woorelated_slider"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wrprr_peachpay_banner_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:40.026Z"
+}

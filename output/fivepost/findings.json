@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fivepost-page-number",
+    "fivepost-update-date",
+    "fivepost-barcode",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "five_post_every_minute_event",
+    "five_post_hourly_event",
+    "five_post_deleteoldfiles_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fivepost_order_id_labelprintfile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:31.019Z"
+}

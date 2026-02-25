@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_drflex_cache_db_version",
+    "drflex_api_key",
+    "drflex_connection_status",
+    "drflex_callback_textarea",
+    "drflex_button_configs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:54.865Z"
+}

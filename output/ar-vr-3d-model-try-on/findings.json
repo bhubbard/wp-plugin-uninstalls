@@ -1,0 +1,38 @@
+{
+  "options": [
+    "ar_try_on_settings",
+    "ar_try_on_clicks_*",
+    "ar_try_on_compression_settings",
+    "get_cache_data",
+    "*_tracking_last_send",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "*_cached_promos",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "ar_try_on_process_compression_queue",
+    "*_tracker_send_event",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ar_try_on_product_settings",
+    "ar_try_on_dismiss_*",
+    "ar_try_on_shown_*",
+    "ar_try_on_clicked_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:36.638Z"
+}

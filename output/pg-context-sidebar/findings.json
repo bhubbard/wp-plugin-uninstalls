@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pgeek_cs_option_ver",
+    "pgeek_cs_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pgeek_cs_title",
+    "_pgeek_cs_content",
+    "_pgeek_cs_template_for",
+    "_pgeek_cs_display_from"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:14.006Z"
+}

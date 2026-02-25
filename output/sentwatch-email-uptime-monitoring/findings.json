@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sentwatch_connected",
+    "sentwatch_api_key",
+    "sentwatch_site_uuid",
+    "sentwatch_last_heartbeat",
+    "sentwatch_interval",
+    "sentwatch_heartbeat_email"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sentwatch_send_heartbeat",
+    "sentwatch_check_config"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:38.831Z"
+}

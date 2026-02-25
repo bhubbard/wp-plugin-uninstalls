@@ -1,0 +1,25 @@
+{
+  "options": [
+    "uifmfbuild_version",
+    "zgfm-b-hide_upgrade_notice",
+    "zgfm-b-install-type",
+    "zgfm_fields_fastload",
+    "zgfm_b_activated",
+    "zgfm_b_modalmode",
+    "zigaform_f_notice_1",
+    "zgfm_wpfb_code",
+    "zgfm_listform_searchfilter",
+    "zgfm_listform_trash",
+    "zgfm_b_hideversion",
+    "zgfm_listrecords_searchfilter",
+    "zgfm_frm_main_recexpdelimiter"
+  ],
+  "transients": [
+    "styles_google_fonts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:04.240Z"
+}

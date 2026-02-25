@@ -1,0 +1,26 @@
+{
+  "options": [
+    "post_count",
+    "wp_calendar_block_has_published_posts",
+    "gutenberg-experiments",
+    "site_logo",
+    "wp_notes_notify",
+    "active_templates",
+    "gutenberg_version_migration",
+    "gutenberg_last_synchronize_theme_template_checks",
+    "gutenberg_last_synchronize_theme_template-part_checks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "footnotes",
+    "sync_status",
+    "_wp_font_face_file",
+    "is_inactive_by_default",
+    "_menu_item_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:57.307Z"
+}

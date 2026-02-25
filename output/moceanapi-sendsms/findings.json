@@ -1,0 +1,34 @@
+{
+  "options": [
+    "moceansms_customer_setting",
+    "moceansms_domain_reachable",
+    "moceansms_plugin_version",
+    "wc_fields_billing",
+    "smsbump_PhoneNumberPrefix",
+    "smsbump_StrictNumberPrefix",
+    "test_mocean",
+    "ws_plugin__s2member_options",
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "action_scheduler_admin_notice",
+    "as_comment_count",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "phone",
+    "country",
+    "dokan_profile_settings",
+    "moceansms_phone",
+    "wcfmmp_profile_settings",
+    "arm_primary_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:53.050Z"
+}

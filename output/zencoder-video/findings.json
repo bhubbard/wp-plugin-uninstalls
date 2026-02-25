@@ -1,0 +1,17 @@
+{
+  "options": [
+    "zcvideo_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_zcvideo_public",
+    "_zcvideo_formats",
+    "_zcvideo_status",
+    "_zcvideo_input",
+    "_zcvideo_job_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:06.350Z"
+}

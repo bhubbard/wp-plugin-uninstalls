@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wrmj_category_order",
+    "rmm_category_order",
+    "rmm_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wrmj_price",
+    "rmm_price",
+    "wrmj_note",
+    "rmm_note",
+    "wrmj_term_order",
+    "rmm_term_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:20.596Z"
+}

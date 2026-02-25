@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ndg_spr_version",
+    "rooter2484_theme_options",
+    "emr_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ndg_Speedy_Page_Redirect",
+    "_ndg_speedy_page_redirect"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:26.584Z"
+}

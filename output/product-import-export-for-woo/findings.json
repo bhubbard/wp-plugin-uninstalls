@@ -1,0 +1,40 @@
+{
+  "options": [
+    "wbte_sc_hidden_promotion_banners",
+    "wt_p_iew_product_cta_banner_default_page_dismissed",
+    "wt_ier_pro_banner_dismissed",
+    "wt_iew_admin_modules",
+    "wbfte_promotion_banner_version",
+    "wt_hide_invoice_cta_banner",
+    "wt_hide_smart_coupon_cta_banner",
+    "wt_hide_product_ie_cta_banner",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "xa_rev_im_ex_last_import_csv_start_col",
+    "wf_prod_review_alter_id",
+    "*_review_request",
+    "*_start_date",
+    "wt_iew_advanced_settings",
+    "wt_p_iew_is_active",
+    "wt_p_iew_basic_json_migration_complete"
+  ],
+  "transients": [
+    "_product_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_wt_delete_existing",
+    "_stock",
+    "_wp_attachment_image_alt",
+    "_wt_attachment_source",
+    "display_type",
+    "thumbnail_id",
+    "rating",
+    "verified",
+    "title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:21.675Z"
+}

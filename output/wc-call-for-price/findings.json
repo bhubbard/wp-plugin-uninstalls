@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*text",
+    "*show_image",
+    "*image",
+    "*show_uploaded_image",
+    "*upload_image",
+    "woocommerce_notify_low_stock_amount",
+    "wc_call_for_price__text",
+    "wc_call_for_price__show_image",
+    "wc_call_for_price__image",
+    "wc_call_for_price__show_uploaded_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:14.873Z"
+}

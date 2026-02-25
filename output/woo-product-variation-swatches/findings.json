@@ -1,0 +1,34 @@
+{
+  "options": [
+    "dismiss_bf_woobundle_notice_*",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_enable_ajax_add_to_cart",
+    "rtwpvs_pro_activate",
+    "rtwpvs_backup_attribute_types",
+    "rtwpvs_pro_version",
+    "woobundle_black_friday_offer_2024",
+    "rtwpvs_offer_july_2022",
+    "rtvs_plugin_activation_time",
+    "rtvs_spare_me",
+    "rtvs_remind_me",
+    "rtvs_rated",
+    "rtwpvs"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies",
+    "rtwpvs_pro_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rtwpvs",
+    "rtwpvs_attribute_tooltip",
+    "rtwpvs_attribute_tooltip_*",
+    "product_attribute_color",
+    "is_dual_color",
+    "secondary_color",
+    "product_attribute_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:06.953Z"
+}

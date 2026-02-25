@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_license_key",
+    "mp_core_theme_redirect_after_install",
+    "mp_core_plugin_checker_*",
+    "*_license_status_valid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:45.158Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_ship_to_destination",
+    "woocommerce_enable_order_comments",
+    "wc_settings_tab_btn_text_color",
+    "wc_settings_tab_btn_border_color",
+    "wc_settings_tab_btn_bg_color",
+    "wc_settings_enable_btn",
+    "wc_settings_tab_button_text",
+    "ogpc_proceed_order",
+    "wc_gift_proceed_installed",
+    "wc_gift_proceed_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:31.503Z"
+}

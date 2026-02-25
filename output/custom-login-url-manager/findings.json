@@ -1,0 +1,13 @@
+{
+  "options": [
+    "clumanager_custom_login_url",
+    "clumanager_redirect_url",
+    "clumanager_admin_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:23.258Z"
+}

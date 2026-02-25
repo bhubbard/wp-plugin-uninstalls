@@ -1,0 +1,48 @@
+{
+  "options": [
+    "ezoic_js_integration_enabled",
+    "ezoic_js_integration_options",
+    "ezoic_adstxtmanager_id",
+    "ezoic_adstxtmanager_auto_detect",
+    "ezoic_adstxtmanager_status",
+    "ezoic_cdn_api_key",
+    "ezoic_cdn_enabled",
+    "ezoic_cdn_show_post_ids",
+    "ezoic_cdn_always_clear_posts",
+    "ezoic_cdn_always_clear_urls",
+    "ezoic_cdn_always_home",
+    "ezoic_cdn_domain",
+    "ezoic_cdn_verbose_mode",
+    "fb_clear_cache_enabled",
+    "fb_app_id",
+    "fb_app_secret",
+    "fb_app_auth_token",
+    "ez_emote_enabled",
+    "ezoic_integration_status",
+    "ezoic_integration_options",
+    "ezoic_speed_settings",
+    "sidebars_widgets",
+    "widget_ezoic_adpos_widget",
+    "ezoic_cdn_show_post_ids ",
+    "GTranslate",
+    "ezoic_auth_client_id",
+    "ezoic_auth_client_secret",
+    "ezoic_auth_access_token",
+    "ezoic_token_generated_time",
+    "ezoic_db_version"
+  ],
+  "transients": [
+    "ezoic_send_debug",
+    "ezoic_clear_caches",
+    "ezoic_config_regenerate",
+    "ezoic_duplicate_scripts_check",
+    "ezoic_cdn_admin_notice"
+  ],
+  "cron_jobs": [
+    "fetch_placeholders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:20.503Z"
+}

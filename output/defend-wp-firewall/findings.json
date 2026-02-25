@@ -1,0 +1,24 @@
+{
+  "options": [
+    "auto_update_plugins",
+    "ms_files_rewriting"
+  ],
+  "transients": [
+    "defend_wp_firewall_setting_redirect_on_activation",
+    "defend_wp_firewall_error_notice",
+    "update_plugins",
+    "defend_wp_firewall_defendwp_pro_not_min_version"
+  ],
+  "cron_jobs": [
+    "defend_wp_firewall_daily_auto_update",
+    "defend_wp_firewall_index_write",
+    "defend_wp_firewall_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dwp_iwp_auto_login_hash",
+    "_rsssl_two_factor_nonce"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:41.109Z"
+}

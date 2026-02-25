@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_settings",
+    "active_sitewide_plugins",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_tax_display_*",
+    "woocommerce_checkout_order_received_endpoint",
+    "woocommerce_myaccount_view_order_endpoint",
+    "_wcml_settings"
+  ],
+  "transients": [
+    "cuw_review_notice_revenue",
+    "cuw_recommendations_list",
+    "cuw_addons_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cuw_created_campaign_id",
+    "cuw_used_order_id",
+    "cuw_used_by",
+    "is_cuw_noc",
+    "usage_limit",
+    "date_expires",
+    "cuw_created_order_id",
+    "cuw_created_for"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:10.007Z"
+}

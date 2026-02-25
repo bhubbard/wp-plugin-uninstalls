@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_enabled",
+    "grid_privileges",
+    "grid_debug_mode",
+    "grid_default_container_style",
+    "grid_default_slot_style",
+    "grid_default_box_style",
+    "grid_landing_page_enabled",
+    "*_search_enabled",
+    "grid_default_container",
+    "grid_async",
+    "grid_async_url",
+    "grid_async_timeout",
+    "grid_mediaselect_info",
+    "grid_mediaselect_types",
+    "grid_permalinks",
+    "grid",
+    "grid_post_search_enabled",
+    "grid_page_search_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:51.518Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "test_test",
+    "rest_test",
+    "*_id",
+    "field_test_field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:49.332Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_token_name",
+    "*_contract_address",
+    "*_chain",
+    "*_reg_login",
+    "nft_login_setting_reg_login",
+    "nft_login_setting_contract_address",
+    "nft_login_setting_chain",
+    "nft_login_setting_token_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nft_login_enabled",
+    "nftlogin_address",
+    "nftlogin_token_id",
+    "nftlogin_contract_address"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:19.574Z"
+}

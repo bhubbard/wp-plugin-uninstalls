@@ -1,0 +1,26 @@
+{
+  "options": [
+    "reacg_installed_time",
+    "reacg_do_activation_redirect",
+    "reacg_optin_shown",
+    "*_status",
+    "reacg_options*",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gallery_timestamp",
+    "options_timestamp",
+    "images_ids",
+    "images_count",
+    "additional_data",
+    "exif",
+    "action_url",
+    "_wp_attachment_image_alt",
+    "edit_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:51.867Z"
+}

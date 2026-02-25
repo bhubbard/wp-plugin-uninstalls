@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'commentformwp_plugin_do_activate'
+wp option delete 'commentformwp-nameoption'
+wp option delete 'commentformwp-emailoption'
+wp option delete 'commentformwp-websiteoption'
+wp option delete 'commentformwp-commentbottom'
+wp option delete 'commentformwp-cookie-hideshow'
+wp option delete 'commentformwp-cookies'
+wp option delete 'commentformwp-cookiesbottom'
+wp option delete 'commentformwp-submitbtn-right'
+wp option delete 'commentformwp-title'
+wp option delete 'commentformwp-note'
+wp option delete 'commentformwp-reply'
+wp option delete 'commentformwp-cancel-reply'
+wp option delete 'commentformwp-submitbtn'
+wp option delete 'commentformwp-labelyes'
+wp option delete 'commentformwp-author'
+wp option delete 'commentformwp-email'
+wp option delete 'commentformwp-url'
+wp option delete 'commentformwp-textarea'
+wp option delete 'commentformwp-labelrequired-yes'
+wp option delete 'commentformwp-author-plc'
+wp option delete 'commentformwp-email-plc'
+wp option delete 'commentformwp-url-plc'
+wp option delete 'commentformwp-textarea-plc'
+wp option delete 'commentformwp-placerequired-yes'
+

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rawr_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*disableRawr",
+    "*widgetType"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:46.809Z"
+}

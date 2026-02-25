@@ -1,0 +1,22 @@
+{
+  "options": [
+    "fae_herald_version",
+    "fae_herald_data",
+    "fae_herald_lifecycle"
+  ],
+  "transients": [
+    "fae_herald_activation_notice",
+    "fae_herald_refresh_notice",
+    "fae_herald_refresh_plugin_name"
+  ],
+  "cron_jobs": [
+    "fae_herald_get_info",
+    "fae_herald_check_single"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fae_herald_screen_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:00.436Z"
+}

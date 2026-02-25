@@ -1,0 +1,19 @@
+{
+  "options": [
+    "slcf_settings",
+    "ad_inserter",
+    "slcf_recent_searches",
+    "rewrite_rules",
+    "slcf_version",
+    "slcf_file_hash"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type",
+    "brizy-post-editor-data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:04.311Z"
+}

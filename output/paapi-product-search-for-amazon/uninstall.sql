@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('psfa_access_key_id', 'psfa_secret_access_key', 'psfa_associate_tag', 'psfa_button_text', 'psfa_button_border_radius', 'psfa_button_font_size', 'psfa_button_font_weight', 'psfa_card_layout', 'psfa_title_font', 'psfa_description_font', 'psfa_price_font', 'psfa_theme_colors', 'psfa_hide_category_banner', 'psfa_filter_visibility', 'psfa_display_mode', 'psfa_auth_type', 'psfa_oauth_client_id', 'psfa_oauth_client_secret', 'psfa_oauth_credential_version', 'psfa_oauth_auth_region', 'psfa_marketplace', 'psfa_features', 'psfa_selected_theme', 'psfa_hide_search', 'psfa_hide_filters', 'psfa_oauth_access_token', 'psfa_oauth_token_expires', 'psfa_button_bg_color', 'psfa_button_text_color', 'psfa_white_label', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+

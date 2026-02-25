@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ep_enable_logging",
+    "ep_query_log_by_status",
+    "ep_query_log_by_context"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:36.238Z"
+}

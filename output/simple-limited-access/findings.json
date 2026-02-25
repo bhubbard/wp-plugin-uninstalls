@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simple_limited_access_bg",
+    "simple_limited_access_text",
+    "simple_limited_access_pages",
+    "simple_limited_access_post_type",
+    "simple_limited_access_list",
+    "simple_limited_access_cookie"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:41.290Z"
+}

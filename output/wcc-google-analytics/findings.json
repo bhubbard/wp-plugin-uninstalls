@@ -1,0 +1,15 @@
+{
+  "options": [
+    "google_analytics_client_id",
+    "google_analytics_client_secret",
+    "google_analytics_auth",
+    "google_analytics_api_key",
+    "google_analytics_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:13.557Z"
+}

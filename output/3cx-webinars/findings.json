@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp3cxw"
+  ],
+  "transients": [
+    "tcxwm_webinar_data_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_config_errors",
+    "_locale",
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:38.048Z"
+}

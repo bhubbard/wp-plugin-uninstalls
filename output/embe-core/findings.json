@@ -1,0 +1,42 @@
+{
+  "options": [
+    "alith_option",
+    "r_notice_data",
+    "*-transients",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "redux-framework-tracking",
+    "wbc_imported_demos",
+    "wbc_import_progress",
+    "sidebars_widgets",
+    "widget_*",
+    "redux_version_upgraded_from",
+    "redux_support_hash"
+  ],
+  "transients": [
+    "*-transient",
+    "redux_tracking_cache",
+    "redux-extensions-fetch",
+    "_redux_activation_redirect",
+    "redux_contributors",
+    "st_instagram_*",
+    "aliththeme_alith_tweet_feed"
+  ],
+  "cron_jobs": [
+    "redux_tracking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "facebook",
+    "twitter",
+    "pinterest",
+    "instagram",
+    "google",
+    "ignore_hints",
+    "ignore_*",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:42.434Z"
+}

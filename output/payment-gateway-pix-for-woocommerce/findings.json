@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_lkn_pix_for_woocommerce_settings",
+    "woocommerce_lkn_pix_for_woocommerce_c6_settings",
+    "woocommerce_lkn_cielo_pix_for_woocommerce_settings",
+    "woocommerce_lkn_pix_for_woocommerce_paghiper_settings",
+    "woocommerce_lkn_rede_pix_for_woocommerce_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lkn_schedule_check_cielo_pix_payment_hook",
+    "lkn_remove_custom_check_cielo_pix_payment_job_hook",
+    "lkn_schedule_check_rede_pix_payment_hook",
+    "lkn_remove_custom_check_rede_pix_payment_job_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:38.475Z"
+}

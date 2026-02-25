@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wecreate_minimum_order_value",
+    "wecreate_minimum_order_start_date",
+    "wecreate_minimum_order_end_date",
+    "wecreate_minimum_order_use_amount",
+    "wecreate_minimum_order_checkout_notification"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:19.126Z"
+}

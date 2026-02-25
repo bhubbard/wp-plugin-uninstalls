@@ -1,0 +1,14 @@
+{
+  "options": [
+    "endurance_user",
+    "sumome_site_id",
+    "sumome_hide_dashboard_overlay",
+    "sumome_initial_wpdashboard_load_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:26.190Z"
+}

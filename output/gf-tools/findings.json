@@ -1,0 +1,20 @@
+{
+  "options": [
+    "gfat_export_form_filename",
+    "gfat_export_exclude_bom",
+    "gfat_spam_filtering",
+    "gfat_last_entry_id",
+    "gfat_recent_entry_count",
+    "gfadvtools_per_page",
+    "gfat_spam_list_table_created",
+    "gfat_spam_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "form_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:10.961Z"
+}

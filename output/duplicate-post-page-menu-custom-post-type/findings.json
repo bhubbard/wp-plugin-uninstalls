@@ -1,0 +1,19 @@
+{
+  "options": [
+    "dppmc_post",
+    "dppmc_page",
+    "dppmc_menu",
+    "dppmc_installationNewDate",
+    "ppmc_support_us_now_x",
+    "ppmc_next_period_ratings",
+    "dppmc_*"
+  ],
+  "transients": [
+    "ppmc_remove_discount_notice_xmas_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:41.088Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_select",
+    "*_checkbox",
+    "lightsoff_setting_toggler",
+    "lightsoff_setting_select",
+    "lightsoff_setting_checkbox"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:02.828Z"
+}

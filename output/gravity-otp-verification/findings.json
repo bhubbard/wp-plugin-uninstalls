@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gravity_otp_verification_db_version"
+  ],
+  "transients": [
+    "gravity_otp_verification_attempts_*",
+    "gravity_otp_verification_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:52.803Z"
+}

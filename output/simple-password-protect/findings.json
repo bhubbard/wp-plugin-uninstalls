@@ -1,0 +1,28 @@
+{
+  "options": [
+    "spwdprot_password_hash",
+    "spwdprot_plugin_enabled",
+    "spwdprot_impressum_page",
+    "spwdprot_privacy_page",
+    "spwdprot_logo_url",
+    "spwdprot_logo_shape",
+    "spwdprot_page_title",
+    "spwdprot_login_text",
+    "spwdprot_background_color",
+    "spwdprot_button_color",
+    "spwdprot_button_text_color",
+    "spwdprot_link_color",
+    "spwdprot_show_admin_login",
+    "spwdprot_show_legal_links"
+  ],
+  "transients": [
+    "spwdprot_password_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "spwdprot_last_login"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:52.224Z"
+}

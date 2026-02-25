@@ -1,0 +1,11 @@
+{
+  "options": [
+    "drbfd_blocks_for_discogs_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:33.749Z"
+}

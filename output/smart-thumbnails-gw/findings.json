@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smarthgw_db_version",
+    "smarthgw_auto_delete_images",
+    "smarthgw_woo_gallery_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:28.956Z"
+}

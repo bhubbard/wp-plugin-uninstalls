@@ -1,0 +1,22 @@
+{
+  "options": [
+    "esap_popup_color_text",
+    "esap_popup_color_bg",
+    "esap_popup_color_border",
+    "esap_popup_alarm_keywords",
+    "esap_popup_unit_ids",
+    "esap_popup_list_count",
+    "esap_popup_settings_json_mapping",
+    "esap_popup_settings_api_key",
+    "esap_popup_events_time_last_api_call",
+    "esap_popup_events_cache",
+    "esap_popup_alarm_time_last_api_call",
+    "esap_popup_alarm_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:49.814Z"
+}

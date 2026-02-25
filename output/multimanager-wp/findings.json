@@ -1,0 +1,18 @@
+{
+  "options": [
+    "multi_manager_wp_activated"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "multi_manager_wp_login_cleanup_expired_tokens"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "multi_manager_wp_login_token"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:36.629Z"
+}

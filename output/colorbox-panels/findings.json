@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpsm_colorbox_p_review"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsm_colorbox_data",
+    "wpsm_colorbox_count",
+    "Colorbox_Settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:55.156Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "Google_Fonts_Localizer_Settings",
+    "google_fonts_localizer_cache",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:48.950Z"
+}

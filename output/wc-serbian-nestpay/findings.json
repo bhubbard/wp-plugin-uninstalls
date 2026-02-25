@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wcnpg_version",
+    "wcnpg_schema_version",
+    "wcpng_schema_missing_tables",
+    "woocommerce_nestpay_settings"
+  ],
+  "transients": [
+    "wcnpg_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:36.250Z"
+}

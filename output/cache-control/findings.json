@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_max_age",
+    "*_s_maxage",
+    "*_staleerror",
+    "*_stalereval",
+    "*_paged",
+    "*_mmulti",
+    "wporg_hide_meta",
+    "cache_control_singles_mmulti"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:32.840Z"
+}

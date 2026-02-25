@@ -1,0 +1,13 @@
+{
+  "options": [
+    "flexible_spacer_block_breakpoint",
+    "flexible_spacer_block_default_value",
+    "flexible_spacer_block_show_block"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:15.141Z"
+}

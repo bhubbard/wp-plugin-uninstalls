@@ -1,0 +1,21 @@
+{
+  "options": [
+    "dss_title_array",
+    "dss_type_array",
+    "dss_switch_array",
+    "dss_sql_string_array",
+    "dss_debug",
+    "dss_roles_array",
+    "dss_store_deleted",
+    "dss_width_default",
+    "dss_height_default",
+    "dss_notepad",
+    "dss_number_of_sql_statements"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:02.856Z"
+}

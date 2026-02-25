@@ -1,0 +1,23 @@
+{
+  "options": [
+    "registration_email",
+    "activation_email",
+    "reset_password_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_activated",
+    "activation_token",
+    "activation_token_time",
+    "user_active_status",
+    "rp_activation_token",
+    "rp_activation_time",
+    "rp_password_reset",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:38.120Z"
+}

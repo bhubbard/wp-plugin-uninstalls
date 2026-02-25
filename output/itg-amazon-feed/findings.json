@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "amzn_product_url",
+    "amzn_product_headline",
+    "amzn_product_summary",
+    "amzn_product_rank",
+    "amzn_product_award",
+    "amzn_product_rating",
+    "amzn_product_rating_value",
+    "amzn_product_apply_to_variants",
+    "amzn_product_best_rating_value",
+    "amzn_product_worst_rating_value",
+    "amzn_pubdate",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:26.371Z"
+}

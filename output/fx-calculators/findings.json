@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_settings",
+    "fxcalc_activation_time",
+    "fxcalc_spare_me"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:27.491Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "phpcompat_checker_php_version",
+    "phpcompat_checker_report_mode",
+    "phpcompat_checker_batch_size",
+    "phpcompat_checker_skip_vendor",
+    "phpcompat_checker_stop_scan"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:22.893Z"
+}

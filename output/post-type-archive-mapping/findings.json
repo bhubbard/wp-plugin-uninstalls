@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ptam_options",
+    "custom-typekit-fonts",
+    "wpseo_titles",
+    "post-type-archive-mapping-404",
+    "ptam_error_message",
+    "post-type-archive-mapping"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_post_type_mapped",
+    "_term_mapped",
+    "dlx_app_nag_dismissed",
+    "_term_archive_mapping"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:00.317Z"
+}

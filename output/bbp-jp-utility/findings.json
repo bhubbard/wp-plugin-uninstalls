@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bbp_jp_utility",
+    "_bbp_root_slug",
+    "_bbp_user_slug"
+  ],
+  "transients": [
+    "bbp_utility_recent_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bbp_last_login",
+    "*capabilities",
+    "primary_blog"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:32.971Z"
+}

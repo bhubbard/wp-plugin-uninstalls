@@ -1,0 +1,16 @@
+{
+  "options": [
+    "plugin_ntracker_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lt_clear_max"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "trackpage_checkbox",
+    "trackpagetag_textbox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:03.512Z"
+}

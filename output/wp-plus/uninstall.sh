@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wp_plus_jdt'
+wp option delete 'wp_plus_glgjt'
+wp option delete 'wp_plus_wryh'
+wp option delete 'wp_plus_number'
+wp option delete 'wp_plus_bingbg'
+wp option delete 'wp_plus_welcomemsg'
+wp option delete 'wp_plus_codehl'
+wp option delete 'wp_plus_gravatar'
+wp option delete 'wp_plus_chuser'
+wp option delete 'wp_plus_ping'
+wp option delete 'wp_plus_nofollow'
+wp option delete 'wp_plus_replaceurl'
+wp option delete 'wp_plus_simplifyhead'
+wp option delete 'wp_plus_ietip'
+wp option delete 'wp_plus_linkman'
+wp option delete 'wp_plus_jquery'
+wp option delete 'wp_plus_copyright'
+wp option delete 'wp_plus_copyright_num'
+wp option delete 'wp_plus_oldpost'
+wp option delete 'wp_plus_oldpost_num'
+wp option delete 'wp_plus_disable_emoji'
+wp option delete 'wp_plus_ignore_git'
+wp option delete 'wp_plus_remove_zh_cn_legacy_option_clean'
+wp option delete 'wp_plus_disable_attachment_page'
+wp option delete 'wp_plus_google'
+wp option delete 'do_activation_redirect'
+

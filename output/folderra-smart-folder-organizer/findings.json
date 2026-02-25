@@ -1,0 +1,26 @@
+{
+  "options": [
+    "fold82sm_media_organizer_db_version",
+    "fold82sm_auto_folders_created",
+    "fold82sm_show_activation_notice",
+    "fold82sm_show_welcome",
+    "fold82sm_settings"
+  ],
+  "transients": [
+    "fold82sm_db_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "folder_template",
+    "folder_display_name",
+    "folder_auto_generated",
+    "folder_is_special",
+    "allowed_post_types",
+    "folder_order",
+    "folder_created_date",
+    "folderra_dynamic_rule"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:41.650Z"
+}

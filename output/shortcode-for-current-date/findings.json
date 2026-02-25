@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sfcd_installDate",
+    "sfcd_review_notify"
+  ],
+  "transients": [
+    "_sfcd_redirect_welcome"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:17.494Z"
+}

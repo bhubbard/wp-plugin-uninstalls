@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hamelp_rate_require_login",
+    "hamelp_rate_per_ip",
+    "hamelp_rate_daily",
+    "hamelp_rate_window"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_accessibility"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:29.726Z"
+}

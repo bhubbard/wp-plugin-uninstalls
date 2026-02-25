@@ -1,0 +1,13 @@
+{
+  "options": [
+    "shared_house_data",
+    "shared_house_saison",
+    "shared_house_langue"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:33.531Z"
+}

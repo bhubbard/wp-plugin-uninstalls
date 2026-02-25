@@ -1,0 +1,17 @@
+{
+  "options": [
+    "max_width",
+    "box_arrow",
+    "box_offset",
+    "question_img",
+    "ttfcf7_icon_image",
+    "ttbg_color",
+    "tttext_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:43.820Z"
+}

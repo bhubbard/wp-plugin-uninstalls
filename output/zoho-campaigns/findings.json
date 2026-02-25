@@ -1,0 +1,28 @@
+{
+  "options": [
+    "zcwc_connect_time",
+    "zcwc_rated",
+    "zcwc_domname",
+    "zcwc_integration",
+    "zcwc_optin_setting",
+    "zcwc_store_stats",
+    "zcwc_intergration_details",
+    "zcwc_error_msg",
+    "zcwc_wc_token",
+    "zcwc_token_details",
+    "zcwc_user",
+    "zcwc_user_email",
+    "zcwc_script",
+    "zcwc_script_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zcwc_track_order_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "zcwc_newsletter_subscription"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:18.340Z"
+}

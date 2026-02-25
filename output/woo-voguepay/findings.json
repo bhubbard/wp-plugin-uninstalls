@@ -1,0 +1,22 @@
+{
+  "options": [
+    "vpwoo_extra_charge",
+    "vpwoo_extra_charge_title",
+    "vpwoo_extra_charge_type",
+    "vpwoo_extra_charge_amount",
+    "vpwoo_extra_charge_percentage",
+    "vpwoo_extra_charge_threshold",
+    "vpwoo_extra_charge_maximum",
+    "woocommerce_currency",
+    "woocommerce_woo-voguepay-plugin_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "transaction_id",
+    "message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:38.798Z"
+}

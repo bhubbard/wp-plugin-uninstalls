@@ -1,0 +1,23 @@
+{
+  "options": [
+    "bstaff_is_director",
+    "bstaff_image_display",
+    "bstaff_column_options",
+    "bstaff_button_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bstaff_position",
+    "_bstaff_department",
+    "_bstaff_section",
+    "_bstaff_bio",
+    "_bstaff_email",
+    "_bstaff_emailSubject",
+    "_bstaff_emailbuttonText",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:46.983Z"
+}

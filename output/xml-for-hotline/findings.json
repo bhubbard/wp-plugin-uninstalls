@@ -1,0 +1,27 @@
+{
+  "options": [
+    "xfhu_keeplogs",
+    "xfhu_errors",
+    "xfhu_settings_arr",
+    "xfhu_registered_feeds_arr",
+    "xfhu_version",
+    "xfhu_disable_notices",
+    "xfhu_enable_five_min",
+    "active_sitewide_plugins",
+    "xfhu_feed_content"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "xfhu_cron_period",
+    "xfhu_cron_sborki"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "xfhup_removefromxml",
+    "_xfhu_condition",
+    "_xfhu_custom",
+    "deny_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:17.081Z"
+}

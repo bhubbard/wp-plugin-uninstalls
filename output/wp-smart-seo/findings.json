@@ -1,0 +1,38 @@
+{
+  "options": [
+    "seomae_global_seo_text",
+    "seomae_old_seo_plugin",
+    "seomae_global_text_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "category_google_title",
+    "category_google_description",
+    "category_facebook_title",
+    "category_facebook_description",
+    "category_facebook_image",
+    "category_twitter_title",
+    "category_twitter_description",
+    "category_twitter_image",
+    "seomae_category_index",
+    "seomae_index",
+    "seomae_google_title",
+    "seomae_google_description",
+    "seomae_facebook_title",
+    "seomae_facebook_description",
+    "seomae_facebook_image",
+    "seomae_twitter_title",
+    "seomae_twitter_description",
+    "seomae_twitter_image",
+    "_wpseo_edit_title",
+    "_wpseo_edit_description",
+    "_wpseo_edit_og_title",
+    "_wpseo_edit_og_description",
+    "_wpseo_edit_twittercard_title",
+    "_wpseo_edit_twittercard_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:14.634Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "pixassist_activated_themes",
+    "pixelgrade_assistant_version",
+    "widget_*",
+    "sidebars_widgets",
+    "recently_activated",
+    "pixassist_wordpress_minimum_supported",
+    "nova_menu_order",
+    "classic-editor-replace",
+    "classic-editor-allow-users"
+  ],
+  "transients": [
+    "update_themes",
+    "_pixassist_activation_redirect",
+    "update_plugins",
+    "update_core",
+    "jetpack-portfolio-count-cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pixelgrade_user_login",
+    "pixassist_oauth_token",
+    "pixassist_oauth_token_secret",
+    "pixassist_oauth_verifier",
+    "pixassist_user_ID",
+    "pixelgrade_user_email",
+    "pixelgrade_display_name",
+    "pixassist_force_disconnected",
+    "_menu_item_menu_item_parent",
+    "_menu_item_url",
+    "_menu_item_object_id",
+    "tgmpa_dismissed_notice_*",
+    "nova_price",
+    "classic-editor-remember"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:32.163Z"
+}

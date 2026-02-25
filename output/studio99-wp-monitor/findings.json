@@ -1,0 +1,15 @@
+{
+  "options": [
+    "s99_wpmon_salt"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "s99_wpmon_schedule_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:50.681Z"
+}

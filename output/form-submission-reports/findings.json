@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fsrp_reports_days",
+    "fsrp_reports_schedule",
+    "fsrp_reports_admin_email"
+  ],
+  "transients": [
+    "fsrp_activation_error",
+    "fsrp_reports_settings_saved"
+  ],
+  "cron_jobs": [
+    "fsrp_submission_report"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:07.178Z"
+}

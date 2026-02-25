@@ -1,0 +1,20 @@
+{
+  "options": [
+    "webpin_shop_secret",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_postcode",
+    "woocommerce_currency",
+    "woocommerce_api_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:46.164Z"
+}

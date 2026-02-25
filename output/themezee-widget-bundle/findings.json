@@ -1,0 +1,15 @@
+{
+  "options": [
+    "widget_*",
+    "tzwb_settings"
+  ],
+  "transients": [
+    "tzwb_admin_notice_dismissed",
+    "tzwb_admin_notice_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:37.662Z"
+}

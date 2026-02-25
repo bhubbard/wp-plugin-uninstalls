@@ -1,0 +1,12 @@
+{
+  "options": [
+    "mediavidi_https_social_migration",
+    "mediavidi_https_social_migration_pro"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:37.467Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "npfw_my_option_name",
+    "languague",
+    "api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_weight",
+    "_length",
+    "_width",
+    "_height"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:41.238Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "flx_woo_version",
+    "flx_woo_settings",
+    "flx_woo_last_render_time",
+    "flx_woo_allow_bypass",
+    "flx_woo_render_stats_24h",
+    "woocommerce_currency_pos",
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_min_amount"
+  ],
+  "transients": [
+    "flx_woo_renderer_version",
+    "flx_woo_db_tables_verified"
+  ],
+  "cron_jobs": [
+    "flx_woo_performance_test"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:32.000Z"
+}

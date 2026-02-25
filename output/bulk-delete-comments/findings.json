@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_transient_wc_count_comments",
+    "dac_disable_option",
+    "dac_hide_option"
+  ],
+  "transients": [
+    "dac_plugin_activated_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:57.299Z"
+}

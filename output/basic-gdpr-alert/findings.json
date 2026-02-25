@@ -1,0 +1,17 @@
+{
+  "options": [
+    "basic_gdpr_alert_content",
+    "basic_gdpr_alert_button_text",
+    "basic_gdpr_alert_bgColor",
+    "basic_gdpr_alert_textColor",
+    "basic_gdpr_alert_zindex",
+    "basic_gdpr_alert_fontSize",
+    "basic_gdpr_alert_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:50.125Z"
+}

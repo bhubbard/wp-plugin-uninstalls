@@ -1,0 +1,13 @@
+{
+  "options": [
+    "WPAWESOME_ENABLE_CONTEXT_MENUS",
+    "WPAWESOME_ENABLE_FAST_LOGIN",
+    "WPAWESOME_ENABLE_HUGE_UPLOAD"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:27.017Z"
+}

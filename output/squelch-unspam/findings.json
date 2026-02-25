@@ -1,0 +1,23 @@
+{
+  "options": [
+    "lstunspam_last_change",
+    "lstunspam_showmessage",
+    "lstunspam_version",
+    "lstunspam_showfieldupdatemessage",
+    "lstunspam_fieldsMap",
+    "lstunspam_field1name",
+    "lstunspam_field2name",
+    "lstunspam_field3name",
+    "lstunspam_field4name",
+    "lstunspam_field4val",
+    "lstunspam_default_fields",
+    "lstunspam_last_change_version",
+    "lstunspam_ignorewoocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:59.764Z"
+}

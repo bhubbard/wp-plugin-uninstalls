@@ -1,0 +1,20 @@
+{
+  "options": [
+    "installed_*",
+    "*_JS",
+    "*_CSS",
+    "CP_BCCF_LOAD_SCRIPTS",
+    "autoptimize_js_exclude",
+    "BCCF_RCODE",
+    "CP_BCCF_JS",
+    "CP_BCCF_CSS"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:11.192Z"
+}

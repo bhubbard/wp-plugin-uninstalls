@@ -1,0 +1,13 @@
+{
+  "options": [
+    "thp_ysxfw_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thp_ysxfw_order_detail_yousaved_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:09.751Z"
+}

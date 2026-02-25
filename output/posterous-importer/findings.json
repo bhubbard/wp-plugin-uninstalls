@@ -1,0 +1,19 @@
+{
+  "options": [
+    "posterous_import",
+    "posterous_hostname",
+    "posterous_username",
+    "posterous_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_post_id",
+    "*_permalink",
+    "*_media",
+    "*_attachment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:37.551Z"
+}

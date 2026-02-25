@@ -1,0 +1,18 @@
+{
+  "options": [
+    "serviceez_settings",
+    "serviceez_onboarding"
+  ],
+  "transients": [
+    "serviceez_redirect"
+  ],
+  "cron_jobs": [
+    "serviceez_check_license"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:58:04.022Z"
+}

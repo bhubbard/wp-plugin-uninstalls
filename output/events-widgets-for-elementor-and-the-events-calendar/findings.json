@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ectbe-install-date",
+    "ectbe_initial_save_version",
+    "ectbe-installDate",
+    "ectbe-ratingDiv",
+    "cpfm_opt_in_choice_cool_events",
+    "ectbe-v",
+    "ectbe-type",
+    "ectbe-migration-status"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "ectbe_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ectbe_exists",
+    "ectbe_style_migration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:20.797Z"
+}

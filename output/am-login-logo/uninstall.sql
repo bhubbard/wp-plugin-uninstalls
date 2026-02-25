@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp_sett_loginpagebackgroundcolor', 'wp_sett_loginpageformbackgroundcolor', 'wp_sett_loginpageformfieldbackgroundcolor', 'wp_sett_loginpageformfontcolor', 'wp_sett_howdytext', 'wp_sett_footertext', 'wp_sett_hideadminlogo', 'wp_sett_hideadminbar', 'wp_sett_navigationbackgroundcolor', 'wp_sett_navigationfontcolor', 'wp_sett_navigationfonthovercolor', 'wp_sett_navigationhoverbackgroundcolor', 'wp_sett_subnavigationbackgroundcolor', 'wp_sett_subnavigationfontcolor', 'wp_sett_iconscolor', 'wp_sett_loginlogo', 'wp_sett_faviconimage', 'wp_sett_uploadfilesize', 'wp_sett_loginpagebackgroundimage');
+

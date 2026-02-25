@@ -1,0 +1,30 @@
+{
+  "options": [
+    "ehrm_settings_data",
+    "ehrm_shifts_data",
+    "ehrm_designations_data",
+    "ehrm_staffs_data",
+    "ehrm_events_data",
+    "ehrm_holidays_data",
+    "ehrm_notices_data",
+    "ehrm_projects_data",
+    "ehrm_email_options_data",
+    "ehrm_staff_attendence_data",
+    "ehrm_requests_data",
+    "ehrm_email_employee_welcome",
+    "ehrm_email_new_leave_request",
+    "ehrm_email_approved_leave_request",
+    "ehrm_email_rejected_leave_request",
+    "ehrm_email_new_project_assigned",
+    "ehrm_email_new_task_assigned",
+    "ehrm_email_new_contact_assigned",
+    "ehrm_email_*",
+    "wl_ehrm_setup_wizard"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:28.694Z"
+}

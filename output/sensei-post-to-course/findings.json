@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sptc_settings",
+    "woothemes-sensei-version",
+    "sensei-version"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:16.754Z"
+}

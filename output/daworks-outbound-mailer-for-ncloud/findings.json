@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ncloud_mailer_settings"
+  ],
+  "transients": [
+    "ncloud_mailer_logs"
+  ],
+  "cron_jobs": [
+    "ncloud_mailer_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:20.704Z"
+}

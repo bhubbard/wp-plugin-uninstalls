@@ -1,0 +1,53 @@
+{
+  "options": [
+    "newsletter_diagnostic_cron_calls",
+    "newsletter_diagnostic_cron_data",
+    "newsletter_dismissed",
+    "newsletter_logger_secret",
+    "newsletter_followup",
+    "newsletter_diagnostic_send_calls",
+    "newsletter_forms",
+    "newsletter_profile",
+    "newsletter_extension_versions",
+    "newsletter_main",
+    "newsletter_emails",
+    "newsletter_emails_*",
+    "dmc_option",
+    "*_log_level",
+    "newsletter_log_level",
+    "*_version",
+    "*_first_install_time",
+    "*_available_version",
+    "*_backup",
+    "*_last_run",
+    "newsletter_email",
+    "newsletter_diagnostic",
+    "*_cron_calls",
+    "_transient_newsletter_main_engine",
+    "_transient_timeout_newsletter_main_engine",
+    "newsletter_feed_demo_disable",
+    "digital-media-combined",
+    "newsletter_subscription_template",
+    "newsletter_feed"
+  ],
+  "transients": [
+    "newsletter_main_engine",
+    "template_extensions_json",
+    "newsletter_transient_test",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "digital-media-combined",
+    "newsletter_update",
+    "newsletter_check_versions",
+    "newsletter_statistics_version_check",
+    "newsletter_reports_version_check",
+    "newsletter_feed_version_check",
+    "newsletter_popup_version_check",
+    "newsletter_feed"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:55.811Z"
+}

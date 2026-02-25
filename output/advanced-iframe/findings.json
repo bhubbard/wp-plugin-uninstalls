@@ -1,0 +1,39 @@
+{
+  "options": [
+    "default_a_options",
+    "advancediFrameParameterData",
+    "advancediFrameAdminOptions",
+    "aip_*",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "aip_cache_check_*",
+    "aip_discount",
+    "aip_discount_message",
+    "aip_version",
+    "aip_*",
+    "ai_no_rights_post_errors",
+    "ai_save_post_errors",
+    "ai_save_post_execution",
+    "ai_save_post_unfiltered_html",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "ai_check_iframes_event",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "closedpostboxes_toplevel_page_advanced-iframe"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:58.395Z"
+}

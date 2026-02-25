@@ -1,0 +1,39 @@
+{
+  "options": [
+    "fta_settings",
+    "fta_supported",
+    "fta_row_layout_notice",
+    "efbl_skin_id",
+    "efbl_account_id",
+    "efbl_skin_*",
+    "efbl_installDate",
+    "efbl_version",
+    "efbl_version_type",
+    "mif_skin_id",
+    "mif_account_id",
+    "mif_skin_*",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "espf_plugin_info",
+    "esf_insta_logo_*",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:54.128Z"
+}

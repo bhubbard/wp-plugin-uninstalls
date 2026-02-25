@@ -1,0 +1,17 @@
+{
+  "options": [
+    "eebmeShortURLeebapikey",
+    "eebme_plugin_do_activation_redirect",
+    "eebmeShortURLDomain",
+    "eebmeShortURLnew*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eebmeShortURL_id",
+    "eebmeShortURLnew"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:33.876Z"
+}

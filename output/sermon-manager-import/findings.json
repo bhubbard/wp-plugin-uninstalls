@@ -1,0 +1,19 @@
+{
+  "options": [
+    "smi_options",
+    "wpfc_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sermon_date",
+    "bible_passage",
+    "sermon_audio",
+    "_wpfc_sermon_duration",
+    "_wpfc_sermon_size",
+    "sermon_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:24.220Z"
+}

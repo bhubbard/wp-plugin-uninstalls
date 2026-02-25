@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ae_visitor_day",
+    "ae_visitor_yesterday",
+    "ae_visitor_week",
+    "ae_visitor_month",
+    "ae_visitor_all",
+    "ae_visitor_data",
+    "ae_visitor_day_update",
+    "ae_visitor_week_update",
+    "ae_visitor_month_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:59.614Z"
+}

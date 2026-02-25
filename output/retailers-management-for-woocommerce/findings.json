@@ -1,0 +1,15 @@
+{
+  "options": [
+    "retailers_management_settings",
+    "woocommerce_currency_pos",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:39.556Z"
+}

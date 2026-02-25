@@ -1,0 +1,19 @@
+{
+  "options": [
+    "g_aths_width",
+    "g_aths_height",
+    "g_aths_css",
+    "g_aths_delay",
+    "g_aths_speed",
+    "g_aths_highlightcolor",
+    "g_aths_textcolor",
+    "g_aths_title",
+    "g_aths_title_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:51.177Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "gsenvato_active_time",
+    "gsenvato_review_dismiss",
+    "gsenvato_maybe_later",
+    "gsadmin_maybe_later",
+    "gsenv_activation_redirect",
+    "gsadmin_active_time"
+  ],
+  "transients": [
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gsenv_ignore_notice279"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:22.921Z"
+}

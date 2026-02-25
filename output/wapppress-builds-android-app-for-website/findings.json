@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wapppress_last_build",
+    "wapppress_settings",
+    "wapppress_license",
+    "WAPPPRESS_SETTINGS",
+    "INSTANTAPPY_active_sites",
+    "INSTANTAPPY_version",
+    "INSTANTAPPY_settings",
+    "instantappy_pwa_manifest_version"
+  ],
+  "transients": [
+    "wapppress_trial_notice",
+    "INSTANTAPPY_notice_activation",
+    "INSTANTAPPY_network_admin_notice_activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:03.306Z"
+}

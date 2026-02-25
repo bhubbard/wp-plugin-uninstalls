@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pf_enable_protection",
+    "pf_disallowed_roles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:37.804Z"
+}

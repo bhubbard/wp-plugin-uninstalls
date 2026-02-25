@@ -1,0 +1,21 @@
+{
+  "options": [
+    "yarns_storage_period",
+    "yarns_show_debug",
+    "debug_log",
+    "yarns_channels",
+    "yarns_poll_log",
+    "iw_single_author",
+    "iw_default_author"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yarns_microsub_server_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yarns_microsub_json"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:14.156Z"
+}

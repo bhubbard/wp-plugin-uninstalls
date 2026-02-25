@@ -1,0 +1,21 @@
+{
+  "options": [
+    "advausro_oauth2_settings",
+    "advausro_custom_capabilities",
+    "advausro_timezone_pending",
+    "advausro_timezone_string",
+    "advausro_gmt_offset"
+  ],
+  "transients": [
+    "advausro_oauth2_state_*"
+  ],
+  "cron_jobs": [
+    "advausro_check_expired_roles"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_advausro_original_roles"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:18.918Z"
+}

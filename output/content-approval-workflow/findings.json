@@ -1,0 +1,32 @@
+{
+  "options": [
+    "caw_general_settings",
+    "caw_plugin_version",
+    "caw_email_settings",
+    "caw_history_settings",
+    "caw_post_types",
+    "caw_notification_settings",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "caw_frequently_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "review_request_users",
+    "pending_review_status_users",
+    "approval_review_status_users",
+    "review_status",
+    "assignee_user",
+    "review_date",
+    "remaining_reviews",
+    "review_process_status",
+    "assignee_id",
+    "post_id",
+    "assigned_user_id",
+    "status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:10.094Z"
+}

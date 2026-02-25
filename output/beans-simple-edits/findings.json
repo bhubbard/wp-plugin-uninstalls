@@ -1,0 +1,20 @@
+{
+  "options": [
+    "beans_post_meta_above_content",
+    "beans_remove_post_meta_above_content_checkbox",
+    "beans_post_meta_below_content",
+    "beans_remove_post_meta_below_content_checkbox",
+    "beans_split_footer_left",
+    "beans_remove_split_footer_left_checkbox",
+    "beans_split_footer_right",
+    "beans_remove_split_footer_right_checkbox",
+    "beans_center_footer",
+    "beans_show_center_footer_checkbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:22.678Z"
+}

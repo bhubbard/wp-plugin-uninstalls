@@ -1,0 +1,18 @@
+{
+  "options": [
+    "qrlogin_del_http",
+    "qrlogin_timeout",
+    "qrlogin_poll_lifetime",
+    "qrlogin_post_timeout",
+    "qrlogin_login_timeout",
+    "qrlogin_qrcode_size",
+    "qrlogin_qrcode_fore_color",
+    "qrlogin_qrcode_back_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:28.362Z"
+}

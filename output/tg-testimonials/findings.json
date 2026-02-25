@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tg_testimonials_company_logo",
+    "tg_client-name",
+    "tg_designation",
+    "tg_website-url",
+    "tg_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:26.954Z"
+}

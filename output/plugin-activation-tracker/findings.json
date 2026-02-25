@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pat_activated_plugins_gwl",
+    "pat_display_relative_date_gwl",
+    "pat_display_after_days_remove_record_gwl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:05.372Z"
+}

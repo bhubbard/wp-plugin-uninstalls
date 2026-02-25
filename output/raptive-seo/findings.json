@@ -1,0 +1,35 @@
+{
+  "options": [
+    "raptive_seo_sync_state",
+    "raptive_seo_auth_token",
+    "raptive_seo_auth_expires",
+    "wpseo-premium-redirects-base",
+    "raptive_seo_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "raptive_seo_retry_send_post",
+    "raptive_seo_run_batch",
+    "raptive_seo_daily_redirects",
+    "raptive_seo_daily_log_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_old_date",
+    "_wp_attachment_image_alt",
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_robots",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_linkdex",
+    "_yoast_wpseo_content_score",
+    "_yoast_wpseo_meta-robots-noindex",
+    "_yoast_wpseo_meta-robots-nofollow",
+    "_yoast_wpseo_meta-robots-adv",
+    "_yoast_wpseo_canonical"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:27.206Z"
+}

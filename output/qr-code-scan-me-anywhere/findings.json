@@ -1,0 +1,23 @@
+{
+  "options": [
+    "qr_gplus",
+    "qr_twitter",
+    "qr_facebook",
+    "qr_weibo",
+    "qr_youtube",
+    "qr_myspace",
+    "qr_wordpress",
+    "qr_pinterest",
+    "qr_flickr",
+    "qr_linkedin",
+    "qr_delicious",
+    "qr_stumbleupon",
+    "show_credit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:55.733Z"
+}

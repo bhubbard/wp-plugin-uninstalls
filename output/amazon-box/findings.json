@@ -1,0 +1,21 @@
+{
+  "options": [
+    "msg",
+    "ab_box_1",
+    "ab_box_2",
+    "ab_box_3",
+    "ab_box_4",
+    "ab_box_5",
+    "ab_box_6",
+    "AS",
+    "page",
+    "Pos",
+    "Page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:57.496Z"
+}

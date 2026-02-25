@@ -1,0 +1,30 @@
+{
+  "options": [
+    "papafpro_db_version",
+    "papafpro_settings",
+    "papafpro_capabilities_added",
+    "papafpro_activated",
+    "papafpro_onboarding_cleanup_done",
+    "papafpro_appearance_configured",
+    "papafpro_category_children"
+  ],
+  "transients": [
+    "papafpro_csv_file_*",
+    "papafpro_clear_stats_limit",
+    "papafpro_click_interval_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "papafpro_image_url",
+    "papafpro_affiliate_link",
+    "papafpro_marketplace",
+    "papafpro_welcome_banner_dismissed",
+    "papafpro_affiliate_price",
+    "papafpro_created_by_csv",
+    "papafpro_custom_badge",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:12.156Z"
+}

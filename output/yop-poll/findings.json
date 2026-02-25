@@ -1,0 +1,19 @@
+{
+  "options": [
+    "yop_poll_old_version",
+    "yop_poll_version",
+    "yop_poll_settings",
+    "yop_poll_options",
+    "yop_poll_pro",
+    "external_updates-yop-poll",
+    "yop_poll_ajax_importer"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yop_poll_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:49.419Z"
+}

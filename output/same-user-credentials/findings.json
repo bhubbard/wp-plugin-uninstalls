@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sucw_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sucw_update"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:17.448Z"
+}

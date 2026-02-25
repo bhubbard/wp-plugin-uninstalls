@@ -1,0 +1,27 @@
+{
+  "options": [
+    "carbonfooter_greenhost",
+    "carbonfooter_last_processed",
+    "active_sitewide_plugins",
+    "carbonfooter_widget_background_color",
+    "carbonfooter_widget_text_color",
+    "carbonfooter_display_setting",
+    "carbonfooter_widget_style",
+    "carbonfooter_average_emissions"
+  ],
+  "transients": [
+    "carbonfooter_activation_redirect",
+    "carbonfooter_processing_*"
+  ],
+  "cron_jobs": [
+    "carbonfooter_process_emissions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_carbon_emissions_updated",
+    "_carbon_emissions",
+    "_carbon_resources"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:50.281Z"
+}

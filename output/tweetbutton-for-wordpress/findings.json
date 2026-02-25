@@ -1,0 +1,25 @@
+{
+  "options": [
+    "tb_via",
+    "tb_hashtag",
+    "tb_lang",
+    "tb_related",
+    "tb_related_accounts",
+    "tb_style",
+    "tb_where",
+    "tb_display_page",
+    "tb_display_front",
+    "tb_display_rss",
+    "tb_rss_where",
+    "tb_ping"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tb_related",
+    "TweetButton"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:43.336Z"
+}

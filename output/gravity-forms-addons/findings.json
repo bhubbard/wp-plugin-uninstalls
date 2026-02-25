@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gf_addons_settings",
+    "recently_activated",
+    "*_grid",
+    "gf_directory_oid"
+  ],
+  "transients": [
+    "kws_gf_activation_notice",
+    "*_showadminonly"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:58.066Z"
+}

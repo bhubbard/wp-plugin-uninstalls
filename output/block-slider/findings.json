@@ -1,0 +1,25 @@
+{
+  "options": [
+    "_blockslider_is_flashed_cpt",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "blockslider_fallback_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:44.055Z"
+}

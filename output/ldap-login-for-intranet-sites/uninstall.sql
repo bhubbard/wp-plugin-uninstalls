@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mo_ldap_local_enable_login', 'mo_ldap_local_enable_ldap_add', 'mo_ldap_local_current_plugin_version', 'mo_ldap_local_username_attribute', 'custom_ldap_username_attribute', 'mo_ldap_directory_server_value', 'mo_ldap_local_search_filter', 'mo_ldap_local_customer_token', 'mo_ldap_local_email_attribute', 'mo_ldap_local_register_user', 'mo_ldap_local_admin_email', 'mo_ldap_local_host_name', 'mo_ldap_local_admin_phone', 'mo_ldap_local_admin_customer_key', 'mo_ldap_local_admin_api_key', 'mo_ldap_local_message', 'en_save_config', 'mo_ldap_local_service_account_status', 'mo_ldap_local_user_mapping_status', 'mo_ldap_local_multisite_message', 'mo_ldap_local_verify_customer', 'mo_ldap_local_new_registration', 'mo_ldap_local_search_base', 'mo_ldap_local_server_dn', 'mo_ldap_local_server_password', 'Filter_search', 'mo_ldap_local_use_tls', 'mo_ldap_local_server_url_status', 'mo_ldap_local_server_url', 'mo_ldap_local_username_status', 'mo_ldap_local_password_status', 'mo_ldap_local_wp_to_ldap_search_base', 'mo_ldap_local_email_domain', 'mo_ldap_local_mapping_value_default', 'mo_ldap_local_admin_fname', 'mo_ldap_local_admin_lname', 'mo_ldap_local_admin_company', 'mo_ldap_local_enable_admin_wp_login', 'mo_ldap_local_enable_role_mapping', 'mo_ldap_local_keep_existing_user_roles', 'user_logs_table_exists', 'mo_ldap_local_directory_server', 'mo_ldap_local_ldap_protocol', 'mo_ldap_local_ldap_port_number', 'mo_ldap_local_ldap_server_address', 'mo_ldap_local_save_config_status', 'mo_ldap_export', 'mo_ldap_local_admin_token', 'mo_ldap_local_registration_status', 'mo_ldap_local_user_table_updated');
+DELETE FROM wp_options WHERE option_name IN ('mo_ldap_local_user_report_log', 'mo_ldap_directory_server_custom_value', 'mo_ldap_local_ldaps_port_number', 'import_flag', 'mo_ldap_local_email_count', 'mo_ldap_local_sms_count', 'mo_ldap_local_anonymous_bind', 'mo_ldap_local_enable_log_requests', 'mo_ldap_local_role_mapping_count', 'mo_ldap_local_company', 'mo_ldap_local_mapping_memberof_attribute', 'mo_ldap_local_skip_redirectto_parameter', 'mo_ldap_local_empty_pointers', 'mo_ldap_local_search_bases_list', 'mo_ldap_local_is_config_success');
+DELETE FROM wp_options WHERE option_name LIKE 'mo_ldap_local_mapping_key_%';
+DELETE FROM wp_options WHERE option_name LIKE 'mo_ldap_local_mapping_value_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('mo_ldap_user_dn');
+DELETE FROM wp_usermeta WHERE meta_key IN ('mo_ldap_user_dn');
+DELETE FROM wp_termmeta WHERE meta_key IN ('mo_ldap_user_dn');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('mo_ldap_user_dn');
+

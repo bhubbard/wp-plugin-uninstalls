@@ -1,0 +1,13 @@
+{
+  "options": [
+    "weather_widget_wp_options"
+  ],
+  "transients": [
+    "weather_widget_wp_data_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:47.048Z"
+}

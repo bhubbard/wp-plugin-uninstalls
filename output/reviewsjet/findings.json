@@ -1,0 +1,18 @@
+{
+  "options": [
+    "reviewsjet_auth",
+    "reviewsjet_settings"
+  ],
+  "transients": [
+    "reviewsjet_cache"
+  ],
+  "cron_jobs": [
+    "reviewsjet_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "reviewsjet_user_preferences"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:57.001Z"
+}

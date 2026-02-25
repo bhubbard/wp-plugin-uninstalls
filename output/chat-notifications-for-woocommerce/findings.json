@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wafwc_send_to",
+    "wafwc_template_name",
+    "wafwc_template_language",
+    "wafwc_data_option",
+    "wafwc-wa-phone-id",
+    "wafwc-wa-token",
+    "wafwc-wa-id",
+    "wafwc-enable-prefix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:39.034Z"
+}

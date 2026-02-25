@@ -1,0 +1,26 @@
+{
+  "options": [
+    "filikod_auto_resize_enabled",
+    "filikod_max_image_width",
+    "filikod_auto_alt",
+    "filikod_remove_title",
+    "filikod_clean_alt_special_chars",
+    "filikod_flush_rewrite_rules",
+    "filikod_enabled_file_types",
+    "filikod_total_saved_bytes"
+  ],
+  "transients": [
+    "filikod_alt_audit"
+  ],
+  "cron_jobs": [
+    "filikod_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_attachment_metadata",
+    "filikod_"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:50.261Z"
+}

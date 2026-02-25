@@ -1,0 +1,26 @@
+{
+  "options": [
+    "jcorgytce_mode",
+    "jcorgytce_thumbnail_width",
+    "jcorgytce_video_width",
+    "jcorgytce_show_title",
+    "jcorgytce_max_results",
+    "jcorgytce_start_index",
+    "jcorgytce_order_by",
+    "jcorgytce_filter_by_keyword",
+    "jcorgytce_channel_name",
+    "jcorgytce_thumb_quality",
+    "jcorgytce_use",
+    "jcorgytce_linkback",
+    "jcorgytce_ytkey",
+    "jcorgytce_playlist",
+    "jcorgytce_filter_by_videos",
+    "jcorgytce_linkback_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:41.460Z"
+}

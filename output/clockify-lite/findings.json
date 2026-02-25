@@ -1,0 +1,19 @@
+{
+  "options": [
+    "btcl_settings",
+    "btcl_string_translation",
+    "btcl_email_templates",
+    "btcl_sms_templates",
+    "btcl_email_settings",
+    "wprsmp_settings_data",
+    "clockify_dashboard"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:38.087Z"
+}

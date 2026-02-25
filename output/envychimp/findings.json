@@ -1,0 +1,18 @@
+{
+  "options": [
+    "new_settings3",
+    "new_settings2",
+    "new_settings1",
+    "new_settings",
+    "background_picture",
+    "new_settings_two",
+    "background_picture_two",
+    "new_settings4"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:00.225Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pra_author_review",
+    "pra_author_review_ver",
+    "pro_author_review"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_par_post_review_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:58.878Z"
+}

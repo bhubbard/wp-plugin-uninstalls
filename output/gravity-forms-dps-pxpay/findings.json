@@ -1,0 +1,25 @@
+{
+  "options": [
+    "gfdpspxpay_plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gfdpspxpay_form",
+    "_gfdpspxpay_merchant_ref",
+    "_gfdpspxpay_txndata1",
+    "_gfdpspxpay_txndata2",
+    "_gfdpspxpay_txndata3",
+    "_gfdpspxpay_email",
+    "_gfdpspxpay_url_fail",
+    "_gfdpspxpay_delay_post",
+    "_gfdpspxpay_delay_userrego",
+    "_gfdpspxpay_delay_exec_always",
+    "_gfdpspxpay_delay_ignore_nofeed",
+    "_gfdpspxpay_delay_notify",
+    "_gfdpspxpay_delay_autorespond"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:33.638Z"
+}

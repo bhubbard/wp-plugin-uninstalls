@@ -1,0 +1,12 @@
+{
+  "options": [
+    "woocommerce_ew_wise_settings",
+    "woocommerce_ew_wise_accounts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:48.203Z"
+}

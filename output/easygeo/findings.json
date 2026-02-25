@@ -1,0 +1,15 @@
+{
+  "options": [
+    "easygeo_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "easygeo_location",
+    "easygeo_latitude",
+    "easygeo_longitude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:56.764Z"
+}

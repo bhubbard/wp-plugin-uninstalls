@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('gtmkit_version', 'gtmkit_activation_prevent_redirect', 'gtmkit_initial_version', 'auto_update_plugins', 'gtm_ecommerce_woo_gtm_snippet_head', 'edd_settings', 'woocommerce_tax_display_shop', 'gtmkit', 'gtmkit_activation_redirect', 'gtmkit_templates');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('gtmkit_page_type');
+DELETE FROM wp_usermeta WHERE meta_key IN ('gtmkit_page_type');
+DELETE FROM wp_termmeta WHERE meta_key IN ('gtmkit_page_type');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('gtmkit_page_type');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'rank_math_primary_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'rank_math_primary_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'rank_math_primary_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'rank_math_primary_%';
+

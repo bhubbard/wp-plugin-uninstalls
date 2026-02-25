@@ -1,0 +1,63 @@
+{
+  "options": [
+    "socipu_linkedin_access_token",
+    "socipu_available_profiles",
+    "socipu_linkedin_target_profile",
+    "socipu_license_status",
+    "socipu_license_data",
+    "social_publisher_license_key",
+    "social_publisher_openai_key",
+    "openai_key_status",
+    "socipu_debug_validation_ran",
+    "socipu_license_expiry",
+    "socipu_license_product_id",
+    "socipu_license_product_name",
+    "socipu_license_order_id",
+    "socipu_license_email",
+    "socipu_license_billing_type",
+    "socipu_license_plan",
+    "socipu_license_api_version",
+    "socipu_linkedin_token",
+    "socipu_global_fallback_token",
+    "social_publisher_available_profiles",
+    "socipu_openai_key"
+  ],
+  "transients": [
+    "socipu_license_validate_throttle",
+    "socipu_license_validation_running",
+    "socipu_token_check_running",
+    "socipu_license_recently_released",
+    "socipu_license_data",
+    "socipu_linkedin_token_data",
+    "socipu_linkedin_post_success_*"
+  ],
+  "cron_jobs": [
+    "socipu_post_to_linkedin_event",
+    "post_to_linkedin_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_linkedin_access_token",
+    "_linkedin_expires",
+    "_linkedin_refresh_token",
+    "socipu_linkedin_token",
+    "_linkedin_enable_backlink",
+    "linkedin_share_id",
+    "_linkedin_posted",
+    "socipu_linkedin_published",
+    "socipu_linkedin_post_id",
+    "_linkedin_force_republish",
+    "_linkedin_share",
+    "_linkedin_published",
+    "_linkedin_profile_urn",
+    "_linkedin_last_published_at",
+    "_linkedin_share_id",
+    "socipu_linkedin_published_at",
+    "_socipu_linkedin_image",
+    "linkedin_repost_date",
+    "_socipu_suppress_immediate_post",
+    "_socipu_linkedin_share_success"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:24.869Z"
+}

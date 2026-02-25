@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [
+    "grocerslist_migration_last_started_at",
+    "grocerslist_migration_last_completed_at",
+    "*_process_lock",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "grocers_list_scheduled_task",
+    "migration_visitor_run_async"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "grocers_list_post_gated",
+    "grocers_list_recipe_card_gated",
+    "grocers_list_page_gated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:59.982Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_manceppo_campaign",
+    "_manceppo_download",
+    "_manceppo_newsletters",
+    "_manceppo_*",
+    "_manceppo_thanks_body",
+    "_manceppo_submit_button_color",
+    "_manceppo_submit_button_title",
+    "_manceppo_submit_button_text_color",
+    "_manceppo_message_field_height",
+    "_manceppo_message_field_width",
+    "_manceppo_message_field_label",
+    "_manceppo_space_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:06.477Z"
+}

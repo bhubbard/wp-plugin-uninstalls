@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pvs_settings_data",
+    "pvs_listening_settings",
+    "pvs_customize_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:56.764Z"
+}

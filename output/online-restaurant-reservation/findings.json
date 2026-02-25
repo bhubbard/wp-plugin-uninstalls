@@ -1,0 +1,40 @@
+{
+  "options": [
+    "online_restaurant_reservation_admin_notices",
+    "online_restaurant_reservation_admin_notice_*",
+    "online_restaurant_reservation_db_version",
+    "online_restaurant_reservation_queue_flush_rewrite_rules",
+    "online_restaurant_reservation_admin_footer_text_rated",
+    "online_restaurant_reservation_enable_table_reservation_comments",
+    "online_restaurant_reservation_min_party_size",
+    "online_restaurant_reservation_schedule",
+    "online_restaurant_reservation_email_from_name",
+    "online_restaurant_reservation_email_from_address",
+    "online_restaurant_reservation_version",
+    "online_restaurant_reservation_max_party_size",
+    "online_restaurant_reservation_enable_comments",
+    "online_restaurant_reservation_time_range_steps",
+    "online_table_reservation_schedule",
+    "online_restaurant_reservation_email_footer_text",
+    "online_restaurant_reservation_email_header_image",
+    "online_restaurant_reservation_email_background_color",
+    "online_restaurant_reservation_email_body_background_color",
+    "online_restaurant_reservation_email_base_color",
+    "online_restaurant_reservation_email_text_color"
+  ],
+  "transients": [
+    "orr_installing",
+    "_orr_activation_redirect",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "online_restaurant_reservation_cleanup_sessions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "angry"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:41.528Z"
+}

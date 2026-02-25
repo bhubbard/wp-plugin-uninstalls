@@ -1,0 +1,22 @@
+{
+  "options": [
+    "autopost_ai_do_activation_redirect",
+    "autopost_ai_show_deactivation_warning",
+    "autopost_ai_remove_data_on_uninstall",
+    "autopost_ai_api_key",
+    "autopost_ai_post_settings",
+    "autopost_ai_prompt",
+    "autopost_ai_last_post_created_at"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "autopost_ai_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_autopost_ai_queue_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:34.243Z"
+}

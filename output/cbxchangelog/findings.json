@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cbxchangelog_version",
+    "cbxchangelog_flush_rewrite_rules"
+  ],
+  "transients": [
+    "cbxchangelog_upgraded_notice",
+    "cbxchangelog_activated_notice",
+    "cbxchangelog_proaddon_deactivated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cbxchangelog",
+    "_cbxchangelog_extra"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:22.439Z"
+}

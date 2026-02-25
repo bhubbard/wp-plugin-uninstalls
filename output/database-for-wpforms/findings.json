@@ -1,0 +1,14 @@
+{
+  "options": [
+    "WPFormsDB_view_install_date",
+    "wpformsdb_view_ignore_notice"
+  ],
+  "transients": [
+    "wpformsdb_add_ons_feed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:34.284Z"
+}

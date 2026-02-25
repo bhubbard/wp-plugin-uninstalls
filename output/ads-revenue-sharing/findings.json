@@ -1,0 +1,27 @@
+{
+  "options": [
+    "adsrevshare_member_ad_percentage",
+    "adsrevshare_admin_publisher_id",
+    "adsrevshare_admin_custom_channel_id",
+    "adsrevshare_admin_ad_slot",
+    "adsrevshare_manual_ads_txt",
+    "adsrevshare_website_url",
+    "adsrevshare_ad_footer_enabled",
+    "adsrevshare_ad_footer_type",
+    "adsrevshare_ad_footer_custom_code",
+    "adsrevshare_admin_website_url",
+    "adsrevshare_ad_top_enabled",
+    "adsrevshare_ad_bottom_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "adsrevshare_publisher_id",
+    "adsrevshare_custom_channel_id",
+    "adsrevshare_ad_slot",
+    "adsrevshare_website_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:44.504Z"
+}

@@ -1,0 +1,48 @@
+{
+  "options": [
+    "boldgrid_backup_settings",
+    "boldgrid_backup_latest_backup",
+    "boldgrid_backup_pending_rollback",
+    "boldgrid_backup_id",
+    "boldgrid_backup_last_backup",
+    "boldgrid_settings",
+    "boldgrid_reseller",
+    "boldgrid_api_key",
+    "auto_update_*",
+    "boldgrid_backup_tokens",
+    "boldgrid_site_hash",
+    "bg_connect_configs",
+    "bglib_configs",
+    "boldgrid_connect_hide_menu",
+    "boldgrid_plugin_page_notices",
+    "_transient_timeout_boldgrid_plugin_information",
+    "bglib_activity",
+    "bglib_rating_prompt"
+  ],
+  "transients": [
+    "dirsize_cache",
+    "boldgrid_backup_wp_size",
+    "boldgrid_backup_db_size",
+    "boldgrid_available",
+    "bg_license_data",
+    "boldgrid_api_data",
+    "boldgrid_plugins_filtered",
+    "update_plugins",
+    "boldgrid_plugin_information",
+    "update_themes",
+    "boldgrid_theme_information",
+    "random_seed",
+    "boldgrid_theme_data",
+    "boldgrid_plugins",
+    "boldgrid_wporg_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "meta-box-order_dashboard",
+    "bglibDashboardOrder",
+    "boldgrid_dismissed_admin_notices"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:37.223Z"
+}

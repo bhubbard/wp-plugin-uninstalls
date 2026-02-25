@@ -1,0 +1,13 @@
+{
+  "options": [
+    "trust_custom_path"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "trusttxt_errors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:33.435Z"
+}

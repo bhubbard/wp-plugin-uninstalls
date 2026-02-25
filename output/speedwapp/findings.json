@@ -1,0 +1,30 @@
+{
+  "options": [
+    "speedwapp_initial_version",
+    "_speedwapp_ID_preview",
+    "_speedwapp_html_preview_data",
+    "speedwapp_api_token",
+    "_speedwapp_css_libs",
+    "_speedwapp_js_libs",
+    "sidebars_widgets",
+    "Speedwapp_Settings",
+    "wp_speedwapp_settings",
+    "wp_speedwapp_display",
+    "wp_speedwapp_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_speedwapp_json_data",
+    "page_data",
+    "speedwapp_page_data",
+    "_is_speedwapp_editor_active",
+    "_speedwapp_html_data",
+    "_speedwapp_css_libs",
+    "_speedwapp_js_libs",
+    "speedwapp_api_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:12.324Z"
+}

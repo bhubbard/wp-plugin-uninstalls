@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fsi_api_woocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fsi_pn_id",
+    "_fsi_sent_date",
+    "_fsi_clientnr"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:24.451Z"
+}

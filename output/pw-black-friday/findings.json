@@ -1,0 +1,35 @@
+{
+  "options": [
+    "woocommerce_enable_coupons",
+    "woocommerce_price_num_decimals",
+    "woocommerce_prices_include_tax",
+    "direct_checkout_enabled",
+    "direct_checkout_cart_redirect_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "begin_datetime",
+    "end_datetime",
+    "upcoming_countdown",
+    "upcoming_offset",
+    "ending_countdown",
+    "product_categories_included",
+    "include_product_ids",
+    "exclude_product_ids",
+    "deal_type",
+    "use_regular_price",
+    "bogo_identical_products",
+    "bogo_identical_variations",
+    "free_shipping",
+    "free_shipping_min_amount",
+    "order_limit",
+    "coupon_code",
+    "individual_use",
+    "individual_use_message",
+    "show_expiration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:18.326Z"
+}

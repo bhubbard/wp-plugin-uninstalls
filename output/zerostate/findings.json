@@ -1,0 +1,14 @@
+{
+  "options": [
+    "zerostate_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "default_password_nag",
+    "*default_password_nag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:48.063Z"
+}

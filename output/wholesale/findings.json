@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mjwcws_qty",
+    "mjwcws_price_type",
+    "mjwcws_price",
+    "mjwcws_sale_price_type",
+    "mjwcws_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:47.101Z"
+}

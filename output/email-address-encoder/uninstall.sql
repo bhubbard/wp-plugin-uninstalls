@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('eae_filter_priority', 'eae_search_in', 'eae_technique', 'eae_notices');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('eae_dismissed_automatic_warnings_notice');
+DELETE FROM wp_usermeta WHERE meta_key IN ('eae_dismissed_automatic_warnings_notice');
+DELETE FROM wp_termmeta WHERE meta_key IN ('eae_dismissed_automatic_warnings_notice');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('eae_dismissed_automatic_warnings_notice');
+

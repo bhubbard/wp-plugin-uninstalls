@@ -1,0 +1,17 @@
+{
+  "options": [
+    "jptc_secret_key",
+    "jptc_rewrite_version",
+    "jptc_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jptc_upgrade_widget_dismissed",
+    "_jptc_link_id",
+    "_jptc_conversion_counted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:09.085Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "happy_ads_settings",
+    "rewrite_rules",
+    "active_sitewide_plugins",
+    "happy_ads_version",
+    "happy_ads_install_date"
+  ],
+  "transients": [
+    "happy_ads_api_connected"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "happy_ads_dismissed_notices"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:36.654Z"
+}

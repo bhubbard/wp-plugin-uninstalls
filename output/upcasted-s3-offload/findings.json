@@ -1,0 +1,34 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "upcasted_migration_status_progress",
+    "upcasted_migration_status_results",
+    "upcasted_migration_status_last_execution",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "upcasted_local_to_s3_finished",
+    "upcasted_s3_to_local_finished",
+    "upcasted_migration_lock_*",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "upcasted_migration_status_check_cron",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata",
+    "_wp_attached_file",
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:44.907Z"
+}

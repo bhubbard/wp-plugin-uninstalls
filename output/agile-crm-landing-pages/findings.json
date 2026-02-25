@@ -1,0 +1,21 @@
+{
+  "options": [
+    "landing_pages_agile_domain",
+    "landing_pages_agile_email",
+    "landing_pages_agile_rest_api",
+    "landing_pages_agile_password",
+    "landing_pages_agile_webstats",
+    "landing_pages_agile_webrules",
+    "landing_pages_agile_js_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "landing_pages_landing_page",
+    "landing_pages_enable_webrule",
+    "landing_pages_enable_webstats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:44.376Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fcb-initial-save-version",
+    "fcb-install-date",
+    "fcb-alreadyRated",
+    "fcb-installDate",
+    "fcb-ratingDiv",
+    "fcb-v",
+    "fcb-type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:11.441Z"
+}

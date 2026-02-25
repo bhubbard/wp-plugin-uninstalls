@@ -1,0 +1,27 @@
+{
+  "options": [
+    "welight_activated",
+    "welight_changed_order_status:*",
+    "welight_sandbox",
+    "welight_api_key",
+    "welight_api_username",
+    "welight_store_name",
+    "welight_donation_tax",
+    "welight_style_display_ong",
+    "welight_text_checkout",
+    "welight_text_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "welightei_cleanup_expired_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "user_id",
+    "cart_content",
+    "cart_totals",
+    "customer"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:37.010Z"
+}

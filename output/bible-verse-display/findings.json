@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bvd_post_version",
+    "bvd_post_type",
+    "bvd_connection",
+    "bvd_show_version",
+    "bvd_favorites"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:05.282Z"
+}

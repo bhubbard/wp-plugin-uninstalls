@@ -1,0 +1,47 @@
+{
+  "options": [
+    "*_use_wp_submenu",
+    "*_opt_in",
+    "*_promot",
+    "wpmastertoolkit_credentials_tab",
+    "*update_plugins",
+    "*_advanced_debug_mode",
+    "wpmastertoolkit_apple_touch_icon",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_enable_ajax_add_to_cart",
+    "*_move_login_url"
+  ],
+  "transients": [
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "wpmastertoolkit_daily_regenerate_assets",
+    "*_hook",
+    "wp_version_check",
+    "wp_update_themes",
+    "wp_update_plugins",
+    "wp_maybe_auto_update",
+    "wpmtk_delete_expired_temp_users"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "code_snippet",
+    "code_snippet_error",
+    "snippet_type",
+    "snippet_status",
+    "WPMastertoolkit_open_new_tab_options",
+    "WPMastertoolkit_open_new_tab",
+    "wpmastertoolkit_external_permalink",
+    "WPMastertoolkit_last_login_timestamp",
+    "content_type",
+    "wpmastertoolkit_temporary_login",
+    "wpmtk_temporary_login_expiration",
+    "wpmtk_connexion_link",
+    "wpmtk_login_token",
+    "wpmtk_temporary_login_validity",
+    "wpmtk_protect_other_admin_users"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:57.611Z"
+}

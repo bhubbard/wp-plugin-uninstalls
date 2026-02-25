@@ -1,0 +1,27 @@
+{
+  "options": [
+    "funnel_emails_subject",
+    "funnel_emails_body",
+    "funnel_pages_enabled",
+    "funnel_user_to_lead",
+    "funnel_user_state",
+    "funnel_referrer_enabled",
+    "funnel_referrer_param",
+    "funnel_referrer_state"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_id",
+    "funnel_user_state",
+    "color",
+    "generation",
+    "interests",
+    "purchase_motivations",
+    "values",
+    "formal_level"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:25.523Z"
+}

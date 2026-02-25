@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'entry_form'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'entry_form'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'entry_form'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'entry_form'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'form_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'form_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'form_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'form_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'entry_submission_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'entry_submission_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'entry_submission_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'entry_submission_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'form_create_entries'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'form_create_entries'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'form_create_entries'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'form_create_entries'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'form_num_of_views'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'form_num_of_views'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'form_num_of_views'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'form_num_of_views'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'form_num_of_submissions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'form_num_of_submissions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'form_num_of_submissions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'form_num_of_submissions'"

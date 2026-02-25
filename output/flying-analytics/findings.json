@@ -1,0 +1,14 @@
+{
+  "options": [
+    "FLYING_ANALYTICS_VERSION",
+    "flying_analytics_method",
+    "flying_analytics_disable_on_login",
+    "flying_analytics_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:52.532Z"
+}

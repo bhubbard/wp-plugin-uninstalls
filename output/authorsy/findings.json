@@ -1,0 +1,23 @@
+{
+  "options": [
+    "authorsy_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ea_selected_author",
+    "authorsy_likes",
+    "authorsy_dislikes",
+    "authorsy_loves",
+    "authorsy_angry",
+    "authorsy_users_vote",
+    "authorsy_ips",
+    "authorsy_cookie_vote_info",
+    "authorsy_ips_vote_info",
+    "authorsy_users_vote_info",
+    "authorsy_like_box_enable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:07.436Z"
+}

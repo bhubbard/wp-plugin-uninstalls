@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ob_inf_scr_tf_load_text",
+    "ob_inf_scr_tf_done_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:13.215Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "smepm_settings",
+    "content_migration_pro_settings"
+  ],
+  "transients": [
+    "content_migration_pro_cache"
+  ],
+  "cron_jobs": [
+    "content_migration_pro_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "content_migration_pro_intro_dismissed",
+    "content_migration_pro_credentials",
+    "smepm_upgrade_hidden",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:34.708Z"
+}

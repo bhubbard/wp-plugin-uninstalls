@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pr_enabled",
+    "pr_fixed",
+    "pr_interval",
+    "pr_enforce_punctuality",
+    "pr_also_alter_last_modified",
+    "pr_exclude_if_no_featured_image",
+    "pr_filter_by_category",
+    "pr_clean_uninstall",
+    "pr_included_post_types",
+    "pr_included_categories",
+    "pr_latest_rotation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:59.195Z"
+}

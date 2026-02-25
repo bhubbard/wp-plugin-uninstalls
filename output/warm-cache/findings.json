@@ -1,0 +1,21 @@
+{
+  "options": [
+    "plugin_warm_cache_lb_flush",
+    "plugin_warm_cache_api",
+    "plugin_warm_cache_start",
+    "plugin_warm_cache_sitemap_override",
+    "sm_options",
+    "plugin_warm_cache_limit",
+    "plugin_warm_cache_statdata"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mytime",
+    "mypages",
+    "totalpages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:07.986Z"
+}

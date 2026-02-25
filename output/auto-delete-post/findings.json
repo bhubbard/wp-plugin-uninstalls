@@ -1,0 +1,16 @@
+{
+  "options": [
+    "adp_redirect_option",
+    "adp_deleted_post_list"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "adp_daily_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "auto_delete_post_time_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:22.480Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_tax_display_shop",
+    "woocommerce_addi_settings",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "fx_addi_admin_notice_transient",
+    "buy-now-pay-later-addi"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "addi_wc_version_warning_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:58.472Z"
+}

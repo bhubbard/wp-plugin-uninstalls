@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wpsgdrm_av_apikeydrm",
+    "wpsgdrm_*",
+    "wpsgdrm_fm_firstname",
+    "wpsgdrm_fm_lastname",
+    "wpsgdrm_fm_email",
+    "wpsgdrm_fm_company",
+    "wpsgdrm_fm_domain",
+    "wpsgdrm_av_allowwindows",
+    "wpsgdrm_av_allowmac",
+    "wpsgdrm_av_allowandroid",
+    "wpsgdrm_av_allowios",
+    "wpsgdrm_av_allowremote",
+    "wpsgdrm_av_Version_windows",
+    "wpsgdrm_av_Version_mac",
+    "wpsgdrm_av_Version_android",
+    "wpsgdrm_av_Version_ios",
+    "wpsgdrm_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:00.642Z"
+}

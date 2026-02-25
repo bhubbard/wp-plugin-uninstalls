@@ -1,0 +1,36 @@
+{
+  "options": [
+    "spillt_error_show",
+    "spillt_author_tax_choosen",
+    "spillt_author_phone",
+    "_spilt_author_access_token_expiration_date",
+    "_spilt_author_access_token",
+    "_spilt_author_refresh_token",
+    "spillt_author_id",
+    "_spillt_blog_user_supabase_token_response",
+    "spillt_activated"
+  ],
+  "transients": [
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "spillt_sync_all_reviews",
+    "spillt_sync_new_recipes"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "spillt_recipe_sync",
+    "og:image",
+    "wprm_ingredients",
+    "ingredients",
+    "date_synced_to_spillt",
+    "wprm_parent_post_id",
+    "wprm-comment-rating",
+    "ERRating",
+    "spillt_comment",
+    "spillt_tasty_parent_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:30.347Z"
+}

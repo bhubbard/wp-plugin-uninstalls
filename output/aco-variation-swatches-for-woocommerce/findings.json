@@ -1,0 +1,22 @@
+{
+  "options": [
+    "acovsw_common_settings",
+    "acovsw_label_settings",
+    "acovsw_radio_settings",
+    "acovsw_color_settings",
+    "acovsw_image_settings",
+    "acovsw_tooltip_settings",
+    "acovsw_advanced_settings",
+    "acovsw_attribute_values",
+    "*_version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acovsw_custom_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:57.737Z"
+}

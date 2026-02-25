@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_adwol_publisher",
+    "wp_adwol_bei",
+    "wp_adwol_rel"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:25.985Z"
+}

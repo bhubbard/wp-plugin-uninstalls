@@ -1,0 +1,21 @@
+{
+  "options": [
+    "aremc_price",
+    "aremc_down",
+    "aremc_interest",
+    "aremc_years",
+    "aremc_txt_selling_price",
+    "aremc_txt_down_payment",
+    "aremc_txt_interest_rate",
+    "aremc_txt_years",
+    "aremc_txt_monthly_payment",
+    "aremc_txt_instructions",
+    "aremc_txt_money_symbol"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:15.666Z"
+}

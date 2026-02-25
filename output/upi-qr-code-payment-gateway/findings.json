@@ -1,0 +1,23 @@
+{
+  "options": [
+    "dwu_plugin_dismiss_rating_notice",
+    "dwu_plugin_no_thanks_rating_notice",
+    "dwu_plugin_installed_time",
+    "dwu_plugin_dismiss_donate_notice",
+    "dwu_plugin_no_thanks_donate_notice",
+    "dwu_plugin_dismissed_time",
+    "dwu_plugin_dismissed_time_donate",
+    "woocommerce_wc-upi_settings",
+    "dwu_plugin_dismiss_knit_pay_upi_notice",
+    "*_notice"
+  ],
+  "transients": [
+    "dwu-admin-notice-on-activation",
+    "dwu_plugin_knit_pay_upi_notice_random_priority"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:04.324Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "qahm_sitemanage",
+    "qahm_plugin_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "admin_color",
+    "qahm_advanced_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:44.793Z"
+}

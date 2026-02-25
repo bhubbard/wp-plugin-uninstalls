@@ -1,0 +1,26 @@
+{
+  "options": [
+    "retailcrm_integration_payments",
+    "woocommerce_enable_signup_and_login_from_checkout",
+    "retailcrm_active_in_crm",
+    "woocommerce_enable_coupons",
+    "retailcrm_client_id",
+    "retailcrm_customers_history_since_id",
+    "retailcrm_orders_history_since_id",
+    "woocommerce_shipping_tax_class"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "retailcrm_inventories",
+    "retailcrm_history",
+    "retailcrm_icml",
+    "retailcrm_loyalty_upload_price"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_product_attributes",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:47.466Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wbps_connection_status",
+    "wbps_webhook_url",
+    "wbps_woocommerce_keys",
+    "wbps_sheet_props",
+    "wbps_authcode",
+    "wcgs_syncback_settings",
+    "wcgs_metadata_keys",
+    "wcgs_category_tags_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wbps_row_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:09.883Z"
+}

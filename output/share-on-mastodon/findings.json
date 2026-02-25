@@ -1,0 +1,25 @@
+{
+  "options": [
+    "share_on_mastodon_settings",
+    "share_on_mastodon_db_version"
+  ],
+  "transients": [
+    "*_state",
+    "*_code_verifier"
+  ],
+  "cron_jobs": [
+    "share_on_mastodon_post",
+    "share_on_mastodon_verify_token"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_share_on_mastodon_url",
+    "_share_on_mastodon_error",
+    "_wp_attachment_image_alt",
+    "_share_on_mastodon",
+    "_share_on_mastodon_status",
+    "_share_on_mastodon_cw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:05.506Z"
+}

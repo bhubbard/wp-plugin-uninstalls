@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "testimonial_author_s_info_company_name",
+    "testimonial_author_s_info_designation",
+    "testimonial_author_s_info_location",
+    "tcodes_author_company"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:22.065Z"
+}

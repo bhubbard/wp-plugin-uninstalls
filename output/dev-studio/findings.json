@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_api_enabled",
+    "woocommerce_enable_coupons",
+    "woocommerce_enable_reviews",
+    "woocommerce_enable_shipping_calc",
+    "dev-studio_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:15.979Z"
+}

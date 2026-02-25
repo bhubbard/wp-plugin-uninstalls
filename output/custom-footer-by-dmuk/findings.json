@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dmuk_foot_nominated_page",
+    "dmuk_foot_expected_theme",
+    "dmuk_foot_theme_change_dismissed",
+    "dmuk_foot_analysis_string",
+    "dmuk_foot_search_replace_target_id",
+    "dmuk_foot_search_replace_activate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:48.951Z"
+}

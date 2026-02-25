@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lgom_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail",
+    "title_url",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:16.826Z"
+}

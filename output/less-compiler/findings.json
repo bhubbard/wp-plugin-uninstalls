@@ -1,0 +1,17 @@
+{
+  "options": [
+    "less_compiler",
+    "less",
+    "less_vars",
+    "less_variables",
+    "less_variables_defaults"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:39.255Z"
+}

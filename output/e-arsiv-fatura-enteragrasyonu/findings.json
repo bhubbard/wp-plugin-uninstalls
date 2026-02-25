@@ -1,0 +1,19 @@
+{
+  "options": [
+    "faturatik_trigger_status",
+    "faturatik_enable_debug",
+    "faturatik_webhook_secret",
+    "faturatik_api_token",
+    "faturatik_email_invoice_info"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "faturatik_retry_failed_orders",
+    "faturatik_retry_order",
+    "faturatik_retry_single_order"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:44.658Z"
+}

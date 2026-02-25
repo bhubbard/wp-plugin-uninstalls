@@ -1,0 +1,24 @@
+{
+  "options": [
+    "buddyforms_buddypress_settings",
+    "buddyforms_posttypes_default",
+    "recently_activated",
+    "buddyforms_registration_form",
+    "buddyforms_registration_page"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_buddyforms_options",
+    "bp_xprofile_visibility_levels",
+    "message",
+    "bf_bp_activity_id",
+    "_bf_form_slug",
+    "buddyforms_members_tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:17.854Z"
+}

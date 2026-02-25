@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('msntt_product_naver_talktalk', 'msntt_naver_talktalk_banner', 'msntt_naver_talktalk_pc_banner_id', 'msntt_naver_talktalk_mobile_banner_id', 'msntt_product_naver_talktalk_button', 'msntt_pc_product_key', 'msntt_mobile_product_key', 'msntt_use_plus_friends_product_talk', 'msntt_plus_friends_product_talk_hook', 'msntt_use_plus_friends_global_talk', 'msntt_plus_friends_product_talk_type', 'msntt_plus_friends_product_talk_size', 'msntt_plus_friends_product_talk_color', 'msntt_plus_friends_product_talk_button_type', 'msntt_plus_friends_product_talk_mobile_image_url', 'msntt_plus_friends_product_talk_pc_image_url', 'msntt_plus_friends_app_key', 'msntt_plus_friends_id', 'msntt_plus_friends_global_talk_type', 'msntt_plus_friends_global_talk_size', 'msntt_plus_friends_global_talk_color', 'msntt_plus_friends_global_talk_button_type', 'msntt_plus_friends_global_talk_mobile_image_url', 'msntt_plus_friends_global_talk_pc_image_url');
+

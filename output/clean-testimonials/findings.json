@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ct_activated",
+    "ct_prompted"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "testimonial_client_name",
+    "testimonial_client_company_name",
+    "testimonial_client_email",
+    "testimonial_client_company_website",
+    "testimonial_client_company",
+    "testimonial_client_website",
+    "testimonial_client_permission",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:05.532Z"
+}

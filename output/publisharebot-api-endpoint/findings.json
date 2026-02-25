@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pushbot_api_suffix",
+    "pushbot_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tg_msg_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:41.916Z"
+}

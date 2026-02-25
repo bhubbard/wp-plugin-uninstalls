@@ -1,0 +1,13 @@
+{
+  "options": [
+    "kpcode_version_wp",
+    "kpcode_longurlmaker_version",
+    "c_version_wp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:37.076Z"
+}

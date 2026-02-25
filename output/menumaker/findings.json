@@ -1,0 +1,20 @@
+{
+  "options": [
+    "id_before_menu",
+    "id_menumaker_pullpage",
+    "id_before_item",
+    "id_after_item",
+    "id_before_active_item",
+    "id_after_active_item",
+    "id_after_menu",
+    "id_menumaker_number",
+    "id_menumaker_maxnum",
+    "id_menumaker_menu_1"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:35.726Z"
+}

@@ -1,0 +1,44 @@
+{
+  "options": [
+    "autormlite_*",
+    "autormlite_minute",
+    "autormlite_hour",
+    "autormlite_day",
+    "autormlite_month",
+    "autormlite_weekday",
+    "autormlite_days_total",
+    "autormlite_days_before",
+    "autormlite_load_jquery",
+    "autormlite_reminder_send_method",
+    "autormlite_delete_data_on_uninstall",
+    "autormlite_text_email",
+    "autormlite_subject_email",
+    "autormlite_text_sms",
+    "limoo_selected_gateway",
+    "limoo_gateway_api_key",
+    "limoo_gateway_sender",
+    "autormlite_email_cron_minute",
+    "autormlite_email_cron_hour",
+    "autormlite_email_cron_day",
+    "autormlite_email_cron_month",
+    "autormlite_email_cron_weekday",
+    "autormlite_send_method",
+    "autormlite_last_email_report",
+    "autormlite_last_sms_report"
+  ],
+  "transients": [
+    "autormlite_reminders_lite_cache"
+  ],
+  "cron_jobs": [
+    "autormlite_custom_email_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "phone_number",
+    "first_purchase",
+    "last_email_date",
+    "allow_notifications"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:57.765Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "aps-content-moderator-cm-settings-data_access_key",
+    "aps-content-moderator-cm-settings-data_access_url",
+    "aps-content-moderator-cm-settings_category1-value",
+    "aps-content-moderator-cm-settings_category2-value",
+    "aps-content-moderator-cm-settings_category3-value",
+    "aps-content-moderator-cm-settings_ignore-pii",
+    "aps-content-moderator-cm-settings_comment-threshold",
+    "aps-content-moderator-cm-settings_comment-max-length-note",
+    "aps-content-moderator-cm-settings_comment-field-id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "CmTextResult"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:19.099Z"
+}

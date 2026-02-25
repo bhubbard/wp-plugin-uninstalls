@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp-benchmark-io-settings",
+    "benchmark_option_*",
+    "wp-benchmark-io-running",
+    "wp-benchmark-io-history"
+  ],
+  "transients": [
+    "benchmark_transient_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:27.459Z"
+}

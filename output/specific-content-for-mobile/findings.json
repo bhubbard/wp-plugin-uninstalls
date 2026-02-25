@@ -1,0 +1,19 @@
+{
+  "options": [
+    "page_on_front_mobile",
+    "page_for_posts_mobile",
+    "eos_scfm_main"
+  ],
+  "transients": [
+    "scfm_debug"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eos_scfm_mobile_post_id",
+    "eos_scfm_desktop_post_id",
+    "scfm_offer"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:32.508Z"
+}

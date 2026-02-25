@@ -1,0 +1,17 @@
+{
+  "options": [
+    "getsoapy_business_id",
+    "getsoapy_hide_fields",
+    "getsoapy_styles",
+    "getsoapy_plugin_options",
+    "getsoapy_disable_styles",
+    "getsoapy_quote_in_pages",
+    "getsoapy_show_fab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:58.976Z"
+}

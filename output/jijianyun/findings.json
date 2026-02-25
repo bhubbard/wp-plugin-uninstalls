@@ -1,0 +1,20 @@
+{
+  "options": [
+    "jijianyun_options",
+    "jijianyun_corp_id",
+    "jijianyun_api_secret",
+    "jijianyun_company_name",
+    "jijianyun_company_identification",
+    "jijianyun_user_name",
+    "jijianyun_user_identify",
+    "jijianyun_email",
+    "jijianyun_mobile",
+    "jijianyun_cfg_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:29.850Z"
+}

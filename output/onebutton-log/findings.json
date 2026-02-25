@@ -1,0 +1,17 @@
+{
+  "options": [
+    "onebutton_ai_mode",
+    "onebutton_last_error",
+    "onebutton_bot_visits",
+    "onebutton_auto_cleanup",
+    "onebutton_log_file_path"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "onebutton_auto_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:02.988Z"
+}

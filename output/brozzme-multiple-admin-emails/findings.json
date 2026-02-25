@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bmae_settings"
+  ],
+  "transients": [
+    "brozzme_plugins_api_results",
+    "brozzme_plugins_api_version_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bmae_on_demand_status",
+    "bmae_sent_before"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:37.841Z"
+}

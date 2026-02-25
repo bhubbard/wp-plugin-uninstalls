@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('glory_slider_images', 'glory_slider_speed', 'glory_slider_interval', 'glory_slider_transition_effect', 'glory_slider_duration', 'glory_slider_layout', 'glory_slider_aspect_ratio', 'glory_slider_custom_width', 'glory_slider_custom_height', 'glory_slider_show_indicators', 'glory_slider_image_fit');
+

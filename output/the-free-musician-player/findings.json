@@ -1,0 +1,27 @@
+{
+  "options": [
+    "TFM_flush",
+    "TFM_Player_enable_ajax",
+    "TFM_Player_fade",
+    "TFM_Player_id",
+    "TFM_Player_menu",
+    "TFM_Player_playhtml",
+    "TFM_Player_stophtml",
+    "TFM_Player_dl",
+    "TFM_Player_custom_stylesheet"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "track",
+    "mpeg",
+    "album",
+    "available",
+    "artist",
+    "order",
+    "file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:21.356Z"
+}

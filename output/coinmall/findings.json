@@ -1,0 +1,24 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "woocommerce_api_wc_gateway_coinmall_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "CoinMall Currency",
+    "CoinMall Payment Status",
+    "CoinMall Address",
+    "CoinMall Amount",
+    "CoinMall Expires At",
+    "CoinMall QR Code",
+    "CoinMall LN Node",
+    "CoinMall LN Invoice",
+    "CoinMall LN Node QR Code",
+    "CoinMall LN Invoice QR Code",
+    "CoinMall Transaction ID",
+    "CoinMall Amount Paid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:32.995Z"
+}

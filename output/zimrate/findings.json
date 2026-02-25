@@ -1,0 +1,22 @@
+{
+  "options": [
+    "zimrate-prefer",
+    "zimrate-interval",
+    "zimrate-cushion",
+    "zimrate-currencies",
+    "zimrate-analytics",
+    "*_USD",
+    "alg_currency_switcher_exchange_rate_offset"
+  ],
+  "transients": [
+    "*-backup",
+    "zimrate-backup",
+    "zimrate",
+    "zimrate-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:11.420Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "elex_hs_first_installation_msg",
+    "elex_hs_rules_to_hide_shipping_methods",
+    "elex_hs_rule_count",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:26.929Z"
+}

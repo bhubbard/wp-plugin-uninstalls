@@ -1,0 +1,15 @@
+{
+  "options": [
+    "affiliatly_admin_code",
+    "affiliatly_security_hash",
+    "alg_currency_switcher_currency_shop_default",
+    "affiliatly_discount_link_status",
+    "affiliatly_discount_url_parameter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:05.736Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "uep_pwd",
+    "uep_to_email",
+    "uep_subject",
+    "uep_bcc_email",
+    "uep_body",
+    "uep_from_name",
+    "uep_from_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:41.456Z"
+}

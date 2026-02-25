@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_city"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zigzag_delivery_number",
+    "zigzag_delivery_status",
+    "zigzag_delivery_notes",
+    "zigzag_sds",
+    "zigzag_delivery_type",
+    "zigzag_delivery_line",
+    "zigzag_delivery_date_created",
+    "zigzag_pickup_branch"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:53.974Z"
+}

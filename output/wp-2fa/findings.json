@@ -1,0 +1,22 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "fs_wp2fap",
+    "melapress_login_security_freemius_state"
+  ],
+  "transients": [
+    "fs_mls_premium",
+    "wp_2fa_config_file_hash"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*locked_account_notification",
+    "*capabilities",
+    "*_capabilities",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:07.887Z"
+}

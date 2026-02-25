@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_milacoins_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "milacoins_invoice_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:26.220Z"
+}

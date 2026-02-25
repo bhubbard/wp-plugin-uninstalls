@@ -1,0 +1,28 @@
+{
+  "options": [
+    "tstmnls_options",
+    "rtng_options",
+    "gglcptch_options",
+    "*_size_w",
+    "*_size_h",
+    "widget_tstmnls_testimonails_widget",
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "sndr_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "testimonials_info",
+    "_testimonials_info",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:11.287Z"
+}

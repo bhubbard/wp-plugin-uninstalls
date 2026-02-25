@@ -1,0 +1,42 @@
+{
+  "options": [
+    "buy_now_woo_customize",
+    "buy_now_woo_button_color",
+    "buy_now_woo_button_bgcolor",
+    "buy_now_woo_button_border_color",
+    "buy_now_woo_button_hover_color",
+    "buy_now_woo_button_hover_bgcolor",
+    "buy_now_woo_button_hover_border_color",
+    "buy_now_woo_button_padding",
+    "buy_now_woo_button_margin",
+    "buy_now_woo_button_width",
+    "buy_now_woo_button_height",
+    "buy_now_woo_button_additional_css",
+    "buy_now_woo_single_catelog_position",
+    "buy_now_woo_single_product_position",
+    "buy_now_woo_single_product_enable",
+    "buy_now_woo_redirect",
+    "buy_now_woo_single_product_button",
+    "buy_now_woo_single_product_remove_quantity",
+    "buy_now_woo_single_product_reset_cart",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "rdn_fetch_*"
+  ],
+  "transients": [
+    "cdx-wpgs-plugin-info-*",
+    "rn_last_notification_*",
+    "wpi_check_ran_*"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_rn_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:27.754Z"
+}

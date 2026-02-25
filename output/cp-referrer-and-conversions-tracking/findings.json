@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cpreftrack_addons_active_list",
+    "cp_cpreftrack_rep_enable",
+    "cp_cpreftrack_rep_days",
+    "cp_cpreftrack_bocsvexclude",
+    "CP_APPB_CSV_CHARFIX",
+    "cp_cpreftrack_last_sent_id_*"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [
+    "cpreftrack_del_old_hook_fmin"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cpreftrack_woocommerce_referrer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:22.524Z"
+}

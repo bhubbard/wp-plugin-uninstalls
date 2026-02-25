@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpbc_otp_method",
+    "wpbc_sms_api_key"
+  ],
+  "transients": [
+    "wpbc_booking_otp_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:31.010Z"
+}

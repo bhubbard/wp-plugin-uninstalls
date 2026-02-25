@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bddp_options",
+    "bddp_wgt1",
+    "bddp_wgt2",
+    "bddp_wgt3"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:41.564Z"
+}

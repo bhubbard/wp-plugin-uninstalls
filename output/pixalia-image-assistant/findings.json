@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pixalia_default_style",
+    "pixalia_default_aspect_ratio",
+    "pixalia_api_key",
+    "pixalia_post_types",
+    "pixalia_last_check_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:40.458Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('solara_server_url', 'solara_pairing_secret', 'solara_site_token', 'solara_connection_status', 'solara_robots_directives', 'solara_disallow_staging', 'solara_llms_enabled', 'solara_llms_content', 'solara_google_site_verification', 'solara_ga4_measurement_id', 'solara_meta_pixel_id', 'solara_tiktok_pixel_id', 'solara_prev_site_token', 'solara_prev_site_token_2', 'solara_api_key', 'solara_hidden_post_ids', 'solara_flush_rewrite_rules', 'solara_enc_priv_pem', 'solara_enc_pub_jwk', 'solara_pending_update', 'solara_auto_update_enabled', 'solara_last_update', 'solara_worker_url', 'solara_security_alert', 'solara_last_poll_time', 'solara_update_manifest', 'solara_update_check', 'solara_update_kill_switch');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_solara_custom_layout', '_solara_hide_from_nav', '_solara_excerpt', '_solara_featured_image', '_solara_author', '_solara_publish_date', '_thumbnail_id', '_yoast_wpseo_metadesc', '_yoast_wpseo_title', '_solara_seo_title', '_solara_seo_desc', '_solara_seo_canonical', '_solara_seo_og_image', '_solara_managed', '_solara_blog_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_solara_custom_layout', '_solara_hide_from_nav', '_solara_excerpt', '_solara_featured_image', '_solara_author', '_solara_publish_date', '_thumbnail_id', '_yoast_wpseo_metadesc', '_yoast_wpseo_title', '_solara_seo_title', '_solara_seo_desc', '_solara_seo_canonical', '_solara_seo_og_image', '_solara_managed', '_solara_blog_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_solara_custom_layout', '_solara_hide_from_nav', '_solara_excerpt', '_solara_featured_image', '_solara_author', '_solara_publish_date', '_thumbnail_id', '_yoast_wpseo_metadesc', '_yoast_wpseo_title', '_solara_seo_title', '_solara_seo_desc', '_solara_seo_canonical', '_solara_seo_og_image', '_solara_managed', '_solara_blog_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_solara_custom_layout', '_solara_hide_from_nav', '_solara_excerpt', '_solara_featured_image', '_solara_author', '_solara_publish_date', '_thumbnail_id', '_yoast_wpseo_metadesc', '_yoast_wpseo_title', '_solara_seo_title', '_solara_seo_desc', '_solara_seo_canonical', '_solara_seo_og_image', '_solara_managed', '_solara_blog_id');
+

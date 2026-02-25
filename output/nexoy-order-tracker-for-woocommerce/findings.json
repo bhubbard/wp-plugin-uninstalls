@@ -1,0 +1,13 @@
+{
+  "options": [
+    "nexoy_ot_theme_preference"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:59.762Z"
+}

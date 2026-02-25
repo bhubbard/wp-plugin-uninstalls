@@ -1,0 +1,16 @@
+{
+  "options": [
+    "kom_settings",
+    "woocommerce_kco_settings",
+    "woocommerce_klarna_payments_settings",
+    "woocommerce_tax_based_on",
+    "*_settings",
+    "kp_unavailable_feature_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:27.085Z"
+}

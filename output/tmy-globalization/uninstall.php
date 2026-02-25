@@ -1,0 +1,130 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('g11n_default_email');
+delete_site_option('g11n_default_email');
+delete_option('g11n_agree_to_leave_email');
+delete_site_option('g11n_agree_to_leave_email');
+delete_option('g11n_default_lang');
+delete_site_option('g11n_default_lang');
+delete_option('g11n_additional_lang');
+delete_site_option('g11n_additional_lang');
+delete_option('g11n_server_url');
+delete_site_option('g11n_server_url');
+delete_option('g11n_server_user');
+delete_site_option('g11n_server_user');
+delete_option('g11n_server_token');
+delete_site_option('g11n_server_token');
+delete_option('g11n_server_project');
+delete_site_option('g11n_server_project');
+delete_option('g11n_server_version');
+delete_site_option('g11n_server_version');
+delete_option('g11n_server_trunksize');
+delete_site_option('g11n_server_trunksize');
+delete_option('g11n_l10n_props_blogname');
+delete_site_option('g11n_l10n_props_blogname');
+delete_option('g11n_l10n_props_blogdescription');
+delete_site_option('g11n_l10n_props_blogdescription');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'g11n_l10n_props_%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('g11n_l10n_props_tax');
+delete_site_option('g11n_l10n_props_tax');
+delete_option('g11n_site_lang_cookie');
+delete_site_option('g11n_site_lang_cookie');
+delete_option('g11n_site_lang_session');
+delete_site_option('g11n_site_lang_session');
+delete_option('g11n_site_lang_query_string');
+delete_site_option('g11n_site_lang_query_string');
+delete_option('g11n_site_lang_browser');
+delete_site_option('g11n_site_lang_browser');
+delete_option('g11n_switcher_tagline');
+delete_site_option('g11n_switcher_tagline');
+delete_option('g11n_switcher_post');
+delete_site_option('g11n_switcher_post');
+delete_option('g11n_switcher_title');
+delete_site_option('g11n_switcher_title');
+delete_option('g11n_switcher_sidebar');
+delete_site_option('g11n_switcher_sidebar');
+delete_option('g11n_switcher_floating');
+delete_site_option('g11n_switcher_floating');
+delete_option('g11n_switcher_type');
+delete_site_option('g11n_switcher_type');
+delete_option('g11n_using_google_tookit');
+delete_site_option('g11n_using_google_tookit');
+delete_option('g11n_auto_pullpush_translation');
+delete_site_option('g11n_auto_pullpush_translation');
+delete_option('g11n_resource_file_location');
+delete_site_option('g11n_resource_file_location');
+delete_option('g11n_editor_choice');
+delete_site_option('g11n_editor_choice');
+delete_option('g11n_seo_url_enable');
+delete_site_option('g11n_seo_url_enable');
+delete_option('g11n_seo_url_label');
+delete_site_option('g11n_seo_url_label');
+delete_option('g11n_translate_slug');
+delete_site_option('g11n_translate_slug');
+delete_option('g11n_enable_html_translator');
+delete_site_option('g11n_enable_html_translator');
+delete_option('g11n_slugs_mappings_config');
+delete_site_option('g11n_slugs_mappings_config');
+delete_option('g11n_slugs_mappings_config_extra');
+delete_site_option('g11n_slugs_mappings_config_extra');
+delete_option('g11n_l10n_props_posts');
+delete_site_option('g11n_l10n_props_posts');
+delete_option('g11n_l10n_props_pages');
+delete_site_option('g11n_l10n_props_pages');
+delete_option('woocommerce_cod_settings');
+delete_site_option('woocommerce_cod_settings');
+delete_option('woocommerce_cheque_settings');
+delete_site_option('woocommerce_cheque_settings');
+delete_option('tmy_g11n_sites_activated');
+delete_site_option('tmy_g11n_sites_activated');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'orig_post_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'orig_post_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'orig_post_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'orig_post_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'g11n_tmy_orig_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'g11n_tmy_orig_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'g11n_tmy_orig_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'g11n_tmy_orig_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'g11n_tmy_lang_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'g11n_tmy_lang_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'g11n_tmy_lang_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'g11n_tmy_lang_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'g11n_tmy_lang' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'g11n_tmy_lang' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'g11n_tmy_lang' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'g11n_tmy_lang' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'translation_push_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'translation_push_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'translation_push_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'translation_push_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_yoast_wpseo_metadesc' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_yoast_wpseo_metadesc' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_yoast_wpseo_metadesc' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_yoast_wpseo_metadesc' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_yoast_wpseo_metadesc_g11n_post_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_yoast_wpseo_metadesc_g11n_post_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_yoast_wpseo_metadesc_g11n_post_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_yoast_wpseo_metadesc_g11n_post_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'option_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'option_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'option_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'option_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'tmy_order_lang_code' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'tmy_order_lang_code' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'tmy_order_lang_code' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'tmy_order_lang_code' ) );
+

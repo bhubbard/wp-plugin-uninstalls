@@ -1,0 +1,6 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'bangla_font_cdn_dismiss_notice'
+

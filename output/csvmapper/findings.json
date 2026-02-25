@@ -1,0 +1,15 @@
+{
+  "options": [
+    "csvm_enable_cron_task",
+    "csvm_cron_interval",
+    "csvm_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "csvm_import_lookout"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:00.298Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wc_daw_disable_options",
+    "wc_daw_select_attribute",
+    "wc_daw_single_select",
+    "wc_daw_remove_text",
+    "wc_daw_max_variations",
+    "wc_daw_attribute_default-*",
+    "wc_daw_first_attribute"
+  ],
+  "transients": [
+    "daw_default_attributes_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:11.089Z"
+}

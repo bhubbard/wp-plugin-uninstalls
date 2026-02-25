@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*excluded_hashes",
+    "wp_sri_known_hashes",
+    "wp_sri_excluded_hashes",
+    "*known_hashes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_sri_hashes_per_page",
+    "managetools_page_wp_sri_admincolumnshidden"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:00.350Z"
+}

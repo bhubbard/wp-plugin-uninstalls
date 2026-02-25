@@ -1,0 +1,43 @@
+{
+  "options": [
+    "*_settings",
+    "lknRedeForWoocommerceProEndpointStatus",
+    "lknRedeForWoocommerceProLicense",
+    "lkn_rede_oauth_token_test",
+    "lkn_rede_oauth_token_production",
+    "woocommerce_currency",
+    "LknIntegrationRedeForWoocommerceMaxipagoDebitEndpointStatus",
+    "woocommerce_maxipago_debit_settings",
+    "woocommerce_integration_rede_pix_settings",
+    "woocommerce_rede_pix_settings",
+    "woocommerce_rede_debit_settings",
+    "woocommerce_price_num_decimals",
+    "woocommerce_default_country",
+    "woocommerce_maxipago_credit_settings",
+    "wc_rede_version",
+    "woocommerce_rede_settings",
+    "woocommerce_rede_credit_settings",
+    "lknIntegrationRedeForWoocommerceSoftDescriptorErrorCredit",
+    "lknIntegrationRedeForWoocommerceSoftDescriptorErrorDebit",
+    "woocommerce_rede_credit",
+    "wcbcf_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_rede_orders",
+    "lkn_verify_pix_payment"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lknMaxipagoProdutctInterest",
+    "lknRedeProdutctInterest",
+    "_wc_maxipago_transaction_refund_id",
+    "_wc_maxipago_transaction_cancel_id",
+    "_wc_maxipago_transaction_canceled",
+    "_wc_rede_transaction_refund_id",
+    "_wc_rede_transaction_cancel_id",
+    "_wc_rede_transaction_canceled"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:15.806Z"
+}

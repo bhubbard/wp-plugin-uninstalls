@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tsu_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tao_publish_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_pubdate",
+    "*_original"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:05.140Z"
+}

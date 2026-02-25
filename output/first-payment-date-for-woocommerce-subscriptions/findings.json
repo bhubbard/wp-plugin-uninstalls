@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fpdws_date_first_payment",
+    "_fpdws_date_first_payment_type",
+    "_fpdws_date_first_payment_calculated",
+    "_subscription_trial_length",
+    "_subscription_trial_period"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:05.541Z"
+}

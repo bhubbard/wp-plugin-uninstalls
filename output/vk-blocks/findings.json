@@ -1,0 +1,30 @@
+{
+  "options": [
+    "vk_blocks_options",
+    "vk_blocks_checked_flags",
+    "vk_blocks_balloon_meta",
+    "vk_font_awesome_options",
+    "vk_blocks_load_bootstrap",
+    "recently_activated",
+    "vk_font_awesome_version",
+    "lightning_theme_options",
+    "vk_color_manager_options",
+    "katawara_theme_options",
+    "vk_css_optimize_options",
+    "woocommerce_shop_page_id",
+    "vkExUnit_common_options",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vkblocks_dismissed_notice_pro",
+    "tgmpa_dismissed_notice_*",
+    "term_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:44.538Z"
+}

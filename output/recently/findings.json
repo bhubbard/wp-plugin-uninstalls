@@ -1,0 +1,22 @@
+{
+  "options": [
+    "recently_ver",
+    "recently_transients",
+    "recently_config",
+    "active_sitewide_plugins",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "widget_recently",
+    "recently_rand"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "views"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:58.225Z"
+}

@@ -1,0 +1,42 @@
+{
+  "options": [
+    "smarttags_shared_key_*",
+    "smarttags_cloud_job_id",
+    "smarttags_cloud_registered_at",
+    "smarttags_cloud_last_sync",
+    "smarttags_cloud_last_cleanup",
+    "smarttags_dlm_activation_token",
+    "smarttags_dlm_license_key",
+    "smarttags_dlm_consumer_key",
+    "smarttags_dlm_consumer_secret",
+    "smarttags_dlm_activated_domain",
+    "smarttags_dlm_domain_mismatch",
+    "smarttags_last_deactivation_cancelled_count",
+    "smarttags_auto_runs_count",
+    "smarttags_install_hash",
+    "smarttags_shared_key_google",
+    "smarttags_shared_key_groq",
+    "smarttags_settings_v1"
+  ],
+  "transients": [
+    "smarttags_cloud_status",
+    "smarttags_temp_ai_enabled_*",
+    "smarttags_dlm_license_status",
+    "smarttags_google_rate_limit_hit",
+    "smarttags_remote_prompts",
+    "smarttags_lock",
+    "smarttags_tag_popularity",
+    "smarttags_count_with_suggestions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smarttags_suggestions",
+    "_smarttags_optout",
+    "_smarttags_last_auto_applied",
+    "_smarttags_tag_dates",
+    "_smarttags_ai_tags"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:17.638Z"
+}

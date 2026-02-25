@@ -1,0 +1,18 @@
+{
+  "options": [
+    "buddybot_welcome_modal_dismissed",
+    "buddybot_columns_per_page",
+    "buddybot_conversations_per_page",
+    "buddybot_vectorstore_data",
+    "*-remote-file-id",
+    "buddybot_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "buddybot_delete_expired_chats"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:53.460Z"
+}

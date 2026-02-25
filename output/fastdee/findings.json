@@ -1,0 +1,19 @@
+{
+  "options": [
+    "fd_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fd_coupon_lomadee_id",
+    "_wp_attachment_image_alt",
+    "_price",
+    "_regular_price",
+    "_product_url",
+    "_fd_store_id",
+    "_fd_offer_fastdee_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:41.357Z"
+}

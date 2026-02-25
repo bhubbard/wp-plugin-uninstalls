@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ip_statistic_ver",
+    "ip_statistic_showcounts",
+    "ip_statistic_savedays",
+    "ip_statistic_saverows",
+    "ip_statistic_onlogin",
+    "ip_statistic_errlogin",
+    "ip_statistic_showlogin",
+    "ip_statistic_sav_pas_errlogin",
+    "ip_statistic_save_pass_ex"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:19.939Z"
+}

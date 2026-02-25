@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_awooc_active",
+    "woocommerce_awooc_text_rated",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_num_decimals",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_awooc_mode_catalog",
+    "woocommerce_awooc_output_catalog",
+    "woocommerce_awooc_title_button",
+    "woocommerce_awooc_title_custom",
+    "woocommerce_awooc_select_form",
+    "woocommerce_placeholder_image",
+    "woocommerce_awooc_change_subject",
+    "woocommerce_awooc_enable_letter_template",
+    "woocommerce_awooc_created_order",
+    "woocommerce_awooc_change_name",
+    "woocommerce_awooc_not_del_settings",
+    "woocommerce_awooc_select_item"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:41.986Z"
+}

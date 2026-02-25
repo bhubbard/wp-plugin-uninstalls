@@ -1,0 +1,16 @@
+{
+  "options": [
+    "motion_option_boxClass",
+    "motion_option_offset",
+    "motion_option_mobile",
+    "motion_option_live",
+    "motion_option_customCSS",
+    "motion_option_motionClass"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:31.273Z"
+}

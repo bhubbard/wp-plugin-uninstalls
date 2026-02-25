@@ -1,0 +1,21 @@
+{
+  "options": [
+    "agp_automatic",
+    "agp_diphthongs",
+    "agp_automatic_post",
+    "agp_automatic_tax",
+    "agp_conversion",
+    "agp_version",
+    "auto_gr_permalinks_automatic",
+    "auto_gr_permalinks_diphthongs",
+    "auto_gr_permalinks_dipthongs"
+  ],
+  "transients": [
+    "agp_notice_dismiss"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:53.164Z"
+}

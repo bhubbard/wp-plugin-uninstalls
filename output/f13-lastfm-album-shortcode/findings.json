@@ -1,0 +1,14 @@
+{
+  "options": [
+    "lfmastoken",
+    "lfmascache_timeout"
+  ],
+  "transients": [
+    "f13lfmas*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:27.486Z"
+}

@@ -1,0 +1,17 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('download-monitor-hide-beta-notice', 'download-monitor-rate-time', 'dlm_master_license', 'dlm_db_upgraded', 'dlm_xsendfile_enabled', 'dlm_allow_x_forwarded_for', 'dlm_hotlink_protection_enabled', 'dlm_current_version', 'dlm_default_template', 'dlm_custom_template', 'dlm_activation_check_default_languages', 'dlm_download_endpoint', 'dlm_check_default_languages', 'dlm_allowed_paths', 'dlm_network_settings', 'dlm_downloads_path', 'dlm_settings_tab_saved', 'dlm_hide_notice-nginx_rules', 'dlm_turn_off_file_browser', 'dlm_enable_logging', 'dlm_shop_enabled', 'dlm_no_access_modal', 'icl_sitepress_settings', 'dlm_no_access_page', 'dlm_download_endpoint_value', 'dlm_ip_blacklist', 'dlm_user_agent_blacklist', 'dlm_no_access_error', 'dlm_invoice_prefix', 'gateway_paypal_invoice_prefix', 'dlm_logging_ip_type', 'dlm_count_unique_ips', 'dlm_wp_search_enabled', 'dlm_product_errors', 'dlm_rest_api_key', 'dlm_tc_global', 'dlm_tc_content_page', 'dlm_tc_text', 'dlm_extension_json', 'dlm_pro_extensions', 'dlm_tables_check', 'dlm_download_endpoints_rewrite', 'dlm_allowed_paths_settings', 'dlm_extension_json_error', 'dlm_robots_txt', 'dlm_db_upgrade_offset', 'dlm_needs_upgrade', 'dlm_upgrade_type', 'dlm_templates_info');
+DELETE FROM wp_options WHERE option_name LIKE '%-license';
+DELETE FROM wp_options WHERE option_name LIKE 'dlm_generate_hash_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_enabled';
+DELETE FROM wp_options WHERE option_name LIKE 'dlm_%';
+DELETE FROM wp_options WHERE option_name LIKE 'dlm_hide_notice-%';
+DELETE FROM wp_options WHERE option_name LIKE 'dlm_file_version_ids_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_download_count', '_featured', '_members_only', '_redirect_only', '_dlm_tc_locked', '_new_tab', '_version', '_filesize', '_files', '_md5', '_sha1', '_sha256', '_crc32', 'metaboxhidden_dlm_download', 'dlm_protected_file', 'dlm_download', '_wp_attached_file', '_wp_attachment_backup_sizes', '_wp_attachment_metadata', '_thumbnail_id', '_price', '_taxable', '_tax_class', '_downloads');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_download_count', '_featured', '_members_only', '_redirect_only', '_dlm_tc_locked', '_new_tab', '_version', '_filesize', '_files', '_md5', '_sha1', '_sha256', '_crc32', 'metaboxhidden_dlm_download', 'dlm_protected_file', 'dlm_download', '_wp_attached_file', '_wp_attachment_backup_sizes', '_wp_attachment_metadata', '_thumbnail_id', '_price', '_taxable', '_tax_class', '_downloads');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_download_count', '_featured', '_members_only', '_redirect_only', '_dlm_tc_locked', '_new_tab', '_version', '_filesize', '_files', '_md5', '_sha1', '_sha256', '_crc32', 'metaboxhidden_dlm_download', 'dlm_protected_file', 'dlm_download', '_wp_attached_file', '_wp_attachment_backup_sizes', '_wp_attachment_metadata', '_thumbnail_id', '_price', '_taxable', '_tax_class', '_downloads');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_download_count', '_featured', '_members_only', '_redirect_only', '_dlm_tc_locked', '_new_tab', '_version', '_filesize', '_files', '_md5', '_sha1', '_sha256', '_crc32', 'metaboxhidden_dlm_download', 'dlm_protected_file', 'dlm_download', '_wp_attached_file', '_wp_attachment_backup_sizes', '_wp_attachment_metadata', '_thumbnail_id', '_price', '_taxable', '_tax_class', '_downloads');
+

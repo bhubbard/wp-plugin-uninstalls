@@ -1,0 +1,25 @@
+{
+  "options": [
+    "humera_job_form_settings",
+    "humera_smtp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "humera_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_humera_job_views",
+    "_humera_job_location",
+    "_applicant_name",
+    "_applicant_email",
+    "_applicant_cv",
+    "_job_applied_for",
+    "_humera_application_data",
+    "_humera_job_salary",
+    "_humera_job_deadline",
+    "_humera_job_application_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:55.810Z"
+}

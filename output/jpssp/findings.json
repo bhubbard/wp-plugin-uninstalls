@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sharedaddy_disable_resources"
+  ],
+  "transients": [
+    "jpssp-feedly-api"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:53.299Z"
+}

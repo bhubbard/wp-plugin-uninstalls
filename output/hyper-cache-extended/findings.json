@@ -1,0 +1,14 @@
+{
+  "options": [
+    "hyper_cache_extended",
+    "gltr_preferred_languages"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hyper_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:12.814Z"
+}

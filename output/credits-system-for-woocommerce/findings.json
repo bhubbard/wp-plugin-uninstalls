@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_credit_number",
+    "_credit_price",
+    "credit_number",
+    "credit_price",
+    "_remaining_credits",
+    "_credits_amount",
+    "_credit_bundle_product",
+    "_credit_name",
+    "_visibility",
+    "_credits_removed",
+    "_credits_used",
+    "_credits_added"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:43.952Z"
+}

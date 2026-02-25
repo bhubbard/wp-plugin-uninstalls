@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mo_empdir_admin_phone', 'mo_emp_activation_mail', 'Activated_Plugin', 'mo_empdir_message', 'Activation_term_flag', 'template_all_emp', 'mo_emp_custom_fields', 'mo_empdir_customFields', 'mo_empdir_employee_taxonomies', 'employee-directory-department');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_moemp_email', '_moemp_title', '_thumbnail_id', '_wp_attachment_image_alt', '_moemp_user_id', '_moemp_first_name', '_moemp_last_name', '_moemp_sample');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_moemp_email', '_moemp_title', '_thumbnail_id', '_wp_attachment_image_alt', '_moemp_user_id', '_moemp_first_name', '_moemp_last_name', '_moemp_sample');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_moemp_email', '_moemp_title', '_thumbnail_id', '_wp_attachment_image_alt', '_moemp_user_id', '_moemp_first_name', '_moemp_last_name', '_moemp_sample');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_moemp_email', '_moemp_title', '_thumbnail_id', '_wp_attachment_image_alt', '_moemp_user_id', '_moemp_first_name', '_moemp_last_name', '_moemp_sample');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_moemp_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_moemp_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_moemp_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_moemp_%';
+

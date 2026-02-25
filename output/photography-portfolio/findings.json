@@ -1,0 +1,18 @@
+{
+  "options": [
+    "phort_sample_post",
+    "phort_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_attachment_video_url",
+    "phort_gallery",
+    "phort_subtitle",
+    "phort_*",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:28.777Z"
+}

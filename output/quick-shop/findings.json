@@ -1,0 +1,32 @@
+{
+  "options": [
+    "quickshop_currency",
+    "quickshop_symbol",
+    "quickshop_decimal",
+    "quickshop_thousands",
+    "quickshop_checkout_page",
+    "quickshop_display",
+    "quickshop_total",
+    "quickshop_logged",
+    "quickshop_freeshipv",
+    "quickshop_title",
+    "quickshop_tc",
+    "quickshop_payment_return_url",
+    "quickshop_email_enabled",
+    "quickshop_paypal_enabled",
+    "quickshop_paypal_email",
+    "quickshop_paypal_notify_url",
+    "quickshop_location",
+    "quickshop_products",
+    "quickshop_shipping_start",
+    "quickshop_shipping"
+  ],
+  "transients": [
+    "qs_cart_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:35.507Z"
+}

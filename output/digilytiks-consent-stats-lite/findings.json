@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dglytks_cs_version",
+    "dglytks_cs_settings",
+    "dglytks_cs_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:01.588Z"
+}

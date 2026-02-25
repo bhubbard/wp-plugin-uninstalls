@@ -1,0 +1,16 @@
+{
+  "options": [
+    "twitch_settings",
+    "twitch_plugin_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "twitch_live_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:30.507Z"
+}

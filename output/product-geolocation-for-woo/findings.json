@@ -1,0 +1,17 @@
+{
+  "options": [
+    "product_geolocation_for_woo_version"
+  ],
+  "transients": [
+    "product_geolocation_for_woo_missing_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wprwcp_product_gmap_address",
+    "_wprwcp_product_gmap_latitude",
+    "_wprwcp_product_gmap_longitude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:20.675Z"
+}

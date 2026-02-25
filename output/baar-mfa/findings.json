@@ -1,0 +1,22 @@
+{
+  "options": [
+    "baarmfa_settings",
+    "baar_settings",
+    "BAAR_EmailSetting",
+    "BAAR_Report",
+    "bca_brand_name",
+    "bca_brand_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_setup_later_date",
+    "account_status",
+    "_otp_verified",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:43.408Z"
+}

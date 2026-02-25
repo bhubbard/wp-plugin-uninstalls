@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_updated",
+    "renesse_widget_events",
+    "renesse_widget_activities",
+    "renesse_widget_plugin_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:36.712Z"
+}

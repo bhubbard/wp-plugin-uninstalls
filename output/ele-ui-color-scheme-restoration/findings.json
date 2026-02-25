@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ele-ui-color-scheme-restoration-settings",
+    "light_mode_colors",
+    "dark_mode_colors",
+    "brand_colors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:52.327Z"
+}

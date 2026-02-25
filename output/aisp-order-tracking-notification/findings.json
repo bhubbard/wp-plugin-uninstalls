@@ -1,0 +1,13 @@
+{
+  "options": [
+    "aisp_order-tracking-notification_cleanup_on_uninstall",
+    "aisp_order-tracking-notification_api_key",
+    "aisp_order-tracking-notification_pickup_methods"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:16.898Z"
+}

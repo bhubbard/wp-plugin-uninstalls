@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_shop_slug",
+    "woocommerce_prepend_shop_page_to_urls",
+    "catalyst_connect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:55.862Z"
+}

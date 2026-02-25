@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpfbmb_feed_fb_messenger_chat_bot_application_credentials",
+    "wpfbmb_feed_fb_messenger_chat_bot_application_option_setting",
+    "wpfbmb_fb_messenger_pages_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:35.005Z"
+}

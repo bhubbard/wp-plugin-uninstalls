@@ -1,0 +1,35 @@
+{
+  "options": [
+    "spiff_infrastructure",
+    "spiff_plugin_was_activated",
+    "spiff_api_key",
+    "spiff_api_secret",
+    "spiff_application_key",
+    "spiff_show_customer_selections_in_cart",
+    "spiff_show_preview_images_in_cart",
+    "spiff_non_bulk_text",
+    "spiff_font_size",
+    "spiff_font_weight",
+    "spiff_text_color",
+    "spiff_background_color",
+    "spiff_width",
+    "spiff_height",
+    "spiff_customer_portal_button_text",
+    "spiff_customer_portal_button_font_size",
+    "spiff_customer_portal_button_font_weight",
+    "spiff_customer_portal_button_text_color",
+    "spiff_customer_portal_button_background_color",
+    "spiff_customer_portal_button_width",
+    "spiff_customer_portal_button_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:26.949Z"
+}

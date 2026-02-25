@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sfs_effect",
+    "sfs_slideshowSpeed",
+    "sfs_animationSpeed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sfs_gallery_images",
+    "_sfs_slider_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:01.740Z"
+}

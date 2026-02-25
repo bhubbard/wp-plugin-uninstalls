@@ -1,0 +1,12 @@
+{
+  "options": [
+    "arbana_activation_sync_notice",
+    "arbana_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:46.801Z"
+}

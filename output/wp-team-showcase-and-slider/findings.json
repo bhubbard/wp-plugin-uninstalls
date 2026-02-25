@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wpos_anylc_redirect",
+    "wpos_anylc_site_uid"
+  ],
+  "transients": [
+    "tsas_install_notice",
+    "wpos_anylc_optin_notice_*",
+    "espbw_plugins_data"
+  ],
+  "cron_jobs": [
+    "wpos_monthly_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_member_designation",
+    "_member_department",
+    "_skills",
+    "_member_experience",
+    "_facebook_link",
+    "_google_link",
+    "_likdin_link",
+    "_twitter_link",
+    "_testimonial_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:39.990Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "actionnetwork_api_key",
+    "actionnetwork_version",
+    "actionnetwork_db_version",
+    "actionnetwork_deferred_admin_notices",
+    "actionnetwork_cache_timestamp",
+    "actionnetwork_queue_status",
+    "actionnetwork_ajax_token",
+    "actionnetwork_show_sync_notice",
+    "actionnetwork_hcaptcha_site_key",
+    "actionnetwork_hcaptcha_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "actionnetwork_cron_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:04.632Z"
+}

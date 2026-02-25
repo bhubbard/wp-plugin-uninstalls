@@ -1,0 +1,51 @@
+{
+  "options": [
+    "envira_lite_version",
+    "envira_lite_wizard",
+    "envira_version",
+    "envira_over_time",
+    "envira_debug",
+    "envira_pro_upgrade_header_dismissed",
+    "envira_gallery",
+    "envira_gallery_116",
+    "envira_gallery_121",
+    "envira_tags_taxonomy_migrated",
+    "envira_gallery_shareasale_id",
+    "envira_admin_menu_tooltip",
+    "envira_gallery_notices",
+    "hide_am_notices",
+    "envira_onboarding_data",
+    "envira_permissions_default",
+    "envira_gallery_review",
+    "envira_permissions_set_default",
+    "envira_usage_tracking_last_checkin",
+    "envira_usage_tracking_config",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [
+    "_eg_cache_*",
+    "_eg_cache_all",
+    "_envira_lite_activation_redirect",
+    "envira_lite_updated",
+    "_eg_addons"
+  ],
+  "cron_jobs": [
+    "envira_admin_notifications_update",
+    "envira_usage_tracking_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_eg_gallery_data",
+    "_eg_gallery_id",
+    "_eg_has_gallery",
+    "_eg_in_gallery",
+    "_wp_attachment_image_alt",
+    "_eg_gallery_old",
+    "_eg_gallery_old_slug",
+    "_eg_in_posts",
+    "_eg_just_published"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:21.375Z"
+}

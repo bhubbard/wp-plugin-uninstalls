@@ -1,0 +1,48 @@
+{
+  "options": [
+    "rtbiz_activation_redirect",
+    "rtbiz_acl_module_permissions",
+    "rt_product_plugin_sync",
+    "p2p_storage",
+    "rthd_googleapi_redirecturl",
+    "rthd_googleapi_clientid",
+    "rthd_googleapi_clientsecret",
+    "rtbiz_taxonomy_metadata_migration_complete",
+    "*-meta",
+    "r_notice_data",
+    "*-transients",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "redux-framework-tracking",
+    "redux_version_upgraded_from",
+    "redux_support_hash",
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES"
+  ],
+  "transients": [
+    "*-transient",
+    "redux_tracking_cache",
+    "redux-extensions-fetch",
+    "_redux_activation_redirect",
+    "redux_contributors",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "rt_parse_email_cron",
+    "rt_send_email_cron",
+    "redux_tracking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rtbiz_profile_permissions",
+    "rtbiz_is_staff_member",
+    "rtbiz_show_welcome_panel",
+    "dismissed_wp_pointers",
+    "_rtlib_messageid",
+    "_rtlib_references",
+    "ignore_hints",
+    "ignore_*",
+    "_error_data_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:02.081Z"
+}

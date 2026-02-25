@@ -1,0 +1,16 @@
+{
+  "options": [
+    "userlogs_welcome",
+    "userlogs_cron_cycle"
+  ],
+  "transients": [
+    "userlogs_activation_redirect_transient"
+  ],
+  "cron_jobs": [
+    "purge_user_logs_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:02.218Z"
+}

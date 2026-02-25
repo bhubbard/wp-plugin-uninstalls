@@ -1,0 +1,20 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_fundiin_settings'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_settings'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_shipping_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_shipping_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_shipping_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_shipping_phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_billing_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_billing_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_billing_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_billing_phone'"

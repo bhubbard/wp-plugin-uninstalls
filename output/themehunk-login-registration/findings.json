@@ -1,0 +1,17 @@
+{
+  "options": [
+    "thlogin_settings",
+    "thlogin_stored_slug",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thlogin_email_verification_key",
+    "thlogin_email_verified",
+    "thlogin_pending_approval"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:55.779Z"
+}

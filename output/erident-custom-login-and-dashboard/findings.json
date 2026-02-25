@@ -1,0 +1,15 @@
+{
+  "options": [
+    "plugin_erident_settings",
+    "udb_migration_from_erident",
+    "udb_settings",
+    "udb_branding",
+    "udb_login"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:51.582Z"
+}

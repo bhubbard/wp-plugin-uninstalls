@@ -1,0 +1,21 @@
+{
+  "options": [
+    "active_shared_network_snippets",
+    "recently_activated_snippets",
+    "shared_network_snippets",
+    "menu_items",
+    "code_snippets_version",
+    "code_snippets_cloud_settings",
+    "code_snippets_settings"
+  ],
+  "transients": [
+    "settings_errors",
+    "cs_codevault_snippets",
+    "cs_local_to_cloud_map"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:26:44.015Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "klaviyo_settings",
+    "woocommerce_klaviyo_version",
+    "klaviyo_activation_time",
+    "klaviyo_feedback_response",
+    "klaviyo_review_dismissed"
+  ],
+  "transients": [
+    "update_plugins",
+    "is_klaviyo_plugin_outdated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:45.705Z"
+}

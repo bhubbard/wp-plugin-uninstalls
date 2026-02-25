@@ -1,0 +1,17 @@
+{
+  "options": [
+    "yikes_cpt_use_the_content",
+    "yikes_woo_reusable_products_tabs_applied",
+    "yikes_woo_reusable_products_tabs",
+    "yikes_woocommerce_custom_product_tabs_db_version",
+    "custom_product_tabs_onesixone_data_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yikes_woo_products_tabs"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:24.893Z"
+}

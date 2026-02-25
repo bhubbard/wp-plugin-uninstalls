@@ -1,0 +1,12 @@
+{
+  "options": [
+    "simple_error_pages_installed",
+    "simple_error_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:17.086Z"
+}

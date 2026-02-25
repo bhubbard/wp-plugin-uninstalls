@@ -1,0 +1,17 @@
+{
+  "options": [
+    "resconbop_fading_excerpt_info",
+    "resconbop_excerpt_length",
+    "resconbop_custom_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "resconbop_meta_info",
+    "resconbop_product_select",
+    "resconbop_selected_page_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:41.441Z"
+}

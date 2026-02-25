@@ -1,0 +1,7 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Transients
+wp transient delete 'ew2bc-errors'
+wp transient delete 'ew2bc-updated'
+

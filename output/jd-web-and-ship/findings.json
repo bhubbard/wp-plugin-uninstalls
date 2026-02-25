@@ -1,0 +1,28 @@
+{
+  "options": [
+    "jdws_order_send_running",
+    "jdws_order_send_total",
+    "jdws_order_send_processed",
+    "jdws_order_sync_result",
+    "jdws_selected_sync_ids",
+    "jdws_webhook_registered",
+    "jdws_webhook_token",
+    "jdws_options",
+    "jdws_sync_running",
+    "jdws_sync_processed",
+    "jdws_sync_total",
+    "jdws_sync_failed",
+    "jdws_logger_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jdws_send_pending_orders",
+    "jdws_cleanup_sync_logs_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_jdws_remote_product_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:17.695Z"
+}

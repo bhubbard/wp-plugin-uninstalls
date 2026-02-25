@@ -1,0 +1,23 @@
+{
+  "options": [
+    "payday_payment_method_*",
+    "payday_invoice_date_option",
+    "payday_send_email_on_invoice_create",
+    "woocommerce_calc_taxes",
+    "woocommerce_prices_include_tax",
+    "*_create_invoice_on_action",
+    "payday_client_id",
+    "payday_client_secret",
+    "payday_api_endpoint"
+  ],
+  "transients": [
+    "payday_upsert_products_response",
+    "payday_login_unsucessful_admin_notice",
+    "payday_login_invalid_credentials_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:52.430Z"
+}

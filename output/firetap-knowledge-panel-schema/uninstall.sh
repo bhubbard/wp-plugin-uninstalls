@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'kpsp_org_logo'
+wp option delete 'kpsp_business_type'
+wp option delete 'kpsp_org_name'
+wp option delete 'kpsp_org_url'
+wp option delete 'kpsp_org_phone'
+wp option delete 'kpsp_org_contact_type'
+wp option delete 'kpsp_org_language'
+wp option delete 'kpsp_facebook'
+wp option delete 'kpsp_instagram'
+wp option delete 'kpsp_linkedin'
+wp option delete 'kpsp_twitter'
+wp option delete 'kpsp_youtube'
+wp option delete 'kpsp_tiktok'
+wp option delete 'kpsp_google_api_key'
+wp option delete 'kpsp_google_place_id'
+wp option delete 'kpsp_enable_reviews'
+wp option delete 'kpsp_services_csv'
+wp option delete 'kpsp_locations'
+wp option delete 'kpsp_faq_items'
+wp option delete 'kpsp_weekly_hours'
+wp option delete 'kpsp_special_hours'
+wp option delete 'kpsp_products_rows'
+wp option delete 'kpsp_courses_rows'
+wp option delete 'kpsp_faq_urls'
+wp option delete 'kpsp_products_urls'
+wp option delete 'kpsp_courses_urls'
+

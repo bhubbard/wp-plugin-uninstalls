@@ -1,0 +1,17 @@
+{
+  "options": [
+    "widget_*",
+    "sidebars_widgets",
+    "sparkle-theme-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_is_custom_header",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:05.180Z"
+}

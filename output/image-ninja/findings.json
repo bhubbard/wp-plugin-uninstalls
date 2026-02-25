@@ -1,0 +1,13 @@
+{
+  "options": [
+    "image_ninja_show_activation_notice",
+    "image_ninja_images_conversion_type",
+    "image_ninja_images_quality"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:03.004Z"
+}

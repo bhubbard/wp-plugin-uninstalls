@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wooct_settings",
+    "wooct_localization",
+    "wooct_*",
+    "wooct_localization_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wooct_active",
+    "wooct_style",
+    "wooct_color",
+    "wooct_time",
+    "wooct_time_start",
+    "wooct_time_end",
+    "wooct_text_above",
+    "wooct_text_under",
+    "wooct_text_ended",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:42.091Z"
+}

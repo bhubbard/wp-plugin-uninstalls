@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woo_coupon_free_shipping_options",
+    "woo_coupon_free_shipping_discount_text_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "free_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:16.056Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "elementor_load_fa4_shim",
+    "elementor_active_kit",
+    "widget_*",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "aarambha_ds_author_themes",
+    "aarambha_ds_demo_categories",
+    "aarambha_ds_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_is_custom_header",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id",
+    "_menu_item_menu_item_parent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:11.333Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "tracking_ready_text",
+    "mail_send_general",
+    "sms_provider",
+    "sms_send_general",
+    "BsmsApp_UserName",
+    "BsmsApp_Password",
+    "BsmsApp_Header",
+    "BsmsApp_sms_url_send",
+    "BsmsApp_footer",
+    "BsmsApp_sender",
+    "BsmsApp_type",
+    "Bsmsapp_sim",
+    "Bsmsapp_mode",
+    "Bsmsapp_device",
+    "Bsmsapp_deviceid",
+    "Bsmsapp_waid",
+    "BsmsApp_m1",
+    "BsmsApp_m2"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tracking_company",
+    "tracking_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:42.565Z"
+}

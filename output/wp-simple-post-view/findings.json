@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_simple_post_view_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_view",
+    "is_post_view"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:18.358Z"
+}

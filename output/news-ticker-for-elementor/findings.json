@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wbelnt_custom_css",
+    "wbelnt_custom_js",
+    "wbelnt_deactivation_reason_*",
+    "wbelnt_deactivation_details_*",
+    "wbelnt_deactivation_email_*",
+    "wbelnt_deactivation_main_reason_*",
+    "wbelnt_installed_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:02.053Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wowpi_options",
+    "wowpi_characters",
+    "wowpi_guilds_progress",
+    "wowpi_guilds",
+    "wowpi_character_races",
+    "wowpi_character_classes",
+    "wowpi_artifact_weapons_*",
+    "wowpi_spells_*",
+    "wowpi_realms_data",
+    "wowpi_character_achievements",
+    "wowpi_guild_achievements",
+    "wowpi_progression_data",
+    "wowpi_items_*",
+    "wowpi_realms",
+    "styling"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:21.694Z"
+}

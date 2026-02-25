@@ -1,0 +1,15 @@
+{
+  "options": [
+    "video_accessibility_statement",
+    "video_accessibility_youtube_api_key",
+    "video_accessibility_youtube_nocookie"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "video_accessibility_transcript"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:00.550Z"
+}

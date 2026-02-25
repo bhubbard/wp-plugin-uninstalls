@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wonderplugin_slider_usepostsave",
+    "wonderplugin_slider_addextrabackslash",
+    "wonderplugin_slider_supportmultilingual",
+    "wonderplugin_slider_userrole",
+    "wonderplugin_slider_keepdata",
+    "wonderplugin_slider_disableupdate",
+    "wonderplugin_slider_supportwidget",
+    "wonderplugin_slider_addjstofooter",
+    "wonderplugin_slider_jsonstripcslash",
+    "wonderplugin_slider_thumbnailsize",
+    "wonderplugin_slider_jetpackdisablelazyload",
+    "wonderplugin_slider_information"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "total_sales"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:44.267Z"
+}

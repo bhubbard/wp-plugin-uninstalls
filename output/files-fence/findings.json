@@ -1,0 +1,15 @@
+{
+  "options": [
+    "filesfence_wp_version",
+    "filesfence_search_main_files",
+    "filesfence_create"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "filesfence_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:28.227Z"
+}

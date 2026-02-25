@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wccutccfw_nascondi_emailbenvenuto",
+    "wccutccfw_nascondi_colonna_wooadmin",
+    "wccutccfw_nascondi_colonna_wooorder",
+    "wccutccfw_nascondi_codiceareaclienti",
+    "site_admins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "_customer_user",
+    "nickname",
+    "billing_first_name",
+    "billing_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:23.409Z"
+}

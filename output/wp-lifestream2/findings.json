@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lifestream_options",
+    "lifestream_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lifestream_cron",
+    "lifestream_cleanup",
+    "lifestream_digest_cron",
+    "Lifestream_Hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_lifestream_digest_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:53.237Z"
+}

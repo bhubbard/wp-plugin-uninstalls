@@ -1,0 +1,14 @@
+{
+  "options": [
+    "post_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gmk_field",
+    "_gmk"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:55.197Z"
+}

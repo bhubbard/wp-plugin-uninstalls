@@ -1,0 +1,26 @@
+{
+  "options": [
+    "product_ratings",
+    "gr_setup",
+    "gr_DeliveryMethod",
+    "gr_PaymentMethod",
+    "gr_BusinessFunction",
+    "gr_UnitOfMeasurement",
+    "gr_billingIncrement",
+    "gr_availableAtOrFrom",
+    "gr_condition",
+    "gr_eligibleCustomerTypes",
+    "gr_language",
+    "gr_validity",
+    "currency_type",
+    "gr_PartsAndLabor-PickUp",
+    "gr_PartsAndLabor-BringIn",
+    "gr_Labor-BringIn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:32.997Z"
+}

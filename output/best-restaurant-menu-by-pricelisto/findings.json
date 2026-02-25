@@ -1,0 +1,15 @@
+{
+  "options": [
+    "brm_show_phpver_notice",
+    "brm_show_wpver_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:57.601Z"
+}

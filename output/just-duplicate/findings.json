@@ -1,0 +1,16 @@
+{
+  "options": [
+    "JUST_DUPLICATE_settings",
+    "JUST_DUPLICATE_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "just_duplicate_schedule_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_jd_original_post"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:10.787Z"
+}

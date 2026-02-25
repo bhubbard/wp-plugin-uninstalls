@@ -1,0 +1,13 @@
+{
+  "options": [
+    "kc-fonts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ebdi_kc_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:03.005Z"
+}

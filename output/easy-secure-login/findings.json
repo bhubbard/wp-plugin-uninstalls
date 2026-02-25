@@ -1,0 +1,17 @@
+{
+  "options": [
+    "eslgp_settings",
+    "eslgp_show_setup_notice",
+    "eslgp_wizard_progress"
+  ],
+  "transients": [
+    "eslgp_plugin_last_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "google_profile_picture"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:18.307Z"
+}

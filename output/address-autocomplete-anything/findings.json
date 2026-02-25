@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wps_aa_language",
+    "wps_aa_google_api_key",
+    "wps_aa_results_title",
+    "wps_aa_instances",
+    "wps_aa_review",
+    "wps_aa_install_time",
+    "*options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:55.144Z"
+}

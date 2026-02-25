@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_jquery_manager_plugin_jquery_settings",
+    "wp_jquery_manager_plugin_jquery_migrate_settings",
+    "external_updates-wp_jquery_manager_plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:07.382Z"
+}

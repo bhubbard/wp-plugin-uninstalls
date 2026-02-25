@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aioi_post_identifier",
+    "_aioi_social_network",
+    "_aioi_original_url",
+    "_aioi_link_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:28.064Z"
+}

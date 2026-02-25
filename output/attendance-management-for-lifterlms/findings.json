@@ -1,0 +1,30 @@
+{
+  "options": [
+    "llmsat_version",
+    "llmsat_migration_status",
+    "llmsat_db_version",
+    "llms_integration_lifterlms_attendance_enabled",
+    "llmsat_use_custom_table",
+    "llms_integration_global_attendance_enabled",
+    "llms_integration_attendance_marking_roles",
+    "llms_integration_reporting_enabled",
+    "llms_integration_auto_refresh_enabled",
+    "llms_integration_email_alerts_enabled",
+    "llms_integration_low_attendance_threshold",
+    "llmsat_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "llmsat_daily_attendance_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "llmsatck1",
+    "_llmsat_test_user",
+    "_llmsat_test_course",
+    "_llms_price",
+    "_llms_enrollment_opens_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:06.556Z"
+}

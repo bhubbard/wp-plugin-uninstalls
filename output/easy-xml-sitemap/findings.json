@@ -1,0 +1,15 @@
+{
+  "options": [
+    "easy_xml_sitemap_settings",
+    "easy_xml_sitemap_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "easy_xml_sitemap_do_ping",
+    "easy_xml_sitemap_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:49.531Z"
+}

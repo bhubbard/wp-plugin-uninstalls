@@ -1,0 +1,18 @@
+{
+  "options": [
+    "developer_sitemap_options"
+  ],
+  "transients": [
+    "developer_sitemap_cache_index",
+    "developer_sitemap_cache_post",
+    "developer_sitemap_cache_page",
+    "developer_sitemap_cache_product",
+    "developer_sitemap_cache_taxonomy",
+    "developer_sitemap_cache_author"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:55.954Z"
+}

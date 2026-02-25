@@ -1,0 +1,23 @@
+{
+  "options": [
+    "virtuaria_magalu_products_db_version",
+    "virtuaria_magalu_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "virtuaria_magalu_update_token",
+    "virtuaria_magalu_product_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "_weight",
+    "_height",
+    "_width",
+    "_length",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:49.153Z"
+}

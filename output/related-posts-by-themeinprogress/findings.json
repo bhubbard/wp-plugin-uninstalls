@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tiprp_settings",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tiprp_dismissed_notice_userid_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:33.679Z"
+}

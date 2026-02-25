@@ -1,0 +1,36 @@
+{
+  "options": [
+    "dp_it_general_options",
+    "dpit_db_version",
+    "dp_it_text_styles_options",
+    "dpit_plugin_build_type",
+    "dp_it_labeling_options",
+    "active_sitewide_plugins",
+    "cptui_post_types",
+    "cptui_taxonomies",
+    "acf_version"
+  ],
+  "transients": [
+    "acf_deactivated_notice_id",
+    "acf_network_upgrade_needed_*",
+    "transient_ajax_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dpit_step_count",
+    "dpit_steps_url_relative",
+    "dpit_steps_url_unified",
+    "dp_it_admin_color_v6",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:00.306Z"
+}

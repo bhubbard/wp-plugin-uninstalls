@@ -1,0 +1,13 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('earthquake_db_version');
+delete_site_option('earthquake_db_version');
+delete_option('widget_earthquakemonitor');
+delete_site_option('widget_earthquakemonitor');
+

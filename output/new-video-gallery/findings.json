@@ -1,0 +1,16 @@
+{
+  "options": [
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "awl_vg_settings_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:02.813Z"
+}

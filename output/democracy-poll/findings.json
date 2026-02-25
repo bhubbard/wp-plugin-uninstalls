@@ -1,0 +1,15 @@
+{
+  "options": [
+    "democracy_version",
+    "democracy_css",
+    "democracy_migrated",
+    "poll_allowtovote",
+    "democracy_l10n"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:28.167Z"
+}

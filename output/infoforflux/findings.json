@@ -1,0 +1,23 @@
+{
+  "options": [
+    "infoforflux_name",
+    "infoforflux_expire_block",
+    "infoforflux_operator_port",
+    "infoforflux_theme",
+    "infoforflux_renew_reminder",
+    "infoforflux_renew_reminder_days",
+    "infoforflux_wp_repo",
+    "infoforflux_mysql_repo",
+    "infoforflux_mysql_nologbin",
+    "infoforflux_operator_repo",
+    "infoforflux_block_height"
+  ],
+  "transients": [
+    "infoforflux_expiration_notice_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:53.753Z"
+}

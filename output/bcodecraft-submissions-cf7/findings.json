@@ -1,0 +1,32 @@
+{
+  "options": [
+    "bccs_activated",
+    "bccs_version",
+    "bccs_retention_days",
+    "bccs_enable_logging",
+    "bccs_enable_charts",
+    "bccs_frontend_integration",
+    "bccs_login_integration",
+    "bccs_cf7_status",
+    "bccs_db_version",
+    "bccs_activated_time"
+  ],
+  "transients": [
+    "bccs_admin_notice",
+    "bccs_stats_cache",
+    "bccs_show_ready_notice",
+    "bccs_stats_*",
+    "bccs_stats_all",
+    "bccs_stats"
+  ],
+  "cron_jobs": [
+    "bccs_db_cleanup",
+    "bccs_log_cleanup",
+    "bccs_security_cleanup",
+    "bccs_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:27.682Z"
+}

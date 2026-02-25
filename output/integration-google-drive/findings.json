@@ -1,0 +1,30 @@
+{
+  "options": [
+    "ccpigd_shared_thumbnails_type",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "ccpigd_version",
+    "ccpigd_install_time",
+    "ccpigd_encryption_key",
+    "ccpigd_thumbnail_lifetime"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "ccpigd_rating_notice_interval"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "ccpigd_cron_fire"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:50.888Z"
+}

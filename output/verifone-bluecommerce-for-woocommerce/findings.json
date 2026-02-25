@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_verifone_onboarding_completed",
+    "woocommerce_currency",
+    "verifone_payment_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "verifoneCheckPaymentStatusCronAction",
+    "verifoneUpdatePaymentMethodsCronAction"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:45.376Z"
+}

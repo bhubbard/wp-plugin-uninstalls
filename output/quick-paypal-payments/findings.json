@@ -1,0 +1,49 @@
+{
+  "options": [
+    "quick-paypal-payments-settings-1",
+    "quick-paypal-payments-settings-2",
+    "qpp_message",
+    "qpp_messages*",
+    "qpp_messageoptions",
+    "qpp_setup",
+    "qpp_curr",
+    "qpp_email",
+    "qpp_options*",
+    "qpp_send*",
+    "qpp_style*",
+    "qpp_error*",
+    "qpp_ipn",
+    "qpp_multiples*",
+    "qpp_coupon*",
+    "qpp_address*",
+    "qpp_autoresponder*",
+    "qpp_mailinglist",
+    "qpp_sandbox",
+    "qpp_screen_messages",
+    "qpp_key",
+    "qpp_legacy_free",
+    "qpp_licence_generated",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wfea_dismissed_notices",
+    "qpp_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:04.400Z"
+}

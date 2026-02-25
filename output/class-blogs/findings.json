@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cb_disabled_plugins",
+    "cb_version",
+    "cb_plugin_pages",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:13.686Z"
+}

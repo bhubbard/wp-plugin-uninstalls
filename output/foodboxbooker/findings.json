@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fbbttm_fbbttm-shop_page_id",
+    "fbbttm_fbbttm-cart_page_id",
+    "fbbttm_fbbttm-checkout_page_id",
+    "fbbttm_fbbttm-myaccount_page_id",
+    "fbbttm_fbbttm-order-received_page_id",
+    "fbbttm_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fbbttmprice",
+    "themetechmount_fooditems_list_data",
+    "fbbttm_fbbttm_foodboxbooker_fooditems_list_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:43.856Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "*_temp_api_credentials",
+    "handmade_params",
+    "woocommerce_logs_retention_period_days",
+    "handmade_setup_wizard",
+    "default_product_cat",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "*_background_download_images_complete",
+    "*_process_lock",
+    "*_complete",
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [
+    "*_background_download_images_cron",
+    "publish_future_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_product_image_gallery",
+    "*_imported_per_page",
+    "_wp_page_template",
+    "_handmade_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:18.262Z"
+}

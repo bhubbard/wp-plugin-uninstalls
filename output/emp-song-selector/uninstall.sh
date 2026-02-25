@@ -1,0 +1,52 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%settings'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%stats'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%version'"
+
+# Delete Transients
+wp transient delete 'update_plugins'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'song_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'song_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'song_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'song_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'event_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'event_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'event_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'event_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'song_length'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'song_length'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'song_length'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'song_length'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ms_playlists'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ms_playlists'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ms_playlists'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ms_playlists'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ms_playlist_pdf_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ms_playlist_pdf_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ms_playlist_pdf_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ms_playlist_pdf_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'artist_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'artist_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'artist_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'artist_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'song_year'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'song_year'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'song_year'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'song_year'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'song_genre'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'song_genre'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'song_genre'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'song_genre'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'sample_playlist'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'sample_playlist'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'sample_playlist'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'sample_playlist'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'song_month'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'song_month'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'song_month'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'song_month'"

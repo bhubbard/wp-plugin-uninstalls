@@ -1,0 +1,16 @@
+{
+  "options": [
+    "alg_cer_rates",
+    "alg_cer_server",
+    "alg_cer_server_api_key_fixer",
+    "alg_cer_cron_data",
+    "alg_cer_update_period",
+    "alg_currency_exchange_rates_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:13.564Z"
+}

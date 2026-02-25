@@ -1,0 +1,36 @@
+{
+  "options": [
+    "woobt_settings",
+    "woobt_localization",
+    "woobt_*",
+    "woobt_rules",
+    "woocommerce_price_display_suffix",
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woobt_ids",
+    "woobt_custom_qty",
+    "woobt_limit_each_min",
+    "woobt_limit_each_max",
+    "woobt_separately",
+    "woobt_sync_qty",
+    "woobt_disable",
+    "woobt_selection",
+    "woobt_layout",
+    "woobt_position",
+    "woobt_atc_button",
+    "woobt_show_this_item",
+    "woobt_discount",
+    "woobt_checked_all",
+    "woobt_limit_each_min_default",
+    "woobt_before_text",
+    "woobt_after_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:02.534Z"
+}

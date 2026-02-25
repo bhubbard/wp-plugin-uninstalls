@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gmw_disable_classic_widgets_alert",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "gmw_pointers"
+  ],
+  "cron_jobs": [
+    "gmw_biweekly_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:11.954Z"
+}

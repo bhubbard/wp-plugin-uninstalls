@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "apaczka_countries_cache",
+    "*_messages"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_parcel_machine_id",
+    "_parcel_machine_address",
+    "_apaczka",
+    "apaczka_delivery_point",
+    "_is_parcel_locker",
+    "_apaczka_parcel_machine_id",
+    "_apaczka_parcel_machine_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:07.909Z"
+}

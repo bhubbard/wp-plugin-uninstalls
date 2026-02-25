@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wc_hook",
+    "api_key",
+    "wc_label",
+    "show_labels",
+    "optin_type",
+    "success_string",
+    "double_string"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom-meta-box2",
+    "_custom-meta-box",
+    "news_check"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:26.517Z"
+}

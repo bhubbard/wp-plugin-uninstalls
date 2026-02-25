@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cb_parallax_options",
+    "cb_parallax_plugin"
+  ],
+  "transients": [
+    "cb_parallax_background_image_missing",
+    "cb_parallax_background_image_missmatch",
+    "cb_parallax_has_nsr"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cb_parallax"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:15.885Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id",
+    "_diller_settings",
+    "_diller_store_configs",
+    "woocommerce_default_country"
+  ],
+  "transients": [
+    "diller_flush_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname",
+    "first_name",
+    "last_name",
+    "*unsubscribed_datetime",
+    "lang"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:50.981Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "technoUTM_install_analytics",
+    "technoUTM_analytics_id",
+    "technoUTM_analytics_position",
+    "technoUTM_enable_adminbar",
+    "technoUTM_active_posts",
+    "technoUTM_default_utm_source",
+    "technoUTM_default_utm_medium",
+    "technoUTM_default_utm_campaign",
+    "technoUTM_default_utm_term",
+    "technoUTM_default_utm_content",
+    "technoUTM_active_pages",
+    "technoUTM_item_id",
+    "technoUTM_item_checked"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_techno_utm_url",
+    "_techno_utm_source",
+    "_techno_utm_medium",
+    "_techno_utm_campaign",
+    "_techno_utm_term",
+    "_techno_utm_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:33.343Z"
+}

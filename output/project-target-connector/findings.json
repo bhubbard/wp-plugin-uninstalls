@@ -1,0 +1,18 @@
+{
+  "options": [
+    "msgpt_subdomain_name",
+    "msgpt_access_token",
+    "msgpt_client_id",
+    "msgpt_refresh_token",
+    "msgpt_date_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_msgpt_product_id",
+    "_msgpt_sale_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:24.982Z"
+}

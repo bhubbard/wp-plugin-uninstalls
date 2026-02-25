@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hinagata_sb_presets",
+    "hinagata_sb_settings",
+    "hinagata_sb_template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:51.060Z"
+}

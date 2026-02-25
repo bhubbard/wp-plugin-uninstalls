@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wptech_redirection_option_show_all",
+    "wptech_redirection_option_on_off",
+    "wptech_hit_counter_option_on_off"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wptech_page_redirection_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:19.192Z"
+}

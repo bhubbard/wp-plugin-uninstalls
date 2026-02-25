@@ -1,0 +1,37 @@
+{
+  "options": [
+    "*_enable_chat_widget",
+    "*_chat_widget_app_id",
+    "*_workspace_id",
+    "*_identity_verification_secret",
+    "*_connection_status",
+    "*_event_prefix",
+    "*_enable_user_sync",
+    "*_user_roles",
+    "*_enable_background_sync",
+    "*_sync_frequency",
+    "*_enable_logs",
+    "*_enable_tags_sync",
+    "*_tags_to_sync",
+    "*_access_token",
+    "rpplstp_iws_enable_chat_widget",
+    "rpplstp_iws_chat_widget_app_id",
+    "rpplstp_iws_workspace_id",
+    "rpplstp_iws_identity_verification_secret"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_intercom_contact_id",
+    "*_synced_roles",
+    "billing_phone",
+    "rpplstp_iws_intercom_contact_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:35.965Z"
+}

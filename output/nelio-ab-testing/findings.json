@@ -1,0 +1,59 @@
+{
+  "options": [
+    "nab_show_ai_setup_screen",
+    "nab_is_subscription_deprecated",
+    "nelioab_account_settings",
+    "nelio-ab-testing_settings",
+    "woocommerce_price_num_decimals",
+    "sidebars_widgets",
+    "widget_*",
+    "woocommerce_currency_pos",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "nab_site_id",
+    "nab_api_secret",
+    "neliosr_standalone",
+    "nab_version",
+    "nab_last_quota_notification_sent",
+    "_transient_timeout_*",
+    "nab_subscription",
+    "nab_subscription_addons"
+  ],
+  "transients": [
+    "nab_news",
+    "nab_products",
+    "nab_site_object"
+  ],
+  "cron_jobs": [
+    "nab_start_scheduled_experiment",
+    "nab_check_running_experiment",
+    "nab_check_quota"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_nab_experiment_type",
+    "_nab_are_timeline_results_definitive",
+    "_nab_timeline_results",
+    "_nab_version",
+    "_nab_alternatives",
+    "_nab_goals",
+    "_nab_scope",
+    "_nab_control_backup",
+    "_nab_last_alternative_applied",
+    "_nab_experiment",
+    "custom_permalink",
+    "_nab_custom_permalink_backup",
+    "_et_builder_version",
+    "_elementor_edit_mode",
+    "_elementor_template_type",
+    "leadpages_slug",
+    "_thumbnail_id",
+    "_nab_variation_data",
+    "_regular_price",
+    "_sale_price",
+    "_product_image_gallery",
+    "_nab_is_result_public"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:31.670Z"
+}

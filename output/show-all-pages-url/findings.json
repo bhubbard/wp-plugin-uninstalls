@@ -1,0 +1,18 @@
+{
+  "options": [
+    "yydev_show_all_pages_url_main_menu",
+    "yydev_stop_plugins_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_meta-robots-noindex",
+    "_yoast_wpseo_meta-robots-nofollow"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:03.367Z"
+}

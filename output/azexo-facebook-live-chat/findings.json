@@ -1,0 +1,21 @@
+{
+  "options": [
+    "azh-fb-settings",
+    "azm-fb-pages",
+    "azm-fb-verify-token",
+    "azm-fb-access-token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "azm_send_fb_process"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fb_receivers",
+    "_fb_sent",
+    "_fb_clicks",
+    "_rule"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:33.417Z"
+}

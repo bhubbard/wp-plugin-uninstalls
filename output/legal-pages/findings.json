@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "adl_lp_general",
+    "adl_lp_social",
+    "adl_lp_misc",
+    "adl_lp_accept_term",
+    "wplp_legal_page_discount",
+    "adl_lp_excludePage",
+    "adl_demo_inserted",
+    "adl_ccpa_demo_inserted",
+    "adl_lp_popup",
+    "adl_lp_cookie"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "is_adl_legal_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:42.176Z"
+}

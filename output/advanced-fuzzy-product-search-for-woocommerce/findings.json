@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_plugin_activation_errors",
+    "*db_version",
+    "*db_installed",
+    "*plug_was_used",
+    "*_full_installed",
+    "*_options",
+    "_overview_*",
+    "_subscribe_*",
+    "_rating_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "afsw_calc_products_indexing",
+    "afsw_calc_indexing_shedule",
+    "afsw_calc_optimizing_shedule",
+    "afsw_do_users_actions",
+    "afsw_clear_history",
+    "afsw_clear_history_shedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_afsw_search_field_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:17.696Z"
+}

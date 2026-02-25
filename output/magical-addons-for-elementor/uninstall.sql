@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('magical_addons', 'magical_addons_pro', 'magical_headerfooter', 'magical_extra', 'magical_role_manager', 'magical_addons_settings_version', 'mgaddon_ready_items', 'mgaddon_version', 'mg_sales_notice_dismissed', 'mg_info_text_date2', 'magical_review_notice_dismissed', 'mg_install_date', 'mgporv_active', 'magical_role_manager_defaults_set', 'mg_plugin_activated');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_elementor_template_type', '_magical_code_location', '_magical_code_priority', '_magical_code_content', '_magical_code_conditions', '_magical_code_status');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_elementor_template_type', '_magical_code_location', '_magical_code_priority', '_magical_code_content', '_magical_code_conditions', '_magical_code_status');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_elementor_template_type', '_magical_code_location', '_magical_code_priority', '_magical_code_content', '_magical_code_conditions', '_magical_code_status');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_elementor_template_type', '_magical_code_location', '_magical_code_priority', '_magical_code_content', '_magical_code_conditions', '_magical_code_status');
+

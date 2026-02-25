@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpfkg_feed_key_status",
+    "feed_key",
+    "feed_key_status",
+    "wpfkg_feed_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:51.973Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "current_theme",
+    "smk_sidebar_generator_option"
+  ],
+  "transients": [
+    "smk_sidebar_generator_option_v2"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:21.868Z"
+}

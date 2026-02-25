@@ -1,0 +1,33 @@
+{
+  "options": [
+    "woocommerce_kco_settings",
+    "autoptimize_optimize_checkout",
+    "woocommerce_ship_to_destination",
+    "krokedil_debuglog_kco",
+    "kco_credentials_error",
+    "woocommerce_checkout_phone_field",
+    "woocommerce_smart_coupon_apply_before_tax"
+  ],
+  "transients": [
+    "wc_kco_addons",
+    "klarna_hide_banner",
+    "kss_data_*",
+    "kustom_checkout_settings_page_config"
+  ],
+  "cron_jobs": [
+    "kco_wc_punted_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_kco_check_terms_notice",
+    "dismissed_kco_check_https_notice",
+    "dismissed_kco_check_autoptimize_notice",
+    "dismissed_kco_check_optimize_notice",
+    "dismissed_kco_check_upstream_notice",
+    "dismissed_kco_version_number",
+    "dismissed_kco_check_permalinks_notice",
+    "_shipping_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:49.647Z"
+}

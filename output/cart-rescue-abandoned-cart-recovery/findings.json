@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cracr_cart_abandoned_time",
+    "cracr_auto_delete_enable",
+    "cracr_auto_delete_days",
+    "cracr_auto_delete_statuses"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cracr_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cracr_is_active",
+    "_cracr_send_delay",
+    "_cracr_email_subject"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:38.271Z"
+}

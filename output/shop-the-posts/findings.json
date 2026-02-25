@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_codeless_stp_type_from",
+    "_codeless_stp_external_title",
+    "_codeless_stp_external_link",
+    "_codeless_stp_external_button_text",
+    "_codeless_stp_external_image",
+    "_codeless_stp_woocommerce_post",
+    "_codeless_stp_woocommerce_button_text"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:59.148Z"
+}

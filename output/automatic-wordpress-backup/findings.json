@@ -1,0 +1,17 @@
+{
+  "options": [
+    "s3b-schedule",
+    "s3b-bucket",
+    "s3b-section",
+    "wdc_credits",
+    "awb-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "s3-backup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:18.583Z"
+}

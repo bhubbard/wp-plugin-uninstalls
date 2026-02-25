@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_size_w"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gravatar_email",
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:02.807Z"
+}

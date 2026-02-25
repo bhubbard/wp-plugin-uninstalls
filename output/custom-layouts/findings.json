@@ -1,0 +1,27 @@
+{
+  "options": [
+    "custom_layouts_breakpoints",
+    "custom_layouts_css_mode",
+    "custom_layouts_css_version_id",
+    "custom_layouts_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom-layouts-template-instances",
+    "custom-layouts-template-instance-order",
+    "custom-layouts-template-data",
+    "custom-layouts-version",
+    "custom-layouts-app-data",
+    "custom-layouts-layout",
+    "custom-layouts-query",
+    "custom-layouts-last-tab",
+    "custom-layouts-*",
+    "custom-layouts-template-css",
+    "nickname",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:04.675Z"
+}

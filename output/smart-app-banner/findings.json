@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wsl_global_banner",
+    "wsl_homepage_appid",
+    "wsl_homepage_appid_ipad",
+    "wsl_homepage_affiliate",
+    "wsl_homepage_argument",
+    "wsl_app_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wsl-app-id",
+    "_wsl-app-id-ipad",
+    "_wsl-affiliate-data",
+    "_wsl-app-argument"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:17.496Z"
+}

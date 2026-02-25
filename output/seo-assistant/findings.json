@@ -1,0 +1,15 @@
+{
+  "options": [
+    "seo_assistant_google_webmaster",
+    "seo_assistant_google_analytical",
+    "seo_assistant_google_tag_manager",
+    "seo_assistant_meta_pixel",
+    "seo_assistant_fb_domain_verification"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:08.768Z"
+}

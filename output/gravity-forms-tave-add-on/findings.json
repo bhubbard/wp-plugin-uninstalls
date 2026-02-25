@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gf_tave_version",
+    "gf_tave_settings",
+    "gf_taveErrorLog",
+    "recently_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:30.765Z"
+}

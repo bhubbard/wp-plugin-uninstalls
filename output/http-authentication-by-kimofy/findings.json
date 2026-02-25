@@ -1,0 +1,15 @@
+{
+  "options": [
+    "http_auth_username",
+    "http_auth_password",
+    "http_auth_message",
+    "http_auth_apply",
+    "http_auth_activate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:36.030Z"
+}

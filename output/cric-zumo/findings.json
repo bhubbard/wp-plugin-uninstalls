@@ -1,0 +1,16 @@
+{
+  "options": [
+    "criczumo_away_team_color",
+    "criczumo_home_team_color",
+    "criczumo_live_team_color",
+    "criczumo_ended_team_color",
+    "criczumo_upcoming_team_color",
+    "live_team_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:17.852Z"
+}

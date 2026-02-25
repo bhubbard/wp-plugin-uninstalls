@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cron"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "*check_status_codes_cron",
+    "*maintenance_check_status_codes_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "meta-box-order_*",
+    "closedpostboxes_*",
+    "metaboxhidden_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:27.525Z"
+}

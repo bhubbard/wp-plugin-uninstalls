@@ -1,0 +1,17 @@
+{
+  "options": [
+    "LDB_Affiliate_Press_Version",
+    "ap_feed_*",
+    "LDB_Affiliate_Press_Pointers"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "AP_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:25.904Z"
+}

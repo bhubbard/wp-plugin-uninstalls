@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cookiemate_pause_cookie_banner', 'cookiemate_selected_template_length', 'cookiemate_selected_template', 'cookiemate_message', 'cookiemate_button_text', 'cookiemate_close_option', 'cookiemate_banner_bg', 'cookiemate_banner_text', 'cookiemate_banner_link', 'cookiemate_btn_bg', 'cookiemate_btn_text', 'cookiemate_remove_cookie_settings', 'cookiemate_widgets_toggle', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+

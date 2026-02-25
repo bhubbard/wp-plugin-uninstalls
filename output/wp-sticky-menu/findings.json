@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpsm_wrap_width",
+    "wpsm_background",
+    "wpsm_background_hover",
+    "wpsm_font_color",
+    "wpsm_font_color_hover",
+    "wpsm_logo",
+    "wpsm_social_btns",
+    "wpsm_facebook",
+    "wpsm_twitter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:50.864Z"
+}

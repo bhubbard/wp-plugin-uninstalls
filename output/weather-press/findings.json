@@ -1,0 +1,19 @@
+{
+  "options": [
+    "weather_press_lang",
+    "weather_press_unit",
+    "weather_press_mainLocation",
+    "weather_press_secondary_location",
+    "weather_press_where"
+  ],
+  "transients": [
+    "*_current_transient",
+    "*_hourly_transient",
+    "*_daily_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:35.735Z"
+}

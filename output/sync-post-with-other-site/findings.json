@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sps_plugin",
+    "sps_version",
+    "sps_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sps_website",
+    "sps_featured_image_url",
+    "old_site_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:42.141Z"
+}

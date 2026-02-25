@@ -1,0 +1,24 @@
+{
+  "options": [
+    "hngamers_atavism_user_verify_plugin_options",
+    "hngamers_core_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hng_username",
+    "_hng_ip",
+    "_hng_outcome",
+    "_hng_reason",
+    "_hng_ts_utc",
+    "hng_last_attempt_utc",
+    "hng_last_attempt_ip",
+    "hng_last_attempt_outcome",
+    "hng_last_success_utc",
+    "hng_success_count",
+    "hng_fail_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:31.411Z"
+}

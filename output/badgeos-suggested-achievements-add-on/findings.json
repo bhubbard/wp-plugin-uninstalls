@@ -1,0 +1,20 @@
+{
+  "options": [
+    "badgeos_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_badgeos_submission_status",
+    "_badgeos_submission_achievement_id",
+    "_badgeos_earned_by",
+    "_badgeos_trigger_type",
+    "_badgeos_achievement_type",
+    "_badgeos_skipped_achievements",
+    "_badgeos_skipped_ranks",
+    "_point_plural_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:16.582Z"
+}

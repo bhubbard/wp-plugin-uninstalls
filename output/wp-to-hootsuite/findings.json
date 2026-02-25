@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*-review-request",
+    "*-review-dismissed",
+    "*-version",
+    "*-log",
+    "*-access-token",
+    "*-refresh-token",
+    "*-token-expires"
+  ],
+  "transients": [
+    "*_hootsuite_api_profiles",
+    "*_twitter_api_usernames"
+  ],
+  "cron_jobs": [
+    "*_log_cleanup_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_*",
+    "*_success",
+    "*_error",
+    "*_errors",
+    "*_needs_publishing",
+    "*_needs_updating",
+    "*_last_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:21.554Z"
+}

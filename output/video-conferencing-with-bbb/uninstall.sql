@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('bigbluebutton_url', 'bigbluebutton_salt', 'ee_bb_flush_rewrite_rules_flag', 'ee_bb_default_bbb_room', 'video_conf_with_bbb_version', 'bigbluebutton_default_roles_set', 'bbb_flush_incorrect_caps_once', 'bigbluebutton_permissions', 'bigbluebutton_plugin_version', 'bbb_db_version', 'mt_bbb_url', 'mt_salt', 'mt_waitForModerator', 'bbb_pro_max_participants', 'bbb_pro_join_web_iframe', 'bbb_pro_join_here_text', 'video_conf_bbb_conflict_notice');
+DELETE FROM wp_options WHERE option_name LIKE 'dismissed-%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('bbb-room-moderator-code', 'bbb-room-viewer-code', 'bbb-room-meeting-id', 'bbb-room-recordable', 'bbb-room-wait-for-moderator', 'bbb-room-token', 'bbb-start-time', 'bbb_pro_room_limit', 'bbb-room-limit');
+DELETE FROM wp_usermeta WHERE meta_key IN ('bbb-room-moderator-code', 'bbb-room-viewer-code', 'bbb-room-meeting-id', 'bbb-room-recordable', 'bbb-room-wait-for-moderator', 'bbb-room-token', 'bbb-start-time', 'bbb_pro_room_limit', 'bbb-room-limit');
+DELETE FROM wp_termmeta WHERE meta_key IN ('bbb-room-moderator-code', 'bbb-room-viewer-code', 'bbb-room-meeting-id', 'bbb-room-recordable', 'bbb-room-wait-for-moderator', 'bbb-room-token', 'bbb-start-time', 'bbb_pro_room_limit', 'bbb-room-limit');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('bbb-room-moderator-code', 'bbb-room-viewer-code', 'bbb-room-meeting-id', 'bbb-room-recordable', 'bbb-room-wait-for-moderator', 'bbb-room-token', 'bbb-start-time', 'bbb_pro_room_limit', 'bbb-room-limit');
+

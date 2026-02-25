@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('entourance_client', 'entourance_server', 'entourance_use_fa_pro', 'entourance_fa_pro_url', 'entourance_gmaps_key', 'entourance_primary_color', 'entourance_secondary_color', 'entourance_custom_css', 'entourance_beta', 'entourance_plugin_capability', 'entourance_email', 'entourance_password', 'entourance_is_bookable', 'entourance_use_generic_booking_url', 'entourance_generic_booking_url', 'entourance_itinerary_quote', 'entourance_use_open_street_map', 'entourance_osrm_server_url', 'entourance_delete_cache', 'entourance_realm_id', 'entourance_debug_mode', 'entourance_priority_poi', 'entourance_show_tags', 'entourance_show_dir_button', 'entourance_card_slim', 'entourance_show_forms', 'entourance_show_suplier_exp', 'entourance_show_suplier_exp_events', 'entourance_download_schedule_events', 'entourance_show_experience_in_events', 'entourance_show_poi_in_events', 'entourance_calendar_titles', 'entourance_first_location', 'entourance_show_date_events_filters', 'entourance_tag_filter', 'entourance_label_tags', 'color_select_marker_experience', 'color_select_marker_poi', 'color_select_marker_experience-supplier', 'color_select_marker_host', 'color_select_marker_itinerary', 'color_select_marker_eatery', 'color_select_marker_event', 'entourance_icon_experience', 'entourance_icon_poi', 'entourance_icon_experience-supplier', 'entourance_icon_host', 'entourance_icon_itinerary', 'entourance_icon_eatery', 'entourance_icon_event');
+DELETE FROM wp_options WHERE option_name IN ('entourance_icon_difficulty', 'entourance_max_difficulty', 'entourance_icon_url_experience', 'entourance_icon_url_poi', 'entourance_icon_url_experience-supplier', 'entourance_icon_url_host', 'entourance_icon_url_itinerary', 'entourance_icon_url_eatery', 'entourance_icon_url_event', 'entourance_use_advanced_icons', 'entourance_use_custom_icons', 'entourance_icon_tags', 'entourance');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_page_template');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_page_template');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_page_template');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_page_template');
+

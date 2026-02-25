@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpoau_transient_keys"
+  ],
+  "transients": [
+    "users_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "last_seen"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:04.221Z"
+}

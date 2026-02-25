@@ -1,0 +1,19 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('schema_wp_settings', 'schema_wp_version_upgraded_from', 'tax_meta_migrated', 'schema_wp_settings_general', 'schema_wp_settings_knowledge_graph', 'schema_wp_settings_search_results', 'schema_wp_settings_extensions', 'schema_wp_settings_licenses', 'schema_wp_settings_advanced', 'mashsb_settings', 'schema_wp_version', 'schema_wp_is_installed', 'amp-options', '_schema_wp_activation_redirect', 'update_plugins', 'schema_knowledge_graph');
+DELETE FROM wp_options WHERE option_name LIKE '%-activation-date';
+DELETE FROM wp_options WHERE option_name LIKE 'tax_meta_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_license_active';
+DELETE FROM wp_options WHERE option_name LIKE 'schema_wp_extensions_feed_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_schema_post_types', '_schema_ref', '_schema_audio_object_type', '_schema_audio_object_name', '_schema_audio_object_description', '_schema_audio_object_upload_date', '_schema_audio_object_duration', '_schema_post_meta_box', '_schema_post_meta_box_enabled', '_schema_post_meta_box_title', '_schema_sameAs', '_schema_video_object_type', '_schema_video_object_name', '_schema_video_object_description', '_schema_video_object_upload_date', '_schema_video_object_duration', '_schema_type', '_schema_article_type', '_schema_json', 'schema_wp_sameAs', '_schema_exclude', '_schema_json_timestamp', '_thesis_post_image', '_schema_categories');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_schema_post_types', '_schema_ref', '_schema_audio_object_type', '_schema_audio_object_name', '_schema_audio_object_description', '_schema_audio_object_upload_date', '_schema_audio_object_duration', '_schema_post_meta_box', '_schema_post_meta_box_enabled', '_schema_post_meta_box_title', '_schema_sameAs', '_schema_video_object_type', '_schema_video_object_name', '_schema_video_object_description', '_schema_video_object_upload_date', '_schema_video_object_duration', '_schema_type', '_schema_article_type', '_schema_json', 'schema_wp_sameAs', '_schema_exclude', '_schema_json_timestamp', '_thesis_post_image', '_schema_categories');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_schema_post_types', '_schema_ref', '_schema_audio_object_type', '_schema_audio_object_name', '_schema_audio_object_description', '_schema_audio_object_upload_date', '_schema_audio_object_duration', '_schema_post_meta_box', '_schema_post_meta_box_enabled', '_schema_post_meta_box_title', '_schema_sameAs', '_schema_video_object_type', '_schema_video_object_name', '_schema_video_object_description', '_schema_video_object_upload_date', '_schema_video_object_duration', '_schema_type', '_schema_article_type', '_schema_json', 'schema_wp_sameAs', '_schema_exclude', '_schema_json_timestamp', '_thesis_post_image', '_schema_categories');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_schema_post_types', '_schema_ref', '_schema_audio_object_type', '_schema_audio_object_name', '_schema_audio_object_description', '_schema_audio_object_upload_date', '_schema_audio_object_duration', '_schema_post_meta_box', '_schema_post_meta_box_enabled', '_schema_post_meta_box_title', '_schema_sameAs', '_schema_video_object_type', '_schema_video_object_name', '_schema_video_object_description', '_schema_video_object_upload_date', '_schema_video_object_duration', '_schema_type', '_schema_article_type', '_schema_json', 'schema_wp_sameAs', '_schema_exclude', '_schema_json_timestamp', '_thesis_post_image', '_schema_categories');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_dismissed';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_dismissed';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_dismissed';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_dismissed';
+

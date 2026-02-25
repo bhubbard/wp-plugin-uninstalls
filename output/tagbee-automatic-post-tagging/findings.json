@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tagbee_api_key",
+    "tagbee_api_key_secret",
+    "tagbee_auto_tag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tagbee_api_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:50.544Z"
+}

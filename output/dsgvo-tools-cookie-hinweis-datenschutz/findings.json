@@ -1,0 +1,25 @@
+{
+  "options": [
+    "fhw_dsgvo_cookie_position",
+    "fhw_dsgvo_cookie_abstand",
+    "fhw_dsgvo_cookie_bgcolor",
+    "fhw_dsgvo_cookie_textcolor",
+    "fhw_dsgvo_cookie_text",
+    "fhw_dsgvo_cookie_buttonbgcolor",
+    "fhw_dsgvo_cookie_buttontextcolor",
+    "fhw_dsgvo_cookie_buttontext",
+    "fhw_dsgvo_cookie_datenschutzerklaerung",
+    "fhw_dsgvo_cookie_datenschutzseite",
+    "fhw_dsgvo_cookie_datenschutztext",
+    "fhw_dsgvo_cookie_datenschutzdesign",
+    "fhw_dsgvo_cookie_datenschutztextfarbe",
+    "fhw_dsgvo_cookie_ppbuttonbg",
+    "fhw_dsgvo_cookie_pp_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:20.409Z"
+}

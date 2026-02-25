@@ -1,0 +1,22 @@
+{
+  "options": [
+    "vimeography_corrupt_keys_found",
+    "vimeography_activation_keys",
+    "vimeography_pro_db_version",
+    "vimeography_default_settings",
+    "vimeography_pro_access_token",
+    "vimeography_access_token",
+    "vimeography_db_version",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_response",
+    "_vimeography_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:45.807Z"
+}

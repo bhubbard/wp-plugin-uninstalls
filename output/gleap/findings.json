@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gleap_role_migration_done",
+    "_gleap_selected_roles_only",
+    "_gleap_selected_roles|||0|value",
+    "_gleap_frontend_selected_roles_only",
+    "*|value",
+    "_gleap_admin_selected_roles_only",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:06.461Z"
+}

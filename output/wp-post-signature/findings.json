@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wp_post_signature_global",
+    "wp_post_signature"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:46.359Z"
+}

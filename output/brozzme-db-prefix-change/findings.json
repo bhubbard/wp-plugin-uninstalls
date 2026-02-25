@@ -1,0 +1,12 @@
+{
+  "options": [
+    "dbprefix_old_dbprefix",
+    "dbprefix_new"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:11.128Z"
+}

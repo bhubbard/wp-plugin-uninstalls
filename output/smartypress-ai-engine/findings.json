@@ -1,0 +1,24 @@
+{
+  "options": [
+    "smartypress_ai_settings",
+    "smartypress_ai_activated_at"
+  ],
+  "transients": [
+    "smartypress_ai_cache"
+  ],
+  "cron_jobs": [
+    "smartypress_ai_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "smartypress_ai_review_dismissed_at",
+    "smartypress_ai_review_dismiss_count",
+    "_wp_attachment_image_alt",
+    "smartypress_ai_prompt",
+    "smartypress_ai_model",
+    "smartypress_ai_resolution",
+    "smartypress_ai_generated"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:16.800Z"
+}

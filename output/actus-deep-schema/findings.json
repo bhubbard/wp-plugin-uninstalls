@@ -1,0 +1,42 @@
+{
+  "options": [
+    "ACSC-options",
+    "actus-deep-schema-activated",
+    "ACSC_data",
+    "ACSC-*",
+    "ACSC-website-1",
+    "ACSC-website-1-admin",
+    "ACSC-audi-1",
+    "ACSC-busi-1",
+    "ACSC-busi-1-admin",
+    "learn_press_currency",
+    "rank-math-options-titles",
+    "woocommerce_allowed_countries",
+    "woocommerce_ship_to_countries",
+    "woocommerce_specific_allowed_countries",
+    "woocommerce_specific_ship_to_countries",
+    "woocommerce_all_except_countries",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "ACSC-pers-wp-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "description",
+    "autodescription-user-settings",
+    "_wp_page_template",
+    "_recipe_settings",
+    "_wp_attachment_image_alt",
+    "rating",
+    "ACSC-media"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:24.690Z"
+}

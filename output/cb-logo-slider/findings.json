@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cbls_munber_of_images",
+    "cbls_controls",
+    "cbls_pagination",
+    "cbls_slide_speed",
+    "cbls_navigation_text_next",
+    "cbls_navigation_text_prev"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "cbls_logo_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:02.236Z"
+}

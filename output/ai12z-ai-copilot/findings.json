@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ai12z_control_version",
+    "ai12z_version",
+    "ai12z_api_key",
+    "ai12z_connector_id",
+    "ai12z_project_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:55.586Z"
+}

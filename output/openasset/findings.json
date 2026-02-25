@@ -1,0 +1,62 @@
+{
+  "options": [
+    "openasset_settings",
+    "openasset_data",
+    "openasset_sync_running",
+    "openasset_cpts_first_run_complete",
+    "openasset_project_sync_count",
+    "openasset_employee_sync_count",
+    "openasset_last_project_updated",
+    "openasset_last_employee_updated",
+    "openasset_total_project_count",
+    "openasset_total_employee_count",
+    "openasset_text_assets_sync_count",
+    "openasset_sync_error_count",
+    "openasset_employee_posts_deleted",
+    "openasset_project_posts_deleted",
+    "jetpack_protect_active",
+    "wpcom_public_coming_soon"
+  ],
+  "transients": [
+    "openasset_queue_initiating",
+    "openasset_sync_trigger_source",
+    "openasset_force_full_sync",
+    "openasset_sync_type_override",
+    "openasset_migration_notice",
+    "jetpack_is_single_user"
+  ],
+  "cron_jobs": [
+    "openasset_feed_refresh",
+    "openasset_clear_sync_context",
+    "run_openasset_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "openasset_id",
+    "_oa_last_synced",
+    "openasset_data",
+    "_oa_content_hash",
+    "openasset_parent_id",
+    "sort_value",
+    "oa_field_*",
+    "openasset_file_id",
+    "_is_oa_video",
+    "_video_poster_id",
+    "_is_video_poster",
+    "_poster_for_video_id",
+    "md5_at_upload",
+    "_oa_image_updated",
+    "_oa_size_id",
+    "_source_url",
+    "_wp_attachment_image_alt",
+    "photographer",
+    "copyright_holder",
+    "created",
+    "updated",
+    "uploaded",
+    "rank",
+    "project_display_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:21.636Z"
+}

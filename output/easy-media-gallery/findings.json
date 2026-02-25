@@ -1,0 +1,40 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "easy_media_opt",
+    "Activated_Emg_Plugin",
+    "active_sitewide_plugins",
+    "ecf_active_addons_lite",
+    "emg_affiliate_info",
+    "emg_block_notify",
+    "emg_active_addons_lite"
+  ],
+  "transients": [
+    "emg_whats_new",
+    "emglite_addons_feed",
+    "easymediagallery_featured_feed"
+  ],
+  "cron_jobs": [
+    "emg_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "easmedia_metabox_media_gallery",
+    "easmedia_metabox_media_type",
+    "easmedia_metabox_img",
+    "emg_ignore_notice",
+    "easmedia_metabox_media_gallery_opt2",
+    "easmedia_metabox_title",
+    "easmedia_metabox_sub_title",
+    "easmedia_metabox_media_audio",
+    "dismissed_wp_pointers",
+    "easmedia_metabox_media_video_size",
+    "easmedia_metabox_media_gallery_opt1",
+    "easmedia_metabox_media_image_opt1",
+    "easmedia_metabox_media_video_size_vidw",
+    "easmedia_metabox_media_video_size_vidh",
+    "easmedia_metabox_media_video"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:11.089Z"
+}

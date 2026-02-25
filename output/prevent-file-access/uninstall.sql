@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('host_name', 'mo_enable_media_restriction', 'mo_media_restriction_allowed_dirs', 'mo_mr_redirect_to', 'mo_media_restriction_security_logs', 'mo_media_restriction_file_types', 'mo_mr_restrict_option', 'mo_media_restriction_choose_server', 'mo_media_restriction_message', 'mo_media_restriction_admin_email', 'mo_media_restriction_admin_phone', 'mo_media_restriction_show_rules', 'mo_media_restriction_admin_fname', 'mo_media_restriction_admin_lname', 'mo_media_restriction_admin_company', 'mo_media_restriction_new_user', 'mo_media_restriction_admin_customer_key', 'mo_media_restriction_admin_api_key', 'customer_token', 'password', 'mo_media_restriction_last_requested_api', 'mo_media_restriction_folder_list', 'mo_role_base_restriction_folder_list');
+

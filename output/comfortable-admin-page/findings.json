@@ -1,0 +1,17 @@
+{
+  "options": [
+    "comage_detected_dashboard_widgets",
+    "comage_custom_menu_snapshot_*",
+    "comage_detected_custom_menus_*",
+    "COMAGE_comfortable_admin_page_settings",
+    "COMAGE_SETTINGS_FIELD_NAME"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:53.952Z"
+}

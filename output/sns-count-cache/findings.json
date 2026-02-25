@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "scc_wp_cron_test"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:00.608Z"
+}

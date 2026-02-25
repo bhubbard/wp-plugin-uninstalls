@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fg_temp_metadata",
+    "fg_perm_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:23.406Z"
+}

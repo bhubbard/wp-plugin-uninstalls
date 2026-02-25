@@ -1,0 +1,20 @@
+{
+  "options": [
+    "stock_alert_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_stock",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:54.480Z"
+}

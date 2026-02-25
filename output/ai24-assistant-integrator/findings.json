@@ -1,0 +1,42 @@
+{
+  "options": [
+    "AI24AI_version",
+    "AI24AI_enable_widget",
+    "AI24AI_active",
+    "AI24AI_functions_option",
+    "AI24AI_font_settings",
+    "AI24AI_assistant_name",
+    "AI24AI_assistant_description",
+    "AI24AI_assistant_image",
+    "AI24AI_assistant_id",
+    "AI24AI_widget_pages",
+    "AI24AI_chat_input_placeholder",
+    "AI24AI_exit_confirmation_text",
+    "AI24AI_confirm_exit_button",
+    "AI24AI_cancel_exit_button",
+    "AI24AI_toggle_image",
+    "AI24AI_sidebar_content",
+    "AI24AI_sidebar_text",
+    "AI24AI_api_key",
+    "AI24AI_text_options",
+    "AI24AI_api_option",
+    "AI24AI_api_keys",
+    "AI24AI_functions_generate",
+    "AI24AI_widget_show_hide_mode",
+    "AI24AI_header_color",
+    "AI24AI_widget_corner_color",
+    "AI24AI_input_border_glow_color",
+    "AI24AI_icon_color",
+    "AI24AI_widget_position",
+    "AI24AI_assistant_context_message",
+    "AI24AI_placement_options"
+  ],
+  "transients": [
+    "settings_saved"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:10.239Z"
+}

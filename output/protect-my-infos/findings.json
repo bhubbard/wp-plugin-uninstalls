@@ -1,0 +1,13 @@
+{
+  "options": [
+    "yw_protect_my_infos_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yw_protect_my_infos_dismissed_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:00.977Z"
+}

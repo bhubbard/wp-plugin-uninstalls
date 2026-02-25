@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ede_select_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:47.496Z"
+}

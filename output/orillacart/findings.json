@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_parameters"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_ship_to_billing",
+    "_*",
+    "_hide_price",
+    "_not_for_sale",
+    "_special",
+    "_on_sale",
+    "_expired",
+    "_onsale",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:57.451Z"
+}

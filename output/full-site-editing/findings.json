@@ -1,0 +1,32 @@
+{
+  "options": [
+    "footercredit",
+    "active_sitewide_plugins",
+    "site_intent",
+    "launchpad_screen",
+    "has_never_published_post",
+    "was_created_with_blank_canvas_design",
+    "has_seen_seller_celebration_modal",
+    "sharing_modal_dismissed",
+    "wpcom_sharing_modal_dismissed",
+    "has_seen_video_celebration_modal",
+    "jetpack_options"
+  ],
+  "transients": [
+    "fse_sideloaded_image_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "newspack_post_subtitle",
+    "newspack_sponsor_sponsorship_scope",
+    "newspack_sponsor_url",
+    "newspack_supporter_url",
+    "_sideloaded_url",
+    "_wp_attachment_image_alt",
+    "has_seen_whats_new_modal",
+    "wpcom_block_editor_nux_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:25.628Z"
+}

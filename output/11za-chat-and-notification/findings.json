@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wcf_ca_gdpr_message"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "engees_11za_cartflow_ca_update_order_status_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:34.610Z"
+}

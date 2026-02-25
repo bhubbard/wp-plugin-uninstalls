@@ -1,0 +1,21 @@
+{
+  "options": [
+    "nginxchampuru-cache_expires",
+    "nginxchampuru-enable_flush",
+    "nginxchampuru-cache_dir",
+    "nginxchampuru-cache_levels",
+    "nginxchampuru-publish",
+    "nginxchampuru-comment",
+    "nginxchampuru-add_last_modified",
+    "cron",
+    "nginxchampuru-*"
+  ],
+  "transients": [
+    "nginxchampuru_flush"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:42.357Z"
+}

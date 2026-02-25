@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "archivise_posts"
+  ],
+  "cron_jobs": [
+    "scheduled_archiving"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:39.336Z"
+}

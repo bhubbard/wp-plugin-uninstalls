@@ -1,0 +1,72 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_weight_unit'
+wp option delete 'woocommerce_dimension_unit'
+wp option delete 'alg_wc_oma_message_format_types_enabled'
+wp option delete 'alg_wc_oma_message_format_types'
+wp option delete 'alg_wc_oma_order_sum'
+wp option delete 'alg_wc_oma_exclude_taxes'
+wp option delete 'alg_wc_oma_exclude_shipping'
+wp option delete 'alg_wc_oma_exclude_discounts'
+wp option delete 'alg_wc_oma_exclude_fees'
+wp option delete 'alg_wc_oma_include_wc_subscription_cart_total'
+wp option delete 'alg_wc_oma_type_sum_cart_total_rounding'
+wp option delete 'alg_wc_oma_type_sum_cart_total_rounding_precision'
+wp option delete 'alg_wc_oma_plugin_enabled'
+wp option delete 'alg_wc_oma_by_user_role_priority'
+wp option delete 'alg_wc_oma_block_checkout_process'
+wp option delete 'alg_wc_oma_block_store_api'
+wp option delete 'alg_wc_oma_remove_notices_on_added_to_cart'
+wp option delete 'alg_wc_oma_max_validate_on_add_to_cart'
+wp option delete 'alg_wc_oma_max_hide_add_to_cart_loop'
+wp option delete 'alg_wc_oma_max_hide_add_to_cart_loop_content'
+wp option delete 'alg_wc_oma_max_hide_add_to_cart_single'
+wp option delete 'alg_wc_oma_block_checkout_hook'
+wp option delete 'alg_wc_oma_disable_block_checkout_btn'
+wp option delete 'alg_wc_oma_login_requirement_enabled'
+wp option delete 'alg_wc_oma_login_requirement_notice_msg'
+wp option delete 'alg_wc_oma_login_requirement_notice_type'
+wp option delete 'alg_wc_oma_cart_notice_enabled'
+wp option delete 'alg_wc_oma_max_hide_add_to_cart_single_content'
+wp option delete 'alg_wc_oma_require_all_types'
+wp option delete 'alg_wc_oma_block_checkout'
+wp option delete 'woocommerce_version'
+wp option delete 'alg_wc_oma_by_user_role_enabled'
+wp option delete 'alg_wc_oma_data_version'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'alg_wc_order_minimum_amount_by_user_role_%'"
+wp option delete 'alg_wc_oma_get_user_roles_method'
+wp option delete 'alg_wc_oma_enabled_user_roles'
+wp option delete 'alg_wc_oma_amount_limits'
+wp option delete 'alg_wc_oma_amount_types'
+wp option delete 'alg_wc_oma_min_sum_message'
+wp option delete 'alg_wc_order_minimum_amount_error_message'
+wp option delete 'alg_wc_order_minimum_amount_cart_notice_message'
+wp option delete 'alg_wc_oma_min_sum_by_user_role'
+wp option delete 'alg_wc_oma_checkout_force_refresh'
+wp option delete 'alg_wc_oma_checkout_force_refresh_hook'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'alg_wc_oma_message_positions_%'"
+wp option delete 'alg_wc_oma_msg_force_display'
+wp option delete 'alg_wc_oma_display_messages_on_empty_cart'
+wp option delete 'alg_wc_oma_display_multiple_msg'
+wp option delete 'alg_wc_oma_cart_products_list_variations'
+wp option delete 'alg_wc_oma_currencies'
+wp option delete 'alg_wc_oma_currencies_calculation_method'
+wp option delete 'woocommerce_currency'
+wp option delete 'alg_wc_oma_add_fee_for_each_limit'
+wp option delete 'alg_wc_oma_by_shipping_enabled'
+wp option delete 'alg_wc_oma_by_shipping_messages_enabled'
+wp option delete 'alg_wc_oma_by_gateway_enabled'
+wp option delete 'alg_wc_oma_by_gateway_messages_enabled'
+wp option delete 'alg_wc_oma_products_cart_total_list_variations'
+wp option delete 'alg_wc_oma_by_shipping_type'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_reset'"
+wp option delete 'active_sitewide_plugins'
+wp option delete 'alg_wc_oma_version'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpfcs_dashboard_banner_closed_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpfcs_dashboard_banner_closed_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpfcs_dashboard_banner_closed_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpfcs_dashboard_banner_closed_time'"

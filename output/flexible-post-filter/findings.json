@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fpf_button_background",
+    "fpf_thumbnail_border",
+    "fpf_button_text",
+    "fpf_button_hover",
+    "fpf_button_selection",
+    "jqs_button_alignment",
+    "jqs_select_categories",
+    "jqs_feature_enable_title",
+    "jqs_feature_enable_author",
+    "jqs_feature_enable_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:16.722Z"
+}

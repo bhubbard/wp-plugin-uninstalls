@@ -1,0 +1,13 @@
+{
+  "options": [
+    "vwfaw_authifyweb_profile_link",
+    "vwfaw_add_link_to_head",
+    "vwfaw_widget_behavior"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:10.894Z"
+}

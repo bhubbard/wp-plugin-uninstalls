@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('traffic_plugin_options_favicons', 'traffic_plugin_options_geoip', 'traffic_plugin_options_logger', 'traffic_plugin_options_shmop', 'traffic_plugin_options_usecdn', 'traffic_plugin_options_nag', 'traffic_plugin_features_history', 'traffic_plugin_features_metrics', 'traffic_plugin_features_livelog', 'traffic_plugin_features_smart_filter', 'traffic_inbound_options_capture', 'traffic_inbound_options_level', 'traffic_inbound_options_cut_path', 'traffic_outbound_options_capture', 'traffic_outbound_options_level', 'traffic_outbound_options_cut_path', 'auto_update_plugins', 'update_plugins');
+

@@ -1,0 +1,63 @@
+{
+  "options": [
+    "tfhb_hydra_quick_setup",
+    "tfhb_update_status",
+    "_tfhb_availability_settings",
+    "_tfhb_general_settings",
+    "_tfhb_frontend_dashboard_settings",
+    "tfhb_register_page_id",
+    "tfhb_login_page_id",
+    "tfhb_dashboard_page_id",
+    "_tfhb_hosts_settings",
+    "_tfhb_integration_settings",
+    "_tfhb_notification_settings",
+    "_tfhb_appearance_settings",
+    "tfhb_promo__schedule_start_from",
+    "tfhb_promo__schedule_option",
+    "tf_promo_notice_exists",
+    "tf_promo_widget_exists",
+    "tfhb_dashboard_widget_dismissed",
+    "tf_dismiss_admin_notice",
+    "tfhb_dismiss_post_notice",
+    "tfhb_hydra_email_subscribe",
+    "HydraBooking_lic_email",
+    "HydraBooking_lic_response_obj",
+    "_site_transient_update_plugins",
+    "tfhb_hydra_activation_date",
+    "HydraBooking_lic_Key",
+    "_site_transient_update_themes",
+    "_fluent_booking_settings",
+    "_fcal_google_calendar_client_details",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "update_themes",
+    "*_up"
+  ],
+  "cron_jobs": [
+    "tfhb_promo__schedule",
+    "tfhb_after_booking_completed_schedule",
+    "tfhb_cart_auto_remover_schedule",
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tfhb_host",
+    "__tfhb_meeting_opt",
+    "first_name",
+    "last_name",
+    "_tfhb_host_integration_settings",
+    "__tfhb_meeting_id",
+    "_tfhb_booking_opt",
+    "_wp_page_template",
+    "tfhb_user_activation_code",
+    "tfhb_user_is_activated",
+    "nickname",
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:00.448Z"
+}

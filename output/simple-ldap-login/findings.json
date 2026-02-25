@@ -1,0 +1,20 @@
+{
+  "options": [
+    "simpleldap_account_suffix",
+    "simpleldap_base_dn",
+    "simpleldap_domain_controllers",
+    "simpleldap_directory_type",
+    "simpleldap_group",
+    "simpleldap_account_type",
+    "simpleldap_ol_login",
+    "simpleldap_use_tls",
+    "simpleldap_login_mode",
+    "simpleldap_security_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:39.583Z"
+}

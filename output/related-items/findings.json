@@ -1,0 +1,14 @@
+{
+  "options": [
+    "related-items-selected-types",
+    "related_items_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "related_items"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:28.487Z"
+}

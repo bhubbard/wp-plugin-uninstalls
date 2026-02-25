@@ -1,0 +1,16 @@
+{
+  "options": [
+    "emercury_form_add_subscriber_comment",
+    "emercury_form_select_list_subscriber_comment",
+    "emercury_form_add_subscriber_signup",
+    "emercury_form_select_list_subscriber_signup",
+    "emercury_form_email",
+    "emercury_forms_sec_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:51.090Z"
+}

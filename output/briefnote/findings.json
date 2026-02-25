@@ -1,0 +1,17 @@
+{
+  "options": [
+    "briefnote_content",
+    "briefnote_last_saved",
+    "briefnote_settings",
+    "briefnote_caps_version",
+    "briefnote_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "briefnote_cleanup_audit_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:05.984Z"
+}

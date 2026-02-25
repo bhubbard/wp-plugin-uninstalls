@@ -1,0 +1,18 @@
+{
+  "options": [
+    "planetplanet_options"
+  ],
+  "transients": [
+    "planetplanet_category_linkmap"
+  ],
+  "cron_jobs": [
+    "pp_update_feeds",
+    "pp_purge_posts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "source_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:46.278Z"
+}

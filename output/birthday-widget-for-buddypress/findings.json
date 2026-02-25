@@ -1,0 +1,21 @@
+{
+  "options": [
+    "bp_birthdays_settings",
+    "bb_birthdays_default_field",
+    "bp_birthdays_emails_installed",
+    "bp_birthdays_last_check_date"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bb_cleanup_old_wishes"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "activation_key",
+    "nickname",
+    "first_name",
+    "bb_birthday_wished_users"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:42.844Z"
+}

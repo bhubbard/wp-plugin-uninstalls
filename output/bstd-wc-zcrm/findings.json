@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bcformpro_integrate_key_data",
+    "bcform_secret_api_key",
+    "bc_inventory_connector_installed",
+    "bc_inventory_connector_version"
+  ],
+  "transients": [
+    "bc_inventory_connector_activation_redirect",
+    "bc_inventory_connector_prevent_tracker_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:00.382Z"
+}

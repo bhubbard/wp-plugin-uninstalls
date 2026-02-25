@@ -1,0 +1,38 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'classic-editor-replace'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%autoplay'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%delay'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%frequency_period'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%frequency_range'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%mute'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%pin'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%modal-window'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%modal-background'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%modal-has-blur'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%modal-blur'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%custom-class'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%z-index'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%width'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%height'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%margin'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%padding'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%background'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%frame-has-shadow'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%shadow-color'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%shadow-blur'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%shadow-hoffset'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%shadow-voffset'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-show'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-btn-size'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-btn-background'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-btn-foreground'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-has-shadow'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-shadow-blur'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-shadow-hoffset'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-shadow-voffset'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%close-shadow-color'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%frequency'"
+

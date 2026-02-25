@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dupadc_settings",
+    "dupadc_cleanup_activity_log"
+  ],
+  "transients": [
+    "dupadc_admin_notice"
+  ],
+  "cron_jobs": [
+    "dupadc_auto_draft_cleanup_event",
+    "dupadc_duplicate_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:59.017Z"
+}

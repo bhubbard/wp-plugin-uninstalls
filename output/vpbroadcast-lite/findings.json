@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*team_1",
+    "*team_1_score",
+    "*team_2",
+    "*team_2_score",
+    "*status",
+    "vp_bcl_broadcast_status",
+    "vp_bcl_broadcast_date",
+    "vp_bcl_broadcast_time",
+    "vp_bcl_broadcast_timezone",
+    "vp_bcl_broadcast_place",
+    "vp_bcl_broadcast_description",
+    "*refresh",
+    "*style",
+    "*interval",
+    "*content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:39.995Z"
+}

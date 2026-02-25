@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ai_tts_do_activation_redirect', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'ai_tts_api_key', 'ai_tts_api_request_log', 'ai_tts_settings', 'ai_tts_dropbox_refresh_token', 'ai_tts_dropbox_app_key', 'ai_tts_dropbox_app_secret', 'ai_tts_dropbox_access_token', 'ai_tts_custom_pronunciations', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('ai_tts_attachment_id', 'ai_tts_location', 'ai_tts_file_url', 'ai_tts_file_name', 'ai_tts_data', 'ai_tts_generated_at', 'ai_tts_customise');
+DELETE FROM wp_usermeta WHERE meta_key IN ('ai_tts_attachment_id', 'ai_tts_location', 'ai_tts_file_url', 'ai_tts_file_name', 'ai_tts_data', 'ai_tts_generated_at', 'ai_tts_customise');
+DELETE FROM wp_termmeta WHERE meta_key IN ('ai_tts_attachment_id', 'ai_tts_location', 'ai_tts_file_url', 'ai_tts_file_name', 'ai_tts_data', 'ai_tts_generated_at', 'ai_tts_customise');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('ai_tts_attachment_id', 'ai_tts_location', 'ai_tts_file_url', 'ai_tts_file_name', 'ai_tts_data', 'ai_tts_generated_at', 'ai_tts_customise');
+

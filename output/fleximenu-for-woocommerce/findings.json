@@ -1,0 +1,12 @@
+{
+  "options": [
+    "fleximenu_wc_menu_labels",
+    "fleximenu_wc_unset_menu_labels"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:30.564Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "de_acfpoftao_version",
+    "de_acfpoftao_enable",
+    "de_acfpoftao_append_field",
+    "de_acfpoftao_append_field_format",
+    "acf_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:13.429Z"
+}

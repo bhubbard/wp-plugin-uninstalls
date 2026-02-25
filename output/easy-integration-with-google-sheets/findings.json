@@ -1,0 +1,23 @@
+{
+  "options": [
+    "eings_gsheet_files",
+    "eings_token_verify",
+    "eings_settings",
+    "eings_access_token",
+    "eings_account_info",
+    "eings_saved_integrations"
+  ],
+  "transients": [
+    "eings_gsheet_headers",
+    "eings_gsheet_tabs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eings_cf7_form_settings",
+    "eings_field_map_keys",
+    "_form"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:04.102Z"
+}

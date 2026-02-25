@@ -1,0 +1,40 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'dark_reader_pro_custom_css_enabled'
+wp option delete 'dark_reader_pro_custom_css'
+wp option delete 'dark_reader_pro_exclude_selectors'
+wp option delete 'dark_reader_pro_exclude_all_images'
+wp option delete 'dark_reader_pro_logo_selectors'
+wp option delete 'dark_reader_pro_exclude_videos'
+wp option delete 'dark_reader_pro_schedule_enabled'
+wp option delete 'dark_reader_pro_schedule_type'
+wp option delete 'dark_reader_pro_schedule_start_time'
+wp option delete 'dark_reader_pro_schedule_end_time'
+wp option delete 'dark_reader_pro_admin_dark_mode'
+wp option delete 'dark_reader_pro_admin_brightness'
+wp option delete 'dark_reader_pro_admin_contrast'
+wp option delete 'dark_reader_pro_admin_auto_detect'
+wp option delete 'bdt_biggopti_dismissals'
+wp option delete 'dark_reader_brightness'
+wp option delete 'dark_reader_contrast'
+wp option delete 'dark_reader_sepia'
+wp option delete 'dark_reader_grayscale'
+wp option delete 'dark_reader_text_stroke'
+wp option delete 'dark_reader_filter_mode'
+wp option delete 'dark_reader_use_system_color_scheme'
+wp option delete 'dark_reader_enable_for_pdfs'
+wp option delete 'dark_reader_dark_scheme_background'
+wp option delete 'dark_reader_dark_scheme_text'
+wp option delete 'dark_reader_immediate_modify'
+wp option delete 'dark_reader_default_dark_mode'
+wp option delete 'dark_reader_toggle_position'
+wp option delete 'dark_reader_toggle_style'
+wp option delete 'dark_reader_pro_page_visibility_mode'
+wp option delete 'dark_reader_pro_custom_light_icon'
+wp option delete 'dark_reader_pro_custom_dark_icon'
+
+# Delete Transients
+wp transient delete '_dark_reader_welcome_screen_activation_redirect'
+

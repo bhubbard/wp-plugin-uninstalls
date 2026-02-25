@@ -1,0 +1,25 @@
+{
+  "options": [
+    "xfoy_errors",
+    "xfoy_settings_arr",
+    "xfoy_version",
+    "xfoy_registered_feeds_arr",
+    "xfoy_keeplogs",
+    "xfoy_disable_notices",
+    "xfoy_enable_five_min",
+    "xfoy_feed_content"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "xfoy_cron_period",
+    "xfoy_cron_sborki"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "xfoy_o_yandex_product_category",
+    "xfoyp_removefromxml",
+    "_xfoy_condition"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:54.802Z"
+}

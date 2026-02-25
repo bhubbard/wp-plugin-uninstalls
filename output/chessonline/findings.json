@@ -1,0 +1,18 @@
+{
+  "options": [
+    "co_chessboard_size",
+    "co_chessboard_alignment",
+    "co_lightsquare_color",
+    "co_darksquare_color",
+    "co_display_infolabel",
+    "co_link_text",
+    "co_link_url",
+    "co_link_target"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:15.754Z"
+}

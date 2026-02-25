@@ -1,0 +1,18 @@
+{
+  "options": [
+    "easy_share_settings",
+    "has_easy_ss_pro",
+    "ess_update_notice_dismissed1",
+    "ess_pro_notice_dismissed1"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_easy_share_count_*",
+    "_easy_share_total",
+    "_easy_share_last_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:32.670Z"
+}

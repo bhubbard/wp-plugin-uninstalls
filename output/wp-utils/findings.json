@@ -1,0 +1,16 @@
+{
+  "options": [
+    "utils_disable_rsd_checkbox",
+    "utils_remove_wp_ver_checkbox",
+    "utils_remove_wlwmanifest_checkbox",
+    "utils_remove_shortlink_checkbox",
+    "utils_disable_api_checkbox",
+    "utils_remove_discore_links_checkbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:13.308Z"
+}

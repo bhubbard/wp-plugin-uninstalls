@@ -1,0 +1,19 @@
+{
+  "options": [
+    "nep_native_emoji_active",
+    "nep_plugin_admin_activation",
+    "nep_plugin_close_panel",
+    "nep_plugin_comments_activation",
+    "nep_plugin_site_use_jquery",
+    "nep_plugin_show_on_mobile",
+    "nep_plugin_panel_color",
+    "nep_plugin_panel_position",
+    "nep_plugin_close_panel_comments"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:51.079Z"
+}

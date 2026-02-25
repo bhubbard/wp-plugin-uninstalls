@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dw_check_new_pages",
+    "dw_saved_page_list",
+    "dw_saved_cat_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:36.225Z"
+}

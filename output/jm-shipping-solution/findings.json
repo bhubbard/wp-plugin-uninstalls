@@ -1,0 +1,19 @@
+{
+  "options": [
+    "jmss_api_key",
+    "jmss_plugin_api_key",
+    "JMSS_plugin_mode",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tracking_number",
+    "freight_price",
+    "subtotal_ex_tax",
+    "JMSS_shippment_saved"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:57.773Z"
+}

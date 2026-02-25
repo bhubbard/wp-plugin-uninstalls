@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpsms_gateway_credit",
+    "wpsms_hide_newsletter",
+    "wpsms_show_welcome_page",
+    "wpsms_first_show_welcome_page",
+    "wp_sms_db_version",
+    "wp_notification_new_wp_version",
+    "wp_last_credit",
+    "wpcf7_sms_*",
+    "wpcf7_sms_form*",
+    "wp_last_send_notification",
+    "wpsms_settings"
+  ],
+  "transients": [
+    "update_core"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mobile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:17.815Z"
+}

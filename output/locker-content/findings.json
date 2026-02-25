@@ -1,0 +1,43 @@
+{
+  "options": [
+    "lockerco_post_types",
+    "lockerco_primary_color",
+    "locker_my_title",
+    "locker_my_content",
+    "locker_my_description"
+  ],
+  "transients": [
+    "lockerco_session_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lockerco_enabled",
+    "_lockerco_selected_type",
+    "_lockerco_custom_appearance",
+    "_lockerco_custom_css",
+    "_lockerco_enabled_*",
+    "_lockerco_session",
+    "_lockerco_post_unlocked",
+    "_lockerco_agreement_title",
+    "_lockerco_agreement_text",
+    "_lockerco_agreement_checkbox_label",
+    "_lockerco_agreement_button_text",
+    "_lockerco_agreement_message",
+    "_lockerco_password",
+    "_lockerco_password_message",
+    "_lockerco_password_hashed",
+    "_lockerco_postlock_heading",
+    "_lockerco_postlock_description",
+    "_lockerco_postlock_button_text",
+    "_lockerco_postlock_guidelines",
+    "_lockerco_postlock_success_message",
+    "_lockerco_post_submissions",
+    "_lockerco_postlock_auto_unlock",
+    "_lockerco_submission",
+    "_lockerco_needs_review",
+    "_lockerco_original_post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:53.300Z"
+}

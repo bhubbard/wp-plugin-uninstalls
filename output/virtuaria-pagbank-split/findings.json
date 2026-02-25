@@ -1,0 +1,19 @@
+{
+  "options": [
+    "virtuaria_pagbank_shipping_version",
+    "woocommerce_virt_pagseguro_settings",
+    "virtuaria_pagbank_split_db"
+  ],
+  "transients": [
+    "virtuaria_new_receiver"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_virtuaria_receiver",
+    "_receiver_id",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:37.035Z"
+}

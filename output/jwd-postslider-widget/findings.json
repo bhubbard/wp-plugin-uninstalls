@@ -1,0 +1,25 @@
+{
+  "options": [
+    "jwdsp_general_settings",
+    "jwdsp_accepted_cpt",
+    "jwdsp_general_settings[post_types]",
+    "jwdsp_fontawesome",
+    "JWDSP_version",
+    "JWDSP_PLUGIN_PATH",
+    "JWDSP_PLUGIN_URL",
+    "JWDSP Plugin Path",
+    "JWDSP Plugin URL",
+    "jwdsp_username",
+    "jwdsp_repository",
+    "jwdsp_access_token",
+    "JWDSP_Accepted_Post_Types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jwdsp_thumbnail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:00.940Z"
+}

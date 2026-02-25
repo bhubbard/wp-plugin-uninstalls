@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sm_api_key",
+    "sm_list_id",
+    "sm_single_opt_in"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:08.393Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vsp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vsp_description",
+    "vsp_title",
+    "vsp_keyword"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:46.487Z"
+}

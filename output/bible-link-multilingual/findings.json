@@ -1,0 +1,13 @@
+{
+  "options": [
+    "blm_options",
+    "blm_options_wpml_enabled",
+    "blm_options_wpml_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:09.044Z"
+}

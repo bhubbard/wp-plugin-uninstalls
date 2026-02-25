@@ -1,0 +1,21 @@
+{
+  "options": [
+    "plytix-settings",
+    "plytix-settings-options",
+    "plytix-settings-options-use-field-gtin",
+    "plytix_site_configuration",
+    "plytix_plugin_folder_id",
+    "plytix_api_credentials"
+  ],
+  "transients": [
+    "plytix_config_first_time",
+    "plytix_show_config_msg_ok",
+    "plytix_redirect",
+    "plytix_show_api_msg_ok"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:58.106Z"
+}

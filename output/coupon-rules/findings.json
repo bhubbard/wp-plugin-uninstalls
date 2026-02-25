@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woo_coupon_filter_by_product",
+    "_woo_coupon_rule_discount_product",
+    "_woo_coupon_rule_type",
+    "_woo_coupon_filter_by_category",
+    "_woo_coupon_rule_free_qty",
+    "_woo_coupon_rule_quantity",
+    "discount_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:50.564Z"
+}

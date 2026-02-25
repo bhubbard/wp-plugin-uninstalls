@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tdprb-access-token-val",
+    "tdprb-access-token",
+    "tdprb-access-token-data",
+    "tdprb_settings",
+    "tdprb_lab_settings",
+    "tdprb_natural_settings",
+    "tdprb_ring_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_custom_tdp_product",
+    "diamond_sku"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:26.422Z"
+}

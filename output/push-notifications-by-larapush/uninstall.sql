@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('unlimited_push_notifications_by_larapush_access', 'unlimited_push_notifications_by_larapush_panel_url', 'unlimited_push_notifications_by_larapush_panel_email', 'unlimited_push_notifications_by_larapush_panel_password', 'unlimited_push_notifications_by_larapush_panel_plan', 'unlimited_push_notifications_by_larapush_panel_version', 'unlimited_push_notifications_by_larapush_panel_domains', 'unlimited_push_notifications_by_larapush_panel_domains_selected', 'unlimited_push_notifications_by_larapush_js_filenames_for_site', 'unlimited_push_notifications_by_larapush_configure_pwa_ios', 'unlimited_push_notifications_by_larapush_codes', 'unlimited_push_notifications_by_larapush_panel_integration_tried', 'unlimited_push_notifications_by_larapush_enable_push_notifications', 'unlimited_push_notifications_by_larapush_push_on_publish', 'unlimited_push_notifications_by_larapush_push_on_publish_delay', 'unlimited_push_notifications_by_larapush_push_on_publish_for_webstories', 'unlimited_push_notifications_by_larapush_add_code_for_amp', 'unlimited_push_notifications_by_larapush_amp_code_location', 'larapush_error', 'larapush_success');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_yoast_wpseo_metadesc', 'rank_math_description', '_genesis_description', '_seopress_titles_desc', '_aioseo_og_description');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_yoast_wpseo_metadesc', 'rank_math_description', '_genesis_description', '_seopress_titles_desc', '_aioseo_og_description');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_yoast_wpseo_metadesc', 'rank_math_description', '_genesis_description', '_seopress_titles_desc', '_aioseo_og_description');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_yoast_wpseo_metadesc', 'rank_math_description', '_genesis_description', '_seopress_titles_desc', '_aioseo_og_description');
+

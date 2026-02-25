@@ -1,0 +1,14 @@
+{
+  "options": [
+    "astoundify_simple_social_login",
+    "astoundify_simple_social_login_facebook",
+    "astoundify_simple_social_login_google",
+    "astoundify_simple_social_login_twitter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:24.030Z"
+}

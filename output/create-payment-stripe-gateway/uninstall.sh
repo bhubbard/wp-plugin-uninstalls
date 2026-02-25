@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete '_mx_create_paymetn_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_sent_to_client_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_sent_to_client_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_sent_to_client_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_sent_to_client_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_bill_confirm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_bill_confirm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_bill_confirm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_bill_confirm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_offer_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_offer_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_offer_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_offer_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_invoice_number_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_invoice_number_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_invoice_number_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_invoice_number_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_customer_email_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_customer_email_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_customer_email_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_customer_email_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_url_hash_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_url_hash_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_url_hash_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_url_hash_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_url_to_client_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_url_to_client_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_url_to_client_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_url_to_client_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_of_amount_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_of_amount_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_of_amount_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_of_amount_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_meta_currency_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_meta_currency_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_meta_currency_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_meta_currency_data'"

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "cfwp_stripe_secret_key",
+    "cfwp_stripe_webhook_secret",
+    "cfwp_plan_name",
+    "cfwp_redirect_not_logged_in",
+    "cfwp_redirect_not_subscribed",
+    "cfwp_redirect_expired",
+    "cfwp_plan_price",
+    "cfwp_success_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cfwp_dismiss_missing_woocommerce",
+    "cfwp_dismiss_missing_smtp",
+    "subscription_status",
+    "stripe_subscription_id",
+    "stripe_customer_id",
+    "_cfwp_restricted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:08.768Z"
+}

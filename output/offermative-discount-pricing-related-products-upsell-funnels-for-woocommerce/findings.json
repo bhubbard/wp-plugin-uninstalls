@@ -1,0 +1,29 @@
+{
+  "options": [
+    "sa_om_generation_settings",
+    "sa_om_admin_details",
+    "*_last_synced_at",
+    "sa_om_views_last_synced_at",
+    "sa_om_campaigns_last_synced_at",
+    "sa_om_db_version",
+    "sa_om_last_synced_at",
+    "sa_om_campaign_aggressiveness",
+    "sa_om_max_orders_to_scan",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "_sa_om_activation_redirect",
+    "sa_om_store_kpis",
+    "sa_om_max_active_campaigns_count",
+    "sa_om_token",
+    "sa_om_installing",
+    "sa_om_updating"
+  ],
+  "cron_jobs": [
+    "om_sync_tracking_data_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:24.780Z"
+}

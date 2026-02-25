@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woodpd_products_button",
+    "woodpd_simple_product_button ",
+    "woodpd_after_product_button ",
+    "woodpd_read_more_text",
+    "woodpd_cart_url",
+    "woodpd_add_to_cart_text",
+    "woodpd_buy_now_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dpd_id",
+    "dpd_price_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:24.635Z"
+}

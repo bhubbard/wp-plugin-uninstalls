@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "lh_relationships_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ical:dt*",
+    "wgs84:lat",
+    "wgs84:long",
+    "foobar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:53.363Z"
+}

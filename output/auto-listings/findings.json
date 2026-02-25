@@ -1,0 +1,33 @@
+{
+  "options": [
+    "auto_listings_options",
+    "auto_listings_db_version",
+    "auto_listings_version",
+    "auto_listings_version_upgraded_from",
+    "mbfs_db_version",
+    "mbfs_keys"
+  ],
+  "transients": [
+    "al_vehicle_filter_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_al_enquiry_listing_id",
+    "_al_enquiry_listing_title",
+    "_al_enquiry_listing_seller",
+    "_al_enquiry_email",
+    "_al_listing_enquiries",
+    "_al_enquiry_name",
+    "_al_enquiry_phone",
+    "_al_enquiry_message",
+    "_al_listing_model_name",
+    "_al_listing_image_gallery",
+    "_thumbnail_id",
+    "ct_builder_shortcodes",
+    "_bricks_page_content_2",
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:58.078Z"
+}

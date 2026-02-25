@@ -1,0 +1,29 @@
+{
+  "options": [
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "payment_method",
+    "tamara_authorized",
+    "_tamara_checkout_session_id",
+    "tamara_checkout_session_id",
+    "_tamara_checkout_url",
+    "tamara_checkout_url",
+    "_tamara_payment_type",
+    "tamara_payment_type",
+    "tamara_payment_type_instalment",
+    "_tamara_capture_id",
+    "capture_id",
+    "_tamara_cancel_id",
+    "tamara_cancel_id",
+    "_tamara_order_id",
+    "tamara_order_id",
+    "_tamara_force_capture_checked",
+    "_tamara_force_authorise_checked"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:36.625Z"
+}

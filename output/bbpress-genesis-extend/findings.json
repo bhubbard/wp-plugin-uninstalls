@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bbpge_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_genesis_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:52.041Z"
+}

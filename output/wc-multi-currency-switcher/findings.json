@@ -1,0 +1,24 @@
+{
+  "options": [
+    "xs-mcs-options",
+    "cron",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "xs_mcs_auto_update_currencies_values"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "xs_mcs_curr_data",
+    "value",
+    "exchange_fee",
+    "updated_on",
+    "auto_update",
+    "manualy_updated",
+    "auto_updated",
+    "xs_mcs_switch_currency"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:18.133Z"
+}

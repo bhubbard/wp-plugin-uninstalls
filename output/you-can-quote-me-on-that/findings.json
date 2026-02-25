@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_viewed",
+    "otb_new_theme",
+    "active_sitewide_plugins",
+    "*_version",
+    "ycqmot_delete_all_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "you-can-quote-me-on-that-slide-settings-group"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:35.234Z"
+}

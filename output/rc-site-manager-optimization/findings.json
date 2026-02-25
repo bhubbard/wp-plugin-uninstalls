@@ -1,0 +1,27 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "rank-math-options-titles",
+    "wpseo_titles",
+    "rc_sm_plugin_version",
+    "wp_rocket_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rc_sm_cache_rules_hourly_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_robots",
+    "wpseo_title",
+    "wpseo_desc",
+    "wpseo_noindex",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_meta-robots-noindex"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:32.950Z"
+}

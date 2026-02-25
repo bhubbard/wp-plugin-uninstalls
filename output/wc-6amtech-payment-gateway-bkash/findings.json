@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pgbw_bkash_payment_create_response_*",
+    "pgbw_bkash_payment_execute_response_*",
+    "pgbw_bkash_token_data",
+    "pgbw_error_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pgbw_bdt_sale_price",
+    "pgbw_bdt_price",
+    "_bkash_payment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:32.554Z"
+}

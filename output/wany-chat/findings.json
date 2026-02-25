@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_update",
+    "RRB_TOKENS"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wany_cron_every_minute",
+    "wany_cron_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "action4json",
+    "rrbot_usr_promo",
+    "_woocommerce_persistent_cart_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:05.101Z"
+}

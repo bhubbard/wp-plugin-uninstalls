@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ecwp_db_version",
+    "ecwp_encryption_key",
+    "ecwp_client_license_key",
+    "ecwp_client_license_data"
+  ],
+  "transients": [
+    "ecwp_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "my_easy_compta_banner_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:12.462Z"
+}

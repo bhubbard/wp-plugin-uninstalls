@@ -1,0 +1,30 @@
+{
+  "options": [
+    "isrc_opt_adv_*",
+    "isrc_log_bad_words_*",
+    "isrc_opt_*",
+    "isrc_att_hash_ind_*",
+    "isrc_att_hash_set_*",
+    "isrc_opt_content_*",
+    "isrc_cb_att_hash_set_*",
+    "isrc_hash",
+    "isrc_db_ver",
+    "isrc_delete_data",
+    "isrc_default_sc_*",
+    "isrc_default_sc",
+    "isrc_cb_att_hash_ind_*",
+    "isrc_previewdata"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_isrc_all",
+    "_isrc",
+    "_wc_review_count",
+    "_wc_average_rating",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:57.280Z"
+}

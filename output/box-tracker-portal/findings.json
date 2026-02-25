@@ -1,0 +1,18 @@
+{
+  "options": [
+    "b0xTPortal_admin_country",
+    "b0xT_google_api_key",
+    "b0xTPortal_username",
+    "b0xTPortal_password",
+    "b0xTPortal_google_api_key",
+    "b0xTPortal_mode",
+    "b0xTPortal_zipcode_label",
+    "b0xTPortal_page_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:13.180Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mm-option-use-legacy-db",
+    "gfmm_checkoutpage_notice",
+    "gfmm_confirmationpage_notice",
+    "mm_custom_field_group_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mmgroups-ignore",
+    "mmgroups-sc-ignore"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:21.758Z"
+}

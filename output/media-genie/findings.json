@@ -1,0 +1,16 @@
+{
+  "options": [
+    "media_genie_disabled_image_sizes",
+    "media_genie_enable_retina",
+    "media_genie_rename_file"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_media_genie_default_folder",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:24.302Z"
+}

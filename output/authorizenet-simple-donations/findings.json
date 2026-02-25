@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wds_donation_login_id",
+    "wds_donation_transaction_key",
+    "wds_donation_mode",
+    "wds_processor_description",
+    "wds_thankyou_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "donor_firstname",
+    "donor_lastname",
+    "donor_email",
+    "donation_amount",
+    "transaction_id",
+    "last_4",
+    "approval_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:34.050Z"
+}

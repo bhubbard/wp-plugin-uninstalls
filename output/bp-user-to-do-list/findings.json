@@ -1,0 +1,39 @@
+{
+  "options": [
+    "user-todo-list-settings",
+    "group-todo-list-settings",
+    "data-retention-settings",
+    "user-todo-list-shortcodes",
+    "user_todo_list_settings",
+    "bptodo_version",
+    "active_sitewide_plugins",
+    "bptodo_cleanup_log"
+  ],
+  "transients": [
+    "bptodo_due_todos_*"
+  ],
+  "cron_jobs": [
+    "bptodo_daily_cleanup",
+    "bptodo_todo_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bptodo_demo_data",
+    "todo_group_id",
+    "todo_status",
+    "todo_priority",
+    "todo_due_date",
+    "botodo_associated_todo",
+    "todo_mail_setting",
+    "tokens",
+    "todo_last_day_mail_sent",
+    "todo_primary_id",
+    "todo_complete_time",
+    "todo_completed_date",
+    "todo_last_day_notification_sent",
+    "todo_user_id",
+    "todo_creator_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:30.053Z"
+}

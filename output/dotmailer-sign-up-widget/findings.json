@@ -1,0 +1,27 @@
+{
+  "options": [
+    "dm_recaptcha",
+    "dm_API_messages",
+    "*_api_endpoint",
+    "widget_*",
+    "sidebars_widgets",
+    "dm_API_credentials",
+    "dm_API_address_books",
+    "dm_API_data_fields",
+    "dm_redirections",
+    "dm_api_endpoint",
+    "widget_dm_widget"
+  ],
+  "transients": [
+    "dm_recaptcha_temp_values_*",
+    "dotdigital_wordpress_api_data_fields",
+    "dotdigital_wordpress_api_lists"
+  ],
+  "cron_jobs": [
+    "integration_insights"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:48.831Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cus_scheduled_homepage_changes",
+    "tsu_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cus_check_overdue_posts",
+    "cus_publish_post",
+    "cus_change_homepage"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cus_sc_publish_original",
+    "cus_sc_publish_pubdate",
+    "*_pubdate",
+    "*_original",
+    "*_keep_dates"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:56.931Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "t3i_options",
+    "wordpress_api_key",
+    "akismet_spam_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "t3:tt_news.uid",
+    "t3:tt_news.url",
+    "_aioseop_description",
+    "_headspace_description",
+    "_yoast_wpseo_metadesc",
+    "bizzthemes_description",
+    "thesis_description",
+    "_aioseop_keywords",
+    "_headspace_keywords",
+    "_yoast_wpseo_metakeywords",
+    "bizzthemes_keywords",
+    "thesis_keywords",
+    "t3:tt_news.*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:55.530Z"
+}

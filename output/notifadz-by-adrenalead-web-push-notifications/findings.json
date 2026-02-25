@@ -1,0 +1,33 @@
+{
+  "options": [
+    "adrenalead_notifadz_profil",
+    "adrenalead_notifadz_token",
+    "adrenalead_notifadz_need_confirm_template",
+    "adrenalead_notifadz_confirm_template_id",
+    "adrenalead_notifadz_template_data",
+    "adrenalead_notifadz_tab",
+    "adrenalead_notifadz_ads",
+    "adrenalead_notifadz_send_push_on_publish",
+    "adrenalead_notifadz_device_targeted_on_publish",
+    "adrenalead_notifadz_ids",
+    "adrenalead_notifadz_*",
+    "adrenalead_notifadz_script",
+    "adrenalead_notifadz_script_triggers_activated",
+    "adrenalead_notifadz_script_triggers",
+    "adrenalead_notifadz_worker",
+    "adrenalead_notifadz_account_id",
+    "adrenalead_notifadz_need_to_copy_ads"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "notifadz_adrenalead_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "notifadz_adrenalead_send_push",
+    "notifadz_adrenalead_push_device",
+    "notifadz_adrenalead_sent_push"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:40.073Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "officeguy_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "officeguy_documentonpayment",
+    "officeguy_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "OfficeGuyCompanyID",
+    "OfficeGuyAPIKey",
+    "OfficeGuyValidCredentials",
+    "OfficeGuyDonation",
+    "OfficeGuySubscription",
+    "_transaction_id",
+    "_duration_in_months",
+    "_recurrences",
+    "wcfmmp_profile_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:42.034Z"
+}

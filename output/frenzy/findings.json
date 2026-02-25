@@ -1,0 +1,39 @@
+{
+  "options": [
+    "fetch-shop-btn-show-always",
+    "shopstyle-api-key",
+    "fetch-account",
+    "fetch-position-vertical",
+    "fetch-position-horizontal",
+    "fetch-show-home-feed",
+    "fetch-paypal-email",
+    "frenzy-username",
+    "fetch-paypal-settings-status",
+    "fetch-paypal-payout-status",
+    "fetch-payouts",
+    "frenzy-settings-status",
+    "fetch-check-payout-status"
+  ],
+  "transients": [
+    "indi-commissions",
+    "fetch-indi-commissions-details",
+    "fetch-indi-payouts",
+    "fetch-indi-commissions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fetch_in_progress",
+    "frenzy-duration",
+    "frenzy-response",
+    "fetch_show_shop_button",
+    "fetch_post_settings",
+    "fetch_product_data",
+    "is_manual",
+    "frenzy-enabled",
+    "frenzy-deleted-products",
+    "frenzy-shopstyle-added-products"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:23.436Z"
+}

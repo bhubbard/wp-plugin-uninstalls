@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edit_lock",
+    "_edit_last"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:58.151Z"
+}

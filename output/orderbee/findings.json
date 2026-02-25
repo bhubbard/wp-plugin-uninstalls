@@ -1,0 +1,24 @@
+{
+  "options": [
+    "obfrwc_server_auth_id",
+    "obfrwc_server_username",
+    "obfrwc_server_password",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "obfrwc_every_5minutes_products",
+    "obfrwc_every_5minutes_orders",
+    "obfrwc_every_60minutes",
+    "obfrwc_every_5minutes"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:55.825Z"
+}

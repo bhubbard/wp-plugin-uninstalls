@@ -1,0 +1,17 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "greenshift_smartcode_openaiapikey",
+    "greenshift_smartcode_claudeapikey",
+    "greenshift_smartcode_deepseekapikey",
+    "greenshift_smartcode_geminiapikey",
+    "greenshift_smartcode_openaiapimodel",
+    "gspb_global_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:56.778Z"
+}

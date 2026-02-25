@@ -1,0 +1,43 @@
+{
+  "options": [
+    "*_usage_optin",
+    "bsf_usage_last_displayed_time",
+    "bsf_usage_migrated",
+    "bsf_analytics_last_displayed_time",
+    "*_analytics_optin",
+    "*_analytics_installed_time",
+    "*_usage_installed_time",
+    "uabb_hide_branding",
+    "bsf_force_check_extensions",
+    "uabb_lite_redirect",
+    "_uabb_lite_journey_details",
+    "_uabb_lite_1_2_4_ver",
+    "_uabb_cloud_templats",
+    "_uabb_enabled_icons",
+    "bsf_usage_optin",
+    "uabb_usage_optin",
+    "bsf_usage_installed_time",
+    "uabb_usage_installed_time",
+    "_uabb_global_settings",
+    "_uabb_lite_saved_version",
+    "_fl_builder_uabb_cloud_templates",
+    "allowed_astra_notices"
+  ],
+  "transients": [
+    "bsf_analytics_track",
+    "bsf_usage_track"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uabb-cta-link",
+    "_uabb_lite_version",
+    "_fl_builder_data",
+    "_fl_builder_data_back",
+    "_fl_builder_draft",
+    "_fl_builder_draft_back",
+    "_uabb_lite_converted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:43.257Z"
+}

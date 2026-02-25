@@ -1,0 +1,15 @@
+{
+  "options": [
+    "leadster-script-code"
+  ],
+  "transients": [
+    "leadster_admin_notice_warning",
+    "leadster_admin_notice_success",
+    "leadster_admin_notice_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:11.015Z"
+}

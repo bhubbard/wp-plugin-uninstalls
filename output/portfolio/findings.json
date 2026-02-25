@@ -1,0 +1,36 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "*_size_w",
+    "*_size_h",
+    "cstmsrch_options",
+    "sndr_options",
+    "prtfl_options",
+    "*demo_options",
+    "*options",
+    "prtfl_demo_options",
+    "widget_portfolio_technologies_widget",
+    "prtfl_tag_update"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers",
+    "_wp_page_template",
+    "_thumbnail_id",
+    "prtfl_information",
+    "_prtfl_images",
+    "_wp_attachment_image_alt",
+    "_wp_attachment_image_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:03.901Z"
+}

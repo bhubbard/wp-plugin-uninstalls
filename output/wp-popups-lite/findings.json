@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wppopups_license_updates",
+    "wppopups_license",
+    "wppopups_review",
+    "wppopups_activated",
+    "wppopups_settings",
+    "wppopups_upgraded_from_1x",
+    "spu_integrations",
+    "active_sitewide_plugins",
+    "wppopups_upgrade_fields",
+    "wppopups_activation_redirect",
+    "wppopups_version_upgraded_from",
+    "wppopups_providers",
+    "wppopups_version",
+    "wppopups_preview_page",
+    "wppopups_debug",
+    "wppopups_logging"
+  ],
+  "transients": [
+    "_wppopups_addons",
+    "update_plugins",
+    "wppopups_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wppopups_log_*",
+    "_wp_page_template",
+    "spu_options",
+    "spu_rules",
+    "spu_ab_group"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:58.375Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "umwpuf_description",
+    "umwpuf_icon",
+    "umwpuf_post_form",
+    "_can_have_this_tab_roles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:25.114Z"
+}

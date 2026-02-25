@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cpc_bms_nb_bmsearch",
+    "cpc_bms_admin_options",
+    "cpc_bms_admin_text_mod",
+    "cpc_bms_advanced_admin_options",
+    "sidebars_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:04.707Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wc_iod_seller_company_name",
+    "wc_iod_api_username",
+    "wc_iod_api_password",
+    "wc_iod_api_customer_code",
+    "wc_iod_seller_company_address_1",
+    "woocommerce_store_address",
+    "wc_iod_seller_company_address_2",
+    "woocommerce_store_address_2",
+    "wc_iod_seller_company_city",
+    "woocommerce_store_city",
+    "wc_iod_seller_company_postcode",
+    "woocommerce_store_postcode"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wc_iod_check_order_shipping_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_iod_delivery_number",
+    "_wc_iod_delivery_branch_code",
+    "_wc_iod_delivery_distrubution_line_code",
+    "_wc_iod_response_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:16.108Z"
+}

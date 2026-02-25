@@ -1,0 +1,32 @@
+{
+  "options": [
+    "__fluent_security_db_version",
+    "__fls_auth_settings",
+    "__fls_social_auth_settings",
+    "__fls_auth_forms_settings",
+    "__fls_auth_customizer_settings",
+    "_fls_last_digest_sent",
+    "fls_last_blocked_email_send_time",
+    "__fls_child_sites",
+    "fa_system_email_settings",
+    "__fls_integrity_settings",
+    "__fls_integrity_ignore_lists"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fluent_auth_daily_tasks",
+    "fluent_auth_hourly_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fls_login_google",
+    "__flsc_temp_token",
+    "_fls_login_github",
+    "_fls_login_facebook",
+    "default_password_nag",
+    "locale",
+    "_new_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:29.606Z"
+}

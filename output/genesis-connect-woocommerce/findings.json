@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_shop_slug",
+    "woocommerce_prepend_shop_page_to_urls",
+    "gencwooc_products_per_page",
+    "woocommerce_shop_page_title",
+    "woocommerce_hide_out_of_stock_items"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gsm_menu",
+    "_ss_sidebar",
+    "_ss_sidebar_alt",
+    "_genesis_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:51.216Z"
+}

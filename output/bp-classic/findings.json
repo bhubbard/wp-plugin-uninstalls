@@ -1,0 +1,17 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "_bp_retain_bp_default",
+    "template_root",
+    "stylesheet_root"
+  ],
+  "transients": [
+    "bp_classic_show_notice",
+    "theme_roots"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:53.527Z"
+}

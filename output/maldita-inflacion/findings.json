@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*-cambio",
+    "*_bkops",
+    "malinf_apival",
+    "malinf_bkops"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "malinf_meta",
+    "_price",
+    "_sale_price",
+    "_min_variation_price",
+    "_max_variation_price",
+    "_min_variation_regular_price",
+    "_max_variation_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:37.054Z"
+}

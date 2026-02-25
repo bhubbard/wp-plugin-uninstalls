@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_image_repeat",
+    "main_color_post",
+    "main_color_head",
+    "main_color_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:15.748Z"
+}

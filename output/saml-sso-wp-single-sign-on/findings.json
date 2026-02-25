@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "kwsso_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kwsso_user_type",
+    "kwsso_user_attributes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:40.518Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_payflex_settings",
+    "payflex_settings_last_saved"
+  ],
+  "transients": [
+    "payflex_access_token",
+    "payflex_access_token_date",
+    "payflex_configuration_response"
+  ],
+  "cron_jobs": [
+    "partpay_do_cron_jobs",
+    "payflex_do_cron_jobs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_payflex_token",
+    "_partpay_token",
+    "_payflex_order_token",
+    "_partpay_order_token",
+    "_payflex_order_id",
+    "_partpay_order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:28.349Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "age_verification_logo",
+    "age_verification_yes_button_color",
+    "age_verification_no_button_color",
+    "age_verification_min_age"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:28.360Z"
+}

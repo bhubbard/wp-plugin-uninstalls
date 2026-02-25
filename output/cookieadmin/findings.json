@@ -1,0 +1,26 @@
+{
+  "options": [
+    "cookieadmin_version",
+    "cookieadmin_law",
+    "cookieadmin_consent_settings",
+    "cookieadmin_pro_scanner",
+    "cookieadmin_scan",
+    "cookieadmin_first_scan",
+    "cookieadmin_settings",
+    "cookieadmin_consent_purge",
+    "softaculous_plugin_update_notice"
+  ],
+  "transients": [
+    "cookieadmin_auto_scan_in_progress",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "cookieadmin_run_auto_scan_batch",
+    "cookieadmin_daily_consent_log_pruning",
+    "cookieadmin_run_auto_cookie_scan"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:48.625Z"
+}

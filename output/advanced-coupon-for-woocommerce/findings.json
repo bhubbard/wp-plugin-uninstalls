@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_enable_coupons",
+    "woocommerce_tax_display_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "advanced_coupon_for_woocommerce_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:27.195Z"
+}

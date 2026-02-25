@@ -1,0 +1,32 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "gscoach_activation_redirect",
+    "gs_coach_active_time",
+    "gs_coach_review_dismiss",
+    "gs_coach_maybe_later"
+  ],
+  "transients": [
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_gscoach_profession",
+    "_gscoach_in",
+    "_gscoach_tw",
+    "_gscoach_fb",
+    "_gscoach_gplus",
+    "_gscoach_ytube",
+    "_gscoach_psite",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:17.093Z"
+}

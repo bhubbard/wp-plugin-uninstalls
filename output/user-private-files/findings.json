@@ -1,0 +1,19 @@
+{
+  "options": [
+    "upfp_enable_email",
+    "upfp_email_subject",
+    "upfp_email_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "upf_allowed",
+    "upf_acs_full",
+    "upf_foldr_id",
+    "upf_doc",
+    "upf_parent_fldr"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:15.429Z"
+}

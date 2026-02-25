@@ -1,0 +1,20 @@
+{
+  "options": [
+    "atfp_api_key",
+    "atfp_translate_shortcodes",
+    "atfp_response_error",
+    "atfp_translated_entities",
+    "atfp_translated_taxonomies",
+    "atfp_translated_single_post",
+    "atfp_translated_single_term"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "atfp_poly_language",
+    "atfp_reviewed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:43.846Z"
+}

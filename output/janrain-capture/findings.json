@@ -1,0 +1,16 @@
+{
+  "options": [
+    "janrain_capture_widget_sso_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_access_token",
+    "*_refresh_token",
+    "*_expires",
+    "*_uuid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:01.474Z"
+}

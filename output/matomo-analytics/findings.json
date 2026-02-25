@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ajdg_matomo_siteid",
+    "ajdg_matomo_siteurl",
+    "ajdg_matomo_active",
+    "ajdg_matomo_track_feed_clicks",
+    "ajdg_matomo_track_error_pages",
+    "ajdg_matomo_track_incognito",
+    "ajdg_matomo_heartbeat_enable",
+    "ajdg_matomo_wc_downloads",
+    "ajdg_matomo_track_feed_impressions",
+    "ajdg_matomo_high_accuracy",
+    "ajdg_matomo_hide_review",
+    "ajdg_activate_matomo-analytics"
+  ],
+  "transients": [
+    "ajdg_update_matomo-analytics"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:06.164Z"
+}

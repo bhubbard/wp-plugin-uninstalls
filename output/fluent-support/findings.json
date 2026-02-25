@@ -1,0 +1,29 @@
+{
+  "options": [
+    "_fluent_last_m_run",
+    "_fs_migrate_awesome_support",
+    "_fs_migrate_freshdesk",
+    "_fs_migrate_helpscout",
+    "_fs_migrate_js_helpdesk",
+    "_fs_migrate_support_candy",
+    "_fs_migrate_zendesk",
+    "siteUrl"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "fluent_support_hourly_tasks",
+    "fluent_support_daily_tasks",
+    "fluent_support_weekly_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wp-last-login",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:34.443Z"
+}

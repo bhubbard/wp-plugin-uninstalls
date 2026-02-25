@@ -1,0 +1,25 @@
+{
+  "options": [
+    "mp_enviroment",
+    "woocommerce_weight_unit",
+    "mpq_pickup",
+    "mpq_value_select",
+    "mp_id",
+    "mp_email",
+    "mp_api_key",
+    "free_shipping",
+    "woocommerce_shipping_mipaquete_wc_settings",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_declared_value",
+    "_shipping_custom_price_product_smp",
+    "sending_mipaquete_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:51.927Z"
+}

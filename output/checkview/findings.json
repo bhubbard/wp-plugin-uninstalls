@@ -1,0 +1,48 @@
+{
+  "options": [
+    "checkview_log_options",
+    "captcha_ip_range_opt",
+    "i13_recapcha_ip_to_skip_captcha",
+    "checkview_hide_me",
+    "checkview_advance_options",
+    "checkview_api_options",
+    "CF_TEST_*",
+    "*_wsf_entry_id",
+    "*_wsf_frm_id",
+    "cleantalk_data",
+    "disable_actions",
+    "disable_email_receipt",
+    "woocommerce_checkview_settings",
+    "disable_webhooks",
+    "checkview_woo_product_id",
+    "checkview_test_user",
+    "checkview_admin_menu_title"
+  ],
+  "transients": [
+    "checkview_forms_test_transient",
+    "checkview_store_orders_transient",
+    "checkview_store_products_transient",
+    "checkview_store_shipping_transient",
+    "checkview_forms_list_transient",
+    "checkview_saas_pk",
+    "checkview_saas_ip_address",
+    "checkview_whitelisted_ips_*",
+    "checkview_whitelisted_ips_spamfirewall",
+    "checkview_whitelisted_ips_antispam",
+    "checkview_activation_notification"
+  ],
+  "cron_jobs": [
+    "checkview_nonce_cleanup_cron",
+    "checkview_delete_orders_action",
+    "checkview_delete_table_cron_hook",
+    "checkview_options_cleanup_cron",
+    "checkview_rotate_user_credentials"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpforms_form_locations",
+    "_hash"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:10.923Z"
+}

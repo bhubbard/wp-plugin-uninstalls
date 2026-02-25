@@ -1,0 +1,22 @@
+{
+  "options": [
+    "chirpipn_*",
+    "chirpipn_remove_unsubscribed_user",
+    "chirpipn_email_subject",
+    "chirpipn_email_template",
+    "chirpipn_email_footer",
+    "chirpipn_name_label",
+    "chirpipn_name_placeholder",
+    "chirpipn_email_placeholder",
+    "chirpipn_submit_button_text",
+    "chirpipn_email_label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "chirpipn_subscribed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:54.648Z"
+}

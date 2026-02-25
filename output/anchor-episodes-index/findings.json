@@ -1,0 +1,17 @@
+{
+  "options": [
+    "jesaei_jun23_sale_transient_deleted",
+    "jes_anchor_settings"
+  ],
+  "transients": [
+    "jesaei_notice_dismissed",
+    "jesaei_episodes"
+  ],
+  "cron_jobs": [
+    "jesaei_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:41.137Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bctt-twitter-handle",
+    "bctt-short-url",
+    "bctt_disable_css",
+    "bctt_style_enqueued",
+    "active_sitewide_plugins",
+    "*_license",
+    "*_active"
+  ],
+  "transients": [
+    "_bctt_activation_redirect",
+    "*_promo_hide",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bctt_has_dismissed_nag",
+    "bctt_has_dismissed_utm_nag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:41.005Z"
+}

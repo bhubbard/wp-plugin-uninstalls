@@ -1,0 +1,23 @@
+{
+  "options": [
+    "hit_cp_auto_working_status",
+    "hit_cp_auto_main_settings",
+    "woocommerce_currency",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_feature_product_block_editor_enabled",
+    "hit_cp_auto_values_*",
+    "hit_cp_auto_status_*",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "hit_canadapost_auto_nonce_temp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hits_cp_hs_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:56.905Z"
+}

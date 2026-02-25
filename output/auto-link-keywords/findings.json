@@ -1,0 +1,14 @@
+{
+  "options": [
+    "autolinkkw_keyword_map",
+    "autolinkkw_max_links",
+    "autolinkkw_nofollow",
+    "autolinkkw_newtab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:26.673Z"
+}

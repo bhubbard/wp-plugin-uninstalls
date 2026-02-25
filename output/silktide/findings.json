@@ -1,0 +1,13 @@
+{
+  "options": [
+    "silktide_version",
+    "silktide_api_key",
+    "silktide_last_notified"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:35.418Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "truvisibility_plagiarism_usage",
+    "truvisibility_plagiarism_account"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "truvisibility_plagiarism_check_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "truvisibility_plagiarism_post_checked",
+    "truvisibility_plagiarism_post_uniqueness",
+    "truvisibility_plagiarism_publish_anyway"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:41.167Z"
+}

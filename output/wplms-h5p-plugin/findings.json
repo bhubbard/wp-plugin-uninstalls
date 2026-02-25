@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lms_settings",
+    "h5p_track_user",
+    "h5p_save_content_state",
+    "h5p_save_content_frequency",
+    "h5p_export"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vibe_quiz_course",
+    "vibe_quiz_message",
+    "wplms_h5p_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:40.104Z"
+}

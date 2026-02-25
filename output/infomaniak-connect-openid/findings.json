@@ -1,0 +1,21 @@
+{
+  "options": [
+    "_transient_infomaniak-connect-openid-state--*",
+    "infomaniak-connect-openid-plugin-version"
+  ],
+  "transients": [
+    "infomaniak-connect-openid-state--*"
+  ],
+  "cron_jobs": [
+    "infomaniak-connect-openid-cron-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "infomaniak-connect-openid-last-token-response",
+    "infomaniak-connect-openid-last-id-token-claim",
+    "infomaniak-connect-openid-last-user-claim",
+    "infomaniak-connect-openid-subject-identity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:54.758Z"
+}

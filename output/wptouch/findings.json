@@ -1,0 +1,41 @@
+{
+  "options": [
+    "wptouch_customizer_options_*",
+    "wptouch_customizer_initialized_*",
+    "wptouch_custom_post_types",
+    "wptouch_multisite_active",
+    "wptouch-disable-free-newsletter-notice",
+    "_wptouch-disable-theme-incompat-notice",
+    "_wptouch-disable-plugin-incompat-notice",
+    "bnc_iphone_pages",
+    "update_plugins",
+    "wptouch_menus_initialized",
+    "active_sitewide_plugins",
+    "wptouch_custom_taxonomies"
+  ],
+  "transients": [
+    "wptouch_license_upgrade_available",
+    "_wptouch_available_cloud_addons",
+    "_wptouch_available_cloud_themes",
+    "_wptouch_language_info",
+    "update_plugins",
+    "_wptouch_bncid_latest_version",
+    "wptouch_update_info",
+    "wptouch_multisite_site_info"
+  ],
+  "cron_jobs": [
+    "wptouch_cron_backup_settings"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mobile_page_template",
+    "wptouch_sc_data",
+    "wptouch_sc_scripts",
+    "wptouch_sc_styles",
+    "wptouch_sc_*",
+    "_wptouch_pro_menu_item_icon",
+    "_wptouch_pro_menu_item_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:43.317Z"
+}

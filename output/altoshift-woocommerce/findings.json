@@ -1,0 +1,18 @@
+{
+  "options": [
+    "altoshift_send_checkout_stats",
+    "altoshift_engine_token",
+    "active_sitewide_plugins",
+    "altoshift_feed_price_export",
+    "altoshift_feed_password_protected",
+    "altoshift_feed_password",
+    "altoshift_layer_enabled",
+    "altoshift_layer_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:14.622Z"
+}

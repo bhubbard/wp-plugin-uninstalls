@@ -1,0 +1,13 @@
+{
+  "options": [
+    "aqsm-cookie-life",
+    "aqsm-allowableFields",
+    "aqsm-targetURLs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:21.653Z"
+}

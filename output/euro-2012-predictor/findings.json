@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*db_version",
+    "*donated",
+    "*nag",
+    "*show_predictions",
+    "*promo_link",
+    "*countdown_format",
+    "*browser_locale",
+    "*group_stats",
+    "*scoring",
+    "euro2012_db_version",
+    "euro2012_promo_link",
+    "euro2012_group_stats",
+    "euro2012_scoring",
+    "euro2012_countdown_format",
+    "euro2012_browser_locale"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:19.717Z"
+}

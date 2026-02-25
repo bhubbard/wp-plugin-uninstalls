@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'cupri_general_settings'
+wp option delete '_cupri'
+wp option delete 'cupri_redirect_after_activation_option'
+wp option delete 'cupri_gateways_settings'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_my_meta_value_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_my_meta_value_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_my_meta_value_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_my_meta_value_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cupri_fprice'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cupri_fprice'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cupri_fprice'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cupri_fprice'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cupri_result_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cupri_result_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cupri_result_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cupri_result_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cupri_gateway'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cupri_gateway'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cupri_gateway'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cupri_gateway'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cupri_currency'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cupri_currency'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cupri_currency'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cupri_currency'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cupri_log'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cupri_log'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cupri_log'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cupri_log'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wpm_order_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wpm_order_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wpm_order_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wpm_order_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cupri_fields'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cupri_fields'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cupri_fields'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cupri_fields'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cupri_fmobile'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cupri_fmobile'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cupri_fmobile'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cupri_fmobile'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cupri_femail'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cupri_femail'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cupri_femail'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cupri_femail'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sepehr2_digitalreceipt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sepehr2_digitalreceipt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sepehr2_digitalreceipt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sepehr2_digitalreceipt'"

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wingsuite_wingsuite_modules",
+    "wingsuite_*",
+    "wingsuite_dm_settings"
+  ],
+  "transients": [
+    "wingsuite_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wingsuite_core_errors_*",
+    "wingsuite_search"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:42.318Z"
+}

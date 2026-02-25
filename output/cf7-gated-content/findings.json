@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "image_attachment_url",
+    "image_attachment_id",
+    "download_content",
+    "download_button_text",
+    "download_button_classes",
+    "always_require_form",
+    "show_download_for_admin",
+    "open_in_new_tab",
+    "enable_gated_content",
+    "include_default_css",
+    "use_relative_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:02.377Z"
+}

@@ -1,0 +1,42 @@
+{
+  "options": [
+    "sharing_plus_review_dismiss",
+    "sharing_plus_active_time",
+    "run_sharing_plus_update_routine_2",
+    "sharing_plus_networks",
+    "sharing_plus_icons_order",
+    "sharing_plus_settings",
+    "sharing_plus_inline",
+    "sharing_plus_positions",
+    "sharing_plus_themes",
+    "sharing_plus_extra",
+    "sharing_plus_not_exist_post_old_counts",
+    "*_counts",
+    "sharing_plus_not_exist_post_total_counts",
+    "widget_*",
+    "sharing_plus_follow_twitter_token",
+    "sharing_plus_sidebar",
+    "sharing_plus_advanced",
+    "*version",
+    "*settings"
+  ],
+  "transients": [
+    "sharing_plus_follow_facebook_counter",
+    "sharing_plus_follow_twitter_counter",
+    "sharing_plus_follow_google_counter",
+    "sharing_plus_follow_youtube_counter",
+    "sharing_plus_follow_pinterest_counter",
+    "sharing_plus_follow_instagram_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sharing_plus_cache_timestamp",
+    "sharing_plus_old_counts",
+    "*_counts",
+    "sharing_plus_total_counts",
+    "sharing_plus_fbshare_counts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:20.017Z"
+}

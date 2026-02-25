@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rewrite_rules",
+    "humanstxt_options",
+    "humanstxt_content",
+    "humanstxt_revisions"
+  ],
+  "transients": [
+    "humanstxt_plugin_information"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:47.237Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "profiling_user_permission_1",
+    "profiling_user_permission_2",
+    "always_show_profiling",
+    "allow_get_request",
+    "override_disable_auto_save",
+    "override_disable_revisioning"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:36.897Z"
+}

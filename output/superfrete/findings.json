@@ -1,0 +1,50 @@
+{
+  "options": [
+    "superfrete_debug_mode",
+    "superfrete_sandbox_mode",
+    "superfrete_api_token_sandbox",
+    "superfrete_api_token",
+    "superfrete_proxy_url",
+    "superfrete_force_proxy",
+    "superfrete_webhook_secret",
+    "superfrete_webhook_registered",
+    "superfrete_webhook_url",
+    "superfrete_webhook_id",
+    "woocommerce_store_postcode",
+    "superfrete_plugin_version",
+    "superfrete_shipping_migrated",
+    "superfrete_individual_methods_migrated",
+    "superfrete_custom_css_vars",
+    "superfrete-calculator-setting",
+    "superfrete_webhook_migrated",
+    "superfrete_enable_calculator",
+    "superfrete_open_drawer_button_text",
+    "superfrete_update_button_text",
+    "superfrete_no_address_added_yet",
+    "superfrete_no_shipping_methods_msg",
+    "superfrete_auto_calculation",
+    "superfrete_no_rates_message",
+    "superfrete_free_shipping_price",
+    "woocommerce_default_country",
+    "woocommerce_store_name",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_number",
+    "woocommerce_store_neighborhood",
+    "woocommerce_store_city",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "superfrete_webhook_table_version"
+  ],
+  "transients": [
+    "superfrete_migration_running"
+  ],
+  "cron_jobs": [
+    "superfrete_clear_log_event",
+    "superfrete_process_webhook_retries"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:25.780Z"
+}

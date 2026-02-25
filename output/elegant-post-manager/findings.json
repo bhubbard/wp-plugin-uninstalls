@@ -1,0 +1,15 @@
+{
+  "options": [
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Elegant_Post_Manager_Visit_Count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:42.566Z"
+}

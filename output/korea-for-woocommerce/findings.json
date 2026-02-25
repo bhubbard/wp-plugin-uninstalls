@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_korea_settings",
+    "*_settings",
+    "woocommerce_korea_version",
+    "woocommerce_checkout_phone_field",
+    "woocommerce_korea"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wc_korea_weekly_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:08.188Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "foodbooklite_options",
+    "woocommerce_currency_pos",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "woocommerce_checkout_page_id",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_ship_to_destination",
+    "woocommerce_enable_order_comments",
+    "woocommerce_tax_total_display",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_sku",
+    "_stock_status",
+    "_order_delivery_boy",
+    "_pickup_time",
+    "_delivery_type",
+    "_extra_featured",
+    "_delivery_date",
+    "_pre_order_status",
+    "_order_tracking_status",
+    "_order_tracking_status_time",
+    "foodbooklitedelivery_boy"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:56.615Z"
+}

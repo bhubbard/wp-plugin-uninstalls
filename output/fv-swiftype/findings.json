@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_deferred_notices",
+    "*_deferred_errors",
+    "fv_swiftype",
+    "fv_swiftype_last_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:50.297Z"
+}

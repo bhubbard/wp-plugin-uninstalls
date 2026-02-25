@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'mp3folder'
+wp option delete 'calculateprefix'
+wp option delete 'markuptemplate'
+wp option delete 'customcss'
+wp option delete 'replaceheaders'
+wp option delete 'mediaextensions'
+wp option delete 'packageextensions'
+wp option delete 'showcover'
+wp option delete 'showfeatured'
+wp option delete 'embedwhere'
+wp option delete 'tagencoding'
+wp option delete 'filenameencoding'
+wp option delete 'sortfiles'
+wp option delete 'reversefiles'
+wp option delete 'showtags'
+wp option delete 'covermarkup'
+wp option delete 'downloadtext'
+wp option delete 'playtext'
+wp option delete 'stoptext'
+wp option delete 'removeextension'
+wp option delete 'packagetitle'
+wp option delete 'packagetexts'
+wp option delete 'embedplayer'
+wp option delete 'autoplaylist'
+wp option delete 'handlefeed'
+wp option delete 'cachedir'
+wp option delete 'overwritefeedlink'
+

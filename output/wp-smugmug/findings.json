@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wp_smugmug_version",
+    "wp_smugmug_installed",
+    "wp_smugmug_*",
+    "wp_smugmug_thumbsize",
+    "wp_smugmug_size",
+    "wp_smugmug_imagecount",
+    "wp_smugmug_start",
+    "wp_smugmug_num",
+    "wp_smugmug_link",
+    "wp_smugmug_titletag",
+    "wp_smugmug_captions",
+    "wp_smugmug_sort",
+    "wp_smugmug_lightbox",
+    "wp_smugmug_smugmug",
+    "wp_smugmug_window",
+    "wp_smugmug_css",
+    "wp_smugmug_css_ie",
+    "wp_smugmug_title",
+    "wp_smugmug_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-smugmug",
+    "wp-smugmug-options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:02.995Z"
+}

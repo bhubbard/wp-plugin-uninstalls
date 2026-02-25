@@ -1,0 +1,14 @@
+{
+  "options": [
+    "plagiarism_editor_required"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plagiarism_result",
+    "plagiarism_duplicate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:40.577Z"
+}

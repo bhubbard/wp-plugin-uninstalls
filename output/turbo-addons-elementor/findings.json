@@ -1,0 +1,25 @@
+{
+  "options": [
+    "turbo_addons_widgets",
+    "turbo_addons_extensions",
+    "trad_info_text_date",
+    "trad_install_date",
+    "trad_hide_tinfo1",
+    "trad_turbo_addons_template_items",
+    "trad_turbo_addons_version"
+  ],
+  "transients": [
+    "turbo_addons_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_post_like_count",
+    "_post_unlike_count",
+    "trad_post_views_count",
+    "_wp_attachment_image_alt",
+    "category_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:05.462Z"
+}

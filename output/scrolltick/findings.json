@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_scrolltick_options",
+    "*-transient",
+    "wpsf_term_*"
+  ],
+  "transients": [
+    "wpsf-mt-*",
+    "_wpsf_umeta_*",
+    "wpsf-wc-mt*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_scrolltick_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:37.288Z"
+}

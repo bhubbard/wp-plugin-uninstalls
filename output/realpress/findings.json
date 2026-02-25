@@ -1,0 +1,21 @@
+{
+  "options": [
+    "realpress_db_version",
+    "widget_*",
+    "sidebars_widgets",
+    "realpress_setup_wizard_completed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_become_an_agent_request",
+    "*_property_average_review",
+    "*_my_wishlist",
+    "_wp_attachment_image_alt",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:58.003Z"
+}

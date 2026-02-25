@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cga_enabled_post_types",
+    "cga_default_guest_author",
+    "cga_join_style",
+    "cga_apply_on",
+    "cga_cache_ttl",
+    "cga_suppress_schema",
+    "cga_cache_version"
+  ],
+  "transients": [
+    "cga_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "guest-author"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:00.077Z"
+}

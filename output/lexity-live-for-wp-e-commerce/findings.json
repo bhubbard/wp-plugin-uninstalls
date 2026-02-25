@@ -1,0 +1,18 @@
+{
+  "options": [
+    "currency_type",
+    "imperative_activation_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpsc_product_metadata",
+    "_wpsc_price",
+    "_wpsc_special_price",
+    "_wpsc_sku",
+    "_wpsc_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:40.202Z"
+}

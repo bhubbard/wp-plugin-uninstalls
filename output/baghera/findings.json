@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_baghera_option_name",
+    "woocommerce_baghera_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fattura_creata",
+    "fattura_status",
+    "_billing_piva",
+    "_billing_fiscalcode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:50.523Z"
+}

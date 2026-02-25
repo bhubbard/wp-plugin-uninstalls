@@ -1,0 +1,19 @@
+{
+  "options": [
+    "secret_image_slide_and_tune_secret_code",
+    "secret_image_slide_and_tune_image_url",
+    "secret_image_slide_and_tune_audio_url",
+    "secret_image_slide_and_tune_start_position",
+    "secret_image_slide_and_tune_end_position",
+    "secret_image_slide_and_tune_speed",
+    "secret_image_slide_and_tune_image_filename",
+    "secret_image_slide_and_tune_image_size",
+    "secret_image_slide_and_tune_audio_filename"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:51.845Z"
+}

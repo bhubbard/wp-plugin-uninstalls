@@ -1,0 +1,26 @@
+{
+  "options": [
+    "fweo_emailoctopus_api_key",
+    "fweo_emailoctopus_show_all_pages",
+    "fweo_emailoctopus_google_analytics",
+    "fweo_emailoctopus_include_css",
+    "fweo_emailoctopus_include_font_awesome",
+    "fweo_emailoctopus_enable_wpa",
+    "fweo_emailoctopus_list_id",
+    "fweo_emailoctopus_extra_fields",
+    "woocommerce_fws-woo-emailoctopus_settings",
+    "fweo_mailing_lists",
+    "fweo_emailoctopus_gdpr_text",
+    "fweo_emailoctopus_clicky",
+    "fweo_emailoctopus_cookie_name",
+    "fweo_emailoctopus_text_newsletter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fweo_emailoctopus_subscribed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:57.105Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rg_gforms_enable_html5",
+    "rg_gforms_currency",
+    "pronamic_client_db_version",
+    "pronamic_client_phpmailer_sender"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:04.862Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "easy_wc_zohocrm_modules",
+    "easy_wc_zohocrm",
+    "easy_wc_zohocrm_client_id",
+    "easy_wc_zohocrm_client_secret",
+    "easy_wc_zohocrm_url",
+    "easy_wc_zohocrm_customers",
+    "easy_wc_zohocrm_orders",
+    "easy_wc_zohocrm_*",
+    "easy_wc_zohocrm_modules_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "easy_wc_zohocrm_rel",
+    "_billing_first_name",
+    "_billing_last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:42.440Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "pgsfw_layout",
+    "pgsfw_lstyle",
+    "pgsfw_msadisable",
+    "pgsfw_tadisable",
+    "pgsfw_dgimg",
+    "pgsfw_dgvgh",
+    "pgsfw_salp",
+    "pgsfw_sarp",
+    "arbgcolor",
+    "aricolor",
+    "harbgcolor",
+    "haricolor",
+    "mslidersize",
+    "tarrsize"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pgsw_youtube_url_field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:22.053Z"
+}

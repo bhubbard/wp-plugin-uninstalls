@@ -1,0 +1,31 @@
+{
+  "options": [
+    "acf_version",
+    "wri_general_settings",
+    "wsl_last_activation_tech_info",
+    "wri_related_items___*",
+    "yarpp",
+    "wc_pac_columns",
+    "wri_related_items___product",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "acf_plugin_updates",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:14.659Z"
+}

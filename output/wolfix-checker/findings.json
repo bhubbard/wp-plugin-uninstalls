@@ -1,0 +1,15 @@
+{
+  "options": [
+    "health_check_debug_mode"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wp_version_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:20.983Z"
+}

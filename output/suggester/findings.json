@@ -1,0 +1,38 @@
+{
+  "options": [
+    "suggester_tool_stats_*",
+    "suggester_tool_counter",
+    "suggester_tool_settings_*",
+    "suggester_monthly_actions",
+    "suggester_monthly_reset_date",
+    "suggester_copy_migration_done",
+    "suggester_arabic_loaded",
+    "suggester_global_settings",
+    "suggester_key_stats_*",
+    "suggester_version",
+    "suggester_daily_count",
+    "suggester_weekly_count",
+    "suggester_monthly_count",
+    "suggester_yearly_count",
+    "suggester_last_reset_dates"
+  ],
+  "transients": [
+    "suggester_admin_message",
+    "suggester_last_key_index_global",
+    "suggester_key_error_global_gemini_0",
+    "suggester_key_error_global_openrouter_1",
+    "suggester_key_error_global_openrouter_2",
+    "suggester_last_key_index_*",
+    "*_gemini_0",
+    "*_openrouter_1",
+    "*_openrouter_2"
+  ],
+  "cron_jobs": [
+    "suggester_cleanup_errors",
+    "suggester_cleanup_usage"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:10.933Z"
+}

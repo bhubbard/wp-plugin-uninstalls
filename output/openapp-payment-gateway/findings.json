@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_openapp_settings",
+    "woocommerce_version",
+    "openappgw_db_version",
+    "*_enabled",
+    "*_cost",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "openappgw_sse_supported"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "oa_last_login",
+    "oaOrderId",
+    "paczkomat_key",
+    "Wybrany paczkomat",
+    "_billing_nip",
+    "oa_auth_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:36.130Z"
+}

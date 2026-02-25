@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bp_security_check_*",
+    "bp_security_check_type",
+    "bp_security_check_recaptcha_site_key",
+    "bp_security_check_recaptcha_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:36.535Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "stw_cron_option",
+    "stw_timstamp_options_page",
+    "stw_time_check_images",
+    "WPPortfolio_setting_stw_access_key",
+    "WPPortfolio_setting_stw_secret_key",
+    "pptimage",
+    "imagestorage_link",
+    "imagestorage_path",
+    "stw_refresh_last_timestamp",
+    "stw_doing_refresh",
+    "WPPortfolio_setting_stw_thumb_size"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpstw_cron",
+    "stw_cron_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:07.276Z"
+}

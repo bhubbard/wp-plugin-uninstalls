@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_cart_redirect_after_add",
+    "yametrika-counter",
+    "yandex-metrika",
+    "wt_yandex_metrika",
+    "vdz_yandex_metrika_code",
+    "yam_messages",
+    "yam_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ym_ec_sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:21.197Z"
+}

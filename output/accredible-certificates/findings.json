@@ -1,0 +1,18 @@
+{
+  "options": [
+    "api_key",
+    "automatically_issue_certificates",
+    "accredible_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hourly_certificate_issuance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:15.517Z"
+}

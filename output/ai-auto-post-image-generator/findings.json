@@ -1,0 +1,43 @@
+{
+  "options": [
+    "aiapg_version",
+    "aiapg_*",
+    "aiapg_openai_api_key",
+    "aiapg_gemini_api_key",
+    "aiapg_leonardo_api_key",
+    "aiapg_default_text_model",
+    "aiapg_default_image_model",
+    "aiapg_auto_publish",
+    "aiapg_post_status",
+    "aiapg_post_author",
+    "aiapg_enable_logging",
+    "aiapg_log_retention_days",
+    "aiapg_pollinations_api_key",
+    "aiapg_default_posts_per_run",
+    "aiapg_default_enable_images",
+    "aiapg_default_image_placement",
+    "aiapg_default_image_size",
+    "aiapg_default_images_per_post",
+    "aiapg_max_retries",
+    "aiapg_timeout_seconds",
+    "aiapg_enable_debug_log",
+    "aiapg_default_fallback_image_model"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aiapg_schedule_run"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_rank_math_description",
+    "_aioseo_description",
+    "_wp_attachment_image_alt",
+    "_wp_attachment_image_alt_text",
+    "_yoast_wpseo_focuskw",
+    "_aioseo_focus_keyphrase",
+    "rank_math_focus_keyword"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:11.348Z"
+}

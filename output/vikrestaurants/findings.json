@@ -1,0 +1,27 @@
+{
+  "options": [
+    "dashboard_widget_options",
+    "vikrestaurants_software_version",
+    "vikrestaurants_onactivate",
+    "vikrestaurants_breaking_changes",
+    "vikrestaurants_screen_failed_attempts",
+    "vikrestaurants_list_limit",
+    "vikrestaurants_changelog",
+    "vikrestaurants_license_key",
+    "vikrestaurants_license_expdate",
+    "vikrestaurants_license_hash"
+  ],
+  "transients": [
+    "vikrestaurants_screen_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_rss_feeds",
+    "*_rss_optin",
+    "vikrestaurants_rss_urls",
+    "vikrestaurants_rss_display_dashboard"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:48.725Z"
+}

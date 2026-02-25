@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_netpay_payment_method",
+    "_netpay_thankyou_action_done",
+    "_transaction_token_id",
+    "_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:01.310Z"
+}

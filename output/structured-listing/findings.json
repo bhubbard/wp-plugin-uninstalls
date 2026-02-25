@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpsl_address_category_slug",
+    "wpsl_disable_address_permalinks",
+    "wpsl_general_address_category_id"
+  ],
+  "transients": [
+    "wpsl_disable_address_permalinks"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_address_link",
+    "_address_link_text",
+    "_link_nofollow",
+    "_link_blank",
+    "_link_sponsored",
+    "_is_sponsored",
+    "_enable_permalink",
+    "_disable_permalink"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:16.411Z"
+}

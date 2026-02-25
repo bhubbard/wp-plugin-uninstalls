@@ -1,0 +1,14 @@
+{
+  "options": [
+    "arastoo_cpt_title",
+    "arastoo_cpt_title_two",
+    "arastoo_cpt_slug",
+    "arastoo_cpt_slug_two"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:24.105Z"
+}

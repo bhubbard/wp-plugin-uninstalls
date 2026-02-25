@@ -1,0 +1,15 @@
+{
+  "options": [
+    "karma_by_kadar__song_id"
+  ],
+  "transients": [
+    "karma_by_kadar__rating"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "karma_by_kadar__rating_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:43.782Z"
+}

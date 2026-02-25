@@ -1,0 +1,21 @@
+{
+  "options": [
+    "postfield-legend",
+    "postfield-rows",
+    "category-select",
+    "default-categoryid",
+    "prepost-code",
+    "afterpost-code",
+    "after-post-msg",
+    "notify-admin",
+    "notify-email",
+    "rc-site-key",
+    "rc-secret-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:48.788Z"
+}

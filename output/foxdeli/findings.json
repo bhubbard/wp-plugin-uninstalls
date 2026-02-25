@@ -1,0 +1,30 @@
+{
+  "options": [
+    "foxdeli_delivery_agent_extra_services",
+    "foxdeli_delivery_customer_agents",
+    "foxdeli_delivery_extra_services",
+    "foxdeli_delivery_collection_places",
+    "foxdeli_admin_api_token",
+    "foxdeli_admin_api_token_check",
+    "foxdeli_admin_default_weight",
+    "foxdeli_admin_default_length",
+    "foxdeli_admin_default_width",
+    "foxdeli_admin_default_height",
+    "foxdeli_delivery_data_last_load",
+    "foxdeli_admin_webhook_activated",
+    "*_settings",
+    "woocommerce_weight_unit",
+    "foxdeli_admin_state_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "foxdeli_delivery_ticket_note",
+    "zasilkovna_id_dopravy",
+    "foxdeli_monitored_package_integration",
+    "foxdeli_delivery_external_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:55.359Z"
+}

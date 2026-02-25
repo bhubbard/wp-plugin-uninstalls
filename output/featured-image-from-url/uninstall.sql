@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fifu_su_privkey', 'fifu_su_email', 'fifu_proxy_auth', 'fifu_cloud_upload_auto_code', 'fifu_cloud_delete_auto_code', 'fifu_fake_stop', 'fifu_data_clean', 'fifu_run_delete_all', 'fifu_debug', 'fifu_skip', 'fifu_html_cpt', 'fifu_ovw_first', 'fifu_get_first', 'fifu_pcontent_add', 'fifu_pcontent_remove', 'fifu_pcontent_types', 'fifu_hide', 'fifu_hide_type', 'fifu_hide_format', 'fifu_enable_default_url', 'fifu_default_url', 'fifu_default_attach_id', 'fifu_default_cpt', 'fifu_fake', 'fifu_cdn_content', 'fifu_photon', 'fifu_square_desktop', 'fifu_square_mobile', 'fifu_wc_lbox', 'fifu_wc_zoom', 'fifu_first_activation', 'fifu_run_delete_all_time', 'fifu_fake_attach_id', 'fifu_stats_date', 'fifu_cloud_upload_auto', 'fifu_cloud_delete_auto', 'fifu_cloud_hotlink', 'fifu_reset', 'fifu_installed_time', 'fifu_review_snooze_until', 'fifu_review_done', 'fifu_key', 'fifu_author', 'fifu_stats_cdn_count', 'fifu_redirect_to_settings');
+DELETE FROM wp_options WHERE option_name LIKE 'fifu_defined_size_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_expiration';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('fifu_image_url', 'fifu_image_alt', 'thumbnail_id', '_wp_attached_file', '_wp_attachment_image_alt', '_thumbnail_id', 'slimg', '_price', 'rating', '_yoast_wpseo_opengraph-image', '_yoast_wpseo_twitter-image', '_product_attributes');
+DELETE FROM wp_usermeta WHERE meta_key IN ('fifu_image_url', 'fifu_image_alt', 'thumbnail_id', '_wp_attached_file', '_wp_attachment_image_alt', '_thumbnail_id', 'slimg', '_price', 'rating', '_yoast_wpseo_opengraph-image', '_yoast_wpseo_twitter-image', '_product_attributes');
+DELETE FROM wp_termmeta WHERE meta_key IN ('fifu_image_url', 'fifu_image_alt', 'thumbnail_id', '_wp_attached_file', '_wp_attachment_image_alt', '_thumbnail_id', 'slimg', '_price', 'rating', '_yoast_wpseo_opengraph-image', '_yoast_wpseo_twitter-image', '_product_attributes');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('fifu_image_url', 'fifu_image_alt', 'thumbnail_id', '_wp_attached_file', '_wp_attachment_image_alt', '_thumbnail_id', 'slimg', '_price', 'rating', '_yoast_wpseo_opengraph-image', '_yoast_wpseo_twitter-image', '_product_attributes');
+

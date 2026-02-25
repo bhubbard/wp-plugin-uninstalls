@@ -1,0 +1,26 @@
+{
+  "options": [
+    "logo_img",
+    "desktop_width",
+    "desktop_height",
+    "tablet_wigth",
+    "tablet_heigth",
+    "mobile_width",
+    "mobile_heigth",
+    "tablet_width",
+    "wpspf_toolbar_color",
+    "wpspf_bg_color",
+    "wpspf_title_color",
+    "wpspf_border_color",
+    "wpspf_row_item",
+    "tablet_heidht"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sites_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:47.148Z"
+}

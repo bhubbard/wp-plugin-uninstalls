@@ -1,0 +1,29 @@
+{
+  "options": [
+    "dismiss_bf_woobundle_notice_*",
+    "rtwpvg_pro_active",
+    "RTWPVG_VERSION",
+    "rtwpvg",
+    "woobundle_black_friday_offer_2024",
+    "rtwpvg_ny_2023",
+    "rtwpvg_plugin_activation_time",
+    "rtwpvg_spare_me",
+    "rtwpvg_remind_me",
+    "rtwpvg_rated",
+    "*_size_w",
+    "*_size_h",
+    "rtwpvg_pro_activate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rtwpvg_disable_valiation_gallery",
+    "rtwpvg_images",
+    "_wcml_duplicate_of_variation",
+    "_wp_attachment_image_alt",
+    "_wc_attachment_source"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:33.207Z"
+}

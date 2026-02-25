@@ -1,0 +1,14 @@
+{
+  "options": [
+    "newsletter-converter_stripLinks",
+    "newsletter-converter_stripStyles",
+    "newsletter-converter_stripScripts",
+    "newsletter-converter_convertURL"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:24.050Z"
+}

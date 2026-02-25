@@ -1,0 +1,15 @@
+{
+  "options": [
+    "neexa-ai-active-options",
+    "neexa_ai_access_token",
+    "do_neexa_ai_activation",
+    "neexa-ai-options",
+    "neexa_ai_agents_configs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:29.381Z"
+}

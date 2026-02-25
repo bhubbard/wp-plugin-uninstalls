@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sis_carousel_settings",
+    "asinp_aws_public_key",
+    "asinp_aws_private_key",
+    "asinp_rnd_amazon_data",
+    "asinp_aws_associate_tag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "amazon_affiliate_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:30.467Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "avelon_account_id",
+    "avelon_api_token",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_avln_cid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:08.088Z"
+}

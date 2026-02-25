@@ -1,0 +1,11 @@
+{
+  "options": [
+    "pryc_wp_add_custom_content_to_bottom_of_post_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:58.971Z"
+}

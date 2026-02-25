@@ -1,0 +1,14 @@
+{
+  "options": [
+    "air-quality-mk_options",
+    "air_quality_mk_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "air_quality_mk_new_measurement_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:06.257Z"
+}

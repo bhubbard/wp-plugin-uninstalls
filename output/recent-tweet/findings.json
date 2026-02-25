@@ -1,0 +1,15 @@
+{
+  "options": [
+    "loklak-settings",
+    "loklak_init",
+    "loklak-settings[loklak_api]",
+    "fa_twitter_plugin_last_cache_time",
+    "fa_twitter_plugin_tweets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:25.165Z"
+}

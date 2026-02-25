@@ -1,0 +1,24 @@
+{
+  "options": [
+    "seox",
+    "seox-ihf",
+    "seox-dashboard",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "seox_metabox",
+    "seox_metabox_tax",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:58.300Z"
+}

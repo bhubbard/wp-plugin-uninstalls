@@ -1,0 +1,32 @@
+{
+  "options": [
+    "sharethis_inline_settings",
+    "sharethis_sticky_settings",
+    "sharethis_inline",
+    "sharethis_sticky",
+    "*_settings",
+    "*_on",
+    "*_off",
+    "sharethis_sticky_category_off",
+    "sharethis_property_id",
+    "sharethis_first_product",
+    "sharethis_gdpr",
+    "sharethis_token",
+    "sharethis_button_config",
+    "sharethis_fract",
+    "*_sticky_page_off",
+    "*_sticky_category_off",
+    "sharethis_sticky_page_on",
+    "sharethis_sticky_page_off",
+    "sharethis_*"
+  ],
+  "transients": [
+    "st-activation",
+    "st-connection"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:16.904Z"
+}

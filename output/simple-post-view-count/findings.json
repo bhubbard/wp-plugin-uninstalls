@@ -1,0 +1,26 @@
+{
+  "options": [
+    "simppovi_post_view_color",
+    "simppovi_post_view_title_color",
+    "simppovi_post_view_text",
+    "_transient_simppovi_post_view_keys",
+    "_transient_timeout_simppovi_post_view_keys",
+    "simppovi_db_version"
+  ],
+  "transients": [
+    "simppovi_invalid_view_count_*",
+    "settings_errors"
+  ],
+  "cron_jobs": [
+    "wp_update_24_hour_counts",
+    "simppovi_daily_reset"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "post_view",
+    "is_post_view",
+    "view_24_hour_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:05.108Z"
+}

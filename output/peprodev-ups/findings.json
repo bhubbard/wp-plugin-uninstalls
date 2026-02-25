@@ -1,0 +1,39 @@
+{
+  "options": [
+    "whl_page",
+    "whl_redirect_admin",
+    "whl_redirect",
+    "peprodev_ups_profile_db"
+  ],
+  "transients": [
+    "_peprodev_profile_login_css"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_mobile",
+    "pepro_user_is_sms_verified",
+    "pepro_user_is_email_verified",
+    "billing_phone",
+    "billing_email",
+    "_sms_otp_date",
+    "_email_otp_date",
+    "first_name",
+    "billing_first_name",
+    "last_name",
+    "billing_last_name",
+    "shipping_email",
+    "bsl_custom_expiration_date",
+    "bsl_custom_intro",
+    "bsl_start_date",
+    "bsl_custom_is_permanent",
+    "_learndash_course_grid_short_description",
+    "_ld_course_history",
+    "_related_course",
+    "profile_ifile",
+    "profile_image",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:07.393Z"
+}

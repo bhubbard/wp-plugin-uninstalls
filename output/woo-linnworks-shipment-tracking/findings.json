@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "linnworks_tracking_number",
+    "linnworks_tracking_provider"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:09.272Z"
+}

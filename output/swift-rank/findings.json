@@ -1,0 +1,28 @@
+{
+  "options": [
+    "swift_rank_pro_notice_dismissed",
+    "swift_rank_pro_notice_dismissed_time",
+    "swift_rank_settings",
+    "swift_rank_wizard_state"
+  ],
+  "transients": [
+    "swift_rank_activation_redirect",
+    "swift_rank_wizard_notice_dismissed",
+    "swift_rank_wizard_pending"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_schema_type",
+    "_schema_subtype",
+    "_schema_template_data",
+    "_schema_template_conditions",
+    "_swift_rank_overrides",
+    "_wp_attachment_image_alt",
+    "description",
+    "_product_brand",
+    "brand"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:08.835Z"
+}

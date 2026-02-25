@@ -1,0 +1,27 @@
+{
+  "options": [
+    "entercheck_plugin_options",
+    "entercheck_plugin_options_fields",
+    "entercheck_plugin_options_form_mapping"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "company_base",
+    "invoice_address",
+    "company_info",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_company",
+    "bizid",
+    "vat",
+    "billing_address_1",
+    "billing_postcode",
+    "billing_city",
+    "entercheck_bsuiness_id",
+    "entercheck_vat_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:15.430Z"
+}

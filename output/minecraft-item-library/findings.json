@@ -1,0 +1,26 @@
+{
+  "options": [
+    "almc_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sources",
+    "blockitemid",
+    "stackable",
+    "health",
+    "heals_for",
+    "damages_for",
+    "points_of_protection",
+    "attack_strength",
+    "durability",
+    "hunger_restoration",
+    "crafting_station",
+    "num_crafted",
+    "material_count",
+    "recipe_format"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:28.856Z"
+}

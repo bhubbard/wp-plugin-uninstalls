@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wcboost_products_compare_added_behavior",
+    "wcboost_products_compare_tracking",
+    "wcboost_products_compare_bar",
+    "wcboost_products_compare_exists_item_button_behaviour",
+    "wcboost_products_compare_ajax_bypass_cache",
+    "wcboost_products_compare_bar_button_behavior",
+    "wcboost_products_compare_bar_hide_if_single",
+    "woocommerce_private_link",
+    "woocommerce_share_key",
+    "wcboost_products_compare_button_icon",
+    "wcboost_products_compare_button_text",
+    "wcboost_products_compare_version",
+    "wcboost_products_compare_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice",
+    "_wcboost_products_compare_load_after_login",
+    "_wcboost_products_compare_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:17.962Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wcfp_api_key",
+    "wcfp_test_ip_address",
+    "wcfp_pricing_api_url",
+    "wcfp_pricing_refresh_interval"
+  ],
+  "transients": [
+    "wcfp_test_connection_result"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:35.048Z"
+}

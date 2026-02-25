@@ -1,0 +1,16 @@
+{
+  "options": [
+    "synano_options"
+  ],
+  "transients": [
+    "synano_v1_themes_*",
+    "synano_v1_languages_*",
+    "synano_themes_*",
+    "synano_languages_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:15.430Z"
+}

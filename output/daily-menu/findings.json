@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dm_db_version",
+    "dm_type_list",
+    "dm_sstype_list",
+    "dm_shotcode_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:14.048Z"
+}

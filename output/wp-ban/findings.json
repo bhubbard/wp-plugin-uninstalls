@@ -1,0 +1,19 @@
+{
+  "options": [
+    "banned_options",
+    "banned_ips",
+    "banned_ips_range",
+    "banned_hosts",
+    "banned_referers",
+    "banned_user_agents",
+    "banned_exclude_ips",
+    "banned_message",
+    "banned_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:49.498Z"
+}

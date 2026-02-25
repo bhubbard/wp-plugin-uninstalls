@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*cron_log",
+    "*api_license_key",
+    "disqus_forum_url",
+    "woocommerce_disqus_comments_and_ratings",
+    "wp_zamartz_admin_event_tracker",
+    "zamartz_api_admin_notice_data",
+    "*api_password",
+    "*api_product_id",
+    "*api_purchase_emails",
+    "*api_get_response",
+    "*api_admin_notice_data",
+    "*network_admin_api_status",
+    "active_sitewide_plugins",
+    "disqus_active"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zamartz_api_cron_schedule_twice_monthly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:32.085Z"
+}

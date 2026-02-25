@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'discko_display_mode'
+wp option delete 'discko_form_url'
+wp option delete 'discko_hover_animation'
+wp option delete 'discko_button_size'
+wp option delete 'discko_show_bubble'
+wp option delete 'discko_bubble_color'
+wp option delete 'discko_hover_text'
+wp option delete 'discko_custom_icon'
+wp option delete 'discko_icon_crop_data'
+wp option delete 'discko_button_corner'
+wp option delete 'discko_button_position_bottom'
+wp option delete 'discko_button_position_right'
+wp option delete 'discko_button_position_top'
+wp option delete 'discko_button_position_left'
+wp option delete 'discko_modal_primary_color'
+wp option delete 'discko_modal_font_family'
+wp option delete 'discko_modal_desktop_width_value'
+wp option delete 'discko_modal_desktop_width_unit'
+wp option delete 'discko_modal_desktop_height_value'
+wp option delete 'discko_modal_desktop_height_unit'
+wp option delete 'discko_modal_mobile_width_value'
+wp option delete 'discko_modal_mobile_width_unit'
+wp option delete 'discko_modal_mobile_height_value'
+wp option delete 'discko_modal_mobile_height_unit'
+wp option delete 'discko_excluded_pages'
+wp option delete 'discko_excluded_types'
+

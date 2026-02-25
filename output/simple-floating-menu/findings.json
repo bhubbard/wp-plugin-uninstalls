@@ -1,0 +1,18 @@
+{
+  "options": [
+    "downloaded_font_files",
+    "sfm_settings",
+    "sfm_first_activation",
+    "sfm_dismissed_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sfm_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:56.219Z"
+}

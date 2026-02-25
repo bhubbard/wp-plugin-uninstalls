@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_notify_no_stock_amount",
+    "niwoopv_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_niwoopv_product_vendor_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:01.014Z"
+}

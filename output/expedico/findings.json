@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "expedico_carrier_prices",
+    "woocommerce_tax_display_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "expedico_sync_order_statuses"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:29.638Z"
+}

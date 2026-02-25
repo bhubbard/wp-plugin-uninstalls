@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('rc_reply_show_refresh', 'rc_reply_show_single', 'rc_reply_show_post', 'rc_reply_submit_shortcuts', 'rc_reply_btn_name', 'rc_reply_show_nav', 'rc_reply_comment_number', 'rc_reply_only_admin', 'rc_reply_auto_at', 'rc_reply_btn_list', 'rc_reply_avatar_right', 'rc_reply_show_admin', 'rc_reply_comment_length', 'rc_reply_avatar_size', 'rc_reply_show_avatar', 'rc_reply_files');
+

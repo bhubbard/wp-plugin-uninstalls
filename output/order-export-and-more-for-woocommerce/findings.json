@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_labels",
+    "*_option",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [
+    "*_messages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_first_name",
+    "_billing_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:26.127Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mind_settings"
+  ],
+  "transients": [
+    "_mind_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:44.891Z"
+}

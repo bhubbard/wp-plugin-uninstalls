@@ -1,0 +1,17 @@
+{
+  "options": [
+    "negpaywc_plugin_dismiss_rating_notice",
+    "negpaywc_plugin_no_thanks_rating_notice",
+    "negpay_plugin_installed_time"
+  ],
+  "transients": [
+    "negpaywc-admin-notice-on-activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_negpaywc_order_paid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:49.980Z"
+}

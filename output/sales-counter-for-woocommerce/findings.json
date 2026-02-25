@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sales_counter_enable_check",
+    "sales_counter_enable_title",
+    "sales_counter_zero_disable_check",
+    "sales_counter_wc_select_option",
+    "sales_counter_single_enable_check",
+    "sales_counter_wc_select_single_option",
+    "sales_counter_zero_custom_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "total_sales"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:48.311Z"
+}

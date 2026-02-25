@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ppsas_general_settings",
+    "ppsas_popup_settings",
+    "ppsas_page_option_settings",
+    "ppsas_product_option_settings",
+    "ppsas_global_options",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:51.492Z"
+}

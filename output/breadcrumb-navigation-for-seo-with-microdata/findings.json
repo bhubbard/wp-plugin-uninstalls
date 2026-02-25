@@ -1,0 +1,16 @@
+{
+  "options": [
+    "breadcrumb_text",
+    "bdc_txt_color",
+    "bread_col",
+    "act_col",
+    "home_title",
+    "theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:59.083Z"
+}

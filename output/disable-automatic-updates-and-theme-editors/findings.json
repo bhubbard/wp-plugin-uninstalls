@@ -1,0 +1,29 @@
+{
+  "options": [
+    "dawufeg_debug",
+    "dawufeg_debug_log",
+    "dawufeg_debug_display",
+    "dawufeg_fs_method",
+    "dawufeg_gutenburg",
+    "dawufeg_gutenburg_widget",
+    "dawufeg_plugin_updates",
+    "dawufeg_theme_updates",
+    "dawufeg_theme_editor",
+    "dawufeg_modification_updates",
+    "upload_filter_first_time",
+    "edit_filter_first_time",
+    "plugin_first_time",
+    "dawufeg_major_core_updates",
+    "dawufeg_minor_core_updates",
+    "core_update_first_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dawufeg_rate_notices",
+    "dawufeg_notices_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:17.715Z"
+}

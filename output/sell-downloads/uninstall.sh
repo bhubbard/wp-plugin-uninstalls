@@ -1,0 +1,57 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'installed_%'"
+wp option delete 'sd_affiliate_royale_active'
+wp option delete 'sd_prevent_cache'
+wp option delete 'sd_safe_download'
+wp option delete 'sd_old_download_link'
+wp option delete 'sd_downloads_number'
+wp option delete 'sd_tax'
+wp option delete 'sd_troubleshoot_no_ob'
+wp option delete 'sd_notification_from_email'
+wp option delete 'sd_notification_to_email'
+wp option delete 'sd_notification_to_payer_subject'
+wp option delete 'sd_notification_to_payer_message'
+wp option delete 'sd_notification_to_seller_subject'
+wp option delete 'sd_notification_to_seller_message'
+wp option delete 'sd_paypal_sandbox'
+wp option delete 'sd_popularity'
+wp option delete 'sd_pp_default_cover'
+wp option delete 'sd_social_buttons'
+wp option delete 'sd_facebook_app_id'
+wp option delete 'sd_paypal_enabled'
+wp option delete 'sd_paypal_email'
+wp option delete 'sd_paypal_currency_symbol'
+wp option delete 'sd_paypal_currency'
+wp option delete 'sd_paypal_button'
+wp option delete 'sd_download_link_for_registered_only'
+wp option delete 'sd_main_page'
+wp option delete 'sd_online_demo'
+wp option delete 'sd_paypal_language'
+wp option delete 'product_single.tpl.html'
+wp option delete 'product_multiple.tpl.html'
+wp option delete 'product.tpl.html'
+wp option delete 'sd_custom_templates_active'
+wp option delete 'sd_items_page'
+wp option delete 'sd_has_been_configured'
+wp option delete 'sd_layout'
+wp option delete 'sd_debug_payment'
+wp option delete 'sd_search_taxonomy'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_permalink'"
+wp option delete 'sd_product_permalink'
+wp option delete 'sd_type_permalink'
+wp option delete 'sd_category_permalink'
+wp option delete 'sell_downloads_version_number'
+wp option delete 'sd_friendly_url'
+wp option delete 'sd_filter_by_type'
+wp option delete 'sd_filter_by_category'
+wp option delete 'sd_items_page_selector'
+wp option delete 'sd_pp_accept_zip'
+wp option delete 'sd_pp_cover_size'
+wp option delete 'sd_paypal_first_time_enable'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_codepeople_promote_banner_%' OR option_name LIKE '_site_transient_codepeople_promote_banner_%'"
+

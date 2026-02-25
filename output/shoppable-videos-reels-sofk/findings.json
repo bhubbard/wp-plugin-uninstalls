@@ -1,0 +1,21 @@
+{
+  "options": [
+    "slider_popup_design",
+    "related_product",
+    "product_page_reels",
+    "product_page_video"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "medium_video",
+    "reels_view",
+    "productsData",
+    "show_home_slider",
+    "reelSliderProduct",
+    "right_video"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:40.086Z"
+}

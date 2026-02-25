@@ -1,0 +1,21 @@
+{
+  "options": [
+    "dpffm_plugin_do_activation_redirect",
+    "dpffm_handle",
+    "dpffm_subtitle",
+    "dpffm_hideimage",
+    "dpffm_view",
+    "dpffm_gridview",
+    "dpffm_titletag",
+    "dpffm_readmore",
+    "dpffm_numposts",
+    "upload_image",
+    "dpffm_dateformat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:00.158Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "realvia_realvia_domena",
+    "realvia_realvia_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "realvia_load_data_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:44.985Z"
+}

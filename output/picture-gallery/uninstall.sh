@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'VWpictureGalleryOptions'
+wp option delete 'VWpaidMembershipOptions'
+wp option delete 'VWpictureGalleryWidgetOptions'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'picture-thumbnail'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'picture-thumbnail'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'picture-thumbnail'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'picture-thumbnail'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'picture-views'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'picture-views'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'picture-views'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'picture-views'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rateStarReview_rating'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rateStarReview_rating'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rateStarReview_rating'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rateStarReview_rating'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'picture-lastview'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'picture-lastview'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'picture-lastview'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'picture-lastview'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'picture-width'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'picture-width'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'picture-width'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'picture-width'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'picture-height'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'picture-height'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'picture-height'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'picture-height'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'picture-source-file'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'picture-source-file'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'picture-source-file'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'picture-source-file'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'picture-snapshot'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'picture-snapshot'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'picture-snapshot'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'picture-snapshot'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ip_uploader'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ip_uploader'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ip_uploader'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ip_uploader'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'email_uploader'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'email_uploader'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'email_uploader'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'email_uploader'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bp_activity_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bp_activity_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bp_activity_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bp_activity_id'"

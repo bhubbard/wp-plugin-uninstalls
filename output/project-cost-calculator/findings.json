@@ -1,0 +1,18 @@
+{
+  "options": [
+    "project_rate_calculator_layout_type",
+    "project_rate_calculator_layout_css",
+    "project_rate_searchform"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "calculator_form_category",
+    "calculator_form_properties",
+    "calculator_form_state",
+    "calculator_form_field_properties"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:52.393Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wp_notes_widget_twitter_credentials",
+    "wp_notes_widget_defaults",
+    "wp_notes_widget_default_shortcode_settings",
+    "wpnw_version",
+    "default_wp_notes_created"
+  ],
+  "transients": [
+    "twit_url_short",
+    "twit_url_short_s"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "WP_Notes_data",
+    "WP_Notes_twitter_data",
+    "WP_Notes_tweet_history",
+    "dismiss_wp_notes_widget_notice",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:11.149Z"
+}

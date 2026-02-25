@@ -1,0 +1,18 @@
+{
+  "options": [
+    "vsrc_title",
+    "vsrc_select_num_user",
+    "vsrc_dis_num_user",
+    "vsrc_dis_num_height",
+    "vsrc_dis_image_or_name",
+    "vsrc_select_character",
+    "vsrc_speed",
+    "vsrc_waitseconds"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:45.761Z"
+}

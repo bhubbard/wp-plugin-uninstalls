@@ -1,0 +1,30 @@
+{
+  "options": [
+    "giantwp_flatpercentage_discount",
+    "giantwp_bogo_discount",
+    "giantwp_shipping_discount",
+    "giantwp_bxgy_discount",
+    "giantwp_bulk_discount",
+    "giantwp_discountrules_settings",
+    "aio_bogo_discount",
+    "aio_bxgy_discount",
+    "GWPDR_installation_time",
+    "GWPDR_version",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "gwpdr_activation_redirect"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_gwpdr_bogo_applied_rules"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:33.981Z"
+}

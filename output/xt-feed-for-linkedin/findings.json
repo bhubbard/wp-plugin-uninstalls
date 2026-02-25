@@ -1,0 +1,20 @@
+{
+  "options": [
+    "xtfefoli_global_sharing_message",
+    "xtfefoli_linkedin_user_data",
+    "xtfefoli_users_companies"
+  ],
+  "transients": [
+    "xtfefoli_linkedin_feedpress_page_sync_flag"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_xtfefoli_dont_share_post_linkedin",
+    "_xtfefoli_sended_on_linkedin",
+    "_xtfefoli_shared_on_linkedin",
+    "_xtfefoli_share_message"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:48.946Z"
+}

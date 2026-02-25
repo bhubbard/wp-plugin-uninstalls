@@ -1,0 +1,20 @@
+{
+  "options": [
+    "w2f_token",
+    "w2f_user",
+    "w2f_flickr_URL",
+    "w2f_flickr_is_public",
+    "w2f_flickr_is_friend",
+    "w2f_flickr_is_family",
+    "w2f_sets",
+    "w2f_groups"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:47.526Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "*_extensions",
+    "atec_allow_integrity_check",
+    "atec_WPB_settings",
+    "atec_WPDP_settings",
+    "atec_WPDV_settings",
+    "atec_WPLU_settings",
+    "atec_WPO_settings",
+    "atec_WPSM_mail_tested",
+    "atec_wpwp_active",
+    "*_admin_bar",
+    "atec_wpdp_latest",
+    "*_settings",
+    "atec_wpb_debug",
+    "*_active",
+    "atec_wpmc_debug",
+    "atec_WPMC_extensions",
+    "atec_WPMC_settings",
+    "atec_WPMC_prime",
+    "atec_WPCA_settings"
+  ],
+  "transients": [
+    "atec_license_code_MEGA"
+  ],
+  "cron_jobs": [
+    "atec_wpmc_auto_prime"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:45.798Z"
+}

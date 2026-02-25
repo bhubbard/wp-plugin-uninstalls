@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tplp_popular_posts",
+    "tplp_latest_posts",
+    "tplp_popular_title",
+    "tplp_latest_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:11.379Z"
+}

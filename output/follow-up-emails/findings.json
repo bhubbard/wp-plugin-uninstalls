@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "smmail_schedule_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "content",
+    "event",
+    "trigger",
+    "type",
+    "subject",
+    "managetoplevel_page_follow-up-emailscolumnshidden",
+    "managetoplevel_page_supporthost_list_tablecolumnshidden",
+    "auto_status",
+    "email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:43.301Z"
+}

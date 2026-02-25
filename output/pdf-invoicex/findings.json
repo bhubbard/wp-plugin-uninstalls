@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pdfinvx_settings",
+    "pdfinvx_flush_rewrite_rules",
+    "pdfinvx_last_invoice_number"
+  ],
+  "transients": [
+    "pdfinvx_download_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pdfinvx_invoice_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:17.111Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sss_settings_data",
+    "sss_cron_marker",
+    "sss_log",
+    "sss_shared_x_pos",
+    "cron"
+  ],
+  "transients": [
+    "syn_revivify_transient_upgrade"
+  ],
+  "cron_jobs": [
+    "wp_synex_revivify_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "SRS_SHARED_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:22.050Z"
+}

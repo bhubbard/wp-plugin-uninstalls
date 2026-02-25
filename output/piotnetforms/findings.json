@@ -1,0 +1,39 @@
+{
+  "options": [
+    "piotnetforms-stripe-publishable-key",
+    "piotnetforms-recaptcha-site-key",
+    "piotnetforms-recaptcha-secret-key",
+    "piotnetforms-activated",
+    "piotnetforms_do_flush",
+    "piotnetforms-google-sheets-client-id",
+    "piotnetforms-google-sheets-client-secret",
+    "piotnetforms-google-maps-api-key",
+    "piotnetforms-stripe-secret-key",
+    "piotnetforms-mailchimp-api-key",
+    "piotnetforms-mailerlite-api-key",
+    "piotnetforms-activecampaign-api-key",
+    "piotnetforms-activecampaign-api-url",
+    "piotnetforms-zoho-domain",
+    "piotnetforms-zoho-client-id",
+    "piotnetforms-zoho-client-secret",
+    "piotnetforms-zoho-refresh-token",
+    "piotnetforms-zoho-token",
+    "piotnetforms-paypal-client-id",
+    "piotnetforms-username",
+    "piotnetforms-password",
+    "piotnetforms_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_piotnetforms_data",
+    "_piotnet-revision-version",
+    "_piotnetforms_shortcode_in_post",
+    "_submit_post_id",
+    "_submit_button_id",
+    "_piotnet-widget-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:52.022Z"
+}

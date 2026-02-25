@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sbttb_variation_price_plugin_notice",
+    "sbttb_settings"
+  ],
+  "transients": [
+    "sbttb_variation_price_plugin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:29.080Z"
+}

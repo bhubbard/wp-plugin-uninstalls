@@ -1,0 +1,152 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('inpost_italy_do_activation_redirect');
+delete_site_option('inpost_italy_do_activation_redirect');
+delete_option('easypack_organization_id_italy');
+delete_site_option('easypack_organization_id_italy');
+delete_option('easypack_token_italy');
+delete_site_option('easypack_token_italy');
+delete_option('woocommerce_email_footer_text');
+delete_site_option('woocommerce_email_footer_text');
+delete_option('woocommerce_custom_orders_table_enabled');
+delete_site_option('woocommerce_custom_orders_table_enabled');
+delete_option('easypack_italy_api_environment');
+delete_site_option('easypack_italy_api_environment');
+delete_option('inpost_italy_organisation');
+delete_site_option('inpost_italy_organisation');
+delete_option('inpost_italy_api_limit_connection');
+delete_site_option('inpost_italy_api_limit_connection');
+delete_option('easypack_italy_custom_button_css');
+delete_site_option('easypack_italy_custom_button_css');
+delete_option('easypack_italy_custom_css');
+delete_site_option('easypack_italy_custom_css');
+delete_option('easypack_italy_map_debug');
+delete_site_option('easypack_italy_map_debug');
+delete_option('easypack_italy_cart_limit');
+delete_site_option('easypack_italy_cart_limit');
+delete_option('inpost_italy_api_login_error');
+delete_site_option('inpost_italy_api_login_error');
+delete_option('easypack_italy_label_format');
+delete_site_option('easypack_italy_label_format');
+delete_option('easypack_returns_page');
+delete_site_option('easypack_returns_page');
+delete_option('easypack_italy_over_weight');
+delete_site_option('easypack_italy_over_weight');
+delete_option('easypack_api_error_login');
+delete_site_option('easypack_api_error_login');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_rates' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('easypack_italy_default_package_size');
+delete_site_option('easypack_italy_default_package_size');
+delete_option('easypack_italy_send_tracking');
+delete_site_option('easypack_italy_send_tracking');
+delete_option('easypack_default_machine_id');
+delete_site_option('easypack_default_machine_id');
+delete_option('easypack_italy_default_send_method');
+delete_site_option('easypack_italy_default_send_method');
+delete_option('easypack_fast_return');
+delete_site_option('easypack_fast_return');
+delete_option('easypack_italy_flow_type');
+delete_site_option('easypack_italy_flow_type');
+delete_option('easypack_italy_sender_company_name');
+delete_site_option('easypack_italy_sender_company_name');
+delete_option('easypack_italy_sender_email');
+delete_site_option('easypack_italy_sender_email');
+delete_option('easypack_italy_sender_phone');
+delete_site_option('easypack_italy_sender_phone');
+delete_option('easypack_italy_sender_city');
+delete_site_option('easypack_italy_sender_city');
+delete_option('easypack_italy_sender_post_code');
+delete_site_option('easypack_italy_sender_post_code');
+delete_option('easypack_italy_sender_street');
+delete_site_option('easypack_italy_sender_street');
+delete_option('easypack_italy_sender_building_no');
+delete_site_option('easypack_italy_sender_building_no');
+delete_option('easypack_italy_pickup_city');
+delete_site_option('easypack_italy_pickup_city');
+delete_option('easypack_italy_pickup_post_code');
+delete_site_option('easypack_italy_pickup_post_code');
+delete_option('easypack_italy_pickup_street');
+delete_site_option('easypack_italy_pickup_street');
+delete_option('easypack_italy_pickup_building_no');
+delete_site_option('easypack_italy_pickup_building_no');
+delete_option('easypack_insurance_amount_default');
+delete_site_option('easypack_insurance_amount_default');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_dpoint' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('inpost_italy_organisation_global');
+delete_site_option('inpost_italy_organisation_global');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_easypack_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_easypack_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_easypack_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_easypack_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_easypack_parcel_tracking' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_easypack_parcel_tracking' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_easypack_parcel_tracking' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_easypack_parcel_tracking' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_shipx_shipment_object' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_shipx_shipment_object' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_shipx_shipment_object' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_shipx_shipment_object' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_parcel_machine_desc' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_parcel_machine_desc' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_parcel_machine_desc' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_parcel_machine_desc' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_parcel_machine_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_parcel_machine_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_parcel_machine_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_parcel_machine_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'inpost_italy_shipping_methods_allowed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'inpost_italy_shipping_methods_allowed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'inpost_italy_shipping_methods_allowed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'inpost_italy_shipping_methods_allowed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'inpost_italy_parcel_dimensions' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'inpost_italy_parcel_dimensions' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'inpost_italy_parcel_dimensions' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'inpost_italy_parcel_dimensions' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_easypack_parcels' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_easypack_parcels' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_easypack_parcels' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_easypack_parcels' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_easypack_reference_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_easypack_reference_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_easypack_reference_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_easypack_reference_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_easypack_parcel_create_args' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_easypack_parcel_create_args' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_easypack_parcel_create_args' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_easypack_parcel_create_args' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_easypack_inpost_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_easypack_inpost_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_easypack_inpost_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_easypack_inpost_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '%_parcel_dimensions' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '%_parcel_dimensions' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '%_parcel_dimensions' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '%_parcel_dimensions' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_billing_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_billing_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_billing_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_billing_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_dispath_order' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_dispath_order' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_dispath_order' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_dispath_order' ) );
+

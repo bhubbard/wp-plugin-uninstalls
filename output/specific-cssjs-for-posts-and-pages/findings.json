@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ttscj_enable_on_posts",
+    "ttscj_enable_on_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ttscj_css_url",
+    "_ttscj_js_url",
+    "_ttscj_header_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:08.636Z"
+}

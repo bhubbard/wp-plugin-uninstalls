@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_ignore",
+    "*_notice_ignore",
+    "wpseo_taxonomy_meta"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_addon_category_slug",
+    "_yoast_wpseo_primary_category_can_update",
+    "_yoast_wpseo_primary_product_cat_can_update",
+    "_yoast_wpseo_focuskw_text_input",
+    "_yst_is_cornerstone",
+    "_yoast_wpseo_primary_product_cat",
+    "_yoast_wpseo_primary_category"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:43.564Z"
+}

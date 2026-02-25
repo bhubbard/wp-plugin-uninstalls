@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_paytrtaksit_content_title",
+    "woocommerce_paytrtaksit_description_top",
+    "woocommerce_paytrtaksit_description_bottom",
+    "woocommerce_paytrtaksit_tax_included",
+    "woocommerce_paytrtaksit_merchant_id",
+    "woocommerce_paytrtaksit_token",
+    "woocommerce_paytrtaksit_max_installment",
+    "woocommerce_paytrtaksit_extra_installment",
+    "woocommerce_paytrtaksit_product_tab_title",
+    "woocommerce_paytrtaksit_settings",
+    "woocommerce_paytrtaksit_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:36.608Z"
+}

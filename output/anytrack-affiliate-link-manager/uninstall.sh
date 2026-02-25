@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'aalm_options'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_options'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'source_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'source_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'source_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'source_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'query_params'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'query_params'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'query_params'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'query_params'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'target_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'target_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'target_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'target_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'redirect_count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'redirect_count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'redirect_count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'redirect_count'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'last_access_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'last_access_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'last_access_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'last_access_date'"

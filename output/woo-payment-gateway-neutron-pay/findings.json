@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "neutronpay_order_id",
+    "neutronpay_environment",
+    "neutronpay_order_amount",
+    "neutronpay_order_lightning_invoice_payment_request",
+    "neutronpay_order_chain_invoice_address",
+    "neutronpay_order_paid_amount",
+    "neutronpay_order_method",
+    "neutronpay_order_underpayment_slack_percentage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:38.326Z"
+}

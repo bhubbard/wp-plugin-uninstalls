@@ -1,0 +1,14 @@
+{
+  "options": [
+    "spcr_db_version",
+    "spcr_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "spcr_cleanup_old_data"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:39.061Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "edgwl_discount_message",
+    "edgwl_discount_min_quantity",
+    "edgwl_discount_percentage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:13.497Z"
+}

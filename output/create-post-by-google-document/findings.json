@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cpbgd_application_name",
+    "cpbgd_developer_key",
+    "cpbgd_client_id",
+    "cpbgd_client_secret",
+    "cpbgd_api_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cpbgd_google_doc_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:12.199Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bpm_installed",
+    "BPM_INSTALLED",
+    "BPM_VERSION"
+  ],
+  "transients": [
+    "bpmaker_all_pages",
+    "bpmaker_pages_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:51.922Z"
+}

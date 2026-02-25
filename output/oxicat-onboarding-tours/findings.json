@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "oot_completed_tours",
+    "oot_last_tour",
+    "oot_last_step",
+    "_tour_steps"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:36.009Z"
+}

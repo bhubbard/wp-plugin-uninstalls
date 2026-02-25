@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ucwp_plugin_browser_key', 'ucwp_plugin_webhook_oid', 'ucwp_plugin_basic_username', 'ucwp_plugin_basic_password', 'ucwp_plugin_merchant_id', 'ucwp_plugin_random', 'ucwp_plugin_access_token', 'ucwp_plugin_refresh_token', 'ucwp_disable_passive_branding', 'ucwp_enable_ultracart_analytics', 'ucwp_enable_ultracart_analytics_recording', 'ucwp_secure_host_name');
+

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "age_gate_legacy_css",
+    "woocommerce_shop_page_id",
+    "age_gate_version",
+    "wp_age_gate_version",
+    "age_gate_updated_from",
+    "age_gate_theme_css",
+    "wp_age_gate_restrictions",
+    "wp_age_gate_messages",
+    "wp_age_gate_validation_messages",
+    "wp_age_gate_appearance",
+    "wp_age_gate_advanced",
+    "wp_age_gate_access",
+    "age_gate_dev",
+    "age_gate_encrypt_key",
+    "age_gate_encrypt_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "age_gate/cron_options"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:14.045Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fcpto_options",
+    "order_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_order_type_snv_*",
+    "custom_order_type_dsnv_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:09.109Z"
+}

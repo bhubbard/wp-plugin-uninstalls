@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dddPostViews_post_views_settings",
+    "dddPostViews_post_views_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dddPostViews_monthly_aggregation_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:27.855Z"
+}

@@ -1,0 +1,34 @@
+{
+  "options": [
+    "megamenu_dismissed_notices",
+    "megamenu_install_date",
+    "megamenu_settings",
+    "megamenu_failed_to_write_css_to_filesystem",
+    "megamenu_locations",
+    "megamenu_initial_version",
+    "wbcr_clearfy_cache_options",
+    "megamenu_toggle_blocks",
+    "megamenu_version",
+    "megamenu_themes_last_updated",
+    "megamenu_multisite_share_themes",
+    "megamenu_css_last_updated",
+    "megamenu_css_version",
+    "widget_*",
+    "megamenu_themes"
+  ],
+  "transients": [
+    "megamenu_css",
+    "megamenu_css_version",
+    "megamenu_css_last_updated",
+    "megamenu_css_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_megamenu",
+    "_elementor_data",
+    "_elementor_template_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:26.269Z"
+}

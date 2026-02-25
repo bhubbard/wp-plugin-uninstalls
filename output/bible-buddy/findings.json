@@ -1,0 +1,15 @@
+{
+  "options": [
+    "display_card_on_posts",
+    "display_card_on_pages",
+    "format",
+    "theme",
+    "display_credit_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:56.681Z"
+}

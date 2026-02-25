@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gc_price_format",
+    "gc_description_length",
+    "gc_news_days"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edit_lock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:50.075Z"
+}

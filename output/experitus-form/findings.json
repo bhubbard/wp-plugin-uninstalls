@@ -1,0 +1,19 @@
+{
+  "options": [
+    "experitus_request_attributes",
+    "experitus_connection_data",
+    "experitus_request_items",
+    "experitus_captcha_data",
+    "experitus_ssl_verifypeer",
+    "experitus_payments_data",
+    "experitus_options_check",
+    "experitus_block_dates",
+    "experitus_countries"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:15.035Z"
+}

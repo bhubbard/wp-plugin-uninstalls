@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_checkout_page_id",
+    "betanet_epost_hfd_track_shipment_url",
+    "betanet_epost_hfd_cancel_shipment_url",
+    "betanet_epost_hfd_print_label_url",
+    "hfd_order_auto_sync",
+    "hfd_sync_order_items",
+    "betanet_epost_service_url",
+    "betanet_epost_hfd_service_url",
+    "hfd_auto_sync_time",
+    "hfd_auto_sync_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hfd_schedule_auto_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "hfd_ship_cancel_response",
+    "hfd_sync_flag",
+    "hfd_rand_number",
+    "betanet_pmethod"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:52.538Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wsmssr_posttype_settings_options",
+    "wsmssr_question",
+    "wsmssr_thank_you_html",
+    "wsmssr_thank_you_heading_html",
+    "wsmssr_icon_color_html",
+    "wsmssr_icon_hover_color_html",
+    "wsmssr_fontawesome_toggle_html"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wsmssr_rating_avg"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:38.563Z"
+}

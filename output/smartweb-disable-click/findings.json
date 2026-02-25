@@ -1,0 +1,15 @@
+{
+  "options": [
+    "swdc_disable_right_click",
+    "swdc_disable_f12",
+    "swdc_disable_copy",
+    "swdc_custom_message",
+    "swdc_disable_shortcuts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:02.566Z"
+}

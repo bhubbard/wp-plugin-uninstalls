@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_current_bid",
+    "_current_bid_user",
+    "_auction_end_time",
+    "_bid_history",
+    "rtapw_bid_amount",
+    "rtapw_bid_user_id",
+    "rtapw_bid_product_id",
+    "rtapw_bid_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:27.180Z"
+}

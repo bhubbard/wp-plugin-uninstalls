@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cfvsw_color",
+    "cfvsw_image",
+    "cfvsw_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:01.179Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "aisp_cc_email_remove_data_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cc_email_1",
+    "cc_email_1_statuses",
+    "cc_email_2",
+    "cc_email_2_statuses"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:58.731Z"
+}

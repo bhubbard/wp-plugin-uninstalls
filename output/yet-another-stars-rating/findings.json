@@ -1,0 +1,40 @@
+{
+  "options": [
+    "yasr_general_options",
+    "yasr-version",
+    "yasr_plugin_imported",
+    "postratings_max",
+    "yasr_multiset_options",
+    "yasr_style_options",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "yasr_wppr_import_query_number",
+    "yasr_kksr_import_query_number",
+    "yasr_rmp_import_query_number",
+    "yasr_mr_import_query_number",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yasr_overall_rating",
+    "yasr_review_type",
+    "yasr_multiset_author_votes",
+    "yasr_post_is_review",
+    "yasr_schema_additional_fields",
+    "yasr_auto_insert_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:18.048Z"
+}

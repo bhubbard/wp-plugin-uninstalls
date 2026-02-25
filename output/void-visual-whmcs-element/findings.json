@@ -1,0 +1,13 @@
+{
+  "options": [
+    "void_wb_pro_notice",
+    "void_wbwhmcse_elementor_activation_time",
+    "void_wbwhmcse_spare_me"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:35.422Z"
+}

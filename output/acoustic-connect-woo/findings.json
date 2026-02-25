@@ -1,0 +1,26 @@
+{
+  "options": [
+    "acoustic_connect_activated_time",
+    "acoustic_connect_enabled",
+    "acoustic_connect_app_key",
+    "acoustic_connect_collector_url",
+    "acoustic_connect_sdk_version",
+    "acoustic_connect_sdk_minified",
+    "acoustic_connect_subscription_tier",
+    "acoustic_connect_debug_mode",
+    "acoustic_connect_track_product_view",
+    "acoustic_connect_track_add_to_cart",
+    "acoustic_connect_track_remove_from_cart",
+    "acoustic_connect_track_checkout"
+  ],
+  "transients": [
+    "acoustic_order_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:01.624Z"
+}

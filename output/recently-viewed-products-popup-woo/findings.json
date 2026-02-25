@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wrvpp_enable_popup",
+    "wrvpp_display_on",
+    "wrvpp_limit_products",
+    "wrvpp_modal_title",
+    "wrvpp_max_products",
+    "wrvpp_popup_position",
+    "wrvpp_popup_link_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:55.499Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "theme_mods_*",
+    "amp_customizer",
+    "amp-options",
+    "amp_css_transient_monitor_time_series",
+    "amp_url_validation_queue"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "created_date_gmt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:19.611Z"
+}

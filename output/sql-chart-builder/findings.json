@@ -1,0 +1,37 @@
+{
+  "options": [
+    "guaven_sqlcharts_already_installed_2",
+    "gvnsql_dismiss_recommendation_*",
+    "guaven_sqlcharts_onboarding_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "guaven_sqlcharts_graphtype",
+    "guaven_sqlcharts_tablepart",
+    "guaven_sqlcharts_code",
+    "guaven_sqlcharts_xarg_l",
+    "guaven_sqlcharts_yarg_l",
+    "guaven_sqlcharts_xarg_s",
+    "guaven_sqlcharts_yarg_s",
+    "guaven_sqlcharts_chartwidth",
+    "guaven_sqlcharts_chartheight",
+    "guaven_sqlcharts_colors",
+    "guaven_sqlcharts_forcetooltips",
+    "guaven_sqlcharts_legend_position",
+    "guaven_sqlcharts_begin_with_0_x",
+    "guaven_sqlcharts_begin_with_0_y",
+    "guaven_sqlcharts_round_y_values",
+    "guaven_sqlcharts_nostacked",
+    "guaven_sqlcharts_dbhost",
+    "guaven_sqlcharts_dbname",
+    "guaven_sqlcharts_dblogin",
+    "guaven_sqlcharts_dbpass",
+    "guaven_sqlcharts_variables",
+    "guaven_sqlcharts_formpartrole",
+    "guaven_sqlcharts_formpartbutton"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:46.429Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "link_google_calendar_textarea",
+    "link_google_calendar_textarea_1",
+    "link_google_calendar_textarea_2",
+    "link_google_calendar_textarea_3",
+    "link_google_calendar_textarea_4",
+    "link_google_calendar_textarea_5",
+    "num_of_calendars",
+    "link_google_calendar_textarea_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "link_google_calendar_ignore_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:15.787Z"
+}

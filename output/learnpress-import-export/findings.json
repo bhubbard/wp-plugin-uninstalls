@@ -1,0 +1,19 @@
+{
+  "options": [
+    "h5p_export",
+    "learnpress_version"
+  ],
+  "transients": [
+    "dirsize_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lp_attachments",
+    "_lp_h5p_interact",
+    "_lp_passing_grade",
+    "_lp_info_extra_fast_query"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:49.950Z"
+}

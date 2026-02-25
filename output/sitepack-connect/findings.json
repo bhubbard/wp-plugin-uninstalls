@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [
+    "sitepack_ajax_stock_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery",
+    "_product_attributes",
+    "_wp_attachment_image_alt",
+    "import_provider",
+    "import_source"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:37.293Z"
+}

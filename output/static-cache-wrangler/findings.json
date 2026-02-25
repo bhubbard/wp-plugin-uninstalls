@@ -1,0 +1,15 @@
+{
+  "options": [
+    "stcw_pending_assets",
+    "stcw_downloaded_assets",
+    "stcw_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "stcw_process_assets"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:51.541Z"
+}

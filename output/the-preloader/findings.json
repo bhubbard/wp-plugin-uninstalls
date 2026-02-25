@@ -1,0 +1,14 @@
+{
+  "options": [
+    "the_preloader_settings",
+    "the_preloader_first_use",
+    "wptpreloader_image",
+    "wptpreloader_bg_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:37.988Z"
+}

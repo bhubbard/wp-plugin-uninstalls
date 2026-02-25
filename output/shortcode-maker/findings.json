@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sm_dismiss_feature_notice",
+    "sm_admin_notices",
+    "shortcode_list",
+    "sm_shortcode_package_list",
+    "sm_later",
+    "sm_vote"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sm_hide_shortcode_panel",
+    "sm_shortcode_atts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:36.961Z"
+}

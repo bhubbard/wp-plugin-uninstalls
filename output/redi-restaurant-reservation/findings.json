@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_page_skip",
+    "*_page_title",
+    "*_settings_saved",
+    "*_page_id",
+    "*_page_name"
+  ],
+  "transients": [
+    "redi_restaurant_places"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:46.342Z"
+}

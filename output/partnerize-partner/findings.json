@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_partnerize_partner_auth_table",
+    "_partnerize_partner_participation_table",
+    "_partnerize_partner_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:19.427Z"
+}

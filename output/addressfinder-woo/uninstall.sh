@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'af-plugin-version'
+wp option delete 'af-key'
+wp option delete 'af-key-au'
+wp option delete 'af-debug'
+wp option delete 'af-widget-enabled'
+wp option delete 'af-widget-options'
+wp option delete 'af-default-country'
+wp option delete 'af-au-widget-options'
+wp option delete 'af-au-widget-pobox'
+wp option delete 'af-nz-widget-options'
+wp option delete 'af-nz-widget-pobox'
+wp option delete 'af-ev-widget-enabled'
+wp option delete 'af-ev-widget-public'
+wp option delete 'af-ev-widget-role'
+wp option delete 'af-ev-widget-disposable'
+wp option delete 'af-ev-widget-unverified'
+wp option delete 'af-ev-widget-rules'
+wp option delete 'af-pv-widget-enabled'
+wp option delete 'af-pv-widget-default-country'
+wp option delete 'af-pv-widget-allowed-countries'
+wp option delete 'af-pv-widget-non-mobile'
+wp option delete 'af-pv-widget-disallowed-country'
+wp option delete 'af-pv-widget-unverified'
+wp option delete 'af-pv-widget-format-number'
+wp option delete 'af-pv-widget-rules'
+

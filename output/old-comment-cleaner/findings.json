@@ -1,0 +1,20 @@
+{
+  "options": [
+    "old_comment_cleaner_days_old",
+    "old_comment_cleaner_delete_email",
+    "old_comment_cleaner_delete_name",
+    "old_comment_cleaner_delete_url",
+    "old_comment_cleaner_confirm_delete"
+  ],
+  "transients": [
+    "old_comment_cleaner_delete_old_comments_now"
+  ],
+  "cron_jobs": [
+    "old_comment_cleaner_delete_old_comments_now",
+    "old_comment_cleaner_delete_old_comments"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:29.497Z"
+}

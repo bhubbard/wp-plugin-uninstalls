@@ -1,0 +1,17 @@
+{
+  "options": [
+    "lazysizes_general",
+    "lazysizes_effects",
+    "lazysizes_addons",
+    "lazysizes_*",
+    "lazysizes_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lazysizes_blurhash"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:33.273Z"
+}

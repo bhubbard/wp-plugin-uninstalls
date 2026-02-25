@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'wcpti_customer_order_approval_required', 'woocommerce_weight_unit', 'wcpti_settings_order_placed_local_drop_off', 'wcpti_settings_easypost_api_key', 'wcpti_settings_vpfi_use_easypost', 'wcpti_settings_easypost_skip_address_validation', 'wcpti_settings_shipping_name', 'wcpti_settings_address_1', 'wcpti_settings_address_2', 'wcpti_settings_city', 'wcpti_settings_state', 'wcpti_settings_postal_code', 'wcpti_settings_country', 'wcpti_settings_company_name', 'wcpti_settings_shipping_phone_number', 'wcpti_settings_easypost_compound_carrier_service', 'wcpti_settings_easypost_royal_mail_predefined_package_size', 'wcpti_settings_billing_details_display_change', 'wcpti_settings_billing_details_remove_company_name', '_wcpti_settings_activation_date', 'wcpti_settings_order_complete_email_content', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+

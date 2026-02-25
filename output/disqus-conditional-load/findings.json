@@ -1,0 +1,23 @@
+{
+  "options": [
+    "dcl_gnrl_options",
+    "disqus_forum_url",
+    "disqus_public_key",
+    "disqus_sync_token",
+    "disqus_secret_key",
+    "disqus_admin_access_token",
+    "disqus_sso_enabled",
+    "disqus_sso_button",
+    "disqus_render_js",
+    "disqus_last_sync_message",
+    "disqus_manual_sync"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dsq_thread_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:22.012Z"
+}

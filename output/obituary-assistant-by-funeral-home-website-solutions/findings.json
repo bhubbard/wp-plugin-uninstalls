@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fhw-solutions-obituaries_1",
+    "fhw-solutions-obituaries_2",
+    "fhw-solutions-obituaries_3",
+    "*_1",
+    "*_2",
+    "*_3",
+    "*_4",
+    "*_validation_messages",
+    "oa-version",
+    "oa_api_base",
+    "fhw_solutions_obituaries_client_info",
+    "fhw-solutions-elements",
+    "florist-one-flower-delivery"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:12.176Z"
+}

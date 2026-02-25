@@ -1,0 +1,28 @@
+{
+  "options": [
+    "mainwp_security",
+    "da_disable_third_party_js",
+    "default_post_edit_rows",
+    "drag-drop-post-types",
+    "drag-drop-file-types",
+    "drag-drop-user-capability",
+    "drag-drop-page-reload"
+  ],
+  "transients": [
+    "da_bc_product_options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_da_hotspots_json",
+    "_da_hotspots",
+    "*hotspots",
+    "_wp_attachment_image_alt",
+    "*coordinates",
+    "_wp_page_template",
+    "_thumbnail_id",
+    "_da_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:57.083Z"
+}

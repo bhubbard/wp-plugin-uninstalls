@@ -1,0 +1,16 @@
+{
+  "options": [
+    "vrffwf_settings",
+    "vrffwf_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vrffwf_entry_id",
+    "_vrffwf_form_id",
+    "_vrffwf_field_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:59.148Z"
+}

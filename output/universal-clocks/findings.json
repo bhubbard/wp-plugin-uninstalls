@@ -1,0 +1,26 @@
+{
+  "options": [
+    "pt_uc_google_apikey"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "time_color",
+    "time_font_family",
+    "time_font_size",
+    "clock_type",
+    "time_font_weight",
+    "analog_time_color",
+    "analog_clock_color_radius",
+    "timezone_offset",
+    "analog_clock_border_width",
+    "analog_clock_border_style",
+    "analog_clock_border_color",
+    "hide_tittle_option",
+    "clock_type_dst",
+    "template_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:57.592Z"
+}

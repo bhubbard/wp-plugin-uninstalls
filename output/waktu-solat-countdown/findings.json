@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ezws_color_scheme",
+    "ezws_bg_enable",
+    "ezws_bg_repeat",
+    "ezws_bg_image",
+    "ezws_bg_scheme",
+    "ezws_textalign",
+    "ezws_credit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:29.355Z"
+}

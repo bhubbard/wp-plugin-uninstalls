@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpcv_label",
+    "wpcv_label_color",
+    "wpcv_label_voted",
+    "wpcv_label_color_voted",
+    "wpcv_pagetop",
+    "wpcv_pagebottom",
+    "wpcv_postonly"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcvotes",
+    "wpcvoters"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:39.395Z"
+}

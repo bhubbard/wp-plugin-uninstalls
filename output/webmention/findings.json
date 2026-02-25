@@ -1,0 +1,42 @@
+{
+  "options": [
+    "webmention_avatars",
+    "webmention_avatar_store_enable",
+    "webmention_disable_selfpings_same_url",
+    "webmention_disable_selfpings_same_domain",
+    "webmention_send_media_mentions",
+    "webmention_db_version",
+    "webmention_support_post_types",
+    "webmention_separate_comment",
+    "webmention_comment_form_text",
+    "webmention_home_mentions",
+    "webmention_approve_domains",
+    "webmention_show_comment_form",
+    "webmention_facepile_fold_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "webmention_process_schedule",
+    "do_pings",
+    "webmention_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "avatar",
+    "protocol",
+    "semantic_linkbacks_avatar",
+    "webmention_canonical_url",
+    "_webmentioned",
+    "_mentionme_tries",
+    "_mentionme",
+    "mf2_author",
+    "webmention_source_url",
+    "url",
+    "webmention_target_url",
+    "webmention_created_at",
+    "webmentions_disabled",
+    "webmentions_disabled_pings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:37.781Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_thanks_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [
+    "wcpp_transaction_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:13.581Z"
+}

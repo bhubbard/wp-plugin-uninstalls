@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ws_custom_scrollbar_show",
+    "ws_custom_scrollbar_width",
+    "ws_custom_scrollbar_bgcolor",
+    "ws_custom_scrollbar_border_color",
+    "ws_custom_scrollbar_border_radius",
+    "ws_custom_scrollbar_speed",
+    "ws_custom_scrollbar_opacity",
+    "ws_custom_scrollbar_autohide",
+    "ws_custom_scrollbar_hidecursordelay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:09.988Z"
+}

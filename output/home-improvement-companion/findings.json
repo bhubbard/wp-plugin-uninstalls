@@ -1,0 +1,25 @@
+{
+  "options": [
+    "home-improvement-companion-settings",
+    "home_improvement_admin_notice_welcome",
+    "kirki_downloaded_font_files",
+    "kirki_notices",
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "kirki_googlefonts_cache",
+    "kirki_googlefont_names_cache",
+    "kirki_remote_url_contents",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "home_improvement_data_key",
+    "kirki_fa_nag_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:46.238Z"
+}

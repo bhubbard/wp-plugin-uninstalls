@@ -1,0 +1,49 @@
+{
+  "options": [
+    "leat_dashboard_page_id",
+    "leat_shop_uuid",
+    "leat_api_key",
+    "leat_auto_enroll_on_registration",
+    "leat_db_schema_version",
+    "leat_business_profile_uuid",
+    "leat_webhook_secret",
+    "leat_flush_rewrite_rules",
+    "leat_dashboard_endpoint_added",
+    "rewrite_rules",
+    "leat_logs",
+    "leat_version",
+    "leat_*",
+    "piggy_api_key",
+    "woocommerce_tax_display_cart",
+    "woocommerce_enable_shipping_calc",
+    "woocommerce_tax_total_display",
+    "woocommerce_enable_myaccount_registration",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [
+    "leat_syncing_vouchers",
+    "leat_activation_redirect",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "leat_delayed_contact_sync",
+    "leat_daily_webhook_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "leat_uuid",
+    "leat_last_login",
+    "_leat_giftcard_program_uuid",
+    "_leat_giftcard_use_regular_price",
+    "_regular_price",
+    "_leat_voucher_promotion_uuid",
+    "_leat_voucher_use_regular_price",
+    "_leat_category_uuid",
+    "_leat_disable_product_points",
+    "leat_contact_uuid",
+    "billing_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:45.037Z"
+}

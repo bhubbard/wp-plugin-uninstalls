@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_hitpay_settings",
+    "woocommerce_hitpay_payment_button",
+    "woocommerce_hitpay_place_order_text",
+    "woocommerce_hitpay_customize",
+    "woocommerce_hitpay_style",
+    "woocommerce_hitpay_enable_pos",
+    "woocommerce_hitpay_terminal_ids",
+    "woocommerce_hitpay_cashier_emails",
+    "woocommerce_hitpay_logfile_prefix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:26.946Z"
+}

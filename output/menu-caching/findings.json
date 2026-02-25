@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dc_menu_html_index",
+    "dc_menu_nonces_index",
+    "dc_mc_nocache_menus"
+  ],
+  "transients": [
+    "dc_menu_html_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:15.511Z"
+}

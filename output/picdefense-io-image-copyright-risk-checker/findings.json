@@ -1,0 +1,30 @@
+{
+  "options": [
+    "picdefense_api_key",
+    "picdefense_user_ID",
+    "picdefense_test_connect",
+    "picdefense_inc_all_imgs",
+    "picdefense_rescan_images",
+    "picdefense_submit_domain",
+    "picdefense_plugin_version",
+    "picdefense_submit_images",
+    "picdefense_images_count",
+    "old_attachment_id_to_delete",
+    "picdio_cache_clear_message_dismissed"
+  ],
+  "transients": [
+    "dirsize_cache"
+  ],
+  "cron_jobs": [
+    "picdio_scheduled_images_scan",
+    "picdio_scheduled_images_job_submit"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_wp_attachment_backup_sizes",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:00.294Z"
+}

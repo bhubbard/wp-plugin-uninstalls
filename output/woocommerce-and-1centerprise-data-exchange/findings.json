@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wc1c_guid_attributes",
+    "wc1c_order_attributes",
+    "wc1c_timestamp_attributes",
+    "wc1c_currency",
+    "woocommerce_currency",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc1c_guid",
+    "_stock_status",
+    "wc1c_guid",
+    "wc1c_timestamp",
+    "_visibility",
+    "_wc1c_timestamp",
+    "_product_attributes",
+    "wc1c_contragent",
+    "wc1c_querying",
+    "wc1c_queried"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:02.204Z"
+}

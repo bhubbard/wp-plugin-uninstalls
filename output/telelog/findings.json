@@ -1,0 +1,21 @@
+{
+  "options": [
+    "telelog_api_key",
+    "telelog_chat_id",
+    "telelog_on_post_update",
+    "telelog_on_post_publish",
+    "telelog_on_post_comment",
+    "telelog_on_login_fail",
+    "telelog_on_register_user",
+    "telelog_on_theme_switch",
+    "telelog_on_plugin_activate",
+    "telelog_on_plugin_deactivate",
+    "telelog_on_woocommerce_order_new"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:26.617Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "colaias_wpforo_ai_flag_types",
+    "colaias_wpforo_ai_can_log_info",
+    "colaias_wpforo_ai_openrouter_api_key",
+    "colaias_wpforo_ai_openrouter_model",
+    "colaias_wpforo_ai_send_metrics_to_openrouter",
+    "colaias_wpforo_ai_custom_xtitle_for_openrouter",
+    "colaias_wpforo_ai_moderation_prompt",
+    "colaias_wpforo_ai_mute_duration",
+    "colaias_wpforo_ai_openrouter_timeout",
+    "colaias_wpforo_ai_use_context",
+    "colaias_wpforo_ai_max_succeeding",
+    "colaias_wpforo_ai_max_preceding",
+    "colaias_wpforo_ai_cached_site_url"
+  ],
+  "transients": [
+    "colaias_action_notice_*",
+    "colaias_wpforo_ai_user_notices_*"
+  ],
+  "cron_jobs": [
+    "colaias_wpforo_ai_job_cleanup",
+    "colaias_wpforo_ai_job_flag_metrics_cleanup",
+    "colaias_wpforo_ai_async_post_verification",
+    "colaias_wpforo_ai_async_status_verification"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:49.304Z"
+}

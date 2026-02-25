@@ -1,0 +1,38 @@
+{
+  "options": [
+    "*ced_activation_pageid",
+    "*ced_deactivation_mode",
+    "ced_awl_ced_notifiaction_message",
+    "ced_awl_ced_add_button",
+    "ced_awl_ced_successfull_registration",
+    "ced_feed",
+    "ced_feed_awl",
+    "*email_custum_mode",
+    "*email_custum_content",
+    "awl_link_text",
+    "*ced_successfull_registration",
+    "*ced_add_button",
+    "*status_out_of_stock_option",
+    "*ced_notifiaction_message",
+    "ced_awl_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*ced_wait_list",
+    "_waitlist_button",
+    "*ced_waitlist_meta",
+    "*email_custum_content",
+    "*email_custum_mode",
+    "*user_email_notofication",
+    "_manage_stock",
+    "user_mode",
+    "reservation",
+    "_stock_status",
+    "_stock",
+    "*ced_waitlist_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:52.951Z"
+}

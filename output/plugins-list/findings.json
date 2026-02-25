@@ -1,0 +1,14 @@
+{
+  "options": [
+    "recently_activated"
+  ],
+  "transients": [
+    "plugins_list",
+    "artiss_plugins_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:06.626Z"
+}

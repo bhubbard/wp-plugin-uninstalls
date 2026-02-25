@@ -1,0 +1,18 @@
+{
+  "options": [
+    "chcl_hashes",
+    "locked_items",
+    "chcl_site_key",
+    "chcl_secret_key",
+    "chcl_color_setting",
+    "chcl_bootstrap_button"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "chcl_add_every_three_minutes"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:48.201Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*version",
+    "wpsi_tag",
+    "wpsi_use_pages",
+    "wpsi_use_posts",
+    "wpsi_use_backtotop",
+    "wpsi_backtotop_id",
+    "wpsi_display_all_anchors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsi_disable_index"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:20.256Z"
+}

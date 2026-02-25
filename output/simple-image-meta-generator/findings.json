@@ -1,0 +1,19 @@
+{
+  "options": [
+    "simg_settings",
+    "simg_bulk_updater_counter",
+    "simg_version"
+  ],
+  "transients": [
+    "simg_activation_admin_notice",
+    "simg_upgrade_complete_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "simg_wp_attachment_original_post_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:04.478Z"
+}

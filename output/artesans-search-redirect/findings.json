@@ -1,0 +1,12 @@
+{
+  "options": [
+    "*_field1",
+    "artesans_search_redirect_field1"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:12.641Z"
+}

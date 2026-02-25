@@ -1,0 +1,11 @@
+{
+  "options": [
+    "shr_force_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:05.572Z"
+}

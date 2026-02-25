@@ -1,0 +1,15 @@
+{
+  "options": [
+    "qwall_avc_*",
+    "qwall_settings",
+    "qwall_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "qwall_purge_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:28.369Z"
+}

@@ -1,0 +1,112 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('sizepsgf_size_chart_position');
+delete_site_option('sizepsgf_size_chart_position');
+delete_option('sizepsgf_layout_style');
+delete_site_option('sizepsgf_layout_style');
+delete_option('sizepsgf_sizechart_popup_position');
+delete_site_option('sizepsgf_sizechart_popup_position');
+delete_option('sizepsgf_size_chart_tab_title');
+delete_site_option('sizepsgf_size_chart_tab_title');
+delete_option('sizepsgf_even_row_color');
+delete_site_option('sizepsgf_even_row_color');
+delete_option('sizepsgf_odd_row_color');
+delete_site_option('sizepsgf_odd_row_color');
+delete_option('sizepsgf_font_text_color');
+delete_site_option('sizepsgf_font_text_color');
+delete_option('sizepsgf_size_heading_title');
+delete_site_option('sizepsgf_size_heading_title');
+delete_option('sizepsgf_size_guide_content');
+delete_site_option('sizepsgf_size_guide_content');
+delete_option('sizepsgf_table_border_color');
+delete_site_option('sizepsgf_table_border_color');
+delete_option('sizepsgf_border_size');
+delete_site_option('sizepsgf_border_size');
+delete_option('sizepsgf_popup_btnbg_color');
+delete_site_option('sizepsgf_popup_btnbg_color');
+delete_option('sizepsgf_popup_btntext_color');
+delete_site_option('sizepsgf_popup_btntext_color');
+delete_option('sizepsgf_popup_btnicon_color');
+delete_site_option('sizepsgf_popup_btnicon_color');
+delete_option('sizepsgf_containerbg_color');
+delete_site_option('sizepsgf_containerbg_color');
+delete_option('sizepsgf_btn_font_size');
+delete_site_option('sizepsgf_btn_font_size');
+delete_option('sizepsgf_btn_padding');
+delete_site_option('sizepsgf_btn_padding');
+delete_option('sizepsgf_size_guide_custom_css');
+delete_site_option('sizepsgf_size_guide_custom_css');
+delete_option('sizepsgf_table_head_bg_color');
+delete_site_option('sizepsgf_table_head_bg_color');
+delete_option('sizepsgf_table_head_font_color');
+delete_site_option('sizepsgf_table_head_font_color');
+delete_option('sizepsgf_size_chart_enable_disable');
+delete_site_option('sizepsgf_size_chart_enable_disable');
+delete_option('sizepsgf_product_per_page');
+delete_site_option('sizepsgf_product_per_page');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_size_chart_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_size_chart_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_size_chart_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_size_chart_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'sizepsgf_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'sizepsgf_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'sizepsgf_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'sizepsgf_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'sizepsgf_chart_position' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'sizepsgf_chart_position' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'sizepsgf_chart_position' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'sizepsgf_chart_position' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'sizepsgf_popup_icon_input' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'sizepsgf_popup_icon_input' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'sizepsgf_popup_icon_input' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'sizepsgf_popup_icon_input' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'sizepsgf_layout_style' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'sizepsgf_layout_style' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'sizepsgf_layout_style' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'sizepsgf_layout_style' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_selected_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_selected_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_selected_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_selected_categories' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_selected_tags' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_selected_tags' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_selected_tags' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_selected_tags' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_products' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_products' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_products' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_products' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_apply_all_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_apply_all_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_apply_all_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_apply_all_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_size_chart_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_size_chart_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_size_chart_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_size_chart_product' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_grouped_attributes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_grouped_attributes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_grouped_attributes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_grouped_attributes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_hide_thumbnail' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_hide_thumbnail' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_hide_thumbnail' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_hide_thumbnail' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_hide_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_hide_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_hide_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_hide_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_sizepsgf_hide_chart_table' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_sizepsgf_hide_chart_table' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_sizepsgf_hide_chart_table' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_sizepsgf_hide_chart_table' ) );
+

@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "event-date",
+    "event-lieu",
+    "event-url",
+    "event-chrono",
+    "event-distance",
+    "event-type",
+    "event-place"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:09.161Z"
+}

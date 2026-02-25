@@ -1,0 +1,49 @@
+{
+  "options": [
+    "ctc_flush_rewrite_rules",
+    "ctc_gmaps_api_key_notice_dismissed",
+    "*_license_status",
+    "*_license_expiration",
+    "ctfw_grandfather_recurring_events",
+    "ctfw_grandfather_recurring_events_checked",
+    "ctc_migrate_risen_processed",
+    "ctc_version"
+  ],
+  "transients": [
+    "ctc_edd_license_activation",
+    "ctc_edd_license_activation_result",
+    "ctc_edd_license_auto_sync",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "ctc_update_recurring_event_dates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ctc_event_start_date",
+    "_ctc_event_end_date",
+    "_ctc_event_start_time",
+    "_ctc_event_end_time",
+    "_ctc_event_recurrence_end_date",
+    "_ctc_event_time",
+    "_ctc_event_hide_time_range",
+    "_ctc_event_recurrence",
+    "_ctc_event_venue",
+    "_ctc_location_address",
+    "_ctc_location_times",
+    "_ctc_person_position",
+    "_ctc_sermon_video",
+    "_ctc_sermon_audio",
+    "_ctc_sermon_pdf",
+    "_ctc_event_video",
+    "_ctc_event_audio",
+    "_ctc_event_pdf",
+    "_ctc_sermon_text",
+    "_ctc_event_start_date_start_time",
+    "_ctc_event_start_date_end_time",
+    "_ctc_event_end_date_start_time",
+    "_ctc_event_end_date_end_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:07.328Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "anibu_global_animations",
+    "anibu_options",
+    "toast_sta_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "anibu_page_animations"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:02.226Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_sepay_settings",
+    "wc_sepay_webhook_id",
+    "wc_sepay_last_connected_at",
+    "wc_sepay_access_token",
+    "wc_sepay_refresh_token",
+    "wc_sepay_token_expires",
+    "wc_sepay_webhook_api_key"
+  ],
+  "transients": [
+    "wc_sepay_oauth_state",
+    "wc_sepay_rate_limited",
+    "wc_sepay_refresh_failure",
+    "wc_sepay_oauth_url",
+    "wc_sepay_oauth_rate_limited",
+    "wc_sepay_bank_accounts",
+    "wc_sepay_company",
+    "wc_sepay_bank_account_*",
+    "wc_sepay_webhook_*",
+    "wc_sepay_user_info",
+    "wc_sepay_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:25.221Z"
+}

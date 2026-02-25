@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ssq_option_preload_percentage",
+    "ssq_option_elementor_widget",
+    "carbon_custom_sidebars",
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:55.610Z"
+}

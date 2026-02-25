@@ -1,0 +1,26 @@
+{
+  "options": [
+    "autowp_settings",
+    "autowp_show_setup",
+    "autowp_linking_settings",
+    "autowp_post_settings",
+    "autowp_alerts",
+    "autowp_announcements",
+    "autowp_dismissed_announcements",
+    "autowp_rewriting_promptscheme",
+    "autowp_writing_promptscheme"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "autowp_fetch_announcements",
+    "autowp_cron",
+    "autowp_manual_post_rss_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_faq_schema",
+    "managetoplevel_page_list_tablecolumnshidden"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:35.149Z"
+}

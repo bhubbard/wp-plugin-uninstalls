@@ -1,0 +1,12 @@
+{
+  "options": [
+    "xtrad_viewer_db_version",
+    "xtrad_viewer_lib_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:03.548Z"
+}

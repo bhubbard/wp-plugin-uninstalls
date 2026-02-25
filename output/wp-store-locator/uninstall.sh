@@ -1,0 +1,102 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'active_sitewide_plugins'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'edd_api_request_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_license_data'"
+wp option delete 'wpsl_notices'
+wp option delete 'wpsl_settings'
+wp option delete 'wpsl_valid_server_key'
+wp option delete 'wpsl_flush_rewrite'
+wp option delete 'wpsl_delete_transient'
+wp option delete 'wpsl_legacy_support'
+wp option delete 'wpsl_version'
+wp option delete 'wpsl_convert_cpt'
+
+# Delete Transients
+wp transient delete 'update_plugins'
+wp transient delete 'wpsl_addons'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_wpsl_autoload_%' OR option_name LIKE '_site_transient_wpsl_autoload_%'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_warning'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_warning'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_warning'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_warning'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_disable_wp_rocket_warning'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_disable_wp_rocket_warning'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_disable_wp_rocket_warning'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_disable_wp_rocket_warning'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dismissed_wp_pointers'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dismissed_wp_pointers'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dismissed_wp_pointers'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dismissed_wp_pointers'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_country_iso'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_country_iso'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_country_iso'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_country_iso'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_lat'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_lat'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_lat'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_lat'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_lng'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_lng'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_lng'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_lng'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_hours'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_hours'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_hours'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_hours'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'wpsl_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'wpsl_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'wpsl_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wpsl_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_address2'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_address2'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_address2'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_address2'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_country'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_country'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_country'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_country'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_fax'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_fax'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_fax'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_fax'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_city'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_city'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_city'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_city'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_state'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_state'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_state'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_state'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_zip'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_zip'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_zip'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_zip'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_disable_location_warning'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_disable_location_warning'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_disable_location_warning'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_disable_location_warning'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpsl_stores_per_page'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpsl_stores_per_page'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpsl_stores_per_page'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpsl_stores_per_page'"

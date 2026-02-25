@@ -1,0 +1,21 @@
+{
+  "options": [
+    "copper_payment_gateway_ethereum_net",
+    "copper_payment_gateway_infura_api_id",
+    "copper_payment_gateway_copper_contract_address",
+    "copper_payment_gateway_copper_target_address",
+    "woocommerce_force_ssl_checkout",
+    "copper_payment_gateway_copper_abi_array",
+    "copper_payment_gateway_gas_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "copper_payment_gateway_eth_token",
+    "copper_payment_gateway_eth_addresses",
+    "copper_payment_gateway_tx"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:25.248Z"
+}

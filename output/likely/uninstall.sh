@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'show_in_pages'
+wp option delete 'show_twitter'
+wp option delete 'twitter_label'
+wp option delete 'twitter_acc'
+wp option delete 'show_facebook'
+wp option delete 'facebook_label'
+wp option delete 'show_linkedin'
+wp option delete 'linkedin_label'
+wp option delete 'show_reddit'
+wp option delete 'reddit_label'
+wp option delete 'show_vk'
+wp option delete 'vk_label'
+wp option delete 'show_telegram'
+wp option delete 'telegram_label'
+wp option delete 'telegram_datatext'
+wp option delete 'show_ok'
+wp option delete 'ok_label'
+wp option delete 'show_whatsapp'
+wp option delete 'whatsapp_label'
+wp option delete 'show_viber'
+wp option delete 'viber_label'
+wp option delete 'viber_datacomment'
+wp option delete 'show_pinterest'
+wp option delete 'pinterest_label'
+wp option delete 'light_theme'
+wp option delete 'buttons_size'
+wp option delete 'linkedit_label'
+

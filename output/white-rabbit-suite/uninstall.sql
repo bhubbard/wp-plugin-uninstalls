@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wr_general_enabled', 'wr_general_debug', 'wr_general_apipath', 'wr_general_site_token', 'wr_general_consumer_key', 'wr_general_consumer_secret', 'wr_general_enable_gdpr_marketing', 'wr_general_ticket', 'wr_general_abandoned_cart_expiry', 'wr_general_import_run', 'wr_plugin_wordpress_generate_sitemap', 'wr_plugin_wordpress_rabbit_id', 'wr_plugin_wordpress_site_id', 'wr_plugin_wordpress_wr_token', 'wr_plugin_wordpress_script_url', 'wr_plugin_wordpress_script_token', 'wr_whiterabbit_wp_token', 'wr_plugin_wordpress_message_log', 'wr_plugin_wordpress_analytics_piwik_enabled', 'wr_plugin_wordpress_analytics_piwik_debug_enabled', 'wr_plugin_wordpress_analytics_piwik_code', 'wr_plugin_wordpress_analytics_piwik_api_code', 'wr_plugin_wordpress_analytics_ecommerce_goal_id', 'wr_whiterabbit_analytics_newsletter_goal_id', 'wr_post_default_author_id', 'wr_post_default_category_id', 'wr_theme_settings', 'wr_plugin_wordpress_data_import_run', 'wr_plugin_wordpress_suite_operation_token', 'wr_plugin_wordpress_data_import', 'wr_plugin_wordpress_suite_gdpr_list', 'wr_whiterabbit_piwik_url', 'wr_plugin_log_enabled', 'wr_commonpages', 'Activated_Plugin');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wr_post_id', '_sseo_meta_description', '_sseo_meta_keywords', '_wp_attachment_image_alt');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wr_post_id', '_sseo_meta_description', '_sseo_meta_keywords', '_wp_attachment_image_alt');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wr_post_id', '_sseo_meta_description', '_sseo_meta_keywords', '_wp_attachment_image_alt');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wr_post_id', '_sseo_meta_description', '_sseo_meta_keywords', '_wp_attachment_image_alt');
+

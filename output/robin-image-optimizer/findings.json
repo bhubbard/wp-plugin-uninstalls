@@ -1,0 +1,55 @@
+{
+  "options": [
+    "robin_image_optimizer_logger_flag",
+    "*_install",
+    "wbcr_io_license",
+    "wrio_freemius_uid",
+    "*_license_data",
+    "ngg_options",
+    "factory_plugin_versions",
+    "*_is_active",
+    "*_license_status",
+    "*_license_plan",
+    "*_failed_checks",
+    "*_logger_flag",
+    "themeisle_sdk_notifications",
+    "otter_reference_key",
+    "optimole_reference_key",
+    "rop_reference_key",
+    "neve_reference_key",
+    "hyve_reference_key",
+    "wp_full_pay_reference_key",
+    "feedzy_reference_key",
+    "themeisle_sdk_promotions_otter",
+    "*_version",
+    "*_license"
+  ],
+  "transients": [
+    "*_license_data",
+    "wbcr_factory_google_fonts",
+    "wbcr_factory_google_fonts_raw",
+    "*_process_lock",
+    "ti_plugin_info_*",
+    "themeisle_sdk_cache_token",
+    "themeisle_sdk_feed_items",
+    "themeisle_sdk_products",
+    "*act_err",
+    "tsk_attachment_count",
+    "tsk_posts_count",
+    "ti_theme_info_*",
+    "update_plugins",
+    "*_warning_rollback",
+    "update_themes",
+    "ti_sdk_pause_*"
+  ],
+  "cron_jobs": [
+    "wrio/cron/optimization_process"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wrio_avif_banner_dismissed",
+    "themeisle_sdk_dismissed_notice_black_friday"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:41.984Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ccsve_post_type",
+    "ccsve_custom_fields"
+  ],
+  "transients": [
+    "*post_meta_keys"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:33.098Z"
+}

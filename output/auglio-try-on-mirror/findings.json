@@ -1,0 +1,16 @@
+{
+  "options": [
+    "auglio_try_on_mirror_version",
+    "auglio_installation_id",
+    "auglio_settings",
+    "auglio_api",
+    "auglio_product_feed",
+    "auglio_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:33.409Z"
+}

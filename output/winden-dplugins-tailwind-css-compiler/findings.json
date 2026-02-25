@@ -1,0 +1,36 @@
+{
+  "options": [
+    "winden_dplugins_editor",
+    "winden_dplugins_cache",
+    "winden_dplugins_wizzard_state",
+    "winden_v4_notice_dismissed",
+    "winden_dplugins_options",
+    "winden_dplugins_clear_cache_flag",
+    "winden_option_name",
+    "winden_dplugins_breakpoint_indicator_enabled",
+    "winden_cache_status",
+    "winden_split_mode",
+    "winden_post_classes_index",
+    "winden_crawled_classes",
+    "winden_last_crawl_time",
+    "winden_needs_recompile",
+    "bricks_global_settings",
+    "bricks_color_palette",
+    "bricks_breakpoints",
+    "oxygen_vsb_global_colors"
+  ],
+  "transients": [
+    "winden_compiled_css_mtime"
+  ],
+  "cron_jobs": [
+    "winden_async_crawl"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_funculo_block_php",
+    "_funculo_block_js",
+    "_funculo_symbol_php"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:11.381Z"
+}

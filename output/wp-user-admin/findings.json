@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpua_remove_on_uninstall",
+    "wpua_enable_notification",
+    "wpua_role_change_notification_text",
+    "wpua_role_restore_notification_text"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpua_change_role_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:25.370Z"
+}

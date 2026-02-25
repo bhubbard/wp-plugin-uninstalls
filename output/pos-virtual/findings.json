@@ -1,0 +1,21 @@
+{
+  "options": [
+    "user_posvirtual",
+    "password_posvirtual",
+    "token_posvirtual",
+    "jwt_posvirtual",
+    "mid_posvirtual",
+    "environment_dev_cyb_posvirtual",
+    "vc_json_posvirtual",
+    "name_enterprise_posvirtual",
+    "currency_posvirtual",
+    "activation_date_posvirtual",
+    "creation_date_posvirtual"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:48.582Z"
+}

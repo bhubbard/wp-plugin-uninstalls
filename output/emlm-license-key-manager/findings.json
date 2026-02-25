@@ -1,0 +1,29 @@
+{
+  "options": [
+    "emlm_options",
+    "emlm_license_key",
+    "emlm_license_email",
+    "emlm_license_domain"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_emlm_generate_key",
+    "_emlm_product_type",
+    "_emlm_license_type",
+    "_emlm_owener_name",
+    "_emlm_maximum_activations",
+    "_emlm_activations",
+    "_emlm_license_status",
+    "_emlm_issue_date",
+    "_emlm_validation_days",
+    "_emlm_product_id",
+    "_emlm_product",
+    "_emlm_owner_email",
+    "_emlm_owner_name",
+    "_emlm_license_email_expired_sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:12.682Z"
+}

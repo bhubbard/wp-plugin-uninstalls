@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ga_profile",
+    "wp_headmaster_ga_choice",
+    "wp_headmaster_favicon",
+    "wp_headmaster_touch_icon",
+    "wp_headmaster_google_font",
+    "wp_headmaster_typekit",
+    "wp_headmaster_edgewebfonts",
+    "wp_headmaster_jquery_choice",
+    "wp_headmaster_jquery_google_version",
+    "wp_headmaster_respondjs",
+    "wphm_modernizr",
+    "inline_styles",
+    "wp_headmaster_meta_author_auto",
+    "wp_headmaster_format_detection"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_headmaster_js_value_key",
+    "wp_headmaster_css_value_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:46.282Z"
+}

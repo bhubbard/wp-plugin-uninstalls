@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dapp_SECRETKEY"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "dpp_location_user",
+    "_is_enable_add_to_cart_fast",
+    "_digiappsaz_sale_price_dates_to",
+    "_digiappsaz_sale_price_dates_from",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:04.498Z"
+}

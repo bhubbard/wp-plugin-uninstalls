@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bs_faq_register_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "display_name",
+    "views_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:05.234Z"
+}

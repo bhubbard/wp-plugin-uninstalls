@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "add-on-cf7-for-airtable/delete-upload-files"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cf7_airtable_addon_notice_dismissed",
+    "_wpc_airtable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:07.816Z"
+}

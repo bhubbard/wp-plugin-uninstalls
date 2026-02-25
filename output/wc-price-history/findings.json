@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wc_price_history_db_version",
+    "wc_price_history_settings",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_price_history_migration_notice_dismissed",
+    "_price",
+    "_wc_price_history"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:12.223Z"
+}

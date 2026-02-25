@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "orderweight_enable_order_notes",
+    "orderweight_enable_admin_emails",
+    "orderweight_enable_customer_emails",
+    "orderweight_customer_dashboard"
+  ],
+  "transients": [
+    "order_weight_update_process"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "order_weight",
+    "order_weight_unit",
+    "_order_weight"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:58.922Z"
+}

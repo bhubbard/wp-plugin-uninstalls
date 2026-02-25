@@ -1,0 +1,29 @@
+{
+  "options": [
+    "rami__settings_data",
+    "ami_icons_downloaded",
+    "rami_activation_check",
+    "rami_wp_plugin_activation_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_svg_icon",
+    "_svg_position",
+    "_svg_icon_size",
+    "_svg_icon_color",
+    "_svg_icon_hover_color",
+    "_svg_top_margin",
+    "_svg_right_margin",
+    "_svg_bottom_margin",
+    "_svg_left_margin",
+    "_custom_image",
+    "_svg_tag",
+    "_svg_group",
+    "_custom_image_id",
+    "_hover_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:10.057Z"
+}

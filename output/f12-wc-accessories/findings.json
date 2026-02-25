@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_db_version",
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [
+    "f12_accessories_overview_map",
+    "f12_accessories_dashboard_stats"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "f12-woo-accessoire_order",
+    "f12-woo-required_accessoire_ids",
+    "f12-woo-accessoire_ids",
+    "f12-woo-accessoire_recommended"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:02.679Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pi_enable_reminder_email_admin",
+    "pi_dont_send_reminder_if_order_status_is",
+    "woocommerce_email_footer_text",
+    "woocommerce_email_header_image",
+    "woocommerce_email_background_color",
+    "woocommerce_email_body_background_color",
+    "woocommerce_email_base_color",
+    "woocommerce_email_text_color",
+    "pi_email_reminder_trigger"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pisol_order_reminder_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:29.737Z"
+}

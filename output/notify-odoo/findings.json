@@ -1,0 +1,16 @@
+{
+  "options": [
+    "notifyodoo_url",
+    "notifyodoo_notify_about_new_customer",
+    "notifyodoo_notify_about_new_order",
+    "notifyodoo_add_tracking_image",
+    "notifyodoo_allow_ip_address",
+    "notifyodoo_last_access_ip_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:53.458Z"
+}

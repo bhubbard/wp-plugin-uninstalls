@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cm_typesense_plugin_activate",
+    "typesense_customizer_instant_search",
+    "cm_typesense_admin_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:26.888Z"
+}

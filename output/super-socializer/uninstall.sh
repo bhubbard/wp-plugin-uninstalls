@@ -1,0 +1,140 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'the_champ_ss_version'
+wp option delete 'the_champ_facebook'
+wp option delete 'the_champ_login'
+wp option delete 'the_champ_sharing'
+wp option delete 'the_champ_counter'
+wp option delete 'the_champ_general'
+wp option delete 'theme_my_login'
+wp option delete 'heateor_ss_custom_url_shares'
+wp option delete 'heateor_ss_homepage_shares'
+wp option delete 'heateor_ss_twitcount_notification_read'
+wp option delete 'heateor_ss_gdpr_notification_read'
+wp option delete 'heateor_ss_fb_redirection_notification_read'
+wp option delete 'heateor_ss_twitter_callback_notification_read'
+wp option delete 'heateor_ss_linkedin_redirect_url_notification_read'
+wp option delete 'heateor_ss_fb_count_notification_read'
+wp option delete 'heateor_ss_twitter_new_callback_notification_read'
+wp option delete 'heateor_ss_linkedin_redirection_notification_read'
+wp option delete 'heateor_ss_google_redirection_notification_read'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_heateor_ss_share_count_%' OR option_name LIKE '_site_transient_heateor_ss_share_count_%'"
+wp transient delete 'heateor-ss-admin-notice-on-activation'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_provider'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_provider'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_provider'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_provider'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_linked_accounts'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_linked_accounts'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_linked_accounts'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_linked_accounts'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_social_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_social_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_social_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_social_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_current_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_current_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_current_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_current_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_large_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_large_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_large_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_large_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_the_champ_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_the_champ_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_the_champ_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_the_champ_meta'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_dontupdate_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_dontupdate_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_dontupdate_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_dontupdate_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pw_user_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pw_user_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pw_user_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pw_user_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_gdpr_consent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_gdpr_consent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_gdpr_consent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_gdpr_consent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_social_registration'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_social_registration'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_social_registration'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_social_registration'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'the_champ_temp_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'the_champ_temp_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'the_champ_temp_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'the_champ_temp_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_the_champ_ss_bitly_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_the_champ_ss_bitly_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_the_champ_ss_bitly_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_the_champ_ss_bitly_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_heateor_ss_shares_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_heateor_ss_shares_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_heateor_ss_shares_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_heateor_ss_shares_meta'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'super_socializer_redirect_to'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'super_socializer_redirect_to'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'super_socializer_redirect_to'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'super_socializer_redirect_to'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'heateor_ss_linkedin_mc_sub'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'heateor_ss_linkedin_mc_sub'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'heateor_ss_linkedin_mc_sub'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'heateor_ss_linkedin_mc_sub'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'super_socializer_temp_network'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'super_socializer_temp_network'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'super_socializer_temp_network'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'super_socializer_temp_network'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_twitter_oauthtoken'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_twitter_oauthtoken'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_twitter_oauthtoken'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_twitter_oauthtoken'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_twitter_oauthtokensecret'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_twitter_oauthtokensecret'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_twitter_oauthtokensecret'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_twitter_oauthtokensecret'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_mc_subscribe'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_mc_subscribe'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_mc_subscribe'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_mc_subscribe'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thechamp_twitter_redirect'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thechamp_twitter_redirect'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thechamp_twitter_redirect'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thechamp_twitter_redirect'"

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "auto_plugin_theme_update_emails"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wsk_banner_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:08.729Z"
+}

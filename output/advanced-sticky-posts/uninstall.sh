@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_advsp_post_pos'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_advsp_post_pos'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_advsp_post_pos'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_advsp_post_pos'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_advsp_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_advsp_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_advsp_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_advsp_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_advsp_class'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_advsp_class'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_advsp_class'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_advsp_class'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_advsp_pos'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_advsp_pos'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_advsp_pos'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_advsp_pos'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_advsp_hp'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_advsp_hp'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_advsp_hp'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_advsp_hp'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_advsp_sticky'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_advsp_sticky'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_advsp_sticky'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_advsp_sticky'"

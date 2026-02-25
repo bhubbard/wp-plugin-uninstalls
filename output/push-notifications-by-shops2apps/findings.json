@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "appsmoment_pns_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_et_pb_page_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:05.442Z"
+}

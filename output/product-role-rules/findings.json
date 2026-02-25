@@ -1,0 +1,19 @@
+{
+  "options": [
+    "proler_role_table",
+    "proler_rating",
+    "proler_notify_pro",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [
+    "proler_admin_cache",
+    "proler_settings"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "proler_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:00.387Z"
+}

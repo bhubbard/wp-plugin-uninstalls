@@ -1,0 +1,18 @@
+{
+  "options": [
+    "tadv_admin_settings"
+  ],
+  "transients": [
+    "codoc_api_notification"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "codoc_shortcode_evacuations",
+    "codoc_entry_code",
+    "codoc_saved_post_id",
+    "codoc_post_thumbnail_invoking_entry_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:05.829Z"
+}

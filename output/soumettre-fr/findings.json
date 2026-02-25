@@ -1,0 +1,32 @@
+{
+  "options": [
+    "soumettre_api_key",
+    "soumettre_api_secret",
+    "soumettre_settings",
+    "soumettre_default_author",
+    "soumettre_error_notice",
+    "soumettre_auth_state",
+    "soumettre_spot_id",
+    "soumettre_email",
+    "soumettre_commission",
+    "soum_sour_api_key",
+    "soum_sour_api_secret",
+    "soum_sour_author",
+    "soum_sour_email"
+  ],
+  "transients": [
+    "soumettre_plugin_old_plugin_version",
+    "soumettre_nonce"
+  ],
+  "cron_jobs": [
+    "soumettre_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "soumettre_url",
+    "soumettre_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:50.956Z"
+}

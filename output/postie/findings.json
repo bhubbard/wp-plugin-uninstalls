@@ -1,0 +1,15 @@
+{
+  "options": [
+    "postie-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "check_postie_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:45.123Z"
+}

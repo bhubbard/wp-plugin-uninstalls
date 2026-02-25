@@ -1,0 +1,16 @@
+{
+  "options": [
+    "shashin_permalinks-on",
+    "shashin_permalinks-title_on",
+    "shashin_permalinks-sociable_on",
+    "shashin_permalinks-key_album",
+    "shashin_permalinks-key_page",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:57.253Z"
+}

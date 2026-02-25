@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cpp_sandbox_webhook_id",
+    "cpp_live_webhook_id",
+    "woocommerce_complete_paypal_payments_settings"
+  ],
+  "transients": [
+    "cpp_is_webhook_process_started",
+    "ppc_wp_review_request"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "_paypal_status",
+    "ppc_paypal_customer_id",
+    "ppc_wp_billing_phone_notice",
+    "ppc_wp_review_request"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:17.246Z"
+}

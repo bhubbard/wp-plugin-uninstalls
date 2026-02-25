@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "smartaltfixer_status_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_smartaltfixer_alt_source"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:31.595Z"
+}

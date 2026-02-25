@@ -1,0 +1,30 @@
+{
+  "options": [
+    "email_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "email_action",
+    "email_type",
+    "email_from",
+    "email_from_name",
+    "email_to",
+    "email_to_role",
+    "email_cc",
+    "email_cc_role",
+    "email_bcc",
+    "email_bcc_role",
+    "email_subject",
+    "to_emails",
+    "from_email",
+    "from_name",
+    "cc_emails",
+    "bcc_emails",
+    "email_message",
+    "email_hidden"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:27.808Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ibhpp_chase_payment_api_settings",
+    "*_title",
+    "*_name",
+    "*_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:01.163Z"
+}

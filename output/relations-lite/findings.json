@@ -1,0 +1,21 @@
+{
+  "options": [
+    "relations_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_relations_posts_per_page",
+    "_relations_position",
+    "_relations_content_type",
+    "_relations_display_type",
+    "_relations_order_type",
+    "_relations_inject_paragraph_number",
+    "_relations_template",
+    "_relations_custom_posts",
+    "_relations_custom_display_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:22.626Z"
+}

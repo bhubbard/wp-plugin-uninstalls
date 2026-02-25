@@ -1,0 +1,21 @@
+{
+  "options": [
+    "streaming_connect_service",
+    "BUNNY_LIBRARY_ID",
+    "BUNNY_ACCESS_KEY",
+    "amazon_s3_key",
+    "amazon_s3_secret",
+    "amazon_s3_region",
+    "amazon_s3_bucket",
+    "BUNNY_FILE_UPLOAD_LIMIT",
+    "AMAZON_FILE_UPLOAD_LIMIT"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "collection_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:00.669Z"
+}

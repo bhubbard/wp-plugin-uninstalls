@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gil_js_file_selector_file",
+    "gil_js_file_selector_functions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:22.268Z"
+}

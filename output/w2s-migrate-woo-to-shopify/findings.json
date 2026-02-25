@@ -1,0 +1,37 @@
+{
+  "options": [
+    "viw2s_params",
+    "viw2s_importing_arr_product",
+    "viw2s_importing_arr_product_categories",
+    "viw2s_history_import",
+    "woocommerce_currency",
+    "woocommerce_weight_unit",
+    "viw2s_shopify_oauth_*",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "viw2s_shop_cache_*",
+    "viw2s_importing_arr_product",
+    "villatheme_call",
+    "villatheme_ads",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_w2s_shopify_data",
+    "_w2s_update_history",
+    "_wp_attachment_image_alt",
+    "_thumbnail_id",
+    "_shopify_product_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:37.319Z"
+}

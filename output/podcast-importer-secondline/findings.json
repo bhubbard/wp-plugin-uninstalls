@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "*_cron",
+    "secondline_importer_cron",
+    "secondline_import_cron_process_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_secondline_image_retry_count",
+    "_secondline_image_import_failed",
+    "secondline_attachment_md5",
+    "secondline_imported_guid",
+    "secondline_themes_episode_number",
+    "secondline_themes_season_number",
+    "secondline_themes_external_embed",
+    "audio_file",
+    "duration",
+    "filesize",
+    "enclosure",
+    "_audiourl",
+    "secondline_themes_parent_show_post",
+    "secondline_rss_feed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:39.778Z"
+}

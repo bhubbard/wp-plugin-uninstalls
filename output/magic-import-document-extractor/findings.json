@@ -1,0 +1,31 @@
+{
+  "options": [
+    "magic_import_document_extractor_settings",
+    "magic_import_document_extractor_license_key",
+    "magic_import_document_extractor_license_email",
+    "magic_import_document_extractor_license_status",
+    "magic_import_document_extractor_credits_total",
+    "magic_import_document_extractor_credits_remaining",
+    "magic_import_document_extractor_reset_date",
+    "magic_import_document_extractor_plan_name",
+    "magic_import_document_extractor_current_usage",
+    "magic_import_document_extractor_license_tier",
+    "magic_import_document_extractor_pattern_usage",
+    "magic_import_document_extractor_form_activity",
+    "magic_import_document_extractor_last_document_credits",
+    "magic_import_document_extractor_last_usage_sync"
+  ],
+  "transients": [
+    "magic_import_document_extractor_license_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_form",
+    "wpforms",
+    "forminator_form_meta",
+    "forminator_form"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:19.791Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "commentor_display_count",
+    "commentor_admin_display_name",
+    "commentor_form_direction",
+    "commentor_primary_color",
+    "commentor_box_background",
+    "commentor_box_padding",
+    "commentor_distinguish_the_author"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "likes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:10.520Z"
+}

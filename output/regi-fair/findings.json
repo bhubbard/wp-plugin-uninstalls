@@ -1,0 +1,13 @@
+{
+  "options": [
+    "regi_fair_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "regi_fair_cleanup_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:06.237Z"
+}

@@ -1,0 +1,36 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "acf_first_activated_version",
+    "acf_version",
+    "cptui_post_types",
+    "cptui_taxonomies",
+    "acf_escaped_html_log",
+    "acf_will_escape_html_log"
+  ],
+  "transients": [
+    "acf_deactivated_notice_id",
+    "acf_network_upgrade_needed_*",
+    "online_users"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "admin_acf_menu",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "_acf_changed",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "no_theme_switch",
+    "admin_dashboard_widgets",
+    "admin_language_switcher",
+    "show_welcome_panel"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:58.711Z"
+}

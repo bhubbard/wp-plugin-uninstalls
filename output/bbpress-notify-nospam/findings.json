@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bbpnns_dismissed_admin_notices",
+    "bbpnns_v2_conversion_complete",
+    "bbpress_notify_newtopic_email_subject",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bbpress_notify_bg_reply",
+    "bbpress_notify_bg_topic"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_forum_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:39.959Z"
+}

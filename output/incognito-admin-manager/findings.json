@@ -1,0 +1,13 @@
+{
+  "options": [
+    "incognito_cls_options",
+    "incognito_ats_settings",
+    "incognito_restrictions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:20.180Z"
+}

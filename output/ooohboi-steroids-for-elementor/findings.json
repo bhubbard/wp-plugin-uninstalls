@@ -1,0 +1,16 @@
+{
+  "options": [
+    "elementor_experiment-container",
+    "steroids_for_elementor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "qquuid",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:58.491Z"
+}

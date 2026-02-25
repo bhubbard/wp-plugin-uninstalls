@@ -1,0 +1,21 @@
+{
+  "options": [
+    "aru_readmorelogin_textfading_option",
+    "aru_readmorelogin_searchengines_option",
+    "aru_readmorelogin_debuglog_option",
+    "aru_readmorelogin_linking_option",
+    "aru_readmorelogin_redirect_option",
+    "aru_readmorelogin_email_verification_option",
+    "aru_readmorelogin_email_reset_password_option",
+    "aru_readmorelogin_email_register_notification_option",
+    "aru_readmorelogin_text_fade_option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rml_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:12.710Z"
+}

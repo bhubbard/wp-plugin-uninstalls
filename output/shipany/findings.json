@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_shipany_service_locations_forbidden",
+    "woocommerce_shipany_ecs_asia_settings",
+    "order_list_counter",
+    "_shipany_bulk_action_confirmation",
+    "shipany_permalinks_flushed",
+    "shipany_handover_order_ids_*",
+    "shipany-selected-locationtype",
+    "shipany-selected-locationID"
+  ],
+  "transients": [
+    "_shipany_bulk_download_labels_file_*",
+    "_shipany_auth_token_rest"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pr_shipment_shipany_label_tracking",
+    "_shipany_export_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:54.229Z"
+}

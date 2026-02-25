@@ -1,0 +1,18 @@
+{
+  "options": [
+    "typesquare_custom_theme",
+    "typesquare_auth",
+    "typesquare_fonttheme",
+    "typesquare_site_font_setting",
+    "typesquare_pro_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "metaboxhidden_*",
+    "typesquare_fonttheme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:50.276Z"
+}

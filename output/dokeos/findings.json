@@ -1,0 +1,21 @@
+{
+  "options": [
+    "dwc_licencekey",
+    "dwc_licencename"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dwc_logs",
+    "_dokeos_debug_process",
+    "_dokeos_debug_userexists",
+    "_dokeos_debug_createuser",
+    "_dokeos_debug_participation",
+    "_dwc_liendokeos",
+    "_dokeos_abo_etat",
+    "_dokeos_abo_details"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:21.790Z"
+}

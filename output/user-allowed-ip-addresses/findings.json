@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_no_access_url",
+    "*_auto_login",
+    "*_auto_login_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ip_addresses"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:01.838Z"
+}

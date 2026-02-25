@@ -1,0 +1,15 @@
+{
+  "options": [
+    "audio_playlist_manager_db_version",
+    "ti_apm_widget_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:40.901Z"
+}

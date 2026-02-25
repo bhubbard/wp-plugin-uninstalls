@@ -1,0 +1,16 @@
+{
+  "options": [
+    "faf_advanced_filters_options",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "faf_process_image",
+    "faf_featured_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:32.478Z"
+}

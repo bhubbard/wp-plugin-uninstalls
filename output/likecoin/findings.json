@@ -1,0 +1,19 @@
+{
+  "options": [
+    "likecoin_plugin_version"
+  ],
+  "transients": [
+    "likecoin_welcome_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lc_likecoin_user",
+    "lc_likecoin_id",
+    "lc_widget_option",
+    "lc_widget_position",
+    "lc_likecoin_wallet"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:07.294Z"
+}

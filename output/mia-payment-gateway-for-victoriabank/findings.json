@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_mia_settings",
+    "miapg_db_version"
+  ],
+  "transients": [
+    "miapg_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:58.267Z"
+}

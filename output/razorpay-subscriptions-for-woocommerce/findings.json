@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_razorpay_subscriptions_settings",
+    "webhook_secret",
+    "rzp_webhook_secret",
+    "rzp_subscription_webhook_enable_flag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:25.855Z"
+}

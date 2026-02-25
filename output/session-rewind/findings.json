@@ -1,0 +1,13 @@
+{
+  "options": [
+    "session_rewind_api_key",
+    "session_rewind_start_recording",
+    "session_rewind_create_new_session"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:26.584Z"
+}

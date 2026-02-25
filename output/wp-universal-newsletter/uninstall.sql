@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp_newsletter_post_label', 'wp_newsletter_header', 'wp_newsletter_logo', 'wp_newsletter_html_bg_color', 'wp_newsletter_bg_color', 'wp_newsletter_body_width', 'wp_newsletter_body_padding', 'wp_newsletter_body_border_color', 'wp_newsletter_font_family', 'wp_newsletter_font_color', 'wp_newsletter_text_size', 'wp_newsletter_link_color', 'wp_newsletter_link_hover_color', 'wp_newsletter_heading_color', 'wp_newsletter_button_bg_color', 'wp_newsletter_button_text_color', 'wp_newsletter_date_format', 'wp_newsletter_google_parameters', 'wp_newsletter_google_analytics', 'wp_newsletter_outlook', 'wp_newsletter_footer', 'wp_newsletter_socialize', 'wp_newsletter_post_slug', 'wp_newsletter_with_front', 'wp_newsletter_archive_slug', 'wp_newsletter_single_override', 'wp_newsletter_fb_app_id');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_newsletter_sub_title', '_wp_newsletter_meta_description', '_wp_newsletter_preview_text', '_wp_newsletter_image_url');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_newsletter_sub_title', '_wp_newsletter_meta_description', '_wp_newsletter_preview_text', '_wp_newsletter_image_url');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_newsletter_sub_title', '_wp_newsletter_meta_description', '_wp_newsletter_preview_text', '_wp_newsletter_image_url');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_newsletter_sub_title', '_wp_newsletter_meta_description', '_wp_newsletter_preview_text', '_wp_newsletter_image_url');
+

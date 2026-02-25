@@ -1,0 +1,49 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name LIKE '%ohmtang_cft_enable';
+DELETE FROM wp_options WHERE option_name LIKE '%exclude_logged_in_users';
+DELETE FROM wp_options WHERE option_name LIKE '%error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%ohmtang_cft_clear_data';
+DELETE FROM wp_options WHERE option_name LIKE '%secret_key';
+DELETE FROM wp_options WHERE option_name LIKE '%siteverify_api_url';
+DELETE FROM wp_options WHERE option_name LIKE '%js_api_url';
+DELETE FROM wp_options WHERE option_name LIKE '%site_key';
+DELETE FROM wp_options WHERE option_name LIKE '%data_theme';
+DELETE FROM wp_options WHERE option_name LIKE '%data_size';
+DELETE FROM wp_options WHERE option_name LIKE '%data_language';
+DELETE FROM wp_options WHERE option_name LIKE '%ohmtang_rfq_form';
+DELETE FROM wp_options WHERE option_name LIKE '%ohmtang_rfq_form_exclude_logged_in_users';
+DELETE FROM wp_options WHERE option_name LIKE '%ohmtang_rfq_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%OhmTang_rfq_form';
+DELETE FROM wp_options WHERE option_name LIKE '%OhmTang_rfq_form_exclude_logged_in_users';
+DELETE FROM wp_options WHERE option_name LIKE '%OhmTang_rfq_form_error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_login_form';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_register_form';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_lostpassword_form';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_checkout_form';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_login_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_register_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_lostpassword_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_checkout_form_exclude_logged_in_users';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_checkout_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_login_form_error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_register_form_error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_lostpassword_form_error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%woo_checkout_form_error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_login_form';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_register_form';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_lostpassword_form';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_comment_form';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_comment_form_exclude_logged_in_users';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_login_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_register_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%lostpassword_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_comment_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_login_form_error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_register_form_error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_lostpassword_form_data_action';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_lostpassword_form_error_msg';
+DELETE FROM wp_options WHERE option_name LIKE '%wp_comment_form_error_msg';
+

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "zmhub_connect_time",
+    "zmhub_rated",
+    "zma_notice",
+    "zmhub_script",
+    "zmhub_script_setting",
+    "zma_custom_banner_shown",
+    "zmhub_script_setting_setting",
+    "zmhub_domname",
+    "zmhub_token_details",
+    "zmhub_user_email",
+    "zmhub_error_msg",
+    "zmhub_integration",
+    "zmhub_store_stats",
+    "zmhub_intergration_details",
+    "zmhub_optin_setting",
+    "zma_version",
+    "zmh_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zmhub_refresh_forms_event",
+    "zmhub_track_order_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "zma_newsletter_subscription"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:08.085Z"
+}

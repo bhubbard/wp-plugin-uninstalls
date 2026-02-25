@@ -1,0 +1,15 @@
+{
+  "options": [
+    "seo_for_images_alt",
+    "seo_for_images_title",
+    "seo_for_images_override",
+    "seo_for_images_override_title",
+    "seo_for_images_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:51.249Z"
+}

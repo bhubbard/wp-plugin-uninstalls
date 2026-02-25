@@ -1,0 +1,13 @@
+{
+  "options": [
+    "am_avatar_clean_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "am_custom_avatar"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:09.070Z"
+}

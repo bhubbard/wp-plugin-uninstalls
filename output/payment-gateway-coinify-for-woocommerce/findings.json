@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_coinify_settings",
+    "pgcfw_shared_secret",
+    "woocommerce_currency",
+    "woocommerce_shop_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_cart_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pgcfw_check_coinify_payment_intent"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:48.959Z"
+}

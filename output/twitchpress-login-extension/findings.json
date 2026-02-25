@@ -1,0 +1,38 @@
+{
+  "options": [
+    "twitchpress_registration_requirevalidemail",
+    "twitchpress_automatic_registration",
+    "twitchpress_login_loggedin_page_id",
+    "twitchpress_login_loginpage_position",
+    "twitchpress_login_button",
+    "twitchpress_login_loginpage_type",
+    "twitchpress_login_requiretwitch",
+    "twitchpress_login_button_text",
+    "twitchpress_login_redirect_to_custom",
+    "twitchpress_login_mainform_page_id",
+    "twitchpress_login_messages",
+    "twitchpress_loginextension_version"
+  ],
+  "transients": [
+    "twitchpress_oauth_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "twitchpress_twitch_id",
+    "twitchpress_twitch_email",
+    "twitchpress_twitch_bio",
+    "twitchpress_twitch_created_at",
+    "twitchpress_twitch_display_name",
+    "twitchpress_twitch_email_verified",
+    "twitchpress_twitch_name",
+    "twitchpress_twitch_partnered",
+    "twitchpress_twitch_updated_at",
+    "twitchpress_auth_time",
+    "twitchpress_code",
+    "twitchpress_token",
+    "twitchpress_token_refresh"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:47.917Z"
+}

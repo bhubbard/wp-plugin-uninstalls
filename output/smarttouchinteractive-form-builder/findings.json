@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sti-settings",
+    "sti_dashboard_widget_options",
+    "sti_db_version",
+    "smart-touch-form-builder-screen-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sti-form-settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:36.023Z"
+}

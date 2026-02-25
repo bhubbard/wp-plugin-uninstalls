@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wcboost_variation_swatches_ignore_restore"
+  ],
+  "transients": [
+    "wcboost_variation_swatches_attributes",
+    "tawcvs_attribute_taxonomies",
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "color",
+    "_wc_attachment_source",
+    "image",
+    "label"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:00.469Z"
+}

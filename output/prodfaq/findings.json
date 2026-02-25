@@ -1,0 +1,16 @@
+{
+  "options": [
+    "prodfaq_position",
+    "prodfaq_design",
+    "prodfaq_enabled",
+    "prodfaq_hide_out_of_stock"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_prodfaq_items"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:42.375Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dynvid_use_featured_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dynvid_video_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:38.286Z"
+}

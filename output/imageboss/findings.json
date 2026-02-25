@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ibup_plugin_redirect",
+    "ibup_imageboss_active",
+    "ibup_imageboss_lazyload_active",
+    "ibup_imageboss_hosts",
+    "ibup_imageboss_source"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:28.828Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gcs_api_key",
+    "gcs_cse_id",
+    "gcs_search_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:50.857Z"
+}

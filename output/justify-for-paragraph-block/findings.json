@@ -1,0 +1,15 @@
+{
+  "options": [
+    "jfpb_justification_mode",
+    "jfpb_enable_hyphens",
+    "jfpb_word_spacing",
+    "jfpb_word_spacing_custom_value",
+    "jfpb_word_spacing_custom_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:26.169Z"
+}

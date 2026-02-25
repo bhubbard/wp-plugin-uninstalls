@@ -1,0 +1,12 @@
+{
+  "options": [
+    "replace_contents_logs",
+    "replace_contents_max_execution_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:34.991Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "safelayout_icons_social_options",
+    "safelayout_icons_options_rate",
+    "safelayout_icons_options_upgrade",
+    "safelayout_icons_packs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "safelayout_menu_icon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:11.042Z"
+}

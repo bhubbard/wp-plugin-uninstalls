@@ -1,0 +1,22 @@
+{
+  "options": [
+    "embed_videos_autoplay",
+    "embed_videos_rel",
+    "embed_videos_showinfo",
+    "embed_videos_disablekb",
+    "embed_videos_fs",
+    "embed_videos_controls",
+    "embed_videos_hd",
+    "woocommerce_enable_lightbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "videolink_id",
+    "video_site",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:05.927Z"
+}

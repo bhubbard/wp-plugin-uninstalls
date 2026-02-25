@@ -1,0 +1,28 @@
+{
+  "options": [
+    "elex_ppct_check_field",
+    "elex_ppct_select_all_pages_value",
+    "elex_ppct_pages",
+    "elex_ppct_prefix_field",
+    " elex_ppct_suffix_field",
+    "elex_ppct_discount_type",
+    "elex_ppct_discount_amount",
+    "ppct_general_settings",
+    "elex_ppct_suffix_field",
+    "elex_ppct_migration",
+    "elex_ppct_discount_percent",
+    "elex_ppct_customization_data",
+    "elex_ppct_select_all_categories_id",
+    "elex_ppct_categories",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:01.081Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "philips_hue_settings"
+  ],
+  "transients": [
+    "codex_nas_lighting_lights",
+    "codex_nas_lighting_lights_raw",
+    "codex_nas_lighting_sensors",
+    "codex_nas_lighting_sensors_raw"
+  ],
+  "cron_jobs": [
+    "codex_nas_lighting_lights_job",
+    "codex_nas_lighting_sensors_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:29.319Z"
+}

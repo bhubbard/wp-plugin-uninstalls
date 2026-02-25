@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wptb_admin_menu",
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES",
+    "*ense_key",
+    "*icense_status",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "*-transients",
+    "*_color_scheme",
+    "redux_custom_font_current",
+    "woocommerce_shop_page_id",
+    "auto_update_redux_google_fonts"
+  ],
+  "transients": [
+    "*-transient",
+    "*-transients-metaboxes",
+    "*-transients-taxonomy",
+    "*-transients-users"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ignore_*",
+    "ignore_hints",
+    "_visibility",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:09.231Z"
+}

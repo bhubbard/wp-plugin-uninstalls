@@ -1,0 +1,16 @@
+{
+  "options": [
+    "stdl_settings",
+    "stdl_plugin_install_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stdl_metabox_details",
+    "stdl_hide_review_notice",
+    "stdl_remind_later_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:20.665Z"
+}

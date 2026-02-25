@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_jobs_level",
+    "_jobs_sector",
+    "_jobs_hours",
+    "_jobs_headquarters",
+    "_service_icon",
+    "_service_text",
+    "_person_role",
+    "_testimony",
+    "_person_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:14.671Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "WpFastestCacheExclude",
+    "settings_activecampaign",
+    "forms_for_campaign_monitor_forms",
+    "*_last_queried",
+    "convertkit_version",
+    "_wp_convertkit_settings_restrict_content",
+    "ck_code_verifier",
+    "*-review-request",
+    "*-review-dismissed"
+  ],
+  "transients": [
+    "doing_cron",
+    "convertkit-setup"
+  ],
+  "cron_jobs": [
+    "convertkit_refresh_token",
+    "convertkit_resource_refresh_*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_convertkit_broadcast_export_id",
+    "_thumbnail_id",
+    "_wp_attachment_image_alt",
+    "_convertkit_broadcast_id",
+    "_convertkit_convertkit_form",
+    "ck_default_form",
+    "_convertkit_action_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:00.760Z"
+}

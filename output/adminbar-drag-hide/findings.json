@@ -1,0 +1,16 @@
+{
+  "options": [
+    "adh_*",
+    "adh_drag",
+    "adh_position",
+    "adh_hidebtn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "adh_use_menu_plugin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:55.628Z"
+}

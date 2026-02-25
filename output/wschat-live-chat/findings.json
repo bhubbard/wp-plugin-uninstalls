@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again",
+    "*_unique_product_id",
+    "*_licence_key",
+    "*_instance_id",
+    "*_activation_status",
+    "active_sitewide_plugins",
+    "wschat_activation_status",
+    "wschat_geo_ip_ttl"
+  ],
+  "transients": [
+    "wschat-admin-pusher-notice-status",
+    "update_core",
+    "random_seed",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wschat_online_status",
+    "wp_capabilities"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:01.942Z"
+}

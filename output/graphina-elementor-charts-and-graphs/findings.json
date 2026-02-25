@@ -1,0 +1,19 @@
+{
+  "options": [
+    "graphina_mysql_database_setting",
+    "graphina_common_setting"
+  ],
+  "transients": [
+    "graphina_pro_db_tables",
+    "graphina_pro_external_db_tables",
+    "graphina-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:44.188Z"
+}

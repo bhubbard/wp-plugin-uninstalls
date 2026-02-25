@@ -1,0 +1,18 @@
+{
+  "options": [
+    "topbuddy_active_bars",
+    "topbuddy_global_options",
+    "topbuddy_installed_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_topbuddy_components",
+    "_topbuddy_nb_bar_settings",
+    "_topbuddy_display_rules",
+    "_elementor_template_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:47.961Z"
+}

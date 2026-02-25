@@ -1,0 +1,13 @@
+{
+  "options": [
+    "downloadcountwoo_only_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dlcwoo_downloads"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:54.589Z"
+}

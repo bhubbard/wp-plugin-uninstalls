@@ -1,0 +1,18 @@
+{
+  "options": [
+    "oa_single_sign_on_settings",
+    "oa_single_sign_welcome_read",
+    "oa_single_sign_on_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "oa_single_sign_on_user_token",
+    "oa_single_sign_on_identity_token",
+    "oa_single_sign_on_sso_session_token",
+    "oa_single_sign_on_sso_session_token_expiration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:23.444Z"
+}

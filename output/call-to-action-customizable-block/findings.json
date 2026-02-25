@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cta_custom_block_notice_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cta_custom_block_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:04.249Z"
+}

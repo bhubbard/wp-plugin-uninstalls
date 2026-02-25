@@ -1,0 +1,17 @@
+{
+  "options": [
+    "freeworldhtml5map_options",
+    "freeworldhtml5map_goptions",
+    "freeworldhtml5map_imported_map_key",
+    "freeworldcontinenthtml5map_map_data",
+    "freeworldcontinenthtml5map_nameColor",
+    "freeworldcontinenthtml5map_nameFontSize",
+    "freeworldcontinenthtml5map_state_info_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:54.019Z"
+}

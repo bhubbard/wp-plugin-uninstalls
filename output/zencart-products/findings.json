@@ -1,0 +1,20 @@
+{
+  "options": [
+    "zenfpd_dbuser",
+    "zenfpd_dbpwd",
+    "zenfpd_dbname",
+    "zenfpd_dbhost",
+    "zenfpd_prefix",
+    "zenfpd_image_width",
+    "zenfpd_image_height",
+    "zenfpd_store_url",
+    "zenfpd_prod_img_folder",
+    "zenfpd_new_product_days"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:29.933Z"
+}

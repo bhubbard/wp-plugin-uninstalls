@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "custom_cgpr_google_palce_reviews_*",
+    "custom_google_palce_photo_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "google_api_key",
+    "google_palce_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:39.579Z"
+}

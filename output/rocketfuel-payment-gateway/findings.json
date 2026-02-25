@@ -1,0 +1,19 @@
+{
+  "options": [
+    "rkfl_partial_payment_cache_*",
+    "woocommerce_rocketfuel_gateway_settings",
+    "woocommerce_custom_orders_table_enabled"
+  ],
+  "transients": [
+    "rkfl_suppress_release_*"
+  ],
+  "cron_jobs": [
+    "rkfl_order_webhook_creation_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rocketfuel_temp_orderid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:54.480Z"
+}

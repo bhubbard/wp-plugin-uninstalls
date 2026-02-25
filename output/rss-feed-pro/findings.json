@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rssfp-meta-feed-url",
+    "rssfp-meta-sort-by",
+    "rfp_notice_clicked",
+    "rfp_notice_last_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:37.260Z"
+}

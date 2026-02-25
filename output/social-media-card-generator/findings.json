@@ -1,0 +1,19 @@
+{
+  "options": [
+    "socialmcg_title_font_size",
+    "socialmcg_description_font_size",
+    "socialmcg_title_y_position",
+    "socialmcg_description_y_position",
+    "socialmcg_output_format",
+    "socialmcg_jpeg_quality",
+    "socialmcg_template_image_id"
+  ],
+  "transients": [
+    "socialmcg_font_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:32.074Z"
+}

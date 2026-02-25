@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('auto_form_builder_remove_data_on_uninstall', 'auto_form_builder_show_in_admin_bar', 'auto_form_builder_data_retention_period', 'auto_form_builder_enable_ip_anonymization', 'auto_form_builder_gdpr_compliance_mode', 'auto_form_builder_auto_delete_old_data', 'auto_form_builder_privacy_policy_link', 'auto_form_builder_roadmap_consent', 'auto_form_builder_google_sheets_settings', 'auto_form_builder_admin_email', 'auto_form_builder_timezone', 'auto_form_builder_debug_logs', 'auto_form_builder_from_name', 'auto_form_builder_from_email', 'auto_form_builder_smtp_host', 'auto_form_builder_smtp_port', 'auto_form_builder_smtp_username', 'auto_form_builder_smtp_password', 'auto_form_builder_smtp_encryption', 'auto_form_builder_address_storage_version', 'auto_form_builder_updated');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('auto_form_builder_preferences');
+DELETE FROM wp_usermeta WHERE meta_key IN ('auto_form_builder_preferences');
+DELETE FROM wp_termmeta WHERE meta_key IN ('auto_form_builder_preferences');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('auto_form_builder_preferences');
+

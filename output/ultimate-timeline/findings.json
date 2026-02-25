@@ -1,0 +1,18 @@
+{
+  "options": [
+    "weblizar_timeline_options",
+    "fa_icons"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wct_story_setting",
+    "wct_timeline_setting",
+    "fa_field_icon",
+    "wct_story_date",
+    "wct_story_timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:24.169Z"
+}

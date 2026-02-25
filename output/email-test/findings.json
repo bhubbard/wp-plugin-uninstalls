@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "sa_wp_mail_failed_reason"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:11.404Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "magicblog_features",
+    "magicblog_settings",
+    "magicblog_query_monitor",
+    "magicblog_widgets",
+    "magicblog_version",
+    "magicblog_resolved_conflicts",
+    "magicblog_compatibility_issues",
+    "magicblog_theme_compatibility_checked",
+    "magicblog_theme_test_results"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "magicblog_update_stats"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "magicblog_subheader_dismissed",
+    "magicblog_elementor_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:34.688Z"
+}

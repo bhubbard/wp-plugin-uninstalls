@@ -1,0 +1,18 @@
+{
+  "options": [
+    "zoneit_cron_backup"
+  ],
+  "transients": [
+    "zoneit_cloud_id",
+    "zoneit_restore_backup_running"
+  ],
+  "cron_jobs": [
+    "zoneit_create_user_backup_event",
+    "zoneit_create_backup_event",
+    "zoneit_restore_backup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:23.316Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_manage_stock",
+    "bux_payment_client_secret",
+    "bux_payment_client_id",
+    "bux_payment_api_key",
+    "bux_payment_default_expiry",
+    "bux_redirect_disable",
+    "bux_test_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:34.980Z"
+}

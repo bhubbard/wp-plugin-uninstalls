@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_news_letter_settings",
+    "email_subscription_popup_messages",
+    "mass_email_queue_news_subscriber",
+    "mass_email_subscribers_succ",
+    "mass_email_subscribers_err"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:07.633Z"
+}

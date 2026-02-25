@@ -1,0 +1,24 @@
+{
+  "options": [
+    "xa_dp_rules",
+    "xa_dynamic_pricing_setting",
+    "elex_dp_allowed_roles_to_show_pricing_table",
+    "dp_coupons_data",
+    "woocommerce_weight_unit",
+    "active_sitewide_plugins",
+    "xa_dp_rules_indexing_status",
+    "woocommerce_version",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again",
+    "woocommerce_tax_display_shop",
+    "woocommerce_currency",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:24.638Z"
+}

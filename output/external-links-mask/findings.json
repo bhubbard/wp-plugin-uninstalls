@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_adg_outlinks_link",
+    "_adg_outlinks_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:50.539Z"
+}

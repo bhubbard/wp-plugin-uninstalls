@@ -1,0 +1,18 @@
+{
+  "options": [
+    "floship_insurance_table_version",
+    "woocommerce_currency",
+    "wc_settings_tab_consumer_id",
+    "wc_settings_tab_show_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "insurance_certificate_link",
+    "certificate_claim_link",
+    "insurance_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:15.306Z"
+}

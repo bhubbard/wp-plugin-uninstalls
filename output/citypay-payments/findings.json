@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_citypay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "AccountNo",
+    "CityPay Paylink Token",
+    "CityPay TransNo",
+    "CityPay Identifier",
+    "Card used",
+    "_cp_attrib_authcode",
+    "_cp_attrib_amount_display",
+    "_cp_attrib_authorised_display",
+    "_cp_attrib_card_scheme",
+    "_cp_attrib_name_on_card",
+    "_cp_attrib_masked_pan",
+    "_cp_attrib_transno",
+    "_cp_attrib_datetime_iso",
+    "_cp_attrib_datetime_display"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:02.551Z"
+}

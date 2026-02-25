@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wppm_project_meta",
+    "_wppm_custom_sort",
+    "_wppm_custom_sort_end_date",
+    "_wppm_custom_sort_paid",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:48.642Z"
+}

@@ -1,0 +1,35 @@
+{
+  "options": [
+    "dolupalo_2fa_users_count",
+    "dolupalo_smtp_config_required",
+    "dolupalo_plugin_activated",
+    "smtp_host",
+    "smtp_port",
+    "smtp_username",
+    "smtp_password",
+    "smtp_auth",
+    "smtp_secure",
+    "dolupalo_enable_2fa",
+    "dolupalo_2fa_required_roles",
+    "dolupalo_enable_backup_codes",
+    "dolupalo_passwordless_timeout",
+    "dolupalo_last_otpauth_debug"
+  ],
+  "transients": [
+    "dolupalo_activation_token_*",
+    "dolupalo_token_*",
+    "dolupalo_2fa_pending_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dolutech_passwordless_token",
+    "dolupalo_passwordless_token",
+    "dolupalo_2fa_enabled",
+    "dolupalo_2fa_secret",
+    "dolupalo_backup_codes",
+    "dolupalo_2fa_secret_temp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:17.813Z"
+}

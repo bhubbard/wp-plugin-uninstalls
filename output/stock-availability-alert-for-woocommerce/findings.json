@@ -1,0 +1,14 @@
+{
+  "options": [
+    "stock_notification_threshold",
+    "stock_notification_email_templates",
+    "stock_availability_alert_installed",
+    "stock_availability_alert_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:28.232Z"
+}

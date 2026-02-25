@@ -1,0 +1,15 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "awef_toc_cache_cleared",
+    "awef_llms_written",
+    "awef_llms_write_failed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:15.405Z"
+}

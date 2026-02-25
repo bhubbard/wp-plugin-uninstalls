@@ -1,0 +1,37 @@
+{
+  "options": [
+    "awebooking_admin_notices",
+    "awebooking_room_type_permalink",
+    "awebooking_hotel_permalink",
+    "awebooking_premium_api_code",
+    "awebooking_version",
+    "awebooking_db_version"
+  ],
+  "transients": [
+    "awebooking_premium_themes",
+    "awebooking_premium_addons",
+    "_awebooking_activation_redirect",
+    "awebooking_installing",
+    "*_process_lock",
+    "_suru_libs_google_fonts"
+  ],
+  "cron_jobs": [
+    "abrs_schedule_update_checkout_status",
+    "abrs_schedule_clean_booking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_maximum_occupancy",
+    "*_notice",
+    "_hotel_id",
+    "is_customer_note",
+    "_service_operation",
+    "_operation",
+    "_service_value",
+    "_amount",
+    "_icon",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:39.900Z"
+}

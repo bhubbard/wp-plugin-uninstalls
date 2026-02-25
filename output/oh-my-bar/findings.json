@@ -1,0 +1,22 @@
+{
+  "options": [
+    "rb_enable_bar",
+    "rb_background_color",
+    "rb_foreground_color",
+    "rb_background_opacity",
+    "rb_bar_shadow",
+    "rb_bar_rounded",
+    "rb_bar_placement",
+    "rb_bar_height",
+    "rb_show_single_post",
+    "rb_show_home_page",
+    "rb_show_single_page",
+    "rb_show_archive"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:17.519Z"
+}

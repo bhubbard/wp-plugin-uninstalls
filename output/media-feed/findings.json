@@ -1,0 +1,14 @@
+{
+  "options": [
+    "media_feed_options",
+    "media_feed_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:03.431Z"
+}

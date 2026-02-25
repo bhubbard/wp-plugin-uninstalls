@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpairbnb_airbnb_settings",
+    "wpairbnb_hidden_reviews",
+    "wpairbnb_options",
+    "wpfbr_options",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpairbnb_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:23.924Z"
+}

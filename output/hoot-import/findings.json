@@ -1,0 +1,31 @@
+{
+  "options": [
+    "hootimport_admin_footer",
+    "hootimport_wc_flush",
+    "hootkit-activemods",
+    "*_page_id",
+    "newsletter_show_welcome",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [
+    "hootimport_freshpack",
+    "_mappress_activation_redirect",
+    "hootimport_idsmap_*",
+    "hootimport_idsmap_wc_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hootimport",
+    "_hootkitimport",
+    "_hash",
+    "_wp_attachment_is_custom_header",
+    "_menu-item-hybridextend_megamenu",
+    "_menu-item-hoot_megamenu",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:12.147Z"
+}

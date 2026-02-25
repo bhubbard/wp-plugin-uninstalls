@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sqlog_install",
+    "sqlog_install_date",
+    "sqlog_uninstall_date",
+    "sqlog_enabled",
+    "sqlog_purge_interval",
+    "sqlog_plugin_version",
+    "sqlog_settings_update"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sqlog_cron_process_purge_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:05.179Z"
+}

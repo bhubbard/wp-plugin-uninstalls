@@ -1,0 +1,24 @@
+{
+  "options": [
+    "echoai_assistant_image",
+    "echoai_post_types",
+    "echoai_floating_button",
+    "echoai_wp_api_key",
+    "echoai_chat_instructions",
+    "echoai_tooltip_text",
+    "echoai_greeting_message",
+    "echoai_assistant_id",
+    "echoai_debug_info",
+    "echoai_last_api_request",
+    "echoai_last_api_response",
+    "echoai_integration_errors"
+  ],
+  "transients": [
+    "echoai_pending_assistant_id"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:32.119Z"
+}

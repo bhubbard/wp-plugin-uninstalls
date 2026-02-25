@@ -1,0 +1,24 @@
+{
+  "options": [
+    "media_wipe_settings",
+    "media_wipe_activity_log",
+    "media_wipe_security_log",
+    "widget_media_image",
+    "media_wipe_version"
+  ],
+  "transients": [
+    "media_wipe_scan_progress",
+    "media_wipe_unused_results",
+    "*_delete_selected",
+    "*_delete_all",
+    "*_fetch_media"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "media_wipe_dismissed_notices",
+    "media_wipe_notification_preferences"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:52.824Z"
+}

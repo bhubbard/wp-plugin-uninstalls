@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpsf_term_*"
+  ],
+  "transients": [
+    "wpsf-mt-*",
+    "wpsf_*",
+    "wpsf-tt-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:24.160Z"
+}

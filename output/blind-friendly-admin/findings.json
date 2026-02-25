@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bastgs_settings",
+    "my_admin_theme_2_settings",
+    "bastgs_settings[bastgs_select_field_10]"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:28.902Z"
+}

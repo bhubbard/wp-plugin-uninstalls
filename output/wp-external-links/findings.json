@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wpel-version",
+    "wpel-pointers",
+    "wpel-first-install",
+    "wpel-external-link-settings",
+    "wp_external_links-main",
+    "wp_external_links-seo",
+    "wp_external_links-style",
+    "wp_external_links-extra",
+    "wp_external_links-screen",
+    "wp_external_links-meta",
+    "wpel-internal-link-settings",
+    "wpel-excluded-link-settings",
+    "wpel-exceptions-settings",
+    "wpel-admin-settings",
+    "wpel-network-settings",
+    "wpel-network-admin-settings",
+    "wpel-show-notice",
+    "wpel-notice-dismissed-rate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:27.767Z"
+}

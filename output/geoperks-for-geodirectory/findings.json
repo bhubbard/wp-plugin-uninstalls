@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_perks_settings",
+    "*_license_active",
+    "exup_keys"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wp_perks_weekly_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:45.995Z"
+}

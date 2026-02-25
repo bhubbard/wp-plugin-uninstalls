@@ -1,0 +1,49 @@
+{
+  "options": [
+    "ngg_wizard",
+    "nextgen_over_time",
+    "pope_module_list",
+    "hide_am_notices",
+    "ngg_options",
+    "ngg_license_status_*",
+    "ngg_license_level_*",
+    "ngg_last_license_check",
+    "ngg_license_expiration_*",
+    "ngg_options_version",
+    "envira_cdn_config",
+    "ngg_admin_menu_tooltip",
+    "ngg_onboarding_data",
+    "photocrati_license_default",
+    "ngg_init_check",
+    "ngg_update_exists",
+    "ngg_db_version",
+    "ngg_next_update",
+    "ngg_ftp_root_path",
+    "ngg_api_execution_lock",
+    "ngg_api_job_list",
+    "imagely_dates_migrated",
+    "ngg_transient_groups",
+    "photocrati_cache_tracker",
+    "nextgen_usage_tracking_last_checkin",
+    "nextgen_usage_tracking_config"
+  ],
+  "transients": [
+    "ngg-activated",
+    "dirsize_cache"
+  ],
+  "cron_jobs": [
+    "ngg_delete_expired_transients",
+    "nextgen_admin_notifications_update",
+    "nextgen_usage_tracking_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ngg_image_id",
+    "_thumbnail_id",
+    "nextgen_api_token",
+    "_wp_attachment_image_alt",
+    "pricelist_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:30.891Z"
+}

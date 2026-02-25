@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*lowStockValue",
+    "*addStockNumber"
+  ],
+  "transients": [
+    "stock_manager_notification"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stock",
+    "_stock_status",
+    "_regular_price",
+    "_sale_price",
+    "_price",
+    "_sku",
+    "_manage_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:59.934Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "request_id",
+    "checkout_request_id",
+    "mpesa_transaction_time",
+    "sender_msisdn",
+    "sender_first_name",
+    "sender_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:55.879Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "award-force-sso-installation-domain",
+    "award-force-sso-api-key",
+    "award-force-access-token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "award-force-slug"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:29.850Z"
+}

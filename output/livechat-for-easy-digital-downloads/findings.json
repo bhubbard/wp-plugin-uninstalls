@@ -1,0 +1,18 @@
+{
+  "options": [
+    "livechat_edd_license",
+    "livechat_edd_email",
+    "livechat_edd_cartDetails",
+    "livechat_edd_disableMobile",
+    "livechat_edd_disableGuests",
+    "livechat_edd_review_notice_start_timestamp",
+    "livechat_edd_review_notice_start_timestamp_offset",
+    "livechat_edd_review_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:58.185Z"
+}

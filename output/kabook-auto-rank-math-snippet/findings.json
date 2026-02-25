@@ -1,0 +1,14 @@
+{
+  "options": [
+    "karms_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_schema_id",
+    "_karms_auto_inject_override"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:23.522Z"
+}

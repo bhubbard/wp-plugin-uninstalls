@@ -1,0 +1,22 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('vp_woo_pont_cod_fees', 'woocommerce_vp_pont_settings', 'pickup_location_pickup_locations', 'vp_woo_pont_home_delivery', 'vp_woo_pont_automations', 'vp_woo_pont_styles', 'vp_woo_pont_custom_icon', 'woocommerce_dimension_unit', 'vp_woo_pont_enabled_providers', 'vp_woo_pont_pricing', 'vp_woo_pont_weight_corrections', 'woocommerce_weight_unit', 'vp_woo_pont_notes', 'vp_woo_pont_packeta_countries', 'vp_woo_pont_gls_countries', 'vp_woo_pont_dpd_countries', 'vp_woo_pont_sameday_countries', '_vp_woo_pont_pro_enabled', 'vp_woo_pont_packagings', 'vp_woo_pont_kvikk_courier_details', 'vp_woo_pont_packeta_carriers', 'vp_woo_pont_posta_countries', 'vp_woo_pont_pactic_external_providers', 'vp_woo_pont_tracking_automations', 'vp_woo_pont_points', 'woocommerce_feature_custom_order_tables_enabled', 'woocommerce_custom_orders_table_enabled', 'vp_woo_pont_version_number', 'vp_woo_pont_show_upgrade_notice_400', 'vp_woo_pont_free_shipping', 'woocommerce_vp_pont_settings_old', 'vp_woo_pont_cod_disabled', '_vp_woo_pont_db_postapont_posta', '_vp_woo_pont_walkthrough_finished', 'woocommerce_pickup_location_settings', 'vp_woo_pont_kvikk_countries', 'vp_woo_pont_kvikk_pricing_file', '_vp_woo_pont_hide_kvikk_info_v2', 'vp_woo_pont_kvikk_foxpost_type_selected', '_packeta_pickup_point_carriers', '_packeta_home_delivery_carriers', 'vp_woo_pont_free_shipping_coupon', 'vp_woo_pont_custom_title', 'vp_woo_pont_show_on_cart', 'vp_woo_pont_show_open_hours', 'vp_woo_pont_show_on_change', 'vp_woo_pont_filter_checkbox', 'vp_woo_pont_small_icons', 'active_sitewide_plugins', 'vp_woo_pont_custom_button_label');
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_email_base_color', 'vp_woo_pont_csomagpiac_pickup_points', 'vp_woo_pont_kvikk_senders', '_vp_woo_pont_posta_access_token', '_vp_woo_pont_sameday_access_token', 'vp_woo_pont_sameday_pickup_points');
+DELETE FROM wp_options WHERE option_name LIKE 'vp_woo_pont_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_webhook_url';
+DELETE FROM wp_options WHERE option_name LIKE '_vp_woo_pont_db_%';
+DELETE FROM wp_options WHERE option_name LIKE '_vp_woo_pont_file_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_pro_enabled';
+DELETE FROM wp_options WHERE option_name LIKE '%_pro_key';
+DELETE FROM wp_options WHERE option_name LIKE '%_pro_meta';
+DELETE FROM wp_options WHERE option_name LIKE '%_labels';
+DELETE FROM wp_options WHERE option_name LIKE '%_enabled';
+DELETE FROM wp_options WHERE option_name LIKE 'vp_woo_pont_show_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_vp_woo_pont_point_id', 'vp_woo_pont_packeta_age_verification', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_country', 'shipping_state', 'vp_woo_pont_admin_notices');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_vp_woo_pont_point_id', 'vp_woo_pont_packeta_age_verification', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_country', 'shipping_state', 'vp_woo_pont_admin_notices');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_vp_woo_pont_point_id', 'vp_woo_pont_packeta_age_verification', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_country', 'shipping_state', 'vp_woo_pont_admin_notices');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_vp_woo_pont_point_id', 'vp_woo_pont_packeta_age_verification', 'shipping_address_1', 'shipping_address_2', 'shipping_city', 'shipping_postcode', 'shipping_country', 'shipping_state', 'vp_woo_pont_admin_notices');
+

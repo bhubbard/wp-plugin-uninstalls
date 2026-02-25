@@ -1,0 +1,27 @@
+{
+  "options": [
+    "monft_tokenid_to_owner"
+  ],
+  "transients": [
+    "monft_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mo_nft_collection_banner_image",
+    "mo_nft_collection_profile_image",
+    "mo_nft_collection_description",
+    "mo_nft_collection_name",
+    "_monft_nft_listed",
+    "_product_attributes",
+    "_monft_nft_contract_address",
+    "_thumbnail_id",
+    "_monft_listed_signed_voucher",
+    "_monft_nft",
+    "_stock",
+    "_stock_status",
+    "monft_metadata_cid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:32.795Z"
+}

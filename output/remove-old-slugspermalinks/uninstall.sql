@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('alg_slugs_manager_plugin_version', 'alg_remove_old_slugs_on_save_post_enabled', 'alg_remove_old_slugs_cron_interval', 'alg_sm_regenerate_slugs_post_types', 'active_sitewide_plugins');
+

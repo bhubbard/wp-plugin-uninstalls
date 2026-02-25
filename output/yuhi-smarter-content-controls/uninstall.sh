@@ -1,0 +1,23 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'yuhi_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_yuhi_sunset_on'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_yuhi_sunset_on'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_yuhi_sunset_on'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_yuhi_sunset_on'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_yuhi_replacement_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_yuhi_replacement_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_yuhi_replacement_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_yuhi_replacement_url'"

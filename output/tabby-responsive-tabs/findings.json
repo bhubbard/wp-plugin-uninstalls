@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cc_tabby_default_styles",
+    "cc_tabby_tab_title_element",
+    "cc_tabby_fa_icon_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:14.398Z"
+}

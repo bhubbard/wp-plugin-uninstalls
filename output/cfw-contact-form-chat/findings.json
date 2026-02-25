@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cfwchat_phone",
+    "_cfwchat_fields",
+    "_cfwchat_bg_color",
+    "_cfwchat_text_color",
+    "_cfwchat_button_color",
+    "_cfwchat_button_hover"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:46.981Z"
+}

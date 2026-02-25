@@ -1,0 +1,16 @@
+{
+  "options": [
+    "jr_mt_settings",
+    "jr_mt_internal_settings",
+    "jr_mt_all_themes"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_tab"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:37.109Z"
+}

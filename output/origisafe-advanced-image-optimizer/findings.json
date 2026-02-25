@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hsbc_webp_clean_sweep_originals_cursor"
+  ],
+  "transients": [
+    "hsbc_webp_job_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:21.895Z"
+}

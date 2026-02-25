@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_ccfm_style_timestamp_theme",
+    "_ccfm_style_timestamp_*",
+    "ccfm_options",
+    "_ccfm_stats"
+  ],
+  "transients": [
+    "ccfm_hosting_notice",
+    "ccfm_hosting_notice "
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:06.433Z"
+}

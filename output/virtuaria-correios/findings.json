@@ -1,0 +1,34 @@
+{
+  "options": [
+    "virtuaria_correios_installed",
+    "virtuaria_correios_error_token",
+    "virtuaria_correios_contract",
+    "virtuaria_correios_nsu",
+    "woocommerce_store_postcode",
+    "virtuaria_correios_settings",
+    "virtuaria_correios_extra_fields_settings",
+    "virtuaria_correios_display_install",
+    "woocommerce_correios-integration_settings",
+    "woocommerce_custom_orders_table_enabled",
+    "*_settings",
+    "woocommerce_specific_allowed_countries",
+    "woocommerce_ship_to_countries",
+    "virtuaria_contract_info_fixed"
+  ],
+  "transients": [
+    "virtuaria_correios_authenticated",
+    "virtuaria_correios_token",
+    "virtuaria_correios_prepost_error",
+    "virtuaria_correios_contract",
+    "virtuaria_correios_declaration_error",
+    "virtuaria_correios_checkout_authenticated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_number",
+    "*_neighborhood"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:49.038Z"
+}

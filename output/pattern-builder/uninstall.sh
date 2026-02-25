@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_pattern_sync_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_pattern_sync_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_pattern_sync_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_pattern_sync_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_pattern_block_types'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_pattern_block_types'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_pattern_block_types'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_pattern_block_types'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_pattern_template_types'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_pattern_template_types'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_pattern_template_types'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_pattern_template_types'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_pattern_post_types'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_pattern_post_types'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_pattern_post_types'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_pattern_post_types'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_pattern_keywords'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_pattern_keywords'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_pattern_keywords'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_pattern_keywords'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_pattern_inserter'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_pattern_inserter'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_pattern_inserter'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_pattern_inserter'"

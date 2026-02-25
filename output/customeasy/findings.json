@@ -1,0 +1,17 @@
+{
+  "options": [
+    "lcce_global_head_code",
+    "lcce_global_footer_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lcce_head_code",
+    "jph_head_code",
+    "lcce_footer_code",
+    "jph_footer_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:13.422Z"
+}

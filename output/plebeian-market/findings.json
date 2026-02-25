@@ -1,0 +1,14 @@
+{
+  "options": [
+    "plebeian_market_auth_key",
+    "plebeian_market_url_connect",
+    "plebeian_market_cutomization_css",
+    "plebeian_market_cutomization_js"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:22.188Z"
+}

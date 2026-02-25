@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pt_splitter_options"
+  ],
+  "transients": [
+    "pt_splitter_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pt_splitter_output"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:20.331Z"
+}

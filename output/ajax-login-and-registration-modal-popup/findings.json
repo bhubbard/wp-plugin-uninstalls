@@ -1,0 +1,28 @@
+{
+  "options": [
+    "lrm_*",
+    "lrm_general",
+    "lrm_advanced",
+    "lrm_messages",
+    "lrm_mails",
+    "lrm_beg_message",
+    "lrm-forms-init",
+    "lrm_general_pro",
+    "lrm_auto_trigger",
+    "lrm_integrations",
+    "lrm_messages_pro",
+    "lrm_pro_version",
+    "*]",
+    "fv_notices"
+  ],
+  "transients": [
+    "*_updating"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-last-login"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:11.828Z"
+}

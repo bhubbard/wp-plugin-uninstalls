@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "fast_aweber_refresh_token_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "ff_auto_reponder",
+    "aweber_list_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:20.449Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ko_fi_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kofi_display_floating_button"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:10.566Z"
+}

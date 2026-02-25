@@ -1,0 +1,22 @@
+{
+  "options": [
+    "oa_social_login_settings",
+    "oa_social_login_activation_message",
+    "oa_social_login_hide_rate_message",
+    "oa_social_login_postpone_rate_message",
+    "oa_social_login_api_settings_verified"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "oa_social_login_identity_provider",
+    "oa_social_login_user_token",
+    "description",
+    "oa_social_login_request_email",
+    "oa_social_login_user_thumbnail",
+    "oa_social_login_user_picture"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:47.938Z"
+}

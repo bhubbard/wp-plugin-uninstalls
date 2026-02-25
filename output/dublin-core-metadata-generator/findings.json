@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dublincore_metadata_generator_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:02.599Z"
+}

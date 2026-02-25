@@ -1,0 +1,21 @@
+{
+  "options": [
+    "delicious-curator-maxitems",
+    "delicious-curator-delicious-user",
+    "delicious-curator-delicious-tag",
+    "delicious-curator-author",
+    "delicious-curator-category",
+    "delicious-curator-tags",
+    "delicious-curator-post-title",
+    "delicious-curator-header",
+    "delicious-curator-footer",
+    "delicious-curator-item",
+    "delicious-curator-prev-max-date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:04.657Z"
+}

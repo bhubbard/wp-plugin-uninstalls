@@ -1,0 +1,14 @@
+{
+  "options": [
+    "msov_track_enabled",
+    "msov_conversation_params",
+    "msov_enabled",
+    "msov_verification_params"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:18.926Z"
+}

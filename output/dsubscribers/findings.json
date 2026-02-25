@@ -1,0 +1,18 @@
+{
+  "options": [
+    "jal_db_version",
+    "dsubscribers_unsubscribed_msg",
+    "dsubscribers_dont_exists_msg",
+    "dsubscribers_exists_msg",
+    "dsubscribers_send_checkbox",
+    "dsubscribers_message_block",
+    "dsubscribers_subscribed_msg",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:03.023Z"
+}

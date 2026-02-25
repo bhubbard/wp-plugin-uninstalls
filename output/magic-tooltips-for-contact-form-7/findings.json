@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mtfcf7_tooltip_generator",
+    "mtfcf7_settings",
+    "mtfcf7_install"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ignore_mtfcf7_ag_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:37.129Z"
+}

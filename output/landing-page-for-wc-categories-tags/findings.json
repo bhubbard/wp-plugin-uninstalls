@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wc_landing_page_for_category_tag_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_lp_categories_top_description",
+    "wc_lp_categories_bottom_description",
+    "wc_lp_tags_top_description",
+    "wc_lp_tags_bottom_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:37.349Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "misgallerydata",
+    "mis_gallery",
+    "mis_global_trans",
+    "mis_easing",
+    "mis_align",
+    "mis_height",
+    "mis_width",
+    "mis_controls",
+    "mis_focus",
+    "mis_nav",
+    "mis_autoplay",
+    "mis_navkey",
+    "mis_fullscreen",
+    "mis_random",
+    "mis_stopover",
+    "mis_lrnav",
+    "mis_preview",
+    "mis_progressbar",
+    "mis_label",
+    "mis_interval",
+    "mis_velocity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:36.172Z"
+}

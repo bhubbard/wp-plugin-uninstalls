@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_hcgroup_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_iddespacho_hcgroup",
+    "_tracking_number",
+    "_cart_total_weight"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:02.037Z"
+}

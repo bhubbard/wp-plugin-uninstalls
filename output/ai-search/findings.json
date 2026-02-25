@@ -1,0 +1,39 @@
+{
+  "options": [
+    "ai_search_custom_fields_*",
+    "ai_search_woocommerce_fields",
+    "ai_search_provider",
+    "ai_search_service_token",
+    "ai_search_show_setup_wizard",
+    "ai_search_setup_completed",
+    "ai_search_api_key",
+    "ai_search_similarity_threshold",
+    "ai_search_searchable_post_types",
+    "ai_search_badge_public",
+    "ai_search_openai_model",
+    "ai_search_hybrid_enabled",
+    "ai_search_hybrid_balance",
+    "ai_search_highlight_enabled"
+  ],
+  "transients": [
+    "ai_search_processed_titles",
+    "ai_search_validation_data",
+    "ai_search_validation_error",
+    "ai_search_quota_error",
+    "ai_search_quota_api_error",
+    "ai_search_embedding_*",
+    "ai_search_used_fallback",
+    "ai_search_no_results",
+    "ai_search_activation_redirect",
+    "ai_search_vocabulary"
+  ],
+  "cron_jobs": [
+    "ai_search_rebuild_vocabulary"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ai_search_embedding"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:03.265Z"
+}

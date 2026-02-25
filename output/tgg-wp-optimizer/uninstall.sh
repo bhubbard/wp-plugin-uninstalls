@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wpotgg_emojis'
+wp option delete 'wpotgg_blocks_css'
+wp option delete 'wpotgg_duotone'
+wp option delete 'wpotgg_wlwlink'
+wp option delete 'wpotgg_rsdlink'
+wp option delete 'wpotgg_wpgen'
+wp option delete 'wpotgg_feedlinks'
+wp option delete 'wpotgg_restlink'
+wp option delete 'wpotgg_oembed'
+wp option delete 'wpotgg_shortlink'
+wp option delete 'wpotgg_prefetch'
+wp option delete 'wpotgg_autosave'
+wp option delete 'wpotgg_moderation_links'
+wp option delete 'wpotgg_redirect'
+wp option delete 'wpotgg_classiceditor'
+wp option delete 'wpotgg_classicwidgets'
+wp option delete 'wpotgg_xmlrpc'
+wp option delete 'wpotgg_urlfield'
+wp option delete 'wpotgg_authorsitemap'
+wp option delete 'wpotgg_categorysitemap'
+wp option delete 'wpotgg_imagemeta'
+wp option delete 'wpotgg_emailverification'
+wp option delete 'wpotgg_excerptmore'
+wp option delete 'wpotgg_excerptlength'
+wp option delete 'wpotgg_trash'
+wp option delete 'wpotgg_revisions'
+

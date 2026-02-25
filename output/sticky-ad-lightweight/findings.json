@@ -1,0 +1,23 @@
+{
+  "options": [
+    "sticky_ad_lightweight_auto_hide_delay",
+    "sticky_ad_lightweight_schedule_start",
+    "sticky_ad_lightweight_schedule_end",
+    "sticky_ad_lightweight_close_button_type",
+    "sticky_ad_lightweight_close_button_image",
+    "sticky_ad_lightweight_close_button_text",
+    "sticky_ad_lightweight_close_button_svg",
+    "sticky_ad_lightweight_display_mobile",
+    "sticky_ad_lightweight_display_desktop",
+    "sticky_ad_lightweight_ad_code",
+    "sticky_ad_lightweight_display_top",
+    "sticky_ad_lightweight_display_bottom",
+    "sticky_ad_lightweight_background_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:51.654Z"
+}

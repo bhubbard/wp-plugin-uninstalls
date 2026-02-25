@@ -1,0 +1,47 @@
+{
+  "options": [
+    "jitsi_opt_select_api",
+    "jitsi_opt_free_domain",
+    "jitsi_opt_width",
+    "jitsi_opt_height",
+    "jitsi_opt_start_local_audio_muted",
+    "jitsi_opt_startWithVideoMuted",
+    "jitsi_opt_startScreenSharing",
+    "jitsi_opt_invite",
+    "jitsi_opt_app_id",
+    "*private_key",
+    "*api_key",
+    "*app_id",
+    "webinar-and-video-conference-with-jitsi-meet_allow_tracking",
+    "jitsi_meet_wp_review_notice_interval",
+    "jitsi_meet_wp_affiliate_notice_interval",
+    "jitsi_meet_welcome_redirect",
+    "jitsi_pro_activate",
+    "jitsi_ultimate_activate",
+    "jitsi_pro_license_is_valid",
+    "jitsi_ultimate_license_is_valid",
+    "jitsi_opt_api_key",
+    "jitsi_opt_private_key",
+    "jitsi_opt_user_avatar",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "active_sitewide_plugins",
+    "jitsi_meet_wp_install_time"
+  ],
+  "transients": [
+    "jitsi_saved_jwt",
+    "jitsi_meet_wp_review_notice_interval",
+    "jitsi_meet_wp_affiliate_notice_interval"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "jitsi_hosted_topbar_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:35.682Z"
+}

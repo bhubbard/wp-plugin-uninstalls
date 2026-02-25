@@ -1,0 +1,29 @@
+{
+  "options": [
+    "rc_db_version",
+    "rc_linktext",
+    "rc_beforelink",
+    "rc_afterlink",
+    "rc_cookie_days",
+    "rc_threshold",
+    "rc_textarea_msg",
+    "rc_allow_reporter_comment",
+    "rc_success",
+    "rc_already",
+    "rc_failure",
+    "rc_enable_email",
+    "rc_email",
+    "rc_email_subject",
+    "rc_email_msg",
+    "rc_publickey",
+    "rc_privatekey",
+    "rc_valid_error",
+    "rc_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:00.177Z"
+}

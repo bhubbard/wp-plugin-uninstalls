@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_php_error_log",
+    "*_js_error_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "logtastic_scheduled_task_process_php_error_log_retention_schedule",
+    "logtastic_scheduled_task_process_js_error_log_retention_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:25.642Z"
+}

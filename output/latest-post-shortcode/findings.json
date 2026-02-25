@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lps-classic-exclude-role",
+    "widget_custom_html",
+    "lps-assets-all",
+    "lps-legacy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:52.869Z"
+}

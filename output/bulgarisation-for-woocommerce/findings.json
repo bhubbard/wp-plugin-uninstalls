@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woo_bg_boxnow_message_dismiss",
+    "woocommerce_bacs_accounts",
+    "woocommerce_dimension_unit",
+    "woocommerce_enable_shipping_calc"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woo_bg/boxnow/clear_cache_folder",
+    "woo_bg/cvc/clear_cache_folder",
+    "woo_bg/econt/clear_cache_folder",
+    "woo_bg/speedy/clear_cache_folder",
+    "woo_bg/submit_stats"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_vat_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:24.752Z"
+}

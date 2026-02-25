@@ -1,0 +1,16 @@
+{
+  "options": [
+    "f12_floating_menu_settings",
+    "*_settings",
+    "*-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_floating_settings",
+    "_floating_links"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:58.800Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "geot_settings",
+    "geot_version",
+    "geot_*",
+    "geot_plugin_updated",
+    "geot_rate_plugin",
+    "geot_pro_settings",
+    "geot_pro_addons",
+    "geot_flush"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "geot_maxmind_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "geot_options",
+    "geot_countries"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:12.617Z"
+}

@@ -1,0 +1,43 @@
+{
+  "options": [
+    "woocommerce_manage_stock",
+    "woocommerce_myaccount_edit_address_endpoint",
+    "woocommerce_subscriptions_multiple_purchase",
+    "woocommerce_plationline_additional_settings",
+    "woocommerce_plationline_settings",
+    "woocommerce_plationline_recurrence_settings",
+    "woocommerce_plationline_woocommerce_subscriptions_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name",
+    "billing_company",
+    "billing_address_1",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "billing_email",
+    "billing_phone",
+    "shipping_first_name",
+    "shipping_last_name",
+    "shipping_company",
+    "shipping_address_1",
+    "shipping_city",
+    "shipping_postcode",
+    "shipping_country",
+    "shipping_state",
+    "plationline_redirect_url",
+    "_transaction_id",
+    "plationline_status_history",
+    "_plationline_recurrence_master_order_id",
+    "_plationline_recurrence_master_transaction_id",
+    "_plationline_transaction_type",
+    "_plationline_enable_recurrence"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:49.831Z"
+}

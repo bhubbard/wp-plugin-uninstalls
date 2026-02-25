@@ -1,0 +1,76 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ppma_activated', 'active_sitewide_plugins', 'ppma_author_categories_installed', 'ppma_author_categories_meta_installed', 'ppma_author_categories_cap_upgrade', 'publishpress_multiple_authors_byline_migrated_posts', 'publishpress_multiple_authors_bylines_migrated_posts', 'publishpress_authors_dismiss_molongui_authorship_migration_notice', 'publishpress_multiple_authors_settings_migrated_3_0_0', 'publishpress_multiple_authors_options', 'multiple_authors_multiple_authors_options', 'publishpress_multiple_authors_usernicename_sync', 'publishpress_authors_dismiss_coauthors_migration_notice', 'publishpress_authors_dismiss_permissions_sync_notice', 'publishpress_authors_not_compatible_yoast_warning', 'ppma_flush_rewrite_rules', 'publishpress_authors_sync_post_author_ids', 'publishpress_authors_sync_author_slug_ids');
+DELETE FROM wp_options WHERE option_name LIKE '%_options';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_page_template', 'avatar', 'ppmacf_show_in_rest', 'user_id', 'user_email', '_wp_attachment_image_alt', 'ppma_selected_author_box', 'ppma_disable_author_box', 'description', 'first_name', 'last_name', 'user_url', 'ppma_post_migrated', 'job_title', 'molongui_guest_author_id', 'cap-display_name', 'cap-first_name', 'cap-last_name', 'cap-user_email', 'cap-website', 'cap-description', '_thumbnail_id', 'ppmacf_social_profile', 'ppmacf_type', 'ppmacf_schema_property');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_page_template', 'avatar', 'ppmacf_show_in_rest', 'user_id', 'user_email', '_wp_attachment_image_alt', 'ppma_selected_author_box', 'ppma_disable_author_box', 'description', 'first_name', 'last_name', 'user_url', 'ppma_post_migrated', 'job_title', 'molongui_guest_author_id', 'cap-display_name', 'cap-first_name', 'cap-last_name', 'cap-user_email', 'cap-website', 'cap-description', '_thumbnail_id', 'ppmacf_social_profile', 'ppmacf_type', 'ppmacf_schema_property');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_page_template', 'avatar', 'ppmacf_show_in_rest', 'user_id', 'user_email', '_wp_attachment_image_alt', 'ppma_selected_author_box', 'ppma_disable_author_box', 'description', 'first_name', 'last_name', 'user_url', 'ppma_post_migrated', 'job_title', 'molongui_guest_author_id', 'cap-display_name', 'cap-first_name', 'cap-last_name', 'cap-user_email', 'cap-website', 'cap-description', '_thumbnail_id', 'ppmacf_social_profile', 'ppmacf_type', 'ppmacf_schema_property');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_page_template', 'avatar', 'ppmacf_show_in_rest', 'user_id', 'user_email', '_wp_attachment_image_alt', 'ppma_selected_author_box', 'ppma_disable_author_box', 'description', 'first_name', 'last_name', 'user_url', 'ppma_post_migrated', 'job_title', 'molongui_guest_author_id', 'cap-display_name', 'cap-first_name', 'cap-last_name', 'cap-user_email', 'cap-website', 'cap-description', '_thumbnail_id', 'ppmacf_social_profile', 'ppmacf_type', 'ppmacf_schema_property');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'user_id_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'user_id_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'user_id_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'user_id_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%social_profile';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%social_profile';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%social_profile';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%social_profile';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%layout_parent_author_box';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%layout_parent_author_box';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%layout_parent_author_box';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%layout_parent_author_box';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%layout_preview_author_post';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%layout_preview_author_post';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%layout_preview_author_post';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%layout_preview_author_post';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%layout_meta_value';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%layout_meta_value';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%layout_meta_value';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%layout_meta_value';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%author_fields_order';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%author_fields_order';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%author_fields_order';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%author_fields_order';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%slug';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%slug';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%slug';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%slug';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%type';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%type';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%type';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%type';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%field_status';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%field_status';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%field_status';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%field_status';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%show_in_rest';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%show_in_rest';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%show_in_rest';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%show_in_rest';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%requirement';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%requirement';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%requirement';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%requirement';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%schema_property';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%schema_property';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%schema_property';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%schema_property';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%rel';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%rel';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%rel';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%rel';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%target';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%target';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%target';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%target';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%description';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%description';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%description';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%description';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%inbuilt';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%inbuilt';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%inbuilt';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%inbuilt';
+

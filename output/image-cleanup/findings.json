@@ -1,0 +1,19 @@
+{
+  "options": [
+    "image_cleanup_step_size",
+    "image_cleanup_post_step_size",
+    "image_cleanup_skip_paths",
+    "image_cleanup_backups",
+    "image_cleanup_resultcount",
+    "image_cleanup_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:45.059Z"
+}

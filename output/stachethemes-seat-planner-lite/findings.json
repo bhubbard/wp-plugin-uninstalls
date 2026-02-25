@@ -1,0 +1,26 @@
+{
+  "options": [
+    "stachesepl_seat_selector_tooltip",
+    "stachesepl_dt_adjacent_months",
+    "stachesepl_enable_in_loop_button",
+    "stachesepl_compat_mode",
+    "stachesepl_compat_calc_totals",
+    "stachesepl_reserve_time",
+    "stachesepl_cart_redirect",
+    "stachesepl_cart_redirect_message",
+    "stachesepl_cart_redirect_message_text",
+    "stachesepl_cart_timer_enabled",
+    "stachesepl_accent_color",
+    "stachesepl_qr_code_enabled",
+    "stachesepl_auto_confirm_paid_orders",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [
+    "stacheseplite_notice_rate_timer"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:38.058Z"
+}

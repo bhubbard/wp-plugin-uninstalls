@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "link",
+    "position",
+    "email",
+    "social-*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:57.744Z"
+}

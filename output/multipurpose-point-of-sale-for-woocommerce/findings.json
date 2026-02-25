@@ -1,0 +1,38 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_backorders",
+    "_price",
+    "billing_phone",
+    "_order_total",
+    "first_name",
+    "billing_first_name",
+    "billing_email",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "shipping_first_name",
+    "shipping_address_1",
+    "shipping_address_2",
+    "shipping_city",
+    "shipping_postcode",
+    "shipping_country",
+    "shipping_state",
+    "_customer_user",
+    "_stock"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:46.018Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_wpgp_option_settings"
+  ],
+  "transients": [
+    "_wpgp_safe_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpgp_errors_*",
+    "_wpgp_page_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:17.139Z"
+}

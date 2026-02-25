@@ -1,0 +1,17 @@
+{
+  "options": [
+    "idg_headline",
+    "idg_alternativeheadline",
+    "idg_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "idg_headline",
+    "idg_alternativeHeadline",
+    "idg_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:55.736Z"
+}

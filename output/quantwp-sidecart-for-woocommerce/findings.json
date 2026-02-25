@@ -1,0 +1,23 @@
+{
+  "options": [
+    "quantwp_sidecart_cross_sells_limit",
+    "quantwp_sidecart_cross_sells_enabled",
+    "quantwp_sidecart_auto_open",
+    "quantwp_sidecart_shipping_bar_enabled",
+    "quantwp_sidecart_shipping_threshold",
+    "quantwp_sidecart_icon",
+    "quantwp_sidecart_shipping_threshold_color",
+    "quantwp_sidecart_carousel_background_color",
+    "quantwp_sidecart_checkout_btn_bg"
+  ],
+  "transients": [
+    "quantwp_cross_sells_*",
+    "quantwp_shipping_threshold",
+    "quantwp_cart_fragment_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:02.543Z"
+}

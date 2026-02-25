@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "aero_hourly_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "aero_token",
+    "aero_sync_status",
+    "aero_sync_time",
+    "aero_sync_message",
+    "aero_connection",
+    "aero_page_id",
+    "aero_website_id",
+    "_aero_cpt",
+    "_aero_id",
+    "aero_auto_sync",
+    "aero_post_status",
+    "aero_mapped_post_type",
+    "aero_mapped_post_meta_fields",
+    "aero_sync_fields",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:22.100Z"
+}

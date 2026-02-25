@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aweber_style",
+    "aweber_js",
+    "aweber_post",
+    "aweber_page",
+    "aweber_post_start",
+    "aweber_page_start",
+    "aweber_priority"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:47.114Z"
+}

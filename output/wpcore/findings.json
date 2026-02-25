@@ -1,0 +1,17 @@
+{
+  "options": [
+    "recently_activated",
+    "wpcore_keys",
+    "_transient_wpcore_payload"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:21.436Z"
+}

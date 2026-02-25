@@ -1,0 +1,7 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('widget_ultimate-post-list');
+DELETE FROM wp_options WHERE option_name LIKE '%_size_w';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_h';
+

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "digages_aplwoo_data_usage",
+    "digages_aplwoo_send_data_option",
+    "digages_aplwoo_plugin_onboarding_redirect",
+    "woocommerce_digages_aplwoo_local_shipping_settings",
+    "digages_aplwoo_label",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name",
+    "billing_phone",
+    "billing_address_1",
+    "billing_city",
+    "billing_state",
+    "billing_postcode",
+    "billing_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:28.955Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_marker"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_featured_item",
+    "detail_images",
+    "lv_item_*",
+    "lv_item_lat",
+    "lv_item_lng",
+    "_location",
+    "_wp_page_template",
+    "_price_prefix",
+    "_price",
+    "_area",
+    "_area_prefix"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:18.135Z"
+}

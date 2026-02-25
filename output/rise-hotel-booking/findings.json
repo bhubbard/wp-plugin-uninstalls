@@ -1,0 +1,29 @@
+{
+  "options": [
+    "rise_delete-data-when-removed"
+  ],
+  "transients": [
+    "rise-ssl-warning"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rise_customer_booking_status",
+    "rise_coupon_remaining_amount",
+    "rise_coupon_reservation_dates_start",
+    "rise_coupon_reservation_dates_end",
+    "rise_coupon_utilization_dates_start",
+    "rise_coupon_utilization_dates_end",
+    "rise_coupon_quantity",
+    "rise_coupon_percentage",
+    "rise_coupon_code",
+    "rise_coupon_utilization_same_as_reservation",
+    "rise_room_quantity",
+    "rise_room_numberOfAdults",
+    "rise_room_shortDescription",
+    "rise_room_type_capacity",
+    "rise_customer_coupon"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:24.967Z"
+}

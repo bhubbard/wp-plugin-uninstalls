@@ -1,0 +1,25 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "awin_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "generate_product_feed_event",
+    "awin_approve_orders_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_awin_conversion",
+    "_awin_job_id",
+    "_awin_sent_completed",
+    "_product_attributes",
+    "_wc_pinterest_condition",
+    "_delivery_cost",
+    "_model_number",
+    "_promotional_text",
+    "_warranty"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:06.275Z"
+}

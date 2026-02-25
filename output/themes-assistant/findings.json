@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ata_installed",
+    "ata_version",
+    "borax_license_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "at_assistant_dismissed_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:06.560Z"
+}

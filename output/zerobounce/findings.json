@@ -1,0 +1,19 @@
+{
+  "options": [
+    "zerobounce_settings_validation_forms",
+    "zerobounce_settings_validation_pass",
+    "zerobounce_settings_did_you_mean",
+    "zerobounce_settings_api_zone",
+    "zerobounce_settings_api_key",
+    "zerobounce_settings_api_timeout",
+    "zerobounce_settings_error_message",
+    "zerobounce_settings_did_you_mean_error",
+    "zerobounce_settings_block_free_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:38.289Z"
+}

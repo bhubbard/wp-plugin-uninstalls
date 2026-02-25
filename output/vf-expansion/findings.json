@@ -1,0 +1,39 @@
+{
+  "options": [
+    "item_details_page",
+    "storepress_media_id",
+    "widget_archives",
+    "widget_search",
+    "sidebars_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "_wp_page_template",
+    "_visibility",
+    "_stock_status",
+    "total_sales",
+    "_downloadable",
+    "_virtual",
+    "_regular_price",
+    "_sale_price",
+    "_purchase_note",
+    "_featured",
+    "_weight",
+    "_length",
+    "_width",
+    "_height",
+    "_sku",
+    "_product_attributes",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_price",
+    "_sold_individually",
+    "_manage_stock",
+    "_backorders"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:05.790Z"
+}

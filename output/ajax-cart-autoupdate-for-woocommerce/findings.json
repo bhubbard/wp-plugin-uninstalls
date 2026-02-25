@@ -1,0 +1,14 @@
+{
+  "options": [
+    "acau_first_activate",
+    "acau_settings",
+    "active_sitewide_plugins",
+    "acau_dismiss_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:44.204Z"
+}

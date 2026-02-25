@@ -1,0 +1,21 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "bookster_performance_report_*",
+    "bookster_leaderboard_services",
+    "bookster_leaderboard_agents",
+    "update_plugins",
+    "*_process_locked"
+  ],
+  "cron_jobs": [
+    "*_process_healthcheck",
+    "*_callback"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:20.663Z"
+}

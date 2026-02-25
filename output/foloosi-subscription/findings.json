@@ -1,0 +1,37 @@
+{
+  "options": [
+    "fwsbs_trash_pending_subscriptions",
+    "fwsbs_trash_cancelled_subscriptions",
+    "woocommerce_price_num_decimals",
+    "fwsbs_enabled",
+    "fwsbs_allow_customer_cancel_subscription",
+    "woocommerce_foloosi_settings",
+    "foloosi_recently_activated",
+    "foloosi_plugin_fw_panel_wc_default_options_set",
+    "*_width",
+    "*_height",
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fwsbs_renew_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "_fwsbs_subscription",
+    "_fwsbs_price_is_per",
+    "_fwsbs_price_time_option",
+    "_fwsbs_max_length",
+    "_fwsbs_setup_fee",
+    "renew_order",
+    "_renew_order",
+    "fwsbs_trial_*",
+    "fwsbs_downgrade_*",
+    "fwsbs_upgrade_*",
+    "_*",
+    "order_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:43.015Z"
+}

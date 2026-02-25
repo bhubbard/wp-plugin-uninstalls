@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ffec_days",
+    "ffec_batch_size"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ffec_delete_old_entries"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:34.604Z"
+}

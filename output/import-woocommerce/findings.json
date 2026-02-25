@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ULTIMATE_CSV_IMP_VERSION",
+    "smack_image_options",
+    "total_attachment_ids",
+    "failed_attachment_ids",
+    "sm_uci_pro_settings"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "sendPassword",
+    "_download_type",
+    "_alg_ean",
+    "jet_abaf_service_cost",
+    "jet_abaf_service_cost_format",
+    "jet_abaf_guests_multiplier",
+    "jet_abaf_everyday_service"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:24.594Z"
+}

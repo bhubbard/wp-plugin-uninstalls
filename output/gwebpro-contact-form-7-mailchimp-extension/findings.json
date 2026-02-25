@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cf7_mch_*",
+    "cf7_count",
+    "cf7_mch_end"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:23.125Z"
+}

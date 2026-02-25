@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bos_searchbox_options",
+    "bos_searchbox_user_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bos_mb_destination",
+    "_bos_mb_dest_type",
+    "_bos_mb_dest_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:46.023Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "trendyol_sync",
+    "trendyol_id",
+    "trendyol_api_key",
+    "trendyol_api_secret",
+    "trendyol_order_sync_interval"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "trendyol_orders_check_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:03.485Z"
+}

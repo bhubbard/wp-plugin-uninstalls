@@ -1,0 +1,29 @@
+{
+  "options": [
+    "give_settings",
+    "fs_accounts"
+  ],
+  "transients": [
+    "give_form_id"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gs_live_token_details",
+    "gs_live_locations",
+    "square_token",
+    "square_appid",
+    "square_locationid",
+    "square_btn_auth",
+    "square_refresh_token",
+    "square_token_expires_at",
+    "oauth_preferences",
+    "square_mode",
+    "square_test_token",
+    "square_test_appid",
+    "square_test_locationid",
+    "square_billing_details"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:50.495Z"
+}

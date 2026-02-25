@@ -1,0 +1,15 @@
+{
+  "options": [
+    "popnotifi_url_key",
+    "popnotifi_api_key",
+    "popnotifi_native_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pop_notifi_notification_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:28.492Z"
+}

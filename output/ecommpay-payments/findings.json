@@ -1,0 +1,18 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep"
+  ],
+  "transients": [
+    "_wc_ecp_admin_notices",
+    "_wc_ecp_admin_runtime_errors"
+  ],
+  "cron_jobs": [
+    "ecp_flush_rewrite_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:22.906Z"
+}

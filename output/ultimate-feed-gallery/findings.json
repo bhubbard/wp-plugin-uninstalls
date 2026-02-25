@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ultimate_instagram_enable_accessibility",
+    "ultimate-instagram-skip-premium",
+    "ultimate_instagram_addons",
+    "ultimate-feed-wizard-set-up",
+    "ultimate_instagram_recent_log_file",
+    "ultimate_instagram_pagination_entries",
+    "ultimate_instagram_pagination_listings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ultimate_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:49.881Z"
+}

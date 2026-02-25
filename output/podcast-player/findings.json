@@ -1,0 +1,29 @@
+{
+  "options": [
+    "pp-common-options",
+    "pp_shortcode_options",
+    "pp_total_image_downloads",
+    "podcast-player-admin-notice",
+    "pp_feed_index",
+    "pp_media_src_index",
+    "pp_feed_data_*",
+    "pp-register"
+  ],
+  "transients": [
+    "*_recent_dispatch",
+    "*_force_dispatch",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "pp_auto_update_podcast"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pp_featured_key_norm",
+    "pp_featured_key",
+    "pp_import_data",
+    "pp_episode_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:45.382Z"
+}

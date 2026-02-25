@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dk_speakout_options",
+    "dk_speakout_pro_version",
+    "dk_speakout_version",
+    "dk_speakout_license_key_verified",
+    "dk_speakout_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mailerlite_form_hidden",
+    "SpeakOut_plugin_notice_ignore"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:22.632Z"
+}

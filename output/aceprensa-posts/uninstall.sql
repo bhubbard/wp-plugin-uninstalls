@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aceprensa_site_url', 'aceprensa_cache_seconds', 'aceprensa_num_posts', 'aceprensa_image_size', 'aceprensa_un_click', 'aceprensa_username', 'aceprensa_selected_categories', 'aceprensa_post_types', 'aceprensa_layout', 'aceprensa_cols_m', 'aceprensa_cols_t', 'aceprensa_cols_d', 'aceprensa_show_image', 'aceprensa_image_position', 'aceprensa_image_orientation', 'aceprensa_aspect_ratio', 'aceprensa_image_width', 'aceprensa_card_gap', 'aceprensa_show_author', 'aceprensa_upper_author', 'aceprensa_show_date', 'aceprensa_date_format', 'aceprensa_date_upper', 'aceprensa_excerpt_words', 'aceprensa_excerpt_mode', 'aceprensa_excerpt_lines', 'aceprensa_title_clamp', 'aceprensa_title_lines');
+

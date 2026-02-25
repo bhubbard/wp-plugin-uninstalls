@@ -1,0 +1,18 @@
+{
+  "options": [
+    "uvdesk_access_token",
+    "uvdesk_client_key",
+    "uvdesk_company_domain",
+    "uvdesk_secret_key",
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "first_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:43.101Z"
+}

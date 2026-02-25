@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gt_tax_btn_state",
+    "gt_tax_text",
+    "gt_tax_btn_text",
+    "gt_tax_btn_toggle_text",
+    "gt_tax_bg_color",
+    "gt_tax_text_color",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:36.781Z"
+}

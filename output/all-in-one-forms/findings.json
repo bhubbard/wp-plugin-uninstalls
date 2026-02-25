@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aio_fonts",
+    "*_dont_show_again",
+    "rnaio_dont_show_again",
+    "aio_review_stage",
+    "aio_license"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "allinoneforms_delete_expired_items"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:09.372Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "defeed_additional_options",
+    "defeed_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_defeed_item_info",
+    "_menu_item_type",
+    "_menu_item_menu_item_parent",
+    "_menu_item_object_id",
+    "_menu_item_object",
+    "_menu_item_target",
+    "_menu_item_classes",
+    "_menu_item_xfn",
+    "_menu_item_url",
+    "_menu_item_orphaned",
+    "nav_menu_recently_edited"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:01.815Z"
+}

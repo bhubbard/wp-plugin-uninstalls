@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_by_post_type",
+    "filter_rss_feed_settings_filter_*",
+    "filter_rss_feed_settings_add_more_post_types_to_main_query",
+    "filter_rss_feed_settings_filter_rss_feed",
+    "filter_rss_feed_settings_what_post_types_to_show_on_main_query"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:35.034Z"
+}

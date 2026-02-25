@@ -1,0 +1,26 @@
+{
+  "options": [
+    "emplibot_public_key",
+    "emplibot_options",
+    "emplibot_plugin_outdated",
+    "emplibot_zip_processing_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_yoast_wpseo_focuskw",
+    "rank_math_focus_keyword",
+    "_wp_attachment_image_alt",
+    "_emplibot_original_keyword",
+    "_emplibot_search_volume",
+    "_emplibot_competition_level",
+    "_emplibot_language_form",
+    "_emplibot_hero_image_url",
+    "_emplibot_timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:27.062Z"
+}

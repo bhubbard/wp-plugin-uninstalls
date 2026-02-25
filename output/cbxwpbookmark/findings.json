@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cbxwpbookmark_version",
+    "cbxwpbookmark_basics",
+    "cbxwpbookmark_customizer"
+  ],
+  "transients": [
+    "cbxwpbookmark_cat_addedit_error",
+    "cbxwpbookmark_upgraded_notice",
+    "cbxwpbookmark_activated_notice",
+    "cbxwpbookmark_proaddon_deactivated",
+    "cbxwpbookmark_mycredaddon_deactivated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:48.881Z"
+}

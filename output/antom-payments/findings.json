@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_antom_card_settings",
+    "*_settings",
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_antom_payments_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:52.269Z"
+}

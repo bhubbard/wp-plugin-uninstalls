@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sodathemes_typw_post_types",
+    "sodathemes_typw_taxonomies",
+    "sodathemes_typw_user_check",
+    "sodathemes_typw_user_role",
+    "typw_do_activation_redirect",
+    "tax_meta_*",
+    "tax_meta_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rnaby_typw_meta_value_key",
+    "rnaby_typw_meta_tax_youtube_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:02.410Z"
+}

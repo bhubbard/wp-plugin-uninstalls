@@ -1,0 +1,13 @@
+{
+  "options": [
+    "solvease_wprc_plugin_version",
+    "solvease_wp_rc_caps",
+    "wp_user_roles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:57.036Z"
+}

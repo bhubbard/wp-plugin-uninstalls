@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ideal_widget_data_id",
+    "ideal_widget_size",
+    "ideal_widget_button_size",
+    "ideal_widget_offset_bottom",
+    "ideal_widget_offset_right",
+    "ideal_widget_lazy_loading",
+    "ideal_disable_posts",
+    "ideal_display_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:13.957Z"
+}

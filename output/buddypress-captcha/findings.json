@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bpcapt_public",
+    "bpcapt_theme",
+    "bpcapt_private",
+    "bpcapt_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bp_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:56.937Z"
+}

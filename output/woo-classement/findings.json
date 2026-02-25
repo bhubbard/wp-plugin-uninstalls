@@ -1,0 +1,25 @@
+{
+  "options": [
+    "via_woocommerce_classement_settings",
+    "woocommerce_weight_unit",
+    "via_woocommerce_classement_Statistics_start_year"
+  ],
+  "transients": [
+    "online_status"
+  ],
+  "cron_jobs": [
+    "wooclassementfree_check_activation_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "user_count_connections",
+    "_customer_ip_address",
+    "total_sales",
+    "billing_phone",
+    "current_login",
+    "last_login",
+    "woocl268_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:11.400Z"
+}

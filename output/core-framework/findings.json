@@ -1,0 +1,24 @@
+{
+  "options": [
+    "core_framework_main",
+    "core_framework_bricks_license_key",
+    "core_framework_selected_preset_backup",
+    "core_framework_oxygen_license_key",
+    "core_framework_colors",
+    "core_framework_editor_prefixed_css",
+    "core_framework_grouped_classes",
+    "*_license_key",
+    "core_framework_oxygen_css_helper",
+    "core_framework_db_version"
+  ],
+  "transients": [
+    "core-framework-update-notice",
+    "core_framework_updated",
+    "core_framework_updated_time"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:54.661Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "login_as_user_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lau_cart_backup"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:12.830Z"
+}

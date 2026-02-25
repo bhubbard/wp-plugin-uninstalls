@@ -1,0 +1,15 @@
+{
+  "options": [
+    "Contact_Me_Button_Username",
+    "Contact_Me_Button_DisplayName",
+    "Contact_Me_Button_buttonType",
+    "Contact_Me_Button_buttonLocation",
+    "Contact_Me_Button_overlay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:51.432Z"
+}

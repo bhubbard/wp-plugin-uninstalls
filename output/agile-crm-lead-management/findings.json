@@ -1,0 +1,21 @@
+{
+  "options": [
+    "agile_domain",
+    "agile_email",
+    "agile_rest_api",
+    "agile_password",
+    "agile_webstats",
+    "agile_webrules",
+    "agile_js_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "landing_page",
+    "enable_webrule",
+    "enable_webstats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:23.979Z"
+}

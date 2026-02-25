@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wdfi_flake_image_type_enable",
+    "wdfi_flake_image_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wdfi_addnewrule_posttype",
+    "wdfi_shop_taxo",
+    "wdfi_flake_image_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:50.234Z"
+}

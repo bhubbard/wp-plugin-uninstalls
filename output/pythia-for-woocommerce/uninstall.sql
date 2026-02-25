@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp_pythia_admin_notices', 'active_sitewide_plugins');
+DELETE FROM wp_options WHERE option_name LIKE 'wp_pythia_admin_notice_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('dismissed_wc_pythia_sync_disabled_notice');
+DELETE FROM wp_usermeta WHERE meta_key IN ('dismissed_wc_pythia_sync_disabled_notice');
+DELETE FROM wp_termmeta WHERE meta_key IN ('dismissed_wc_pythia_sync_disabled_notice');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('dismissed_wc_pythia_sync_disabled_notice');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_notice';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_notice';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_notice';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_notice';
+

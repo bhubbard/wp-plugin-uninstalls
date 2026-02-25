@@ -1,0 +1,21 @@
+{
+  "options": [
+    "smsify-api-key",
+    "smsify_integrations",
+    "smsify_webhooks",
+    "user-group-meta",
+    "smsify_enable_sender_id_override",
+    "smsify-enable-sender-id-override"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smsify_mobile",
+    "smsify_message",
+    "smsify_sender_id",
+    "smsify-track-optin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:48.140Z"
+}

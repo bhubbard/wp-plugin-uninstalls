@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fast_cart_option",
+    "fast_cart_option_styling",
+    "fast_cart_license",
+    "fast_cart_upgrade_completed",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:49.497Z"
+}

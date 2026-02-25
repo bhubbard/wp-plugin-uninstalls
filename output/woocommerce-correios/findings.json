@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_correios_autofill_addresses_db_version",
+    "woocommerce_correios_version",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [
+    "correios-cwsstaging-token",
+    "correios-cwsproduction-token",
+    "correios-cws-staging-token",
+    "correios-cws-production-token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:06.215Z"
+}

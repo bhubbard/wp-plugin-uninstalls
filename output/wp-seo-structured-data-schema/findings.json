@@ -1,0 +1,15 @@
+{
+  "options": [
+    "kcseo_wp_schema_settings",
+    "kcseo_bf_2022"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kcseo_ative_tab",
+    "_schema_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:19.423Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cbxuseronline_version",
+    "cbxuseronline_mostonline",
+    "cbxuseronline_basics"
+  ],
+  "transients": [
+    "cbxuseronline_deactivated_notice",
+    "cbxuseronline_activated_notice",
+    "cbxuseronline_upgraded_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cbxuseronline_lastlogin_time",
+    "_cbxuseronline_lastlogin_data",
+    "_cbxuseronline_second_lastlogin_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:28.759Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "cg_license_status",
+    "cg_plugin_options",
+    "cg_plugin_version",
+    "cg_recent_courier_checks",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "cg_api_cache",
+    "cg_last_synced",
+    "cg_courier_cache_*"
+  ],
+  "cron_jobs": [
+    "cg_daily_sync_hook",
+    "cg_cleanup_expired_blocks",
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cg_success_ratio_data",
+    "_cg_device_fingerprint",
+    "_cg_device_user_agent",
+    "_customer_ip_address"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:10.354Z"
+}

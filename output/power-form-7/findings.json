@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pf7_last_license_check"
+  ],
+  "transients": [
+    "pf7_license_details"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:14.392Z"
+}

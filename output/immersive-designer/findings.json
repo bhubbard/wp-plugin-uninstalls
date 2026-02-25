@@ -1,0 +1,14 @@
+{
+  "options": [
+    "immdg_configurator_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "immdg",
+    "immersive-designer"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:15.029Z"
+}

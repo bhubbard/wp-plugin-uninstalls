@@ -1,0 +1,21 @@
+{
+  "options": [
+    "_nfprct_rewrite_restricted_media_list",
+    "_nfproot_plugins_settings",
+    "_nfp_root_settings",
+    "_nfp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rsmd_is_restricted",
+    "_nfprct_is_restricted",
+    "*media_library_mode",
+    "_nfprct_allowed_role",
+    "_rsmd_allowed_role",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:20.487Z"
+}

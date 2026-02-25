@@ -1,0 +1,46 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wysija_import_fields",
+    "widget_wysija",
+    "wysijey",
+    "wysija_log",
+    "wysija_msg",
+    "wysija_queries",
+    "wysija_queries_errors",
+    "wysicheck",
+    "wysija_last_scheduled_check",
+    "wysija_post_type_updated",
+    "wysija_post_type_created",
+    "wysija",
+    "wysija_schedules",
+    "wysija_last_php_cron_call",
+    "ms_wysija_bounce_cron",
+    "ms_wysija_sending_cron",
+    "wysija_dismiss_update_notice",
+    "wysija_check_pn",
+    "wysija_bounce_being_recorded",
+    "default_post_edit_rows",
+    "installation_step",
+    "wysija_reinstall",
+    "ms_wysija",
+    "ms_*",
+    "registration"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wysija_cron_queue",
+    "wysija_cron_bounce",
+    "wysija_cron_daily",
+    "wysija_cron_weekly",
+    "wysija_cron_monthly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wysija_pref",
+    "_wp_attachment_image_alt",
+    "wysija_comment_subscribe"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:40.837Z"
+}

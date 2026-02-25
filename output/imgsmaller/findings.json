@@ -1,0 +1,18 @@
+{
+  "options": [
+    "imgsmaller_backup_dir"
+  ],
+  "transients": [
+    "imgsmaller_batch_lock",
+    "imgsmaller_paused_notice",
+    "imgsmaller_idle_notice",
+    "imgsmaller_quota_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:40.661Z"
+}

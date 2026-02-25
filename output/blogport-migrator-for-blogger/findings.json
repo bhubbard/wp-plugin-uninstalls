@@ -1,0 +1,16 @@
+{
+  "options": [
+    "blogport_red_v20"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_blogport_hash",
+    "_wp_attachment_image_alt",
+    "pvc_views",
+    "views"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:57.431Z"
+}

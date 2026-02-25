@@ -1,0 +1,23 @@
+{
+  "options": [
+    "sbs_options",
+    "simple-blog-stats-dismiss-notice"
+  ],
+  "transients": [
+    "sbs_word_count",
+    "sbs_post_count",
+    "sbs_page_count",
+    "sbs_draft_count",
+    "sbs_user_count",
+    "sbs_comments_approved_count",
+    "sbs_comments_moderated_count",
+    "sbs_comments_total_count",
+    "sbs_tax_posts_count",
+    "online_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:35.558Z"
+}

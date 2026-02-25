@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pblsh_settings",
+    "pblsh_secret_salt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pblsh_icon",
+    "_pblsh_zip_path",
+    "_pblsh_installations"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:34.962Z"
+}

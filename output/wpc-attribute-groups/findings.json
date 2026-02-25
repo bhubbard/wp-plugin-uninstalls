@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpcag_settings",
+    "wpcag_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcag_order",
+    "wpcag_attributes",
+    "wpcag_apply",
+    "wpcag_apply_val",
+    "wpcag_exclude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:55.291Z"
+}

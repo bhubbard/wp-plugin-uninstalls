@@ -1,0 +1,20 @@
+{
+  "options": [
+    "aiev_activated_Plugin",
+    "diev_view_type",
+    "diev_excluded_tax_label",
+    "diev_included_tax_label",
+    "diev_font_size",
+    "diev_font_weight",
+    "diev_font_color",
+    "diev_shop_page",
+    "diev_archive_page",
+    "diev_single_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:55.745Z"
+}

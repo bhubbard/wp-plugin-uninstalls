@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_coupon_affiliate_ID",
+    "_coupon_affiliate_status",
+    "_CCAFF_vendor_status",
+    "_CCAFF_vendor_comm_pct",
+    "_CCAFF_vendor_PPemail",
+    "_CCAFF_vendor_notes",
+    "_coupon_codes_CCAFF_Comm_Status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:05.640Z"
+}

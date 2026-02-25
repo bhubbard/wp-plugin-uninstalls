@@ -1,0 +1,24 @@
+{
+  "options": [
+    "pixengine_lazy_loading_enabled",
+    "pixengine_responsive_enabled",
+    "pixengine_picture_element",
+    "pixengine_quality",
+    "pixengine_max_width",
+    "pixengine_output_format",
+    "pixengine_avif_quality",
+    "pixengine_lazy_loading_exclude_first",
+    "pixengine_cache_enabled",
+    "pixengine_cache_max_age",
+    "pixengine_newsletter_dismissed",
+    "pixengine_usage_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pixengine_monthly_reset"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:51.754Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_netsmax-gateway-for-woocommerce_settings",
+    "netsmax_gateway_for_woocommerce_version",
+    "netsmax_gateway_for_woocommerce_store_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woocommerce_order_sync_event_netsmax"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:33.334Z"
+}

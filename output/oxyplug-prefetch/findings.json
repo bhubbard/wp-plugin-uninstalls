@@ -1,0 +1,28 @@
+{
+  "options": [
+    "oxy_prefetch_version",
+    "oxy_prefetches_number_status",
+    "oxy_prefetches_number",
+    "oxy_prefetch_hover_status",
+    "oxy_prefetch_prerender_number_status",
+    "oxy_prefetch_prerender_number",
+    "oxy_prefetch_prerender_hover_status",
+    "oxy_prefetch_prerender_href_exclusion_status",
+    "oxy_prefetch_prerender_match",
+    "oxy_prefetch_prerender_notice_dismissed"
+  ],
+  "transients": [
+    "oxy_prefetch_errors",
+    "oxy_prefetch_success_messages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_oxy_prefetch_status",
+    "_oxy_prefetch_url",
+    "_oxy_prefetch_prerender_status",
+    "_oxy_prefetch_prerender_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:35.676Z"
+}

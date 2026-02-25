@@ -1,0 +1,16 @@
+{
+  "options": [
+    "kmithi-fld-enable",
+    "kmithi-fld-enable-template-type",
+    "kmithi-fld-avoid-for-user-roles",
+    "kmithi-fld-message",
+    "kmithi-fld-displaytooptions",
+    "kmithi-fld-pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:29.333Z"
+}

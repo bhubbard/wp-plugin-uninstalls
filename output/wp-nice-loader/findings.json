@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nice_loader_font_size",
+    "nice_loader_title",
+    "nice_loader_subtitle",
+    "nice_loader_logo_url",
+    "nice_loader_theme",
+    "nice_loader_home_only",
+    "nice_loader_main_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:43.911Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "cloud_uploads_options",
+    "cloud_uploads_files_scanned",
+    "ms_files_rewriting",
+    "cloud_uploads_apitoken",
+    "cloud_uploads_site_id",
+    "cloud_uploads_api_data",
+    "cloud_uploads_enabled",
+    "cloud_uploads_bulk_started",
+    "cloud_uploads_bulk_completed",
+    "cloud_uploads_deferred",
+    "cloud_uploads_sizes_deferred"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cloud_uploads_process_deferred",
+    "cloud_uploads_process_sizes",
+    "cloud_uploads_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_s3_synced",
+    "_s3_url",
+    "_wp_attached_file",
+    "_s3_paths"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:06.207Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "vkExUnit_common_options",
+    "pad_plugin_options",
+    "vk_font_awesome_version",
+    "vk_font_awesome_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_profile_image",
+    "pad_hide_post_author",
+    "term_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:43.712Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*notices",
+    "only_members_access_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*cron_job_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:23.575Z"
+}

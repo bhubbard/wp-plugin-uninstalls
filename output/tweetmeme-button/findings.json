@@ -1,0 +1,29 @@
+{
+  "options": [
+    "tm_api_app_id",
+    "tm_api_app_key",
+    "tm_source",
+    "tm_version",
+    "tm_url_shortner",
+    "tm_api_key",
+    "tm_space",
+    "tm_hashtags",
+    "tm_hashtags_tags",
+    "tm_style",
+    "tm_where",
+    "tm_display_page",
+    "tm_display_front",
+    "tm_display_rss",
+    "tm_ping",
+    "tm_rss_where"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tm_hashtags",
+    "tweetmeme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:04.572Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wpam_google_recaptcha_site_key",
+    "wpam_google_recaptcha_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:52.207Z"
+}

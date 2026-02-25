@@ -1,0 +1,17 @@
+{
+  "options": [
+    "recently_activated",
+    "data_compare_product",
+    "phoen_awesome_wid_enable"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:47.996Z"
+}

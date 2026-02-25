@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fluent_boards_modules",
+    "_fluent_boards_db_version",
+    "siteUrl"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_user_avatar",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:45.818Z"
+}

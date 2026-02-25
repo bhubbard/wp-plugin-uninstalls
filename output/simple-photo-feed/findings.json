@@ -1,0 +1,16 @@
+{
+  "options": [
+    "spf_main_settings"
+  ],
+  "transients": [
+    "spf_get_media_*"
+  ],
+  "cron_jobs": [
+    "simple_photo_refresh_token",
+    "simple_photo_update_feed"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:44.432Z"
+}

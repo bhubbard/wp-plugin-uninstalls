@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wwbp_is_enable",
+    "wwbp_default_weight_unit",
+    "wwbp_actual_weight_is_enable",
+    "wwbp_show_total_savings",
+    "wwbp_actual_weight_label",
+    "wwbp_add_to_cart_button_label",
+    "active_sitewide_plugins",
+    "wwbp_sale_price_label",
+    "wwbp_custom_input_is_enable",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "measure_range",
+    "wwbp_pricing_rule",
+    "wwbp_is_enable",
+    "wwbp_min_qty",
+    "wwbp_max_qty",
+    "wwbp_intervel",
+    "wwbp_weight_unit",
+    "wwbp_wastage_percentage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:32.027Z"
+}

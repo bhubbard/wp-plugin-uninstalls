@@ -1,0 +1,13 @@
+{
+  "options": [
+    "covid19livestats_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "covid19livestats_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:56.094Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gtp_post_list",
+    "gtp_post_list_posttypes",
+    "gtp_frontpage_posts",
+    "gtp_simulate_location",
+    "gtp_plugin_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gtp_countries"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:49.633Z"
+}

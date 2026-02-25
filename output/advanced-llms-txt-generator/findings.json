@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpseo_titles",
+    "llms_txt_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "llms_txt_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:22.598Z"
+}

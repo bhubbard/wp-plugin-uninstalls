@@ -1,0 +1,15 @@
+{
+  "options": [
+    "flash_games_top_games",
+    "flash_games_top_num",
+    "flash_games_new_games",
+    "flash_games_link",
+    "flash_games_new_num"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:08.334Z"
+}

@@ -1,0 +1,113 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'flex_forms_recaptcha_version'
+wp option delete 'flex_forms_recaptcha_site_key'
+wp option delete 'flex_forms_use_smtp'
+wp option delete 'flex_forms_smtp_from_email'
+wp option delete 'flex_forms_smtp_from_name'
+wp option delete 'flex_forms_smtp_host'
+wp option delete 'flex_forms_smtp_user'
+wp option delete 'flex_forms_smtp_pass'
+wp option delete 'flex_forms_smtp_port'
+wp option delete 'flex_forms_smtp_encryption'
+wp option delete 'flex_forms_recaptcha_secret_key'
+wp option delete 'flex_forms_smtp_global'
+wp option delete 'flex_forms_force_from_email'
+wp option delete 'flex_forms_from_email'
+wp option delete 'flex_forms_license_key'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_form_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_form_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_form_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_form_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_form_class'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_form_class'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_form_class'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_form_class'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_form_attrs'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_form_attrs'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_form_attrs'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_form_attrs'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_store_in_db'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_store_in_db'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_store_in_db'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_store_in_db'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_admin_email_enable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_admin_email_enable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_admin_email_enable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_admin_email_enable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_form_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_form_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_form_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_form_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_form_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_form_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_form_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_form_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_admin_email_to'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_admin_email_to'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_admin_email_to'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_admin_email_to'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_admin_email_subject'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_admin_email_subject'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_admin_email_subject'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_admin_email_subject'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_admin_email_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_admin_email_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_admin_email_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_admin_email_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_user_email_enable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_user_email_enable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_user_email_enable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_user_email_enable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_user_email_email_shortcode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_user_email_email_shortcode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_user_email_email_shortcode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_user_email_email_shortcode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_user_email_subject'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_user_email_subject'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_user_email_subject'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_user_email_subject'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_user_email_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_user_email_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_user_email_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_user_email_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_success_behavior'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_success_behavior'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_success_behavior'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_success_behavior'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_success_redirect_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_success_redirect_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_success_redirect_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_success_redirect_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_success_text'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_success_text'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_success_text'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_success_text'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_admin_email_from'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_admin_email_from'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_admin_email_from'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_admin_email_from'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_admin_email_from_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_admin_email_from_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_admin_email_from_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_admin_email_from_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_error_behavior'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_error_behavior'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_error_behavior'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_error_behavior'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_error_redirect_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_error_redirect_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_error_redirect_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_error_redirect_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_error_text'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_error_text'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_error_text'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_error_text'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_flex_forms_custom_css'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_flex_forms_custom_css'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_flex_forms_custom_css'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_flex_forms_custom_css'"

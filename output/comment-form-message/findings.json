@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpcci_version",
+    "wpcci_just_activated",
+    "abd_libs_version",
+    "*_errors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_empty_string"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:40.873Z"
+}

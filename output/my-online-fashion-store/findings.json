@@ -1,0 +1,19 @@
+{
+  "options": [
+    "myofs_opt_expire",
+    "myofs_opt_data",
+    "woocommerce_api_enabled",
+    "active_sitewide_plugins",
+    "myofs_activation_redirect",
+    "myofs_db_version",
+    "myofs_db_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "myofs_category"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:47.655Z"
+}

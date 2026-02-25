@@ -1,0 +1,25 @@
+{
+  "options": [
+    "_apop_normal_order",
+    "_apop_normal_order_param",
+    "_apop_search_order",
+    "_apop_search_order_param",
+    "_apop_custompost_archive_order_param",
+    "_apop_tax_order_param",
+    "_apop_custompost_archive_sort_type",
+    "_apop_tax_sort_type",
+    "*_order",
+    "_apop_per_page",
+    "_apop_custompost_archive_order",
+    "*_order_param"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_apop_post_*",
+    "_apop_customposts_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:31.893Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "mms_modal_enable",
+    "mms_city",
+    "mms_shabbat_next_shabbat_time",
+    "mms_its_the_key",
+    "mms_its_activate",
+    "mms_error",
+    "mms_success",
+    "mms_shabbat_force_close",
+    "mms_api_key",
+    "mms_cronjob_enable",
+    "mms_shabbat_close",
+    "mms_button_text",
+    "mms_button_bg_color",
+    "mms_button_text_color",
+    "mms_alert_hide_add_to_cart",
+    "mms_alert_hide_payment_options",
+    "mms_modal_page",
+    "mms_alert_bar_enable",
+    "mms_alert_bar_message",
+    "mms_alert_bar_text_color",
+    "mms_alert_bar_background_color",
+    "mms_alert_bar_close_button"
+  ],
+  "transients": [
+    "hdo_schedule_*",
+    "hdo_cities_list",
+    "hdo_last_license_check"
+  ],
+  "cron_jobs": [
+    "we_check_shabbat_next",
+    "hdo_revalidate_license"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:07.719Z"
+}

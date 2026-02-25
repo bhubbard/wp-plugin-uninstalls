@@ -1,0 +1,16 @@
+{
+  "options": [
+    "web-tools-slug",
+    "web-tools-default-css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webtools_toolname",
+    "webtools_main_code",
+    "webtools_toolicon"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:43.095Z"
+}

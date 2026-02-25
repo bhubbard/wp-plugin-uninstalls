@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ultimate_wp_slider_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uwps_slides",
+    "uwps_slide_meta",
+    "_uwps_style",
+    "_wp_attachment_image_alt",
+    "_uwps_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:59.353Z"
+}

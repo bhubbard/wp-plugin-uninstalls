@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wpturbo_database",
+    "wpturbo_cdn",
+    "*ver",
+    "wpturbo_reduce",
+    "wpturbo_storage",
+    "wb_wpturbo_promote",
+    "wb_wpturbo_ver",
+    "wb_wpturbo_cnf_*"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wpturbo_optimize_database",
+    "wpturbo_download_google_font"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wb-oss",
+    "_wp_attached_file",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:39.236Z"
+}

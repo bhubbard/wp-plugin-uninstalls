@@ -1,0 +1,15 @@
+{
+  "options": [
+    "num_feeds_to_show",
+    "direction",
+    "multiRss_Header",
+    "multiRss_ShowOnMobile",
+    "multi_rss_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:32.613Z"
+}

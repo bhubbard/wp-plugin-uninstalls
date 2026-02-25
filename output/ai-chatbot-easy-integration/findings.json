@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ai_chatbot_easy_integration_version",
+    "ai_chatbot_easy_integration_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ai_chatbot_easy_integration_daily_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:53.900Z"
+}

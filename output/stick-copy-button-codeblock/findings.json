@@ -1,0 +1,22 @@
+{
+  "options": [
+    "kasuga_scbc_button_top",
+    "kasuga_scbc_button_right",
+    "kasuga_scbc_label_copy",
+    "kasuga_scbc_label_copied",
+    "kasuga_scbc_button_size",
+    "kasuga_scbc_button_bg_color",
+    "kasuga_scbc_button_text_color",
+    "kasuga_scbc_button_bg_transparent",
+    "kasuga_scbc_enable_max_height",
+    "kasuga_scbc_max_height",
+    "kasuga_scbc_custom_styles",
+    "kasuga_scbc_enable_linenumbers"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:35.967Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ndu_today_date_format",
+    "ndu_convert_post_date",
+    "ndu_date_format_for_home",
+    "ndu_date_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:17.870Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_allowed_updates",
+    "*_keyboard",
+    "*_remove_plugin_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_cancel_active_sessions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:58:04.194Z"
+}

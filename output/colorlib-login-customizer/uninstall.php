@@ -1,0 +1,34 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('clc-options');
+delete_site_option('clc-options');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_version' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('colorlib-login-customizer_version');
+delete_site_option('colorlib-login-customizer_version');
+delete_option('colorlib-login-customizer_review_notice');
+delete_site_option('colorlib-login-customizer_review_notice');
+
+// Delete Transients
+delete_transient('clc_review');
+delete_site_transient('clc_review');
+delete_transient('colorlib-login-customizer_review_notice');
+delete_site_transient('colorlib-login-customizer_review_notice');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'colorlib-login-customizer_dismiss_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'colorlib-login-customizer_dismiss_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'colorlib-login-customizer_dismiss_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'colorlib-login-customizer_dismiss_notice' ) );
+

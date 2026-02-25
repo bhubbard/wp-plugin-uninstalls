@@ -1,0 +1,18 @@
+{
+  "options": [
+    "thsab_remember_state",
+    "thsab_tab_position",
+    "thsab_tab_behavior",
+    "thsab_tab_background_color",
+    "thsab_tab_text_color",
+    "thsab_tab_persistence"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show_admin_bar_front"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:25.009Z"
+}

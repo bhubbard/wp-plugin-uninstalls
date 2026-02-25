@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'sktnurc_recaptcha_language'
+wp option delete 'sktnurc_data_theme'
+wp option delete 'sktnurc_data_type'
+wp option delete 'sktnurc_login_recaptcha'
+wp option delete 'sktnurc_publkey'
+wp option delete 'sktnurc_privtkey'
+wp option delete 'sktnurc_username_help'
+wp option delete 'sktnurc_email_help'
+wp option delete 'sktnurc_v2_reCaptcha_help'
+wp option delete 'sktnurc_usrhlp_opt'
+wp option delete 'sktnurc_emlhlp_opt'
+wp option delete 'sktnurc_rechlp_opt'
+wp option delete 'sktnurc_logpage_limit'
+wp option delete 'sktnurc_regbutton'
+wp option delete 'sktnurc_custom_page_list'
+wp option delete 'sktnurc_botscoutkey'
+wp option delete 'sktnurc_theme'
+wp option delete 'sktnurclog_db_version'
+wp option delete 'sktnurc_count'
+wp option delete 'sktnurc_botscout_active'
+wp option delete 'sktnurc_botscoutTestMode'
+wp option delete 'sktnurc_lang'
+wp option delete 'sktnurc_lang_set'
+wp option delete 'sktnurc_reCaptcha_help'
+wp option delete 'sktnurc_recaptcha_version'
+wp option delete 'sktnurc_reclocales_lang'
+wp option delete 'sktnurc_stopforumspam_active'
+wp option delete 'sktnurc_keysset'
+

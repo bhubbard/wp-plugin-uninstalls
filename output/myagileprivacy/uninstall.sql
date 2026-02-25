@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('trp_settings');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_map_auto_detected', '_map_allow_sync', '_map_name', '_map_is_free', '_map_is_readonly', '_map_help_url', '_map_api_key', '_map_source_hash', '_map_textual_hash', '_map_suggested_is_necessary', '_map_page_reload_on_user_consent', '_map_sync_datetime_human', '_map_sync_datetime', '_map_is_necessary', '_map_translations', '_map_installation_type', '_map_code', '_map_raw_code', '_map_auto_detected_override', '_map_js_dependencies', '_map_remote_id', '_map_noscript', '_map_option1_ack', '_map_option1_on');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_map_auto_detected', '_map_allow_sync', '_map_name', '_map_is_free', '_map_is_readonly', '_map_help_url', '_map_api_key', '_map_source_hash', '_map_textual_hash', '_map_suggested_is_necessary', '_map_page_reload_on_user_consent', '_map_sync_datetime_human', '_map_sync_datetime', '_map_is_necessary', '_map_translations', '_map_installation_type', '_map_code', '_map_raw_code', '_map_auto_detected_override', '_map_js_dependencies', '_map_remote_id', '_map_noscript', '_map_option1_ack', '_map_option1_on');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_map_auto_detected', '_map_allow_sync', '_map_name', '_map_is_free', '_map_is_readonly', '_map_help_url', '_map_api_key', '_map_source_hash', '_map_textual_hash', '_map_suggested_is_necessary', '_map_page_reload_on_user_consent', '_map_sync_datetime_human', '_map_sync_datetime', '_map_is_necessary', '_map_translations', '_map_installation_type', '_map_code', '_map_raw_code', '_map_auto_detected_override', '_map_js_dependencies', '_map_remote_id', '_map_noscript', '_map_option1_ack', '_map_option1_on');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_map_auto_detected', '_map_allow_sync', '_map_name', '_map_is_free', '_map_is_readonly', '_map_help_url', '_map_api_key', '_map_source_hash', '_map_textual_hash', '_map_suggested_is_necessary', '_map_page_reload_on_user_consent', '_map_sync_datetime_human', '_map_sync_datetime', '_map_is_necessary', '_map_translations', '_map_installation_type', '_map_code', '_map_raw_code', '_map_auto_detected_override', '_map_js_dependencies', '_map_remote_id', '_map_noscript', '_map_option1_ack', '_map_option1_on');
+

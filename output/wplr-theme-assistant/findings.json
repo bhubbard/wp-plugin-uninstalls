@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wplr_hide_posttypes",
+    "wplr_posttype",
+    "wplr_posttype_status",
+    "wplr_posttype_hierarchical",
+    "wplr_posttype_reuse",
+    "wplr_posttype_mode",
+    "wplr_posttype_meta",
+    "wplr_taxonomy",
+    "wplr_taxonomy_reuse",
+    "wplr_taxonomy_tags",
+    "wplr_taxonomy_tags_reuse"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:34.066Z"
+}

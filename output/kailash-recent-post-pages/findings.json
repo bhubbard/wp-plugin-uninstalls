@@ -1,0 +1,19 @@
+{
+  "options": [
+    "krpp_posts_per_page",
+    "krpp_columns",
+    "krpp_show_image",
+    "krpp_show_readmore",
+    "krpp_readmore_text",
+    "krpp_auto_display_location",
+    "krpp_auto_display_margin",
+    "krpp_auto_display_bgcolor",
+    "krpp_auto_display_padding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:26.858Z"
+}

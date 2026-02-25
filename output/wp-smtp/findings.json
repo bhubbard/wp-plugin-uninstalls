@@ -1,0 +1,14 @@
+{
+  "options": [
+    "solid_mail_migration_error",
+    "wp_smtp_options",
+    "stellarwp_telemetry",
+    "stellarwp_telemetry_last_send"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:06.788Z"
+}

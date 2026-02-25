@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_first_activate_date",
+    "*_install_date",
+    "*_settings",
+    "active_sitewide_plugins",
+    "nsa_wpfbp_settings"
+  ],
+  "transients": [
+    "*_meta_keys"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*event",
+    "*event_values",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:59.225Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "vulners_plugins_audit_result",
+    "vulners_os_audit_result",
+    "vulners_os_audit_last_changes",
+    "vulners_plugins_audit_last_changes",
+    "VULNERS_EMAIL",
+    "VULNERS_API_KEY",
+    "vulners_audit_result"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vulners_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:47.599Z"
+}

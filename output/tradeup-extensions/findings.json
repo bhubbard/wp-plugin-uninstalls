@@ -1,0 +1,18 @@
+{
+  "options": [
+    "widget_bx-item-features",
+    "widget_bx-item-actions",
+    "widget_bx-item-slider",
+    "tuext_fp_installed",
+    "tuext_dismiss_fp_create",
+    "sidebars_widgets",
+    "tradeup_ext_widgets_bk",
+    "jetpack_active_modules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:52.621Z"
+}

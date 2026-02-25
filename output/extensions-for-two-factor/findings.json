@@ -1,0 +1,15 @@
+{
+  "options": [
+    "two_factor_extensions_basics",
+    "two_factor_extensions_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_new_mobile",
+    "mobile"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:45.600Z"
+}

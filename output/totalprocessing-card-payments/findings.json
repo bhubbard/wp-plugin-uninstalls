@@ -1,0 +1,40 @@
+{
+  "options": [
+    "woocommerce_wc_tp_cardsv3_settings",
+    "wc_totalprocessing_applepay_permalinks_flushed",
+    "checkout_used_*",
+    "applepayDomainRegStatus",
+    "woocommerce_email_from_address",
+    "woocommerce_email_from_name",
+    "applepayDomainRegStatusHash",
+    "*gateway_cardsv2_iframe",
+    "wc_token_removal_log_*",
+    "*gateway_cardsv2_e2e",
+    "*gateway_cardsv2_cbk",
+    "*gateway_cardsv2_iframe_url",
+    "wc_totalprocessing_applepay_merchantIdentifier",
+    "*synced_data",
+    "*_settings",
+    "*gateway_settings_sync"
+  ],
+  "transients": [
+    "checkout_used_*",
+    "tp_applepay_checkout_*",
+    "checkout_*",
+    "applepay_cart_*"
+  ],
+  "cron_jobs": [
+    "tp_applepay_cleanup_stale_data",
+    "tpob_check_next_scheduled",
+    "*dupe_payment_validation",
+    "tp_gateway_logs_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_applepay_checkout_id",
+    "_applepay_checkout_timestamp",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:01.844Z"
+}

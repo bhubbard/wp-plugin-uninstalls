@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "ultimate_product_badge_for_woocommerce_do_activation_redirect",
+    "ultimate_product_badge_for_woocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:25.979Z"
+}

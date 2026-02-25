@@ -1,0 +1,29 @@
+{
+  "options": [
+    "uiewp_export_field",
+    "import-export-users "
+  ],
+  "transients": [
+    "export_all_users_file_*",
+    "export_users_by_roles_file_*",
+    "export_specific_users_file_*",
+    "export_roles_file_*",
+    "export_caps_file_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname",
+    "first_name",
+    "last_name",
+    "description",
+    "rich_editing",
+    "syntax_highlighting",
+    "comment_shortcuts",
+    "use_ssl",
+    "admin_color",
+    "show_admin_bar_front"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:14.278Z"
+}

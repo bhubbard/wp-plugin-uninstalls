@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpzoom_forms_welcome_guide_shown",
+    "wpzf-form_first-activate",
+    "wpzf_upsell_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_wpzf_fields",
+    "_wpzf_form_id",
+    "_form_success_message",
+    "_form_failure_message",
+    "_form_method",
+    "_form_email",
+    "_form_subject"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:41.978Z"
+}

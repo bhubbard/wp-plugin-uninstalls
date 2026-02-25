@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fitnessbliss_hide_c",
+    "fitnessbliss_heading",
+    "fcbmi_heading",
+    "fcbfc_heading",
+    "fccc_heading",
+    "fccc_metric_only",
+    "fccc_theme_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:27.931Z"
+}

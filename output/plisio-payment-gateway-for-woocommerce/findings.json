@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_plisio_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plisio_order_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:45.703Z"
+}

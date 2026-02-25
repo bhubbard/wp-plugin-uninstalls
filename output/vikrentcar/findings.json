@@ -1,0 +1,27 @@
+{
+  "options": [
+    "dashboard_widget_options",
+    "groupsysmessages",
+    "vikrentcar_software_version",
+    "vikrentcar_onactivate",
+    "vikrentcar_breaking_changes",
+    "vikrentcar_screen_failed_attempts",
+    "vikrentcar_list_limit",
+    "vikrentcar_changelog",
+    "vikrentcar_license_key",
+    "vikrentcar_license_expdate",
+    "vikrentcar_license_hash",
+    "vikrentcar_tmp_*"
+  ],
+  "transients": [
+    "vikrentcar_screen_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_rss_feeds",
+    "*_rss_optin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:35.092Z"
+}

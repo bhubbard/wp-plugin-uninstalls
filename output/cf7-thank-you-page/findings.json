@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cf7_thank_you_page_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7_redirect_setting",
+    "use_external_url",
+    "enable_redirect",
+    "external_url",
+    "redirect_page",
+    "redirect_post_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:27.957Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "aissp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_old_slug",
+    "ai-snippet-seo-pro_membership_tokens",
+    "_aissp_focus_keyword",
+    "_aissp_seo_title",
+    "_aissp_seo_description",
+    "_aissp_score"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:52.375Z"
+}

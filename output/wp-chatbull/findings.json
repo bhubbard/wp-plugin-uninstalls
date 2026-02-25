@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gaxon_wpcbcp_linked",
+    "gaxon_wpcbcp_chatbox_method",
+    "gaxon_wpcbcp_chatbull_dir",
+    "gaxon_wpcbcp_widget_code",
+    "gaxon_wpcbcp_enabled_chatbox",
+    "gaxon_wpcbcp_pick_wpuser",
+    "gaxon_wpcbcp_visiblity_tpe",
+    "gaxon_wpcbcp_cbwindow_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:31.090Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fatcxe_options",
+    "fatcxe_next_export",
+    "fatcxe_last_export",
+    "fatcxe_version",
+    "fatcxe_exports_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:57.113Z"
+}

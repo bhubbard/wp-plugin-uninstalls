@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpseo_titles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_seo_keyword"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:59.266Z"
+}

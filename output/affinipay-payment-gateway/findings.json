@@ -1,0 +1,21 @@
+{
+  "options": [
+    "affinipay_public_key",
+    "affinipay_secret_key",
+    "affinipay_operating_mode",
+    "affinipay_receipt_page",
+    "affinipay_mode",
+    "affinipay_test_public_key",
+    "affinipay_test_secret_key",
+    "affinipay_test_account_id",
+    "affinipay_live_public_key",
+    "affinipay_live_secret_key",
+    "affinipay_live_account_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:38.332Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ypl_redirect",
+    "ypl-delete-data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "YPL_SAVED_SETTINGS",
+    "ypl_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:56.685Z"
+}

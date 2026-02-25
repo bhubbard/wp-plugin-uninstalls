@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_hide_review_box",
+    "*_show_review_box_after",
+    "*_hide_upgrade_box",
+    "*_show_upgrade_box_after",
+    "stars_testimonials_update_message",
+    "stars_testimonail_plugin_redirection",
+    "hide_testirecommended_plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "testimonial_company_name",
+    "testimonial_company_url",
+    "testimonial_stars"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:27.764Z"
+}

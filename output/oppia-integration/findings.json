@@ -1,0 +1,23 @@
+{
+  "options": [
+    "oppia_configs",
+    "oppia_config_list",
+    "oppia_api_key",
+    "oppia_sections",
+    "oppia_section_qty",
+    "oppia_newconfig",
+    "oppia_list_size",
+    "oppia_title",
+    "oppia_beforetitle",
+    "oppia_aftertitle",
+    "oppia_beforewidget",
+    "oppia_afterwidget",
+    "oppia_widget_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:52.559Z"
+}

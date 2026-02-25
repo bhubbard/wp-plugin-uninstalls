@@ -1,0 +1,33 @@
+{
+  "options": [
+    "disqus_shortname",
+    "disqus_shortname_old",
+    "num_items",
+    "num_items_old",
+    "hide_avatars",
+    "hide_avatars_old",
+    "hide_moderator",
+    "hide_moderator_old",
+    "avatar_size",
+    "avatar_size_old",
+    "excerpt_length",
+    "excerpt_length_old",
+    "style",
+    "style_old",
+    "disqus_custom_css",
+    "disqus_custom_css_old",
+    "bypass_cache",
+    "bypass_cache_old",
+    "disqus_target_blank",
+    "disqus_target_blank_old",
+    "itsg_disqus_lastest_comments_addon_settings"
+  ],
+  "transients": [
+    "itsg_dlc_cache_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:32.475Z"
+}

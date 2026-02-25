@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nmpc*",
+    "nm_pr_list",
+    "nm_setting"
+  ],
+  "transients": [
+    "_xiamitoken"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_song*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:39.208Z"
+}

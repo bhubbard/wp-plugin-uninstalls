@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'vidbgpro-notice-dismissed'
+wp option delete 'vidbg_disable_pro_fields'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%container'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%container'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%container'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%container'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%mp4'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%mp4'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%mp4'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%mp4'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%webm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%webm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%webm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%webm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%poster'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%poster'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%poster'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%poster'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%overlay'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%overlay'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%overlay'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%overlay'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%overlay_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%overlay_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%overlay_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%overlay_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%overlay_alpha'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%overlay_alpha'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%overlay_alpha'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%overlay_alpha'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%no_loop'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%no_loop'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%no_loop'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%no_loop'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%tap_to_unmute'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%tap_to_unmute'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%tap_to_unmute'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%tap_to_unmute'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"

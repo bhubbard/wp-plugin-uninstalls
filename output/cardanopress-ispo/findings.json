@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*version"
+  ],
+  "transients": [
+    "*_lock",
+    "*activating"
+  ],
+  "cron_jobs": [
+    "*_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:46.898Z"
+}

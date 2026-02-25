@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uou_bookable_main_cost",
+    "bookable_availibility",
+    "own_availibility_date_ranges",
+    "bookable_meta",
+    "bookable_availibility_resource",
+    "_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:20.960Z"
+}

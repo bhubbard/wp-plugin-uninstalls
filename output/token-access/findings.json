@@ -1,0 +1,18 @@
+{
+  "options": [
+    "tokenaccess_placeholder_html",
+    "tokenaccess_token_key",
+    "tokenaccess_expiry_hours",
+    "tokenaccess_add_token",
+    "tokenaccess_remove_token",
+    "add_token",
+    "remove_token",
+    "expire_hours"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:28.820Z"
+}

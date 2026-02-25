@@ -1,0 +1,38 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_text'"
+wp option delete 'persian_tools_blockeditor_backend_choice'
+wp option delete 'persian_tools_remove_wp_generator'
+wp option delete 'persian_tools_remove_wp_shortlink'
+wp option delete 'persian_tools_remove_rsd_feed'
+wp option delete 'persian_tools_remove_emoji'
+wp option delete 'persian_tools_remove_jetpack_requests'
+wp option delete 'persian_tools_disable_lazyload'
+wp option delete 'persian_tools_disable_wlwmanifest'
+wp option delete 'persian_tools_disable_image_resizing'
+wp option delete 'persian_tools_disable_xmlrpc'
+wp option delete 'persian_tools_elementor_choice'
+wp option delete 'persian_tools_disable_wooupdates'
+wp option delete 'persian_tools_disable_woo_tracks'
+wp option delete 'persian_tools_checkout_fields'
+wp option delete 'persian_tools_guest_redirect_enabled'
+wp option delete 'persian_tools_guest_redirect_url'
+wp option delete 'persian_tools_checkout_message_enabled'
+wp option delete 'persian_tools_checkout_custom_message'
+wp option delete 'persian_tools_checkout_message_position'
+wp option delete 'persian_tools_single_add_to_cart_text'
+wp option delete 'persian_tools_archive_add_to_cart_text'
+wp option delete 'persian_tools_checkout_button_text'
+wp option delete 'persian_tools_cart_button_text'
+wp option delete 'persian_tools_proceed_to_checkout_text'
+wp option delete 'persian_tools_login_slug'
+wp option delete 'persian_tools_custom_css'
+wp option delete 'persian_tools_custom_css_desktop'
+wp option delete 'persian_tools_custom_css_mobile'
+wp option delete 'persian_tools_delete_on_uninstall'
+wp option delete 'persian_tools_option'
+wp option delete 'persian_tools_font_frontend_choice'
+wp option delete 'persian_tools_font_backend_choice'
+

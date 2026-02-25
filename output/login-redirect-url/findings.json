@@ -1,0 +1,14 @@
+{
+  "options": [
+    "login_redirect_url_hosts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "login_redirect_url",
+    "login_redirect_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:00.110Z"
+}

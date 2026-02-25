@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_version",
+    "woocommerce_ginger_settings",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_order_id",
+    "bank_reference",
+    "refund_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:02.711Z"
+}

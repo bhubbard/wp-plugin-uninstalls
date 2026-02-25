@@ -1,0 +1,13 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'csf_demo_mode'
+wp option delete 'bp_order_delivery_date_installed'
+wp option delete 'wc-wdda-delivery-timeslots'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_csf_errors_%'"

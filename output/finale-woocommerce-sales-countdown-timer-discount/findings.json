@@ -1,0 +1,58 @@
+{
+  "options": [
+    "wcct_posts_sample_ids",
+    "*_upsell_displayed",
+    "_xl_transient_*",
+    "xlp_is_opted",
+    "_site_transient_update_plugins",
+    "xlplugin_finale_lite_hide_update_notice",
+    "woocommerce_currency",
+    "active_sitewide_plugins",
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_manage_stock",
+    "wcct_global_options",
+    "woocommerce_tax_display_shop",
+    "xl_licenses_*",
+    "xl_admin_notices",
+    "xl_uninstall_reasons",
+    "xl_optin_ref",
+    "woocommerce_default_country",
+    "woocommerce_calc_taxes",
+    "woocommerce_enable_guest_checkout",
+    "xl_track_day",
+    "*_license_active",
+    "*license_data"
+  ],
+  "transients": [
+    "WCCT_INSTANCES",
+    "update_plugins",
+    "xl_get_modules"
+  ],
+  "cron_jobs": [
+    "wcct_schedule_reset_state",
+    "wcct_clear_goaldeal_stock_meta_keys",
+    "wcct_maybe_schedule_check_license",
+    "xl_new_maybe_track_usage_scheduled"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_wcct_campaign_menu_order",
+    "wcct_rule",
+    "_wcct_product_taxonomy_term_ids",
+    "_stock",
+    "_price",
+    "_wcct_deal_units",
+    "_wcct_settings",
+    "_stock_status",
+    "_manage_stock",
+    "_wcct_current_status_timing",
+    "_sale_price",
+    "date_expires",
+    "expiry_date",
+    "_icl_lang_duplicate_of",
+    "_custom_wc_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:31.657Z"
+}

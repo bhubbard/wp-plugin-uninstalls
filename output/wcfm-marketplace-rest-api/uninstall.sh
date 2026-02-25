@@ -1,0 +1,83 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_weight_unit'
+wp option delete 'woocommerce_dimension_unit'
+wp option delete 'active_sitewide_plugins'
+wp option delete 'wcfm_capability_options'
+wp option delete 'wcfm_marketplace_options'
+wp option delete 'woocommerce_manage_stock'
+wp option delete 'woocommerce_price_num_decimals'
+wp option delete 'wcfmvm_registration_custom_fields'
+wp option delete 'wcfm_shipping_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%user_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%user_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%user_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%user_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'display_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'display_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'display_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'display_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'order'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'order'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'order'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'order'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_user_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_user_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_user_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_user_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wcfmmp_profile_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wcfmmp_profile_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wcfmmp_profile_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wcfmmp_profile_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_disable_vendor'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_disable_vendor'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_disable_vendor'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_disable_vendor'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wcfm_store_offline'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wcfm_store_offline'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wcfm_store_offline'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wcfm_store_offline'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wcfm_email_verified'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wcfm_email_verified'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wcfm_email_verified'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wcfm_email_verified'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wcfm_email_verified_for'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wcfm_email_verified_for'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wcfm_email_verified_for'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wcfm_email_verified_for'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wcfmvm_custom_infos'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wcfmvm_custom_infos'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wcfmvm_custom_infos'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wcfmvm_custom_infos'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wcfm_membership'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wcfm_membership'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wcfm_membership'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wcfm_membership'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wcfm_membership_next_schedule'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wcfm_membership_next_schedule'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wcfm_membership_next_schedule'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wcfm_membership_next_schedule'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'subscription'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'subscription'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'subscription'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'subscription'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wcfm_membership_billing_period'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wcfm_membership_billing_period'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wcfm_membership_billing_period'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wcfm_membership_billing_period'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wcfm_membership_billing_cycle'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wcfm_membership_billing_cycle'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wcfm_membership_billing_cycle'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wcfm_membership_billing_cycle'"

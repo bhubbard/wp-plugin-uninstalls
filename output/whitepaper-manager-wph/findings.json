@@ -1,0 +1,23 @@
+{
+  "options": [
+    "pprwph_options_changed",
+    "pprwph_form_changed",
+    "pprwph_options_remove",
+    "whitepaper-manager-wph",
+    "pprwph_title",
+    "pprwph_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pprwph_section_parent_check",
+    "pprwph_section_parent",
+    "pprwph_section_publish",
+    "pprwph_section_link_check",
+    "pprwph_section_link",
+    "type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:45.651Z"
+}

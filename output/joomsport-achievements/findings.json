@@ -1,0 +1,32 @@
+{
+  "options": [
+    "jsarch_deactivation_popup",
+    "*_metas"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vdw_gallery_id",
+    "_jsprt_achv_season_ranking",
+    "_jsprt_achv_season_points",
+    "_jsprt_achv_player_about",
+    "_jsprt_achv_player_country",
+    "_jsprt_achv_player_ef",
+    "_jsprt_achv_season_about",
+    "_jsprt_achv_season_ef",
+    "_jsprt_achv_stage_season",
+    "_jsprt_achv_stage_about",
+    "_jsprt_achv_stage_stagecat_*",
+    "_jsprt_achv_stage_date",
+    "_jsprt_achv_stage_time",
+    "_jsprt_achv_stage_ef",
+    "_jsprt_achv_stage_result_sorting",
+    "extrafields_per_page",
+    "resfields_per_page",
+    "stages_per_page",
+    "_joomsport_player_personal"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:24.244Z"
+}

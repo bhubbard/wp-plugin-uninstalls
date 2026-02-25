@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pla_animation_choose",
+    "pla_animation_upload",
+    "pla_animation_bg_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:57.384Z"
+}

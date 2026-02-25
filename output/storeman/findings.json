@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "load_stock_from_file"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "polylang_current_lang",
+    "polylang"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:44.673Z"
+}

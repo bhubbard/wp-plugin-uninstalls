@@ -1,0 +1,32 @@
+{
+  "options": [
+    "cb_license_key",
+    "r_notice_data",
+    "*-transients",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "redux-framework-tracking",
+    "redux_version_upgraded_from",
+    "redux_support_hash"
+  ],
+  "transients": [
+    "*-transient",
+    "redux_tracking_cache",
+    "redux-extensions-fetch",
+    "redux_contributors"
+  ],
+  "cron_jobs": [
+    "redux_tracking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "hn_eliio_copy",
+    "hn_eliio_cta",
+    "hn_eliio_link",
+    "hn_eliio_tracking",
+    "ignore_hints",
+    "ignore_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:18.008Z"
+}

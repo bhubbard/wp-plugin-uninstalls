@@ -1,0 +1,15 @@
+{
+  "options": [
+    "widget_box_lite_no_theme4press_theme_notice",
+    "widget_box_lite_activation_notice",
+    "widget_box_lite_*",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:02.950Z"
+}

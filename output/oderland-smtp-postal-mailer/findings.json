@@ -1,0 +1,17 @@
+{
+  "options": [
+    "oderland_smtp_postal_mailer_version",
+    "oderland_smtp_postal_mailer",
+    "oderland_smtp_postal_mailer_old_plugin_handled",
+    "smtp_postal",
+    "smtp_postal_version",
+    "smtp_postal_notices",
+    "oderland_smtp_postal_mailer_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:28.230Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gptranslate_options",
+    "gptranslate_default_language"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gptranslate_daily_update_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:41.933Z"
+}

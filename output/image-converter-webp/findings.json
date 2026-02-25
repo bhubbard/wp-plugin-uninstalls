@@ -1,0 +1,15 @@
+{
+  "options": [
+    "icfw",
+    "webp_img_converter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webp_img",
+    "icfw_img"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:27.981Z"
+}

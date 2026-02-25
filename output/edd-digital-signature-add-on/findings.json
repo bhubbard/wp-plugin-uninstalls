@@ -1,0 +1,20 @@
+{
+  "options": [
+    "remove_rating_widget_EDD",
+    "esign_edd_agreement_setting",
+    "esign_edd_sad_page"
+  ],
+  "transients": [
+    "_esign_edd_redirect",
+    "esig-edd-shortcode-view"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_esig_edd_meta_product_agreement",
+    "_esig_edd_meta_sad_page",
+    "_esign_edd_sign_logic"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:03.664Z"
+}

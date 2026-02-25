@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mangapress_upgrade",
+    "mangapress_options",
+    "mangapress_ver",
+    "mangapress_default_category",
+    "rewrite_rules",
+    "mangapress_db_ver"
+  ],
+  "transients": [
+    "mangapress_random_comics"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:03.552Z"
+}

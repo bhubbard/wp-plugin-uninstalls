@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'K7eypR3a8ndomG2en3'
+wp option delete 'RandoM9kEYp3Hrase1L'
+wp option delete '5KeyWoRd2RandoM8Gen'
+wp option delete 'Gen1raNdomKeyP4hrasE'
+wp option delete '7R8a9nD3oM6K2eYp0hrase'
+wp option delete 'WAWC_logo_selector'
+wp option delete 'WAWC_page_names'
+wp option delete 'WAWC_page_links'
+wp option delete 'WAWC_map_api'
+wp option delete 'WAWC_remove_additional_field'
+wp option delete 'WAWC_remove_company'
+wp option delete 'WAWC_remove_address2'
+wp option delete 'WAWC_remove_phone'
+wp option delete 'WAWC_remove_shipping_address'
+wp option delete 'WAWC_remove_coupons'
+wp option delete 'button-background-color'
+wp option delete 'button-text-color'
+wp option delete 'link-colors'
+wp option delete 'logo-width-px'
+wp option delete 'WAWC_order_bump_position'
+wp option delete 'WAWC_order_bump_title'
+wp option delete 'WAWC_order_bump_price'
+wp option delete 'WAWC_order_bump_description'
+wp option delete 'WAWC_bump_image_selector'
+wp option delete 'woocommerce_enable_guest_checkout'
+wp option delete 'woocommerce_enable_checkout_login_reminder'
+wp option delete 'woocommerce_enable_signup_and_login_from_checkout'
+

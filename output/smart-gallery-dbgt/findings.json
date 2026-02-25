@@ -1,0 +1,19 @@
+{
+  "options": [
+    "puipui_dbgt_form_option_library",
+    "puipui_dbgt_form_option_apikey",
+    "puipui_dbgt_form_option_safesearch",
+    "puipui_dbgt_form_option_apijeton",
+    "puipui_dbgt_form_option_powered",
+    "puipui_dbgt_form_option_imagesize",
+    "puipui_dbgt_form_option_legal",
+    "puipui_dbgt_form_option_cachingtime",
+    "dbgt_puipui_form_option_cachingtime"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:05.015Z"
+}

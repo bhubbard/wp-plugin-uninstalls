@@ -1,0 +1,36 @@
+{
+  "options": [
+    "mmdc_login_logo",
+    "mmdc_login_bg",
+    "mmdc_login_logo_url",
+    "mmdc_login_logo_title",
+    "mmdc_login_bg_color",
+    "mmdc_login_message",
+    "mmdc_login_message_color",
+    "mmdc_login_btn_color",
+    "mmdc_remove_help",
+    "mmdc_remove_screen_options",
+    "mmdc_widgets_welcome",
+    "mmdc_widgets_glance",
+    "mmdc_widgets_activity",
+    "mmdc_widgets_draft",
+    "mmdc_widgets_quick_draft",
+    "mmdc_widgets_wp_news",
+    "mmdc_widgets_plugins",
+    "mmdc_remove_wp_topbar",
+    "mmdc_remove_wp_edit_topbar",
+    "mmdc_remove_new_topbar",
+    "mmdc_change_howdy_topbar",
+    "mmdc_wp_thankyou_footer_disable",
+    "mmdc_wp_thankyou_footer",
+    "mmdc_wp_version_disable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show_welcome_panel"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:03.764Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "duplicator_post_page_installed",
+    "duplicator_post_page_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:06.019Z"
+}

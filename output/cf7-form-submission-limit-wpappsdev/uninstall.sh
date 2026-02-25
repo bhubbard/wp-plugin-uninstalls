@@ -1,0 +1,63 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_last_send'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_skipped'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_allow_tracking'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_notice'"
+wp option delete 'wpadcf7sl_installed'
+wp option delete 'wpadcf7sl_version'
+
+# Clear Cron Jobs
+wp cron event delete 'wpadcf7sl_submission_count_reset'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-limit-enabled'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-limit-enabled'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-limit-enabled'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-limit-enabled'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-reset-date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-reset-date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-reset-date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-reset-date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-total-submission'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-total-submission'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-total-submission'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-total-submission'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-period-interval'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-period-interval'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-period-interval'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-period-interval'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-period'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-period'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-period'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-period'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-limit-type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-limit-type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-limit-type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-limit-type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-reset-limit-disable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-reset-limit-disable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-reset-limit-disable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-reset-limit-disable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-after-submission'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-after-submission'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-after-submission'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-after-submission'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-page-reload-delay'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-page-reload-delay'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-page-reload-delay'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-page-reload-delay'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-redirect-page'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-redirect-page'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-redirect-page'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-redirect-page'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpadcf7sl-disable-display-message'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpadcf7sl-disable-display-message'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpadcf7sl-disable-display-message'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpadcf7sl-disable-display-message'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'submission-total-count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'submission-total-count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'submission-total-count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'submission-total-count'"

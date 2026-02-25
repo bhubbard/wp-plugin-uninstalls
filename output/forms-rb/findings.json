@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "rbforms_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_rbforms_sent",
+    "_rbforms_userip",
+    "_rbforms_read",
+    "_rbforms_rows",
+    "rbforms_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:07.368Z"
+}

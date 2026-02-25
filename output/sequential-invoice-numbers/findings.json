@@ -1,0 +1,16 @@
+{
+  "options": [
+    "aodsi_si_what_statuses",
+    "aodsi_si_email_number",
+    "aodsi_first_si_number"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aodsi_invoice_no",
+    "_shipping_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:45.371Z"
+}

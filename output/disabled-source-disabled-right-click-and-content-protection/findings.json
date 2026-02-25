@@ -1,0 +1,15 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "jh_disable_post_types",
+    "jh_disabled_option",
+    "jh_installation_date",
+    "jh_review_notice_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:51.466Z"
+}

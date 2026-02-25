@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cfa_name",
+    "_cfa_email",
+    "_cfa_subject",
+    "_cfa_phone",
+    "_cfa_message",
+    "_cfa_container_bg0",
+    "_cfa_container_bg1",
+    "_cfa_form_div_style",
+    "_cfa_input_field_style",
+    "_cfa_heading_style",
+    "_cfa_submit_style",
+    "_cfa_message_style",
+    "_cfa_border_radius_style",
+    "_cfa_send_mail",
+    "_cfa_value"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:02.867Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "jwt_auth_pro_settings",
+    "jwt_auth_pro_general_settings",
+    "jwt_auth_cookie_config"
+  ],
+  "transients": [
+    "jwt_auth_pro_version",
+    "jwt_auth_pro_deactivation_notice"
+  ],
+  "cron_jobs": [
+    "jwt_auth_pro_clean_expired_tokens"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:39.496Z"
+}

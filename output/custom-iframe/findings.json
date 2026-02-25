@@ -1,0 +1,19 @@
+{
+  "options": [
+    "custif_pro_license_status",
+    "custif_pro_license_key",
+    "custif_installation_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_iframe_notice_dismissed",
+    "_custom_iframe_pro_notice_dismissed",
+    "_custif_rating_notice_dismissed",
+    "_custif_rating_remind_later",
+    "_custif_elementor_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:44.087Z"
+}

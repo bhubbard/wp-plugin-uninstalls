@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fsms_no_of_rows",
+    "email_footer",
+    "email_header",
+    "fsms_currency_symbol",
+    "fsms_vat",
+    "fsms_company_address",
+    "thanks_email",
+    "from_email_address",
+    "thanks_email_subject",
+    "invoice_top_setting",
+    "invoice_bottom_setting",
+    "quote_top_setting",
+    "quote_bottom_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:44.311Z"
+}

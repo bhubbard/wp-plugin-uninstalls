@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gmwplw_facebook_pixel_id",
+    "gmwplw_gtag_pixel_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gmwplw_facebook_pixel_events",
+    "gmwplw_enable_facebook_pixel",
+    "gmwplw_gtag_pixel_events",
+    "gmwplw_enable_gtag_pixel"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:54.033Z"
+}

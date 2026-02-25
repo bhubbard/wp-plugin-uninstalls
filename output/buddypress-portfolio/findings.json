@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bp_portfolio_template",
+    "bp_portfolio_desc_max_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bp_portfolio_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:40.146Z"
+}

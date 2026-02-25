@@ -1,0 +1,19 @@
+{
+  "options": [
+    "arxygen_aiwrite_private_key",
+    "arxygen_aiwrite_advanced_logging",
+    "arxygen_aiwrite_admin_email"
+  ],
+  "transients": [
+    "arxygen_aiwrite_activate_redirect"
+  ],
+  "cron_jobs": [
+    "arxygen_aiwrite_remote_server_call_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "menu_label"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:10.491Z"
+}

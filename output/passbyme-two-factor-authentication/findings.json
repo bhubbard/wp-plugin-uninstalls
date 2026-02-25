@@ -1,0 +1,26 @@
+{
+  "options": [
+    "pbm_2fa_management_certificate",
+    "pbm_2fa_application_certificate",
+    "pbm_2fa_message_title",
+    "pbm_2fa_message",
+    "pbm_2fa_timeout",
+    "pbm_2fa_mng_url",
+    "pbm_2fa_auth_url",
+    "pbm_2fa_proxy_url",
+    "pbm_2fa_proxy_port",
+    "pbm_2fa_proxy_pwd",
+    "pbm_2fa_application_pwd",
+    "pbm_2fa_management_pwd"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pbm_2fa_authentication",
+    "pbm_2fa_user_status",
+    "pbm_2fa_user_oid"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:47.826Z"
+}

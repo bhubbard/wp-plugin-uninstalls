@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sp_color_scheme",
+    "sp_layout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sp_fb_url",
+    "sp_twitter_url",
+    "sp_linkedin_url",
+    "sp_gplus_url",
+    "sp_staff_designation",
+    "sp_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:45.879Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "api_set",
+    "project_select"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:24.998Z"
+}

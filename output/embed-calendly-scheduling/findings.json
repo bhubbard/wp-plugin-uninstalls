@@ -1,0 +1,14 @@
+{
+  "options": [
+    "emcs_activation_time",
+    "emcs_display_greeting",
+    "emcs_encryption_key",
+    "emcs_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:41.828Z"
+}

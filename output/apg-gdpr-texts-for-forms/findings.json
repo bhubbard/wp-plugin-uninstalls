@@ -1,0 +1,14 @@
+{
+  "options": [
+    "apg_rgpd"
+  ],
+  "transients": [
+    "apg_rgpd_jetpack",
+    "apg_rgpd_plugin"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:02.708Z"
+}

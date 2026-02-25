@@ -1,0 +1,21 @@
+{
+  "options": [
+    "smprotection_membership_levels",
+    "smprotection_enable_protection",
+    "smprotection_thank_you_page_url",
+    "stripe_secret_key",
+    "stripe_publishable_key",
+    "smprotection_stripe_mode",
+    "smprotection_stripe_live_secret",
+    "smprotection_stripe_test_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "membership_level",
+    "_smprotection_required_membership_level"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:01.926Z"
+}

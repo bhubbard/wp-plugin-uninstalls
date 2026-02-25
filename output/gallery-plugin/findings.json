@@ -1,0 +1,39 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "gllr_options",
+    "gllr_demo_options",
+    "rewrite_rules",
+    "*_size_w",
+    "*_size_h",
+    "widget_gallery_categories_widget",
+    "cstmsrch_options",
+    "*demo_options",
+    "*options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers",
+    "_thumbnail_id",
+    "gllr_album_order",
+    "_gallery_images",
+    "_gallery_order_*",
+    "gllr_image_alt_tag",
+    "gllr_image_text",
+    "gallery_images_shortpixel",
+    "gllr_link_url",
+    "wp_gllr_media_library_mode",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:26.814Z"
+}

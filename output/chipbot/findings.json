@@ -1,0 +1,12 @@
+{
+  "options": [
+    "chipbot_account_id",
+    "chipbot_js_snippet"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:08.269Z"
+}

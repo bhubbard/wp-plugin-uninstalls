@@ -1,0 +1,27 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "_jltmaf_welcome_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "close_icon",
+    "open_icon",
+    "faq-title-bg-color",
+    "faq-title-text-color",
+    "faq-bg-color",
+    "faq-text-color",
+    "faq-border-color",
+    "faq_icon_position"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:29.664Z"
+}

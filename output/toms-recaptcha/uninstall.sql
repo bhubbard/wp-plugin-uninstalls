@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('toms_recaptcha_woo_login_form', 'toms_recaptcha_v3_site_key', 'toms_recaptcha_v3_secret_key', 'toms_recaptcha_type', 'toms_recaptcha_v2_checkbox_site_key', 'toms_recaptcha_v2_checkbox_secret_key', 'toms_recaptcha_v2_invisible_site_key', 'toms_recaptcha_v2_invisible_secret_key', 'toms_recaptcha_cfb', 'toms_recaptcha_verify_api', 'toms_recaptcha_language', 'toms_recaptcha_v2_theme', 'toms_recaptcha_invisible_badge', 'toms_recaptcha_um_login_form', 'toms_recaptcha_um_register_form', 'toms_recaptcha_um_lostpassword_form', 'woocommerce_registration_generate_username', 'woocommerce_registration_generate_password', 'toms_recaptcha_woo_register_form', 'toms_recaptcha_woo_lostpassword_form', 'toms_recaptcha_woo_checkout_page', 'woocommerce_myaccount_page_id', 'woocommerce_myaccount_lost_password_endpoint', 'woocommerce_checkout_page_id', 'toms_recaptcha_login_form', 'toms_recaptcha_register_form', 'toms_recaptcha_lostpassword_form', 'toms_recaptcha_comment_form', 'toms_recaptcha_clear_data');
+

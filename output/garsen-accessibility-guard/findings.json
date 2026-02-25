@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "garsen_accessibility_guard_account_info",
+    "garsen_accessibility_guard_scan_status_cache",
+    "garsen_accessibility_guard_connect_state_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:58.048Z"
+}

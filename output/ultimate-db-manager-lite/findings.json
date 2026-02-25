@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ultimate-db-skip-premium",
+    "ultimate_db_manager_global_settings",
+    "ultimate_db_global_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ultimate_db_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:11.777Z"
+}

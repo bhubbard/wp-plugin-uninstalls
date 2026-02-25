@@ -1,0 +1,23 @@
+{
+  "options": [
+    "vidbgpro-notice-dismissed",
+    "vidbg_disable_pro_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*container",
+    "*mp4",
+    "*webm",
+    "*poster",
+    "*overlay",
+    "*overlay_color",
+    "*overlay_alpha",
+    "*no_loop",
+    "*tap_to_unmute",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:25.313Z"
+}

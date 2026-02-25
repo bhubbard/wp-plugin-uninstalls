@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ai_summary_generator_api_url",
+    "ai_summary_generator_api_token",
+    "ai_summary_generator_model_name",
+    "ai_summary_generator_prompt",
+    "ai_summary_generator_homepage_override",
+    "ai_summary_generator_update_on_post_update",
+    "ai_summary_generator_max_retries",
+    "ai_summary_homepage_override"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ai_summary_generator_summary",
+    "_ai_summary_generator_last_modified"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:32.094Z"
+}

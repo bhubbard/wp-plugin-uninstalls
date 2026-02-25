@@ -1,0 +1,25 @@
+{
+  "options": [
+    "dp_shop_page_id",
+    "dp_discontinued_text",
+    "dp_alt_text",
+    "dp_hide_from_shop",
+    "dp_hide_from_search",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "do_update_dp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_discontinued",
+    "_hide_from_shop",
+    "_hide_from_search",
+    "_alt_products",
+    "_discontinued_product_text",
+    "_alt_product_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:39.189Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "lwa_data",
+    "lwa_admin_notices",
+    "lwa_pro_api_key",
+    "lwa_notification_override",
+    "lwa_version",
+    "lwa_transport_responses"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_registered",
+    "_lwa_dismissed_notices",
+    "lwa",
+    "lwa_passkeys",
+    "lwa_passkey_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:16.393Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mejorcluster_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mejorcluster-title",
+    "mejorcluster-desc",
+    "mejorcluster-image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:37.342Z"
+}

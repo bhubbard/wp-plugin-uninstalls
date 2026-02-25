@@ -1,0 +1,12 @@
+{
+  "options": [
+    "khattat_arabic_activation_time",
+    "khattat_last_notice_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:41.371Z"
+}

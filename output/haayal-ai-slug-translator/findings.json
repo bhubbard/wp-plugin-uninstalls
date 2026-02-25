@@ -1,0 +1,19 @@
+{
+  "options": [
+    "haayal_ai_proxy_quota_remaining",
+    "haayal_slug_translator_dismissed_notice",
+    "haayal_dismissed_review_notice",
+    "_ai_slug_generated_slugs_counter",
+    "ai_slug_translator_settings",
+    "_ai_slug_error_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_generated_slug",
+    "_slug_source"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:52.869Z"
+}

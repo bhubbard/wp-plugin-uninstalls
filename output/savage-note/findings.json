@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sn_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_seopress_titles_title",
+    "_seopress_titles_desc",
+    "rank_math_title",
+    "rank_math_description",
+    "managesavage-note_page_sn-articlescolumnshidden",
+    "managesavage-note_page_sn-purchasecolumnshidden",
+    "managesavage-note_page_sn-lotscolumnshidden"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:29.290Z"
+}

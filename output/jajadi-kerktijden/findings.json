@@ -1,0 +1,27 @@
+{
+  "options": [
+    "jajadi_kerktijden_db_version",
+    "jajadikerktijdenkerkid",
+    "jajadikerktijdendefaulttext",
+    "jajadikerktijdendefaulbackground",
+    "jajadikerktijdencancelledregular",
+    "jajadikerktijdencancelledtype",
+    "jajadikerktijdengatheringtype",
+    "jajadikerktijdengatheringtyperegular",
+    "jajadikerktijdenlink",
+    "jajadikerktijdenlinkhover",
+    "jajadikerktijdendate",
+    "jajadikerktijdenlocation",
+    "jajadikerktijdenlocationdeviating",
+    "jajadikerktijdenpasttext",
+    "jajadikerktijdenpastdaytext"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jajadi_kerktijden_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:55.122Z"
+}

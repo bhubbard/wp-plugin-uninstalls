@@ -1,0 +1,16 @@
+{
+  "options": [
+    "improvedexternalproducts_sections",
+    "woocommerce-improved-external-products",
+    "iepp_do_activation_redirect",
+    "wpo_iepp_pro_notice_dismissed",
+    "iepp_go_pro_notice",
+    "wpo_iepp_pro_notice_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:39.851Z"
+}

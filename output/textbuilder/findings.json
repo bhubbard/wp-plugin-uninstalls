@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tbSettings",
+    "tssSettings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tb_token",
+    "tb_token_created",
+    "tb_token_last_used"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:11.336Z"
+}

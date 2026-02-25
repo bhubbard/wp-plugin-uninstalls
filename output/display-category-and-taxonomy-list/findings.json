@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dcatl_admin_style_settings"
+  ],
+  "transients": [
+    "dcatl_active_notice",
+    "dcatl_dependency"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dcatl_term_image",
+    "_wp_attachment_image_alt",
+    "dcatl_install_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:01.508Z"
+}

@@ -1,0 +1,43 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "laa_map_style",
+    "laa_marker_icon",
+    "laa_getting_started_notice_dismissed",
+    "laa_layout_style",
+    "laa_start_lat",
+    "laa_start_lng",
+    "laa_start_zoom",
+    "laa_disable_areas",
+    "laa_hide_address",
+    "laa_disable_gmaps_link",
+    "laa_disable_cluster",
+    "laa_enable_frontend_location_adding",
+    "laa_thankyou_headline",
+    "laa_thankyou_text"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lat",
+    "lng",
+    "zoom",
+    "_laa_location_key",
+    "_laa_location_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:59.298Z"
+}

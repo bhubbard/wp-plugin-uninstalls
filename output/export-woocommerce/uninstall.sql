@@ -1,0 +1,22 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('active_sitewide_plugins', 'alg_wc_export_version', 'alg_export_products_fields_date_filter', 'alg_export_products_fields_from_date', 'alg_export_products_fields_end_date', 'woocommerce_version', 'alg_export_csv_separator_3_orders', 'alg_wc_export_add_timepicker', 'alg_export_csv_xml_user_capability', 'alg_export_csv_send_content_length_header', 'alg_export_csv_wrap', 'alg_export_csv_separator', 'alg_export_csv_add_utf_8_bom', 'alg_wc_export_confirm_hpos', 'alg_export_customers_fields', 'alg_export_csv_separator_2_customers', 'alg_wc_export_time_limit', 'alg_export_customers_from_orders_fields', 'alg_wc_export_wp_query_block_size', 'alg_export_csv_separator_2_orders', 'alg_export_orders_fields', 'alg_export_orders_items_fields', 'alg_export_csv_separator_2_products', 'alg_export_products_fields', 'alg_export_products_fields_sorted', 'alg_export_products_variation_newline', 'alg_export_products_attribute', 'alg_export_customers_from_orders_fields_file_type', 'alg_export_customers_from_orders_fields_from_date', 'alg_export_customers_from_orders_fields_end_date', 'alg_wc_export_ajax_download', 'alg_export_products_fields_file_type');
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_orders_fields_additional_enabled_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_orders_fields_additional_title_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_orders_fields_additional_value_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_orders_items_fields_additional_enabled_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_orders_items_fields_additional_title_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_orders_items_fields_additional_value_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_orders_items_fields_additional_type_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_products_fields_additional_enabled_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_products_fields_additional_title_%';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_export_products_fields_additional_value_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_reset';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('last_update', '_sku', '_visibility', '_stock_status', '_downloadable', '_virtual', '_regular_price', '_sale_price', '_featured', '_weight', '_length', '_width', '_height', '_price', '_sold_individually', '_manage_stock', '_backorders', '_stock');
+DELETE FROM wp_usermeta WHERE meta_key IN ('last_update', '_sku', '_visibility', '_stock_status', '_downloadable', '_virtual', '_regular_price', '_sale_price', '_featured', '_weight', '_length', '_width', '_height', '_price', '_sold_individually', '_manage_stock', '_backorders', '_stock');
+DELETE FROM wp_termmeta WHERE meta_key IN ('last_update', '_sku', '_visibility', '_stock_status', '_downloadable', '_virtual', '_regular_price', '_sale_price', '_featured', '_weight', '_length', '_width', '_height', '_price', '_sold_individually', '_manage_stock', '_backorders', '_stock');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('last_update', '_sku', '_visibility', '_stock_status', '_downloadable', '_virtual', '_regular_price', '_sale_price', '_featured', '_weight', '_length', '_width', '_height', '_price', '_sold_individually', '_manage_stock', '_backorders', '_stock');
+

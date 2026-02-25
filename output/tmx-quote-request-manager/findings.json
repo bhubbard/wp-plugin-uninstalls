@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wqrm_poll_interval_seconds",
+    "wqrm_api_token",
+    "wqrm_api_base_url",
+    "wqrm_prefill_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wqrm_prefill_request"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:20.410Z"
+}

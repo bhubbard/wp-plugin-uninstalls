@@ -1,0 +1,25 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "tmsht_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [
+    "tmsht_clear_period_timesheet",
+    "tmsht_reminder_to_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers",
+    "_tmsht_ts_report_filters"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:30.403Z"
+}

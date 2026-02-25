@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rollback_settings"
+  ],
+  "transients": [
+    "core_rollback",
+    "_core_rollback",
+    "_core_rollback_offers"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:44.437Z"
+}

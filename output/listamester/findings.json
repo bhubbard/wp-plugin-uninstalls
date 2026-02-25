@@ -1,0 +1,18 @@
+{
+  "options": [
+    "listamester_lmid",
+    "listamester_lmpwd",
+    "lm_user_id",
+    "lm_api_key"
+  ],
+  "transients": [
+    "listamester_form_*",
+    "listamester_html_*",
+    "listamester_js_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:38.368Z"
+}

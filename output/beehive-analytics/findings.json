@@ -1,0 +1,14 @@
+{
+  "options": [
+    "beehive_version",
+    "beehive_owner_user",
+    "wdev-frash",
+    "psts_levels"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:23.501Z"
+}

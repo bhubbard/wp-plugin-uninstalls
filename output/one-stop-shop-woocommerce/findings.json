@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_eu_tax_helper_last_rate_changeset",
+    "woocommerce_tax_based_on",
+    "oss_hide_notice_*",
+    "oss_use_oss_procedure",
+    "oss_fixed_gross_prices",
+    "*_tmp_result",
+    "oss_woocommerce_notification_sent_*",
+    "one_stop_shop_woocommerce",
+    "oss_woocommerce_reports_running",
+    "oss_woocommerce_observer_report_*",
+    "oss_enable_auto_observation",
+    "oss_woocommerce_reports",
+    "woocommerce_gzd_version",
+    "oss_report_date_type",
+    "*_result",
+    "oss_fixed_gross_prices_for_third_countries",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [
+    "oss_reports_counts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:33.499Z"
+}

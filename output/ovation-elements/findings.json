@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ovation_slider_is_premium"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ova_elems_template_id",
+    "_ova_elems_slides",
+    "_ova_elems_static_settings",
+    "_ova_elems_selected_posts_template4",
+    "_ova_elems_button_data_template4",
+    "_ova_elems_tour_info_data_template4",
+    "_ova_elems_video_data_template4",
+    "_ova_elems_static_settings_template4",
+    "_tutor_course_price_type",
+    "tutor_course_price",
+    "tutor_course_sale_price",
+    "_tutor_course_level",
+    "_course_duration",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:30.066Z"
+}

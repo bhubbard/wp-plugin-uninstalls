@@ -1,0 +1,21 @@
+{
+  "options": [
+    "yt2wp_youtube_api_key",
+    "yt2wp_auto_import",
+    "yt2wp_cron_job_schedule",
+    "yt2wp_youtube_user_id",
+    "yt2wp_post_category",
+    "yt2wp_import_attempt",
+    "yt2wp_youtube_next_page_token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yt2wp_youtube_video_import"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yt2wp_youtube_video_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:14.883Z"
+}

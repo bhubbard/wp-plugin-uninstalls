@@ -1,0 +1,19 @@
+{
+  "options": [
+    "accesly_settings",
+    "accesly_license_key",
+    "accesly_license_status",
+    "accesly_last_license_check"
+  ],
+  "transients": [
+    "accesly_license_message"
+  ],
+  "cron_jobs": [
+    "accesly_daily_license_check_retry",
+    "accesly_daily_license_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:36.358Z"
+}

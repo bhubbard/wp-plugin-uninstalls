@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wms-db-result-key",
+    "wms-remote-site-info",
+    "wms-last-remote-site",
+    "wms-site-key",
+    "msd_path"
+  ],
+  "transients": [
+    "wms-results-sqlite-file-path"
+  ],
+  "cron_jobs": [
+    "wms_schedule_dump_with_php"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:31.791Z"
+}

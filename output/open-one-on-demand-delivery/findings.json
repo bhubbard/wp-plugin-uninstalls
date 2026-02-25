@@ -1,0 +1,19 @@
+{
+  "options": [
+    "openone_apikey",
+    "openone_secretkey",
+    "openone_date_from",
+    "openone_date_to",
+    "openone_store_selected",
+    "openone_check_selected",
+    "openone_custom_address",
+    "openone_custom_zipcode",
+    "openone_custom_city"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:29.041Z"
+}

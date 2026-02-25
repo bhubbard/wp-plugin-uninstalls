@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_cart_redirect_after_add'
+wp option delete 'csf_demo_mode'
+wp option delete 'woocommerce_enable_ajax_add_to_cart'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sale_price_dates_to'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sale_price_dates_to'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sale_price_dates_to'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sale_price_dates_to'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'total_sales'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'total_sales'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'total_sales'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'total_sales'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'lav_boost_elementor_fake_sales_count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'lav_boost_elementor_fake_sales_count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'lav_boost_elementor_fake_sales_count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'lav_boost_elementor_fake_sales_count'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'lav_boost_elementor_fake_sales_last_update'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'lav_boost_elementor_fake_sales_last_update'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'lav_boost_elementor_fake_sales_last_update'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'lav_boost_elementor_fake_sales_last_update'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_csf_errors_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'lav_boost_fake_sales_count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'lav_boost_fake_sales_count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'lav_boost_fake_sales_count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'lav_boost_fake_sales_count'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'lav_boost_fake_sales_last_update'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'lav_boost_fake_sales_last_update'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'lav_boost_fake_sales_last_update'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'lav_boost_fake_sales_last_update'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_search_lav_queries'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_search_lav_queries'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_search_lav_queries'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_search_lav_queries'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_regular_price'"

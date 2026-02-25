@@ -1,0 +1,22 @@
+{
+  "options": [
+    "superdocs-general-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "productId",
+    "superdocs-template",
+    "categories",
+    "categoryId",
+    "superdocs_category",
+    "superdocs_product",
+    "superdocs_edit_with_option",
+    "_wp_page_template",
+    "_elementor_edit_mode",
+    "_elementor_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:30.464Z"
+}

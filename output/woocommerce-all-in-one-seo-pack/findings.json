@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "*_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aioseop_keywords",
+    "_aioseop_description",
+    "_aioseop_title",
+    "_aioseop_titleatr",
+    "_aioseop_menulabel",
+    "_aioseop_disable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:29.740Z"
+}

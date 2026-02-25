@@ -1,0 +1,12 @@
+{
+  "options": [
+    "LTK_OAUTH_TOKEN",
+    "LTK_ID"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:46.773Z"
+}

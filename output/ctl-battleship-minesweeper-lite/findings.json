@@ -1,0 +1,13 @@
+{
+  "options": [
+    "CTL_ARCADE_LITE_PLUGIN_VERSION",
+    "*_do_activation_redirect",
+    "ctl-battleship-minesweeper-lite_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:59.089Z"
+}

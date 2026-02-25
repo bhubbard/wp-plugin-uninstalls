@@ -1,0 +1,16 @@
+{
+  "options": [
+    "proco_product_compare",
+    "current_products_id",
+    "current_compare_cat_id",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:15.666Z"
+}

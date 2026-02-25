@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ecwp_event_date_start",
+    "ecwp_event_date_end",
+    "ecwp_venue_id",
+    "ecwp_event_text_bg",
+    "*venue_id",
+    "*text_phone",
+    "*url_website",
+    "*email_email",
+    "*organizer_id",
+    "*date_start",
+    "*date_end"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:06.310Z"
+}

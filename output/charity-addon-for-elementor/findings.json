@@ -1,0 +1,14 @@
+{
+  "options": [
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:23.483Z"
+}

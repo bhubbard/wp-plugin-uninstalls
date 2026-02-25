@@ -1,0 +1,41 @@
+{
+  "options": [
+    "track_connect_lodging_types",
+    "plugin_wp_listings_settings",
+    "wp_listings_taxonomies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_listing_lodging_type_*",
+    "_wp_post_template",
+    "_listing_first_image",
+    "_listing_state",
+    "_listing_city",
+    "_listing_address",
+    "_listing_text",
+    "_listing_min_rate",
+    "_listing_open_house",
+    "_listing_bedrooms",
+    "_listing_bathrooms",
+    "_listing_sqft",
+    "_listing_occupancy",
+    "_listing_unit_id",
+    "_listing_overview",
+    "_listing_disable_sync_description",
+    "_listing_complex_id",
+    "_listing_price",
+    "_listing_images",
+    "_listing_amenities",
+    "_listing_max_rate",
+    "_listing_lot_sqft",
+    "_listing_gallery",
+    "_listing_youtube_id",
+    "_listing_school_neighborhood",
+    "_listing_home_sum",
+    "_listing_map"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:39.424Z"
+}

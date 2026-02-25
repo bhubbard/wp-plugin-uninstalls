@@ -1,0 +1,16 @@
+{
+  "options": [
+    "unzer_public_key",
+    "unzer_chargeback_order_status",
+    "unzer_captured_order_status",
+    "unzer_private_key",
+    "woocommerce_default_country",
+    "unzer_authorized_order_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:03.879Z"
+}

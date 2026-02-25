@@ -1,0 +1,17 @@
+{
+  "options": [
+    "relario_api_key",
+    "relario_debug_mode",
+    "relario_product_id",
+    "relario_product_name",
+    "relario_sms_text_prefix"
+  ],
+  "transients": [
+    "relario_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:03.290Z"
+}

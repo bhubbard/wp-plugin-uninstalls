@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pal_contact_form_notice_shown",
+    "pal_contact_form_sandbox",
+    "pal_contact_form_sandbox_account",
+    "pal_contact_form_live_account",
+    "pal_contact_form_currency",
+    "pal_contact_form_language",
+    "pal_contact_form_return_url",
+    "pal_contact_form_cancel_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pal_contact_form_setting_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:07.752Z"
+}

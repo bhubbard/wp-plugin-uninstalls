@@ -1,0 +1,14 @@
+{
+  "options": [
+    "max_bricks_elements",
+    "mab_elements_settings",
+    "mab_override_ms",
+    "mab_multisite_settings_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:51.746Z"
+}

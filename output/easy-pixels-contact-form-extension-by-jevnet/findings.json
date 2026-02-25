@@ -1,0 +1,13 @@
+{
+  "options": [
+    "jn_cf7_ADW_labels",
+    "jn_GADW_CF7_enable",
+    "jnAnalyticsCF7Settings-group"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:06.228Z"
+}

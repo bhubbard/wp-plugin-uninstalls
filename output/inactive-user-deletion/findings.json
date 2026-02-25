@@ -1,0 +1,25 @@
+{
+  "options": [
+    "iaud_days_active",
+    "iaud_reassign_user",
+    "iaud_warning_days_first",
+    "iaud_warning_days_final",
+    "iaud_email_subject_first",
+    "iaud_email_message_first",
+    "iaud_email_subject_final",
+    "iaud_email_message_final",
+    "iaud_disable_emails"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "iaud_inactive_user_deletion_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "last_login",
+    "iaud_first_warning_sent",
+    "iaud_final_warning_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:02.190Z"
+}

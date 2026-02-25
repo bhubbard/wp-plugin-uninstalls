@@ -1,0 +1,23 @@
+{
+  "options": [
+    "addtohos_float_button_enabled",
+    "addtohos_web_app_float_text",
+    "addtohos_activate",
+    "addtohos_menifest_version",
+    "addtohos_web_app_title",
+    "addtohos_web_start_page",
+    "addtohos_web_app_color",
+    "addtohos_web_app_background_color",
+    "addtohos_manifest_screenshots",
+    "addtohos_manifest_shortcuts",
+    "addtohos_manifest_icons",
+    "addtohos_web_app_button_color",
+    "winter_mvc_active_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:25.739Z"
+}

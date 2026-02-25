@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "start_time",
+    "total_time",
+    "logged_in_amount",
+    "average_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:29.109Z"
+}

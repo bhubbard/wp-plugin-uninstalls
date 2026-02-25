@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gf_blocks_for_discogs__settings",
+    "*__settings",
+    "*__api_rates"
+  ],
+  "transients": [
+    "gf_clear_cache_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "listing_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:51.930Z"
+}

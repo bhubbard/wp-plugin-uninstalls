@@ -1,0 +1,49 @@
+{
+  "options": [
+    "subre_settings",
+    "woocommerce_queue_flush_rewrite_rules",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_subre_subscription_next_payment",
+    "_subre_subscription_expire",
+    "_subre_subscription_ids",
+    "_subre_subscription_renewal_ids",
+    "_subre_product_is_subscription",
+    "_subre_product_sign_up_fee",
+    "_subre_product_period_unit",
+    "_subre_product_period",
+    "_subre_product_trial_period",
+    "_subre_product_trial_period_unit",
+    "_subre_product_expire_after",
+    "_subre_product_expire_after_unit",
+    "wmc_order_info",
+    "_subre_subscription_current_renewal_order",
+    "_stripe_source_id",
+    "_payment_method_token",
+    "_ppcp_paypal_payment_mode",
+    "_stripe_customer_id",
+    "_payment_intent_id",
+    "_wc_stripe_mode",
+    "_subre_subscription_last_payment",
+    "_subre_renewal_order_no",
+    "_subre_subscription_scheduled_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:00.897Z"
+}

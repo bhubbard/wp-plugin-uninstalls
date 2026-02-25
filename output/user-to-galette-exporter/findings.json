@@ -1,0 +1,18 @@
+{
+  "options": [
+    "DB_USER",
+    "DB_PASSWORD",
+    "DB_NAME",
+    "DB_HOST",
+    "Galette_Prefix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:26.476Z"
+}

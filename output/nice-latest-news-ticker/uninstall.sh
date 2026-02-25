@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nice_ticker_cl_repeat_group'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nice_ticker_cl_repeat_group'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nice_ticker_cl_repeat_group'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nice_ticker_cl_repeat_group'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nice_ticker_heading'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nice_ticker_heading'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nice_ticker_heading'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nice_ticker_heading'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nice_ticker_heading_font_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nice_ticker_heading_font_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nice_ticker_heading_font_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nice_ticker_heading_font_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nice_ticker_heading_bg'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nice_ticker_heading_bg'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nice_ticker_heading_bg'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nice_ticker_heading_bg'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nice_ticker_heading_bg_hover'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nice_ticker_heading_bg_hover'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nice_ticker_heading_bg_hover'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nice_ticker_heading_bg_hover'"

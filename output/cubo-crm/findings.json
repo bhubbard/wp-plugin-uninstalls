@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cubo_crm_form_settings",
+    "cubo_crm_global_token",
+    "cubo_crm_smtp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:45.773Z"
+}

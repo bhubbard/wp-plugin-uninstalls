@@ -1,0 +1,42 @@
+{
+  "options": [
+    "scmw_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_scmw_discount_code",
+    "_scmw_discount_description",
+    "_scmw_discount_style",
+    "_scmw_discount_percentage",
+    "_scmw_discount_bg_color",
+    "_scmw_discount_text_color",
+    "_scmw_conditions",
+    "_scmw_message_type",
+    "_scmw_bg_color",
+    "_scmw_text_color",
+    "_scmw_ticker_text",
+    "_scmw_ticker_speed",
+    "_scmw_ticker_label",
+    "_scmw_ticker_label_bg",
+    "_scmw_ticker_label_color",
+    "_scmw_ticker_border_color",
+    "_scmw_ticker_text_bg",
+    "_scmw_ticker_text_color",
+    "_scmw_ticker_show_dot",
+    "_scmw_stock_show_remaining",
+    "_scmw_stock_text_template",
+    "_scmw_countdown_date",
+    "_scmw_countdown_text",
+    "_scmw_custom_image_id",
+    "_scmw_custom_image_link",
+    "_scmw_custom_message_text",
+    "_scmw_social_platforms",
+    "_scmw_enabled",
+    "_scmw_display_position",
+    "_scmw_priority"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:02.389Z"
+}

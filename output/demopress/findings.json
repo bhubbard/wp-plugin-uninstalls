@@ -1,0 +1,17 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "demopress_run_generator",
+    "*-license-validation"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_demopress_generated_content",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:28.730Z"
+}

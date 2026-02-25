@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vw_property_listing_agent_user_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:25.261Z"
+}

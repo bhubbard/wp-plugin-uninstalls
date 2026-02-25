@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tssev_options",
+    "tssev_db_version",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "include_in_main_loop"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:12.968Z"
+}

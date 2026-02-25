@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "beer_abv",
+    "beer_ibu",
+    "beer_og",
+    "beer_fg",
+    "beer_color",
+    "beer_grains",
+    "beer_yeast",
+    "beer_hops",
+    "beer_avail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:16.004Z"
+}

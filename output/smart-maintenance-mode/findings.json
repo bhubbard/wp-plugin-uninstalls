@@ -1,0 +1,19 @@
+{
+  "options": [
+    "smm_version",
+    "disable_smm",
+    "smm_heading",
+    "smm_subheading",
+    "smm_image",
+    "smm_roles",
+    "smm_html",
+    "smm_countdown",
+    "smm_donate_popup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:43.704Z"
+}

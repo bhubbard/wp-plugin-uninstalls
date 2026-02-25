@@ -1,0 +1,12 @@
+{
+  "options": [
+    "woocommerce_thanks_page_id",
+    "woocommerce_yedpay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:08.960Z"
+}

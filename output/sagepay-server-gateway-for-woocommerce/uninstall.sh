@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_force_ssl_checkout'
+
+# Delete Transients
+wp transient delete 'sagepay_server_next_url'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'Status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'Status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'Status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'Status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'StatusDetail'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'StatusDetail'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'StatusDetail'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'StatusDetail'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'VPSTxId'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'VPSTxId'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'VPSTxId'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'VPSTxId'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'CAVV'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'CAVV'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'CAVV'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'CAVV'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'SecurityKey'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'SecurityKey'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'SecurityKey'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'SecurityKey'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'TxAuthNo'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'TxAuthNo'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'TxAuthNo'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'TxAuthNo'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'AVSCV2'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'AVSCV2'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'AVSCV2'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'AVSCV2'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'AddressResult'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'AddressResult'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'AddressResult'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'AddressResult'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'PostCodeResult'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'PostCodeResult'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'PostCodeResult'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'PostCodeResult'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'CV2Result'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'CV2Result'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'CV2Result'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'CV2Result'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '3DSecureStatus'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '3DSecureStatus'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '3DSecureStatus'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '3DSecureStatus'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'VendorTxCode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'VendorTxCode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'VendorTxCode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'VendorTxCode'"

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpsecure_uno",
+    "wpsecure_due",
+    "wpsecure_tre",
+    "wpsecure_quattro",
+    "wpsecure_cinque",
+    "wpsecure_sei",
+    "wpsecure_sette",
+    "apgnsm_n_otto",
+    "apgnsm_n_nove",
+    "wpsecure_otto",
+    "wpsecure_nove"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:17.232Z"
+}

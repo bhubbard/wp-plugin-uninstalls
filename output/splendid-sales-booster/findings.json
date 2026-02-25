@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wcssb_section_location",
+    "wcssb_db_version",
+    "woocommerce_enable_ajax_add_to_cart",
+    "woocommerce_cart_redirect_after_add",
+    "wcssb_section_default_title",
+    "wcssb_show_images"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:59.318Z"
+}

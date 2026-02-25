@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sendwp_client_secret",
+    "sendwp_client_connected",
+    "sendwp_forwarding_enabled",
+    "_transient_timeout_sendwp_pulse_monitor",
+    "_transient_sendwp_pulse_monitor"
+  ],
+  "transients": [
+    "sendwp_pulse_monitor"
+  ],
+  "cron_jobs": [
+    "sendwp_heartbeat",
+    "*/access/revoke"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:21.175Z"
+}

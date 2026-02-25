@@ -1,0 +1,14 @@
+{
+  "options": [
+    "voidcoders_restrictor_response",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "VoidCodersProductCatVisibility"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:42.115Z"
+}

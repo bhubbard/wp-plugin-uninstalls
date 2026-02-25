@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wsp_on_product_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "priority",
+    "wsp_cho",
+    "wsp_tp",
+    "wsp_aac_products"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:04.120Z"
+}

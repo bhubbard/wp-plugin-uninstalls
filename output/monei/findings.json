@@ -1,0 +1,28 @@
+{
+  "options": [
+    "hide-new-version-monei-notice",
+    "monei_log_level",
+    "woocommerce_monei_apple_google_settings",
+    "woocommerce_monei_bizum_settings",
+    "woocommerce_monei_settings",
+    "woocommerce_monei_mbway_settings",
+    "woocommerce_monei_multibanco_settings",
+    "woocommerce_monei_paypal_settings",
+    "monei_debug",
+    "monei_orderdo",
+    "monei_pre_authorize",
+    "monei_test_apikey",
+    "monei_live_apikey",
+    "monei_apikey_mode",
+    "monei_test_accountid",
+    "monei_live_accountid",
+    "monei_apikey",
+    "monei_accountid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:51.254Z"
+}

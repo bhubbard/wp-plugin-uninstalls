@@ -1,0 +1,34 @@
+{
+  "options": [
+    "wpte_pl_settings",
+    "WPTE_wpl_installed",
+    "WPTE_wpl_version",
+    "WPTE_wpl_activation_redirect",
+    "wpte_google_font",
+    "woocommerce_weight_unit",
+    "woocommerce_dimensions_unit",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "get_wpte_wpl_admin_menu",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_stock",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:25.307Z"
+}

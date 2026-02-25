@@ -1,0 +1,33 @@
+{
+  "options": [
+    "woo_address_book_*",
+    "*_save_limit",
+    "woocommerce_enable_shipping_calc",
+    "woo_address_book_billing_save_limit",
+    "woo_address_book_shipping_save_limit",
+    "woocommerce_calc_shipping"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_address_book_*",
+    "wc_address_book",
+    "shipping_address_1",
+    "billing_address_1",
+    "*_address_nickname",
+    "wc_address_book_billing",
+    "wc_address_book_shipping",
+    "*_first_name",
+    "*_last_name",
+    "*_company",
+    "*_address_1",
+    "*_address_2",
+    "*_city",
+    "*_state",
+    "*_postcode",
+    "*_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:08.628Z"
+}

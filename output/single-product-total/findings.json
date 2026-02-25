@@ -1,0 +1,25 @@
+{
+  "options": [
+    "sptotal_total_text",
+    "sptotal_total_position",
+    "sptotal_delay",
+    "woocommerce_price_num_decimals",
+    "rate_sptotal",
+    "sptotal_cart_btn",
+    "spline_if_inline",
+    "sptotal_background",
+    "sptotal_price_color",
+    "sptotal_label_color",
+    "sptotal_cart_btn_txt",
+    "woocommerce_currency_pos",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "sptotal_text_align"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:20.820Z"
+}

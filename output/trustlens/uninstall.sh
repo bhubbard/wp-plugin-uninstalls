@@ -1,0 +1,82 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'trustlens_installed_timestamp'
+wp option delete 'auto_update_plugins'
+wp option delete 'trustlens_min_orders'
+wp option delete 'trustlens_enable_blocking'
+wp option delete 'trustlens_enable_dashboard'
+wp option delete 'trustlens_enable_order_warning'
+wp option delete 'trustlens_block_message'
+wp option delete 'trustlens_enable_payment_method_controls'
+wp option delete 'trustlens_payment_method_control_segments'
+wp option delete 'trustlens_payment_method_control_gateways'
+wp option delete 'trustlens_payment_method_control_min_total'
+wp option delete 'trustlens_payment_method_control_message'
+wp option delete 'trustlens_payment_method_control_velocity_enabled'
+wp option delete 'trustlens_payment_method_control_velocity_count'
+wp option delete 'trustlens_payment_method_control_velocity_hours'
+wp option delete 'trustlens_payment_method_control_linked_risk_enabled'
+wp option delete 'trustlens_returns_high_threshold'
+wp option delete 'trustlens_returns_critical_threshold'
+wp option delete 'trustlens_module_returns_enabled'
+wp option delete 'trustlens_module_orders_enabled'
+wp option delete 'trustlens_module_coupons_enabled'
+wp option delete 'trustlens_module_categories_enabled'
+wp option delete 'trustlens_module_linked_accounts_enabled'
+wp option delete 'trustlens_linked_accounts_penalty'
+wp option delete 'trustlens_module_chargebacks_enabled'
+wp option delete 'trustlens_chargebacks_auto_block'
+wp option delete 'trustlens_coupons_block_linked_abuse'
+wp option delete 'trustlens_coupons_max_first_order'
+wp option delete 'trustlens_notification_email'
+wp option delete 'trustlens_enable_automation'
+wp option delete 'trustlens_enable_webhooks'
+wp option delete 'trustlens_webhook_events'
+wp option delete 'trustlens_enable_scheduled_reports'
+wp option delete 'trustlens_report_email'
+wp option delete 'trustlens_remove_data_on_uninstall'
+wp option delete 'trustlens_api_key'
+wp option delete 'trustlens_sync_status'
+wp option delete 'trustlens_automation_rules'
+wp option delete 'trustlens_report_schedules'
+wp option delete 'trustlens_enable_notifications'
+wp option delete 'trustlens_notify_blocked_checkout'
+wp option delete 'trustlens_notify_welcome_summary'
+wp option delete 'trustlens_notify_weekly_summary'
+wp option delete 'trustlens_welcome_summary_sent'
+wp option delete 'trustlens_db_version'
+wp option delete 'trustlens_segment_thresholds'
+wp option delete 'trustlens_category_weights'
+wp option delete 'fs_debug_mode'
+wp option delete '_transient_timeout_fs_snooze_period'
+wp option delete '_site_transient_timeout_fs_snooze_period'
+wp option delete 'active_sitewide_plugins'
+wp option delete 'fs_storage_logger'
+wp option delete 'fs_active_plugins'
+
+# Delete Transients
+wp transient delete 'trustlens_activated'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_trustlens_bulk_job_%' OR option_name LIKE '_site_transient_trustlens_bulk_job_%'"
+wp transient delete 'wstl_segment_counts'
+wp transient delete 'wstl_high_risk_10'
+wp transient delete 'wstl_high_risk_25'
+wp transient delete 'fs_snooze_period'
+wp transient delete 'update_plugins'
+wp transient delete '_fs_api_connection_retry_counter'
+wp transient delete 'update_themes'
+
+# Clear Cron Jobs
+wp cron event delete 'trustlens/welcome_summary'
+wp cron event delete 'trustlens/daily_cleanup'
+wp cron event delete 'trustlens/daily_digest'
+wp cron event delete 'trustlens/monthly_report'
+wp cron event delete 'trustlens/weekly_summary'
+wp cron event delete 'fs_debug_turn_off_logging_hook'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_trustlens_first_order_coupon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_trustlens_first_order_coupon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_trustlens_first_order_coupon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_trustlens_first_order_coupon'"

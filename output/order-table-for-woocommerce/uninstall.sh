@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'otfw_batch_attribute_to_use'
+wp option delete 'otfw_unit_attribute_to_use'
+wp option delete 'otfw_is_premium'
+wp option delete 'otfw_show_attri_in_title'
+wp option delete 'otfw_header_config'
+wp option delete 'otfw_show_header'
+wp option delete 'otfw_table_config'
+wp option delete 'otfw_override_shop'
+wp option delete 'otfw_override_shop_show_cat'
+wp option delete 'Order_Table_Activated_Plugin'
+wp option delete 'Activated_Plugin'
+wp option delete 'otfw_sale_badge'
+wp option delete 'otfw_use_plugin_increment_css'
+wp option delete 'otfw_override_all'
+wp option delete 'otfw_confirm_input'
+wp option delete 'otfw_table_style'
+wp option delete 'otfw_table_header_sticky'
+wp option delete 'otfw_show_stocklevel'
+wp option delete 'otfw_show_images'
+wp option delete 'otfw_link_title'
+wp option delete 'otfw_show_cat_desc'
+wp option delete 'otfw_cats_expand'
+wp option delete 'otfw_package_string'
+wp option delete 'otfw_checkout_string'
+wp option delete 'otfw_set_the_width_manual'
+

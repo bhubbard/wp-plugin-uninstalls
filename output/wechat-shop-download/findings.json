@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_settings",
+    "wshop_order_last_view",
+    "wshop-ajax:service:extensions:*",
+    "wshop_plugins_installed",
+    "page_xh_wshop_account_my_orders",
+    "wshop_addons_versions",
+    "wechat_token",
+    "xh_install_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "xunhuweb_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wshop_download_link",
+    "link_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:42.008Z"
+}

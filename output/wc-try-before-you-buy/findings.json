@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tbyb_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_manage_stock",
+    "_stock_status",
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:01.034Z"
+}

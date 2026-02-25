@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wb_ocw_ver",
+    "ocw_db_ver",
+    "wb_ocw_promote",
+    "wb_ocw_cnf_*",
+    "*ver",
+    "wb_item_faqs",
+    "wbm-cnf"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ocw_mail_send"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:58.109Z"
+}

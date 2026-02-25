@@ -1,0 +1,21 @@
+{
+  "options": [
+    "language",
+    "latitude",
+    "longitude",
+    "map_width",
+    "map_height",
+    "zoom",
+    "curr_format",
+    "day_more_five_fare",
+    "day_less_five_fare",
+    "more_five_fare",
+    "less_five_fare"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:33.547Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "Amazon-wishlist-pro-listID",
+    "Amazon-wishlist-pro-sort-order",
+    "Amazon-wishlist-pro-websites",
+    "Amazon-wishlist-pro-use-cache",
+    "Amazon-wishlist-pro-invalidate-cache",
+    "Amazon-wishlist-pro-layout",
+    "Amazon-wishlist-pro-use-unsorted-list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:30.244Z"
+}

@@ -1,0 +1,20 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'eew_settings'
+wp option delete 'eew_egg-1'
+wp option delete 'eew_egg-2'
+wp option delete 'eew_files_settings'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'eew_egg-%'"
+wp option delete 'eew_target-url'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'hasCoupon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'hasCoupon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'hasCoupon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'hasCoupon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'eew_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'eew_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'eew_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'eew_data'"

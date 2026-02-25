@@ -1,0 +1,24 @@
+{
+  "options": [],
+  "transients": [
+    "fx-admin-notice-example"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "st_sf_th",
+    "port-bg",
+    "port-text-color",
+    "st_sf_tag",
+    "port-count",
+    "port_layout",
+    "st_sf_ps",
+    "port_page",
+    "port_filters",
+    "port_load_more",
+    "port-load_count",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:17.809Z"
+}

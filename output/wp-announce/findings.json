@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wpa_options",
+    "wpa_post_id",
+    "wpa_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpa_header_style",
+    "wpa_body_style",
+    "_thumbnail_id",
+    "_wp_attached_file",
+    "wpa_test_cookie",
+    "wpa_access",
+    "wpa_frequency",
+    "wpa_status",
+    "wpa_width",
+    "wpa_height",
+    "wpa_delay",
+    "wpa_bgcolor"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:14.678Z"
+}

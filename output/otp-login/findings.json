@@ -1,0 +1,20 @@
+{
+  "options": [
+    "otpl_enable",
+    "otpl_register_url",
+    "otpl_login_attempt",
+    "otpl_login_locktime",
+    "otpl_redirect_url",
+    "otpl_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "otpl_login_attempts",
+    "otpl_last_failed_time",
+    "emilotp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:54.408Z"
+}

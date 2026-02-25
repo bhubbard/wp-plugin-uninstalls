@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp2048_options",
+    "wp2048_custom",
+    "wp2048_highscore",
+    "wp2048_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp2048_score"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:48.348Z"
+}

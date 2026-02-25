@@ -1,0 +1,33 @@
+{
+  "options": [
+    "*_flush_rewrite_rules",
+    "*_version",
+    "mihdan_yandex_turbo_feed",
+    "mihdan_yandex_turbo_feed-transients",
+    "mihdan_yandex_turbo_feed_version",
+    "active_sitewide_plugins",
+    "cptui_post_types",
+    "cptui_taxonomies",
+    "acf_version"
+  ],
+  "transients": [
+    "acf_deactivated_notice_id",
+    "acf_network_upgrade_needed_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_remove",
+    "mihdan_yandex_turbo_feed_review_dismissed",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:12.082Z"
+}

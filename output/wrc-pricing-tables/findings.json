@@ -1,0 +1,19 @@
+{
+  "options": [
+    "packageTables",
+    "*_feature",
+    "*_option",
+    "wrcpt_spare_me",
+    "wrcpt_activation_time",
+    "packageCount",
+    "packageIDs",
+    "IDsCount",
+    "external_updates-wrc-pricing-tables"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:31.126Z"
+}

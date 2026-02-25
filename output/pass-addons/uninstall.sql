@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('productive_business_do_not_refresh_after_theme_switch', 'productive_ecommerce_do_not_refresh_after_theme_switch', 'productive_stockist_do_not_refresh_after_theme_switch', 'productive_magvalo_do_not_refresh_after_theme_switch', 'productive_passmax_do_not_refresh_after_theme_switch', 'elementor_active_kit', 'productive_global_section_following_options', 'productive_global_section_grid_options', 'productive_global_section_misc_options', 'productive_global_section_popup_options', 'active_sitewide_plugins', 'productive_global_section_sharing_options', 'productive_global_section_slider_options', 'all_pass_cpts', 'all_pass_settings', '_transient_pass_addons', '_transient_timeout_pass_addons');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_menu_item_menu_item_parent', '_thumbnail_id', '_elementor_data', '_elementor_page_settings', 'productive_user_follow_site_1', 'productive_user_follow_site_2', 'productive_user_follow_site_3', 'productive_user_follow_site_4', 'productive_user_follow_site_5', 'productive_user_follow_site_profesion', '_wp_attachment_image_alt');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_menu_item_menu_item_parent', '_thumbnail_id', '_elementor_data', '_elementor_page_settings', 'productive_user_follow_site_1', 'productive_user_follow_site_2', 'productive_user_follow_site_3', 'productive_user_follow_site_4', 'productive_user_follow_site_5', 'productive_user_follow_site_profesion', '_wp_attachment_image_alt');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_menu_item_menu_item_parent', '_thumbnail_id', '_elementor_data', '_elementor_page_settings', 'productive_user_follow_site_1', 'productive_user_follow_site_2', 'productive_user_follow_site_3', 'productive_user_follow_site_4', 'productive_user_follow_site_5', 'productive_user_follow_site_profesion', '_wp_attachment_image_alt');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_menu_item_menu_item_parent', '_thumbnail_id', '_elementor_data', '_elementor_page_settings', 'productive_user_follow_site_1', 'productive_user_follow_site_2', 'productive_user_follow_site_3', 'productive_user_follow_site_4', 'productive_user_follow_site_5', 'productive_user_follow_site_profesion', '_wp_attachment_image_alt');
+

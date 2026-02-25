@@ -1,0 +1,18 @@
+{
+  "options": [
+    "widget_post_blocks",
+    "post_blocks_css",
+    "post_blocks_remove_css",
+    "post_blocks_future_posts",
+    "post_blocks_date_one",
+    "post_blocks_date_one_inactive",
+    "post_blocks_date_two",
+    "post_blocks_date_two_inactive"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:23.958Z"
+}

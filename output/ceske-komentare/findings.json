@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pocet0",
+    "pocet1",
+    "pocet2",
+    "pocet5"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:01.062Z"
+}

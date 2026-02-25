@@ -1,0 +1,28 @@
+{
+  "options": [
+    "CP_POLLS_LOAD_SCRIPTS",
+    "CP_POLLS_rep_enable",
+    "CP_POLLS_rep_days",
+    "CP_POLLS_rep_hour",
+    "CP_POLLS_rep_emails",
+    "CP_POLLS_fp_from_email",
+    "CP_POLLS_rep_subject",
+    "CP_POLLS_rep_emailformat",
+    "CP_POLLS_rep_message",
+    "installed_*",
+    "CP_POLLS_CSS",
+    "CP_POLLS_last_sent_id_*",
+    "CP_POLLS_last_verified",
+    "CP_POLLS_last_sent*",
+    "autoptimize_js_exclude",
+    "*_CSS"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:28.968Z"
+}

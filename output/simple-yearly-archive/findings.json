@@ -1,0 +1,32 @@
+{
+  "options": [
+    "sya_dateformatchanged2012",
+    "sya_dateformatchanged2015",
+    "sya_dateformat",
+    "sya_datetitleseperator",
+    "sya_linkyears",
+    "sya_collapseyears",
+    "sya_postcount",
+    "sya_commentcount",
+    "sya_linktoauthor",
+    "sya_reverseorder",
+    "sya_prepend",
+    "sya_append",
+    "sya_excerpt",
+    "sya_excerpt_indent",
+    "sya_excerpt_maxchars",
+    "sya_show_categories",
+    "sya_show_tags",
+    "sya_showauthor",
+    "sya_showyearoverview",
+    "sya_showpostthumbnail",
+    "sya_postthumbnail_size",
+    "*_size_w"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:15.234Z"
+}

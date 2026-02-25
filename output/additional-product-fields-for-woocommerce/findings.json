@@ -1,0 +1,19 @@
+{
+  "options": [
+    "AllInOneNoticeTime",
+    "DismissAllInOneNotice",
+    "woocommerce_tax_based_on",
+    "rednaowooextraproduct_dont_show_again",
+    "woocommerce_hide_out_of_stock_items"
+  ],
+  "transients": [
+    "_woo_extra_products_go_to_welcome"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rednao_advanced_product_server_options_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:31.302Z"
+}

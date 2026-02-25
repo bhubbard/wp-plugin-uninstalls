@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bs_math_captcha_for_elementor_error",
+    "bs_math_captcha_signs_plus",
+    "bs_math_captcha_signs_minus",
+    "bs_math_captcha_signs_multiply"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:56.763Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_default_country",
+    "plugin_activation_*",
+    "woocommerce_store_postcode",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:10.956Z"
+}

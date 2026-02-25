@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wireless_butler_email_to_user_subject'
+wp option delete 'wireless_butler_email_to_user_content'
+wp option delete 'wireless_butler_notification_email'
+wp option delete 'wireless_butler_form_notification_template'
+wp option delete 'wireless_butler_form_1_step_1_greeting'
+wp option delete 'wireless_butler_form_1_step_1_heading'
+wp option delete 'wireless_butler_form_1_step_1_label'
+wp option delete 'wireless_butler_form_1_step_1_account_holder'
+wp option delete 'wireless_butler_form_1_step_1_smartphone_heading'
+wp option delete 'wireless_butler_form_1_step_1_button_text'
+wp option delete 'wireless_butler_form_1_step_2_heading'
+wp option delete 'wireless_butler_form_1_step_2_chepest_plan_text'
+wp option delete 'wireless_butler_form_1_step_2_total_bill'
+wp option delete 'wireless_butler_form_1_step_2_latest_month_bill'
+wp option delete 'wireless_butler_form_1_step_2_past_due'
+wp option delete 'wireless_butler_form_1_step_2_total_plan_charges'
+wp option delete 'wireless_butler_form_1_step_2_gb_of_data_used'
+wp option delete 'wireless_butler_form_1_step_2_gb_in_your_plan'
+wp option delete 'wireless_butler_form_1_step_2_reach_out_text'
+wp option delete 'wireless_butler_form_1_step_2_device_balance'
+wp option delete 'wireless_butler_form_1_step_2_device_owned'
+wp option delete 'wireless_butler_form_1_step_2_button_text'
+wp option delete 'wireless_butler_admin_name'
+wp option delete 'wireless_butler_admin_mail'
+wp option delete 'wireless_butler_db_version'
+

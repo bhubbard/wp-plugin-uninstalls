@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [
+    "bayarcash_givewp_directdebit_*"
+  ],
+  "cron_jobs": [
+    "bayarcash_update_payment",
+    "bayarcash_givewp_checkpayment"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_give_payment_status",
+    "_give_anonymous_donation"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:27.437Z"
+}

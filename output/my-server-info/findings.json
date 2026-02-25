@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "myserverinfo_add_mem",
+    "myserverinfo_add_cpu",
+    "myserverinfo_add_disk"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:35.715Z"
+}

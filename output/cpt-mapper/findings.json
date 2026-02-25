@@ -1,0 +1,16 @@
+{
+  "options": [
+    "srcpt_cpt",
+    "srcpt_tax",
+    "srcpt_meta",
+    "srcpt_opt_meta",
+    "metaid",
+    "type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:12.848Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "hybrid-slideshow-option-width",
+    "hybrid-slideshow-option-height",
+    "hybrid-slideshow-option-delay",
+    "hybrid-slideshow-option-transition",
+    "hybrid-slideshow-option-random",
+    "hybrid-slideshow-option-javascript",
+    "hybrid-slideshow-option-images",
+    "hybrid-slideshow-option-width-prev",
+    "hybrid-slideshow-option-height-prev"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:32.807Z"
+}

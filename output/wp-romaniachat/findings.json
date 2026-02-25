@@ -1,0 +1,16 @@
+{
+  "options": [
+    "romaniachat_nick",
+    "romaniachat_server",
+    "romaniachat_chan",
+    "romaniachat_style",
+    "romaniachat_height",
+    "romaniachat_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:33.413Z"
+}

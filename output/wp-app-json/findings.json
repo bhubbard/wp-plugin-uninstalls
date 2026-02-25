@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_app_json_secrets",
+    "wp_app_json_postcount",
+    "wp_app_json_thumburl",
+    "wp_app_json_header",
+    "wp_app_json_banner",
+    "wp_app_json_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:21.621Z"
+}

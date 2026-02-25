@@ -1,0 +1,12 @@
+{
+  "options": [
+    "c2c_allow_multiple_accounts",
+    "bkup_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:30.285Z"
+}

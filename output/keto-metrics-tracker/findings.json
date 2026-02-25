@@ -1,0 +1,51 @@
+{
+  "options": [
+    "keto_metrics_tracker_measurement_units",
+    "keto_metrics_tracker_reminder_enabled",
+    "keto_metrics_tracker_reminder_time",
+    "keto_metrics_tracker_tracking_page",
+    "keto_metrics_tracker_email_from_name",
+    "keto_metrics_tracker_email_from_address",
+    "keto_metrics_tracker_enable_registration",
+    "keto_metrics_tracker_reminders_enabled",
+    "keto_metrics_tracker_db_version",
+    "hmt_tracking_page",
+    "hmt_enable_registration",
+    "keto_metrics_tracker_daily_last_sent",
+    "keto_metrics_tracker_monthly_last_sent",
+    "keto_metrics_tracker_weekly_last_sent",
+    "hmt_monthly_last_sent",
+    "hmt_measurement_units",
+    "hmt_reminder_enabled",
+    "hmt_reminder_time"
+  ],
+  "transients": [
+    "keto_metrics_tracker_redirect_*"
+  ],
+  "cron_jobs": [
+    "keto_metrics_tracker_reminder_check",
+    "keto_metrics_tracker_daily_reminder",
+    "keto_metrics_tracker_monthly_reminder",
+    "hmt_daily_reminder",
+    "hmt_monthly_reminder",
+    "hmt_reminder_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "keto_metrics_tracker_reminders_enabled",
+    "hmt_reminders_enabled",
+    "keto_metrics_tracker_chart_period_*",
+    "keto_metrics_tracker_chart_type",
+    "keto_metrics_tracker_height",
+    "keto_metrics_tracker_age",
+    "nickname",
+    "keto_metrics_tracker_weight_goal",
+    "hmt_weight_goal",
+    "keto_metrics_tracker_weight_goal_date",
+    "hmt_weight_goal_date",
+    "hmt_chart_type",
+    "hmt_chart_period_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:59.766Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "cf7_form",
+    "user_roles",
+    "facebook_callback_token",
+    "facebook_token",
+    "cf7_page",
+    "cf7_sender_name",
+    "cf7_sender_email"
+  ],
+  "transients": [
+    "*_promo_hide"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "chat_new",
+    "chat_step",
+    "chat_last_mess",
+    "chat_info",
+    "chat_source",
+    "chat_id",
+    "sender"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:35.991Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "iwc-logging-enabled",
+    "iwc_api_permissions_enabled",
+    "iwc_permission_*",
+    "iwc_strict_file_validation",
+    "iwc_allowed_file_extensions",
+    "iwc_log_encryption_key",
+    "iwc_max_payload_size",
+    "iwc_rate_limit_enabled",
+    "iwc_rate_limit_requests",
+    "iwc_payload_limit_enabled",
+    "iwc_sanitize_post_content",
+    "integromat_api_options_*",
+    "iwc_plugin_version",
+    "iwc_log_security_events",
+    "integromat_api_options_taxonomy",
+    "integromat_api_options_comment",
+    "integromat_api_options_post",
+    "integromat_api_options_term",
+    "integromat_api_options_user"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:37.164Z"
+}

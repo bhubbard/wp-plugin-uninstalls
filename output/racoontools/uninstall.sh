@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wc_settings_tab_racoontools_login_logo_url'
+wp option delete 'wc_settings_tab_racoontools_admin_footer_text'
+wp option delete 'wc_settings_tab_racoontools_breadcrumb_home'
+wp option delete 'wc_settings_tab_racoontools_breadcrumb_separator'
+wp option delete 'wc_settings_tab_racoontools_breadcrumb_home_link'
+wp option delete 'wc_settings_tab_racoontools_hide_breadcrumb'
+wp option delete 'wc_settings_tab_racoontools_empty_cart_text'
+wp option delete 'wc_settings_tab_racoontools_hide_shipping_calc'
+wp option delete 'wc_settings_tab_racoontools_remove_company_field'
+wp option delete 'wc_settings_tab_racoontools_phone_optional'
+wp option delete 'wc_settings_tab_racoontools_min_password_strength'
+wp option delete 'woocommerce_price_display_suffix'
+wp option delete 'wc_settings_tab_racoontools_price_suffix_selector'
+wp option delete 'wc_settings_tab_racoontools_price_suffix_link'
+wp option delete 'wc_settings_tab_racoontools_hide_shipping_when_free'
+wp option delete 'wc_settings_tab_racoontools_nr_products'
+wp option delete 'wc_settings_tab_racoontools_hide_show_results'
+wp option delete 'wc_settings_tab_racoontools_category_count'
+wp option delete 'wc_settings_tab_racoontools_product_orderby'
+wp option delete 'wc_settings_tab_racoontools_show_quantities'
+wp option delete 'wc_settings_tab_racoontools_product_meta'
+wp option delete 'wc_settings_tab_racoontools_tab_desc'
+wp option delete 'wc_settings_tab_racoontools_tab_reviews'
+wp option delete 'wc_settings_tab_racoontools_tab_additional_information'
+wp option delete 'wc_settings_tab_racoontools_placeholder'
+

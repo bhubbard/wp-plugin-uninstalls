@@ -1,0 +1,12 @@
+{
+  "options": [
+    "dismissed-*",
+    "dismissed-notice-upgrade-code-cf7pp-cww"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:41.374Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pluswebp",
+    "pluswebp_generate",
+    "pluswebp_messages",
+    "pluswebp_default"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:15.060Z"
+}

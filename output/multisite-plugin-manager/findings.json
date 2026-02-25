@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pm_auto_activate_list",
+    "pm_user_control_list",
+    "pm_supporter_control_list",
+    "pm_plugin_override_list",
+    "site_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:35.908Z"
+}

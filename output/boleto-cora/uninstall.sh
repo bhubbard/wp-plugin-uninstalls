@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cora_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cora_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cora_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cora_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cora_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cora_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cora_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cora_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cora_digitable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cora_digitable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cora_digitable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cora_digitable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cora_document'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cora_document'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cora_document'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cora_document'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cora_paid_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cora_paid_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cora_paid_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cora_paid_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cora_paid_at'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cora_paid_at'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cora_paid_at'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cora_paid_at'"

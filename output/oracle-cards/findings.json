@@ -1,0 +1,19 @@
+{
+  "options": [
+    "eos-cards-options",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "eos_oc_license_key",
+    "eos_oc_license_status"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eos_linked_url_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:33.686Z"
+}

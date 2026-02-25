@@ -1,0 +1,21 @@
+{
+  "options": [
+    "adnk_importer_options",
+    "adnk_settings_options",
+    "adn_site_active"
+  ],
+  "transients": [
+    "adnk_import_running"
+  ],
+  "cron_jobs": [
+    "adnk_import_event",
+    "adki_add_cron_onceaday"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "adkn_guid_post_feed",
+    "adkn_feed_category"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:50.221Z"
+}

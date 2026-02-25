@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fresre_settings",
+    "fresre_stale_posts_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fresre_check_event",
+    "fresre_clear_reviewed_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fresre_reviewed",
+    "_fresre_pined"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:10.446Z"
+}

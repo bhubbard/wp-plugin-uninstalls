@@ -1,0 +1,15 @@
+{
+  "options": [
+    "zillow_screen_name",
+    "rewrite_rules",
+    "i9-idx-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "i9idxpress-assembled-url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:58.596Z"
+}

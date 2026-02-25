@@ -1,0 +1,23 @@
+{
+  "options": [
+    "hec_options",
+    "hec_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*hec_dashboard_days",
+    "_hec_hide",
+    "_hec_notes",
+    "_hec_title",
+    "_hec_event",
+    "_hec_calculation",
+    "_hec_start",
+    "_hec_stop",
+    "hec_extended",
+    "*hec"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:18.722Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ff_color",
+    "ff_position",
+    "ff_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:07.744Z"
+}

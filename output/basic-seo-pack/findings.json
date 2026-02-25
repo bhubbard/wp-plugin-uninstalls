@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*keywords",
+    "*description",
+    "*google_verification",
+    "*bing_verification",
+    "*alexa_verification",
+    "*google_analytics"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*use_global_settings",
+    "*meta_keywords",
+    "*meta_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:14.170Z"
+}

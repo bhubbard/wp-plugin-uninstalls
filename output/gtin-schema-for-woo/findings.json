@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wc_gtin_schema_admin_tab_in_loop",
+    "wc_gtin_schema_admin_tab_in_single_product",
+    "wc_gtin_schema_admin_tab_in_cart",
+    "wc_gtin_schema_admin_tab_in_order_item",
+    "wc_gtin_schema_admin_tab_single_product_position",
+    "wc_gtin_schema_admin_tab_single_product_tab",
+    "wc_gtin_schema_admin_tab_in_checkout",
+    "gtin_schema_product_date_structure",
+    "wc_gtin_schema_admin_tab_label",
+    "wc_gtin_schema_admin_tab_get_get_sku"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gtin_schema_code",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:49.984Z"
+}

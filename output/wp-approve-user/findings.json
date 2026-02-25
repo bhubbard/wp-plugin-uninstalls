@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp-approve-user"
+  ],
+  "transients": [
+    "feed_*",
+    "feed_mod_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-approve-user",
+    "wp-approve-user-new-registration",
+    "wp-approve-user-mail-sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:32.326Z"
+}

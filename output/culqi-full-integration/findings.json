@@ -1,0 +1,51 @@
+{
+  "options": [
+    "fullculqi_options",
+    "woocommerce_fullculqi_settings",
+    "fullculqi_webhooks",
+    "fullculqi_2_0_0_upgraded",
+    "kono_2",
+    "kono_3",
+    "kono_4",
+    "kono_7",
+    "kono_8",
+    "kono_9"
+  ],
+  "transients": [
+    "fullculqi_activator"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "culqi_log",
+    "culqi_basic",
+    "culqi_customer",
+    "culqi_status",
+    "culqi_id",
+    "culqi_order_id",
+    "culqi_capture",
+    "culqi_capture_date",
+    "culqi_ip",
+    "culqi_data",
+    "culqi_qr",
+    "culqi_cip",
+    "culqi_charge_type",
+    "culqi_authorization",
+    "culqi_wc_order_id",
+    "culqi_creation_date",
+    "culqi_customer_id",
+    "culqi_email",
+    "culqi_cards",
+    "culqi_status_date",
+    "culqi_charge_id",
+    "culqi_post_id",
+    "culqi_order",
+    "culqi_ids_refunded",
+    "culqi_metadata",
+    "_culqi_customer_id",
+    "_post_customer_id",
+    "culqi_wp_user_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:46.510Z"
+}

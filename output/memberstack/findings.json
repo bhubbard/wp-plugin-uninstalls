@@ -1,0 +1,15 @@
+{
+  "options": [
+    "memberstack_wp_app_id",
+    "memberstack_app_id",
+    "memberstack_wp_gated_content"
+  ],
+  "transients": [
+    "memberstack_wp_gated_content"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:02.557Z"
+}

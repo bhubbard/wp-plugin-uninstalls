@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_monetbil_settings",
+    "MONETBIL_MERCHANT_NAME",
+    "MONETBIL_MERCHANT_EMAIL",
+    "MONETBIL_SERVICE_NAME"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:25.209Z"
+}

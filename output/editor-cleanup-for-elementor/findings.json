@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fdp_elementor"
+  ],
+  "transients": [
+    "fdp-elementor-notice-succ",
+    "fdp-elementor-notice-fail"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:44.835Z"
+}

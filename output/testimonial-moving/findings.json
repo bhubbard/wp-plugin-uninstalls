@@ -1,0 +1,39 @@
+{
+  "options": [
+    "testimonial-moving-creator-role",
+    "testimonial-moving-error-handling",
+    "testimonial-moving-hide-fontawesome",
+    "testimonial-moving-archive-slug",
+    "testimonial-moving-custom-css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_timeout",
+    "_speed",
+    "_fx",
+    "_shuffle",
+    "_verticalalign",
+    "_prevnext",
+    "_limit",
+    "_itemreviewed",
+    "_template",
+    "_img_size",
+    "_title_heading",
+    "_hidefeaturedimage",
+    "_hide_microdata",
+    "_hide_title",
+    "_hide_stars",
+    "_hide_body",
+    "_hide_author",
+    "_hide_company",
+    "_template_id",
+    "_rating",
+    "_author_name",
+    "_company",
+    "_excerpt_length"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:06.086Z"
+}

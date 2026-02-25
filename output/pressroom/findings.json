@@ -1,0 +1,43 @@
+{
+  "options": [
+    "pr_settings",
+    "taxonomy_term_*",
+    "pr_theme_root",
+    "pr_theme_uri",
+    "pressroom_themes",
+    "pr_valid_license_*",
+    "p2p_storage",
+    "_pr_table_db_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "pr_preview_linked_query_*"
+  ],
+  "cron_jobs": [
+    "pr_checkexpiredtoken",
+    "pr_clean_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pr_sharing_url",
+    "_error_data_*",
+    "_pr_theme_select",
+    "_pr_web_override_eproject",
+    "_pr_package_date",
+    "_pr_package_updated_date",
+    "pr_addons_notice_*",
+    "pr_themes_notice_*",
+    "_pr_html_file",
+    "_pr_zip",
+    "_pr_packager_type",
+    "_pr_edition_free",
+    "_pr_product_id_*",
+    "_pr_index_height",
+    "_pr_date",
+    "_pr_subscriptions_select",
+    "_pr_newsstand_issue_cover",
+    "_pr_edition_hpub_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:07.686Z"
+}

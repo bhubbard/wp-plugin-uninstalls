@@ -1,0 +1,25 @@
+{
+  "options": [
+    "noparam_api_key",
+    "noparam_cf7_enabled",
+    "noparam_wpforms_enabled",
+    "noparam_registration_enabled",
+    "noparam_comments_enabled",
+    "noparam_invalid_email_message",
+    "noparam_disposable_email_message",
+    "noparam_role_email_message",
+    "noparam_suggestion_message",
+    "noparam_disposable_message",
+    "noparam_role_based_message",
+    "noparam_requests_left",
+    "noparam_version"
+  ],
+  "transients": [
+    "noparam_quota_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:34.482Z"
+}

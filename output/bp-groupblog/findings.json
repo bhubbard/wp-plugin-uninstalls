@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bp_groupblog_blog_defaults_options",
+    "bp_groupblog_blog_defaults_setup",
+    "p2_rewrites_flushed",
+    "prologue_show_titles",
+    "p2_background_color",
+    "p2_background_image",
+    "p2_hide_sidebar",
+    "p2_allow_users_publish",
+    "p2_hide_threads",
+    "p2_prompt_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "created_by_groupblog_dont_change",
+    "*capabilities"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:42.941Z"
+}

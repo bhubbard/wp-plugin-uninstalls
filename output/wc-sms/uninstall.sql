@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wcsms_logs', 'wc_fields_billing', 'woocommerce_cashapp_settings', 'woocommerce_cashapp-pro_settings', 'woocommerce_venmo_settings', 'woocommerce_venmo-pro_settings', 'woocommerce_zelle_settings', 'woocommerce_zelle-pro_settings', 'woocommerce_momo_settings', 'woocommerce_momo-pro_settings', 'wcsms_enable_bulksms_on_users', 'bulksms_settings', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_phone', 'billing_email', 'billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_city', 'billing_state', 'billing_country', 'billing_postcode', 'phone');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_phone', 'billing_email', 'billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_city', 'billing_state', 'billing_country', 'billing_postcode', 'phone');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_phone', 'billing_email', 'billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_city', 'billing_state', 'billing_country', 'billing_postcode', 'phone');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_phone', 'billing_email', 'billing_first_name', 'billing_last_name', 'billing_company', 'billing_address_1', 'billing_city', 'billing_state', 'billing_country', 'billing_postcode', 'phone');
+

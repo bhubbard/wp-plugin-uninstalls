@@ -1,0 +1,21 @@
+{
+  "options": [
+    "click5_cf7_authentication_token_*",
+    "click5_cf7_addon_const_values",
+    "click5_cf7_addon_notifications",
+    "click5_cf7_addon_notifications_count_errors",
+    "posting_url",
+    "form_enable_*",
+    "click5_cf7_addon_posting_url",
+    "click5_cf7_addon_form_enable_*",
+    "click5_cf7_addon_crm_fields_stored"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_form"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:00.930Z"
+}

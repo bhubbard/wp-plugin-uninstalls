@@ -1,0 +1,12 @@
+{
+  "options": [
+    "exclusivo_entrada_plugin_categoria_value",
+    "exclusivo_entrada_plugin_value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:40.857Z"
+}

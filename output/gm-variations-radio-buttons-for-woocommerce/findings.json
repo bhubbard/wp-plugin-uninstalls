@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gmrbw_enable",
+    "gmrbw_layout",
+    "gmrbw_stock_availability",
+    "gmrbw_price",
+    "gmrbw_product_title",
+    "gmrbw_showimg",
+    "gmrbw_showdesc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gmrbw_variation_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:01.897Z"
+}

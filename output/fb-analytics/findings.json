@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ht_fba_options",
+    "ht_fba_plugin_details"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:49.499Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cdxn_mlh_plugin_activation_time",
+    "*_plugin_activation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "*_rate_the_plugin"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:40.889Z"
+}

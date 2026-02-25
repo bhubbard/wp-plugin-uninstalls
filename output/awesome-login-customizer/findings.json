@@ -1,0 +1,14 @@
+{
+  "options": [
+    "alcwp-custom-bg-image",
+    "alcwp-logo-image-url",
+    "login-button-gradient",
+    "alcwp_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:39.842Z"
+}

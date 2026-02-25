@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wecantrack_version",
+    "wecantrack_api_key",
+    "wecantrack_custom_redirect_html",
+    "wecantrack_redirect_options",
+    "wecantrack_website_options",
+    "wecantrack_referrer_cookie_status",
+    "wecantrack_storage",
+    "wecantrack_plugin_status",
+    "wecantrack_session_enabler",
+    "wecantrack_snippet",
+    "wecantrack_redirect_status",
+    "wecantrack_fetch_expiration",
+    "wecantrack_snippet_version",
+    "wecantrack_domain_patterns"
+  ],
+  "transients": [
+    "wecantrack_lock_cache_refresh"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:57.616Z"
+}

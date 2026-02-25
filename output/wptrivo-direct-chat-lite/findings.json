@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wptwdclt_whtapp_widget_settings_opt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wptwdclt_wht_account_info",
+    "wptwdclt_wht_widget_show",
+    "wptwdclt_wht_widget_position",
+    "wptwdclt_wht_wc_show",
+    "wptwdclt_wht_wc_position"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:45.409Z"
+}

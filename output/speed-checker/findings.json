@@ -1,0 +1,13 @@
+{
+  "options": [
+    "scfw_speed_test_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "scfw_run_api_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:41.926Z"
+}

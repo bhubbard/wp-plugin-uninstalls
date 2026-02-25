@@ -1,0 +1,13 @@
+{
+  "options": [
+    "countdowncdt_timer_installed",
+    "cdt_inf_basics",
+    "cdt_inf_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:22.488Z"
+}

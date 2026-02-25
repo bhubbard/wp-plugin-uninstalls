@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smg_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smg_meta_description",
+    "_yoast_wpseo_metadesc",
+    "rank_math_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:54.158Z"
+}

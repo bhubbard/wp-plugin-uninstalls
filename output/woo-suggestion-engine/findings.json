@@ -1,0 +1,33 @@
+{
+  "options": [
+    "viwse_background_render_processing",
+    "viwse_background_render_complete",
+    "viwse_params",
+    "vi_wse_woo_suggestion_engine_version",
+    "vi_wse_woocommerce_searched",
+    "vi_wse_woocommerce_viewed",
+    "vi_wse_woocommerce_product_atc",
+    "vi_wse_woo_suggestion_engine_params",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "*_process_lock",
+    "viwse_background_running",
+    "viwse_background_processed_task_*",
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:52.908Z"
+}

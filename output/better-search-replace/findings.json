@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bsr_page_size",
+    "bsr_data",
+    "active_sitewide_plugins",
+    "bsr_update_site_url"
+  ],
+  "transients": [
+    "bsr_results"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:26:38.602Z"
+}

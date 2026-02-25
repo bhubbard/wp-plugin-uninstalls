@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "ibic_compatibility_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ibic_error",
+    "_ibic_processed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:27.074Z"
+}

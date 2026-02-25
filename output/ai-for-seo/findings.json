@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [
+    "ai4seo_last_contact_form_submit_timestamp"
+  ],
+  "cron_jobs": [
+    "ai4seo_search_missing_seo_data_posts",
+    "ai4seo_search_missing_metadata_posts",
+    "ai4seo_automated_seo_data_generation",
+    "ai4seo_automated_metadata_generation"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_elementor_data",
+    "mfn-page-items-seo",
+    "_fl_builder_data",
+    "_et_pb_use_builder",
+    "ct_builder_shortcodes",
+    "brizy_post_uid",
+    "slim_seo",
+    "_b2s_post_meta",
+    "first_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:12.200Z"
+}

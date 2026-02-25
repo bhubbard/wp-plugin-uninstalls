@@ -1,0 +1,38 @@
+{
+  "options": [
+    "jbye_options",
+    "jobboard_options",
+    "jobboard_jobs_per_page",
+    "jobboard_enable_applications",
+    "jobboard_notification_email",
+    "jobboard_currency",
+    "jobboard_plugin_activated",
+    "*_page_id",
+    "jobboard_requirement_errors",
+    "jbye_flush_rewrite_rules",
+    "jbye_plugin_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jobboard_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_job_company",
+    "_job_location",
+    "_job_salary_from",
+    "_job_salary_to",
+    "_job_currency",
+    "_application_deadline",
+    "_job_company_size",
+    "_job_founded",
+    "_job_website",
+    "_job_salary_type",
+    "_job_skills",
+    "_company_name",
+    "_job_salary",
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:51.005Z"
+}

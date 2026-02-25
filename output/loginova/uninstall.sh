@@ -1,0 +1,83 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'plr_popup_timeout'
+wp option delete 'plr_login_redirect'
+wp option delete 'plr_logout_redirect'
+wp option delete 'plr_login_fields'
+wp option delete 'plr_register_fields'
+wp option delete 'plr_required_login_fields'
+wp option delete 'plr_required_register_fields'
+wp option delete 'plr_terms_consent_link'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'plr_%'"
+wp option delete 'plr_login_success_msg'
+wp option delete 'plr_login_error_msg'
+wp option delete 'plr_invalid_username_msg'
+wp option delete 'plr_invalid_password_msg'
+wp option delete 'plr_popup_width'
+wp option delete 'plr_popup_height'
+wp option delete 'plr_popup_bg_color'
+wp option delete 'plr_input_bg_color'
+wp option delete 'plr_input_text_color'
+wp option delete 'plr_font_size'
+wp option delete 'plr_border_color'
+wp option delete 'plr_border_width'
+wp option delete 'plr_button_bg_color'
+wp option delete 'plr_button_text_color'
+wp option delete 'plr_button_font_size'
+wp option delete 'plr_button_font_weight'
+wp option delete 'plr_button_width'
+wp option delete 'plr_button_height'
+wp option delete 'plr_button_border_width'
+wp option delete 'plr_button_border_color'
+wp option delete 'plr_button_border_radius'
+wp option delete 'plr_button_position'
+wp option delete 'plr_button_margin_top'
+wp option delete 'plr_button_padding'
+wp option delete 'plr_button_cursor'
+wp option delete 'plr_terms_consent_text'
+wp option delete 'plr_terms_consent_link_text'
+wp option delete 'plr_terms_consent_error'
+wp option delete 'plr_email_exists_msg'
+wp option delete 'plr_popup_border_width'
+wp option delete 'plr_popup_border_color'
+wp option delete 'plr_popup_border_radius'
+wp option delete 'plr_popup_box_shadow'
+wp option delete 'plr_title_font_size'
+wp option delete 'plr_title_font_color'
+wp option delete 'plr_title_font_weight'
+wp option delete 'plr_title_text_align'
+wp option delete 'plr_title_margin_bottom'
+wp option delete 'plr_input_width'
+wp option delete 'plr_input_height'
+wp option delete 'plr_input_font_size'
+wp option delete 'plr_input_border_width'
+wp option delete 'plr_input_border_color'
+wp option delete 'plr_input_border_radius'
+wp option delete 'plr_input_margin_bottom'
+wp option delete 'plr_input_padding'
+wp option delete 'plr_button_hover_bg_color'
+wp option delete 'plr_button_hover_text_color'
+wp option delete 'plr_link_text_color'
+wp option delete 'plr_link_hover_text_color'
+wp option delete 'plr_link_text_decoration'
+wp option delete 'plr_link_hover_text_decoration'
+wp option delete 'plr_link_font_size'
+wp option delete 'plr_popup_bg_image'
+wp option delete 'plr_invalid_email_msg'
+wp option delete 'plr_invalid_credentials_msg'
+wp option delete 'plr_fields_required_msg'
+wp option delete 'plr_passwords_not_match_msg'
+wp option delete 'plr_username_exists_msg'
+wp option delete 'plr_register_success_msg'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'plr_terms_consent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'plr_terms_consent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'plr_terms_consent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'plr_terms_consent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'plr_terms_consent_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'plr_terms_consent_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'plr_terms_consent_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'plr_terms_consent_date'"

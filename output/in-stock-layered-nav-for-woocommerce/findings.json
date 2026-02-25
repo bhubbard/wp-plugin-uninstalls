@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_notify_no_stock_amount"
+  ],
+  "transients": [
+    "wc_layered_nav_query_post_ids_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:15.364Z"
+}

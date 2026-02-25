@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gravityformsaddon_gravityformsqualpay_settings",
+    "*_payment_profiles",
+    "*_card_types",
+    "*_currencies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gravityformsaddon_qualpay_customer_id",
+    "_gravityformsaddon_qualpay_billing_card",
+    "_gravityformsaddon_qualpay_billing_card_default"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:22.566Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "enh_cats_version",
+    "enh_cats_show_symbol",
+    "enh_cats_hide_symbol",
+    "enh_cats_no_child_symbol",
+    "enh_cats_effect",
+    "enh_cats_show_count",
+    "enh_cats_show_rss",
+    "enh_cats_hide_empty",
+    "enh_cats_button_before_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:41.051Z"
+}

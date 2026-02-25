@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bib_site_key",
+    "bib_secret_key",
+    "bib_login_check_disable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:23.115Z"
+}

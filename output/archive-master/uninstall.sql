@@ -1,0 +1,18 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('archm_selected_database', 'archm_queue_batch_ids', 'archm_archive_orders_count', 'arcm_unarchive_cancelled', 'arcm_dublicate_order', 'archm_last_archive_order', 'archm_queue_ids', 'archm_background_process_running', 'archm_sqlite_db_file_hash', 'archive_master_google_access_token', 'archive_master_google_refresh_token', 'archm_analytics_sync_enabled', 'archived_analytics_version', 'archm_exclude_subscriptions', 'archm_exclude_memberships', 'archm_analytics_version', 'archm_db_switch', 'archive_master_google_user_email', 'archive_master_google_user_name', 'archm_bg_bulk_archive', '_archm_background_process_running', '_archm_archive_user', 'archm_background_process_stop', 'archm_enable_related_order_metadata_archiving', 'archm_related_order_metadata_selected', 'archm_corn_archive_running', 'archm_archive_cancelled', 'arcm_export_cancelled', 'arcm_export_jobs', 'arcm_bg_export_running', 'archm_accoutn_page_archived_oder', 'archm_flush_rewrite_rules', 'arcm_unarchive_jobs', 'arcm_unarchive_processed_orders', 'arcm_bg_unarchive_running', 'osgsw_license_sync', 'arcm_order_sync_hooks_disabled', 'archm_cmysql_db_connection', 'archm_cmysql_username', 'archm_cmysql_password', 'archm_cmysql_dbname', 'archm_cmysql_endpoint', 'archm_cmysql_port', 'archm_rds_db_connection', 'archm_rds_dbname', 'archm_rds_endpoint', 'archm_rds_username', 'archm_rds_port', 'archm_rds_password', 'archm_archive_statuses');
+DELETE FROM wp_options WHERE option_name IN ('_master_archive_installed', '_master_archive_version', 'archm_archive_range', 'archm_archive_range_datetime', 'archm_archive_completed', 'archm_total_archived_orders_count');
+DELETE FROM wp_options WHERE option_name LIKE '%_tracking_last_send';
+DELETE FROM wp_options WHERE option_name LIKE '%_tracking_skipped';
+DELETE FROM wp_options WHERE option_name LIKE '%_allow_tracking';
+DELETE FROM wp_options WHERE option_name LIKE '%_tracking_notice';
+DELETE FROM wp_options WHERE option_name LIKE '%_batch_1';
+DELETE FROM wp_options WHERE option_name LIKE '%_process_lock';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('is_archived', 'host_post_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('is_archived', 'host_post_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('is_archived', 'host_post_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('is_archived', 'host_post_id');
+

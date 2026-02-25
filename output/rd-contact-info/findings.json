@@ -1,0 +1,26 @@
+{
+  "options": [
+    "rdContactOverride",
+    "rdContactName",
+    "rdContactPhone",
+    "rdContactMobile",
+    "rdContactFax",
+    "rdContactEmail",
+    "rdContactStreet",
+    "rdContactCity",
+    "rdContactState",
+    "rdContactZip",
+    "rdShowContactName",
+    "rdShowContactPhone",
+    "rdShowContactMobile",
+    "rdShowContactFax",
+    "rdShowContactEmail",
+    "rdShowContactAddress"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:27.287Z"
+}

@@ -1,0 +1,8 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'WeeklyScheduleGeneral'
+wp option delete 'WS_PP'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'WS_PP%'"
+

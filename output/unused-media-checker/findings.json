@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [
+    "umchk_admin_notice",
+    "umchk_pg_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "advanced_ads_ad_options",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:09.566Z"
+}

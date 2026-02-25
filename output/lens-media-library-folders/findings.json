@@ -1,0 +1,20 @@
+{
+  "options": [
+    "lens_pro_license_snapshot",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "lens_quick_switch_all_folders_paths_v*"
+  ],
+  "cron_jobs": [
+    "lens_daily_cleanup",
+    "lens_cache_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lens_navigation_mode",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:30.116Z"
+}

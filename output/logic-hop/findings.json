@@ -1,0 +1,51 @@
+{
+  "options": [
+    "logichop_trial",
+    "logichop-settings",
+    "logic-hop-dismiss-notice-*",
+    "logichop_instance",
+    "logichop_activated",
+    "logichop_local_storage",
+    "logichop_version"
+  ],
+  "transients": [
+    "logichop_recipe_import_*",
+    "logichop_recipe_import_result_*",
+    "*active",
+    "logichop"
+  ],
+  "cron_jobs": [
+    "logichop_purge_transients",
+    "logichop_local_delete_storage"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_logichop_track_page",
+    "_logichop_disable_js_mode",
+    "_logichop_page_leadscore",
+    "_logichop_page_lead_freq",
+    "_logichop_page_goal",
+    "_logichop_page_goal_condition",
+    "_logichop_page_goal_on_condition",
+    "_logichop_page_goal_condition_not",
+    "_logichop_page_goal_js",
+    "_logichop_page_goal_js_event",
+    "_logichop_page_goal_js_element",
+    "_logichop_page_condition",
+    "_logichop_page_redirect",
+    "_logichop_page_condition_not",
+    "logichop_css_condition",
+    "logichop_condition_description",
+    "logichop_goal_lead_score_adjust",
+    "logichop_goal_lead_freq",
+    "logichop_logicblock_json",
+    "logichop_redirect_url",
+    "logichop_logicblock_javascript",
+    "logichop_redirect_id",
+    "logichop_redirect_condition",
+    "logichop_redirect_condition_not",
+    "logichop_redirect_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:02.578Z"
+}

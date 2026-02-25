@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_shipping_debug_mode",
+    "flexible_shipping_methods_*",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "active_sitewide_plugins",
+    "woocommerce_currency",
+    "flexible_shipping_method_id",
+    "flexible_shipping_method_creation_date",
+    "flexible_shipping_rates",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_allowed_countries",
+    "woocommerce_ship_to_countries",
+    "woocommerce_default_customer_address",
+    "plugin_activation_*",
+    "wpdesk_tracker_notice",
+    "wpdesk_tracker_agree"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_integration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:28.258Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_gojek_settings",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woocommerce_gojek_from_lat",
+    "woocommerce_gojek_from_lng",
+    "woocommerce_gojek_from_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:19.570Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wt_mgdp_admin_modules",
+    "wt_mgdp_cron_settings",
+    "wp_mgdp_log_id",
+    "wt_mgdp_cadvanced_settings",
+    "wt_mgdp_advanced_import_settings",
+    "wt_mgdp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wt_mgdp_do_cron_*"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:39.285Z"
+}

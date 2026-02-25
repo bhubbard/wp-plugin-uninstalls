@@ -1,0 +1,24 @@
+{
+  "options": [
+    "sharethis_inline-reaction_settings",
+    "sharethis_inline-reactions",
+    "sharethis_reaction_settings",
+    "*_on",
+    "*_off",
+    "sharethis_property_id",
+    "sharethis_first_product",
+    "sharethis_reaction",
+    "sharethis_token",
+    "sharethis_button_config",
+    "sharethis_inline-reaction"
+  ],
+  "transients": [
+    "st-reaction-activation",
+    "st-reaction-connection"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:56.476Z"
+}

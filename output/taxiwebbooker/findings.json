@@ -1,0 +1,31 @@
+{
+  "options": [
+    "taxiweb_formid",
+    "taxiweb_headercolor",
+    "taxiweb_textcolor",
+    "taxiweb_backgroundcolor",
+    "taxiweb_buttontextcolor",
+    "taxiweb_buttonbgcolor",
+    "taxiweb_buttonstyle",
+    "taxiweb_buttonposition",
+    "taxiweb_buttontext",
+    "taxiweb_inline_buttontextcolor",
+    "taxiweb_inline_buttonbgcolor",
+    "taxiweb_inline_buttonstyle",
+    "taxiweb_inline_buttonposition",
+    "taxiweb_inline_buttontext",
+    "taxiweb_padding",
+    "taxiweb_language",
+    "taxiweb_show_widget",
+    "taxiweb_showTopbar",
+    "taxiweb_showLogo",
+    "taxiweb_showbreadcrumbs",
+    "taxiweb_yda_continue_clicked"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:52.636Z"
+}

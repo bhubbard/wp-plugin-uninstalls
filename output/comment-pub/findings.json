@@ -1,0 +1,13 @@
+{
+  "options": [
+    "nmg_comment_pub"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "comment_pub"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:49.145Z"
+}

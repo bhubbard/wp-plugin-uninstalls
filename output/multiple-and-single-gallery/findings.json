@@ -1,0 +1,13 @@
+{
+  "options": [
+    "simple_and_3d_condition"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gallery-image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:30.917Z"
+}

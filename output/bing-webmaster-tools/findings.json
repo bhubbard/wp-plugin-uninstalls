@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*admin_api_key",
+    "*is_valid_api_key",
+    "*auto_submission_enabled",
+    "*failed_count",
+    "*passed_count",
+    "bwt-failed_count",
+    "bwt-passed_count",
+    "bwt-is_valid_api_key",
+    "bwt-admin_api_key",
+    "bwt-auto_submission_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:10.725Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "gopp_plugin_admin_notices",
+    "gopp_plugin_poll_rpp",
+    "gopp_image_gs_cmd_path"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:01.967Z"
+}

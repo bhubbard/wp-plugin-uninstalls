@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'course_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'course_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'course_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'course_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'course_target'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'course_target'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'course_target'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'course_target'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'course_duration'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'course_duration'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'course_duration'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'course_duration'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'course_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'course_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'course_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'course_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'course_legislation'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'course_legislation'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'course_legislation'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'course_legislation'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'course_legisltion'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'course_legisltion'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'course_legisltion'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'course_legisltion'"

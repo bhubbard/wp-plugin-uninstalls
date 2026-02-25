@@ -1,0 +1,24 @@
+{
+  "options": [
+    "dr_flush_rewrite_rules_flag",
+    "woocommerce_tax_display_cart",
+    "woocommerce_digitalriver_settings",
+    "dr_endpoints_hash",
+    "woocommerce_tax_display_shop",
+    "woocommerce_enable_shipping_calc"
+  ],
+  "transients": [
+    "dr_compliance_*"
+  ],
+  "cron_jobs": [
+    "dr_api_retry"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dr_order_id",
+    "dr_checkout_object",
+    "digitalriver_customer_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:51.976Z"
+}

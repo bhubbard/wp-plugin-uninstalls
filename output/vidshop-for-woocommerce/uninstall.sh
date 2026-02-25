@@ -1,0 +1,19 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Transients
+wp transient delete 'vsfw_activation_redirect'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'vsfw_review_notice_dismissed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'vsfw_review_notice_dismissed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'vsfw_review_notice_dismissed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'vsfw_review_notice_dismissed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'vsfw_review_notice_permanent_dismissed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'vsfw_review_notice_permanent_dismissed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'vsfw_review_notice_permanent_dismissed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'vsfw_review_notice_permanent_dismissed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'vsfw_review_notice_first_seen'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'vsfw_review_notice_first_seen'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'vsfw_review_notice_first_seen'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'vsfw_review_notice_first_seen'"

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "re_sitekey",
+    "re_secret",
+    "re_response"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:18.551Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "muap_id_*",
+    "muap_id_cap_*",
+    "access_to_other_roles_*",
+    "muap_id_url",
+    "muap_id_url_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:11.726Z"
+}

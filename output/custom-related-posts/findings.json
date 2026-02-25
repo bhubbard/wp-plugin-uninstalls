@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_version",
+    "crp_option",
+    "crp_migrated_to_version",
+    "*_settings"
+  ],
+  "transients": [
+    "crp_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bv_birthday_giveaway_2016",
+    "crp_relations_from",
+    "crp_relations_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:28.038Z"
+}

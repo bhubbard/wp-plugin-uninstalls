@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'mstw_cs_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_experience'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_experience'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_experience'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_experience'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_alma_mater'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_alma_mater'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_alma_mater'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_alma_mater'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_degree'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_degree'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_degree'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_degree'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_birth_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_birth_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_birth_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_birth_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_home_town'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_home_town'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_home_town'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_home_town'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_high_school'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_high_school'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_high_school'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_high_school'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_family'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_family'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_family'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_family'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_position_coach'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_position_coach'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_position_coach'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_position_coach'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mstw_cs_display_order'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mstw_cs_display_order'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mstw_cs_display_order'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mstw_cs_display_order'"

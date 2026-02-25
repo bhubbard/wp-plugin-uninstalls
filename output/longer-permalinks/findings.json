@@ -1,0 +1,17 @@
+{
+  "options": [
+    "longer-permalinks-pluginver",
+    "longer-permalinks-wpver",
+    "longer-permalinks-dbver",
+    "longer-permalinks-backup-needed",
+    "longer-permalinks-revert-needed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "longer-permalinks-post-name-longer"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:52.288Z"
+}

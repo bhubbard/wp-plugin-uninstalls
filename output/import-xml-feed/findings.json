@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "import_*",
+    "import_xml_url",
+    "import_type",
+    "import_limit",
+    "import_selected_node"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:30.154Z"
+}

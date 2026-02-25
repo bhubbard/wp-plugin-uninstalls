@@ -1,0 +1,37 @@
+{
+  "options": [
+    "vtpos_inv_setting",
+    "_vt_ac",
+    "woocommerce_dimension_unit",
+    "apbd_nmca_ccss",
+    "woocommerce_currency_pos",
+    "apbd_prov_*",
+    "active_sitewide_plugins",
+    "health-check-allowed-plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_city",
+    "billing_state",
+    "billing_phone",
+    "billing_address_1",
+    "billing_country",
+    "billing_postcode",
+    "designation",
+    "outlet_id",
+    "added_by",
+    "force_pw_change",
+    "_vt_is_canceled",
+    "_vt_stp_trans_id",
+    "_vt_stock_cal",
+    "_vt_stock_reverse",
+    "_is_vitepos",
+    "_vtp_payment_list",
+    "_vt_is_paid",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:47.513Z"
+}

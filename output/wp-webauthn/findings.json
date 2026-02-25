@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wwa_init",
+    "wwa_options",
+    "wwa_version",
+    "wwa_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webauthn_only"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:45.448Z"
+}

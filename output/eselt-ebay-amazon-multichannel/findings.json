@@ -1,0 +1,17 @@
+{
+  "options": [
+    "eselt_api_keys",
+    "eselt_inventory_movements_db_version"
+  ],
+  "transients": [
+    "eselt_admin_notice_error",
+    "eselt_admin_notice_success"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:18.596Z"
+}

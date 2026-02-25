@@ -1,0 +1,22 @@
+{
+  "options": [
+    "jetpack_protect_active",
+    "jetpack_offline_mode",
+    "wpcom_public_coming_soon",
+    "*_bacs_order_status",
+    "*_cheque_order_status",
+    "*_cod_downloadable_order_status",
+    "*_cod_order_status",
+    "*_mode"
+  ],
+  "transients": [
+    "jetpack_is_single_user",
+    "quadlayers_news_feed",
+    "ql_plugin_feedback_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:33.408Z"
+}

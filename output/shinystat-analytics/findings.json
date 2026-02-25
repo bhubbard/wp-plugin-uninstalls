@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_account_name",
+    "*_account_type",
+    "*_conv_name",
+    "*_advanced_options_add_param_name",
+    "*_advanced_options_add_param_value",
+    "shinystat_analytics_advanced_options_add_param_name",
+    "shinystat_analytics_advanced_options_add_param_value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:02.605Z"
+}

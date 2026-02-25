@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpcf7_google_chat_*",
+    "_wpcf7_google_chat_webhook_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:57.757Z"
+}

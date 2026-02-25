@@ -1,0 +1,17 @@
+{
+  "options": [
+    "webp-express-alter-html-replacement",
+    "webp-express-alter-html-hooks",
+    "webp-express-activation-error",
+    "cache-enabler"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "webp_express_task_regenerate_config_and_htaccess",
+    "webp_express_task_bulk_update_dummy_files"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:30.263Z"
+}

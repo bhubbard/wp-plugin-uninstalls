@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cbc-bgoption",
+    "cbc-bgcolor",
+    "cbc-bgimage",
+    "cbc-bgattach",
+    "cbc-bgrepeat",
+    "cbc-bgposition"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:29.493Z"
+}

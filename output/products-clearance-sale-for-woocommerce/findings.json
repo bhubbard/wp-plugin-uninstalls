@@ -1,0 +1,14 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pcsfw_backed_up",
+    "_pcsfw_next_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:25.898Z"
+}

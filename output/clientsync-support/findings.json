@@ -1,0 +1,26 @@
+{
+  "options": [
+    "cs_support_page_id",
+    "cs_support_helpdesk_settings",
+    "cs_support_db_version",
+    "cs_support_helpdesk_data_retention",
+    "cs_support_notification_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cs_support_data_retention_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_is_support_ticket",
+    "_ticket_status",
+    "_comment_author_id",
+    "_ticket_priority",
+    "_ticket_category",
+    "_customer_email",
+    "_customer_name",
+    "_ticket_customer_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:58.830Z"
+}

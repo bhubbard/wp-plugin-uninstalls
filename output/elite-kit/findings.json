@@ -1,0 +1,25 @@
+{
+  "options": [
+    "widgets",
+    "elite_kit_extensions",
+    "ekl_widgets",
+    "elementor_css_print_method",
+    "elite_kit_lite_installed",
+    "ek_deactivation_feedback"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ek_library_type",
+    "_elementor_template_type",
+    "_ek_display_cond",
+    "_ek_template_active",
+    "_elementor_data",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "ek_post_views_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:30.825Z"
+}

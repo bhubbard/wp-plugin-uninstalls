@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "portfolio_type",
+    "project_link",
+    "position",
+    "email",
+    "facebook",
+    "twitter",
+    "gplus",
+    "linkedin",
+    "instagram",
+    "company"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:58.068Z"
+}

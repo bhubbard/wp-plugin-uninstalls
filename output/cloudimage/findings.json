@@ -1,0 +1,33 @@
+{
+  "options": [
+    "cloudimage_new_version",
+    "cloudimage",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "cloudimage_token_cname",
+    "cloudimage_use_origin_url",
+    "cloudimage_lazy_loading",
+    "cloudimage_ignore_svg",
+    "cloudimage_prevent_image_upsize",
+    "cloudimage_image_quality",
+    "cloudimage_maximum_pixel_ratio",
+    "cloudimage_remove_v7",
+    "cloudimage_image_size_attributes",
+    "cloudimage_custom_function",
+    "cloudimage_custom_library",
+    "cloudimage_skip_classes",
+    "cloudimage_skip_files",
+    "cloudimage_local_javascript_libraries",
+    "cloudimage_standard_mode",
+    "cloudimage_url_signature",
+    "cloudimage_enable_srcset",
+    "cloudimage_srcset_widths"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:49.760Z"
+}

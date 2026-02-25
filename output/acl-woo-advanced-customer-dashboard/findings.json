@@ -1,0 +1,21 @@
+{
+  "options": [
+    "acl_wooacd_custom_request",
+    "acl_wooacd_traveller",
+    "acl_wooacd_estimated_delivery_time",
+    "acl_wooacd_menus",
+    "acl_wooacd_enable_notifications",
+    "acl_wooacd_set_estimated_delivery_time",
+    "acl_wooacd_price_breakdown",
+    "acl_wooacd_note_placeholder",
+    "acl_wooacd_phrase"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wooacd_cost_breakdown"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:18.320Z"
+}

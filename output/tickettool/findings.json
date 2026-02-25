@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wp_ticketool_blank",
+    "wp_ticketool_expired",
+    "wp_ticketool_key",
+    "wp_ticketool_thumbnail",
+    "wp_ticketool_thumbnail_width",
+    "wp_ticketool_iframe",
+    "wp_ticketool_iframe_width",
+    "wp_ticketool_iframe_height",
+    "wp_ticketool_map",
+    "wp_ticketool_map_width",
+    "wp_ticketool_map_height",
+    "wp_ticketool_cat",
+    "wp_ticketool_button_title",
+    "wp_ticketool_lang"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tickettool_event_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:26.321Z"
+}

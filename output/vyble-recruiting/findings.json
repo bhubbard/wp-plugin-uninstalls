@@ -1,0 +1,17 @@
+{
+  "options": [
+    "blech_theme_jobtexts"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vyble_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "job_vybleid",
+    "job_data",
+    "job_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:20.892Z"
+}

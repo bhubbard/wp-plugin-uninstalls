@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wp_places_settings",
+    "WP_Places_Google_Attr_Setting_check",
+    "wp_places_legacy",
+    "WP_Places_Google_Id_Setting",
+    "WP_Places_CSS",
+    "WP_Places_Display_Div"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_WP_Places_meta_Google_response",
+    "_wp_places",
+    "_WP_Places_meta_value_lat",
+    "_WP_Places_meta_value_lon",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:48.441Z"
+}

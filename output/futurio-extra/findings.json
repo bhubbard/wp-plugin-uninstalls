@@ -1,0 +1,44 @@
+{
+  "options": [
+    "woocommerce_shop_page_id",
+    "fe_plugin_do_activation_redirect",
+    "futurio_active_time",
+    "kirki_telemetry_no_consent",
+    "elementor_onboarded",
+    "kirki_notices",
+    "futurio_maybe_later",
+    "futurio_review_dismiss",
+    "widget_*",
+    "sidebars_widgets",
+    "_wc_needs_pages",
+    "woocommerce_single_image_width",
+    "woocommerce_thumbnail_image_width",
+    "woocommerce_thumbnail_cropping",
+    "woocommerce_thumbnail_cropping_custom_width",
+    "woocommerce_thumbnail_cropping_custom_height",
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes",
+    "elementor_container_width",
+    "kirki_downloaded_font_files",
+    "*metabox_fields",
+    "*_prefix"
+  ],
+  "transients": [
+    "_wc_activation_redirect",
+    "kirki_googlefonts_cache",
+    "kirki_googlefont_names_cache",
+    "kirki_remote_url_contents"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "futurio_meta_*",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "kirki_fa_nag_dismissed",
+    "*event_txn_event_id",
+    "*event_txn_pkg_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:51.035Z"
+}

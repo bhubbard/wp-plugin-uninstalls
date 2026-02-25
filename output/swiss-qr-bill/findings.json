@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wc_swiss_qr_bill_may_deactivate",
+    "woocommerce_default_country",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_postcode",
+    "woocommerce_store_city"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wsqb_activate_gateway",
+    "_sqb_notice_dismissed",
+    "_wsqb_gateway_data",
+    "_wsqb_invoice_pdf_path"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:23.620Z"
+}

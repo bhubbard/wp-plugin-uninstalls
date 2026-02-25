@@ -1,0 +1,21 @@
+{
+  "options": [
+    "zsq_inv_api_key",
+    "zsq_inv_order_prefix",
+    "zsq_inv_hook_trigger",
+    "zsq_inv_wh_select",
+    "zsq_inv_slack_channel",
+    "zsq_inv_slack_url",
+    "zsq_inv_daily_sync_price",
+    "zsq_inv_daily_sync_qty",
+    "zsq_inv_ex_to_woo_tax_map_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zsq_inv_daily_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:29.661Z"
+}

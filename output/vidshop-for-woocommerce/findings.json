@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "vsfw_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vsfw_review_notice_dismissed",
+    "vsfw_review_notice_permanent_dismissed",
+    "vsfw_review_notice_first_seen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:51.707Z"
+}

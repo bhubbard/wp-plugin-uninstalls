@@ -1,0 +1,16 @@
+{
+  "options": [
+    "awoos_format",
+    "awoos_custom_label",
+    "awoos_percent_label",
+    "awoos_percent_after_before",
+    "awoos_price_label",
+    "awoos_price_after_before"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:27.494Z"
+}

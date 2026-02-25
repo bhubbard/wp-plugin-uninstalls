@@ -1,0 +1,41 @@
+{
+  "options": [
+    "emdn_pushem_id",
+    "emdn_pushem_key",
+    "emdn_pushem_source",
+    "emdn_pushem_token",
+    "emdn_pushem_domain",
+    "emdn_pushem_subdomain",
+    "emdn_pushem_googleid",
+    "emdn_pushem_gcmapi",
+    "emdn_pushem_type",
+    "emdn_pushem_mode",
+    "emdn_pushem_widget_show"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "em_desktop_notifications_lite_addon_time_schedule_event_1",
+    "em_desktop_notifications_lite_addon_time_schedule_event_2",
+    "em_desktop_notifications_lite_addon_time_schedule_event_3",
+    "em_desktop_notifications_lite_addon_time_schedule_event_5",
+    "em_desktop_notifications_lite_addon_time_schedule_event_7",
+    "em_desktop_notifications_lite_addon_time_schedule_event_10",
+    "em_desktop_notifications_lite_addon_time_schedule_event_15",
+    "em_desktop_notifications_lite_addon_time_schedule_event_20",
+    "em_desktop_notifications_lite_addon_time_schedule_event_30",
+    "em_desktop_notifications_lite_addon_time_schedule_event_60"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "role",
+    "ac_var",
+    "ac_var_type",
+    "ac_hook",
+    "ac_target",
+    "ac_audio",
+    "ac_link",
+    "ac_user_con"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:53.414Z"
+}

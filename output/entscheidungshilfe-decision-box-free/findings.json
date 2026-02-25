@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ehf_support",
+    "ehf_text",
+    "ehf_farbe",
+    "ehf_anzeige",
+    "ehf_abstand",
+    "ehf_height",
+    "ehf_text_color",
+    "ehf_width",
+    "ehf_text_size",
+    "ehf_answer_size",
+    "ehf_answer_01",
+    "ehf_answer_02"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:25.818Z"
+}

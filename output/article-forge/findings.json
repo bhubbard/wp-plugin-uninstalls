@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_options",
+    "*_rewrite_rules",
+    "rewrite_rules",
+    "*_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_always_show_toc",
+    "*_show_all_sections"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:03.586Z"
+}

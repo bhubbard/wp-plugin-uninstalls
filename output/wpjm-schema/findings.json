@@ -1,0 +1,23 @@
+{
+  "options": [
+    "job_manager_enable_types",
+    "job_manager_enable_categories"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_application_deadline",
+    "_job_expires",
+    "geolocation_city",
+    "_job_location",
+    "geolocation_state_long",
+    "geolocation_country_short",
+    "geolocated",
+    "geolocation_lat",
+    "geolocation_long",
+    "_company_tagline"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:53.776Z"
+}

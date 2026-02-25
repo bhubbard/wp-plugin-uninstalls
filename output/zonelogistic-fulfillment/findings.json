@@ -1,0 +1,26 @@
+{
+  "options": [
+    "zonelogistic_api_token",
+    "zonelogistic_min_order_date",
+    "zonelogistic_order_status",
+    "zonelogistic_shipping_map"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zonelogistic_retry_order_send"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_zonelogistic_own_stock",
+    "_zonelogistic_sku_override",
+    "courier",
+    "tracking_number",
+    "zonelogistic_status",
+    "tracking_url",
+    "delivered_status",
+    "_zonelogistic_retry_count",
+    "woosb_ids"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:11.772Z"
+}

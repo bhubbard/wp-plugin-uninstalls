@@ -1,0 +1,22 @@
+{
+  "options": [
+    "podd_plugin_options_favicons",
+    "podd_plugin_options_logger",
+    "podd_plugin_options_usecdn",
+    "podd_plugin_options_nag",
+    "podd_plugin_features_analytics",
+    "podd_plugin_features_history",
+    "podd_plugin_core_wp_is_mobile",
+    "podd_plugin_css_*",
+    "podd_plugin_css_current",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:31.304Z"
+}

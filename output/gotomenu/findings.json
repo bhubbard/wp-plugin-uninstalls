@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gtmsk_enable_frontend",
+    "gtmsk_enable_backend"
+  ],
+  "transients": [
+    "gtmsk_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:32.307Z"
+}

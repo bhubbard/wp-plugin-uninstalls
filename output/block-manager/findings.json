@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gbm_disabled_blocks",
+    "gbm_categories",
+    "gbm_disabled_patterns"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:37.211Z"
+}

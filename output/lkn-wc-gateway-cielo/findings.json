@@ -1,0 +1,36 @@
+{
+  "options": [
+    "lknCieloProApiLicense",
+    "*_settings",
+    "woocommerce_lkn_cielo_debit_settings",
+    "woocommerce_lkn_cielo_credit_settings",
+    "woocommerce_lkn_wc_cielo_pix_settings",
+    "woocommerce_lkn_cielo_google_pay_settings",
+    "lkn_cielo_pro_license_boolean",
+    "woocommerce_currency_pos",
+    "wcbcf_settings",
+    "cielo_wc_pix_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lkn_schedule_check_free_pix_payment_hook",
+    "lkn_remove_custom_cron_job_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lknCieloApiProProdutctInterest",
+    "card_array",
+    "default_card",
+    "billing_cpf",
+    "billing_cnpj",
+    "billing_phone",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_state",
+    "billing_postcode",
+    "billing_country"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:13.335Z"
+}

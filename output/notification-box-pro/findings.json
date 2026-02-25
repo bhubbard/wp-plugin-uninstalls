@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ztb_source",
+    "ztb_id",
+    "ztb_domainid",
+    "ztb_email",
+    "access_key",
+    "ztb_access_key",
+    "ztb_status_message",
+    "ztb_status_disconnect",
+    "ztb_token_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:26.557Z"
+}

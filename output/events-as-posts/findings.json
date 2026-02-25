@@ -1,0 +1,27 @@
+{
+  "options": [
+    "eap_settings_style",
+    "eap_settings",
+    "eap_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eap_from_day",
+    "eap_from_time",
+    "eap_until_day",
+    "eap_until_time",
+    "eap_location",
+    "eap_link_location",
+    "eap_city",
+    "eap_country",
+    "eap_add_info",
+    "eap_from_day_custom_format",
+    "eap_from_time_custom_format",
+    "eap_until_day_custom_format",
+    "eap_until_time_custom_format"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:26.139Z"
+}

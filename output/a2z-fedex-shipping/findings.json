@@ -1,0 +1,29 @@
+{
+  "options": [
+    "shipi_migration_done",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_feature_product_block_editor_enabled",
+    "hitshippo_fedex_main_settings",
+    "hit_multi_vendor",
+    "hitshipo_fedex_working_status",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency",
+    "hitshippo_fedex_ex_rate*"
+  ],
+  "transients": [
+    "hitshipo_fedex_express_nonce_temp",
+    "hitshipo_fedex_rest_auth_token_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fedex_address",
+    "hits_fedex_cc",
+    "hits_fedex_label_dec",
+    "hitshippo_fedex_vendor_settings",
+    "_shipi_custom_val_rates"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:06.746Z"
+}

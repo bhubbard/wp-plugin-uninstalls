@@ -1,0 +1,25 @@
+{
+  "options": [
+    "imagesqueeze_optimization_log",
+    "imagesqueeze_last_run_summary",
+    "imagesqueeze_current_job",
+    "imagesqueeze_total_saved_bytes",
+    "imagesqueeze_last_run_time",
+    "imagesqueeze_settings",
+    "imagesqueeze_job_queue",
+    "imagesqueeze_using_filters"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_imagesqueeze_status",
+    "_imagesqueeze_error_message",
+    "_imagesqueeze_last_attempt",
+    "_imagesqueeze_optimized",
+    "_imagesqueeze_webp_sizes",
+    "_imagesqueeze_saved_bytes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:26.099Z"
+}

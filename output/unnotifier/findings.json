@@ -1,0 +1,19 @@
+{
+  "options": [
+    "unn_settings",
+    "unno_activation_time"
+  ],
+  "transients": [
+    "unn_notices_cache"
+  ],
+  "cron_jobs": [
+    "unn_cleanup_old_notices"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "test_meta",
+    "user_hidden_notices"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:21.562Z"
+}

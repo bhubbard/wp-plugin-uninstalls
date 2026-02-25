@@ -1,0 +1,134 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('sovrn_workbench-user_action');
+delete_site_option('sovrn_workbench-user_action');
+delete_option('sovrn_workbench-publish_modal_post_id');
+delete_site_option('sovrn_workbench-publish_modal_post_id');
+delete_option('sovrn_workbench-article_id');
+delete_site_option('sovrn_workbench-article_id');
+delete_option('sovrn_workbench-amp_enabled');
+delete_site_option('sovrn_workbench-amp_enabled');
+delete_option('sovrn_workbench-facebook_enabled');
+delete_site_option('sovrn_workbench-facebook_enabled');
+delete_option('sovrn_workbench-fbia_started');
+delete_site_option('sovrn_workbench-fbia_started');
+delete_option('sovrn_workbench-twitter_enabled');
+delete_site_option('sovrn_workbench-twitter_enabled');
+delete_option('sovrn_workbench-google_plus_enabled');
+delete_site_option('sovrn_workbench-google_plus_enabled');
+delete_option('sovrn_workbench-apple_news_enabled');
+delete_site_option('sovrn_workbench-apple_news_enabled');
+delete_option('sovrn_workbench-publish_modal_is_facebook');
+delete_site_option('sovrn_workbench-publish_modal_is_facebook');
+delete_option('sovrn_workbench-publish_modal_is_twitter');
+delete_site_option('sovrn_workbench-publish_modal_is_twitter');
+delete_option('sovrn_workbench-publish_modal_is_google_plus');
+delete_site_option('sovrn_workbench-publish_modal_is_google_plus');
+delete_option('sovrn_workbench-publish_modal_is_apple_news');
+delete_site_option('sovrn_workbench-publish_modal_is_apple_news');
+delete_option('sovrn_workbench_do_activation_redirect');
+delete_site_option('sovrn_workbench_do_activation_redirect');
+delete_option('sovrn_workbench-publish_modal_user_status');
+delete_site_option('sovrn_workbench-publish_modal_user_status');
+delete_option('sovrn_workbench-country_code');
+delete_site_option('sovrn_workbench-country_code');
+delete_option('sovrn_workbench-privacy_policy');
+delete_site_option('sovrn_workbench-privacy_policy');
+delete_option('sovrn_workbench-terms_n_conditions');
+delete_site_option('sovrn_workbench-terms_n_conditions');
+delete_option('sovrn_workbench-email');
+delete_site_option('sovrn_workbench-email');
+delete_option('sovrn_workbench-password');
+delete_site_option('sovrn_workbench-password');
+delete_option('sovrn_workbench-password_confirm');
+delete_site_option('sovrn_workbench-password_confirm');
+delete_option('sovrn_workbench-authentication-error');
+delete_site_option('sovrn_workbench-authentication-error');
+delete_option('sovrn_workbench-auth_token');
+delete_site_option('sovrn_workbench-auth_token');
+delete_option('sovrn_workbench-sso-country_code');
+delete_site_option('sovrn_workbench-sso-country_code');
+delete_option('sovrn_workbench-sso-privacy_policy');
+delete_site_option('sovrn_workbench-sso-privacy_policy');
+delete_option('sovrn_workbench-sso-terms_n_conditions');
+delete_site_option('sovrn_workbench-sso-terms_n_conditions');
+delete_option('sovrn_workbench-sso-username');
+delete_site_option('sovrn_workbench-sso-username');
+delete_option('sovrn_workbench-sso-password');
+delete_site_option('sovrn_workbench-sso-password');
+delete_option('sovrn_workbench-login_username');
+delete_site_option('sovrn_workbench-login_username');
+delete_option('sovrn_workbench-login_password');
+delete_site_option('sovrn_workbench-login_password');
+delete_option('sovrn_workbench-username');
+delete_site_option('sovrn_workbench-username');
+delete_option('sovrn_workbench-login_email');
+delete_site_option('sovrn_workbench-login_email');
+delete_option('sovrn_workbench-reset_login_email');
+delete_site_option('sovrn_workbench-reset_login_email');
+delete_option('sovrn_workbench-reset_temporary_password');
+delete_site_option('sovrn_workbench-reset_temporary_password');
+delete_option('sovrn_workbench-reset_password');
+delete_site_option('sovrn_workbench-reset_password');
+delete_option('sovrn_workbench-reset_confirm_password');
+delete_site_option('sovrn_workbench-reset_confirm_password');
+delete_option('sovrn_workbench-in-password-recovery-mode');
+delete_site_option('sovrn_workbench-in-password-recovery-mode');
+delete_option('sovrn_workbench-forgot_password_email');
+delete_site_option('sovrn_workbench-forgot_password_email');
+delete_option('sovrn_workbench-selected_facebook_page_id');
+delete_site_option('sovrn_workbench-selected_facebook_page_id');
+delete_option('sovrn_workbench-apple-news-key');
+delete_site_option('sovrn_workbench-apple-news-key');
+delete_option('sovrn_workbench-apple-news-secret');
+delete_site_option('sovrn_workbench-apple-news-secret');
+delete_option('sovrn_workbench-apple-news-channel');
+delete_site_option('sovrn_workbench-apple-news-channel');
+delete_option('sovrn_workbench-apple-news-section');
+delete_site_option('sovrn_workbench-apple-news-section');
+delete_option('sovrn_workbench-apple-news-edit');
+delete_site_option('sovrn_workbench-apple-news-edit');
+delete_option('sovrn_workbench-apple-news-channel-name');
+delete_site_option('sovrn_workbench-apple-news-channel-name');
+delete_option('sovrn_workbench-apple-news-site');
+delete_site_option('sovrn_workbench-apple-news-site');
+delete_option('sovrn_workbench-apple-news-share-url');
+delete_site_option('sovrn_workbench-apple-news-share-url');
+delete_option('sovrn_workbench_priority');
+delete_site_option('sovrn_workbench_priority');
+delete_option('sovrn_option_name');
+delete_site_option('sovrn_option_name');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_last_sent' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('sovrn_workbench-admin_notices');
+delete_site_option('sovrn_workbench-admin_notices');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'sovrn_likes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'sovrn_likes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'sovrn_likes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'sovrn_likes' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'sovrn_shares' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'sovrn_shares' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'sovrn_shares' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'sovrn_shares' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'sovrn_comments' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'sovrn_comments' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'sovrn_comments' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'sovrn_comments' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'sovrn_insights_last_updated' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'sovrn_insights_last_updated' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'sovrn_insights_last_updated' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'sovrn_insights_last_updated' ) );
+

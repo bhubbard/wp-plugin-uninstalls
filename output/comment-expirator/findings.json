@@ -1,0 +1,17 @@
+{
+  "options": [
+    "comment_expirator"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "comment_expirator"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "comment_expirator_date",
+    "comment_expirator_time",
+    "comment_expirator_disable_pt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:19.549Z"
+}

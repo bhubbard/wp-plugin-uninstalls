@@ -1,0 +1,15 @@
+{
+  "options": [
+    "zyflora_research_page_id",
+    "zyflora_article_page_id",
+    "zyflora_claude_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zyflora_saved_keywords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:42.585Z"
+}

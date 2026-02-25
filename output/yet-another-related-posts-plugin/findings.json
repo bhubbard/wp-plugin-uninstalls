@@ -1,0 +1,26 @@
+{
+  "options": [
+    "yarpp_pro",
+    "yarpp",
+    "active_sitewide_plugins",
+    "*_timeout",
+    "yarpp_fulltext_disabled",
+    "yarpp_version",
+    "yarpp_activated",
+    "yarpp_upgraded",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [
+    "yarpp_version_info",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yarpp_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:35.643Z"
+}

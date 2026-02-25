@@ -1,0 +1,15 @@
+{
+  "options": [
+    "nevillex-instagram-settings"
+  ],
+  "transients": [
+    "nevillex_instagram_is_configured"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nevillex_title_design_output"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:06.882Z"
+}

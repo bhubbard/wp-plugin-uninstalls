@@ -1,0 +1,13 @@
+{
+  "options": [
+    "xylusec_plugin_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "venue_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:49.341Z"
+}

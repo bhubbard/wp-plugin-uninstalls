@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ehmc_show_summary",
+    "ehmc_show_table",
+    "ehmc_show_chart",
+    "ehmc_default_amount",
+    "ehmc_default_interest",
+    "ehmc_default_years",
+    "ehmc_label_amount",
+    "ehmc_label_interest",
+    "ehmc_label_years",
+    "ehmc_label_button_calculate",
+    "ehmc_label_button_reset",
+    "ehmc_delete_data_on_uninstall",
+    "ehmc_primary_color",
+    "ehmc_button_color_calculate",
+    "ehmc_button_color_reset",
+    "ehmc_table_header_color",
+    "ehmc_border_radius"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:47.784Z"
+}

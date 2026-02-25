@@ -1,0 +1,15 @@
+{
+  "options": [
+    "accodps_wc_advance_payment_percentage",
+    "accodps_wc_advance_payment_min_order_total",
+    "accodps_advance_payment_title",
+    "accodps_advance_payment_description",
+    "accodps_advance_payment_checkbox_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:22.027Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "embed_autourls",
+    "liveblog_rewrites_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "auto_archive_check_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:01.688Z"
+}

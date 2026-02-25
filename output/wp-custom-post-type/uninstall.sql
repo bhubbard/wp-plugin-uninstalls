@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wp_custom_post_slider_btntxt', 'wp_custom_post_slider_link', 'wp_custom_post_testimonial_name', 'wp_custom_post_testimonial_designation', '_wp_attachment_image_alt', 'wp_custom_post_callout_icon', 'wp_custom_post_team_name', 'wp_custom_post_team_designation', 'wp_custom_post_team_facebook', 'wp_custom_post_team_twitter', 'wp_custom_post_team_linked', 'wp_custom_post_team_skype');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wp_custom_post_slider_btntxt', 'wp_custom_post_slider_link', 'wp_custom_post_testimonial_name', 'wp_custom_post_testimonial_designation', '_wp_attachment_image_alt', 'wp_custom_post_callout_icon', 'wp_custom_post_team_name', 'wp_custom_post_team_designation', 'wp_custom_post_team_facebook', 'wp_custom_post_team_twitter', 'wp_custom_post_team_linked', 'wp_custom_post_team_skype');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wp_custom_post_slider_btntxt', 'wp_custom_post_slider_link', 'wp_custom_post_testimonial_name', 'wp_custom_post_testimonial_designation', '_wp_attachment_image_alt', 'wp_custom_post_callout_icon', 'wp_custom_post_team_name', 'wp_custom_post_team_designation', 'wp_custom_post_team_facebook', 'wp_custom_post_team_twitter', 'wp_custom_post_team_linked', 'wp_custom_post_team_skype');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wp_custom_post_slider_btntxt', 'wp_custom_post_slider_link', 'wp_custom_post_testimonial_name', 'wp_custom_post_testimonial_designation', '_wp_attachment_image_alt', 'wp_custom_post_callout_icon', 'wp_custom_post_team_name', 'wp_custom_post_team_designation', 'wp_custom_post_team_facebook', 'wp_custom_post_team_twitter', 'wp_custom_post_team_linked', 'wp_custom_post_team_skype');
+

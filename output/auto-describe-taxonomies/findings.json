@@ -1,0 +1,15 @@
+{
+  "options": [
+    "adtaxonomies_tags_described",
+    "adtaxonomies_cats_described",
+    "adtaxonomies_tags_exclude",
+    "adtaxonomies_cats_exclude",
+    "adtaxonomies_tags_advertise"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:29.907Z"
+}

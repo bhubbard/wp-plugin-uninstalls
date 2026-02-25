@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('invoicejapan', 'invoicejapan_gateway_mail_timing', 'invoicejapan_gateway_remarks', 'invoicejapan_gateway_refunds', 'woocommerce_bankjp_accounts', 'woocommerce_postofficebankjp_accounts', 'woocommerce_default_country', 'woocommerce_store_city', 'woocommerce_store_address', 'woocommerce_store_address_2', 'woocommerce_store_postcode', 'woocommerce_email_from_name', 'woocommerce_email_from_address', 'invoicejapan_mail_timing');
+

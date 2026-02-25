@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wcn_settings"
+  ],
+  "transients": [
+    "wcn_is_notification_sent",
+    "wcn_admin_notification"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:52.072Z"
+}

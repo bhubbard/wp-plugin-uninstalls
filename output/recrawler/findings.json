@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mihdan_index_now_version",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_last_update"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:55.931Z"
+}

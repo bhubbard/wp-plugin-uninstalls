@@ -1,0 +1,30 @@
+{
+  "options": [
+    "pwoosms_table_archive",
+    "pwoosms_table_contacts",
+    "pwoosms_hide_about_page",
+    "pwoosms_redirect_about_page",
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_manage_stock",
+    "pwsms_notices",
+    "woocommerce_notify_no_stock_amount",
+    "pwoosms_update_product_admin_meta",
+    "pwoosms_ads_noticemelli",
+    "pwoosms_update_gateway_options",
+    "pwoosms_table_contacts_created",
+    "pwoosms_table_contacts_updated"
+  ],
+  "transients": [
+    "pwsms_notice_*",
+    "pwsms_notice_all",
+    "pwsms_update_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:53.429Z"
+}

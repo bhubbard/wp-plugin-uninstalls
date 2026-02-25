@@ -1,0 +1,22 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "e20r_im_error_msg",
+    "pmp_im_error_msg",
+    "e20r_import_has_donated",
+    "e20r_link_for_sponsor",
+    "e20r_import_errors",
+    "e20r_imesc_attr_error_msg"
+  ],
+  "transients": [
+    "e20r_import_filename"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pmprosm_seats",
+    "pmprosm_sponsor"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:09.289Z"
+}

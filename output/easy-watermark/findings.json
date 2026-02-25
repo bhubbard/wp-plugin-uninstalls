@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*-version",
+    "easy-watermark-first-booted",
+    "*-settings-general",
+    "*-settings-image",
+    "*-settings-text",
+    "*-settings",
+    "_ew_preview_image_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ew_backup_file",
+    "_ew_applied_watermarks",
+    "_ew_has_backup",
+    "_ew_used_as_watermark",
+    "_ew_attachment_version",
+    "_wp_attachment_metadata",
+    "_ew_tmp_params"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:30.276Z"
+}

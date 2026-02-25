@@ -1,0 +1,14 @@
+{
+  "options": [
+    "twb_wc_reviews_option",
+    "woocommerce_enable_review_rating"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:21.867Z"
+}

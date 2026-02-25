@@ -1,0 +1,15 @@
+{
+  "options": [
+    "freecontactformdotcom_email",
+    "freecontactformdotcom_question",
+    "freecontactformdotcom_answer",
+    "freecontactformdotcom_thankyou",
+    "freecontactformdotcom_linkback"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:53.549Z"
+}

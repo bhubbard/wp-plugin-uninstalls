@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'pay_advantage_credit_card_description'
+wp option delete 'pay_advantage_make_payment_button'
+wp option delete 'pay_advantage_wc_paid_status'
+wp option delete 'pay_advantage_wc_cancel_status'
+wp option delete 'pay_advantage_error_logging'
+wp option delete 'pay_advantage_refresh_token'
+wp option delete 'pay_advantage_env'
+wp option delete 'pay_advantage_verified'
+wp option delete 'pay_advantage_show_widget_to_users_not_logged_in'
+wp option delete 'pay_advantage_require_mobile'
+wp option delete 'pay_advantage_require_address'
+wp option delete 'pay_advantage_show_credit_card'
+wp option delete 'pay_advantage_oncharge_credit_card_fees'
+wp option delete 'pay_advantage_wc_oncharge_credit_card_fees'
+wp option delete 'pay_advantage_show_bpay'
+wp option delete 'pay_advantage_url'
+wp option delete 'pay_advantage_instance_id'
+wp option delete 'pay_advantage_app_client_id'
+wp option delete 'pay_advantage_app_code_verifier'
+wp option delete 'pay_advantage_require_country'
+wp option delete 'pay_advantage_db_version'
+wp option delete 'pay_advantage_access_token'
+wp option delete 'pay_advantage_access_token_expiry'
+wp option delete 'pay_advantage_user_name'
+wp option delete 'pay_advantage_password'
+wp option delete 'pay_advantage_site_url'
+

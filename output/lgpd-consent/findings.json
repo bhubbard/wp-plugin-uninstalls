@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lgpd_consent_cyfer_options",
+    "lgpd_consent_license_key",
+    "lgpd_consent_license_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lgpd_consent_cyfer_pro_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:06.096Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "inq_header",
+    "inq_item_lable",
+    "inq_email_feild_lable",
+    "inq_name_feild_lable",
+    "inq_message_feild_lable",
+    "inq_email_to",
+    "inq_suc_msg",
+    "inq_err_captcha",
+    "inq_err_email",
+    "inq_err_name",
+    "inq_form_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:24.793Z"
+}

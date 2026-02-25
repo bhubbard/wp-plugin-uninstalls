@@ -1,0 +1,20 @@
+{
+  "options": [
+    "lifepress_dashboard",
+    "lifepress_create_pages",
+    "lp_type_meta",
+    "lifepress_metrics",
+    "lp_settings",
+    "life_create_pages"
+  ],
+  "transients": [
+    "_lp_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lifepress_ls_sd"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:41.596Z"
+}

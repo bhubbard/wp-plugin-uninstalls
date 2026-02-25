@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_polako_settings",
+    "woocommerce_tax_based_on"
+  ],
+  "transients": [
+    "wc-gateway-polako-admin-notice-transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:34.702Z"
+}

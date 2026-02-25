@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ntdbCurrentVersion",
+    "ntdbCurrentType",
+    "optTinyDB",
+    "optIsTitle_*",
+    "optFieldsSeparator_*",
+    "optSearchField_*",
+    "optPartSearch_*",
+    "optCaseSearch_*",
+    "optShowHead_*",
+    "optLineSpace_*",
+    "optNewPage_*",
+    "optImgPos_*",
+    "optImgWidth_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:02.284Z"
+}

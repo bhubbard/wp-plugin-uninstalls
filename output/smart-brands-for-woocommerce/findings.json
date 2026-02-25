@@ -1,0 +1,29 @@
+{
+  "options": [
+    "sp_smart_brand_settings",
+    "smart_brands_migration_done",
+    "smart_brands_version",
+    "smart_brands_first_version",
+    "smart_brands_activation_date",
+    "smart_brands_db_version",
+    "sp_smart_brands_review_notice_dismiss",
+    "shapedplugin_offer_banner_dismissed_*",
+    "sp_smart_brand_page_id*",
+    "woocommerce_version",
+    "smart_brands_brand_taxonomy"
+  ],
+  "transients": [
+    "spsbf_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sp_smart_brand_taxonomy_meta",
+    "thumbnail_id",
+    "sp_smart_brand_metaboxes",
+    "sp_smart_brand_metabox_layouts",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:56.751Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_stripe_pix_settings",
+    "*_settings",
+    "woocommerce_stripe_pix_secret_key_sandbox",
+    "woocommerce_stripe_pix_secret_key_production"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_cpf"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:02.099Z"
+}

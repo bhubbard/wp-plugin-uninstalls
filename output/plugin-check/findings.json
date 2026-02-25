@@ -1,0 +1,13 @@
+{
+  "options": [
+    "plugin_check_ai_credentials"
+  ],
+  "transients": [
+    "wp_plugin_check_latest_version_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:46.852Z"
+}

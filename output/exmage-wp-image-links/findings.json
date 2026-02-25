@@ -1,0 +1,33 @@
+{
+  "options": [
+    "exmage_background_process_image_kill_process",
+    "*_kill_process",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "exmage_background_process_image_complete",
+    "*_complete",
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_exmage_external_url",
+    "_exmage_imported",
+    "_vi_wad_image_id",
+    "_wp_attachment_backup_sizes",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:19.804Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "woocommerce_email_from_address",
+    "woocommerce_email_from_name",
+    "rewrite_rules",
+    "active_sitewide_plugins",
+    "wc_settings_tab_mailchimp_info_lname",
+    "wc_settings_tab_mailchimp_info_address",
+    "wc_settings_tab_mailchimp_info_city",
+    "wc_settings_tab_mailchimp_info_state",
+    "wc_settings_tab_mailchimp_info_country",
+    "wc_settings_tab_mailchimp_double_optin",
+    "wpdesk_helper_options",
+    "wpdesk_tracker_notice",
+    "wpdesk_tracker_agree"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shopmagic_ignore_notice_*",
+    "_shopmagic_converted_from_guest",
+    "billing_phone",
+    "is_customer_note",
+    "billing_company"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:03.815Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "swpanel_migrator_run_task",
+    "swpanel_migrator_token",
+    "swpanel_migrator_secret_key",
+    "swpanel_migrator_status",
+    "swpanel_migrator_maintenance",
+    "swpanel_migrator_token_url",
+    "swpanel_migrator_url",
+    "swpanel_migrator_sql_uuid"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "swpanel_migrator_cleanup_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:54.930Z"
+}

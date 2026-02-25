@@ -1,0 +1,17 @@
+{
+  "options": [
+    "squeeze_stats",
+    "squeeze_options",
+    "squeeze_do_activation_redirect"
+  ],
+  "transients": [
+    "squeeze_bulk_path"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "squeeze_is_compressed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:15.543Z"
+}

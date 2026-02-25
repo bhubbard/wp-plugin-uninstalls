@@ -1,0 +1,22 @@
+{
+  "options": [
+    "daextlnl_options_version",
+    "*_database_version",
+    "*_tickers_menu_capability",
+    "*_featured_news_menu_capability",
+    "*_sliding_news_menu_capability",
+    "*_tools_menu_capability",
+    "*_maintenance_menu_capability",
+    "*_assets_mode",
+    "daextlnl_load_momentjs",
+    "daextlnl_dismissible_notice_a"
+  ],
+  "transients": [
+    "daextlnl_ticker_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:26.153Z"
+}

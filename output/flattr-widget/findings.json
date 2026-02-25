@@ -1,0 +1,15 @@
+{
+  "options": [
+    "flattr_author_uid",
+    "flattr_uid",
+    "flattr_compact"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "flattr_uid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:44.352Z"
+}

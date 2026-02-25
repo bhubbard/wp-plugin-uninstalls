@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cc-suite_*",
+    "cc-suite_conditionals",
+    "cc-suite_tagline",
+    "cc-suite_usetargetblank",
+    "cc-suite_style_before",
+    "cc-suite_style_after"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:42.718Z"
+}

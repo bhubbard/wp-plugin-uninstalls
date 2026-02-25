@@ -1,0 +1,51 @@
+{
+  "options": [
+    "qazana_remote_info_api_data",
+    "active_sitewide_plugins",
+    "qazana_allow_tracking",
+    "qazana_tracker_last_send",
+    "qazana_tracker_notice",
+    "_qazana_installed_time",
+    "qazana_version",
+    "_qazana_db_version",
+    "rewrite_rules",
+    "site_container_width",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "qazana_css_print_method",
+    "_qazana_scheme_last_updated",
+    "_qazana_settings_update_time",
+    "qazana_page_title_selector",
+    "qazana_google_maps_api_key",
+    "qazana_scheme_*",
+    "qazana_exclude_user_roles",
+    "qazana_extension_*",
+    "retina-images",
+    "*_schemes",
+    "qazana_cpt_support",
+    "qazana_remote_templates_data"
+  ],
+  "transients": [
+    "update_plugins",
+    "_qazana_activation_redirect"
+  ],
+  "cron_jobs": [
+    "qazana/tracker/send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_qazana_data",
+    "_qazana_version",
+    "_qazana_draft_data",
+    "_qazana_edit_mode",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "_qazana_css",
+    "rich_editing",
+    "_thumbnail_id",
+    "_qazana_source_image_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:49.435Z"
+}

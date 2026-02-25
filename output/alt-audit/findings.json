@@ -1,0 +1,24 @@
+{
+  "options": [
+    "altaudit82ai_quality_scores_migrated",
+    "altaudit82ai_last_scan_time",
+    "altaudit82ai_scan_reminder_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "altaudit82ai_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_altaudit82ai_auto_generated",
+    "_altaudit82ai_decorative",
+    "_altaudit82ai_quality_score",
+    "_altaudit82ai_generation_method",
+    "_yoast_wpseo_focuskw",
+    "rank_math_focus_keyword",
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:28.881Z"
+}

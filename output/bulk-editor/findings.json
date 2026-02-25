@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpbe_show_text_editor",
+    "wpbe_site_separate_settings",
+    "wpbe_site_editors_post_types",
+    "wpbe_site_editor_visibility",
+    "wpbe_options_*",
+    "wpbe_rate_alert"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_attributes",
+    "wpbe_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:22.210Z"
+}

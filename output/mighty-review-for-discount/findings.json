@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mighty_rfd_basic_configuration",
+    "woocommerce_email_footer_text",
+    "activate_mighty_rfd"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mighty_triggering_event",
+    "mighty_coupon_description",
+    "mighty_discount_type",
+    "mighty_coupon_amount",
+    "mighty_expire_after_days",
+    "mighty_single_use_only",
+    "mighty_individual_use_only"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:55.706Z"
+}

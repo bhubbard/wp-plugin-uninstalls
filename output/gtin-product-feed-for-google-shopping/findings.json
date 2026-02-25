@@ -1,0 +1,44 @@
+{
+  "options": [
+    "gswc_feed_last_generated",
+    "gswc_feed_product_count",
+    "gswc_installed_time",
+    "gswc_feed_enabled",
+    "gswc_feed_limit",
+    "gswc_feed_include_outofstock",
+    "gswc_feed_exclude_categories",
+    "gswc_feed_exclude_tags",
+    "gswc_feed_min_price",
+    "gswc_feed_max_price",
+    "gswc_feed_store_name",
+    "gswc_feed_default_brand",
+    "gswc_feed_default_condition",
+    "gswc_feed_title_prefix",
+    "gswc_feed_title_suffix",
+    "gswc_feed_desc_prefix",
+    "gswc_feed_desc_suffix",
+    "woocommerce_weight_unit",
+    "gswc_feed_*"
+  ],
+  "transients": [
+    "gswc_last_action"
+  ],
+  "cron_jobs": [
+    "gswc_generate_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gswc_pro_notice_dismissed",
+    "gswc_pro_notice_snoozed",
+    "gswc_widget_positioned",
+    "meta-box-order_dashboard",
+    "_gswc_*",
+    "_gswc_gtin",
+    "_gswc_mpn",
+    "_gswc_brand",
+    "_gswc_condition",
+    "_gswc_identifier_exists"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:55.002Z"
+}

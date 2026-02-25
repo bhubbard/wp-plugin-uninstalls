@@ -1,0 +1,17 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "wc_term_counts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mas_wcvs_color",
+    "mas_wcvs_label",
+    "mas_wcvs_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:36.219Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bc_options",
+    "bc_twitch-dismiss",
+    "bcyt_companion_options",
+    "bckt_companion_options"
+  ],
+  "transients": [
+    "bc_twitch_auth_token",
+    "bc_twitch_auth_token_expires"
+  ],
+  "cron_jobs": [
+    "bc_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:23.616Z"
+}

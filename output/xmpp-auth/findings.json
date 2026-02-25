@@ -1,0 +1,16 @@
+{
+  "options": [
+    "imauth_configuration",
+    "imauth_transactions",
+    "imauth_configuration_user_*",
+    "imauth_dns_srv_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:50.704Z"
+}

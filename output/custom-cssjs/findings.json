@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_biw_custom_*",
+    "_biw_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_biw_custom_*",
+    "_biw_custom_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:50.409Z"
+}

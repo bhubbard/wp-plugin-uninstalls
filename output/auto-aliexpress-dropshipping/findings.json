@@ -1,0 +1,36 @@
+{
+  "options": [
+    "auto_aliexpress_enable_accessibility",
+    "auto_robot_license_activated",
+    "auto_aliexpress_version_pro",
+    "auto_aliexpress_addons",
+    "auto_aliexpress_pagination_entries",
+    "auto_aliexpress_pagination_listings"
+  ],
+  "transients": [
+    "_auto_aliexpress_activation_redirect",
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [
+    "aliexpress_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "_visibility",
+    "_stock_status",
+    "_sku",
+    "_manage_stock",
+    "_stock",
+    "_product_attributes",
+    "_product_image_gallery",
+    "attribute_*",
+    "_wp_attachment_image_alt",
+    "_a2w_external_image_url",
+    "_wp_a2w_attached_file",
+    "_swatch_type_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:03.729Z"
+}

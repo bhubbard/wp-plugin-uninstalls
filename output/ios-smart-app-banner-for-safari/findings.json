@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_carpe_ios_app_id",
+    "_carpe_affiliate_param",
+    "_carpe_affiliate_campaign",
+    "_carpe_app_argument"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:05.113Z"
+}

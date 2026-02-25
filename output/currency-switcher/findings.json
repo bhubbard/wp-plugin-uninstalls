@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpcs_sd_*",
+    "wpcs_sd",
+    "wpcs_sd_max",
+    "wpcs_settings",
+    "wpcs_first_activation",
+    "wpcs_geo_rules",
+    "wpcs",
+    "wpcs_manage_rate_alert",
+    "wpcs_show_money_signs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpcs_currencies_rate_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:43.657Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_fluentform_pdf_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fluentform_pdf_cleanup_tmp_dir"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:24.617Z"
+}

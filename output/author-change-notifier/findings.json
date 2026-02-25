@@ -1,0 +1,18 @@
+{
+  "options": [
+    "acn_ex_author_msg",
+    "acn_new_author_msg",
+    "acn_sender_name",
+    "acn_email_from",
+    "acn_ex_author_subject",
+    "acn_new_author_subject"
+  ],
+  "transients": [
+    "acn_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:28.679Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "elementor_viewport_lg",
+    "elementor_viewport_md",
+    "pp_override_ms",
+    "pp_elementor_modules",
+    "pp_elementor_extensions",
+    "pp_license_status",
+    "pp_review_later_date",
+    "pp_review_already_did",
+    "pp_do_not_upgrade_to_pro",
+    "pp_install_date",
+    "pp_tracking_last_send",
+    "pp_tracking_notice",
+    "pp_elementor_used_modules",
+    "pp_elementor_notused_modules",
+    "pp_plugin_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "pp-custom-link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:29.573Z"
+}

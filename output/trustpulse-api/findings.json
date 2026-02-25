@@ -1,0 +1,34 @@
+{
+  "options": [
+    "trustpulse_script_id",
+    "trustpulse_script_enabled",
+    "trustpulse_intercept_duplicator_redirect",
+    "duplicator_redirect_to_welcome",
+    "wpforms_activation_redirect",
+    "aioseo_activation_redirect",
+    "*_last_checked",
+    "wpforms_license",
+    "monsterinsights_license",
+    "optin_monster_api",
+    "trustpulse_api_plugin_do_activation_redirect"
+  ],
+  "transients": [
+    "_monsterinsights_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "notification_id",
+    "type",
+    "dismissable",
+    "location",
+    "version",
+    "viewed",
+    "expiration",
+    "plans",
+    "plugins",
+    "theme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:15.877Z"
+}

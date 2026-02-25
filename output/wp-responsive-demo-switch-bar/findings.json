@@ -1,0 +1,31 @@
+{
+  "options": [
+    "xredirect",
+    "wpt_slug_name",
+    "fbar_settings",
+    "page_fbar_settings",
+    "wpt_page_slug",
+    "wpt_meta_description",
+    "wpt_meta_keywords",
+    "wpt_page_icon",
+    "wpt_page_title",
+    "wpt_an_image",
+    "wpt_responsive",
+    "wpt_share",
+    "wpt_purchase",
+    "wpt_close"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "demo_bar_site_url",
+    "demo_bar_download_url",
+    "demo_bar_type",
+    "demo_bar_type_color",
+    "product_type",
+    "product_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:36.890Z"
+}

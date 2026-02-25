@@ -1,0 +1,33 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "*_notices",
+    "*_install_time",
+    "*_options",
+    "stc_enabled",
+    "registration",
+    "subscribe_reloaded_version",
+    "subscribe_reloaded_show_subscription_box",
+    "subscribe_reloaded_checked_by_default",
+    "subscribe_reloaded_enable_advanced_subscriptions",
+    "subscribe_reloaded_default_subscription_type",
+    "subscribe_reloaded_from_name",
+    "subscribe_reloaded_from_email",
+    "subscribe_reloaded_enable_double_check",
+    "subscribe_reloaded_notify_authors",
+    "subscribe_reloaded_admin_bcc",
+    "subscribe_reloaded_enable_admin_messages"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_queue_processor",
+    "*_sub_cleaner",
+    "*_log_cleaner"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_imported_stcr_subs"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:52.973Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "kitbix_commerce_settings",
+    "kitbix_commerce_pages",
+    "kitbix_commerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:17.668Z"
+}

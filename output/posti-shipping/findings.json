@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_wizard_done",
+    "*_settings",
+    "woocommerce_dimension_unit",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode"
+  ],
+  "transients": [
+    "*_shipping_methods",
+    "*_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_manifest_orders",
+    "*_manifest_pickup_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:40.613Z"
+}

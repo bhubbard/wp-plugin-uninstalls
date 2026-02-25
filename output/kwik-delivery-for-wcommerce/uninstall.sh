@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_kwik_delivery_settings'
+wp option delete 'active_sitewide_plugins'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_order_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_order_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_order_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_order_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_check_status_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_check_status_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_check_status_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_check_status_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_pickup_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_pickup_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_pickup_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_pickup_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_pickup_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_pickup_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_pickup_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_pickup_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_pickup_tracking_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_pickup_tracking_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_pickup_tracking_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_pickup_tracking_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_delivery_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_delivery_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_delivery_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_delivery_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_delivery_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_delivery_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_delivery_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_delivery_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_delivery_tracking_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_delivery_tracking_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_delivery_tracking_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_delivery_tracking_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_order_response'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_order_response'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_order_response'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_order_response'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kwik_delivery_order_details_response'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kwik_delivery_order_details_response'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kwik_delivery_order_details_response'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kwik_delivery_order_details_response'"

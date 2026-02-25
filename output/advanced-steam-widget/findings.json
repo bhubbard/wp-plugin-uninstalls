@@ -1,0 +1,13 @@
+{
+  "options": [
+    "widget_advancedsteamwidget"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "advanced_steam_widget_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:08.955Z"
+}

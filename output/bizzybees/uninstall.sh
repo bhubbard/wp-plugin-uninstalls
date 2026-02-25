@@ -1,0 +1,67 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'bizzybees_openai_model'
+wp option delete 'bizzybees_needs_setup'
+wp option delete 'bizzybees_emergency_stop_active'
+wp option delete 'bizzybees_pending_links'
+wp option delete 'bizzybees_aggregated_content'
+wp option delete 'bizzybees_logs'
+wp option delete 'bizzybees_idk_secret'
+wp option delete 'bizzybees_api_key'
+wp option delete 'bizzybees_scrapingbee_api_key'
+wp option delete 'bizzybees_enable_all_logging'
+wp option delete 'bizzybees_enable_key_logging'
+wp option delete 'bizzybees_current_multitask_id'
+wp option delete 'bizzybees_scrape_options'
+wp option delete 'bizzybees_urls'
+wp option delete 'bizzybees_ai_prompts'
+wp option delete 'bizzybees_max_links'
+wp option delete 'bizzybees_crawl_depth'
+wp option delete 'bizzybees_ai_prompt'
+wp option delete 'bizzybees_post_action'
+wp option delete 'bizzybees_update_mode'
+wp option delete 'bizzybees_merge_method'
+wp option delete 'bizzybees_section_start'
+wp option delete 'bizzybees_section_end'
+wp option delete 'bizzybees_rewrite_prompt'
+wp option delete 'bizzybees_post_to_update'
+wp option delete 'bizzybees_schedule_interval'
+wp option delete 'bizzybees_use_advanced_scraping'
+wp option delete 'bizzybees_strip_overlays'
+wp option delete 'bizzybees_enable_log_viewer'
+wp option delete 'bizzybees_enable_progress_bar'
+wp option delete 'bizzybees_scrapingbee_country'
+wp option delete 'bizzybees_disable_footnotes'
+wp option delete 'bizzybees_custom_html_prompt'
+wp option delete 'bizzybees_already_finalized_default'
+wp option delete 'bizzybees_retry_counts'
+wp option delete 'bizzybees_title_prompt'
+wp option delete 'bizzybees_registered_hooks'
+wp option delete 'bizzybees_retry_pending_default'
+wp option delete 'bizzybees_ai_failures_default'
+wp option delete 'bizzybees_ai_preempt_default'
+wp option delete 'bizzybees_final_post_id_default'
+wp option delete 'bizzybees_disable_keepalive'
+wp option delete 'cron'
+
+# Delete Transients
+wp transient delete 'bizzybees_emergency_stop_transient'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_bizzybees_idk_%' OR option_name LIKE '_site_transient_bizzybees_idk_%'"
+wp transient delete 'bizzybees_run_now_in_progress'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_bizzybees_final_content_%' OR option_name LIKE '_site_transient_bizzybees_final_content_%'"
+wp transient delete 'bizzybees_finalizing_default'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_bizzybees_finalizing_%' OR option_name LIKE '_site_transient_bizzybees_finalizing_%'"
+wp transient delete 'action_scheduler_last_pastdue_actions_check'
+wp transient delete 'action_scheduler_admin_notice'
+wp transient delete 'as_comment_count'
+
+# Clear Cron Jobs
+wp cron event delete 'bizzybees_choose_links_worker'
+wp cron event delete 'bizzybees_scrape_event'
+wp cron event delete 'bizzybees_process_ai_content'
+wp cron event delete 'bizzybees_clear_emergency_flag'
+wp cron event delete 'bizzybees_cron_job'
+wp cron event delete 'bizzybees_insert_final_post'
+

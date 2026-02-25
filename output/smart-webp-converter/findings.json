@@ -1,0 +1,20 @@
+{
+  "options": [
+    "firexcore_webp_quality",
+    "firexcore_webp_replace_original",
+    "firexcore_webp_strip_metadata",
+    "firexcore_webp_lossless",
+    "firexcore_webp_lazy_loading",
+    "firexcore_webp_seo_optimization"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "firexcore_webp_cleanup_temp"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:36.916Z"
+}

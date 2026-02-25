@@ -1,0 +1,14 @@
+{
+  "options": [
+    "qalam_client_id",
+    "qalam_document_id_source",
+    "qalam_document_source_value",
+    "qalam_allowed_to_use"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:51.235Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "hover_text",
+    "button_width",
+    "button_height",
+    "bg_color",
+    "bg_color_hover",
+    "border_radius",
+    "icon_image",
+    "icon_color",
+    "icon_hover_color",
+    "button_alignment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:45.871Z"
+}

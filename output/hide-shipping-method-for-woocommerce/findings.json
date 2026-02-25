@@ -1,0 +1,47 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "hide_shipping_option",
+    "*_settings",
+    "wbs_config",
+    "whsm_limited_allowed_rules",
+    "whsm_where_hear_about_us",
+    "whsm_data_submited_in_sendiblue",
+    "sm_sortable_order",
+    "whsm_hide_shipping_cart",
+    "hide_shipping_method_list",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "whsm_version"
+  ],
+  "transients": [
+    "_welcome_screen_whsm_mode_activation_redirect_data",
+    "whsm-hide-limit-notice",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "whsm-admin-notice"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "whsm_status",
+    "sm_product_cost",
+    "get_shipping_method_option",
+    "get_shipping_option",
+    "shipping_method_list",
+    "cost_rule_match",
+    "sm_metabox",
+    "main_rule_condition"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:08.561Z"
+}

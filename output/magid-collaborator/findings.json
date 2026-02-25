@@ -1,0 +1,12 @@
+{
+  "options": [
+    "magid_collaborator_post_type",
+    "magid_collaborator_post_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:42.909Z"
+}

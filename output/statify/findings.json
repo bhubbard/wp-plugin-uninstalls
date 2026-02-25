@@ -1,0 +1,16 @@
+{
+  "options": [
+    "statify",
+    "disallowed_keys"
+  ],
+  "transients": [
+    "statify_data"
+  ],
+  "cron_jobs": [
+    "statify_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:23.327Z"
+}

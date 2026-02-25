@@ -1,0 +1,17 @@
+{
+  "options": [
+    "banhammer_armory",
+    "banhammer_tower",
+    "banhammer_settings",
+    "banhammer_secret_key",
+    "banhammer-dismiss-notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "banhammer_cron_reset"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:03.730Z"
+}

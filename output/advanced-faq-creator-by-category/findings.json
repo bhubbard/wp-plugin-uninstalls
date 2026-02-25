@@ -1,0 +1,25 @@
+{
+  "options": [
+    "faq_cat_page",
+    "allow_rating_faq",
+    "on_UNINSTALL_REMOVE_ALL_DATA",
+    "empty_faq_message",
+    "rating_depends_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "showcase-taxonomy-image-id",
+    "font_awesome_icon",
+    "c_icon_color",
+    "faq_template",
+    "like",
+    "deslike",
+    "faqs_array",
+    "q_icon_color",
+    "icon_font_select"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:33.892Z"
+}

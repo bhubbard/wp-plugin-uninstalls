@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "field_type_cfwjm",
+    "field_location_cfwjm",
+    "field_placeholder_cfwjm",
+    "field_class_cfwjm",
+    "field_min_cfwjm",
+    "field_max_cfwjm",
+    "field_step_cfwjm",
+    "field_description_cfwjm",
+    "field_hide_admin_cfwjm",
+    "field_hide_frontend_cfwjm",
+    "field_location_show_cfwjm",
+    "field_ordernumber_cfwjm",
+    "field_required_cfwjm",
+    "field_option_cfwjm",
+    "field_output_cfwjm",
+    "field_use_output_cfwjm"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:02.225Z"
+}

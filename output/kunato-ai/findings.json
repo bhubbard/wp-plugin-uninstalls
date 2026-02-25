@@ -1,0 +1,13 @@
+{
+  "options": [
+    "kunato_identification",
+    "kunato_currency",
+    "kunato_disable_title_modify"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:25.529Z"
+}

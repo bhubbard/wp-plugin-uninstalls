@@ -1,0 +1,24 @@
+{
+  "options": [
+    "jp_customer_form_fields",
+    "jp_use_custom_theme",
+    "jp_token_options",
+    "jp_connected_user"
+  ],
+  "transients": [
+    "jp_form_submitted",
+    "jp_trades",
+    "jp_states",
+    "jp_countries",
+    "jp_referrals"
+  ],
+  "cron_jobs": [
+    "jp_token_refresh_hook",
+    "jp_customer_sync_hook",
+    "jb_customer_sync_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:31.778Z"
+}

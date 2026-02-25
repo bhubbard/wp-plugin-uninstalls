@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_checkout_phone_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pop_basic_code",
+    "_pop_product_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:03.316Z"
+}

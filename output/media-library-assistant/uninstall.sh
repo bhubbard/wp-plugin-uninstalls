@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%-settings'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%settings'"
+wp option delete 'smc_automatic_options'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_size_w'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_size_h'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_crop'"
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%figure_inserts' OR option_name LIKE '_site_transient_%figure_inserts'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%image_inserts' OR option_name LIKE '_site_transient_%image_inserts'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%image_objects' OR option_name LIKE '_site_transient_%image_objects'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%item_references' OR option_name LIKE '_site_transient_%item_references'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%attached_items' OR option_name LIKE '_site_transient_%attached_items'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%figcaption_inserts' OR option_name LIKE '_site_transient_%figcaption_inserts'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%featured_objects' OR option_name LIKE '_site_transient_%featured_objects'"
+wp transient delete 'mla-upload-bulk-edit-example-batch'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_metadata'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_metadata'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_metadata'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_metadata'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'isc_image_source_own'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'isc_image_source_own'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'isc_image_source_own'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'isc_image_source_own'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_jig_image_link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_jig_image_link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_jig_image_link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_jig_image_link'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ref_offer'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ref_offer'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ref_offer'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ref_offer'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_product_image_gallery'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_product_image_gallery'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_product_image_gallery'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_product_image_gallery'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sku'"

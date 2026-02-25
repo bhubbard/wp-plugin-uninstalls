@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_atcbw_admin_opt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_atcbw_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:01.691Z"
+}

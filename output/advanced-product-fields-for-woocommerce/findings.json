@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_tax_display_cart",
+    "wapf_add_to_cart_text",
+    "wapf_settings_show_in_cart",
+    "wapf_settings_show_in_checkout",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wapf_fieldgroup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:56.676Z"
+}

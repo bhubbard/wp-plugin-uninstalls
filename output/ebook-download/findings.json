@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ebook_download_db_version",
+    "ebookdownload_lang_name",
+    "ebookdownload_lang_email",
+    "ebookdownload_lang_emailwrong",
+    "ebookdownload_lang_download",
+    "ebookdownload_lang_thankyou",
+    "ebookdownload_lang_downloadmessage",
+    "ebookdownload_lang_emailenterwrong",
+    "ebookdownload_lang_emailrequired",
+    "widget_ebook_download"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ebookdownloadurl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:45.093Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "oronjo_license_*",
+    "*_oronjoapikey",
+    "*_post_status",
+    "*_cat_id",
+    "*_tag",
+    "*_updated_only",
+    "*_use_image_tag",
+    "*_use_images",
+    "*_number_of_items",
+    "*_cart_position",
+    "*_cart_top_margin",
+    "*_license",
+    "*_license_valid",
+    "oronjo_lic_check_*",
+    "oronjo_lic_msg_*",
+    "oronjo_license_checked",
+    "oronjo_license"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product._id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:34.849Z"
+}

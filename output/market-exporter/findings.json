@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wooya_settings",
+    "market_exporter_shop_settings",
+    "wooya_version",
+    "wooya-progress-step",
+    "market_exporter_doing_cron",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "market_exporter_notice_hide"
+  ],
+  "transients": [
+    "wooya-generating-yml"
+  ],
+  "cron_jobs": [
+    "market_exporter_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:03.938Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "user_notifications_settings_dogbytemarketing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_user_id",
+    "_read_notifications"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:39.086Z"
+}

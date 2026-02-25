@@ -1,0 +1,32 @@
+{
+  "options": [
+    "*_plugin_activation_errors",
+    "*db_version",
+    "*db_installed",
+    "*first_activation",
+    "*plug_was_used",
+    "*_full_installed",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "wpmuclone_default_blog",
+    "*_options_plugin",
+    "*first_activation_pro",
+    "*_guide_step"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "waic_run_generation_task",
+    "waic_run_delayed_actions",
+    "waic_create_scheduled_flow",
+    "waic_run_workflow",
+    "waic_run_scheduled_task"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_thumbnail_id",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:10.664Z"
+}

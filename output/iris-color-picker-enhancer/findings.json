@@ -1,0 +1,19 @@
+{
+  "options": [
+    "icpe_color_palettes1",
+    "icpe_color_palettes2",
+    "icpe_color_palettes3",
+    "icpe_color_palettes4",
+    "icpe_color_palettes5",
+    "icpe_color_palettes6",
+    "icpe_color_palettes7",
+    "icpe_color_alpha",
+    "icp_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:42.516Z"
+}

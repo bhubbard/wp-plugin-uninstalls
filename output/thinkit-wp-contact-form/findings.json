@@ -1,0 +1,17 @@
+{
+  "options": [
+    "thinkit_contact_form_version",
+    "thinkit_recptacha_key",
+    "lwcf_form_count",
+    "lwcf_form_name_*",
+    "lwcf_form_email_*",
+    "lwcf_form_subject_*",
+    "lwcf_variable_count_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:36.464Z"
+}

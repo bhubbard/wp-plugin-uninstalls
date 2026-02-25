@@ -1,0 +1,45 @@
+{
+  "options": [
+    "_magazine_blocks_activation_redirect",
+    "_magazine_blocks_blocks_css",
+    "widget_block",
+    "_magazine_blocks_global_styles_generated_timestamp",
+    "_magazine_blocks_version",
+    "magazine-blocks_global_styles",
+    "_magazine_blocks_activation_time",
+    "dateWeatherApiKey",
+    "dateWeatherZipCode",
+    "dateWeatherLatitude",
+    "dateWeatherLongitude",
+    "_magazine_blocks_settings",
+    "_magazine_blocks_widget_css",
+    "downloaded_font_files"
+  ],
+  "transients": [
+    "_magazine_blocks_library_data",
+    "*]",
+    "_magazine_blocks_media_items",
+    "magazine_blocks_temp",
+    "magazine_blocks_weather",
+    "magazine_blocks_location",
+    "magazine_blocks_weather_info"
+  ],
+  "cron_jobs": [
+    "magazine_blocks_delete_fonts_folder",
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_magazine_blocks_active",
+    "_magazine_blocks_css",
+    "_magazine_blocks_blocks_css",
+    "_wp_attachment_image_alt",
+    "video_url",
+    "_mzb_post_view_count",
+    "_mzb_template",
+    "_magazine_blocks_review",
+    "_magazine_blocks_image_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:13.440Z"
+}

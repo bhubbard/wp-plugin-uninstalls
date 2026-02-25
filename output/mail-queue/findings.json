@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wdm_wpma_settings",
+    "wdm_wpma_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_mail_queue_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:58.846Z"
+}

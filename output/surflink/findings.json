@@ -1,0 +1,34 @@
+{
+  "options": [
+    "surfl_module_settings",
+    "surfl_backup_settings",
+    "surfl_lh_enabled",
+    "active_sitewide_plugins",
+    "surfl_lh_custom_login_slug",
+    "surfl_lh_version",
+    "surfl_lh_login_page_id",
+    "surfl_lh_max_attempts",
+    "surfl_lh_ban_duration",
+    "rewrite_rules",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "surfl_lh_cleanup_transient",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "surfl_continue_backup",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:29.971Z"
+}

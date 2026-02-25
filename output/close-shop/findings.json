@@ -1,0 +1,18 @@
+{
+  "options": [
+    "close_shop_settings_input",
+    "close_shop_settings_displayToggleCB",
+    "close_shop_settings_addToCartDisplayToggle",
+    "close_shop_settings_proceedToCheckoutDisplayToggle",
+    "close_shop_settings_displayInputText",
+    "close_shop_settings_displayInputTextProductPage",
+    "close_shop_settings_displayInputTextCartPage",
+    "close_shop_settings_displayInputTextCheckoutPage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:07.584Z"
+}

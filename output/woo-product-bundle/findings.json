@@ -1,0 +1,42 @@
+{
+  "options": [
+    "woosb_settings",
+    "woosb_localization",
+    "woosb_*",
+    "woocommerce_manage_stock",
+    "woocommerce_notify_no_stock",
+    "woocommerce_stock_email_recipient",
+    "woocommerce_notify_low_stock"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woosb_optional_products",
+    "woosb_limit_each_min",
+    "woosb_limit_each_min_default",
+    "woosb_limit_each_max",
+    "_sku",
+    "_stock",
+    "woosb_shipping_fee",
+    "woosb_manage_stock",
+    "woosb_disable_auto_price",
+    "woosb_exclude_unpurchasable",
+    "woosb_discount_amount",
+    "woosb_discount",
+    "woosb_ids",
+    "woosb_limit_whole_min",
+    "woosb_limit_whole_max",
+    "woosb_total_limits_min",
+    "woosb_total_limits_max",
+    "woosb_total_limits",
+    "woosb_custom_price",
+    "woosb_layout",
+    "woosb_before_text",
+    "woosb_after_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:12.018Z"
+}

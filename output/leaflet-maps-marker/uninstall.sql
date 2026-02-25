@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('leafletmapsmarker_options', 'leafletmapsmarker_version_pro', 'leafletmapsmarkerpro_license_key_trial', 'leafletmapsmarker_version', 'leafletmapsmarker_update_info', 'leafletmapsmarker_version_before_update', 'jquery-colorbox_settings', 'cforms_settings', 'bwp_minify_general', 'wp_minify', 'wpseo_social', 'aj_enabled', 'aj_exclusions', 'fastvelocity_min_disable_js_merge', 'fastvelocity_min_ignore', 'leafletmapsmarker_redirect', 'leafletmapsmarker_editor', 'active_sitewide_plugins', 'dashboard_widget_options', 'update_plugins', 'leafletmapsmarker_version_before_update', 'leafletmapsmarker_install_update_cache_v399', 'leafletmapsmarker_install_update_cache_v3122', 'leafletmapsmarker_tinymce_custom_css');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('dismissed_wp_pointers', 'lmm_retirement_notice_dismissed');
+DELETE FROM wp_usermeta WHERE meta_key IN ('dismissed_wp_pointers', 'lmm_retirement_notice_dismissed');
+DELETE FROM wp_termmeta WHERE meta_key IN ('dismissed_wp_pointers', 'lmm_retirement_notice_dismissed');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('dismissed_wp_pointers', 'lmm_retirement_notice_dismissed');
+

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "udwd-extra_fee",
+    "udwd-api-customer-id",
+    "udwd-api-client-id",
+    "udwd-api-client-secret",
+    "woocommerce_store_address",
+    "udwd-phone_number",
+    "udwd-pickup_time-start",
+    "udwd-pickup_time-end",
+    "udwd-pickup_time-weekend",
+    "udwd-pickup_time-processing"
+  ],
+  "transients": [
+    "udwd-api-access-token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:54.629Z"
+}

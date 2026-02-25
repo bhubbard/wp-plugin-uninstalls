@@ -1,0 +1,21 @@
+{
+  "options": [
+    "alma_previous_version",
+    "*_notice",
+    "alma_version",
+    "alma_migration_ongoing",
+    "woocommerce_alma_settings",
+    "alma_warnings_handled",
+    "woocommerce_checkout_phone_field",
+    "alma_soc_ongoing",
+    "wc_alma_settings"
+  ],
+  "transients": [
+    "alma-admin-soc-panel"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:27.220Z"
+}

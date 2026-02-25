@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bp_type_singular_name",
+    "bp_type_name",
+    "bp_type_has_directory",
+    "bp_type_directory_slug",
+    "bp_type_show_in_list",
+    "bp_type_show_in_create_screen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:00.645Z"
+}

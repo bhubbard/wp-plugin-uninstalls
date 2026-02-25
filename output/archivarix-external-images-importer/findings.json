@@ -1,0 +1,32 @@
+{
+  "options": [
+    "aeii_options",
+    "aeii_background_running",
+    "aeii_scan_results",
+    "aeii_queue_position",
+    "aeii_url_cache",
+    "aeii_archive_error",
+    "aeii_archive_error_time",
+    "aeii_archive_429_retries",
+    "aeii_success_count",
+    "aeii_cached_count",
+    "aeii_failed_count",
+    "aeii_removed_count",
+    "aeii_placeholder_count"
+  ],
+  "transients": [
+    "aeii_idx_*",
+    "aeii_images_process_process_lock",
+    "aeii_images_process_completed",
+    "*_process_lock",
+    "*_completed"
+  ],
+  "cron_jobs": [
+    "aeii_background_process",
+    "aeii_images_process_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:26.585Z"
+}

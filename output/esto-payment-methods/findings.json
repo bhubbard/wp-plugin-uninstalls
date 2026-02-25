@@ -1,0 +1,43 @@
+{
+  "options": [
+    "woocommerce_esto_settings",
+    "esto_calculator_enabled",
+    "esto_calculator_hook",
+    "esto_calculator_type",
+    "esto_calculator_esto3_months",
+    "esto_calculator_show_logo",
+    "esto_calculator_whitelabel",
+    "esto_calculator_show_on_loop",
+    "esto_calculator_show_on_product",
+    "esto_calculator_monthly_payment_url",
+    "esto_custom_logo_hire_purchase_*",
+    "esto_custom_logo_esto_x_*",
+    "*_settings",
+    "esto_enable_deals_tracking",
+    "everflow_advertiser_id",
+    "everflow_advertiser_id_lv",
+    "everflow_advertiser_id_lt",
+    "everflow_ef_region_token",
+    "everflow_ef_region_token_lv",
+    "everflow_ef_region_token_lt",
+    "esto_default_country",
+    "everflow_advertiser_id_ee",
+    "everflow_ef_region_token_ee",
+    "*esto_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_esto_purchase_url_timeout",
+    "woo_esto_purchase_url",
+    "woo_esto_purchase_url_amount",
+    "woo_esto_purchase_url_id",
+    "woo_esto_purchase_url_payment_method_key",
+    "esto_order_nr",
+    "esto_prefixed_order_id",
+    "esto_preferred_bank"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:17.865Z"
+}

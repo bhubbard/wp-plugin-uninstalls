@@ -1,0 +1,23 @@
+{
+  "options": [
+    "multilipi_api_key",
+    "rewrite_rules",
+    "multilipi_destination_languages",
+    "multilipi_languages",
+    "multilipi_selected_langs",
+    "multilipi_slug_map",
+    "multilipi_subdir_selected_langs",
+    "mlms_subdir_needs_sync",
+    "mlms_plugin_version",
+    "mlms_flush_rewrite_needed",
+    "mlms_notice_dismissed"
+  ],
+  "transients": [
+    "mlms_languages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:47.999Z"
+}

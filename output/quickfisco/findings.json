@@ -1,0 +1,15 @@
+{
+  "options": [
+    "quickfisco_api_token",
+    "quickfisco_codice_ateco",
+    "quickfisco_plugin_disabled",
+    "quickfisco_version",
+    "quickfisco_activation_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:26.814Z"
+}

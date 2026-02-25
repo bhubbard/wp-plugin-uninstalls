@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "try_on_head",
+    "try_on_ear",
+    "try_on_neck",
+    "selected_try_option"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:02.985Z"
+}

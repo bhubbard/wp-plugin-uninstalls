@@ -1,0 +1,25 @@
+{
+  "options": [
+    "autoblue_connections",
+    "autoblue_enabled",
+    "autoblue_log_level",
+    "autoblue_db_version"
+  ],
+  "transients": [
+    "autoblue_at_uri_*",
+    "autoblue_comments_*",
+    "autoblue_pds_endpoint_*"
+  ],
+  "cron_jobs": [
+    "autoblue_share_to_bluesky"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "autoblue_custom_message",
+    "autoblue_shares",
+    "autoblue_post_url",
+    "autoblue_enabled"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:13.242Z"
+}

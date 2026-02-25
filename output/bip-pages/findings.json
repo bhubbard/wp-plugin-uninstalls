@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bip_pages_main_page_id",
+    "bip_pages_instruction_id",
+    "Activated_Plugin",
+    "widget_bip-logo",
+    "sidebars_widgets",
+    "bip_pages_org_name",
+    "bip_pages_address",
+    "bip_pages_editor",
+    "bip_pages_email",
+    "bip_pages_phone",
+    "bip-pages-edit-access-role",
+    "bip-pages-publish-access-role",
+    "bip-pages-delete-access-role"
+  ],
+  "transients": [
+    "bip-pages-activation-msg",
+    "bip-pages-deactivation-msg"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bip_prepared_by"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:10.172Z"
+}

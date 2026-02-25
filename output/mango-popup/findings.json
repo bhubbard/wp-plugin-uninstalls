@@ -1,0 +1,32 @@
+{
+  "options": [
+    "mango_popup_mailchimp_api_key",
+    "mango_popup_plugin_redirect",
+    "mailchimp-woocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mango_popup_views",
+    "mango_popup_clicks",
+    "mango_popup_mailchimp_target_id",
+    "mango_popup_position",
+    "mango_popup_template",
+    "mango_popup_page_id_display",
+    "mango_popup_*",
+    "mango_popup_background_image_url",
+    "mango_popup_background_color",
+    "mango_popup_animation_start",
+    "mango_popup_when_popup_display",
+    "mango_popup_how_often_popup_display",
+    "mango_popup_hide_on_devices",
+    "mango_popup_target_link",
+    "mango_popup_max_width",
+    "mango_popup_font_families_used",
+    "mango_popup_woocommerce",
+    "mango_popup_custom_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:27.181Z"
+}

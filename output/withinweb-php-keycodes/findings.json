@@ -1,0 +1,40 @@
+{
+  "options": [
+    "withinweb_wwkc_keycodes_paypal_dolocaltest",
+    "withinweb_wwkc_keycodes_paypal_email",
+    "withinweb_wwkc_keycodes_sandbox_paypal_email",
+    "withinweb_wwkc_keycodes_cancel_url",
+    "withinweb_wwkc_keycodes_return_url",
+    "withinweb_wwkc_keycodes_ipn_url",
+    "withinweb_wwkc_keycodes_paypal_environment",
+    "withinweb_wwkc_keycodes_paypal_debug",
+    "enable_mailchimp",
+    "woocommerce_paypal_settings",
+    "ipn_forwarding_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "paypal_ipn_forwarder_url_name",
+    "invoice",
+    "transaction_refund_id",
+    "payment_date",
+    "payment_request_date",
+    "subscr_date",
+    "first_name",
+    "last_name",
+    "payer_business_name",
+    "mc_gross",
+    "transaction_amount",
+    "mc_amount3",
+    "txn_type",
+    "transaction_type",
+    "payment_status",
+    "IPN_status",
+    "test_ipn",
+    "ipn data serialized"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:38.175Z"
+}

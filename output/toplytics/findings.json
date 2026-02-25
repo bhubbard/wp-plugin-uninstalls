@@ -1,0 +1,46 @@
+{
+  "options": [
+    "toplytics_oauth_token",
+    "toplytics_oauth_secret",
+    "toplytics_auth_token",
+    "toplytics_account_id",
+    "toplytics_cache_timeout",
+    "toplytics_results",
+    "toplytics_result_today",
+    "toplytics_result_week",
+    "toplytics_result_month",
+    "toplytics_auth_status",
+    "toplytics_last_update",
+    "toplytics_settings",
+    "toplytics_use_ga4",
+    "toplytics_gapi_errors_count",
+    "toplytics_db_version",
+    "toplytics_db_updates_applied",
+    "toplytics_results_ranges",
+    "widget_toplytics-widget",
+    "toplytics_private_auth_config",
+    "toplytics_google_token",
+    "toplytics_profile_data",
+    "toplytics_property_id",
+    "toplytics_auth_config",
+    "toplytics_auth_code",
+    "toplytics_last_update_status",
+    "toplytics_result_realtime",
+    "toplytics_result_categories",
+    "toplytics_result_top_posts",
+    "toplytics_auth_type",
+    "toplytics_oauth2_remote_token",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "toplyticsMessage",
+    "message_*"
+  ],
+  "cron_jobs": [
+    "toplytics_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:29.083Z"
+}

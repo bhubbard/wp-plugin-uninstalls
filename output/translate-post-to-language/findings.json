@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tranpoto_enable_for_posts",
+    "tranpoto_enable_for_pages",
+    "tranpoto_target_language",
+    "tranpoto_google_translate_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_translated_post",
+    "_original_post_id",
+    "_translated_post_id",
+    "_translated_lang"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:48.080Z"
+}

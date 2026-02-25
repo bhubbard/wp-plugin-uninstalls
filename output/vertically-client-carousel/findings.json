@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cbvcc_auto_slide",
+    "cbvcc_slide_speed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "cbvcc_logo_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:17.764Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "crmaddon_actSetting_option",
+    "crmaddon_pageShow_option",
+    "crmaddon_link_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:52.343Z"
+}

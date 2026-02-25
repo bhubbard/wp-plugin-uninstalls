@@ -1,0 +1,19 @@
+{
+  "options": [
+    "immersive_shopping_videos_api_key",
+    "immersive_shopping_videos_version",
+    "immersive_shopping_videos_operations",
+    "immersive_shopping_videos_app_id",
+    "immersive_shopping_videos_settings",
+    "immersive_shopping_videos_db_version"
+  ],
+  "transients": [
+    "immersive_shopping_videos_temp_data",
+    "immersive_shopping_videos_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:32.967Z"
+}

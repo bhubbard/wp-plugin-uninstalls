@@ -1,0 +1,16 @@
+{
+  "options": [
+    "nsfp_plugin_options",
+    "nsfp_option_migration_complete"
+  ],
+  "transients": [
+    "nsfp_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_ns_featured_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:32.143Z"
+}

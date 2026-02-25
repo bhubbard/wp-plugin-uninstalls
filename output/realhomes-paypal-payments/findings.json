@@ -1,0 +1,21 @@
+{
+  "options": [
+    "rpp_settings",
+    "inspiry_properties_module_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "txn_id",
+    "payment_status",
+    "payment_gross",
+    "payment_date",
+    "mc_currency",
+    "payer_email",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:27.735Z"
+}

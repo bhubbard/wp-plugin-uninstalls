@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gam_default_guest_author_name",
+    "gam_guest_author_intro"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_guest_author_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:50.764Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "giftup_company_id",
+    "giftup_api_key",
+    "giftup_version",
+    "giftup_woocommerce_operating_mode",
+    "giftup_woocommerce_enabled",
+    "giftup_woocommerce_apply_to_shipping",
+    "giftup_woocommerce_apply_to_taxes",
+    "company_id",
+    "api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:13.852Z"
+}

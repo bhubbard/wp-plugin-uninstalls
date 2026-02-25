@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_lvl99-omny-embed/installed",
+    "_lvl99-omny-embed/version",
+    "_lvl99-plugin/installed",
+    "_lvl99-plugin/version",
+    "lvl99-plugin/*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:42.641Z"
+}

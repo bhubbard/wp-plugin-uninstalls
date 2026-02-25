@@ -1,0 +1,73 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('chordpress_text_chord_color', 'chordpress_text_chord_nutColor', 'chordpress_text_chord_backgroundColor', 'chordpress_number_chord_barreChordRadius', 'chordpress_text_chord_barreChordStrokeColor', 'chordpress_number_chord_barreChordStrokeWidth', 'chordpress_number_chord_canvasWidth', 'chordpress_number_chord_emptyStringIndicatorSize', 'chordpress_checkbox_chord_fixedDiagramPosition', 'chordpress_text_chord_fontFamily', 'chordpress_text_chord_fretColor', 'chordpress_text_chord_fretLabelColor', 'chordpress_select_chord_fretLabelPosition', 'chordpress_number_chord_fretLabelFontSize', 'chordpress_number_chord_frets', 'chordpress_number_chord_fretSize', 'chordpress_number_chord_nutSize', 'chordpress_text_chord_nutStrokeColor', 'chordpress_number_chord_nutStrokeWidth', 'chordpress_text_chord_nutTextColor', 'chordpress_number_chord_nutTextSize', 'chordpress_number_chord_position', 'chordpress_number_chord_sidePadding', 'chordpress_text_chord_stringColor', 'chordpress_select_chord_strings', 'chordpress_number_chord_strokeWidth', 'chordpress_select_chord_style', 'chordpress_number_chord_titleBottomMargin', 'chordpress_text_chord_titleColor', 'chordpress_number_chord_titleFontSize', 'chordpress_number_chord_topFretWidth', 'chordpress_text_chord_tuning', 'chordpress_text_chord_tuningsColor', 'chordpress_number_chord_tuningsFontSize', 'chordpress_checkbox_hide_album', 'chordpress_checkbox_hide_artist', 'chordpress_checkbox_hide_chords', 'chordpress_checkbox_hide_comments', 'chordpress_checkbox_hide_composer', 'chordpress_checkbox_hide_key', 'chordpress_checkbox_hide_print', 'chordpress_checkbox_hide_subtitle', 'chordpress_checkbox_hide_title', 'chordpress_checkbox_hide_fontsize', 'chordpress_checkbox_hide_transpose', 'chordpress_checkbox_hide_year', 'chordpress_checkbox_hb_notation', 'chordpress_checkbox_show_chord_sheet', 'chordpress_checkbox_show_chord_sheet_on_top', 'chordpress_checkbox_show_numeric_transpose');
+DELETE FROM wp_options WHERE option_name IN ('chordpress_checkbox_fixed_interaction', 'chordpress_select_title_level', 'chordpress_select_subtitle_level', 'chordpress_text_meta_style', 'chordpress_text_chord_style', 'chordpress_text_lyrics_style', 'chordpress_text_comment_style', 'chordpress_text_chorus_style', 'chordpress_text_verse_style', 'chordpress_text_line_style');
+DELETE FROM wp_options WHERE option_name LIKE '%_license_key';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_album';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_artist';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_chords';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_comments';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_composer';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_key';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_subtitle';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_title';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_year';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_fontsize';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_transpose';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hide_print';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_show_numeric_transpose';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_fixed_interaction';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_hb_notation';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_show_chord_sheet';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_show_chord_sheet_on_top';
+DELETE FROM wp_options WHERE option_name LIKE '%_select_title_level';
+DELETE FROM wp_options WHERE option_name LIKE '%_select_subtitle_level';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_meta_style';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_line_style';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_style';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_lyrics_style';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_comment_style';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chorus_style';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_verse_style';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_backgroundColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_barreChordRadius';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_barreChordStrokeColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_barreChordStrokeWidth';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_canvasWidth';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_color';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_emptyStringIndicatorSize';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_chord_fixedDiagramPosition';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_fontFamily';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_fretColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_fretLabelColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_fretLabelFontSize';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_fretSize';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_nutSize';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_nutColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_nutStrokeColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_nutStrokeWidth';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_nutTextColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_nutTextSize';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_position';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_sidePadding';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_stringColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_select_chord_strings';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_strokeWidth';
+DELETE FROM wp_options WHERE option_name LIKE '%_select_chord_style';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_titleBottomMargin';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_titleColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_titleFontSize';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_topFretWidth';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_tuning';
+DELETE FROM wp_options WHERE option_name LIKE '%_text_chord_tuningsColor';
+DELETE FROM wp_options WHERE option_name LIKE '%_number_chord_tuningsFontSize';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_uninstall_delete_options';
+DELETE FROM wp_options WHERE option_name LIKE '%_checkbox_uninstall_delete_chordposts';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('guitar_chord_name', 'guitar_chord_strings', 'guitar_chord_barres', 'guitar_chord_fingers', 'guitar_chord_frets', 'guitar_chord_position', 'guitar_chord_tuning');
+DELETE FROM wp_usermeta WHERE meta_key IN ('guitar_chord_name', 'guitar_chord_strings', 'guitar_chord_barres', 'guitar_chord_fingers', 'guitar_chord_frets', 'guitar_chord_position', 'guitar_chord_tuning');
+DELETE FROM wp_termmeta WHERE meta_key IN ('guitar_chord_name', 'guitar_chord_strings', 'guitar_chord_barres', 'guitar_chord_fingers', 'guitar_chord_frets', 'guitar_chord_position', 'guitar_chord_tuning');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('guitar_chord_name', 'guitar_chord_strings', 'guitar_chord_barres', 'guitar_chord_fingers', 'guitar_chord_frets', 'guitar_chord_position', 'guitar_chord_tuning');
+

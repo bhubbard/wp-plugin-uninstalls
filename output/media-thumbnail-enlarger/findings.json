@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mte_enlarge_modal_thumbs",
+    "*_size_w",
+    "*_size_h",
+    "mte_thumbnail_ud_size_w",
+    "mte_thumbnail_ud_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:21.527Z"
+}

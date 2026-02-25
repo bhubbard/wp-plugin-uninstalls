@@ -1,0 +1,17 @@
+{
+  "options": [
+    "lmgenius_db_version"
+  ],
+  "transients": [
+    "lmgenius_home_url_parsed"
+  ],
+  "cron_jobs": [
+    "lmgenius_process_link_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_lmgenius_temporary_rules"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:52.531Z"
+}

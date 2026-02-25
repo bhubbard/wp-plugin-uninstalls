@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pfv_seetings_opt",
+    "pfv_autoply_video",
+    "pfv_open_vid_inpopup",
+    "vpfy_disply_video",
+    "pfvvideoheight",
+    "pfv_video_display_only_single_post",
+    "pfvideo_pst_adminnotice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pfv_vimeo_video_url",
+    "_pfv_custom_vid_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:12.853Z"
+}

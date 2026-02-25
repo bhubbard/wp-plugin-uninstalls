@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sd_affiliate_royale_active', 'sd_prevent_cache', 'sd_safe_download', 'sd_old_download_link', 'sd_downloads_number', 'sd_tax', 'sd_troubleshoot_no_ob', 'sd_notification_from_email', 'sd_notification_to_email', 'sd_notification_to_payer_subject', 'sd_notification_to_payer_message', 'sd_notification_to_seller_subject', 'sd_notification_to_seller_message', 'sd_paypal_sandbox', 'sd_popularity', 'sd_pp_default_cover', 'sd_social_buttons', 'sd_facebook_app_id', 'sd_paypal_enabled', 'sd_paypal_email', 'sd_paypal_currency_symbol', 'sd_paypal_currency', 'sd_paypal_button', 'sd_download_link_for_registered_only', 'sd_main_page', 'sd_online_demo', 'sd_paypal_language', 'product_single.tpl.html', 'product_multiple.tpl.html', 'product.tpl.html', 'sd_custom_templates_active', 'sd_items_page', 'sd_has_been_configured', 'sd_layout', 'sd_debug_payment', 'sd_search_taxonomy', 'sd_product_permalink', 'sd_type_permalink', 'sd_category_permalink', 'sell_downloads_version_number', 'sd_friendly_url', 'sd_filter_by_type', 'sd_filter_by_category', 'sd_items_page_selector', 'sd_pp_accept_zip', 'sd_pp_cover_size', 'sd_paypal_first_time_enable');
+DELETE FROM wp_options WHERE option_name LIKE 'installed_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_permalink';
+DELETE FROM wp_options WHERE option_name LIKE 'codepeople_promote_banner_%';
+

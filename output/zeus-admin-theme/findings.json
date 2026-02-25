@@ -1,0 +1,26 @@
+{
+  "options": [
+    "hide_menu_bh_plugin",
+    "hide_sub_menu_bh_plugin",
+    "hide_top_menu_bh_plugin",
+    "rewrite_rules",
+    "hotkey",
+    "results_limit"
+  ],
+  "transients": [
+    "hide_wp_toolbar_status",
+    "_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [
+    "wp_session_garbage_collection"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_amr_menu_positions",
+    "*_aame_menu_positions",
+    "jarvis_theme",
+    "jarvis_hotkey"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:07.402Z"
+}

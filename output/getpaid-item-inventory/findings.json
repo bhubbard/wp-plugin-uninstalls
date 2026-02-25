@@ -1,0 +1,22 @@
+{
+  "options": [
+    "getpaid_redirected_to_inventory_settings",
+    "getpaid_item_inventory_scheduled_cron",
+    "getpaid_item_inventory_db_version",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "getpaid_item_inventory_cancel_invoices_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_stock",
+    "_reduced_stock_*",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:57.804Z"
+}

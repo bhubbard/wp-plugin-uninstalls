@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [
+    "logichop"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "logichop_goal_ck_tag",
+    "logichop_goal_ck_tag_action",
+    "logichop_goal_ck_custom_field",
+    "logichop_goal_ck_custom_value",
+    "logichop_goal_ck_custom_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:26.472Z"
+}

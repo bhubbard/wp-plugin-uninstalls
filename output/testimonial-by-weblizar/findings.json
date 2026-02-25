@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wltp_testimonial",
+    "wltp_testimonial_layout",
+    "wltp_testimonial_layout_1",
+    "wltp_testimonial_layout_2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:46.379Z"
+}

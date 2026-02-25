@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wap_options",
+    "user_ads_blocks",
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "waa_hourly_event",
+    "my_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:12.864Z"
+}

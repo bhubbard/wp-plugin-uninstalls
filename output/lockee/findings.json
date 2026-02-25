@@ -1,0 +1,21 @@
+{
+  "options": [
+    "lockee_settings",
+    "lockee_settings_visited",
+    "lockee_slug_base",
+    "lockee_post_type_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lockee_type",
+    "lockee_options",
+    "lockee_content",
+    "lockee_test",
+    "lockee_open",
+    "lockee_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:42.602Z"
+}

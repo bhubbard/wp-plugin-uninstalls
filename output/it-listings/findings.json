@@ -1,0 +1,22 @@
+{
+  "options": [
+    "indi_demo_importer_activated_id",
+    "widget_*",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "indi_demo_importer_packages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "title",
+    "_menu_item_url",
+    "_wp_attachment_is_custom_header",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "for"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:29.624Z"
+}

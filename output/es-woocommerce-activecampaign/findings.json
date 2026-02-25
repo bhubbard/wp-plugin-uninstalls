@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_activecampaign_settings",
+    "settings_activecampaign"
+  ],
+  "transients": [
+    "es_wc_activecampaign_errors",
+    "es_wc_activecampaign_list_*",
+    "es_wc_activecampaign_tags_list_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "es_wc_activecampaign_opt_in"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:14.469Z"
+}

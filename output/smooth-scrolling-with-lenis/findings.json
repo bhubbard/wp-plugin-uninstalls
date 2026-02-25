@@ -1,0 +1,17 @@
+{
+  "options": [
+    "miga_smooth_scrolling_exclude_page",
+    "miga_smooth_scrolling_disable_wheel",
+    "miga_smooth_scrolling_anchor_offset",
+    "miga_smooth_scrolling_lerp",
+    "miga_smooth_scrolling_duration",
+    "miga_smooth_scrolling_anchor_links",
+    "miga_smooth_scrolling_gsap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:29.341Z"
+}

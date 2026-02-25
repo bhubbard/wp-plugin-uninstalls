@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sbe_settings_general_options",
+    "sbe_settings_email_options",
+    "tpul_settings_term_modal_options",
+    "uptime_ghost_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:44.535Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "atcl_autosearch_enable_type",
+    "*_type_label",
+    "*_suggestion"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:01.250Z"
+}

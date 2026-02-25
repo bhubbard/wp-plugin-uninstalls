@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fuvarhu_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_order_marked_d_by_fuvar",
+    "_store_pickup_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:51.867Z"
+}

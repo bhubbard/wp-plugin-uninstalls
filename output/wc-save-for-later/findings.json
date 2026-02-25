@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woosl_settings",
+    "woosl_localization",
+    "woocommerce_cart_redirect_after_add",
+    "woosl_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woosl_products"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:02.482Z"
+}

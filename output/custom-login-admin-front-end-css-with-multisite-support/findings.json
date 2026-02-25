@@ -1,0 +1,13 @@
+{
+  "options": [
+    "clafc_custom_css",
+    "abl_clafc_version",
+    "admincssmu_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:04.785Z"
+}

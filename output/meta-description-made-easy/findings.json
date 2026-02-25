@@ -1,0 +1,17 @@
+{
+  "options": [
+    "MEDME-setting",
+    "MEDME-setting-1",
+    "MEDME-setting-2",
+    "MEDME-setting-3",
+    "MEDME-setting-4",
+    "MEDME-setting-5",
+    "MEDME-setting-6"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:26.270Z"
+}

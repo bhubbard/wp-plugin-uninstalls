@@ -1,0 +1,36 @@
+{
+  "options": [
+    "_Zoodpay_configuration",
+    "_Zoodpay_Market_code_",
+    "_zoodpay_success",
+    "_zoodpay_failure",
+    "woocommerce_zoodpay_settings",
+    "_ZPI_min_value_",
+    "_ZPI_max_value_",
+    "_PAD_min_value_",
+    "_PAD_max_value_",
+    "_Zoodpay_config_status_",
+    "*_min_value_",
+    "*_max_value_",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "_refund_status",
+    "_request_id",
+    "_refund_id",
+    "_shipping_phone",
+    "zoodpay_failed_status",
+    "zoodpay_refund_status",
+    "_transaction_type",
+    "declined_reason",
+    "_refund_amount",
+    "_order_total",
+    "_declined_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:45.842Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [
+    "*_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcfmmp_profile_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:00.274Z"
+}

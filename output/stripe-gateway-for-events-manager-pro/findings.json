@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_mode",
+    "*_test_publishable_key",
+    "*_test_secret_key",
+    "*_live_publishable_key",
+    "*_live_secret_key",
+    "*_debug",
+    "dbem_multiple_bookings",
+    "*_manual_approval",
+    "dbem_bookings_approval",
+    "dbem_bookings_anonymous",
+    "dbem_bookings_registration_disable",
+    "em_emp_stripe_booking_feedback",
+    "em_emp_stripe_booking_feedback_free",
+    "*_form",
+    "*_header_email_customer",
+    "*_header_email_receipt",
+    "*_footer_email_receipt",
+    "dbem_bookings_currency",
+    "*_booking_feedback",
+    "*_booking_feedback_free",
+    "em_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:31.581Z"
+}

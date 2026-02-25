@@ -1,0 +1,39 @@
+{
+  "options": [
+    "alertaprecio_price_threshold",
+    "alertaprecio_api_token",
+    "alertaprecio_api_webtoken",
+    "alertaprecio_dayscraped_date"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "alertaprecio_cron_check_prices"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_enrich_score",
+    "_seo_score",
+    "_urlscraper",
+    "_regular_price",
+    "_price",
+    "_idalertaprecio",
+    "_alertaprecio_confirmed",
+    "_alertaprecio_monitoreable",
+    "_alertaprecio_markup",
+    "_alertaprecio_price_scraped",
+    "_alertaprecio_threshold",
+    "_alertaprecio_automatica_price",
+    "_alertaprecio_markup_percent",
+    "_product_image_gallery",
+    "_yoast_wpseo_metadesc",
+    "_aioseo_description",
+    "_wp_attachment_image_alt",
+    "_enrich_keywords",
+    "_yoast_wpseo_title",
+    "_product_brand",
+    "_product_color",
+    "alertaprecio_used_slots"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:59.163Z"
+}

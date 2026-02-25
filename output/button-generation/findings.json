@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_db_version",
+    "wow_license_key_*",
+    "wow_license_key_fmp",
+    "wow_license_status_fmp",
+    "wow_license_status_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:10.540Z"
+}

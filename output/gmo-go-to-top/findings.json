@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gmogototop[img_color]",
+    "gmogototop[icon_fontstyle]",
+    "gmogototop[type]",
+    "gmogototop[direction]",
+    "gmogototop[uploadimg]",
+    "gmogototop[iconsize]",
+    "gmogototop[marginlr]",
+    "gmogototop[marginbottom]"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:16.214Z"
+}

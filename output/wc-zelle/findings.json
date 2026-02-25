@@ -1,0 +1,39 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "ZelleEmailReceiptsKey",
+    "zmail_integ_from_email_id",
+    "zmail_integ_from_name",
+    "zmail_refresh_token",
+    "zmail_auth_code",
+    "zmail_integ_timestamp",
+    "zmail_integ_domain_name",
+    "zmail_integ_client_id",
+    "zmail_integ_client_secret",
+    "zmail_access_token",
+    "zmail_account_id",
+    "zmail_content_type"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:08.322Z"
+}

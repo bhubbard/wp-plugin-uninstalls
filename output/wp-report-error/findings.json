@@ -1,0 +1,18 @@
+{
+  "options": [
+    "WRPErrors_email_option",
+    "WRPErrors_hide_icon",
+    "WRPErrors_email",
+    "WRPErrors_message",
+    "WRPErrors_code",
+    "WRPErrors_subject",
+    "wordpress_api_key",
+    "akismet_spam_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:38.502Z"
+}

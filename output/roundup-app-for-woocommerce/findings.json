@@ -1,0 +1,27 @@
+{
+  "options": [
+    "roundup_advanced_settings",
+    "roundup_api_key",
+    "roundup_public_key",
+    "roundup_beta_product"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_visibility",
+    "_price",
+    "_regular_price",
+    "_downloadable",
+    "_virtual",
+    "_tax-status",
+    "_tax_class",
+    "_thumbnail_id",
+    "_product_attributes",
+    "_stock",
+    "attribute_*",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:40.647Z"
+}

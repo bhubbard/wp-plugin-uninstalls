@@ -1,0 +1,15 @@
+{
+  "options": [
+    "doobp-uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "doobp-cf-keywords",
+    "doobp-cf-viewport-width",
+    "doobp-cf-description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:24.230Z"
+}

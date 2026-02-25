@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wps_dolibarr",
+    "wpshop2_database_version",
+    "wps_page_ids",
+    "plugin_permalinks_flushed",
+    "wps_shipping_cost",
+    "wps_payment_methods"
+  ],
+  "transients": [
+    "wps_product_already_exist"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eo_menu_minimize",
+    "*_user_level",
+    "_wp_attached_file",
+    "_wpshop_api_key",
+    "_external_id",
+    "p_user_registration_code",
+    "_sync_sha_256",
+    "fullpath",
+    "size",
+    "email",
+    "_traitment_in_progress",
+    "_tracking_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:29.628Z"
+}

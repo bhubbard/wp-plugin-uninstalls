@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "tbz_affwp_edd_mailchimp_lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tbz_affwp_subscribed_to_mailchimp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:57.207Z"
+}

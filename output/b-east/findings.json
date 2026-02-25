@@ -1,0 +1,17 @@
+{
+  "options": [
+    "beast_close_orders",
+    "beast_autosync",
+    "beast_requestlabel",
+    "beast_referencetemplate",
+    "beast_apikey"
+  ],
+  "transients": [
+    "beast_account_info-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:46.589Z"
+}

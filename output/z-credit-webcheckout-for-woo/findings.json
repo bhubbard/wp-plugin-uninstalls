@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "order_guid",
+    "session_url",
+    "zc_response",
+    "zc_payment_token",
+    "zc_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:06.271Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ylps_slack_notified"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:29.399Z"
+}

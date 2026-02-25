@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpmagazine_modules_lite_activated_time",
+    "wpmagazine_modules_lite_upgrade_premium",
+    "wpmagazine_modules_lite_category_options"
+  ],
+  "transients": [
+    "wpmagazine-modules-lite-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmagazine_modules_lite_ignore_review_notice_partially",
+    "wpmagazine_modules_lite_ignore_theme_review_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:44.922Z"
+}

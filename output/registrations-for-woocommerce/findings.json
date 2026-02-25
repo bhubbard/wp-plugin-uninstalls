@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "woocommerce_registrations_is_active",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_event_start_time",
+    "_event_end_time",
+    "attribute_dates",
+    "_week_days",
+    "_product_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:36.205Z"
+}

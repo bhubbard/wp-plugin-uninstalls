@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_crop",
+    "*_size_w",
+    "*_size_h",
+    "medium_crop",
+    "large_crop",
+    "picturefill_wp_version",
+    "picturefill_wp_update_timestamp"
+  ],
+  "transients": [
+    "picturefill_wp_output_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:25.698Z"
+}

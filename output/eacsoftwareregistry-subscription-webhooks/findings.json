@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sumo_previous_parent_order",
+    "sumo_get_parent_order_id",
+    "sumo_get_renewal_id",
+    "sumo_get_next_payment_date",
+    "sumo_get_sub_end_date",
+    "sumo_get_sub_start_date",
+    "sumo_get_status",
+    "sumo_get_last_payment_date",
+    "sumo_get_trial_end_date",
+    "sumo_get_every_renewal_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:54.382Z"
+}

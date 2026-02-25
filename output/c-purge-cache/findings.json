@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cloudflare-purge"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "c_purge_cache_on_post_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:30.513Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "nws_sendy_api_key",
+    "nws_sendy_list_id",
+    "nws_sendy_installation_url",
+    "nws_sendy_sendy_url",
+    "nws_sendy_be_silent"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:21.870Z"
+}

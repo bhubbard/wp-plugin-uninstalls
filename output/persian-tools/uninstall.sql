@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('persian_tools_blockeditor_backend_choice', 'persian_tools_remove_wp_generator', 'persian_tools_remove_wp_shortlink', 'persian_tools_remove_rsd_feed', 'persian_tools_remove_emoji', 'persian_tools_remove_jetpack_requests', 'persian_tools_disable_lazyload', 'persian_tools_disable_wlwmanifest', 'persian_tools_disable_image_resizing', 'persian_tools_disable_xmlrpc', 'persian_tools_elementor_choice', 'persian_tools_disable_wooupdates', 'persian_tools_disable_woo_tracks', 'persian_tools_checkout_fields', 'persian_tools_guest_redirect_enabled', 'persian_tools_guest_redirect_url', 'persian_tools_checkout_message_enabled', 'persian_tools_checkout_custom_message', 'persian_tools_checkout_message_position', 'persian_tools_single_add_to_cart_text', 'persian_tools_archive_add_to_cart_text', 'persian_tools_checkout_button_text', 'persian_tools_cart_button_text', 'persian_tools_proceed_to_checkout_text', 'persian_tools_login_slug', 'persian_tools_custom_css', 'persian_tools_custom_css_desktop', 'persian_tools_custom_css_mobile', 'persian_tools_delete_on_uninstall', 'persian_tools_option', 'persian_tools_font_frontend_choice', 'persian_tools_font_backend_choice');
+DELETE FROM wp_options WHERE option_name LIKE '%_text';
+

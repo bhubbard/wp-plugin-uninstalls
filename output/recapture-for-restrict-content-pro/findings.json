@@ -1,0 +1,24 @@
+{
+  "options": [
+    "recapture_custom_recapture_host",
+    "recapture_custom_loader_url",
+    "recapture_api_key",
+    "recapture_authenticator_token",
+    "recapture_discount_code",
+    "recapture_is_exporting",
+    "recapture_rcp_exclude_renewal_carts",
+    "recapture_export_offset"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "recapture_run_export"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_recapture_cart_id",
+    "_edd_payment_meta",
+    "recapture_missing_plugin_nag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:29.323Z"
+}

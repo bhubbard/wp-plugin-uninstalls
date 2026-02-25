@@ -1,0 +1,27 @@
+{
+  "options": [
+    "acf_version",
+    "ninety_settings",
+    "ninety_last_updated"
+  ],
+  "transients": [
+    "update_plugins",
+    "acf_plugin_updates"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "ninety_location_address",
+    "ninety_location_coords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:51.003Z"
+}

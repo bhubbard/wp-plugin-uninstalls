@@ -1,0 +1,23 @@
+{
+  "options": [
+    "elementor_allow_tracking",
+    "wadi_save_settings",
+    "wadi_elements_btn_value",
+    "wadi_integration_settings_options",
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "templates_count",
+    "temp_count"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:00.560Z"
+}

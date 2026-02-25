@@ -1,0 +1,17 @@
+{
+  "options": [
+    "directiq_id",
+    "directiq_key",
+    "directiq_authorize_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "directiq_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_directiq_cart_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:29.141Z"
+}

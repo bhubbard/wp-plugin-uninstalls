@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('piwikcounter_piwik_url', 'piwikcounter_site_id', 'piwikcounter_auth_key', 'piwikcounter_start_date', 'piwikcounter_unique_visitors', 'piwikcounter_update_every', 'piwikcounter_visits_today_visible', 'piwikcounter_visitors_last_change', 'piwikcounter_visitors_yesterday', 'piwikcounter_todays_visitors_last_change', 'piwikcounter_todays_visitors');
+

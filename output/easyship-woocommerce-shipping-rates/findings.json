@@ -1,0 +1,26 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_currency",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "easyship_lg_blocked_activation",
+    "easyship_plugin__is_upgrading"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:37.044Z"
+}

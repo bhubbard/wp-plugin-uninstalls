@@ -1,0 +1,22 @@
+{
+  "options": [
+    "hxh_secretkey",
+    "hxh_tag",
+    "hxh_link",
+    "hxh_poster",
+    "hxh_subtitle",
+    "hxh_tag*",
+    "hxh_cachetime",
+    "hxh_restat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_lcache",
+    "*_result",
+    "*_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:37.783Z"
+}

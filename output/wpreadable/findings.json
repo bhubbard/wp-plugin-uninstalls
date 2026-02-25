@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpr_options",
+    "wpreadable_ping_rescheduled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpr_pv"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:04.725Z"
+}

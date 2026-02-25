@@ -1,0 +1,21 @@
+{
+  "options": [
+    "github_app_client_id",
+    "github_app_client_secret",
+    "github_connect_redirect_url",
+    "github_hook_url",
+    "github_account_info",
+    "github_account_selected_repositories",
+    "github_repositories",
+    "github_repositories_hooks",
+    "myCred_github_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "github_user_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:28.266Z"
+}

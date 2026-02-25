@@ -1,0 +1,41 @@
+{
+  "options": [
+    "socialWarfareOptions",
+    "social_warfare_settings",
+    "twitter-handle",
+    "swp_json_cache",
+    "swp_registered_options",
+    "swp_authorizations",
+    "social_warfare_dismissed_notices",
+    "social_warfare_persistent_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_total_shares",
+    "swp_twitter",
+    "swp_fb_author",
+    "swp_post_location",
+    "swp_float_location",
+    "_stumbleupon_shares",
+    "_mix_shares",
+    "swp_pinterest_image",
+    "swp_pinterest_description",
+    "*_shares",
+    "swp_custom_tweet",
+    "*_link",
+    "swp_recovery_url",
+    "swp_cache_timestamp",
+    "*_data",
+    "*_url",
+    "_totes",
+    "_email_shares",
+    "_more_shares",
+    "_print_shares",
+    "_telegram_shares",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:08.038Z"
+}

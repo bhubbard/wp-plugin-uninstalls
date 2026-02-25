@@ -1,0 +1,12 @@
+{
+  "options": [
+    "semrush_contentshake_api_key",
+    "semrush_contentshake_api_key_accepting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:44.090Z"
+}

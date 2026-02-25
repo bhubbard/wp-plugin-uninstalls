@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "csmi_udate_geoip_database"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "locations",
+    "hide_show",
+    "_menu_item_menu_item_parent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:27.866Z"
+}

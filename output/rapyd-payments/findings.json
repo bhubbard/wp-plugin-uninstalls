@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "payment_method",
+    "payment_token",
+    "refund_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:24.966Z"
+}

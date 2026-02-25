@@ -1,0 +1,15 @@
+{
+  "options": [
+    "stf_version",
+    "stf_previous_version",
+    "scripts-to-footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "stf_exclude"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:17.449Z"
+}

@@ -1,0 +1,35 @@
+{
+  "options": [
+    "wtgcsvexporter_formvalidation",
+    "wtgcsvexporter_installedversion",
+    "wtgcsvexporter_installeddate",
+    "wtgcsvexporter_schedule",
+    "wtgcsvexporter_notifications",
+    "wtgcsvexporter_is_installed",
+    "wtgcsvexporter_capabilities",
+    "wtgcsvexporter_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "skip_post_thumb",
+    "_webtechglobalflags_phpline",
+    "_webtechglobalflags_phpfunction",
+    "_webtechglobalflags_priority",
+    "_webtechglobalflags_type",
+    "_webtechglobalflags_fileurl",
+    "_webtechglobalflags_dataid",
+    "_webtechglobalflags_userid",
+    "_webtechglobalflags_errortext",
+    "_webtechglobalflags_projectid",
+    "_webtechglobalflags_reason",
+    "_webtechglobalflags_action",
+    "_webtechglobalflags_instructions",
+    "_webtechglobalflags_creator",
+    "_webtechglobalflags_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:53.248Z"
+}

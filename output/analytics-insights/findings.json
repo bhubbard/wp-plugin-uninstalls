@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aiwp_network_options",
+    "aiwp_options",
+    "aiwp_version",
+    "gadash_network_options",
+    "gadash_options",
+    "_aiwp_cache_*",
+    "_aiwp_cache_timeout_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aiwp_expired_cache_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:05.462Z"
+}

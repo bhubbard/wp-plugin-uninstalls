@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "instaCashBNPLProductCalculation_*"
+  ],
+  "cron_jobs": [
+    "instacash_bnpl_offer_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "checkoutId"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:02.868Z"
+}

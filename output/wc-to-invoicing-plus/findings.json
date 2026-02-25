@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wc-to-invoicing-plus_api_key",
+    "wc-to-invoicing-plus_api_company"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_invoice_id",
+    "_invoice_number",
+    "_invoice_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:02.354Z"
+}

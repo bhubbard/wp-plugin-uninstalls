@@ -1,0 +1,25 @@
+{
+  "options": [
+    "vesesslabs_vesessauth_options"
+  ],
+  "transients": [
+    "vesesslabs_vesessauth_blocked_ips",
+    "vesesslabs_vesessauth_login_attempts",
+    "vesesslabs_vesessauth_login_requests",
+    "vesesslabs_vesessauth_registration_attempts",
+    "vesesslabs_vesessauth_logs"
+  ],
+  "cron_jobs": [
+    "vesesslabs_vesessauth_cleanup_codes"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "vesesslabs_vesessauth_login_token",
+    "email_verified",
+    "email_verification_code",
+    "vesesslabs_vesessauth_login_code",
+    "vesesslabs_vesessauth_login_code_timestamp"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:03.097Z"
+}

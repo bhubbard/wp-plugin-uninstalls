@@ -1,0 +1,47 @@
+{
+  "options": [
+    "wd_bwg_options",
+    "wd_bwg_version",
+    "wd_bwg_initial_version",
+    "bwg_subscribe_done",
+    "tenweb_notice_status",
+    "tenweb_notice_version",
+    "bwg_subscribe_email",
+    "two-front-page-speed",
+    "twb_images_total_size",
+    "twb_speed_score",
+    "tenweb_domain_id",
+    "*_workspace_id",
+    "*_domain_id",
+    "tenweb_access_token",
+    "twb_show_cta",
+    "bwg_onboarding_step",
+    "bwg_magic_data",
+    "twb_hompage_optimized",
+    "bwg_filemanager_sorting",
+    "bwg_gallery_sorting",
+    "bwg_speed",
+    "tenweb_admin_demo",
+    "bwg_wp_editor_state",
+    "tenweb_user_info",
+    "*_version",
+    "*_admin_notice"
+  ],
+  "transients": [
+    "twb_optimized_pages",
+    "tenweb_subscription_id",
+    "bwg_update_check"
+  ],
+  "cron_jobs": [
+    "bwg_schedule_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bwg_photo_gallery",
+    "first_name",
+    "last_name",
+    "two_page_speed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:13.913Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_scribd_api_key",
+    "wp_scribd_secret",
+    "wp_scribd_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:20.288Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pay-post-by-sms-allowed-ip-address",
+    "pay-post-by-sms-shortcode",
+    "pay-post-by-sms-keyword",
+    "pay-post-by-sms-price",
+    "pay-post-by-sms-get-phone-key",
+    "pay-post-by-sms-get-shortcode-key",
+    "pay-post-by-sms-get-message-key",
+    "pay-post-by-sms-get-transactionid-key",
+    "pay_post_by_sms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pay_post_by_sms"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:38.003Z"
+}

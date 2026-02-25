@@ -1,0 +1,31 @@
+{
+  "options": [
+    "ptense_jobs",
+    "perfect_tense_api_key",
+    "ptense_api_key_valid",
+    "perfect_tense_app_key",
+    "ptense_comment_mark_spam",
+    "ptense_comment_min_score",
+    "ptense_post_check_score",
+    "ptense_save_post",
+    "ptense_save_post_draft_score",
+    "ptense_job_*",
+    "ptense_save_post_correct_score"
+  ],
+  "transients": [
+    "*_process_lock",
+    "ptense_hide_notice"
+  ],
+  "cron_jobs": [
+    "ptense_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ptense_score_last_checked",
+    "ptense_score",
+    "ptense_post_status",
+    "ptense_post_score"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:04.103Z"
+}

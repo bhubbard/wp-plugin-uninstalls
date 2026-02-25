@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_erm_menu_items",
+    "_erm_type",
+    "_erm_visible",
+    "_erm_prices",
+    "_erm_footer_menu"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:56.727Z"
+}

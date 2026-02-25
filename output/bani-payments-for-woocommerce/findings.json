@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_settings",
+    "bani_widget_hash_mismatch",
+    "bani_widget_verified_hash",
+    "bani_last_security_alert_time",
+    "bani_security_alerts",
+    "bani_url_violation_log",
+    "bani_amount_tampering_log",
+    "woocommerce_bani_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:45.932Z"
+}

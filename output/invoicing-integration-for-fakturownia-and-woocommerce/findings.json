@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_prices_include_tax",
+    "woocommerce_price_num_decimals",
+    "devikit_fakturownia_banner_dismissed",
+    "devikit_fakturownia_banner_remind_later",
+    "devikit_fakturownia_settings",
+    "devikit_fakturownia_pro_settings",
+    "devikit_fakturownia_warehouse_settings",
+    "devikit_fakturownia_keep_data_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_nip",
+    "_fakturownia_gtu_code",
+    "_fakturownia_pkwiu_code"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:47.365Z"
+}

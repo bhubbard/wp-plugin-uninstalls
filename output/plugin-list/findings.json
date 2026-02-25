@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wppl_show_deactivated",
+    "wppl_show_plugin_itself",
+    "wppl_show_plugin_description",
+    "wppl_show_plugin_version",
+    "wppl_show_total_headline",
+    "wppl_total_headline_text",
+    "wppl_total_headline"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:59.849Z"
+}

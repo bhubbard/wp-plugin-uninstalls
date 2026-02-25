@@ -1,0 +1,14 @@
+{
+  "options": [
+    "themeworm_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plexx_gallery_slider",
+    "plexx_featured_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:57.098Z"
+}

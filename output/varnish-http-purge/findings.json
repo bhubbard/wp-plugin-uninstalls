@@ -1,0 +1,28 @@
+{
+  "options": [
+    "vhp_varnish_devmode",
+    "vhp_varnish_debug",
+    "vhp_varnish_use_tags",
+    "vhp_varnish_max_posts_before_all",
+    "vhp_varnish_ip",
+    "vhp_varnish_extra_purge_header_name",
+    "vhp_varnish_extra_purge_header_value",
+    "vhp_varnish_url",
+    "vhp_varnish_last_queue_run",
+    "vhp_cache_test_post_id",
+    "vhp_cache_test_marker",
+    "vhp_cache_test_new_marker",
+    "vhp_varnish_purge_queue"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vhp_process_purge_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_vhp_cache_test",
+    "vhp_dismissed_cacheability_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:08.227Z"
+}

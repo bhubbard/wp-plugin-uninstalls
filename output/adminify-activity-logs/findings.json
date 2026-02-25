@@ -1,0 +1,40 @@
+{
+  "options": [
+    "_adminify_activity_logs_days",
+    "adminify_activity_logs_version",
+    "jltwp_adminify_activitylogs_sheet_promo_data",
+    "jltwp_adminify_activitylogs_sheet_promo_data_hash",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "adminify_activitylogs_activation_time",
+    "*_allow_tracking"
+  ],
+  "transients": [
+    "jltwp_adminify_activitylogs-plugin-info-*",
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [
+    "jltwp_adminify_activitylogs_sheet_promo_data_remote_sync",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:50.823Z"
+}

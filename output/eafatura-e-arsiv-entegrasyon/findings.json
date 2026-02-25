@@ -1,0 +1,46 @@
+{
+  "options": [
+    "eaee_plugin_version",
+    "eaee_do_onboarding_redirect",
+    "eaee_enable_shipped_status",
+    "eaee_auto_packed_active",
+    "eaee_enable_shipped_email",
+    "eaee_after_update_notice",
+    "eaee_license_id",
+    "_transient_eaee_customer_data_cache",
+    "_site_transient_eaee_customer_data_cache",
+    "eaee_shipped_email_message",
+    "eaee_status_shipped_bg",
+    "eaee_status_shipped_text",
+    "eaee_status_packed_bg",
+    "eaee_status_packed_text",
+    "eaee_default_shipping_integration",
+    "eaee_shipping_company",
+    "eaee_*",
+    "*_saved",
+    "eaee_invoice_trigger",
+    "eaee_dash_stats_index",
+    "eaee_log_tracking_enabled",
+    "eafatura_uuid",
+    "eaee_legacy_snapshot_*",
+    "eaee_yurtici_normal_saved",
+    "eaee_yurtici_tahsilatli_saved",
+    "eaee_aras_normal_saved",
+    "eaee_aras_tahsilatli_saved",
+    "eaee_mng_normal_saved",
+    "woocommerce_email_footer_text",
+    "eaee_cache_buster"
+  ],
+  "transients": [
+    "eaee_customer_data_cache",
+    "eaee_last_api_update_time",
+    "eaee_manual_action_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eaee_tax_rate"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:29.689Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_customer_note",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "woocommerce_email_theme",
+    "_woocommerce_persistent_cart_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:22.632Z"
+}

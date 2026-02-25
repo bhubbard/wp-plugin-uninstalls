@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_avapg_rk_custom_video_type",
+    "_avapg_rk_custom_video_width_desk",
+    "_avapg_rk_custom_video_height_desk",
+    "_avapg_rk_custom_video_width_mob",
+    "_avapg_rk_custom_video_height_mob",
+    "_avapg_rk_custom_video_mobile_break",
+    "_avapg_rk_custom_video_thumbnail_field",
+    "_avapg_rk_custom_video_field",
+    "_avapg_rk_custom_video_label"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:13.533Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*allow_tracking",
+    "*tracking_notice_dismissed",
+    "*tracking_skipped",
+    "*tracking_last_sended_at"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*send_tracking_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:52.899Z"
+}

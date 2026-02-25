@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mobile_links_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mobile_links_meta_key",
+    "_mobile_links_custom_photo_url",
+    "_mobile_links_custom_photo_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:23.815Z"
+}

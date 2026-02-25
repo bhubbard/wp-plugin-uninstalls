@@ -1,0 +1,13 @@
+{
+  "options": [
+    "crestapostsbox_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_get_cresta_posts_box_plugin"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:52.354Z"
+}

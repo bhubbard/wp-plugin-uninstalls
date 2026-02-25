@@ -1,0 +1,55 @@
+{
+  "options": [
+    "bbcs_activation_prevent_redirect",
+    "bbcs_setup_wizard_completed",
+    "bbcs_initial_version",
+    "bbcs_wizard_preset",
+    "bbcs_wizard_ux_mode",
+    "bbcs_wizard_captcha_mode",
+    "bbcs_wizard_init_mode",
+    "bbcs_wizard_cache_type",
+    "bbcs_setup_wizard_completed_at",
+    "botblocker_tools_core_settings",
+    "botblocker_tools_login_settings",
+    "botblocker_active_addons",
+    "bbcs_2fa_rules_version"
+  ],
+  "transients": [
+    "bbcs_activation_redirect",
+    "bbcs_notice_cloud_api_*",
+    "bbcs_notice_integrations_*",
+    "bbcs_notice_settings_*",
+    "bbcs_just_activated",
+    "bbcs_site_health_list",
+    "bbcs_site_health",
+    "bbcs_cloud_api_expired_alert",
+    "bbcs_cloud_api_hits_exhausted_alert",
+    "bbcs_cloud_api_status_transient",
+    "bbcs_cloud_connection_failed_alert",
+    "bbcs_missing_files_alert",
+    "bbcs_remaining_days",
+    "bbcs_remaining_hits",
+    "bbcs_2fa_attempts_*"
+  ],
+  "cron_jobs": [
+    "bbcs_daily_task",
+    "bbcs_hourly_task",
+    "bbcs_weekly_task",
+    "bbcs_five_days_task",
+    "bbcs_two_hours_task",
+    "bbcs_one_time_task"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_2fa_secret_temp",
+    "_2fa_backup_codes_temp",
+    "_2fa_verified",
+    "_2fa_secret",
+    "_2fa_setup_pending",
+    "_2fa_pending",
+    "_2fa_backup_codes",
+    "_2fa_redirect_to"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:41.341Z"
+}

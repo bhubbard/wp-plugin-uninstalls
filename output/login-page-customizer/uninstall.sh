@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'clicklogin_logo'
+wp option delete 'clicklogin_logo_width'
+wp option delete 'clicklogin_logo_height'
+wp option delete 'clicklogin_logo_padding'
+wp option delete 'clicklogin_bg'
+wp option delete 'clicklogin_bg_color'
+wp option delete 'clicklogin_bg_size'
+wp option delete 'clicklogin_form_bg'
+wp option delete 'clicklogin_form_bg_color'
+wp option delete 'clicklogin_form_style_width'
+wp option delete 'clicklogin_form_style_height'
+wp option delete 'clicklogin_form_style_padding'
+wp option delete 'clicklogin_form_style_border'
+wp option delete 'clicklogin_field_style_width'
+wp option delete 'clicklogin_field_style_margin'
+wp option delete 'clicklogin_field_style_ifbg'
+wp option delete 'clicklogin_field_style_ifc'
+wp option delete 'clicklogin_field_style_lc'
+wp option delete 'clicklogin_button_bg'
+wp option delete 'clicklogin_button_border'
+wp option delete 'clicklogin_button_shadow'
+wp option delete 'clicklogin_button_color'
+wp option delete 'clicklogin_button_hover_bg'
+wp option delete 'clicklogin_button_hover_border'
+wp option delete 'clicklogin_other_textColor'
+wp option delete 'clicklogin_other_textColorH'
+wp option delete 'clicklogin_other_css'
+

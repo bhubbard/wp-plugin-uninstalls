@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpsocial-enable-plugin",
+    "wpsocial-enable-post",
+    "wpsocial-enable-page",
+    "wpsocial-enable-home",
+    "wpsocial-message-selection",
+    "wpsocial-custom-message",
+    "wpsocial-positioning",
+    "wpsocial-alignment",
+    "wpsocial-facebook",
+    "wpsocial-twitter",
+    "wpsocial-google",
+    "wpsocial-linkedin",
+    "wpsocial-pinterest",
+    "wpsocial-skins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:24.479Z"
+}

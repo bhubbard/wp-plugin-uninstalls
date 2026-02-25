@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sifalo_pay_api_user",
+    "sifalo_pay_api_key",
+    "woocommerce_card_pay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sifalo_pay_verify_pending_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:39.261Z"
+}

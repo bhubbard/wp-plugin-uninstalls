@@ -1,0 +1,20 @@
+{
+  "options": [
+    "site_id",
+    "extra_search_fields",
+    "sort_fields",
+    "planyo_language",
+    "default_mode",
+    "seo_friendly",
+    "use_login",
+    "login_integration_code",
+    "resource_ordering",
+    "js_framework"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:00.937Z"
+}

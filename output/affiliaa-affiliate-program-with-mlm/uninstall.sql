@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('rtwwwap_referral_noti', 'rtwwwap_levels_settings_opt', 'rtwwwap_commission_settings', 'rtwwwap_extra_features_opt', 'rtwwwap_commission_settings_opt', 'rtwwwap_custom_banner_opt', 'rtwalwm_email_features_opt', 'customize_email', 'rtwwwap_affiliate_page_id', 'rtwalwm_noti_arr', 'rtwwwap_mlm_opt', 'rtwalwm_affiliate_page_id', 'rtwalwm_levels_settings_opt', 'rtwalwm_affiliate_lite', 'rtwalwm_db_version', 'rtwalwm_extra_features_opt', 'rtwalwm_referral_noti', 'rtwalwm_commission_settings_opt');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('rtwwwap_aff_approved', 'rtwalwm_affiliate_level', 'rtwalwm_payment_method', 'rtwalwm_direct', 'rtw_user_wallet', 'rtwwwap_affiliate', 'rtwalwm_percentage_commission_box', 'rtwalwm_fixed_commission_box', 'rtwalwm_perf_bonus', 'rtwalwm_coupon_aff_id', 'rtwalwm_coupon_save', 'rtwwwap_referral_mail', 'rtwalwm_referee_custom_str', 'first_name', 'last_name');
+DELETE FROM wp_usermeta WHERE meta_key IN ('rtwwwap_aff_approved', 'rtwalwm_affiliate_level', 'rtwalwm_payment_method', 'rtwalwm_direct', 'rtw_user_wallet', 'rtwwwap_affiliate', 'rtwalwm_percentage_commission_box', 'rtwalwm_fixed_commission_box', 'rtwalwm_perf_bonus', 'rtwalwm_coupon_aff_id', 'rtwalwm_coupon_save', 'rtwwwap_referral_mail', 'rtwalwm_referee_custom_str', 'first_name', 'last_name');
+DELETE FROM wp_termmeta WHERE meta_key IN ('rtwwwap_aff_approved', 'rtwalwm_affiliate_level', 'rtwalwm_payment_method', 'rtwalwm_direct', 'rtw_user_wallet', 'rtwwwap_affiliate', 'rtwalwm_percentage_commission_box', 'rtwalwm_fixed_commission_box', 'rtwalwm_perf_bonus', 'rtwalwm_coupon_aff_id', 'rtwalwm_coupon_save', 'rtwwwap_referral_mail', 'rtwalwm_referee_custom_str', 'first_name', 'last_name');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('rtwwwap_aff_approved', 'rtwalwm_affiliate_level', 'rtwalwm_payment_method', 'rtwalwm_direct', 'rtw_user_wallet', 'rtwwwap_affiliate', 'rtwalwm_percentage_commission_box', 'rtwalwm_fixed_commission_box', 'rtwalwm_perf_bonus', 'rtwalwm_coupon_aff_id', 'rtwalwm_coupon_save', 'rtwwwap_referral_mail', 'rtwalwm_referee_custom_str', 'first_name', 'last_name');
+

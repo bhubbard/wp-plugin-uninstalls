@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ekatco_plugin_active",
+    "ekatco_button_text",
+    "ekatco_bg_color",
+    "ekatco_text_color",
+    "ekatco_button_width",
+    "ekatco_button_height",
+    "ekatco_padding_tb",
+    "ekatco_button_padding_lr",
+    "ekatco_button_radius",
+    "ekatco_button_font_size",
+    "ekatco_api_keys_all"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tg_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:44.289Z"
+}

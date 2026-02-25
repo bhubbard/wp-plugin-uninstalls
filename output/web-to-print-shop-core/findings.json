@@ -1,0 +1,18 @@
+{
+  "options": [
+    "w2pshop_do_activation_redirect",
+    "w2pshop_data_presets_handler_db_version",
+    "w2pshop_saved_designs_rewrite_flushed",
+    "w2pshop_saved_data_handler_db_version",
+    "w2pshop_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_w2pshop_product",
+    "_udraw_apparel_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:50.858Z"
+}

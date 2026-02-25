@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpsp_remove_data",
+    "wpsp-lcode",
+    "plugin_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pay_woocommerce_enrolled_class_access_counter",
+    "simple_local_avatar",
+    "displaypicture",
+    "p_displaypicture",
+    "_regular_price",
+    "_related_class",
+    "_sale_price",
+    "_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:36.178Z"
+}

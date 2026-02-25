@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "employee_name",
+    "employee_email",
+    "employee_role",
+    "employee_contact"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:46.188Z"
+}

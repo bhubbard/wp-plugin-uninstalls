@@ -1,0 +1,26 @@
+{
+  "options": [
+    "photo_comp_default_settings",
+    "photo_comp_email_templates",
+    "photo_comp_global_settings",
+    "photo_comp_voting_ui_type",
+    "photo_comp_email_job_*"
+  ],
+  "transients": [
+    "settings_errors",
+    "photo_competition_manager_settings_errors"
+  ],
+  "cron_jobs": [
+    "photo_competition_daily_cron",
+    "photo_comp_send_results_batch",
+    "photo_comp_cleanup_email_jobs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_photo_comp_slug",
+    "_photo_comp_category",
+    "_photo_comp_member"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:10.581Z"
+}

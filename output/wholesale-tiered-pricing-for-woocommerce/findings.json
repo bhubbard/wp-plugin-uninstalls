@@ -1,0 +1,18 @@
+{
+  "options": [
+    "whtprole_pricing_save_general_settings",
+    "whtprole_global_product_settings",
+    "whtprole_pricing_global_rules",
+    "whtprole_global_product_setting",
+    "whtprole_role_pricing_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_role_pricing_rules",
+    "_show_pricing_table"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:15.055Z"
+}

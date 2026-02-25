@@ -1,0 +1,24 @@
+{
+  "options": [
+    "yesh_invoice_businesses",
+    "custom_installments",
+    "woocommerce_yeshin_settings",
+    "_yeshin_send_invoice_sms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yesh_business_id",
+    "_wc_yeshinvoice_response",
+    "_wc_yeshinvoice_invoice_url",
+    "_custom_invoice_generated",
+    "_yeshin_response_code",
+    "_yeshin_payment_json_res",
+    "_yeshin_taxn_id",
+    "_enable_renta_option",
+    "_text_input_y"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:59.347Z"
+}

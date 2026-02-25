@@ -1,0 +1,18 @@
+{
+  "options": [
+    "template_quran_live",
+    "tpl_quran_live",
+    "background_quranlive_color",
+    "quran_live_languages",
+    "quran_live_recitator",
+    "quranlive_custum_css"
+  ],
+  "transients": [
+    "quranlive-options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:23.423Z"
+}

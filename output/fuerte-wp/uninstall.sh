@@ -1,0 +1,75 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'rewrite_rules'
+wp option delete '_fuertewp_login_db_version'
+wp option delete '_fuertewp_status'
+wp option delete '_fuertewp_access_denied_message'
+wp option delete '_fuertewp_recovery_email'
+wp option delete '_fuertewp_sender_email_enable'
+wp option delete '_fuertewp_sender_email'
+wp option delete '_fuertewp_autoupdate_core'
+wp option delete '_fuertewp_autoupdate_plugins'
+wp option delete '_fuertewp_autoupdate_themes'
+wp option delete '_fuertewp_autoupdate_translations'
+wp option delete '_fuertewp_autoupdate_frequency'
+wp option delete '_fuertewp_login_enable'
+wp option delete '_fuertewp_registration_enable'
+wp option delete '_fuertewp_login_max_attempts'
+wp option delete '_fuertewp_login_lockout_duration'
+wp option delete '_fuertewp_login_increasing_lockout'
+wp option delete '_fuertewp_login_ip_headers'
+wp option delete '_fuertewp_login_gdpr_message'
+wp option delete '_fuertewp_login_data_retention'
+wp option delete '_fuertewp_login_url_hiding_enabled'
+wp option delete '_fuertewp_custom_login_slug'
+wp option delete '_fuertewp_login_url_type'
+wp option delete '_fuertewp_redirect_invalid_logins'
+wp option delete '_fuertewp_redirect_invalid_logins_url'
+wp option delete '_fuertewp_restrictions_restapi_loggedin_only'
+wp option delete '_fuertewp_restrictions_restapi_disable_app_passwords'
+wp option delete '_fuertewp_restrictions_disable_xmlrpc'
+wp option delete '_fuertewp_restrictions_htaccess_security_rules'
+wp option delete '_fuertewp_restrictions_disable_admin_create_edit'
+wp option delete '_fuertewp_restrictions_disable_weak_passwords'
+wp option delete '_fuertewp_restrictions_force_strong_passwords'
+wp option delete '_fuertewp_restrictions_disable_admin_bar_roles'
+wp option delete '_fuertewp_restrictions_restrict_permalinks'
+wp option delete '_fuertewp_restrictions_restrict_acf'
+wp option delete '_fuertewp_restrictions_disable_theme_editor'
+wp option delete '_fuertewp_restrictions_disable_plugin_editor'
+wp option delete '_fuertewp_restrictions_disable_theme_install'
+wp option delete '_fuertewp_restrictions_disable_plugin_install'
+wp option delete '_fuertewp_restrictions_disable_customizer_css'
+wp option delete '_fuertewp_emails_fatal_error'
+wp option delete '_fuertewp_emails_automatic_updates'
+wp option delete '_fuertewp_emails_comment_awaiting_moderation'
+wp option delete '_fuertewp_emails_comment_has_been_published'
+wp option delete '_fuertewp_emails_user_reset_their_password'
+wp option delete '_fuertewp_emails_user_confirm_personal_data_export_request'
+wp option delete '_fuertewp_emails_new_user_created'
+wp option delete '_fuertewp_emails_network_new_site_created'
+wp option delete '_fuertewp_emails_network_new_user_site_registered'
+wp option delete '_fuertewp_emails_network_new_site_activated'
+wp option delete '_fuertewp_tweaks_use_site_logo_login'
+wp option delete 'fuertewp_options'
+wp option delete 'carbon_custom_sidebars'
+
+# Delete Transients
+wp transient delete 'fuertewp_cache_config'
+wp transient delete 'fuertewp_login_attempts_cache'
+wp transient delete 'fuertewp_ip_whitelist_cache'
+wp transient delete 'update_core'
+wp transient delete 'update_plugins'
+wp transient delete 'update_themes'
+
+# Clear Cron Jobs
+wp cron event delete 'fuertewp_cleanup_login_logs'
+wp cron event delete 'fuertewp_trigger_updates'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"

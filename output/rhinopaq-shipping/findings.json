@@ -1,0 +1,24 @@
+{
+  "options": [
+    "rhinopaq-enabled",
+    "rhinopaq-shipping-product-id",
+    "rhinopaq-standard-shipping",
+    "woocommerce_placeholder_image",
+    "rhinopaq-plugin-id",
+    "rhinopaq-smart-enabled",
+    "rhinopaq-shipping-rhino-b-35x20x5-id",
+    "rhinopaq-shipping-rhino-b-25x25x10-id",
+    "rhinopaq-1-enabled",
+    "rhinopaq-4-enabled",
+    "rhinopaq-clearance",
+    "*-id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:23.524Z"
+}

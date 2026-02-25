@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cwpOptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cubewp_wallet_payout_methods",
+    "cubewp_wallet_available_funds",
+    "cubewp_wallet_on_hold_funds",
+    "cubewp_wallet_overall_funds",
+    "cubewp_wallet_withdrawn_funds"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:35.334Z"
+}

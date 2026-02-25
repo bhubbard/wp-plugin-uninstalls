@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fts_email_field_label",
+    "fts_first_name_field_label",
+    "fts_last_name_field_label",
+    "fts_slack_url",
+    "fts_slack_token",
+    "fts_slack_form"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:33.188Z"
+}

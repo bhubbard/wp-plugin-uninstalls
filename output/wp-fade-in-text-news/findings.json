@@ -1,0 +1,18 @@
+{
+  "options": [
+    "FadeIn_Title",
+    "FadeIn_FadeOut",
+    "FadeIn_FadeIn",
+    "FadeIn_Fade",
+    "FadeIn_FadeStep",
+    "FadeIn_FadeWait",
+    "FadeIn_group",
+    "FadeIn_bFadeOutt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:50.900Z"
+}

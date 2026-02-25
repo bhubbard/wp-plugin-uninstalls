@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_paytpv_settings', 'woocommerce_paycomet_bancontact_settings', 'woocommerce_paycomet_bizum_settings', 'woocommerce_paycomet_eps_settings', 'woocommerce_paycomet_giropay_settings', 'woocommerce_paycomet_ideal_settings', 'woocommerce_paycomet_instantcredit_settings', 'woocommerce_paycomet_klarna_settings', 'woocommerce_paycomet_klarnapayments_settings', 'woocommerce_paycomet_mbway_settings', 'woocommerce_paycomet_multibanco_settings', 'woocommerce_paycomet_mybank_settings', 'woocommerce_paycomet_paypal_settings', 'woocommerce_paycomet_paysafecard_settings', 'woocommerce_paycomet_paysera_settings', 'woocommerce_paycomet_postfinance_settings', 'woocommerce_paycomet_przelewy_settings', 'woocommerce_paycomet_qiwi_settings', 'woocommerce_paycomet_skrill_settings', 'woocommerce_paycomet_trustly_settings', 'woocommerce_paycomet_waylet_settings', 'active_sitewide_plugins', 'woocommerce_paytpv_terminals', 'woocommerce_myaccount_page_id', 'paytpv');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('PayTPV_methodData', 'entityNumber', 'referenceNumber', 'ErrorID', 'PayTPV_Referencia', 'PayTPV_IdUser', 'PayTPV_TokenUser', 'paytpv_savecard', 'AuthCode', 'PayTPV_MethodName', '_customer_ip_address', 'last_update', '_transaction_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('PayTPV_methodData', 'entityNumber', 'referenceNumber', 'ErrorID', 'PayTPV_Referencia', 'PayTPV_IdUser', 'PayTPV_TokenUser', 'paytpv_savecard', 'AuthCode', 'PayTPV_MethodName', '_customer_ip_address', 'last_update', '_transaction_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('PayTPV_methodData', 'entityNumber', 'referenceNumber', 'ErrorID', 'PayTPV_Referencia', 'PayTPV_IdUser', 'PayTPV_TokenUser', 'paytpv_savecard', 'AuthCode', 'PayTPV_MethodName', '_customer_ip_address', 'last_update', '_transaction_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('PayTPV_methodData', 'entityNumber', 'referenceNumber', 'ErrorID', 'PayTPV_Referencia', 'PayTPV_IdUser', 'PayTPV_TokenUser', 'paytpv_savecard', 'AuthCode', 'PayTPV_MethodName', '_customer_ip_address', 'last_update', '_transaction_id');
+

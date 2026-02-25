@@ -1,0 +1,52 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'prebooking_statuses'
+wp option delete 'prebooking_menu_title'
+wp option delete 'prebooking_default_status'
+wp option delete 'prebooking_event_default_statuses'
+wp option delete 'prebooking_show_setup_notice'
+wp option delete 'prebooking_admin_email'
+wp option delete 'prebooking_deepl_api_key'
+wp option delete 'prebooking_event_settings'
+wp option delete 'prebooking_email_sender'
+wp option delete 'prebooking_statuts'
+wp option delete 'prebooking_active_status_for_percentage'
+wp option delete 'email_admin'
+wp option delete 'prebooking_event_reminder_unit'
+wp option delete 'prebooking_custom_css'
+wp option delete 'prebooking_confirm_status'
+wp option delete 'prebooking_brevo_api_key'
+wp option delete 'prebooking_brevo_list_id'
+wp option delete 'prebooking_brevo_field_mapping'
+wp option delete 'general_bg_color'
+wp option delete 'general_text_color'
+wp option delete 'general_button_color'
+wp option delete 'prebooking_event_reminder'
+wp option delete 'prebooking_status_1'
+wp option delete 'prebooking_status_2'
+wp option delete 'prebooking_status_3'
+wp option delete 'prebooking_status_4'
+wp option delete 'prebooking_remote_generated_token'
+wp option delete 'prebooking_remote_endpoint'
+wp option delete 'prebooking_remote_token'
+wp option delete 'prebooking_remote_last_result'
+wp option delete 'prebooking_drop_legacy_reservation_personal_columns'
+wp option delete 'prebooking_drop_reservation_email_column'
+wp option delete 'prebooking_reservations_to_customers_migrated'
+wp option delete 'prebooking_date_nullable_migrated'
+wp option delete 'prebooking_event_places_max_removed'
+wp option delete 'prebooking_date_places_max_added'
+wp option delete 'prebooking_date_individual_added'
+wp option delete 'prebooking_plugin_version'
+wp option delete 'prebooking_do_activation_redirect'
+wp option delete 'email_sender'
+
+# Delete Transients
+wp transient delete 'prebooking_status_notice'
+wp transient delete 'prebooking_settings_error'
+
+# Clear Cron Jobs
+wp cron event delete 'prebooking_daily_event_reminder_hook'
+

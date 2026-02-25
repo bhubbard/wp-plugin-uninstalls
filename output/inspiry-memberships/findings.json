@@ -1,0 +1,53 @@
+{
+  "options": [
+    "ims_stripe_settings",
+    "ims_paypal_settings",
+    "ims_basic_settings",
+    "ims_wire_settings",
+    "inspiry_checkout_badges_display",
+    "inspiry_dashboard_page",
+    "theme_header_phone"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ims_stripe_schedule_membership_end",
+    "ims_paypal_membership_schedule_end",
+    "ims_wire_membership_schedule_end",
+    "ims_cancel_expired_users_packages"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ims_current_membership",
+    "ims_package_properties",
+    "ims_current_properties",
+    "ims_package_featured_props",
+    "ims_current_featured_props",
+    "ims_membership_due_date",
+    "ims_membership_paypal_plan_id",
+    "ims_current_duration",
+    "ims_current_duration_unit",
+    "ims_current_vendor",
+    "ims_current_stripe_plan_id",
+    "ims_stripe_subscription_id",
+    "ims_stripe_subscription_due",
+    "ims_stripe_customer_id",
+    "ims_paypal_profile_id",
+    "ims_membership_stripe_plan_id",
+    "ims_membership_price",
+    "realhomes_stripe_session_id",
+    "ims_user_reminder_mail",
+    "ims_receipt_status",
+    "ims_receipt_membership_due_date",
+    "ims_receipt_payment_id",
+    "ims_receipt_user_id",
+    "ims_receipt_membership_id",
+    "ims_receipt_receipt_id",
+    "ims_receipt_receipt_for",
+    "ims_receipt_price",
+    "ims_receipt_purchase_date",
+    "ims_receipt_vendor",
+    "ims_receipts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:34.753Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "yith_tab_manager_wc_added",
+    "ywtm_porting_200_counter",
+    "ywtm_porting_200_backup",
+    "yit_font_awesome_list",
+    "yit_dashicons_list",
+    "yit_plugin_fw_panel_wc_default_options_set",
+    "*_width",
+    "*_height",
+    "*_options",
+    "yit_recently_activated",
+    "yith_system_info",
+    "*-yith-attachment-id"
+  ],
+  "transients": [
+    "yith_tab_manager_installing",
+    "yith-plugin-fw-latest-hc-articles",
+    "yith-plugin-fw-system-status-tls-version",
+    "yith-plugin-fw-system-status-output-ip",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ywtm_show_tab",
+    "_ywtm_order_tab",
+    "_ywtm_tab_title",
+    "_ywtm_tab_ported",
+    "_ywtm_is_editable",
+    "_ywtm_origin",
+    "_ywtm_tab_content_in",
+    "dismissed_wp_pointers",
+    "blog-cats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:13.874Z"
+}

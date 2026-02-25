@@ -1,0 +1,25 @@
+{
+  "options": [
+    "trustpilot_settings",
+    "trustpilot_page_urls",
+    "trustpilot_custom_TrustBoxes",
+    "show_past_orders_initial",
+    "sync_in_progress",
+    "past_orders",
+    "failed_orders",
+    "trustpilot_just_installed",
+    "trustpilot_past_orders",
+    "trustpilot_failed_orders",
+    "trustpilot_plugin_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_first_name",
+    "_billing_last_name",
+    "_billing_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:43.689Z"
+}

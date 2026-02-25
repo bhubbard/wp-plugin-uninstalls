@@ -1,0 +1,134 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('publishpress_statuses_version');
+delete_site_option('publishpress_statuses_version');
+delete_option('publishpress_status_positions');
+delete_site_option('publishpress_status_positions');
+delete_option('presspermit_privacy_statuses_enabled');
+delete_site_option('presspermit_privacy_statuses_enabled');
+delete_option('publishpress_statuses_processed_roles');
+delete_site_option('publishpress_statuses_processed_roles');
+delete_option('publishpress_custom_status_options');
+delete_site_option('publishpress_custom_status_options');
+delete_option('pp_statuses_archived_term_properties');
+delete_site_option('pp_statuses_archived_term_properties');
+delete_option('pp_statuses_force_planner_import');
+delete_site_option('pp_statuses_force_planner_import');
+delete_option('pp_statuses_original_archived_term_properties');
+delete_site_option('pp_statuses_original_archived_term_properties');
+delete_option('pp_statuses_queued_term_properties');
+delete_site_option('pp_statuses_queued_term_properties');
+delete_option('publishpress_statuses_planner_import_gmt');
+delete_site_option('publishpress_statuses_planner_import_gmt');
+delete_option('publishpress_statuses_planner_import');
+delete_site_option('publishpress_statuses_planner_import');
+delete_option('pp_statuses_set_backup_props');
+delete_site_option('pp_statuses_set_backup_props');
+delete_option('pp_statuses_restore_backup_colors');
+delete_site_option('pp_statuses_restore_backup_colors');
+delete_option('pp_statuses_restore_backup_icons');
+delete_site_option('pp_statuses_restore_backup_icons');
+delete_option('pp_statuses_restore_backup_labels');
+delete_site_option('pp_statuses_restore_backup_labels');
+delete_option('pp_statuses_restore_backup_post_types');
+delete_site_option('pp_statuses_restore_backup_post_types');
+delete_option('pp_statuses_restore_autobackup_colors');
+delete_site_option('pp_statuses_restore_autobackup_colors');
+delete_option('pp_statuses_restore_autobackup_icons');
+delete_site_option('pp_statuses_restore_autobackup_icons');
+delete_option('pp_statuses_restore_autobackup_labels');
+delete_site_option('pp_statuses_restore_autobackup_labels');
+delete_option('pp_statuses_restore_autobackup_post_types');
+delete_site_option('pp_statuses_restore_autobackup_post_types');
+delete_option('pp_statuses_default_colors');
+delete_site_option('pp_statuses_default_colors');
+delete_option('pp_statuses_default_icons');
+delete_site_option('pp_statuses_default_icons');
+delete_option('pp_statuses_default_labels');
+delete_site_option('pp_statuses_default_labels');
+delete_option('pp_statuses_default_post_types');
+delete_site_option('pp_statuses_default_post_types');
+delete_option('pp_statuses_default_planner_colors');
+delete_site_option('pp_statuses_default_planner_colors');
+delete_option('pp_statuses_default_planner_icons');
+delete_site_option('pp_statuses_default_planner_icons');
+delete_option('pp_statuses_force_status_control_import');
+delete_site_option('pp_statuses_force_status_control_import');
+delete_option('pp_statuses_skip_status_control_import');
+delete_site_option('pp_statuses_skip_status_control_import');
+delete_option('publishpress_version');
+delete_site_option('publishpress_version');
+delete_option('pps_version');
+delete_site_option('pps_version');
+delete_option('publishpress_statuses_planner_import_args');
+delete_site_option('publishpress_statuses_planner_import_args');
+delete_option('publishpress_disabled_statuses');
+delete_site_option('publishpress_disabled_statuses');
+delete_option('publishpress_statuses_status_control_import');
+delete_site_option('publishpress_statuses_status_control_import');
+delete_option('presspermit_status_order');
+delete_site_option('presspermit_status_order');
+delete_option('presspermit_status_parent');
+delete_site_option('presspermit_status_parent');
+delete_option('presspermit_status_post_types');
+delete_site_option('presspermit_status_post_types');
+delete_option('presspermit_custom_conditions_post_status');
+delete_site_option('presspermit_custom_conditions_post_status');
+delete_option('publishpress_archived_status_positions');
+delete_site_option('publishpress_archived_status_positions');
+delete_option('publishpress_statuses_planner_import_completed');
+delete_site_option('publishpress_statuses_planner_import_completed');
+delete_option('publishpress_statuses_planner_original_import');
+delete_site_option('publishpress_statuses_planner_original_import');
+delete_option('publishpress_statuses_activate');
+delete_site_option('publishpress_statuses_activate');
+delete_option('publishpress_statuses_num_roles');
+delete_site_option('publishpress_statuses_num_roles');
+delete_option('edit_flow_version');
+delete_site_option('edit_flow_version');
+delete_option('classic-editor-replace');
+delete_site_option('classic-editor-replace');
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+
+// Delete Transients
+delete_transient('publishpress_statuses_maintenance');
+delete_site_transient('publishpress_statuses_maintenance');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_scheduled_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_scheduled_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_scheduled_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_scheduled_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'status_parent' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'status_parent' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'status_parent' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'status_parent' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'post_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'post_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'post_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'post_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'labels' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'labels' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'labels' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'labels' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '_pp_statuses_workflow_action_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '_pp_statuses_workflow_action_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '_pp_statuses_workflow_action_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '_pp_statuses_workflow_action_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pp_statuses_last_main_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pp_statuses_last_main_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pp_statuses_last_main_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pp_statuses_last_main_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pp_original_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pp_original_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pp_original_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pp_original_status' ) );
+

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "dbem_bookings_currency",
+    "dbem_data_privacy_consent_text",
+    "stonehenge_forums",
+    "*_license",
+    "em_email_users",
+    "dbem_mail_sender_name",
+    "dbem_mail_sender_address",
+    "dbem_rsvp_mail_send_method",
+    "dbem_smtp_host",
+    "dbem_rsvp_mail_port",
+    "dbem_smtp_username",
+    "dbem_smtp_password",
+    "dbem_smtp_encryption",
+    "dbem_rsvp_mail_SMTPAuth",
+    "dbem_smtp_autotls"
+  ],
+  "transients": [
+    "stonehenge_creations_plugins_feed"
+  ],
+  "cron_jobs": [
+    "puc_cron_updater-*",
+    "stonehenge_creations_licenses"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:57.438Z"
+}

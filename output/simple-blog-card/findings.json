@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simpleblogcard_settings",
+    "simpleblogcard_access_ids",
+    "simpleblogcard_template",
+    "simpleblogcard_timeout"
+  ],
+  "transients": [
+    "simple_blog_card_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:24.522Z"
+}

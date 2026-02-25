@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('rise_delete-data-when-removed', 'rise-ssl-warning');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('rise_customer_booking_status', 'rise_coupon_remaining_amount', 'rise_coupon_reservation_dates_start', 'rise_coupon_reservation_dates_end', 'rise_coupon_utilization_dates_start', 'rise_coupon_utilization_dates_end', 'rise_coupon_quantity', 'rise_coupon_percentage', 'rise_coupon_code', 'rise_coupon_utilization_same_as_reservation', 'rise_room_quantity', 'rise_room_numberOfAdults', 'rise_room_shortDescription', 'rise_room_type_capacity', 'rise_customer_coupon');
+DELETE FROM wp_usermeta WHERE meta_key IN ('rise_customer_booking_status', 'rise_coupon_remaining_amount', 'rise_coupon_reservation_dates_start', 'rise_coupon_reservation_dates_end', 'rise_coupon_utilization_dates_start', 'rise_coupon_utilization_dates_end', 'rise_coupon_quantity', 'rise_coupon_percentage', 'rise_coupon_code', 'rise_coupon_utilization_same_as_reservation', 'rise_room_quantity', 'rise_room_numberOfAdults', 'rise_room_shortDescription', 'rise_room_type_capacity', 'rise_customer_coupon');
+DELETE FROM wp_termmeta WHERE meta_key IN ('rise_customer_booking_status', 'rise_coupon_remaining_amount', 'rise_coupon_reservation_dates_start', 'rise_coupon_reservation_dates_end', 'rise_coupon_utilization_dates_start', 'rise_coupon_utilization_dates_end', 'rise_coupon_quantity', 'rise_coupon_percentage', 'rise_coupon_code', 'rise_coupon_utilization_same_as_reservation', 'rise_room_quantity', 'rise_room_numberOfAdults', 'rise_room_shortDescription', 'rise_room_type_capacity', 'rise_customer_coupon');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('rise_customer_booking_status', 'rise_coupon_remaining_amount', 'rise_coupon_reservation_dates_start', 'rise_coupon_reservation_dates_end', 'rise_coupon_utilization_dates_start', 'rise_coupon_utilization_dates_end', 'rise_coupon_quantity', 'rise_coupon_percentage', 'rise_coupon_code', 'rise_coupon_utilization_same_as_reservation', 'rise_room_quantity', 'rise_room_numberOfAdults', 'rise_room_shortDescription', 'rise_room_type_capacity', 'rise_customer_coupon');
+

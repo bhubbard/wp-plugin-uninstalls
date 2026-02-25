@@ -1,0 +1,19 @@
+{
+  "options": [
+    "k_timelinda-field-text-size",
+    "k_timelinda-field-line-height",
+    "k_timelinda-field-title-size",
+    "k_timelinda-field-subtitle-size",
+    "k_timelinda-field-timelinda-color",
+    "k_timelinda-field-border-color",
+    "k_timelinda-field-title-color",
+    "k_timelinda-field-subtitle-color",
+    "k_timelinda-field-text-color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:39.162Z"
+}

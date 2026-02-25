@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('atss_db_version', 'sidebars_widgets', 'atts_current_starter', 'widget_athemes_social_widget', 'widget_nav_menu', 'botiga-modules', 'botiga_wishlist_page_id', 'woocommerce_shop_page_id', 'woocommerce_cart_page_id', 'woocommerce_checkout_page_id', 'woocommerce_myaccount_page_id', 'sydney-modules', 'atss_current_starter', '_athemes_sites_imported_customizer_mods', '_athemes_sites_imported_customizer_options', '_athemes_sites_imported_widgets', 'elementor_active_kit', 'woocommerce_queue_flush_rewrite_rules', 'botiga-shop-filters-presets', 'botiga-shop-filters-presets-settings', 'botiga_template_builder_data', 'merchant-modules', 'wpforms_settings', 'athemes-addons-modules', 'sydney_template_builder_data', 'atss_importer_data', 'atss_importer_demo_id', 'wc_attribute_taxonomies', 'atss-cyberweek30', 'atss_no_active_theme');
+DELETE FROM wp_options WHERE option_name LIKE 'widget_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_attachment_is_custom_header', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', '_wp_page_template', '_athemes_sites_imported_post', '_athemes_sites_imported_term', '_stock_status');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_attachment_is_custom_header', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', '_wp_page_template', '_athemes_sites_imported_post', '_athemes_sites_imported_term', '_stock_status');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_attachment_is_custom_header', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', '_wp_page_template', '_athemes_sites_imported_post', '_athemes_sites_imported_term', '_stock_status');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_attachment_is_custom_header', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', '_wp_page_template', '_athemes_sites_imported_post', '_athemes_sites_imported_term', '_stock_status');
+

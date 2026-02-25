@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_code_highlight_themes",
+    "wp_code_highlight_line_numbers",
+    "wp_code_highlight_button",
+    "wp_code_highlight_deactivate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:37.446Z"
+}

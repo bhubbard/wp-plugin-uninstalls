@@ -1,0 +1,28 @@
+{
+  "options": [
+    "silva_settings",
+    "silva_db_version",
+    "woocommerce_prices_include_tax"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "silvasoft_woo_cron",
+    "silvasoft_woo_cron_stock"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "silva_send_creditnota",
+    "silva_send_sale",
+    "silva_cron_refund",
+    "silva_cron",
+    "is_vat_exempt",
+    "silva_send_refund_*",
+    "VAT Number",
+    "vat_number",
+    "_vat_number",
+    "_billing_eu_vat_number",
+    "_billing_vat_number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:43.585Z"
+}

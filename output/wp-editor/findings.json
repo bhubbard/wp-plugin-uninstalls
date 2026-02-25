@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpe_settings",
+    "wpe_settings_general",
+    "wpe_settings_theme_editor",
+    "wpe_settings_plugin_editor",
+    "wpe_settings_post_editor",
+    "wpe_settings_license",
+    "wpe_log_file_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:20.449Z"
+}

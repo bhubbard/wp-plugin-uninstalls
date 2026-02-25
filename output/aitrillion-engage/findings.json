@@ -1,0 +1,27 @@
+{
+  "options": [
+    "_aitrillion_engage_api_key",
+    "_aitrillion_engage_api_password",
+    "_aitrillion_engage_script_url",
+    "_aitrillion_engage_created_users",
+    "_aitrillion_engage_failed_sync_users",
+    "_aitrillion_engage_updated_users",
+    "_aitrillion_engage_deleted_users",
+    "_aitrillion_engage_script_version"
+  ],
+  "transients": [
+    "aitrillion_engage_clear_log_message"
+  ],
+  "cron_jobs": [
+    "aitrillion_engage_data_sync_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "phone_number",
+    "modified_date",
+    "_aitrillion_engage_user_sync",
+    "_aitrillion_engage_sync_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:17.604Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "coblocks_date_installed",
+    "wpnux_export_data",
+    "coblocks_google_recaptcha_site_key",
+    "coblocks_google_recaptcha_secret_key",
+    "coblocks_google_maps_api_key",
+    "coblocks_site_design_controls_enabled",
+    "coblocks_site_content_controls_enabled",
+    "coblocks_layout_selector_controls_enabled",
+    "coblocks_custom_colors_controls_enabled",
+    "coblocks_gradient_presets_enabled",
+    "coblocks_color_panel_controls_enabled",
+    "coblocks_typography_controls_enabled",
+    "coblocks_animation_controls_enabled"
+  ],
+  "transients": [
+    "coblocks_template_parts_query"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_coblocks_accordion_ie_support",
+    "_coblocks_attr",
+    "_coblocks_dimensions",
+    "_coblocks_responsive_height"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:31.862Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "appscreo_vcss_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_scc_active",
+    "_scc_code_type",
+    "_scc_loading_method",
+    "_scc_loading_locations",
+    "_scc_priority",
+    "_scc_minify_enabled",
+    "_scc_css_preprocessor",
+    "_scc_linking_type",
+    "_scc_loading_conditions",
+    "_scc_custom_permalink",
+    "_scc_css_optimize_enabled",
+    "_scc_code_position"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:40.912Z"
+}

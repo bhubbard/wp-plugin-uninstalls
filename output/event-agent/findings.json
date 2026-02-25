@@ -1,0 +1,15 @@
+{
+  "options": [
+    "EVENT_AGENT_CONFIG_KEY",
+    "EVENT_AGENT_ADMIN_KEY",
+    "EVENT_AGENT_PUBLIC_KEY",
+    "EVENT_AGENT_URL",
+    "Event_Agent_Url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:17.726Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "youtube_channel_defaults",
+    "youtube_channel_version",
+    "youtube_channel_db_ver",
+    "youtube_channel_dismissed_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:57.723Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "bdt_biggopti_dismissals",
+    "bdtsaa_active_modules",
+    "bdtsaa_security_logs",
+    "bdtsaa_settings",
+    "bdtsaa_version"
+  ],
+  "transients": [
+    "bdtsaa_welcome_screen_activation_redirect",
+    "bdtsaa_pro_features_reset",
+    "bdtsaa_pro_deactivated",
+    "bdtsaa_login_attempts_*",
+    "bdtsaa_captcha_*",
+    "bdtsaa_premium_active"
+  ],
+  "cron_jobs": [
+    "bdtsaa_revision_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "admin_notes",
+    "_bdtsaa_external_url",
+    "_bdtsaa_external_url_new_tab",
+    "_bdtsaa_menu_item_new_tab"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:41.033Z"
+}

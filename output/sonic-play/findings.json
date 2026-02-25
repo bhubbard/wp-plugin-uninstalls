@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sonic_play_selected_theme",
+    "sonic_play_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sonic_play_source_type",
+    "_sonic_play_attachment_id",
+    "_sonic_play_mp3_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:39.709Z"
+}

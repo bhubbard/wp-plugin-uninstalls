@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "pochipp_auto_update_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pochipp_data",
+    "used_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:26.602Z"
+}

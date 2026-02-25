@@ -1,0 +1,26 @@
+{
+  "options": [
+    "tolstoycomments_key",
+    "tolstoycomments_site_id",
+    "tolstoycomments_export",
+    "tolstoycomments_export_latest_id",
+    "tolstoycomments_import",
+    "tolstoycomments_active",
+    "tolstoycomments_binding",
+    "tolstoycomments_index",
+    "tolstoycomments_custom_settings",
+    "tolstoycomments"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tolstoycomments_cron_task_queue",
+    "tolstoycomments_cron_task"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tolstoycomments_updated",
+    "_tolstoycomments_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:48.536Z"
+}

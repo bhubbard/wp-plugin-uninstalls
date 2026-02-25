@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_filename",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "multisite_migration_backup_sites",
+    "_thirdpartyplugins_*"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "primeMoverDeleteSymlinkEvent"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user",
+    "multisite_migration_show_sites_with_backups"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:15.342Z"
+}

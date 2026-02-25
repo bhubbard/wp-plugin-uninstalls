@@ -1,0 +1,16 @@
+{
+  "options": [
+    "thrail_crm_email_settings",
+    "thrail_crm_inserted"
+  ],
+  "transients": [
+    "congratulatory_email_sent_time_*"
+  ],
+  "cron_jobs": [
+    "thrail_send_followup_email"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:28.940Z"
+}

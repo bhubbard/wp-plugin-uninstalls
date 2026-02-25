@@ -1,0 +1,50 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'lbcb_options'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%_kulers' OR option_name LIKE '_site_transient_%_kulers'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_lbcb_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_lbcb_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_lbcb_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_lbcb_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_lbcb_author'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_lbcb_author'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_lbcb_author'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_lbcb_author'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_lbcb_link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_lbcb_link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_lbcb_link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_lbcb_link'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_lbcb_color1'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_lbcb_color1'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_lbcb_color1'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_lbcb_color1'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_lbcb_color2'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_lbcb_color2'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_lbcb_color2'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_lbcb_color2'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_lbcb_color3'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_lbcb_color3'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_lbcb_color3'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_lbcb_color3'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_lbcb_color4'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_lbcb_color4'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_lbcb_color4'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_lbcb_color4'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_lbcb_color5'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_lbcb_color5'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_lbcb_color5'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_lbcb_color5'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_id'"

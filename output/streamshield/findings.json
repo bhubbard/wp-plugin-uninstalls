@@ -1,0 +1,13 @@
+{
+  "options": [
+    "streamshield_tenant",
+    "streamshield_key",
+    "streamshield_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:08.440Z"
+}

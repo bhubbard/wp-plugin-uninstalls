@@ -1,0 +1,26 @@
+{
+  "options": [
+    "bs_forms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*-output",
+    "*-t",
+    "*-translation",
+    "price",
+    "currency",
+    "user-can-price",
+    "company-name",
+    "error-text",
+    "error-text-validation",
+    "button-text",
+    "checkout-text",
+    "*-page",
+    "specific-page-*",
+    "redirect-url-*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:15.497Z"
+}

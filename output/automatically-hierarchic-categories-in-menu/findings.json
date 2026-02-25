@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aau_ahcm_last_object_id",
+    "woocommerce_permalinks"
+  ],
+  "transients": [
+    "aau_ahcm_description_hack_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:49.112Z"
+}

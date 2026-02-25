@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_doku_gateway_settings",
+    "doku_db_version"
+  ],
+  "transients": [
+    "main_settings_jokul_pg"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "checkoutParams",
+    "checkoutConfig",
+    "checkoutUrl",
+    "jokul_cc_order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:16.689Z"
+}

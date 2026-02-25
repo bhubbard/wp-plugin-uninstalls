@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wc-oca-*",
+    "wc-oca_options"
+  ],
+  "transients": [
+    "*-notices"
+  ],
+  "cron_jobs": [
+    "oca_retry_failed_orders",
+    "wc_oca_test_orders_manager"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:12.673Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "autochmod_safe_again_at"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rimuovi_permessi_scrittura"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:47.404Z"
+}

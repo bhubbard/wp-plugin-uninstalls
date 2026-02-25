@@ -1,0 +1,15 @@
+{
+  "options": [
+    "organizing_settings",
+    "organizing_need_flush_rewrite",
+    "organizing_children"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_organizing_listing_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:24.820Z"
+}

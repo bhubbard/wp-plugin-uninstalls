@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wpsh_security_logs",
+    "wpsh_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:56.919Z"
+}

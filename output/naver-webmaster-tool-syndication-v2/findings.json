@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_setting_field",
+    "*_update_checktime",
+    "*_update_new_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aioseop_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:19.934Z"
+}

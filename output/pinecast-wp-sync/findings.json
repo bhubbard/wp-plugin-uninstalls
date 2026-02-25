@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pinecast_feeds",
+    "pinecast"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pinecast/feed_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pinecast_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:42.941Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('enweby_hfch_header_html', 'enweby_hfch_header_html_sticky', 'enweby_hfch_apply_to_header_options', 'enweby_hfch_header_post_field_id', 'enweby_hfch_header_page_field_id', 'enweby_hfch_footer_html', 'enweby_hfch_footer_html_sticky', 'enweby_hfch_apply_to_footer_options', 'enweby_hfch_footer_post_field_id', 'enweby_hfch_footer_page_field_id', 'enweby_hfch_custom_script', 'enweby_hfch_script_location', 'enweby_hfch_apply_to_scriptcss_options', 'enweby_hfch_scriptcss_post_field_id', 'enweby_hfch_scriptcss_page_field_id', 'enweby_hfch_custom_css', 'enweby_hfch_header_bg_color', 'enweby_hfch_header_bg_image', 'enweby_hfch_header_html_bg_repeat', 'enweby_hfch_header_html_bg_position', 'enweby_hfch_header_html_bg_attachment', 'enweby_hfch_header_html_bg_size', 'enweby_hfch_footer_bg_color', 'enweby_hfch_footer_bg_image', 'enweby_hfch_footer_html_bg_repeat', 'enweby_hfch_footer_html_bg_position', 'enweby_hfch_footer_html_bg_attachment', 'enweby_hfch_footer_html_bg_size', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('enwb_hfch_settings_meta', 'enwb_hfch_settings_meta_relation');
+DELETE FROM wp_usermeta WHERE meta_key IN ('enwb_hfch_settings_meta', 'enwb_hfch_settings_meta_relation');
+DELETE FROM wp_termmeta WHERE meta_key IN ('enwb_hfch_settings_meta', 'enwb_hfch_settings_meta_relation');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('enwb_hfch_settings_meta', 'enwb_hfch_settings_meta_relation');
+

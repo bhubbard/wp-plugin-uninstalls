@@ -1,0 +1,16 @@
+{
+  "options": [
+    "themepoints_scrollbar_colors",
+    "themepoints_scrollbar_width",
+    "themepoints_scrollbar_radius",
+    "themepoints_scrollbar_border",
+    "themepoints_scrollbar_speed",
+    "themepoints_scrollbar_autohide"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:50.017Z"
+}

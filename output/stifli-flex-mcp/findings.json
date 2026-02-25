@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_advanced",
+    "sflmcp_logging_enabled",
+    "woocommerce_db_version",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_default_country",
+    "woocommerce_currency",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "stifli_flex_mcp_token",
+    "stifli_flex_mcp_token_user"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sflmcp_clean_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:42.049Z"
+}

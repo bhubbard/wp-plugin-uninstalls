@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bp_invite_codes_require_code",
+    "bp_invite_code_*",
+    "bp_invite_codes_default_bp_groups"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bp_invite_codes_group_id",
+    "_bp_invite_codes_groups",
+    "_bp_invite_codes_code",
+    "_bp_invite_codes_used",
+    "_bp_invite_codes_limit",
+    "_bp_invite_codes_expiration",
+    "*code",
+    "*limit",
+    "*expiration",
+    "*used"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:59.118Z"
+}

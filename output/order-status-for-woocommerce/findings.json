@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wfwp_wc_order_status_admin_order_actions_processing_override",
+    "wfwp_wc_order_status_admin_order_actions_processing_has_status",
+    "wfwp_wc_order_status_admin_order_actions_complete_override",
+    "wfwp_wc_order_status_admin_order_actions_complete_has_status",
+    "wfwp_wc_order_status_sorting_custom",
+    "wfwp_wc_order_status_version",
+    "*_reset",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:46.312Z"
+}

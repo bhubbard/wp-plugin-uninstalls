@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_notice_ignore",
+    "wpcasa"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "company",
+    "phone",
+    "description",
+    "twitter",
+    "facebook",
+    "agent_logo",
+    "agent_logo_id",
+    "*_id",
+    "_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:12.852Z"
+}

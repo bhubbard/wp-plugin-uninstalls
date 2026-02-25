@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rfi_pa_image",
+    "rfi_po_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_remove_featured_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:30.026Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wpLockMode",
+    "wpLockUntil",
+    "wpLockFor",
+    "wpLockForI",
+    "wpLockUpdated",
+    "wpLockUnlockFrom",
+    "wpLockUnlockTo",
+    "wpLockLockFrom",
+    "wpLockLockTo",
+    "wpLockMessage",
+    "wpLockDisableFor",
+    "wpLockDisableForI",
+    "wpLockEnableFor",
+    "wpLockEnableForI",
+    "wpLockAllowedRoles",
+    "wpLockLogo"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wplock_check_status"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:53.583Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('enable_attribution_box', 'license', 'site_name', 'my_option_name');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('license_url', 'attribution_name', 'attribution_url', 'source_work_url', 'extra_permissions_url', '_license');
+DELETE FROM wp_usermeta WHERE meta_key IN ('license_url', 'attribution_name', 'attribution_url', 'source_work_url', 'extra_permissions_url', '_license');
+DELETE FROM wp_termmeta WHERE meta_key IN ('license_url', 'attribution_name', 'attribution_url', 'source_work_url', 'extra_permissions_url', '_license');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('license_url', 'attribution_name', 'attribution_url', 'source_work_url', 'extra_permissions_url', '_license');
+

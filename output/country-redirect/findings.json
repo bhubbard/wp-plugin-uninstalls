@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cntrd_redirect_*",
+    "cntrd_whitelist_ip",
+    "cntrd_whitelist_bot",
+    "cntrd_engine_sxgeo",
+    "cntrd_engine_geoip2",
+    "cntrd_engine_ipapi",
+    "cntrd_version"
+  ],
+  "transients": [
+    "cntrd-activation-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:32.341Z"
+}

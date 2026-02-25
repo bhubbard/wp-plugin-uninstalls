@@ -1,0 +1,20 @@
+{
+  "options": [
+    "trt_pvc_custom_css",
+    "trt_pvc_track_ip",
+    "trt_pvc_archive_columns",
+    "trt_pvc_posts_per_page",
+    "trt_pvc_show_column",
+    "trt_pvc_custom_post_type",
+    "trt_pvc_sort_by_views"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "trt_pvc_tracked_ips",
+    "trt_pvc_post_views"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:08.234Z"
+}

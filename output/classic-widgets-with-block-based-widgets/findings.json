@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "classic_and_block_widgets"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:16.444Z"
+}

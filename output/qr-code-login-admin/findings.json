@@ -1,0 +1,16 @@
+{
+  "options": [
+    "QRLA_time",
+    "QRLA_time_limit",
+    "QRLA_code",
+    "QRLA_random_string"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "QRLA_schedule_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:44.577Z"
+}

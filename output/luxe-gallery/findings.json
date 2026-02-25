@@ -1,0 +1,30 @@
+{
+  "options": [
+    "luxe_gallery_options",
+    "luxe_gallery_version",
+    "luxe_gallery_settings",
+    "luxe_gallery_license_key",
+    "luxe_gallery_license_status"
+  ],
+  "transients": [
+    "luxe_gallery_output_*",
+    "luxe_gallery_select_options",
+    "luxe_gallery_block_select_options",
+    "luxe_gallery_elementor_select_options",
+    "luxe_gallery_bricks_select_options",
+    "luxe_gallery_divi_select_options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_luxe_gallery_grid_config",
+    "_luxe_gallery_hero_images",
+    "_luxe_gallery_data",
+    "_luxe_gallery_images",
+    "_wp_attachment_image_alt",
+    "_luxe_gallery_layout_type",
+    "_luxe_gallery_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:45.507Z"
+}

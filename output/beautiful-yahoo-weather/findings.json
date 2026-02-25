@@ -1,0 +1,24 @@
+{
+  "options": [
+    "byw_lang",
+    "byw_name_city",
+    "byw_woeid",
+    "byw_image_set",
+    "byw_unit",
+    "byw_bgcolor",
+    "byw_css",
+    "byw_mylang",
+    "byw_smylang",
+    "byw_fontsize",
+    "byw_rtlorltr",
+    "plugin_error"
+  ],
+  "transients": [
+    "weather_feed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:15.898Z"
+}

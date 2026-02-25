@@ -1,0 +1,41 @@
+{
+  "options": [
+    "sifency_addons_version",
+    "sifency_addons_widget_analytics",
+    "sifency_subscribers",
+    "sifency_feature_requests",
+    "sifency_addons_settings",
+    "sifency_addons_rollback_history",
+    "sifency_addons_version_history",
+    "sidebars_widgets",
+    "widget_*",
+    "theme_mods_*",
+    "sifency_uninstall_flag",
+    "woocommerce_breadcrumb_delimiter",
+    "woocommerce_enable_reviews",
+    "sifency_addons_stored_version",
+    "sifency_license_instance_id",
+    "sifency_addons_pro_active",
+    "sifency-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sifency_widget_favorites",
+    "_elementor_page_settings",
+    "_elementor_edit_mode",
+    "_elementor_data",
+    "career_single_metabox",
+    "client_link",
+    "event_single_metabox",
+    "team_options_metabox",
+    "_sifency_builder_active",
+    "_themebuilder_conditions",
+    "_sifency_initial_type",
+    "_elementor_template_type",
+    "_elementor_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:55.624Z"
+}

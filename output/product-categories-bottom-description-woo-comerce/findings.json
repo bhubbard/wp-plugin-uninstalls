@@ -1,0 +1,23 @@
+{
+  "options": [
+    "pcbdw_max_width_value",
+    "pcbdw_max_width_unit",
+    "pcbdw_background_color",
+    "pcbdw_border_width",
+    "pcbdw_border_color",
+    "pcbdw_border_radius_value",
+    "pcbdw_border_radius_unit",
+    "*_value",
+    "*_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_bottom_description_display_position",
+    "details",
+    "woo_bottom_description_display_option"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:31.123Z"
+}

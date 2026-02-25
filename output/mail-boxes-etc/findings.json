@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "mbe_shipping_wp_admin_messages",
+    "mbe_elink_db_version",
+    "cron",
+    "mbe_shipping_admin_messages"
+  ],
+  "transients": [
+    "*_set_options_default"
+  ],
+  "cron_jobs": [
+    "closure_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_method_title",
+    "woocommerce_mbe_tracking_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:49.933Z"
+}

@@ -1,0 +1,46 @@
+{
+  "options": [
+    "awca_auth_settings",
+    "awca_refresh_token_fail",
+    "awca_granted_scopes",
+    "custom_dimension_generated",
+    "ga_properties",
+    "awca_access_token",
+    "awca_dash_settings",
+    "awca_settings",
+    "awca_event_settings",
+    "awca_track_settings",
+    "measurement_key",
+    "awca_advance_settings",
+    "awca_review_request_time",
+    "measurement_key_process",
+    "custom_dimension_process",
+    "awca_refresh_token",
+    "dimension_key",
+    "awca_current_tab_id",
+    "print_js",
+    "awca_old_url",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "awca_already_tracked",
+    "awca_refund_already_tracked"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:16.612Z"
+}

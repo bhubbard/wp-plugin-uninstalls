@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wbls_encryption_key', 'wbls_encryption_iv', 'wbls_global_settings', 'wbls_default_forms_created', 'teeny_active', 'wbls_theme_default', 'wbls_trial_popup_shown', 'wbls_license_status', 'wbls-plugin-version', 'wbls_initial_setup_pending', 'wbls_flush_rewrite_rules', 'wbls_install_date', 'wbls_plugin_version', 'wbls-oldForm_id');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wbls_field_options', 'wbls_email_options', 'wbls_form_settings', 'wbls_fieldNameLastId', 'wbls_form_content', 'wbls_form_conditions', 'wbls_theme', 'wbls_submission_status', 'wbls_form_id', 'wbls_created_at', 'wbls_admin_token', 'wbls_user_token', 'wbls_chat', 'wbls_form_content_backup');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wbls_field_options', 'wbls_email_options', 'wbls_form_settings', 'wbls_fieldNameLastId', 'wbls_form_content', 'wbls_form_conditions', 'wbls_theme', 'wbls_submission_status', 'wbls_form_id', 'wbls_created_at', 'wbls_admin_token', 'wbls_user_token', 'wbls_chat', 'wbls_form_content_backup');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wbls_field_options', 'wbls_email_options', 'wbls_form_settings', 'wbls_fieldNameLastId', 'wbls_form_content', 'wbls_form_conditions', 'wbls_theme', 'wbls_submission_status', 'wbls_form_id', 'wbls_created_at', 'wbls_admin_token', 'wbls_user_token', 'wbls_chat', 'wbls_form_content_backup');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wbls_field_options', 'wbls_email_options', 'wbls_form_settings', 'wbls_fieldNameLastId', 'wbls_form_content', 'wbls_form_conditions', 'wbls_theme', 'wbls_submission_status', 'wbls_form_id', 'wbls_created_at', 'wbls_admin_token', 'wbls_user_token', 'wbls_chat', 'wbls_form_content_backup');
+

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "templates-list",
+    "*-bui-template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mvb_nag_ignore",
+    "mvb_voted_IP_*",
+    "mvb_votes_count_*",
+    "mvb_rating_VL_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:08.970Z"
+}

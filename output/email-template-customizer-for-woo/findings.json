@@ -1,0 +1,43 @@
+{
+  "options": [
+    "viwec_email_default_setting",
+    "viwec_email_update_button",
+    "viwec_admin_bar_stt",
+    "viwec_emails_status",
+    "woocommerce_tax_display_cart",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*",
+    "woocommerce_email_from_address",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "viwec_email_structure",
+    "viwec_settings_type",
+    "viwec_settings_direction",
+    "viwec_enable_img_for_default_template",
+    "viwec_img_size_for_default_template",
+    "viwec_custom_css",
+    "viwec_setting_rules",
+    "viwec_admin_note",
+    "viwec_settings_categories",
+    "viwec_settings_countries",
+    "admin_coupons_enabled_for_vendor",
+    "billing_phone",
+    "_dokan_email_verification_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:33.294Z"
+}

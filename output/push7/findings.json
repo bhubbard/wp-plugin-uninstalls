@@ -1,0 +1,18 @@
+{
+  "options": [
+    "push7_appno",
+    "push7_sdk_enabled",
+    "push7_apikey",
+    "push7_blog_title",
+    "push7_push_pt_*",
+    "push7_push_ctg_*",
+    "push7_rpid_dict",
+    "push7_sslverify_disabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:58.653Z"
+}

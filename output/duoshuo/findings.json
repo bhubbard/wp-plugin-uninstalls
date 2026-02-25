@@ -1,0 +1,45 @@
+{
+  "options": [
+    "duoshuo_*",
+    "duoshuo_connect_failed",
+    "duoshuo_secret",
+    "duoshuo_synchronized",
+    "duoshuo_notice",
+    "duoshuo_sync_lock",
+    "duoshuo_short_name",
+    "wordpress_api_key",
+    "dashboard_widget_options",
+    "duoshuo_comments_wrapper_intro",
+    "duoshuo_seo_enabled",
+    "duoshuo_comments_wrapper_outro",
+    "disable_fsockopen",
+    "duoshuo_postpone_print_scripts",
+    "duoshuo_cc_fix",
+    "duoshuo_sync_pingback_and_trackback",
+    "duoshuo_theme",
+    "duoshuo_api_hostname",
+    "duoshuo_cron_sync_enabled",
+    "duoshuo_style_patch",
+    "duoshuo_social_login_enabled",
+    "duoshuo_debug",
+    "duoshuo_widget_recent_comments",
+    "duoshuo_widget_top_threads",
+    "duoshuo_widget_recent_visitors",
+    "duoshuo_widget_qqt_follow"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "duoshuo_sync_log_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "duoshuo_access_token",
+    "duoshuo_user_id",
+    "duoshuo_thread_id",
+    "duoshuo_parent_id",
+    "duoshuo_post_id",
+    "duoshuo_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:30.307Z"
+}

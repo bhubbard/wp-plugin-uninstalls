@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [
+    "ns-sue-admin-notice-example"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ns_sue_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:54.500Z"
+}

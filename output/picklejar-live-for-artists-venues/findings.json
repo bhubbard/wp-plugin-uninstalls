@@ -1,0 +1,13 @@
+{
+  "options": [
+    "picklejar_integration_plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:53.572Z"
+}

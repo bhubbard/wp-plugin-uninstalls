@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wcblu_option', 'wcblu_general_option', 'wcblu_rules_option', 'wbl_plugin_notice_shown', 'wcblu_where_hear_about_us', 'wcblu_data_submited_in_sendiblue', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'wcblu_geo_loc_city', 'wcblu_geo_loc_cntry', 'wcblu_geo_loc_state', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes', '_woo_blacklist_users_welcome_screen', 'wcbfc_failed_order_lock');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wcbfc_order_score', 'wcbfc_whitelisted_email', '_wcblu_ai_score', '_wcblu_ai_threshold', 'edd_wcbfc_order_score', 'wcbfc_score', 'wcbfc_score_msg', 'edd_wcbfc_score', 'edd_wcbfc_score_msg', 'Attempt', 'whitelist_action', 'First Name', 'Last Name', 'City', 'Country', 'Phone', 'Company', 'Postcode', 'Address 1', 'Address 2', 'State', 'WhereUserBanned');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wcbfc_order_score', 'wcbfc_whitelisted_email', '_wcblu_ai_score', '_wcblu_ai_threshold', 'edd_wcbfc_order_score', 'wcbfc_score', 'wcbfc_score_msg', 'edd_wcbfc_score', 'edd_wcbfc_score_msg', 'Attempt', 'whitelist_action', 'First Name', 'Last Name', 'City', 'Country', 'Phone', 'Company', 'Postcode', 'Address 1', 'Address 2', 'State', 'WhereUserBanned');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wcbfc_order_score', 'wcbfc_whitelisted_email', '_wcblu_ai_score', '_wcblu_ai_threshold', 'edd_wcbfc_order_score', 'wcbfc_score', 'wcbfc_score_msg', 'edd_wcbfc_score', 'edd_wcbfc_score_msg', 'Attempt', 'whitelist_action', 'First Name', 'Last Name', 'City', 'Country', 'Phone', 'Company', 'Postcode', 'Address 1', 'Address 2', 'State', 'WhereUserBanned');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wcbfc_order_score', 'wcbfc_whitelisted_email', '_wcblu_ai_score', '_wcblu_ai_threshold', 'edd_wcbfc_order_score', 'wcbfc_score', 'wcbfc_score_msg', 'edd_wcbfc_score', 'edd_wcbfc_score_msg', 'Attempt', 'whitelist_action', 'First Name', 'Last Name', 'City', 'Country', 'Phone', 'Company', 'Postcode', 'Address 1', 'Address 2', 'State', 'WhereUserBanned');
+

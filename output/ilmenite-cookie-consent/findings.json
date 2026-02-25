@@ -1,0 +1,31 @@
+{
+  "options": [
+    "ilcc_policy_url",
+    "ilcc_title",
+    "ilcc_text",
+    "ilcc_button",
+    "ilcc_only_necessary_text",
+    "ilcc_configure_settings_text",
+    "ilcc_style",
+    "ilcc_settings_necessary_heading",
+    "ilcc_settings_necessary_description",
+    "ilcc_settings_marketing_heading",
+    "ilcc_settings_marketing_description",
+    "ilcc_settings_analytics_heading",
+    "ilcc_settings_analytics_description",
+    "ilcc_save_settings_text",
+    "ilcc_settings_title",
+    "ilcc_settings_description",
+    "ilcc_settings_analytics_is_shown",
+    "ilcc_settings_marketing_is_shown",
+    "ilcc_domains_necessary",
+    "ilcc_domains_analytics",
+    "ilcc_domains_marketing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:58.202Z"
+}

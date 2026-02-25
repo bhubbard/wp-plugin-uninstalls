@@ -1,0 +1,16 @@
+{
+  "options": [
+    "EWD_UPCP_Theme_Featured_Products_Type",
+    "EWD_UPCP_Theme_Featured_Products"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_testimonialName",
+    "_testimonialCompany"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:34.270Z"
+}

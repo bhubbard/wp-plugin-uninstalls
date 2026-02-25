@@ -1,0 +1,27 @@
+{
+  "options": [
+    "sharethis_property_id",
+    "sharethis_first_product",
+    "sharethisreviews_review_section_approval",
+    "sharethisreview_posts",
+    "sharethisreviews_rating_section_symbols",
+    "sharethisreviews_impression_section_symbols",
+    "sharethisreviews_impression_section_negative",
+    "sharethisreviews_rating_section_posttype",
+    "sharethisreviews_review_section_ctacopy",
+    "sharethisreviews_review_section_ctacolor",
+    "*_posttype"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sharethisreview_review",
+    "sharethisreview_rating",
+    "sharethis-hide-review-section",
+    "sharethisreview_impression",
+    "sharethisreview_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:59.939Z"
+}

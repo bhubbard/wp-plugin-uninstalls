@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "event_time_error_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sinqwell_event_door_time",
+    "_sinqwell_event_date_start",
+    "_sinqwell_event_time_tbd",
+    "_sinqwell_event_venue",
+    "_sinqwell_event_ticket_price",
+    "_sinqwell_event_date_end"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:01.870Z"
+}

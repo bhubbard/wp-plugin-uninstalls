@@ -1,0 +1,21 @@
+{
+  "options": [
+    "theme_mods_listify",
+    "theme_mods_listify-child",
+    "listify_version",
+    "job_manager_google_maps_api_key",
+    "*_ignore",
+    "*_notice_ignore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "add_featured_img_to_gallery",
+    "_gallery",
+    "_gallery_images",
+    "geolocated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:51.063Z"
+}

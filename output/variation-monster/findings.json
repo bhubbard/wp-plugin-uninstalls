@@ -1,0 +1,47 @@
+{
+  "options": [
+    "variable_all_checked",
+    "varimo_review_dismissed",
+    "wc_attribute_display_type_*",
+    "wc_attribute_tooltip_permission_*",
+    "QUICK_LICENSE_OK",
+    "quick_license_key",
+    "quick_license_expiry_date",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "varimo_activation_date",
+    "quick_variable_activation_date",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "varimo_plugin_activation_redirect"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "term_color",
+    "term_secondary_color",
+    "term_image",
+    "term_tooltip",
+    "_variation_gallery_images",
+    "_quick_cart_carousel_meta",
+    "_variation_list_meta",
+    "_variation_swatches_meta",
+    "_variation_table_meta",
+    "_before_cart_variation_table_meta",
+    "_variation_swatches_archive_page_meta",
+    "variation_meta_attribute_display_type_*",
+    "show_attribute_archive_page_*",
+    "_product_attributes",
+    "_variation_table_template",
+    "_wp_attachment_image_alt",
+    "_variation_list_template_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:37.719Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wp_opencritic_default_score_format",
+    "wp_opencritic_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "enable_review_data_to_open_critic",
+    "game_reviewed",
+    "author",
+    "review_quote",
+    "GameMissingTitle",
+    "GameMissing",
+    "score_format",
+    "score_numeric",
+    "recommended",
+    "platforms_reviewed",
+    "oc_game_details",
+    "SubmissionId",
+    "original_post_status",
+    "score_format_type",
+    "score_verdict"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:40.924Z"
+}

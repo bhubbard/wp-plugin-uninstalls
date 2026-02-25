@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_menu_title",
+    "sh4-rest_auth_code",
+    "sh4-rest_enabled",
+    "*_enabled",
+    "*_auth_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:41.917Z"
+}

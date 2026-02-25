@@ -1,0 +1,12 @@
+{
+  "options": [
+    "woocommerce_paytr_payment_gateway_settings",
+    "woocommerce_paytr_payment_gateway_eft_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:58.926Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "BEEP-double-exclude",
+    "BEEP-allow-search-engines"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bgExclude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:46.371Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "tchannel_settings",
+    "wp_channeller_log",
+    "@*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tchannel_text",
+    "tchannel_image",
+    "tchannel_video",
+    "tchannel_video_time",
+    "tchannel_audio",
+    "tchannel_audio_time",
+    "tchannel_audio_performer",
+    "tchannel_audio_title",
+    "tchannel_web",
+    "tchannel_select",
+    "tchannel_link",
+    "tchannel_media",
+    "tchannel_glass"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:13.357Z"
+}

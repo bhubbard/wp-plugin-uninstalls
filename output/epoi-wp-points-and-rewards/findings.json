@@ -1,0 +1,32 @@
+{
+  "options": [
+    "epoi_*",
+    "epoi_params",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "epoi_accumulated_point",
+    "epoi_user_blocked",
+    "epoi_total_point",
+    "epoi_free_point",
+    "epoi_lock_point",
+    "epoi_expire",
+    "epoi_reached_rank_reward"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:32.777Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp_pp_payment_email', 'paypal_payment_currency', 'wp_pp_payment_subject', 'wp_pp_payment_item1', 'wp_pp_payment_value1', 'wp_pp_payment_item2', 'wp_pp_payment_value2', 'wp_pp_payment_item3', 'wp_pp_payment_value3', 'wp_paypal_widget_title_name', 'payment_button_type', 'wp_pp_show_other_amount', 'wp_pp_show_ref_box', 'wp_pp_ref_title', 'wp_pp_return_url', 'wp_pp_cancel_url', 'wpapp_collect_shipping_address', 'wpapp_enable_debug_logging', 'wp_pp_payment_item4', 'wp_pp_payment_value4', 'wp_pp_payment_item5', 'wp_pp_payment_value5', 'wp_pp_payment_item6', 'wp_pp_payment_value6', 'cart_payment_currency', 'wpapp_logfile_suffix');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('payment_amount', 'payment_currency', 'trial_billing_cycle', 'recurring_billing_amount', 'trial_billing_amount', 'trial_billing_cycle_term', 'recurring_billing_cycle', 'recurring_billing_cycle_term', 'recurring_billing_cycle_count', 'recurring_billing_reattempt', 'pp_subscription_plan_id', 'pp_subscription_plan_mode');
+DELETE FROM wp_usermeta WHERE meta_key IN ('payment_amount', 'payment_currency', 'trial_billing_cycle', 'recurring_billing_amount', 'trial_billing_amount', 'trial_billing_cycle_term', 'recurring_billing_cycle', 'recurring_billing_cycle_term', 'recurring_billing_cycle_count', 'recurring_billing_reattempt', 'pp_subscription_plan_id', 'pp_subscription_plan_mode');
+DELETE FROM wp_termmeta WHERE meta_key IN ('payment_amount', 'payment_currency', 'trial_billing_cycle', 'recurring_billing_amount', 'trial_billing_amount', 'trial_billing_cycle_term', 'recurring_billing_cycle', 'recurring_billing_cycle_term', 'recurring_billing_cycle_count', 'recurring_billing_reattempt', 'pp_subscription_plan_id', 'pp_subscription_plan_mode');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('payment_amount', 'payment_currency', 'trial_billing_cycle', 'recurring_billing_amount', 'trial_billing_amount', 'trial_billing_cycle_term', 'recurring_billing_cycle', 'recurring_billing_cycle_term', 'recurring_billing_cycle_count', 'recurring_billing_reattempt', 'pp_subscription_plan_id', 'pp_subscription_plan_mode');
+

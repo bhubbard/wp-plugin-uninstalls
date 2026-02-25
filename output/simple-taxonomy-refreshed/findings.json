@@ -1,0 +1,14 @@
+{
+  "options": [
+    "settings_updated"
+  ],
+  "transients": [
+    "simple_taxonomy_refreshed_rewrite",
+    "staxo_sel_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:18.527Z"
+}

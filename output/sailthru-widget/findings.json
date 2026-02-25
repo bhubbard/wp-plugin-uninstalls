@@ -1,0 +1,27 @@
+{
+  "options": [
+    "sailthru_content_settings",
+    "sailthru_setup_complete",
+    "sailthru_setup_options",
+    "sailthru_plugin_version",
+    "sailthru_forms_options",
+    "sailthru_forms_key",
+    "sailthru_concierge_options",
+    "sailthru_scout_options",
+    "sailthru_override_wp_mail",
+    "sailthru_integrations_options",
+    "sailthru_api_validated",
+    "sailthru_settings",
+    "sailthru_customfields_order",
+    "sailthru_customfield_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sailthru_post_expiration",
+    "sailthru_meta_tags"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:37.116Z"
+}

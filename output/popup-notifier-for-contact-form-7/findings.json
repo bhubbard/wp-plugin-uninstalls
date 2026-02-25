@@ -1,0 +1,16 @@
+{
+  "options": [
+    "popupnotifiercf7_option_isAutoClose",
+    "popupnotifiercf7_option_isConfirmButton",
+    "popupnotifiercf7_option_isShowIcon",
+    "popupnotifiercf7_option_customSeconds",
+    "popupnotifiercf7_option_customTextButton",
+    "popupnotifiercf7_option_customTextButtonBackground"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:33.322Z"
+}

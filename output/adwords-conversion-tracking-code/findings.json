@@ -1,0 +1,14 @@
+{
+  "options": [
+    "actc_adword_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_value",
+    "actc_adtc_value"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:44.421Z"
+}

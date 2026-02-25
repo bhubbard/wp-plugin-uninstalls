@@ -1,0 +1,25 @@
+{
+  "options": [
+    "vigiguard_security_settings",
+    "vigiguard_security_keep_data_on_uninstall",
+    "vigiguard_last_file_check",
+    "vigiguard_security_db_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "vigiguard_security_settings_saved",
+    "vigiguard_security_activated",
+    "vigiguard_lockout_*",
+    "vigiguard_login_attempts_*"
+  ],
+  "cron_jobs": [
+    "vigiguard_security_daily_cleanup",
+    "vigiguard_security_weekly_file_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "vigiguard_dismissed_headers_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:26.281Z"
+}

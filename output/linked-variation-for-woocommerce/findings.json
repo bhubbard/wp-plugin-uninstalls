@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [
+    "lvfw_migrated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "linked_variations",
+    "linked_variation_products",
+    "_linked_by_attributes",
+    "show_images",
+    "is_primary"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:52.880Z"
+}

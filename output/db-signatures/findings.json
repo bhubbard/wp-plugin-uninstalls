@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_db_signatures_show_on",
+    "_db_signatures_signature"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:43.996Z"
+}

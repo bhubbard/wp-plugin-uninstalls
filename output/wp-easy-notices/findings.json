@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wp_easy_notices_clear_dimissals",
+    "wp_easy_notices_padding_top_bottom",
+    "wp_easy_notices_padding_left_right",
+    "wp_easy_notices_font_size",
+    "wp_easy_notices_background",
+    "wp_easy_notices_text_color",
+    "*_enabled",
+    "wp_easy_notices_dismissable",
+    "wp_easy_notices_position",
+    "wp_easy_notices_text",
+    "wp_easy_notices_dismiss_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:12.151Z"
+}

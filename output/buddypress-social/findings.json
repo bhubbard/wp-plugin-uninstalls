@@ -1,0 +1,16 @@
+{
+  "options": [
+    "social_button_facebook",
+    "social_button_twitter",
+    "social_button_google",
+    "social_button_email",
+    "social_button_color",
+    "social_button_color_hover"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:43.988Z"
+}

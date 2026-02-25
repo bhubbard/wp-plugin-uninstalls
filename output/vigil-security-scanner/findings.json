@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vigisesc_logs_status",
+    "comment_previously_approved",
+    "whitelist_keys",
+    "comment_moderation_email",
+    "vigisesc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:25.798Z"
+}

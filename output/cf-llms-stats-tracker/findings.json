@@ -1,0 +1,21 @@
+{
+  "options": [
+    "llmssttr_retention_days",
+    "llmssttr_cached_content",
+    "llmssttr_last_updated",
+    "llmssttr_owner_name",
+    "llmssttr_owner_email",
+    "llmssttr_owner_website",
+    "llmssttr_policy_url",
+    "llmssttr_include_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "llmssttr_daily_cleanup",
+    "llmssttr_refresh_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:33.784Z"
+}

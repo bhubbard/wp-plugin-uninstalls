@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_rio_vizual_dashboard",
+    "_rio_vizual_redirect_on_activation",
+    "_rio_vizual_plugin_installed_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rio_vizual_css",
+    "_rio_vizual_review_dismissed",
+    "_rio_vizual_upgrade_dismissed",
+    "_riovizual_pattern"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:33.950Z"
+}

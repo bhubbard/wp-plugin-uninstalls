@@ -1,0 +1,41 @@
+{
+  "options": [
+    "widget_block",
+    "affiliatex_google_fonts",
+    "affiliatex_block_settings",
+    "affiliatex_customization_settings",
+    "affiliatex_customization_data",
+    "affiliatex_db_version",
+    "affiliatex_dismissed_notices",
+    "affiliatex_notice_initiated",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "affiliatex_campaign_notices",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "affiliatex_daily_template_update",
+    "affiliatex_sync_amazon_products",
+    "affiliatex_sync_product_listings",
+    "affiliatex_cleanup_product_listings",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:50.977Z"
+}

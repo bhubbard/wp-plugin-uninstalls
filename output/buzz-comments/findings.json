@@ -1,0 +1,22 @@
+{
+  "options": [
+    "buzz_comments_email",
+    "buzz_comments_author_id",
+    "buzz_comments_avatar_image",
+    "buzz_comments_buzzNoteAfterContent",
+    "buzz_comments_xfn",
+    "buzz_comments_debug",
+    "buzz_comments_version",
+    "buzz_comments_pid",
+    "buzz_comments_author_uri"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "buzz_comments_comment_data",
+    "buzz_comments_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:15.236Z"
+}

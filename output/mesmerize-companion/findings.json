@@ -1,0 +1,39 @@
+{
+  "options": [
+    "mesmerize_companion_filtered_defaults",
+    "*_companion_old_show_on_front",
+    "*_companion_old_page_on_front",
+    "sidebars_widgets",
+    "msm_companion_start_source",
+    "msm_companion_activation_time",
+    "msm_companion_pro_activation_time",
+    "cp_initialize_notifications",
+    "widget_block",
+    "active_sitewide_plugins",
+    "feature_popup_demo_import_disabled",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "extendthemes_load_data-sections",
+    "extendthemes_load_data-headers",
+    "mesmerize_menu_items_keys_match",
+    "mesmerize_ocdi_import_page_mod",
+    "mesmerize_ocdi_import_wc_categories",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "*::getRemoteNotifications"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*-show-default-editor",
+    "*_front_page",
+    "*_maintainable_page",
+    "_wp_page_template",
+    "is_mesmerize_front_page",
+    "_wp_attachment_is_custom_header"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:25.920Z"
+}

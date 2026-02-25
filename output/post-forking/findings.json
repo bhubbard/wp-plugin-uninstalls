@@ -1,0 +1,13 @@
+{
+  "options": [
+    "fork"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fork-conflict-raw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:40.269Z"
+}

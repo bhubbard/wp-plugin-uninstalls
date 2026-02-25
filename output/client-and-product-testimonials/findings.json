@@ -1,0 +1,26 @@
+{
+  "options": [
+    "cat_options",
+    "client_and_product_testimonials_activation_redirect",
+    "client_and_product_testimonials_license_key",
+    "client_and_product_testimonials_license_status"
+  ],
+  "transients": [
+    "capt_admin_upsell_banner"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_testimonial_details_video_player_parameters",
+    "_testimonial_details_vimeo_video_color",
+    "_testimonial_details_video_testimonial_url",
+    "_testimonial_details_video_testimonial",
+    "_testimonial_details_testimonial_rating",
+    "_testimonial_details_client_position",
+    "_testimonial_details_url",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:07.057Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "links_updated_date_format",
+    "_certificate_html",
+    "coschool_version",
+    "coschool_install_time",
+    "coschool_initial_calls",
+    "coschool_docs_json",
+    "pluggable-blog-json",
+    "coschool_email"
+  ],
+  "transients": [
+    "cx-plugin-info-*"
+  ],
+  "cron_jobs": [
+    "codexpert-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "_thumbnail_id",
+    "course_banner",
+    "course_id",
+    "course_faq",
+    "coschool_user_status",
+    "lesson_banner",
+    "quiz_banner",
+    "questions",
+    "_viewing_as",
+    "login_info",
+    "_coschool_avatar",
+    "course_review",
+    "phone_number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:44.240Z"
+}

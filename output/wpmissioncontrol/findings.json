@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpmc_options"
+  ],
+  "transients": [
+    "health-check-site-status-result",
+    "wpmc_scanned_files"
+  ],
+  "cron_jobs": [
+    "wp_site_health_scheduled_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:36.294Z"
+}

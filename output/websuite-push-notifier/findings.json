@@ -1,0 +1,19 @@
+{
+  "options": [
+    "title_*",
+    "intro_*",
+    "*-changed",
+    "websuite_push_notifier_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wspnCustomCronHook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sentToSns",
+    "sentToFCM"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:51.808Z"
+}

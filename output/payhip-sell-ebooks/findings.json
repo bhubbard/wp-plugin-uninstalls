@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pf_json_resp",
+    "pf_payhip_username",
+    "pf_affiliate_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pf_curl_cron_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:14.473Z"
+}

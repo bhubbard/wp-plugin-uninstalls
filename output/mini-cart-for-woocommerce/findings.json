@@ -1,0 +1,18 @@
+{
+  "options": [
+    "whmc_sidepanel",
+    "whmc_menu",
+    "whmcmiscellaneous",
+    "whmc_notification",
+    "whmc_option",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:09.729Z"
+}

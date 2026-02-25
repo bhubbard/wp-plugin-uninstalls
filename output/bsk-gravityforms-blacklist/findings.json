@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_bsk_gfbl_db_ver_",
+    "_bsk_gfbl_db_upgrading_",
+    "_bsk_gfblcv_free_to_pro_done_",
+    "_bsk_gfbl_integrate_cf7_blacklist_done_",
+    "_bsk_gfbl_cf7_blacklist_list_id_mapping_",
+    "_bsk_gfbl_integrate_cf7_blacklist_doing_"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7_blacklist_form_list_data_"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:12.305Z"
+}

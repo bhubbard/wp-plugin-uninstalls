@@ -1,0 +1,12 @@
+{
+  "options": [
+    "pipdig_links",
+    "pipdig_bloglovin_btn_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:53.276Z"
+}

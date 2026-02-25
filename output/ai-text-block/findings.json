@@ -1,0 +1,32 @@
+{
+  "options": [
+    "rapidtextai_api_key",
+    "rapidtextai_whats_new_dismissed",
+    "rapidtextai_campaigns_migrated",
+    "rapidtextai_auto_blogging",
+    "rapidtextai_auto_blogging_campaigns"
+  ],
+  "transients": [
+    "rapidtextai_usage_check"
+  ],
+  "cron_jobs": [
+    "rapidtextai_auto_blogging_cron_*",
+    "rapidtextai_generate_title",
+    "rapidtextai_create_post",
+    "rapidtextai_finalize_post",
+    "rapidtextai_auto_blogging_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_rapidtextai_topic",
+    "_rapidtextai_settings",
+    "_rapidtextai_campaign_id",
+    "_rapidtextai_raw_content",
+    "_rapidtextai_status",
+    "_rapidtextai_started",
+    "_rapidtextai_completed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:45.793Z"
+}

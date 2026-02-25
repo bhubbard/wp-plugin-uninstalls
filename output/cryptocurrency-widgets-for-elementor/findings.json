@@ -1,0 +1,35 @@
+{
+  "options": [
+    "ccew_initial_save_version",
+    "ccew-install-date",
+    "ccew-alreadyRated",
+    "ccew_activation_time",
+    "openexchange-api-settings",
+    "cmc_coingecko_api_hits",
+    "cpfm_opt_in_choice_crypto",
+    "ccew-api-settings",
+    "ccew_data_save",
+    "ccew_api_key_expired",
+    "CCEW_FREE_VERSION",
+    "ccew-fresh-installation",
+    "cmc_usd_conversions",
+    "ccew-v",
+    "ccpw_reset_flag",
+    "*_db_version"
+  ],
+  "transients": [
+    "ccew-saved-coindata",
+    "cmc_usd_conversions",
+    "ccew_check_coin_list_after_24hour"
+  ],
+  "cron_jobs": [
+    "ccew_extra_data_update",
+    "cmc_extra_data_update",
+    "celp_extra_data_update",
+    "ccpw_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:29.495Z"
+}

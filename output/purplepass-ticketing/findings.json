@@ -1,0 +1,47 @@
+{
+  "options": [
+    "pptec_data",
+    "pptec_job_events_fetching",
+    "pptec_stats_update_time",
+    "classic-editor-replace",
+    "classic-editor-allow-users",
+    "pptec_widget_settings",
+    "pptec_random_str",
+    "pptec_oauth_decrypted_client_id",
+    "pptec_oauth_settings",
+    "pptec_oauth_refresh_token",
+    "pptec_events_last_requested_date",
+    "pptec_wizard",
+    "Activated_Plugin"
+  ],
+  "transients": [
+    "doing_cron"
+  ],
+  "cron_jobs": [
+    "pptec_check_bg_failed_process",
+    "pptec_cron_fetch_event_processing",
+    "pptec_job_daily_actions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pptec_pp_user_id",
+    "current_post_row_counter_price",
+    "_EventStartDate",
+    "pptec_event_meta_data",
+    "classic-editor-remember",
+    "pp_enabled_ticket_sales",
+    "_VenueOrigin",
+    "_VenueAddress",
+    "_VenueCity",
+    "_VenueCountry",
+    "_VenueState",
+    "_VenueProvince",
+    "_VenueStateProvince",
+    "_VenueZip",
+    "_EventVenueID",
+    "_EventEndDate",
+    "pp_events_types"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:42.175Z"
+}

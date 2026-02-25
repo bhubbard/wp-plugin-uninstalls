@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*option_names",
+    "*admin_menu_list",
+    "*db_version",
+    "*setting_editpage_hidden"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:05.938Z"
+}

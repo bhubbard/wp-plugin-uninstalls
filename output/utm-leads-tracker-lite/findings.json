@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "before_order_cookie_*",
+    "after_order_cookie_*",
+    "first_occurrence_timestamp_start",
+    "first_occurrence_timestamp_end"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:00.811Z"
+}

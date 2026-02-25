@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "edd_coming_soon",
+    "edd_coming_soon_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:47.986Z"
+}

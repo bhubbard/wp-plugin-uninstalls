@@ -1,0 +1,19 @@
+{
+  "options": [
+    "socproofgen_position",
+    "socproofgen_duration",
+    "socproofgen_animation",
+    "socproofgen_names",
+    "socproofgen_products",
+    "socproofgen_bg_color",
+    "socproofgen_image_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_socproofgen_show_popup"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:48.985Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "meu_plugin_relatorios_email",
+    "meu_plugin_relatorios_email_opcional",
+    "meu_plugin_relatorios_dia",
+    "meu_plugin_relatorios_mensagem",
+    "meu_plugin_relatorios_plugins_atualizados",
+    "meu_plugin_relatorios_wp_atualizacoes"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "meu_plugin_relatorios_gancho"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:35.120Z"
+}

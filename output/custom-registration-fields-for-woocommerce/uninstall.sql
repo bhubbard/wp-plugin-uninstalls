@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('crfw_editable_custom_fields_on_user_profile', 'crfw_custom_fields_registered', 'crfw_enable_custom_fields_module', 'crfw_enable_custom_fields_on_new_reg', 'crfw_enable_custom_fields_on_account_page', 'crfw_enable_custom_fields_editing_on_account_detail', 'crfw_enable_custom_fields_on_checkout_page', 'crfw_google_captcha_enable_wp_register', 'crfw_google_captcha_enable_my_account', 'crfw_google_captcha_settings_site_key', 'crfw_google_captcha_settings_secret_key', 'option_image', 'crfw_google_captcha_enable');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('crfw_custom_reg_field_data', 'crfw_custom_field_width', 'crfw_custom_field_conditional_rules', 'crfw_custom_field_type', 'crfw_custom_field_placeholder', 'crfw_custom_field_required', 'crfw_custom_field_priority', 'crfw_custom_field_description', 'crfw_html_text_area', 'crfw_custom_field_label', 'crfw_custom_field_classes', 'crfw_field_option_value');
+DELETE FROM wp_usermeta WHERE meta_key IN ('crfw_custom_reg_field_data', 'crfw_custom_field_width', 'crfw_custom_field_conditional_rules', 'crfw_custom_field_type', 'crfw_custom_field_placeholder', 'crfw_custom_field_required', 'crfw_custom_field_priority', 'crfw_custom_field_description', 'crfw_html_text_area', 'crfw_custom_field_label', 'crfw_custom_field_classes', 'crfw_field_option_value');
+DELETE FROM wp_termmeta WHERE meta_key IN ('crfw_custom_reg_field_data', 'crfw_custom_field_width', 'crfw_custom_field_conditional_rules', 'crfw_custom_field_type', 'crfw_custom_field_placeholder', 'crfw_custom_field_required', 'crfw_custom_field_priority', 'crfw_custom_field_description', 'crfw_html_text_area', 'crfw_custom_field_label', 'crfw_custom_field_classes', 'crfw_field_option_value');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('crfw_custom_reg_field_data', 'crfw_custom_field_width', 'crfw_custom_field_conditional_rules', 'crfw_custom_field_type', 'crfw_custom_field_placeholder', 'crfw_custom_field_required', 'crfw_custom_field_priority', 'crfw_custom_field_description', 'crfw_html_text_area', 'crfw_custom_field_label', 'crfw_custom_field_classes', 'crfw_field_option_value');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'crfw_custom_field_data_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'crfw_custom_field_data_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'crfw_custom_field_data_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'crfw_custom_field_data_%';
+

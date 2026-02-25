@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_attachment",
+    "_bbp_author_ip",
+    "_duplicate_of",
+    "_duplicates",
+    "_bbp_activity_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:01.412Z"
+}

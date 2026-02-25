@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpsocialite_excerpt",
+    "wpsocialite_networkoptions",
+    "wpsocialite_mode",
+    "wpsocialite_vkontakte_apiId",
+    "wpsocialite_style",
+    "wpsocialite_single",
+    "wpsocialite_position",
+    "wpsocialite_post_types",
+    "wpsocialite_twitter_username"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:42.950Z"
+}

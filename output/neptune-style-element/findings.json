@@ -1,0 +1,13 @@
+{
+  "options": [
+    "neptune_style_element_customize",
+    "neptune-style-element",
+    "Neptune_Style_Element_Customize"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:55.134Z"
+}

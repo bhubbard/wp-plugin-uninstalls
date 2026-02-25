@@ -1,0 +1,15 @@
+{
+  "options": [
+    "usz_db_configured",
+    "usz_integration_cf7",
+    "usz_integration_ninja",
+    "usz_integration_gravity",
+    "usz_integration_formidable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:20.770Z"
+}

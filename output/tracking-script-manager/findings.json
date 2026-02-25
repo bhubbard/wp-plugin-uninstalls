@@ -1,0 +1,24 @@
+{
+  "options": [
+    "header_tracking_script_code",
+    "page_tracking_script_code",
+    "footer_tracking_script_code",
+    "tsm_is_processing"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "r8_tsm_script_code",
+    "r8_tsm_encoded_save",
+    "r8_tsm_script_page",
+    "r8_tsm_script_expiry_info",
+    "r8_tsm_active",
+    "r8_tsm_script_location",
+    "r8_tsm_script_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:20.547Z"
+}

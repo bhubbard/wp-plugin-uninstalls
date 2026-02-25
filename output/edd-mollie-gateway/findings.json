@@ -1,0 +1,17 @@
+{
+  "options": [
+    "edd_mollie_general_settings",
+    "edd_mollie_settings",
+    "edd_settings",
+    "edd_mollie_chargeback_notices",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mollie_customer_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:33.579Z"
+}

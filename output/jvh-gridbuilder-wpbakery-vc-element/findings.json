@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "jvh_all_terms",
+    "jvh_all_posts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpb_shortcodes_custom_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:44.002Z"
+}

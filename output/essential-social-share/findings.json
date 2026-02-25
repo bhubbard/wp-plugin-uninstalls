@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ess_twitter_username",
+    "ess_facebook",
+    "ess_twitter",
+    "ess_google",
+    "ess_pinterest",
+    "ess_linked_in",
+    "ess_email",
+    "ess_font_awe"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:05.895Z"
+}

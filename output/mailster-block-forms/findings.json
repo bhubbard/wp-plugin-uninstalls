@@ -1,0 +1,28 @@
+{
+  "options": [
+    "mailster_inline_styles"
+  ],
+  "transients": [
+    "mailster_forms"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "placements",
+    "doubleoptin",
+    "gdpr",
+    "overwrite",
+    "redirect",
+    "lists",
+    "placement_*",
+    "uniqid",
+    "_cached",
+    "userschoice",
+    "headline",
+    "subject",
+    "content",
+    "confirmredirect"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:49.683Z"
+}

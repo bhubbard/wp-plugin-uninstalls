@@ -1,0 +1,22 @@
+{
+  "options": [
+    "smmg_iframeWidth",
+    "smmg_iframeHeight",
+    "smmg_descriptionCustomField",
+    "smmg_thumbnailCustomField",
+    "smmg_durationCustomField",
+    "smmg_directorCustomField",
+    "smmg_writerCustomField",
+    "smmg_starsCustomField",
+    "smmg_ratingCustomField",
+    "smmg_genreCustomField",
+    "smmg_countryCustomField",
+    "smmg_nextpageCustomField"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:10.212Z"
+}

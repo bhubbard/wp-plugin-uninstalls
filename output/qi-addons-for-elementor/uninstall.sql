@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('qi_addons_for_elementor_swiper_new', 'qi_addons_for_elementor_install_date', 'qi_addons_for_elementor_placeholder_image', 'qi_addons_for_elementor_regenerate_css', 'qi_addons_for_elementor_notice', 'qi_addons_for_elementor_review_status', 'qi_addons_for_elementor_review_reminder_date', 'woocommerce_placeholder_image', 'woocommerce_hide_out_of_stock_items', 'woocommerce_enable_review_rating');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_elementor_data', '_wp_attachment_image_alt', 'qodef_post_format_audio_url', 'qodef_post_format_gallery_images', 'qodef_post_format_link', 'qodef_post_format_link_text', 'qodef_post_format_quote_text', 'qodef_post_format_quote_author', 'qodef_post_format_video_url', 'thumbnail_id', '_elementor_template_type');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_elementor_data', '_wp_attachment_image_alt', 'qodef_post_format_audio_url', 'qodef_post_format_gallery_images', 'qodef_post_format_link', 'qodef_post_format_link_text', 'qodef_post_format_quote_text', 'qodef_post_format_quote_author', 'qodef_post_format_video_url', 'thumbnail_id', '_elementor_template_type');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_elementor_data', '_wp_attachment_image_alt', 'qodef_post_format_audio_url', 'qodef_post_format_gallery_images', 'qodef_post_format_link', 'qodef_post_format_link_text', 'qodef_post_format_quote_text', 'qodef_post_format_quote_author', 'qodef_post_format_video_url', 'thumbnail_id', '_elementor_template_type');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_elementor_data', '_wp_attachment_image_alt', 'qodef_post_format_audio_url', 'qodef_post_format_gallery_images', 'qodef_post_format_link', 'qodef_post_format_link_text', 'qodef_post_format_quote_text', 'qodef_post_format_quote_author', 'qodef_post_format_video_url', 'thumbnail_id', '_elementor_template_type');
+

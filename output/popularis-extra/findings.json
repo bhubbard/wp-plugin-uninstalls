@@ -1,0 +1,37 @@
+{
+  "options": [
+    "popularis_extra_active_time",
+    "popularis_extra_review_dismiss",
+    "popularis_extra_maybe_later",
+    "popularis_extra_active_pro_time",
+    "popularis_extra_active_pro_time_verse",
+    "widget_*",
+    "sidebars_widgets",
+    "_wc_needs_pages",
+    "woocommerce_single_image_width",
+    "woocommerce_thumbnail_image_width",
+    "woocommerce_thumbnail_cropping",
+    "woocommerce_thumbnail_cropping_custom_width",
+    "woocommerce_thumbnail_cropping_custom_height",
+    "elementor_container_width",
+    "elementor_experiment-container",
+    "popularis_wizard",
+    "automatic_2nd_notice",
+    "2nd_notice",
+    "popularis_plugin_do_activation_redirect"
+  ],
+  "transients": [
+    "_wc_activation_redirect"
+  ],
+  "cron_jobs": [
+    "add_second_notice"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_*",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:15.048Z"
+}

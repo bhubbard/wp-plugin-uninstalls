@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ssi_color1",
+    "ssi_color2",
+    "ssi_gredient_direction",
+    "ssi_featImg_override"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ssi_color1",
+    "ssi_color2",
+    "ssi_gredient_direction",
+    "ssi_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:37.098Z"
+}

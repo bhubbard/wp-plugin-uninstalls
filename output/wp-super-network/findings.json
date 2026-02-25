@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_supernetwork_parent_site",
+    "supernetwork_consolidated",
+    "supernetwork_post_types",
+    "supernetwork_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_supernetwork_share"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:52.847Z"
+}

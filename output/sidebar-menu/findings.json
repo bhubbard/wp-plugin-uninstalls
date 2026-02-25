@@ -1,0 +1,33 @@
+{
+  "options": [
+    "ot_css_file_paths"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sidebarmenu_content_before",
+    "_sidebarmenu_content_after",
+    "_sidebarmenu_fixed",
+    "_sidebarmenu_fixed_menu",
+    "_sidebarmenu_width",
+    "_sidebarmenu_height",
+    "_sidebarmenu_top_padding",
+    "_sidebarmenu_left_padding",
+    "_sidebarmenu_right_padding",
+    "_sidebarmenu_position",
+    "_sidebarmenu_settings_style",
+    "_sidebarmenu_settings_coloractive",
+    "_sidebarmenu_settings_menu",
+    "_sidebarmenu_settings_offsettop",
+    "_sidebarmenu_settings_scrolltime",
+    "_sidebarmenu_settings_footeroffset",
+    "_sidebarmenu_settings_color",
+    "_sidebarmenu_settings_sticky",
+    "_sidebarmenu_settings_type",
+    "_format_link_url",
+    "_format_quote_source_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:20.562Z"
+}

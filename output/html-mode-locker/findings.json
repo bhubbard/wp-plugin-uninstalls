@@ -1,0 +1,14 @@
+{
+  "options": [
+    "html_mode_lock",
+    "html_mode_lock_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "html_mode_lock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:55.032Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "publitio_default_player_id",
+    "publitio_key",
+    "publitio_secret"
+  ],
+  "transients": [
+    "publitio_wordpress_data",
+    "publitio_players"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:48.130Z"
+}

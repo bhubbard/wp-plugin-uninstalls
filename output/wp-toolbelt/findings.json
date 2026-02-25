@@ -1,0 +1,16 @@
+{
+  "options": [
+    "toolbelt_options",
+    "toolbelt_settings",
+    "disallowed_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "toolbelt_cron_daily",
+    "toolbelt_cron_weekly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:25.770Z"
+}

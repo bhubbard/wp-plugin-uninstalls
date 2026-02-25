@@ -1,0 +1,41 @@
+{
+  "options": [
+    "vendboard_theme_color",
+    "vendboard_dashboard_lang",
+    "vendboard_vendor_dashboard_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vendboard_pending_featured",
+    "_vendboard_pending_title",
+    "_vendboard_is_new_product",
+    "_regular_price",
+    "_product_image_gallery",
+    "_vendboard_pending_price",
+    "_vendboard_pending_excerpt",
+    "_vendboard_pending_desc",
+    "_vendboard_pending_featured_remove",
+    "_vendboard_pending_gallery",
+    "_vendboard_pending_gallery_remove",
+    "_sku",
+    "_vendboard_pending_sku",
+    "_barcode",
+    "_vendboard_pending_barcode",
+    "_price",
+    "_vendboard_last_status",
+    "_vendboard_last_status_time",
+    "vendboard_assigned_brand",
+    "VendBoard_assigned_brand",
+    "vd_assigned_brand",
+    "_thumbnail_id",
+    "brand_image",
+    "thumbnail_id",
+    "_vendboard_edited",
+    "_vendboard_onboarding_seen",
+    "_vendboard_barcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:41.873Z"
+}

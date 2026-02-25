@@ -1,0 +1,14 @@
+{
+  "options": [
+    "external_image_whichimgs",
+    "external_image_excludes"
+  ],
+  "transients": [
+    "saving_imported_images_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:37.597Z"
+}

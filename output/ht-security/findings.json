@@ -1,0 +1,27 @@
+{
+  "options": [
+    "htsec_nvd_api_key",
+    "htsec_check_progress",
+    "htsec_vulnerabilities",
+    "htsec_last_cve_check",
+    "htsec_enable_cve_alerts",
+    "htsec_alert_email",
+    "htsec_enable_login_alerts",
+    "htsec_maintenance_mode",
+    "htsec_maintenance_ips",
+    "htsec_show_plugin_badges",
+    "htsec_enable_headers",
+    "htsec_disable_user_enumeration"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "htsec_cve_check_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "htsec_dismissed_error_notice",
+    "htsec_dismissed_success_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:40.525Z"
+}

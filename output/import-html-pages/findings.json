@@ -1,0 +1,15 @@
+{
+  "options": [
+    "html_import"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "URL_before_HTML_Import",
+    "_wp_page_template",
+    "_ise_old_sidebar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:43.234Z"
+}

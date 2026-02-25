@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpimagelazyload_skipiframe",
+    "wpimagelazyload_skipparent",
+    "wpimagelazyload_skipvideo",
+    "wpimagelazyload_skipallparent",
+    "wpimagelazyload_loadonposition",
+    "wpimagelazyload_animation",
+    "wpimagelazyload_animationduration",
+    "wpimagelazyload_animationtiming",
+    "wpimagelazyload_phplazyload",
+    "wpimagelazyload_themefilesmofidied"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:09.409Z"
+}

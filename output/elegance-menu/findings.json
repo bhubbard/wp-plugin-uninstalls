@@ -1,0 +1,17 @@
+{
+  "options": [
+    "elegance_menu_currency",
+    "elegance_menu_placeholder_image",
+    "elegance_menu_char_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "elegance_shortcode",
+    "elegance_menu",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:26.920Z"
+}

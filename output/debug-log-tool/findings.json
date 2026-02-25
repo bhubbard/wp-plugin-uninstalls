@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpdt_settings",
+    "wpdt_group_logs_status",
+    "wpdt_auto_refresh_status",
+    "cron",
+    "debug_log_tool_current_version"
+  ],
+  "transients": [
+    "wpdt_cron_status_ok",
+    "wpdt_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:14.512Z"
+}

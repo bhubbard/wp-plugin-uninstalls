@@ -1,0 +1,23 @@
+{
+  "options": [
+    "clickcease_bot_zapping_authenticated",
+    "clickcease_api_key",
+    "clickcease_domain_key",
+    "clickcease_secret_key",
+    "clickcease_remove_tracking",
+    "clickcease_whitelist",
+    "clickcease_client_id",
+    "secret_checked",
+    "cheq_invalid_secret",
+    "monitoring",
+    "cc_version_updated",
+    "cc_send_plugin_state",
+    "cc_check_plugin_state"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:30.081Z"
+}

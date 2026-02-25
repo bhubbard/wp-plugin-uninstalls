@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wphcu_display_footer",
+    "wphcu_data",
+    "wphcu_count_404",
+    "wphcu_count_only_unique",
+    "wphcu_count_admin",
+    "wphcu_exclude_ips",
+    "wphcu_style",
+    "wphcu_align",
+    "wphcu_css",
+    "wphcu_display_credit",
+    "wphcu_check_update",
+    "wphcu_algin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:58.751Z"
+}

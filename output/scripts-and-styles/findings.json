@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ScriptsAndStylesBySL_scripts_head_option",
+    "ScriptsAndStylesBySL_scripts_footer_option",
+    "ScriptsAndStylesBySL_styles_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:52.256Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_callback_email_sent",
+    "*_settings",
+    "*_gateway_methods",
+    "*_gateways",
+    "woocommerce_multibanco_ifthen_for_woocommerce_settings",
+    "woocommerce_mbway_ifthen_for_woocommerce_settings",
+    "woocommerce_payshop_ifthen_for_woocommerce_settings",
+    "woocommerce_creditcard_ifthen_for_woocommerce_settings",
+    "woocommerce_cofidispay_ifthen_for_woocommerce_settings",
+    "woocommerce_gateway_ifthen_ifthen_for_woocommerce_settings",
+    "*_version",
+    "multibanco_last_incremental_expire_ref",
+    "woocommerce_checkout_pay_endpoint",
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_manage_stock",
+    "*_ifthen_for_woocommerce_callback_email_sent"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wc_ifthen_hourly_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_newmethod_notice_dismiss_until"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:20.723Z"
+}

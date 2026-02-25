@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "yay-swatches-collection-customize-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wc_average_rating",
+    "_wc_review_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:25.845Z"
+}

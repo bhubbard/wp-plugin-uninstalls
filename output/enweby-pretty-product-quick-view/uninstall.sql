@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('enweby_wpqv_button_text_color', 'enweby_wpqv_button_text_hover_color', 'enweby_wpqv_button_bg_color', 'enweby_wpqv_button_hover_bg_color', 'enweby_wpqv_icon_color', 'enweby_wpqv_icon_hover_color', 'enweby_wpqv_text_font_size', 'enweby_wpqv_modal_bgcolor', 'enweby_wpqv_closing_button_color', 'enweby_wpqv_closing_button_hover_color', 'enweby_wpqv_button_text', 'enweby_wpqv_enable_quickview_on_mobile', 'enweby_wpqv_button_position');
+

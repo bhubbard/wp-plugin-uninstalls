@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awsm_attachment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:18.590Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_jv_prg_rg_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_jv_user_rg",
+    "wp_jv_post_rg"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:27.666Z"
+}

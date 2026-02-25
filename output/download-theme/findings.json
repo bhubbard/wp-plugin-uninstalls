@@ -1,0 +1,14 @@
+{
+  "options": [
+    "download_theme_popup_status",
+    "dtwap_dismissible_plugin",
+    "dtwap_dismissible_plugin_expiration",
+    "dtwap_enable_bookmark"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:54.852Z"
+}

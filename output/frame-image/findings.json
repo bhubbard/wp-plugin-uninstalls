@@ -1,0 +1,16 @@
+{
+  "options": [
+    "PF_SETTINGS_OK",
+    "PF_SETTINGS_CADRE",
+    "PF_SETTINGS_PADDING",
+    "PF_SETTINGS_BORDER_COLOR",
+    "PF_SETTINGS_BORDER_WIDTH",
+    "PF_SETTINGS_BORDER_TYPE"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:40.375Z"
+}

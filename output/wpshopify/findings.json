@@ -1,0 +1,21 @@
+{
+  "options": [
+    "shopwp_should_flush_rewrite_rules",
+    "has_upgraded_to_shop_pro",
+    "active_sitewide_plugins",
+    "edd_api_request_*"
+  ],
+  "transients": [
+    "shopwp_table_charset_*",
+    "*_process_lock",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product_id",
+    "collection_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:05.187Z"
+}

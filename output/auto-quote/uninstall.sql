@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('gritonl_auto_quote_css', 'gritonl_auto_quote_formphone', 'gritonl_auto_quote_formwebsite', 'gritonl_auto_quote_hsapikey', 'gritonl_auto_quote_hsgood', 'gritonl_auto_quote_acurl', 'gritonl_auto_quote_acapikey', 'gritonl_auto_quote_pdcdomain', 'gritonl_auto_quote_pdapitoken', 'gritonl_auto_quote_pdowner', 'gritonl_auto_quote_pddays', 'gritonl_auto_quote_pdgood', 'gritonl_auto_quote_pdusers', 'gritonl_auto_quote_acgood', 'gritonl_auto_quote_aclist', 'gritonl_auto_quote_accode', 'gritonl_auto_quote_accodeon', 'gritonl_auto_quote_aclists', 'gritonl_auto_quote_actags', 'gritonl_auto_quote_sender_name', 'gritonl_auto_quote_sender_email', 'gritonl_auto_quote_email_subject', 'gritonl_auto_quote_email_body', 'gritonl_auto_quote_emails', 'gritonl_auto_quote_redirurl', 'gritonl_auto_quote_webhookurl', 'gritonl_auto_quote_currency', 'gritonl_auto_quote_validity', 'gritonl_auto_quote_logoURL', 'gritonl_auto_quote_logoURL2', 'gritonl_auto_quote_closing', 'gritonl_auto_quote_footer', 'gritonl_auto_quote_products');
+

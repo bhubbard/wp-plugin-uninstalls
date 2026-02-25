@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pacwp_active",
+    "pacepbr_class_cep",
+    "pacepbr_class_logradouro",
+    "pacepbr_class_numero",
+    "pacepbr_class_complemento",
+    "pacepbr_class_bairro",
+    "pacepbr_class_cidade",
+    "pacepbr_class_estado"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:00.803Z"
+}

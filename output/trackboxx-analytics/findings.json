@@ -1,0 +1,15 @@
+{
+  "options": [
+    "trackboxx_tracking_id",
+    "trackboxx_public_url",
+    "trackboxx_optout_text",
+    "trackboxx_optout_key",
+    "website_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:20.658Z"
+}

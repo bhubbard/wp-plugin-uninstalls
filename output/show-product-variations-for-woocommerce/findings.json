@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wsv_show_vari_on_shop_cat",
+    "wsv_show_vari_on_shortcode",
+    "wsv_hide_parent_product_variable",
+    "wsv_excludes_category",
+    "wsv_excludes_attributes",
+    "wsv_show_vari_keep_first",
+    "wsv_show_vari_lh_price"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wsv_custom_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:03.255Z"
+}

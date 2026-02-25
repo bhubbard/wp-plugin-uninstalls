@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ordermanager_options"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ordermanager_menu_order",
+    "_ordermanager_post_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:16.248Z"
+}

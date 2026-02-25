@@ -1,0 +1,40 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aae_installed', 'aae_do_activation_redirect', 'wcf_addons_version', 'wcf_addons_setup_wizard', 'aae_activation_count', 'aae_last_activated', 'aae_dactivation_count', 'aae_last_dactivated', 'wcf_smooth_scroller', 'aae_sc_error_status_current_support', 'wcf_code_snippet_rewrite_rules_flushed', 'wcf_save_widgets', 'wcf_save_extensions', 'aaeaddon_template_import_state', 'aaeaddon_template_import_progress', 'wcf_custom_font_setting', 'wcf_widget_dashboardv2', 'wcf_extension_dashboardv2', 'wcf_notice_data', 'aae_deactivation_feedback', 'aae_last_import_batch', 'aae_cpts_032153', 'aae_taxs_933153', 'elementor_active_kit', 'aae_mailchimp_api', 'aae_gl_load', 'aae_addon_mailchimp_form_field', 'wcf_code_snippet_flash_messages', 'wc_attribute_taxonomies', 'aadaddon_st_importer_data', 'aaeaddon_st_importer_data_failed_attachment_imports', 'wcf_menu_42_data', 'wcf_changelog_notice_cache3', 'aadaddon_st_mporter_data_failed_attachment_imports', 'aadaddon_import_menu_mapping', 'aaeaddon_import_posts_with_nav_block');
+DELETE FROM wp_options WHERE option_name LIKE '_transient_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_flash_messages';
+DELETE FROM wp_options WHERE option_name LIKE '%_search';
+DELETE FROM wp_options WHERE option_name LIKE '%_error';
+DELETE FROM wp_options WHERE option_name LIKE 'wcf_menu_options_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_audio_url', '_video_url', '_gallery_images', '_aae_event_location', 'wcf_post_views_count', 'is_active', 'code_type', 'load_location', 'priority', 'visibility_page_list', 'visibility_page', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'aae_import_batch', 'aae_imported', '_elementor_page_settings', 'aae_cate_additional_text', 'aae_category_image', 'aae_category_icon', 'aae_cat_bg_color', 'aae_cat_color', 'wcfcustom_cpt_global', '_elementor_data', 'wcf_addon_custom_fonts', 'custom_font_global', 'wcf_addon_custom_icontype', 'aae_gl_load', 'wcf_addon_custom_icons', 'wcf-addons-template-meta_type', 'aae_post_shares', 'aae_post_shares_count', 'aaeaddon_post_reactions', 'aaeaddon_post_total_reactions', 'reviewed_post_type', 'user_id', 'name', 'rating', 'review', 'email', 'review_count', 'aae_header_smoother', 'aae_header_smoother_offsety', 'popup_trigger', 'popup_selector');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_audio_url', '_video_url', '_gallery_images', '_aae_event_location', 'wcf_post_views_count', 'is_active', 'code_type', 'load_location', 'priority', 'visibility_page_list', 'visibility_page', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'aae_import_batch', 'aae_imported', '_elementor_page_settings', 'aae_cate_additional_text', 'aae_category_image', 'aae_category_icon', 'aae_cat_bg_color', 'aae_cat_color', 'wcfcustom_cpt_global', '_elementor_data', 'wcf_addon_custom_fonts', 'custom_font_global', 'wcf_addon_custom_icontype', 'aae_gl_load', 'wcf_addon_custom_icons', 'wcf-addons-template-meta_type', 'aae_post_shares', 'aae_post_shares_count', 'aaeaddon_post_reactions', 'aaeaddon_post_total_reactions', 'reviewed_post_type', 'user_id', 'name', 'rating', 'review', 'email', 'review_count', 'aae_header_smoother', 'aae_header_smoother_offsety', 'popup_trigger', 'popup_selector');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_audio_url', '_video_url', '_gallery_images', '_aae_event_location', 'wcf_post_views_count', 'is_active', 'code_type', 'load_location', 'priority', 'visibility_page_list', 'visibility_page', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'aae_import_batch', 'aae_imported', '_elementor_page_settings', 'aae_cate_additional_text', 'aae_category_image', 'aae_category_icon', 'aae_cat_bg_color', 'aae_cat_color', 'wcfcustom_cpt_global', '_elementor_data', 'wcf_addon_custom_fonts', 'custom_font_global', 'wcf_addon_custom_icontype', 'aae_gl_load', 'wcf_addon_custom_icons', 'wcf-addons-template-meta_type', 'aae_post_shares', 'aae_post_shares_count', 'aaeaddon_post_reactions', 'aaeaddon_post_total_reactions', 'reviewed_post_type', 'user_id', 'name', 'rating', 'review', 'email', 'review_count', 'aae_header_smoother', 'aae_header_smoother_offsety', 'popup_trigger', 'popup_selector');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_audio_url', '_video_url', '_gallery_images', '_aae_event_location', 'wcf_post_views_count', 'is_active', 'code_type', 'load_location', 'priority', 'visibility_page_list', 'visibility_page', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id', 'aae_import_batch', 'aae_imported', '_elementor_page_settings', 'aae_cate_additional_text', 'aae_category_image', 'aae_category_icon', 'aae_cat_bg_color', 'aae_cat_color', 'wcfcustom_cpt_global', '_elementor_data', 'wcf_addon_custom_fonts', 'custom_font_global', 'wcf_addon_custom_icontype', 'aae_gl_load', 'wcf_addon_custom_icons', 'wcf-addons-template-meta_type', 'aae_post_shares', 'aae_post_shares_count', 'aaeaddon_post_reactions', 'aaeaddon_post_total_reactions', 'reviewed_post_type', 'user_id', 'name', 'rating', 'review', 'email', 'review_count', 'aae_header_smoother', 'aae_header_smoother_offsety', 'popup_trigger', 'popup_selector');
+DELETE FROM wp_postmeta WHERE meta_key IN ('delayTime', 'effect', 'scrollPostion', '_elementor_edit_mode', '_wp_page_template', 'wcf_phone_number', 'author_social_profiles', '_elementor_source', 'wcf_mega_menu_settings', '_wp_attachment_image_alt');
+DELETE FROM wp_usermeta WHERE meta_key IN ('delayTime', 'effect', 'scrollPostion', '_elementor_edit_mode', '_wp_page_template', 'wcf_phone_number', 'author_social_profiles', '_elementor_source', 'wcf_mega_menu_settings', '_wp_attachment_image_alt');
+DELETE FROM wp_termmeta WHERE meta_key IN ('delayTime', 'effect', 'scrollPostion', '_elementor_edit_mode', '_wp_page_template', 'wcf_phone_number', 'author_social_profiles', '_elementor_source', 'wcf_mega_menu_settings', '_wp_attachment_image_alt');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('delayTime', 'effect', 'scrollPostion', '_elementor_edit_mode', '_wp_page_template', 'wcf_phone_number', 'author_social_profiles', '_elementor_source', 'wcf_mega_menu_settings', '_wp_attachment_image_alt');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'aae_post_shares_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'aae_post_shares_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'aae_post_shares_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'aae_post_shares_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'aaeaddon_post_reactions_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'aaeaddon_post_reactions_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'aaeaddon_post_reactions_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'aaeaddon_post_reactions_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_location';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_location';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_location';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_location';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_splocation';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_splocation';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_splocation';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_splocation';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_type';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_type';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_type';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_type';
+

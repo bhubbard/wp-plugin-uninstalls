@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'cmb_empty_option'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'preset_actions_repeat_group'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'preset_actions_repeat_group'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'preset_actions_repeat_group'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'preset_actions_repeat_group'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%notes'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%notes'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%notes'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%notes'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'test_test'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'test_test'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'test_test'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'test_test'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rest_test'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rest_test'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rest_test'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rest_test'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'field_test_field'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'field_test_field'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'field_test_field'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'field_test_field'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'test_value_input_empty'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'test_value_input_empty'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'test_value_input_empty'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'test_value_input_empty'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'test_value_input_empty_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'test_value_input_empty_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'test_value_input_empty_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'test_value_input_empty_id'"

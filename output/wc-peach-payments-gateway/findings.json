@@ -1,0 +1,35 @@
+{
+  "options": [
+    "woocommerce_peach-payments_settings",
+    "woocommerce_currency",
+    "woocommerce_checkout_order_received_endpoint",
+    "woocommerce_checkout_pay_endpoint",
+    "woocommerce_enable_signup_and_login_from_checkout",
+    "woocommerce_enable_signup_from_checkout_for_subscriptions",
+    "cleantalk_settings",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pmpro_cron_peach_subscription_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pmpro_peach_customerid",
+    "_peach_subscription_payment_method",
+    "_peach_payment_id",
+    "wcfmmp_profile_settings",
+    "_payment_method",
+    "_payment_method_title",
+    "my-cards",
+    "payment_auth_bearer",
+    "payment_order_id",
+    "peach_api_trigger",
+    "_checkout_payment_option",
+    "payment_initial_id",
+    "payment_registration_id",
+    "_billing_peach"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:11.334Z"
+}

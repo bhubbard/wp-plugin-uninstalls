@@ -1,0 +1,25 @@
+{
+  "options": [
+    "default_post_edit_rows",
+    "*_insights_optin",
+    "*_insights_last_notice",
+    "*_insights_last_tracking_time",
+    "*_insights_skip",
+    "*_insights_previously_skip"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_order_status_default",
+    "_color_status",
+    "_icon_status",
+    "_status_email_title",
+    "_title_status",
+    "_slug_status",
+    "_desc_status",
+    "_bg_color_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:07.317Z"
+}

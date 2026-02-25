@@ -1,0 +1,28 @@
+{
+  "options": [
+    "_dwqa_convert_topic_ids",
+    "_dwqa_new_questions_ids",
+    "_dwqa_new_answers_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dwqa_followers",
+    "_dwqa_status",
+    "_dwqa_views",
+    "_dwqa_votes",
+    "_bbp_reply_count",
+    "_dwqa_answers_count",
+    "_bbp_forum_id",
+    "_bbp_status",
+    "_question",
+    "_dwqa_is_anonymous",
+    "_bbp_anonymous_email",
+    "_dwqa_anonymous_email",
+    "_bbp_anonymous_name",
+    "_dwqa_anonymous_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:15.012Z"
+}

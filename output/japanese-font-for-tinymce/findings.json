@@ -1,0 +1,22 @@
+{
+  "options": [
+    "tinyjpfont_check_cdn",
+    "tinyjpfont_select",
+    "tinyjpfont_gutenberg",
+    "tinyjpfont_head",
+    "tinyjpfont_default_font",
+    "tinyjpfont_whole_font",
+    "tinyjpfont_check_noto"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tinyjpfont_fix430_notice_dismissed",
+    "tinyjpfont_gutenberg_notice_dismissed",
+    "tinyjpfont_install_notice_dismissed",
+    "tinyjpfont_advanced_warning_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:31.405Z"
+}

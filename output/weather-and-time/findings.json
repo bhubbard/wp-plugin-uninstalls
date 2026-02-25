@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_city",
+    "*_zone",
+    "*_date",
+    "*_time",
+    "*_icon",
+    "*_condition",
+    "*_unit",
+    "*_humidity",
+    "*_wind",
+    "*_forecast_info",
+    "*_forecast",
+    "*_lah"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:56.049Z"
+}

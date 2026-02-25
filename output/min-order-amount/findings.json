@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wc_minimum_order_amount_value",
+    "wc_minimum_order_cart_notification",
+    "wc_minimum_order_checkout_notification"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:51.443Z"
+}

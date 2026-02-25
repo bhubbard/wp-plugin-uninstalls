@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_activated",
+    "*_per_page_default",
+    "*_activated_plugin_error",
+    "woocommerce_version",
+    "woocommerce_db_version",
+    "woocommerce_price_num_decimals",
+    "woocommerce_currency_pos",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:33.211Z"
+}

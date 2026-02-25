@@ -1,0 +1,15 @@
+{
+  "options": [
+    "weekorre_settings",
+    "weekorre_specific_date_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "weekorre_send_report_once",
+    "weekorre_send_report_specific_date"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:02.391Z"
+}

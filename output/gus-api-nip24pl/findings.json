@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_nip24_option_keyid",
+    "woocommerce_nip24_option_key",
+    "woocommerce_version",
+    "woocommerce_nip24_option_url",
+    "woocommerce_nip24_option_vatid_field",
+    "woocommerce_nip24_option_vatid_required"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_company_vat_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:47.143Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "lrwp_layout_type",
+    "lrwp_smartspeed",
+    "lrwp_loop_value",
+    "lrwp_set_margin",
+    "lrwp_show_nav_true",
+    "lrwp_autoplay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lrwp_cname",
+    "lrwp_cemail",
+    "lrwp_compname",
+    "lrwp_comwebsite"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:46.612Z"
+}

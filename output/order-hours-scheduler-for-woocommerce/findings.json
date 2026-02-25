@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "zhours_cache_clear_open",
+    "zhours_cache_clear_close",
+    "zhours_cache_clear_*"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:57.391Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_grv_sp_plugin_do_activation_redirect",
+    "wp_grv_sp_social_proofing_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_grv_sp_social_proofing_meta_box_btn",
+    "comment_extras"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:15.927Z"
+}

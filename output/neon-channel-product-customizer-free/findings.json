@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ncpc_config_page",
+    "woocommerce_currency_pos",
+    "ncpc_global_settings_others_data",
+    "ncpc_product_free",
+    "ncpc_free_license",
+    "ncpc_free_plugin_clicks",
+    "ncpc_installed",
+    "ncpc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product-ncpc-metas",
+    "ncpc-configs-meta",
+    "ncpc_free_review_done",
+    "ncpc_free_review_later",
+    "ncpc_free_plugins_promo_dismissed",
+    "ncpc_free_promo_later",
+    "ncpc_pro_notice_dismissed",
+    "ncpc_pro_notice_later"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:06.714Z"
+}

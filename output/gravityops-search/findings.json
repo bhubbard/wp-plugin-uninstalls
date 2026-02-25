@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*rating_asked"
+  ],
+  "transients": [
+    "update_plugins",
+    "gops_error",
+    "gops_notice"
+  ],
+  "cron_jobs": [
+    "*/access/revoke"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:22.026Z"
+}

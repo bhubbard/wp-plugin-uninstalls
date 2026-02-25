@@ -1,0 +1,16 @@
+{
+  "options": [
+    "richpostslistandgrid_license_status",
+    "richpostslistandgrid_license_key",
+    "richpostslistandgrid_license_reff"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ik_rplg_review",
+    "vcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:12.157Z"
+}

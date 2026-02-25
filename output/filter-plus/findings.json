@@ -1,0 +1,21 @@
+{
+  "options": [
+    "filter_plus_settings",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "label",
+    "type",
+    "style",
+    "custom_field_list",
+    "featured_image",
+    "thumbnail_id",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:29.807Z"
+}

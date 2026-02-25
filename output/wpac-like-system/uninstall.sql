@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpac_status_message_liked', 'wpac_status_error_liked', 'wpac_status_message_error_general', 'wpac_status_message_error_login', 'wpac_save_type', 'wpac_button_position', 'wpac_hide_like_button', 'wpac_hide_dislike_button', 'wpac_like_dislike_count', 'wpac_like_dislike_vs_bar', 'wpac_like_btn_label', 'wpac_dislike_btn_label', 'wpac_db_version', 'wpac_reaction_position', 'wpac_reaction_style', 'wpac_hide_reaction_count', 'wpac_hide_reaction_label', 'wpac_reaction_1_label', 'wpac_reaction_2_label', 'wpac_reaction_3_label', 'wpac_reaction_4_label', 'wpac_reaction_5_label', 'wpac_reaction_6_label', 'wpac_font_icons', 'wpac_system_type', 'wpac_status_message_disliked', 'wpac_status_error_disliked', 'wpac_status_message_reaction', 'wpac_sharing_status', 'wpac_sharing_desktop_position', 'wpac_sharing_mobile_position');
+

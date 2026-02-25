@@ -1,0 +1,20 @@
+{
+  "options": [
+    "dd_lightbox_ads_visiblity",
+    "dd_lightbox_ads_custom_url",
+    "dd_lightbox_ads_imgurl",
+    "dd_lightbox_ads_link",
+    "dd_lightbox_ads_lbbg",
+    "dd_lightbox_ads_delay",
+    "dd_lightbox_ads_width",
+    "dd_lightbox_setting_allowfooter",
+    "dd_lightbox_setting_footertext",
+    "dd_lightbox_ads_display_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:01.300Z"
+}

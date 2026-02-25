@@ -1,0 +1,15 @@
+{
+  "options": [
+    "nir_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nir_thumbnail_url",
+    "_nir_thumbnail_meta",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:19.715Z"
+}

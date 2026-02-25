@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cargo_tracking_for_woocommerce",
+    "cargo_tracking_for_woocommerce_emailCheck",
+    "cargo_tracking_for_woocommerce_emailHeading",
+    "cargo_tracking_for_woocommerce_emailSubject",
+    "cargo_tracking_for_woocommerce_emailDescription",
+    "cargo_tracking_for_woocommerce_emailTemplates",
+    "cargo_tracking_for_woocommerce_disablePluginStatus",
+    "cargo_tracking_for_woocommerce_deletePluginData"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cargo_tracking_for_woocommerce-data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:30.041Z"
+}

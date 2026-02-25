@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wc_shiip_user",
+    "wc_shiip_settings_originLocation",
+    "wc_shiip_settings_contactnumber",
+    "wc_shiip_settings_email",
+    "wc_shiip_user_token",
+    "wc_shiip_user_name",
+    "wc_shiip_settings_password",
+    "wc_shiip_exchangerate_usd",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:06.207Z"
+}

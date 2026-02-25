@@ -1,0 +1,32 @@
+{
+  "options": [
+    "rtfm_ny_2025",
+    "rtfm_spare_me",
+    "rtfm_plugin_activation_time",
+    "rtfm_remind_me",
+    "rtfm_rated",
+    "rtfm_activation_redirect",
+    "tlp-food-menu-installed-version",
+    "tlp_fm_m_3_0",
+    "woocommerce_currency_pos",
+    "woocommerce_tax_total_display",
+    "woocommerce_hide_out_of_stock_items"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "fmp_source",
+    "_rtfm_last_active_tab",
+    "price",
+    "fmp_categories",
+    "_fmp_image_gallery",
+    "_stock_status",
+    "_wp_attachment_image_alt",
+    "fmp_cat_thumbnail_id",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:25.467Z"
+}

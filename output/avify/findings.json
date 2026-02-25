@@ -1,0 +1,14 @@
+{
+  "options": [
+    "avify-settings-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "avify_quote_id",
+    "avify_shop_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:24.945Z"
+}

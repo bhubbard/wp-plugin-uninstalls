@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_plugin_activation_errors",
+    "*db_version",
+    "*db_installed",
+    "*plug_was_used",
+    "*_full_installed",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wsbp_calc_products_points",
+    "wsbp_calc_users_balance",
+    "wsbp_do_users_actions"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:22.774Z"
+}

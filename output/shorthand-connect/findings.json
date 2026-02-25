@@ -1,0 +1,30 @@
+{
+  "options": [
+    "sh_v2_token",
+    "Activated_Shorthand",
+    "sh_media_cron_offload",
+    "sh_regex_list",
+    "sh_css",
+    "sh_permalink",
+    "sh_disable_acf"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sh_media_fetch"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "story_path",
+    "ERROR",
+    "media_status",
+    "story_body",
+    "story_head",
+    "story_diagnostic",
+    "story_id",
+    "abstract",
+    "no_update",
+    "extra_html"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:04.866Z"
+}

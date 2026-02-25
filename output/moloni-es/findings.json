@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_tax_based_on"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "moloniEsProductsSync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_moloni_file_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:23.074Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "installed_*",
+    "*_JS",
+    "*_CSS",
+    "CP_CFPP_LOAD_SCRIPTS",
+    "autoptimize_js_exclude",
+    "CP_CFWPP_CSS",
+    "CP_CFWPP_JS"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*",
+    "cpeople-captcha-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:01.307Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpuv_hide_plugin",
+    "wpuv_change_update_text",
+    "wpuv_change_updates_heading"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:48.949Z"
+}

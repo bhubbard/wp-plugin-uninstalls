@@ -1,0 +1,15 @@
+{
+  "options": [
+    "channelize_live_shopping",
+    "channelize_live_shopping_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "created_by_channelize_live_shopping"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:45.835Z"
+}

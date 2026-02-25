@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_show_block_name",
+    "_show_class_name",
+    "_lock_block_outline",
+    "_block_data_position",
+    "_enable_block_outline_padding",
+    "_enable_block_outline",
+    "_block_outline_color",
+    "_block_outline_style",
+    "_block_outline_opacity",
+    "_block_outline_padding"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:03.778Z"
+}

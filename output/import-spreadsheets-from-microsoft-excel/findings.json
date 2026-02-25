@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "ims-fme-ssc-admin-notice-disallowed-file-error",
+    "ims-fme-ssc-admin-notice-plug-error",
+    "ims-fme-ssc-admin-notice-zip-error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_custom_attachment",
+    "wp_custom_attachment_height",
+    "wp_custom_attachment_width",
+    "_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:19.734Z"
+}

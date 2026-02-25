@@ -1,0 +1,36 @@
+{
+  "options": [
+    "amdsp_auto_fix_backup_*",
+    "amdsp_auto_fixed_settings",
+    "amdsp_auto_fix_type",
+    "amdsp_settings",
+    "amdsp_wc_fields",
+    "amdsp_shipping_rules",
+    "amdsp_auth_token",
+    "amdsp_user_data",
+    "amdsp_token_expires_at",
+    "amdsp_refresh_token",
+    "amdsp_auth_mobile",
+    "amdsp_block_other_city_scripts",
+    "amdsp_version",
+    "amdsp_install_cities",
+    "amdsp_*",
+    "woocommerce_dimension_unit",
+    "amdsp_delete_data_on_uninstall",
+    "amd_version",
+    "amdsp_wizard_completed",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [
+    "amdsp_admin_installing",
+    "amdsp_shipping_method_check",
+    "amdsp_provinces",
+    "amdsp_cities",
+    "amdsp_admin_updating"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:55.208Z"
+}

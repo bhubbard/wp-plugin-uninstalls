@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ms_twwall_plugin_general_settings",
+    "ms_twwall_plugin_postlayout_settings",
+    "ms_twwall_plugin_color_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:44.278Z"
+}

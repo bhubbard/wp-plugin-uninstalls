@@ -1,0 +1,19 @@
+{
+  "options": [
+    "fswa_db_version",
+    "fswa_log_retention_days",
+    "fswa_archive_logs",
+    "fswa_archived_stats"
+  ],
+  "transients": [
+    "fswa_migration_notice"
+  ],
+  "cron_jobs": [
+    "fswa_cleanup_logs",
+    "fswa_process_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:10.460Z"
+}

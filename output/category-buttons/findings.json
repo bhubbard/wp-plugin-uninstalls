@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cb_basic_settings",
+    "cb_style_settings",
+    "woocommerce_category_buttons_option_name",
+    "ryvenia_style_settings_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:25.156Z"
+}

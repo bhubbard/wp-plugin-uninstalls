@@ -1,0 +1,34 @@
+{
+  "options": [
+    "festival_banner_version",
+    "festival_banner_options",
+    "festival_banner_deactivated_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fb_position",
+    "_fb_is_recurring",
+    "_fb_end_date",
+    "_fb_start_date",
+    "_fb_display_type",
+    "_fb_specific_pages",
+    "_fb_is_dismissible",
+    "_fb_content",
+    "_fb_cta_text",
+    "_fb_cta_url",
+    "_fb_cta_new_tab",
+    "_fb_floating_position",
+    "_fb_side_position",
+    "_fb_modal_delay",
+    "_fb_recurring_year",
+    "_fb_bg_color",
+    "_fb_text_color",
+    "_fb_cta_bg_color",
+    "_fb_cta_text_color",
+    "_fb_animation"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:59.877Z"
+}

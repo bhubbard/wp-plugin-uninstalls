@@ -1,0 +1,20 @@
+{
+  "options": [
+    "installed_*",
+    "*_JS",
+    "*_CSS",
+    "CP_CFPP_LOAD_SCRIPTS",
+    "CP_CFPP_LOAD_SCRIPTS_ADMIN",
+    "autoptimize_js_exclude",
+    "CP_PPPRO_JS",
+    "CP_PPPRO_CSS"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:00.240Z"
+}

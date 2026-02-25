@@ -1,0 +1,18 @@
+{
+  "options": [
+    "doosearchas_search_main_options",
+    "doosearchas_search_style_options",
+    "doosearchas_search_upgrade_options",
+    "doosearchas_search_filter_options",
+    "doosearchas_search_product_options",
+    "doosearchas_search_additional_options",
+    "rewrite_rules",
+    "woocommerce_placeholder_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:59.576Z"
+}

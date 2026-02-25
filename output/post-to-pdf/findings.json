@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gmptpkey",
+    "_gmptp_exclude_post_option",
+    "_gmptp_exclude_term_option"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:27.885Z"
+}

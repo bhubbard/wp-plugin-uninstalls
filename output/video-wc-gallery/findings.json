@@ -1,0 +1,33 @@
+{
+  "options": [
+    "vwg_settings_group",
+    "vwg_uninstall_settings_group",
+    "vwg_settings_icon",
+    "vwg_settings_custom_svg_icon",
+    "vwg_settings_icon_color",
+    "vwg_settings_video_controls",
+    "vwg_settings_loop",
+    "vwg_settings_muted",
+    "vwg_settings_autoplay",
+    "vwg_settings_show_first",
+    "vwg_settings_video_adapt_sizes",
+    "vwg_settings_optimized_thumbnails",
+    "vwg_settings_convert_on_upload",
+    "vwg_settings_remove_settings_data",
+    "vwg_settings_remove_videos_data",
+    "vwg_pro_settings",
+    "vwg_monthly_notice_dismissed",
+    "abl_vwg_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vwg_monthly_admin_notice"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "vwg_video_url",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:01.604Z"
+}

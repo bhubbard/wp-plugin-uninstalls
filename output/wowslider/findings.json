@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wowslider_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wowslider_last_view",
+    "wp_wowslider_sliders_per_page",
+    "managewowslider_sliderscolumnshidden"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:56.751Z"
+}

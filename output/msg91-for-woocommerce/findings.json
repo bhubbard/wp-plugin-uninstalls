@@ -1,0 +1,20 @@
+{
+  "options": [
+    "admin_mobile",
+    "msg91_woocommerce_user_info_filled",
+    "msg91_woocommerce_verify",
+    "msg91_woocommerce_settings"
+  ],
+  "transients": [
+    "msg91_otp_retry_*"
+  ],
+  "cron_jobs": [
+    "msg91_cleanup_logs",
+    "msg91_woocommerce_delete_error_logs_file_event",
+    "msg91_woocommerce_check_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:12.922Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bp_system_report_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bp_system_report_pseudo_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:04.955Z"
+}

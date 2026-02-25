@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "easyVerein_member_sync_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "easyVereinId",
+    "billing_address_1",
+    "billing_city",
+    "billing_postcode",
+    "billing_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:11.176Z"
+}

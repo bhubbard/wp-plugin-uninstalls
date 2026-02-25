@@ -1,0 +1,17 @@
+{
+  "options": [
+    "trustindex-wc-notification",
+    "litespeed.conf.optm-localize_domains",
+    "*-rate-us",
+    "*-review-download-notification-email",
+    "trustindex-core-shortcode-inited",
+    "ti-online-users-*",
+    "*-widget-setted-up"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:58.299Z"
+}

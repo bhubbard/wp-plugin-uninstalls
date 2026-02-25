@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp404arsp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp404arsp_no_redirect"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:49.019Z"
+}

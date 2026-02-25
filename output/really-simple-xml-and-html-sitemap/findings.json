@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rsxh-exclude-post-type",
+    "rsxh-exclude-pages",
+    "rsxh-exclude-pcpt-posts",
+    "rsxh-include-search-option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sitemap_in_schedule_interval"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:59.407Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "gutenverse-global-variable-font-*",
+    "gtb_active_theme_id",
+    "gutenverse-license",
+    "gtb_plugin_notice_flag",
+    "gutenverse-companion-imported-options",
+    "gtb_theme_info_altered_3",
+    "gutenverse-global-color-import-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pattern_category",
+    "_pattern_theme_id",
+    "_pattern_sync",
+    "_wp_page_template",
+    "_gtb_page_preview",
+    "_gtb_page_image",
+    "_gtb_page_is_homepage",
+    "_gtb_page_order",
+    "_wp_attached_file",
+    "_import_source",
+    "_gtb_page_theme_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:25.176Z"
+}

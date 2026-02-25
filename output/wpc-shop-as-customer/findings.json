@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpcsa_settings",
+    "wpcsa_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcsa_id",
+    "wpcsa_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:40.308Z"
+}

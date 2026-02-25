@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pp_gapikey",
+    "pp_skip_google",
+    "pp_events_display_image",
+    "pp_events_tab_position",
+    "pp_events_required"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "event-date",
+    "event-time",
+    "event-url",
+    "event-address",
+    "event-latlng",
+    "event-unix"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:47.312Z"
+}

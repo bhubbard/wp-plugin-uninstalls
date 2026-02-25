@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*-settings",
+    "lead2team-settings",
+    "lead2team-all-filters"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lead2team-settings",
+    "lead2team-filter",
+    "*-widget-hide",
+    "*-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:40.345Z"
+}

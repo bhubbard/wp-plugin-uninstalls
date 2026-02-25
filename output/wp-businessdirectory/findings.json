@@ -1,0 +1,16 @@
+{
+  "options": [
+    "businessdirectory_admin_notices"
+  ],
+  "transients": [
+    "update_plugins",
+    "businessdirectory_installing"
+  ],
+  "cron_jobs": [
+    "businessdirectory_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:23.566Z"
+}

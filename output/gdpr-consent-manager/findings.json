@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gdprconsentmanager_api_status",
+    "gdprconsentmanager_schedular_options",
+    "gdprconsentmanager_options",
+    " gdprconsentmanager_cookie_widget_options",
+    "gdprconsentmanager_website_connections_options",
+    "gdprconsentmanager_webupdate_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "trigger_per_day"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:38.279Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "resumecv_options",
+    "resumecv_award_options",
+    "resumecv_contact_options",
+    "resumecv_education_options",
+    "resumecv_experience_options",
+    "resumecv_hobby_options",
+    "resumecv_profile_options",
+    "resumecv_qualification_options",
+    "resumecv_reference_options",
+    "resumecv_service_options",
+    "resumecv_skillbar_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:32.444Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "alg_wc_more_sorting_enabled",
+    "woocommerce_version",
+    "*_reset",
+    "alg_wc_more_sorting_custom_meta_sorting_enabled",
+    "alg_wc_more_sorting_custom_meta_sorting_enabled_*",
+    "alg_wc_more_sorting_custom_meta_sorting_meta_key_*",
+    "alg_wc_more_sorting_custom_meta_sorting_param_*",
+    "alg_wc_more_sorting_custom_meta_sorting_order_*",
+    "alg_wc_more_sorting_custom_meta_sorting_title_*",
+    "alg_wc_more_sorting_custom_meta_sorting_type_*",
+    "alg_wc_more_sorting_custom_meta_sorting_secondary_*",
+    "alg_wc_more_sorting_restore_wc_default_theme",
+    "alg_wc_more_sorting_restore_wc_default_enabled",
+    "alg_wc_more_sorting_custom_sorting_enabled",
+    "alg_wc_more_sorting_rearrange_enabled",
+    "woocommerce_default_catalog_orderby",
+    "alg_wc_more_sorting_rearrange_sorting",
+    "active_sitewide_plugins",
+    "alg_wc_more_sorting_version",
+    "alg_wc_more_sorting_rearrange"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:24.279Z"
+}

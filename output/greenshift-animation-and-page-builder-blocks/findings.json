@@ -1,0 +1,33 @@
+{
+  "options": [
+    "gspb_global_settings",
+    "gspb_block_js",
+    "gspb_edd_licenses",
+    "greenshift_global_classes",
+    "gspb_css_save",
+    "gspb_stylebook_id",
+    "greenshift_theme_options"
+  ],
+  "transients": [
+    "gspb-dynamic-icons-render",
+    "gs_countdown_sale*",
+    "gs_countdown_sale_hours*"
+  ],
+  "cron_jobs": [
+    "greenshift_check_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "email",
+    "name",
+    "_thumbnail_id",
+    "_product_image_gallery",
+    "thumbnail_id",
+    "_sale_price_dates_to",
+    "_sale_price_dates_from",
+    "_gspb_post_css",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:17.410Z"
+}

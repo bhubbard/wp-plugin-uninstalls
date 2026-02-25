@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ajaxhc_*",
+    "ajaxhc_use_rapid_incrementer",
+    "ajaxhc_dont_count_admins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hits"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:05.092Z"
+}

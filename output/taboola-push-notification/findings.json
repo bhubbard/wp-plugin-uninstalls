@@ -1,0 +1,33 @@
+{
+  "options": [
+    "taboola_recent_notifications",
+    "taboola_push_server_client_id",
+    "taboola_push_server_client_key",
+    "taboola_push_default_thumbnail",
+    "taboola_push_manual_title",
+    "taboola_push_manual_message",
+    "taboola_push_manual_url",
+    "taboola_push_manual_icon",
+    "taboola_push_manual_url_selector",
+    "taboola_epsilon_base_url_override",
+    "taboola_selected_theme"
+  ],
+  "transients": [
+    "taboola_test_notification",
+    "taboola_push_server_apps",
+    "taboola_push_server_health_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_taboola_push_app_id",
+    "_taboola_push_enabled",
+    "_taboola_push_customize",
+    "_taboola_push_title",
+    "_taboola_push_message",
+    "_taboola_push_icon",
+    "_taboola_push_auto_send"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:08.683Z"
+}

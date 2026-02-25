@@ -1,0 +1,26 @@
+{
+  "options": [
+    "seo_pyramid_schema_settings_option_name",
+    "seo_pyramid_option_name",
+    "media_selector_attachment_id",
+    "seo_pyramid_og_and_tc_option_name",
+    "seo_pyramid_sitemap_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "seo_pyramid_description",
+    "seo_pyramid_title",
+    "seo_pyramid_robots",
+    "seo_pyramid_redirect",
+    "seo_pyramid_redirect_switch",
+    "seo_pyramid_redirect_date",
+    "seo_pyramid_canonical",
+    "seo_pyramid_change_frequency",
+    "seo_pyramid_page_priority",
+    "seo_pyramid_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:18.960Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "hide_acf_notice",
+    "disable_shortcode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:18.847Z"
+}

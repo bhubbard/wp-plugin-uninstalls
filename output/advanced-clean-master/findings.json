@@ -1,0 +1,25 @@
+{
+  "options": [
+    "acmt_auto_backup_enabled",
+    "acmt_backup_retention_days",
+    "acmt_last_db_optimization",
+    "acmt_space_saved",
+    "acmt_last_cleanup_run",
+    "acmt_install_date",
+    "acmt_reminder_date",
+    "acmt_review_dismissed",
+    "acmt_clean_master_daily",
+    "acmt_clean_master_weekly"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "acmt_daily_event",
+    "acmt_weekly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:12.389Z"
+}

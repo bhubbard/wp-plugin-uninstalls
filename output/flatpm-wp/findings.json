@@ -1,0 +1,39 @@
+{
+  "options": [
+    "flat_plugin_options_me",
+    "flat_pm_main",
+    "flat_pm_personalization",
+    "flat_pm_default_selectors",
+    "flat_pm_pagespeed",
+    "flat_pm_unfold",
+    "flat_pm_header_footer",
+    "flat_pm_stylization",
+    "flat_pm_advanced",
+    "flat_pm_css",
+    "flat_pm_license",
+    "fpm_migrate_3_1_06"
+  ],
+  "transients": [
+    "tax_transient",
+    "license_transient",
+    "flat_get_news"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "content",
+    "html",
+    "user",
+    "view",
+    "order",
+    "abgroup",
+    "fast",
+    "turned",
+    "lazy",
+    "name",
+    "exclude_block_flat_pm",
+    "flat_pm_view"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:44.297Z"
+}

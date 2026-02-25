@@ -1,0 +1,15 @@
+{
+  "options": [
+    "xcart_image_box_size",
+    "xcart_store_url",
+    "xcart_template",
+    "xcart_sso_key",
+    "xcart_store_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:37.539Z"
+}

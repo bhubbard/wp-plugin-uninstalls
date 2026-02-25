@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "jhktmb_short_bio",
+    "jhktmb_job_title",
+    "jhktmb_email",
+    "jhktmb_phone",
+    "jhktmb_experience",
+    "jhktmb_vcard",
+    "jhktmb_fblink",
+    "jhktmb_instalink",
+    "jhktmb_lkdlink",
+    "jhktmb_twitlink",
+    "jhktmb_ytblink"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:16.952Z"
+}

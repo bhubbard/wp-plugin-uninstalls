@@ -1,0 +1,23 @@
+{
+  "options": [
+    "simpbeatfe_notice_id",
+    "*_status",
+    "*_current_edit",
+    "*_offset",
+    "default_product_cat",
+    "*_notice_id",
+    "simpbeatfe_current_edit",
+    "simpbeatfe_status",
+    "simpbeatfe_pr_offset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sale_price",
+    "_price",
+    "_regular_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:02.516Z"
+}

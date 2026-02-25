@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wt_sermonnet_playlists",
+    "wt_sermonnet_id",
+    "wt_sermonnet_num",
+    "wt_sermonnet_name"
+  ],
+  "transients": [
+    "wt_recent_sermonnets_all",
+    "wt_50_sermonnets_fulldata"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:28.887Z"
+}

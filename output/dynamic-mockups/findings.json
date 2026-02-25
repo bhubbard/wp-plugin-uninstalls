@@ -1,0 +1,37 @@
+{
+  "options": [
+    "dynamic_mockups_api_key",
+    "dynamic_mockups_editor_website_key",
+    "dynamic_mockups_onboarding_completed",
+    "dynamic_mockups_last_sync_datetime",
+    "dynamic_mockups_hide_product_personalization",
+    "dynamic_mockups_personalization_button_text",
+    "dynamic_mockups_enable_color_options",
+    "dynamic_mockups_one_color_per_smart_object",
+    "dynamic_mockups_show_color_picker",
+    "dynamic_mockups_show_color_presets",
+    "dynamic_mockups_show_transform_controls",
+    "dynamic_mockups_export_mockups_button_text"
+  ],
+  "transients": [
+    "dynamic_mockups_verify_and_sync",
+    "dynamic_mockups_auto_sync_status",
+    "dynamic_mockups_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dynamic_mockups_product_uuid",
+    "_dynamic_mockups_template_group_uuid",
+    "_dynamic_mockups_mockup_uuid",
+    "_dynamic_mockups_mockup_thumbnail",
+    "_dynamic_mockups_mockup_name",
+    "_dynamic_mockups_inputs",
+    "_dynamic_mockups_personalize_enabled",
+    "_product_image_gallery",
+    "_dynamic_mockups_custom_collection_id",
+    "_dynamic_mockups_personalization_template_group_uuid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:25.419Z"
+}

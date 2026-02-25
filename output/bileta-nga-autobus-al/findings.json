@@ -1,0 +1,14 @@
+{
+  "options": [
+    "autobusal_gjuha",
+    "autobusal_appid",
+    "autobusal_appsecret",
+    "autobusal_dsg_bgcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:46.475Z"
+}

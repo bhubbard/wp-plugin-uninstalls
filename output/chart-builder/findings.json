@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ays_chart_builder_upgrade_plugin",
+    "ays_chart_db_version"
+  ],
+  "transients": [
+    "*db_tables",
+    "*db_table_mapping"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cb_charts_per_page"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:19.350Z"
+}

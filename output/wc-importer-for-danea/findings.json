@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wcifd-suppliers-role",
+    "*-role"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name",
+    "billing_address_1",
+    "billing_city",
+    "billing_postcode",
+    "billing_state",
+    "billing_country",
+    "billing_phone",
+    "billing_email",
+    "wcifd_fiscal_code",
+    "wcifd_p_iva"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:40.284Z"
+}

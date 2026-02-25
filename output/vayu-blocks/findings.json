@@ -1,0 +1,31 @@
+{
+  "options": [
+    "vayu_blocks_settings",
+    "vayu_blocks_options",
+    "themehunk-settings",
+    "themehunk_recent_import_log_file",
+    "widget_*",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "vayu_remote_manifest"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vayu_source_url",
+    "_sale_price",
+    "_wp_attachment_image_alt",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:55.166Z"
+}

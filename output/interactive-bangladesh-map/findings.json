@@ -1,0 +1,14 @@
+{
+  "options": [
+    "freefreebangladeshhtml5map_nameFontSize",
+    "freefreebangladeshhtml5map_nameColor",
+    "freefreebangladeshhtml5map_map_data",
+    "freefreebangladeshhtml5map_state_info_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:34.504Z"
+}

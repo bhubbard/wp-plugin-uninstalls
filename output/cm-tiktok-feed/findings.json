@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "widget_wtiktok_feed",
+    "factory_plugin_versions",
+    "*_is_active"
+  ],
+  "transients": [
+    "wbcr_factory_google_fonts",
+    "wbcr_factory_google_fonts_raw"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:39.465Z"
+}

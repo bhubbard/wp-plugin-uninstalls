@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "about_author_box_twitter",
+    "about_author_box_facebook",
+    "about_author_box_instagram",
+    "about_author_box_behance",
+    "about_author_box_dribbble",
+    "about_author_box_vine",
+    "about_author_box_linkedin",
+    "about_author_box_pinterest"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:46.464Z"
+}

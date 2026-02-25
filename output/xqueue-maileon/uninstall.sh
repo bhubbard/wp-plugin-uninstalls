@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'adc_only_from_localhost'
+wp option delete 'adc_api_user'
+wp option delete 'adc_api_key'
+wp option delete 'adc_enabled'
+wp option delete 'API_KEY'
+wp option delete 'error_no_email'
+wp option delete 'captcha_enabled'
+wp option delete 'error_no_captcha'
+wp option delete 'maileon_recaptcha_enabled'
+wp option delete 'maileon_recaptcha_secret_key'
+wp option delete 'maileon_recaptcha_sensitivity'
+wp option delete 'maileon_debug'
+wp option delete 'error_invalid_captcha'
+wp option delete 'xq_maileon_footer_enabled'
+wp option delete 'footer_default_post_id'
+wp option delete 'success_update_message'
+wp option delete 'PAGE_UPDATE_OK'
+wp option delete 'PAGE_UPDATE_ERROR'
+wp option delete 'adc_email_field'
+wp option delete 'adc_input_delay'
+wp option delete 'maileon_recaptcha_site_key'
+wp option delete 'error_update_message'
+wp option delete 'success_message'
+wp option delete 'PAGE_OK'
+wp option delete 'PAGE_ERROR'
+wp option delete 'error_maileon'
+

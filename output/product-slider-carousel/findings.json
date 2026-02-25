@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_wpgpsc_option_settings"
+  ],
+  "transients": [
+    "_gpsc_safe_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpgpsc_errors_*",
+    "_wpgpsc_page_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:44.829Z"
+}

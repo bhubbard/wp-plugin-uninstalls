@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wprpi_version', 'wprpi_notice_dismiss', 'wprpi_link_color', 'wprpi_hover_color', 'wprpi_bg_color', 'wprpi_title_color', 'wprpi_font_size', 'wprpi_related_by_cat', 'wprpi_related_by_tag', 'wprpi_supported_cpt', 'wprpi_show_icon', 'wprpi_icon');
+

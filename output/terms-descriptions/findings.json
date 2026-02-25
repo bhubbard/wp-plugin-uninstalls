@@ -1,0 +1,20 @@
+{
+  "options": [
+    "td_options",
+    "td_db_version",
+    "td_terms",
+    "td_class",
+    "td_count",
+    "td_convert_only_single",
+    "td_target",
+    "test"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_disable_terms_descriptions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:05.486Z"
+}

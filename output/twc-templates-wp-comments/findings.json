@@ -1,0 +1,20 @@
+{
+  "options": [
+    "twc_option_butt",
+    "twc_option_img_cite",
+    "twc_option_show_cite",
+    "twc_option_butt_txt",
+    "twc_option_TXT_comm_h2",
+    "twc_option_TXT_comm_form_h2",
+    "twc_option_TXT_comm_no_comm",
+    "twc_option_TXT_comm_textarea",
+    "twc_option_TXT_comm_input1",
+    "twc_option_TXT_comm_input2"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:29.355Z"
+}

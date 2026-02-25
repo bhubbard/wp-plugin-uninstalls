@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpyelp_yelp_settings",
+    "wpyelp_hidden_reviews",
+    "wpyelp_options",
+    "wpfbr_options",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpyelp_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:35.028Z"
+}

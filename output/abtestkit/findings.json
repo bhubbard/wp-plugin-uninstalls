@@ -1,0 +1,25 @@
+{
+  "options": [
+    "abtestkit_onboarding_done",
+    "abtestkit_do_activation_redirect",
+    "abtestkit_fixed_version_b_titles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_abtestkit_shadow_of",
+    "_abtestkit_variants",
+    "_abtestkit_shadow",
+    "_sku",
+    "_sold_individually",
+    "_regular_price",
+    "_sale_price",
+    "_price",
+    "_thumbnail_id",
+    "_product_image_gallery",
+    "_abtestkit_rev"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:15.517Z"
+}

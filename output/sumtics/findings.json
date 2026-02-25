@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sumtics_settings",
+    "sumtics_version"
+  ],
+  "transients": [
+    "sumtics_active_tab_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ai_sum_length",
+    "_ai_sum_prompt",
+    "_ai_sum_enabled",
+    "_ai_sum_position_override"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:07.708Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "thumordoreact_label_text",
+    "thumordoreact_like_text",
+    "thumordoreact_dislike_text",
+    "thumordoreact_color",
+    "thumordoreact_thumb_size",
+    "thumordoreact_count_size",
+    "thumordoreact_vote_message_size",
+    "thumordoreact_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumordoreact_likes",
+    "_thumordoreact_dislikes",
+    "_thumordoreact_ip_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:25.742Z"
+}

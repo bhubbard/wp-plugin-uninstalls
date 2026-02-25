@@ -1,0 +1,29 @@
+{
+  "options": [
+    "melibuPlugin_get_syntaxhighlighter_shema",
+    "melibuPlugin_get_syntaxhighlighter_css",
+    "melibuPlugin_get_syntaxhighlighter_regexp",
+    "melibuPlugin_get_syntaxhighlighter_regexp_settings",
+    "melibuPlugin_get_syntaxhighlighter_options",
+    "melibuPlugin_get_syntaxhighlighter_colors",
+    "melibuPlugin_get_syntaxhighlighter_colors_activate",
+    "melibuPlugin_syntaxhighlighter_get_syntax_copy",
+    "melibu-plugin-syntax-version",
+    "melibu-plugin-syntax-db-version",
+    "melibu_plugin_get_syntaxhighlighter_regexp_setting",
+    "melibu-plugin-syntax-logo-get",
+    "melibu_syntax_post_type_*",
+    "melibuPlugin_get_syntaxhighlihter_shema",
+    "mb-author-box-get-setting-group"
+  ],
+  "transients": [
+    "melibu-plugin-syntax-page-activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "melibu_syntax_post_current"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:32.167Z"
+}

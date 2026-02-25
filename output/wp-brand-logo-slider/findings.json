@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpbls_border",
+    "wpbls_border_color",
+    "wpbls_border_radius",
+    "wpbls_order",
+    "wpbls_bg_color",
+    "wpbls_auto_play",
+    "wpbls_visible_items",
+    "wpbls_item_scrol",
+    "wpbls_puse_hover",
+    "wpbls_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:11.457Z"
+}

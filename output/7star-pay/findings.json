@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "starpay_giveaway_rate",
+    "starpay_tax_rate",
+    "starpay_locked_days",
+    "starpayOrderId"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:02.309Z"
+}

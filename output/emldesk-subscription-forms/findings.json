@@ -1,0 +1,11 @@
+{
+  "options": [
+    "widget_emldesk_subscriptionform_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:27.925Z"
+}

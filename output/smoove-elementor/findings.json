@@ -1,0 +1,17 @@
+{
+  "options": [
+    "smef_debug_log",
+    "smef_debug_mode",
+    "smef_api_key",
+    "smef_contact_unsubscribed_action",
+    "smef_contact_deleted_action"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smef_form_validation_results"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:44.324Z"
+}

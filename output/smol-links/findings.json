@@ -1,0 +1,18 @@
+{
+  "options": [
+    "smol_links_options"
+  ],
+  "transients": [
+    "smol_links_error",
+    "smol_links_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smol_links_long_url",
+    "smol_links_short_url",
+    "smol_links_short_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:33.950Z"
+}

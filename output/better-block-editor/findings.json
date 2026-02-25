@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*__enabled",
+    "wpbbe_playground_mode"
+  ],
+  "transients": [
+    "*_keep_content_notice",
+    "*_remove_content_notice",
+    "wpbbe_demo_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "_wp_attachment_image_alt",
+    "wp_persisted_preferences"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:21.020Z"
+}

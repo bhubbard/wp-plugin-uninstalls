@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dash_font_settings",
+    "site_font_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mwfc_pro_version_dismissed",
+    "mwfc_pro_version_2_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:37.886Z"
+}

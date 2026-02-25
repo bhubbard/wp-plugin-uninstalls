@@ -1,0 +1,17 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wedevs_pm_pro_activation_blocked', 'cpm_version', 'wedevs_pm_pro_deactivated_on_update', 'pm_start_migration', 'pm_db_migration', 'pm_observe_migration', 'pm_migration_notice', 'pm_task_migration', 'pm_db_version', 'cpm_db_version', 'pm_pages', 'cpm_general', 'cpm_mails', 'cpm_page', 'cpmwoo_settings', 'cpm_integration', 'pm_upgrade', 'cpm_invoice', 'pm_migration_notice_2_3', 'pm_db_migration_2_3', 'pm_total_queue_2_3', 'pm_queue_complete_2_3', 'pm_migration_start_2_3', 'pm_capabilities', 'update_role_project_table', 'update_role_project_capabilities', 'update_role_project_users', 'pm_version', 'pm_installed', 'pm_frontend_slug', 'pm_frontend_dashboard_title', 'imported_from_activecol', 'importing_from_activecol', 'imported_from_asana', 'importing_from_asana', 'imported_from_trello', 'importing_from_trello', '_pm_setup_page_redirect', 'pm_ai_models_cache', 'pm_ai_models_fetching');
+DELETE FROM wp_options WHERE option_name LIKE 'projectId_git_bit_hash_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_tracking_last_send';
+DELETE FROM wp_options WHERE option_name LIKE '%_tracking_skipped';
+DELETE FROM wp_options WHERE option_name LIKE '%_allow_tracking';
+DELETE FROM wp_options WHERE option_name LIKE '%_tracking_notice';
+DELETE FROM wp_options WHERE option_name LIKE '%_process_lock';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_cpm_email_notification', '_project_active', '_completed_on', '_due', '_completed', '_milestone_privac', '_milestone', '_message_privacy', '_files', '_tasklist_privacy', '_start', '_completed_by', '_task_privacy', '_assigned', 'client_id', 'due_date', 'discount', 'partial_payment', 'partial_amount', 'terms', 'statue', 'cpmi_payment', 'item', 'hour', '_settings', '_bp_group_id', '_custom_section', '_section_id', '_kanboard_order', '_link', 'pm_capability', 'github', 'bitbucket');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_cpm_email_notification', '_project_active', '_completed_on', '_due', '_completed', '_milestone_privac', '_milestone', '_message_privacy', '_files', '_tasklist_privacy', '_start', '_completed_by', '_task_privacy', '_assigned', 'client_id', 'due_date', 'discount', 'partial_payment', 'partial_amount', 'terms', 'statue', 'cpmi_payment', 'item', 'hour', '_settings', '_bp_group_id', '_custom_section', '_section_id', '_kanboard_order', '_link', 'pm_capability', 'github', 'bitbucket');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_cpm_email_notification', '_project_active', '_completed_on', '_due', '_completed', '_milestone_privac', '_milestone', '_message_privacy', '_files', '_tasklist_privacy', '_start', '_completed_by', '_task_privacy', '_assigned', 'client_id', 'due_date', 'discount', 'partial_payment', 'partial_amount', 'terms', 'statue', 'cpmi_payment', 'item', 'hour', '_settings', '_bp_group_id', '_custom_section', '_section_id', '_kanboard_order', '_link', 'pm_capability', 'github', 'bitbucket');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_cpm_email_notification', '_project_active', '_completed_on', '_due', '_completed', '_milestone_privac', '_milestone', '_message_privacy', '_files', '_tasklist_privacy', '_start', '_completed_by', '_task_privacy', '_assigned', 'client_id', 'due_date', 'discount', 'partial_payment', 'partial_amount', 'terms', 'statue', 'cpmi_payment', 'item', 'hour', '_settings', '_bp_group_id', '_custom_section', '_section_id', '_kanboard_order', '_link', 'pm_capability', 'github', 'bitbucket');
+

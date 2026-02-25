@@ -1,0 +1,25 @@
+{
+  "options": [
+    "sdwoo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "customer_email",
+    "usage_limit",
+    "exclude_sale_items",
+    "date_expires",
+    "apply_before_tax",
+    "free_shipping",
+    "product_ids",
+    "exclude_product_ids",
+    "product_categories",
+    "exclude_product_categories"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:48.732Z"
+}

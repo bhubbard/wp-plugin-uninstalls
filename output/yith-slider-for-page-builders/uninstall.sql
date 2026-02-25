@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('yith_slider_control_heigth', 'single_slide_background_position', 'single_slide_background_repeat', 'single_slide_background_size', 'single_slide_background_color', 'yith_slider_control_slider_layout', 'yith_slider_control_container_max_width', 'yith_slider_control_animation_type', 'yith_slider_control_navigation_style', 'yith_slider_control_dots_navigation_style', 'yith_slider_control_autoplay', 'yith_slider_control_autoplay_timing', 'yith_slider_control_infinite_sliding', 'slide_order', 'parent_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('yith_slider_control_heigth', 'single_slide_background_position', 'single_slide_background_repeat', 'single_slide_background_size', 'single_slide_background_color', 'yith_slider_control_slider_layout', 'yith_slider_control_container_max_width', 'yith_slider_control_animation_type', 'yith_slider_control_navigation_style', 'yith_slider_control_dots_navigation_style', 'yith_slider_control_autoplay', 'yith_slider_control_autoplay_timing', 'yith_slider_control_infinite_sliding', 'slide_order', 'parent_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('yith_slider_control_heigth', 'single_slide_background_position', 'single_slide_background_repeat', 'single_slide_background_size', 'single_slide_background_color', 'yith_slider_control_slider_layout', 'yith_slider_control_container_max_width', 'yith_slider_control_animation_type', 'yith_slider_control_navigation_style', 'yith_slider_control_dots_navigation_style', 'yith_slider_control_autoplay', 'yith_slider_control_autoplay_timing', 'yith_slider_control_infinite_sliding', 'slide_order', 'parent_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('yith_slider_control_heigth', 'single_slide_background_position', 'single_slide_background_repeat', 'single_slide_background_size', 'single_slide_background_color', 'yith_slider_control_slider_layout', 'yith_slider_control_container_max_width', 'yith_slider_control_animation_type', 'yith_slider_control_navigation_style', 'yith_slider_control_dots_navigation_style', 'yith_slider_control_autoplay', 'yith_slider_control_autoplay_timing', 'yith_slider_control_infinite_sliding', 'slide_order', 'parent_id');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'yith_slider_metabox_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'yith_slider_metabox_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'yith_slider_metabox_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'yith_slider_metabox_%';
+

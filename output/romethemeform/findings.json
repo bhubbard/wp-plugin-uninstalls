@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rtform_form_entry_title",
+    "rtform_form_restricted",
+    "rtform_form_success_message",
+    "rtform_shortcode",
+    "rtform_email_confirmation",
+    "rtform_email_notification",
+    "rform-entri-data",
+    "rform-entri-form-id",
+    "rform-entri-referal",
+    "rform-hasbeen-rated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:53.665Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "blogroll_links_default_category_slug",
+    "blogroll_links_default_sort_by",
+    "blogroll_links_default_sort_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:20.277Z"
+}

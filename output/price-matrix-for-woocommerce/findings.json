@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_fields",
+    "bh_wppm_limit",
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [
+    "*_fields"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_is_price_matrix",
+    "_pm_variation_attributes",
+    "attribute_price_matrix",
+    "_stock_status",
+    "_pm_order_attributes",
+    "_regular_price",
+    "_sale_price",
+    "_price",
+    "_product_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:57.275Z"
+}

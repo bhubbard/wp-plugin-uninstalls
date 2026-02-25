@@ -1,0 +1,12 @@
+{
+  "options": [
+    "bp_member_profile_stats_displaycounts",
+    "bp_member_profile_stats_display_sidebarme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:08.952Z"
+}

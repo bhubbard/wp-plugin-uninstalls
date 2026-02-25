@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ewp_email_delay",
+    "woocommerce_email_base_color",
+    "ewp_max_hourly_emails",
+    "ewp_last_ran"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ewp_scheduler"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ewp_referral_session",
+    "_ewp_next_schedule",
+    "usage_limit",
+    "customer_email",
+    "date_expires"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:52.071Z"
+}

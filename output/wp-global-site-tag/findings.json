@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*-options"
+  ],
+  "transients": [
+    "wp_gst_updated",
+    "wp_gst_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:11.957Z"
+}

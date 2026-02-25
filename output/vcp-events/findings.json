@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vcp_info",
+    "vcp_color",
+    "vcp_comment_source_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:11.783Z"
+}

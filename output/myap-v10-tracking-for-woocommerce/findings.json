@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wcmyap_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user",
+    "_tmcartepo_data",
+    "_myap_order_affiliate_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:01.699Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "CPT_configured",
+    "cpto_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "upload_per_page",
+    "*_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:14.364Z"
+}

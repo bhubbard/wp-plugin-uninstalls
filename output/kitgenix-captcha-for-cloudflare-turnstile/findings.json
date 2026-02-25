@@ -1,0 +1,15 @@
+{
+  "options": [
+    "kitgenix_captcha_for_cloudflare_turnstile_metrics",
+    "kitgenix_captcha_for_cloudflare_turnstile_settings",
+    "kitgenix_turnstile_last_verify"
+  ],
+  "transients": [
+    "kitgenix_captcha_for_cloudflare_turnstile_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:57.368Z"
+}

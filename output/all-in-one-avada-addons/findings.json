@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "redux-framework-tracking",
+    "aio_avada",
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES",
+    "redux-framework_tracking_notice",
+    "*ense_key",
+    "*icense_status",
+    "redux_support_hash",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "auto_update_redux_google_fonts",
+    "*-transients"
+  ],
+  "transients": [
+    "activated_Redux",
+    "*-transient"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ignore_*",
+    "ignore_hints",
+    "_sale_price_dates_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:33.108Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "add_to_cart_external",
+    "add_to_cart_grouped",
+    "add_to_cart_simple",
+    "add_to_cart_variable",
+    "add_to_cart_bookable",
+    "add_to_cart_external_single",
+    "add_to_cart_grouped_single",
+    "add_to_cart_simple_single",
+    "add_to_cart_variable_single",
+    "add_to_cart_bookable_single",
+    "add_to_cart_button_text_settings"
+  ],
+  "transients": [
+    "add-to-cart-custom-text-activado"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:14.816Z"
+}

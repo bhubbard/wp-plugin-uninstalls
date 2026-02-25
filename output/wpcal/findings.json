@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpcal_features_last_checked",
+    "wpcal_db_version",
+    "wpcal_last_local_task_started_time",
+    "wpcal_install_version",
+    "wpcal_version",
+    "wpcal_last_validate_attempt",
+    "wpcal_setting_time_format",
+    "wpcal_setting_*",
+    "wpcal_first_activation_redirect",
+    "wpcal_setting_asset_preloading_is_enabled",
+    "wpcal_license_auth_info"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpcal_api_task_cron",
+    "wpcal_local_task_cron",
+    "wpcal_misc_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpcal_admin_notices",
+    "wpcal_admin_profile_settings",
+    "wpcal_admin_setting_*",
+    "wpcal_user_tz"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:56.556Z"
+}

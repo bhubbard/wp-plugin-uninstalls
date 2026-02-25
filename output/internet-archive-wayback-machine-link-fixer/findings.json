@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "iawmlf_archive_api_online",
+    "iawmlf_link_count",
+    "iawmlf_account_details",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:31.911Z"
+}

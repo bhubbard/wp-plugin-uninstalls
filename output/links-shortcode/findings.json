@@ -1,0 +1,20 @@
+{
+  "options": [
+    "linkssc_enable_links_manager",
+    "linkssc_default_css",
+    "linkssc_facebook",
+    "linkssc_fbcolors",
+    "linkssc_template",
+    "linkssc_template_b",
+    "linkssc_template_a",
+    "linkssc_orderby",
+    "linkssc_order",
+    "linkssc_howmany"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:24.571Z"
+}

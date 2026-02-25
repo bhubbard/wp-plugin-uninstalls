@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kit_pricing",
+    "_show_customer_saved_price",
+    "_kit_from_cat_product",
+    "_wckp_cat_ids",
+    "_wckp_product_ids",
+    "_min_kit_quantity",
+    "_max_kit_quantity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:53.288Z"
+}

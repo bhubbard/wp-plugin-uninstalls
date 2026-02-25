@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pwp_activation_run",
+    "pocket_wp_settings",
+    "pwp_settings",
+    "pwp_request_token",
+    "pwp_access_token",
+    "pwp_oauth_request"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:09.698Z"
+}

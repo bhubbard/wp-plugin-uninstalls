@@ -1,0 +1,13 @@
+{
+  "options": [
+    "is_ipg_mode_enabled",
+    "ipay_gw_sec",
+    "ipay_global_gw_wc_api_string"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:46.936Z"
+}

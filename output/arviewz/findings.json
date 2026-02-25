@@ -1,0 +1,18 @@
+{
+  "options": [
+    "arviewz_settings",
+    "arviewz_add_model_url_page",
+    "arviewz_3d_model_store_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "model_url",
+    "btn_url",
+    "embed_html",
+    "add_3d_model"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:07.767Z"
+}

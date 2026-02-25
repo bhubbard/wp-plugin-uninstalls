@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wb_cptb_default_tab_position",
+    "wb_cptb_hide_tab_heading",
+    "wb_cptb_global_tabs_behavior",
+    "wb_cptb_use_custom_the_content",
+    "wb_cptb_enable_default_tabs",
+    "wb_cptb_review_banner_state",
+    "wb_cptb_review_banner_remind_start",
+    "wb-cptb-feedback-submitted-at",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wb_tab_position",
+    "_wb_tab_nickname",
+    "_wb_tab_products",
+    "_wb_tab_slug",
+    "_wb_tab_products_slug"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:53.245Z"
+}

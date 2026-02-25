@@ -1,0 +1,16 @@
+{
+  "options": [
+    "weekgrfo_settings",
+    "weekgrfo_specific_settings",
+    "weekgrfo_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "weekgrfo_send_report_once",
+    "weekgrfo_send_report_specific_date"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:17.130Z"
+}

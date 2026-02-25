@@ -1,0 +1,14 @@
+{
+  "options": [
+    "puticoco_options",
+    "puticoco_flush_rewrites"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "article_code"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:02.028Z"
+}

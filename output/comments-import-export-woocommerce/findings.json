@@ -1,0 +1,23 @@
+{
+  "options": [
+    "cmt_ex_im_option",
+    "wcie_wt_plugin_reviewed",
+    "wbte_sc_hidden_promotion_banners",
+    "*_settings",
+    "hw_shipment_tracking_importer_ftp",
+    "wt_post_comment_alter_id",
+    "hw_prod_comment_csv_imp_exp_mapping",
+    "hw_prod_cmt_csv_imp_exp_mapping"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hw_cmt_csv_im_ex_auto_export_products",
+    "hw_cmt_csv_im_ex_auto_import_products"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:59.400Z"
+}

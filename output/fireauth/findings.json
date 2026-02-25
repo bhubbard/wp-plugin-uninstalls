@@ -1,0 +1,17 @@
+{
+  "options": [
+    "chk_facebook",
+    "chk_google",
+    "txt_firebase_config_json",
+    "txt_firebase_service_config_json"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "firebaseID",
+    "firebaseProfile"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:35.892Z"
+}

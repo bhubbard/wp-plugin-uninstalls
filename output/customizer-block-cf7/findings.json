@@ -1,0 +1,11 @@
+{
+  "options": [
+    "cfcf7_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:27.935Z"
+}

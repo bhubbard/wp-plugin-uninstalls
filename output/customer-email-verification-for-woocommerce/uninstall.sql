@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_myaccount_page_id', 'cev_skip_verification_for_selected_roles', 'cev_verification_popup_overlay_background_color', 'cev_button_color_widget_header', 'cev_button_text_color_widget_header', 'cev_button_text_size_widget_header', 'cev_widget_header_image_width', 'cev_button_text_header_font_size', 'wc_cev_pro_ignore_notice_2.6.8', 'cev_enable_email_verification', 'cev_email_for_verification', 'cev_email_for_verification_mode', 'cev_verification_header', 'cev_verification_message', 'cev_verification_code_expiration', 'cev_verification_email_subject', 'cev_verification_email_heading', 'cev_verification_email_body', 'cev_verification_success_message', 'cev_enter_account_after_registration', 'cev_resend_verification_email_message', 'cev_verified_user_message', 'cev_redirect_page_after_varification', 'cev_free_update_version', 'cev_verification_code_length', 'woocommerce_registration_generate_password', 'woocommerce_email_from_address', 'woocommerce_email_from_name', 'cev_verification_popup_background_color', 'cev_verification_widget_footer', 'cev_verification_image', 'cev_content_align', 'cev_settings_admin_notice_ignore');
+DELETE FROM wp_options WHERE option_name LIKE '%_usage_data_selector';
+DELETE FROM wp_options WHERE option_name LIKE '%_optin_email_notification';
+DELETE FROM wp_options WHERE option_name LIKE '%_enable_usage_data';
+DELETE FROM wp_options WHERE option_name LIKE '%_usage_tracker_last_send';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('customer_email_verified', 'customer_email_verification_code', 'cev_email_verification_pin', 'cev_user_resend_times');
+DELETE FROM wp_usermeta WHERE meta_key IN ('customer_email_verified', 'customer_email_verification_code', 'cev_email_verification_pin', 'cev_user_resend_times');
+DELETE FROM wp_termmeta WHERE meta_key IN ('customer_email_verified', 'customer_email_verification_code', 'cev_email_verification_pin', 'cev_user_resend_times');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('customer_email_verified', 'customer_email_verification_code', 'cev_email_verification_pin', 'cev_user_resend_times');
+

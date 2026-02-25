@@ -1,0 +1,28 @@
+{
+  "options": [
+    "registration",
+    "nscan_options",
+    "nfw_install",
+    "nfw_options",
+    "nfw_rules",
+    "nfw_tmp",
+    "nfw_checked"
+  ],
+  "transients": [
+    "nfw_fullwaf",
+    "nfw_dailyreport",
+    "nfw_fetchsecupdates",
+    "nfw_version_update",
+    "nfw_db_check"
+  ],
+  "cron_jobs": [
+    "nfscanevent",
+    "nfwgccron",
+    "nfsecupdates",
+    "nfdailyreport"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:30.607Z"
+}

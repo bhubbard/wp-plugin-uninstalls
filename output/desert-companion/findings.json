@@ -1,0 +1,26 @@
+{
+  "options": [
+    "item_details_page",
+    "desert_demo_installed",
+    "widget_*",
+    "sidebars_widgets",
+    "*_customizer_import",
+    "atua_media_id",
+    "widget_archives",
+    "widget_search",
+    "chromax_media_id",
+    "corpiva_media_id",
+    "cosmobit_media_id",
+    "softme_media_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:06.826Z"
+}

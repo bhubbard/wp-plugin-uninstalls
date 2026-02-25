@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_display_cart",
+    "woocommerce_currency_pos",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:51.517Z"
+}

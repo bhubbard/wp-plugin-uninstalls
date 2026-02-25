@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ayecode-ui-settings",
+    "blockstrap_recaptcha_keys",
+    "blockstrap_blocks_compatibility_notice",
+    "show_comments_cookies_opt_in",
+    "ayecode_connect_blog_token",
+    "aui_options",
+    "wp-font-awesome-settings",
+    "rgmk_google_map_api_key"
+  ],
+  "transients": [
+    "wp-font-awesome-settings-version"
+  ],
+  "cron_jobs": [
+    "geodir_plugin_background_installer"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bs_term_bg_color",
+    "_bs_term_text_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:29.735Z"
+}

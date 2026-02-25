@@ -1,0 +1,23 @@
+{
+  "options": [
+    "pdt_display_timer_enable_countdown_timer",
+    "pdt_display_timer_set_count_timer",
+    "pdt_display_timer_show_visited_post_num",
+    "pdt_display_timer_check_currentPage",
+    "pdt_display_timer_completion_code",
+    "pdt_display_timer_start_button",
+    "pdt_display_timer_view_number_post",
+    "pdt_display_timer_random_post",
+    "pdt_display_timer_post_urls",
+    "pdt_display_timer_multiple_tab",
+    "pdt_display_timer_delayed_timer"
+  ],
+  "transients": [
+    "*_hits"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:12.800Z"
+}

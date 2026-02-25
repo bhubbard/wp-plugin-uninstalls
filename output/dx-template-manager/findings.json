@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dxdt_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dxtemplate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:40.991Z"
+}

@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wpedpc_version",
+    "wpedpc_version_upgraded_from",
+    "wpedpc_notices",
+    "wpedpc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpedpc_func_event",
+    "wpedpc_cron_callback"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "logs",
+    "active",
+    "excluded_posts",
+    "wpedpc_limit",
+    "movetotrash",
+    "deletemedia",
+    "delimgcontent",
+    "period",
+    "schedule",
+    "minmax",
+    "titledel",
+    "contentdel",
+    "cpostypes",
+    "cposstatuses",
+    "excluded_ids",
+    "allcat",
+    "categories",
+    "doingcron"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:10.456Z"
+}

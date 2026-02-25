@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mcwp-notice",
+    "mcwp-top-notice"
+  ],
+  "transients": [
+    "mcwp-data-time",
+    "mcwp_version"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "crypto_speed",
+    "crypto_ticker",
+    "crypto_ticker_position"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:34.212Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "show_twitter_followers"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "stf_update_followers"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:41.555Z"
+}

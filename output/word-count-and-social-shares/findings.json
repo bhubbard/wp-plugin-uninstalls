@@ -1,0 +1,17 @@
+{
+  "options": [
+    "google_plus_api",
+    "social_shares_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "social_shares_cron_hook_5min",
+    "social_shares_cron_hook_20min",
+    "social_shares_cron_hook_1hour",
+    "social_shares_cron_hook_1week"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:31.599Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "default_product_cat",
+    "content-egg_*"
+  ],
+  "transients": [
+    "cegg_lock_*",
+    "cegg_prefill_batch_lock",
+    "cegg_autoimport_lock",
+    "cegg_product_import_batch_lock"
+  ],
+  "cron_jobs": [
+    "cegg_link_index_backfill_once",
+    "cegg_link_index_delete_module"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery",
+    "cegg_*",
+    "_cegg_import_unique_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:07.493Z"
+}

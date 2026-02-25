@@ -1,0 +1,13 @@
+{
+  "options": [
+    "voucherpress_data",
+    "voucherpress_version",
+    "* header"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:02.951Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_enable_checkout_login_reminder",
+    "bh_wp_autologin_urls_seconds_until_expiry",
+    "bh_wp_autologin_urls_klaviyo_private_key",
+    "bh_wp_autologin_urls_is_admin_enabled",
+    "bh_wp_autologin_urls_subject_filter_regex_dictionary",
+    "*-recent-error-data",
+    "*_log_level"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:02.460Z"
+}

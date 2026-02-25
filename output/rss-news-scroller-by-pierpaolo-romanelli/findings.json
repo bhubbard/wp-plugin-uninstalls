@@ -1,0 +1,20 @@
+{
+  "options": [
+    "npr_news_items",
+    "npr_rss_url",
+    "npr_speed",
+    "npr_pause",
+    "npr_direction",
+    "npr_autoplay",
+    "npr_opacity",
+    "npr_full3D",
+    "npr_title",
+    "npr_rss_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:23.295Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "recently_activated",
+    "wpforms_settings",
+    "wpcf7",
+    "pdf-forms-for-woocommerce-settings-pdf-ninja-api-key"
+  ],
+  "transients": [
+    "update_plugins",
+    "pdf_forms_for_wpforms_pdfninja_key_failure"
+  ],
+  "cron_jobs": [
+    "pdf_forms_for_wpforms_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "pdf-forms-for-wpforms-*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:21.214Z"
+}

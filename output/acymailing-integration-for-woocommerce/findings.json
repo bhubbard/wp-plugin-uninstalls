@@ -1,0 +1,29 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_subscription_price",
+    "discount_type",
+    "coupon_amount",
+    "expiry_date",
+    "date_expires",
+    "usage_limit",
+    "usage_limit_per_user",
+    "limit_usage_to_x_items",
+    "usage_count",
+    "minimum_amount",
+    "maximum_amount",
+    "free_shipping",
+    "exclude_sale_items",
+    "product_ids",
+    "exclude_product_ids",
+    "product_categories",
+    "exclude_product_categories",
+    "individual_use",
+    "customer_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:53.394Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "wbg_freeshipping_notice_dismiss"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:16.041Z"
+}

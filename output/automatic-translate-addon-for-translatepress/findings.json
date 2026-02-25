@@ -1,0 +1,30 @@
+{
+  "options": [
+    "tpa_feedback_opt_in",
+    "tpa-install-date",
+    "tpa_initial_save_version",
+    "cpt_dashboard_data",
+    "cpt_review_notice_dismissed",
+    "tpa_provider_yandex_enabled",
+    "tpa_provider_chrome_enabled",
+    "cpfm_opt_in_choice_cool_translations",
+    "trp_settings",
+    "tpa_chrome_ai_bypass_api_check",
+    "tpa_chrome_ai_bypass_secure_check",
+    "tpa_chrome_ai_bypass_browser_check",
+    "tpa_do_activation_redirect",
+    "tpa-v",
+    "tpa-type",
+    "tpa-installDate",
+    "tpa-ratingDiv",
+    "tpa_chrome_ai_bypass_security_check"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tpa_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:36.619Z"
+}

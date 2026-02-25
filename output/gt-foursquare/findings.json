@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wp_gt4sq_feed_url",
+    "wp_gt4sq_feed_count",
+    "wp_gt4sq_map_enable",
+    "wp_gt4sq_list_enable",
+    "wp_gt4sq_icon",
+    "wp_gt4sq_height",
+    "wp_gt4sq_width",
+    "wp_gt4sq_widget_map_enable",
+    "wp_gt4sq_widget_list_enable",
+    "wp_gt4sq_widget_title",
+    "wp_gt4sq_widget_width",
+    "wp_gt4sq_widget_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:48.615Z"
+}

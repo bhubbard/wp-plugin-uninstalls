@@ -1,0 +1,25 @@
+{
+  "options": [
+    "loginwp_from_ab_initio",
+    "loginwp_install_date",
+    "loginwp_free_license",
+    "rul_settings",
+    "rul_version",
+    "*user_roles",
+    "wo_dismiss_adnotice",
+    "loginwp_settings",
+    "loginwp_redirection_settings",
+    "loginwp_license_status",
+    "loginwp_license_expired_status",
+    "loginwp_license_key",
+    "pand-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "loginwp_first_time_login_flag"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:11.539Z"
+}

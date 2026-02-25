@@ -1,0 +1,151 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('wcpoa_admin_order_tab_name');
+delete_site_option('wcpoa_admin_order_tab_name');
+delete_option('wcpoa_bulk_attachment_data');
+delete_site_option('wcpoa_bulk_attachment_data');
+delete_option('wcpoa_where_hear_about_us');
+delete_site_option('wcpoa_where_hear_about_us');
+delete_option('wcpoa_data_submited_in_sendiblue');
+delete_site_option('wcpoa_data_submited_in_sendiblue');
+delete_option('wcpoa_product_tab_name');
+delete_site_option('wcpoa_product_tab_name');
+delete_option('wcpoa_order_tab_name');
+delete_site_option('wcpoa_order_tab_name');
+delete_option('wcpoa_expired_date_label');
+delete_site_option('wcpoa_expired_date_label');
+delete_option('wcpoa_default_tab_selected_flag');
+delete_site_option('wcpoa_default_tab_selected_flag');
+delete_option('wcpoa_show_attachment_size_flag');
+delete_site_option('wcpoa_show_attachment_size_flag');
+delete_option('wcpoa_attachments_show_in_email');
+delete_site_option('wcpoa_attachments_show_in_email');
+delete_option('wcpoa_att_download_restrict');
+delete_site_option('wcpoa_att_download_restrict');
+delete_option('wcpoa_att_btn_in_order_list');
+delete_site_option('wcpoa_att_btn_in_order_list');
+delete_option('wcpoa_att_in_my_acc');
+delete_site_option('wcpoa_att_in_my_acc');
+delete_option('wcpoa_att_in_thankyou');
+delete_site_option('wcpoa_att_in_thankyou');
+delete_option('attachment_custom_style');
+delete_site_option('attachment_custom_style');
+delete_option('wcpoa_product_download_type');
+delete_site_option('wcpoa_product_download_type');
+delete_option('wcpoa_is_viewable');
+delete_site_option('wcpoa_is_viewable');
+delete_option('fs_debug_mode');
+delete_site_option('fs_debug_mode');
+delete_option('_transient_timeout_fs_snooze_period');
+delete_site_option('_transient_timeout_fs_snooze_period');
+delete_option('_site_transient_timeout_fs_snooze_period');
+delete_site_option('_site_transient_timeout_fs_snooze_period');
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+delete_option('fs_storage_logger');
+delete_site_option('fs_storage_logger');
+delete_option('fs_active_plugins');
+delete_site_option('fs_active_plugins');
+delete_option('wcpoa_att_btn_position');
+delete_site_option('wcpoa_att_btn_position');
+delete_option('wcpoa_attachments_action_on_click');
+delete_site_option('wcpoa_attachments_action_on_click');
+delete_option('wcpoa_att_download_btn');
+delete_site_option('wcpoa_att_download_btn');
+delete_option('wcpoa_att_btn_in_order_down_tab');
+delete_site_option('wcpoa_att_btn_in_order_down_tab');
+delete_option('wcpoa_youtube_default_showcase_flag');
+delete_site_option('wcpoa_youtube_default_showcase_flag');
+delete_option('wcpoa_email_order_status');
+delete_site_option('wcpoa_email_order_status');
+delete_option('wcpoa_show_checkout_user_att_flag');
+delete_site_option('wcpoa_show_checkout_user_att_flag');
+delete_option('wcpoa_admin_order_attachments_title');
+delete_site_option('wcpoa_admin_order_attachments_title');
+delete_option('wcpoa_att_default_icons');
+delete_site_option('wcpoa_att_default_icons');
+
+// Delete Transients
+delete_transient('_welcome_screen_activation_redirect_data');
+delete_site_transient('_welcome_screen_activation_redirect_data');
+delete_transient('fs_snooze_period');
+delete_site_transient('fs_snooze_period');
+delete_transient('update_plugins');
+delete_site_transient('update_plugins');
+delete_transient('_fs_api_connection_retry_counter');
+delete_site_transient('_fs_api_connection_retry_counter');
+delete_transient('update_themes');
+delete_site_transient('update_themes');
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('fs_debug_turn_off_logging_hook');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_attachments_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_attachments_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_attachments_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_attachments_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_attachment_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_attachment_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_attachment_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_attachment_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_attach_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_attach_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_attach_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_attach_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_attachment_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_attachment_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_attachment_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_attachment_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_attachment_ext_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_attachment_ext_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_attachment_ext_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_attachment_ext_url' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_attachment_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_attachment_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_attachment_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_attachment_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_order_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_order_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_order_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_order_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_product_open_window_flag' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_product_open_window_flag' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_product_open_window_flag' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_product_open_window_flag' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_product_page_enable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_product_page_enable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_product_page_enable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_product_page_enable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_product_logged_in_flag' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_product_logged_in_flag' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_product_logged_in_flag' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_product_logged_in_flag' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_expired_date_enable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_expired_date_enable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_expired_date_enable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_expired_date_enable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_expired_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_expired_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_expired_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_expired_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wcpoa_checkout_attachment_ids' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wcpoa_checkout_attachment_ids' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wcpoa_checkout_attachment_ids' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wcpoa_checkout_attachment_ids' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wcpoa_order_attachments' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wcpoa_order_attachments' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wcpoa_order_attachments' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wcpoa_order_attachments' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wcpoa_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wcpoa_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wcpoa_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wcpoa_variation' ) );
+

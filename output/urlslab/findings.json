@@ -1,0 +1,27 @@
+{
+  "options": [
+    "urlslab-relres-def-img",
+    "urlslab"
+  ],
+  "transients": [
+    "urlslab_serp_queries_count",
+    "url_cache_*",
+    "urlslab_optimize_web_vitals_table",
+    "urlslab-rate-limit-*",
+    "urlslab-404-*"
+  ],
+  "cron_jobs": [
+    "urlslab_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_aioseop_description",
+    "rank_math_description",
+    "_description",
+    "description",
+    "excerpt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:48.357Z"
+}

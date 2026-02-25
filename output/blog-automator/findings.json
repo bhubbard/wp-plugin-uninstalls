@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aiauto_settings",
+    "aiauto_limit",
+    "aiauto_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aiauto_process_posts_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aiauto_generated",
+    "_aiauto_generated_date",
+    "_aiauto_generation_method"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:27.687Z"
+}

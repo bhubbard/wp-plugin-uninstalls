@@ -1,0 +1,18 @@
+{
+  "options": [
+    "shoutcast-icecast-html5-player-radiolink",
+    "shoutcast-icecast-html5-player-radiotype",
+    "shoutcast-icecast-html5-player-bcolor",
+    "shoutcast-icecast-html5-player-image",
+    "shoutcast-icecast-html5-player-facebook",
+    "shoutcast-icecast-html5-player-twitter",
+    "shoutcast-icecast-html5-player-title",
+    "shoutcast-icecast-html5-player-artist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:57.830Z"
+}

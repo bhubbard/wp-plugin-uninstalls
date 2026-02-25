@@ -1,0 +1,32 @@
+{
+  "options": [
+    "formgent_ai_created_form",
+    "_formgent_zohocrm_settings",
+    "formgent_lock_queue",
+    "formgent_lock_spreadsheet_header_process",
+    "formgent_activation_redirect",
+    "formgent_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_formgent_type",
+    "_response_table_names",
+    "formgent_form_fields_labels",
+    "_formgent_fields",
+    "_formgent_settings",
+    "_formgent_form_settings",
+    "_formgent_page_break_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:18.325Z"
+}

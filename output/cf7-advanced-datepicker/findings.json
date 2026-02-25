@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cf7dp_effect",
+    "cf7dp_show_week",
+    "cf7dp_monyearmenu",
+    "cf7dp_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:45.875Z"
+}

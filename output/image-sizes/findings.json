@@ -1,0 +1,56 @@
+{
+  "options": [
+    "thumbpress_notice_dismissed_week",
+    "thumbpress_notice_dismissed_*",
+    "thumbpress_settings_init",
+    "schema-ActionScheduler_StoreSchema",
+    "schema-ActionScheduler_LoggerSchema",
+    "thumbpress-year-end-dec-21_campaign_dismissed",
+    "image_sizes_year_notice",
+    "codexpert-blog-json",
+    "thumbpress_max_size_value",
+    "thumbpress_live_chat_enabled",
+    "thumbpress_modules",
+    "_image-sizes",
+    "medium_large_size_w",
+    "medium_large_size_h",
+    "*_dismissed",
+    "thumbpress_action_log",
+    "thumbpress_convert_img_val",
+    "thumbpress_convert_progress",
+    "thumbpress_convert_total_processd",
+    "thumbpress_convert_total_converted",
+    "thumbpress_now_convert_background_total_images",
+    "convert_last_completed_time",
+    "thumbpress_now_convert_total_image",
+    "image-sizes_setup_done",
+    "image_download_disable",
+    "thumbpress_regenerate_progress",
+    "thumbpress_regenerate_total_processed",
+    "thumbpress_regenerate_total_deleted",
+    "thumbpress_regenerate_total_created",
+    "thumbpress_regenerate_limit",
+    "thumbpress_regenerate_total_image",
+    "thumbpress_regenerate_last_schedule_time"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count",
+    "cx-plugin-info-*"
+  ],
+  "cron_jobs": [
+    "codexpert-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_attached_file",
+    "thumbpress_facebook_image",
+    "thumbpress_linkedin_image",
+    "thumbpress_twitter_image",
+    "thumbpress_pinterest_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:17.547Z"
+}

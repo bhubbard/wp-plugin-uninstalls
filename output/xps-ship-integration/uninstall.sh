@@ -1,0 +1,38 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_webship_api_key'
+wp option delete 'last_request_received_from_webship_timestamp'
+wp option delete 'woocommerce_weight_unit'
+wp option delete 'woocommerce_dimension_unit'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dismissed_webship-setup_notice'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dismissed_webship-setup_notice'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dismissed_webship-setup_notice'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dismissed_webship-setup_notice'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_shipping_postcode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_shipping_postcode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_shipping_postcode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_shipping_postcode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wc_shipment_tracking_items'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wc_shipment_tracking_items'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wc_shipment_tracking_items'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wc_shipment_tracking_items'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_webship_total_item_qty_already_shipped'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_webship_total_item_qty_already_shipped'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_webship_total_item_qty_already_shipped'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_webship_total_item_qty_already_shipped'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_tracking_provider'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_tracking_provider'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_tracking_provider'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_tracking_provider'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_tracking_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_tracking_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_tracking_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_tracking_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_date_shipped'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_date_shipped'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_date_shipped'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_date_shipped'"

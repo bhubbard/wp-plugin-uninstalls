@@ -1,0 +1,14 @@
+{
+  "options": [
+    "priconix_sync_api_key",
+    "priconix_sync_publishable_key",
+    "priconix_sync_success_url",
+    "priconix_sync_cancel_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:52.912Z"
+}

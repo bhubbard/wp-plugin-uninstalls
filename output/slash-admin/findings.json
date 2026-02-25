@@ -1,0 +1,18 @@
+{
+  "options": [
+    "slashadmin_options",
+    "downloaded_font_files"
+  ],
+  "transients": [
+    "users_status"
+  ],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "slash_accept"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:20.767Z"
+}

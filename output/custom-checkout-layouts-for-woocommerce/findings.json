@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_enable_order_comments",
+    "cclw_general_settings",
+    "woocommerce_ship_to_destination",
+    "woocommerce_tax_total_display",
+    "cclw_advance_settings",
+    "cclw_checkout_fields",
+    "cclw_pro_version",
+    "cclw_do_activation_redirect",
+    "woocommerce_cart_block_enabled",
+    "woocommerce_checkout_block_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:07.810Z"
+}

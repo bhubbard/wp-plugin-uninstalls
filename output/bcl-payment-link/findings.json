@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bcl_api_token",
+    "bcl_order_prefix",
+    "bcl_portal_key",
+    "bcl_payment_select"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bcl_check_payment_status"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:25.338Z"
+}

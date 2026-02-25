@@ -1,0 +1,29 @@
+{
+  "options": [
+    "cw_options",
+    "codeswholesale_params",
+    "_codeswholesale_auto_complete",
+    "_codeswholesale_notify_balance_value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "codeswholesale_email_heading",
+    "codeswholesale_email_subject",
+    "_codeswholesale_email_id",
+    "_stock",
+    "wp_user_level",
+    "_regular_price",
+    "_price",
+    "_stock_status",
+    "_product_attributes",
+    "_virtual",
+    "_manage_stock",
+    "_sku",
+    "_backorders",
+    "_product_image_gallery"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:12.856Z"
+}

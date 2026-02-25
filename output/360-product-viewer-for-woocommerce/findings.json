@@ -1,0 +1,20 @@
+{
+  "options": [
+    "showcursor",
+    "navigation",
+    "playspeed",
+    "framerate",
+    "enablespin",
+    "fullscreen",
+    "zoominout",
+    "drag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp360view_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:32.726Z"
+}

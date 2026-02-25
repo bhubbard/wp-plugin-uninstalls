@@ -1,0 +1,35 @@
+{
+  "options": [
+    "mrmrkdofa_cron_frequency",
+    "mrmrkdofa_sort_entries_by",
+    "mrmrkdofa_entries_limit",
+    "mrmrkdofa_show_post_type",
+    "mrmrkdofa_word_count",
+    "mrmrkdofa_site_description",
+    "mrmrkdofa_excluded_ids",
+    "mrmrkdofa_excluded_categories",
+    "mrmrkdofa_excluded_tags",
+    "mrmrkdofa_generate_md_html",
+    "mrmrkdofa_daily_time",
+    "mrmrkdofa_hourly_minute",
+    "mrmrkdofa_weekly_day",
+    "mrmrkdofa_weekly_time",
+    "mrmrkdofa_monthly_day",
+    "mrmrkdofa_monthly_time"
+  ],
+  "transients": [
+    "mrmrkdofa_md_html_removed",
+    "mrmrkdofa_md_*",
+    "mrmrkdofa_md_home"
+  ],
+  "cron_jobs": [
+    "mrmrkdofa_generate_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:21.749Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wcatalog_reviews_installed_on",
+    "wcatalog_total_open_count",
+    "wcf_enabled_plugin",
+    "wcf_hide_cart_button_single_product",
+    "wcf_hide_cart_button_all_product",
+    "wcf_hide_cart_checkout_page",
+    "wcf_show_more_info_button",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcatalog_reviews_dismissed_triggers",
+    "_wcatalog_reviews_last_dismissed",
+    "_wcatalog_reviews_already_did"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:52.355Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_spotlight_setting",
+    "woocommerce_currency",
+    "wp_spotlight_admin_notice",
+    "wp_spotlight_update_notice"
+  ],
+  "transients": [
+    "_wp_spotlight_setting_redirect_on_activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:53.114Z"
+}

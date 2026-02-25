@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lifterlms_set_version_option",
+    "lifterlms_copecart_disable_order_checkout",
+    "lifterlms_copecart_enabled",
+    "lifterlms_copecart_temp_pass_*",
+    "llms_copecart_lists"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "llms_user_trial",
+    "_copecart_meta_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:00.008Z"
+}

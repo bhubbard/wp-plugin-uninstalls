@@ -1,0 +1,61 @@
+{
+  "options": [
+    "wpwoof_feedlist_*",
+    "wpwoofeed_errors",
+    "mashsb_settings",
+    "woocommerce_calc_taxes",
+    "wpwoof-global-data",
+    "wpwoof-global-google-category",
+    "wpwoof_schedule",
+    "cron",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_default_country",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_display_suffix",
+    "woocommerce_price_num_decimals",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_manage_stock",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_based_on",
+    "*_ignore",
+    "*_notice_ignore",
+    "WPWOOF_DEBUG",
+    "wpwoof_message",
+    "wpwoof_permissions_role",
+    "wpwoof_notice_actions",
+    "pcbpys_license_status",
+    "WPWOOF_DB_VERSION"
+  ],
+  "transients": [
+    "products_meta_keys"
+  ],
+  "cron_jobs": [
+    "wpwoof_generate_feed",
+    "wpwoof_feed_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_woocommerce_wpwoof_data",
+    "_variation_description",
+    "mashsb_og_image",
+    "mashsb_pinterest_image",
+    "_sku",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "feed_google_category",
+    "_subscription_trial_length",
+    "_sale_price",
+    "_subscription_price",
+    "_subscription_sign_up_fee",
+    "woosvi_slug",
+    "wpfoof-exclude-product",
+    "wpwoofgoogle",
+    "*_id",
+    "wpwoof*",
+    "wpwoofextra",
+    "wpwoofadsensecustom"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:07.003Z"
+}

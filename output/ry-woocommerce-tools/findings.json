@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_email_footer_text",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ry_check_ntp_time"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:02.684Z"
+}

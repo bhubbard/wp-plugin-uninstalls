@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ls_cb_kurs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ls_cb_update_curse"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:48.791Z"
+}

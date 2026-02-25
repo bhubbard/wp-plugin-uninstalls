@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tj_member_avatar",
+    "tj_member_position",
+    "tj_member_twitter_url",
+    "tj_member_facebook_url",
+    "tj_member_googleplus_url",
+    "tj_member_linkedin_url",
+    "tj_member_pinterest_url",
+    "tj_member_dribbble_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:35.959Z"
+}

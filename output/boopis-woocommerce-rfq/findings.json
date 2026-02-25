@@ -1,0 +1,26 @@
+{
+  "options": [
+    "boopis_rfq_page_id",
+    "woocommerce_registration_generate_username",
+    "woocommerce_registration_generate_password",
+    "woocommerce_force_ssl_checkout",
+    "boopis_rfq_replace_price",
+    "boopis_rfq_quote_trigger",
+    "boopis_rfq_tag_trigger_value",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_email_footer_text",
+    "woocommerce_email_header_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_boopis_rfq_terms",
+    "_boopis_rfq_expiration_date",
+    "billing_*",
+    "_woocommerce_persistent_quote",
+    "_purchase_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:47.713Z"
+}

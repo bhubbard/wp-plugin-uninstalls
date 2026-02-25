@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ola_wccp_separator"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sale_price",
+    "_regular_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:03.772Z"
+}

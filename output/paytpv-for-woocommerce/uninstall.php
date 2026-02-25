@@ -1,0 +1,114 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('woocommerce_paytpv_settings');
+delete_site_option('woocommerce_paytpv_settings');
+delete_option('woocommerce_paycomet_bancontact_settings');
+delete_site_option('woocommerce_paycomet_bancontact_settings');
+delete_option('woocommerce_paycomet_bizum_settings');
+delete_site_option('woocommerce_paycomet_bizum_settings');
+delete_option('woocommerce_paycomet_eps_settings');
+delete_site_option('woocommerce_paycomet_eps_settings');
+delete_option('woocommerce_paycomet_giropay_settings');
+delete_site_option('woocommerce_paycomet_giropay_settings');
+delete_option('woocommerce_paycomet_ideal_settings');
+delete_site_option('woocommerce_paycomet_ideal_settings');
+delete_option('woocommerce_paycomet_instantcredit_settings');
+delete_site_option('woocommerce_paycomet_instantcredit_settings');
+delete_option('woocommerce_paycomet_klarna_settings');
+delete_site_option('woocommerce_paycomet_klarna_settings');
+delete_option('woocommerce_paycomet_klarnapayments_settings');
+delete_site_option('woocommerce_paycomet_klarnapayments_settings');
+delete_option('woocommerce_paycomet_mbway_settings');
+delete_site_option('woocommerce_paycomet_mbway_settings');
+delete_option('woocommerce_paycomet_multibanco_settings');
+delete_site_option('woocommerce_paycomet_multibanco_settings');
+delete_option('woocommerce_paycomet_mybank_settings');
+delete_site_option('woocommerce_paycomet_mybank_settings');
+delete_option('woocommerce_paycomet_paypal_settings');
+delete_site_option('woocommerce_paycomet_paypal_settings');
+delete_option('woocommerce_paycomet_paysafecard_settings');
+delete_site_option('woocommerce_paycomet_paysafecard_settings');
+delete_option('woocommerce_paycomet_paysera_settings');
+delete_site_option('woocommerce_paycomet_paysera_settings');
+delete_option('woocommerce_paycomet_postfinance_settings');
+delete_site_option('woocommerce_paycomet_postfinance_settings');
+delete_option('woocommerce_paycomet_przelewy_settings');
+delete_site_option('woocommerce_paycomet_przelewy_settings');
+delete_option('woocommerce_paycomet_qiwi_settings');
+delete_site_option('woocommerce_paycomet_qiwi_settings');
+delete_option('woocommerce_paycomet_skrill_settings');
+delete_site_option('woocommerce_paycomet_skrill_settings');
+delete_option('woocommerce_paycomet_trustly_settings');
+delete_site_option('woocommerce_paycomet_trustly_settings');
+delete_option('woocommerce_paycomet_waylet_settings');
+delete_site_option('woocommerce_paycomet_waylet_settings');
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+delete_option('woocommerce_paytpv_terminals');
+delete_site_option('woocommerce_paytpv_terminals');
+delete_option('woocommerce_myaccount_page_id');
+delete_site_option('woocommerce_myaccount_page_id');
+delete_option('paytpv');
+delete_site_option('paytpv');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'PayTPV_methodData' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'PayTPV_methodData' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'PayTPV_methodData' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'PayTPV_methodData' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'entityNumber' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'entityNumber' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'entityNumber' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'entityNumber' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'referenceNumber' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'referenceNumber' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'referenceNumber' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'referenceNumber' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ErrorID' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ErrorID' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ErrorID' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ErrorID' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'PayTPV_Referencia' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'PayTPV_Referencia' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'PayTPV_Referencia' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'PayTPV_Referencia' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'PayTPV_IdUser' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'PayTPV_IdUser' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'PayTPV_IdUser' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'PayTPV_IdUser' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'PayTPV_TokenUser' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'PayTPV_TokenUser' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'PayTPV_TokenUser' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'PayTPV_TokenUser' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'paytpv_savecard' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'paytpv_savecard' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'paytpv_savecard' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'paytpv_savecard' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'AuthCode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'AuthCode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'AuthCode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'AuthCode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'PayTPV_MethodName' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'PayTPV_MethodName' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'PayTPV_MethodName' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'PayTPV_MethodName' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_customer_ip_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_customer_ip_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_customer_ip_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_customer_ip_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'last_update' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'last_update' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'last_update' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'last_update' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_transaction_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_transaction_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_transaction_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_transaction_id' ) );
+

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "woocommerce_ebi_link_blocks_settings",
+    "vc_json_ebilink",
+    "config_installments_json_ebilink",
+    "site_key_ebilink",
+    "mid_ebilink",
+    "environment_dev_cyb_ebilink",
+    "jwt_ebilink",
+    "secret_key_ebilink",
+    "user_ebilink",
+    "password_ebilink",
+    "token_ebilink",
+    "name_enterprise_ebilink",
+    "currency_ebilink",
+    "activation_date_ebilink",
+    "creation_date_ebilink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ebi_pay_blocks_card_name",
+    "ebi_pay_blocks_card_number",
+    "ebi_pay_blocks_card_expiry",
+    "ebi_pay_blocks_card_cvc",
+    "ebi_pay_blocks_card_vcq",
+    "ebi_pay_blocks_autoincrement_to_use",
+    "etn_ticket_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:49.874Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wcbuynow-text",
+    "wcbuynow-inppage",
+    "wcbuynow-inshoppage",
+    "wcbuynow-spbeforeafter",
+    "wcbuynow-btncustomize",
+    "wcbuynow-btnradius",
+    "wcbuynow-primaryclr",
+    "wcbuynow-bgclr",
+    "wcbuynow-hoverclr",
+    "wcbuynow-bghoverclr",
+    "wcbuynow-btngap",
+    "wcbuynowbtn_plugin_do_activate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:34.650Z"
+}

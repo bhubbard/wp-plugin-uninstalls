@@ -1,0 +1,13 @@
+{
+  "options": [
+    "add_anchor_links_settings"
+  ],
+  "transients": [
+    "aal-admin-notice-activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:15.071Z"
+}

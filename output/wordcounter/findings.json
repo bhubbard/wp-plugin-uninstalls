@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wordcounter_counter_position",
+    "wordcounter_counter_show_word_count",
+    "wordcounter_counter_show_reading_time",
+    "wordcounter_counter_show_powered_by"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:52.859Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "WP_Admin_Page_Version-*",
+    "WP_Admin_Page_Settings-*",
+    "WP_Admin_Page_Plugin-*",
+    "WP_Admin_Page_Plugin*",
+    "*_",
+    "_check-variables_",
+    "QMCV_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:17.181Z"
+}

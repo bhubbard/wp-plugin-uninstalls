@@ -1,0 +1,18 @@
+{
+  "options": [
+    "automatic-product-categories-for-woocommerce",
+    "automatic-product-categories-for-woocommerce-backup",
+    "automatic-product-categories-for-woocommerce-backup-date",
+    "default_product_cat"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "penthouse_apc_daily_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "berrypress_page_automatic_product_categories_for_woocommerce_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:24.760Z"
+}

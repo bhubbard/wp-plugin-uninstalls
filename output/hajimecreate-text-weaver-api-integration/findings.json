@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hajimecreate_text_weaver_environment_settings",
+    "hajimecreate_text_weaver_config",
+    "hajimecreate_text_weaver_api_url",
+    "hajimecreate_text_weaver_default_cache_time",
+    "_transient_keys",
+    "hajimecreate_text_weaver_api_key",
+    "hajimecreate_text_weaver_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:33.166Z"
+}

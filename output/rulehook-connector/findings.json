@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_rulehook_settings",
+    "active_sitewide_plugins",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rulehook_sync_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:22.134Z"
+}

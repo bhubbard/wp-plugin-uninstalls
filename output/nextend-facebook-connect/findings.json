@@ -1,0 +1,25 @@
+{
+  "options": [
+    "nsl-version"
+  ],
+  "transients": [
+    "nsl_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nsl_newsletter_subscription",
+    "profile_photo",
+    "*user_avatar",
+    "nsl_user_avatar_md5",
+    "*_avatar",
+    "_wp_attachment_wp_user_avatar",
+    "billing_first_name",
+    "billing_last_name",
+    "timestamp",
+    "wcemailverified",
+    "fb_user_access_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:06.589Z"
+}

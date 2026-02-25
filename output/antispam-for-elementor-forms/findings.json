@@ -1,0 +1,16 @@
+{
+  "options": [
+    "asef_etag",
+    "asef_remote_block_list",
+    "asef_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "asef_cron",
+    "asef_cron_init"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:02.423Z"
+}

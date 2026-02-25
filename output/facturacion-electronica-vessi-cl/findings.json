@@ -1,0 +1,19 @@
+{
+  "options": [
+    "vfec_vessicl_auto_emitir",
+    "vfec_vessicl_access_key",
+    "vfec_vessicl_secret_key",
+    "vfec_vessicl_email_from",
+    "vfec_vessicl_rut_emisor",
+    "vfec_vessicl_api_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_facturacion_document_type_temp",
+    "woo_facturacion_document_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:43.622Z"
+}

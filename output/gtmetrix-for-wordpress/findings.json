@@ -1,0 +1,44 @@
+{
+  "options": [
+    "gfw_options"
+  ],
+  "transients": [
+    "admin_notice",
+    "credit_status",
+    "latest_news"
+  ],
+  "cron_jobs": [
+    "gfw_hourly_event",
+    "gfw_daily_event",
+    "gfw_weekly_event",
+    "gfw_monthly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gfw_last_report",
+    "gfw_last_report_id",
+    "gfw_event_error",
+    "gfw_status",
+    "gfw_url",
+    "gfw_label",
+    "gfw_location",
+    "gfw_adblock",
+    "gfw_recurrence",
+    "gfw_notifications",
+    "gfw_video",
+    "gfw_event_id",
+    "gtmetrix_test_id",
+    "page_load_time",
+    "fully_loaded_time",
+    "html_bytes",
+    "page_elements",
+    "report_url",
+    "html_load_time",
+    "page_bytes",
+    "pagespeed_score",
+    "yslow_score",
+    "gtmetrix_error"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:55.169Z"
+}

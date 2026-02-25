@@ -1,0 +1,22 @@
+{
+  "options": [
+    "almaweb_settings",
+    "almaweb_db_version",
+    "_transient_timeout_*"
+  ],
+  "transients": [
+    "almaweb_upgrade_error",
+    "almaweb_distinct_families",
+    "almaweb_visits_by_family_*",
+    "almaweb_top_referrers",
+    "almaweb_referrer_timeline",
+    "almaweb_referrer_insights_*"
+  ],
+  "cron_jobs": [
+    "almaweb_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:53.612Z"
+}

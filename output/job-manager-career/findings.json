@@ -1,0 +1,20 @@
+{
+  "options": [
+    "thjmf_htaccess_hash_key",
+    "current_theme"
+  ],
+  "transients": [
+    "thjmf_apply_now_submit"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thjm_post_custom_settings",
+    "featured_job",
+    "experience",
+    "expired_job",
+    "thjmf_deactivation_snooze"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:46.409Z"
+}

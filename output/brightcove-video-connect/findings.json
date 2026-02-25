@@ -1,0 +1,30 @@
+{
+  "options": [
+    "bc_transient_keys",
+    "brightcove_version",
+    "_brightcove_plugin_activated",
+    "bc_default_player_width",
+    "_brightcove_default_account",
+    "bc_sub_*",
+    "_brightcove_accounts",
+    "_brightcove_pending_videos",
+    "_bc_player_ids_*",
+    "_bc_player_default_*",
+    "_brightcove_salt"
+  ],
+  "transients": [
+    "bc_transient_version"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_brightcove_video_object",
+    "_brightcove_video_id",
+    "_brightcove_account_id",
+    "_brightcove_hash",
+    "_brightcove_transcoded",
+    "_brightcove_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:05.080Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_feedback_roadmap_general_settings"
+  ],
+  "transients": [
+    "roadmap_import_success"
+  ],
+  "cron_jobs": [
+    "rmpf_process_scheduled_status_changes"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:31.202Z"
+}

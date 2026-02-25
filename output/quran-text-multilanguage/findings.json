@@ -1,0 +1,32 @@
+{
+  "options": [
+    "quran_arabicfont",
+    "quran_wordspacing",
+    "quran_template",
+    "border_quran_color",
+    "quran_recitator",
+    "quran_languages",
+    "quran_changesuratxt",
+    "quran_changelangtxt",
+    "quran_changerecitatortxt",
+    "text_quran_title",
+    "background_quran_title",
+    "color_quran_number",
+    "background_quran_number",
+    "text_quran_trans",
+    "background_quran_trans",
+    "text_quran_arabic",
+    "background_quran_arabic",
+    "quran_custum_css",
+    "template_quran",
+    "verse_quran_number"
+  ],
+  "transients": [
+    "quran-options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:05.368Z"
+}

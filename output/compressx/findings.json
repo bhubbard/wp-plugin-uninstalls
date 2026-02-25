@@ -1,0 +1,53 @@
+{
+  "options": [
+    "compressx_general_settings",
+    "compressx_dissmiss_conflict_notice",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "medium_large_size_w",
+    "medium_large_size_h",
+    "compressx_quality",
+    "compressx_converter_method",
+    "compressx_output_format_webp",
+    "compressx_output_format_avif",
+    "compressx_auto_optimize",
+    "compressx_custom_includes",
+    "compressx_custom_image_opt_task",
+    "compressx_need_optimized_custom_images",
+    "compressx_image_opt_task",
+    "compressx_global_stats",
+    "compressx_media_excludes",
+    "compressx_hide_notice",
+    "compressx_need_optimized_images",
+    "compressx_rating_dismiss",
+    "compressx_show_review",
+    "compressx_hide_big_update",
+    "compressx_media_replace"
+  ],
+  "transients": [
+    "compressx_set_global_stats",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "compressx_purge_cache_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_wp_sellvia_attached_file",
+    "compressx_image_meta_status",
+    "compressx_image_meta_webp_converted",
+    "compressx_image_meta_avif_converted",
+    "compressx_image_meta_compressed",
+    "compressx_image_meta_og_file_size",
+    "compressx_image_meta_webp_converted_size",
+    "compressx_image_meta_avif_converted_size",
+    "compressx_image_meta_compressed_size",
+    "compressx_image_meta",
+    "compressx_image_progressing",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:13.972Z"
+}

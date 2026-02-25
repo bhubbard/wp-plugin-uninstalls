@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_default_country",
+    "_mp_store_identificator"
+  ],
+  "transients": [
+    "mp_credentials_expired_result"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:32.795Z"
+}

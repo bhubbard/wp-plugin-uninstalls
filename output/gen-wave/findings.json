@@ -1,0 +1,36 @@
+{
+  "options": [
+    "genwave_encryption_key",
+    "genwave_tables_installed",
+    "genwave_installation_date",
+    "genwave_admin_option",
+    "genwave_token_balance",
+    "genwave_rest_api_flushed_v2",
+    "genwave_mybusiness_settings",
+    "genwave_*",
+    "genwave_litellm_api_key",
+    "genwave_api_base_url",
+    "genwave_api_key",
+    "genwave_default_model",
+    "genwave_default_provider",
+    "genwave_rate_limit",
+    "genwave_license_key",
+    "genwave_db_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "update_core"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_short_description",
+    "_ai_generated",
+    "_ai_source_url",
+    "_ai_generated_date",
+    "_genwave_generation_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:57.984Z"
+}

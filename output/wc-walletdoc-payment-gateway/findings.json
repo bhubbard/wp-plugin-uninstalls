@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woocommerce_shop_page_id",
+    "woocommerce_bank2bank_settings",
+    "woocommerce_walletdoc_settings",
+    "woocommerce_checkout_page_id",
+    "WC_Walletdoc_version"
+  ],
+  "transients": [
+    "walletdoc_order_lock_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_subscription_trial_length",
+    "_subscription_price",
+    "_subscription_period",
+    "_subscription_period_interval",
+    "_subscription_sign_up_fee",
+    "_subscription_trial_period"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:20.356Z"
+}

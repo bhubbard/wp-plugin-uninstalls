@@ -1,0 +1,18 @@
+{
+  "options": [
+    "flickr_api_key",
+    "flickr_display",
+    "flickr_galleria_theme",
+    "flickr_machinetag",
+    "flickr_username",
+    "flickr_api_secret",
+    "flickr_api_cache_time",
+    "flickr_nsid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:33.013Z"
+}

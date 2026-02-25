@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'smartgeogmap_google_api_key'
+wp option delete 'smartgeogmap_coordinates_city_1'
+wp option delete 'smartgeogmap_coordinates_lat_long_1'
+wp option delete 'smartgeogmap_coordinates_city_2'
+wp option delete 'smartgeogmap_coordinates_lat_long_2'
+wp option delete 'smartgeogmap_coordinates_city_3'
+wp option delete 'smartgeogmap_coordinates_lat_long_3'
+wp option delete 'smartgeogmap_default_width'
+wp option delete 'smartgeogmap_map_type'
+wp option delete 'smartgeogmap_zoom'
+wp option delete 'smartgeogmap_javascript_tooltip'
+wp option delete 'smartgeogmap_snazzy_file'
+wp option delete 'smartgeogmap_geojson_files'
+wp option delete 'smartgeogmap_legend_toggle'
+wp option delete 'smartgeogmap_legend_position'
+wp option delete 'smartgeogmap_legend_image_1'
+wp option delete 'smartgeogmap_legend_label_1'
+wp option delete 'smartgeogmap_legend_image_2'
+wp option delete 'smartgeogmap_legend_label_2'
+wp option delete 'smartgeogmap_legend_image_3'
+wp option delete 'smartgeogmap_legend_label_3'
+wp option delete 'smartgeogmap_backward_compatibility'
+wp option delete 'smart_geo_gmap_opt_debug'
+wp option delete 'smartgeogmap_welcome_description'
+wp option delete 'smartgeogmap_welcome_how_to'
+wp option delete 'smartgeogmap_welcome_available_shortcodes'
+

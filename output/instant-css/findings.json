@@ -1,0 +1,17 @@
+{
+  "options": [
+    "icss_css",
+    "icss_version",
+    "icss_postcss",
+    "icss_lang",
+    "icss_theme",
+    "icss_preprocessor",
+    "icss_minify"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:15.255Z"
+}

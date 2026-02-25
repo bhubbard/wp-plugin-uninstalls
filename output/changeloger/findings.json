@@ -1,0 +1,35 @@
+{
+  "options": [
+    "*_disabled",
+    "changeloger_settings",
+    "cha_release_hub_map",
+    "csf_demo_mode",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "changeloger_rest_api_status",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "cha_daily_version_check",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cha_feedback_status",
+    "_cha_badge_slug",
+    "_badge_color",
+    "_badge_order",
+    "_cha_release_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:49.410Z"
+}

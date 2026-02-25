@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dms_multisite",
+    "dms_sorting",
+    "dms_placeholder",
+    "dms_select_name",
+    "dms_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:29.645Z"
+}

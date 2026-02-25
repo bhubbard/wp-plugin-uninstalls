@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpse_sdevseo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_su_title",
+    "sdevseo_title",
+    "_su_description",
+    "sdevseo_desc",
+    "_aioseop_title",
+    "_aioseop_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:54.621Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lotos_likes_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lotos_likes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:59.240Z"
+}

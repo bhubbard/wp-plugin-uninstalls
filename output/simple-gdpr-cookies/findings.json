@@ -1,0 +1,13 @@
+{
+  "options": [
+    "simple_gdpr_cookies_content_settings",
+    "simple_gdpr_cookies_modal_settings",
+    "simple_gdpr_cookies_cookie_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:52.376Z"
+}

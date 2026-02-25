@@ -1,0 +1,28 @@
+{
+  "options": [
+    "ycd_redirect",
+    "ycd-user-roles",
+    "ycd-delete-data",
+    "ycd-hide-coming-soon-menu",
+    "ycd-print-scripts-to-page",
+    "ycd-hide-editor-media-button",
+    "ycd-disable-google-fonts",
+    "YcdShowNextTime",
+    "YcdUsageDays",
+    "YcdDontShowReviewNotice",
+    "YcdInserted",
+    "ycdComingSoonSettings",
+    "woocommerce_cart_expires",
+    "YcdInstallDate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ycd_enable",
+    "ycd_options",
+    "ycd-display-settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:36.722Z"
+}

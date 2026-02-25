@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fatcloud_*",
+    "fatcloud_width",
+    "fatcloud_height",
+    "fatcloud_netlife_link",
+    "fatcloud_skin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:29.496Z"
+}

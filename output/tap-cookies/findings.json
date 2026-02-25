@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tap_cookies_list",
+    "tap_cookies_information_box_title",
+    "tap_cookies_information_box_text",
+    "tap_cookies_information_box_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:02.097Z"
+}

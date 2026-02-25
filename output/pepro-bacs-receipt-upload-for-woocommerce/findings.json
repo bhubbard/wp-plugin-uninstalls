@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_email_footer_text",
+    "peprobacsru_auto_change_status",
+    "peprobacsru_status_on_receipt_awaiting_upload",
+    "peprobacsru_status_on_receipt_awaiting_approval",
+    "peprobacsru_status_on_receipt_rejected",
+    "peprobacsru_status_on_receipt_approved",
+    "peprobacsru_html_before_form",
+    "peprobacsru_html_after_form",
+    "peprobacsru_use_secure_link",
+    "peprobacsru_redirect_after_upload",
+    "peprobacsru_allowed_gatewawys",
+    "peprobacsru_allowed_gateways",
+    "peprobacsru_allowed_file_types",
+    "peprobacsru_allowed_file_size",
+    "peprobacsru_show_on_statuses"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "receipt_upload_admin_note",
+    "_attached_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:52.024Z"
+}

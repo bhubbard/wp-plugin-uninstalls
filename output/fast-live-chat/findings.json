@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mlc_status",
+    "mcl_fb_user",
+    "mlc_float",
+    "mlc_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:06.684Z"
+}

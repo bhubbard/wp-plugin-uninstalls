@@ -1,0 +1,15 @@
+{
+  "options": [
+    "church_social_api_key",
+    "church_social_calendar_page_id",
+    "church_social_sermon_archive_page_id",
+    "church_social_theme",
+    "church_social_sermon_copyright_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:07.871Z"
+}

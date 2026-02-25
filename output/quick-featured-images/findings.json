@@ -1,0 +1,14 @@
+{
+  "options": [
+    "quick-featured-images-settings",
+    "quick-featured-images-defaults"
+  ],
+  "transients": [
+    "quick-featured-images"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:44.949Z"
+}

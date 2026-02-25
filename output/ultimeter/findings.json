@@ -1,0 +1,52 @@
+{
+  "options": [
+    "ultimeter_refresh_interval",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "csf_demo_mode"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ultimeter_meter_type",
+    "_ultimeter_currency",
+    "_ultimeter_language",
+    "_ultimeter_goal_amount",
+    "_ultimeter_goal_custom",
+    "_ultimeter_raised_amount",
+    "_ultimeter_raised_custom",
+    "_ultimeter_raised_percentage",
+    "_ultimeter_meter_color",
+    "_ultimeter_goal_format",
+    "_ultimeter_force_centering",
+    "ultimeter_alignment",
+    "_ultimeter_meter_outer_color",
+    "_ultimeter_meter_progress_color",
+    "_ultimeter_meter_goal_color",
+    "_ultimeter_meter_size",
+    "ultimeter_debug_mode",
+    "ultimeter_debug_quiet_mode",
+    "_ultimeter_woocommerce",
+    "_ultimeter_woo_goal",
+    "_ultimeter_ultwoo_time",
+    "_ultimeter_ultwoo_time_custom_range",
+    "_ultimeter_ultwoo_time_start_date",
+    "_ultimeter_ultwoo_time_end_date",
+    "_ultimeter_progressbar_goal_toggle",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:28.229Z"
+}

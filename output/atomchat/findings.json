@@ -1,0 +1,32 @@
+{
+  "options": [
+    "show_name_in_chat",
+    "show_docked_layout_on_all_pages",
+    "atomchat_show_friends",
+    "atomchat_bp_group_sync",
+    "atomchat_auth_key",
+    "atomchat_api_key",
+    "atomchat_enable_mycred",
+    "atomchat_*",
+    "atomchat_clientid",
+    "atomchatintialaccess",
+    "atomchat_license_key",
+    "inbox_sync",
+    "hide_bar"
+  ],
+  "transients": [
+    "messageCounter*",
+    "timer*"
+  ],
+  "cron_jobs": [
+    "atomchat_buddypress_groups_sync_scheduler",
+    "groups_group_create_complete"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:28.025Z"
+}

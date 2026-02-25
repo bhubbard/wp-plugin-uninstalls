@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "wc_count_comments"
+  ],
+  "cron_jobs": [
+    "wpbd_run_scheduled_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "delete_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:03.366Z"
+}

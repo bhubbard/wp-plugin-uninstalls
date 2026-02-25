@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpasfip_default_first_url",
+    "wpasfip_view_on_cat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:24.978Z"
+}

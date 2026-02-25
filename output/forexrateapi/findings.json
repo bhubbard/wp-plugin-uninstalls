@@ -1,0 +1,14 @@
+{
+  "options": [
+    "forexrateapi_api_key",
+    "forexrateapi_data_success",
+    "forexrateapi_data_none",
+    "forexrateapi_data_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:59.014Z"
+}

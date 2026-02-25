@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "csfpp_show_notice_now"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "csfpp_avatar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:25.655Z"
+}

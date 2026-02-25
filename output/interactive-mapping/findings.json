@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "marker_ID",
+    "map_latitude",
+    "map_longitude",
+    "map_zoom_level",
+    "marker_latitude",
+    "marker_longitude",
+    "marker_zoom_level",
+    "marker_label"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:50.838Z"
+}

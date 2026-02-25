@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ck_join_flow_membership_plan_*",
+    "ck_join_flow_webhook_uuid_*",
+    "ck_join_flow_webhook_url_*",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ck_join_block_gocardless_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:07.249Z"
+}

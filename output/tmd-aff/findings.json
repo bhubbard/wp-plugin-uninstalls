@@ -1,0 +1,23 @@
+{
+  "options": [
+    "TMD_Amazon_Access_Key",
+    "TMD_Amazon_Secret_Access_Key",
+    "TMD_Amazon_Associate_Tag",
+    "TMD_Button_Text",
+    "Tracking_ID"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Aff_active",
+    "TMD-rating",
+    "TMD-asin",
+    "TMD-reviews",
+    "TMD-price",
+    "TMD-images",
+    "TMD-time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:55.396Z"
+}

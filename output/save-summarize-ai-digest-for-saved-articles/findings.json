@@ -1,0 +1,19 @@
+{
+  "options": [
+    "saveamsu_saved_page_id",
+    "ss_saved_page_id",
+    "ss_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ss_weekly_digest_event",
+    "saveamsu_weekly_digest_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_saveamsu_enable_save",
+    "_ss_enable_save"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:04.170Z"
+}

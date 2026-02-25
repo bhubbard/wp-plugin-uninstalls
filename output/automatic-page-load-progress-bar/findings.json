@@ -1,0 +1,18 @@
+{
+  "options": [
+    "aplpb_option_checkbox_page",
+    "aplpb_option_checkbox_post",
+    "aplpb_option_checkbox_custom",
+    "aplpb_option_theme",
+    "aplpb_option_color",
+    "aplpb_option_query_desktop",
+    "aplpb_option_query_tablet",
+    "aplpb_option_query_mobile"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:31.134Z"
+}

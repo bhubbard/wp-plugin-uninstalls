@@ -1,0 +1,14 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "dkgfsib-free_version"
+  ],
+  "transients": [
+    "wpconnectgfsib_deactivated_notice_id"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:43.581Z"
+}

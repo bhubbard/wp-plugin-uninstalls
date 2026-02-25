@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ifst_group_name",
+    "_ifst_designation",
+    "_ifst_company",
+    "_ifst_company_url",
+    "_ifst_stars",
+    "_ifst_img_id",
+    "_ifst_company_logo_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:38.949Z"
+}

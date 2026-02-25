@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mksso_*",
+    "mksso_qq",
+    "mksso_dy",
+    "mksso_wx",
+    "mksso_wb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_avatar",
+    "*_openid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:41.435Z"
+}

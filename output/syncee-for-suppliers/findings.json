@@ -1,0 +1,15 @@
+{
+  "options": [
+    "syncee_access_token_supplier",
+    "syncee_user_token_supplier",
+    "data_to_syncee_installer_supplier",
+    "woocommerce_currency",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:07.109Z"
+}

@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Transients
+wp transient delete 'update_plugins'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp-vote-ballot_voters'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp-vote-ballot_voters'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp-vote-ballot_voters'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp-vote-ballot_voters'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'question_ballot_select'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'question_ballot_select'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'question_ballot_select'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'question_ballot_select'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_footer'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_footer'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_footer'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_footer'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_conditions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_conditions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_conditions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_conditions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_add_signature'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_add_signature'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_add_signature'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_add_signature'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_add_signature_text'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_add_signature_text'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_add_signature_text'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_add_signature_text'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'field_test_field'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'field_test_field'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'field_test_field'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'field_test_field'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_id'"

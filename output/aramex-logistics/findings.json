@@ -1,0 +1,26 @@
+{
+  "options": [
+    "aramex_loggedin_username",
+    "aramex_info_arx_encryption_key",
+    "aramex_info_arx_encryption_iv",
+    "aramex_stock_sync_done_*",
+    "aramex_api_urls"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aramex_importso_cron_hook",
+    "aramex_delete_orders_cron_hook",
+    "aramex_delete_log_cron_hook",
+    "aramex_status_sync_cron_hook",
+    "aramex_stock_sync_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_manage_stock",
+    "_stock",
+    "_stock_status",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:45.377Z"
+}

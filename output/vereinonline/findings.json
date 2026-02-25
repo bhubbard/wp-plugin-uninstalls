@@ -1,0 +1,17 @@
+{
+  "options": [
+    "vereinonline_setting_url",
+    "vereinonline_setting_usr",
+    "vereinonline_setting_pwd",
+    "vereinonline_setting_web",
+    "vereinonline_setting_ath",
+    "vereinonline_setting_scr",
+    "vereinonline_setting_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:54.202Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_acs-points-plugin_settings"
+  ],
+  "transients": [
+    "*-points"
+  ],
+  "cron_jobs": [
+    "*cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:25.093Z"
+}

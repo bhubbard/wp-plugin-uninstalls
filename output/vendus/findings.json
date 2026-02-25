@@ -1,0 +1,20 @@
+{
+  "options": [
+    "vendus_plugin_form_config_register",
+    "vendus_plugin_form_config_exemption",
+    "vendus_plugin_form_config_exemption_law",
+    "vendus_plugin_form_config_invoice_type",
+    "vendus_plugin_form_config_ignore_notes",
+    "vendus_plugin_config_api_key",
+    "vendus_plugin_form_config_ignore_check_completed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_nif",
+    "billing_nif"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:41.112Z"
+}

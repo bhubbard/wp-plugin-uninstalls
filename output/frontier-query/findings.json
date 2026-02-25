@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fq_show_msg",
+    "frontier_query_general_options"
+  ],
+  "transients": [
+    "*all-lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:48.178Z"
+}

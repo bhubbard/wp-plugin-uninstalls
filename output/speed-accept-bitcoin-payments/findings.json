@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_speed_payment_gateway_settings"
+  ],
+  "transients": [
+    "redirect_post_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sabp_order_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:04.360Z"
+}

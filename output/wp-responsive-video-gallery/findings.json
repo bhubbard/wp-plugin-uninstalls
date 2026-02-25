@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsvgallery_repeatable_fields",
+    "wpsvgallery_columns",
+    "wpsvgallery_bk_color",
+    "wpsvgallery_text_size",
+    "wpsvgallery_text_trans",
+    "wpsvgallery_text_style",
+    "wpsvgallery_text_color",
+    "wpsvgallery_overlay_color",
+    "wpsvgallery_grayscale",
+    "wpsvgallery_area_height",
+    "wpsvgallery_opc_color",
+    "wpsv_title_text_size",
+    "wpsvg_title_text_trans",
+    "wpsvg_title_text_style",
+    "wpsvg_title_alignment",
+    "wpsvg_title_text_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:15.501Z"
+}

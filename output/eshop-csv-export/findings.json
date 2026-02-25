@@ -1,0 +1,15 @@
+{
+  "options": [
+    "eshop_plugin_settings",
+    "_site_transient_update_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eshop_stock",
+    "_eshop_csv_exp_backup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:15.545Z"
+}

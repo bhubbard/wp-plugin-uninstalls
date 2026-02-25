@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'hybridai_registration_url'
+wp option delete 'hybridai_consent_mode'
+wp option delete 'hybridai_cmp_mode'
+wp option delete 'hybridai_custom_script'
+wp option delete 'hybridai_extended_page'
+wp option delete 'hybridai_color_scheme'
+wp option delete 'hybridai_custom_welcome_message'
+wp option delete 'hybridai_theme'
+wp option delete 'hybridai_border_radius'
+wp option delete 'hybridai_box_shadow'
+wp option delete 'hybridai_context_enabled'
+wp option delete 'hybridai_position'
+wp option delete 'hybridai_width'
+wp option delete 'hybridai_height'
+wp option delete 'hybridai_margin_x'
+wp option delete 'hybridai_margin_y'
+wp option delete 'hybridai_opacity'
+wp option delete 'hybridai_auto_open'
+wp option delete 'hybridai_custom_context'
+wp option delete 'hybridai_shared_secret'
+wp option delete 'hybridai_config_error'
+wp option delete 'hybridai_bot_id'
+wp option delete 'hybridai_bot_url'
+wp option delete 'hybridai_config_success'
+wp option delete 'hybridai_chatbot_id'
+wp option delete 'hybridai_extended_mode'
+

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "awsom_pixgallery_all_images_text",
+    "PixGallery",
+    "awsom_pixgallery_cache_created",
+    "awsom_pixgallery_default_gallery",
+    "awsom_pixgallery_defaultgallery_created",
+    "awsom_pixgallery_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:40.854Z"
+}

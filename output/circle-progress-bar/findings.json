@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*version",
+    "circle_progress_first_stoke_color",
+    "circle_progress_second_stoke_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_circle_percentage_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:16.116Z"
+}

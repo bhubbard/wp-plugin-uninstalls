@@ -1,0 +1,16 @@
+{
+  "options": [
+    "arty_3dmodelviewer_woocommerce_api",
+    "arty_3dmodelviewer_woocommerce_default_position",
+    "arty_3dmodelviewer_woocommerce_default_values",
+    "arty_3dmodelviewer_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "arty_viewer_iframe"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:14.941Z"
+}

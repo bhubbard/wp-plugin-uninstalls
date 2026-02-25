@@ -1,0 +1,25 @@
+{
+  "options": [
+    "yrm-read-more-*",
+    "yrm-hide-media-buttons",
+    "yrm-hide-google-fonts",
+    "yrm_redirect",
+    "yrm-user-roles",
+    "yrm-hid-find-and-replace-menu",
+    "yrm-hid-accordion-menu",
+    "EXPM_PREV_VERSION",
+    "EXPM_VERSION",
+    "YrmUsageDays",
+    "YrmInstallDate",
+    "YrmShowNextTime",
+    "yrm-delete-data",
+    "yrm-license-status-*",
+    "YrmDontShowReviewNotice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:45.563Z"
+}

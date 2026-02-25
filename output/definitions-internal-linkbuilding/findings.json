@@ -1,0 +1,22 @@
+{
+  "options": [
+    "rspdef_activation_time",
+    "rspdef_tour_shown_once",
+    "rspdef_tour_started",
+    "rspdef_review_notice_shown"
+  ],
+  "transients": [
+    "rspdef_definitions_count",
+    "rspdef_found_in_posts_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rspdef_sorted_metaboxes",
+    "definition_link_type",
+    "definition_disable_image",
+    "used_definitions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:46.424Z"
+}

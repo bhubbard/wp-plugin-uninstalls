@@ -1,0 +1,20 @@
+{
+  "options": [
+    "hookit_recommended_products_viewtitle",
+    "hookit_recommended_products_viewproducts",
+    "hookit_recommended_products_token",
+    "hookit_recommended_products_categories",
+    "hookit_recommended_products_sign",
+    "hookit_recommended_products_gender"
+  ],
+  "transients": [
+    "hookit_recommended_products_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hookit_recommended_products"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:27.134Z"
+}

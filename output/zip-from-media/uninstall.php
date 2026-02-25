@@ -1,0 +1,11 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('zipfrommedia_check_zip_generate');
+wp_clear_scheduled_hook('zipfrommedia_compress_hook');
+

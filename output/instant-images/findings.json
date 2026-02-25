@@ -1,0 +1,21 @@
+{
+  "options": [
+    "instant_img_settings_updated",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "instant_img_settings",
+    "instant_img_api_settings"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_instant_images_provider",
+    "_instant_images_original_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:12.977Z"
+}

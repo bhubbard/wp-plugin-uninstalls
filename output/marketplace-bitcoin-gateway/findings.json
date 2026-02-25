@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wcmp_payment_bitcoin_gateway_settings_name",
+    "WCMp_Bitcoin_Gateway_installed",
+    "wcmp_payment_settings_name",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "transaction_mode",
+    "_vendor_payment_mode",
+    "_vendor_bitoin_address",
+    "_commission_order_id",
+    "dc_pv_shipped"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:23.783Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "lma_settings",
+    "load_more_ajax_lite_installed",
+    "load_more_ajax_lite_version",
+    "lma_cache_warmed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lma_warm_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:45.486Z"
+}

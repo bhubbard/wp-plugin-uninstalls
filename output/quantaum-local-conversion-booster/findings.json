@@ -1,0 +1,18 @@
+{
+  "options": [
+    "qlcb_settings",
+    "qlcb_daily_counts",
+    "qlcb_page_counts",
+    "qlcb_variant_counts"
+  ],
+  "transients": [
+    "qlcb_do_activation_redirect"
+  ],
+  "cron_jobs": [
+    "qlcb_prune_counts_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:57.350Z"
+}

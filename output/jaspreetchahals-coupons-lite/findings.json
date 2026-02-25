@@ -1,0 +1,21 @@
+{
+  "options": [
+    "jcorgcr_default_height",
+    "jcorgcr_default_width",
+    "jcorgcr_default_theme_color",
+    "jcorgcr_default_notification_email",
+    "jcorgcr_default_failure_limit",
+    "jcorgcr_default_send_expiry_notification",
+    "jcorgcr_default_coupon_category",
+    "jcorgcr_obfuscate",
+    "disply_jcorgcr_url",
+    "jcorgcr_db_version",
+    "jcorgcr_intermediate_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:53.991Z"
+}

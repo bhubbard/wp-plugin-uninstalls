@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('twx_chat_options', 'twx_chat_site_crawler_running', 'twx_chat_server_token', 'twx_chat_client_timezone', 'twx_chat_db_timezone', 'auto_update_plugins', 'twx_chat_customer_plan', 'twx_chat_pending_language_files', 'twx_chat_plugin_ver', 'twx_chat_plugin_plan', 'twx_chat_customer_valid', 'twx_chat_customer_valid_message');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_yoast_wpseo_metadesc', 'keywords', '_wp_attachment_image_alt');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_yoast_wpseo_metadesc', 'keywords', '_wp_attachment_image_alt');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_yoast_wpseo_metadesc', 'keywords', '_wp_attachment_image_alt');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_yoast_wpseo_metadesc', 'keywords', '_wp_attachment_image_alt');
+

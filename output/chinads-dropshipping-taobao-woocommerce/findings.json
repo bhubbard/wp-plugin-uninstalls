@@ -1,0 +1,44 @@
+{
+  "options": [
+    "tbds_temp_api_credentials",
+    "tbds_migrated_to_new_table",
+    "tbds_params",
+    "tbds_deleted_old_posts_data",
+    "tbds_setup_wizard",
+    "default_product_cat",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "*_complete",
+    "*_process_lock",
+    "wc_featured_products",
+    "villatheme_call",
+    "villatheme_ads",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called"
+  ],
+  "cron_jobs": [
+    "publish_future_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_product_image_gallery",
+    "_tbds_migrated_to_new_table",
+    "_tbds_taobao_product_id",
+    "_tbds_taobao_product_host",
+    "_tbds_taobao_variation_id",
+    "_sku",
+    "_wp_page_template",
+    "_tbds_image_id",
+    "_tbds_taobao_host"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:40.968Z"
+}

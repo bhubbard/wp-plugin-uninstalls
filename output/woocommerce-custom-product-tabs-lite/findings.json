@@ -1,0 +1,12 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:25.991Z"
+}

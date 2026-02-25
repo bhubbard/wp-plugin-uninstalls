@@ -1,0 +1,18 @@
+{
+  "options": [
+    "alg_mowc_orders_queue",
+    "alg_mowc_pos_queue",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_order_total",
+    "_order_tax",
+    "_cart_discount",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:21.999Z"
+}

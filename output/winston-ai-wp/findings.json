@@ -1,0 +1,21 @@
+{
+  "options": [
+    "winston_api_token",
+    "winston_website_id",
+    "winston_is_premium",
+    "winston_cert_one",
+    "winston_cert_two",
+    "*-settings",
+    "recently_activated"
+  ],
+  "transients": [
+    "winston_ai_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:45.788Z"
+}

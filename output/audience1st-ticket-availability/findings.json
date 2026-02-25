@@ -1,0 +1,13 @@
+{
+  "options": [
+    "audience1st_ticket_rss_num_shows",
+    "audience1st_ticket_rss_version",
+    "audience1st_ticket_rss_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:32.712Z"
+}

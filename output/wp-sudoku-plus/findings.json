@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp-sudoku-data-count",
+    "wp-sudoku-rating-counts"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpsud_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:37.995Z"
+}

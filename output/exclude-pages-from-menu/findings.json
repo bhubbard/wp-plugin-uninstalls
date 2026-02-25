@@ -1,0 +1,14 @@
+{
+  "options": [
+    "exclude_pages_from_menu",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_epfm_meta_box_field"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:44.393Z"
+}

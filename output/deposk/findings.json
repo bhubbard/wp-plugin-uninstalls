@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_okto-depo-order",
+    "_okto-depo-address",
+    "_depo_pickup_from_address",
+    "_depo_18years_check",
+    "_depo_cod",
+    "_okto-depo-deliver-to-address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:02.719Z"
+}

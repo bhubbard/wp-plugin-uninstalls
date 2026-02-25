@@ -1,0 +1,18 @@
+{
+  "options": [
+    "themeidol_options",
+    "themeidol-recent-posts"
+  ],
+  "transients": [
+    "themeidol_pointers",
+    "themeidol-instagm-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "themeidol_tab_widget_ignore_notice",
+    "_themeidol_view_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:50.061Z"
+}

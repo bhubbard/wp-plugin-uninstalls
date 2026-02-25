@@ -1,0 +1,29 @@
+{
+  "options": [
+    "mobile_builder_license",
+    "mobile_builder_configs",
+    "woocommerce_currency",
+    "gmw_options",
+    "woocommerce_enable_guest_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcfmmp_profile_settings",
+    "product_attribute_color",
+    "product_attribute_image",
+    "_wcml_custom_prices_status",
+    "mbd_location",
+    "digt_countrycode",
+    "digits_phone_no",
+    "digits_phone",
+    "mbd_subscribe",
+    "mbd_login_method",
+    "mbd_avatar",
+    "thumbnail_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:16.092Z"
+}

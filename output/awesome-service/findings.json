@@ -1,0 +1,15 @@
+{
+  "options": [
+    "awesome_service_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "awesome_service_pl_ser_color",
+    "awesome_service_pl_icon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:01.693Z"
+}

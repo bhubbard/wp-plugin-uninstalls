@@ -1,0 +1,57 @@
+{
+  "options": [
+    "woocommerce_version",
+    "woocommerce_api_enabled",
+    "woocommerce_prices_include_tax",
+    "woocommerce_manage_stock",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_force_ssl_checkout",
+    "woocommerce_currency_pos",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_registration_generate_password"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [
+    "woocommerce_flush_rewrite_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "is_customer_note",
+    "rating",
+    "_wp_attachment_image_alt",
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "usage_limit_per_user",
+    "limit_usage_to_x_items",
+    "usage_count",
+    "expiry_date",
+    "date_expires",
+    "free_shipping",
+    "product_categories",
+    "exclude_product_categories",
+    "exclude_sale_items",
+    "minimum_amount",
+    "maximum_amount",
+    "customer_email",
+    "_payment_method",
+    "_payment_method_title",
+    "_order_currency",
+    "_customer_user",
+    "billing_*",
+    "shipping_*",
+    "_refund_amount",
+    "display_type",
+    "thumbnail_id",
+    "_is_vat_exempt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:18.026Z"
+}

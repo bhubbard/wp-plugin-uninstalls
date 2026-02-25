@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_wpas_global_options",
+    "EditorialRatingPRO_lic_Key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpas_errors_*",
+    "_wpas_er_options",
+    "_wpas_er_byproduct_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:51.792Z"
+}

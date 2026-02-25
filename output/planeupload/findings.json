@@ -1,0 +1,13 @@
+{
+  "options": [
+    "planeupload_enc_key",
+    "planeupload_options",
+    "planeupload_prototype"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:30.414Z"
+}

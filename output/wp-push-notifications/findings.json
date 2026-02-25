@@ -1,0 +1,21 @@
+{
+  "options": [
+    "offline_shell_files",
+    "offline_shell_enabled",
+    "offline_shell_debug",
+    "offline_shell_race_enabled",
+    "wppn_options_post_types",
+    "wppn_options_schedule",
+    "wppn_notification_title",
+    "wppn_notification_body",
+    "wppn_notification_icon",
+    "wppn_notification_link",
+    "wppn_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:30.660Z"
+}

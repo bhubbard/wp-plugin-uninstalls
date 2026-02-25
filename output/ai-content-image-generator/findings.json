@@ -1,0 +1,22 @@
+{
+  "options": [
+    "existing_api_model",
+    "existing_temperature",
+    "existing_max_tokens",
+    "existing_frequency_penalty",
+    "existing_presence_penalty",
+    "existing_api_n",
+    "api_script_key",
+    "existing_img_size",
+    "existing_num_images",
+    "api_opaigpt_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:57.694Z"
+}

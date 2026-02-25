@@ -1,0 +1,14 @@
+{
+  "options": [
+    "eventorganiservat_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eo_booking_vat_percent",
+    "_eo_booking_vat_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:38.139Z"
+}

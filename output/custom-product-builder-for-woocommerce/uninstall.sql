@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'enable_cpbwc', 'cpbwc_product_images', 'cpbwc_product_builders', 'cpbwc_textbox_font_family', 'cpbwc_font_family', 'cpbwc_textbox_font_size', 'cpbwc_font_size', 'cpbwc_textbox_shadow', 'cpbwc_shadow', 'cpbwc_textbox_uppercase', 'cpbwc_uppercase', 'cpbwc_activation_redirect', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+DELETE FROM wp_options WHERE option_name LIKE 'cpbwc_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_cpbwc_builder_type', 'cpbwc_builder_type', '_enable_cpbwc', '_cpbwc_product_images', '_cpbwc_product_builders', '_cpbwc_hide_merge_image', '_cpbwc_hide_draw', '_cpbwc_hide_preview', '_cpbwc_hide_add_template', '_cpbwc_hide_add_textbox', '_cpbwc_hide_download', '_cpbwc_hide_reset', 'enable_cpbwc', '_cpbwc_enabled', 'cpbwc_enabled', '_cpbwc_product_logo', 'cpbwc_product_logo');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_cpbwc_builder_type', 'cpbwc_builder_type', '_enable_cpbwc', '_cpbwc_product_images', '_cpbwc_product_builders', '_cpbwc_hide_merge_image', '_cpbwc_hide_draw', '_cpbwc_hide_preview', '_cpbwc_hide_add_template', '_cpbwc_hide_add_textbox', '_cpbwc_hide_download', '_cpbwc_hide_reset', 'enable_cpbwc', '_cpbwc_enabled', 'cpbwc_enabled', '_cpbwc_product_logo', 'cpbwc_product_logo');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_cpbwc_builder_type', 'cpbwc_builder_type', '_enable_cpbwc', '_cpbwc_product_images', '_cpbwc_product_builders', '_cpbwc_hide_merge_image', '_cpbwc_hide_draw', '_cpbwc_hide_preview', '_cpbwc_hide_add_template', '_cpbwc_hide_add_textbox', '_cpbwc_hide_download', '_cpbwc_hide_reset', 'enable_cpbwc', '_cpbwc_enabled', 'cpbwc_enabled', '_cpbwc_product_logo', 'cpbwc_product_logo');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_cpbwc_builder_type', 'cpbwc_builder_type', '_enable_cpbwc', '_cpbwc_product_images', '_cpbwc_product_builders', '_cpbwc_hide_merge_image', '_cpbwc_hide_draw', '_cpbwc_hide_preview', '_cpbwc_hide_add_template', '_cpbwc_hide_add_textbox', '_cpbwc_hide_download', '_cpbwc_hide_reset', 'enable_cpbwc', '_cpbwc_enabled', 'cpbwc_enabled', '_cpbwc_product_logo', 'cpbwc_product_logo');
+

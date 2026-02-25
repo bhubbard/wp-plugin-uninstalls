@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_debug",
+    "*_version",
+    "*_updates",
+    "*_settings",
+    "*_meta",
+    "recently_activated",
+    "*_msg",
+    "*_install_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_meta",
+    "vxc_hubspot_id",
+    "_raq_request"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:59.028Z"
+}

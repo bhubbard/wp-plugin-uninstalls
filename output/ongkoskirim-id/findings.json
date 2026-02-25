@@ -1,0 +1,41 @@
+{
+  "options": [
+    "woocommerce_ongkoskirim-id_settings",
+    "*version_type",
+    "*license_key",
+    "*license_status",
+    "*shipping_company_enabled",
+    "*store_city_id",
+    "*is_show_weight",
+    "*is_unique_code",
+    "*unique_code_length",
+    "*is_added_cost_enable",
+    "*added_cost",
+    "*default_weight",
+    "*weight_tolerance",
+    "woocommerce_weight_unit",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_country",
+    "billing_state",
+    "billing_city",
+    "billing_district",
+    "shipping_country",
+    "shipping_state",
+    "shipping_city",
+    "shipping_district",
+    "_shipping_city",
+    "_shipping_address_2",
+    "last_shipping",
+    "*_state",
+    "*_city",
+    "*_district",
+    "*_address_2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:02.458Z"
+}

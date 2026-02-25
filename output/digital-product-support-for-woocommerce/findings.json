@@ -1,0 +1,16 @@
+{
+  "options": [
+    "digital_product_support_for_woocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "support",
+    "_wcps_up_sell_product_field",
+    "support_price",
+    "_wcps_up_sell_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:44.855Z"
+}

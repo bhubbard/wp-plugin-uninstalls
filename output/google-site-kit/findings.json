@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_google_analytics_settings",
+    "auto_update_plugins",
+    "gla_ads_conversion_action",
+    "gla_ads_id",
+    "woocommerce_enable_myaccount_registration"
+  ],
+  "transients": [
+    "googlesitekit_*",
+    "update_plugins",
+    "googlesitekit_setup_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:26:02.424Z"
+}

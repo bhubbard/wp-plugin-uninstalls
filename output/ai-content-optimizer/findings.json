@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ai_optimizer_api_key",
+    "ai_optimizer_endpoint",
+    "ai_optimizer_model",
+    "ai_optimizer_temperature",
+    "ai_optimizer_max_tokens",
+    "ai_optimizer_system_message",
+    "ai_optimizer_user_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:50.478Z"
+}

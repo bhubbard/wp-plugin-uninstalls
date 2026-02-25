@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hide_from_search_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hide_from_search_engines"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:23.166Z"
+}

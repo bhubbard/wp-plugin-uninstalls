@@ -1,0 +1,22 @@
+{
+  "options": [
+    "math_captcha_lic",
+    "math_captcha_options",
+    "math_captcha_version",
+    "mc_options"
+  ],
+  "transients": [
+    "mc_*",
+    "frm_*",
+    "woologin_*",
+    "bbp_*",
+    "cf7_*"
+  ],
+  "cron_jobs": [
+    "math_GEO_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:59.193Z"
+}

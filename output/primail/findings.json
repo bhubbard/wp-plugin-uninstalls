@@ -1,0 +1,15 @@
+{
+  "options": [
+    "primail_api_debug_enabled",
+    "primail_api_test_key",
+    "primail_api_key",
+    "primail_default_from_name",
+    "primail_default_from_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:35.284Z"
+}

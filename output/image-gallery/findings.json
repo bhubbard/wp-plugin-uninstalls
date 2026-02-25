@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "imagepress"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ax_post_views",
+    "post_views_count",
+    "ip_upload_limit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:19.626Z"
+}

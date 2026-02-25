@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rewrite_rules",
+    "cps_plan_pricing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "chargely-plan-table",
+    "chargely_plugin_setting"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:41.567Z"
+}

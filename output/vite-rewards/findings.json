@@ -1,0 +1,28 @@
+{
+  "options": [
+    "apbd_prov_*",
+    "active_sitewide_plugins",
+    "health-check-allowed-plugins",
+    "*_addons",
+    "*_installed",
+    "_vt_ac",
+    "rwd_addons",
+    "apps_bd_ups",
+    "aprp_ru*"
+  ],
+  "transients": [
+    "dismissed_notice_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "billing_phone",
+    "apbd_reward_out",
+    "apbd_reward_in",
+    "apbd_reward_crnt_bg"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:09.176Z"
+}

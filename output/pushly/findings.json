@@ -1,0 +1,23 @@
+{
+  "options": [
+    "pushly",
+    "pushly_options"
+  ],
+  "transients": [
+    "pushly_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pushly_needs_saving",
+    "pushly_send_notification",
+    "pushly_notification_id",
+    "pushly_customize_notification_content",
+    "pushly_custom_title",
+    "pushly_custom_body",
+    "pushly_customize_audience",
+    "pushly_audience_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:18.701Z"
+}

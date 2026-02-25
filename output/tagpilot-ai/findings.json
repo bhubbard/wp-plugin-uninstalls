@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tagpilot_ai_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tagpilot_ai_terms_log",
+    "tagpilot_ai_content_log"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:58.744Z"
+}

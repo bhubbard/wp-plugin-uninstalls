@@ -1,0 +1,36 @@
+{
+  "options": [
+    "dynawpel_elementor_preview_active",
+    "dynawpel_elementor_dynamic_tags_active",
+    "elementor_cpt_support",
+    "dynawpel_elementor_conditions_active",
+    "job_manager_currency",
+    "dynawpel_thousands_separator",
+    "dynawpel_decimal_separator"
+  ],
+  "transients": [
+    "dynawpel_elementor_reload_hooks",
+    "dynawpel_elementor_activated",
+    "dynawpel_elementor_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data%dynawpel_elementor%",
+    "_company_name",
+    "_company_tagline",
+    "_company_video",
+    "_company_website",
+    "_application",
+    "_job_expires",
+    "_featured",
+    "_filled",
+    "_job_location",
+    "_job_salary",
+    "_job_salary_currency",
+    "_remote_position",
+    "dynawpel_elementor_%"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:31.054Z"
+}

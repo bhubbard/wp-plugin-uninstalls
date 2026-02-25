@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpas_db_version",
+    "protectAuthor",
+    "protectAuthorName",
+    "disableLoggedIn",
+    "disableRestUser",
+    "customLoginError",
+    "wpas_filterFeed",
+    "wpas_filterEmbed",
+    "wpas_filterAuthorSitemap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:02.710Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "rewrite_rules",
+    "action_scheduler_lock_async-request-runner",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "notionwpsync_deactivated_notice_id",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "notion_wp_sync_importer_*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "last_updated",
+    "status",
+    "last_error",
+    "notion_fields",
+    "run",
+    "content_ids",
+    "post_ids",
+    "_notion_wp_sync_hash",
+    "_notion_wp_sync_record_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:07.132Z"
+}

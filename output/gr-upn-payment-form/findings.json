@@ -1,0 +1,27 @@
+{
+  "options": [
+    "grupnpf_enable_debug_logging",
+    "grupnpf_ime_prejemnika",
+    "grupnpf_ulica_prejemnika",
+    "grupnpf_posta_prejemnika",
+    "grupnpf_kraj_prejemnika",
+    "grupnpf_iban_prejemnika",
+    "grupnpf_koda_namena",
+    "grupnpf_referenca_prejemnika",
+    "grupnpf_namen_placila",
+    "grupnpf_predpona_upn_slike"
+  ],
+  "transients": [
+    "grupnpf_admin_notice"
+  ],
+  "cron_jobs": [
+    "grupnpf_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_grupnpf_upn_url",
+    "_grupnpf_upn_path"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:17.682Z"
+}

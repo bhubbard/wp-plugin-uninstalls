@@ -1,0 +1,49 @@
+{
+  "options": [
+    "wpsms_flash_message",
+    "wpsms_gateway_credit",
+    "woocommerce_ship_to_destination",
+    "wp_sms_db_version",
+    "wp_notification_new_wp_version",
+    "wp_last_credit",
+    "wp_sms_is_fresh",
+    "wp_sms_installation_time",
+    "wpcf7_sms_*",
+    "wpcf7_sms_form*",
+    "wp_last_send_notification",
+    "wp_sms_mcc",
+    "wpsms_settings",
+    "wp_sms_plugin_version",
+    "wp_sms_dismissed_notices",
+    "wp_sms_notifications",
+    "wp_sms_import_file",
+    "woocommerce_custom_orders_table_enabled"
+  ],
+  "transients": [
+    "update_core",
+    "*_download_info",
+    "wpsms_uwazii_token",
+    "*_process_lock",
+    "wp_sms_flash_notices"
+  ],
+  "cron_jobs": [
+    "wp_sms_admin_email_report"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wpsms_notification_sent",
+    "wpsms_scheduled_send_to",
+    "wpsms_scheduled_message_template",
+    "wpsms_scheduled_receivers",
+    "mobile",
+    "_billing_phone",
+    "_customer_user",
+    "_*",
+    "first_name",
+    "last_name",
+    "session_tokens",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:55.271Z"
+}

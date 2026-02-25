@@ -1,0 +1,65 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'robokassa_payment_MerchantLogin'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_settings'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'RobokassaOrderPageTitle_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'RobokassaOrderPageDescription_%'"
+wp option delete 'robokassa_country_code'
+wp option delete 'robokassa_out_currency'
+wp option delete 'robokassa_payment_hold_onoff'
+wp option delete 'robokassa_culture'
+wp option delete 'robokassa_payment_wc_robokassa_enabled'
+wp option delete 'robokassa_iframe'
+wp option delete 'robokassa_payment_tax'
+wp option delete 'woocommerce_price_num_decimals'
+wp option delete 'robokassa_payment_tax_source'
+wp option delete 'robokassa_payment_test_onoff'
+wp option delete 'robokassa_payment_testshoppass1'
+wp option delete 'robokassa_payment_testshoppass2'
+wp option delete 'robokassa_payment_shoppass1'
+wp option delete 'robokassa_payment_shoppass2'
+wp option delete 'robokassa_payment_sno'
+wp option delete 'robokassa_payment_paymentObject'
+wp option delete 'RobokassaOrderPageDescription'
+wp option delete 'woocommerce_prices_include_tax'
+wp option delete 'RobokassaOrderPageTitle_robokassa'
+wp option delete 'RobokassaOrderPageDescription_robokassa'
+wp option delete 'robokassa_agreement_text'
+wp option delete 'robokassa_agreement_pd_link'
+wp option delete 'robokassa_agreement_oferta_link'
+wp option delete 'robokassa_payment_order_status_after_payment'
+wp option delete 'robokassa_payment_order_status_for_second_check'
+wp option delete 'robokassa_payment_agent_fields_enabled'
+wp option delete 'robokassa_payment_SuccessURL'
+wp option delete 'robokassa_payment_FailURL'
+wp option delete 'robokassa_widget_enabled'
+wp option delete 'robokassa_widget_border_radius'
+wp option delete 'robokassa_payment_sms_translit'
+wp option delete 'robokassa_payment_sms1_enabled'
+wp option delete 'robokassa_payment_sms1_text'
+wp option delete 'robokassa_payment_sms2_enabled'
+wp option delete 'robokassa_payment_sms2_text'
+wp option delete 'robokassa_widget_component'
+wp option delete 'robokassa_widget_theme'
+wp option delete 'robokassa_widget_size'
+wp option delete 'robokassa_widget_show_logo'
+wp option delete 'robokassa_widget_type'
+wp option delete 'robokassa_widget_has_second_line'
+wp option delete 'robokassa_widget_description_position'
+wp option delete 'robokassa_widget_color_scheme'
+wp option delete 'robokassa_patyment_markup'
+wp option delete 'robokassa_payment_type_commission'
+wp option delete 'robokassa_payment_who_commission'
+wp option delete 'robokassa_payment_paytype'
+wp option delete 'robokassa_payment_paymentMethod'
+wp option delete 'robokassa_payment_paymentObject_shipping'
+wp option delete 'robokassa_payment_second_check_paymentObject'
+
+# Delete Transients
+wp transient delete 'robokassa_payment_methods_available'
+
+# Clear Cron Jobs
+wp cron event delete 'robokassa_cancel_payment_event'
+

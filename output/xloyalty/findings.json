@@ -1,0 +1,16 @@
+{
+  "options": [
+    "xloyalty_notice_dismissed",
+    "xloyalty_license_key",
+    "xloyalty_registration_company",
+    "xloyalty_registration_email",
+    "xloyalty_points_per_euro",
+    "xloyalty_conversion_rate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:40.726Z"
+}

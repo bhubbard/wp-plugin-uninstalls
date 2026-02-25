@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('pushlive_lock_pushing', 'pushlive_install_path', 'pushlive_exclusions', 'pushlive_db_host', 'pushlive_db_user', 'pushlive_db_pw', 'pushlive_db_db', 'pushlive_exclude_tables', 'pushlive_stage_base', 'pushlive_live_base', 'pushlive_backup_path', 'pushlive_force_login', 'pushlive_lock_reason', 'pushlive_replicate_live_base', 'pushlive_replicate_db_host', 'pushlive_replicate_db_db', 'pushlive_replicate_db_user', 'pushlive_replicate_db_pw', 'pushlive_replicate_install_path');
+

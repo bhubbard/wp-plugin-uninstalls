@@ -1,0 +1,16 @@
+{
+  "options": [
+    "trustist_payments_sandbox_public_key",
+    "trustist_payments_sandbox_private_key",
+    "trustist_payments_public_key",
+    "trustist_payments_private_key",
+    "trustist_payments_sandbox_cards_enabled",
+    "trustist_payments_cards_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:23.784Z"
+}

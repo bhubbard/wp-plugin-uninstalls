@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpds_tax_pic*",
+    "product_page*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "newprod",
+    "galleryurl",
+    "prodshortdesc",
+    "prodrate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:59.426Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wfspb-param",
+    "woocommerce_shop_page_id",
+    "woocommerce_tax_display_shop",
+    "woocommerce_tax_round_at_subtotal",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:46.259Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pg_woo_activation_redirect",
+    "pg_redirect_to_group_page",
+    "active_sitewide_plugins",
+    "pm_show_woocommerce_plugin_popup",
+    "pm_show_woocommerce_check_core_plugin_popup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_country",
+    "total_sales",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:20.434Z"
+}

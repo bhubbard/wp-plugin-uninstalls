@@ -1,0 +1,31 @@
+{
+  "options": [
+    "lnjph_install",
+    "lnjph_install_date",
+    "lnjph_uninstall_date",
+    "lnjph_plugin_version",
+    "lnjph_default_post_thumbnail",
+    "lnjph_settings_update",
+    "lnjph_sub_mode",
+    "lnjph_custom_content_solo",
+    "placehold_co_font",
+    "placehold_co_text",
+    "placehold_co_color",
+    "placehold_co_bgcolor",
+    "placeimg_com_mode",
+    "placeimg_com_cat",
+    "picsum_photos_mode",
+    "doodleipsum_mode",
+    "doodleipsum_bgcolor",
+    "lnjph_sub_thumbnail",
+    "placehodor_sub_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:59.552Z"
+}

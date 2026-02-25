@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woosg_settings",
+    "woosg_localization",
+    "woosg_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woosg_ids",
+    "woosg_including_main",
+    "woosg_show_atc",
+    "woosg_selector",
+    "woosg_custom_price",
+    "woosg_layout",
+    "woosg_before_text",
+    "woosg_after_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:12.828Z"
+}

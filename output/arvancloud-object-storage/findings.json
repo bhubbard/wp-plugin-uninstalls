@@ -1,0 +1,29 @@
+{
+  "options": [
+    "acs_settings",
+    "arvan-cloud-storage-bucket-name",
+    "arvan-cloud-storage-settings",
+    "OBS_INVALID_API_KEY",
+    "arvan-cloud-storage-bulk-upload-percent",
+    "arvan-cloud-storage-bulk-upload-new",
+    "arvan-cloud-storage-bulk-upload-error",
+    "obs_bulk_upload_last_id"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acs_storage_file_url",
+    "acs_storage_file_dir",
+    "_wp_attached_file",
+    "acs_acl",
+    "acs_presigned_url",
+    "acs_presigned_urls"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:12.324Z"
+}

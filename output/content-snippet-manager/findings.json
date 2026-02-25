@@ -1,0 +1,13 @@
+{
+  "options": [
+    "csm_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "csm_notice_user_id_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:37.997Z"
+}

@@ -1,0 +1,44 @@
+{
+  "options": [
+    "wpchef_*",
+    "wpchef_server",
+    "wpchef_access_token",
+    "wpchef_stats_token",
+    "wpchef_statsusers",
+    "wpchef_server_name",
+    "wpchef_actions_made",
+    "wpchef_installed_recipes",
+    "wpchef_recipes",
+    "wpchef_builtin_installed",
+    "recipe_autoupdate_alert_*",
+    "wpchef_autoupdate",
+    "wpchef_updates_alert_sent",
+    "wpchef_recipes_updates",
+    "wpchef_autoupdate_actions_*",
+    "wpchef_autoupdate_queue",
+    "wpchef_recipe_children_*",
+    "wpchef_recipe_*",
+    "wpchef_themes_history",
+    "wpchef_me",
+    "wpchef_cache"
+  ],
+  "transients": [
+    "recipe-confirm-*",
+    "update_plugins",
+    "update_themes",
+    "wpchef_fetch_recipe_*",
+    "wpchef_apply_token_*"
+  ],
+  "cron_jobs": [
+    "wpchef_updates_cron",
+    "wpchef_autoupdate_check",
+    "wpchef_autoupdate_step"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "wpchef_auth_now"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:57.941Z"
+}

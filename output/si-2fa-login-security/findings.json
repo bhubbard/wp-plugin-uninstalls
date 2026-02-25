@@ -1,0 +1,24 @@
+{
+  "options": [
+    "auth_key",
+    "si2flose_login_attempt",
+    "si2flose_incorrect_code_attempts",
+    "si2flose_enable_users",
+    "mfa_enable_users"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "si2flose_mfa_enable",
+    "si2flose_mfa_priv_key_64",
+    "si2flose_last_pws",
+    "si2flose_last_login",
+    "user_login_nonce",
+    "si2flose_private_key_path",
+    "nonce_hidden",
+    "mfa_last_login"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:17.531Z"
+}

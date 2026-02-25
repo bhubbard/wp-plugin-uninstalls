@@ -1,0 +1,32 @@
+{
+  "options": [
+    "terms_accepted_adobe_stock",
+    "terms_accepted_getty",
+    "terms_accepted_istock",
+    "terms_accepted_pixabay",
+    "terms_accepted_pexels",
+    "terms_accepted_unsplash",
+    "terms_accepted_deposit_photos",
+    "terms_accepted_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "stockpack_caption_generate",
+    "stockpack_author_name",
+    "stockpack_author_url",
+    "stockpack_provider",
+    "stockpack_image_url",
+    "stockpack_license",
+    "stockpack_license_url",
+    "stockpack_modification",
+    "stockpack_extra",
+    "stockpack_id",
+    "_wp_attachment_image_alt",
+    "stockpack_media_id",
+    "stockpack_download_timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:54.517Z"
+}

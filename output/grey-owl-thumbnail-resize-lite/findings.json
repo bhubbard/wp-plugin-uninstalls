@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gotrl_check_images_in_page",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "gotrl_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gotr_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:55.621Z"
+}

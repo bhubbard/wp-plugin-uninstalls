@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_ts_gtin",
+    "_default_delivery_time",
+    "de_DE",
+    "en_US",
+    "es_ES",
+    "fr_FR"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:53.104Z"
+}

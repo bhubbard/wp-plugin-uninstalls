@@ -1,0 +1,47 @@
+{
+  "options": [
+    "sg_about_page_was_read",
+    "giveasap_active_integrations",
+    "sg_giveaway_slug",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "giveasap_settings",
+    "giveasap_version",
+    "giveasap_convertkit_custom_fields",
+    "sg_facebook"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "giveaway_leaderboard_*"
+  ],
+  "cron_jobs": [
+    "giveasap_has_ended",
+    "giveasap_remind_subscribers",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_user_import_page",
+    "giveasap_schedule",
+    "giveasap_prize",
+    "end_time",
+    "sg_extra_actions_max_instance_id",
+    "giveasap_type",
+    "giveasap_extra_entries",
+    "giveasap_text",
+    "giveasap_winners",
+    "giveasap_registered_users",
+    "giveasap_registered_entries",
+    "winner_time",
+    "giveasap_display"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:26.814Z"
+}

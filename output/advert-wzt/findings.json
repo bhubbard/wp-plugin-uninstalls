@@ -1,0 +1,19 @@
+{
+  "options": [
+    "advert_log",
+    "advert_guanggao",
+    "advert_db_version",
+    "advert_is_mianze",
+    "advert_wzt_token1",
+    "advert_wzt_token2",
+    "advert_wzt_token3",
+    "advert_tongji",
+    "advert_level"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:14.968Z"
+}

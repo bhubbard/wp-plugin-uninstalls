@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ijmtb_bg_colour",
+    "ijmtb_text_colour",
+    "ijmtb_label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:27.280Z"
+}

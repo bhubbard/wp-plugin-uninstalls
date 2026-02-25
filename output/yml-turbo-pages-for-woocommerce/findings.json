@@ -1,0 +1,20 @@
+{
+  "options": [
+    "store_name",
+    "company_name",
+    "yml_store",
+    "yml_pickup",
+    "yml_delivery",
+    "yml_description",
+    "yml_currencies",
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_yml_file"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:56.970Z"
+}

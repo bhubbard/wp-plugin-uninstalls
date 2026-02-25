@@ -1,0 +1,24 @@
+{
+  "options": [
+    "CSS_Sensei_Plugin_Not_Activated",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_duplicate",
+    "_lesson_course",
+    "_lesson_quiz",
+    "_quiz_lesson",
+    "_quiz_question_order*",
+    "_quiz_id",
+    "course",
+    "_session_order",
+    "start_date",
+    "css_date",
+    "end_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:57.442Z"
+}

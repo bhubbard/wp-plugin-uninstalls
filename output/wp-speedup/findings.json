@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpsu_total_bytes",
+    "selection_css",
+    "wpsu_options",
+    "*-settings",
+    "selection_js",
+    "wpsu_compress_images"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:28.047Z"
+}

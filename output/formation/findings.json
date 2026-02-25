@@ -1,0 +1,27 @@
+{
+  "options": [
+    "formation_db_version",
+    "formation_options",
+    "formation_settings",
+    "formation_activation_redirect",
+    "formation_pro_status",
+    "formation_smtp_settings",
+    "formation_pmf_options",
+    "classic-editor-replace"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "formation_tooltip_stat",
+    "formation_data",
+    "formation_other_plugin",
+    "formation_form_status",
+    "formation_fe_style",
+    "formation_prefix_classes",
+    "formation_views",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:45.739Z"
+}

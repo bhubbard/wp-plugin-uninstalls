@@ -1,0 +1,13 @@
+{
+  "options": [
+    "juicer_social_feed_exists",
+    "juicer_social_feed_review_permanently_dismissed",
+    "juicer_social_feed_review_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:17.730Z"
+}

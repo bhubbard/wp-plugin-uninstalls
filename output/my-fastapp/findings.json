@@ -1,0 +1,15 @@
+{
+  "options": [
+    "plugin_myfastapp_external_api_uri",
+    "plugin_myfastapp_live_config",
+    "plugin_myfastapp_app_config",
+    "plugin_myfastapp_menu_item",
+    "plugin_myfastapp_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:34.998Z"
+}

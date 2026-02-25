@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpba_version",
+    "wpba_installed_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpba/notice_disabled/feedback",
+    "first_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:42.057Z"
+}

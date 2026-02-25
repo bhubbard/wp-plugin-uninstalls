@@ -1,0 +1,30 @@
+{
+  "options": [
+    "restrictly_content_types",
+    "restrictly_always_allow_admins",
+    "restrictly_enable_menu_flags",
+    "restrictly_default_action",
+    "restrictly_default_message",
+    "restrictly_default_forward_url",
+    "restrictly_show_nav_pills"
+  ],
+  "transients": [
+    "restrictly_mismatch_flag"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "restrictly_page_access_by_login_status",
+    "restrictly_page_access_by_role",
+    "restrictly_enforcement_action",
+    "restrictly_custom_message",
+    "restrictly_custom_forward_url",
+    "_restrictly_visibility",
+    "_restrictly_roles",
+    "restrictly_menu_visibility",
+    "restrictly_menu_roles",
+    "_restrictly_menu_visibility"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:24.631Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mxsetting",
+    "mxupload_flag_data",
+    "mxupload_file_scan",
+    "mxupload_settings",
+    "ms_files_rewriting"
+  ],
+  "transients": [
+    "mxupload_plugin_data"
+  ],
+  "cron_jobs": [
+    "mxupload_refresh_analysis"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_is_custom_background",
+    "_wp_attachment_is_custom_header"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:57.226Z"
+}

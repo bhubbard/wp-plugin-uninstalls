@@ -1,0 +1,111 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'bup_options'
+wp option delete 'bup_c_key'
+wp option delete 'bup_profile_fields'
+wp option delete 'bup_pro_active'
+wp option delete 'bup_my_account_page'
+wp option delete 'bup_c_expiration'
+wp option delete 'bup_pro_improvement_13'
+wp option delete 'bup_auto_page_creation'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'bup_pro_improvement_%'"
+wp option delete 'bup_pro_improvement_12'
+wp option delete 'bup_pro_improvement_14'
+wp option delete 'bup_pro_improvement_15'
+wp option delete 'bup_business_hours'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'bup_template_%'"
+wp option delete 'buproaw_aweber_list'
+wp option delete 'bup_plugin_do_activation_redirect'
+wp option delete 'bup_dismiss_notice'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'reg_telephone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'reg_telephone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'reg_telephone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'reg_telephone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_account_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_account_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_account_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_account_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_user_registered_ip'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_user_registered_ip'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_user_registered_ip'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_user_registered_ip'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_is_client'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_is_client'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_is_client'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_is_client'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_ultra_very_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_ultra_very_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_ultra_very_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_ultra_very_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'reg_telephone_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'reg_telephone_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'reg_telephone_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'reg_telephone_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'reg_telephone_prefix'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'reg_telephone_prefix'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'reg_telephone_prefix'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'reg_telephone_prefix'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'reg_telephone_iso'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'reg_telephone_iso'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'reg_telephone_iso'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'reg_telephone_iso'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_mailchimp'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_mailchimp'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_mailchimp'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_mailchimp'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_aweber'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_aweber'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_aweber'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_aweber'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'google_cal_access_token'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'google_cal_access_token'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'google_cal_access_token'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'google_cal_access_token'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'google_calendar_default'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'google_calendar_default'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'google_calendar_default'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'google_calendar_default'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_is_staff_member'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_is_staff_member'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_is_staff_member'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_is_staff_member'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'u_profession'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'u_profession'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'u_profession'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'u_profession'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'display_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'display_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'display_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'display_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_staff_acc_setting'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_staff_acc_setting'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_staff_acc_setting'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_staff_acc_setting'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_profile_bg_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_profile_bg_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_profile_bg_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_profile_bg_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'user_pic'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'user_pic'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'user_pic'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'user_pic'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'user_profile_bg'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'user_profile_bg'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'user_profile_bg'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'user_profile_bg'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bup_has_gravatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bup_has_gravatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bup_has_gravatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bup_has_gravatar'"

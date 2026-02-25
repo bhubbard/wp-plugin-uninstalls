@@ -1,0 +1,30 @@
+{
+  "options": [
+    "discord_webhook_enabled_for_cf7",
+    "discord_webhook_enabled_for_jetpack_cf",
+    "discord_webhook_enabled_for_gf",
+    "discord_webhook_bot_username",
+    "discord_webhook_avatar_url",
+    "discord_webhook_bot_token",
+    "discord_webhook_webhook_url",
+    "discord_webhook_logging",
+    "discord_webhook_mention_everyone",
+    "discord_webhook_disable_embed",
+    "discord_webhook_message_format",
+    "discord_webhook_post_webhook_url",
+    "discord_webhook_enabled_for_woocommerce",
+    "discord_webhook_giphy_api_key",
+    "*_webhook_url",
+    "discord_webhook_enabled_for_woocommerce_products",
+    "discord_webhook_product_message_format",
+    "discord_webhook_order_message_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_discord_webhook_published"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:37.606Z"
+}

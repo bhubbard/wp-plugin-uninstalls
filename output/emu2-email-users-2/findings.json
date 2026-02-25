@@ -1,0 +1,30 @@
+{
+  "options": [
+    "EMU2_build",
+    "EMU2_mail_function",
+    "EMU2_debug",
+    "EMU2_schedule_time",
+    "EMU2_double_place",
+    "EMU2_default_schedule_subject",
+    "EMU2_default_schedule_body",
+    "EMU2_version",
+    "EMU2_default_subject",
+    "EMU2_default_body",
+    "EMU2_default_mail_format",
+    "EMU2_max_bcc_recipients",
+    "EMU2_sender_name",
+    "EMU2_sender_address",
+    "EMU2_check"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "EMU2_task_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "EMU2_ACCEPT_NOTIFICATION_USER_META",
+    "EMU2_ACCEPT_MASS_EMAIL_USER_META"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:24.590Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "list_posts_count",
+    "list_posts_exclude",
+    "list_posts_include_series",
+    "list_posts_include"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:42.766Z"
+}

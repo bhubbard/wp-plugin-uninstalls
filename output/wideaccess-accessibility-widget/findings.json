@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wideaccess_db_version",
+    "wideaccess_license_key"
+  ],
+  "transients": [
+    "wideaccess_license_valid",
+    "wideaccess_license_data"
+  ],
+  "cron_jobs": [
+    "wideaccess_daily_license_check",
+    "wideaccess_recurring_license_check",
+    "wideaccess`1_minute_license_check",
+    "wideaccess_minute_license_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:39.932Z"
+}

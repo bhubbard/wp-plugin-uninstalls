@@ -1,0 +1,19 @@
+{
+  "options": [
+    "webhook_address",
+    "netlify_user_agent",
+    "netlify_api_key",
+    "netlify_site_id",
+    "enable_scheduled_builds",
+    "select_schedule_builds",
+    "select_time_build"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "scheduled_netlify_build"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:43.950Z"
+}

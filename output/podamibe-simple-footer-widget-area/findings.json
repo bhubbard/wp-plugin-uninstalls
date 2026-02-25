@@ -1,0 +1,12 @@
+{
+  "options": [
+    "sfwa_widget_setting",
+    "sfwa_layout_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:25.281Z"
+}

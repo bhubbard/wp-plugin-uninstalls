@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('dbem_multiple_bookings', 'dbem_bookings_approval', 'dbem_bookings_anonymous', 'dbem_bookings_registration_disable', 'dbem_bookings_currency', 'eway_logging', 'eway_form_country', 'eway_form_first_name', 'eway_form_last_name', 'eway_form_address', 'eway_form_city', 'eway_form_state', 'eway_form_post_code', 'eway_form_email', 'wpsc_merchant_eway_stored', 'eway_test', 'custom_gateway_options', 'wpsc_merchant_eway_th', 'wpsc_merchant_eway_card_msg', 'wpsc_merchant_eway_beagle', 'eway_api_key', 'eway_password', 'eway_ecrypt_key', 'eway_sandbox_api_key', 'eway_sandbox_password', 'eway_sandbox_ecrypt_key', 'woocommerce_eway_payments_settings');
+DELETE FROM wp_options WHERE option_name LIKE 'eway_form_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('awpcp-profile');
+DELETE FROM wp_usermeta WHERE meta_key IN ('awpcp-profile');
+DELETE FROM wp_termmeta WHERE meta_key IN ('awpcp-profile');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('awpcp-profile');
+

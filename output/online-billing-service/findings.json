@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_facturare_cui",
+    "_billing_facturare_nr_reg_com",
+    "_billing_facturare_cnp",
+    "av_facturare",
+    "_billing_*",
+    "_shipping_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:37.826Z"
+}

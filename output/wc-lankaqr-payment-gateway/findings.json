@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lankaqrwc_plugin_dismiss_rating_notice",
+    "lankaqrwc_plugin_no_thanks_rating_notice",
+    "lankaqrwc_plugin_dismissed_time",
+    "lankaqrwc_plugin_installed_time"
+  ],
+  "transients": [
+    "lankaqrwc-admin-notice-on-activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lankaqrwc_order_paid",
+    "_lankaqr_ref_num"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:10.914Z"
+}

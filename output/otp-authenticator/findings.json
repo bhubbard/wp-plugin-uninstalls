@@ -1,0 +1,32 @@
+{
+  "options": [
+    "otpa_logs_settings",
+    "otpa_settings",
+    "otpa_style_settings",
+    "*_settings",
+    "woocommerce_enable_guest_checkout"
+  ],
+  "transients": [
+    "otpa_flush"
+  ],
+  "cron_jobs": [
+    "otpa_logs_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "otpa_force_account_validation",
+    "otpa_2fa_redirect",
+    "otpa_2fa_checked",
+    "otpa_2fa_active",
+    "otpa_need_2fa_check",
+    "otpa_account_validation_redirect",
+    "otpa_validated",
+    "otpa_need_account_validation",
+    "otpa_otp_request_wait",
+    "otpa_set_otp_redirect",
+    "otpa_verification_code",
+    "otpa_otp_attempts"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:47.879Z"
+}

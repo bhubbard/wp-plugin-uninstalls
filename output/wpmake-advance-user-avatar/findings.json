@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpmake_advance_user_avatar_settings",
+    "bp-disable-avatar-uploads",
+    "wpmake_advance_user_avatar_admin_footer_text_rated",
+    "wpmake_aua_review_notice_dismissed",
+    "wpmake_aua_activated",
+    "wpmake_aua_updated_at"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmake_advance_user_avatar_attachment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:28.733Z"
+}

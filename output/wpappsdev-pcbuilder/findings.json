@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpadpcbu_pages_created",
+    "page_settings",
+    "wpadpcbu_version",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "wpadpcbu_installed"
+  ],
+  "transients": [
+    "wpadpcbu_flush_rewrite"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpadpcbu_pcbuilder_settings",
+    "wpadpcbu_component_filters_group",
+    "wpadpcbu_component_filter_list",
+    "component-image-id",
+    "wpadpcbu_component_serial",
+    "wpadpcbu_required_component",
+    "wpadpcbu_product_features_list"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:34.038Z"
+}

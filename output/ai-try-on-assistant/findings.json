@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aitoa_gemini_api_key",
+    "aitoa_default_try_on_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aitoa_enable_try_on",
+    "_aitoa_try_on_type",
+    "_aitoa_tryable_images",
+    "_wp_attachment_image_alt",
+    "aitoa_profile_photo_id",
+    "vtoa_profile_photo_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:25.170Z"
+}

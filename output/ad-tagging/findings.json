@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sybat.ad_tag_name",
+    "sybat.affiliate_urls",
+    "sybat.update_on_save"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:31.589Z"
+}

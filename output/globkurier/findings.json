@@ -1,0 +1,28 @@
+{
+  "options": [
+    "udigroup_globkurier_ghost_post_id",
+    "globkurier_token",
+    "globkurier_token_expire_at",
+    "globkurier_extra_pickup_points",
+    "gkStoreInpostPointsValidTime",
+    "globkurier",
+    "udigroup_gkInPostPoints",
+    "udigroup_gkInPostPointsDownloadedAt",
+    "udigroup_gkRuchPointsDownloadedAt",
+    "udigroup_gkRuchPoints",
+    "globkurier-username",
+    "globkurier-password"
+  ],
+  "transients": [
+    "globkurier_inpost_international_points_*",
+    "globkurier_countries_map"
+  ],
+  "cron_jobs": [
+    "updateInpostPoints",
+    "updateInpostPoints2"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:42.665Z"
+}

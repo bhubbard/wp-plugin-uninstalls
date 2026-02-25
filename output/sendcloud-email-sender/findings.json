@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sendcloud_email",
+    "sendcloud_lable",
+    "sendcloud_fromname",
+    "sendcloud_post_publish_notify",
+    "sendcloud_posts_reply_notify",
+    "sendcloud_posts_publish_notify_subject",
+    "sendcloud_posts_publish_notify_content",
+    "sendcloud_posts_reply_notify_subject",
+    "sendcloud_posts_reply_notify_content",
+    "sendcloud_version",
+    "sendcloud_quota_exceeded",
+    "sendcloud_invitecode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:55.673Z"
+}

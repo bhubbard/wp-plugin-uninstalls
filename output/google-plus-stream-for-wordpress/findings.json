@@ -1,0 +1,22 @@
+{
+  "options": [
+    "gps_height",
+    "gps_title",
+    "gps_ctime",
+    "gps_ctime_prof",
+    "gps_m2c",
+    "gps_cache",
+    "gps_cache_prof",
+    "gps_credit",
+    "gps_profid",
+    "gps_nopost",
+    "gps_dimage",
+    "gps_nowordpost"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:22.041Z"
+}

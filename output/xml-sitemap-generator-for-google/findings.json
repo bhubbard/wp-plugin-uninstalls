@@ -1,0 +1,38 @@
+{
+  "options": [
+    "trp_settings",
+    "sgg_image-sitemap_latest_mod_time",
+    "sgg_image-sitemap_latest_post_id",
+    "sgg_video-sitemap_latest_mod_time",
+    "sgg_video-sitemap_latest_post_id",
+    "sgg_installation_time",
+    "sgg_disable_notice_*",
+    "wp_attachment_pages_enabled",
+    "polylang",
+    "sgg_youtube_data",
+    "sgg_video_api_data"
+  ],
+  "transients": [
+    "*_chunks",
+    "*_time",
+    "sgg_activation_redirect"
+  ],
+  "cron_jobs": [
+    "xml_sitemap_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sitemap_exclude",
+    "_sitemap_priority",
+    "_sitemap_frequency",
+    "_wp_attachment_metadata",
+    "_yoast_wpseo_meta-robots-noindex",
+    "rank_math_robots",
+    "_genesis_noindex",
+    "autodescription-term-settings",
+    "mfn-builder-preview",
+    "_genesis_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:55.537Z"
+}

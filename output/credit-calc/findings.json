@@ -1,0 +1,21 @@
+{
+  "options": [
+    "credit_calc",
+    "credit_calc_rate",
+    "loan_calculator_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_phone",
+    "_full_name",
+    "_amount",
+    "_term",
+    "_status",
+    "_monthly_payment",
+    "_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:02.557Z"
+}

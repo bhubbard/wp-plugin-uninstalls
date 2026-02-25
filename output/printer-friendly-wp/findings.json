@@ -1,0 +1,12 @@
+{
+  "options": [
+    "print_button_posts",
+    "print_button_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:20.459Z"
+}

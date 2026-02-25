@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*-display_mode_delay",
+    "*-display_mode_visible",
+    "*-display_mode_mouse_over",
+    "*-delay_time",
+    "*-message",
+    "*-ticket_url_1",
+    "*-ticket_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:18.714Z"
+}

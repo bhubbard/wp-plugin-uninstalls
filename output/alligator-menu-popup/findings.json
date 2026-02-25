@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cc_mpopup_width",
+    "cc_mpopup_height",
+    "cc_mpopup_scroll"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:17.867Z"
+}

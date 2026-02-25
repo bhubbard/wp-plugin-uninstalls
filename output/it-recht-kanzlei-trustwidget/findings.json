@@ -1,0 +1,12 @@
+{
+  "options": [
+    "it_recht_kanzlei_trustwidget_identifier",
+    "it_recht_kanzlei_widget_identifier"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:49.962Z"
+}

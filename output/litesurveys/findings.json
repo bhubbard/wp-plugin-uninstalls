@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lsapp_litesurveys_version",
+    "LSAPP_litesurveys_settings"
+  ],
+  "transients": [
+    "litesurveys_active_surveys",
+    "litesurveys_has_active"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:26.346Z"
+}

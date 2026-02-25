@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tw_mobile_domain",
+    "tw_mobile_theme",
+    "tw_bot_theme",
+    "tw_user_bot_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:12.341Z"
+}

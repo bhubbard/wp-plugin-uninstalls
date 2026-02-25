@@ -1,0 +1,13 @@
+{
+  "options": [
+    "tarteaucitronUUID",
+    "tarteaucitronToken",
+    "tarteaucitronShowWidget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:49.444Z"
+}

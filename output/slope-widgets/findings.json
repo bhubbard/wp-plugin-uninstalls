@@ -1,0 +1,14 @@
+{
+  "options": [
+    "slope_options",
+    "slope_global_settings",
+    "slope_promo",
+    "slope_promotions_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:05.845Z"
+}

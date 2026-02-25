@@ -1,0 +1,20 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "gifeed_activation_init",
+    "ghozylab_instagram_feed_options"
+  ],
+  "transients": [
+    "gifeed_featured_feed"
+  ],
+  "cron_jobs": [
+    "gifeed_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gifeed_meta_ids_tags",
+    "gifeed_meta_feed_format"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:20.978Z"
+}

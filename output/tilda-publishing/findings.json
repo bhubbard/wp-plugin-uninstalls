@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tilda_maps",
+    "tilda_map_pages",
+    "tilda_options",
+    "tilda_projects",
+    "tilda_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tilda_sync_single_event",
+    "tilda_sync_single_export_file"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tilda"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:39.369Z"
+}

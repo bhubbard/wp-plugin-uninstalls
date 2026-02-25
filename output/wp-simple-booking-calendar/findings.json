@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpsbc_settings",
+    "wpsbc_version",
+    "wpsbc_first_activation",
+    "wpsbc_upgrade_8_0_0",
+    "wpsbc_upgrade_8_0_0_skipped",
+    "wpsbc_serial_key",
+    "wpsbc_registered_website_id",
+    "wp-simple-booking-calendar-options",
+    "wpsbc_db_version"
+  ],
+  "transients": [
+    "wpsbc_serial_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:25.380Z"
+}

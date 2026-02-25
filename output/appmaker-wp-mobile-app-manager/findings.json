@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_settings",
+    "appmaker_wp_settings",
+    "appmaker_wp_custom_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "appmaker_wp_access_token",
+    "_wp_page_template",
+    "_registered_from_app",
+    "appmaker_wp_user_login_from_app",
+    "user_register_date_time",
+    "_user_avatar",
+    "user_login_date_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:44.308Z"
+}

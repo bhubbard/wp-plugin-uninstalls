@@ -1,0 +1,38 @@
+{
+  "options": [
+    "sg_welcome_page_was_showed",
+    "*settings",
+    "sgg_ac_remind",
+    "sgg_ac_subscribe",
+    "sgg_ac_disabled",
+    "sg_settings",
+    "previewImageId",
+    "customCatsPresets",
+    "customPagesPresets",
+    "showGalleryRevNotice",
+    "*rand_sorts",
+    "defaultgallerysettings",
+    "post_to_render*",
+    "pages_to_render*",
+    "supsystic_gallery_show_love_link",
+    "supsystic_gallery_last_check_love_link",
+    "supsystic_gallery_love_link_title",
+    "insta_token",
+    "insta_user",
+    "insta_thumbnails",
+    "*welcome_page_was_showed",
+    "sgg_plug_welcome_show"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cropPositionNeedUpdate",
+    "_wp_attachment_image_alt",
+    "captionEffect",
+    "cropPosition",
+    "sgg-tutorial_was_showed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:30.041Z"
+}

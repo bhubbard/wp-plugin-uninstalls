@@ -1,0 +1,23 @@
+{
+  "options": [
+    "bbforms_hide_review_notice",
+    "bbforms_install_date",
+    "bbforms_settings",
+    "bbforms_cache_*",
+    "items_per_page"
+  ],
+  "transients": [
+    "update_plugins",
+    "bbforms_plugins_api"
+  ],
+  "cron_jobs": [
+    "bbforms_auto_submissions_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bbforms_anonymize",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:30.434Z"
+}

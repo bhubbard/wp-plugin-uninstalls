@@ -1,0 +1,50 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "essential_blocks_version",
+    "eb_admin_menu_notice",
+    "eb_admin_promotion",
+    "_wpdeveloper_plugin_pointer_priority",
+    "essential_blocks_quick_setup_shown",
+    "essential_blocks_user_type",
+    "eb_settings",
+    "essential_all_blocks",
+    "essential_quick_toolbar_allowed_blocks",
+    "eb_write_with_ai",
+    "eb_global_styles",
+    "wpins_deactivation_reason_*",
+    "wpins_deactivation_details_*",
+    "wpins_allow_tracking",
+    "wpins_last_track_time",
+    "active_sitewide_plugins",
+    "wpins_block_notice",
+    "_eb_reusable_block_ids",
+    "eb_opt_migration"
+  ],
+  "transients": [
+    "essential_block_maybe_whatsnew_redirect",
+    "essential_block_whats_new_notice",
+    "wpnotice_priority_time_expired",
+    "eb_openverse_token"
+  ],
+  "cron_jobs": [
+    "eb_cleanup_completed_job",
+    "eb_process_ai_job",
+    "eb_cleanup_ai_jobs",
+    "eb_cleanup_stuck_ai_jobs",
+    "eb_pattern_update_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "*_dismissed",
+    "_wp_page_template",
+    "_eb_block_lists",
+    "_eb_reusable_block_ids",
+    "_generate_element_display_conditions",
+    "_generate_element_exclude_conditions",
+    "_generate_element_user_conditions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:14.520Z"
+}

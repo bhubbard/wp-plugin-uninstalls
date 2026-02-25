@@ -1,0 +1,23 @@
+{
+  "options": [
+    "av_transcoding_enabled",
+    "av_soundcloud_manager_enabled",
+    "av_ffmpeg_path",
+    "av_ffprobe_path",
+    "soundcloud_client_id",
+    "*_path"
+  ],
+  "transients": [
+    "dirsize_cache",
+    "*_progress"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uploaded_by",
+    "_is_fallback",
+    "_mp3_fallback"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:46.292Z"
+}

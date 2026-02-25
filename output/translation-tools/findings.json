@@ -1,0 +1,15 @@
+{
+  "options": [
+    "translation_tools_settings"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "update_core"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:30.136Z"
+}

@@ -1,0 +1,43 @@
+{
+  "options": [
+    "appza_config",
+    "appza_builder_do_activation_redirect",
+    "fcom_mobile_license_key",
+    "fcom_mobile_hash",
+    "fcom_mobile_license_expire_date",
+    "fcom_mobile_google_login_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "google_id",
+    "fcom_mobile_fcm_token",
+    "assignment_mark",
+    "instructor_note",
+    "evaluate_time",
+    "uploaded_attachments",
+    "_content_drip_settings",
+    "_tutor_course_settings",
+    "_course_duration",
+    "_tutor_course_level",
+    "_tutor_course_language",
+    "_tutor_course_benefits",
+    "_tutor_course_requirements",
+    "_tutor_course_target_audience",
+    "_tutor_course_material_includes",
+    "_video",
+    "_tutor_enable_qa",
+    "_tutor_attachments",
+    "tutor_quiz_option",
+    "_tutor_profile_photo",
+    "phone_number",
+    "_tutor_profile_bio",
+    "_tutor_profile_job_title",
+    "_tutor_cover_photo",
+    "thumbnail_id",
+    "swatch_color"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:51.224Z"
+}

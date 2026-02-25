@@ -1,0 +1,18 @@
+{
+  "options": [
+    "Spider_Zoom_tag",
+    "Spider_Zoom_class",
+    "Spider_Zoom_id",
+    "Spider_Zoom_max",
+    "Spider_Zoom_min",
+    "Spider_Zoom_imggroup",
+    "Spider_Zoom_imgsize",
+    "Spider_Zoom_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:46.747Z"
+}

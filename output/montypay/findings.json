@@ -1,0 +1,21 @@
+{
+  "options": [
+    "montypay_recurring_schedules",
+    "woocommerce_montypay_hosted_payment_settings",
+    "woocommerce_montypay_hosted_apple_pay_gateway_settings",
+    "woocommerce_montypay_s2s_payment_settings",
+    "woocommerce_montypay_stripe_payment_settings",
+    "woocommerce_montypay_wallets_payment_settings"
+  ],
+  "transients": [
+    "wc_admin_dashboard_counts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_montypay_recurring_enabled",
+    "_montypay_recurring_schedule_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:41.805Z"
+}

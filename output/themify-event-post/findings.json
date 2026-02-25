@@ -1,0 +1,36 @@
+{
+  "options": [
+    "themify_event_post",
+    "themify_saved_*",
+    "themify_saved_colors",
+    "themify_saved_gradients"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "repeat",
+    "repeat_x",
+    "to_be_announced",
+    "start_date",
+    "end_date",
+    "event_end_date_hide",
+    "event_attendance",
+    "organizer_name",
+    "organizer_url",
+    "performer_name",
+    "_wp_attachment_backup_sizes",
+    "buy_tickets_price",
+    "buy_tickets_currency",
+    "buy_tickets",
+    "buy_tickets_label",
+    "ticket_purchase_start_date",
+    "ticket_purchase_end_date",
+    "*_attach_id",
+    "popup_show",
+    "location",
+    "map_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:21.661Z"
+}

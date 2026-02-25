@@ -1,0 +1,12 @@
+{
+  "options": [
+    "olint_open_external_link_in_new_tab",
+    "olint_open_internal_link_in_new_tab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:54.261Z"
+}

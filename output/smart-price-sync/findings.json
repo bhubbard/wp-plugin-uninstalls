@@ -1,0 +1,14 @@
+{
+  "options": [
+    "smart_price_sync_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pricelabs_listing_id",
+    "homey_custom_period"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:28.191Z"
+}

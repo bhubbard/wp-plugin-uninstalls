@@ -1,0 +1,32 @@
+{
+  "options": [
+    "cf7af_mail_notify_option",
+    "cf7af_total",
+    "cf7af_smtp_option"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "cf7af_send_notify_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cf7af_form_id",
+    "*abandoned_specific_field",
+    "cf7af_email",
+    "cf7af_ip_address",
+    "number_sentmail",
+    "number_fail_count",
+    "cf7af_abandoned_specific_field",
+    "cf7af_form_data",
+    "cf7af_page_url",
+    "*enable_abandoned",
+    "*abandoned_email",
+    "cf7af_enable_abandoned",
+    "cf7af_abandoned_email",
+    "cf7af_mail_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:22.957Z"
+}

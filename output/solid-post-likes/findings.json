@@ -1,0 +1,26 @@
+{
+  "options": [
+    "_oacs_spl_likes_for_comments_setting",
+    "_oacs_spl_hook_post_hook",
+    "_oacs_spl_hook_woo_hook",
+    "_oacs_spl_cache_support",
+    "_oacs_spl_deinstall_delete",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_oacs_spl_user_comment_liked",
+    "_oacs_spl_user_liked",
+    "_oacs_spl_user_comment_IP",
+    "_oacs_spl_user_IP",
+    "_oacs_spl_comment_like_count",
+    "_oacs_spl_post_like_count",
+    "_oacs_spl_comment_like_modified",
+    "_oacs_spl_comment_post_like_modified",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:14.923Z"
+}

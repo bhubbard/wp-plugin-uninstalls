@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ambriel_api_key_field",
+    "ambriel_wc_status_*",
+    "ambriel_api_key",
+    "ambriel_decline_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:18.162Z"
+}

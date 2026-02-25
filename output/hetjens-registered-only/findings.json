@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hetjens_registered_only_active",
+    "hetjens_registered_only_feed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:41.765Z"
+}

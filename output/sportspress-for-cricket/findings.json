@@ -1,0 +1,22 @@
+{
+  "options": [
+    "recently_activated",
+    "sportspress_event_show_players",
+    "sportspress_event_show_player_numbers",
+    "sportspress_event_performance_mode",
+    "sportspress_event_logos_results_delimiter",
+    "sportspress_event_logos_reverse_results_format",
+    "sportspress_event_show_score_status"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "sp_team"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:40.769Z"
+}

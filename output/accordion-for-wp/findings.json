@@ -1,0 +1,14 @@
+{
+  "options": [
+    "afwp_global_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "afwp_term_template",
+    "acwp_term_style"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:27.216Z"
+}

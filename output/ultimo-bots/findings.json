@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ultimo_bot_credentials",
+    "ultimo_bots_snippet",
+    "ultimo_bots_do_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:54.474Z"
+}

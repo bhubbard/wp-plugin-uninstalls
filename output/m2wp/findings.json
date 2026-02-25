@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "m2i_mage_default_store_code",
+    "m2i_mage_base_url",
+    "m2i_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:00.372Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "*limit_guest_access",
+    "fv_bbpress_email",
+    "*search_before_post",
+    "*notify_by_default",
+    "*always_display",
+    "*notify",
+    "*always_approve_topics",
+    "*always_approve_replies",
+    "*always_approve_topics_registered",
+    "*always_approve_replies_registered",
+    "*previously_approved",
+    "*put_in_front_end_moderation_links",
+    "bbpressmoderationnotify_by_default",
+    "_bbp_root_slug",
+    "fv_bbpress_rewrite_rules_flush",
+    "rewrite_rules",
+    "fv_bbpress_tweaks",
+    "_bbp_default_role",
+    "bbpressmoderationsearch_before_post"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fv_bbp_anonymous_email",
+    "fv_bbp_solved",
+    "_fv_bbpress_reply_forum_id",
+    "_fv_user_imported",
+    "_fv_user_imported_p",
+    "role",
+    "account_status",
+    "_fv*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:10.562Z"
+}

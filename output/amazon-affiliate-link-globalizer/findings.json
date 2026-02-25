@@ -1,0 +1,19 @@
+{
+  "options": [
+    "waalg_enable_asin",
+    "waalg_enable_keyw",
+    "waalg_affilate_id",
+    "waalg_ascsubtag",
+    "waalg_fallback",
+    "waalg_add_url",
+    "woboq_amazon_link_globalizer_affiliate_id_*",
+    "waalg_enabled_asin",
+    "waalg_enabled_keyw"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:50.836Z"
+}

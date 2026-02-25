@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('whl_page', 'whl_redirect_admin', 'whl_redirect', 'peprodev_ups_profile_db', '_peprodev_profile_login_css');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('user_mobile', 'pepro_user_is_sms_verified', 'pepro_user_is_email_verified', 'billing_phone', 'billing_email', '_sms_otp_date', '_email_otp_date', 'first_name', 'billing_first_name', 'last_name', 'billing_last_name', 'shipping_email', 'bsl_custom_expiration_date', 'bsl_custom_intro', 'bsl_start_date', 'bsl_custom_is_permanent', '_learndash_course_grid_short_description', '_ld_course_history', '_related_course', 'profile_ifile', 'profile_image', '_wp_page_template');
+DELETE FROM wp_usermeta WHERE meta_key IN ('user_mobile', 'pepro_user_is_sms_verified', 'pepro_user_is_email_verified', 'billing_phone', 'billing_email', '_sms_otp_date', '_email_otp_date', 'first_name', 'billing_first_name', 'last_name', 'billing_last_name', 'shipping_email', 'bsl_custom_expiration_date', 'bsl_custom_intro', 'bsl_start_date', 'bsl_custom_is_permanent', '_learndash_course_grid_short_description', '_ld_course_history', '_related_course', 'profile_ifile', 'profile_image', '_wp_page_template');
+DELETE FROM wp_termmeta WHERE meta_key IN ('user_mobile', 'pepro_user_is_sms_verified', 'pepro_user_is_email_verified', 'billing_phone', 'billing_email', '_sms_otp_date', '_email_otp_date', 'first_name', 'billing_first_name', 'last_name', 'billing_last_name', 'shipping_email', 'bsl_custom_expiration_date', 'bsl_custom_intro', 'bsl_start_date', 'bsl_custom_is_permanent', '_learndash_course_grid_short_description', '_ld_course_history', '_related_course', 'profile_ifile', 'profile_image', '_wp_page_template');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('user_mobile', 'pepro_user_is_sms_verified', 'pepro_user_is_email_verified', 'billing_phone', 'billing_email', '_sms_otp_date', '_email_otp_date', 'first_name', 'billing_first_name', 'last_name', 'billing_last_name', 'shipping_email', 'bsl_custom_expiration_date', 'bsl_custom_intro', 'bsl_start_date', 'bsl_custom_is_permanent', '_learndash_course_grid_short_description', '_ld_course_history', '_related_course', 'profile_ifile', 'profile_image', '_wp_page_template');
+

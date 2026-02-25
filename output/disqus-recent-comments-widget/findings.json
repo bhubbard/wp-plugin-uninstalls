@@ -1,0 +1,20 @@
+{
+  "options": [
+    "disqus_rcw_api_key",
+    "disqus_rcw_forum_name",
+    "disqus_rcw_date_format",
+    "disqus_rcw_title_wrapper",
+    "disqus_rcw_which_markup",
+    "disqus_rcw_disable_caching",
+    "disqus_rcw_dont_use_css",
+    "disqus_rcw_settings_do_activation_redirect"
+  ],
+  "transients": [
+    "disqus_rcw_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:55.564Z"
+}

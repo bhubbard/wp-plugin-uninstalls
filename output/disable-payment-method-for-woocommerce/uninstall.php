@@ -1,0 +1,118 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('pisol_logged_gateways');
+delete_site_option('pisol_logged_gateways');
+delete_option('pi_dpmw_allow_shop_manager');
+delete_site_option('pi_dpmw_allow_shop_manager');
+delete_option('pisol_dpmw_show_system_name');
+delete_site_option('pisol_dpmw_show_system_name');
+delete_option('pi_dpmw_do_activation_redirect');
+delete_site_option('pi_dpmw_do_activation_redirect');
+delete_option('pisol_dpmw_email_blocked_msg');
+delete_site_option('pisol_dpmw_email_blocked_msg');
+delete_option('pisol_dpmw_ip_blocked_msg');
+delete_site_option('pisol_dpmw_ip_blocked_msg');
+delete_option('pi_dpmw_pp_bg_color');
+delete_site_option('pi_dpmw_pp_bg_color');
+delete_option('pi_dpmw_pp_txt_color');
+delete_site_option('pi_dpmw_pp_txt_color');
+delete_option('pi_dpmw_pp_border_color');
+delete_site_option('pi_dpmw_pp_border_color');
+delete_option('pi_dpmw_pp_checkbox_hover_bg_color');
+delete_site_option('pi_dpmw_pp_checkbox_hover_bg_color');
+delete_option('pi_dpmw_pp_checkbox_style');
+delete_site_option('pi_dpmw_pp_checkbox_style');
+delete_option('pi_dpmw_pp_checkbox_bg_color');
+delete_site_option('pi_dpmw_pp_checkbox_bg_color');
+delete_option('pi_dpmw_pp_checkbox_border_color');
+delete_site_option('pi_dpmw_pp_checkbox_border_color');
+delete_option('pi_dpmw_pp_checkbox_checked_bg_color');
+delete_site_option('pi_dpmw_pp_checkbox_checked_bg_color');
+delete_option('pi_dpmw_pp_checkbox_checkmark_color');
+delete_site_option('pi_dpmw_pp_checkbox_checkmark_color');
+delete_option('pisol_dpmw_no_payment_method_warning');
+delete_site_option('pisol_dpmw_no_payment_method_warning');
+delete_option('pi_dpmw_default_order_status');
+delete_site_option('pi_dpmw_default_order_status');
+delete_option('pi_dpmw_enable_partial_payment');
+delete_site_option('pi_dpmw_enable_partial_payment');
+delete_option('pi_dpmw_partial_amt');
+delete_site_option('pi_dpmw_partial_amt');
+delete_option('pi_dpmw_partial_amt_calculation');
+delete_site_option('pi_dpmw_partial_amt_calculation');
+delete_option('pi_dpmw_partial_payment_title_checkout');
+delete_site_option('pi_dpmw_partial_payment_title_checkout');
+delete_option('pi_dpmw_remove_payment_methods');
+delete_site_option('pi_dpmw_remove_payment_methods');
+delete_option('pi_dpmw_remove_payment_methods_selected');
+delete_site_option('pi_dpmw_remove_payment_methods_selected');
+delete_option('pi_dpmw_txt_to_pay');
+delete_site_option('pi_dpmw_txt_to_pay');
+delete_option('pi_dpmw_balance_to_pay');
+delete_site_option('pi_dpmw_balance_to_pay');
+delete_option('pi_dpmw_paid_amt');
+delete_site_option('pi_dpmw_paid_amt');
+delete_option('pi_dpmw_balance_amt');
+delete_site_option('pi_dpmw_balance_amt');
+delete_option('pi_dpmw_partial_pay_fees');
+delete_site_option('pi_dpmw_partial_pay_fees');
+delete_option('woocommerce_tax_display_cart');
+delete_site_option('woocommerce_tax_display_cart');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_deposit_value' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_deposit_value' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_deposit_value' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_deposit_value' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_metabox' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_metabox' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_metabox' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_metabox' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_condition_logic' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_condition_logic' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_condition_logic' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_condition_logic' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'disable_payment_methods' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'disable_payment_methods' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'disable_payment_methods' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'disable_payment_methods' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_rule_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_rule_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_rule_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_rule_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_fees_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_fees_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_fees_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_fees_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_fees' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_fees' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_fees' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_fees' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_currency' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_currency' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_currency' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_currency' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_fees_taxable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_fees_taxable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_fees_taxable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_fees_taxable' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_fees_tax_class' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_fees_tax_class' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_fees_tax_class' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_fees_tax_class' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pi_payment_hiding_warning_message' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pi_payment_hiding_warning_message' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pi_payment_hiding_warning_message' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pi_payment_hiding_warning_message' ) );
+

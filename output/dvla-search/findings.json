@@ -1,0 +1,12 @@
+{
+  "options": [
+    "dvla_search_api_key",
+    "dvla_search_fields_show_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:06.594Z"
+}

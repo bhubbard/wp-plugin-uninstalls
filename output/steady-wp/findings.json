@@ -1,0 +1,15 @@
+{
+  "options": [
+    "steady-wp_settings_connect_is_connected",
+    "*_connect_publication_title",
+    "*_connect_campaign_url",
+    "*_connect_widget_url",
+    "*_connect_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:25.486Z"
+}

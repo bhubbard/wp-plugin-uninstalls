@@ -1,0 +1,17 @@
+{
+  "options": [
+    "geo2wikipedia_options",
+    "phototools_list",
+    "geo2wp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geo_latitude",
+    "geo_longitude",
+    "wikiData"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:34.935Z"
+}

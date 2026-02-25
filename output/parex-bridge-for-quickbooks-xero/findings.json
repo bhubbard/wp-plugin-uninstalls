@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_api_enabled",
+    "wp_pxb_user",
+    "wp_pxb_module",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "wp_pxb_old_user",
+    "pxb_verificaitonEmail_status",
+    "wp_pxb_secret",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:11.860Z"
+}

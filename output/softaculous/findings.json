@@ -1,0 +1,19 @@
+{
+  "options": [
+    "softaculous_auth_key",
+    "wpcentral_version",
+    "softaculous_connected",
+    "softaculous_dismiss_notice_date",
+    "softaculous_promo_time",
+    "softaculous_allowed_ips",
+    "softaculous_version",
+    "softaculous_signonkey",
+    "softaculous_signonkey_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:30.775Z"
+}

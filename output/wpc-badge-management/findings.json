@@ -1,0 +1,45 @@
+{
+  "options": [
+    "wpcbm_settings",
+    "wpcbm_*"
+  ],
+  "transients": [
+    "wpclever_plugins",
+    "wpcbm_best_selling_products"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "position_archive",
+    "position_single",
+    "position_quickview",
+    "wpcbm_activate",
+    "position",
+    "style",
+    "text",
+    "link",
+    "link_blank",
+    "tooltip",
+    "tooltip_position",
+    "extra_class",
+    "order",
+    "background_color",
+    "border_color",
+    "box_shadow",
+    "text_color",
+    "apply",
+    "new",
+    "products",
+    "categories",
+    "tags",
+    "terms",
+    "roles",
+    "timer",
+    "image",
+    "conditionals",
+    "wpcbm_type",
+    "wpcbm_badges"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:00.039Z"
+}

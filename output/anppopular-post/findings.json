@@ -1,0 +1,13 @@
+{
+  "options": [
+    "anp_color_back_num",
+    "anp_color_lett",
+    "anp_color_text_num"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:12.141Z"
+}

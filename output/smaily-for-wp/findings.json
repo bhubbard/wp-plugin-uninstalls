@@ -1,0 +1,18 @@
+{
+  "options": [
+    "smailyforwp_api_option",
+    "smailyforwp_form_option",
+    "widget_smaily_subscription_widget",
+    "smailyforwp_db_version"
+  ],
+  "transients": [
+    "smailyforwp_plugin_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smaily_for_wp_deprecation_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:54.833Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "widget_partners_banners"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_expired_partnersbanners"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "partnerlink",
+    "_wp_page_template",
+    "partnerbanner_expires"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:32.442Z"
+}

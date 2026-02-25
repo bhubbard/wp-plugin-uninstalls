@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('lime_adsense_tag_comments', 'lime_adsense_tag_posts', 'lime_rss_tagging', 'lime_rss_tag_source', 'lime_rss_tag_medium', 'lime_rss_tag_campaign', 'lime_wt_mode', 'lime_wt_file', 'lime_analytics_id', 'lime_analytics_track_404', 'lime_analytics_track_404_prefix', 'lime_wt_meta', 'lime_analytics_adsense', 'lime_chromeframe_enabled', 'lime_jquery_enabled', 'lime_jquery_version', 'lime_jqueryui_enabled', 'lime_jqueryui_version', 'lime_wp_hide_menu_update', 'lime_wp_hide_menu_posts', 'lime_wp_hide_menu_media', 'lime_wp_hide_menu_links', 'lime_wp_hide_menu_pages', 'lime_wp_hide_menu_comments', 'lime_wp_hide_menu_appearance', 'lime_wp_hide_menu_plugins', 'lime_wp_hide_menu_users', 'lime_wp_hide_menu_tools', 'lime_wp_hide_menu_settings', 'lime_show_inactive_modules', 'rewrite_rules', 'lime_show_news');
+DELETE FROM wp_options WHERE option_name LIKE 'lime_active_%';
+

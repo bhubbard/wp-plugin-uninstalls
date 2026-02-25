@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "caa_user_expiring",
+    "caa_account",
+    "caa_created",
+    "caa_deactivated",
+    "caa_hide_admin_bar",
+    "caa_main_menu",
+    "caa_sub_menu"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:46.286Z"
+}

@@ -1,0 +1,55 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'uiewp_export_field'
+wp option delete 'import-export-users '
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_export_all_users_file_%' OR option_name LIKE '_site_transient_export_all_users_file_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_export_users_by_roles_file_%' OR option_name LIKE '_site_transient_export_users_by_roles_file_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_export_specific_users_file_%' OR option_name LIKE '_site_transient_export_specific_users_file_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_export_roles_file_%' OR option_name LIKE '_site_transient_export_roles_file_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_export_caps_file_%' OR option_name LIKE '_site_transient_export_caps_file_%'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rich_editing'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rich_editing'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rich_editing'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rich_editing'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'syntax_highlighting'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'syntax_highlighting'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'syntax_highlighting'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'syntax_highlighting'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'comment_shortcuts'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'comment_shortcuts'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'comment_shortcuts'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'comment_shortcuts'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'use_ssl'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'use_ssl'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'use_ssl'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'use_ssl'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'admin_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'admin_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'admin_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'admin_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'show_admin_bar_front'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'show_admin_bar_front'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'show_admin_bar_front'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'show_admin_bar_front'"

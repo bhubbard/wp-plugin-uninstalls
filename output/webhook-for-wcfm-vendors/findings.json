@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcfm_webhook_set_url",
+    "wcfm_webhook_is_active",
+    "wcfm_webhook_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:48.814Z"
+}

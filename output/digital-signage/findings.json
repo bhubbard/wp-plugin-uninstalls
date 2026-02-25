@@ -1,0 +1,22 @@
+{
+  "options": [
+    "digsign_image_width",
+    "digsign_image_height",
+    "digsign_category_name",
+    "digsign_refresh_interval",
+    "digsign_slide_delay",
+    "digsign_enable_qrcodes",
+    "digsign_layout_type",
+    "dsp_category_name",
+    "digsign_header_content",
+    "digsign_right_panel_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:04.945Z"
+}

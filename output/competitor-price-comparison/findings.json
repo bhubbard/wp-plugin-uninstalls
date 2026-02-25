@@ -1,0 +1,33 @@
+{
+  "options": [
+    "compcom_api_settings",
+    "compcom_competitors",
+    "compcom_repricing_settings",
+    "compcom_update_interval",
+    "compcom_scraperapi_exhausted",
+    "compcom_last_processing_time",
+    "compcom_mapping_settings"
+  ],
+  "transients": [
+    "compcom_selected_competitors",
+    "compcom_scraping_in_progress",
+    "compcom_logs"
+  ],
+  "cron_jobs": [
+    "compcom_cron_event",
+    "compcom_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_compcom_competitor_mappings",
+    "_compcom_competitor_data",
+    "_compcom_original_price",
+    "_compcom_last_changed",
+    "_compcom_repriced_to",
+    "_compcom_cheapest_price",
+    "_compcom_average_price",
+    "_wc_cog_cost"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:11.178Z"
+}

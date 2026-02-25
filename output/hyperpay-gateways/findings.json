@@ -1,0 +1,14 @@
+{
+  "options": [
+    "hyperpay_payments_logs",
+    "hyperpay_payments_available_gateways"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hyperpay_remove_expired_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:23.354Z"
+}

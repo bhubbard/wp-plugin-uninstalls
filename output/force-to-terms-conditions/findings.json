@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fttnc_page_id",
+    "fttnc_last_update",
+    "termnc_display_type",
+    "termnc_notice_info",
+    "termnc_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ulast_agree_date",
+    "fttnc_exclude_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:24.404Z"
+}

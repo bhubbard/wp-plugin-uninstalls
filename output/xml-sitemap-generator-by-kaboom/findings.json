@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sitemap_generator_by_kaboom_license",
+    "sitemap_generator_exclude_ids",
+    "sitemap_generator_exclude_post_types",
+    "form_email_catcher_by_kaboom_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "leave_a_review_sitemap_kaboom_"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:37.307Z"
+}

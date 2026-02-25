@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "main_image",
+    "mycred_credly_badge_id",
+    "mycred_credly_connected_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:03.781Z"
+}

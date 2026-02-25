@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dr_fields",
+    "dr_force_first_name",
+    "dr_force_last_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:03.470Z"
+}

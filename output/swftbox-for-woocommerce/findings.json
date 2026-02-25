@@ -1,0 +1,40 @@
+{
+  "options": [
+    "swftbox_integration_key",
+    "swftbox_oauth_state",
+    "swftbox_wc_consumer_key",
+    "swftbox_wc_consumer_secret",
+    "swftbox_wc_key_permissions",
+    "swftbox_wizard_oauth_state",
+    "swftbox_retailer_id",
+    "swftbox_retailer_name",
+    "swftbox_retailer_email",
+    "swftbox_connection_status",
+    "swftbox_connected_at",
+    "swftbox_require_phone",
+    "swftbox_last_successful_sync",
+    "swftbox_credentials_synced"
+  ],
+  "transients": [
+    "swftbox_settings_saved",
+    "swftbox_connection_error",
+    "swftbox_oauth_sync_failed",
+    "swftbox_oauth_success",
+    "swftbox_oauth_error",
+    "swftbox_oauth_disconnected",
+    "swftbox_oauth_notice_shown",
+    "swftbox_trigger_oauth",
+    "swftbox_webhook_error",
+    "swftbox_webhook_health_warning",
+    "swftbox_wizard_setup_mode",
+    "swftbox_activated"
+  ],
+  "cron_jobs": [
+    "swftbox_webhook_health_check",
+    "swftbox_health_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:37.910Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp2d_plugin_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp2d_do_autopost"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:15.584Z"
+}

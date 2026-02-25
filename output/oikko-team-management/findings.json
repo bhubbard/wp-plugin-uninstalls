@@ -1,0 +1,22 @@
+{
+  "options": [
+    "oikkotm_general_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "auto_clock_out_user"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "oikkotm_user_photo",
+    "first_name",
+    "last_name",
+    "user_documents",
+    "phone_number",
+    "oikkotm_user_department",
+    "oikkotm_user_designation",
+    "oikkotm_user_shift"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:07.967Z"
+}

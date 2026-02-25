@@ -1,0 +1,42 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'hmw_options'
+wp option delete 'active_sitewide_plugins'
+wp option delete 'woocommerce_queue_flush_rewrite_rules'
+wp option delete 'comet_cache_options'
+wp option delete 'wphb_settings'
+wp option delete 'cdn_enabler'
+wp option delete 'ossdl_off_cdn_url'
+wp option delete 'ossdl_off_include_dirs'
+wp option delete 'ewww_image_optimizer_exactdn_domain'
+wp option delete 'jch_options'
+wp option delete 'hyper-cache'
+wp option delete 'bunnycdn'
+wp option delete 'wp-smush-cdn_status'
+wp option delete 'breeze_file_settings'
+wp option delete 'litespeed.conf.cache-exc'
+wp option delete 'mepr_options'
+wp option delete 'whl_page'
+wp option delete 'pp_settings_data'
+wp option delete 'woocommerce_myaccount_page_id'
+wp option delete 'rlrsssl_options'
+wp option delete 'siteground_optimizer_combine_css'
+wp option delete 'siteground_optimizer_combine_javascript'
+wp option delete 'um_options'
+wp option delete 'wpum_settings'
+wp option delete 'itsec-storage'
+wp option delete 'woocommerce_enable_myaccount_registration'
+
+# Delete Transients
+wp transient delete 'hmwp_disable'
+wp transient delete 'hmwp_activate'
+wp transient delete 'hmwp_restore'
+wp transient delete 'hmwp_local_ip'
+wp transient delete 'hmwp_update'
+wp transient delete 'update_plugins'
+wp transient delete 'update_themes'
+wp transient delete 'hmwp_lispeed_ips'
+wp transient delete 'hmwp_disable_hide_urls'
+

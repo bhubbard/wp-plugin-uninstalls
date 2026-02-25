@@ -1,0 +1,25 @@
+{
+  "options": [
+    "_wgs_security_code",
+    "_wgs_troubleshoot_mode_theme",
+    "_wgs_troubleshoot_mode_plugins",
+    "_wgs_security_nonce",
+    "wgs_restore_points",
+    "wgs_backup_constants"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wgs_troubleshoot_mode_verify",
+    "_wgs_troubleshoot_mode",
+    "_wgs_user",
+    "_wgs_created",
+    "_wgs_token",
+    "show_welcome_panel",
+    "_wgs_user_status",
+    "_wgs_last_login"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:01.930Z"
+}

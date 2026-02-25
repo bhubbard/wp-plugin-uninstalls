@@ -1,0 +1,30 @@
+{
+  "options": [
+    "scfcf7_beta",
+    "scfcf7_step",
+    "scfcf7_accountid",
+    "scfcf7_apikey",
+    "scfcf7_appId",
+    "scfcf7_ipblock"
+  ],
+  "transients": [
+    "scfcf7_failed_data",
+    "*_localpart",
+    "*_domainid",
+    "scfcf7_error_*",
+    "scfcf7_success_*",
+    "scfcf7_btn"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "scfcf7_dbid",
+    "scfcf7_domainid",
+    "scfcf7_localpart",
+    "scfcf7_active",
+    "scfcf7_under",
+    "scfcf7_mapping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:10.026Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_currencies_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_currencies_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:56.704Z"
+}

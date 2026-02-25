@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gb_browser_resize_quality",
+    "gb_browser_resize_*",
+    "large_size_*",
+    "gb_browser_resize_width",
+    "gb_browser_resize_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:43.609Z"
+}

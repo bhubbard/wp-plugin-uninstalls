@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_easter_egg_plugin_settings",
+    "wp_easter_egg_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpee_added_to_filter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:12.171Z"
+}

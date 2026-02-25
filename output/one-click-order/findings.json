@@ -1,0 +1,18 @@
+{
+  "options": [
+    "oneclickorder_settings",
+    "oneclickorder_order_page_id",
+    "oneclickorder_manual_orders_log",
+    "oneclickorder_report_email",
+    "oneclickorder_order_count",
+    "oneclickorder_last_reset",
+    "oneclickorder_install_date",
+    "oneclickorder_start_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:59.125Z"
+}

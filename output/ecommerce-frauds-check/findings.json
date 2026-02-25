@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ecommerce_frauds_check_trial_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ecommerce_frauds_check_schedule_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:53.687Z"
+}

@@ -1,0 +1,45 @@
+{
+  "options": [
+    "sirsc_adon_images_seo_settings",
+    "sirsc_adons_is_bulk_rename",
+    "sirsc_use_custom_image_sizes",
+    "sirsc_adon_uploads_files_count",
+    "*_proc_dir",
+    "*_proc_item",
+    "*_last_proc",
+    "*_proc_time",
+    "sirsc_settings",
+    "sirsc_user_custom_rules",
+    "sirsc_user_custom_rules_usable",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "sirsc_monitor_errors",
+    "sirsc_settings_updated",
+    "sirsc_settings_*",
+    "sirsc_types_options",
+    "sirsc_settings*",
+    "sirsc_admin_featured_size",
+    "sirsc_adons_list",
+    "wp_attachment_pages_enabled"
+  ],
+  "transients": [
+    "sirsc_adon_uploads_folder_summary",
+    "sirsc-adon-check-*",
+    "*_adons_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_seoimg_initial_filename",
+    "_seoimg_initial_filepath",
+    "_wp_attachment_image_alt",
+    "_wp_attached_file",
+    "_thumbnail_id",
+    "_product_image_gallery",
+    "_wp_attachment_metadata",
+    "_sirsc_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:02.489Z"
+}

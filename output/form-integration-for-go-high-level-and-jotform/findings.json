@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ghl_jotform_webhook_secret",
+    "ghljotform_clnt_id",
+    "ghljotform_clnt_scrt",
+    "ghl_jotform_api",
+    "ghljotform_oauth_state"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:45.555Z"
+}

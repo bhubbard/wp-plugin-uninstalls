@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fpsml_plugin_install_date",
+    "fpsml_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fpsml_hide_review_notice",
+    "_fpsml_form_alias",
+    "fpsml_author_email",
+    "fpsml_author_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:25.753Z"
+}

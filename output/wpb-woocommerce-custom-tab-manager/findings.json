@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpb_wctm_priority",
+    "wpb_wctm_active_tab",
+    "wpb_wctm_pro_discount_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:16.178Z"
+}

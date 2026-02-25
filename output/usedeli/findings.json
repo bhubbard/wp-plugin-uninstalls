@@ -1,0 +1,21 @@
+{
+  "options": [
+    "usedeli_api",
+    "usedeli_mls_id",
+    "usedeli_logo",
+    "usedeli_color",
+    "usedeli_position",
+    "usedeli_display_name",
+    "usedeli_display_on",
+    "usedeli_post_ids",
+    "usedeli_token",
+    "usedeli_initial_question",
+    "usedeli_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:18.571Z"
+}

@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'DDT_Facebook_events_url'
+wp option delete 'DDT_Pixel_Facebook_auto_setup'
+wp option delete 'DDT_Pixel_Facebook_auto_setup_apikey'
+wp option delete 'DDT_Facebook_Nav_disable_nav'
+wp option delete 'DDT_Facebook_Nav_Pixel_Activated'
+wp option delete 'DDT_Facebook_Nav_disable_coockieplugin'
+wp option delete 'DDT_Facebook_Nav_Pixel_Id'
+wp option delete 'DDT_Facebook_Nav_account_Id'
+wp option delete 'DDT_Facebook_Nav_account_name'
+wp option delete 'DDT_Pixel_Facebook_Position'
+wp option delete 'DDT_Facebook_Nav_ecommerce_Activated'
+wp option delete 'DDT_Facebook_Nav_woocommerce_Activated'
+wp option delete 'DDT_Facebook_Nav_woocommerce_addtocard_Eventtype'
+wp option delete 'DDT_Facebook_Nav_woocommerce_checkout_Eventtype'
+wp option delete 'DDT_Facebook_Nav_woocommerce_purchase_Eventtype'
+wp option delete 'DDT_Facebook_Nav_ecommerce_thankyou_Activated'
+wp option delete 'DDT_Facebook_Nav_ecommerce_thankyou_page'
+wp option delete 'DDT_Facebook_Nav_contact_Activated'
+wp option delete 'DDT_Facebook_Nav_contact_cf7_Activated'
+wp option delete 'DDT_Facebook_Nav_contact_elementor_Activated'
+wp option delete 'DDT_Facebook_Nav_contact_phoneemail_Activated'
+wp option delete 'DDT_Facebook_Nav_contact_phoneemail_Email'
+wp option delete 'DDT_Facebook_Nav_contact_phoneemail_Phone'
+wp option delete 'DDT_Facebook_Nav_contact_thankyou_Activated'
+wp option delete 'DDT_Facebook_Nav_contact_thankyou_page'
+wp option delete 'DDT_Facebook_Nav_Capi_Activated'
+wp option delete 'DDT_Facebook_Nav_Capi_token'
+

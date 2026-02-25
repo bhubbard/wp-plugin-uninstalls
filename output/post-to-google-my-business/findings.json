@@ -1,0 +1,60 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "pgmb_accounts",
+    "pgmb_location_import_last_error_*",
+    "pgmb_account_refresh_*",
+    "pgmb_activated",
+    "mbp_misc",
+    "mbp_google_settings",
+    "mbp_quick_post_settings",
+    "mbp_review_notifications",
+    "mbp_welcome_message",
+    "mbp_request_key",
+    "mbp_api_key",
+    "mbp_api_token",
+    "mbp_site_key",
+    "mbp_debug_info",
+    "mbp_dashboard",
+    "*_version",
+    "*_upgrade_running"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "pgmb_public_keys",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "mbp_scheduled_google_post",
+    "pgmb_delete_previous_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pgmb_queued_items",
+    "mbp_form_fields",
+    "_mbp_is_autopost",
+    "mbp_last_error",
+    "_mbp_autopost_template",
+    "_pgmb_ap_template_id",
+    "_pgmb_autopost_template",
+    "mbp_autopost_created",
+    "_mbp_gutenberg_autopost",
+    "_pgmb_scheduled_autopost",
+    "_mbp_post_publish_date",
+    "_pgmb_previous_post_id",
+    "mbp_autopost_checked",
+    "mbp_posts",
+    "mbp_errors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:52.850Z"
+}

@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('_yeeaddons_dropbox_api_token', '_yeeaddons_dropbox_api_token_refresh_token', 'elementor_yeeaddons_drobox_client_id', 'elementor_yeeaddons_dropbox_client_secret', 'ninja_forms_addons_feed', 'yeekit_addons');
+DELETE FROM wp_options WHERE option_name LIKE '_redmuber_item_%';
+DELETE FROM wp_options WHERE option_name LIKE 'yeekit_addons_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'yeeaddons_dismissed_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'yeeaddons_dismissed_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'yeeaddons_dismissed_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'yeeaddons_dismissed_%';
+

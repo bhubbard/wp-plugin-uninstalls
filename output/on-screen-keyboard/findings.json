@@ -1,0 +1,12 @@
+{
+  "options": [
+    "on_screen_keyboard_version_field",
+    "on_screen_keyboard_ppposts_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:28.256Z"
+}

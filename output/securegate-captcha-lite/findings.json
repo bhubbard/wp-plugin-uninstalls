@@ -1,0 +1,22 @@
+{
+  "options": [
+    "securegate_dashboard_notice_dismissed_time",
+    "securegate_captcha_settings",
+    "securegate_bypass_start_time",
+    "securegate_review_notice_dismissed",
+    "secucali_transient_cleanup_done",
+    "securegate_daily_stats"
+  ],
+  "transients": [
+    "securegate_review_notice_temp_dismissed",
+    "securegate_lite_deactivated_notice",
+    "securegate_captcha_logs"
+  ],
+  "cron_jobs": [
+    "securegate_daily_analytics_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:43.647Z"
+}

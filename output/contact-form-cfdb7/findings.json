@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cfdb7_view_install_date",
+    "cfdb7_view_ignore_notice"
+  ],
+  "transients": [
+    "cfdb7_add_ons_feed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:29.491Z"
+}

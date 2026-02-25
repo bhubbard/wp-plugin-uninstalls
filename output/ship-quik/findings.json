@@ -1,0 +1,14 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_correos_taric_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:59.948Z"
+}

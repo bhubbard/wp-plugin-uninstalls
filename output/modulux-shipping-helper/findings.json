@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "modulux_weight_units",
+    "modulux_shipping_rules",
+    "modulux_shipping_calc_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_weight_unit",
+    "_weight"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:57.030Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "i-refer-api-url",
+    "i-refer-api-keys",
+    "*-settings",
+    "admin_phone",
+    "*_sites",
+    "*_promo_hide"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:59.573Z"
+}

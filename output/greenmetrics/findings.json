@@ -1,0 +1,23 @@
+{
+  "options": [
+    "greenmetrics_settings",
+    "greenmetrics_db_error",
+    "greenmetrics_aggregated_db_error",
+    "greenmetrics_version",
+    "greenmetrics_all_cache_last_update",
+    "greenmetrics_table_columns"
+  ],
+  "transients": [
+    "greenmetrics_table_exists_*"
+  ],
+  "cron_jobs": [
+    "greenmetrics_cleanup_charts",
+    "greenmetrics_data_management",
+    "greenmetrics_send_email_report",
+    "greenmetrics_daily_cache_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:29.043Z"
+}

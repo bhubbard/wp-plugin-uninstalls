@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ewbct_permalink",
+    "ewbct_position",
+    "ewbct_style",
+    "ewbct_title",
+    "ewbct_width",
+    "ewbct_height",
+    "ewbct_image_style",
+    "ewbct_image_brands_columns",
+    "ewbct_brand_columns"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ewbct_category-image-id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:27.740Z"
+}

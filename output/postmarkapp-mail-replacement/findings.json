@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pm_wp_mail_address",
+    "pm_wp_mail_type",
+    "pm_wp_mail_db_version",
+    "pm_wp_mail_key",
+    "pm_wp_mail_activate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:16.724Z"
+}

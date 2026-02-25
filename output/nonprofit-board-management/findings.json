@@ -1,0 +1,26 @@
+{
+  "options": [
+    "board_rsvp_db_version",
+    "board_resources_content",
+    "classic-editor-replace"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_committee_description",
+    "board_committees",
+    "current_employer",
+    "job_title",
+    "_event_description",
+    "_location",
+    "_street",
+    "_area",
+    "_start_date_time",
+    "_end_date_time",
+    "phone",
+    "description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:56.933Z"
+}

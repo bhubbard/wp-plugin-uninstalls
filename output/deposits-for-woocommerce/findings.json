@@ -1,0 +1,41 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "ci_woo_deposits_installed",
+    "csf_demo_mode",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "dfwc_plugin_review",
+    "bayna_update_completed",
+    "woocommerce_tax_display_cart",
+    "woocommerce_email_footer_text",
+    "rdn_fetch_*"
+  ],
+  "transients": [
+    "bayna_review_later",
+    "cdx-bayna-plugin-info-*",
+    "rn_last_notification_*",
+    "wpi_check_ran_*"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*",
+    "_enable_deposit",
+    "_deposits_type",
+    "_deposits_value",
+    "_create_from_shop_order",
+    "deposit_value",
+    "_genarate_deposit_orders",
+    "already_cancelled",
+    "_force_deposit_checked",
+    "_enable_variation_deposit",
+    "_rn_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:28.051Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wcfee_enable",
+    "wcfee_label",
+    "wcfee_type",
+    "wcfee_fixed",
+    "wcfee_percentage",
+    "wcfee_enable_minimum",
+    "wcfee_enable_maximum",
+    "wcfee_enable_product_filter",
+    "wcfee_minimum",
+    "wcfee_maximum",
+    "wcfee_product_filter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:28.939Z"
+}

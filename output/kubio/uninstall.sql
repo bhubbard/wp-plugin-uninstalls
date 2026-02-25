@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('kubio_ai_key', 'theme_mods_colibri-wp', 'theme_mods_kubio', 'theme_switched', '_kubio_dismissable_notices', 'kubio_is_fresh_site', '_kubio_is_siteground_imported', 'gutenberg-experiments', 'sidebars_widgets', 'nav_menu_options', 'fresh_site', 'rewrite_rules', '__kubio_instance_flags', 'kubio-demo-sites-repository', 'kubio_skip_after_theme_switch', 'pt_importer_data', 'wc_attribute_taxonomies');
+DELETE FROM wp_options WHERE option_name LIKE 'widget_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_attachment_image_alt', 'thumbnail_id', 'kubio_ai_page_context', '_wp_page_template', 'saved_in_kubio', '_kubio_created_at_activation', '_kubio_template_source', 'popup_type', 'triggers', 'active', 'kubio_recommendation_popup', '_wxr_import_term', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_attachment_image_alt', 'thumbnail_id', 'kubio_ai_page_context', '_wp_page_template', 'saved_in_kubio', '_kubio_created_at_activation', '_kubio_template_source', 'popup_type', 'triggers', 'active', 'kubio_recommendation_popup', '_wxr_import_term', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_attachment_image_alt', 'thumbnail_id', 'kubio_ai_page_context', '_wp_page_template', 'saved_in_kubio', '_kubio_created_at_activation', '_kubio_template_source', 'popup_type', 'triggers', 'active', 'kubio_recommendation_popup', '_wxr_import_term', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_attachment_image_alt', 'thumbnail_id', 'kubio_ai_page_context', '_wp_page_template', 'saved_in_kubio', '_kubio_created_at_activation', '_kubio_template_source', 'popup_type', 'triggers', 'active', 'kubio_recommendation_popup', '_wxr_import_term', '_menu_item_type', '_menu_item_object_id', '_wxr_import_menu_item', '_wxr_import_parent', '_wxr_import_user_slug', '_wxr_import_has_attachment_refs', '_wxr_import_user', '_thumbnail_id');
+

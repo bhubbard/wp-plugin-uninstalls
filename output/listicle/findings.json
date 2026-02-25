@@ -1,0 +1,18 @@
+{
+  "options": [
+    "listicle_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "listicle_tease",
+    "listicle_name",
+    "listicle_order",
+    "listicle_parentID",
+    "listicle_excerpt",
+    "listicle_exceprt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:57.010Z"
+}

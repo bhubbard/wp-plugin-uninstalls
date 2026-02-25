@@ -1,0 +1,15 @@
+{
+  "options": [
+    "photo_collage_scan_cache_version",
+    "photo_collage_uninstall_preference"
+  ],
+  "transients": [
+    "update_plugins",
+    "photo_collage_block_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:03.998Z"
+}

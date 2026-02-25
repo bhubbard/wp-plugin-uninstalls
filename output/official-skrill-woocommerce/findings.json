@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_settings",
+    "skrill_completed_status",
+    "skrill_merchant_id",
+    "skrill_merchant_account",
+    "skrill_recipient_desc",
+    "skrill_logo_url",
+    "woocommerce_checkout_page_id",
+    "skrill_secret_word",
+    "skrill_api_passwd",
+    "woocommerce_skrill_acc_settings",
+    "skrill_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_manage_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:48.042Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "atr_cookie_notice_activation_time",
+    "atr_cookie_notice_dismiss_review"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "atr_cookie_notice_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:26.728Z"
+}

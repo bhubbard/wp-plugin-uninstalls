@@ -1,0 +1,19 @@
+{
+  "options": [
+    "slogin_outgoing_logout",
+    "slogin_outgoing_user_creation",
+    "slogin_main_site_secret_key",
+    "slogin_setup_complete",
+    "slogin_sitetype",
+    "slogin_incomming_logout",
+    "slogin_incomming_user_creation",
+    "slogin_main_site_url",
+    "slogin_sync_site_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:19.534Z"
+}

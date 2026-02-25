@@ -1,0 +1,17 @@
+{
+  "options": [
+    "friendzsoft_chatbot_header_color",
+    "friendzsoft_openai_api_url",
+    "friendzsoft_openai_api_key",
+    "friendzsoft_chatbot_logo",
+    "friendzsoft_chatbot_primary_color",
+    "friendzsoft_chatbot_title",
+    "friendzsoft_openai_instruction"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:31.149Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "prime_feed_default_age_group",
+    "prime_feed_default_gender",
+    "prime_feed_require_images",
+    "prime_feed_color_attributes",
+    "prime_feed_size_attributes",
+    "prime_feed_size_case",
+    "prime_feed_memory_limit_warning",
+    "default_product_cat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_feedcraft_gtin",
+    "_gtin",
+    "_feedcraft_mpn",
+    "_mpn",
+    "_gmc_age_group",
+    "_gmc_gender",
+    "_brand",
+    "_color",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:26.602Z"
+}

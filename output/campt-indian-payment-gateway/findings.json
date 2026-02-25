@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tix_phone",
+    "tix_access_token",
+    "tix_ticket_id",
+    "tix_questions",
+    "tix_first_name",
+    "tix_last_name",
+    "tix_email",
+    "tix_discount_percent",
+    "tix_discount_price",
+    "tix_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:42.925Z"
+}

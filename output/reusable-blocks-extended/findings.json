@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "reblex_reusable_registered_stylesheets"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "transformed_into_pattern",
+    "_edit_last"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:14.616Z"
+}

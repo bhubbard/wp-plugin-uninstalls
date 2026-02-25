@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('discountify_settings');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('rules_type', 'enable_rules', 'discount_type', 'discount_in', 'filter_by_products', 'filter_by_category', 'discount_number', 'discount_label', 'bogo_discount_type', 'multi_discounts', 'bogo_discount_in', 'enable_user_discount', 'disc_user_roles', 'user_discount_condition', 'specific_customers', 'discount_valid', 'free_shipping_based_on', 'free_shipping_products', 'free_shipping_categories', 'free_shipping_min_amount', 'cart_discount_on', 'first_name', 'last_name');
+DELETE FROM wp_usermeta WHERE meta_key IN ('rules_type', 'enable_rules', 'discount_type', 'discount_in', 'filter_by_products', 'filter_by_category', 'discount_number', 'discount_label', 'bogo_discount_type', 'multi_discounts', 'bogo_discount_in', 'enable_user_discount', 'disc_user_roles', 'user_discount_condition', 'specific_customers', 'discount_valid', 'free_shipping_based_on', 'free_shipping_products', 'free_shipping_categories', 'free_shipping_min_amount', 'cart_discount_on', 'first_name', 'last_name');
+DELETE FROM wp_termmeta WHERE meta_key IN ('rules_type', 'enable_rules', 'discount_type', 'discount_in', 'filter_by_products', 'filter_by_category', 'discount_number', 'discount_label', 'bogo_discount_type', 'multi_discounts', 'bogo_discount_in', 'enable_user_discount', 'disc_user_roles', 'user_discount_condition', 'specific_customers', 'discount_valid', 'free_shipping_based_on', 'free_shipping_products', 'free_shipping_categories', 'free_shipping_min_amount', 'cart_discount_on', 'first_name', 'last_name');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('rules_type', 'enable_rules', 'discount_type', 'discount_in', 'filter_by_products', 'filter_by_category', 'discount_number', 'discount_label', 'bogo_discount_type', 'multi_discounts', 'bogo_discount_in', 'enable_user_discount', 'disc_user_roles', 'user_discount_condition', 'specific_customers', 'discount_valid', 'free_shipping_based_on', 'free_shipping_products', 'free_shipping_categories', 'free_shipping_min_amount', 'cart_discount_on', 'first_name', 'last_name');
+

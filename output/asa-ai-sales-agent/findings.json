@@ -1,0 +1,24 @@
+{
+  "options": [
+    "asaaisaa_cache_bust",
+    "asaaisaa_system_prompt",
+    "asaaisaa_title",
+    "asaaisaa_subtitle",
+    "asaaisaa_primary_color",
+    "asaaisaa_avatar_image_url",
+    "asaaisaa_avatar_icon",
+    "asaaisaa_position",
+    "asaaisaa_show_credit",
+    "asaaisaa_api_key",
+    "asaaisaa_proactive_delay",
+    "asaaisaa_history_limit",
+    "asaaisaa_auto_insert",
+    "asaaisaa_display_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:05.249Z"
+}

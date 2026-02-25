@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mgd_repo_setting",
+    "mgd_do_activation_redirect",
+    "mgd_cron_setting",
+    "mgd_glob_setting",
+    "mgd_resolver_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mgd_last_updated",
+    "mgd_local_last_commit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:10.494Z"
+}

@@ -1,0 +1,11 @@
+{
+  "options": [
+    "very_simple_wp_maker_map_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:54.577Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_store_postcode",
+    "greenreceipt_notifications_option_name",
+    "greenreceipt_store_category",
+    "greenreceipt_plugin_do_activation_redirect",
+    "greenreceipt_notifications_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "greenreceipt_check_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "admin_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:57.541Z"
+}

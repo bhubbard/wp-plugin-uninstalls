@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_email_from_address",
+    "woocommerce_email_from_name",
+    "woocommerce_postis_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "postis_shipment_pdf_printed",
+    "postis_shipping_method",
+    "postis_dpo_postbox",
+    "postis_dpo_phonenumber",
+    "postis_shipment_meta",
+    "hsTariffNumber",
+    "descriptionOfContents",
+    "postis_dpt_parcelpoints",
+    "postis_dpt_phonenumber",
+    "billing_kennitala"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:43.521Z"
+}

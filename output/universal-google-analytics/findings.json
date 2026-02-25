@@ -1,0 +1,15 @@
+{
+  "options": [
+    "universal_google_analytics_version",
+    "universal_google_analytics_tracking_id",
+    "universal_google_tag_type",
+    "universal_google_analytics_gtag_id",
+    "universal_google_analytics_tracking_id_ga4"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:06.287Z"
+}

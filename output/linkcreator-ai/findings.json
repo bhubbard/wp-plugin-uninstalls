@@ -1,0 +1,20 @@
+{
+  "options": [
+    "linkcreator_plugin_activated",
+    "linkcreator_api_token",
+    "meta_keywords",
+    "linkcreator_api_key",
+    "linkcreator_api_status",
+    "linkcreator_first_activation",
+    "linkcreator_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "linkcreator_app_password_slug",
+    "linkcreator_app_password"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:07.676Z"
+}

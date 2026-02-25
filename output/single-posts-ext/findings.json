@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hide_readmore_link_pages",
+    "hide_all_readmore_links",
+    "use_single_images_folder",
+    "use_compressed_images",
+    "load_plugin_styles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:17.428Z"
+}

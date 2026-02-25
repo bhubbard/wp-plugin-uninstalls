@@ -1,0 +1,23 @@
+{
+  "options": [
+    "hurraki_tooltip_wiki",
+    "hurraki_tooltip_key_words_last_update_time",
+    "hurraki_tooltip_max_word",
+    "hurraki_tooltip_key_words_en",
+    "hurraki_tooltip_key_words_eo",
+    "hurraki_tooltip_key_words_de",
+    "hurraki_tooltip_key_words_ma",
+    "hurraki_tooltip_key_words_it",
+    "hurraki_tooltip_key_words_*"
+  ],
+  "transients": [
+    "hurrakify_updating"
+  ],
+  "cron_jobs": [
+    "hurrakify_weekly_update_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:50.012Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "insitelogin_login_page",
+    "insitelogin_logged_in",
+    "insitelogin_logged_in_title",
+    "insitelogin_logged_out_title",
+    "insitelogin_text_login",
+    "insitelogin_text_lostpassword",
+    "insitelogin_text_retrievepassword",
+    "insitelogin_text_resetpass",
+    "insitelogin_text_register"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:32.312Z"
+}

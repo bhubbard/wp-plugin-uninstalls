@@ -1,0 +1,12 @@
+{
+  "options": [
+    "onebip_vat_detail",
+    "woocommerce_onebip_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:56.423Z"
+}

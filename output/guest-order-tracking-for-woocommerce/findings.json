@@ -1,0 +1,15 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "alg_wc_guest_order_tracking_version",
+    "alg_wc_guest_order_tracking_plugin_enabled",
+    "alg_gotwc_track_page_url",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:46.907Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "tiviclick_accountid",
+    "tiviclick_uselang"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:20.125Z"
+}

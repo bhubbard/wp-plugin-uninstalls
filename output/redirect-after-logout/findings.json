@@ -1,0 +1,14 @@
+{
+  "options": [
+    "redalo_settings",
+    "redalo_migrated",
+    "wpral_logout_redirect_url",
+    "wpral_use_safe_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:44.385Z"
+}

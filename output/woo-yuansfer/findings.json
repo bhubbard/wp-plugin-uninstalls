@@ -1,0 +1,39 @@
+{
+  "options": [
+    "woocommerce_yuansfer_settings",
+    "wc_yuansfer_show_ssl_notice",
+    "wc_yuansfer_show_keys_notice",
+    "wc_yuansfer_show_phpver_notice",
+    "wc_yuansfer_show_wcver_notice",
+    "wc_yuansfer_show_curl_notice",
+    "*_notice",
+    "wc_yuansfer_show_alipay_notice",
+    "wc_yuansfer_show_wechatpay_notice",
+    "wc_yuansfer_show_creditcard_notice",
+    "wc_yuansfer_show_paypal_notice",
+    "wc_yuansfer_show_venmo_notice",
+    "woocommerce_gateway_yuansfer_retention",
+    "*_settings",
+    "wc_yuansfer_show_request_api_notice",
+    "wc_yuansfer_version",
+    "woocommerce_yuansfer_alipay_settings",
+    "woocommerce_yuansfer_wechatpay_settings",
+    "woocommerce_yuansfer_creditcard_settings",
+    "woocommerce_yuansfer_paypal_settings",
+    "woocommerce_yuansfer_venmo_settings"
+  ],
+  "transients": [
+    "yuansfer_customer_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yuansfer_customer_id",
+    "_yuansfer_source_id",
+    "_yuansfer_refund_id",
+    "billing_email",
+    "_yuansfer_card_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:35.613Z"
+}

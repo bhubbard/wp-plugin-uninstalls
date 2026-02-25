@@ -1,0 +1,16 @@
+{
+  "options": [
+    "qeseo_to_*",
+    "quick-and-easy-seo",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_qeseo_title_tag_meta_value",
+    "_qeseo_metades_meta_value"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:13.396Z"
+}

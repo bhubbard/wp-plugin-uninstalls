@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wplalr_login_redirect",
+    "wplalr_logout_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wplalr_last_login"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:59.855Z"
+}

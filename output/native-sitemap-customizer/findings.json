@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ayudawp_nsm_dismissed_notices",
+    "wpseo_taxonomy_meta",
+    "aioseo_options",
+    "ayudawp_nsm_settings"
+  ],
+  "transients": [
+    "ayudawp_nsm_reset_success",
+    "ayudawp_nsm_seo_plugin_dismissed",
+    "ayudawp_nsm_promo_dismissed",
+    "ayudawp_nsm_noindex_notice",
+    "ayudawp_nsm_seo_plugin_notice",
+    "ayudawp_nsm_promo_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:53.106Z"
+}

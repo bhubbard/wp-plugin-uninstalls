@@ -1,0 +1,17 @@
+{
+  "options": [
+    "custlode_logo",
+    "custlode_form_background_color",
+    "custlode_background_color",
+    "custlode_input_style",
+    "custlode_heading_color",
+    "custlode_label_color",
+    "custlode_link_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:15.694Z"
+}

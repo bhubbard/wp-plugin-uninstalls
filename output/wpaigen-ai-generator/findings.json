@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpaigen_usage_today",
+    "wpaigen_daily_limit",
+    "wpaigen_license_type",
+    "wpaigen_license_key",
+    "wpaigen_last_usage_date",
+    "wpaigen_timezone",
+    "wpaigen_license_email",
+    "wpaigen_license_status",
+    "wpaigen_test_country",
+    "wpaigen_scheduler_db_version",
+    "wpaigen_midtrans_client_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpaigen_process_scheduled_posts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wpaigen_meta_title",
+    "_wpaigen_meta_description",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "rank_math_title",
+    "rank_math_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:58.380Z"
+}

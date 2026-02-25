@@ -1,0 +1,31 @@
+{
+  "options": [
+    "_productdyno_api_key"
+  ],
+  "transients": [
+    "pd_products_data",
+    "pd_collections_data",
+    "pd_collection_products_data_*",
+    "pd_product_data_*",
+    "pd_product_login_page_*",
+    "pd_product_forgot_password_page_*",
+    "pd_product_reset_password_page_*",
+    "pd_product_register_page_*",
+    "pd_collection_data_*",
+    "pd_collection_login_page_*",
+    "pd_collection_forgot_password_page_*",
+    "pd_collection_reset_password_page_*",
+    "pd_collection_register_page_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pd_type",
+    "pd_product_id",
+    "pd_collection_id",
+    "pd_collection_product_id",
+    "pd_no_access_page_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:09.834Z"
+}

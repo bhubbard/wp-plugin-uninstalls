@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*_page",
+    "*_pages",
+    "*_get_ids",
+    "*_in_process",
+    "*_lock",
+    "*_def_vendor",
+    "*_filters",
+    "woocommerce_currency",
+    "shopybot_api_key",
+    "shopybot_fb_page_id",
+    "shopybot_fb_page_name",
+    "shopybot_shop_token",
+    "shopybot_connect_fb_page_url",
+    "shopybot_connect_shop_url",
+    "shopybot_disconnect_shop_url",
+    "shopybot_disconnect_fb_page_url",
+    "shopybot-woocommerce_in_process",
+    "shopybot-woocommerce_page",
+    "shopybot-woocommerce_pages",
+    "shopybot-woocommerce_lock",
+    "shopybot-woocommerce_get_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vendor",
+    "*_yml_offer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:54.736Z"
+}

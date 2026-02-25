@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('compressx_general_settings', 'compressx_dissmiss_conflict_notice', 'medium_large_size_w', 'medium_large_size_h', 'compressx_quality', 'compressx_converter_method', 'compressx_output_format_webp', 'compressx_output_format_avif', 'compressx_auto_optimize', 'compressx_custom_includes', 'compressx_custom_image_opt_task', 'compressx_need_optimized_custom_images', 'compressx_image_opt_task', 'compressx_global_stats', 'compressx_media_excludes', 'compressx_hide_notice', 'compressx_need_optimized_images', 'compressx_rating_dismiss', 'compressx_show_review', 'compressx_hide_big_update', 'compressx_media_replace', 'compressx_set_global_stats', 'update_plugins');
+DELETE FROM wp_options WHERE option_name LIKE '%_size_w';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_h';
+DELETE FROM wp_options WHERE option_name LIKE '%_crop';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_attached_file', '_wp_sellvia_attached_file', 'compressx_image_meta_status', 'compressx_image_meta_webp_converted', 'compressx_image_meta_avif_converted', 'compressx_image_meta_compressed', 'compressx_image_meta_og_file_size', 'compressx_image_meta_webp_converted_size', 'compressx_image_meta_avif_converted_size', 'compressx_image_meta_compressed_size', 'compressx_image_meta', 'compressx_image_progressing', '_wp_attachment_metadata');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_attached_file', '_wp_sellvia_attached_file', 'compressx_image_meta_status', 'compressx_image_meta_webp_converted', 'compressx_image_meta_avif_converted', 'compressx_image_meta_compressed', 'compressx_image_meta_og_file_size', 'compressx_image_meta_webp_converted_size', 'compressx_image_meta_avif_converted_size', 'compressx_image_meta_compressed_size', 'compressx_image_meta', 'compressx_image_progressing', '_wp_attachment_metadata');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_attached_file', '_wp_sellvia_attached_file', 'compressx_image_meta_status', 'compressx_image_meta_webp_converted', 'compressx_image_meta_avif_converted', 'compressx_image_meta_compressed', 'compressx_image_meta_og_file_size', 'compressx_image_meta_webp_converted_size', 'compressx_image_meta_avif_converted_size', 'compressx_image_meta_compressed_size', 'compressx_image_meta', 'compressx_image_progressing', '_wp_attachment_metadata');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_attached_file', '_wp_sellvia_attached_file', 'compressx_image_meta_status', 'compressx_image_meta_webp_converted', 'compressx_image_meta_avif_converted', 'compressx_image_meta_compressed', 'compressx_image_meta_og_file_size', 'compressx_image_meta_webp_converted_size', 'compressx_image_meta_avif_converted_size', 'compressx_image_meta_compressed_size', 'compressx_image_meta', 'compressx_image_progressing', '_wp_attachment_metadata');
+

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_takbull_settings",
+    "wc_takbull_show_changed_keys_notice",
+    "*_settings",
+    "wc_takbull_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_takbull_tokenize_payment",
+    "_secure_sms_uniq_id",
+    "takbull_invoice_lock",
+    "document_number",
+    "document_type",
+    "_wc_takbull_token",
+    "_is_secure_sms_validation"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:47.304Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "fv_pro_purchase",
+    "fv_db_version",
+    "fvSettings",
+    "fv_forms",
+    "fv-keys",
+    "fv_dashboard_widget_settings",
+    "fv-review"
+  ],
+  "transients": [
+    "fv_pro_remind_later",
+    "fv_remind_later"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bricks_page_content_2",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:13.828Z"
+}

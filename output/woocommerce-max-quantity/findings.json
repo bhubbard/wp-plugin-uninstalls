@@ -1,0 +1,13 @@
+{
+  "options": [
+    "isa_woocommerce_max_qty_limit",
+    "direct_checkout_enabled",
+    "direct_checkout_cart_redirect_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:02.801Z"
+}

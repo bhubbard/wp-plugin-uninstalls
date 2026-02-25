@@ -1,0 +1,24 @@
+{
+  "options": [
+    "yahman_addons",
+    "yahman_addons_version",
+    "yahman_addons_external_cache",
+    "yahman_addons_count"
+  ],
+  "transients": [
+    "ya_amp_cache_*",
+    "ya_faster_cache_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ya_description",
+    "yahman_addons_delete_function_notice_dismiss",
+    "_yahman_addons_pv_*",
+    "_yahman_addons_coverage_period_*",
+    "*all",
+    "yahman_addons_social_user_profile"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:49.412Z"
+}

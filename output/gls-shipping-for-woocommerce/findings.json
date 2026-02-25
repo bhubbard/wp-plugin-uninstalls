@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woocommerce_gls_shipping_method_settings",
+    "woocommerce_gls_shipping_method_parcel_shop_settings",
+    "woocommerce_gls_shipping_method_parcel_locker_settings",
+    "woocommerce_gls_shipping_method_parcel_shop_zones_settings",
+    "woocommerce_gls_shipping_method_parcel_locker_zones_settings",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_store_address_2",
+    "woocommerce_default_country",
+    "woocommerce_weight_unit",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gls_restrict_parcel_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:21.446Z"
+}

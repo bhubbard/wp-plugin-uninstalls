@@ -1,0 +1,23 @@
+{
+  "options": [
+    "the_bootstrap_themes_companion_do_activation_redirect",
+    "txt_image_url",
+    "image_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tbtc_facebook_link",
+    "tbtc_instagram_link",
+    "tbtc_twitter_link",
+    "tbtc_linkedIn_link",
+    "tbtc_designation",
+    "tbtc_cta_button",
+    "tbtc_cta_link",
+    "tbtc_actual_price",
+    "tbtc_sale_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:38.760Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cfb_must_login_version",
+    "cfb_must_login_require_login",
+    "cfb_must_login_protect_rest_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cfb_must_login_cache_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:07.027Z"
+}

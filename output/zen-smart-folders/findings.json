@@ -1,0 +1,15 @@
+{
+  "options": [
+    "zensf_activity_log",
+    "zensf_options",
+    "zensf_remove_data_on_uninstall",
+    "zensf_version",
+    "zensf_installed_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:09.571Z"
+}

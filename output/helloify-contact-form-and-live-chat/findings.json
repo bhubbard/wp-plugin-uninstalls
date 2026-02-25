@@ -1,0 +1,14 @@
+{
+  "options": [
+    "web_customer_id",
+    "web_customer_email",
+    "web_customer_email_valid",
+    "first_install_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:33.330Z"
+}

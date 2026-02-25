@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*right_click",
+    "*disable_keys",
+    "*text_selection",
+    "*image_text_dragging",
+    "uncopy_settings_html_disabled_js_msg",
+    "uncopy_settings_anti_adblocker_*",
+    "uncopy_settings_anti_adblocker_urls",
+    "uncopy_settings_anti_adblocker_anti_adblocker_msg",
+    "uncopy_settings_backend_*",
+    "uncopy_settings_general_backend",
+    "uncopy_settings_backend_backend_type",
+    "uncopy_settings_backend_backend_urls"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:13.012Z"
+}

@@ -1,0 +1,35 @@
+{
+  "options": [
+    "lfdl_gmap_api",
+    "lfdl_custom_markers",
+    "lfdl_url",
+    "lfdl_all_lstngs_page",
+    "lfdl_all_cities",
+    "lfdl_all_zip_codes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "property_attachment_ids",
+    "property_lease",
+    "property_lat",
+    "property_long",
+    "property_city",
+    "property_zip",
+    "property_id",
+    "property_rent",
+    "property_market_rent",
+    "property_baths",
+    "property_beds",
+    "property_sq_ft",
+    "property_availability",
+    "property_apply_link",
+    "property_phn_no",
+    "property_email",
+    "property_amenities",
+    "property_bedsbeds"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:06.171Z"
+}

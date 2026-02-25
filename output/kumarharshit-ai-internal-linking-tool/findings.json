@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aiinlito_max_keywords",
+    "aiinlito_enable_caching",
+    "aiinlito_db_version",
+    "aiinlito_allowed_post_types",
+    "aiinlito_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aiinlito_process_keywords_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:07.275Z"
+}

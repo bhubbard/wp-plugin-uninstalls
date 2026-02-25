@@ -1,0 +1,50 @@
+{
+  "options": [
+    "vindi-pagamentos-notification-token",
+    "vindi-pagamentos-success_status",
+    "vindi-pagamentos-order_notes_visibility",
+    "vindi-pagamentos-environment",
+    "vindi-pagamentos-token",
+    "vindi-pagamentos-text_color",
+    "vindi-pagamentos-order_prefix",
+    "vindi-pagamentos-store-tested",
+    "vindi-pagamentos-enable_cancel_refund",
+    "vindi-pagamentos-consumer_key",
+    "vindi-pagamentos-consumer_secret",
+    "vindi-pagamentos-document_field",
+    "vindi-pagamentos-person_type_display",
+    "vindi-pagamentos-enable_payment_link",
+    "vindi-pagamentos-one_click_purchase",
+    "vindi-pagamentos-enable_saved_cards_vindi",
+    "vindi-pagamentos-show_icons",
+    "vindi-pagamentos-show_discount",
+    "vindi-pagamentos-show_discount_text",
+    "vindi-pagamentos-logs",
+    "vindi-pagamentos-authorization-code",
+    "vindi-pagamentos-store-tested-date",
+    "vindi_pagamentos_environment",
+    "vindi-pagamentos-plugin-migration",
+    "woocommerce_vindi-pagamentos-credit_settings",
+    "vindi-pagamentos-refresh_token",
+    "payment_heading",
+    "payment_subject",
+    "heading",
+    "subject"
+  ],
+  "transients": [
+    "vindi_pagamentos_access_token",
+    "update_plugins",
+    "vindi_max_installments_limit"
+  ],
+  "cron_jobs": [
+    "vindi_retry_renewal_attempt"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_subscription_period",
+    "_subscription_period_interval",
+    "_vindi_transaction_cancelled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:31.477Z"
+}

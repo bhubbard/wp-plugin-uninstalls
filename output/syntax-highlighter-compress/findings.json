@@ -1,0 +1,18 @@
+{
+  "options": [
+    "shc_opt",
+    "shc_theme",
+    "shc_autolinks",
+    "shc_collapse",
+    "shc_gutter",
+    "shc_smarttabs",
+    "shc_tabsize",
+    "shc_toolbar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:18.700Z"
+}

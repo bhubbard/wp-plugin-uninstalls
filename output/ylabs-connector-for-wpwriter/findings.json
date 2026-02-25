@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpm_connector_connections",
+    "wpm_connector_hub_url",
+    "wpm_connector_token_hash",
+    "wpm_connector_user_id"
+  ],
+  "transients": [
+    "wpm_connector_pairing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:44.383Z"
+}

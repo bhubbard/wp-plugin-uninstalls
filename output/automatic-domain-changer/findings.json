@@ -1,0 +1,14 @@
+{
+  "options": [
+    "auto_domain_change-https",
+    "auto_domain_change-www",
+    "auto_domain_change-domain",
+    "auto_domain_change-dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:08.138Z"
+}

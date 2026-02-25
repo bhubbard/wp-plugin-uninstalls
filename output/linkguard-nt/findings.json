@@ -1,0 +1,17 @@
+{
+  "options": [
+    "linkguard_scan_interval",
+    "linkguard_email_notify",
+    "linkguard_scan_progress",
+    "linkguard_nt_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "linkguard_nt_cron_scan",
+    "linkguard_nt_daily_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:25.902Z"
+}

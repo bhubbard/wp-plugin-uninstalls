@@ -1,0 +1,32 @@
+{
+  "options": [
+    "quickwebp_bulk_optimize_status",
+    "quickwebp_bulk_optimize_total",
+    "quickwebp_bulk_optimize_current",
+    "quickwebp_settings_conversion",
+    "quickwebp_settings_conversion_quality",
+    "quickwebp_settings_conversion_sharpen",
+    "quickwebp_settings_conversion_ignore_webp",
+    "quickwebp_settings_conversion_save_original",
+    "quickwebp_settings_resize",
+    "quickwebp_settings_resize_value",
+    "quickwebp_settings_completion",
+    "quickwebp_settings_completion_options",
+    "quickwebp_settings_cleanup",
+    "quickwebp_settings_library",
+    "quickwebp_settings_conversion_display_webp_mode",
+    "quickwebp_settings_paste_image"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "quickwebp_bulk_optimization_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "quickwebp_already_optimized",
+    "quickwebp_data",
+    "quickwebp_has_error"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:41.804Z"
+}

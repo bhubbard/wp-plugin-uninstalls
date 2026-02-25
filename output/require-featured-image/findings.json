@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rfi_minimum_size",
+    "rfi_post_types",
+    "rfi_enforcement_start"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:18.329Z"
+}

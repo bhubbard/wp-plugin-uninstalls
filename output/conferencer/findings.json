@@ -1,0 +1,25 @@
+{
+  "options": [
+    "conferencer_messages",
+    "conferencer_logo_regeneration_needed",
+    "conferencer_sponsors_widget_image_sizes",
+    "conferencer_caching",
+    "conferencer_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*s",
+    "_conferencer_order",
+    "_conferencer_starts",
+    "_conferencer_*",
+    "_conferencer_ends",
+    "_conferencer_logo_width",
+    "_conferencer_logo_height",
+    "_conferencer_non_session",
+    "_conferencer_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:12.881Z"
+}

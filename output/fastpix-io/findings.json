@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fastpix_api_key",
+    "fastpix_api_secret",
+    "fastpix_encryption_key",
+    "fastpix_api_key_encrypted",
+    "fastpix_api_secret_encrypted",
+    "fastpix_videos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:10.554Z"
+}

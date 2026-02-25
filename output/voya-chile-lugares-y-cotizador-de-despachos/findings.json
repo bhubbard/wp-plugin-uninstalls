@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_voya_despachos_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_suubi_courier_shipping_label",
+    "remitente_nombre",
+    "remitente_rut",
+    "remitente_telefono",
+    "remitente_email",
+    "remitente_region",
+    "remitente_comuna",
+    "remitente_direccion",
+    "_suubi_final_package_dimensions",
+    "_voya_shipping_label"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:00.306Z"
+}

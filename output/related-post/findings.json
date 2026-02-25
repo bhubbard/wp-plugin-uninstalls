@@ -1,0 +1,15 @@
+{
+  "options": [
+    "related_post_settings",
+    "related_post_info"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "related_post_ids",
+    "related_post_enable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:50.647Z"
+}

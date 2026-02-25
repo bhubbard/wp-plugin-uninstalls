@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bfs_order_analytics"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "course_start_date",
+    "student_reference"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:08.850Z"
+}

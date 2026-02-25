@@ -1,0 +1,42 @@
+{
+  "options": [
+    "swatchly_diagnostic_data_agreed",
+    "swatchly_diagnostic_data_notice",
+    "swatchly_delete_data_fetch_cache",
+    "*_htiop",
+    "*_htiop_bar",
+    "*_htiop_popup",
+    "*_htiop_redirect",
+    "*_htiop_data",
+    "*_htiop_timer",
+    "force_update_swatchly_notice_info",
+    "swatchly_rating_already_rated",
+    "swatchly_options",
+    "csf_demo_mode",
+    "swatchly_installed",
+    "swatchly_version"
+  ],
+  "transients": [
+    "*_htiop_data",
+    "swatchly_notice_info",
+    "swatchly_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_swatchly_product_meta",
+    "swatchly_color",
+    "swatchly_enable_multi_color",
+    "swatchly_color_2",
+    "swatchly_image",
+    "_product_attributes",
+    "swatchly_tooltip",
+    "swatchly_tooltip_text",
+    "swatchly_tooltip_image",
+    "swatchly_tooltip_image_size",
+    "swatchly_image_size",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:41.213Z"
+}

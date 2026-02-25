@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cbse_coach_mail_options",
+    "cbse_auto_print_options",
+    "cbse_general_options",
+    "cbse_pdf_header_options",
+    "cbse_options",
+    "cbse_covid19_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cbse_auto_print_mail",
+    "cbse_auto_print_folder",
+    "cbse-api-token",
+    "cbse-auto-inform",
+    "cbse-auto-print"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:58.269Z"
+}

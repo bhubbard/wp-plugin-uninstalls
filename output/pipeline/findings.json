@@ -1,0 +1,25 @@
+{
+  "options": [
+    "pipe_line_plugin_options",
+    "pipe_line_render_options",
+    "ldpipe_wizard_config"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pl_step_url",
+    "pl_slug",
+    "pl_funnel_name",
+    "pl_funnel_id",
+    "pl_step_id",
+    "pl_step_name",
+    "pl_display_method",
+    "pl_include_tracking_code",
+    "pl_step_meta",
+    "pl_step_trackingCode",
+    "pl_funnel_tracking_code"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:28.337Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "church_tithe_wp_wizard_status",
+    "church_tithe_wp_settings",
+    "ctwp_scsr",
+    "sendgrid_api_key",
+    "*_db_version",
+    "ctwp_threshold_reset",
+    "church_tithe_wp_just_activated",
+    "church_tithe_wp_stripe_country_code",
+    "church_tithe_wp_stripe_available_currencies",
+    "church_tithe_wp_stripe_product_id"
+  ],
+  "transients": [
+    "church_tithe_wp_mail_health_check_token",
+    "church_tithe_wp_mail_health_check_success_redirect",
+    "church_tithe_wp_login_code_*",
+    "church_tithe_wp_login_code_requests_*",
+    "*_mode"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "church_tithe_wp_name",
+    "church_tithe_wp_login_attempts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:15.899Z"
+}

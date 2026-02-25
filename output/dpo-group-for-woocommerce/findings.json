@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_woocommerce_dpo_settings",
+    "woocommerce_dpo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dpo_order_query_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_markup_fee_added",
+    "dpo_reference",
+    "dpo_trans_token",
+    "customer_credit_type",
+    "service_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:32.698Z"
+}

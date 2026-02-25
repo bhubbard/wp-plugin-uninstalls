@@ -1,0 +1,35 @@
+{
+  "options": [
+    "recipe_creator__last_successful_migration",
+    "recipe_creator__thumbnail_size",
+    "recipe_creator__show_jump_to_recipe",
+    "recipe_creator__primary_color",
+    "recipe_creator__primary_color_contrast",
+    "recipe_creator__primary_color_light",
+    "recipe_creator__primary_color_light_contrast",
+    "recipe_creator__primary_color_dark",
+    "recipe_creator__secondary_color",
+    "recipe_creator__secondary_color_contrast",
+    "recipe_creator__background_color",
+    "recipe_creator__background_color_contrast",
+    "recipe_creator__show_box_shadow",
+    "recipe_creator__show_border",
+    "recipe_creator__border_radius",
+    "recipe_creator__instagram__username",
+    "recipe_creator__instagram__hashtag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "recipe_creator__average_rating",
+    "recipe_creator__rating_count",
+    "recipe_creator__rating_1_votes",
+    "recipe_creator__rating_2_votes",
+    "recipe_creator__rating_3_votes",
+    "recipe_creator__rating_4_votes",
+    "recipe_creator__rating_5_votes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:06.467Z"
+}

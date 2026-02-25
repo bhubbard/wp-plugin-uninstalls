@@ -1,0 +1,18 @@
+{
+  "options": [
+    "show_gallery",
+    "single_view_image_width",
+    "wpsc_gallery_image_height",
+    "wpsc_gallery_image_width",
+    "product_view",
+    "grid_number_per_row",
+    "product_image_width",
+    "product_image_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:12.213Z"
+}

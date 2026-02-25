@@ -1,0 +1,17 @@
+{
+  "options": [
+    "evp_enable_jquery",
+    "evp_schet",
+    "evp_download",
+    "evp_speed",
+    "evp_pict",
+    "evp_volume",
+    "evp_url_rekl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:05.332Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sfly_simply_excerpt_words_enabled",
+    "sfly_simply_excerpt_words",
+    "sfly_simply_excerpt_read_more_enabled",
+    "sfly_simply_excerpt_read_more",
+    "sfly_simply_excerpt_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:06.459Z"
+}

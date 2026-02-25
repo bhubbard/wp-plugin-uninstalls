@@ -1,0 +1,12 @@
+{
+  "options": [
+    "easy_business_hours",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:22.470Z"
+}

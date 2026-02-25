@@ -1,0 +1,38 @@
+{
+  "options": [
+    "post_type_rules_flushed_te-announcements",
+    "timeline_express_installed_add_ons",
+    "timeline_express_cache_enabled",
+    "timeline-express_rating_nobug",
+    "timeline_express_install_date",
+    "timeline_express_storage",
+    "timeline_express_do_activation_redirect",
+    "*_nobug",
+    "*_tracking",
+    "timeline-express_nobug"
+  ],
+  "transients": [
+    "timeline_express_ad_transient",
+    "timeline-express-query-*",
+    "te_font_awesome_transient"
+  ],
+  "cron_jobs": [
+    "*_usage_tracking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "test_test",
+    "rest_test",
+    "*_id",
+    "field_test_field",
+    "announcement_color",
+    "announcement_icon",
+    "announcement_date",
+    "announcement_image_id",
+    "announcement_image",
+    "announcement_container_classes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:30.815Z"
+}

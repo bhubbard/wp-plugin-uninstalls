@@ -1,0 +1,14 @@
+{
+  "options": [
+    "citenote_allow_post_type",
+    "citenote_footer_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "citenote_list"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:11.902Z"
+}

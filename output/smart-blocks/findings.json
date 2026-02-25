@@ -1,0 +1,23 @@
+{
+  "options": [
+    "sb_general_settings",
+    "downloaded_font_files",
+    "sb_setup_done",
+    "sb_blocks",
+    "smart_blocks_first_activation",
+    "smart_blocks_dismissed_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_smart_blocks_image_hash",
+    "smart_blocks_dismissed_notices",
+    "sb_editor_width",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:39.433Z"
+}

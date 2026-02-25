@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sulock_temporarily_locked",
+    "sulock_permanently_locked",
+    "sulock_permlock_meta",
+    "sulock_templock_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:18.675Z"
+}

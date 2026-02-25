@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpm_xlsx_col_names",
+    "wpm_xlsx_data",
+    "wpm_import_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "attribute_*",
+    "_product_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:45.320Z"
+}

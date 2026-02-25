@@ -1,0 +1,19 @@
+{
+  "options": [
+    "WPLINKS-nofollow",
+    "WPLINKS-comments",
+    "WPLINKS-excerpt",
+    "WPLINKS-title",
+    "WPLINKS-external-image",
+    "WPLINKS-open",
+    "WPLINKS-image",
+    "WPLINKS-whitelist",
+    "WPLINKS-title-shortcode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:32.394Z"
+}

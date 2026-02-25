@@ -1,0 +1,45 @@
+{
+  "options": [
+    "*access_token",
+    "fast_courier_checkout_mode",
+    "fast_courier_hpos_enabled",
+    "is_fc_enabled",
+    "woocommerce_pickup_location_settings",
+    "*merchant_details",
+    "client_id",
+    "client_secret",
+    "*resync_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fc_auto_process_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fc_height",
+    "fc_width",
+    "fc_length",
+    "fc_weight",
+    "fc_is_individual",
+    "fc_package_type",
+    "fc_location_type",
+    "fc_location",
+    "fc_atl",
+    "fc_status",
+    "fc_is_reprocessable",
+    "fc_order_quote",
+    "fc_collection_date",
+    "fc_multiple_quotes",
+    "fc_customer_status",
+    "fc_tracking_url",
+    "fc_order_invoice",
+    "fc_order_label",
+    "fc_order_additional_docs",
+    "fc_order_doc_prefix",
+    "fc_fail_reason",
+    "fc_consignment_number",
+    "fc_last_synced"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:09.656Z"
+}

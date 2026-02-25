@@ -1,0 +1,32 @@
+{
+  "options": [
+    "m_ua_active_plugins",
+    "mrkv_api_last_check_np",
+    "mrkv_api_fixed_np",
+    "*_m_ua_settings",
+    "nova-poshta_m_ua_settings",
+    "ukr-poshta_m_ua_settings",
+    "rozetka-delivery_m_ua_settings",
+    "nova-global_m_ua_settings",
+    "*_settings",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_city",
+    "shipping_city",
+    "billing_state",
+    "shipping_state",
+    "billing_address_1",
+    "shipping_address_1",
+    "billing_postcode",
+    "shipping_postcode",
+    "billing_address_2",
+    "shipping_address_2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:02.190Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_orkesta_settings",
+    "woocommerce_orkestapay-card_settings",
+    "*_settings",
+    "woocommerce_orkestapay_card_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "orkestapay_customer_id",
+    "_yith_affiliate_discount",
+    "_orkestapay_order_id",
+    "_orkestapay_payment_id",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:10.763Z"
+}

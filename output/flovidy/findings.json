@@ -1,0 +1,17 @@
+{
+  "options": [
+    "Flovidy_Plugin_bitly_access_token",
+    "Flovidy_Plugin_uk_ref",
+    "Flovidy_Plugin_jp_ref",
+    "Flovidy_Plugin_br_ref",
+    "Flovidy_Plugin_au_ref",
+    "*_ref",
+    "Flovidy_Plugin_us_ref"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:10.865Z"
+}

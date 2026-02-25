@@ -1,0 +1,12 @@
+{
+  "options": [
+    "the_social_links_settings",
+    "the_social_links_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:43.271Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*post_types",
+    "*db_version",
+    "*auto_generate_only_new_embeddings",
+    "*ai_results_page",
+    "*organization_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:36.887Z"
+}

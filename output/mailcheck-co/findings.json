@@ -1,0 +1,20 @@
+{
+  "options": [
+    "mailcheckco_trust_rate",
+    "mailcheckco_enable_core",
+    "mailcheckco_enable_acf",
+    "mailcheckco_enable_cf7",
+    "mailcheckco_enable_woo",
+    "mailcheckco_enable_elementor",
+    "mailcheckco_enable_mailpoet",
+    "mailcheckco_hash",
+    "mailcheckco_message",
+    "mailcheckco_api_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:30.434Z"
+}

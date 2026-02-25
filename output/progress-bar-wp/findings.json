@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dazz_pb_b_review",
+    "wpsm_progressbar_wp_default_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "progressbar_wp_Shortcode_Settings",
+    "progressbar_wp_data",
+    "progressbar_wp_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:01.958Z"
+}

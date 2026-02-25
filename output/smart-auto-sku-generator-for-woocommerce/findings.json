@@ -1,0 +1,31 @@
+{
+  "options": [
+    "smart_auto_sku_generator_category_prefixes",
+    "smart_auto_sku_generator_sku_length",
+    "smart_auto_sku_generator_overwrite_existing",
+    "smart_auto_sku_generator_auto_bulk_generation",
+    "smart_auto_sku_generator_use_dynamic_prefix",
+    "smart_auto_sku_generator_enable_logging",
+    "smart_auto_sku_generator_bulk_job",
+    "smart_auto_sku_generator_backup_*",
+    "smart_auto_sku_generator_last_cleanup",
+    "smart_auto_sku_generator_preserve_skus_on_uninstall"
+  ],
+  "transients": [
+    "smart_auto_sku_generator_admin_notices"
+  ],
+  "cron_jobs": [
+    "smart_auto_sku_generator_auto_bulk_generation",
+    "smart_auto_sku_generator_process_batch",
+    "smart_auto_sku_generator_complete_bulk_generation",
+    "smart_auto_sku_generator_cleanup_logs",
+    "smart_auto_sku_generator_cleanup_old_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_smarausk_force_overwritten"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:49.002Z"
+}

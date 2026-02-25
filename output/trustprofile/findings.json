@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_checkout_order_received_endpoint"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpseo_global_identifier_values"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:37.609Z"
+}

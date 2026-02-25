@@ -1,0 +1,37 @@
+{
+  "options": [
+    "calculation_forms_settings",
+    "calculation_forms_settings_analytics_code",
+    "calculation_forms_settings_analytics",
+    "calculation_forms_settings_mailchimp",
+    "_calculation_forms_mailchimp_lists",
+    "_redmuber_item_*",
+    "ninja_forms_addons_feed"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_calculation_form_coupon",
+    "_calculation_form_mails",
+    "_calculation_forms_multistep_style",
+    "_calculation_form",
+    "_calculation_form_messages",
+    "_calculation_form_paypal",
+    "_payment",
+    "_form_id",
+    "_form_id_mail_attachments",
+    "_payment_total",
+    "_payment_currency_code",
+    "_calculation_forms_mailchimp",
+    "_calculation_forms_mailchimp_merge_fields",
+    "_calculation_forms_pdf",
+    "_calculation_forms_zapier",
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:01.375Z"
+}

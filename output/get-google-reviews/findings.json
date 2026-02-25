@@ -1,0 +1,14 @@
+{
+  "options": [
+    "diggr_options",
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "diggr_checkForReviews"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:55.086Z"
+}

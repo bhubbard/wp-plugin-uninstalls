@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_likes_css",
+    "wp_likes_options",
+    "wp_likes_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:59.639Z"
+}

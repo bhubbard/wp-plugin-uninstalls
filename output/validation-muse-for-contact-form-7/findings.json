@@ -1,0 +1,13 @@
+{
+  "options": [
+    "vmcf7_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vmcf7_enabled"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:23.199Z"
+}

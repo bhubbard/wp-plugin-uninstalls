@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "shortscore_transient_link"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shortscore_game",
+    "_shortscore_rating",
+    "_shortscore_summary"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:35.415Z"
+}

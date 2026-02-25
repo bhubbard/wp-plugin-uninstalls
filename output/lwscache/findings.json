@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rt_wp_lws_cache_options",
+    "rt_wp_lws_cache_init_check",
+    "lws_cache_poweredcache_addons",
+    "lws_cache_wprocket_addons",
+    "lwscache_do_not_ask_again",
+    "lwscache_excluded_urls"
+  ],
+  "transients": [
+    "lwscache_remind_me"
+  ],
+  "cron_jobs": [
+    "rt_wp_lws_cache_check_log_file_size_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:18.314Z"
+}

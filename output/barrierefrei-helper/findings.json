@@ -1,0 +1,16 @@
+{
+  "options": [
+    "barrierefrei_helper_font_size",
+    "barrierefrei_helper_color_choice",
+    "barrierefrei_helper_contrast",
+    "barrierefrei_helper_toc_enabled",
+    "barrierefrei_helper_toc_tag",
+    "barrierefrei_helper_last_cache_clear"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:35.021Z"
+}

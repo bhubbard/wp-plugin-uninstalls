@@ -1,0 +1,22 @@
+{
+  "options": [
+    "business_setting_header_bg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "meta_business_contact",
+    "meta_business_email",
+    "meta_business_description",
+    "meta_business_website",
+    "meta_business_phone",
+    "meta_business_address",
+    "meta_business_address2",
+    "meta_business_city",
+    "meta_business_state",
+    "meta_business_zip"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:42.993Z"
+}

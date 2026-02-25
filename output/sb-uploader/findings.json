@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sbu_taxonomy_meta",
+    "sbu_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_no_fallback"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:52.104Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bea_settings",
+    "woocommerce_default_catalog_orderby",
+    "woocommerce_enable_review_rating"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:14.188Z"
+}

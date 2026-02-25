@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mucd_disable_enhanced_site_select",
+    "mucd_duplicables",
+    "mucd_copy_files",
+    "mucd_keep_users",
+    "mucd_log",
+    "mucd_log_dir"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:11.420Z"
+}

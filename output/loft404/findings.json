@@ -1,0 +1,13 @@
+{
+  "options": [
+    "loft404_mode",
+    "loft404_page_id",
+    "loft404_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:12.020Z"
+}

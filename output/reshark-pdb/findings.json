@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_additionalServices",
+    "*_frontend_label",
+    "*_frontend_description",
+    "*_min",
+    "*_cost",
+    "*_cost_type",
+    "*_apikey",
+    "*_conf",
+    "*_brand",
+    "*_dropoff",
+    "*_dropoff_min",
+    "*_dropoff_cost",
+    "*_dropoff_cost_type",
+    "*_apply",
+    "*_area",
+    "*_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reshark_dropoffCode",
+    "reshark_courierConfiguration",
+    "_order_weight",
+    "_order_dimensions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:28.799Z"
+}

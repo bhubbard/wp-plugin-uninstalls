@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpmeetupactivity_groups",
+    "wpmeetupactivity_prefs",
+    "wpmeetupactivity_fb_options",
+    "wpmeetupactivity_events_title",
+    "wpmeetupactivity_events_desc",
+    "wpmeetupactivity_apikey",
+    "wpmeetupactivity_db_version",
+    "wpmeetupactivity_title"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:47.999Z"
+}

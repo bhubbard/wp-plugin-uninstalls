@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mvc_notice_dismissed",
+    "_menu_item_mvc_state",
+    "_menu_item_mvc_roles",
+    "_menu_item_mvc_device",
+    "_menu_item_mvc_page_mode",
+    "_menu_item_mvc_pages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:46.956Z"
+}

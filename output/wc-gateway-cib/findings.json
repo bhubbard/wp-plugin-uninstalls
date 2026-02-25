@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_cib_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method",
+    "_transaction_start",
+    "_transaction_cib",
+    "_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:55.616Z"
+}

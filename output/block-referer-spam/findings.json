@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ref-blocker-list",
+    "ref-spam-custom-blocks",
+    "ref-spam-block-mode",
+    "ref-spam-pro-key",
+    "ref-spam-pro-active",
+    "ref-spam-auto-update",
+    "ref-blocker-updated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dailyCronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:59.108Z"
+}

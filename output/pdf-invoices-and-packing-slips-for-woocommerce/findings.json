@@ -1,0 +1,32 @@
+{
+  "options": [
+    "*_general_settings",
+    "*_invoice_settings",
+    "*_packing_slip_settings",
+    "*_shipping_label_settings",
+    "*_delivery_note_settings",
+    "*_dispatch_label_settings",
+    "*_invoice_active_template_id",
+    "active_sitewide_plugins",
+    "*_version",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "apifw_invoice_delete_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_invoice_template",
+    "*_invoice_template_status",
+    "*_invnum_not_formatted_flag",
+    "*_ord_invoice_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:53.478Z"
+}

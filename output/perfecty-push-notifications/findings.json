@@ -1,0 +1,20 @@
+{
+  "options": [
+    "perfecty_push",
+    "perfecty_push_activated",
+    "perfecty_push_version",
+    "perfecty_push_db_version"
+  ],
+  "transients": [
+    "perfecty_push_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_perfecty_push_send_on_publish",
+    "_perfecty_push_notification_custom_title",
+    "_perfecty_push_notification_custom_body"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:04.309Z"
+}

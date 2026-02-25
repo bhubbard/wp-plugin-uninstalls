@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ACTUS_ANIT_VERSION",
+    "ACTUS_ANIT_array",
+    "ACTUS_ANIT_height",
+    "ACTUS_ANIT_density",
+    "ACTUS_ANIT_min_font_size",
+    "ACTUS_ANIT_max_font_size",
+    "ACTUS_ANIT_background",
+    "ACTUS_ANIT_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:59.067Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "kdbm_pbfl_settings",
+    "kdbm_pbfl_admin_email",
+    "kdbm_pbfl_unlock_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:48.767Z"
+}

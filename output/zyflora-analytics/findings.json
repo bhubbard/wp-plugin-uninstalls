@@ -1,0 +1,27 @@
+{
+  "options": [
+    "zyflora_track_logged_in",
+    "zyflora_exclude_bots",
+    "zyflora_track_pages",
+    "zyflora_total_*",
+    "zyflora_analytics_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zyflora_cleanup_old_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_zyflora_views",
+    "_zyflora_sessions",
+    "_zyflora_views_direct",
+    "_zyflora_sessions_direct",
+    "_zyflora_views_unknown",
+    "_zyflora_views_*",
+    "_zyflora_sessions_*",
+    "*_direct",
+    "*_other"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:38.092Z"
+}

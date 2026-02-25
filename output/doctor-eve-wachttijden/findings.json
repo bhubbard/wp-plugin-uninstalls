@@ -1,0 +1,21 @@
+{
+  "options": [
+    "doctoreve_wt_uuid",
+    "doctoreve_wt_fab_enabled",
+    "doctoreve_wt_fab_theme",
+    "doctoreve_wt_fab_color",
+    "doctoreve_wt_fab_text",
+    "doctoreve_wt_comp_theme",
+    "doctoreve_wt_comp_accent",
+    "doctoreve_wt_comp_title",
+    "doctoreve_wt_comp_show_search",
+    "doctoreve_wt_comp_show_count",
+    "doctoreve_wt_comp_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:44.006Z"
+}

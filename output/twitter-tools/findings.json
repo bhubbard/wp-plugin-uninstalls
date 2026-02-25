@@ -1,0 +1,23 @@
+{
+  "options": [
+    "aktt_v3_settings",
+    "aktt_v3_accounts",
+    "aktt_twitter_username"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aktt_backfill_tweets"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aktt_tweet_raw_data",
+    "_aktt_tweet_id",
+    "_thumbnail_id",
+    "_aktt_30_backfill_needed",
+    "_aktt_tweet_post_id",
+    "_aktt_tweet_blog_post_id",
+    "_aktt_upgraded_30"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:23.893Z"
+}

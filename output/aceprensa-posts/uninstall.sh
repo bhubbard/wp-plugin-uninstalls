@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'aceprensa_site_url'
+wp option delete 'aceprensa_cache_seconds'
+wp option delete 'aceprensa_num_posts'
+wp option delete 'aceprensa_image_size'
+wp option delete 'aceprensa_un_click'
+wp option delete 'aceprensa_username'
+wp option delete 'aceprensa_selected_categories'
+wp option delete 'aceprensa_post_types'
+wp option delete 'aceprensa_layout'
+wp option delete 'aceprensa_cols_m'
+wp option delete 'aceprensa_cols_t'
+wp option delete 'aceprensa_cols_d'
+wp option delete 'aceprensa_show_image'
+wp option delete 'aceprensa_image_position'
+wp option delete 'aceprensa_image_orientation'
+wp option delete 'aceprensa_aspect_ratio'
+wp option delete 'aceprensa_image_width'
+wp option delete 'aceprensa_card_gap'
+wp option delete 'aceprensa_show_author'
+wp option delete 'aceprensa_upper_author'
+wp option delete 'aceprensa_show_date'
+wp option delete 'aceprensa_date_format'
+wp option delete 'aceprensa_date_upper'
+wp option delete 'aceprensa_excerpt_words'
+wp option delete 'aceprensa_excerpt_mode'
+wp option delete 'aceprensa_excerpt_lines'
+wp option delete 'aceprensa_title_clamp'
+wp option delete 'aceprensa_title_lines'
+

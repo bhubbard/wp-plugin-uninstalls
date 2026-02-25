@@ -1,0 +1,15 @@
+{
+  "options": [
+    "easy_banner_enabled",
+    "easy_banner_title",
+    "easy_banner_description",
+    "easy_banner_link_text",
+    "easy_banner_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:20.493Z"
+}

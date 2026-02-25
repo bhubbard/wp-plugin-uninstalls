@@ -1,0 +1,35 @@
+{
+  "options": [
+    "sdp_locations",
+    "sdp_settings",
+    "gdpr-tools-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sdp_generated_pages",
+    "sdp_location",
+    "_aviaLayoutBuilderCleanData",
+    "_aviaLayoutBuilder_active",
+    "_avia_sc_parser_state",
+    "_av_el_mgr_version",
+    "_avia_builder_shortcode_tree",
+    "_edit_last",
+    "hefo_before",
+    "hefo_after",
+    "_av_alb_posts_elements_state",
+    "layout",
+    "sidebar",
+    "footer",
+    "header_title_bar",
+    "header_transparency",
+    "_yoast_wpseo_content_score",
+    "_edit_lock",
+    "_wds_title",
+    "_wds_metadesc",
+    "sdp-data-object"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:53.292Z"
+}

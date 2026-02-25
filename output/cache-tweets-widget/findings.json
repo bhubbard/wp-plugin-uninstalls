@@ -1,0 +1,17 @@
+{
+  "options": [
+    "widget_visearch_tweets_widget",
+    "visearch_tweets",
+    "visearch_tweets_cache",
+    "visearch_tweets_hashtag",
+    "visearch_tweets_username",
+    "visearch_tweets_select_option",
+    "visearch_tweets_details"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:38.820Z"
+}

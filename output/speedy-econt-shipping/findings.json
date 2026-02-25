@@ -1,0 +1,19 @@
+{
+  "options": [
+    "speedy_econt_shipping_option_name",
+    "sesh_db_version"
+  ],
+  "transients": [
+    "sesh_upgrade_running"
+  ],
+  "cron_jobs": [
+    "seshForceUpdateHook",
+    "seshDailyDbHook",
+    "seshEcontUpdateDbHook",
+    "seshSpeedyEcontUpdateDbHook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:04.158Z"
+}

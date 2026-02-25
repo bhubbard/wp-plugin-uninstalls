@@ -1,0 +1,17 @@
+{
+  "options": [
+    "softwearwc_settings"
+  ],
+  "transients": [
+    "*settings_error",
+    "*settings_retail_error",
+    "*settings_latest_collection_error",
+    "*check_connection",
+    "softwearwc_settings_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:07.881Z"
+}

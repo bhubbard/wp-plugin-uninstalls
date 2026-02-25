@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wpmozo_addons_lite_for_elementor_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmozo_ae_testimonial_author_name",
+    "wpmozo_ae_testimonial_author_email",
+    "wpmozo_ae_testimonial_author_designation",
+    "wpmozo_ae_testimonial_author_company",
+    "wpmozo_ae_testimonial_author_company_url",
+    "wpmozo_ae_testimonial_author_rating",
+    "thumbnail_id",
+    "_wp_attachment_image_alt",
+    "wpmozo_ae_team_member_designation",
+    "wpmozo_ae_team_member_short_desc",
+    "wpmozo_ae_team_member_skills",
+    "wpmozo_ae_team_member_skills_value",
+    "wpmozo_ae_team_member_website",
+    "wpmozo_ae_team_member_facebook",
+    "wpmozo_ae_team_member_twitter",
+    "wpmozo_ae_team_member_linkedin",
+    "wpmozo_ae_team_member_instagram",
+    "wpmozo_ae_team_member_youtube",
+    "wpmozo_ae_team_member_email",
+    "wpmozo_ae_team_member_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:22.098Z"
+}

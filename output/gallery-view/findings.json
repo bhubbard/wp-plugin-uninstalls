@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gv_items_per_page",
+    "gv_show_date",
+    "gv_show_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:27.490Z"
+}

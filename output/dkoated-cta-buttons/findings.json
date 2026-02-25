@@ -1,0 +1,26 @@
+{
+  "options": [
+    "fallback_url",
+    "fallback_text",
+    "fallback_desc",
+    "fallback_title",
+    "fallback_type",
+    "fallback_style",
+    "fallback_color",
+    "fallback_height",
+    "fallback_width",
+    "fallback_customcss",
+    "fallback_opennewwindow",
+    "fallback_nofollow",
+    "fallback_textcolor",
+    "fallback_customvi",
+    "fallback_customho",
+    "fallback_donated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:24.042Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sswc_show_on_checkout",
+    "sswc_image",
+    "sswc_embed",
+    "sswc_show_on_cart",
+    "sswc_show_on_product",
+    "sswc_show_on_account"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:53.333Z"
+}

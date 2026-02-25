@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wfatcb_price",
+    "wfatcb_img",
+    "wfatcb_txt_color",
+    "wfatcb_btn_text",
+    "wfatcb_bg_main",
+    "wfatcb_btnbg",
+    "wfatcb_attributes",
+    "wfatcb_btnbg_border",
+    "wfatcb_only_mobile"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:58:07.844Z"
+}

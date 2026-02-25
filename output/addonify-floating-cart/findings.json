@@ -1,0 +1,20 @@
+{
+  "options": [
+    "udp_agent_allow_tracking",
+    "udp_agent_tracking_msg_last_shown_at",
+    "udp_installed_agents",
+    "udp_active_agent_basename",
+    "woocommerce_enable_shipping_calc",
+    "woocommerce_tax_display_cart",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cc_udp_agent_send_data",
+    "udp_agent_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:31.972Z"
+}

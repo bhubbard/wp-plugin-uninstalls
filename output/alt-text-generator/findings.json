@@ -1,0 +1,18 @@
+{
+  "options": [
+    "atgai_api_key",
+    "atgai_domain_id",
+    "atgai_language",
+    "atgai_auto_generate",
+    "atgai_enable_chatgpt_enhancement",
+    "atgai_chatgpt_enhancement_prompt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:49.952Z"
+}

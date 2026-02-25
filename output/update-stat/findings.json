@@ -1,0 +1,13 @@
+{
+  "options": [
+    "up_number_of_days",
+    "up_puzo_cache",
+    "up_puzo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:01.504Z"
+}

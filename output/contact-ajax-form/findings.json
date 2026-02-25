@@ -1,0 +1,30 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_read_before",
+    "iwacontact_data",
+    "iwacontact_sendto",
+    "iwacontact_subject",
+    "iwacontact_from",
+    "iwacontact_submit_value",
+    "iwacontact_redirect",
+    "_use_custom_body",
+    "_custom_body",
+    "_use_captcha",
+    "_captcha_type",
+    "tv_show",
+    "_form_id",
+    "_sent",
+    "_copy_sent",
+    "_mail_to",
+    "_mail_from",
+    "_mail_subject",
+    "_form_data",
+    "_email_body"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:00.814Z"
+}

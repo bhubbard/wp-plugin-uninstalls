@@ -1,0 +1,21 @@
+{
+  "options": [
+    "WPMG_SETTINGS",
+    "wpmg_status_for_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpmg_cron_task_send_email",
+    "wpmg_cron_task_parse_email",
+    "wpmg_cron_task_bounced_email",
+    "wpmg_cron_auto_delete_attachments"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "User_status",
+    "Group_subscribed",
+    "Plugin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:50.352Z"
+}

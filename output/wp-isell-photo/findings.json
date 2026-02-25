@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_iSell_photo_paypal_email_address",
+    "wp_iSell_photo_paypal_currency_code",
+    "wp_iSell_photo_paypal_currency_symbol",
+    "wp_iSell_photo_paypal_return_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:32.327Z"
+}

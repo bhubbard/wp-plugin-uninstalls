@@ -1,0 +1,21 @@
+{
+  "options": [
+    "racart_adminemail",
+    "racart_setcron_email",
+    "email_hour",
+    "racart_onehr_email_subject",
+    "racart_onehr_email_message",
+    "enable_exitintent",
+    "racart_popup_title",
+    "racart_popup_content",
+    "attachment_idpath"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "racart_your_three_minute_action_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:26.706Z"
+}

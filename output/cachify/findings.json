@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cachify"
+  ],
+  "transients": [
+    "cachify_cache_size"
+  ],
+  "cron_jobs": [
+    "hdd_cache_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:28.771Z"
+}

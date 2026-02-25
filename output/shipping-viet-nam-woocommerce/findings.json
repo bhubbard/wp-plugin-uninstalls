@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ghn_code",
+    "_ghtk_code",
+    "_shipping_svw_province",
+    "_shipping_svw_district",
+    "_shipping_svw_ward",
+    "_billing_svw_province",
+    "_billing_svw_district",
+    "_billing_svw_ward",
+    "_shipping_first_name",
+    "_shipping_last_name",
+    "_shipping_address_1",
+    "_shipping_phone",
+    "billing_svw_province",
+    "billing_svw_district",
+    "billing_svw_ward"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:39.233Z"
+}

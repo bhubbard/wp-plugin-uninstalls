@@ -1,0 +1,27 @@
+{
+  "options": [
+    "slwsu_is_active_grouper",
+    "slwsu_collection_grouper",
+    "slwsu_collection_delete_options",
+    "slwsu_collection_metaboxs",
+    "slwsu_collection_plugin_name",
+    "slwsu_collection_post_types",
+    "slwsu_collection_add_body_class",
+    "slwsu_collection_inline_styles",
+    "slwsu_collection_capability_type",
+    "slwsu_collection_post_type_supports",
+    "slwsu_collection_post_type_deregister",
+    "slwsu_collection_flush_rewrite",
+    "slwsu_collection_*"
+  ],
+  "transients": [
+    "slwsu_collection_options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:35.635Z"
+}

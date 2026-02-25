@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_email_footer_text",
+    "woocommerce_kuronekoatobarai_settings",
+    "*_settings",
+    "woocommerce_checkout_page_id",
+    "kuatowc_settlement_fees"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "atobarai_sms_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:23.477Z"
+}

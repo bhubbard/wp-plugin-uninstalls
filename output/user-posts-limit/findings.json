@@ -1,0 +1,25 @@
+{
+  "options": [
+    "upl_rules_count",
+    "upl_message",
+    "upl_notice",
+    "upl_priority",
+    "upl_manage_cap",
+    "upl_user_role",
+    "upl_posts_type",
+    "upl_num_limit",
+    "upl_period",
+    "add_new_users",
+    "upl_site_rules_count",
+    "upl_site_user_role",
+    "upl_site_posts_type",
+    "upl_site_num_limit",
+    "upl_site_period"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:49.683Z"
+}

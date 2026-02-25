@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wcookie_configuration_dP",
+    "wcookie_configuration_bT",
+    "wcookie_configuration_bC",
+    "wcookie_configuration_tC",
+    "wcookie_configuration_lC",
+    "wcookie_configuration_bBC",
+    "wcookie_configuration_bTC",
+    "wcookie_configuration_cC",
+    "wcookie_configuration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:25.906Z"
+}

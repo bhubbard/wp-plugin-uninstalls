@@ -1,0 +1,17 @@
+{
+  "options": [
+    "smartid_client_id",
+    "smartid_debug_mode",
+    "smartid_registration_disabled",
+    "eideasy_only_identify",
+    "eideasy_test_mode",
+    "smartid_secret",
+    "smartid_redirect_uri"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:10.447Z"
+}

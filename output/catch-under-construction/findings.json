@@ -1,0 +1,14 @@
+{
+  "options": [
+    "catch_under_construction_options",
+    "ctp_options"
+  ],
+  "transients": [
+    "_catch_coming_soon_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:48.608Z"
+}

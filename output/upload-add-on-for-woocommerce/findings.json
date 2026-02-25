@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woo_ua_options",
+    "wau_addon_settings",
+    "wua_addon_settings",
+    "woo_ua_my_plugin_notice_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woo_ua_field"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:59.329Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "megaforms_*",
+    "megaforms_db_version",
+    "megaforms_uninstall"
+  ],
+  "transients": [
+    "*_process_lock",
+    "wp_megaforms_*"
+  ],
+  "cron_jobs": [
+    "mf_webhook_retry_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:06.600Z"
+}

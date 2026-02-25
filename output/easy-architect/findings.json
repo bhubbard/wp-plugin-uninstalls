@@ -1,0 +1,19 @@
+{
+  "options": [
+    "eaar_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "eaar_cleanup_form_file"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "eaar_object_position",
+    "_wp_attachment_metadata",
+    "_eaar_auto_unpublished",
+    "_eaar_auto_unpublished_by"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:58.354Z"
+}

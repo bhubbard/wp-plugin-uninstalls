@@ -1,0 +1,19 @@
+{
+  "options": [
+    "grassblade_tincan_endpoint",
+    "grassblade_free_addons",
+    "grassblade_addons",
+    "grassblade_gamipress"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "xapi_content",
+    "_gamipress_gb_percentage",
+    "_gamipress_gb_min_percentage",
+    "_gamipress_gb_max_percentage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:22.923Z"
+}

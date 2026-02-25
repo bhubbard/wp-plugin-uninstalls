@@ -1,0 +1,30 @@
+{
+  "options": [
+    "audioigniter_stats_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_audioigniter_tracks",
+    "_audioigniter_show_numbers",
+    "_audioigniter_show_numbers_reverse",
+    "_audioigniter_show_covers",
+    "_audioigniter_show_active_cover",
+    "_audioigniter_show_artist",
+    "_audioigniter_show_buy_links",
+    "_audioigniter_buy_links_new_target",
+    "_audioigniter_cycle_tracks",
+    "_audioigniter_show_track_listing",
+    "_audioigniter_allow_track_listing_toggle",
+    "_audioigniter_allow_track_listing_loop",
+    "_audioigniter_player_type",
+    "_audioigniter_show_credit",
+    "_audioigniter_limit_tracklisting_height",
+    "_audioigniter_tracklisting_height",
+    "_audioigniter_volume",
+    "_audioigniter_max_width"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:40.574Z"
+}

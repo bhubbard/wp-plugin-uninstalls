@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*sincronizza_utenti",
+    "adv_dem",
+    "adv_demsincronizza_utenti"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "adv_dem_consoleId",
+    "adv_dem_primary_category",
+    "adv_dem_primary_category_mid",
+    "adv_dem_primary_category_top",
+    "_sku",
+    "attribute_pa_*",
+    "_billing_email",
+    "billing_email",
+    "adv_wc_opt_in"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:52.231Z"
+}

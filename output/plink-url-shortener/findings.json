@@ -1,0 +1,16 @@
+{
+  "options": [
+    "new_Api_key",
+    "plinkShortUrlApiUrl",
+    "plinkShortURL*",
+    "plink_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plinkShortURL"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:15.892Z"
+}

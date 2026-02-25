@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wc-afip-*",
+    "wc-afip_options"
+  ],
+  "transients": [
+    "*-notices"
+  ],
+  "cron_jobs": [
+    "afip_retry_failed_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wc_afip_document_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:29.407Z"
+}

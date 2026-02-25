@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "profile1",
+    "profile2",
+    "profile3",
+    "user_pic1",
+    "user_pic2",
+    "user_pic3"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:36.184Z"
+}

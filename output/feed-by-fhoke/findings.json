@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fbf_settings"
+  ],
+  "transients": [
+    "fbf_access_token",
+    "fbf_access_token_expiry",
+    "fbf_media"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:57.361Z"
+}

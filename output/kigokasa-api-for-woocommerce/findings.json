@@ -1,0 +1,42 @@
+{
+  "options": [
+    "woo_kigokasa_api_email_from",
+    "woo_kigokasa_api_email_from_name",
+    "woo_kigokasa_api_show_migration_notice",
+    "woo_kigokasa_api_version",
+    "kigokasa_plugin_version",
+    "kigokasa_plugin_settings",
+    "woo_kigokasa_api_settings",
+    "woo_kigokasa_api_skip_status_order_created",
+    "woo_kigokasa_api_skip_status_order_completed",
+    "woo_kigokasa_api_pos_type-*",
+    "woo_kigokasa_api_pin",
+    "woo_kigokasa_api_shipping_reference",
+    "woo_kigokasa_api_custom_mapping",
+    "woo_kigokasa_api_vat_invoices",
+    "woo_kigokasa_api_username",
+    "woo_kigokasa_api_password",
+    "woo_kigokasa_api_pdf_payment_type-*",
+    "woo_kigokasa_api_reply_to",
+    "woo_kigokasa_api_employee_pin",
+    "woo_kigokasa_api_payment_type-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_vat_number",
+    "_billing_vat_number",
+    "woo_kigokasa_api_vat_invoices_checkbox",
+    "woo_kigokasa_api_vat_invoices_company",
+    "woo_kigokasa_api_vat_invoices_address",
+    "woo_kigokasa_api_vat_invoices_city",
+    "woo_kigokasa_api_vat_invoices_zip",
+    "woo_kigokasa_api_vat_invoices_vat_number",
+    "_kigokasa_pos_number",
+    "_kigokasa_doc_type",
+    "_kigokasa_id_pos"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:46.176Z"
+}

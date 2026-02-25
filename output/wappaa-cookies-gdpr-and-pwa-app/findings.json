@@ -1,0 +1,16 @@
+{
+  "options": [
+    "special_content",
+    "wappaa-scripts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_script_footer",
+    "_wp_page_template",
+    "_inpost_head_script"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:57.874Z"
+}

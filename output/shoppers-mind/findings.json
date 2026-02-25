@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ceneje_shop_id",
+    "ceneje_badge_enabled",
+    "ceneje_popup_enabled",
+    "ceneje_floater_enabled",
+    "ceneje_xml_url",
+    "ceneje_exclude_out_of_stock",
+    "ceneje_gender_attribute",
+    "ceneje_color_attribute",
+    "ceneje_size_attribute",
+    "ceneje_agegroup_attribute",
+    "ceneje_brand_attribute",
+    "ceneje_delivery_cost",
+    "ceneje_free_delivery_above",
+    "ceneje_delivery_time_min",
+    "ceneje_delivery_time_max",
+    "ceneje_popup_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:03.408Z"
+}

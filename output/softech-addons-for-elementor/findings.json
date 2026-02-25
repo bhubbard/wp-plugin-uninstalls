@@ -1,0 +1,32 @@
+{
+  "options": [
+    "sits_widgets_version",
+    "_elementor_global_css",
+    "sits_elementor_addons_options",
+    "sits_elementor_addons_disabled_widgets"
+  ],
+  "transients": [
+    "sits_hf_synced_ids",
+    "elementor_widgets_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type",
+    "_wp_page_template",
+    "_elementor_page_settings",
+    "_elementor_conditions",
+    "_sits_hf_source_id",
+    "_elementor_data",
+    "_elementor_css",
+    "_elementor_version",
+    "_sits_hf_type",
+    "_softech_mega_menu_template_id",
+    "_softech_mm_enable",
+    "_softech_mega_menu_item_id",
+    "author_name",
+    "job_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:29.088Z"
+}

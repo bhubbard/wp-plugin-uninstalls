@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bzwps_min_password_length",
+    "bzwps_min_numeric_chars",
+    "bzwps_min_special_chars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:06.856Z"
+}

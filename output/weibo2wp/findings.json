@@ -1,0 +1,23 @@
+{
+  "options": [
+    "weibo2wp_*",
+    "weibo2wp_default_setting",
+    "_weibo2wp_session_expires_*",
+    "_weibo2wp_session_*",
+    "weibo2wp_auth_list"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "weibo2wp_synch_dailly_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_weibo_image",
+    "_image_image",
+    "_weibo_id",
+    "_weibo_name",
+    "_comment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:59.407Z"
+}

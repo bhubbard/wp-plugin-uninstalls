@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wincher_account_type",
+    "wincher_oauth_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:54.912Z"
+}

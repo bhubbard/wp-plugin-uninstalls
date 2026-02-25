@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pandachat_connected",
+    "pandachat_connection_date",
+    "pandachat_channel_id",
+    "pandachat_endpoint",
+    "pandachat_embed_link",
+    "pandachat_widget_code",
+    "pandachat_connection_token",
+    "pandachat_public_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:21.565Z"
+}

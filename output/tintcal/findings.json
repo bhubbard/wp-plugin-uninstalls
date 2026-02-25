@@ -1,0 +1,38 @@
+{
+  "options": [
+    "tintcal_categories",
+    "tintcal_start_day",
+    "tintcal_header_color",
+    "tintcal_enable_holidays",
+    "tintcal_holiday_color",
+    "tintcal_show_header_weekend_color",
+    "tintcal_show_sunday_color",
+    "tintcal_sunday_color",
+    "tintcal_show_saturday_color",
+    "tintcal_saturday_color",
+    "tintcal_show_legend",
+    "tintcal_show_today_button",
+    "tintcal_role_permissions",
+    "tintcal_date_categories"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tintcal_start_day",
+    "_tintcal_header_color",
+    "_tintcal_enable_holidays",
+    "_tintcal_holiday_color",
+    "_tintcal_show_header_weekend_color",
+    "_tintcal_show_sunday_color",
+    "_tintcal_sunday_color",
+    "_tintcal_show_saturday_color",
+    "_tintcal_saturday_color",
+    "_tintcal_show_legend",
+    "_tintcal_show_today_button",
+    "_tintcal_visible_categories",
+    "_tintcal_settings_initialized"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:17.454Z"
+}

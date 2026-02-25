@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [
+    "wp-contributions-codex-*",
+    "wp-contributions-codex-count-*",
+    "wp-contributions-core*",
+    "wp-contributions-core-count-*",
+    "wp_contributions_plugin_*",
+    "wp_contributions_plugin_author_*",
+    "wp_contributions_theme_*",
+    "wp_contributions_theme_author_*",
+    "wp_contributions_themes_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:29.352Z"
+}

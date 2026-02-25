@@ -1,0 +1,34 @@
+{
+  "options": [
+    "msy_price_settings_options",
+    "msy_user_registration_data",
+    "msy_imported_products_ids",
+    "msy_main_settings_options",
+    "msyds_notice_message",
+    "msyds_last_order_sync_date"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "msy_drop_shipping_categories",
+    "msy_drop_shipping_products",
+    "msy_drop_shipping_images",
+    "msy_drop_shipping_products_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "msyds_margin_price",
+    "_shipping_first_name",
+    "_shipping_last_name",
+    "msyds_order_synced",
+    "msyds_product_include",
+    "msyds_main_order_id",
+    "msyds_order_deleted",
+    "_stock",
+    "_stock_status",
+    "_thumbnail_id",
+    "msyds_pics_urls",
+    "_product_image_gallery"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:54.479Z"
+}

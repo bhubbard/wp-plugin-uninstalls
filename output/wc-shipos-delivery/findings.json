@@ -1,0 +1,46 @@
+{
+  "options": [
+    "dvsfw_shipos_token",
+    "dvsfw_getpackage_license",
+    "wc-shipos-delivery",
+    "dvsfw_order_comment_field_key",
+    "dvsfw_use_order_notes",
+    "dvsfw_phone_no_field_key",
+    "dvsfw_house_no_field_key",
+    "dvsfw_apartment_field_key",
+    "dvsfw_floor_field_key",
+    "dvsfw_entrance_field_key",
+    "dvsfw_google_maps_api_key",
+    "dvsfw_is_pickup\t",
+    "dvsfw_dev_mode",
+    "dvsfw_auto_update_order_status_on_shipment_delivered",
+    "dvsfw_auto_update_order_status_on_shipment_delivered_source",
+    "dvsfw_auto_update_order_status_on_shipment_delivered_target",
+    "dvsfw_shipping_method_status_mappings",
+    "dvsfw_license_key",
+    "dvsfw_is_pickup",
+    "dvsfw_pickup_point_display_preference",
+    "dvsfw_pickup_point_default_display",
+    "dvsfw_automatic",
+    "dvsfw_getpackage_enable",
+    "dvsfw_zigzag_enable_express_delivery",
+    "dvsfw_zigzag_license",
+    "dvsfw_free_shipping_by_price",
+    "dvsfw_automatic_status",
+    "dvsfw_woltdrive_enable",
+    "dvsfw_woltDrive_license",
+    "dvsfw_install_date"
+  ],
+  "transients": [
+    "DVSFW_GET_LICENSES",
+    "DVSFW_HAS_LICENSE",
+    "dvsfw_cache_cleared_notice"
+  ],
+  "cron_jobs": [
+    "dvsfw_get_location_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:11.795Z"
+}

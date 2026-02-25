@@ -1,0 +1,47 @@
+{
+  "options": [
+    "pr_pardakht_settings",
+    "woocommerce_status_options",
+    "woocommerce_weight_unit",
+    "woocommerce_cod_settings",
+    "woocommerce_pr_pardakht_peyk_cod_settings",
+    "woocommerce_pr_pardakht_peyk_online_settings",
+    "woocommerce_pr_pardakht_pishtaz_cod_settings",
+    "woocommerce_pr_pardakht_pishtaz_online_settings",
+    "woocommerce_pr_pardakht_sefareshi_cod_settings",
+    "woocommerce_pr_pardakht_sefareshi_online_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pr_pardakht_update_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pr_pardakht_order_id",
+    "_pr_pardakht_online_order_id",
+    "_pr_pardakht_token",
+    "_pr_pardakht_status_code",
+    "_pr_pardakht_status_desc",
+    "_pr_pardakht_factor_code",
+    "_payment_method",
+    "_shipping_first_name",
+    "_shipping_last_name",
+    "_shipping_gender",
+    "_shipping_address_1",
+    "_shipping_address_2",
+    "_shipping_postcode",
+    "_shipping_pardakht_shipping",
+    "_billing_city",
+    "_billing_state",
+    "_shipping_city",
+    "_shipping_state",
+    "_pardakht_shipping",
+    "_pardakht_payment",
+    "_billing_country",
+    "_shipping_country",
+    "_billing_mobile",
+    "_shipping_mobile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:55.060Z"
+}

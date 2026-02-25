@@ -1,0 +1,14 @@
+{
+  "options": [
+    "iprom_site_path",
+    "iprom-site-path"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "generate_iprom_feed"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:45.258Z"
+}

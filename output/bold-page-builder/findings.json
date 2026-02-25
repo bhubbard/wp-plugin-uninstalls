@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bt_bb_settings",
+    "bt_bb_custom_css",
+    "bt_bb_mapping_secondary"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bt_bb_rating_notice_ignore",
+    "bt_bb_rating_notice_enable",
+    "bt_bb_plugin_notice_ignore",
+    "_my_meta_value_key",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:55.948Z"
+}

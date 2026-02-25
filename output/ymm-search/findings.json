@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ymm_display_vehicle_fitment",
+    "ymm_enable_category_dropdowns",
+    "ymm_enable_search_field",
+    "active_sitewide_plugins",
+    "woocommerce_permalinks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "display_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:37.072Z"
+}

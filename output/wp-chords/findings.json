@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpchords_toggle_fontsize",
+    "wpchords_toggle_transpose",
+    "wpchords_toggle_alternating",
+    "wpchords_toggle_print",
+    "wpchords_string_printfooter",
+    "wpchords_string_deamp",
+    "wpchords_toggle_monospace"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:53.097Z"
+}

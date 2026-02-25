@@ -1,0 +1,27 @@
+{
+  "options": [
+    "elementor_icon_manager_needs_update",
+    "elementor_load_fa4_shim",
+    "elementor_container_width",
+    "elementor_viewport_lg",
+    "elementor_viewport_md",
+    "sktaddonselementor_inactive_features",
+    "skt_addons_elementor_addons_activation_time",
+    "tablepress_tables",
+    "elementor_active_kit",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type",
+    "_wp_attachment_image_alt",
+    "_elementor_data",
+    "_elementor_page_settings",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:29.986Z"
+}

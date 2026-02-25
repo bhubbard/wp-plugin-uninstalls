@@ -1,0 +1,13 @@
+{
+  "options": [
+    "top_commenters_widget_title",
+    "top_commenters_widget_number",
+    "ktc_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:54.025Z"
+}

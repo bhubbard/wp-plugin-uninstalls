@@ -1,0 +1,17 @@
+{
+  "options": [
+    "smbsugar_box_align",
+    "smbsugar_display_home",
+    "smbsugar_display_page",
+    "smbsugar_display_post",
+    "smbsugar_display_cat",
+    "smbsugar_display_archive",
+    "smbsugar_button"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:26.411Z"
+}

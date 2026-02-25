@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_enable_review_rating",
+    "recently_activated",
+    "default_product_cat"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:00.894Z"
+}

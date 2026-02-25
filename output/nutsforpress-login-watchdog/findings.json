@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_nfplwd_last_core_check",
+    "_nfproot_plugins_settings",
+    "_nfp_root_settings",
+    "_nfp_settings",
+    "_nfplwd_manually_core_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nfplwd_last_user_ip",
+    "_nfplwd_two_factors_info",
+    "first_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:18.625Z"
+}

@@ -1,5 +1,4 @@
 node_modules/
-output/
 .DS_Store
 *.log
 ts-uninstaller/node_modules/

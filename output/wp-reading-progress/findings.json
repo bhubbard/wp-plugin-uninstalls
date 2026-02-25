@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ruigehond006",
+    "ruigehond006_upgraded_1.2.4"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ruigehond006_show"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:08.546Z"
+}

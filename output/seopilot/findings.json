@@ -1,0 +1,13 @@
+{
+  "options": [
+    "SEOPILOT_TEST",
+    "SEOPILOT_CHARSET",
+    "SEOPILOT_USER"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:33.027Z"
+}

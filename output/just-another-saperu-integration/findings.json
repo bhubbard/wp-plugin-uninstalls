@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sape_user",
+    "sape_part_is_client",
+    "sape_part_is_context",
+    "sape_part_is_articles",
+    "sape_login",
+    "sape_password",
+    "sape_widget_class"
+  ],
+  "transients": [
+    "sape.get_sites_EXT"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:35.878Z"
+}

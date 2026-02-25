@@ -1,0 +1,27 @@
+{
+  "options": [
+    "swr_sync_opt",
+    "swr_general_opt",
+    "swr_captcha_opt",
+    "swr_design_opt",
+    "swr_popup_review_opt",
+    "swr_order_product_review_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "swr_comment_id",
+    "swr_comment_images",
+    "_wp_attachment_image_alt",
+    "rating",
+    "_wp_trash_meta_status",
+    "_swr_previous_status",
+    "swr_order_prod_review_id",
+    "_wc_average_rating",
+    "swr_customer_prof_img",
+    "verified"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:55.801Z"
+}

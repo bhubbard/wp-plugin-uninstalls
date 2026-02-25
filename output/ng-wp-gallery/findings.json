@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mwrpg_images",
+    "mwrp_gallery_layout",
+    "mwrp_gallery_border",
+    "mwrp_gallery_border_radius"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:40.252Z"
+}

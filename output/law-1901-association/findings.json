@@ -1,0 +1,23 @@
+{
+  "options": [
+    "law1901_*",
+    "law1901_group_name",
+    "law1901_field_first_name",
+    "law1901_field_last_name",
+    "law1901_group_register",
+    "law1901_group_administrative",
+    "law1901_field_leading_team",
+    "law1901_field_membership_limit_date",
+    "*_content",
+    "law1901_addon_last_query"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:24.919Z"
+}

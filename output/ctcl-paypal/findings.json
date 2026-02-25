@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ctcl_activate_paypal",
+    "ctcl_paypal_client-id",
+    "ctcl_paypal_color_option",
+    "ctcl_paypal_enlable_card",
+    "ctcl_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:22.682Z"
+}

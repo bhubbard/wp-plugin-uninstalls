@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aga_language",
+    "aga_print_settings",
+    "aga_ads_id",
+    "aga_ads_chanel",
+    "ai_space"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:25.230Z"
+}

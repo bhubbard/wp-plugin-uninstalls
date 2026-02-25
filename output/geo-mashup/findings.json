@@ -1,0 +1,40 @@
+{
+  "options": [
+    "geo_mashup_db_version",
+    "geo_mashup_activation_log",
+    "geo_locations",
+    "google_api_key",
+    "geo_mashup_options",
+    "geo_mashup_temp_kml_url",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "gm_uploaded_kml_url",
+    "gmm*",
+    "geo_mashup_test",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "geo_longitude",
+    "geo_latitude",
+    "geocoding_error",
+    "geo_date",
+    "geo_address",
+    "_geo_converted",
+    "geo_mashup_save_location_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:50.577Z"
+}

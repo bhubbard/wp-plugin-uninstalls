@@ -1,0 +1,29 @@
+{
+  "options": [
+    "rewrite_rules",
+    "wpl_auto_tour",
+    "wpl_version",
+    "wpl_basic_migration",
+    "wpl_addon_idx_user_credentials",
+    "wpl_addon_idx_user_steps_done",
+    "wpl_addon_idx_mls_data",
+    "wpl_addon_idx_download_images",
+    "wpl_addon_idx_user_config_status",
+    "wpl_idx_addon_saved_trial_pids",
+    "wpl_idx_addon_trial_imported",
+    "wpl_addon_idx_trial_reseted",
+    "wpl_gmap_hits_*",
+    "wpl_gmap_hits_date_*",
+    "wpl_addon_facebook_init_info",
+    "wpl_addon_facebook_catalog_id",
+    "wpl_facebook_addon_property_list"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rlty_check_user_license"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:14.209Z"
+}

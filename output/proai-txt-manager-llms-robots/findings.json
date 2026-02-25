@@ -1,0 +1,19 @@
+{
+  "options": [
+    "proai_txt_manager_enable_llms_txt",
+    "proai_txt_manager_enable_robots_txt",
+    "proai_txt_manager_auto_regenerate",
+    "proai_txt_manager_llms_custom_content",
+    "proai_txt_manager_robots_custom_rules",
+    "proai_txt_manager_*",
+    "proai_txt_manager_include_sitemap_in_robots",
+    "proai_txt_manager_disallow_admin",
+    "proai_txt_manager_disallow_wp_includes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:28.513Z"
+}

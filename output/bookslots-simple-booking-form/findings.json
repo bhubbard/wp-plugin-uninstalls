@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bookslots"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "duration",
+    "interval",
+    "type",
+    "user_id",
+    "email",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:36.785Z"
+}

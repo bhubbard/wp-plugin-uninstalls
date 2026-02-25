@@ -1,0 +1,16 @@
+{
+  "options": [
+    "smartaipress_activate_data_sent",
+    "smartaipress_deactivate_data_sent",
+    "smartaipress_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "smartaipress_get_api_usage_data",
+    "smartaipress_get_api_usage_data_for_today"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:16.120Z"
+}

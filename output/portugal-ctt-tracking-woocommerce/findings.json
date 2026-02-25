@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ctt_tracking_email_link_position",
+    "ctt_tracking_allow_users_update",
+    "ctt_tracking_email_link_type"
+  ],
+  "transients": [
+    "webdados_portuguese_postcodes_nag"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:31.338Z"
+}

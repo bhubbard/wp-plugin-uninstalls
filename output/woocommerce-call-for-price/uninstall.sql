@@ -1,0 +1,17 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_price_num_decimals', 'cfp_lite_allow_tracking', 'alg_wc_call_for_price_version', 'alg_wc_call_for_price_hide_main_variable_price', 'alg_wc_call_for_price_enabled', 'alg_call_for_price_enable_cfp_for_zero_price', 'alg_call_for_price_enable_stock_for_empty_price', 'alg_call_for_price_change_button_text', 'alg_call_for_price_button_text', 'alg_call_for_price_hide_button', 'alg_wc_call_for_price_hide_variations_add_to_cart_button', 'alg_call_for_price_make_all_empty', 'alg_call_for_price_make_empty_price_per_taxonomy', 'alg_call_for_price_make_empty_price_product_cat', 'alg_call_for_price_make_empty_price_product_tag', 'alg_call_for_price_make_empty_price_by_product_price', 'alg_call_for_price_make_empty_price_min_price', 'alg_call_for_price_make_empty_price_max_price', 'alg_wc_call_for_price_hide_sale_sign', 'alg_wc_call_for_price_force_variation_price', 'alg_call_for_price_enable_cfp_text_for_all_products', 'alg_call_for_price_button_url', 'alg_call_for_price_make_empty_price_per_user_roles', 'alg_wc_call_for_price_simple_enabled', 'alg_wc_call_for_price_simple_single_enabled', 'alg_wc_call_for_price_text_simple_single', 'alg_wc_call_for_price_simple_related_enabled', 'alg_wc_call_for_price_simple_home_enabled', 'alg_wc_call_for_price_simple_page_enabled', 'alg_wc_call_for_price_simple_archive_enabled', 'alg_wc_call_for_price_variable_enabled', 'alg_wc_call_for_price_variable_single_enabled', 'alg_wc_call_for_price_text_variable_single', 'alg_wc_call_for_price_variable_related_enabled', 'alg_wc_call_for_price_variable_home_enabled', 'alg_wc_call_for_price_variable_page_enabled', 'alg_wc_call_for_price_variable_archive_enabled', 'alg_wc_call_for_price_text_variable_archive', 'alg_wc_call_for_price_variable_variation_enabled', 'alg_wc_call_for_price_grouped_enabled', 'alg_wc_call_for_price_grouped_single_enabled', 'alg_wc_call_for_price_text_grouped_single', 'alg_wc_call_for_price_grouped_related_enabled', 'alg_wc_call_for_price_grouped_home_enabled', 'alg_wc_call_for_price_grouped_page_enabled', 'alg_wc_call_for_price_grouped_archive_enabled', 'alg_wc_call_for_price_external_enabled', 'alg_wc_call_for_price_external_single_enabled', 'alg_wc_call_for_price_text_external_single', 'alg_wc_call_for_price_external_related_enabled');
+DELETE FROM wp_options WHERE option_name IN ('alg_wc_call_for_price_external_home_enabled', 'alg_wc_call_for_price_external_page_enabled', 'alg_wc_call_for_price_external_archive_enabled', 'woocommerce_version', 'alg_call_for_price_make_out_of_stock_empty_price', 'ts_tracker_last_send', 'woocommerce_store_city', 'woocommerce_default_country', 'active_sitewide_plugins');
+DELETE FROM wp_options WHERE option_name LIKE '%_reset';
+DELETE FROM wp_options WHERE option_name LIKE '%_reset_usage_tracking';
+DELETE FROM wp_options WHERE option_name LIKE '%_enabled';
+DELETE FROM wp_options WHERE option_name LIKE 'alg_call_for_price_make_empty_price_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_allow_tracking';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_alg_wc_call_for_price_enabled');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_alg_wc_call_for_price_enabled');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_alg_wc_call_for_price_enabled');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_alg_wc_call_for_price_enabled');
+

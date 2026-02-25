@@ -1,0 +1,14 @@
+{
+  "options": [
+    "emfluence_global",
+    "emfl_widget_recaptcha"
+  ],
+  "transients": [
+    "emfl-access-token-validation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:35.399Z"
+}

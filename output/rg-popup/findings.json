@@ -1,0 +1,18 @@
+{
+  "options": [
+    "rg_popup_enable",
+    "rg_popup_cookie",
+    "rg_popup_title",
+    "rg_popup_content",
+    "rg_popup_style",
+    "rg_popup_from",
+    "rg_popup_to",
+    "rg_popup_exclude"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:47.550Z"
+}

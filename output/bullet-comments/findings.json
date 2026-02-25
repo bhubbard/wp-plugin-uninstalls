@@ -1,0 +1,14 @@
+{
+  "options": [
+    "is_bullet_comments_verify",
+    "bullet_comments_style",
+    "is_bullet_comments_guest_comment_verify",
+    "bullet_comments_split_text_input_c"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:34.632Z"
+}

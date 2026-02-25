@@ -1,0 +1,23 @@
+{
+  "options": [
+    "catwalker_custom_taxonomy",
+    "catwalker_related",
+    "catwalker_default_taxonomy",
+    "catwalker_related_include_ids",
+    "catwalker_related_include_children",
+    "catwalker_related_exclude_ids",
+    "catwalker_related_exclude_children",
+    "catwalker_custom_archive_orderby",
+    "catwalker_custom_archive_order",
+    "catwalker_custom_archive_sort",
+    "catwalker_custom_archive_limit",
+    "catwalker_post_attributes",
+    "catwalker_post_attributes_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:15.462Z"
+}

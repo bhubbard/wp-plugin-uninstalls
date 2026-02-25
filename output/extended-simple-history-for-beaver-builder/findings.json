@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fl_builder_data",
+    "_fl_builder_draft",
+    "node_moved"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:48.803Z"
+}

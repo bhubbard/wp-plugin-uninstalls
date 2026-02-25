@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpsdb_key', 'wpsdb_secret', 'wpsdb_auth_step', 'wpsdb_auth_token', 'wpsdb_auth_token_secret', 'wpsdb_menu_pref', 'wpsdb_thank_color', 'wpsdb_php_pear', 'wpsdb_path', 'wpsdb_temp_path', 'wpsdb_allow_ext', 'wpsdb_thank_message', 'wpsdb_show_progress', 'wpsdb_show_multi', 'wpsdb_show_form', 'wpsdb_delete_file', 'wpsdb_multi_link_text', 'wpsdb_redirect_page', 'wpsdb_activation_redirect', 'wpsdb_show_multi_size', 'wpdb_version_number', 'wpsdb_version_number');
+DELETE FROM wp_options WHERE option_name LIKE 'wps%';
+

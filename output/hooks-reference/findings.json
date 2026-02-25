@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hooks_reference_use_cache"
+  ],
+  "transients": [
+    "hooks_discovery_data",
+    "hooks_discovery_plugins",
+    "hooks_reference_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:41.737Z"
+}

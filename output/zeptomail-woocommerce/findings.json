@@ -1,0 +1,22 @@
+{
+  "options": [
+    "zeptowoo_client_id",
+    "zeptowoo_client_secret",
+    "zeptowoo_refresh_token",
+    "zeptowoo_access_token",
+    "zeptowoo_domain_name",
+    "zeptowoo_timestamp",
+    "zeptowoo_mail_agent",
+    "zeptowoo_from_email_id",
+    "zeptowoo_from_name",
+    "zeptowoo_cc_email_id",
+    "zeptowoo_bcc_email_id",
+    "zeptowoo_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:07.596Z"
+}

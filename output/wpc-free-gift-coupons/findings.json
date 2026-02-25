@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpcfg_settings",
+    "wpcfg_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcfg_config"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:28.146Z"
+}

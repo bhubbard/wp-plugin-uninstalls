@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpgitlab_cache_time",
+    "wpgitlab_url",
+    "wpgitlab_api_key",
+    "wpgitlab_clear_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:47.492Z"
+}

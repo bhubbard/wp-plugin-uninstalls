@@ -1,0 +1,17 @@
+{
+  "options": [
+    "klaro_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "klaro_default_state",
+    "klaro_required",
+    "klaro_optout",
+    "klaro_onlyonce",
+    "klaro_purposes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:48.807Z"
+}

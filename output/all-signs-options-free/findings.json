@@ -1,0 +1,28 @@
+{
+  "options": [
+    "asowp_output_options",
+    "asowp_config_page",
+    "asowp_all_borders",
+    "asowp_all_shapes",
+    "asowp_all_fixingMethods",
+    "ASOWP_installed",
+    "ASOWP_version",
+    "woocommerce_currency_pos",
+    "asowp-manages-cliparts",
+    "asowp-manages-fonts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product-asowp-metas",
+    "asowp-configs-meta",
+    "asowp-templates",
+    "variation_minimum_allowed_quantity",
+    "minimum_allowed_quantity",
+    "variation_maximum_allowed_quantity",
+    "maximum_allowed_quantity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:20.299Z"
+}

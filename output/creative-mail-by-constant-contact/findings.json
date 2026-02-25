@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ce4wp_activated",
+    "ce4wp_install_date",
+    "ce4wp_activation_redirect",
+    "ce4wp_ignore_review_notice",
+    "ce4wp_admin_footer_text_rated",
+    "woocommerce_onboarding_profile",
+    "woocommerce_email_from_address",
+    "woocommerce_email_from_name",
+    "password_protected_status"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:36.965Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "aatg_is_processing",
+    "aatg_processing_total",
+    "aatg_processing_current",
+    "aatg_text_generator_options"
+  ],
+  "transients": [
+    "aatg_bulk_generation_ids"
+  ],
+  "cron_jobs": [
+    "ai_process_media_batch"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:07.196Z"
+}

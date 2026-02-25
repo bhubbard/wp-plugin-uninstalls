@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpua_auto_publish_enabled",
+    "wpua_auto_delete_spam_enabled",
+    "wpua_auto_assign_category_enabled",
+    "wpua_auto_resize_images_enabled",
+    "wpua_auto_clear_cache_enabled",
+    "wpua_image_resize_width"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpua_auto_delete_spam_hook",
+    "wpua_auto_publish_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:28.945Z"
+}

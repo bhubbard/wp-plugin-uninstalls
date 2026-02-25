@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "ambisn_table_items_per_page",
+    "ambisn_table_emails_per_page",
+    "ambisn_feedback_popup",
+    "ambisn_lang_fixed_products",
+    "ambisn_plugin_data",
+    "ambisn_migration_product_ids",
+    "ambisn_migration_offset",
+    "wc_admail_subscriptions_migration_status"
+  ],
+  "transients": [
+    "ambisn_migration_notice",
+    "wc_admail_processed_count",
+    "wc_admail_subscriptions_progress"
+  ],
+  "cron_jobs": [
+    "ambisn_subscription_migration_event",
+    "ambisn_migrate_subscriptions_end_event",
+    "ambisn_migration_get_product_ids_task",
+    "ambisn_migrate_subscriptions_task"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wc_admail_count",
+    "wc_admail_data",
+    "wc_admail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:31.753Z"
+}

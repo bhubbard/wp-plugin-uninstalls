@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp-clickable-background-active",
+    "wp-clickable-background-javascript",
+    "wp-clickable-background-class",
+    "wp-clickable-background-link",
+    "wp-clickable-background-new",
+    "wp-clickable-background-form-message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:31.583Z"
+}

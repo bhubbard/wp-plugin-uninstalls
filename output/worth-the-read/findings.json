@@ -1,0 +1,34 @@
+{
+  "options": [
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES",
+    "redux-framework_extendify_plugin_notice",
+    "*ense_key",
+    "*icense_status",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "*-transients",
+    "redux_custom_font_current",
+    "woocommerce_shop_page_id",
+    "auto_update_redux_google_fonts",
+    "wtr_settings",
+    "wtr_debug_messages"
+  ],
+  "transients": [
+    "*-transient",
+    "*-transients-metaboxes",
+    "*-transients-users"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ignore_*",
+    "ignore_hints",
+    "_visibility",
+    "_stock_status",
+    "wtr-disable-reading-progress",
+    "wtr-disable-time-commitment",
+    "wtr-custom-time-label"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:17.387Z"
+}

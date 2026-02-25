@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "imma_wm_ads_key"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "htransaction",
+    "imma_wm_ads",
+    "payu_reference_code",
+    "payu_method_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:38.259Z"
+}

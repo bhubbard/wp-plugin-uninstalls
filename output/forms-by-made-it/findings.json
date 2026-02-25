@@ -1,0 +1,32 @@
+{
+  "options": [
+    "madeit_form_db_v",
+    "madeit_forms_reCaptcha_version",
+    "madeit_forms_reCaptcha",
+    "madeit_forms_reCaptcha_key",
+    "madeit_forms_reCaptcha_secret",
+    "madeit_forms_reCaptcha_minScore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "form_id",
+    "form",
+    "messages",
+    "actions",
+    "form_type",
+    "save_inputs",
+    "data",
+    "ip",
+    "user_agent",
+    "spam",
+    "read",
+    "result",
+    "old_input_id",
+    "ac_contact_id",
+    "max_submits"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:03.464Z"
+}

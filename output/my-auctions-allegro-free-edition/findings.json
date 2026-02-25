@@ -1,0 +1,38 @@
+{
+  "options": [
+    "gjmaa_database_version",
+    "gjmaa_db_version",
+    "widget_gjmaa_allegro_widget",
+    "widget_gjmaa_auctions",
+    "gjwa_pro_product_synchronize_price",
+    "gjmaa_category_*",
+    "gjmaa_*",
+    "woocommerce_notify_no_stock_amount"
+  ],
+  "transients": [
+    "gjmaa_reassign_last",
+    "gjmaa_reassign_processedIds"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_allow_to_show_allegro_link",
+    "_cta_to_show_allegro_link",
+    "_allegro_auction_id",
+    "_allegro_do_not_sync_price",
+    "_product_url",
+    "_button_text",
+    "_wp_attachment_image_alt",
+    "_allegro_url",
+    "_product_image_gallery",
+    "_product_attributes",
+    "_price",
+    "_regular_price",
+    "_stock",
+    "_stock_status",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:18.316Z"
+}

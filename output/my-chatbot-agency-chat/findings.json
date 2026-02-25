@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mca_onboarding",
+    "room_ID",
+    "chat_ID",
+    "website_verify"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:39.027Z"
+}

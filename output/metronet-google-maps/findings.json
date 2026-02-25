@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "map_width",
+    "map_height",
+    "marker_latitude",
+    "marker_longitude",
+    "marker_icon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:17.032Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "debug_toggle_monitoring_interval",
+    "debug_toggle_monitoring",
+    "debug_toggle_admin_bar",
+    "debug_toggle_remove_data_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "debug_toggle_scheduled_monitoring"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:15.070Z"
+}

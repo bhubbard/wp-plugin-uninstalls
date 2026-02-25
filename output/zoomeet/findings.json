@@ -1,0 +1,52 @@
+{
+  "options": [
+    "zmeet_zoom_settings",
+    "zmeet_addons_settings",
+    "zmeet_integration_settings",
+    "zmeet_zoom_global_oauth_data",
+    "zmeet_zoom_users",
+    "zmeet_is_sdk_prepare",
+    "zmeet_is_server_auth_prepare",
+    "zmeet_google_meet_settings",
+    "zmeet_jitsi_settings",
+    "zmeet_webex_settings",
+    "zmeet_google_meet_account",
+    "zoom_api_enable_debug_log",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "zmeet_zoom_settings_live",
+    "zmeet_jitsi_jwt_token",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "zmeet_zoom_meeting_duration",
+    "zmeet_zoom_details",
+    "zmeet_zoom_join_url",
+    "zmeet_zoom_start_url",
+    "zmeet_zoom_meeting_id",
+    "zmeet_zoom_meeting_password",
+    "zmeet_zoom_webinar_id",
+    "zmeet__meeting_settings",
+    "meeting_description",
+    "zmeet_meeting_status",
+    "zmeet_meeting_start_status",
+    "zmeet_connect_as_product",
+    "zmeet_connect_product_id",
+    "zmeet_webex_access_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:13.229Z"
+}

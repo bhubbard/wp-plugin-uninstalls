@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fs_lite_accounts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ba_re_",
+    "ba_quest_font_color",
+    "ba_quest_font_size",
+    "ba_ans_font_size",
+    "ba_ans_font_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:37.754Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dimension",
+    "_text",
+    "_info",
+    "_width",
+    "_fontsize",
+    "_percentage",
+    "_fcolor",
+    "_bgcolor",
+    "_fill",
+    "_icon",
+    "_iconSize",
+    "_iconCol",
+    "_inline"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:42.462Z"
+}

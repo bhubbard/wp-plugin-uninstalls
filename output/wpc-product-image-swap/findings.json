@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpcis_settings",
+    "wpcis_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcis_type",
+    "wpcis_images",
+    "wpcis_swap",
+    "wpcis_slider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:01.793Z"
+}

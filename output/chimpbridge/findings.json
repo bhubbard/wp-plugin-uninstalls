@@ -1,0 +1,26 @@
+{
+  "options": [
+    "chimpbridge_mailchimp_key",
+    "mc4wp",
+    "chimpbridge_error_notices"
+  ],
+  "transients": [
+    "chimpbridge_mailchimp_lists",
+    "chimpbridge_email_mailchimp_groups_*",
+    "chimpbridge_mailchimp_segments_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "chimpbridge_email_campaign_id",
+    "_chimpbridge_select_lists",
+    "_chimpbridge_select_segments",
+    "_chimpbridge_from_name",
+    "_chimpbridge_from_email",
+    "_chimpbridge_to_name",
+    "chimpbridge_email_archive_url",
+    "chimpbridge_scheduled_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:08.406Z"
+}

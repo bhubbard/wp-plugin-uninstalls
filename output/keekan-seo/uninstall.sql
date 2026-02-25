@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('keekan_seo_api_url', 'keekan_seo_api_key', 'keekan_seo_account_email', 'keekan_seo_site_domain', 'keekan_seo_title_separator', 'keekan_seo_sitemap_images', 'keekan_seo_sitemap_video', 'keekan_seo_sitemap_news', 'keekan_seo_sitemap_taxonomies', 'keekan_seo_robots_rules', 'keekan_seo_branding', 'keekan_seo_social_facebook', 'keekan_seo_social_twitter', 'keekan_seo_default_og_image', 'keekan_seo_schema_enabled', 'keekan_seo_breadcrumbs_schema', 'keekan_seo_title_template_default', 'keekan_seo_description_template_default', 'keekan_seo_plan_tier', 'keekan_seo_branding_migrated', 'keekan_seo_rewrites_flushed');
+DELETE FROM wp_options WHERE option_name LIKE 'keekan_seo_title_template_%';
+DELETE FROM wp_options WHERE option_name LIKE 'keekan_seo_description_template_%';
+DELETE FROM wp_options WHERE option_name LIKE 'keekan_seo_robots_default_%';
+DELETE FROM wp_options WHERE option_name LIKE 'keekan_seo_schema_type_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_keekan_seo_title', '_keekan_seo_description', '_keekan_seo_robots', '_keekan_seo_focus_keyword', '_keekan_seo_video_url', '_keekan_seo_video_title', '_keekan_seo_video_description', '_keekan_seo_video_thumbnail', '_keekan_seo_schema_page_type', '_keekan_seo_schema_article_type', '_keekan_seo_social_title', '_keekan_seo_social_description', '_keekan_seo_social_image', '_keekan_seo_twitter_title', '_keekan_seo_twitter_description', '_keekan_seo_twitter_image');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_keekan_seo_title', '_keekan_seo_description', '_keekan_seo_robots', '_keekan_seo_focus_keyword', '_keekan_seo_video_url', '_keekan_seo_video_title', '_keekan_seo_video_description', '_keekan_seo_video_thumbnail', '_keekan_seo_schema_page_type', '_keekan_seo_schema_article_type', '_keekan_seo_social_title', '_keekan_seo_social_description', '_keekan_seo_social_image', '_keekan_seo_twitter_title', '_keekan_seo_twitter_description', '_keekan_seo_twitter_image');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_keekan_seo_title', '_keekan_seo_description', '_keekan_seo_robots', '_keekan_seo_focus_keyword', '_keekan_seo_video_url', '_keekan_seo_video_title', '_keekan_seo_video_description', '_keekan_seo_video_thumbnail', '_keekan_seo_schema_page_type', '_keekan_seo_schema_article_type', '_keekan_seo_social_title', '_keekan_seo_social_description', '_keekan_seo_social_image', '_keekan_seo_twitter_title', '_keekan_seo_twitter_description', '_keekan_seo_twitter_image');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_keekan_seo_title', '_keekan_seo_description', '_keekan_seo_robots', '_keekan_seo_focus_keyword', '_keekan_seo_video_url', '_keekan_seo_video_title', '_keekan_seo_video_description', '_keekan_seo_video_thumbnail', '_keekan_seo_schema_page_type', '_keekan_seo_schema_article_type', '_keekan_seo_social_title', '_keekan_seo_social_description', '_keekan_seo_social_image', '_keekan_seo_twitter_title', '_keekan_seo_twitter_description', '_keekan_seo_twitter_image');
+

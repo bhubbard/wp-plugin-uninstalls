@@ -1,0 +1,40 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "phone-orders-for-woocommerce-rated",
+    "woocommerce_currency",
+    "woocommerce_tax_round_at_subtotal",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "wpo_report"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_company",
+    "billing_phone",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "shipping_company",
+    "shipping_phone",
+    "shipping_address_1",
+    "shipping_address_2",
+    "shipping_city",
+    "shipping_postcode",
+    "shipping_country",
+    "shipping_state",
+    "first_name",
+    "last_name",
+    "locale",
+    "billing_*",
+    "is_vat_exempt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:05.093Z"
+}

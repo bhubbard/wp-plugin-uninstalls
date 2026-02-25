@@ -1,0 +1,13 @@
+{
+  "options": [
+    "um_post_type_url_changer_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "um_custom_post_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:11.594Z"
+}

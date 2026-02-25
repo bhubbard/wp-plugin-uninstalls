@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "cstmsrch_options",
+    "sndr_options",
+    "qtsndtps_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [
+    "qtsndtps_update_quotes_tips_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers",
+    "_wp_attachment_qtsndtp_background_image",
+    "name_field",
+    "off_cap"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:26.841Z"
+}

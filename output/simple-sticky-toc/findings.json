@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bonddesign_bonddesign_sstoc_options",
+    "bonddesign_sstoc_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bonddesign_sstoc_disable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:35.025Z"
+}

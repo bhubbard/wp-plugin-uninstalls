@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_aff_2nd_tier_commission_level",
+    "wp_aff_use_fixed_commission"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aff_woo_product_specific_commission"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:02.883Z"
+}

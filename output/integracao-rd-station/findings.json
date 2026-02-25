@@ -1,0 +1,33 @@
+{
+  "options": [
+    "rdsm_tracking_code",
+    "rdsm_general_settings",
+    "rdsm_access_token",
+    "rdsm_refresh_token",
+    "rdsm_woocommerce_settings",
+    "rdsm_base_migrated",
+    "rdsm_public_token",
+    "rdsm_private_token",
+    "rdscript_all_head",
+    "rdscript_all_body",
+    "rdsm_integrations_log_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7_mapped_fields_*",
+    "gf_mapped_fields_*",
+    "form_id",
+    "form_identifier",
+    "token_rdstation",
+    "gf_mapped_fields",
+    "use_post_title",
+    "_rdscriptcontentinhead",
+    "_rdscriptcontentinfooter",
+    "_rdscriptcontenttop",
+    "_rdscriptcontentbottom"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:42.851Z"
+}

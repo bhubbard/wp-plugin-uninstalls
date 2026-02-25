@@ -1,0 +1,26 @@
+{
+  "options": [
+    "hiweb_plugins_server",
+    "theme_mods_*",
+    "hiweb_settings_cyt2lat",
+    "hiweb_settings_head_base",
+    "hiweb_cms_plugins_path",
+    "hiweb_cms_support_thumbnails",
+    "hiweb_cms_title",
+    "hiweb_cms_support_menus",
+    "hiweb_cms_support_widgets",
+    "hiweb_cms_support_postformats",
+    "hiweb_cms_autochange_basedir",
+    "hiweb_cms_adminmenu_options",
+    "hiweb_settings_script_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hiweb_cms_title_mod",
+    "hiweb_cms_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:02.736Z"
+}

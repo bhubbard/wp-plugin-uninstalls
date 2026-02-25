@@ -1,0 +1,16 @@
+{
+  "options": [
+    "badgeos_group_management_teacher_role",
+    "badgeos_group_management_student_role"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "school_id",
+    "teacher_id",
+    "_bp_invite_codes_group_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:34.406Z"
+}

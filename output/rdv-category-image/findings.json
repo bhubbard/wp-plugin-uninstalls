@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rdv_category_image_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rdv_category_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:11.169Z"
+}

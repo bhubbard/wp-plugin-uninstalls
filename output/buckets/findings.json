@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "field_bucketskey777",
+    "allorany",
+    "rule",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "field_bucketskey778",
+    "buckets"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:32.138Z"
+}

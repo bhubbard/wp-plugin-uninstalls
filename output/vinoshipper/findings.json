@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vs_injector_account_id",
+    "vs_injector_theme",
+    "vs_injector_theme_dark",
+    "vs_injector_cart_position",
+    "vs_injector_cart_button"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:22.477Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dropkick_jquery_selectors",
+    "dropkick_mobile_device_support",
+    "dropkick_ie8_support"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:00.146Z"
+}

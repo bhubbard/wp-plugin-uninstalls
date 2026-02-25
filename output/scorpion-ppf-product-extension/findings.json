@@ -1,0 +1,13 @@
+{
+  "options": [
+    "scorpion_ppf_product_sku",
+    "scorpion_ppf_api_address",
+    "scorpion_ppf_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:28.354Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ecwo-save-template",
+    "ecwo-templates-settings",
+    "ecwo_meta",
+    "ecwo_do_activation_redirect",
+    "woocommerce_email_background_color",
+    "woocommerce_email_body_background_color",
+    "woocommerce_email_base_color",
+    "woocommerce_email_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:08.408Z"
+}

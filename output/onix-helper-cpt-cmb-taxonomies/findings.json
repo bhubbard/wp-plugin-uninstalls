@@ -1,0 +1,14 @@
+{
+  "options": [
+    "onix_meta_box_cpt",
+    "onix_meta_box_fields",
+    "onix_meta_box_tax",
+    "onix_meta_box"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:32.120Z"
+}

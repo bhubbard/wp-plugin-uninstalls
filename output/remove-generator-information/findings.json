@@ -1,0 +1,17 @@
+{
+  "options": [
+    "no_generator_metatag_xhtml",
+    "no_generator_metatag_html",
+    "no_generator_metatag_atom",
+    "no_generator_metatag_rss2",
+    "no_generator_metatag_rdf",
+    "no_generator_metatag_comment",
+    "no_generator_metatag_export"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:43.447Z"
+}

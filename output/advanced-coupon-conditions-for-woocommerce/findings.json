@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "payment_methods",
+    "billing_countries",
+    "shipping_countries",
+    "zip_codes",
+    "pc_inc_exc"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:51.522Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "*client_api_key",
+    "*client_password",
+    "*environment_type",
+    "*live_api_url",
+    "*stage_api_url",
+    "*freightmate_shipping",
+    "*freightmate_shipping_charges",
+    "*woo_defaultshipping"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*product_weight",
+    "*product_length",
+    "*product_width",
+    "*product_height",
+    "*product_isMutable",
+    "*product_item_type_name",
+    "*item_type",
+    "*product_tailgate",
+    "*consignment_result",
+    "*consignment_connoteNumber",
+    "*consignment_connoteId",
+    "*is_consignment_created",
+    "*consignment_created_at",
+    "*create_consignment_api_response",
+    "*manifest_result",
+    "*manifest_number",
+    "*manifest_number_id",
+    "*is_manifest_created",
+    "*manifest_created_at",
+    "*create_manifest_api_response",
+    "authority_to_leave"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:12.187Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sbsc_custom_mappings",
+    "sbsc_settings"
+  ],
+  "transients": [
+    "sbsc_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:15.712Z"
+}

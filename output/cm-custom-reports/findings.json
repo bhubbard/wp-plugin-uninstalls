@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cmcr_event_log_db_version",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:47.010Z"
+}

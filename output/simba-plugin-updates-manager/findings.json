@@ -1,0 +1,22 @@
+{
+  "options": [
+    "updraftmanager_last_version",
+    "udmanager_authenticated_sids_meta_offset"
+  ],
+  "transients": [
+    "uddownld_*"
+  ],
+  "cron_jobs": [
+    "updraftmanager_weeklycron",
+    "updraftmanager_delete_old_expired_licences",
+    "udmanager_dorenewalreminders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "udmanager_lastcheckins",
+    "udmanager_authenticated_sids",
+    "updraftmanager_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:31.940Z"
+}

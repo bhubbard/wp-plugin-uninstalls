@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slider_height",
+    "height_units",
+    "slider_speed",
+    "slider_arrow",
+    "slider_bullet",
+    "your_simple_slider_img"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:37.587Z"
+}

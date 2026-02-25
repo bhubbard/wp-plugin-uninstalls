@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7cc_*",
+    "_cf7wpms_enable",
+    "_cf7wpms"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:33.677Z"
+}

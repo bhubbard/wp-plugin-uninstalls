@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ovic_pinmap_image",
+    "ovic_pinmap_pins",
+    "ovic_pinmap_settings",
+    "_wpb_post_custom_css",
+    "_wpb_shortcodes_custom_css",
+    "_Ovic_Shortcode_custom_css",
+    "_Ovic_VC_Shortcode_Custom_Css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:37.719Z"
+}

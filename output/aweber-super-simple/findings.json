@@ -1,0 +1,20 @@
+{
+  "options": [
+    "awss_version",
+    "awss_actions",
+    "awss_defaultterms",
+    "awss_subscribe",
+    "awss_registration_greeting",
+    "awss_formid",
+    "awss_unit",
+    "awss_adtracking",
+    "awss_alreadysubscribed",
+    "awss_showterms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:28.882Z"
+}

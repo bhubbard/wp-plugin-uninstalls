@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'custom_layouts_breakpoints'
+wp option delete 'custom_layouts_css_mode'
+wp option delete 'custom_layouts_css_version_id'
+wp option delete 'custom_layouts_version'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-template-instances'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-template-instances'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-template-instances'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-template-instances'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-template-instance-order'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-template-instance-order'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-template-instance-order'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-template-instance-order'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-template-data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-template-data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-template-data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-template-data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-version'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-version'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-version'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-version'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-app-data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-app-data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-app-data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-app-data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-layout'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-layout'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-layout'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-layout'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-query'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-query'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-query'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-query'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-last-tab'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-last-tab'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-last-tab'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-last-tab'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'custom-layouts-%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'custom-layouts-%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'custom-layouts-%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'custom-layouts-%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom-layouts-template-css'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom-layouts-template-css'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom-layouts-template-css'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom-layouts-template-css'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"

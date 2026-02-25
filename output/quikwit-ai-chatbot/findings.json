@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*tokens",
+    "*user_data",
+    "*agents",
+    "*chatbot_settings",
+    "*widget_data"
+  ],
+  "transients": [
+    "quikwit_rest_api_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:05.083Z"
+}

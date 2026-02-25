@@ -1,0 +1,20 @@
+{
+  "options": [
+    "gseasy_auto_link",
+    "gseasy_tooltip_enable",
+    "gseasy_tooltip_style",
+    "gseasy_index_layout",
+    "gseasy_custom_html",
+    "gseasy_permalink_slug",
+    "gseasy_enable_archive",
+    "gseasy_permalink_slug_old"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gseasy_term_schema"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:55.621Z"
+}

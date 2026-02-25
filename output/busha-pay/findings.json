@@ -1,0 +1,14 @@
+{
+  "options": [
+    "busha_payment_methods",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "busha_check_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:39.284Z"
+}

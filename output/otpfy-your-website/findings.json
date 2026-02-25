@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id",
+    "woocommerce_default_country",
+    "otpfy-for-wordpress-settings"
+  ],
+  "transients": [
+    "otpfy_refresh_balance_onload",
+    "otpfy_otp_*",
+    "otpfy_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bt_otpfy_user_mobile_number",
+    "billing_phone",
+    "_otp_verified",
+    "_otpfy_otp_mobile",
+    "_otpfy_otp_verified"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:56.172Z"
+}

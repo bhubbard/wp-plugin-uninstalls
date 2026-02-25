@@ -1,0 +1,24 @@
+{
+  "options": [
+    "smbw_settings",
+    "widget_social-media-badge-widget",
+    "smbw_openSelection",
+    "smbw_collapsible",
+    "smbw_allClosed",
+    "smbw_load_jquery_ui",
+    "smbw_load_scripts",
+    "smbw_style",
+    "smbw_faces_facebook",
+    "smbw_stream_facebook",
+    "smbw_tweets",
+    "smbw_live_twitter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smbw_plugin_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:23.666Z"
+}

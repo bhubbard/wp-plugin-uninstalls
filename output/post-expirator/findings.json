@@ -1,0 +1,35 @@
+{
+  "options": [
+    "expirationdateDebug",
+    "classic-editor-replace",
+    "postexpiratorVersion",
+    "expirationdateDefaultDate",
+    "expirationdateExpiredPageStatus",
+    "expirationdateExpiredPostStatus",
+    "expirationdateDefaultsPage",
+    "expirationdateDefaultsPost",
+    "expirationdateCronSchedule",
+    "expirationdateAutoEnabled",
+    "pp_future_V30001RestorePostMeta",
+    "pp_future_V30104ArgsColumnLength",
+    "expirationdatePreserveData"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count",
+    "post-expirator-notice-*",
+    "pp_future_version_notices_version_error"
+  ],
+  "cron_jobs": [
+    "expirationdate_delete_*",
+    "expirationdate_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "expiration_log",
+    "publishpressfuture_actions_log_format"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:46.823Z"
+}

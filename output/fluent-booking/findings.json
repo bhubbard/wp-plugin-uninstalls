@@ -1,0 +1,29 @@
+{
+  "options": [
+    "fluent_booking_db_version",
+    "_fluent_booking_settings",
+    "fluent_booking_payment_settings_stripe",
+    "fluent_booking_global_payment_settings",
+    "fluent_booking_modules",
+    "fluent_booking_payment_settings_*",
+    "fluentmail-settings",
+    "_fluent_booking_enabled_modules",
+    "_fb_ins_by",
+    "fcom_last_summary_email_send",
+    "siteUrl"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "fluent_booking_five_minutes_tasks",
+    "fluent_booking_hourly_tasks",
+    "fluent_booking/daily_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:35.634Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dbug_settings",
+    "dbug_error_level",
+    "dbug_log_filesize",
+    "dbug_log_path",
+    "dbug_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:51.051Z"
+}

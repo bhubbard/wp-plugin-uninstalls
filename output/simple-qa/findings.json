@@ -1,0 +1,26 @@
+{
+  "options": [
+    "qa_setting_captcha",
+    "qa_setting_captcha_publickey",
+    "qa_setting_captcha_privatekey",
+    "qa_setting_email",
+    "qa_setting_default_email",
+    "qa_setting_user_response",
+    "qa_setting_number_qa",
+    "qa_setting_default_answer",
+    "qa_setting_background_open",
+    "qa_setting_background_close"
+  ],
+  "transients": [
+    "qa-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qa_username",
+    "qa_email",
+    "qa_ip"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:45.487Z"
+}

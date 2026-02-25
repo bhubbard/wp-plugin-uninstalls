@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [
+    "pic_plugin_*",
+    "pic_author_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:38.927Z"
+}

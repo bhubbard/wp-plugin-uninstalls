@@ -1,0 +1,21 @@
+{
+  "options": [
+    "linktrade_notification_email",
+    "linktrade_email_notifications",
+    "linktrade_reminder_days",
+    "linktrade_language",
+    "linktrade_version",
+    "linktrade_install_date",
+    "linktrade_batch_size",
+    "linktrade_request_delay"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "linktrade_check_links",
+    "linktrade_check_reminders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:39.759Z"
+}

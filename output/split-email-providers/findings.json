@@ -1,0 +1,19 @@
+{
+  "options": [
+    "split_email_add_price",
+    "split_email_send_shop_address",
+    "woocommerce_email_from_address",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_global_unique_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:56.932Z"
+}

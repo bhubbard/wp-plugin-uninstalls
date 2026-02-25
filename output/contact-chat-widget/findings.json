@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bheema_ccw_country_code",
+    "bheema_ccw_number",
+    "bheema_ccw_icon",
+    "bheema_ccw_placement",
+    "bheema_ccw_margin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:16.505Z"
+}

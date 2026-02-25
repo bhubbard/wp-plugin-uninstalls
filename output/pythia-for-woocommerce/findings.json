@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_pythia_admin_notices",
+    "wp_pythia_admin_notice_*",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice",
+    "dismissed_wc_pythia_sync_disabled_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:25.554Z"
+}

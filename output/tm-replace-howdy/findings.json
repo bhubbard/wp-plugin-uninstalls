@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tm_replace_howdy_ver",
+    "tm_replace_howdy_all_languages",
+    "tm_replace_howdy_mode",
+    "tm_replace_howdy_values",
+    "tm_replace_howdy_save",
+    "techm_replace_howdy",
+    "techm_replace_howdy_values"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:26.140Z"
+}

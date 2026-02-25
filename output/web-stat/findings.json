@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wts_alias",
+    "wts_db",
+    "wts_oc_a2",
+    "wts_oc",
+    "wts_site_id",
+    "wts_web_stat_uid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:46.382Z"
+}

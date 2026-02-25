@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dc_dcb_html",
+    "dc_dcb_css",
+    "dc_dcb_js",
+    "dc_dcb_show_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:06.704Z"
+}

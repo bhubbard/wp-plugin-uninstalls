@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'modeView'
+wp option delete 'callMe'
+wp option delete 'callMe_Token'
+wp option delete 'chatNvoip'
+wp option delete 'chatNvoip_Token'
+wp option delete 'whatsApp'
+wp option delete 'ColorNvoipIcon'
+wp option delete 'ColorCallmeIcon'
+wp option delete 'ColorMaisImIcon'
+wp option delete 'ColorWppIcon'
+wp option delete 'ImgLogoIcon'
+wp option delete 'sideOption'
+wp option delete 'ImgLogo'
+wp option delete 'TextContactBalloon'
+wp option delete 'TextContactWhatsapp'
+wp option delete 'select_Cod_Pais_hidden'
+wp option delete 'NumberContactWhatsapp'
+wp option delete 'Number_Contact_Whatsapp_hidden'
+wp option delete 'ColorPrimary'
+wp option delete 'ColorBorder'
+wp option delete 'ColorBackgroundCallme'
+wp option delete 'TxtFirstParagraphCallmeFirstPage'
+wp option delete 'TxtSecondParagraphCallmeFirstPage'
+wp option delete 'TxtFirstParagraphCallmeSecondPage'
+wp option delete 'TxtFirstParagraphCallmeThirdPage'
+wp option delete 'TxtSecondParagraphCallmeThirdPage'
+wp option delete 'Public_token_FC'
+

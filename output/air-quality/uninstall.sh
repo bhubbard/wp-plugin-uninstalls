@@ -1,0 +1,19 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'pk_aqp_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'longitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'longitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'longitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'longitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'latitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'latitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'latitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'latitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'weather-info'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'weather-info'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'weather-info'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'weather-info'"

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ele_cc_ave_merchant_id",
+    "ele_cc_ave_working_key",
+    "ele_cc_ave_access_code",
+    "ele_cc_ave_redirect_page",
+    "ele_cc_ave_payment_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:08.352Z"
+}

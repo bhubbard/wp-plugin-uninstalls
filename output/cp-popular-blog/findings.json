@@ -1,0 +1,13 @@
+{
+  "options": [
+    "widget_cppb_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_popular"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:05.266Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "pc_gf_google_api_key",
+    "pcafe_load_with_async"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:33.539Z"
+}

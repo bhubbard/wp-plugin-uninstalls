@@ -1,0 +1,16 @@
+{
+  "options": [
+    "piecal_hide_onboarding_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_piecal_start_date",
+    "_piecal_end_date",
+    "_piecal_is_allday",
+    "_piecal_is_event"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:04.090Z"
+}

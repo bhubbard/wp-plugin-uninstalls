@@ -1,0 +1,21 @@
+{
+  "options": [
+    "hwit_stddt_enable_debug",
+    "hwit_stddt_enable_email_repeat",
+    "hwit_stddt_tracking_email_type",
+    "hw_stddt_include_tracking_info_with_ddt"
+  ],
+  "transients": [
+    "hwit_stddt_notice_ddt_missing",
+    "hwit_stddt_notice_mail_sent"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_corriere",
+    "_codice_tracciamento",
+    "_link_tracciamento"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:38.454Z"
+}

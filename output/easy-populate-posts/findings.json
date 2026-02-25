@@ -1,0 +1,18 @@
+{
+  "options": [
+    "spp_settings",
+    "spp_settings_groups"
+  ],
+  "transients": [
+    "ssp-post-meta-list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "spp_sample",
+    "_thumbnail_id",
+    "spp_sample_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:31.530Z"
+}

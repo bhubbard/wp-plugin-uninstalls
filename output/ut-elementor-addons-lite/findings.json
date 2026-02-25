@@ -1,0 +1,28 @@
+{
+  "options": [
+    "ut_settings",
+    "ut_flush",
+    "woocommerce_shop_page_id",
+    "elementor_maintenance_mode_mode",
+    "elementor_maintenance_mode_template_id",
+    "ua_enable_sticky",
+    "ua_enable_transparent"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "ut_mark_default",
+    "ut_type",
+    "ut_display",
+    "ut_post",
+    "ut_featured_image",
+    "ut_post_type",
+    "ut_no_display",
+    "ut_ex_post_type",
+    "ut_ex_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:23.850Z"
+}

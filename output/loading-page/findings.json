@@ -1,0 +1,18 @@
+{
+  "options": [
+    "installed_*",
+    "loading_page_options",
+    "elementor_maintenance_mode_mode",
+    "elementor_maintenance_mode_exclude_mode",
+    "elementor_maintenance_mode_exclude_roles",
+    "loading_page_video_tutorial"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:39.370Z"
+}

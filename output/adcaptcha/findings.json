@@ -1,0 +1,16 @@
+{
+  "options": [
+    "adcaptcha_api_key",
+    "adcaptcha_placement_id",
+    "adcaptcha_render_captcha",
+    "adcaptcha_selected_plugins",
+    "experimental_disable_wc_checkout_endpoint",
+    "adcaptcha_wc_checkout_optional_trigger"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:48.014Z"
+}

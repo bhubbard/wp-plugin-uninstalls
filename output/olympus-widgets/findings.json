@@ -1,0 +1,17 @@
+{
+  "options": [
+    "author_widget_disable",
+    "olympus_twitter_consumer_key",
+    "olympus_twitter_consumer_secret",
+    "olympus_twitter_access_token",
+    "olympus_twitter_access_token_secret",
+    "olympus_twitter_plugin_last_cache_time",
+    "olympus_twitter_plugin_tweets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:06.074Z"
+}

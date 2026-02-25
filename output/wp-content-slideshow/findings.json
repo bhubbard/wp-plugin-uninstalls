@@ -1,0 +1,24 @@
+{
+  "options": [
+    "content_width",
+    "content_bg",
+    "content_height",
+    "content_img_width",
+    "content_nav_width",
+    "content_nav_height",
+    "content_nav_color",
+    "content_nav_bg",
+    "content_nav_active_bg",
+    "content_nav_active_color",
+    "content_sort",
+    "content_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "content_slider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:08.145Z"
+}

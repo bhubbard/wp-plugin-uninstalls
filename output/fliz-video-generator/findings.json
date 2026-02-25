@@ -1,0 +1,22 @@
+{
+  "options": [
+    "fliz_settings",
+    "fliz_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fliz_check_pending_videos"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fliz_auto_generate",
+    "_fliz_video_id",
+    "_fliz_video_status",
+    "_fliz_video_url",
+    "_fliz_video_format",
+    "_fliz_video_category",
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:45.490Z"
+}

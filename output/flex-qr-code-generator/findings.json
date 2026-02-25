@@ -1,0 +1,13 @@
+{
+  "options": [
+    "flexqr_db_version",
+    "flexqr_settings",
+    "flexqr_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:08.862Z"
+}

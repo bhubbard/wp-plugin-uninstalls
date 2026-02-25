@@ -1,0 +1,31 @@
+{
+  "options": [
+    "dscc_admin_googleipikey",
+    "dscc_admin_listitem_count",
+    "dscc_admin_filter_radius",
+    "dscc_admin_lb_pager",
+    "dscc_admin_lb_autoplay",
+    "dscc_admin_lb_zoom",
+    "dscc_admin_lb_fullscreen",
+    "dscc_admin_lb_hash",
+    "dscc_admin_lb_share",
+    "dscc_admin_lb_thumbnail",
+    "dscc_admin_lb_rotate",
+    "dscc_filter_type_show"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dscc_timearrea",
+    "dscc_datearrea",
+    "dscc_latitude",
+    "dscc_longitude",
+    "dscc_time_from_rate",
+    "dscc_time_to_rate",
+    "dscc_tsbletype",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:52.446Z"
+}

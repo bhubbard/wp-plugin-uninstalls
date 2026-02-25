@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wccal_permalinks",
+    "wccal_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_url",
+    "_wccal_clickthrough_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:44.967Z"
+}

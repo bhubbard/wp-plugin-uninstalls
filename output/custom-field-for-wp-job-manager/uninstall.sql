@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('field_type_cfwjm', 'field_location_cfwjm', 'field_placeholder_cfwjm', 'field_class_cfwjm', 'field_min_cfwjm', 'field_max_cfwjm', 'field_step_cfwjm', 'field_description_cfwjm', 'field_hide_admin_cfwjm', 'field_hide_frontend_cfwjm', 'field_location_show_cfwjm', 'field_ordernumber_cfwjm', 'field_required_cfwjm', 'field_option_cfwjm', 'field_output_cfwjm', 'field_use_output_cfwjm');
+DELETE FROM wp_usermeta WHERE meta_key IN ('field_type_cfwjm', 'field_location_cfwjm', 'field_placeholder_cfwjm', 'field_class_cfwjm', 'field_min_cfwjm', 'field_max_cfwjm', 'field_step_cfwjm', 'field_description_cfwjm', 'field_hide_admin_cfwjm', 'field_hide_frontend_cfwjm', 'field_location_show_cfwjm', 'field_ordernumber_cfwjm', 'field_required_cfwjm', 'field_option_cfwjm', 'field_output_cfwjm', 'field_use_output_cfwjm');
+DELETE FROM wp_termmeta WHERE meta_key IN ('field_type_cfwjm', 'field_location_cfwjm', 'field_placeholder_cfwjm', 'field_class_cfwjm', 'field_min_cfwjm', 'field_max_cfwjm', 'field_step_cfwjm', 'field_description_cfwjm', 'field_hide_admin_cfwjm', 'field_hide_frontend_cfwjm', 'field_location_show_cfwjm', 'field_ordernumber_cfwjm', 'field_required_cfwjm', 'field_option_cfwjm', 'field_output_cfwjm', 'field_use_output_cfwjm');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('field_type_cfwjm', 'field_location_cfwjm', 'field_placeholder_cfwjm', 'field_class_cfwjm', 'field_min_cfwjm', 'field_max_cfwjm', 'field_step_cfwjm', 'field_description_cfwjm', 'field_hide_admin_cfwjm', 'field_hide_frontend_cfwjm', 'field_location_show_cfwjm', 'field_ordernumber_cfwjm', 'field_required_cfwjm', 'field_option_cfwjm', 'field_output_cfwjm', 'field_use_output_cfwjm');
+

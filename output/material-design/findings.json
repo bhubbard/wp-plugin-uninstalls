@@ -1,0 +1,24 @@
+{
+  "options": [
+    "material_plugin_activated",
+    "material_design_recaptcha_site_key",
+    "material_design_recaptcha_client_secret",
+    "material_onboarding",
+    "auto_update_plugins",
+    "auto_update_themes",
+    "material_design_theme_activated",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "_material_activation_redirect",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "original_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:00.556Z"
+}

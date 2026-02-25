@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lead_share_message",
+    "magnet_genius_api_key",
+    "magnet_genius_audience_key",
+    "magnet_genius_wemail_api_key",
+    "magnet_genius_whatsapp_api_key",
+    "magnet_genius_db_version",
+    "magnet_genius_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lm_magnet_genius_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:34.136Z"
+}

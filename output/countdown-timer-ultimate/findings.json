@@ -1,0 +1,41 @@
+{
+  "options": [
+    "wpcdt_free_plugin_version",
+    "wpos_anylc_redirect",
+    "wpos_anylc_site_uid"
+  ],
+  "transients": [
+    "wpcdt_install_notice",
+    "wpos_anylc_optin_notice_*"
+  ],
+  "cron_jobs": [
+    "wpos_monthly_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*design_style",
+    "*timer_date",
+    "*content",
+    "*design",
+    "*timer_day_text",
+    "*timer_hour_text",
+    "*timer_minute_text",
+    "*timer_second_text",
+    "*is_timerdays",
+    "*is_timerhours",
+    "*is_timerminutes",
+    "*is_timerseconds",
+    "*timercircle_animation",
+    "*timer_width",
+    "*timercircle_width",
+    "*timerbackground_width",
+    "*timerbackground_color",
+    "*timerdaysbackground_color",
+    "*timerhoursbackground_color",
+    "*timerminutesbackground_color",
+    "*timersecondsbackground_color",
+    "*timer_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:10.675Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "start_cancel",
+    "itmar_post_needs_flush",
+    "itmar_permission_error",
+    "itmar_ogp_enabled",
+    "itmar_ogp_site_name",
+    "itmar_ogp_default_image",
+    "itmar_ogp_square_image",
+    "itmar_ogp_twitter_card"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_revisions_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:52.307Z"
+}

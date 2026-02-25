@@ -1,0 +1,128 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%-activation-date'"
+wp option delete 'schema_wp_settings'
+wp option delete 'schema_wp_version_upgraded_from'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'tax_meta_%'"
+wp option delete 'tax_meta_migrated'
+wp option delete 'schema_wp_settings_general'
+wp option delete 'schema_wp_settings_knowledge_graph'
+wp option delete 'schema_wp_settings_search_results'
+wp option delete 'schema_wp_settings_extensions'
+wp option delete 'schema_wp_settings_licenses'
+wp option delete 'schema_wp_settings_advanced'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_license_active'"
+wp option delete 'mashsb_settings'
+wp option delete 'schema_wp_version'
+wp option delete 'schema_wp_is_installed'
+wp option delete 'amp-options'
+
+# Delete Transients
+wp transient delete '_schema_wp_activation_redirect'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_schema_wp_extensions_feed_%' OR option_name LIKE '_site_transient_schema_wp_extensions_feed_%'"
+wp transient delete 'update_plugins'
+wp transient delete 'schema_knowledge_graph'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_dismissed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_dismissed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_dismissed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_dismissed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_post_types'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_post_types'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_post_types'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_post_types'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_ref'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_ref'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_ref'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_ref'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_audio_object_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_audio_object_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_audio_object_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_audio_object_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_audio_object_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_audio_object_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_audio_object_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_audio_object_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_audio_object_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_audio_object_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_audio_object_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_audio_object_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_audio_object_upload_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_audio_object_upload_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_audio_object_upload_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_audio_object_upload_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_audio_object_duration'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_audio_object_duration'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_audio_object_duration'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_audio_object_duration'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_post_meta_box'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_post_meta_box'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_post_meta_box'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_post_meta_box'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_post_meta_box_enabled'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_post_meta_box_enabled'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_post_meta_box_enabled'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_post_meta_box_enabled'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_post_meta_box_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_post_meta_box_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_post_meta_box_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_post_meta_box_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_sameAs'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_sameAs'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_sameAs'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_sameAs'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_video_object_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_video_object_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_video_object_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_video_object_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_video_object_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_video_object_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_video_object_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_video_object_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_video_object_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_video_object_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_video_object_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_video_object_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_video_object_upload_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_video_object_upload_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_video_object_upload_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_video_object_upload_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_video_object_duration'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_video_object_duration'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_video_object_duration'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_video_object_duration'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_article_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_article_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_article_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_article_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_json'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_json'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_json'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_json'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'schema_wp_sameAs'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'schema_wp_sameAs'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'schema_wp_sameAs'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'schema_wp_sameAs'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_exclude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_exclude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_exclude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_exclude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_json_timestamp'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_json_timestamp'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_json_timestamp'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_json_timestamp'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thesis_post_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thesis_post_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thesis_post_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thesis_post_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_schema_categories'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_schema_categories'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_schema_categories'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_schema_categories'"

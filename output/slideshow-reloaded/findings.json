@@ -1,0 +1,14 @@
+{
+  "options": [
+    "slideshow-reloaded-last-fetch-upsell",
+    "slideshow-reloaded-roles-updated",
+    "slideshow_reloaded_upsell_url",
+    "slideshow_reloaded_secret_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:36.264Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "adrcdp_publisher",
+    "adrcdp_publisher_auth"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:18.936Z"
+}

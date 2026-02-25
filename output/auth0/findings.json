@@ -1,0 +1,20 @@
+{
+  "options": [
+    "auth0_db_version",
+    "widget_wp_auth0_popup_widget",
+    "widget_wp_auth0_widget",
+    "widget_wp_auth0_social_amplification_widget",
+    "wp_auth0_client_grant_failed",
+    "wp_auth0_grant_types_failed",
+    "wp_auth0_client_grant_success",
+    "wp_auth0_grant_types_success"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_new_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:42.094Z"
+}

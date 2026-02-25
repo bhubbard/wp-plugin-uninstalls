@@ -1,0 +1,36 @@
+{
+  "options": [
+    "woocommerce_flexicardsltfo_settings",
+    "woocommerce_default_country",
+    "woocommerce_currency",
+    "woocommerce_prices_include_tax"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "status",
+    "created_via",
+    "posted",
+    "cart",
+    "cart_hash",
+    "chosen_shipping_methods",
+    "shipping_packages",
+    "customer_id",
+    "order_vat_exempt",
+    "currency",
+    "prices_include_tax",
+    "customer_note",
+    "payment_method",
+    "shipping_total",
+    "discount_total",
+    "discount_tax",
+    "cart_tax",
+    "shipping_tax",
+    "total",
+    "customer_ip_address",
+    "customer_user_agent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:52.099Z"
+}

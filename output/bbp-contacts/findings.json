@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bbpc_settings_perpage",
+    "bbpc_settings_disableajax",
+    "bbpc_translations"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bbp_contacts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:01.409Z"
+}

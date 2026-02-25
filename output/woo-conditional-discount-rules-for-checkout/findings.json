@@ -1,0 +1,52 @@
+{
+  "options": [
+    "wdpad_gs_adjustment_discount_type",
+    "wdpad_gs_sequential_discount",
+    "wdpad_where_hear_about_us",
+    "wdpad_data_submited_in_sendiblue",
+    "woocommerce_weight_unit",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "wdpad_version",
+    "wpdad_discount_id_list",
+    "woocommerce_tax_display_cart"
+  ],
+  "transients": [
+    "_welcome_screen_wdpad_pro_mode_activation_redirect_data",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dpad_settings_status",
+    "dpad_settings_select_dpad_type",
+    "dpad_settings_product_cost",
+    "dpad_settings_start_date",
+    "dpad_settings_end_date",
+    "dpad_time_from",
+    "dpad_time_to",
+    "dynamic_pricing_metabox",
+    "dpad_chk_discount_msg",
+    "dpad_discount_msg_text",
+    "dpad_discount_msg_bg_color",
+    "dpad_discount_msg_text_color",
+    "dpad_sale_product",
+    "dpad_chk_discount_msg_selected_product",
+    "dpad_selected_product_list",
+    "dpad_select_day_of_week",
+    "dpad_chk_qty_price",
+    "dpad_per_qty",
+    "extra_product_cost"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:07.767Z"
+}

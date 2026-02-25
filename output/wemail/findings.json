@@ -1,0 +1,59 @@
+{
+  "options": [
+    "wemail_site_connection_notice",
+    "wemail_api_key",
+    "wemail_review_notice",
+    "wemail_installed_time",
+    "wemail_sent_campaign_count",
+    "wemail_response_for_review_notice",
+    "wemail_site_slug",
+    "wemail_accessible_roles",
+    "wemail_form_integration_caldera_forms",
+    "wemail_form_integration_contact_form_7",
+    "wemail_form_integration_elementor_forms",
+    "wemail_form_integration_everest_forms",
+    "wemail_form_integration_fluent_forms",
+    "wemail_form_integration_formidable_forms",
+    "wemail_form_integration_forminator_forms",
+    "wemail_form_integration_gravity_forms",
+    "wemail_form_integration_happy_forms",
+    "ninja_forms_version",
+    "wemail_form_integration_ninja_forms",
+    "wemail_form_integration_popup_builder",
+    "wemail_form_integration_weforms",
+    "wemail_form_integration_wpforms",
+    "wemail_transactional_emails",
+    "wemail_affiliatewp_enabled",
+    "wemail_edd_integrated",
+    "wemail_is_edd_synced",
+    "wemail_woocommerce_integrated",
+    "wemail_is_woocommerce_synced",
+    "wemail_sync_subscriber_erp_contacts",
+    "wemail_sync_subscriber_wp",
+    "wemail_general",
+    "wemail_version",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "wemail_activation_redirect",
+    "wemail_sent_campaign_count",
+    "wemail_validate_me_key"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wemail_disable_user_access",
+    "wemail_api_key",
+    "_elementor_data",
+    "forminator_form_meta",
+    "_wp_attachment_image_alt",
+    "wemail_user_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:56.795Z"
+}

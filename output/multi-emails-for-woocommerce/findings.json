@@ -1,0 +1,15 @@
+{
+  "options": [
+    "multi-emails-woocommerce-recipients",
+    "multi_email_woocommerce_settings",
+    "addtional_email_recipients_settings",
+    "multi_emails_woocommerce_hide_feedback_notice",
+    "multi_emails_woocommerce_installed_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:10.664Z"
+}

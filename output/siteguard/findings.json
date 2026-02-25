@@ -1,0 +1,15 @@
+{
+  "options": [
+    "siteguard_config"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:34.662Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dt_cpanel_key",
+    "dt_cpanel_settings",
+    "dt_cpanel_domains",
+    "cpanel_key",
+    "cpanel_settings",
+    "cpanel_domains"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:38.432Z"
+}

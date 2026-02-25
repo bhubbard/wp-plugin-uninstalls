@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('check_maintenance', 'check_automatic_formatting', 'check_rsd_link', 'check_wlwmanifest_link', 'check_trw_metadesc', 'check_shortcode_widgets', 'check_login_errors', 'check_secure_functions', 'check_restrict_access_admin_panel', 'check_remove_version_wp', 'check_remove_feed_generator', 'check_disable_autosave', 'check_post_thumbnails', 'check_wp_default_editor', 'check_disable_default_widgets', 'check_remove_margin_top', 'check_jpeg_quality', 'check_gallery_settings', 'check_more_buttons_editor');
+

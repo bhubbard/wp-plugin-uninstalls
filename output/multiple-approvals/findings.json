@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mait_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mait_approval_status",
+    "mait_approval_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:38.450Z"
+}

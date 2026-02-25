@@ -1,0 +1,12 @@
+{
+  "options": [
+    "MsUet_Activated_Plugin",
+    "UetTagSettings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:57.227Z"
+}

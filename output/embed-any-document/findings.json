@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ead_height",
+    "ead_width",
+    "ead_download",
+    "ead_text",
+    "ead_provider",
+    "ead_mediainsert"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:42.533Z"
+}

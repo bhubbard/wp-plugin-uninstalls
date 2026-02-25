@@ -1,0 +1,42 @@
+{
+  "options": [
+    "wplms_sensei_migration",
+    "wplms_sensei_migration_reverted"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vibe_duration",
+    "_course_prerequisite",
+    "vibe_pre_course",
+    "_course_woocommerce_product",
+    "vibe_product",
+    "_module_order",
+    "vibe_course_curriculum",
+    "_lesson_course",
+    "_lesson_quiz",
+    "_lesson_length",
+    "vibe_quiz_course",
+    "_pass_required",
+    "_quiz_passmark",
+    "vibe_quiz_passing_score",
+    "_quiz_grade_type",
+    "vibe_quiz_auto_evaluate",
+    "_enable_quiz_reset",
+    "vibe_quiz_retakes",
+    "_random_question_order",
+    "vibe_quiz_random",
+    "_question_grade",
+    "_question_right_answer",
+    "_question_wrong_answers",
+    "vibe_question_options",
+    "vibe_question_type",
+    "vibe_question_answer",
+    "_answer_feedback",
+    "vibe_question_explaination",
+    "vibe_quiz_questions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:51.966Z"
+}

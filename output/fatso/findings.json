@@ -1,0 +1,12 @@
+{
+  "options": [
+    "fatso_width",
+    "fatso_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:06.715Z"
+}

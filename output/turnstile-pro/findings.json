@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cftpx_site_key",
+    "cftpx_secret_key",
+    "cftpx_visible_mode",
+    "cftpx_enabled_forms",
+    "cftpx_custom_error",
+    "cftpx_ip_whitelist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:53.686Z"
+}

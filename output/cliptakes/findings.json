@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cliptakes_subscription",
+    "cliptakes_api_settings_options",
+    "cliptakes_general_settings_options",
+    "cliptakes_plugin_version"
+  ],
+  "transients": [
+    "cliptakes_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:49.020Z"
+}

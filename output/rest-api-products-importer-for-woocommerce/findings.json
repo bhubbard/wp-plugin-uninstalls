@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wcapi_domain_url_input"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "source_product_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:48.550Z"
+}

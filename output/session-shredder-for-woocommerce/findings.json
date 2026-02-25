@@ -1,0 +1,19 @@
+{
+  "options": [
+    "session_shredder_base_age_hours",
+    "session_shredder_hard_timeout_hours",
+    "session_shredder_bounce_max_pageviews",
+    "session_shredder_bounce_max_cart_value",
+    "session_shredder_protect_min_cart_value",
+    "session_shredder_stats",
+    "woocommerce_experimental_guest_sessions"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "session_shredder_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:58.672Z"
+}

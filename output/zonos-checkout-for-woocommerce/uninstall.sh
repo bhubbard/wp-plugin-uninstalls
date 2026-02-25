@@ -1,0 +1,41 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'zonosch_private_test_api_key'
+wp option delete 'zonosch_generated_public_api_key'
+wp option delete 'zonosch_private_api_key'
+wp option delete 'zonosch_debug_mode'
+wp option delete 'zonosch_registered_webhook_routes'
+wp option delete 'zonosch_store_id'
+wp option delete 'zonosch_currency_selector'
+wp option delete 'zonosch_testing_mode'
+wp option delete 'zonosch_domestic_checkout_button_selector'
+wp option delete 'zonosch_second_checkout_button_toggle'
+wp option delete 'zonosch_international_checkout_button_text'
+wp option delete 'zonosch_international_checkout_button_css_style'
+wp option delete 'zonosch_rate_limit'
+wp option delete 'zonosch_attributes'
+wp option delete 'zonosch_currency_code'
+wp option delete 'zonosch_amount'
+wp option delete 'zonosch_country'
+wp option delete 'zonosch_item_description'
+wp option delete 'zonosch_hs_code'
+wp option delete 'zonosch_image'
+wp option delete 'zonosch_length'
+wp option delete 'zonosch_width'
+wp option delete 'zonosch_height'
+wp option delete 'zonosch_weight'
+wp option delete 'zonosch_name'
+wp option delete 'zonosch_product_id'
+wp option delete 'zonosch_quantity'
+wp option delete 'zonosch_sku'
+wp option delete 'zonosch_length_unit_measure'
+wp option delete 'zonosch_weight_unit_measure'
+wp option delete 'zonosch_order_id'
+
+# Delete Transients
+wp transient delete 'zonosch_order_success'
+wp transient delete 'zonosch_order_error'
+wp transient delete 'zonosch_field_errors'
+

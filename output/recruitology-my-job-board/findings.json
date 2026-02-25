@@ -1,0 +1,14 @@
+{
+  "options": [
+    "recruitology_company_data",
+    "recruitology_jobspage_postid",
+    "recruitology_custom_settings",
+    "recruitology_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:06.228Z"
+}

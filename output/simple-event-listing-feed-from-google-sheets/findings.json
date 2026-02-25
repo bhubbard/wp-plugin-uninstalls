@@ -1,0 +1,19 @@
+{
+  "options": [
+    "simple_event_sheets_sheet_id",
+    "simple_event_sheets_sheet_name",
+    "simple_event_sheets_google_api_key",
+    "simple_event_sheets_passed_events_checkbox",
+    "simple_event_sheets_default_view",
+    "simple_event_sheets_show_view_toggle",
+    "simple_event_sheets_calendar_start_day",
+    "simple_event_sheets_max_events_per_day",
+    "simple_event_sheets_checkbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:05.401Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woa_sf_activation_notice",
+    "*-version",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woa_sf_title_toggle"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:23.164Z"
+}

@@ -1,0 +1,44 @@
+{
+  "options": [
+    "bdfwbp_installed",
+    "woocommerce_tax_display_cart",
+    "bdfwbp_deposits_settings",
+    "bdfwbp_deposits_settings[days_before_due]",
+    "woocommerce_tax_total_display",
+    "woocommerce_email_footer_text",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES",
+    "*ense_key",
+    "*icense_status",
+    "*-transients",
+    "*_color_scheme",
+    "redux_custom_font_current",
+    "woocommerce_shop_page_id",
+    "auto_update_redux_google_fonts",
+    "_redux_content_width"
+  ],
+  "transients": [
+    "update_plugins",
+    "*-transient",
+    "*-transients-metaboxes",
+    "*-transients-taxonomy",
+    "*-transients-users"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bdfwbp_enable_deposit",
+    "_bdfwbp_deposits_type",
+    "_bdfwbp_deposits_value",
+    "_bdfwbp_enable_variation_deposit",
+    "_bdfwbp_force_deposit_checked",
+    "ignore_*",
+    "ignore_hints",
+    "_wp_page_template",
+    "_visibility",
+    "_stock_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:01.874Z"
+}

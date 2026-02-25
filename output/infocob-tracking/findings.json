@@ -1,0 +1,19 @@
+{
+  "options": [
+    "infocob_tracking_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "infocob_tracking_admin_form_config",
+    "infocob_tracking_admin_form_email_demande",
+    "infocob_tracking_admin_form_start",
+    "infocob_tracking_admin_form_end",
+    "infocob_tracking_admin_form_sendinblue",
+    "infocob_tracking_admin_form_sendinblue_no_user",
+    "infocob_tracking_admin_form_email_demande_html"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:01.946Z"
+}

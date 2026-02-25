@@ -1,0 +1,17 @@
+{
+  "options": [
+    "realhomes_currencies_last_update",
+    "rcs_settings",
+    "realhomes_currencies_rates",
+    "realhomes_currencies_data",
+    "theme_currency_sign"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "realhomes_update_currencies"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:59.264Z"
+}

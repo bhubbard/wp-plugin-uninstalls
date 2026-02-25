@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*language",
+    "*source",
+    "*cronjobtime",
+    "*version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "opic_ica_ml_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "orginal_url",
+    "count_pages",
+    "book_version",
+    "book_publisher",
+    "book_year",
+    "book_url",
+    "book_image",
+    "author_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:34.792Z"
+}

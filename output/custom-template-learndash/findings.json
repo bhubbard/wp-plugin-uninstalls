@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ctlearndash_activation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "learndash_course_template",
+    "course_template",
+    "site-sidebar-layout",
+    "site-content-layout",
+    "site-post-title",
+    "ast-featured-img",
+    "_wpb_shortcodes_custom_css",
+    "_fl_builder_enabled",
+    "_wpb_vc_js_status",
+    "tcb_editor_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:22.381Z"
+}

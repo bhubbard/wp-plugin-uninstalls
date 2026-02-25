@@ -1,0 +1,22 @@
+{
+  "options": [
+    "lgre_elementor_login_align",
+    "lgre_elementor_forms_align",
+    "lgre_ip_blocklist_enabled",
+    "lgre_ip_blocklist",
+    "lgre_adv_schema_migrated",
+    "lgre_autoload_fix_done",
+    "lgre_delete_data_on_uninstall"
+  ],
+  "transients": [
+    "lgre_recaptcha_enable_blocked_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lgre_admin_conflict_notice_seen_v2",
+    "lgre_admin_setup_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:34.581Z"
+}

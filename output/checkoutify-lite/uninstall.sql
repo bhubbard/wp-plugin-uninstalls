@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('checkoutify_lite_activation_time', 'ckfylt25_skip_cart_enabled', 'ckfylt25_enable_testimonials', 'ckfylt25_testimonials', 'woocommerce_tax_total_display', 'ckfylt25_selected_template', 'ckfylt25_disabled_billing_fields', 'ckfylt25_order_notes_disabled', 'ckfylt25_allow_checkout_without_address', 'ckfylt25_header_footer_enabled', 'ckfylt25_header_logo_id', 'ckfylt25_header_style', 'ckfylt25_steps_style', 'ckfylt25_footer_refund_url', 'ckfylt25_footer_privacy_url', 'ckfylt25_footer_terms_url', 'ccp_header_enabled', 'ccp_footer_enabled', 'ccp_header_footer_enabled', 'checkoutify_lite_settings_views', 'checkoutify_lite_review_done', 'checkoutify_lite_review_dismissed', 'checkoutify_lite_review_views', 'ccp_selected_template', 'wccp_selected_template', 'woocommerce_currency_pos', 'woocommerce_store_postcode', 'woocommerce_store_city', 'ckfylt25_order_bumps', 'ckfylt25_order_bump_design', 'ckfylt25_testimonials_enabled', 'ckfylt25_testimonials_data');
+

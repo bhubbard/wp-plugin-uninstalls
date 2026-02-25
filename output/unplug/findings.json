@@ -1,0 +1,50 @@
+{
+  "options": [
+    "unplug_settings",
+    "unplug_settings[enable_logging]",
+    "unplug_activity_scan_results",
+    "unplug_license_status",
+    "unplug_migration_failed",
+    "unplug_migration_error",
+    "unplug_location_scan_results",
+    "unplug_last_scan_time",
+    "unplug_version",
+    "widget_*",
+    "*_file",
+    "unplug_db_config",
+    "unplug_api_token_encrypted",
+    "unplug_encryption_key",
+    "active_sitewide_plugins",
+    "unplug_queue_max_size",
+    "unplug_api_token",
+    "unplug_jwt_public_key",
+    "unplug_network_settings",
+    "unplug_network_api_token"
+  ],
+  "transients": [
+    "unplug_activity_scan_results",
+    "unplug_plugin_list",
+    "unplug_scan_progress",
+    "unplug_api_validation",
+    "unplug_user_tier",
+    "unplug_queue_status",
+    "unplug_plugin_inventory",
+    "unplug_dashboard_refresh",
+    "unplug_confirmation_*"
+  ],
+  "cron_jobs": [
+    "unplug_activity_scan",
+    "unplug_cleanup_old_scans",
+    "unplug_process_queue",
+    "unplug_validate_api_token",
+    "unplug_update_plugin_inventory",
+    "unplug_background_scan",
+    "unplug_cleanup_scan_results"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:32.187Z"
+}

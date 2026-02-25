@@ -1,0 +1,33 @@
+{
+  "options": [
+    "ediot_plugin_license_key",
+    "ediot_plugin_license_validation_status",
+    "ediot_importer_theme_suspension_status",
+    "omega_importer_display_string",
+    "elementor_onboarded",
+    "hfe_start_onboarding",
+    "hfe_onboarding_triggered",
+    "sbi_statuses",
+    "sbi_plugin_do_activation_redirect",
+    "charitable_started_onboarding"
+  ],
+  "transients": [
+    "wpr_plugin_do_activation_redirect",
+    "_epl_activation_redirect",
+    "charitable_activation_redirect",
+    "charitable_install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_edit_mode",
+    "_elementor_template_type",
+    "_wp_page_template",
+    "elementskit_template_activation",
+    "elementskit_template_type",
+    "elementskit_template_condition_a"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:06.083Z"
+}

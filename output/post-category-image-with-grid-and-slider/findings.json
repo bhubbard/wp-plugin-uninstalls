@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pciwgas_options",
+    "pciwgas_sf_optin",
+    "pciwgas_categoryimage_*",
+    "pciwgas_plugin_version"
+  ],
+  "transients": [
+    "pciwgas_install_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*cat_thumb_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:22.921Z"
+}

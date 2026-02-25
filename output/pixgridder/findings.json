@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pixgridder_hide_donate",
+    "pixgridder_array_rules_",
+    "pixgridder_height_preview"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pixBuilderDisable",
+    "pixgridder_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:51.506Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "Activated_Plugin",
+    "front_site_api_key",
+    "im_frontend_roles",
+    "site_api_key",
+    "im_admin_roles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:49.877Z"
+}

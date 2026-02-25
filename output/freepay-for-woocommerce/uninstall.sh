@@ -1,0 +1,90 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'woocommerce_thanks_page_id'
+wp option delete 'woocommerce_cart_page_id'
+wp option delete 'woocommerce_price_decimal_sep'
+wp option delete 'woocommerce_price_thousand_sep'
+wp option delete 'woo_freepay_version'
+wp option delete 'woo_freepay_settings'
+wp option delete 'woo_freepay_maintenance'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_wcfp_transaction_%' OR option_name LIKE '_site_transient_wcfp_transaction_%'"
+wp transient delete '_wcfp_admin_notices'
+wp transient delete '_wcfp_admin_runtime_errors'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ageverification'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ageverification'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ageverification'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ageverification'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'FREEPAY_PAYMENT_ID'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'FREEPAY_PAYMENT_ID'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'FREEPAY_PAYMENT_ID'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'FREEPAY_PAYMENT_ID'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'FREEPAY_PAYMENT_LINK'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'FREEPAY_PAYMENT_LINK'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'FREEPAY_PAYMENT_LINK'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'FREEPAY_PAYMENT_LINK'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'FREEPAY_PAYMENT_IDENTIFIER'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'FREEPAY_PAYMENT_IDENTIFIER'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'FREEPAY_PAYMENT_IDENTIFIER'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'FREEPAY_PAYMENT_IDENTIFIER'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'FREEPAY_AUTH_STEP'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'FREEPAY_AUTH_STEP'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'FREEPAY_AUTH_STEP'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'FREEPAY_AUTH_STEP'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_subscription_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_subscription_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_subscription_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_subscription_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_sfw_subscription_free_trial_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_sfw_subscription_free_trial_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_sfw_subscription_free_trial_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_sfw_subscription_free_trial_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_sfw_subscription_free_trial_interval'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_sfw_subscription_free_trial_interval'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_sfw_subscription_free_trial_interval'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_sfw_subscription_free_trial_interval'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_sfw_subscription_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_sfw_subscription_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_sfw_subscription_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_sfw_subscription_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_sfw_subscription_interval'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_sfw_subscription_interval'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_sfw_subscription_interval'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_sfw_subscription_interval'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_sfw_subscription_expiry_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_sfw_subscription_expiry_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_sfw_subscription_expiry_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_sfw_subscription_expiry_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_sfw_subscription_expiry_interval'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_sfw_subscription_expiry_interval'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_sfw_subscription_expiry_interval'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_sfw_subscription_expiry_interval'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_freepay_transaction_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_freepay_transaction_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_freepay_transaction_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_freepay_transaction_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_transaction_id_original'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_transaction_id_original'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_transaction_id_original'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_transaction_id_original'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'TRANSACTION_ID'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'TRANSACTION_ID'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'TRANSACTION_ID'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'TRANSACTION_ID'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_subscription_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_subscription_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_subscription_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_subscription_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wps_sfw_renewal_order'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wps_sfw_renewal_order'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wps_sfw_renewal_order'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wps_sfw_renewal_order'"

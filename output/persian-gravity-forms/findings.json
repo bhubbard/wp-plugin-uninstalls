@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_settings",
+    "persian_gf_notices",
+    "persian_gf_dismiss_notice_*",
+    "persian_gf_dismiss_notice_all",
+    "persian_gf_notice_v*",
+    "gf_sms_last_sender",
+    "admin_phone_prefix",
+    "wp_subscribes_send_sms",
+    "wp_subscribes_text_send"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gform-entry-id",
+    "phone_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:12.354Z"
+}

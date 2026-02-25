@@ -1,0 +1,16 @@
+{
+  "options": [
+    "articleai_api_key",
+    "articleai_queues",
+    "articleai_queue_*",
+    "articleai_frequency_*",
+    "old_args_*",
+    "cron"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:55.108Z"
+}

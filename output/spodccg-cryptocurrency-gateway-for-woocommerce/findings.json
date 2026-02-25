@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ccg_txid_field",
+    "spodccg-total-ccg-hidden",
+    "spodccg-rate-ccg-hidden"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:11.957Z"
+}

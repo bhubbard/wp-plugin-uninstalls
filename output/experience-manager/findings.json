@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tma_webtools_option",
+    "tma_webtools_option_targeting",
+    "tma-webtools-Integrations",
+    "tma-webtools-events",
+    "tma_webtools_option_wc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tma_segment_editor_unit",
+    "tma_segment_editor_count",
+    "tma_segment_editor"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:56.668Z"
+}

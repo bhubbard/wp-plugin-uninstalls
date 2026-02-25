@@ -1,0 +1,16 @@
+{
+  "options": [
+    "b2bking_plugin_status_setting",
+    "b2bking_current_tab_setting",
+    "b2bking_guest_access_restriction_setting",
+    "b2bking_hide_prices_guests_text_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "b2bking_dismiss_activate_woocommerce_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:39.791Z"
+}

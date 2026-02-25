@@ -1,0 +1,22 @@
+{
+  "options": [
+    "vrbtm_search_container",
+    "vrbtm_highlight_parent",
+    "vrbtm_allow_images",
+    "vrbtm_animated",
+    "vrbtm_animation_speed",
+    "vrbtm_scrolling_offset",
+    "vrbtm_added_class",
+    "vrbtm_highlighted_class",
+    "vrbtm_highlighted_color",
+    "vrbtm_selected_class",
+    "vrbtm_button_class",
+    "vrbtm_bitly_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:32.796Z"
+}

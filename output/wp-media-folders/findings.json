@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp-media-folders-options",
+    "wp-media-folders-tables",
+    "wpmfs_queue_running",
+    "wp-media-folders-token",
+    "wp-media-folders-disclaimer-confirmed",
+    "wp-media-folders-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:10.356Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rs_remote_settings",
+    "rs_remote_db_version",
+    "rs_settings",
+    "widget_retreat_site_programs_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:58.602Z"
+}

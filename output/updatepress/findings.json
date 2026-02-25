@@ -1,0 +1,32 @@
+{
+  "options": [
+    "updatepress_*",
+    "updatepress_floating_widget",
+    "updatepress_floating_widget_delay",
+    "updatepress_recent_days",
+    "updatepress_display_rule",
+    "updatepress_selected_pages",
+    "updatepress_display_count",
+    "updatepress_custom_count",
+    "updatepress_sort_order",
+    "updatepress_tag_enabled",
+    "updatepress_tag_text",
+    "updatepress_tag_color",
+    "updatepress_widget_position",
+    "updatepress_private_mode",
+    "updatepress_uninstall_data"
+  ],
+  "transients": [
+    "*_count"
+  ],
+  "cron_jobs": [
+    "updatepress_daily_cleanup",
+    "updatepress_weekly_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tag_color"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:04.867Z"
+}

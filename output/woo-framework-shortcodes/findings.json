@@ -1,0 +1,12 @@
+{
+  "options": [
+    "woo_contactform_email",
+    "woo_framework_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:24.680Z"
+}

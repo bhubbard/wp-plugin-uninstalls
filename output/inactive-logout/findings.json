@@ -1,0 +1,19 @@
+{
+  "options": [
+    "__ina_overrideby_multisite_setting",
+    "__ina_logout_time",
+    "__ina_logout_message",
+    "__ina_warn_message",
+    "__ina_after_logout_message",
+    "__ina_roles",
+    "__ina_enable_timeout_multiusers",
+    "__ina_multiusers_settings",
+    "__ina_general_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:28.841Z"
+}

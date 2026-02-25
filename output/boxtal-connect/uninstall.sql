@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('BW_NOTICES', 'BW_PAIRING_UPDATE', 'BW_ORDER_SHIPPED', 'BW_ORDER_DELIVERED', 'BW_LOGGING', 'BW_ACCESS_KEY', 'BW_SECRET_KEY', 'BW_MAP_TOKEN_URL', 'BW_HELP_CENTER_URL', 'BW_MAP_SETUP_URL', 'BW_NETWORKS_URL', 'BW_MAP_LOGO_HREF_URL', 'BW_MAP_LOGO_IMAGE_URL', 'BW_PP_NETWORKS', 'BW_MAP_BOOTSTRAP_URL', 'woocommerce_checkout_page_id');
+DELETE FROM wp_options WHERE option_name LIKE 'BW_NOTICE_%';
+

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "fastpay_wc_unique_site_id",
+    "wc_fastpay_sandbox_tab",
+    "wc_fastpay_skip_email_tab",
+    "woocommerce_fastpaynow_by_fave_settings"
+  ],
+  "transients": [
+    "fastpay_wc_order_payment_url_*"
+  ],
+  "cron_jobs": [
+    "fastpay_wc_check_transaction_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fastpay_wc_is_new_order",
+    "_fastpay_omni_reference",
+    "_transaction_id",
+    "_customer_user",
+    "_fastpay_wc_omni_reference_suffix"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:43.012Z"
+}

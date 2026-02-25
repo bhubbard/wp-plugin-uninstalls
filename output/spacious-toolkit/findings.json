@@ -1,0 +1,21 @@
+{
+  "options": [
+    "spacious_toolkit_admin_notices",
+    "spacious_toolkit_admin_notice_*",
+    "spacious_toolkit_db_version",
+    "spacious_toolkit_admin_footer_text_rated",
+    "spacious_toolkit_version"
+  ],
+  "transients": [
+    "spt_installing",
+    "_spacious_activation_redirect",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:35.735Z"
+}

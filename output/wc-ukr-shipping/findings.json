@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_ship_to_destination",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "wcus_nova_poshta_default_carrier",
+    "wcus_show_poshtomats",
+    "wc_ukr_shipping_*",
+    "wcus_*",
+    "_transient_shipping-transient-version",
+    "wcus_ukrposhta_default_carrier",
+    "wc_ukr_shipping_workers_version",
+    "wc_ukr_shipping_spinner_color",
+    "wc_ukr_shipping_np_lang"
+  ],
+  "transients": [
+    "smarty_parcel_acc",
+    "smartyparcel_manifest"
+  ],
+  "cron_jobs": [
+    "wcus_smartyparcel_auto_create_label"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:49.541Z"
+}

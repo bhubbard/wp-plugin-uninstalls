@@ -1,0 +1,16 @@
+{
+  "options": [
+    "redirect2url_newtabsrc",
+    "*_url",
+    "*_newtab",
+    "redirect2url_url_history"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "redirect2url_meta_value_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:53.431Z"
+}

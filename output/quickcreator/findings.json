@@ -1,0 +1,39 @@
+{
+  "options": [
+    "quickcreator_api_access_key",
+    "quickcreator_connection_details",
+    "quickcreator_version",
+    "quickcreator_auth_user",
+    "elementor_cpt_support",
+    "megamenu_settings",
+    "theplus_options"
+  ],
+  "transients": [
+    "quickcreator_connection_token",
+    "quickcreator_installing",
+    "_quickcreator_activation_redirect",
+    "quickcreator_updated",
+    "megamenu_failed_to_write_css_to_filesystem",
+    "quickcreatorblog_connection_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "quickcreator_draft_id",
+    "quickcreator_permalink_hash",
+    "quickcreator_keywords",
+    "quickcreator_location",
+    "quickcreator_scrape_ready",
+    "quickcreator_last_post_update",
+    "quickcreator_last_post_update_direction",
+    "__qucikcreator_id",
+    "quickcreator_file_name",
+    "_wp_attachment_image_alt",
+    "_elementor_edit_mode",
+    "_elementor_template_type",
+    "_elementor_version",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:48.547Z"
+}

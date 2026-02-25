@@ -1,0 +1,28 @@
+{
+  "options": [
+    "avangpress_flash_messages",
+    "avangpress",
+    "avangpress_mail_list_ids",
+    "avangpress_mail_list_*",
+    "avangpress_default_form_id",
+    "avangpress_form_stylesheets",
+    "avangpress_groupings_map",
+    "avangpress_integrations"
+  ],
+  "transients": [
+    "avangpress_api_key_notice_dismissed",
+    "update_plugins",
+    "avangpress_list_counts"
+  ],
+  "cron_jobs": [
+    "avangpress_refresh_mail_lists"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "avangpress_settings",
+    "text_*",
+    "avangpress_optin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:19.749Z"
+}

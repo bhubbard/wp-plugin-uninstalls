@@ -1,0 +1,24 @@
+{
+  "options": [
+    "__atbs_disabled_assets",
+    "__atbs_pro_license",
+    "attire_options",
+    "__atbs_pro",
+    "__wpdm_enc_key",
+    "__atbs_last_check",
+    "__atbs_rev",
+    "__atbs_license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "_atbs_toc_options",
+    "atbs_voting_*",
+    "atbs_upvotes_*",
+    "atbs_downvotes_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:36.769Z"
+}

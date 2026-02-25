@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpjpf_activate",
+    "wpjpf_transition_color",
+    "wpjpf_transition_activate",
+    "wpjpf_transition",
+    "wpjpf_loader_activate",
+    "wpjpf_loader",
+    "wpjpf_loader_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:38.003Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cms_navigation_ignore_migrated_warn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cms_nav_minihome",
+    "_top_nav_excluded",
+    "_cms_nav_section"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:45.958Z"
+}

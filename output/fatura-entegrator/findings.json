@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ginvoice_sync_last_update",
+    "ginvoice_db_version",
+    "ginvoice_sale_channel_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ginvoice_auto_invoice"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:20.819Z"
+}

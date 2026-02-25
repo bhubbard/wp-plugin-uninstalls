@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp_obituray_options",
+    "wpffo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "obituary-layout",
+    "obituary-archive-template",
+    "wpffo_data",
+    "ff-first_name",
+    "ff-last_name",
+    "ff-date_of_birth",
+    "ff-date_of_death"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:07.643Z"
+}

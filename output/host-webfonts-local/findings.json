@@ -1,0 +1,15 @@
+{
+  "options": [
+    "omgf_settings"
+  ],
+  "transients": [
+    "settings_errors",
+    "omgf_pro_run_google_fonts_checker",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:50.768Z"
+}

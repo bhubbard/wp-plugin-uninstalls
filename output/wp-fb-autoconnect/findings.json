@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "facebook_avatar_full",
+    "facebook_avatar_thumb"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:36.695Z"
+}

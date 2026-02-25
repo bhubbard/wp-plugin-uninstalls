@@ -1,0 +1,21 @@
+{
+  "options": [
+    "trafficontent_channel_id",
+    "trafficontent_consent_given",
+    "trafficontent_logo_attachment_id",
+    "trafficontent_connected",
+    "trafficontent_do_activation_redirect",
+    "trafficontent_ui_reset_needed",
+    "trafficontent_token"
+  ],
+  "transients": [
+    "_trafficontent_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_application_passwords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:23.906Z"
+}

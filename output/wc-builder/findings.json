@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpb_js_google_fonts_subsets",
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpbforwpbakery_tmpl_layout",
+    "wpbforwpbakery_selectcategory_layout",
+    "_wpb_post_custom_css",
+    "_wpb_shortcodes_custom_css",
+    "_selectproduct_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:07.097Z"
+}

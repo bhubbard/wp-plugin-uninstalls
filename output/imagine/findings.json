@@ -1,0 +1,19 @@
+{
+  "options": [
+    "imagineDefaultWidth",
+    "optionImagineThumbnailWidth",
+    "optionImagineThumbnailRatio",
+    "optionImagineDefaultGalleryTemplate",
+    "optionImagineDefaultAlbumTemplate",
+    "optionImagineDefaultImageTemplate",
+    "optionImagineDefaultLayoverTemplate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "imagine"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:49.255Z"
+}

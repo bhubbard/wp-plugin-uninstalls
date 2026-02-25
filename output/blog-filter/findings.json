@@ -1,0 +1,15 @@
+{
+  "options": [
+    "your_plugin_post_type_setting",
+    "load_more_text",
+    "no_more_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:26.158Z"
+}

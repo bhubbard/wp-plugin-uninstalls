@@ -1,0 +1,19 @@
+{
+  "options": [
+    "totd_options"
+  ],
+  "transients": [
+    "oqp_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "totd_hidden_tips",
+    "totd_hidable",
+    "totd_question",
+    "*_answer",
+    "question_answer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:55.058Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lrwpp_keep_theme_chrome"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lrwpp_keep_theme_chrome",
+    "rabbit_css",
+    "_elementor_edit_mode",
+    "_elementor_data",
+    "_lr_source_url",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:23.603Z"
+}

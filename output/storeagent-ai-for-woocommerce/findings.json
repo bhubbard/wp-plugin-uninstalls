@@ -1,0 +1,31 @@
+{
+  "options": [
+    "saai_weekly_update_schedule_time",
+    "saai_notification_retention_days",
+    "woocommerce_feature_custom_order_tables_enabled",
+    "active_sitewide_plugins",
+    "saai_onboarding_wizard_status",
+    "saai_chat_widget_settings",
+    "saai_chat_post_types_settings",
+    "saai_chat_post_types",
+    "storeagent_api_connected",
+    "storeagentai_installed_by",
+    "saai_*"
+  ],
+  "transients": [
+    "saai_ai_memory_bulk_action_notice",
+    "saai_product_question_validation_error_*"
+  ],
+  "cron_jobs": [
+    "saai_cleanup_notifications"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_product_id",
+    "_original_question",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:22.154Z"
+}

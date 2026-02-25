@@ -1,0 +1,19 @@
+{
+  "options": [
+    "edd_settings",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_sl_enabled",
+    "_edd_sl_version",
+    "_edd_release_deploy_version",
+    "_edd_release_deploy_last_sync",
+    "_edd_release_deploy_changelog_last_sync",
+    "_edd_release_deploy_changelog_linked"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:55.597Z"
+}

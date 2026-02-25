@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('unitheme_maintenance_mode_style', 'unitheme_maintenance_mode_rss_link', 'unitheme_maintenance_mode_fb_link', 'unitheme_maintenance_mode_twi_link', 'unitheme_maintenance_mode_vk_link', 'unitheme_maintenance_mode_picasa_link', 'unitheme_maintenance_mode_orkut_link', 'unitheme_maintenance_mode_li_link', 'unitheme_maintenance_mode_blogger_link', 'unitheme_maintenance_mode_flickr_link', 'unitheme_maintenance_mode_title_text', 'unitheme_maintenance_mode_general_text', 'unitheme_maintenance_mode_mailchimp_api', 'unitheme_maintenance_mode_mailchimp_list', 'unitheme_maintenance_mode_logo', 'unitheme_maintenance_mode_footer_text', 'unitheme_maintenance_mode_enabled');
+

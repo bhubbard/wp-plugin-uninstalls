@@ -1,0 +1,25 @@
+{
+  "options": [
+    "timeslot-company-tab",
+    "timeslot-email-tab",
+    "timeslot-payment-methods-tab",
+    "timeslot-booking-form-tab",
+    "timeslot_plugin_version",
+    "timeslot_db_version",
+    "timeslot-setup-complete",
+    "timeslot-business-hours",
+    "timeslot-holidays",
+    "timeslot-service-categories",
+    "timeslot-appearance-tab"
+  ],
+  "transients": [
+    "timeslot_import"
+  ],
+  "cron_jobs": [
+    "tslot_create_multilang_services"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:36.351Z"
+}

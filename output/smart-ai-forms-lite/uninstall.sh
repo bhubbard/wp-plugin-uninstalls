@@ -1,0 +1,56 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'smaraifo_notification_emails'
+wp option delete 'smaraifo_db_version'
+wp option delete 'smaraifo_smtp_enable'
+wp option delete 'smaraifo_email_from_name'
+wp option delete 'smaraifo_email_from'
+wp option delete 'smaraifo_email_reply_to'
+wp option delete 'smaraifo_smtp_host'
+wp option delete 'smaraifo_smtp_port'
+wp option delete 'smaraifo_smtp_encr'
+wp option delete 'smaraifo_smtp_auth'
+wp option delete 'smaraifo_smtp_user'
+wp option delete 'smaraifo_smtp_pass'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_button_styles'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_customization'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_field_styles'"
+wp option delete 'smaraifo_customizer_selected_form'
+wp option delete 'smaraifo_button_background_color'
+wp option delete 'smaraifo_button_text_color'
+wp option delete 'smaraifo_button_border_radius'
+wp option delete 'smaraifo_button_border_width'
+wp option delete 'smaraifo_button_border_color'
+wp option delete 'smaraifo_button_padding_top'
+wp option delete 'smaraifo_button_padding_right'
+wp option delete 'smaraifo_button_padding_bottom'
+wp option delete 'smaraifo_button_padding_left'
+wp option delete 'smaraifo_button_width'
+wp option delete 'smaraifo_button_alignment'
+wp option delete 'smaraifo_button_margin_top'
+wp option delete 'smaraifo_button_margin_bottom'
+wp option delete 'smaraifo_button_hover_background_color'
+wp option delete 'smaraifo_button_hover_text_color'
+wp option delete 'smaraifo_field_border_radius'
+wp option delete 'smaraifo_field_border_width'
+wp option delete 'smaraifo_field_border_color'
+wp option delete 'smaraifo_field_background_color'
+wp option delete 'smaraifo_field_text_color'
+wp option delete 'smaraifo_field_font_size'
+wp option delete 'smaraifo_field_padding_top'
+wp option delete 'smaraifo_field_padding_right'
+wp option delete 'smaraifo_field_padding_bottom'
+wp option delete 'smaraifo_field_padding_left'
+wp option delete 'smaraifo_label_color'
+wp option delete 'smaraifo_label_font_size'
+wp option delete 'smaraifo_label_font_weight'
+wp option delete 'smaraifo_field_placeholder_color'
+wp option delete 'smaraifo_field_focus_border_color'
+wp option delete 'smaraifo_field_focus_shadow_color'
+wp option delete 'smaraifo_version'
+
+# Clear Cron Jobs
+wp cron event delete 'smaraifo_cleanup_export'
+

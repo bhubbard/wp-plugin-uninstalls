@@ -1,0 +1,31 @@
+{
+  "options": [
+    "thub_disable_attachments",
+    "thub_custom_fields",
+    "thub_options",
+    "thub_plus_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "thub_archive_done_tickets"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "_thub_log",
+    "type",
+    "file",
+    "link",
+    "document_category",
+    "_thub_answer",
+    "thcf_*",
+    "thub_ticket_id",
+    "completed_date",
+    "thub_ticket_status",
+    "thub_ticket_type",
+    "thub_ticket_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:37.676Z"
+}

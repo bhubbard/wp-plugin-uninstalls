@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpa_total_logins",
+    "wpa_login_request_error",
+    "wppb_general_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_dismiss_notification",
+    "wpa_*",
+    "*_expiration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:10.000Z"
+}

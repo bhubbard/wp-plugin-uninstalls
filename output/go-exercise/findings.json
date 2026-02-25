@@ -1,0 +1,32 @@
+{
+  "options": [
+    "GOEX_VER",
+    "goex_update",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "widget_goex",
+    "goex_settings_config",
+    "goex_rand",
+    "goex_transients"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "goex_cache_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "goExBodyImgID",
+    "_goex_link_to_image",
+    "workout",
+    "category-image-id",
+    "_wp_attachment_image_alt",
+    "go_exercise_target",
+    "go_exercise_synergist",
+    "go_exercise_stabiliser",
+    "go_exercise_muscle_description",
+    "go_exercise_muscle_action"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:46.340Z"
+}

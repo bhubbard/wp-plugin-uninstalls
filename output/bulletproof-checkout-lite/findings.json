@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_bulletproof_bpcheckout_lite_settings"
+  ],
+  "transients": [
+    "bulletproof_custom_gateway_api_error",
+    "bulletproof_lite_gateway_api_refund_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:30.091Z"
+}

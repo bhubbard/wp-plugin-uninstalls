@@ -1,0 +1,19 @@
+{
+  "options": [
+    "WIND_start_date",
+    "WIND_start_time",
+    "WIND_interval_time",
+    "WIND_draft_num",
+    "WIND_draf_orderby",
+    "WIND_recurrence",
+    "WIND_recurrence_times"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "WIND_cron_draft_update_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:55.084Z"
+}

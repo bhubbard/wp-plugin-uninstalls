@@ -1,0 +1,21 @@
+{
+  "options": [
+    "nutshell_instance_id",
+    "nutshell_auth_token",
+    "nutshell_domain",
+    "nutshell_subdomain",
+    "nutshell_root_domain",
+    "nutshell_tld",
+    "mcfx_integrations",
+    "mcfx_script_active",
+    "custom_mcfx_config",
+    "mcfx_id",
+    "nutshell_protocol"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:35.522Z"
+}

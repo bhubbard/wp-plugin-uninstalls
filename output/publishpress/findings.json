@@ -1,0 +1,45 @@
+{
+  "options": [
+    "cme_custom_status_control",
+    "rvy_use_publishpress_notifications",
+    "publishpress_calendar_enabled",
+    "publishpress_content_overview_enabled",
+    "publishpress_dashboard_widgets_enabled",
+    "publishpress_post_status_widget_enabled",
+    "publishpress_myposts_widget_enabled",
+    "publishpress_quickpitch_widget_enabled",
+    "edit_flow_version",
+    "edit_flow_*",
+    "edit_flow_editorial_metadata_options",
+    "publishpress_notifications_enabled",
+    "publishpress_always_notify_admin",
+    "*_options",
+    "*version",
+    "classic-editor-replace",
+    "pp_planner_activated",
+    "publishpress_improved_notifications_options",
+    "publishpress_custom_status_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pp_send_scheduled_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pp_editorial_comment_files",
+    "psppno_workflow_channel_*",
+    "_psp_default_workflow_name",
+    "_psppno_touser",
+    "_psppno_touserlist",
+    "_psppno_togroup",
+    "_psppno_togrouplist",
+    "logs_per_page",
+    "_EventDuration",
+    "_EventStartDate",
+    "_EventStartDateUTC",
+    "_EventEndDate",
+    "_EventEndDateUTC"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:42.659Z"
+}

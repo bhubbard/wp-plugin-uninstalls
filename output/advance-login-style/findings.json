@@ -1,0 +1,14 @@
+{
+  "options": [
+    "advance_login_style",
+    "advance_login_style_form",
+    "advance_login_style_logo",
+    "advance_login_style_ms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:35.921Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fu_mail_subject",
+    "fu_mail_header",
+    "fu_mail_footer",
+    "fu_submit_val",
+    "fu_mail_body_lbl",
+    "fu_mail_success",
+    "fu_mail_error",
+    "fu_mail_email_not_exist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:34.604Z"
+}

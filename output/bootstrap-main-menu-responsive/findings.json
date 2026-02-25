@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bootstrap_main_menu_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_object_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:49.668Z"
+}

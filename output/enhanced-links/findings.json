@@ -1,0 +1,16 @@
+{
+  "options": [
+    "enh_links_version",
+    "enh_links_show_symbol",
+    "enh_links_hide_symbol",
+    "enh_links_is_symbol_before",
+    "enh_links_show_link_description",
+    "enh_links_effect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:43.444Z"
+}

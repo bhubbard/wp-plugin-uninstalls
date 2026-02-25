@@ -1,0 +1,30 @@
+{
+  "options": [
+    "vx_crm_forms_ids",
+    "*_version",
+    "*_meta",
+    "vxcf_all_forms",
+    "fs_contact_global",
+    "crm_perks_upload_folder",
+    "cforms_settings",
+    "vxcf_all_fields",
+    "*_updates",
+    "*_install_data",
+    "recently_activated",
+    "print_note_*",
+    "*_msg",
+    "*_msgs",
+    "vxcf_form_dissmiss_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_form",
+    "_g_feedback_shortcode",
+    "__elementor_forms_snapshot",
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:14.283Z"
+}

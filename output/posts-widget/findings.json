@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "widget_gspw_posts",
+    "gspw_active_time",
+    "gspw_review_dismiss",
+    "gspw_maybe_later",
+    "gsadmin_maybe_later",
+    "gsadmin_active_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:25.704Z"
+}

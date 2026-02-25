@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tiaop_expiration_value",
+    "tiaop_expiration_units",
+    "tiaop_retain_history_value",
+    "tiaop_retain_history_units"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:36.854Z"
+}

@@ -1,0 +1,35 @@
+{
+  "options": [
+    "facto_webservice_mode",
+    "facto_webservice_user",
+    "facto_webservice_pass",
+    "facto_checkbox_fe",
+    "facto_checkbox_fee",
+    "facto_checkbox_be",
+    "facto_checkbox_bee",
+    "facto_checkbox_fex",
+    "facto_docs_default",
+    "*_fact",
+    "facto_checkbox_estadoprocesando",
+    "facto_checkbox_estadocompletado",
+    "facto_select_rounding_type",
+    "facto_checkbox_add_shipping",
+    "facto_checkbox_totalneto"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Tipo de documento",
+    "RUT",
+    "Giro",
+    "Raz&oacute;n social",
+    "Razon social",
+    "Modalidad venta",
+    "Clausula venta",
+    "Folio de documento",
+    "Fecha de documento"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:59.541Z"
+}

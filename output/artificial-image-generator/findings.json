@@ -1,0 +1,21 @@
+{
+  "options": [
+    "aimg_bg_colors",
+    "aimg_width",
+    "aimg_height",
+    "aimg_title_font_size",
+    "aimg_is_overlay_image",
+    "aimg_overlay_position",
+    "aimg_overlay_images",
+    "aimg_preview_image_url",
+    "aimg_settings",
+    "aimg_version",
+    "aimg_flash_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:17.180Z"
+}

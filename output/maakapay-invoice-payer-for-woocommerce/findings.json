@@ -1,0 +1,15 @@
+{
+  "options": [
+    "maakapay_admin_mail",
+    "maakapay_accepting_currencies",
+    "maakapay_mode",
+    "maakapay_test",
+    "maakapay_live"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:32.699Z"
+}

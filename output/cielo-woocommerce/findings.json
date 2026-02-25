@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wc_cielo_version",
+    "woocommerce_cielo_settings",
+    "woocommerce_cielo_credit_settings",
+    "woocommerce_cielo_debit_settings",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "_wc_cielo_card_brand",
+    "_wc_cielo_installments"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:16.728Z"
+}

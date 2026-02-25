@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpcbn_settings",
+    "wpcbn_localization",
+    "wpcbn_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:07.633Z"
+}

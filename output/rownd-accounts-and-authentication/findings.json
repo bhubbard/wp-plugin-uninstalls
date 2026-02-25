@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [
+    "rownd_app_config",
+    "rownd_jwkset"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rownd_id",
+    "first_name",
+    "last_name",
+    "email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:47.554Z"
+}

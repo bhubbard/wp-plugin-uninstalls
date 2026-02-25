@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_manage_stock"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cancel_unpaid_orders_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_order_stock_reduced"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:42.822Z"
+}

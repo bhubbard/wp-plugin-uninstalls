@@ -1,0 +1,33 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "presentation-contain",
+    "presentation-transition",
+    "presentation-background-transition",
+    "presentation-transition-speed",
+    "presentation-controls",
+    "presentation-progress",
+    "presentation-width",
+    "presentation-font-family-url",
+    "presentation-font-family-heading-url",
+    "presentation-color-palette",
+    "presentation-color",
+    "presentation-font-size",
+    "presentation-font-family",
+    "presentation-font-family-heading",
+    "presentation-font-weight-heading",
+    "presentation-background-color",
+    "presentation-background-gradient",
+    "presentation-background-url",
+    "presentation-background-position",
+    "presentation-background-opacity",
+    "presentation-vertical-padding",
+    "presentation-horizontal-padding",
+    "presentation-css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:43.544Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "the_frosty_dashboard_widget_options"
+  ],
+  "transients": [
+    "feed_*",
+    "feed_mod_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_HACE",
+    "_HACE_Capability",
+    "_HACE_Content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:25.448Z"
+}

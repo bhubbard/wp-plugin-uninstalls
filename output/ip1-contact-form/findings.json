@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ip1_contact_form_header",
+    "ip1_contact_form_submit_text",
+    "ip1_contact_form_default_properties",
+    "ip1_contact_form_properties",
+    "ip1_contact_form_labels_header",
+    "ip1_contact_form_option_labels",
+    "ip1_contact_form_token",
+    "ip1_contact_form_default_labels"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:22.086Z"
+}

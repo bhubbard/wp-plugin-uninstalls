@@ -1,0 +1,44 @@
+{
+  "options": [
+    "depart_deposit_setting",
+    "depart_payment_plan",
+    "depart_deposit_rule",
+    "woocommerce_prices_include_tax",
+    "woocommerce_checkout_pay_endpoint",
+    "woocommerce_checkout_order_received_endpoint",
+    "woocommerce_checkout_order_pay_endpoint",
+    "woocommerce_allow_bulk_remove_personal_data",
+    "woocommerce_feature_custom_order_tables_enabled",
+    "woocommerce_custom_orders_table_enabled",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [
+    "depart_order_check_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "viwec_settings_type",
+    "viwec_email_structure",
+    "depart_custom_plans",
+    "depart_exists_plans",
+    "depart_deposit_disabled",
+    "depart_deposit_type",
+    "_wp_trash_meta_status",
+    "_wp_trash_meta_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:35.616Z"
+}

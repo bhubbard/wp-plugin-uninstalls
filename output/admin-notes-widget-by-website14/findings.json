@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_transient_timeout_*",
+    "qanw_notes"
+  ],
+  "transients": [
+    "qanw_rate_limit_*",
+    "qanw_notes_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:21.477Z"
+}

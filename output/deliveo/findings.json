@@ -1,0 +1,25 @@
+{
+  "options": [
+    "mav_it_deliveo_settings",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_deliveo_exported",
+    "_group_code",
+    "_order_total",
+    "_shipping_first_name",
+    "_shipping_last_name",
+    "_shipping_postcode",
+    "_shipping_city",
+    "_shipping_address_1",
+    "_shipping_address_2",
+    "_billing_phone",
+    "_billing_email",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:23.305Z"
+}

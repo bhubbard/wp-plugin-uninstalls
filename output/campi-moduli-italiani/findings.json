@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gcmi_last_update_check",
+    "gcmi_codici_catastali_remote_file_time",
+    "gcmi-formsign-css",
+    "gcmi_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gcmi_check_for_remote_data_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_gcmi_wpcf7_enc_privKey",
+    "_gcmi_wpcf7_enc_pubKey"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:44.522Z"
+}

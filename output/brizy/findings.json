@@ -1,0 +1,58 @@
+{
+  "options": [
+    "brizy_prefix",
+    "brizy-social-title",
+    "brizy-social-description",
+    "brizy-custom-css",
+    "brizy-header-injection",
+    "brizy-footer-injection",
+    "brizy-social-thumbnail",
+    "brizy-settings-favicon",
+    "brizy",
+    "brizy-regenerate-permalinks",
+    "active_sitewide_plugins",
+    "woocommerce_default_customer_address",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [
+    "brizy_cloud_editor_versions",
+    "brizy-notice-rating",
+    "brizy_admin_notice",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "publish_future_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "brizy_post_uid",
+    "brizy-notice-rating",
+    "brizy-font-file-type",
+    "brizy-font-type",
+    "brizy-font-weight",
+    "brizy_attachment_focal_point",
+    "brizy-rules",
+    "brizy-template-rules",
+    "brizy",
+    "ast-advanced-hook-layout",
+    "brizy-project-import-backup-*",
+    "_wp_attachment_image_alt",
+    "brizy_attachment_uid",
+    "brizy_data",
+    "brizy_uid",
+    "_menu_item_target",
+    "_menu_item_xfn",
+    "_menu_item_object",
+    "_menu_item_object_id",
+    "brizy-form-upload",
+    "_wp_page_template",
+    "brizy-cloud-update-required",
+    "_edit_lock",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:39.239Z"
+}

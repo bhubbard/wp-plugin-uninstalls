@@ -1,0 +1,16 @@
+{
+  "options": [
+    "l7_admin_help_video_options",
+    "l7whv_help_video_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "help_video_post_youtube",
+    "help_video_post_vimeo",
+    "help_video_post"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:09.197Z"
+}

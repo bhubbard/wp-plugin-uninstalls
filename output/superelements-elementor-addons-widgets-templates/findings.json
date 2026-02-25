@@ -1,0 +1,24 @@
+{
+  "options": [
+    "redq_se_elementor_widgets_settings",
+    "redq_se_installed",
+    "redq_se_version",
+    "redq_se_mega_menu_enable_list",
+    "_transient_timeout_elementor_remote_info_api_data_*",
+    "__validate_author_dtaddons__",
+    "redq_se_cache_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_se_author_name",
+    "_se_author_meta",
+    "_se_rating",
+    "_supper_mega_menu",
+    "_supper_mega_menu_layout",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:28.258Z"
+}

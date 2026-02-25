@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_payhip_sell_digital_slug",
+    "wp_payhip_sell_digital_review_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:55.489Z"
+}

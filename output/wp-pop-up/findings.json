@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_popup_trigger_amount",
+    "*display_lightbox_on",
+    "*display_lightbox",
+    "*display_lightbox_on_posts",
+    "*identifier",
+    "*disable_the_content_hooks",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:25.644Z"
+}

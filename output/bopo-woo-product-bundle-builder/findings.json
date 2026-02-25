@@ -1,0 +1,34 @@
+{
+  "options": [
+    "woo_bopo_bundle_params",
+    "woocommerce_tax_display_shop",
+    "_bopobb_cart_contents_count",
+    "woocommerce_tax_round_at_subtotal",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "villatheme_call",
+    "villatheme_ads",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bopobb_title",
+    "bopobb_shipping_fee",
+    "bopobb_count",
+    "bopobb_item_*",
+    "_wp_attachment_image_alt",
+    "_regular_price",
+    "_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:01.422Z"
+}

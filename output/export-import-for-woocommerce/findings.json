@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_woie_settings_obj",
+    "woie_options",
+    "woie_filter_meta_keys",
+    "woie_versions_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:47.189Z"
+}

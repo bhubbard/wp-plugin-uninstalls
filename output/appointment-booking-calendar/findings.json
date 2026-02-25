@@ -1,0 +1,26 @@
+{
+  "options": [
+    "CPABC_APPOINTMENTS_LOAD_SCRIPTS",
+    "CPABC_PCODE",
+    "installed_*",
+    "*_JS",
+    "*_CSS",
+    "CPABC_APPOINTMENTS_DEFAULT_USE_EDITOR",
+    "CPABC_CAL_TIME_ZONE_MODIFY_SET",
+    "CPABC_CAL_TIME_SLOT_SIZE_SET",
+    "CPABC_EXCLUDED_COLUMNS",
+    "ABC_RCODE",
+    "ABC_ONE_TIME_4UPDATE",
+    "CP_ABC_JS",
+    "CP_ABC_CSS"
+  ],
+  "transients": [
+    "cpeople-captcha-*",
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:36.407Z"
+}

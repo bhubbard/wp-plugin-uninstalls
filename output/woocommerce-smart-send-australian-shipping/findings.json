@@ -1,0 +1,37 @@
+{
+  "options": [
+    "*_credentials_validated",
+    "*_removed",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "*_config_urls_exists",
+    "*_vip_username",
+    "*_vip_password",
+    "*_test_mode",
+    "*_admin_install_timestamp",
+    "*_version",
+    "*_secret_id",
+    "*_secret_key",
+    "*_installation_created",
+    "*_installation_updated",
+    "*_process_admin_options",
+    "woocommerce_ship_to_destination",
+    "*_australian_timezones",
+    "*_admin_install_config",
+    "*_tenant_uid",
+    "*_settings",
+    "*_access_token"
+  ],
+  "transients": [
+    "*_access_token",
+    "*_processing",
+    "*_settings"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_shipping_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:01.094Z"
+}

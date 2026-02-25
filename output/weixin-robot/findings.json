@@ -1,0 +1,35 @@
+{
+  "options": [
+    "wpjam_net_domain_check_56",
+    "weixin-custom-menus",
+    "weixin-robot-extends",
+    "weixin_api_access_tokens",
+    "weixin-robot"
+  ],
+  "transients": [
+    "weixin_kf_list",
+    "weixin_online_kf_list",
+    "weixin_access_token",
+    "weixin_access_token_expires",
+    "weixin_clear_quota",
+    "ip_list",
+    "weixin_js_api_ticket",
+    "weixin_js_api_ticket_expires",
+    "weixin_wx_card_ticket",
+    "weixin_wx_card_ticket_expires",
+    "weixin_material_count",
+    "weixin_builtin_replies",
+    "weixin_builtin_replies_new",
+    "weixin_custom_keywords_*"
+  ],
+  "cron_jobs": [
+    "weixin_send_future_mass_message",
+    "weixin_delete_messages"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "weixin_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:10.604Z"
+}

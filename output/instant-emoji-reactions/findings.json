@@ -1,0 +1,13 @@
+{
+  "options": [
+    "instant_emoji_reactions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_emoji_reactions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:10.248Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "lh_email_queue_single",
+    "lh_email_queue_initial_run",
+    "lh_email_queue_generate"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:11.099Z"
+}

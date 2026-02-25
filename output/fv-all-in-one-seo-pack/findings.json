@@ -1,0 +1,35 @@
+{
+  "options": [
+    "*_deferred_notices",
+    "*_deferred_errors",
+    "aioseop_options",
+    "aiosp_post_title_format",
+    "aiosp-shorten-link-install",
+    "fv_simpler_seo_version",
+    "aioseop_category_titles",
+    "wp_attachment_pages_enabled",
+    "fv_seo_ads_disabled",
+    "xmlsf_sitemaps"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aioseo_description",
+    "_menu_item_object_id",
+    "_aioseop_menulabel",
+    "_aioseop_titleatr",
+    "_aioseo_title",
+    "_aioseo_keywords",
+    "_aioseop_custom_canonical",
+    "_aioseop_meta",
+    "_aioseop_disable",
+    "_aioseop_noindex",
+    "_aioseop_nofollow",
+    "_fv_event_date",
+    "title_tag",
+    "autometa"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:02.643Z"
+}

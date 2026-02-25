@@ -1,0 +1,17 @@
+{
+  "options": [
+    "taxonomy_*"
+  ],
+  "transients": [
+    "bbs_auth",
+    "list_link"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "is_submission"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:53.193Z"
+}

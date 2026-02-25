@@ -1,0 +1,13 @@
+{
+  "options": [
+    "fastdup_last_check_folders"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "njt-fastdup-event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:17.353Z"
+}

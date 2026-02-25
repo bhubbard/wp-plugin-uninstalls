@@ -1,0 +1,25 @@
+{
+  "options": [
+    "panxo_publisher_id",
+    "panxo_enabled",
+    "panxo_script_position",
+    "panxo_do_auto_register",
+    "panxo_setup_status",
+    "panxo_property_id",
+    "panxo_setup_error",
+    "panxo_user_id",
+    "panxo_registered_at",
+    "panxo_setup_token",
+    "panxo_script_hash",
+    "panxo_format_active",
+    "panxo_format_activated_at"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "panxo_check_learning_status"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:10.445Z"
+}

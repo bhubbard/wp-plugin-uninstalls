@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('newstatpress_externalapi', 'newstatpress_apikey', 'newstatpress_daysinoverviewgraph', 'newstatpress_el_top_days', 'newstatpress_el_os', 'newstatpress_el_browser', 'newstatpress_el_feed', 'newstatpress_el_searchengine', 'newstatpress_el_search', 'newstatpress_el_referrer', 'newstatpress_el_languages', 'newstatpress_el_spiders', 'newstatpress_el_pages', 'newstatpress_el_visitors', 'newstatpress_el_daypages', 'newstatpress_el_ippages', 'newstatpress_dashboard', 'newstatpress_admin_notices', 'newstatpress_collectloggeduser', 'newstatpress_donotcollectspider', 'newstatpress_cryptip', 'newstatpress_ignore_ip', 'newstatpress_ignore_users', 'newstatpress_ignore_permalink', 'newstatpress_stats_offsets', 'newstatpress_mail_notification_emailaddress', 'newstatpress_el_overview', 'newstatpress_exporttool', 'newstatpress_updateint', 'newstatpress_bot_per_page_spybot', 'newstatpress_visits_per_bot_spybot', 'newstatpress_ip_per_page_newspy', 'newstatpress_visits_per_ip_newspy', 'newstatpress_version', 'newstatpress_menutools_cap', 'newstatpress_settings', 'newstatpress_menuoverview_cap', 'newstatpress_menudetails_cap', 'newstatpress_menuvisits_cap', 'newstatpress_menusearch_cap', 'newstatpress_menuoptions_cap', 'newstatpress_mail_notification_info', 'newstatpress_autodelete', 'newstatpress_autodelete_spiders', 'widget_newstatpress', 'widget_newstatpresstopposts');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('newstatpress_nag_notices', 'newstatpress_nag_status');
+DELETE FROM wp_usermeta WHERE meta_key IN ('newstatpress_nag_notices', 'newstatpress_nag_status');
+DELETE FROM wp_termmeta WHERE meta_key IN ('newstatpress_nag_notices', 'newstatpress_nag_status');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('newstatpress_nag_notices', 'newstatpress_nag_status');
+

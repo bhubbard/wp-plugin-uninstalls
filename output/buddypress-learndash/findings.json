@@ -1,0 +1,24 @@
+{
+  "options": [
+    "buddypress_learndash_plugin_options",
+    "bp-active-components"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sfwd-quizzes",
+    "bp_course_group",
+    "_sfwd-courses",
+    "_sfwd-course_progress",
+    "course_id",
+    "lesson_id",
+    "_sfwd-lessons",
+    "attached_course_id",
+    "_sfwd-topic",
+    "attached_lesson_id",
+    "_viewProfileStatistics"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:57.395Z"
+}

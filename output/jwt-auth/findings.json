@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "jwt_auth_purge_expired_refresh_tokens"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "jwt_auth_refresh_tokens",
+    "jwt_auth_refresh_tokens_expires_next",
+    "jwt_auth_device",
+    "jwt_auth_pass"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:17.409Z"
+}

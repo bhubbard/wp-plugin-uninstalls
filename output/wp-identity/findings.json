@@ -1,0 +1,21 @@
+{
+  "options": [
+    "identity_login_enabled",
+    "identity_key_file",
+    "identity_cert_file",
+    "identity_editing_disabled",
+    "identity_key_password",
+    "identity_ca_file",
+    "identity_telemetry_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "identity_check_status_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "disable_forget_password"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:08.343Z"
+}

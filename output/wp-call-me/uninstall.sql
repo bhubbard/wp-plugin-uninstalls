@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp_phone_is_registered_1.7.0', 'wp_phone_registration_data', 'user_personal_number', 'wp_click_to_call_element', 'wp_click_to_call_not_supported', 'wp_click_to_call_color_theme', 'wp_phone_number', 'wp_phone_clicktocall');
+

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp_travel_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_travel_location",
+    "_wp_travel_temperature",
+    "_wp_travel_humidity",
+    "_wp_travel_dew",
+    "_wp_travel_speed",
+    "_wp_travel_direction",
+    "_wp_travel_clouds"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:49.712Z"
+}

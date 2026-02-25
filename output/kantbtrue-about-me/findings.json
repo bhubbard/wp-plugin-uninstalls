@@ -1,0 +1,15 @@
+{
+  "options": [
+    "kbtam_content_updated",
+    "kbtam_activation_date",
+    "kbtam_show_rating",
+    "kbtam_black_friday_dismissed",
+    "widget_kantbtrue_about_me"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:49.533Z"
+}

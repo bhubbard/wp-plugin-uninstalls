@@ -1,0 +1,16 @@
+{
+  "options": [
+    "eae_filter_priority",
+    "eae_search_in",
+    "eae_technique",
+    "eae_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eae_dismissed_automatic_warnings_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:41.122Z"
+}

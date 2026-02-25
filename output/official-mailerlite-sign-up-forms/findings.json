@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mailerlite_api_key",
+    "mailerlite_enabled",
+    "account_id",
+    "account_subdomain",
+    "mailerlite_popups_disabled",
+    "mailerlite_platform",
+    "mailerlite_double_optin_disabled",
+    "mailerlite_forms_user_role_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:04.053Z"
+}

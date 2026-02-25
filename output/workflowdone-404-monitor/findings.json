@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wfd404_*",
+    "wfd404_base_index_initialized",
+    "wfd404_email_enabled",
+    "wfd404_email_address",
+    "wfd404_notify_new_urls"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wfd404_daily_scan"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:17.833Z"
+}

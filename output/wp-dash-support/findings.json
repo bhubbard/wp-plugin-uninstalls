@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_wpds_deferred_admin_notice",
+    "_wpds_dev_email",
+    "_wpds_hide",
+    "_wpds_message",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:16.758Z"
+}

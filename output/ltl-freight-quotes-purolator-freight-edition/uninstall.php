@@ -1,0 +1,118 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('abf_db_version');
+delete_site_option('abf_db_version');
+delete_option('EN_Plugins');
+delete_site_option('EN_Plugins');
+delete_option('purolator_ltl_quotes_web_hook_plan_requests');
+delete_site_option('purolator_ltl_quotes_web_hook_plan_requests');
+delete_option('purolater_ltl_packages_quotes_package');
+delete_site_option('purolater_ltl_packages_quotes_package');
+delete_option('purolater_quotes_store_type');
+delete_site_option('purolater_quotes_store_type');
+delete_option('purolater_ltl_package_expire_days');
+delete_site_option('purolater_ltl_package_expire_days');
+delete_option('purolater_ltl_package_expire_date');
+delete_site_option('purolater_ltl_package_expire_date');
+delete_option('purolator_ltl_always_include_residential');
+delete_site_option('purolator_ltl_always_include_residential');
+delete_option('purolator_ltl_always_tailgate');
+delete_site_option('purolator_ltl_always_tailgate');
+delete_option('purolator_ltl_plugin_licence_key');
+delete_site_option('purolator_ltl_plugin_licence_key');
+delete_option('allow_proceed_checkout_eniture');
+delete_site_option('allow_proceed_checkout_eniture');
+delete_option('prevent_proceed_checkout_eniture');
+delete_site_option('prevent_proceed_checkout_eniture');
+delete_option('en_purolator_ltl_update_now');
+delete_site_option('en_purolator_ltl_update_now');
+delete_option('en_old_user_dropship_status');
+delete_site_option('en_old_user_dropship_status');
+delete_option('en_old_user_warehouse_status');
+delete_site_option('en_old_user_warehouse_status');
+delete_option('en_plugins_return_LTL_quotes');
+delete_site_option('en_plugins_return_LTL_quotes');
+delete_option('en_suppress_parcel_rates');
+delete_site_option('en_suppress_parcel_rates');
+delete_option('woocommerce_currency');
+delete_site_option('woocommerce_currency');
+delete_option('purolator_ltl_allow_other_plugins');
+delete_site_option('purolator_ltl_allow_other_plugins');
+delete_option('purolator_ltl_option_tailgate');
+delete_site_option('purolator_ltl_option_tailgate');
+delete_option('purolator_ltl_option_residential');
+delete_site_option('purolator_ltl_option_residential');
+delete_option('purolator_ltl_setting_acccess_level');
+delete_site_option('purolator_ltl_setting_acccess_level');
+delete_option('service_purolator_ltl_stndrd_quotes');
+delete_site_option('service_purolator_ltl_stndrd_quotes');
+delete_option('service_purolator_ltl_expedited_quotes');
+delete_site_option('service_purolator_ltl_expedited_quotes');
+delete_option('purolator_ltl_production_password');
+delete_site_option('purolator_ltl_production_password');
+delete_option('purolator_ltl_reg_acc_num');
+delete_site_option('purolator_ltl_reg_acc_num');
+delete_option('purolator_ltl_production_key');
+delete_site_option('purolator_ltl_production_key');
+delete_option('handling_weight_purolator_ltl');
+delete_site_option('handling_weight_purolator_ltl');
+delete_option('maximum_handling_weight_purolator_ltl');
+delete_site_option('maximum_handling_weight_purolator_ltl');
+delete_option('eniture_plugin_6');
+delete_site_option('eniture_plugin_6');
+delete_option('en_weight_threshold_lfq');
+delete_site_option('en_weight_threshold_lfq');
+delete_option('purolator_ltl_handling_fee');
+delete_site_option('purolator_ltl_handling_fee');
+delete_option('purolator_ltl_delivey_estimate');
+delete_site_option('purolator_ltl_delivey_estimate');
+delete_option('purolator_ltl_label_as_stndrd');
+delete_site_option('purolator_ltl_label_as_stndrd');
+delete_option('purolator_ltl_label_as_expedited');
+delete_site_option('purolator_ltl_label_as_expedited');
+delete_option('woocommerce_version');
+delete_site_option('woocommerce_version');
+delete_option('enable_logs_purolator_ltl');
+delete_site_option('enable_logs_purolator_ltl');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_hazardousmaterials' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_hazardousmaterials' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_hazardousmaterials' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_hazardousmaterials' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_enable_dropship' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_enable_dropship' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_enable_dropship' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_enable_dropship' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_dropship_location' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_dropship_location' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_dropship_location' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_dropship_location' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ltl_freight_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ltl_freight_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ltl_freight_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ltl_freight_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ltl_freight' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ltl_freight' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ltl_freight' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ltl_freight' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'en_flat_rate_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'en_flat_rate_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'en_flat_rate_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'en_flat_rate_price' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_en_product_markup_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_en_product_markup_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_en_product_markup_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_en_product_markup_variation' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_en_product_markup' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_en_product_markup' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_en_product_markup' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_en_product_markup' ) );
+

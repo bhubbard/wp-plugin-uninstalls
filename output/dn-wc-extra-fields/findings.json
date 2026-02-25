@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dn_checkout_extra_fields-fields",
+    "dn_checkout_extra_fields-last_id",
+    "dn_checkout_extra_fields-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dn_checkout_extra_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:13.937Z"
+}

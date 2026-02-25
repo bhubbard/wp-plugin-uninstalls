@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('janolaw_user_id', 'janolaw_shop_id', 'janolaw_cache_path', 'janolaw_cache_clear', 'janolaw_language', 'janolaw_language_default', 'janolaw_agb_page', 'janolaw_imprint_page', 'janolaw_widerruf_page', 'janolaw_widerrufform_page', 'janolaw_privacy_page', 'janolaw_agb_page_id', 'janolaw_imprint_page_id', 'janolaw_widerruf_page_id', 'janolaw_widerrufform_page_id', 'janolaw_privacy_page_id', 'janolaw_version', 'janolaw_pdf_top', 'janolaw_pdf_bottom', 'janolaw_woomail_order_widerruf', 'janolaw_woomail_order_agb', 'janolaw_woomail_order_widerrufform', 'janolaw_woomail_order_datenschutz', 'janolaw_plugin_version');
+

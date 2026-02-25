@@ -1,0 +1,23 @@
+{
+  "options": [
+    "zionbuilder_theme_styles",
+    "zionbuilder_db_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zionbuilder_enable_smooth_scroll",
+    "zionbuilder_preserve_smooth_scroll_history",
+    "_wp_page_template",
+    "_zionbuilder_version",
+    "zionbuilder_template_themebuilder_area"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:22.357Z"
+}

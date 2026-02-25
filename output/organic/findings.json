@@ -1,0 +1,19 @@
+{
+  "options": [
+    "organic::settings_last_updated",
+    "organic::log_to_sentry"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "organic_cron_sync_ad_config",
+    "organic_cron_sync_content",
+    "organic_cron_sync_ads_txt",
+    "organic_cron_sync_content_id_map"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:41.495Z"
+}

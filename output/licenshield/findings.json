@@ -1,0 +1,32 @@
+{
+  "options": [
+    "licenshield_stripe_mode",
+    "licenshield_stripe_test_public",
+    "licenshield_stripe_test_secret",
+    "licenshield_stripe_live_public",
+    "licenshield_stripe_live_secret",
+    "licenshield_stripe_webhook_secret",
+    "licenshield_company_name",
+    "licenshield_support_email",
+    "licenshield_admin_notification_email",
+    "licenshield_delete_data_on_uninstall",
+    "licenshield_license_prefix",
+    "licenshield_success_redirect",
+    "licenshield_cancel_redirect",
+    "licenshield_db_version",
+    "*_secret",
+    "*_public",
+    "licenshield_seen_tours",
+    "licenshield_wizard_complete",
+    "licenshield_wizard_welcome_seen",
+    "licenshield_wizard_sdk_confirmed"
+  ],
+  "transients": [
+    "licenshield_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:29.837Z"
+}

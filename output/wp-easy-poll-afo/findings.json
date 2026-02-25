@@ -1,0 +1,16 @@
+{
+  "options": [
+    "poll_result_after_it_ends",
+    "poll_share_enable_facebook",
+    "poll_share_enable_twitter",
+    "poll_share_enable_google",
+    "poll_share_enable_linkedin",
+    "poll_share_enable_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:38.737Z"
+}

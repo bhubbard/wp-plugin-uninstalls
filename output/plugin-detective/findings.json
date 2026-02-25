@@ -1,0 +1,16 @@
+{
+  "options": [
+    "itsec-storage",
+    "pdt_tmp_active_plugins_backup_from_case_opening",
+    "pdt_active_case_id",
+    "pdt_cases",
+    "pdt_case_*",
+    "pdt_tmp_active_plugins_backup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:01.415Z"
+}

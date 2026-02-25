@@ -1,0 +1,35 @@
+{
+  "options": [
+    "wp_attachment_pages_enabled",
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES",
+    "redux-framework_extendify_plugin_notice",
+    "*ense_key",
+    "*icense_status",
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "*-transients",
+    "*_color_scheme",
+    "redux_custom_font_current",
+    "woocommerce_shop_page_id",
+    "auto_update_redux_google_fonts"
+  ],
+  "transients": [
+    "*-transient",
+    "*-transients-metaboxes",
+    "*-transients-taxonomy",
+    "*-transients-users"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_wp_attachment_metadata",
+    "ignore_*",
+    "ignore_hints",
+    "_wp_page_template",
+    "_visibility",
+    "_stock_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:00.648Z"
+}

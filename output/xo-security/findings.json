@@ -1,0 +1,18 @@
+{
+  "options": [
+    "xo_security_options"
+  ],
+  "transients": [
+    "xo_security_flush_rewrite_rules"
+  ],
+  "cron_jobs": [
+    "xo_security_optimize_table"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "xo_security_two_factor_enable",
+    "xo_security_two_factor_secret_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:06.493Z"
+}

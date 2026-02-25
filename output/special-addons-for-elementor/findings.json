@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "wcvendors_label_sold_by",
+    "wcvendors_label_sold_by_separator",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:58.417Z"
+}

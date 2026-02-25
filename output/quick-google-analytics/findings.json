@@ -1,0 +1,14 @@
+{
+  "options": [
+    "quickgoogleanalytics_ua",
+    "quickgoogleanalytics_g",
+    "quickgoogleanalytics_select",
+    "quickgoogleanalytics_ip"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:28.916Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "branda_black_friday_2021_dismissed",
+    "registration",
+    "active_sitewide_plugins",
+    "ub_stats",
+    "wpmudev_df_widget_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "branda_email_logs_cleaning"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "show_welcome_dialog",
+    "_ub_log_*",
+    "_wp_attachment_image_alt",
+    "tips_dismissed",
+    "*recipient",
+    "*from_name",
+    "*from_email",
+    "show_tips",
+    "Branda_Cookie_Notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:08.756Z"
+}

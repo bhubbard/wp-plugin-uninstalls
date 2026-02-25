@@ -1,0 +1,13 @@
+{
+  "options": [
+    "aigrow_chatbot_token",
+    "aigrow_chatbot_title",
+    "aigrow_chatbot_ws_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:48.134Z"
+}

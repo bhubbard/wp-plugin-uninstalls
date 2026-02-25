@@ -1,0 +1,32 @@
+{
+  "options": [
+    "post_titles",
+    "section_alignment",
+    "section_bg_color",
+    "text_color",
+    "success_text_color",
+    "error_text_color",
+    "alert_font_family",
+    "alert_font_style",
+    "alert_font_weight",
+    "like_bg_color",
+    "like_color",
+    "like_loader_color",
+    "like_loader_border_color",
+    "dislike_bg_color",
+    "dislike_color",
+    "dislike_loader_color",
+    "dislike_loader_border_color",
+    "section_padding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "like",
+    "dislike",
+    "userips"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:03.716Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "_medias_toolbox_renamer",
+    "_medias_toolbox_cleanup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:28.718Z"
+}

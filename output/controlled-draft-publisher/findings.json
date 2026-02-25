@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cdp_log_autoload_fixed",
+    "cdp_log",
+    "cdp_interval",
+    "cdp_post_types",
+    "cdp_logging",
+    "cdp_posts_per_run",
+    "cdp_categories"
+  ],
+  "transients": [
+    "cdp_last_publish_error"
+  ],
+  "cron_jobs": [
+    "cdp_publish_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:56.329Z"
+}

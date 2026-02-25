@@ -1,0 +1,27 @@
+{
+  "options": [
+    "strabl_valid_uuid",
+    "woocommerce_strabl_payment_gateway_settings",
+    "strabl_plugin_data",
+    "strabl_payment_gateway_merchant_uuid",
+    "woocommerce_strabl_settings",
+    "strabl_payment_gateway_css_code",
+    "strabl_payment_gateway_checkout_css_code"
+  ],
+  "transients": [
+    "strabl_data_last_accessed",
+    "strabl_last_fetch_timestamp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fulfilmentStatus",
+    "paymentStatus",
+    "orderShortCode",
+    "customerUuid",
+    "tag",
+    "orderUuid"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:56.488Z"
+}

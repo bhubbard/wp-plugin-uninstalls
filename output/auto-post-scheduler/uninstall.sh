@@ -1,0 +1,47 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'aps_db_version'
+wp option delete 'aps_enabled'
+wp option delete 'aps_next'
+wp option delete 'aps_next_time'
+wp option delete 'aps_start_delay'
+wp option delete 'aps_delay_time'
+wp option delete 'aps_cats'
+wp option delete 'aps_authors'
+wp option delete 'aps_keyword_search'
+wp option delete 'aps_drafts'
+wp option delete 'aps_pending'
+wp option delete 'aps_publish'
+wp option delete 'aps_random'
+wp option delete 'aps_recycle'
+wp option delete 'aps_recycle_new'
+wp option delete 'aps_recycle_min'
+wp option delete 'aps_recycle_min_time'
+wp option delete 'aps_recycle_onthisday'
+wp option delete 'aps_batch'
+wp option delete 'aps_post_types'
+wp option delete 'aps_hours_mon'
+wp option delete 'aps_hours_tue'
+wp option delete 'aps_hours_wed'
+wp option delete 'aps_hours_thu'
+wp option delete 'aps_hours_fri'
+wp option delete 'aps_hours_sat'
+wp option delete 'aps_hours_sun'
+wp option delete 'aps_debug'
+wp option delete 'aps_excludes'
+wp option delete 'aps_max_per_day'
+wp option delete 'aps_num_day'
+wp option delete 'aps_restart'
+wp option delete 'aps_max_log'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'aps_hours_%'"
+wp option delete 'cron'
+wp option delete 'aps_updating'
+wp option delete 'aps_logfile'
+wp option delete 'aps_days'
+wp option delete 'aps_hours'
+
+# Clear Cron Jobs
+wp cron event delete 'aps_auto_post_hook'
+

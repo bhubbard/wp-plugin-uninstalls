@@ -1,0 +1,17 @@
+{
+  "options": [
+    "apg_sms_settings",
+    "woocommerce_default_country"
+  ],
+  "transients": [
+    "apg_sms_plugin"
+  ],
+  "cron_jobs": [
+    "apg_sms_ejecuta_el_temporizador",
+    "apg_sms_ejecuta_el_retraso"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:11.074Z"
+}

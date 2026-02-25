@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ns-gdpr-enable-comments",
+    "ns-gdpr-comments-checkbox-text",
+    "ns-gdpr-comments-checkbox-error-text",
+    "ns-gdpr-enable-cf7",
+    "ns-gdpr-enable-cf7-text",
+    "ns-gdpr-enable-cf7-error-text",
+    "test_validate_cf7",
+    "test_validate_cf7_2",
+    "ns-gdpr-enable-wc",
+    "ns-gdpr-enable-wc-text",
+    "ns-gdpr-enable-wc-error-text",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_form"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:03.436Z"
+}

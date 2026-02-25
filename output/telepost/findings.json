@@ -1,0 +1,14 @@
+{
+  "options": [
+    "telegram_fetch_settings_option_name",
+    "last_tg_cron_executed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tpost_sgs_scrapeTelegram_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:06.086Z"
+}

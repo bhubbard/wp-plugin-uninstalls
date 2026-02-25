@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sevu_show_errors",
+    "sevu_api_secret",
+    "sevu_api_public",
+    "sevu_api_address",
+    "sevu_cdn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:37.760Z"
+}

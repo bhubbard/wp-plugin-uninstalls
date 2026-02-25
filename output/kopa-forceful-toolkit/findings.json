@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kopa_editor_post_rating_*",
+    "kopa_editor_total_rating_*",
+    "kopa_user_post_rating_*",
+    "kopa_user_total_rating_*",
+    "kopa_user_total_all_rating_*",
+    "kopa_editor_user_total_all_rating_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:41.122Z"
+}

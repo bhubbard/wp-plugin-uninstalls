@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wooctrl_thumb_size",
+    "wooctrl_include_thumbs",
+    "wooctrl_embed_images",
+    "woocommerce_email_header_image",
+    "wooctrl_image_wrapper",
+    "wooctrl_include_cats",
+    "wooctrl_include_all_cats",
+    "wooctrl_include_sku",
+    "wooctrl_custom_image_size",
+    "wooctrl_latest_test_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:22.395Z"
+}

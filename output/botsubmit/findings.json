@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "botsubmit_sent_urls_*"
+  ],
+  "cron_jobs": [
+    "botsubmit_process_queue",
+    "botsubmit_send_url_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_botsubmit_send_on_publish",
+    "_botsubmit_send_on_update",
+    "_botsubmit_log"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:19.948Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "stmsb_booking_timezone",
+    "stmsb_display_date_format",
+    "stmsb_display_time_format",
+    "stmsb_display_rows",
+    "stmsb_custom_css",
+    "stmsb_db_version",
+    "stmsb_display_date_Format",
+    "stmsb_display_time_Format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:49.886Z"
+}

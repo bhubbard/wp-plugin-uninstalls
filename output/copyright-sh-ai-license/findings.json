@@ -1,0 +1,13 @@
+{
+  "options": [
+    "csh_ai_license_robots_signature"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "csh_ai_refresh_token_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:13.271Z"
+}

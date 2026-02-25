@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tgen_bg_colors",
+    "tgen_width",
+    "tgen_height",
+    "tgen_title_font_size",
+    "tgen_is_overlay_image",
+    "tgen_overlay_position",
+    "tgen_overlay_images",
+    "tgen_preview_image_url",
+    "tgen_settings",
+    "tgen_version",
+    "tgen_flash_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:49.745Z"
+}

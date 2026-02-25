@@ -1,0 +1,15 @@
+{
+  "options": [
+    "geargag_search",
+    "geargag_delete_products"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geargag_image_url",
+    "product_updated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:25.492Z"
+}

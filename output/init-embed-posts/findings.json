@@ -1,0 +1,11 @@
+{
+  "options": [
+    "init_embed_insert_locations"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:29.610Z"
+}

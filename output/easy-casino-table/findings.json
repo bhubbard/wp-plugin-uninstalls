@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ect_settings_input_visitbutton",
+    "ect_settings_input_tclink",
+    "ect_settings_input_readmore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ect-tc-link",
+    "ect-affiliate-link",
+    "ect-column2",
+    "ect-column2-follow",
+    "ect-column3",
+    "ect-outgoing-slug"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:09.225Z"
+}

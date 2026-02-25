@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cdntr",
+    "cdntr_api_check_status",
+    "cdntr_purge_telemetry"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cdntr_run_coalesced_purge"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:02.558Z"
+}

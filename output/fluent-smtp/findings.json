@@ -1,0 +1,26 @@
+{
+  "options": [
+    "fluentmail-settings",
+    "_fluentmail_last_generated_state",
+    "_fluentsmtp_sub_update",
+    "_fluentsmtp_dismissed_timestamp",
+    "_fluentmail_last_email_digest",
+    "_fsmtp_last_notification_sent",
+    "_fluentsmtp_intended_outlook_info",
+    "_fluent_smtp_notify_settings",
+    "wp_mail_smtp",
+    "wp_mail_smtp_mail_key",
+    "swpsmtp_options",
+    "swpsmtp_pass_encrypted",
+    "swpsmtp_enc_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fluentsmtp_renew_gmail_token",
+    "fluentmail_do_daily_scheduled_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:09.856Z"
+}

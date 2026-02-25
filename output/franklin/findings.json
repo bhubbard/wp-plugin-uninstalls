@@ -1,0 +1,17 @@
+{
+  "options": [
+    "featured-post--*",
+    "sites-select-search",
+    "digital_search_settings",
+    "contact_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_post_format_value",
+    "featured-video"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:46.756Z"
+}

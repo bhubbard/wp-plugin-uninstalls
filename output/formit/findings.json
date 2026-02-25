@@ -1,0 +1,18 @@
+{
+  "options": [
+    "formit_installed",
+    "formit_version",
+    "formit_news_dashboard_widget_news"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_formit_builder_shortcode",
+    "formit_from_dom",
+    "formit_from_json",
+    "formit_dismissed_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:49.265Z"
+}

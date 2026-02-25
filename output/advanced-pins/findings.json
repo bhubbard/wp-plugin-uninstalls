@@ -1,0 +1,17 @@
+{
+  "options": [
+    "apx_settings_tutorial_shown",
+    "apx_editor_tutorial_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "apx_pinterest_image_id",
+    "apx_pin_count",
+    "apx_traffic_post_id_*",
+    "apx_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:51.767Z"
+}

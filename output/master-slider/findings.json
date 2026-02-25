@@ -1,0 +1,24 @@
+{
+  "options": [
+    "masterslider_lite_plugin_version",
+    "_depicter_intro_modal_skip_time",
+    "masterslider_is_license_actived",
+    "*_is_license_actived",
+    "master-slider_ab_pro_feature_setting_content_type",
+    "masterslider_db_version",
+    "master-slider_ab_pro_feature_panel_content_type",
+    "masterslider_capabilities_added"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "rich_editing",
+    "total_sales"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:19.576Z"
+}

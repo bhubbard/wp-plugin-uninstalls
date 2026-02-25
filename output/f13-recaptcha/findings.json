@@ -1,0 +1,13 @@
+{
+  "options": [
+    "f13_recaptcha_enable",
+    "f13_recaptcha_private_key",
+    "f13_recaptcha_public_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:54.043Z"
+}

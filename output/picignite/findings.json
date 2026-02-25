@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pi_cid",
+    "pi_show_ad",
+    "pi_align",
+    "pi_width",
+    "pi_height",
+    "pi_attr",
+    "pi_target",
+    "pi_sid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:02.083Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "save_as_pdf_pdfcrowd_error_code",
+    "save-as-pdf-pdfcrowd",
+    "save-as-pdf-pdfcrowd_encryption_secret"
+  ],
+  "transients": [
+    "save_as_pdf_pdfcrowd_show_wizard"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "save_as_pdf_pdfcrowd_dismissed_upgrade"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:31.933Z"
+}

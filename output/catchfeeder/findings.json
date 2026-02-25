@@ -1,0 +1,18 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "*_connection_key",
+    "*_connection_endpoint",
+    "*_connection_email",
+    "*_connection_name",
+    "*_google_ads_enable",
+    "*_google_ads_account_id",
+    "*_google_ads_conversion_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:49.738Z"
+}

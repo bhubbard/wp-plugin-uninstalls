@@ -1,0 +1,18 @@
+{
+  "options": [
+    "guestplan_api_key",
+    "guestplan_newsletter_hide",
+    "guestplan_newsletter_default_optin",
+    "guestplan_widget_language",
+    "guestplan_auto_open",
+    "guestplan_hide_btn",
+    "guestplan_show_specific_pages",
+    "guestplan_specific_pages_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:56.392Z"
+}

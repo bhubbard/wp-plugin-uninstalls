@@ -1,0 +1,15 @@
+{
+  "options": [
+    "okcrmc_options",
+    "content_reminder_options",
+    "cur_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "okcrmc_send_email_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:43.686Z"
+}

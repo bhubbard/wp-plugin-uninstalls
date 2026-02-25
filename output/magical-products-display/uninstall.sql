@@ -1,0 +1,18 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mpd_enabled_widgets', 'mpd_known_widgets', 'mpd_install_date', 'mgppro_license_key', 'mpd_menu_notice_version', 'mgppro_is_active', 'mpd_pro_notice_dismissed', 'mpd_revhide_date', 'mpd_rev_added', 'mpd_flush_rewrite_rules', 'mpd_general_settings', 'mpd_plugin_activated', 'mpd_version', 'mpd_plugin_version', 'mpd_widget_settings', 'mpd_db_version', 'mgppro_has_valid_lic', 'mpd_performance_settings', 'mpd_preloader_settings', 'woocommerce_enable_review_rating', 'mpd_template_cpt_version', 'elementor_cpt_support', 'mpd_default_preview_product', 'woocommerce_tax_total_display', 'woocommerce_enable_checkout_login_reminder', 'woocommerce_demo_store_notice', 'woocommerce_enable_myaccount_registration', 'woocommerce_registration_generate_username', 'woocommerce_registration_generate_password', 'woocommerce_default_catalog_orderby', 'mpd_layout_server_activated', 'space_has_pro', 'mpd_delete_data_on_uninstall', 'mpd_msc_image_settings');
+DELETE FROM wp_options WHERE option_name LIKE 'mpd_billing_settings_%';
+DELETE FROM wp_options WHERE option_name LIKE 'mpd_shipping_settings_%';
+DELETE FROM wp_options WHERE option_name LIKE 'mpd_templates_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_mpd_template_type', '_mpd_template_conditions', '_mpd_template_layout', '_elementor_edit_mode', '_elementor_data', '_wp_page_template', '_mpd_template_priority', '_product_views_count', '_mpd_preview_product_id', 'mpd_elementor_pro_notice_dismissed', '_mpd_prelayout_id', '_mpd_prelayout_imported', '_elementor_version', 'thumbnail_id', 'rating', '_mpd_layout_id', '_mpd_layout_type', '_mpd_category', '_mpd_description', '_mpd_is_pro', '_mpd_layout_structure', '_mpd_layout_widgets');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_mpd_template_type', '_mpd_template_conditions', '_mpd_template_layout', '_elementor_edit_mode', '_elementor_data', '_wp_page_template', '_mpd_template_priority', '_product_views_count', '_mpd_preview_product_id', 'mpd_elementor_pro_notice_dismissed', '_mpd_prelayout_id', '_mpd_prelayout_imported', '_elementor_version', 'thumbnail_id', 'rating', '_mpd_layout_id', '_mpd_layout_type', '_mpd_category', '_mpd_description', '_mpd_is_pro', '_mpd_layout_structure', '_mpd_layout_widgets');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_mpd_template_type', '_mpd_template_conditions', '_mpd_template_layout', '_elementor_edit_mode', '_elementor_data', '_wp_page_template', '_mpd_template_priority', '_product_views_count', '_mpd_preview_product_id', 'mpd_elementor_pro_notice_dismissed', '_mpd_prelayout_id', '_mpd_prelayout_imported', '_elementor_version', 'thumbnail_id', 'rating', '_mpd_layout_id', '_mpd_layout_type', '_mpd_category', '_mpd_description', '_mpd_is_pro', '_mpd_layout_structure', '_mpd_layout_widgets');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_mpd_template_type', '_mpd_template_conditions', '_mpd_template_layout', '_elementor_edit_mode', '_elementor_data', '_wp_page_template', '_mpd_template_priority', '_product_views_count', '_mpd_preview_product_id', 'mpd_elementor_pro_notice_dismissed', '_mpd_prelayout_id', '_mpd_prelayout_imported', '_elementor_version', 'thumbnail_id', 'rating', '_mpd_layout_id', '_mpd_layout_type', '_mpd_category', '_mpd_description', '_mpd_is_pro', '_mpd_layout_structure', '_mpd_layout_widgets');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_country';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_country';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_country';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_country';
+

@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fpf_album_size",
+    "_fpf_album_cover"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:11.154Z"
+}

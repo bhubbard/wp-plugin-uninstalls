@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wc_stripe_authenticated_routes",
+    "wc_stripe_connect_notice",
+    "woocommerce_stripe_email_receipt",
+    "woocommerce_store_postcode",
+    "woocommerce_new_order_settings",
+    "woocommerce_stripe_plaid_settings",
+    "woocommerce_stripe_ach_settings",
+    "woocommerce_de_secondcheckout",
+    "woocommerce_gateway_order"
+  ],
+  "transients": [
+    "stripe_lock_order_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:37.480Z"
+}

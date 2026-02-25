@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ingenidev_sof_minimum_order_amount",
+    "ingenidev_sof_small_order_fee",
+    "ingenidev_sof_welcome_displayed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:50.539Z"
+}

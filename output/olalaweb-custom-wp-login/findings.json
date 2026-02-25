@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ola_ll_img_url",
+    "ola_ll_sizes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:13.471Z"
+}

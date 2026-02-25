@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tcmt_language_switcher_options",
+    "tcmt_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tcmt_language",
+    "_tcmt_original_post",
+    "_tcmt_translated_post",
+    "_tcmt_lang"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:15.073Z"
+}

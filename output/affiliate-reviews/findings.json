@@ -1,0 +1,26 @@
+{
+  "options": [
+    "affreviews_general_settings",
+    "affreviews_visual_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "affreviews_rating",
+    "affreviews_logo_background_color",
+    "affreviews_positives",
+    "affreviews_negatives",
+    "affreviews_group_info_list",
+    "affreviews_bonus",
+    "affreviews_review_link",
+    "affreviews_tag_text",
+    "affreviews_tag_background_color",
+    "affreviews_afflink",
+    "affreviews_terms",
+    "affreviews_description",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:44.983Z"
+}

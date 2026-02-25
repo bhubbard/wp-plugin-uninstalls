@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc_points_rewards_redeem_points_ratio', 'wc_points_rewards_points_tax_application', 'wc_points_rewards_cart_min_discount', 'wc_points_rewards_cart_max_discount', 'wc_points_rewards_max_discount', 'wc_points_rewards_partial_redemption_enabled', 'wc_points_rewards_earn_points_rounding', 'op_points_rewards_activation_date', 'op_points_rewards_extenstion_origin_url', 'op_points_rewards_extenstion_server_url', 'op_points_rewards_code', 'op_points_rewards_extenstion_name', 'op_points_rewards_extenstion_url', 'op_points_rewards_extenstion_id', 'oliver_pos_subscription_client_id', 'oliver_pos_subscription_token', 'oliver_points_and_rewards_status');
+

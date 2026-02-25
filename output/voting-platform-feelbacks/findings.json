@@ -1,0 +1,17 @@
+{
+  "options": [
+    "vicomi_feelbacks_api_key",
+    "vicomi_activation_redirect",
+    "vicomi_feelbacks_uuid",
+    "vicomi_feelbacks_replace",
+    "vicomi_feelbacks_active",
+    "vicomi_checkboxes",
+    "vicomi_exclude_pages_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:54.473Z"
+}

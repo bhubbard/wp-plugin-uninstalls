@@ -1,0 +1,19 @@
+{
+  "options": [
+    "talkm-visibility-options",
+    "talkm-embed-widget-teenant-key",
+    "talkm-embed-widget-expire-id",
+    "talkm-embed-widget-company-id",
+    "talkm-embed-widget-username-id",
+    "talkm-embed-widget-password-id",
+    "talkm-embed-widget-status-id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "talkm_add_every_five_minutes_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:08.014Z"
+}

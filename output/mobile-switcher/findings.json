@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mobile_switcher_enabled",
+    "ms_desktop_template",
+    "ms_mobile_template",
+    "ms_tablet_template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:49.226Z"
+}

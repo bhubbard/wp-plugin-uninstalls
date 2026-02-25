@@ -1,0 +1,13 @@
+{
+  "options": [
+    "infumar_settings",
+    "infumar_last_sync",
+    "infumar_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:34.399Z"
+}

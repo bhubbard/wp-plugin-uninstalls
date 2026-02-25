@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_force_ssl_checkout",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_orginal_paygate_transaction_type",
+    "_paygate_order_id",
+    "_approval_code_for_*",
+    "_paygate_transaction_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:22.870Z"
+}

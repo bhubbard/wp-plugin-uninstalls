@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_mypos_virtual_settings",
+    "mypos_schema_missing_tables",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [
+    "mypos_installing",
+    "mypos_update_order_*"
+  ],
+  "cron_jobs": [
+    "mypos_check_payment_status"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:10.657Z"
+}

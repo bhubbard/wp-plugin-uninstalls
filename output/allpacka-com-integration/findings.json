@@ -1,0 +1,26 @@
+{
+  "options": [
+    "allpacka_allapot",
+    "allpacka_fizetesi_modok",
+    "allpacka_felado_neve",
+    "allpacka_felado_bank_neve",
+    "allpacka_felado_bankszamlaszama",
+    "allpacka_tiltott_aru",
+    "allpacka_aszf",
+    "allpacka_tesztkornyezet",
+    "allpacka_email",
+    "allpacka_jelszo",
+    "allpacka_debug",
+    "allpacka_cod_notice_dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_allpacka_azonosito",
+    "_allpacka_fuvarlevelszam",
+    "_allpacka_kivalasztott_gls_csomagpont"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:22.609Z"
+}

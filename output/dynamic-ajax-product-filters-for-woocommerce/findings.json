@@ -1,0 +1,36 @@
+{
+  "options": [
+    "woocommerce_slug_check_dismissed_time",
+    "dapfforwc_filters",
+    "dapfforwc_options",
+    "dapfforwc_style_options",
+    "dapfforwc_template_options",
+    "dapfforwc_advance_options",
+    "dapfforwc_seo_permalinks_options",
+    "dapfforwc_install_time",
+    "dapfforwc_review_already_done",
+    "dapfforwc_remind_me_later",
+    "dapfforwcpro_license_key",
+    "dapfforwcpro_license_status",
+    "woocommerce_shop_page_id",
+    "onepaquc_analytics_last_sent",
+    "dapfforwc_license_key"
+  ],
+  "transients": [
+    "dapfforwcpro_admin_notice",
+    "dapfforwc_filtered_ids_*"
+  ],
+  "cron_jobs": [
+    "send_plugin_analytics_*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dapfforwc_ny_notice_dismissed_until",
+    "thumbnail_id",
+    "_elementor_data",
+    "_fl_builder_data",
+    "ct_builder_shortcodes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:28.354Z"
+}

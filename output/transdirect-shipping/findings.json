@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [
+    "cached_api_data",
+    "quote_id",
+    "td_api_response",
+    "td_sync_api_response",
+    "timeout_for_30_min"
+  ],
+  "cron_jobs": [
+    "td_cron_order_sync",
+    "td_cron_product_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_company",
+    "_price",
+    "synced",
+    "_sku",
+    "_weight",
+    "_height",
+    "_width",
+    "_length",
+    "_wc_shipping/namespace/shipping-type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:21.211Z"
+}

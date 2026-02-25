@@ -1,0 +1,33 @@
+{
+  "options": [
+    "cron",
+    "linkgreen_product_import_debug_options",
+    "linkgreen_product_import_setup_options",
+    "linkgreen_product_import_input_examples"
+  ],
+  "transients": [
+    "lgpi-category-mapping",
+    "wc_attribute_taxonomies",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_sku",
+    "_visibility",
+    "_stock_status",
+    "_linkgreen_item_id",
+    "_linkgreen_item_dropship",
+    "_linkgreen_item_dropship_supplier",
+    "_linkgreen_item_dropship_supplier_id",
+    "_sale_price",
+    "_regular_price",
+    "_price",
+    "_product_attributes",
+    "_product_image_gallery",
+    "_knawatfibu_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:18.744Z"
+}

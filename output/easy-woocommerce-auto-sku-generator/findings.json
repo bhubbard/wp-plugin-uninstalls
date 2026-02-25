@@ -1,0 +1,26 @@
+{
+  "options": [
+    "glideffxf_data_install",
+    "skuautoffxf_letters_and_numbers",
+    "skuautoffxf_auto_number",
+    "skuautoffxf_auto_prefix",
+    "skuautoffxf_auto_ID",
+    "skuautoffxf_previous",
+    "skuautoffxf_suffix",
+    "skuautoffxf_number_dop",
+    "skuautoffxf_variation_separator",
+    "skuautoffxf_auto_variant",
+    "skuautoffxf_duplicate_sku",
+    "skuautoffxf_variation_settings",
+    "skuautoffxf_format_an",
+    "my_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:59.906Z"
+}

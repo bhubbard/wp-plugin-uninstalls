@@ -1,0 +1,16 @@
+{
+  "options": [
+    "SS88_2FAVE_notice_dismissed_smtp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "SS882FAEmail_token",
+    "SS882FAEmail_timestamp",
+    "SS88_2FAVE_Enabled_API",
+    "SS88_2FAVE_Enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:30.360Z"
+}

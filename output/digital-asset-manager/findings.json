@@ -1,0 +1,23 @@
+{
+  "options": [
+    "dam_settings_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "record_number",
+    "asset_version",
+    "drive_url",
+    "live_url",
+    "download_url",
+    "license_key",
+    "total_view",
+    "total_download",
+    "account_credentials",
+    "private_note",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:03.155Z"
+}

@@ -1,0 +1,36 @@
+{
+  "options": [
+    "donate_admin_notices",
+    "thimpress_donate_version",
+    "thimpress_donate"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "donate_cancel_payment_order"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "thimpress_donate_user_id",
+    "thimpress_donate_addition",
+    "thimpress_donate_type",
+    "thimpress_donate_donor_id",
+    "campaign_id",
+    "title",
+    "total",
+    "thimpress_donate_total",
+    "*total_raised",
+    "update_campaign_raised",
+    "thimpress_campaign_currency",
+    "*marker",
+    "*currency",
+    "*total",
+    "*addition",
+    "*payment_method",
+    "*donor_id",
+    "*user_id",
+    "*payment_completed_at",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:45.796Z"
+}

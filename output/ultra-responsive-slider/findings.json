@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "clktusg_slider_settings_*",
+    "clktusg_slider_slides_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:28.387Z"
+}

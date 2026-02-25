@@ -1,0 +1,21 @@
+{
+  "options": [
+    "simdiaw_settings_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "simdiaw-start-date",
+    "simdiaw-end-date",
+    "simdiaw-start-time",
+    "simdiaw-end-time",
+    "simdiaw-loc",
+    "simdiaw-url",
+    "simdiaw-art-id",
+    "simdiaw-link-text",
+    "simdiaw-type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:48.629Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "inspiredmonks_security_header_options",
+    "inspiredmonks_security_header_version"
+  ],
+  "transients": [
+    "inspiredmonks_header_validation_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:23.594Z"
+}

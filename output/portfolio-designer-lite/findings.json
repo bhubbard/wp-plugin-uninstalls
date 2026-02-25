@@ -1,0 +1,19 @@
+{
+  "options": [
+    "portfolio_designer_lite_settings",
+    "*_size_w",
+    "*_size_h",
+    "pdl_is_optin",
+    "admin_url",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "portfolio_lite_url",
+    "portfolio_lite_label"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:44.858Z"
+}

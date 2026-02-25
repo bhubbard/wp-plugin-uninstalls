@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpecpp_settings",
+    "wpecpp_settingsoptions",
+    "wpecpp_my_plugin_notice_shown",
+    "wpecpp_admin_notice_shown",
+    "wpplugin_paypal_button_plugin_admin_settings"
+  ],
+  "transients": [
+    "wpecpp_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpplugin_paypal_button_price",
+    "_wpecpp_alignment",
+    "wpplugin_paypal_button_disable_paypal",
+    "wpplugin_paypal_button_disable_stripe",
+    "wpplugin_paypal_button_quantity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:16.535Z"
+}

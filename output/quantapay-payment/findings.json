@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_quantapay_settings",
+    "quantapay-cloud-settings",
+    "qtp-cloud-settings",
+    "quantapay_logging_enabled",
+    "qtp_logging_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:19.042Z"
+}

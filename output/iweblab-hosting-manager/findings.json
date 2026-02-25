@@ -1,0 +1,14 @@
+{
+  "options": [
+    "IHM-Settings",
+    "IHM-SpidersList"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "IHM_UpdateSpiderList"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:16.584Z"
+}

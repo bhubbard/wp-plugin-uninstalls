@@ -1,0 +1,17 @@
+{
+  "options": [
+    "slider_templates_logged_in",
+    "slider_templates_is_premium",
+    "slider_templates_email",
+    "slider_templates_connection_agree",
+    "slider_templates_password",
+    "slider_templates_all_templates",
+    "slider_templates_download_history"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:04.761Z"
+}

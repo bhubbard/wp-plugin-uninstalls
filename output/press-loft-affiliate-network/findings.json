@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pl_an_brand_credentials",
+    "pl_an_active"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "press_loft_heartbeat_cron_hook",
+    "press_loft_sale_post_pack_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:52.810Z"
+}

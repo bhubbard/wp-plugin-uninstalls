@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wss-page",
+    "wss-page-layout",
+    "wss-admin-color-background",
+    "wss-admin-color-text",
+    "wss-user-color-background",
+    "wss-user-color-text",
+    "wss-support-email",
+    "wss-support-email-name",
+    "wss-support-email-footer",
+    "wss-user-notification",
+    "wss-admin-notification",
+    "wss-premium-key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wss_cron_tickets_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:58.694Z"
+}

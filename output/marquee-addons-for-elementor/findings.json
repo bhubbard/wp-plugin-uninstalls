@@ -1,0 +1,14 @@
+{
+  "options": [
+    "deensimc_never_show_notice",
+    "marquee_addons_widgets"
+  ],
+  "transients": [
+    "deensimc_rate_us_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:32.784Z"
+}

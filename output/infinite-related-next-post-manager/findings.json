@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_next_post_activation_code",
+    "_winpm_next_post_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "svc_next_disable",
+    "svc_related_by",
+    "_thumbnail_id",
+    "svc_next_exclude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:36.683Z"
+}

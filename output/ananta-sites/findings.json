@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ANANTA_demo_installed",
+    "widget_*",
+    "sidebars_widgets",
+    "*_customizer_import",
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_myaccount_page_id",
+    "wishlist_template_select",
+    "compare_template_select"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:23.695Z"
+}

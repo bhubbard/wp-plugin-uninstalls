@@ -1,0 +1,30 @@
+{
+  "options": [
+    "rimoq_settings",
+    "rimoq_resync_status",
+    "rimoq_version"
+  ],
+  "transients": [
+    "rimoq_error_*",
+    "rimoq_success_*",
+    "rimoq_admin_errors",
+    "rimoq_api_call_details",
+    "rimoq_admin_success",
+    "rimoq_resync_queue",
+    "rimoq_resync_report",
+    "rimoq_bot_info_*",
+    "rimoq_welcome_notice",
+    "rimoq_api_status",
+    "rimoq_last_sync_time",
+    "rimoq_resync_status"
+  ],
+  "cron_jobs": [
+    "rimoq_resync_process_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:13.714Z"
+}

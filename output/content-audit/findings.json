@@ -1,0 +1,19 @@
+{
+  "options": [
+    "content_audit",
+    "_audit_term_count_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "content_audit_outdated_report",
+    "content_audit_outdated_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_content_audit_owner",
+    "_content_audit_notes",
+    "_content_audit_expiration_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:11.937Z"
+}

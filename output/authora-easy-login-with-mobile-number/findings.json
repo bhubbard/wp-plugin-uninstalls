@@ -1,0 +1,24 @@
+{
+  "options": [
+    "authora_sms_driver",
+    "authora_smsir_api_key",
+    "authora_smsir_template_id",
+    "authora_farazsms_api_key",
+    "authora_farazsms_pattern_code",
+    "authora_farazsms_sender_number",
+    "authora_shahvar_api_key",
+    "authora_shahvar_sender_number",
+    "authora_shahvar_pattern_code",
+    "authora_enable_mobile_login",
+    "authora_enable_woo_mobile_login"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mobile",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:03.490Z"
+}

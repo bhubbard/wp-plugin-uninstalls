@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*recovery_email_subject",
+    "*recovery_email_content",
+    "name",
+    "*email_login_alowed",
+    "*username_login_alowed",
+    "*email_recovery_alowed",
+    "*username_recovery_alowed",
+    "*login_header",
+    "*login_username_lable",
+    "*login_username_placeholder",
+    "*login_pass_lable",
+    "*login_pass_placeholder",
+    "*login_rememberme_lable",
+    "*login_submit_text",
+    "*login_rememberme_defualt",
+    "*recovery_header",
+    "*recovery_username_lable",
+    "*recovery_username_placeholder",
+    "*recovery_submit_text",
+    "*extra_wp_login"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:13.959Z"
+}

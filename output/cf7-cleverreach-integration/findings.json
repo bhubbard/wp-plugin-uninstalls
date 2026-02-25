@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*api-token",
+    "*api-refresh-token",
+    "*api-expires",
+    "cf7-cleverreach_token",
+    "*version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*update_token"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wpcf7-cleverreach_options",
+    "_wpcf7-cleverreach_attribute_mapping",
+    "_wpcf7-cleverreach_global_attribute_mapping",
+    "_wpcf7-cleverreach_options_mapping",
+    "_wpcf7-cleverreach_field_mapping",
+    "_wpcf7-cleverreach_option_mapping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:55.821Z"
+}

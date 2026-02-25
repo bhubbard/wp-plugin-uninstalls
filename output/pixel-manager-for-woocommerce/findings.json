@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pmw_pixels_option",
+    "woocommerce_default_country",
+    "woocommerce_currency",
+    "pmw_conversion_api_logs",
+    "pmw_admin_notices",
+    "pmw_api_store",
+    "pmw_migration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:32.801Z"
+}

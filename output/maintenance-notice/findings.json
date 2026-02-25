@@ -1,0 +1,14 @@
+{
+  "options": [
+    "maintenance_notice_options",
+    "maintenance_notice_activated_time"
+  ],
+  "transients": [
+    "maintenance-notice-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:17.310Z"
+}

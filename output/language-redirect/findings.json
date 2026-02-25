@@ -1,0 +1,12 @@
+{
+  "options": [
+    "language_redirect_default_redirect_location",
+    "language_redirect_redirect_mapping"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:04.120Z"
+}

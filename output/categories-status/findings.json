@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cvcs-taxonomy-enabled",
+    "cvcs-taxonomy-all-enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cv_term_status_draft"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:43.520Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "yemail_pro_id",
+    "yeemail_edd_setup",
+    "gform_email_count",
+    "gform_api_count",
+    "rg_gforms_message",
+    "rg_gforms_key",
+    "gform_version_info",
+    "rg_gforms_currency",
+    "rg_gforms_enable_akismet",
+    "gform_upload_page_slug",
+    "yeemail_setup"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mail_template",
+    "data_email",
+    "_status",
+    "_mail_type",
+    "_mail_width",
+    "_yeemail_link_color",
+    "_custom_css",
+    "_yeemail_custom_subject",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:39.942Z"
+}

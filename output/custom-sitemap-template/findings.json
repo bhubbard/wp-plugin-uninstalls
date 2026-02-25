@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sitemap_post_list",
+    "sitemap_cat_list",
+    "sitemap_hide_post",
+    "sitemap_hide_cat",
+    "cst_settings_arr",
+    "cst_admin_css_setting",
+    "cst_sitemap_column_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:33.002Z"
+}

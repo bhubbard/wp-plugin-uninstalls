@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woo_cs_options",
+    "wp_chameleon",
+    "wp_chameleon_background",
+    "active_sitewide_plugins",
+    "*qrcode_hash",
+    "wpdocs_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_coming_soon",
+    "_coming_soon_date",
+    "_coming_soon_time",
+    "_wcs_stock_threshold",
+    "_wcs_stock_based"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:19.228Z"
+}

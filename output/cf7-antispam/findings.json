@@ -1,0 +1,27 @@
+{
+  "options": [
+    "cf7a_options",
+    "cf7a_geodb_update",
+    "cf7a_db_version"
+  ],
+  "transients": [
+    "cf7a_notice",
+    "cf7a_activation"
+  ],
+  "cron_jobs": [
+    "cf7a_cron",
+    "cf7a_geoip_update_db"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_from",
+    "cf7a_hide_welcome_panel_on",
+    "_cf7a_b8_classification",
+    "_additional_settings",
+    "_meta",
+    "_field_*",
+    "_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:44.665Z"
+}

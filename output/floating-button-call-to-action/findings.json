@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cta_kit_button_style",
+    "cta_kit_button_color",
+    "cta_kit_enable_default_button",
+    "cta_kit_enable_page_post_buttons",
+    "cta_kit_default_button_link",
+    "cta_kit_default_button_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cta_kit_custom_button_link",
+    "cta_kit_custom_button_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:39.785Z"
+}

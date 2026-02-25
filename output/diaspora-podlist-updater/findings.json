@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dpu-podlist"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dpu_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:21.569Z"
+}

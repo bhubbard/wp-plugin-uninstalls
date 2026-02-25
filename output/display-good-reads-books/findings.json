@@ -1,0 +1,17 @@
+{
+  "options": [
+    "goodrds_reading_json",
+    "goodrds_read_json",
+    "goodrds_options"
+  ],
+  "transients": [
+    "goodrds_getLimit"
+  ],
+  "cron_jobs": [
+    "goodrds_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:55.116Z"
+}

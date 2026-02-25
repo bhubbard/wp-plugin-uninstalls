@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp2baiduzone_user",
+    "wp2baiduzone_password",
+    "wp2baiduzone_url",
+    "wp2baiduzone_blogpower",
+    "wp2baiduzone_isaddlink",
+    "wp2baiduzone_issync"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:13.972Z"
+}

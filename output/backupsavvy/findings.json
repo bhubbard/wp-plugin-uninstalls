@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpbiu_schedules",
+    "backupsavvy_db_version",
+    "backupsavvy_storage",
+    "backupsavvy_backup_settings",
+    "backupsavvy_apikey",
+    "backupsavvy_unique_*",
+    "backupsavvy_premium_object",
+    "backupsavvy_unique_ftp*",
+    "backupsavvy_license"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "backupsavvy_cron_job",
+    "creating_sites_backups",
+    "creating_sites_backup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:00.851Z"
+}

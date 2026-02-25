@@ -1,0 +1,15 @@
+{
+  "options": [
+    "keydatas_password",
+    "keydatas_title_unique",
+    "keydatas_tbk_link_enble"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tbk_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:17.338Z"
+}

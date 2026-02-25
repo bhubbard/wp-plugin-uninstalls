@@ -1,0 +1,36 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "alg_wc_custom_payment_gateways_version",
+    "alg_wc_custom_payment_gateways_enabled",
+    "alg_wc_cpg_input_fields_enabled",
+    "alg_wc_cpg_fees_enabled",
+    "alg_wc_cpg_fees_cart_total_taxes",
+    "alg_wc_cpg_fees_cart_total_shipping",
+    "alg_wc_cpg_fees_cart_total_discounts",
+    "woocommerce_default_gateway",
+    "alg_wc_cpg_input_fields_woe_enabled",
+    "alg_wc_cpg_input_fields_woe_template",
+    "alg_wc_cpg_input_fields_woe_glue",
+    "alg_wc_cpg_input_fields_add_to_emails",
+    "alg_wc_cpg_input_fields_add_to_emails_sent_to",
+    "alg_wc_cpg_input_fields_add_to_emails_template_plain",
+    "alg_wc_cpg_input_fields_add_to_emails_template",
+    "alg_wc_cpg_input_fields_add_to_order_details",
+    "alg_wc_cpg_input_fields_add_to_order_details_template",
+    "alg_wc_cpg_input_fields_add_order_note",
+    "img_cpg_orders",
+    "woocommerce_version",
+    "alg_wc_cpg_load_shipping_method_instances",
+    "alg_wc_custom_payment_gateways_admin_title_*",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_alg_wc_cpg_input_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:45.988Z"
+}

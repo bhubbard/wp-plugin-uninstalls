@@ -1,0 +1,19 @@
+{
+  "options": [
+    "link_monitor_in_posts",
+    "link_monitor_in_pages",
+    "link_monitor_in_excerpt",
+    "link_monitor_get",
+    "link_monitor_in_comments",
+    "link_monitor_in_feed",
+    "link_monitor_in_custom_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show_links"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:12.693Z"
+}

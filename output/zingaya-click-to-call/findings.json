@@ -1,0 +1,18 @@
+{
+  "options": [
+    "zingaya_user_email",
+    "zingaya_user_name",
+    "zingaya_api_key",
+    "zingaya_user_id",
+    "zingaya_active_widget",
+    "user_already_exists",
+    "zingaya_widget",
+    "zingaya_widget_short_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:08.561Z"
+}

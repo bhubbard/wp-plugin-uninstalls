@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lead_call_buttons_options_hide_lead_call_buttons"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:02.970Z"
+}

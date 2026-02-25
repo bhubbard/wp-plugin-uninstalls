@@ -1,0 +1,26 @@
+{
+  "options": [
+    "klyp_cf7tohs_api_key",
+    "klyp_cf7tohs_portal_id",
+    "klyp_cf7tohs_base_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_klyp-cf7-to-hubspot-form-redirect",
+    "_klyp-cf7-to-hubspot-cf-map-fields",
+    "_klyp-cf7-to-hubspot-hs-map-fields",
+    "_klyp-cf7-to-hubspot-form-id",
+    "_klyp-cf7-to-hubspot-cf7-email-field",
+    "_klyp-cf7-to-hubspot-email-field",
+    "_klyp-cf7-to-hubspot-dealbreaker-allow",
+    "_klyp-cf7-to-hubspot-dealbreaker-field",
+    "_klyp-cf7-to-hubspot-dealbreaker-value",
+    "_klyp-cf7-to-hubspot-stage-id",
+    "_klyp-cf7-to-hubspot-pipeline-id",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:03.447Z"
+}

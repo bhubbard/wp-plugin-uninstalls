@@ -1,0 +1,26 @@
+{
+  "options": [
+    "elementor_cpt_support",
+    "cc_admin_notices",
+    "ufel_later",
+    "ufel_vote"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "__fael_form_handle",
+    "__fael_form_page_id",
+    "__fael_can_edit_user",
+    "__fael_can_delete_user",
+    "__fael_term_author",
+    "__fael_can_edit_term",
+    "__fael_can_delete_term",
+    "__fael_can_edit_post",
+    "__fael_can_delete_post",
+    "fael_forms",
+    "fael_widgets"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:50.873Z"
+}

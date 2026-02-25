@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "indiecpa_indicadores_chile"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:22.912Z"
+}

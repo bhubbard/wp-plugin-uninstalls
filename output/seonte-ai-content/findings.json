@@ -1,0 +1,27 @@
+{
+  "options": [
+    "sacassettings_options",
+    "sacastitles_options",
+    "seonte-ai-content_options",
+    "wswemail_subjects_options",
+    "wsw_options",
+    "last_posted_date",
+    "daily_post_count",
+    "last_posted_date_for_retro",
+    "*_options",
+    "facebook_page_access_token",
+    "facebook_page_id"
+  ],
+  "transients": [
+    "sacas_we_working"
+  ],
+  "cron_jobs": [
+    "my_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:12.265Z"
+}

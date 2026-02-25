@@ -1,0 +1,17 @@
+{
+  "options": [
+    "restocknotifierpcprajapat_settings",
+    "restocknotifierpcprajapat_activation_check",
+    "restocknotifierpcprajapat_setup_defaults"
+  ],
+  "transients": [
+    "restocknotifierpcprajapat_wc_missing_notice"
+  ],
+  "cron_jobs": [
+    "restocknotifierpcprajapat_cron_send_batch"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:35.934Z"
+}

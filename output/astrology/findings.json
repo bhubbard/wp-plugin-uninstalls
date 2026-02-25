@@ -1,0 +1,13 @@
+{
+  "options": [
+    "astrology_plugin_options",
+    "astrology_client_status",
+    "astrology_admin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:07.727Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "minchu_api_key",
+    "page_minchu_list",
+    "page_minchu_detail"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:53.385Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpzoom_portfolio_root",
+    "wpzoom_portfolio_base",
+    "default_portfolio",
+    "wpzoom-portfolio-settings",
+    "downloaded_font_files"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wpzb_portfolio_video_type",
+    "_wpzb_portfolio_video_id",
+    "_wpzb_portfolio_video_url",
+    "wpz_reorder_view_mode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:35.541Z"
+}

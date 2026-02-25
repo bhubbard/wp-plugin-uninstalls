@@ -1,0 +1,21 @@
+{
+  "options": [
+    "watermark_manager_options",
+    "watermark_manager_image_watermark_options",
+    "watermark_manager_image_settings",
+    "watermark_manager_logging_enabled",
+    "WATERMARK_MANAGER_VERSION",
+    "watermark_manager_content_watermark_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "watermark_manager_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_watermark_manager_watermarked",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:54.424Z"
+}

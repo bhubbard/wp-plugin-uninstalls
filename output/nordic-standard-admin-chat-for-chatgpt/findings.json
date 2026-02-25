@@ -1,0 +1,14 @@
+{
+  "options": [
+    "msac_admin_api_key",
+    "msac_admin_model"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "msac_admin_chats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:25.181Z"
+}

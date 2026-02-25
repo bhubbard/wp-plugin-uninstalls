@@ -1,0 +1,22 @@
+{
+  "options": [
+    "chc_on_login",
+    "chc_site_key",
+    "chc_secret_key",
+    "chc_hashcount",
+    "chc_color_option",
+    "chc_on_comment",
+    "chc_on_woocommerce",
+    "chc_exlude_ips",
+    "chc_exlude_ips_forwarded_for",
+    "chc_db_version"
+  ],
+  "transients": [
+    "chc-admin-notice-example"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:25.804Z"
+}

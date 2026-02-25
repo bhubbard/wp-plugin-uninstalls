@@ -1,0 +1,19 @@
+{
+  "options": [
+    "jcorgcpb_alert",
+    "jcorgcpb_alert_message",
+    "jcorgcpb_use_css",
+    "jcorgcpb_disable_selection",
+    "jcorgcpb_disable_right_mouse_click",
+    "jcorgcpb_disable_keys",
+    "jcorgcpb_where_on",
+    "jcorgcpb_linkback",
+    "jcorgcpb_linkback_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:22.166Z"
+}

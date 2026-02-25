@@ -1,0 +1,18 @@
+{
+  "options": [
+    "receiver_email",
+    "sender_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pjcf_subject",
+    "pjcf_email",
+    "pjcf_fname",
+    "pjcf_lname",
+    "pjcf_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:25.339Z"
+}

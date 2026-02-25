@@ -1,0 +1,35 @@
+{
+  "options": [
+    "dashboard_widget_options",
+    "groupsysmessages",
+    "vikbooking_software_version",
+    "vikbooking_onactivate",
+    "vikbooking_breaking_changes",
+    "vikbooking_screen_failed_attempts",
+    "vikbooking_list_limit",
+    "vikbooking_changelog",
+    "vikbooking_license_key",
+    "vikbooking_license_expdate",
+    "vikbooking_hide_vcmad",
+    "vikbooking_license_hash",
+    "vikbooking_tmp_*"
+  ],
+  "transients": [
+    "vikbooking_screen_*"
+  ],
+  "cron_jobs": [
+    "vikbooking_cron_payments_scheduled",
+    "vikbooking_cron_performance_cleaner",
+    "vikbooking_cron_door_access_control",
+    "vikbooking_cron_db_optimization"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_rss_feeds",
+    "*_rss_optin",
+    "vikbooking_rss_urls",
+    "vikbooking_rss_display_dashboard"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:57.940Z"
+}

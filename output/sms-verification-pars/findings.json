@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "*_update_plugin"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "payamak-pars_mobile",
+    "payamak-pars_referenceno",
+    "sms_verified",
+    "payamakparssms_referenceno",
+    "sms_registered",
+    "payamakparssms_mobile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:03.790Z"
+}

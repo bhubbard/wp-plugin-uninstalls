@@ -1,0 +1,24 @@
+{
+  "options": [
+    "axesweb_activated",
+    "axesweb_verify_issued_at",
+    "axesweb_verify_ttl",
+    "axesweb_key_last4",
+    "axesweb_api_key_enc",
+    "axesweb_a11y_api_key",
+    "axesweb_a11y_account_first_name",
+    "axesweb_a11y_account_last_name",
+    "axesweb_a11y_declaration_page_id",
+    "axesweb_a11y_feedback_enabled",
+    "axesweb_a11y_feedback_email",
+    "axesweb_a11y_widget_position",
+    "axesweb_a11y_widget_theme",
+    "axesweb_a11y_declaration_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:45.064Z"
+}

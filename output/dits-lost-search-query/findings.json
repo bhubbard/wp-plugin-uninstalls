@@ -1,0 +1,20 @@
+{
+  "options": [
+    "lsq_notifications_enabled",
+    "lsq_threshold",
+    "lsq_notify_email",
+    "lsq_send_immediately",
+    "lsq_send_by_cron",
+    "lsq_cron_time",
+    "lsq_cron_frequency",
+    "dits-lost-search-query_general"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dits_lsq_send_notifications"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:24.098Z"
+}

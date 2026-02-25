@@ -1,0 +1,22 @@
+{
+  "options": [
+    "alv_settings_positions",
+    "alv_settings_tooltip_pos",
+    "alv_settings_hide_emt_terms",
+    "alv_settings_exl_hidden_product",
+    "alv_settings_exl_unpurcha_product",
+    "alv_settings_link_individual_product",
+    "alv_settings_use_unfollow_links",
+    "dsalv_db_version"
+  ],
+  "transients": [
+    "_welcome_screen_activation_redirect_ds_advanced_linked_variations"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dsalv_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:21.595Z"
+}

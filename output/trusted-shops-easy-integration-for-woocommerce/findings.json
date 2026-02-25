@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ts_easy_integration_access_token",
+    "ts_easy_integration_version",
+    "woocommerce_gzd_version",
+    "woocommerce_version",
+    "ts_easy_integration_client_id",
+    "ts_easy_integration_client_secret",
+    "ts_easy_integration_has_encryption_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:23.353Z"
+}

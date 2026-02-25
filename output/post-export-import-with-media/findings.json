@@ -1,0 +1,37 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "peiwm_enable_admin_download_buttons",
+    "peiwm_batch_settings",
+    "peiwm_scheduled_exports",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "peiwm_batch_export_*",
+    "peiwm_batch_export_media_*",
+    "peiwm_batch_import_*",
+    "peiwm_recommendations_data",
+    "peiwm_media_batch_*"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "peiwm_scheduled_export_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_attached_file",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:57.823Z"
+}

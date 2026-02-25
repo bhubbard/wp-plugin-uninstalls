@@ -1,0 +1,39 @@
+{
+  "options": [
+    "lingotek_token",
+    "lingotek_community",
+    "lingotek_prefs",
+    "lingotek_defaults",
+    "lingotek_base_url",
+    "lingotek_community_resources",
+    "lingotek_content_type",
+    "lingotek_log_errors",
+    "disassociate_source_failed",
+    "disassociate_target_failed",
+    "cancel_source_failed",
+    "cancel_target_failed",
+    "ignore_delete_pref",
+    "lingotek_import_prefs",
+    "lingotek_profiles",
+    "lingotek_custom_fields",
+    "lingotek_default_custom_fields",
+    "lingotek_professional_promotion_shown",
+    "lingotek_plugin_version",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "manageedit-postcolumnshidden",
+    "manageedit-pagecolumnshidden",
+    "pll_filter_content",
+    "_wp_attachment_metadata",
+    "_wp_attached_file",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:34.776Z"
+}

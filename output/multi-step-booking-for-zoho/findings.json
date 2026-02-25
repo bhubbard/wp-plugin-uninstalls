@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpmsb_thank_you_url",
+    "wpmsb_api_url",
+    "wpmsb_thankyou_url",
+    "wpmsb_slots",
+    "wpmsb_form_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:22.793Z"
+}

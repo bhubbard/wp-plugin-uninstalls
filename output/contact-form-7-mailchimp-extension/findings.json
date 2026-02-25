@@ -1,0 +1,39 @@
+{
+  "options": [
+    "cf7_mch_*",
+    "chimpmatic_license_status",
+    "chimpmatic-update",
+    "cmatic_log_on",
+    "cmatic_do_activation_redirect",
+    "cmatic_news_retry_count",
+    "csyncr_last_weekly_run",
+    "mc4wp",
+    "yikes-mc-api-key",
+    "yikes-easy-mailchimp-extender-api-key",
+    "mailchimp-woocommerce",
+    "mc4wp_top_bar",
+    "chimpmatic_license_activation",
+    "cmatic_license_instance",
+    "_site_transient_update_plugins",
+    "auto_update_core",
+    "active_sitewide_plugins",
+    "auto_update_plugins",
+    "cmatic",
+    "mce_conten_panel_welcome",
+    "mce_loyalty"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "cmatic_weekly_telemetry",
+    "cmatic_metrics_heartbeat",
+    "cmatic_daily_cron",
+    "csyncr_weekly_telemetry",
+    "csyncr_metrics_heartbeat"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:49.306Z"
+}

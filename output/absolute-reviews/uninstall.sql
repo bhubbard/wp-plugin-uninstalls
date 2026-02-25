@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('abr_review_disable_indicators', 'abr_review_post_types');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_abr_review_settings', '_abr_review_heading', '_abr_review_type', '_abr_review_items', '_abr_review_main_scale', '_abr_review_auto_score', '_abr_review_total_score', '_abr_review_desc', '_abr_review_pros_heading', '_abr_review_pros_items', '_abr_review_cons_heading', '_abr_review_cons_items', '_abr_review_legend', '_abr_review_schema_heading', '_abr_review_schema_desc', '_abr_review_schema_author', '_abr_review_schema_author_custom', '_abr_review_total_score_number');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_abr_review_settings', '_abr_review_heading', '_abr_review_type', '_abr_review_items', '_abr_review_main_scale', '_abr_review_auto_score', '_abr_review_total_score', '_abr_review_desc', '_abr_review_pros_heading', '_abr_review_pros_items', '_abr_review_cons_heading', '_abr_review_cons_items', '_abr_review_legend', '_abr_review_schema_heading', '_abr_review_schema_desc', '_abr_review_schema_author', '_abr_review_schema_author_custom', '_abr_review_total_score_number');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_abr_review_settings', '_abr_review_heading', '_abr_review_type', '_abr_review_items', '_abr_review_main_scale', '_abr_review_auto_score', '_abr_review_total_score', '_abr_review_desc', '_abr_review_pros_heading', '_abr_review_pros_items', '_abr_review_cons_heading', '_abr_review_cons_items', '_abr_review_legend', '_abr_review_schema_heading', '_abr_review_schema_desc', '_abr_review_schema_author', '_abr_review_schema_author_custom', '_abr_review_total_score_number');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_abr_review_settings', '_abr_review_heading', '_abr_review_type', '_abr_review_items', '_abr_review_main_scale', '_abr_review_auto_score', '_abr_review_total_score', '_abr_review_desc', '_abr_review_pros_heading', '_abr_review_pros_items', '_abr_review_cons_heading', '_abr_review_cons_items', '_abr_review_legend', '_abr_review_schema_heading', '_abr_review_schema_desc', '_abr_review_schema_author', '_abr_review_schema_author_custom', '_abr_review_total_score_number');
+

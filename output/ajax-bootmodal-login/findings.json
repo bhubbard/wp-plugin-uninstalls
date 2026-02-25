@@ -1,0 +1,29 @@
+{
+  "options": [
+    "option_bs3patch",
+    "modal_theme",
+    "option_checkbox",
+    "option_usermodal",
+    "can_register_option",
+    "lable_setting",
+    "button_text",
+    "button_text2",
+    "enable_login_captcha",
+    "enable_register_captcha",
+    "enable_lostpass_captcha",
+    "captcha_font",
+    "default_buttons",
+    "default_sizes",
+    "remove_btn_block",
+    "alimir_login_redirect",
+    "alimir_register_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "alimir_viewed_posts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:33.689Z"
+}

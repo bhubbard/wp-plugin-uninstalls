@@ -1,0 +1,16 @@
+{
+  "options": [
+    "starbox_button",
+    "starbox_overlay",
+    "starbox_class",
+    "starbox_ghost",
+    "starbox_version",
+    "starbox_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:26.643Z"
+}

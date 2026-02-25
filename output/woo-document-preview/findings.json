@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bp_profile_views_admin_welcome_options",
+    "bp_profile_views_general_options"
+  ],
+  "transients": [
+    "_woo_document_preview_is_new_install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcdp_documents",
+    "wcdp_preview_attachment"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:04.616Z"
+}

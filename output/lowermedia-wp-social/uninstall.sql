@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('lmwps_wps_enable', 'lmwps_wps_rounded', 'lmwps_wps_bkgrnd', 'lmwps_wps_offsite', 'lmwps_wps_flaticons', 'lmwps_wps_martop', 'lmwps_wps_marleft', 'lmwps_wps_pos', 'lmwps_wps_opac', 'lmwps_enable_option', 'lmwps_rounded_option', 'lmwps_bkgrnd_option', 'lmwps_offsite_option', 'lmwps_flaticons_option', 'lmwps_martop_option', 'lmwps_marleft_option', 'lmwps_pos_option', 'lmwps_opac_option');
+

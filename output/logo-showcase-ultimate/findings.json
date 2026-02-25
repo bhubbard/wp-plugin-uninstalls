@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "lcg_dismiss_discount_notice",
+    "lcg_migrate_serialize_to_json"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "img_link",
+    "img_tool",
+    "lcg_scode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:41.797Z"
+}

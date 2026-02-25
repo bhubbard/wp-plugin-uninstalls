@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bookling_website",
+    "bookonline_width",
+    "bookonline_height",
+    "bookonline_alignment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:26.736Z"
+}

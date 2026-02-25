@@ -1,0 +1,12 @@
+{
+  "options": [
+    "imjolwp_webp_quality",
+    "imjolwp_remove_metadata"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:59.283Z"
+}

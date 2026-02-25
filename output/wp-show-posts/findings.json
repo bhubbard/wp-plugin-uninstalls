@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "wpsp_include_title",
+    "wpsp_image",
+    "wpsp_include_date",
+    "wpsp_include_comments"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:55.165Z"
+}

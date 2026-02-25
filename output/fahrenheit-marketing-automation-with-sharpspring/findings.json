@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fm_ss_plugin_settings",
+    "wc_ss_plugin_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ss_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:32.343Z"
+}

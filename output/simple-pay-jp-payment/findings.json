@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simplepayjppayment-live-enabled",
+    "simplepayjppayment-test-secret-key",
+    "simplepayjppayment-live-secret-key",
+    "simplepayjppayment-test-public-key",
+    "simplepayjppayment-live-public-key",
+    "simplepayjppayment-encrypt-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:55.837Z"
+}

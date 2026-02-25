@@ -1,0 +1,32 @@
+{
+  "options": [
+    "smd_locations",
+    "smd_net_locations",
+    "smd_website_blog_type",
+    "smd_hide_metadata_dates",
+    "smd_disable_frontmatter_type",
+    "smd_disable_backmatter_type",
+    "smd_organization_logo_image_id",
+    "smd_organization_name",
+    "_ext_source_id",
+    "wpseo_titles",
+    "autodescription-site-settings",
+    "smd_logo_image_id",
+    "smdre_is_translated_from",
+    "smd_net_sites_type",
+    "smd_net_hide_metadata_dates",
+    "smde_locations",
+    "smdlc_locations",
+    "smdan_locations"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smd_googleImage_id",
+    "smd_page_type",
+    "smd_post_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:10.861Z"
+}

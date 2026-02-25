@@ -1,0 +1,11 @@
+{
+  "options": [
+    "rt_display_free_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:23.702Z"
+}

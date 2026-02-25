@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wplf-translation-strings"
+  ],
+  "transients": [
+    "wplf-form-filter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wplf_plugin_version",
+    "_wplf_media_library",
+    "_wplf_thank_you",
+    "_wplf_fields",
+    "_wplf_required",
+    "_wplf_email_copy_enabled",
+    "_wplf_email_copy_to",
+    "_wplf_email_copy_from",
+    "_wplf_email_copy_from_address",
+    "_wplf_email_copy_subject",
+    "_wplf_email_copy_content",
+    "_wplf_title_format",
+    "referrer",
+    "_form_id",
+    "*_attachment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:28.552Z"
+}

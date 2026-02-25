@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hm_tor_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hm_tor_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_hm_tor_status",
+    "_hm_tor_show_history",
+    "_hm_tor_memo"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:50.694Z"
+}

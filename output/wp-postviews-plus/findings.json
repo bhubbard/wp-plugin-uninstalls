@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*options",
+    "PV+_botagent",
+    "PV+_option",
+    "PV+_useragent",
+    "PV+_views",
+    "PV+_DBversion"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:21.711Z"
+}

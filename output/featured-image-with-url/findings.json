@@ -1,0 +1,18 @@
+{
+  "options": [
+    "harikrutfiwu_migrated_from_fibu",
+    "harikrutfiwu_migration_notice_dismissed",
+    "knawatfibu_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_knawatfibu_url",
+    "_knawatfibu_alt",
+    "_knawatfibu_wcgallary",
+    "fb_product_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:26.706Z"
+}

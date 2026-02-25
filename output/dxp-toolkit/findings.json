@@ -1,0 +1,28 @@
+{
+  "options": [
+    "cf-cc-licensing-key",
+    "cf_cc_settings_visited_pages",
+    "cf_cc_settings_remove_data_on_uninstall",
+    "cf_cc_addon_settings_addon_google",
+    "dxptoolkit_optin",
+    "dxptoolkit_enable_reporting_feature",
+    "cf_cc_settings_geoip_provider",
+    "dxptoolkit_last_ping",
+    "dxptoolkit_optin_notice",
+    "dxptoolkit_telemetry_notice",
+    "dxptoolkit_activation_date",
+    "active_sitewide_plugins",
+    "pantheon_ei_gtm_code"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dxptoolkit_ping"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cf_cc_trigger_default",
+    "cf_cc_conditions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:11.583Z"
+}

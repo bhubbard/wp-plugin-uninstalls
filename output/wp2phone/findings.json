@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp2p_tab",
+    "wp2p_settings",
+    "wp2p_tab_saved",
+    "wp2p_settings_saved",
+    "wp2p_published",
+    "wp2p_pref"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:51.012Z"
+}

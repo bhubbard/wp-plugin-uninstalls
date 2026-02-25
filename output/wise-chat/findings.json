@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [
+    "wise_chat_wp_users_cache",
+    "wc_admin_settings_message",
+    "wc_admin_settings_error_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_ai_role_description",
+    "wc_ai_type",
+    "wc_ai_model",
+    "wc_ai_assistant_id",
+    "wise_chat_message_id",
+    "wise_chat_channel",
+    "wise_chat"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:33.934Z"
+}

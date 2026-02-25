@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*admin_ad_mode",
+    "*help_toggle",
+    "*pro_demo",
+    "maa_settings",
+    "multiauthoradsense_license_key",
+    "multiauthoradsense_license_status",
+    "*admin_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "maa_settings",
+    "maa_disable_display",
+    "maa_disable_auto_insert",
+    "maa_settings_backup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:38.829Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "webpro_dde_cif",
+    "webpro_dde_entity_name",
+    "webpro_dde_postal_address",
+    "webpro_dde_phone",
+    "webpro_dde_email",
+    "webpro_dde_website",
+    "webpro_dde_facebook",
+    "webpro_dde_x",
+    "webpro_dde_youtube",
+    "webpro_dde_instagram",
+    "webpro_dde_linkedin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:22.847Z"
+}

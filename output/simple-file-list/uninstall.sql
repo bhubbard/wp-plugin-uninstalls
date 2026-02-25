@@ -1,0 +1,7 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('eeSFL_Confirm', 'eeSFL_FileList_1', 'eeSFL_FREE_DB_Version', 'eeSFL_BASE_Version', 'eeSFL-1-ShowList', 'eeSFL-Settings', 'eeSFL_Settings_1', 'eeSFL-1-ShowFileThumb', 'eeSFL-1-ShowFileDate', 'eeSFL-1-ShowFileOwner', 'eeSFL-1-ShowFileSize', 'eeSFL-1-SortBy', 'eeSFL-1-SortOrder', 'eeSFL-1-ShowFileActions', 'eeSFL-1-ShowListHeader', 'eeSFL-1-AllowFrontDelete', 'eeSFL-1-UploadDir', 'eeSFL-1-AllowUploads', 'eeSFL-1-FileFormats', 'eeSFL-1-UploadLimit', 'eeSFL-1-UploadMaxFileSize', 'eeSFL-1-GetUploaderInfo', 'eeSFL-1-Notify', 'eeSFL-FileList-1', 'eeSFL-Log', 'eeSFL_BASE_Log', 'eeSFL-Version', 'eeSFL-DB-Version', 'eeSFL_FREE_Log', 'eeSFLA-Settings', 'eeSFL-Legacy', 'eeSFL_Supported', 'eeSFL_TheLog', 'eeSFL_Tasks', 'eeSFL-1-FileListDirCheck', 'eeSFL_FileList_1', 'eeSFL_FileList-1');
+DELETE FROM wp_options WHERE option_name LIKE 'eeSFL_Settings_%';
+DELETE FROM wp_options WHERE option_name LIKE 'eeSFL_FileList_%';
+

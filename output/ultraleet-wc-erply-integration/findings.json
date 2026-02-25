@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wcerply_api_error",
+    "wcerply_sync_enabled",
+    "wcerply_installation_id",
+    "wcerply_product_term_map",
+    "wcerply_vat_rates_map",
+    "wcerply_stats_total_categories",
+    "wcerply_stats_total_products",
+    "woocommerce_enable_reviews",
+    "woocommerce_prices_include_tax",
+    "wcerply_stats_total_variations"
+  ],
+  "transients": [
+    "wcerply_generating_queue",
+    "wcerply_license_notice"
+  ],
+  "cron_jobs": [
+    "wcerply_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_erply_product_id",
+    "_attachment_filename",
+    "order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:01.414Z"
+}

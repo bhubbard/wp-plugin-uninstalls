@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'apple_meta_tags_web_app_mode'
+wp option delete 'apple_meta_tags_web_app_status_bar_style'
+wp option delete 'apple_meta_tags_web_app_title'
+wp option delete 'apple_meta_tags_use_viewport'
+wp option delete 'apple_meta_tags_viewport'
+wp option delete 'apple_meta_tags_telephone'
+wp option delete 'apple_meta_tags_favicon'
+wp option delete 'apple_meta_tags_favicon_png'
+wp option delete 'apple_meta_tags_touch_icon_precomposed'
+wp option delete 'apple_meta_tags_default_touch_icon'
+wp option delete 'apple_meta_tags_touch_icon_57'
+wp option delete 'apple_meta_tags_touch_icon_72'
+wp option delete 'apple_meta_tags_touch_icon_114'
+wp option delete 'apple_meta_tags_touch_icon_144'
+wp option delete 'apple_meta_tags_use_startup_screen'
+wp option delete 'apple_meta_tags_startup_screen_320_460'
+wp option delete 'apple_meta_tags_startup_screen_640_920'
+wp option delete 'apple_meta_tags_startup_screen_640_1096'
+wp option delete 'apple_meta_tags_startup_screen_768_1004'
+wp option delete 'apple_meta_tags_startup_screen_1024_748'
+wp option delete 'apple_meta_tags_startup_screen_1536_2008'
+wp option delete 'apple_meta_tags_startup_screen_2048_1496'
+wp option delete 'apple_meta_tags_use_smart_app_banner'
+wp option delete 'apple_meta_tags_app_store_id'
+wp option delete 'apple_meta_tags_affiliate_id'
+wp option delete 'apple_meta_tags_app_argument'
+

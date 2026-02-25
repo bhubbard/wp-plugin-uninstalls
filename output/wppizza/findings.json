@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_children",
+    "sidebars_widgets",
+    "*_custom_css",
+    "*_bestsellers",
+    "posts_per_page ",
+    "_site_transient_update_plugins",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "site_url",
+    "widget_wppizza_widgets",
+    "*_templates_print"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wppizza_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "*_cemail",
+    "show_admin_bar_front",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:58.865Z"
+}

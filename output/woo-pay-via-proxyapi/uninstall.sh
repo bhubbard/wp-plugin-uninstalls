@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'request_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'request_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'request_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'request_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'checkout_request_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'checkout_request_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'checkout_request_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'checkout_request_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mpesa_transaction_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mpesa_transaction_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mpesa_transaction_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mpesa_transaction_time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'sender_msisdn'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'sender_msisdn'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'sender_msisdn'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'sender_msisdn'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'sender_first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'sender_first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'sender_first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'sender_first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'sender_last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'sender_last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'sender_last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'sender_last_name'"

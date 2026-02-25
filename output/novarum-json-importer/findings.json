@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ni_isJsonValid",
+    "ni_settings_request_url",
+    "ni_settings_request_type",
+    "ni_settings_request_authtype",
+    "ni_settings_request_username",
+    "ni_settings_request_password",
+    "ni_settings_headers",
+    "ni_settings_fields",
+    "ni_settings_post_type",
+    "ni_settings_arraykey",
+    "ni_settings_titlekey",
+    "ni_settings_descriptionkey",
+    "ni_settings_datekey",
+    "ni_settings_post_status",
+    "ni_responseKeys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:31.531Z"
+}

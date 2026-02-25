@@ -1,0 +1,31 @@
+{
+  "options": [
+    "nicen_make_plugin_save_result",
+    "nicen_last_auto_publish",
+    "nicen_last_batch",
+    "nicen_make_publish_date_start",
+    "nicen_make_publish_date_end",
+    "nicen_make_publish_time_start",
+    "nicen_make_publish_time_end",
+    "nicen_make_plugin_interval",
+    "nicen_make_plugin_order",
+    "nicen_make_plugin_publish_local",
+    "nicen_make_publish_date",
+    "nicen_make_plugin_publish_num",
+    "nicen_make_publish_type",
+    "nicen_make_plugin_auto_publish",
+    "nicen_make_publish_white",
+    "nicen_make_plugin_record_log",
+    "nicen_make_plugin_adjust",
+    "nicen_make_plugin_private",
+    "nicen_plugin_error_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nicen_plugin_auto_publish"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:32.018Z"
+}

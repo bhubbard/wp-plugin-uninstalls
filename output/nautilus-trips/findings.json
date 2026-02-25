@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nautilus_trips_api_key",
+    "nautilus_trips_admin_email",
+    "nautilus_trips_ships",
+    "nautilus_trips_years",
+    "nautilus_trips_months",
+    "nautilus_trips_destinations",
+    "nautilus_trips_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:41.183Z"
+}

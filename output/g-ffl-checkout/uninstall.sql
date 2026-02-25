@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ffl_api_key_option', 'ffl_checkout_message', 'ffl_init_map_location', 'ffl_include_map', 'ffl_candr_override', 'ffl_local_pickup', 'ffl_mixed_cart_support', 'ffl_ammo_compliance_states', 'ffl_compliance_states', 'ffl_ammo_checkout_message', 'ffl_non_firearms_checkout_message', 'ffl_mixed_cart_notice_text', 'ffl_first_last_name_notice_text', 'ffl_restricted_states', 'ffl_restricted_states_message', 'ffl_restricted_states_firearms_message', 'ffl_restricted_states_ammo_message', 'ffl_restricted_states_firearms_ammo_message', 'ffl_restricted_states_all_message', 'ffl_mixed_cart_notice_bg_color', 'ffl_mixed_cart_notice_text_color', 'ffl_first_last_name_notice_bg_color', 'ffl_first_last_name_notice_text_color', 'ffl_checkout_message_bg_color', 'ffl_checkout_message_text_color', 'ffl_ammo_checkout_message_bg_color', 'ffl_ammo_checkout_message_text_color', 'ffl_block_po_boxes', 'ffl_po_box_error_message', 'ffl_require_address_match', 'ffl_address_mismatch_error_message', 'ffl_require_ffl_name_match', 'ffl_name_mismatch_error_message', 'ffl_document_upload_enabled', 'ffl_state_license_required_states', 'ffl_state_license_firearms_states', 'ffl_state_license_ammo_states', 'ffl_state_license_both_states', 'ffl_license_required_states', 'ffl_drivers_license_required_states', 'ffl_document_cleanup_enabled', 'ffl_document_cleanup_age_days', 'ffl_blacklist', 'woocommerce_ship_to_destination', 'ffl_local_pickup_conflict_message', 'ffl_document_last_cleanup', 'ffl_document_last_cleanup_count', 'ffl_document_last_cleanup_size');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_ammunition_product', '_firearm_product', '_ffl_admin_uploaded_documents', '_ffl_uploaded_documents');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_ammunition_product', '_firearm_product', '_ffl_admin_uploaded_documents', '_ffl_uploaded_documents');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_ammunition_product', '_firearm_product', '_ffl_admin_uploaded_documents', '_ffl_uploaded_documents');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_ammunition_product', '_firearm_product', '_ffl_admin_uploaded_documents', '_ffl_uploaded_documents');
+

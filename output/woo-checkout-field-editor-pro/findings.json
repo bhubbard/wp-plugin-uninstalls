@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wc_fields_billing",
+    "wc_fields_shipping",
+    "wc_fields_additional",
+    "thwcfd_since",
+    "active_sitewide_plugins",
+    "wc_fields_*",
+    "woocommerce_shipping_cost_requires_address",
+    "woocommerce_ship_to_destination"
+  ],
+  "transients": [
+    "thwcfd_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thwcfd_review_skipped",
+    "thwcfd_review_skipped_time",
+    "thwcfd_review_dismissed",
+    "thwcfd_review_dismissed_time",
+    "thwcfd_reviewed",
+    "thwcfd_reviewed_time",
+    "thwcfd_discount_popup",
+    "thwcfd_deactivation_snooze"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:12.112Z"
+}

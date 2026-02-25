@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [
+    "PLAYCZ_topRadios_widget",
+    "PLAYCZ_topRadios_widget_bck"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:05.849Z"
+}

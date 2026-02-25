@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*-admin-groups",
+    "*db_version",
+    "*-holiday-ics"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ownerRole",
+    "resourcemanager_resource_owner_mail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:49.699Z"
+}

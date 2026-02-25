@@ -1,0 +1,28 @@
+{
+  "options": [
+    "slidepost_categories",
+    "slidepost_order",
+    "slidepost_autoplay",
+    "slidepost_css",
+    "slidepost_template",
+    "slidepost_page_slug",
+    "slidepost_plugin_url",
+    "slidepost_custom_name",
+    "slidepost_custom_logo_url",
+    "slidepost_custom_footer",
+    "slidepost_random_vertical"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "price",
+    "rentalprice",
+    "timeshare",
+    "longtermrental",
+    "summerrental",
+    "winterrental"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:09.972Z"
+}

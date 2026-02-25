@@ -1,0 +1,24 @@
+{
+  "options": [
+    "steammanager_api_key",
+    "steammanager_steam_id",
+    "steammanager_show_top_bar",
+    "steammanager_custom_templates",
+    "steammanager_api_key_encrypted",
+    "steammanager_bad_images_cache",
+    "steammanager_top_bar_pages"
+  ],
+  "transients": [
+    "steammanager_activation_notice",
+    "steammanager_apps_cache",
+    "steammanager_profile_cache",
+    "steammanager_library_cache"
+  ],
+  "cron_jobs": [
+    "steammanager_refresh_wishlist"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:17.870Z"
+}

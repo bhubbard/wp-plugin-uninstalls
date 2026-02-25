@@ -1,0 +1,13 @@
+{
+  "options": [
+    "kbm_Reposter_Configuration"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "KBM_Reposter_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:29.116Z"
+}

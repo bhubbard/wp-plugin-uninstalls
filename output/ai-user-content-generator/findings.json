@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ucgaip_placeholder_text",
+    "ucgaip_border_radius",
+    "ucgaip_button_color",
+    "ucgaip_button_text",
+    "ucgaip_prompt",
+    "ucgaip_api_key",
+    "ucgaip_store_inputs",
+    "ucgaip_prompt_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_input",
+    "ucgaip_response",
+    "timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:18.652Z"
+}

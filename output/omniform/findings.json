@@ -1,0 +1,31 @@
+{
+  "options": [
+    "omniform_analytics_db_version",
+    "omniform_initial_version",
+    "omniform_activated_time",
+    "*_site_key",
+    "*_secret_key",
+    "show_comments_cookies_opt_in",
+    "omniform_hcaptcha_secret_key",
+    "omniform_recaptchav2_secret_key",
+    "omniform_recaptchav3_secret_key",
+    "omniform_turnstile_secret_key"
+  ],
+  "transients": [
+    "omniform_analytics_salt",
+    "omniform_just_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "submit_method",
+    "submit_action",
+    "required_label",
+    "notify_email",
+    "notify_email_subject",
+    "_omniform_id",
+    "omniform_dismissed_newsletter_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:37.043Z"
+}

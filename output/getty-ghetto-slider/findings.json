@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ghetto_slide_width",
+    "ghetto_slide_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "destination_url",
+    "ghetto_caption"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:54.529Z"
+}

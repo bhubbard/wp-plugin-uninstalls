@@ -1,0 +1,55 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'inspry_toolkit_backend_footer_agency_url'
+wp option delete 'inspry_toolkit_backend_footer_agency_name'
+wp option delete 'inspry_toolkit_backend_footer_agency_email'
+wp option delete 'inspry_toolkit_backend_logo_image'
+wp option delete 'inspry_toolkit_change_email_sender_address'
+wp option delete 'inspry_toolkit_change_email_sender_name'
+wp option delete 'inspry_toolkit_change_user_notifications_email_sender'
+wp option delete 'inspry_toolkit_checksum_verification_for_wordpress_core_files_email_send'
+wp option delete 'inspry_toolkit_disable_admin_notice'
+wp option delete 'inspry_toolkit_disable_admin_notice_user_list'
+wp option delete 'wbcr_dan_hide_admin_notices'
+wp option delete 'inspry_toolkit_disable_installs_and_updates'
+wp option delete 'inspry_toolkit_disable_installs_and_updates_list'
+wp option delete 'inspry_toolkit_enable_plugin_activations_admin_notifications_plugin_list'
+wp option delete 'inspry_toolkit_enable_plugin_activations_admin_notifications_list'
+wp option delete 'inspry_toolkit_enable_plugin_update_admin_notifications'
+wp option delete 'inspry_toolkit_enable_plugin_update_admin_notifications_plugin_list'
+wp option delete 'inspry_toolkit_enable_plugin_update_admin_notifications_list'
+wp option delete 'inspry_toolkit_limit_post_revisions_number'
+wp option delete 'inspry_toolkit_limit_users_modify_admin_email'
+wp option delete 'inspry_toolkit_limit_users_modify_admin_email_user_list'
+wp option delete 'inspry_toolkit_maintenance_mode_heading'
+wp option delete 'inspry_toolkit_maintenance_mode_sentence'
+wp option delete 'inspry_toolkit_development_environment_host_name'
+wp option delete 'inspry_toolkit_manage_development_environment_banner_color'
+wp option delete 'inspry_toolkit_development_environment_user_list'
+wp option delete 'inspry_toolkit_payments_test_mode_check_admin_notifications_list'
+wp option delete 'woocommerce_stripe_settings'
+wp option delete 'woocommerce-ppcp-data-common'
+wp option delete 'woocommerce_authorize_net_cim_credit_card_settings'
+wp option delete 'last_test_mode_gateways'
+wp option delete 'last_test_mode_email_sent'
+wp option delete 'inspry_toolkit_remove_site_health'
+wp option delete 'inspry_toolkit_remove_site_health_user_list'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'inspry_toolkit_%'"
+wp option delete 'inspry_toolkit_payments_disable_check_admin_notifications_list'
+wp option delete 'inspry_toolkit_limit_admins_list'
+wp option delete 'inspry_toolkit_limit_admins'
+wp option delete 'inspry_toolkit_stop_user_enumeration'
+wp option delete 'inspry_toolkit_checksum_verification_for_wordpress_core_files'
+wp option delete 'inspry_toolkit_disable_media_comments'
+wp option delete 'inspry_toolkit_prev_payment_gateways'
+
+# Delete Transients
+wp transient delete 'inspry_toolkit_activation_notification'
+wp transient delete 'iat_access_token'
+
+# Clear Cron Jobs
+wp cron event delete 'cron_called'
+wp cron event delete 'check_gateway_test_mode_event'
+

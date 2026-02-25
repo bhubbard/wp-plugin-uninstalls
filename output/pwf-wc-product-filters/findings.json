@@ -1,0 +1,28 @@
+{
+  "options": [
+    "pwf_style",
+    "pwf_shop_analytics",
+    "woocommerce_currency_pos",
+    "pwf_woo_query_filters",
+    "pwf_woocommerce_analytic_meta_labels",
+    "pwf_woocommerce_analytic_range_slider_meta_labels",
+    "pwf_woocommerce_version",
+    "pwf_woocommerce_free_version",
+    "pwf_woocommerce_free_version_update_message",
+    "pwf_woocommerce_db_version",
+    "woocommerce_tax_display_shop",
+    "woocommerce_shop_page_id",
+    "woocommerce_hide_out_of_stock_items"
+  ],
+  "transients": [
+    "pwf_woo_filter_analytic_languages_list",
+    "pwf_woo_filter_set_db_for_analytic"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pwf_woo_post_filter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:07.911Z"
+}

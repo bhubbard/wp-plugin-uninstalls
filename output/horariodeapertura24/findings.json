@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_horariodeapertura24_widgetwo",
+    "wp_horariodeapertura24_widgetwas",
+    "wp_horariodeapertura24_titlecolor",
+    "wp_horariodeapertura24_titlebgcolor",
+    "wp_horariodeapertura24_textcolor",
+    "wp_horariodeapertura24_textbgcolor",
+    "wp_horariodeapertura24_buttoncolor",
+    "wp_horariodeapertura24_buttonbgcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:51.221Z"
+}

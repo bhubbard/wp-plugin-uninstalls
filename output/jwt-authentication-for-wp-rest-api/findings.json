@@ -1,0 +1,20 @@
+{
+  "options": [
+    "jwt_auth_options",
+    "jwt_auth_dismissed_notices",
+    "woocommerce_version",
+    "jwt_auth_install_date",
+    "jwt_auth_tokens_created"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jwt_auth_share_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "jwt_auth_survey_completed",
+    "jwt_auth_survey_dismissal"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:17.708Z"
+}

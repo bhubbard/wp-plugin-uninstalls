@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ph_octavius_api_key",
+    "ph_octavius_server",
+    "octavius_rocks_realtime_breakpoints"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:17.930Z"
+}

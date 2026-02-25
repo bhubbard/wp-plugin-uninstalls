@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mc6397vt_installed",
+    "mc6397vt_showmonths",
+    "mc6397vt_showyear",
+    "mc6397vt_table_type",
+    "mc6397vt_table_color",
+    "mc6397vt_table_resp",
+    "mc6397vt_deleteTable",
+    "widget_mc6397vt_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:13.784Z"
+}

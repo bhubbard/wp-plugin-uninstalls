@@ -1,0 +1,14 @@
+{
+  "options": [
+    "shift8_gravitysap_settings",
+    "shift8_gravitysap_item_codes_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shift8_gravitysap_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:45.621Z"
+}

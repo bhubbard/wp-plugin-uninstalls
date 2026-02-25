@@ -1,0 +1,37 @@
+{
+  "options": [
+    "contract_snapshot_*",
+    "wp_ca_options",
+    "yith_wcwl_socials_title",
+    "wc_prd_vendor_options",
+    "yith_wcwl_add_to_wishlist_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_ca_booking_option",
+    "_wp_ca_add_on_list",
+    "_wp_ca_product_type",
+    "_hours_enabled",
+    "_wp_ca_selected_template",
+    "ppf_status",
+    "recent_subsription",
+    "expected_subsription",
+    "_wp_ca_product_sub_type",
+    "wp_ca_ymd",
+    "wp_ca_duration_type",
+    "wp_ca_number_of",
+    "hours_available",
+    "_regular_price",
+    "_price",
+    "_sale_price",
+    "wc_productdata_options",
+    "_wp-ca-timezone",
+    "expected_subsription_pid",
+    "expected_subsription_fid",
+    "redeemed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:34.382Z"
+}

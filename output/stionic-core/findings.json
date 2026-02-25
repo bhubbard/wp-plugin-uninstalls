@@ -1,0 +1,22 @@
+{
+  "options": [
+    "stionic-categories-hide",
+    "stionic_onesignal",
+    "stionic_categories",
+    "stionic_settings",
+    "stionic_media"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stionic_post_format",
+    "_stionic_exclude_featured",
+    "_show_in_application",
+    "_stionic_future_notification",
+    "_stionic_required_rewards_ads",
+    "_ipa_disable_ads"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:14.214Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "io_api_username",
+    "io_api_password",
+    "io_business_id",
+    "joi_sync_enabled",
+    "joi_sync_interval",
+    "autoinvoice",
+    "IORegionalCompanies",
+    "vatapplies",
+    "amountsincludevat",
+    "voucherchecktag",
+    "checkcredits",
+    "vouchercheck",
+    "regionalCompanies"
+  ],
+  "transients": [
+    "ClientID"
+  ],
+  "cron_jobs": [
+    "saas_cron_sync_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery",
+    "io_proforma_invoice",
+    "ClientID",
+    "io_client_id",
+    "iostatus",
+    "io_cart_total",
+    "_price",
+    "io_ignore_notice",
+    "_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:27.710Z"
+}

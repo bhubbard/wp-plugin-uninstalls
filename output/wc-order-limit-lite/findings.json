@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wc_order_limit_do_activation_redirect",
+    "wcol_options",
+    "wcol_rule_type_error",
+    "wcol_rule_select_items",
+    "woocommerce_custom_orders_table_enabled",
+    "xswcol_order_time_update_*",
+    "xswcol_recent_order_time_*",
+    "xswcol_order_time_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcol-post-rules",
+    "wcol-rule-type",
+    "_wcol_rule_limit",
+    "wcol_min_limit",
+    "wcol_max_limit",
+    "_customer_ip_address",
+    "wcol_order_created",
+    "xswcol_order_time_update",
+    "xswcol_recent_order_time",
+    "xswcol_order_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:45.051Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*test_user",
+    "*test_user_retry",
+    "*convertion_rate",
+    "woocommerce_default_gateway",
+    "kmercadopagogpl_ignore_review",
+    "kmercadopagogpl_installed_date"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "do_kmercadopagogpl_hourly_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:54.376Z"
+}

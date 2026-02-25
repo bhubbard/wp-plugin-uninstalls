@@ -1,0 +1,15 @@
+{
+  "options": [
+    "archagam_disable_bootstrap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "archagam_calendar",
+    "archagam_upload_option",
+    "archagam_select_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:03.732Z"
+}

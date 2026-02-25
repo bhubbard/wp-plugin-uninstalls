@@ -1,0 +1,14 @@
+{
+  "options": [
+    "simple_cta_settings",
+    "simple_cta_impressions",
+    "simple_cta_clicks",
+    "simple_cta_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:19.832Z"
+}

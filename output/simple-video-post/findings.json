@@ -1,0 +1,41 @@
+{
+  "options": [
+    "svp_version",
+    "svp_player_settings",
+    "svp_brand_settings",
+    "rewrite_rules",
+    "svp_general_settings",
+    "svp_page_settings"
+  ],
+  "transients": [
+    "svp_rand_seed_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "track",
+    "is_video_post",
+    "type",
+    "mp4",
+    "mp4_id",
+    "has_webm",
+    "webm",
+    "webm_id",
+    "has_ogv",
+    "ogv",
+    "ogv_id",
+    "quality_level",
+    "sources",
+    "youtube",
+    "vimeo",
+    "dailymotion",
+    "facebook",
+    "embedcode",
+    "image",
+    "image_id",
+    "duration",
+    "views"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:47.372Z"
+}

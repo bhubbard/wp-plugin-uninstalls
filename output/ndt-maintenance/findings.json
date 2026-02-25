@@ -1,0 +1,14 @@
+{
+  "options": [
+    "NDTAN_MAINTENANCE_options",
+    "ndt_maintenance_options"
+  ],
+  "transients": [
+    "ndt_maintenance_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:17.344Z"
+}

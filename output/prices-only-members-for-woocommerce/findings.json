@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dc_pomfw_activate",
+    "dc_pomfw_message",
+    "dc_pomfw_position",
+    "dc_pomfw_login_text",
+    "dc_pomfw_login_link",
+    "dc_pomfw_register_text",
+    "dc_pomfw_register_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:03.127Z"
+}

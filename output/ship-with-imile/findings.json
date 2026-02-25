@@ -1,0 +1,25 @@
+{
+  "options": [
+    "api_json",
+    "woocommerce_imile_shipping_method_settings",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "imile_create_shipping_response",
+    "rtu__t",
+    "imile_update_shipping_response",
+    "imile_check_shipping_response__",
+    "imile_delete_shipping_response",
+    "_item_volume",
+    "_thankyou_action_done"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:59.016Z"
+}

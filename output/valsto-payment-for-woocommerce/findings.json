@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wc_valsto_merchant_access_token",
+    "wc_valsto_merchant_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_valsto_transaction_id",
+    "_order_total",
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:39.742Z"
+}

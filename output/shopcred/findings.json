@@ -1,0 +1,33 @@
+{
+  "options": [
+    "shopcred-settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "shopcred-pro-settings",
+    "shop-cred",
+    "spc_save_settings",
+    "shopcred_dynamic_css_time",
+    "Dynamic_CSS_posts",
+    "shopcredblocks_dynamic_css_time",
+    "widget_block",
+    "spc_do_update_redirect",
+    "woocommerce_placeholder_image",
+    "__spc_asset_version"
+  ],
+  "transients": [
+    "shopcred-dashboard-all-config-data"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "spc-builder-widget-area",
+    "_shopcred_dynamic_css_version",
+    "_shopcred_reusable_blocks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:14.004Z"
+}

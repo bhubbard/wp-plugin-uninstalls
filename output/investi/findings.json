@@ -1,0 +1,13 @@
+{
+  "options": [
+    "investi-apikey",
+    "investi-apikey-saved",
+    "investi-do-not-add-css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:28.911Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pods_gf_remember_*",
+    "_pods_gf_template_subject",
+    "_pods_gf_template_cc",
+    "_pods_gf_template_bcc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:39.668Z"
+}

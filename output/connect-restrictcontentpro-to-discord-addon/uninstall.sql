@@ -1,0 +1,31 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ets_restrictcontentpro_discord_client_id', 'ets_restrictcontentpro_discord_client_secret', 'ets_restrictcontentpro_discord_bot_token', 'ets_restrictcontentpro_discord_redirect_url', 'ets_restrictcontentpro_discord_admin_redirect_url', 'ets_restrictcontentpro_discord_server_id', 'ets_restrictcontentpro_discord_role_mapping', 'ets_restrictcontentpro_discord_default_role_id', 'ets_restrictcontentpro_allow_none_member', 'ets_restrictcontentpro_discord_payment_failed', 'ets_restrictcontentpro_discord_log_api_response', 'ets_restrictcontentpro_retry_failed_api', 'ets_restrictcontentpro_discord_send_welcome_dm', 'ets_restrictcontentpro_discord_send_expiration_warning_dm', 'ets_restrictcontentpro_discord_welcome_message', 'ets_restrictcontentpro_discord_expiration_warning_message', 'ets_restrictcontentpro_discord_expiration_expired_message', 'ets_restrictcontentpro_discord_send_membership_expired_dm', 'ets_restrictcontentpro_discord_send_membership_cancel_dm', 'ets_restrictcontentpro_discord_cancel_message', 'ets_restrictcontentpro_discord_job_queue_concurrency', 'ets_restrictcontentpro_discord_job_queue_batch_size', 'ets_restrictcontentpro_retry_api_count', 'ets_restrictcontentpro_discord_connect_button_bg_color', 'ets_restrictcontentpro_discord_disconnect_button_bg_color', 'ets_restrictcontentpro_discord_loggedin_button_text', 'ets_restrictcontentpro_discord_non_login_button_text', 'ets_restrictcontentpro_discord_disconnect_button_text', 'ets_restrictcontentpro_discord_redirect_page_id', 'ets_restrictcontentpro_discord_uuid_file_name', 'ets_restrictcontentpro_discord_all_roles', 'ets_restrictcontentpro_discord_roles_color', 'ets_restrictcontentpro_discord_expired_message', 'ets_restrictcontentpro_discord_connected_bot_name', 'ets_restrictcontentpro_discord_guild_id', 'action_scheduler_admin_notice', 'as_comment_count');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_ets_restrictcontentpro_discord_dm_channel', '_ets_restrictcontentpro_discord_access_token', '_ets_restrictcontentpro_discord_default_role_id', '_ets_restrictcontentpro_discord_user_id', '_ets_restrictcontentpro_discord_username', '_ets_restrictcontentpro_discord_join_date', '_ets_restrictcontentpro_discord_dismissed_notification', '_ets_restrictcontentpro_discord_avatar', '_ets_restrictcontentpro_discord_refresh_token', '_ets_restrictcontentpro_discord_expires_in');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_ets_restrictcontentpro_discord_dm_channel', '_ets_restrictcontentpro_discord_access_token', '_ets_restrictcontentpro_discord_default_role_id', '_ets_restrictcontentpro_discord_user_id', '_ets_restrictcontentpro_discord_username', '_ets_restrictcontentpro_discord_join_date', '_ets_restrictcontentpro_discord_dismissed_notification', '_ets_restrictcontentpro_discord_avatar', '_ets_restrictcontentpro_discord_refresh_token', '_ets_restrictcontentpro_discord_expires_in');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_ets_restrictcontentpro_discord_dm_channel', '_ets_restrictcontentpro_discord_access_token', '_ets_restrictcontentpro_discord_default_role_id', '_ets_restrictcontentpro_discord_user_id', '_ets_restrictcontentpro_discord_username', '_ets_restrictcontentpro_discord_join_date', '_ets_restrictcontentpro_discord_dismissed_notification', '_ets_restrictcontentpro_discord_avatar', '_ets_restrictcontentpro_discord_refresh_token', '_ets_restrictcontentpro_discord_expires_in');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_ets_restrictcontentpro_discord_dm_channel', '_ets_restrictcontentpro_discord_access_token', '_ets_restrictcontentpro_discord_default_role_id', '_ets_restrictcontentpro_discord_user_id', '_ets_restrictcontentpro_discord_username', '_ets_restrictcontentpro_discord_join_date', '_ets_restrictcontentpro_discord_dismissed_notification', '_ets_restrictcontentpro_discord_avatar', '_ets_restrictcontentpro_discord_refresh_token', '_ets_restrictcontentpro_discord_expires_in');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_role_id_for_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_role_id_for_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_role_id_for_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_role_id_for_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_expitration_warning_dm_for_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_expitration_warning_dm_for_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_expitration_warning_dm_for_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_expitration_warning_dm_for_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_expired_dm_for_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_expired_dm_for_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_expired_dm_for_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_expired_dm_for_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_welcome_dm_for_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_welcome_dm_for_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_welcome_dm_for_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_welcome_dm_for_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_cancel_dm_for_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_cancel_dm_for_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_cancel_dm_for_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ets_restrictcontentpro_discord_cancel_dm_for_%';
+

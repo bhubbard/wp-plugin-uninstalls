@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_api_key",
+    "*_region",
+    "*_is_tutorial_dismissed",
+    "*_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "recipient_blockchain_address_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:42.483Z"
+}

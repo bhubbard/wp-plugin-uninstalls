@@ -1,0 +1,13 @@
+{
+  "options": [
+    "post2epub_campo_directorio",
+    "post2epub_campo_video",
+    "post2epub_publisher"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:43.460Z"
+}

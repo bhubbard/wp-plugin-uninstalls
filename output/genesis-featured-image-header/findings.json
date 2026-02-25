@@ -1,0 +1,26 @@
+{
+  "options": [
+    "gfih_on_product",
+    "gfih_product_hide_single_cpt_page",
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "gfih_on_pages",
+    "*_featured_image",
+    "gfih_action_location",
+    "*_hide_single_cpt_page",
+    "woocommerce_marketplace_suggestions"
+  ],
+  "transients": [
+    "amplify_plugins_woo_suggestions_update",
+    "amplify_plugins_random_suggestion",
+    "amplify_plugins_suggestions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:14.819Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "celtisdl_rewrite_slug",
+    "celtisdl_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_locale",
+    "_cs_download_data",
+    "_wp_attached_file",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:07.127Z"
+}

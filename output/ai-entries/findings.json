@@ -1,0 +1,22 @@
+{
+  "options": [
+    "AIEntries_question",
+    "AIEntries_news_api_key",
+    "AIEntries_num_calls",
+    "AIEntries_api_key_stable_diffusion",
+    "AIEntries_api_key",
+    "AIEntries_category"
+  ],
+  "transients": [
+    "last_six_hour_execution"
+  ],
+  "cron_jobs": [
+    "AIEntries_daily_cron_job"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ai_entries_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:01.412Z"
+}

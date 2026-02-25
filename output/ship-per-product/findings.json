@@ -1,0 +1,17 @@
+{
+  "options": [
+    "CEDSPPM*",
+    "ship_per_product_details",
+    "product_based_shipping_details"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "prod_per_ship_rate",
+    "enable_ced_product_based_shipping",
+    "enable_ship_pr_variable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:19.367Z"
+}

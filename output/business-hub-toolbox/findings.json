@@ -1,0 +1,29 @@
+{
+  "options": [
+    "rwsec_add_setting"
+  ],
+  "transients": [
+    "bht_instagram_feeds"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "date_timepicker_start",
+    "date_timepicker_end",
+    "address",
+    "name",
+    "phone",
+    "email",
+    "start_hour",
+    "end_hour",
+    "speaker_id",
+    "desc_title",
+    "speaker_title",
+    "event_logo",
+    "rwspt_details",
+    "rwspt_meta_fields",
+    "event_repeatable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:05.515Z"
+}

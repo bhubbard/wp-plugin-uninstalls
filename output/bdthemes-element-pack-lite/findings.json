@@ -1,0 +1,42 @@
+{
+  "options": [
+    "bdt_biggopti_dismissals",
+    "ep_custom_css",
+    "ep_custom_js",
+    "ep_custom_css_2",
+    "ep_custom_js_2",
+    "ep_excluded_pages",
+    "element-pack-minified-asset-manager-version",
+    "element_pack_active_modules",
+    "element_pack_elementor_extend",
+    "element_pack_third_party_widget",
+    "element_pack_api_settings",
+    "*_installed",
+    "element_pack_activation_source",
+    "bdtep_setup_wizard_completed",
+    "BDTEP_TPL_DB_VER",
+    "elementor_viewport_lg",
+    "elementor_viewport_md",
+    "elementpack_twitter_access_token_*"
+  ],
+  "transients": [
+    "dismissed_biggopti_*",
+    "ep-bitcoin"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type",
+    "rooten_template_type",
+    "_elementor_data",
+    "_elementor_page_settings",
+    "_elementor_edit_mode",
+    "_wp_page_template",
+    "bdthemes_tm_company_name",
+    "bdthemes_tm_platform",
+    "bdthemes_tm_review_link",
+    "bdthemes_tm_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:38.011Z"
+}

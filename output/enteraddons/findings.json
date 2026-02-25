@@ -1,0 +1,26 @@
+{
+  "options": [
+    "enteraddons_options",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "elementor_load_fa4_shim",
+    "enteraddons_plugin_lic_Key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_ea_exclude_page",
+    "_ea_hf_show_onfof",
+    "_ea_hf_status",
+    "_ea_hf_type",
+    "_ea_use_on_header"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:16.100Z"
+}

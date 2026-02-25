@@ -1,0 +1,23 @@
+{
+  "options": [
+    "weld_logFolder",
+    "weld_status",
+    "weld_remote_status_override",
+    "weld_process_list",
+    "weld_server_array",
+    "weld_enableLogging",
+    "weld_logDuration",
+    "weld_warningInterval",
+    "weld_hardening_wpadmin",
+    "weld_hardening_pluginexcludes",
+    "weld_statusServerArray",
+    "weld_statusTime",
+    "weld_warningIntervalSent"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:14.019Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_version",
+    "wb_video_VY_page_len",
+    "class_wb_video_pager",
+    "class_wb_video_pager_a",
+    "class_wb_video_container",
+    "class_wb_video_item",
+    "class_wb_video_image_link",
+    "class_wb_video_image_img",
+    "class_wb_video_title",
+    "class_wb_video_description",
+    "class_wb_video_count_in_line",
+    "wb_video_disable_play_button"
+  ],
+  "transients": [
+    "*_db_upgraded"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "video_source",
+    "video_url",
+    "sortorder*",
+    "video_type",
+    "video_thumb"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:27.108Z"
+}

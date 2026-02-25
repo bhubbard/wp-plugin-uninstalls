@@ -1,0 +1,21 @@
+{
+  "options": [
+    "dws_options_feed_box",
+    "dws_options_notes_user",
+    "dws_options_social_box",
+    "dws_options_general",
+    "dws_options_list_box",
+    "dws_options_log_debug",
+    "dws_options_log_error",
+    "dws_options_system_info",
+    "dws_options_widget_box",
+    "dws_notes_user_data",
+    "dashboard-widgets-suite-dismiss-notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:24.961Z"
+}

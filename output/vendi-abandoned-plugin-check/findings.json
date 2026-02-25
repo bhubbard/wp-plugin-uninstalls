@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "vendi_plugin_health_check"
+  ],
+  "cron_jobs": [
+    "vendi_plugin_health_check",
+    "vendi_plugin_health_check_batch",
+    "vendi_plugin_health_watcher"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:40.522Z"
+}

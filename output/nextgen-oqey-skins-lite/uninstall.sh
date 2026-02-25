@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'oqey_crop_images'
+wp option delete 'oqey_HideThumbs'
+wp option delete 'oqey_LoopOption'
+wp option delete 'oqey_width'
+wp option delete 'oqey_height'
+wp option delete 'oqey_limitmax'
+wp option delete 'oqey_max_width'
+wp option delete 'oqey_max_height'
+wp option delete 'oqey_BorderOption'
+wp option delete 'oqey_AutostartOption'
+wp option delete 'oqey_CaptionsOption'
+wp option delete 'oqey_options'
+wp option delete 'oqey_thumb_width'
+wp option delete 'oqey_thumb_height'
+wp option delete 'oqey_effects_trans_time'
+wp option delete 'oqey_pause_between_tran'
+wp option delete 'oqey_border_bgcolor'
+wp option delete 'oqey_bgcolor'
+wp option delete 'oqey_effect_transition_type'
+wp option delete 'oqey_BorderSize'
+wp option delete 'oqey_gall_title_no'
+wp option delete 'oqey_show_captions_under_photos'
+wp option delete 'oqey_noflash_options'
+wp option delete 'oqey_backlinks'
+wp option delete 'oqey_flash_gallery_true'
+

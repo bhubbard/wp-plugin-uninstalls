@@ -1,0 +1,52 @@
+{
+  "options": [
+    "*_time",
+    "*_general_font_family",
+    "*_general_font_family_fallback",
+    "*_create_on",
+    "*_numbering_counter",
+    "*_numbering_template",
+    "*_page_format_custom_width",
+    "*_page_format_custom_height",
+    "*_page_orientation",
+    "*_margin_left",
+    "*_margin_top",
+    "*_margin_right",
+    "*_thankyou_page_template",
+    "aiow_download_tcpdf_fonts_hook_timestamp",
+    "aiow_invoicing_fonts_version",
+    "aiow_invoicing_fonts_version_timestamp",
+    "aiow_call_for_price_make_all_empty",
+    "aiow_shipping_left_to_free_info_position_cart",
+    "aiow_shipping_left_to_free_info_priority_cart",
+    "aiow_shipping_left_to_free_info_position_mini_cart",
+    "aiow_shipping_left_to_free_info_priority_mini_cart",
+    "aiow_shipping_left_to_free_info_position_checkout",
+    "aiow_shipping_left_to_free_info_priority_checkout",
+    "aiow_shipping_by_order_amount_min_instance_*",
+    "aiow_shipping_by_order_amount_max_instance_*",
+    "aiow_order_minimum_amount_cart_notice_type",
+    "aiow_order_number_counter_previous_order_date",
+    "aiow_order_number_counter",
+    "aiow_order_bulk_regenerate_download_permissions_all_orders"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aiow_version_updated"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "shipping_country",
+    "shipping_state",
+    "_*",
+    "*_date",
+    "*_number_id",
+    "_customer_user",
+    "_aiow_order_number",
+    "_aiow_order_quantities_min",
+    "_payment_method_title",
+    "is_customer_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:59.449Z"
+}

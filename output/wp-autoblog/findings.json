@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wpab_do_import_job"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpab_source_type",
+    "wpab_source_url",
+    "wpab_source_is_active",
+    "wpab_source_auto_publish",
+    "wpab_source_links_noindex",
+    "wpab_source_feed_url",
+    "wpab_source_keywords",
+    "wpab_source_credit_message",
+    "wpab_source_post_type",
+    "wpab_source_author_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:33.103Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rn_ssp_public_key",
+    "rn_ssp_secret_key",
+    "rn_ssp_currency",
+    "rn_ssp_name",
+    "rn_ssp_price",
+    "rn_ssp_success_url",
+    "rn_ssp_cancel_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:04.889Z"
+}

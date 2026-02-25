@@ -1,0 +1,17 @@
+{
+  "options": [
+    "proffix_newsletter_settings_error",
+    "proffix_newsletter_default_url",
+    "proffix_newsletter_default_db",
+    "proffix_newsletter_default_list",
+    "proffix_newsletter_settings_success",
+    "proffix_newsletter_default_show_name",
+    "proffix_newsletter_default_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:47.685Z"
+}

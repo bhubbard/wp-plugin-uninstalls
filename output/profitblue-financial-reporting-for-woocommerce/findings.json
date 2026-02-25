@@ -1,0 +1,40 @@
+{
+  "options": [
+    "profitblue_cogs_tables_created",
+    "profitblue_cogs_period_created",
+    "profitblue_notifications-settings",
+    "profitblue-use-this-payment-period",
+    "profitblue-use-this-shipping-period",
+    "profitblue-use-this-shop-setting-period",
+    "profitblue_shipping_orders_buffer",
+    "profitblue_batch",
+    "profitblue_instalation_finish",
+    "profitblue_licence_response",
+    "profitblue_licence_status",
+    "profitblue_licence_key",
+    "profitblue_pnl_cache",
+    "profitblue_install_step",
+    "profitblue_daily_*",
+    "profitblue_weekly_*",
+    "profitblue_monthly_*",
+    "profitblue_yearly_*",
+    "woocommerce_price_num_decimals",
+    "*_orders_buffer",
+    "profitblue-notifications-settings",
+    "profitblue_payment_orders_buffer",
+    "woocommerce_email_footer_text",
+    "profitblue_free_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "profitblue_wizard_current_step",
+    "cogs_imported",
+    "thumbnail_id",
+    "profitblue_is_wizard_finish",
+    "_profitblue_import"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:08.497Z"
+}

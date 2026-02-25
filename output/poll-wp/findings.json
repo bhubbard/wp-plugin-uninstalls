@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tspoll_dismissed_notice",
+    "tspoll_remindme_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:43.715Z"
+}

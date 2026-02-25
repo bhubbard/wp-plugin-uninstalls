@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ipq_version"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:40.660Z"
+}

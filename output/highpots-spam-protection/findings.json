@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_transient_timeout_*"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hpsp_salt_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:31.822Z"
+}

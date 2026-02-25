@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wvrbbp_settings",
+    "active_sitewide_plugins",
+    "wvrbbp_add_cap_editor_once"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_best_reply_id",
+    "_bbp_best_topic_id",
+    "wvrbbp_mute",
+    "wvrbbp_notified",
+    "_bbp_reply_is_private",
+    "wvrbbp_hide_user_profile",
+    "bbp_svc_viewcounts",
+    "_wvrx_bbpe_viewcounts",
+    "_wvrbbp_viewcounts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:23.236Z"
+}

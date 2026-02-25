@@ -1,0 +1,23 @@
+{
+  "options": [
+    "aimgseo_options"
+  ],
+  "transients": [
+    "aimgseo_bulk_stop_*",
+    "aimgseo_bulk_log_*",
+    "aimgseo_bulk_running_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_attachment_image_copyright",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_keywordsynonyms",
+    "rank_math_focus_keyword",
+    "_aioseo_keywords",
+    "_seopress_analysis_target_kw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:31.866Z"
+}

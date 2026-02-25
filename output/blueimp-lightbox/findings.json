@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_auto_add",
+    "blueimp_lightbox_settings_media_types",
+    "*_media_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:16.039Z"
+}

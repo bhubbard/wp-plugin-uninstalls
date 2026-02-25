@@ -1,0 +1,27 @@
+{
+  "options": [
+    "cfelr_cf_health",
+    "cfelr_sample_link_created",
+    "cfelr_plugin_version",
+    "cfelr_edge_enabled",
+    "cfelr_reconcile_log",
+    "cfelr_settings",
+    "cfelr_cf_token_encrypted",
+    "cfelr_last_publish",
+    "cfelr_cf_route_id"
+  ],
+  "transients": [
+    "cfelr_form_errors",
+    "cfelr_form_data",
+    "cfelr_import_error",
+    "cfelr_import_results",
+    "cfelr_edge_publish_debounce"
+  ],
+  "cron_jobs": [
+    "cfelr_reconcile"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:57.733Z"
+}

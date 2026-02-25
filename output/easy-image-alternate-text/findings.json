@@ -1,0 +1,17 @@
+{
+  "options": [
+    "easy_image_alternate_text_api_key",
+    "easy_image_alternate_text_api_notice_dismissed",
+    "easy_image_alternate_text_endpoint",
+    "easy_image_alternate_text_confidence",
+    "easy_image_alternate_text_cron_interval"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:51.124Z"
+}

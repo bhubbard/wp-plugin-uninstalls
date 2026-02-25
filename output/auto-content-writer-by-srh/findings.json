@@ -1,0 +1,15 @@
+{
+  "options": [
+    "acwbsrh_api_key",
+    "acwbsrh_settings",
+    "acwbsrh_blog_history"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "acwbsrh_auto_generate_blog"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:09.157Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bmp_manage_general",
+    "bmp_manage_eligibility",
+    "bmp_manage_payout",
+    "bmp_manage_email",
+    "*_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_bmp_page",
+    "bmp_first_name",
+    "bmp_last_name",
+    "bmp_username",
+    "bmp_sponsor_id",
+    "bmp_phone",
+    "bmp_position",
+    "bmp_page_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:15.190Z"
+}

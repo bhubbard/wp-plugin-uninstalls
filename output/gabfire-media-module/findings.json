@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iframe",
+    "video-mp4",
+    "video-webm",
+    "video-ogv",
+    "video-poster",
+    "caption-url-1",
+    "caption-url-2",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:46.362Z"
+}

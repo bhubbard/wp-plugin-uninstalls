@@ -1,0 +1,19 @@
+{
+  "options": [
+    "eis_register_interfaces",
+    "*_eis_options",
+    "eis_interfaces_default",
+    "eis_interfaces_shortcode",
+    "eis_register_post_types",
+    "eis_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "an_item_data",
+    "*_eis_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:35.594Z"
+}

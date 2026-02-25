@@ -1,0 +1,13 @@
+{
+  "options": [
+    "tantan_wordpress_s3"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "amazonS3_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:01.114Z"
+}

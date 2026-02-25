@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_ssv_payment_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ssv_transaction_resp",
+    "_ssv_transaction_timestamp",
+    "_ssv_transaction_id",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:14.130Z"
+}

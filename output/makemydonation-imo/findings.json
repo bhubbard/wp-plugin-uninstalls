@@ -1,0 +1,24 @@
+{
+  "options": [
+    "mmdimo_api_url",
+    "mmdimo_username",
+    "mmdimo_api_key",
+    "mmdimo_fhid",
+    "mmdimo_post_type",
+    "mmdimo_default_state",
+    "mmdimo_case_check_default",
+    "mmdimo_update",
+    "mmdimo_install_uuid"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mmdimo_case",
+    "mmdimo_charity_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:24.277Z"
+}

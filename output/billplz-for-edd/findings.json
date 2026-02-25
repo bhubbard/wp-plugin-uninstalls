@@ -1,0 +1,15 @@
+{
+  "options": [
+    "billplz_edd_listener"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billplz_id",
+    "billplz_api_key",
+    "billplz_paid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:16.330Z"
+}

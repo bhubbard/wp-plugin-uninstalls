@@ -1,0 +1,39 @@
+{
+  "options": [
+    "zenc_academy_events",
+    "zenc_email_settings",
+    "zenc_learnpress_events",
+    "zenc_learndash_events",
+    "zenc_lifterlms_events",
+    "zenc_masterstudy_events",
+    "zenc_tutorlms_events",
+    "zencommunity_first_install_time",
+    "zenc_active_addons",
+    "zencommunity_version",
+    "zencommunity_db_version",
+    "zenc_is_pefixed",
+    "theme_switched_via_customizer"
+  ],
+  "transients": [
+    "*_is_updating_license",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "academy_course_curriculum",
+    "_llms_lesson_id",
+    "_llms_parent_course",
+    "first_name",
+    "last_name",
+    "zenc_theme_mode",
+    "zenc_user_role",
+    "zenc_user_role_disabled_caps"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:40.100Z"
+}

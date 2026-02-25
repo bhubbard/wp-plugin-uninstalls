@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ps_lite_param",
+    "pickli_params"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_global_unique_id",
+    "psl_zone",
+    "psl_allee",
+    "psl_emplacement",
+    "psl_etagere"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:20.673Z"
+}

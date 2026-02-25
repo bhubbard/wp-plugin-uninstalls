@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "automizely_feed_plugin_redirection",
+    "feed_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_customer_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:39.392Z"
+}

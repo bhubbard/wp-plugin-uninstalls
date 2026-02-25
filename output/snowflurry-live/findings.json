@@ -1,0 +1,18 @@
+{
+  "options": [
+    "snowflurry_snow_color",
+    "snowflurry_always_show_snow",
+    "snowflurry_weather_country_codes",
+    "snowflurry_weather_api_key"
+  ],
+  "transients": [
+    "snowflurry_enqueue_snowstorm_script"
+  ],
+  "cron_jobs": [
+    "snowflurry_snow_check_weather_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:21.336Z"
+}

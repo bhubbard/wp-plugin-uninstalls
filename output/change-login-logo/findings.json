@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_logo_url",
+    "wp_logo_height",
+    "wp_logo_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:16.914Z"
+}

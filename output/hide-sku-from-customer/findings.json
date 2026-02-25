@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sc_hide_sku_enabled",
+    "sc_hide_sku_hide_admins_front",
+    "sc_hide_sku_install_time",
+    "sc_hide_sku_review_dismissed",
+    "*_install_time",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:53.963Z"
+}

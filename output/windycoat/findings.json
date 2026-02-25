@@ -1,0 +1,24 @@
+{
+  "options": [
+    "carbon_custom_sidebars",
+    "wc_db_version",
+    "_wc_openweatherapikey",
+    "_wc_latitude",
+    "_wc_longitude",
+    "_wc_cache_hours",
+    "_wc_openweather_unit",
+    "_wc_time_zone",
+    "wc_weather_data",
+    "wc_weather_last_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wc_sync_weather"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:06.646Z"
+}

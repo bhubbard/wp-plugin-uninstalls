@@ -1,0 +1,14 @@
+{
+  "options": [
+    "desktop_breakopint",
+    "tablet_breakopint_start",
+    "tablet_breakopint_end",
+    "mobile_breakopint_end"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:55.646Z"
+}

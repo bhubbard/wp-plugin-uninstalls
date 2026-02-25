@@ -1,0 +1,14 @@
+{
+  "options": [
+    "change_admin_url_improve_website_security_itc",
+    "itc_plugin_deactivation_secret_improve_website_security_itc"
+  ],
+  "transients": [
+    "itc_improve_website_security*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:31.649Z"
+}

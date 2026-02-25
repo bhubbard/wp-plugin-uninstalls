@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lcp_enable_magic_copy_btn_specific_section",
+    "lcp_enable_copy_paste_btn",
+    "lcp_enable_magic_copy_btn",
+    "bdt_enable_duplicator",
+    "element_pack_other_settings",
+    "lcp_enable_magic_copy_btn_login_user"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:51.507Z"
+}

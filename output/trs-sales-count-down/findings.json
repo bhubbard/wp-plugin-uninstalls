@@ -1,0 +1,33 @@
+{
+  "options": [
+    "_trs_sales_count_down__count_down_position",
+    "_trs_sales_count_down__style_type",
+    "_trs_sales_count_down__display_on_listing_page",
+    "_trs_sales_count_down__display_after_expiring",
+    "_trs_sales_count_down__display_progress_bar",
+    "_trs_sales_count_down__progress_bar_text",
+    "_trs_sales_count_down__progress_bar_primary_color",
+    "_trs_sales_count_down__progress_bar_secondary_color",
+    "_trs_sales_count_down__progress_bar_percentage",
+    "_trs_sales_count_down__time_zone"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_trs_sales_count_down__progress_bar_primary_color",
+    "_trs_sales_count_down__progress_bar_secondary_color",
+    "_trs_sales_count_down__progress_bar_percentage",
+    "_trs_sales_count_down__override_global_settings",
+    "_trs_sales_count_down__style_type",
+    "_trs_sales_count_down__display_on_listing_page",
+    "_trs_sales_count_down__display_after_expiring",
+    "_trs_sales_count_down__count_down_position",
+    "_trs_sales_count_down__display_progress_bar",
+    "_trs_sales_count_down__progress_bar_text",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:35.514Z"
+}

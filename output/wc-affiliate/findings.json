@@ -1,0 +1,48 @@
+{
+  "options": [
+    "wc_affiliate_basic",
+    "wc-affiliate-docs-json",
+    "wc-affiliate_survey",
+    "codexpert-blog-json",
+    "wc-affiliate-year-end-deals-campaign-21-dec_dismissed",
+    "*_dismissed",
+    "wc_affiliate_email",
+    "wc_affiliate_payout",
+    "_site_transient_update_plugins"
+  ],
+  "transients": [
+    "cx-plugin-info-*",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wc_affiliate_daily",
+    "pluggable-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_affiliate_status",
+    "_wc_affiliate_time_applied",
+    "_wc_affiliate_website_url",
+    "_wc_affiliate_promotion_method",
+    "_wc_affiliate_referrer",
+    "_wc-affiliate-applied_payout",
+    "_wc_affiliate_payout_method",
+    "_wc_affiliate_paypal_email",
+    "_wc_affiliate_city",
+    "_wc_affiliate_state",
+    "_wc_affiliate_country",
+    "_wc_affiliate_avatar",
+    "_wc_affiliate_mannual_payment",
+    "commission_type",
+    "commission_amount",
+    "affiliate_commission",
+    "customer_discount",
+    "discount_type",
+    "discount_amount",
+    "subscription",
+    "last_order",
+    "_wc_affiliate_credited"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:07.379Z"
+}

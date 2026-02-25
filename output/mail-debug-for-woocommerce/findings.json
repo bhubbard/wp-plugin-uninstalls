@@ -1,0 +1,27 @@
+{
+  "options": [
+    "mdwc_all_emails_to",
+    "mdwc_show_in_wp_menu",
+    "mdwc_debug_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ical",
+    "alt_body",
+    "from",
+    "from_name",
+    "message",
+    "to",
+    "subject",
+    "headers",
+    "attachments",
+    "email_id",
+    "email_title",
+    "customer_email",
+    "email_object"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:46.463Z"
+}

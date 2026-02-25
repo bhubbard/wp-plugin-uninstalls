@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wp_zombaio"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_zombaio_redirect_disable",
+    "json_packet",
+    "user_id",
+    "amount",
+    "logmessage",
+    "wp_zombaio_delete",
+    "wp_zombaio_subscription_id",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:19.014Z"
+}

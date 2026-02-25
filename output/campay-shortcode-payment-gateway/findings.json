@@ -1,0 +1,33 @@
+{
+  "options": [
+    "campay_app_username",
+    "campay_app_password",
+    "campay_testmode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "button_amount",
+    "button_currency",
+    "button_ref",
+    "button_title",
+    "button_created_date",
+    "button_success_url",
+    "button_failure_url",
+    "room_numner",
+    "payment_type",
+    "payment_status",
+    "payment_completed_date",
+    "payment_details",
+    "transaction_ref",
+    "operator",
+    "payment_amount",
+    "payment_number",
+    "payment_currency",
+    "payment_created_date",
+    "payment_status_returned"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:47.646Z"
+}

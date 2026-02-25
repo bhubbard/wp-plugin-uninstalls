@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cmt_mntn_settings",
+    "_bbp_enable_user_mention",
+    "dismiss-cm-notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "cmt_mntn_email_notification_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:05.482Z"
+}

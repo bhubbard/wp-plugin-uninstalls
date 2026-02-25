@@ -1,0 +1,14 @@
+{
+  "options": [
+    "simple_page_sidebars_default_sidebar",
+    "simple_page_sidebars_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sidebar_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:08.294Z"
+}

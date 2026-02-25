@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "wt_pixel_bridge_api_key_cache_key"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:33.098Z"
+}

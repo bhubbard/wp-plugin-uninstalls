@@ -1,0 +1,27 @@
+{
+  "options": [
+    "gs_projects_active_time",
+    "gs_projects_review_dismiss",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_gs_skil",
+    "_gs_url",
+    "_gs_crev",
+    "_gs_crat",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:36.995Z"
+}

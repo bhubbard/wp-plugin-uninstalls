@@ -1,0 +1,15 @@
+{
+  "options": [
+    "r2k_captcha_service",
+    "r2k_captcha_error",
+    "r2k_captcha_last_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "r2k_rc_last_dis_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:30.025Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "xoo_cp_added_cart_key",
+    "xoo-cp-gl-atcem",
+    "xoo-cp-version",
+    "woocommerce_enable_ajax_add_to_cart",
+    "xoo_tracking_consent_*",
+    "*_theme_templates_data"
+  ],
+  "transients": [
+    "xoo_tracking_consent_last_sent_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:31.266Z"
+}

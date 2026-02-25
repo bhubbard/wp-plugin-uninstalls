@@ -1,0 +1,19 @@
+{
+  "options": [
+    "guest_author_name_settings",
+    "guest_author_name_settings "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "simply_guest_author_premium_nag_ignore4",
+    "sfly_guest_author_names",
+    "sfly_guest_link",
+    "sfly_guest_author_description",
+    "sfly_guest_author_email",
+    "sfly_guest_author"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:43.737Z"
+}

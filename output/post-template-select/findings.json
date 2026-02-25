@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ulm_single_template_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ulm_custom_get_post_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:26.534Z"
+}

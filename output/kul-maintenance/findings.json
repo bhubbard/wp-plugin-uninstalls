@@ -1,0 +1,13 @@
+{
+  "options": [
+    "kul_maintenance_options",
+    "kul_maintenance_slider_status",
+    "kul_maintenance_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:00.115Z"
+}

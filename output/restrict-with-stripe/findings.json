@@ -1,0 +1,19 @@
+{
+  "options": [
+    "rwstripe_show_excerpts",
+    "rwstripe_collect_password",
+    "rwstripe_stripe_account_id",
+    "rwstripe_stripe_access_token",
+    "rwstripe_stripe_publishable_key",
+    "rwstripe_stripe_environment",
+    "rwstripe_disconnected_accounts"
+  ],
+  "transients": [
+    "rwstripe-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:32.185Z"
+}

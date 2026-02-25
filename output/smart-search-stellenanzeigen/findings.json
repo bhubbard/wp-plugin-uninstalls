@@ -1,0 +1,15 @@
+{
+  "options": [
+    "stellenanzeigen_jobs_city",
+    "stellenanzeigen_jobs_regions",
+    "stellenanzeigen_jobs_regions_coordinates"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "getJobLocationDataEvery__1day"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:04.093Z"
+}

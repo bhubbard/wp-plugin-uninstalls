@@ -1,0 +1,13 @@
+{
+  "options": [
+    "psc_slider_settings",
+    "psc_pgrid_settings",
+    "psc_messages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:41.861Z"
+}

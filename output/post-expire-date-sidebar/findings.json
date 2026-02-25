@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "peds_expire_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sidebar_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:41.092Z"
+}

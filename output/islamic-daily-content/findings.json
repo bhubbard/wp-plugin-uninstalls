@@ -1,0 +1,26 @@
+{
+  "options": [
+    "isladaco_*",
+    "isladaco_quran_enabled",
+    "isladaco_hadith_enabled",
+    "isladaco_post_time",
+    "isladaco_post_status",
+    "isladaco_quran_category",
+    "isladaco_hadith_category"
+  ],
+  "transients": [
+    "isladaco_activation_notice"
+  ],
+  "cron_jobs": [
+    "isladaco_daily_quran_post",
+    "isladaco_daily_hadith_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_isladaco_content_type",
+    "_isladaco_surah",
+    "_isladaco_ayah"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:23.496Z"
+}

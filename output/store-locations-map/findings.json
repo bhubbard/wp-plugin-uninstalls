@@ -1,0 +1,32 @@
+{
+  "options": [
+    "nahiroimap_country_option",
+    "nahiroimap_shortcode_show_welcome",
+    "nahiroimap_shortcode_setup_complete"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_map_id",
+    "_*",
+    "_circle_coordinates",
+    "_map_width_cont",
+    "_map_size_relation",
+    "_map_color",
+    "_map_color_mouse_over",
+    "_stroke_color",
+    "_stroke_width",
+    "_bound_velocity",
+    "_pines_text_color",
+    "_pines_display_shape",
+    "_pines_shape_color",
+    "_pin_width",
+    "_pic_hide",
+    "_map_width_cont_unit",
+    "_pic_position",
+    "_map_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:42.237Z"
+}

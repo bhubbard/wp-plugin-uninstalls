@@ -1,0 +1,21 @@
+{
+  "options": [
+    "zsq_crm_api_key",
+    "zsq_crm_order_prefix",
+    "zsq_crm_hook_trigger",
+    "zsq_crm_shipping_item",
+    "zsq_crm_slack_channel",
+    "zsq_crm_slack_url",
+    "zsq_crm_daily_sync_price",
+    "zsq_crm_daily_sync_qty",
+    "zsq_crm_ex_to_woo_tax_map_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zsq_crm_daily_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:37.877Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [
+    "gsc_plugin_*",
+    "gsc_plugin_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:24.306Z"
+}

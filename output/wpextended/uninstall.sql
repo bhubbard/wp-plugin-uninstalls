@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp-extended-modules', 'wpextended__notices', 'wpextended_activation_time', 'wpextended_version', 'wpext_license_key', 'wpext_lisence-status', 'wpext_lisence_success', 'wpext_lisence-success', 'wpext_plugin_reset_action', 'wpext_show_plugin_menu_action', 'wpext_admin_menu_favorite', 'wpext_admin_column_fields_users', 'wpext_admin_column_fields_comments', 'wpext_admin_column_fields_media', 'wpext-admin-column', 'wpext_admin_color', 'wpext-block-username-tag', 'wpext-disable_gutenberg_editor', 'wpext-disable-dashboard-widget', 'wpext_clean_admin_dashboard', 'wpext-user-sections-toggle', 'wpext-user-sections', 'wpext-snippets', 'wpext-change-wp-admin-default-url', 'wpext-external-permalink-url', 'wpext-hide_admin_bar', 'wpext-notices-config', 'wpext-user-login-attempt-config', 'login_attempts', 'lockout_time', 'wpext-maintanance_mode', 'wpextended_menu-editor', 'wpext-user-tidy-nav', 'wpext-user-tidy-nav-store-user-id', 'wpext-user-tidy-nav-store-user-role', 'wpext_seprate_superadmin', 'wpext-hide-menu-main', 'wpext-pixel-tag', 'wpext-post-type-order', 'quick-replace-feature-image', 'wpext_smtp_from_name', 'wpext_smtp_from_email', 'wpext_smtp_host', 'wpext_smtp_port', 'wpext_smtp_username', 'wpext_smtp_password', 'wpext_disable_email_Log', 'smtp_post_number', 'snippets_deleted');
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+DELETE FROM wp_options WHERE option_name LIKE 'wpext_admin_column_fields_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('snippet_code_type', 'snippet_position', 'snippet_active', 'snippet_code_sesc', 'snippet_scope', 'snippet_executed', '_elementor_css', '_elementor_page_assets', '_links_to', '_wpext_menu_item_visible');
+DELETE FROM wp_usermeta WHERE meta_key IN ('snippet_code_type', 'snippet_position', 'snippet_active', 'snippet_code_sesc', 'snippet_scope', 'snippet_executed', '_elementor_css', '_elementor_page_assets', '_links_to', '_wpext_menu_item_visible');
+DELETE FROM wp_termmeta WHERE meta_key IN ('snippet_code_type', 'snippet_position', 'snippet_active', 'snippet_code_sesc', 'snippet_scope', 'snippet_executed', '_elementor_css', '_elementor_page_assets', '_links_to', '_wpext_menu_item_visible');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('snippet_code_type', 'snippet_position', 'snippet_active', 'snippet_code_sesc', 'snippet_scope', 'snippet_executed', '_elementor_css', '_elementor_page_assets', '_links_to', '_wpext_menu_item_visible');
+

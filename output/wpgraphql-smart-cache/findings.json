@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpgraphql_smart_cache_query_garbage_collect",
+    "*_tracker_send_event",
+    "wpgraphql_smart_cache_query_garbage_collect_deletes"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:15.522Z"
+}

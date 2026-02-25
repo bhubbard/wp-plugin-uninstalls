@@ -1,0 +1,22 @@
+{
+  "options": [
+    "template_*",
+    "adz_ad_options",
+    "adz_publisher_options",
+    "next_adz_pool",
+    "adz_session_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "adz_rotation_shortcode",
+    "network_ad_id",
+    "affiliation_network_name",
+    "affiliation_network_url",
+    "affiliation_id",
+    "network_ad_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:06.386Z"
+}

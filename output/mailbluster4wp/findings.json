@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mb4wp_api_options"
+  ],
+  "transients": [
+    "mb4wp_api_connected",
+    "mb4wp_api_disconnected",
+    "mb4wp_plugin_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mb4wp_form_description",
+    "mb4wp_form_builder_options",
+    "mb4wp_form_builder_default_label",
+    "mb4wp_form_message_options",
+    "mb4wp_form_appearance_options",
+    "mb4wp_form_settings_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:29.827Z"
+}

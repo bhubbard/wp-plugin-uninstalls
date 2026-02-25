@@ -1,0 +1,17 @@
+{
+  "options": [
+    "yahoo_status-my-yahoo-id",
+    "yahoo_status-tmp-yahoo-id",
+    "yahoo_status-tmp-yahoo-pass",
+    "yahoo_status-friend-cache",
+    "yahoo-status-bot-changed",
+    "yahoo_status-show-status",
+    "yahoo_status-title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:50.071Z"
+}

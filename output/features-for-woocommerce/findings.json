@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_registration_generate_username",
+    "ffw_exclude_product_from_coupon_code_products"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ffw_coupon_excluded",
+    "_ffw_hide_coupon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:02.431Z"
+}

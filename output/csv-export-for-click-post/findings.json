@@ -1,0 +1,13 @@
+{
+  "options": [
+    "usces_ex"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_itemIndividualSCharge"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:05.910Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_tax_round_at_subtotal",
+    "wintouch_userid",
+    "wintouch_enterpriseid",
+    "wintouch_shopurl",
+    "wintouch_apikey",
+    "wintouch_usertoken",
+    "wintouch_lastsync",
+    "wintouch_setting_orderstate",
+    "wintouch_setting_syncstock",
+    "woocommerce_store_address"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wintouchStockSync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:23.791Z"
+}

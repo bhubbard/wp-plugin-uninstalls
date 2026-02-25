@@ -1,0 +1,22 @@
+{
+  "options": [
+    "qurio_api_key",
+    "qurio_api_status",
+    "qurio_appearance_overlay_color",
+    "qurio_appearance_overlay_opacity",
+    "qurio_appearance_popup_delay",
+    "qurio_appearance_inline_position",
+    "qurio_overview_campaign_data"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qurio_campaign_id",
+    "qurio_connect_campaign_style"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:53.689Z"
+}

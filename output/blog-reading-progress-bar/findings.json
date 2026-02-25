@@ -1,0 +1,14 @@
+{
+  "options": [
+    "brp_reading_progress_bar_options",
+    "admin_bar_menu"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "brp_reading_progress_bar_display"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:38.325Z"
+}

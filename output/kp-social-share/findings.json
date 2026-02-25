@@ -1,0 +1,12 @@
+{
+  "options": [
+    "kp_social_share_options",
+    "kp_social_share_tools"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:27.795Z"
+}

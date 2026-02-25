@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pd_alm_custom_css",
+    "pd_alm_custom_js",
+    "pdalm_installed_time",
+    "pd_alm_deactivation_reason_*",
+    "pd_alm_deactivation_details_*",
+    "pd_alm_deactivation_email_*",
+    "pd_alm_deactivation_main_reason_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:54.044Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "my_hmg_dir1",
+    "my_hmg_dir2",
+    "my_hmg_dir3",
+    "my_hmg_dir4",
+    "my_hmg_dir5"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:54.623Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "latest-update_*",
+    "latest-update_conditionals",
+    "latest-update_before_text",
+    "latest-update_after_text",
+    "latest-update_date_format",
+    "latest-update_before_style",
+    "latest-update_after_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:11.869Z"
+}

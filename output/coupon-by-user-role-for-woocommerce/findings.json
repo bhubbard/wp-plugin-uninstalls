@@ -1,0 +1,25 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "alg_wc_coupon_by_user_role_amount_section_enabled",
+    "alg_wc_coupon_by_user_role_amount_per_coupon",
+    "wpjup_wc_coupon_by_user_role_plugin_enabled",
+    "wpjup_wc_coupon_by_user_role_invalid_per_coupon",
+    "wpjup_wc_coupon_by_user_role_disabled",
+    "alg_wc_coupon_by_user_role_disabled_exceptions",
+    "wpjup_wc_coupon_by_user_role_invalid",
+    "alg_wc_coupon_by_user_role_invalid_exceptions",
+    "wpjup_wc_coupon_by_user_role_invalid_message",
+    "wpjup_wc_coupon_by_user_role_version",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_alg_wc_coupon_by_user_role_amount",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:28.572Z"
+}

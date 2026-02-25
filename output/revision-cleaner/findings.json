@@ -1,0 +1,14 @@
+{
+  "options": [
+    "Revis_Setting",
+    "Revis_Cleaned"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Revis_Setting"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:39.904Z"
+}

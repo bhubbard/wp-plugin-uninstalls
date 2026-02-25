@@ -1,0 +1,12 @@
+{
+  "options": [
+    "we_we_google_analytics_pro_general_settings_name",
+    "we_we_google_analytics_pro_gacode_settings_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:09.032Z"
+}

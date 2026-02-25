@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_zpay_settings"
+  ],
+  "transients": [
+    "ced-zaakpay-activation-notice"
+  ],
+  "cron_jobs": [
+    "ced_zaakpay_refund_updates",
+    "ced_zaakpay_transaction_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:02.182Z"
+}

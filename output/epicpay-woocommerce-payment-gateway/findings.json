@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_epicpay_transaction_type",
+    "_epicpay_authorize_status",
+    "first_name",
+    "last_name",
+    "billing_postcode",
+    "_epicpay_customer_id",
+    "_client_customer_id",
+    "_capture_transaction_id",
+    "_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:34.724Z"
+}

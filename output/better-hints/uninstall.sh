@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'betterhints_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hint_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hint_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hint_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hint_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hint_post_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hint_post_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hint_post_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hint_post_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hint_condition1'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hint_condition1'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hint_condition1'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hint_condition1'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hint_condition1_value'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hint_condition1_value'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hint_condition1_value'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hint_condition1_value'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hint_condition1_operator'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hint_condition1_operator'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hint_condition1_operator'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hint_condition1_operator'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hint_condition1_agent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hint_condition1_agent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hint_condition1_agent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hint_condition1_agent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hint_condition1_user_role'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hint_condition1_user_role'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hint_condition1_user_role'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hint_condition1_user_role'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'post_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'post_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'post_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'post_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hint_clicks'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hint_clicks'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hint_clicks'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hint_clicks'"

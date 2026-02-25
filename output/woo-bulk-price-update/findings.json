@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "free_plugin_activated_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_sale_price",
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:44.620Z"
+}

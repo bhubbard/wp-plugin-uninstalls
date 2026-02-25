@@ -1,0 +1,46 @@
+{
+  "options": [
+    "goft-wpjm-activated",
+    "goft-wpjm-error",
+    "goft-wpjm-samples-installed",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "job_manager_submission_duration"
+  ],
+  "transients": [
+    "_goft-rss-feed-chunks",
+    "_wp_sh_plugin_browser-list-info",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "gofetch_wpjm_importer",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_goft_wpjm_is_external",
+    "bc_screen_options",
+    "_goft_source_data",
+    "_goft_wpjm_import_params",
+    "_goft_wpjm_other",
+    "_goft_jobfeed",
+    "_goft_external_link",
+    "_goft_wpjm_original_item",
+    "dismissed_wp_pointers",
+    "_log_messages",
+    "_error_data_*",
+    "_job_apply_type",
+    "_company_name",
+    "_company_id",
+    "_company_manager_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:45.392Z"
+}

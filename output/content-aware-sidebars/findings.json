@@ -1,0 +1,39 @@
+{
+  "options": [
+    "_ca_condition_type_cache",
+    "woocommerce_shop_page_id",
+    "widget_*",
+    "cas_db_version",
+    "cas_pro",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "qtranslate_enabled_languages"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "wpca/cache_condition_types"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ca_taxonomy",
+    "_ca_autoselect",
+    "_cas_*",
+    "*host",
+    "_edit_last",
+    "*deactivate_time",
+    "_ca_handle",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:01.928Z"
+}

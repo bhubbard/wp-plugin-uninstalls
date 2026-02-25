@@ -1,0 +1,25 @@
+{
+  "options": [
+    "mailplus_shipmate_api_url",
+    "mailplus_shipmate_api_key",
+    "mailplus_shipmate_api_token",
+    "mailplus_shipmate_shop_token",
+    "mailplus_shipmate_integration_complete",
+    "mailplus_shipmate_woo_activation_token",
+    "mailplus_shipmate_front_url",
+    "shipmate_woo_activation_token",
+    "shipmate_shop_token",
+    "shipmate_api_url",
+    "mailplus_shipmate_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mailplus_remote_id",
+    "_mailplus_tracking_number",
+    "_mailplus_carrier"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:22.953Z"
+}

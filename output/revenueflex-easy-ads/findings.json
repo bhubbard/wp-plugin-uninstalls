@@ -1,0 +1,16 @@
+{
+  "options": [
+    "revenueflex_settings*",
+    "revenueflex_settings_startPage",
+    "revenueflex_settings_*",
+    "revenueflex_api"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rf_cron_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:41.966Z"
+}

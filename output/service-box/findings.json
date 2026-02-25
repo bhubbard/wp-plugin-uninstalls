@@ -1,0 +1,16 @@
+{
+  "options": [
+    "servicebox_default_Settings",
+    "wpsm_service_b_review"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsm_servicebox_data",
+    "wpsm_servicebox_count",
+    "Wpsm_Servicebox_Shortcode_Settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:53.424Z"
+}

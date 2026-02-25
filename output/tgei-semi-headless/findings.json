@@ -1,0 +1,18 @@
+{
+  "options": [
+    "tgei-semi-headless-field_status",
+    "tgei-semi-headless-field_redir_url",
+    "tgei-semi-headless-field_redir_url_404",
+    "tgei-semi-headless-field_allow_search",
+    "tgei-semi-headles-field_allow_homepage",
+    "tgei-semi-headless-field_allow_homepage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgei-semi-headless-allow"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:23.174Z"
+}

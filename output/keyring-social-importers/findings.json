@@ -1,0 +1,53 @@
+{
+  "options": [
+    "*_importer",
+    "keyring_batch_processing_reprocessor",
+    "keyring_batch_processing_results",
+    "keyring_batch_processing_offset"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_import_auto"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "delicious_id",
+    "href",
+    "raw_import_data",
+    "flickr_id",
+    "flickr_url",
+    "geo_latitude",
+    "geo_longitude",
+    "geo_public",
+    "foursquare_id",
+    "people-foursquare",
+    "instagram_id",
+    "instagram_url",
+    "instagram_filter",
+    "instagram_video",
+    "people-instagram",
+    "instapaper_id",
+    "remote_content",
+    "jetpack_id",
+    "moves_summary",
+    "pinterest_id",
+    "pinterest_url",
+    "pocket_id",
+    "strava_id",
+    "strava_permalink",
+    "strava_type",
+    "geo_polyline_encoded",
+    "tripit_id",
+    "geo_polyline",
+    "twitter_id",
+    "twitter_permalink",
+    "twitter_in_reply_to_user_id",
+    "twitter_in_reply_to_screen_name",
+    "twitter_in_reply_to_status_id",
+    "people-twitter",
+    "youtube_id",
+    "youtube_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:46.577Z"
+}

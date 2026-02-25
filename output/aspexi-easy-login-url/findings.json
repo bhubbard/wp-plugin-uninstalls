@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aelurl_login_input",
+    "aelurl_login",
+    "aelurl_register_input",
+    "aelurl_register",
+    "aelurl_forgot_input",
+    "aelurl_forgot",
+    "aelurl_htaccess_original"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:36.608Z"
+}

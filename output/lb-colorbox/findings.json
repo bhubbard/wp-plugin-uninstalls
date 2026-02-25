@@ -1,0 +1,24 @@
+{
+  "options": [
+    "lbcb_options"
+  ],
+  "transients": [
+    "*_kulers"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lbcb_type",
+    "_lbcb_author",
+    "_lbcb_link",
+    "_lbcb_color1",
+    "_lbcb_color2",
+    "_lbcb_color3",
+    "_lbcb_color4",
+    "_lbcb_color5",
+    "_wp_page_template",
+    "*_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:15.942Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cs__featured_image_id",
+    "cs__featured_image_priority"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:03.581Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "live-admin-defaults"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "live-admin",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:37.097Z"
+}

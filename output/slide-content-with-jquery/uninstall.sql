@@ -1,0 +1,75 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('jscfrt-disable-tinymce-button');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('jscfrt_disable_visual_editor', 'jscfrt_num_slides', 'jscfrt_slide_duration', 'jscfrt_slide_transition', 'jscfrt_slide_by', 'jscfrt_loop_slider', 'jscfrt_stop_hover', 'jscfrt_nav_arrows', 'jscfrt_pagination', 'jscfrt_shortcodes', 'jscfrt_random_order', 'jscfrt_reverse_order', 'jscfrt_mouse_drag', 'jscfrt_touch_drag', 'jscfrt_mousewheel', 'jscfrt_click_advance', 'jscfrt_auto_height', 'jscfrt_vert_center', 'jscfrt_items_width1', 'jscfrt_items_width2', 'jscfrt_items_width3', 'jscfrt_items_width4', 'jscfrt_items_width5', 'jscfrt_items_width6', 'jscfrt_transition', 'jscfrt_hero_slider', 'jscfrt_showcase_slider', 'jscfrt_showcase_width', 'jscfrt_showcase_tablet', 'jscfrt_showcase_width_tab', 'jscfrt_showcase_mobile', 'jscfrt_showcase_width_mob', 'jscfrt_css_id', 'jscfrt_background_color', 'jscfrt_border_width', 'jscfrt_border_color', 'jscfrt_border_radius', 'jscfrt_wrapper_padd_top', 'jscfrt_wrapper_padd_right', 'jscfrt_wrapper_padd_bottom', 'jscfrt_wrapper_padd_left', 'jscfrt_slide_min_height_perc', 'jscfrt_slide_padding_tb', 'jscfrt_slide_padding_lr', 'jscfrt_slide_margin_lr', 'jscfrt_autohide_arrows', 'jscfrt_dot_per_slide', 'jscfrt_slide_icons_location', 'jscfrt_slide_icons_visible', 'jscfrt_slide_icons_color');
+DELETE FROM wp_usermeta WHERE meta_key IN ('jscfrt_disable_visual_editor', 'jscfrt_num_slides', 'jscfrt_slide_duration', 'jscfrt_slide_transition', 'jscfrt_slide_by', 'jscfrt_loop_slider', 'jscfrt_stop_hover', 'jscfrt_nav_arrows', 'jscfrt_pagination', 'jscfrt_shortcodes', 'jscfrt_random_order', 'jscfrt_reverse_order', 'jscfrt_mouse_drag', 'jscfrt_touch_drag', 'jscfrt_mousewheel', 'jscfrt_click_advance', 'jscfrt_auto_height', 'jscfrt_vert_center', 'jscfrt_items_width1', 'jscfrt_items_width2', 'jscfrt_items_width3', 'jscfrt_items_width4', 'jscfrt_items_width5', 'jscfrt_items_width6', 'jscfrt_transition', 'jscfrt_hero_slider', 'jscfrt_showcase_slider', 'jscfrt_showcase_width', 'jscfrt_showcase_tablet', 'jscfrt_showcase_width_tab', 'jscfrt_showcase_mobile', 'jscfrt_showcase_width_mob', 'jscfrt_css_id', 'jscfrt_background_color', 'jscfrt_border_width', 'jscfrt_border_color', 'jscfrt_border_radius', 'jscfrt_wrapper_padd_top', 'jscfrt_wrapper_padd_right', 'jscfrt_wrapper_padd_bottom', 'jscfrt_wrapper_padd_left', 'jscfrt_slide_min_height_perc', 'jscfrt_slide_padding_tb', 'jscfrt_slide_padding_lr', 'jscfrt_slide_margin_lr', 'jscfrt_autohide_arrows', 'jscfrt_dot_per_slide', 'jscfrt_slide_icons_location', 'jscfrt_slide_icons_visible', 'jscfrt_slide_icons_color');
+DELETE FROM wp_termmeta WHERE meta_key IN ('jscfrt_disable_visual_editor', 'jscfrt_num_slides', 'jscfrt_slide_duration', 'jscfrt_slide_transition', 'jscfrt_slide_by', 'jscfrt_loop_slider', 'jscfrt_stop_hover', 'jscfrt_nav_arrows', 'jscfrt_pagination', 'jscfrt_shortcodes', 'jscfrt_random_order', 'jscfrt_reverse_order', 'jscfrt_mouse_drag', 'jscfrt_touch_drag', 'jscfrt_mousewheel', 'jscfrt_click_advance', 'jscfrt_auto_height', 'jscfrt_vert_center', 'jscfrt_items_width1', 'jscfrt_items_width2', 'jscfrt_items_width3', 'jscfrt_items_width4', 'jscfrt_items_width5', 'jscfrt_items_width6', 'jscfrt_transition', 'jscfrt_hero_slider', 'jscfrt_showcase_slider', 'jscfrt_showcase_width', 'jscfrt_showcase_tablet', 'jscfrt_showcase_width_tab', 'jscfrt_showcase_mobile', 'jscfrt_showcase_width_mob', 'jscfrt_css_id', 'jscfrt_background_color', 'jscfrt_border_width', 'jscfrt_border_color', 'jscfrt_border_radius', 'jscfrt_wrapper_padd_top', 'jscfrt_wrapper_padd_right', 'jscfrt_wrapper_padd_bottom', 'jscfrt_wrapper_padd_left', 'jscfrt_slide_min_height_perc', 'jscfrt_slide_padding_tb', 'jscfrt_slide_padding_lr', 'jscfrt_slide_margin_lr', 'jscfrt_autohide_arrows', 'jscfrt_dot_per_slide', 'jscfrt_slide_icons_location', 'jscfrt_slide_icons_visible', 'jscfrt_slide_icons_color');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('jscfrt_disable_visual_editor', 'jscfrt_num_slides', 'jscfrt_slide_duration', 'jscfrt_slide_transition', 'jscfrt_slide_by', 'jscfrt_loop_slider', 'jscfrt_stop_hover', 'jscfrt_nav_arrows', 'jscfrt_pagination', 'jscfrt_shortcodes', 'jscfrt_random_order', 'jscfrt_reverse_order', 'jscfrt_mouse_drag', 'jscfrt_touch_drag', 'jscfrt_mousewheel', 'jscfrt_click_advance', 'jscfrt_auto_height', 'jscfrt_vert_center', 'jscfrt_items_width1', 'jscfrt_items_width2', 'jscfrt_items_width3', 'jscfrt_items_width4', 'jscfrt_items_width5', 'jscfrt_items_width6', 'jscfrt_transition', 'jscfrt_hero_slider', 'jscfrt_showcase_slider', 'jscfrt_showcase_width', 'jscfrt_showcase_tablet', 'jscfrt_showcase_width_tab', 'jscfrt_showcase_mobile', 'jscfrt_showcase_width_mob', 'jscfrt_css_id', 'jscfrt_background_color', 'jscfrt_border_width', 'jscfrt_border_color', 'jscfrt_border_radius', 'jscfrt_wrapper_padd_top', 'jscfrt_wrapper_padd_right', 'jscfrt_wrapper_padd_bottom', 'jscfrt_wrapper_padd_left', 'jscfrt_slide_min_height_perc', 'jscfrt_slide_padding_tb', 'jscfrt_slide_padding_lr', 'jscfrt_slide_margin_lr', 'jscfrt_autohide_arrows', 'jscfrt_dot_per_slide', 'jscfrt_slide_icons_location', 'jscfrt_slide_icons_visible', 'jscfrt_slide_icons_color');
+DELETE FROM wp_postmeta WHERE meta_key IN ('jscfrt_thumbs_active', 'jscfrt_thumbs_location', 'jscfrt_thumbs_image_size', 'jscfrt_thumbs_padding', 'jscfrt_thumbs_width', 'jscfrt_thumbs_height', 'jscfrt_thumbs_opacity', 'jscfrt_thumbs_border_width', 'jscfrt_thumbs_border_color', 'jscfrt_thumbs_resp_tablet', 'jscfrt_thumbs_resp_mobile', 'jscfrt_info_added', 'jscfrt_info_deleted', 'jscfrt_info_duplicated', 'jscfrt_info_moved', 'jscfrt_other_settings', 'jscfrt_slide_icons_fullslide', 'jscfrt_window_onload', 'jscfrt_strip_javascript', 'jscfrt_lazy_load_images', 'jscfrt_ulli_containers', 'jscfrt_start_pos', 'jscfrt_duplicate_slide', 'jscfrt_move_slide_up');
+DELETE FROM wp_usermeta WHERE meta_key IN ('jscfrt_thumbs_active', 'jscfrt_thumbs_location', 'jscfrt_thumbs_image_size', 'jscfrt_thumbs_padding', 'jscfrt_thumbs_width', 'jscfrt_thumbs_height', 'jscfrt_thumbs_opacity', 'jscfrt_thumbs_border_width', 'jscfrt_thumbs_border_color', 'jscfrt_thumbs_resp_tablet', 'jscfrt_thumbs_resp_mobile', 'jscfrt_info_added', 'jscfrt_info_deleted', 'jscfrt_info_duplicated', 'jscfrt_info_moved', 'jscfrt_other_settings', 'jscfrt_slide_icons_fullslide', 'jscfrt_window_onload', 'jscfrt_strip_javascript', 'jscfrt_lazy_load_images', 'jscfrt_ulli_containers', 'jscfrt_start_pos', 'jscfrt_duplicate_slide', 'jscfrt_move_slide_up');
+DELETE FROM wp_termmeta WHERE meta_key IN ('jscfrt_thumbs_active', 'jscfrt_thumbs_location', 'jscfrt_thumbs_image_size', 'jscfrt_thumbs_padding', 'jscfrt_thumbs_width', 'jscfrt_thumbs_height', 'jscfrt_thumbs_opacity', 'jscfrt_thumbs_border_width', 'jscfrt_thumbs_border_color', 'jscfrt_thumbs_resp_tablet', 'jscfrt_thumbs_resp_mobile', 'jscfrt_info_added', 'jscfrt_info_deleted', 'jscfrt_info_duplicated', 'jscfrt_info_moved', 'jscfrt_other_settings', 'jscfrt_slide_icons_fullslide', 'jscfrt_window_onload', 'jscfrt_strip_javascript', 'jscfrt_lazy_load_images', 'jscfrt_ulli_containers', 'jscfrt_start_pos', 'jscfrt_duplicate_slide', 'jscfrt_move_slide_up');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('jscfrt_thumbs_active', 'jscfrt_thumbs_location', 'jscfrt_thumbs_image_size', 'jscfrt_thumbs_padding', 'jscfrt_thumbs_width', 'jscfrt_thumbs_height', 'jscfrt_thumbs_opacity', 'jscfrt_thumbs_border_width', 'jscfrt_thumbs_border_color', 'jscfrt_thumbs_resp_tablet', 'jscfrt_thumbs_resp_mobile', 'jscfrt_info_added', 'jscfrt_info_deleted', 'jscfrt_info_duplicated', 'jscfrt_info_moved', 'jscfrt_other_settings', 'jscfrt_slide_icons_fullslide', 'jscfrt_window_onload', 'jscfrt_strip_javascript', 'jscfrt_lazy_load_images', 'jscfrt_ulli_containers', 'jscfrt_start_pos', 'jscfrt_duplicate_slide', 'jscfrt_move_slide_up');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_content';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_content';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_content';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_content';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_image_data';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_image_data';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_image_data';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_image_data';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_link_url';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_link_url';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_link_url';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_link_url';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_link_target';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_link_target';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_link_target';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_link_target';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_type';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_type';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_type';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_type';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_imageid';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_imageid';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_imageid';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_imageid';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_imagetitle';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_imagetitle';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_imagetitle';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_imagetitle';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_video_id';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_video_id';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_video_id';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_video_id';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_video_type';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_video_type';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_video_type';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_video_type';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_background';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_background';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_background';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_background';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_html';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_html';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_html';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_html';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_shortcode';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_shortcode';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_shortcode';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_shortcode';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_bgcol';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_bgcol';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_bgcol';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_bgcol';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_popup_width';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_popup_width';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_popup_width';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_popup_width';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_char_count';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_char_count';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_char_count';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_char_count';
+

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "eazly_placeholder_image_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eazly_dummy_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:36.643Z"
+}

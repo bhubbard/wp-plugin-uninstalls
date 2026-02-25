@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "update_core"
+  ],
+  "cron_jobs": [
+    "wpu_my_daily_event",
+    "my_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:58.215Z"
+}

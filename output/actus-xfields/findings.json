@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ACTUS_XF_VERSION",
+    "AXF_fieldnames",
+    "AXF_globals",
+    "AXF_fieldsets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "actus_xfields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:55.323Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "attachments_migrated",
+    "attachments_ignore_migration",
+    "attachments_settings",
+    "attachments_pro_migrated",
+    "attachments_pro_ignore_migration",
+    "_iti_apro_settings",
+    "attachments_pro_functions",
+    "attachments_pro_template",
+    "attachments_pro_functions ",
+    "attachments_pro_template ",
+    "*settings",
+    "attachments_store_native",
+    "attachments_cpt_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "_attachments",
+    "attachments",
+    "_attachments_pro",
+    "_wp_attachment_image_alt",
+    "rich_editing"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:55.824Z"
+}

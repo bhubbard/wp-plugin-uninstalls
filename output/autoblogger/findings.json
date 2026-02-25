@@ -1,0 +1,24 @@
+{
+  "options": [
+    "autoblogger_token_status",
+    "autoblogger_last_token_check",
+    "autoblogger_last_sync",
+    "autoblogger_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "autoblogger_fetch_posts_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_aioseop_description",
+    "rank_math_description",
+    "_seopress_analysis_description",
+    "_genesis_title_description",
+    "_metaseo_meta_desc",
+    "meta_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:20.698Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cf7-smtp-options",
+    "cf7-smtp-report"
+  ],
+  "transients": [
+    "cf7_smtp_testing",
+    "cf7_smtp_testing_error",
+    "cf7_smtp_testing_log"
+  ],
+  "cron_jobs": [
+    "cf7_smtp_report"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cf7_smtp_hide_welcome_panel_on"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:37.310Z"
+}

@@ -1,0 +1,21 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('hp_listings_per_page', 'hp_listings_featured_per_page', 'hp_listings_related_per_page', 'hp_vendors_per_page', 'hp_core_activated', 'hp_extensions_number', 'hp_installed_time', 'hp_core_version', 'hp_admin_dismissed_notices', 'hp_permalinks', 'hp_hivepress_license_key', 'hp_user_disable_backend', 'hp_hivepress_allow_tracking', 'hp_recaptcha_site_key', 'hp_recaptcha_secret_key', 'hp_recaptcha_forms', 'hp_google_client_id', 'hp_google_client_secret', 'hp_listing_title_format', 'hp_listing_allow_video', 'hp_listing_enable_moderation', 'hp_listing_expiration_period', 'hp_listing_storage_period', 'hp_page_listing_submission_terms', 'litespeed.conf.cache-priv', 'rewrite_rules', 'hp_user_verify_email', 'hp_user_display_name', 'hp_user_generate_username', 'hp_page_user_registration_terms', 'hp_user_display_online', 'hp_user_enable_display', 'hp_vendor_display_name', 'hp_vendor_enable_display', 'woocommerce_enable_guest_checkout', 'woocommerce_enable_checkout_login_reminder', 'woocommerce_enable_signup_and_login_from_checkout', 'woocommerce_custom_orders_table_data_sync_enabled', 'woocommerce_custom_orders_table_enabled', 'hp_listing_enable_reporting', 'hp_page_listings', 'hp_page_listings_display_categories', 'hp_listing_enable_submission', 'hp_user_enable_registration', 'hp_user_allow_deletion', 'hp_page_vendors', 'hp_vendor_enable_registration', 'hp_listing_enable_image_preview', 'hp_listing_enable_image_zoom', 'action_scheduler_last_pastdue_actions_check');
+DELETE FROM wp_options WHERE option_name IN ('action_scheduler_admin_notice', 'as_comment_count');
+DELETE FROM wp_options WHERE option_name LIKE '%_related_criteria';
+DELETE FROM wp_options WHERE option_name LIKE '%_access_token';
+DELETE FROM wp_options WHERE option_name LIKE '%_token_expiration';
+DELETE FROM wp_options WHERE option_name LIKE '%_refresh_token';
+DELETE FROM wp_options WHERE option_name LIKE 'hp_email_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('hp_icon', 'hp_order', 'hp_expire_period', 'hp_expiration_period', 'hp_featured', 'hp_default', 'hp_rating', 'hp_display_format', 'show_admin_bar_front', 'hp_email_verify_key', 'hp_email_verified', 'hp_display_subcategories', 'hp_email_verify_redirect', 'hp_email_verify_address');
+DELETE FROM wp_usermeta WHERE meta_key IN ('hp_icon', 'hp_order', 'hp_expire_period', 'hp_expiration_period', 'hp_featured', 'hp_default', 'hp_rating', 'hp_display_format', 'show_admin_bar_front', 'hp_email_verify_key', 'hp_email_verified', 'hp_display_subcategories', 'hp_email_verify_redirect', 'hp_email_verify_address');
+DELETE FROM wp_termmeta WHERE meta_key IN ('hp_icon', 'hp_order', 'hp_expire_period', 'hp_expiration_period', 'hp_featured', 'hp_default', 'hp_rating', 'hp_display_format', 'show_admin_bar_front', 'hp_email_verify_key', 'hp_email_verified', 'hp_display_subcategories', 'hp_email_verify_redirect', 'hp_email_verify_address');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('hp_icon', 'hp_order', 'hp_expire_period', 'hp_expiration_period', 'hp_featured', 'hp_default', 'hp_rating', 'hp_display_format', 'show_admin_bar_front', 'hp_email_verify_key', 'hp_email_verified', 'hp_display_subcategories', 'hp_email_verify_redirect', 'hp_email_verify_address');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'billing_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'billing_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'billing_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'billing_%';
+

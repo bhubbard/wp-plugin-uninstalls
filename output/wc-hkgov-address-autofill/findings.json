@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hkaf_enable_for_billing",
+    "hkaf_enable_for_shipping",
+    "hkaf_google_place_api_key",
+    "hkaf_enable_for_hkgov",
+    "hkaf_enable_for_google"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:22.525Z"
+}

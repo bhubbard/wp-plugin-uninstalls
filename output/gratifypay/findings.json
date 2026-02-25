@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_gratify_pay_api_error",
+    "woocommerce_currency"
+  ],
+  "transients": [
+    "gratify_pay-admin-activation-notice",
+    "gratify_pay-admin-connection-failed-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gratify_pay_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:54.004Z"
+}

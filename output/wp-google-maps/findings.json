@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wpgmza-first-run",
+    "wpgmza_pro_db_version",
+    "wpgmza-engine-switch-toolbar-dismissed",
+    "wpgmza_db_version",
+    "WPGMZA_OTHER_SETTINGS",
+    "wpgmza_google_maps_api_key",
+    "wpgmza_xml_location",
+    "wpgmza_xml_url",
+    "wpgmza_temp_api",
+    "wpgmza-installer-initial-procedure",
+    "wpgmza-installer-paused",
+    "wpgmza-installer-retrigger-event",
+    "wpgmza-review-nag-closed",
+    "wpgmza_welcome_screen_done",
+    "wpgmza_global_settings",
+    "wpgmza_last_rest_api_blocked",
+    "WPGMZA_SETTINGS",
+    "wpgmza-tour-ftu-complete",
+    "wpgmza_permission",
+    "wpgmza_review_nag",
+    "wpgmza_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpgmza_hide_chat"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:48.757Z"
+}

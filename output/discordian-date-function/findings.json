@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dtime_convert",
+    "ee_widget",
+    "ddatefunc_string",
+    "dtime_widget",
+    "dtime_widgetsec",
+    "ddatefunc_change",
+    "dtimefunc_change"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:50.982Z"
+}

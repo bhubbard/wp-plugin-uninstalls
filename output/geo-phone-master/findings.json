@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ngp_lang",
+    "ngp_const",
+    "ngp_rules",
+    "ngp_multicity_rules",
+    "ngp_multicity_id",
+    "ngp_multicity_class",
+    "ngp_theme",
+    "ngp_animation",
+    "ngp_duration",
+    "ngp_custom_styles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:06.018Z"
+}

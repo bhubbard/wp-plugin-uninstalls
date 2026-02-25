@@ -1,0 +1,11 @@
+{
+  "options": [
+    "configure_hotjar_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:35.927Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "cmcrpr_options",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_per_page",
+    "_*",
+    "_disable_for_page",
+    "_cmcrpr_not_parsed",
+    "_cmcrpr_custom_id",
+    "_cmcrpr_disable_parsing_for_page",
+    "_cmcrpr_disable_links_for_page",
+    "_cmcrpr_exclude_item",
+    "_cmcrpr_description",
+    "_cmcrpr_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:40.233Z"
+}

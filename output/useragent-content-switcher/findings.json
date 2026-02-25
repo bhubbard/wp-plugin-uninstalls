@@ -1,0 +1,14 @@
+{
+  "options": [
+    "uac_switcher",
+    "useragentcontentswitcher_useragent_tb",
+    "useragentcontentswitcher_useragent_sp",
+    "useragentcontentswitcher_useragent_mb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:36.835Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "comments_firewall_options",
+    "comments_firewall_version",
+    "comments_firewall_activated",
+    "wpcs_stats",
+    "wpcs_last_stats_commit"
+  ],
+  "transients": [
+    "wpcs_pending_stats"
+  ],
+  "cron_jobs": [
+    "wpcs_monthly_stats_commit"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:15.750Z"
+}

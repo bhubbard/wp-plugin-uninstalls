@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wpdbb_last_cleanup_run",
+    "wpddb_version",
+    "wpddb_page_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpddb_doctor_designation",
+    "wpddb_doctor_speciality",
+    "wpddb_doctor_degree",
+    "wpddb_doctor_workplace",
+    "wpddb_doctor_schedule",
+    "wpddb_doctor_available_clinic",
+    "wpddb_clinics_info",
+    "wpddb_clinic_email",
+    "wpddb_clinic_hotline",
+    "wpddb_clinic_latitude",
+    "wpddb_clinic_longitude",
+    "wpddb_clinic_address",
+    "_wp_attachment_image_alt",
+    "wpddb_doctor_email",
+    "wpddb_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:49.799Z"
+}

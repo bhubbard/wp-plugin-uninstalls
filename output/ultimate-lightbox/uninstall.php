@@ -1,0 +1,138 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('ulb-settings');
+delete_site_option('ulb-settings');
+delete_option('EWD_ULB_Full_Version');
+delete_site_option('EWD_ULB_Full_Version');
+delete_option('ulb-permission-level');
+delete_site_option('ulb-permission-level');
+delete_option('EWD_ULB_Custom_CSS');
+delete_site_option('EWD_ULB_Custom_CSS');
+delete_option('EWD_ULB_Add_Lightbox');
+delete_site_option('EWD_ULB_Add_Lightbox');
+delete_option('EWD_ULB_Image_Class_List');
+delete_site_option('EWD_ULB_Image_Class_List');
+delete_option('EWD_ULB_Image_Selector_List');
+delete_site_option('EWD_ULB_Image_Selector_List');
+delete_option('EWD_ULB_Transition_Effect');
+delete_site_option('EWD_ULB_Transition_Effect');
+delete_option('EWD_ULB_Transition_Speed');
+delete_site_option('EWD_ULB_Transition_Speed');
+delete_option('EWD_ULB_Background_Close');
+delete_site_option('EWD_ULB_Background_Close');
+delete_option('EWD_ULB_Gallery_Loop');
+delete_site_option('EWD_ULB_Gallery_Loop');
+delete_option('EWD_ULB_Mousewheel_Navigation');
+delete_site_option('EWD_ULB_Mousewheel_Navigation');
+delete_option('EWD_ULB_Curtain_Slide');
+delete_site_option('EWD_ULB_Curtain_Slide');
+delete_option('EWD_ULB_Overlay_Text_Source');
+delete_site_option('EWD_ULB_Overlay_Text_Source');
+delete_option('EWD_ULB_Disable_Other_Lightboxes');
+delete_site_option('EWD_ULB_Disable_Other_Lightboxes');
+delete_option('EWD_ULB_Show_Thumbnails');
+delete_site_option('EWD_ULB_Show_Thumbnails');
+delete_option('EWD_ULB_Show_Thumbnail_Toggle');
+delete_site_option('EWD_ULB_Show_Thumbnail_Toggle');
+delete_option('EWD_ULB_Show_Overlay_Text');
+delete_site_option('EWD_ULB_Show_Overlay_Text');
+delete_option('EWD_ULB_Start_Autoplay');
+delete_site_option('EWD_ULB_Start_Autoplay');
+delete_option('EWD_ULB_Autoplay_Interval');
+delete_site_option('EWD_ULB_Autoplay_Interval');
+delete_option('EWD_ULB_Show_Progress_Bar');
+delete_site_option('EWD_ULB_Show_Progress_Bar');
+delete_option('EWD_ULB_Hide_On_Mobile');
+delete_site_option('EWD_ULB_Hide_On_Mobile');
+delete_option('EWD_ULB_Min_Height');
+delete_site_option('EWD_ULB_Min_Height');
+delete_option('EWD_ULB_Min_Width');
+delete_site_option('EWD_ULB_Min_Width');
+delete_option('EWD_ULB_Transition_Type');
+delete_site_option('EWD_ULB_Transition_Type');
+delete_option('EWD_ULB_Top_Right_Controls');
+delete_site_option('EWD_ULB_Top_Right_Controls');
+delete_option('EWD_ULB_Top_Left_Controls');
+delete_site_option('EWD_ULB_Top_Left_Controls');
+delete_option('EWD_ULB_Bottom_Right_Controls');
+delete_site_option('EWD_ULB_Bottom_Right_Controls');
+delete_option('EWD_ULB_Bottom_Left_Controls');
+delete_site_option('EWD_ULB_Bottom_Left_Controls');
+delete_option('EWD_ULB_Arrow');
+delete_site_option('EWD_ULB_Arrow');
+delete_option('EWD_ULB_Icon_Set');
+delete_site_option('EWD_ULB_Icon_Set');
+delete_option('EWD_ULB_Styling_Title_Font');
+delete_site_option('EWD_ULB_Styling_Title_Font');
+delete_option('EWD_ULB_Styling_Title_Font_Size');
+delete_site_option('EWD_ULB_Styling_Title_Font_Size');
+delete_option('EWD_ULB_Styling_Title_Font_Color');
+delete_site_option('EWD_ULB_Styling_Title_Font_Color');
+delete_option('EWD_ULB_Styling_Description_Font');
+delete_site_option('EWD_ULB_Styling_Description_Font');
+delete_option('EWD_ULB_Styling_Description_Font_Size');
+delete_site_option('EWD_ULB_Styling_Description_Font_Size');
+delete_option('EWD_ULB_Styling_Description_Font_Color');
+delete_site_option('EWD_ULB_Styling_Description_Font_Color');
+delete_option('EWD_ULB_Styling_Arrow_Size');
+delete_site_option('EWD_ULB_Styling_Arrow_Size');
+delete_option('EWD_ULB_Styling_Arrow_Color');
+delete_site_option('EWD_ULB_Styling_Arrow_Color');
+delete_option('EWD_ULB_Styling_Arrow_Background_Color');
+delete_site_option('EWD_ULB_Styling_Arrow_Background_Color');
+delete_option('EWD_ULB_Styling_Arrow_Background_Opacity');
+delete_site_option('EWD_ULB_Styling_Arrow_Background_Opacity');
+delete_option('EWD_ULB_Styling_Icon_Size');
+delete_site_option('EWD_ULB_Styling_Icon_Size');
+delete_option('EWD_ULB_Styling_Icon_Color');
+delete_site_option('EWD_ULB_Styling_Icon_Color');
+delete_option('EWD_ULB_Styling_Background_Overlay_Color');
+delete_site_option('EWD_ULB_Styling_Background_Overlay_Color');
+delete_option('EWD_ULB_Styling_Background_Overlay_Opacity');
+delete_site_option('EWD_ULB_Styling_Background_Overlay_Opacity');
+delete_option('EWD_ULB_Styling_Toolbar_Color');
+delete_site_option('EWD_ULB_Styling_Toolbar_Color');
+delete_option('EWD_ULB_Styling_Toolbar_Opacity');
+delete_site_option('EWD_ULB_Styling_Toolbar_Opacity');
+delete_option('EWD_ULB_Styling_Image_Overlay_Color');
+delete_site_option('EWD_ULB_Styling_Image_Overlay_Color');
+delete_option('EWD_ULB_Styling_Image_Overlay_Opacity');
+delete_site_option('EWD_ULB_Styling_Image_Overlay_Opacity');
+delete_option('EWD_ULB_Styling_Thumbnail_Bar_Color');
+delete_site_option('EWD_ULB_Styling_Thumbnail_Bar_Color');
+delete_option('EWD_ULB_Styling_Thumbnail_Bar_Opacity');
+delete_site_option('EWD_ULB_Styling_Thumbnail_Bar_Opacity');
+delete_option('EWD_ULB_Styling_Thumbnail_Scroll_Arrow_Color');
+delete_site_option('EWD_ULB_Styling_Thumbnail_Scroll_Arrow_Color');
+delete_option('EWD_ULB_Styling_Active_Thumbnail_Border_Color');
+delete_site_option('EWD_ULB_Styling_Active_Thumbnail_Border_Color');
+delete_option('ulb-review-ask-time');
+delete_site_option('ulb-review-ask-time');
+delete_option('EWD_ULB_Ask_Review_Date');
+delete_site_option('EWD_ULB_Ask_Review_Date');
+delete_option('ulb-installation-time');
+delete_site_option('ulb-installation-time');
+delete_option('EWD_ULB_Install_Time');
+delete_site_option('EWD_ULB_Install_Time');
+
+// Delete Transients
+delete_transient('ulb-getting-started');
+delete_site_transient('ulb-getting-started');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_EWD_ULB_Add_Lightbox' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_EWD_ULB_Add_Lightbox' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_EWD_ULB_Add_Lightbox' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_EWD_ULB_Add_Lightbox' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_EWD_ULB_Paired_Image_ID' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_EWD_ULB_Paired_Image_ID' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_EWD_ULB_Paired_Image_ID' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_EWD_ULB_Paired_Image_ID' ) );
+

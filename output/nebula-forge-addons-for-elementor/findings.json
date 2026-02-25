@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [
+    "nfa_changelog_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nfa_form_name",
+    "_nfa_form_data",
+    "_nfa_form_status",
+    "_nfa_form_ip",
+    "_nfa_form_ua",
+    "_nfa_form_page",
+    "nfa_dismissed_welcome"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:46.054Z"
+}

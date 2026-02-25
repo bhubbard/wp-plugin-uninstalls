@@ -1,0 +1,22 @@
+{
+  "options": [
+    "queantic_analytics_tracking_special_*",
+    "queantic_analytics_do_redirect",
+    "queantic_analytics_tracking_special_home",
+    "queantic_analytics_tracking_special_blog",
+    "queantic_analytics_tracking_special_404",
+    "queantic_analytics_tracking_special_search",
+    "queantic_analytics_tracking_special_archive",
+    "queantic_analytics_tracking_special_wc_shop"
+  ],
+  "transients": [
+    "queantic_analytics_saved_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ptp_tracking_code"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:23.727Z"
+}

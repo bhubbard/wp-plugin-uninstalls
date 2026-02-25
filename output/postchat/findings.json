@@ -1,0 +1,17 @@
+{
+  "options": [
+    "postchat_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "postchat_add_summary_event",
+    "postchat_maintenance_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_postchat_summary",
+    "_postchat_content_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:56.991Z"
+}

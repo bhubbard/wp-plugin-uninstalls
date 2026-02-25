@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wc-enviamelo-*"
+  ],
+  "transients": [
+    "*-notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_wc_enviamelo_dni",
+    "_shipping_wc_enviamelo_dni",
+    "_enviamelo_point",
+    "_enviamelo_point_descr",
+    "_enviamelo_point_schedules",
+    "_enviamelo_term"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:06.791Z"
+}

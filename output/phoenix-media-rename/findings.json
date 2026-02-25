@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pmr_options",
+    "Activated_phoenix_media_rename"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:51.813Z"
+}

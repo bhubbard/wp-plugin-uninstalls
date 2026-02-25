@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpwwoo_whitelisted_ids",
+    "woocommerce_coming_soon",
+    "woocommerce_store_pages_only"
+  ],
+  "transients": [
+    "wpwwoo_cached_urls"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpwwoo_dismissed_notices"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:27.636Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ifcpwafc_acf_pro_missing_notice",
+    "ifcpwafc_cpt_post_types"
+  ],
+  "transients": [
+    "ifcpwafc_plugin_uploaded_image_ids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:33.258Z"
+}

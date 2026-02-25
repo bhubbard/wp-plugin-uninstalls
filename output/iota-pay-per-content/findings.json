@@ -1,0 +1,18 @@
+{
+  "options": [
+    "iota_pay_per_content_wallet_address",
+    "iota_pay_per_content_node_host",
+    "iota_pay_per_content_confirmed_payments",
+    "iotappc_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "payUsingIOTA_enabled",
+    "payUsingIOTA_amount",
+    "payUsingIOTA_unit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:00.068Z"
+}

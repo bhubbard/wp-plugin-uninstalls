@@ -1,0 +1,16 @@
+{
+  "options": [
+    "jptb_label",
+    "jptb_bg_colour",
+    "jptb_text_colour",
+    "jptb_label_bg_colour",
+    "jptb_label_text_colour",
+    "jptb_mod_switch"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:55.367Z"
+}

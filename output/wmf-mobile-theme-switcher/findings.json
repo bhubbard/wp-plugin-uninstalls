@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wmf_thwsw_ex_options",
+    "wmf_thwsw_options",
+    "wmf_thwsw_time_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wmf_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:32.366Z"
+}

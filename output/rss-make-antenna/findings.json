@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "my_rss_patrol"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "blog-url",
+    "img-url",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:36.211Z"
+}

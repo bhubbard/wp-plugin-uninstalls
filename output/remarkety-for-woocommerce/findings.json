@@ -1,0 +1,34 @@
+{
+  "options": [
+    "rm_db_version",
+    "woocommerce_currency",
+    "woocommerce_version"
+  ],
+  "transients": [
+    "woocommerce_webhook_ids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "usage_limit",
+    "usage_limit_per_user",
+    "expiry_date",
+    "date_expires",
+    "apply_before_tax",
+    "free_shipping",
+    "minimum_amount",
+    "individual_use",
+    "exclude_sale_items",
+    "product_ids",
+    "exclude_product_ids",
+    "product_categories",
+    "exclude_product_categories",
+    "customer_email",
+    "_webhook_pending_delivery",
+    "marketing_allowed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:17.200Z"
+}

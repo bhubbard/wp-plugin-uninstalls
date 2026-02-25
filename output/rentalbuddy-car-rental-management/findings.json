@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rb_daily_mileage_allow",
+    "rb_weekly_mileage_allow",
+    "rb_hourly_mileage_allow",
+    "rentalbuddy_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:28.885Z"
+}

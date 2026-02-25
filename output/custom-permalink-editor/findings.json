@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cp_editor_table",
+    "polylang",
+    "cp_editor_plugin_version"
+  ],
+  "transients": [
+    "cpe_pro_activation_blocked"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cp_editor"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:10.471Z"
+}

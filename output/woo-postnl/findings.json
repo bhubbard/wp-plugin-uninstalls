@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wcpostnl_admin_notices",
+    "wcpostnl_print_queue",
+    "wcpostnl_admin_error_notices",
+    "wcpostnl_admin_error_notice",
+    "woocommerce_weight_unit",
+    "postnl_hide_be_notice",
+    "woocommerce_force_ssl_checkout",
+    "woocommerce_shipping_tax_class",
+    "wcpostnl_settings",
+    "woocommerce_postnl_general_settings",
+    "woocommerce_postnl_export_defaults_settings",
+    "woocommerce_postnl_checkout_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_street_name",
+    "*_house_number",
+    "*_house_number_suffix",
+    "billing_street_name",
+    "billing_house_number",
+    "billing_house_number_suffix",
+    "shipping_street_name",
+    "shipping_house_number",
+    "shipping_house_number_suffix"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:38.470Z"
+}

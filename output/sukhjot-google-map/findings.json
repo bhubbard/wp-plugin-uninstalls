@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gmap_key",
+    "gmap_link_txt",
+    "gmap_width",
+    "gmap_height",
+    "gmap_type_view",
+    "gmap_zoom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:46.863Z"
+}

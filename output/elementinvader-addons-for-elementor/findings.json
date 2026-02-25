@@ -1,0 +1,15 @@
+{
+  "options": [
+    "eli_db_version",
+    "wdk_listing_page",
+    "elementinvader_addons_for_elementor_form_*"
+  ],
+  "transients": [
+    "eli_form_token_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:19.197Z"
+}

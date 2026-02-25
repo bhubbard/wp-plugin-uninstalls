@@ -1,0 +1,39 @@
+{
+  "options": [
+    "wpironis_plugin_settings_loginlogout",
+    "wpironis_plugin_settings_general",
+    "wpironis_options",
+    "auto_update_core_major",
+    "auto_update_core_minor",
+    "auto_update_core_dev",
+    "iron_security_last_activity",
+    "iron_security_2fa_settings",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "*_wpis_attempts",
+    "*_wpis_lockout",
+    "*_wpis_lockout_time",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "iron_security_last_activity",
+    "iron_security_2fa_secret",
+    "nickname",
+    "google_authenticator_secret"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:36.169Z"
+}

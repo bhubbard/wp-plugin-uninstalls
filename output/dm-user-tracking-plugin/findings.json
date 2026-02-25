@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lbakut_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lbakut_database_management_cron",
+    "lbakut_update_browscap",
+    "lbakut_do_cache_and_stats"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:36.879Z"
+}

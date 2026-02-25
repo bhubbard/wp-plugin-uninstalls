@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'relations_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_posts_per_page'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_posts_per_page'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_posts_per_page'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_posts_per_page'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_position'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_position'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_position'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_position'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_content_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_content_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_content_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_content_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_display_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_display_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_display_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_display_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_order_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_order_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_order_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_order_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_inject_paragraph_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_inject_paragraph_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_inject_paragraph_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_inject_paragraph_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_custom_posts'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_custom_posts'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_custom_posts'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_custom_posts'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_relations_custom_display_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_relations_custom_display_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_relations_custom_display_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_relations_custom_display_type'"

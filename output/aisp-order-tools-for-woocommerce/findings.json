@@ -1,0 +1,14 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "aisp_otools_add_custom_item",
+    "aisp_otools_redirect_page",
+    "aisp_otools_allow_on_hold_payment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:30.324Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('pg360_project_name', 'pg360_image_width', 'pg360_image_height', 'pg360_rotation_speed', 'pg360_loadingbar_width', 'pg360_no_of_vertical_layer', 'pg360_type360', 'pg360_interactive', 'pg360_responsive', 'pg360_click_free', 'pg360_control_button', 'pg360_shy', 'pg360_inverse', 'pg360_wheelable', 'pg360_DRC', 'pg360_display_mouse_hint', 'pg360_mouse_hint', 'pg360_display_360Hint', 'pg360_360Hint', 'pg360_watermark_chkbox', 'pg360_watermark', 'pg360_watermark_color', 'pg360_watermark_size', 'pg360_watermark_position', 'pg360_watermark_opacity', 'pg360_watermark_angle', 'pg360_ctl_btn_color', 'pg360_ctl_background_color', 'pg360_preloader_color', 'pg360_360Hint_color', 'pg360_360Hint_background_color', 'pg360_sale_align', 'pg360_sale_color', 'pg360_annotation_view', 'pg360_annotation_display', 'pg360_annotation_icon_color', 'pg360_annotation_title_size', 'pg360_annotation_title_color', 'pg360_annotation_text_size', 'pg360_annotation_text_color', 'pg360_annotation_background_color', 'pg360_db_version');
+

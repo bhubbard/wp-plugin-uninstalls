@@ -1,0 +1,23 @@
+{
+  "options": [
+    "pftfw_display_fees_single",
+    "pftfw_name_conflicts",
+    "pftfw_fee_tax_class"
+  ],
+  "transients": [
+    "pftfw_network_activation_error",
+    "pftfw_activation_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pftfw_product_fees",
+    "product-fee-name",
+    "product-fee-type",
+    "product-fee-percent",
+    "product-fee-amount",
+    "product-fee-multiplier"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:19.388Z"
+}

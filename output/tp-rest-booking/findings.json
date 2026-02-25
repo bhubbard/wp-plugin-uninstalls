@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tprb_general_options",
+    "restaurant_booking_settings",
+    "tprb_notifications_options",
+    "tprb_jwt_secret_key",
+    "tprb_security_options",
+    "tprb_admin_email",
+    "tprb_notify_admin",
+    "tprb_notify_client",
+    "tprb_email_subject",
+    "tprb_email_template",
+    "restaurant_booking_weekly_availability"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:28.626Z"
+}

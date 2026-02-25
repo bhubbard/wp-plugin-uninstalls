@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ppfr_property_access_state",
+    "ppfr_property_users_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:43.169Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bodhi_svgs_settings",
+    "upload_space_check_disabled",
+    "bodhi_svgs_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "inline_featured_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:26:42.119Z"
+}

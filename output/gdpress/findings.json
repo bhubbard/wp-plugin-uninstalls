@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_transient_health-check-site-status-result"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gdp_install",
+    "gdp_schedule",
+    "wp_site_health_scheduled_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_export_file_url",
+    "_export_file_path"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:27.405Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "wpwhpro_activate_translations",
+    "wpwhpro_activate_debug_mode",
+    "wpwhpro_deactivate_post_delay",
+    "wpwhpro_show_main_menu",
+    "wpwhpro_reset_data",
+    "wpwhpro_trigger_secret",
+    "wsblc_options",
+    "wppb_general_settings"
+  ],
+  "transients": [
+    "wpwhcf7_preserved_files",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wpwh_daily_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_subscription_payment",
+    "edd_price",
+    "edd_variable_prices",
+    "edd_download_files",
+    "_edd_bundled_products",
+    "_edd_bundled_products_conditions",
+    "_variable_pricing",
+    "_edd_default_price_id",
+    "_edd_hide_purchase_link",
+    "_edd_download_limit",
+    "_wppb_admin_approval_link_param",
+    "wpwhpro_create_post_temp_status",
+    "wpwhpro_create_post_temp_status_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:00.961Z"
+}

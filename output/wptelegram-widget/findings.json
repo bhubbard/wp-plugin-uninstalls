@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rewrite_rules",
+    "wptelegram_widget_ver",
+    "wptelegram_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wptelegram_widget_cron_pull_updates",
+    "wptelegram_widget_pull_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:23.847Z"
+}

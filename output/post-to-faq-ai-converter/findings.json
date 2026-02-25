@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pstfqaicnvtr_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pstfqaicnvtr_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:14.227Z"
+}

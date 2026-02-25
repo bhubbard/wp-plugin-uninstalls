@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "aisp_bulk_products",
+    "aisp_bulk_action"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aisp_exclusive_users",
+    "_aisp_category_users"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:26.173Z"
+}

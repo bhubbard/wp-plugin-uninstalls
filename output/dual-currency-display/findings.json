@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woocommerce_currency",
+    "dual_currency_enable",
+    "dual_currency_table_exists_*",
+    "dual_currency_bgn_eur_rate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_original_bgn_regular_price",
+    "_original_bgn_sale_price",
+    "_original_eur_regular_price",
+    "_original_eur_sale_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:58.318Z"
+}

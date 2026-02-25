@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pipp_opts",
+    "pipp_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "popupi"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:05.639Z"
+}

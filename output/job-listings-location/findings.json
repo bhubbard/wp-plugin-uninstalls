@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_location_address",
+    "_location_address_full",
+    "_location_lat",
+    "_location_long"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:59.058Z"
+}

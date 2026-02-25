@@ -1,0 +1,25 @@
+{
+  "options": [
+    "mlpp_show_template_ad",
+    "classic-editor-replace",
+    "mlf-folder-check",
+    "*_size_w",
+    "*_size_h",
+    "mlfp-no-access-page-id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "new_folder_check",
+    "publish_future_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_wp_attachment_image_alt",
+    "_wp_trash_meta_status",
+    "_wp_trash_meta_time",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:09.362Z"
+}

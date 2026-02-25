@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wprmenu_options",
+    "wprmenu_demo_id",
+    "wpr_optionsframework"
+  ],
+  "transients": [
+    "wpr_live_settings",
+    "wprm_api_demo_items_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:51.518Z"
+}

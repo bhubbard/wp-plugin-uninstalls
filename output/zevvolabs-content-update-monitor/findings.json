@@ -1,0 +1,25 @@
+{
+  "options": [
+    "zcum_analytics_table_checked",
+    "zcum_settings",
+    "zcum_version"
+  ],
+  "transients": [
+    "zcum_dashboard_widget_data"
+  ],
+  "cron_jobs": [
+    "zcum_daily_age_update",
+    "zcum_cleanup_analytics"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_zcum_age_days",
+    "_zcum_age_category",
+    "_zcum_total_views",
+    "_zcum_total_clicks",
+    "_zcum_avg_time",
+    "_zcum_engagement_score"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:06.680Z"
+}

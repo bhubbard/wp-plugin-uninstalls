@@ -1,0 +1,13 @@
+{
+  "options": [
+    "fieldday_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "km_user_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:50.528Z"
+}

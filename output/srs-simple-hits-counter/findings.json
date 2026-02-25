@@ -1,0 +1,16 @@
+{
+  "options": [
+    "migrated_to_version",
+    "srs_pageViews_count",
+    "srs_visitors_count",
+    "srs_update_ran",
+    "srs_simple_hits_counter_version",
+    "srs_pageViews_number_format_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:57.271Z"
+}

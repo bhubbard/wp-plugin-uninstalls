@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tweetster_consumer_key",
+    "tweetster_consumer_secret",
+    "tweetster_user_token",
+    "tweetster_token_secret",
+    "tweetster_bitly_login",
+    "tweetster_bitly_apikey"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:29.670Z"
+}

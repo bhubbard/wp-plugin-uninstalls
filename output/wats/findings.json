@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wats_notification_rules",
+    "wats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wats_ticket_priority",
+    "wats_ticket_status",
+    "wats_ticket_type",
+    "wats_ticket_product",
+    "wats_ticket_author_name",
+    "wats_ticket_author_email",
+    "wats_ticket_author_url",
+    "wats_ticket_number",
+    "first_name",
+    "last_name",
+    "wats_internal_update",
+    "wats_ticket_closure_date",
+    "wats_ticket_owner",
+    "wats_ticket_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:39.763Z"
+}

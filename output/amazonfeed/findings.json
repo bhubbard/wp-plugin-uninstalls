@@ -1,0 +1,15 @@
+{
+  "options": [
+    "amazonFeedOptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_amazonfeed_keywords",
+    "_amazonfeed_disabled",
+    "_amazonfeed_sortby"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:37.462Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "moviehelper-version",
+    "moviehelper_tmdb_settings",
+    "moviehelper_settings"
+  ],
+  "transients": [
+    "tmdb_api_key"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:39.821Z"
+}

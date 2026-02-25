@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ruvuv-customcss",
+    "ruvuv-background-color-changing",
+    "ruvuv-sticky",
+    "ruvuv-tooltip",
+    "ruvuv-schedule",
+    "ruvuv-particle",
+    "ruvuv-image-moving",
+    "ruvuv-media-slider",
+    "ruvuv-relax-parallax",
+    "ruvuv-column-order",
+    "ruvuv-heading",
+    "ruvuv-section-link",
+    "ruvuv-max-width",
+    "ruvuv-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:44.077Z"
+}

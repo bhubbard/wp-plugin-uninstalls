@@ -1,0 +1,14 @@
+{
+  "options": [
+    "qib_dismiss_notice",
+    "qib_first_activate",
+    "qib_settingz",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:49.049Z"
+}

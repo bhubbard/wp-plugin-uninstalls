@@ -1,0 +1,24 @@
+{
+  "options": [
+    "idea_push_settings",
+    "_site_transient_update_plugins"
+  ],
+  "transients": [
+    "ideapush-update",
+    "ideapush-tab-memory",
+    "northern_beaches_websites"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "votes",
+    "idea-attachment",
+    "ip_address",
+    "current-status",
+    "up-voters",
+    "ideaPushVotesRemaining",
+    "ideaPushImage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:58.452Z"
+}

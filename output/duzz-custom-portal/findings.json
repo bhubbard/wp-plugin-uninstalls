@@ -1,0 +1,34 @@
+{
+  "options": [
+    "duzz_settings_email_settings_field_data",
+    "duzz_last_saved_email",
+    "duzz_last_saved_name",
+    "duzz_last_saved_company_name",
+    "duzz_has_run_install_process",
+    "duzz_acf_settings_acf_keys_list_field_data",
+    "duzz_trashed_messages",
+    "*_args",
+    "duzz_settings_project_page_field_data",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_visibility",
+    "payment_confirm",
+    "total_aftertax_sum",
+    "associated_comment",
+    "invoice_type",
+    "comment_post_type",
+    "first_name",
+    "line_items",
+    "sales_tax",
+    "invoice_name",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:42.485Z"
+}

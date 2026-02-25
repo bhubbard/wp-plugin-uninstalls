@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mlgm_general_settings",
+    "mlgm_style_settings",
+    "ydsts_general_settings",
+    "ydsgm_style_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mlgm_address",
+    "yds_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:01.249Z"
+}

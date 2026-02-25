@@ -1,0 +1,22 @@
+{
+  "options": [
+    "gsp_type",
+    "gsp_facebook",
+    "gsp_instagram",
+    "gsp_twitter",
+    "gsp_google",
+    "gsp_linkedin",
+    "gsp_youtube",
+    "gsp_myspace",
+    "gsp_pinterest",
+    "gsp_soundcloud",
+    "gsp_tumblr",
+    "gsp_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:01.825Z"
+}

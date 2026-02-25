@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fca_ga",
+    "fca_ga_show_review_notice",
+    "fca_ga_show_ga4_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fca_ga_schedule_review_notice",
+    "fca_ga_schedule_ga4_notice"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:52.661Z"
+}

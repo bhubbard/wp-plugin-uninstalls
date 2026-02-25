@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wppic_settings', 'active_sitewide_plugins', 'update_plugins');
+DELETE FROM wp_options WHERE option_name LIKE 'wppic_profile_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wppic_github_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wppic_badge_token_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('isFromRest', 'enableRestApi', 'restApiPasscode', 'restApiDataVersion', 'restApiUrl', 'first_name', 'last_name', '_wppic_plugin_author', '_wppic_reviews_url', '_wppic_downloads_url', '_wppic_override_ratings', '_wppic_num_ratings', '_wppic_rating_percentage', '_edd_sl_version', '_edd_sl_required_versions', '_edd_readme_location', '_edd_readme_plugin_homepage', 'edd_sl_download_lifetime', '_edd_readme_plugin_banner_high', '_edd_readme_plugin_banner_low', 'edd_reviews_average_rating', '_wppic_last_updated', '_wppic_profile_data', 'numTries', 'lastUpdated');
+DELETE FROM wp_usermeta WHERE meta_key IN ('isFromRest', 'enableRestApi', 'restApiPasscode', 'restApiDataVersion', 'restApiUrl', 'first_name', 'last_name', '_wppic_plugin_author', '_wppic_reviews_url', '_wppic_downloads_url', '_wppic_override_ratings', '_wppic_num_ratings', '_wppic_rating_percentage', '_edd_sl_version', '_edd_sl_required_versions', '_edd_readme_location', '_edd_readme_plugin_homepage', 'edd_sl_download_lifetime', '_edd_readme_plugin_banner_high', '_edd_readme_plugin_banner_low', 'edd_reviews_average_rating', '_wppic_last_updated', '_wppic_profile_data', 'numTries', 'lastUpdated');
+DELETE FROM wp_termmeta WHERE meta_key IN ('isFromRest', 'enableRestApi', 'restApiPasscode', 'restApiDataVersion', 'restApiUrl', 'first_name', 'last_name', '_wppic_plugin_author', '_wppic_reviews_url', '_wppic_downloads_url', '_wppic_override_ratings', '_wppic_num_ratings', '_wppic_rating_percentage', '_edd_sl_version', '_edd_sl_required_versions', '_edd_readme_location', '_edd_readme_plugin_homepage', 'edd_sl_download_lifetime', '_edd_readme_plugin_banner_high', '_edd_readme_plugin_banner_low', 'edd_reviews_average_rating', '_wppic_last_updated', '_wppic_profile_data', 'numTries', 'lastUpdated');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('isFromRest', 'enableRestApi', 'restApiPasscode', 'restApiDataVersion', 'restApiUrl', 'first_name', 'last_name', '_wppic_plugin_author', '_wppic_reviews_url', '_wppic_downloads_url', '_wppic_override_ratings', '_wppic_num_ratings', '_wppic_rating_percentage', '_edd_sl_version', '_edd_sl_required_versions', '_edd_readme_location', '_edd_readme_plugin_homepage', 'edd_sl_download_lifetime', '_edd_readme_plugin_banner_high', '_edd_readme_plugin_banner_low', 'edd_reviews_average_rating', '_wppic_last_updated', '_wppic_profile_data', 'numTries', 'lastUpdated');
+

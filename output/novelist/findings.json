@@ -1,0 +1,44 @@
+{
+  "options": [
+    "novelist_imported_demo_book",
+    "novelist_version_upgraded_from",
+    "novelist_settings",
+    "novelist_settings_book",
+    "novelist_settings_styles",
+    "novelist_settings_misc",
+    "novelist_settings_addons",
+    "novelist_settings_licenses",
+    "active_sitewide_plugins",
+    "novelist_version"
+  ],
+  "transients": [
+    "_novelist_activation_redirect",
+    "novelist_extensions_feed",
+    "novelist_books_array",
+    "novelist_csv_imported_books",
+    "novelist_csv_import_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "novelist_pub_date_timestamp",
+    "novelist_hide",
+    "*_dismissed",
+    "novelist_series",
+    "novelist_title",
+    "novelist_cover",
+    "novelist_publisher",
+    "novelist_pub_date",
+    "novelist_contributors",
+    "novelist_pages",
+    "novelist_isbn",
+    "novelist_asin",
+    "novelist_goodreads",
+    "novelist_purchase_links",
+    "novelist_synopsis",
+    "novelist_excerpt",
+    "novelist_extra"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:04.433Z"
+}

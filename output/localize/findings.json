@@ -1,0 +1,15 @@
+{
+  "options": [
+    "localize_lang",
+    "localize_lang_version"
+  ],
+  "transients": [
+    "localize_versions",
+    "localize_locale_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:53.984Z"
+}

@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wdtUseSeparateCon', 'wdtMySqlHost', 'wdtMySqlDB', 'wdtMySqlUser', 'wdtMySqlPwd', 'wdtMySqlPort', 'wdtGettingStartedPageStatus', 'wdtMinifiedJs', 'wdtBaseSkin', 'wdtGoogleStableVersion', 'wdtRenderCharts', 'wdtRenderFilter', 'wdtTopOffset', 'wdtLeftOffset', 'wdtTimeFormat', 'wdtInterfaceLanguage', 'wdtTablesPerPage', 'wdtNumberFormat', 'wdtDecimalPlaces', 'wdtCSVDelimiter', 'wdtSortingOrderBrowseTables', 'wdtDateFormat', 'wdtAutoUpdateOption', 'wdtAutoUpdateHash', 'wdtParseShortcodes', 'wdtNumbersAlign', 'wdtBorderRemoval', 'wdtBorderRemovalHeader', 'wdtFontColorSettings', 'wdtCustomJs', 'wdtCustomCss', 'wdtTabletWidth', 'wdtMobileWidth', 'wdtPurchaseCode', 'wdtIncludeBootstrap', 'wdtIncludeBootstrapBackEnd', 'wdtPreventDeletingTables', 'wdtSiteLink', 'wdtInstallDate', 'wdtRatingDiv', 'wdtShowForminatorNotice', 'wdtShowPromoNotice', 'wdtShowPromoDiscountNotice', 'wdtShowBundlesNotice', 'wdtSimpleTableAlert', 'wdtTempFutureDate', 'wdtActivationSimpleTableTemplates', 'wdtTimepickerRange', 'wdtSumFunctionsLabel', 'wdtMinFunctionsLabel');
+DELETE FROM wp_options WHERE option_name IN ('wdtMaxFunctionsLabel', 'wdtGeneratedTablesCount', 'wdtAvgFunctionsLabel', 'wdtVersion', 'classic-editor-replace', 'active_sitewide_plugins');
+

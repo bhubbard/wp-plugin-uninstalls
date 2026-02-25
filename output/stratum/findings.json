@@ -1,0 +1,22 @@
+{
+  "options": [
+    "stratum_api",
+    "stratum_instagram_token_cron_error_message",
+    "stratum_db_version",
+    "stratum_db_version_history",
+    "stratum_style",
+    "stratum_widgets"
+  ],
+  "transients": [
+    "stratum_instagram_response_data"
+  ],
+  "cron_jobs": [
+    "stratum_refresh_instagram_token"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:19.649Z"
+}

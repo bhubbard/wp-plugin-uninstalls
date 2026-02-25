@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tt_api_key",
+    "tt_default_post_status",
+    "turbotranslations_categories_cache",
+    "turbotranslations_categories_cache_date",
+    "turbotranslations_pairs_cache",
+    "turbotranslations_pairs_cache_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "turbotranslations_status",
+    "_wpml_post_translation_editor_native"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:50.871Z"
+}

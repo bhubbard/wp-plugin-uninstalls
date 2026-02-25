@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_redirect_option",
+    "wp_redirect_option_content",
+    "wp_redirect_option_comment",
+    "wp_redirect_option_author",
+    "wp_redirect_option_exception"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:45.204Z"
+}

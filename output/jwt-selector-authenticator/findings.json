@@ -1,0 +1,15 @@
+{
+  "options": [
+    "jwtseau_jwt_auth_hass_type",
+    "jwtseau_jwt_auth_hass_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_jwt_protect",
+    "_jwt_KeyPass"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:10.051Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "vossle_ar_api_key",
+    "vossle_ar_user_id",
+    "vos_tryon_button",
+    "vos_tryon_button_title",
+    "vos_tryon_button_position",
+    "vossle_alert_code",
+    "vossle_alert_msg",
+    "vossle-plugin-text",
+    "vos_tryon_button_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vossle_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:53.464Z"
+}

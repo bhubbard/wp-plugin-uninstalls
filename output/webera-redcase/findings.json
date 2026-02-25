@@ -1,0 +1,17 @@
+{
+  "options": [
+    "redcase_key"
+  ],
+  "transients": [
+    "d_daily_deals"
+  ],
+  "cron_jobs": [
+    "d_daily_deals_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "deals_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:35.298Z"
+}

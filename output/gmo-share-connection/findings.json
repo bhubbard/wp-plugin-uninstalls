@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gmo_share_connection_single",
+    "gmo_share_connection_page",
+    "gmo_share_connection_home",
+    "gmo_share_connection_before_content",
+    "gmo_share_connection_after_content",
+    "gmo_share_connection_socials"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:49.015Z"
+}

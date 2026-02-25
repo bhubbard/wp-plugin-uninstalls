@@ -1,0 +1,22 @@
+{
+  "options": [
+    "quick_search_form_id",
+    "quick_search_max_chars",
+    "quick_search_show_posts",
+    "quick_search_show_pages",
+    "quick_search_show_comments",
+    "quick_search_posts_limit",
+    "quick_search_pages_limit",
+    "quick_search_comments_limit",
+    "quick_search_menu_width",
+    "quick_search_menu_bgcolor",
+    "quick_search_menu_label_bgcolor",
+    "quick_search_menu_label_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:36.323Z"
+}

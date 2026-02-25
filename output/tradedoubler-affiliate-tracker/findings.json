@@ -1,0 +1,28 @@
+{
+  "options": [
+    "tradedoubler_credentials",
+    "tradedoubler_org_ID",
+    "tradedoubler_program_ID",
+    "tradedoubler_event_ID",
+    "tradedoubler_vat_commision",
+    "tradedoubler_shipping_commision",
+    "activated_codes_tradedoubler",
+    "tradedoubler_last_time_feed_update",
+    "tradedoubler_segment_ID",
+    "tradedoubler_feeds",
+    "last_hubspot_update"
+  ],
+  "transients": [
+    "user_token_tradedoublerAPI",
+    "token_res_tradedoublerAPI",
+    "product_feeds_tradedoublerAPI",
+    "program_name_tradedoublerAPI"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "usage_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:24.035Z"
+}

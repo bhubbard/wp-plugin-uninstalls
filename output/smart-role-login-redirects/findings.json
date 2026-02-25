@@ -1,0 +1,14 @@
+{
+  "options": [
+    "srlr_role_redirects"
+  ],
+  "transients": [
+    "srlr_activation_notice",
+    "srlr_settings_saved"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:30.574Z"
+}

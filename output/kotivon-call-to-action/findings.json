@@ -1,0 +1,15 @@
+{
+  "options": [
+    "kotivon_cta_whatsapp",
+    "kotivon_cta_phone",
+    "kotivon_cta_whatsapp_color",
+    "kotivon_cta_phone_color",
+    "kotivon_cta_toggle_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:41.561Z"
+}

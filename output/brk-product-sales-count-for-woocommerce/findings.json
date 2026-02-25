@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "brkpsc_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "brkpsc_type",
+    "brkpsc_display",
+    "brkpsc_min",
+    "brkpsc_max"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:36.272Z"
+}

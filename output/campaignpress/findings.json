@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_version",
+    "*_api_key",
+    "*_plugin_settings",
+    "campaignpress_db_version",
+    "*_heartbeat_data",
+    "*_cache_campaigns_last",
+    "*_cache_campaigns",
+    "*_cache_audiences_last",
+    "*_cache_audiences",
+    "*_cache_templates_last",
+    "*_cache_templates",
+    "*_toast_messages",
+    "*_plugin_toast_messages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:10.074Z"
+}

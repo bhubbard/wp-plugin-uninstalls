@@ -1,0 +1,22 @@
+{
+  "options": [
+    "comments_*",
+    "comments_1",
+    "comments_2",
+    "comments_3",
+    "comments_4",
+    "comments_5",
+    "comments_6",
+    "comments_7",
+    "comments_8",
+    "comments_9",
+    "comments_10",
+    "comments_11"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:36.129Z"
+}

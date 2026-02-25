@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('adventi_gifts_settings', 'adventi_color_scheme', 'adventi_start_date', 'adventi_days_count', 'adventi_main_title', 'adventi_invitation_text', 'adventi_submit_text', 'adventi_day_prefix', 'adventi_tomorrow_message', 'adventi_download_text', 'adventi_future_msg');
+

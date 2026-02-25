@@ -1,0 +1,32 @@
+{
+  "options": [
+    "_wfb_clippy_first",
+    "_qcformbuilder_forms_styleincludes",
+    "_qcformbuilder_forms_entry_perpage",
+    "qcformbuilder_forms_api_token_secret",
+    "sidebars_widgets",
+    "widget_qcformbuilder_forms_widget",
+    "WFB_DB",
+    "_qcformbuilderforms_lastupdate",
+    "wordpress_api_key",
+    "_qcformbuilder_forms_tracking_allowed",
+    "_qcformbuilder_forms",
+    "_qcformbuilder_forms_forms",
+    "qlcd_wp_chatbot_admin_email",
+    "qlcd_wp_chatbot_conversation_details"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "qcformbuilder_forms_tracking_send_rows"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wfb_pointer_*",
+    "qcformbuilder_forms_activation_ignore_notice",
+    "wfb_pointer_add_element"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:42.705Z"
+}

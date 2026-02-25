@@ -1,0 +1,23 @@
+{
+  "options": [
+    "sga_analytics_id",
+    "sga_code_location",
+    "sga_demographic_and_interest",
+    "sga_render_when_loggedin",
+    "factory_plugin_versions",
+    "*_is_active"
+  ],
+  "transients": [
+    "wbcr_factory_google_fonts",
+    "wbcr_factory_google_fonts_raw"
+  ],
+  "cron_jobs": [
+    "wbcr/gac/update_analytic_library",
+    "wclearfy/google_tracking_cache_update",
+    "wbcr_clearfy_update_local_ga"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:12.089Z"
+}

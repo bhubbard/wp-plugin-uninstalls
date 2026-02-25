@@ -1,0 +1,16 @@
+{
+  "options": [
+    "title_main_heading",
+    "pcsp_bg_image_url",
+    "description_content_block",
+    "google_plus_url",
+    "facebook_page_url",
+    "twitter_handle_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:22.743Z"
+}

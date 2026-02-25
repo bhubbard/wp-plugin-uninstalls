@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cpth_settings",
+    "active_sitewide_plugins",
+    "woocommerce_product_category_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:23.717Z"
+}

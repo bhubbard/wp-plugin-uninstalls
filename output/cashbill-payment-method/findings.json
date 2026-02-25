@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cashbill_id",
+    "cashbill_secret",
+    "cashbill_psc_id",
+    "cashbill_psc_secret",
+    "cashbill_test",
+    "cashbill_psc_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:34.835Z"
+}

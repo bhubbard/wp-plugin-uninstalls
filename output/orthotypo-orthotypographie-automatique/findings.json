@@ -1,0 +1,24 @@
+{
+  "options": [
+    "rules-punctuation",
+    "rules-quotation_marks",
+    "rules-percentage",
+    "rules-pleasantries_m",
+    "rules-pleasantries_mme",
+    "rules-pleasantries_mlle",
+    "rules-pleasantries_dr",
+    "rules-pleasantries_pr",
+    "rules-number_er",
+    "rules-number_nd",
+    "rules-number_e",
+    "global-filters",
+    "debug_options-replace_space_by_underscore",
+    "debug_options-use_red_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:46.015Z"
+}

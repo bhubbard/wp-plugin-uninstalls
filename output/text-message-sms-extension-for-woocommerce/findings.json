@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wpbiztextwc_placeholders",
+    "wpbiztextwc_placeholders_fixed",
+    "wpbiztextwc_enable_status_changes_chbx",
+    "wpbiztextwc_enable_status_changes_admin_chbx",
+    "wpbiztextwc_hidden_field",
+    "*_notif_number",
+    "wpbiztextwc_*",
+    "*_order_txtarea",
+    "wpbiztextwc_add_mobile_field",
+    "wpbiztextwc_mobile_field_info",
+    "wpbiztextwc_mobile_field_requried",
+    "wpbiztextwc_mobile_field_use_phone",
+    "wpbiztextwc_set_change_order_admin_txtarea",
+    "wpbiztextwc_set_change_order_txtarea",
+    "*_order_admin_chbx",
+    "*_order_admin_txtarea",
+    "*_order_chbx",
+    "wpbiztextwc_notif_number",
+    "wpbiztextwc_notif_number_nickname",
+    "wpbiztextwc_biztext_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_mobile_wpbiztextwc_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:06.634Z"
+}

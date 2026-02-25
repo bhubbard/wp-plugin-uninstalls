@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lws_adminpanel_notices",
+    "lws-private-google-api-key",
+    "woocommerce_prices_include_tax",
+    "lws_woorewards_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lwss-last-used-fonts"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:40.038Z"
+}

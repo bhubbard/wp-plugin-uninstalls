@@ -1,0 +1,32 @@
+{
+  "options": [
+    "sts_default_approver",
+    "sts_powerdby_display",
+    "sts_recaptcha_settings",
+    "sts_categories",
+    "sts_departments",
+    "sts_email_notification",
+    "sts_plugin_style",
+    "sts_approvers",
+    "default_approver_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sts_ticket_id",
+    "sts_ticket_category",
+    "sts_ticket_department",
+    "sts_ticket_rate",
+    "sts_ticket_status",
+    "sts_comment_rate",
+    "sts_ticket_author",
+    "sts_ticket_approver",
+    "sts_ticket_author_email",
+    "si_support_approved",
+    "si_support_approver",
+    "si_support_approver_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:02.382Z"
+}

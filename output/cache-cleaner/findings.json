@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wplocalseo_cleaner_time",
+    "wplocalseo_cleaner_time_old",
+    "wplocalseo_cleaner_autoptimize",
+    "wplocalseo_cleaner_w3totalcache",
+    "wplocalseo_cleaner_wpsupercache",
+    "wplocalseo_cleaner_wpfastestcache",
+    "wplocalseo_cleaner_cometcache",
+    "wplocalseo_cleaner_cacheenabler",
+    "wplocalseo_cleaner_rocket",
+    "wplocalseo_cleaner_notify",
+    "wplocalseo_cleaner_notificationsemail"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wplocalseo_cleaner_clean_all_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:47.227Z"
+}

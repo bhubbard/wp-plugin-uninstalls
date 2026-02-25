@@ -1,0 +1,15 @@
+{
+  "options": [
+    "qwiz_options",
+    "qwiz_button_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qwizcards_username",
+    "qwizcards_password"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:33.666Z"
+}

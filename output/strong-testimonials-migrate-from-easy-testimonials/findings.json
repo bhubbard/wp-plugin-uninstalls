@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpmtst_plugin_missing_notice_hide"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "client_name",
+    "email",
+    "star_rating",
+    "nofollow",
+    "noopener",
+    "noreferrer",
+    "wpmtst_old_et_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:26.902Z"
+}

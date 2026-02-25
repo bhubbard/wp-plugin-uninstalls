@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('header_marquee_data_1', 'header_marquee_data_2', 'header_marquee_data_6', 'header_marquee_data', 'header_marquee_data_8', 'header_marquee_data_7', 'header_marquee_data_5', 'header_marquee_data_11', 'header_marquee_data_9', 'header_marquee_data_10', 'header_marquee_data_12', 'header_marquee_data_13', 'header_marquee_data_15', 'header_marquee_data_14', 'header_marquee_data_3', 'header_marquee_data_4');
+

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "pp_admintab_show",
+    "pp_clientuser_adminaccess",
+    "pp_clientuser_dashpage",
+    "pp_set_logout_url",
+    "pp_regfields_list",
+    "pp_contactfields_list",
+    "pp_contactemail_subject",
+    "pp_contactemail_mailto",
+    "pp_contactemail_msg",
+    "pp_icon_menu_item",
+    "pp_my_theme_has_bootstrap",
+    "pp_chosen_form_style",
+    "pp_formtoken",
+    "pp_ppprofile",
+    "pp_*",
+    "pp_pplogin",
+    "pp_pppasswordrecovery"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ppTokenGeneratorStarter"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:41.126Z"
+}

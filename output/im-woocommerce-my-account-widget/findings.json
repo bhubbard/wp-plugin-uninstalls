@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wma_login_with_email",
+    "woocommerce_cart_page_id",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woo_umf_uploaded_file_name_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:34.435Z"
+}

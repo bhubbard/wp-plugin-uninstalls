@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bbpf_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bbpress_followers",
+    "bbpress_following"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:27.181Z"
+}

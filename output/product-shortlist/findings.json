@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ced_ps_general_settings",
+    "ced_ps_smtp_settings",
+    "ced_ps_email_template_settings",
+    "ced_ps_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:29.173Z"
+}

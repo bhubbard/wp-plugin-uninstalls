@@ -1,0 +1,29 @@
+{
+  "options": [
+    "coremetrics_userID",
+    "coremetrics_blogID",
+    "cm_cookie_domain",
+    "cm_client_managed",
+    "cm_data_collection_domain",
+    "cm_eluminate_location",
+    "cm_custom_script",
+    "cm_custom_pageID",
+    "cm_test_override",
+    "cm_country_attribute",
+    "cm_language_attribute",
+    "cm_track_drafts",
+    "cm_dismiss_option",
+    "cm_customEventDB_version",
+    "cm_eventpoints_option",
+    "cm_eventpoints_onoff",
+    "cm_tactical_attributes",
+    "cm_strategic_attributes",
+    "cm_attribute_override"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:08.974Z"
+}

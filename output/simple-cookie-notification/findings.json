@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ba_cookie_link",
+    "ba_privacy_link",
+    "ba_cookie_text",
+    "ba_privacy_text",
+    "ba_set_cookie_on_interaction",
+    "ba_admin_bar_text",
+    "ba_button_color",
+    "ba_button_text",
+    "ba_json"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:45.365Z"
+}

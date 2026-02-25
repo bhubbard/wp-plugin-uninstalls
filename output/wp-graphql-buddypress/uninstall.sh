@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bp_type_singular_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bp_type_singular_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bp_type_singular_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bp_type_singular_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bp_type_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bp_type_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bp_type_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bp_type_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bp_type_has_directory'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bp_type_has_directory'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bp_type_has_directory'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bp_type_has_directory'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bp_type_directory_slug'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bp_type_directory_slug'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bp_type_directory_slug'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bp_type_directory_slug'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bp_type_show_in_list'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bp_type_show_in_list'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bp_type_show_in_list'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bp_type_show_in_list'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bp_type_show_in_create_screen'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bp_type_show_in_create_screen'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bp_type_show_in_create_screen'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bp_type_show_in_create_screen'"

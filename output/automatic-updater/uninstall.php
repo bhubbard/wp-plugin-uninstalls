@@ -1,0 +1,20 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('automatic-updater');
+delete_site_option('automatic-updater');
+
+// Delete Transients
+delete_transient('update_plugins');
+delete_site_transient('update_plugins');
+delete_transient('update_themes');
+delete_site_transient('update_themes');
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('auto_updater_svn_event');
+

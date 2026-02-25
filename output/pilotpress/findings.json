@@ -1,0 +1,35 @@
+{
+  "options": [
+    "pilotpress_api_version",
+    "pilotpress-settings",
+    "ppprotectDbVersion"
+  ],
+  "transients": [
+    "pilotpress_admin_preview",
+    "pilotpress_cache",
+    "usertags_*",
+    "pilotpress_tracking_url",
+    "pilotpress_tracking",
+    "authenticate_user*",
+    "login_url_pilotpress_user*",
+    "pilotpress_redirect_to*",
+    "pilotpress_recent_password_set*",
+    "authenticate_user_pilotpress_user*",
+    "pilotpress_login_failed",
+    "pilotpress_throttle*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*level",
+    "pilotpress_blocked",
+    "*redirect_location",
+    "_pilotpress_level",
+    "*system_page",
+    "_pilotpress_system_page",
+    "*user_level",
+    "_ppProtectCatOverride"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:51.935Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*-V1",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_placeholder_image",
+    "woocommerce_prices_include_tax"
+  ],
+  "transients": [
+    "*download_filename"
+  ],
+  "cron_jobs": [
+    "wc_export_cron_global"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "woe_order_exported*",
+    "_*",
+    "_downloadable_files"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:24.382Z"
+}

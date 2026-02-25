@@ -1,0 +1,25 @@
+{
+  "options": [
+    "widget_block",
+    "woocommerce_enable_ajax_add_to_cart",
+    "woocommerce_tax_display_shop",
+    "last_demo_unlink_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_booster_product_banner_img",
+    "thumbnail_id",
+    "_wp_attachment_image_alt",
+    "rating",
+    "total_sales",
+    "wc_booster_product_usps",
+    "wc_booster_wishlist",
+    "_stock",
+    "wc_booster_favourites_demo",
+    "wc_booster_category_icon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:06.552Z"
+}

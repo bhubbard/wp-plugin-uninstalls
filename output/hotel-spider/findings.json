@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hsbe_hotel_id",
+    "hs_booking_engine"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:39.793Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_allowed_countries",
+    "woocommerce_specific_allowed_countries",
+    "woocommerce_ship_to_countries",
+    "woocommerce_specific_ship_to_countries",
+    "edit_shop_order_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "street",
+    "city",
+    "postCode",
+    "houseNumber",
+    "county",
+    "longitude",
+    "latitude"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:12.182Z"
+}

@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('taqnix_api_key', 'taqnix_2factor_api_key', 'otpless_client_id', 'otpless_client_secrete', 'taqnix_app_builder_site_url', 'taqnix_app_builder_license_key', 'taqnix_db_version', 'wc_points_rewards_redeem_points_message', 'wc_points_rewards_earn_points_message', 'woocommerce_enable_guest_checkout', 'taqnix_app_config', 'woocommerce_paystack_settings');
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+DELETE FROM wp_options WHERE option_name LIKE 'taqnix_otp_request_id_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wc_points_modifier', 'thumbnail_id', 'taqnix_cat_banner', 'brand_thumbnail_id', 'pwb_brand_image', 'pwb_brand_banner', 'billing_phone', '_transaction_id', '_wc_paystack_save_card', '_paystack_token', 'bao_wishlist', 'product_attribute_color', 'product_attribute_image', '_product_addons_exclude_global', '_product_addons', '_priority', 'rating', 'first_name', 'last_name', 'billing_first_name', 'billing_last_name', 'shipping_first_name', 'shipping_last_name');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wc_points_modifier', 'thumbnail_id', 'taqnix_cat_banner', 'brand_thumbnail_id', 'pwb_brand_image', 'pwb_brand_banner', 'billing_phone', '_transaction_id', '_wc_paystack_save_card', '_paystack_token', 'bao_wishlist', 'product_attribute_color', 'product_attribute_image', '_product_addons_exclude_global', '_product_addons', '_priority', 'rating', 'first_name', 'last_name', 'billing_first_name', 'billing_last_name', 'shipping_first_name', 'shipping_last_name');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wc_points_modifier', 'thumbnail_id', 'taqnix_cat_banner', 'brand_thumbnail_id', 'pwb_brand_image', 'pwb_brand_banner', 'billing_phone', '_transaction_id', '_wc_paystack_save_card', '_paystack_token', 'bao_wishlist', 'product_attribute_color', 'product_attribute_image', '_product_addons_exclude_global', '_product_addons', '_priority', 'rating', 'first_name', 'last_name', 'billing_first_name', 'billing_last_name', 'shipping_first_name', 'shipping_last_name');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wc_points_modifier', 'thumbnail_id', 'taqnix_cat_banner', 'brand_thumbnail_id', 'pwb_brand_image', 'pwb_brand_banner', 'billing_phone', '_transaction_id', '_wc_paystack_save_card', '_paystack_token', 'bao_wishlist', 'product_attribute_color', 'product_attribute_image', '_product_addons_exclude_global', '_product_addons', '_priority', 'rating', 'first_name', 'last_name', 'billing_first_name', 'billing_last_name', 'shipping_first_name', 'shipping_last_name');
+

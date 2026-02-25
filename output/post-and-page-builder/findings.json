@@ -1,0 +1,50 @@
+{
+  "options": [
+    "woocommerce_shop_page_id",
+    "boldgrid_api_key",
+    "boldgrid_install_options",
+    "boldgrid_onboarding_videos",
+    "boldgrid_staging_stylesheet",
+    "theme_mods_*",
+    "boldgrid_attribution",
+    "boldgrid_site_hash",
+    "bg_connect_configs",
+    "bglib_configs",
+    "boldgrid_reseller",
+    "boldgrid_connect_hide_menu",
+    "boldgrid_settings",
+    "boldgrid_plugin_page_notices",
+    "_transient_timeout_boldgrid_plugin_information",
+    "boldgrid_backup_settings",
+    "bglib_activity",
+    "bglib_rating_prompt"
+  ],
+  "transients": [
+    "boldgrid_api_data",
+    "boldgrid_available",
+    "bg_license_data",
+    "boldgrid_plugins_filtered",
+    "update_plugins",
+    "boldgrid_plugin_information",
+    "update_themes",
+    "boldgrid_theme_information",
+    "random_seed",
+    "boldgrid_theme_data",
+    "boldgrid_plugins",
+    "boldgrid_wporg_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "boldgrid_hide_page_title",
+    "_wp_page_template",
+    "boldgrid_in_page_containers",
+    "dismissed_wp_pointers",
+    "_bgppb_default_editor",
+    "meta-box-order_dashboard",
+    "bglibDashboardOrder",
+    "boldgrid_dismissed_admin_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:38.824Z"
+}

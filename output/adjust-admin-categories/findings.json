@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aac_options"
+  ],
+  "transients": [
+    "post-updated",
+    "post-error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:56.792Z"
+}

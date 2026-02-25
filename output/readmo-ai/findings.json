@@ -1,0 +1,17 @@
+{
+  "options": [
+    "readmo_ai_settings",
+    "readmo_ai_auto_insert"
+  ],
+  "transients": [
+    "readmo_ai_client_id",
+    "readmo_ai_path_info"
+  ],
+  "cron_jobs": [
+    "readmo_ai_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:16.936Z"
+}

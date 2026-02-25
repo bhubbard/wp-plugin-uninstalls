@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [
+    "codecorun_por_rules_cached-*",
+    "codecorun_por_offers_cached-*",
+    "codecorun_por_fallback_cached-*",
+    "codecorun_por_rules_cached"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "codecorun-por-offers",
+    "codecorun-por-rules",
+    "codecorun-por-fallback",
+    "codecorun_por_settings",
+    "_customer_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:12.045Z"
+}

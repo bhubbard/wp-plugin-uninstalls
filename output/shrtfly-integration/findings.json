@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_enabled",
+    "*_enabled_stats",
+    "*_enabled_amp",
+    "*_api_token",
+    "*_include_exclude_domains_choose",
+    "*_include_exclude_domains_value",
+    "*_ads_type"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shrtfly_cleanup_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:31.793Z"
+}

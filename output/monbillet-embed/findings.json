@@ -1,0 +1,13 @@
+{
+  "options": [
+    "monbillet_embed_field_twig_sandbox",
+    "monbillet_embed_field_api_token",
+    "monbillet_embed_field_api_cache_duration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:00.911Z"
+}

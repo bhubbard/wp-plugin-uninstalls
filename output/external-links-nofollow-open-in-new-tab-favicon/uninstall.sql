@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('dh_nf_whitelist_domains', 'dh_nf_blacklist_domains', 'dh_nf_target_blank', 'dh_nf_icons_before_after', 'dh_nf_show_extlink', 'dh_nf_show_favicon', 'dh_nf_affproduct_amazon_br', 'dh_nf_affproduct_amazon_ca', 'dh_nf_affproduct_amazon_cn', 'dh_nf_affproduct_amazon_com', 'dh_nf_affproduct_amazon_com_au', 'dh_nf_affproduct_amazon_co_jp', 'dh_nf_affproduct_amazon_co_uk', 'dh_nf_affproduct_amazon_de', 'dh_nf_affproduct_amazon_es', 'dh_nf_affproduct_amazon_fr', 'dh_nf_affproduct_amazon_in', 'dh_nf_affproduct_amazon_it', 'dh_nf_affproduct_amazon_mx', 'dh_nf_amazon_buynow_target', 'dh_nf_amazon_buynow_display', 'dh_nf_affproduct_rakuten_id', 'dh_nf_affproduct_rakuten_mids', 'dh_nf_affproduct_zazzle_id');
+

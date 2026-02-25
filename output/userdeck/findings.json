@@ -1,0 +1,15 @@
+{
+  "options": [
+    "userdeck"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "userdeck_guides_key",
+    "userdeck_account_key",
+    "userdeck_mailbox_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:38.262Z"
+}

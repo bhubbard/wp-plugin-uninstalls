@@ -1,0 +1,19 @@
+{
+  "options": [
+    "schsmst_batch_processing",
+    "schsmst_batch_offset",
+    "schsmst_batch_total",
+    "schsmst_batch_post_type",
+    "schsmst_enable_collapsible"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_schsmst_faq_schema",
+    "_schsmst_last_check",
+    "_schsmst_qa_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:33.084Z"
+}

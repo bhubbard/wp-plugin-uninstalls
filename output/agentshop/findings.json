@@ -1,0 +1,22 @@
+{
+  "options": [
+    "agentshop_settings",
+    "_transient_timeout_*"
+  ],
+  "transients": [
+    "agentshop_activated",
+    "agentshop_oauth_state",
+    "agentshop_sync_check",
+    "agentshop_wp_creds_attempted",
+    "*standard",
+    "*full"
+  ],
+  "cron_jobs": [
+    "agentshop_daily_sync",
+    "agentshop_cleanup_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:39.088Z"
+}

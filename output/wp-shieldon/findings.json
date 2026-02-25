@@ -1,0 +1,22 @@
+{
+  "options": [
+    "shieldon_*",
+    "wpso_last_reset_time",
+    "shieldon_authetication",
+    "shieldon_xss_protected_type",
+    "shieldon_xss_protected_list",
+    "wpso_driver_reset",
+    "wpso_version",
+    "shieldon_component",
+    "shieldon_xss_protection",
+    "wpso_driver_hash",
+    "wpso_lang_code",
+    "wpso_channel_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:40.606Z"
+}

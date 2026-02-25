@@ -1,0 +1,24 @@
+{
+  "options": [
+    "rewrite_rules",
+    "wp-classroom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-classroom_mb_user_class_access",
+    "wp-classroom_mb_user_course_access",
+    "_classroom_classes",
+    "_classroom_courses",
+    "_classroom_duration",
+    "_classroom_duration_uom",
+    "wp_classroom_video",
+    "_wp_course_course_redirect",
+    "wp_classroom_redirect",
+    "wp_classroom_completed",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:29.458Z"
+}

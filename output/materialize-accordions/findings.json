@@ -1,0 +1,23 @@
+{
+  "options": [
+    "Activated_Plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hide_section_title",
+    "_show_hide_links",
+    "_title_bg_clr",
+    "_desc_bg_clr",
+    "_title_font_clr",
+    "_desc_font_clr",
+    "custom_user_css",
+    "custom_user_js",
+    "_title_meta_key_*",
+    "_content_editor_meta_key_*",
+    "_total_all_data_value"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:20.775Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_status",
+    "*queryLimit",
+    "*_custom_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:12.013Z"
+}

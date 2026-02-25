@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_version",
+    "*remove_remove_dashicons",
+    "*remove_rsd_link",
+    "*remove_wlwmanifest_link",
+    "*remove_rss_feed_links",
+    "*remove_next_prev_links",
+    "*remove_shortlink",
+    "*remove_wp_generator",
+    "*remove_version_numbers_from_style_script",
+    "*disable_wp_emojicons",
+    "*disable_json_api",
+    "*remove_canonical",
+    "*remove_woo_generator",
+    "*disable_wp_widgets",
+    "*remove_jquery_migrate",
+    "*disable_xmlrpc",
+    "*remove_block_scripts",
+    "*disable_gravatar"
+  ],
+  "transients": [
+    "*transient_settingsv3",
+    "*transient_settings"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:07.952Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpspamcommtotal_val",
+    "wpspamcommscheduled_val",
+    "wpspamcommhours_val"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "WPSpamCommentEvent"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:53.532Z"
+}

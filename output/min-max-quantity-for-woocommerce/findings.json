@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_qty_step",
+    "_qty_max",
+    "_qty_min"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:52.585Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mailpoet_wp_ecommerce_subscribe_too",
+    "mailpoet_enable_checkout",
+    "mailpoet_checkout_label",
+    "mailpoet_wp_ecommerce_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:58.725Z"
+}

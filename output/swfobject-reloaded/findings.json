@@ -1,0 +1,23 @@
+{
+  "options": [
+    "mc_setting_name",
+    "mc_iphone_setting_name",
+    "mc_feed_setting_name",
+    "mc_altcontent_setting_name",
+    "mc_params_setting_name",
+    "mc_flashver_setting_name",
+    "embed_size_w",
+    "embed_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mc_x",
+    "_mc_y",
+    "_mc_base",
+    "_mc_swfver"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:53.455Z"
+}

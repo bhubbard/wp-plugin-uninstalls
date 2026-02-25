@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_tax_based_on', 'woocommerce_store_address', 'woocommerce_store_city', 'woocommerce_store_postcode', 'woocommerce_default_country', 'woocommerce_calc_taxes', 'woocommerce_prices_include_tax', 'woocommerce_shipping_tax_class', 'woocommerce_tax_round_at_subtotal', 'woocommerce_tax_display_shop', 'woocommerce_tax_display_cart', 'woocommerce_tax_total_display', 'taxjar_version', 'woocommerce_taxjar-integration_settings', 'active_sitewide_plugins', 'woocommerce_db_version', 'taxjar_installing', 'tj_nexus');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('tax_exemption_type', 'tax_exempt_regions', '_taxjar_last_sync', '_taxjar_hash', 'woocommerce_api_consumer_key', 'woocommerce_api_consumer_secret', 'woocommerce_api_key_permissions');
+DELETE FROM wp_usermeta WHERE meta_key IN ('tax_exemption_type', 'tax_exempt_regions', '_taxjar_last_sync', '_taxjar_hash', 'woocommerce_api_consumer_key', 'woocommerce_api_consumer_secret', 'woocommerce_api_key_permissions');
+DELETE FROM wp_termmeta WHERE meta_key IN ('tax_exemption_type', 'tax_exempt_regions', '_taxjar_last_sync', '_taxjar_hash', 'woocommerce_api_consumer_key', 'woocommerce_api_consumer_secret', 'woocommerce_api_key_permissions');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('tax_exemption_type', 'tax_exempt_regions', '_taxjar_last_sync', '_taxjar_hash', 'woocommerce_api_consumer_key', 'woocommerce_api_consumer_secret', 'woocommerce_api_key_permissions');
+

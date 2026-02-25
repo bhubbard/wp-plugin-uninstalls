@@ -1,0 +1,15 @@
+{
+  "options": [
+    "iat_alt_text_count",
+    "iat_review_reminder",
+    "iat_do_not_show_again"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:07.757Z"
+}

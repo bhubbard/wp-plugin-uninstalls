@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "field_type_cfwjm",
+    "field_location_cfwjm",
+    "field_options_cfwjm",
+    "field_required_cfwjm",
+    "field_placeholder_cfwjm",
+    "field_dateformat_cfwjm"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:43.365Z"
+}

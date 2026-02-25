@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpyg_min_h",
+    "wpyg_lightbox",
+    "wpyg_iframe_w",
+    "wpyg_desc",
+    "wpyg_title",
+    "wpyg_content_limit",
+    "wpyg_per_row_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpyg_video-id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:32.703Z"
+}

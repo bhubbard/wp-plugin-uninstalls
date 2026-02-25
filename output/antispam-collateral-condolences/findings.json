@@ -1,0 +1,12 @@
+{
+  "options": [
+    "cws_acc_comment_status",
+    "cws_acc_notification_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:59.831Z"
+}

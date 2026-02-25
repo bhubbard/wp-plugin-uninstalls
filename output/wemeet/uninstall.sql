@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wemeet_webex_settings', 'wemeet_zoom_settings', 'wemeet_jitsi_settings', 'wemeet_google_meet_settings', 'wemeet_addons_settings', 'wemeet_integration_settings', 'wemeet_webex_auth_prepare', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'wemeet_zoom_settings_live', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+DELETE FROM wp_options WHERE option_name LIKE 'wemeet_oauth_state_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wemeet_webex_access_token', 'wemeet_webex_meeting_id', 'wemeet_webex_join_link', 'wemeet_webex_meeting_duration', 'wemeet_webex_details', 'wemeet__meeting_settings', 'meeting_description', 'wemeet_meeting_status', 'wemeet_meeting_start_status', 'wemeet_connect_as_product', 'wemeet_connect_product_id', '_wemeet_visibility_mode', '_wemeet_visibility_roles', '_wemeet_visibility_users');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wemeet_webex_access_token', 'wemeet_webex_meeting_id', 'wemeet_webex_join_link', 'wemeet_webex_meeting_duration', 'wemeet_webex_details', 'wemeet__meeting_settings', 'meeting_description', 'wemeet_meeting_status', 'wemeet_meeting_start_status', 'wemeet_connect_as_product', 'wemeet_connect_product_id', '_wemeet_visibility_mode', '_wemeet_visibility_roles', '_wemeet_visibility_users');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wemeet_webex_access_token', 'wemeet_webex_meeting_id', 'wemeet_webex_join_link', 'wemeet_webex_meeting_duration', 'wemeet_webex_details', 'wemeet__meeting_settings', 'meeting_description', 'wemeet_meeting_status', 'wemeet_meeting_start_status', 'wemeet_connect_as_product', 'wemeet_connect_product_id', '_wemeet_visibility_mode', '_wemeet_visibility_roles', '_wemeet_visibility_users');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wemeet_webex_access_token', 'wemeet_webex_meeting_id', 'wemeet_webex_join_link', 'wemeet_webex_meeting_duration', 'wemeet_webex_details', 'wemeet__meeting_settings', 'meeting_description', 'wemeet_meeting_status', 'wemeet_meeting_start_status', 'wemeet_connect_as_product', 'wemeet_connect_product_id', '_wemeet_visibility_mode', '_wemeet_visibility_roles', '_wemeet_visibility_users');
+

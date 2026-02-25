@@ -1,0 +1,21 @@
+{
+  "options": [
+    "bwcs_enable_plugin",
+    "bwcs_coming_soon_page",
+    "bwcs_roles",
+    "bwcs_other_pages",
+    "woocommerce_shop_page_id",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:34.446Z"
+}

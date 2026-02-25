@@ -1,0 +1,21 @@
+{
+  "options": [
+    "bizzplugin_webhook_*",
+    "bizzplugin_webhook_secret_*",
+    "bizzplugin_webhooks_*",
+    "bizzorder_settings"
+  ],
+  "transients": [
+    "codersaiful_browse_plugins"
+  ],
+  "cron_jobs": [
+    "bizzorder_check_preorders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bizzorder_is_preorder",
+    "_bizzorder_preorder_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:30.381Z"
+}

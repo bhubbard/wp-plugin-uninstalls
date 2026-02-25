@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_id_store",
+    "*-settings",
+    "*csv_import_params",
+    "sm_session_db_version"
+  ],
+  "transients": [
+    "xnau-updater-notice-plugins",
+    "*-initial-tz",
+    "*final-report",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:26.981Z"
+}

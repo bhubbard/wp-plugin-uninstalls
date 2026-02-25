@@ -1,0 +1,16 @@
+{
+  "options": [
+    "w2w_options",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "w2w_dismissed_notices",
+    "*_dismissed_notices",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:55.672Z"
+}

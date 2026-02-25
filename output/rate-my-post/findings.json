@@ -1,0 +1,25 @@
+{
+  "options": [
+    "rmp_options",
+    "rmp_customize_strings",
+    "rmp_security",
+    "rmp_admin_notices",
+    "rmp_bulk_rate_flag",
+    "rmp_version",
+    "rmp_license_key"
+  ],
+  "transients": [
+    "yolo-plugin-info-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rmp_avg_rating",
+    "rmp_vote_count",
+    "rmp_rating_val_sum",
+    "rmp_feedback_val",
+    "rmp_feedback_val_new"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:30.865Z"
+}

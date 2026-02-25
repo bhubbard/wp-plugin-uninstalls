@@ -1,0 +1,15 @@
+{
+  "options": [
+    "brenwpcache_debug_log",
+    "brenwpcache_hmac_key"
+  ],
+  "transients": [
+    "brenwpcache_notice_*",
+    "brenwpcache_cache_size"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:07.772Z"
+}

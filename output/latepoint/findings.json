@@ -1,0 +1,27 @@
+{
+  "options": [
+    "latepoint_wizard_visited",
+    "latepoint_redirect_to_wizard",
+    "latepoint_show_version_5_modal",
+    "latepoint_blocks_styles_*",
+    "*_addon_db_version",
+    "latepoint_db_version",
+    "latepoint_page_customer-cabinet",
+    "latepoint_db_seeded"
+  ],
+  "transients": [
+    "csv_import_file_*"
+  ],
+  "cron_jobs": [
+    "latepoint_check_if_addons_update_available",
+    "latepoint_clear_old_activity_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "latepoint_admin_menu_style",
+    "latepoint_custom_capabilities",
+    "latepoint_custom_allowed_records"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:39.323Z"
+}

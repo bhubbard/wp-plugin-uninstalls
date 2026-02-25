@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wavr_default_server",
+    "wavr_default_bgcolor",
+    "wavr_default_color",
+    "wavr_default_font",
+    "wavr_default_font_size",
+    "wavr_default_width",
+    "wavr_default_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:01.572Z"
+}

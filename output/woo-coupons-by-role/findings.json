@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wc_settings_tab_hide_coupons_roles",
+    "wc_settings_tab_hide_coupons_message_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:15.754Z"
+}

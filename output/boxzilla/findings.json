@@ -1,0 +1,20 @@
+{
+  "options": [
+    "boxzilla_version",
+    "boxzilla_settings",
+    "boxzilla_rules"
+  ],
+  "transients": [
+    "boxzilla_remote_extensions",
+    "boxzilla_request_failed"
+  ],
+  "cron_jobs": [
+    "boxzilla_check_license_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "boxzilla_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:25.543Z"
+}

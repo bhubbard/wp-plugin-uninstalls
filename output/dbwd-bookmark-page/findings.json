@@ -1,0 +1,13 @@
+{
+  "options": [
+    "DBWD_Menu_Control",
+    "DBWD_Bookmark_Page_Lite",
+    "DBWD_bookmark_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:43.891Z"
+}

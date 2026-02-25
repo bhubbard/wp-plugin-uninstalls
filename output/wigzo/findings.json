@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wigzo_org_token",
+    "wigzo_pwa",
+    "wigzo_pwaData",
+    "wigzo_challenge",
+    "wigzo_orgId",
+    "wigzo_pwaFilesPath",
+    "wigzo_browserpush",
+    "wigzo_viahttps",
+    "wigzo_onsitepush",
+    "wigzo_token",
+    "wigzo_oauth",
+    "wigzo_client_id",
+    "wigzo_enabled"
+  ],
+  "transients": [
+    "wigzo_order_update_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:59.586Z"
+}

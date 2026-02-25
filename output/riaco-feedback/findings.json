@@ -1,0 +1,14 @@
+{
+  "options": [
+    "riaco_feedback_slug",
+    "riaco_notify_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "term_color"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:22.459Z"
+}

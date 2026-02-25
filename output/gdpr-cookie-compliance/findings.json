@@ -1,0 +1,21 @@
+{
+  "options": [
+    "gdpr_hide_update_notice_*",
+    "gdpr_cc_has_database",
+    "gdpr_cc_db_created"
+  ],
+  "transients": [
+    "update_plugins",
+    "plugin_info_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gdpr_cc_dismiss_stamp_p",
+    "gdpr_cc_dismiss_stamp",
+    "gdpr_cc_dismiss_stamp*",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:32.324Z"
+}

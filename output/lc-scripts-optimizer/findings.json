@@ -1,0 +1,25 @@
+{
+  "options": [
+    "lcso_cache_times",
+    "lcso_enable",
+    "lcso_not_for_html",
+    "lcso_queued_scripts",
+    "lcso_queued_styles",
+    "lcso_js_filter",
+    "lcso_css_filter",
+    "lcso_ignored_*",
+    "lcso_js_ignore",
+    "lcso_css_ignore",
+    "lcso_inl_js_ignore",
+    "lcso_tweak_htaccess",
+    "*_ignore",
+    "*_filter",
+    "*_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:10.210Z"
+}

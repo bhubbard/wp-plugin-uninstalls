@@ -1,0 +1,22 @@
+{
+  "options": [
+    "debugm_log_file_path",
+    "debugm_js_log_file_path",
+    "debugm_js_error_logging",
+    "debugm_log_status",
+    "debugm_autorefresh",
+    "debugm_modify_script_debug",
+    "debugm_process_non_utc_timezones",
+    "debugm_log_status_changed",
+    "debugm_*",
+    "debugm_wp_config_backup"
+  ],
+  "transients": [
+    "debugm_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:26.668Z"
+}

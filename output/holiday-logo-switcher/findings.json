@@ -1,0 +1,17 @@
+{
+  "options": [
+    "whls_default_logo",
+    "whls_dark_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "whls_options_from_date_",
+    "whls_options_to_date_",
+    "logo_options_image_alt",
+    "whls_options_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:00.620Z"
+}

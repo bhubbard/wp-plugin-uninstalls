@@ -1,0 +1,17 @@
+{
+  "options": [
+    "nelio_popups_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nelio_popups_active_popup",
+    "_nelio_popups_is_enabled",
+    "_nelio_popups_target",
+    "_nelio_popups_triggers",
+    "_nelio_popups_conditions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:26.389Z"
+}

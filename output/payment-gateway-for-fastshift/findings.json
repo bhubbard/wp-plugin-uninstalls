@@ -1,0 +1,22 @@
+{
+  "options": [
+    "hkdigital_fastshift_version_option",
+    "woocommerce_payment-gateway-for-fastshift_settings",
+    "hkdigital_language_payment_fastshift",
+    "language_payment_fastshift",
+    "hkdigital_payment-gateway-for-fastshift_verification_id",
+    "hkdigtial_check_activation_fastshift",
+    "hkdigital_dump",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cronCheckOrder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "OrderGuid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:22.543Z"
+}

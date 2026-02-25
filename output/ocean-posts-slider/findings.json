@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*-version",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "oceanwp_ps_post_type",
+    "oceanwp_ps_style",
+    "oceanwp_ps_number",
+    "oceanwp_ps_number_per_slide",
+    "oceanwp_ps_include_cat",
+    "oceanwp_ps_exclude_cat",
+    "oceanwp_ps_space_between",
+    "oceanwp_ps_size",
+    "oceanwp_ps_img_width",
+    "oceanwp_ps_img_height",
+    "oceanwp_ps_speed",
+    "oceanwp_ps_order",
+    "oceanwp_ps_orderby",
+    "oceanwp_ps_more_text",
+    "oceanwp_ps_limit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:22.099Z"
+}

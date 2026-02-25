@@ -1,0 +1,14 @@
+{
+  "options": [
+    "multi_author_donation_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "multi_author_donation_paypal_email",
+    "multi_author_donation_stripe_account_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:21.519Z"
+}

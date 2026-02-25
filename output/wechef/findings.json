@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wechef_bgcolor",
+    "wechef_txtcolor",
+    "wechef_font",
+    "wechef_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:13.558Z"
+}

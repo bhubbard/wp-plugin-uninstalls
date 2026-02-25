@@ -1,0 +1,20 @@
+{
+  "options": [
+    "kt_color_grid_sets",
+    "kt_color_grid_custom",
+    "kt_color_grid_visual",
+    "kt_color_grid_palette",
+    "kt_color_grid_oceanwp_alpha",
+    "kt_color_grid_gp_alpha",
+    "kt_color_grid_type",
+    "kt_color_grid_mce_reset",
+    "kt_color_grid_astra_theme",
+    "kt_color_grid_gp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:30.268Z"
+}

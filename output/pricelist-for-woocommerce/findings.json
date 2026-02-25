@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "*_other_version_is_active"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:52.555Z"
+}

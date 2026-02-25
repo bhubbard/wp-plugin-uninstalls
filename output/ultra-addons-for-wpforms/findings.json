@@ -1,0 +1,39 @@
+{
+  "options": [
+    "ultrawpf_install_date",
+    "ultrawpf_upload_dir_created",
+    "uawpf_gs_client_id",
+    "uawpf_gs_client_secret",
+    "uawpf_gs_redirect_uri",
+    "uawpf_gs_token",
+    "wpforms_providers",
+    "ultrawpfpro_status",
+    "ultrawpf_settings",
+    "uawpf_promo__schedule_start_from",
+    "uawpf_promo__schedule_option",
+    "tf_promo_notice_exists",
+    "tf_promo_widget_exists",
+    "uawpf_dashboard_widget_dismissed",
+    "tf_dismiss_admin_notice",
+    "uawpf_dismiss_post_notice",
+    "ultrawpf_setup_wizard",
+    "ultrawpf_installed",
+    "ultrawpf_installed_time",
+    "ultrawpf_version",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "uawpf_promo__schedule",
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ultrawpf_form_opt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:18.673Z"
+}

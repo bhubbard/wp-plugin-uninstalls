@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gallery_for_immich_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gallery_for_immich_cleanup_shared_link"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:17.777Z"
+}

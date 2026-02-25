@@ -1,0 +1,14 @@
+{
+  "options": [
+    "disable_everything_settings"
+  ],
+  "transients": [
+    "disable_everything_dbtype",
+    "disable_everything_dbversion"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:42.995Z"
+}

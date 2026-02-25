@@ -1,0 +1,16 @@
+{
+  "options": [
+    "clinicsoftwarecom_form_fields",
+    "clinicsoftwarecom_mapping_fields",
+    "clinicsoftwarecom_client_key",
+    "clinicsoftwarecom_client_secret",
+    "clinicsoftwarecom_client_alias",
+    "clinicsoftwarecom_client_server"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:08.641Z"
+}

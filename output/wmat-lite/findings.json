@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wmat_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wmat_ml_cron",
+    "wmat_send_additional_message"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "telegram_id",
+    "wmat_session_id",
+    "wmat_login_token",
+    "wmat_token_expiration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:36.926Z"
+}

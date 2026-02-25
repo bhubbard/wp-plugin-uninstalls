@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sm_uci_pro_settings",
+    "smack_image_options",
+    "total_attachment_ids",
+    "failed_attachment_ids",
+    "wpmembers_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smack_uci_import",
+    "*capabilities",
+    "sendPassword"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:57.200Z"
+}

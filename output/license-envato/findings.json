@@ -1,0 +1,18 @@
+{
+  "options": [
+    "license_envato_token_valid",
+    "license_envato_token_secret",
+    "license_envato_installed",
+    "LICENSE_ENVATO_VERSION",
+    "*_envato_token",
+    "*_envato_is_activated",
+    "*_envato_itemid",
+    "*_envato_purchase_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:02.873Z"
+}

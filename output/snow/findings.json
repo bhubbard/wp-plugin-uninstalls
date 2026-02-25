@@ -1,0 +1,19 @@
+{
+  "options": [
+    "snow",
+    "snowadvanced",
+    "snowtechnical"
+  ],
+  "transients": [
+    "snow_*",
+    "snow_intro_general",
+    "snow_intro_advanced",
+    "snow_intro_technical",
+    "snow_hello"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:15.657Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "kbfnr_settings",
+    "kbfnr_error_log",
+    "kbfnr_usage",
+    "kbfnr_schema_version",
+    "ms_files_rewriting",
+    "active_sitewide_plugins",
+    "kbd_settings",
+    "kbd_backup_aliases"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kbfnr_dismiss_*",
+    "kbfnr_reminder_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:29.618Z"
+}

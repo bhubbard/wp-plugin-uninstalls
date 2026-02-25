@@ -1,0 +1,12 @@
+{
+  "options": [
+    "lana_shortcodes_bootstrap_version",
+    "lana_shortcodes_bootstrap_load"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:26.722Z"
+}

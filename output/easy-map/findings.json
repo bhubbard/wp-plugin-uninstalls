@@ -1,0 +1,14 @@
+{
+  "options": [
+    "easy_map_setting",
+    "easy_map_version",
+    "easy_map_marker_image_id",
+    "easy_map_marker_image_id_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:38.783Z"
+}

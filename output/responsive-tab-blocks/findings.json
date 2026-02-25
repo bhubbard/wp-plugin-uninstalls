@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_grtb_tabs_bg_color",
+    "_gt_tabs_style",
+    "_gt_blocksperline",
+    "_gt_displayinrow",
+    "_gt_show_blocks",
+    "_gt_breakpoint",
+    "_gt_tbg",
+    "_grtb_original_font",
+    "_gt_tab_contents",
+    "_gt_showcontents",
+    "_gt_original_font"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:17.591Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "socialwire_cron_token",
+    "pcn_generator_settings",
+    "pcn_generator_unique_id",
+    "pcn_rss_last_modified",
+    "pcn_rss_latest_pub_date",
+    "socialwire_featured_image_settings",
+    "socialwire_content_image_settings",
+    "pcn_text_settings",
+    "pcn_manually_deleted_document_ids",
+    "pcn_link_settings",
+    "socialwire_content_text_settings",
+    "socialwire_custom_field_settings",
+    "socialwire_cached_browser_domain"
+  ],
+  "transients": [
+    "socialwire_rss_import_in_progress"
+  ],
+  "cron_jobs": [
+    "socialwire_scheduled_generate",
+    "socialwire_scheduled_rss_fetch",
+    "socialwire_scheduled_url_notify"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pcn_document_id",
+    "pcn_url_notified",
+    "pcn_generated",
+    "pcn_eyecatch_url",
+    "pcn_original_image_url",
+    "*_attachment_id",
+    "pcn_original_attachment_id",
+    "pcn_manually_edited",
+    "pcn_manual_edit_type",
+    "pcn_manual_content_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:52.670Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_ultimate_popunder_version",
+    "_ultimate_popunder_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_popunder_url",
+    "_popunder_post_type",
+    "_popunder_post_visible",
+    "_popunder_priority"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:46.961Z"
+}

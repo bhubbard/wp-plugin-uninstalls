@@ -1,0 +1,33 @@
+{
+  "options": [
+    "alphastay_custom_roles_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "blocked_rooms",
+    "veg_count",
+    "nonveg_count",
+    "discount",
+    "booking_via_app",
+    "checkin_status",
+    "checkin_timestamp",
+    "paid_status",
+    "paid_timestamp",
+    "property_owner",
+    "multiuser_access",
+    "adult_price",
+    "child_price",
+    "total_room_inventory",
+    "max_occupancy",
+    "checkin_time",
+    "checkout_time",
+    "address_property",
+    "phone_contact",
+    "gmap_link",
+    "label_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:16.452Z"
+}

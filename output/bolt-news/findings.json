@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bolt_news_enable",
+    "bolt_news_label",
+    "bolt_news_data",
+    "bolt_news_titolo",
+    "bolt_news_testo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:59.034Z"
+}

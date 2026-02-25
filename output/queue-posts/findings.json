@@ -1,0 +1,15 @@
+{
+  "options": [
+    "queue_posts_time_from",
+    "queue_posts_time_to",
+    "queue_posts_minimum_interval",
+    "queue_posts_minimum_interval_type",
+    "queue_posts_last_queued"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:41.428Z"
+}

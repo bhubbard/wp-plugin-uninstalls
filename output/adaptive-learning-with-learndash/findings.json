@@ -1,0 +1,22 @@
+{
+  "options": [
+    "al_version"
+  ],
+  "transients": [
+    "al-branding"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ld_adaptive_learning_stats",
+    "_sfwd-quizzes",
+    "ld_al_pre_req_course_perc",
+    "_sfwd-courses-levels",
+    "_sfwd-courses",
+    "sfwd-courses_course_level",
+    "rating_action",
+    "_sfwd_courses"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:41.696Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "iq_fulfillment_activated",
+    "iq_fulfillment_installed",
+    "iq_fulfillment_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:11.172Z"
+}

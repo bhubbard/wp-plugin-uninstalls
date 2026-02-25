@@ -1,0 +1,18 @@
+{
+  "options": [
+    "quickpush_appID",
+    "quickpush_restApi",
+    "quickpush_everyone",
+    "quickpush_pushSegments",
+    "quickpush_appName",
+    "quickpush_enableSound",
+    "quickpush_autoSendTitle",
+    "quickpush_saveLastMessage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:20.607Z"
+}

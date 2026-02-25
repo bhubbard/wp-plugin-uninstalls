@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sgcsms_default_sendername",
+    "sgcsms_default_routing",
+    "sgcsms_username",
+    "sgcsms_password",
+    "sgcsms_apiname",
+    "sgcsms_otp_settings_option_name"
+  ],
+  "transients": [
+    "sgcsmsotpattempts_*",
+    "sgcsmsotp_validated_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sgcsms_user_mobile_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:24.828Z"
+}

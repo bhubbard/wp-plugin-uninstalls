@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_securepay_settings"
+  ],
+  "transients": [
+    "*_wc_gw_banklist"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:27.431Z"
+}

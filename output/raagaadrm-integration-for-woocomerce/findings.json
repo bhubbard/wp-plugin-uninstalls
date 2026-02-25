@@ -1,0 +1,18 @@
+{
+  "options": [
+    "raagaa_drm_org_secret",
+    "raagaa_drm_org_email ",
+    "raagaa_drm_org_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_use_raagaa_drm",
+    "_rg_prod_id",
+    "_use_raagaa_drm_title",
+    "_rg_company_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:36.769Z"
+}

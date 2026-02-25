@@ -1,0 +1,22 @@
+{
+  "options": [
+    "gpagespeedi_options",
+    "gpagespeedi_ui_options",
+    "gpagespeedi_upgrade_recheck_required",
+    "gpi_abort_scan",
+    "gpi_recheck_urls",
+    "gpi_progress",
+    "gpi_check_now",
+    "gpi_missed_url_groups",
+    "gpi_error_message"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "googlepagespeedinsightsworker",
+    "gpi_prune_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:07.533Z"
+}

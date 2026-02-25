@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [
+    "monero_gateway_network_height"
+  ],
+  "cron_jobs": [
+    "monero_update_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:14.609Z"
+}

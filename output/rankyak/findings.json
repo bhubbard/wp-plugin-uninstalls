@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rankyak_embed_key",
+    "rankyak_activation_redirect"
+  ],
+  "transients": [
+    "rankyak_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:44.528Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "hss_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_streaming_video_bundle",
+    "_edd_group_id",
+    "_edd_video_id",
+    "edd_variable_prices",
+    "_variable_pricing",
+    "_edd_hide_purchase_link",
+    "_edd_ppv_id",
+    "is_streaming_video",
+    "edd_price",
+    "_price_details",
+    "hss_errors",
+    "_edd_product_type",
+    "_edd_bundled_products"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:01.556Z"
+}

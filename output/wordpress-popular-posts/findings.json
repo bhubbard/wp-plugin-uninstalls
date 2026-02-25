@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpp_performance_nag",
+    "wpp_settings_config",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "wpp_ver",
+    "wpp_update",
+    "wpp_rand",
+    "wpp_transients"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpp_cache_event",
+    "wpp_maybe_performance_nag"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:19.748Z"
+}

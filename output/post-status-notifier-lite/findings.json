@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "_transient_timeout_*",
+    "*_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_auto_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:33.332Z"
+}

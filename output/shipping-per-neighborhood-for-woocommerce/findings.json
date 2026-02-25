@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wsn_global_cities",
+    "wsn_global_neighborhoods"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_teste",
+    "shiping_teste",
+    "billing_neighborhood",
+    "shipping_neighborhood"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:33.517Z"
+}

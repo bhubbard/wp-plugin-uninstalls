@@ -1,0 +1,20 @@
+{
+  "options": [
+    "resizefly_version",
+    "resizefly_version_initial",
+    "resizefly_user_sizes",
+    "resizefly_restrict_sizes",
+    "resizefly_sizes",
+    "resizefly_resized_path",
+    "resizefly_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "rzf_notice_shown"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:14.089Z"
+}

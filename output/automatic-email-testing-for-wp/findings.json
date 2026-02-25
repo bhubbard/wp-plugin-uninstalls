@@ -1,0 +1,15 @@
+{
+  "options": [
+    "email_setting_field",
+    "aet_log",
+    "aet_mail_error"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aet_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:16.294Z"
+}

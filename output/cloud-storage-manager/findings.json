@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fluentwiz_cloud_storage_manager_pro_plugin_license",
+    "fluentwiz_cloud_storage_manager_connections",
+    "fwcsm_configuration_email_consent",
+    "fwcsm_email_consent_step_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fwcsm_process_deleting",
+    "fwcsm_refresh_google_drive_token",
+    "fwcsm_refresh_dropbox_token",
+    "fwcsm_refresh_microsoft_onedrive_token",
+    "fwcsm_upload_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:13.174Z"
+}

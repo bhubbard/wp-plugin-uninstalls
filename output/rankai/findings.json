@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rankai_target_keywords",
+    "rankai_auto_analyze",
+    "rankai_min_content_length"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rankai_target_keyword",
+    "_rankai_seo_title",
+    "_rankai_meta_description",
+    "_rankai_overall_score",
+    "_rankai_title_score",
+    "_rankai_content_score"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:09.767Z"
+}

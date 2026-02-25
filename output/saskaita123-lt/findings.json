@@ -1,0 +1,20 @@
+{
+  "options": [
+    "s123-invoices",
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "i123_sync_warehouse_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_i123_invoice_type",
+    "_i123_invoice_language",
+    "_stock",
+    "_stock_status",
+    "_backorders"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:56.137Z"
+}

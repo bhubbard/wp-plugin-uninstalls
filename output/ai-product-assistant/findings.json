@@ -1,0 +1,22 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "aipa_install_time",
+    "aipa_settings",
+    "aipa_debug_settings",
+    "aipa_usage_stats",
+    "woocommerce_hide_out_of_stock_items",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "aipa_search_count",
+    "aipa_analysis_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aipa_upgrade_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:10.998Z"
+}

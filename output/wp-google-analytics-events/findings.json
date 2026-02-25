@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ga_events_options",
+    "GA_EVENTS_version",
+    "ga_events_activation_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpgae_whatsnew_ignore_notice",
+    "ga_events_review_dismiss"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:33.434Z"
+}

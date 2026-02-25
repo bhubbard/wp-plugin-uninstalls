@@ -1,0 +1,40 @@
+{
+  "options": [
+    "alg_woocommerce_product_tabs_enabled",
+    "woocommerce_version",
+    "alg_wc_product_tabs_standard_tabs_enabled",
+    "*_disable",
+    "*_priority",
+    "*_title",
+    "alg_wc_product_tabs_global_tabs_enabled",
+    "alg_custom_product_tabs_id_global_*",
+    "alg_custom_product_tabs_title_*",
+    "alg_custom_product_tabs_content_*",
+    "alg_custom_product_tabs_priority_*",
+    "alg_custom_product_tabs_global_show_hide_products_option_type",
+    "*_sku",
+    "*_id",
+    "alg_custom_product_tabs_title_global_hide_in_cats_ids_*",
+    "alg_custom_product_tabs_title_global_show_in_cats_ids_*",
+    "alg_custom_product_tabs_local_enabled",
+    "alg_wc_product_tabs_variations_tabs_enabled",
+    "alg_wc_product_tabs_variations_tabs_title",
+    "alg_wc_product_tabs_variations_tabs_priority",
+    "alg_wc_product_tabs_variations_tabs_content",
+    "alg_wc_product_tabs_wpautop",
+    "alg_wc_product_tabs_version",
+    "alg_custom_product_tabs_global_add_sku_to_products_list",
+    "alg_custom_product_tabs_local_wp_editor_enabled",
+    "*_reset",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:43.020Z"
+}

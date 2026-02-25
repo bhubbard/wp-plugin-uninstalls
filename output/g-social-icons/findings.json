@@ -1,0 +1,27 @@
+{
+  "options": [
+    "facebook",
+    "twitter",
+    "googleplus",
+    "youtube",
+    "pinterest",
+    "linkedin",
+    "tumblr",
+    "instagram",
+    "flickr",
+    "vine",
+    "soundcloud",
+    "github",
+    "dribble",
+    "behance",
+    "rss",
+    "alignment",
+    "colour"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:35.503Z"
+}

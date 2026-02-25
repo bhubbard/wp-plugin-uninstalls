@@ -1,0 +1,23 @@
+{
+  "options": [
+    "descgpt_api_key",
+    "descgpt_model",
+    "descgpt_temperature",
+    "descgpt_language",
+    "descgpt_recommendation_prompt"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_descgpt_last_generated",
+    "_descgpt_language",
+    "_descgpt_generated_full",
+    "_descgpt_enable_ai",
+    "_descgpt_generated_desc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:21.244Z"
+}

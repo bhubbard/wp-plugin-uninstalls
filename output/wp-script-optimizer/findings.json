@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpso_wp_scripts_array",
+    "wpso_wp_styles_array",
+    "wpso_db_version",
+    "wpso_deleted_*",
+    "wpso_added_scripts",
+    "wpso_added_*",
+    "wpso_handles_moved_down",
+    "wpso_plugins_status",
+    "wpso_current_theme",
+    "wpso_added_styles",
+    "wpso_deleted_scripts",
+    "wpso_deleted_styles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:52.161Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "seopress_google_analytics_option_name",
+    "seopress_pro_license_key",
+    "seopress_pro_license_status",
+    "mainwp_seopress_current_site_settings",
+    "seopress_pro_option_name",
+    "seopress_toggle",
+    "seopress_mainwp_external_tax*",
+    "seopress_mainwp_external_load_set",
+    "mainwp_seopress_dashboard"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:33.927Z"
+}

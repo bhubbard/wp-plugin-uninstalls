@@ -1,0 +1,19 @@
+{
+  "options": [
+    "rewrite_rules",
+    "active_sitewide_plugins",
+    "bbpm_force_deactivate",
+    "bbpm_has_import_data_bbpmessages",
+    "bbpm_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "WP_Messages_weekly_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bbpm_mute_notifications"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:35.177Z"
+}

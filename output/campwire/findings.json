@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gritonl_cwac_acurl",
+    "gritonl_cwac_acapikey",
+    "gritonl_cwac_acgood",
+    "gritonl_cwac_aclist",
+    "gritonl_cwac_accode",
+    "gritonl_cwac_accodeon",
+    "gritonl_cwac_aclists",
+    "gritonl_cwac_actags"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:25.773Z"
+}

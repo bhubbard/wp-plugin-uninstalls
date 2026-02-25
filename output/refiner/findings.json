@@ -1,0 +1,13 @@
+{
+  "options": [
+    "refiner_project_id",
+    "refiner_identify_users",
+    "refiner_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:09.924Z"
+}

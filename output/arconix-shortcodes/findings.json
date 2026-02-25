@@ -1,0 +1,21 @@
+{
+  "options": [
+    "shortcodes_version",
+    "*_allow_tracking",
+    "*_ts_tracker_last_send",
+    "ts_reset_tracking",
+    "wcap_restrict_domain_address",
+    "active_TS_plugins",
+    "*_pro_welcome_page_shown",
+    "*_pro_welcome_page_shown_time",
+    "shortcodes_allow_tracking"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_ts_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:41.148Z"
+}

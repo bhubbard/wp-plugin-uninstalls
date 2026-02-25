@@ -1,0 +1,13 @@
+{
+  "options": [
+    "full_text_search_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "full_text_search_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:10.782Z"
+}

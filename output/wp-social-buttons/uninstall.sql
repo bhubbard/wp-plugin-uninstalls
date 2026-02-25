@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpsb_active', 'wpsb_position', 'wpsb_hide_frame', 'wpsb_top_margin', 'wpsb_delayTimeBtn', 'wpsb_page_hide_home', 'wpsb_page_hide_post', 'wpsb_page_hide_page', 'wpsb_fpublishBtn', 'wpsb_ppublishBtn', 'wpsb_lpublishBtn', 'wpsb_twitterpublishBtn', 'wpsb_tumpublishBtn', 'wpsb_fb_url', 'wpsb_tw_url', 'wpsb_li_url', 'wpsb_pin_url', 'wpsb_deactive_for_mob', 'wpsb_disable_for_home');
+

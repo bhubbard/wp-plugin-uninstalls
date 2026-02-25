@@ -1,0 +1,38 @@
+{
+  "options": [
+    "events_maker_general",
+    "events_maker_permalinks",
+    "events_maker_templates",
+    "events_maker_activated_blogs",
+    "events_maker_capabilities",
+    "events_maker_version",
+    "event_category_*",
+    "event_location_*",
+    "event_organizer_*",
+    "icl_sitepress_settings"
+  ],
+  "transients": [
+    "em_activation_redirect",
+    "em_calendar_query-*",
+    "em_calendar_query"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_event_start_date",
+    "_event_end_date",
+    "_event_recurrence",
+    "_event_*",
+    "_event_tickets",
+    "_event_featured",
+    "_event_display_options",
+    "_event_gallery",
+    "_event_all_day",
+    "_event_occurrence_date",
+    "_event_free",
+    "_event_tickets_url",
+    "_event_occurrence_last_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:19.114Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ob_mp4_cc_ffmpeg_path",
+    "ob_mp4_cc_ffmpeg_exists",
+    "ob_mp4_cc_max_video_size",
+    "ob_mp4_cc_system_environment_section",
+    "ob_mp4_cc_ffmpeg_speed",
+    "ob_mp4_cc_ffmpeg_quality",
+    "ob_mp4_cc_category_children"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_video_id",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:00.258Z"
+}

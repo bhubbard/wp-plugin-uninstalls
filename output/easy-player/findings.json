@@ -1,0 +1,13 @@
+{
+  "options": [
+    "easy_player_setting",
+    "easy_player_control",
+    "easy_player_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:03.189Z"
+}

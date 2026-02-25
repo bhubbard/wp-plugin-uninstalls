@@ -1,0 +1,31 @@
+{
+  "options": [
+    "codshield_store_id",
+    "codshield_registered_site_url",
+    "codshield_license_key",
+    "codshield_registered_email",
+    "twilio_sid",
+    "twilio_token",
+    "twilio_whatsapp_number",
+    " codshield_registered_site_url",
+    "codshield_store_count",
+    "codshield_license_token",
+    "codshield_license_status",
+    "codshield_license_usage_count",
+    "codshield_plan_code",
+    "codshield_admin_user_id",
+    "codshield_admin_user_name",
+    "codshield_admin_user_email",
+    "codshield_fraud_usage_count",
+    "codshield_confirmation_usage_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_ip_address",
+    "_codshield_custom_api_last"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:28.071Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "placemarks_options",
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "placemarks-lat",
+    "placemarks-lng",
+    "placemarks-location",
+    "placemarks-locations",
+    "placemarks-title",
+    "placemarks-bubble",
+    "placemarks-type",
+    "placemarks-link"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:35.146Z"
+}

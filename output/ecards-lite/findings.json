@@ -1,0 +1,39 @@
+{
+  "options": [
+    "ecard_shortcode_fix",
+    "ecard_html_fix",
+    "ecard_label_name_own",
+    "ecard_label_email_own",
+    "ecard_label_email_friend",
+    "ecard_label_message",
+    "ecard_label_success",
+    "ecard_submit",
+    "ecard_label",
+    "ecard_counter",
+    "ecard_link_anchor",
+    "ecard_behaviour",
+    "ecard_title",
+    "ecard_body_additional",
+    "ecard_body_toggle",
+    "ecard_restrictions",
+    "ecard_restrictions_message",
+    "ecard_send_behaviour",
+    "ecard_hardcoded_email",
+    "ecard_image_size",
+    "ecard_use_akismet",
+    "*_size_w",
+    "*_size_h",
+    "wordpress_api_key",
+    "akismet_spam_count",
+    "ecard_body_footer",
+    "ecard_noreply"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:16.023Z"
+}

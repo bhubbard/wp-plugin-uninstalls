@@ -1,0 +1,15 @@
+{
+  "options": [
+    "computop_merchant_id",
+    "computop_encryption_key",
+    "computop_hash_key",
+    "computop_ideal_issuers",
+    "computop_sandbox_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:14.526Z"
+}

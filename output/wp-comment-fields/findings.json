@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpcomment_settings",
+    "wpcomment_meta_fields",
+    "wpcomment_meta",
+    "wpcomment_css_output",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcomment_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:37.869Z"
+}

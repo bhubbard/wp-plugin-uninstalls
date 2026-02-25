@@ -1,0 +1,12 @@
+{
+  "options": [
+    "fazacrm_urlFazacrm",
+    "fazacrm_keyPrivate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:53.084Z"
+}

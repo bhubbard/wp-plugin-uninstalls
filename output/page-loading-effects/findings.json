@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ple_option_3",
+    "ple_option_6",
+    "ple_option_7",
+    "ple_option_2",
+    "ple_option_1",
+    "ple_option_4",
+    "ple_option_5"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:26.543Z"
+}

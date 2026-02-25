@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lti_seo_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lti_seo"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:30.543Z"
+}

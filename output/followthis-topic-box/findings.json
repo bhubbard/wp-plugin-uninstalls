@@ -1,0 +1,19 @@
+{
+  "options": [
+    "followthis",
+    "ft_verifier",
+    "ft_meta_version",
+    "activated_plugin",
+    "ft_publisher_is_registered",
+    "ft_publisher_is_active",
+    "ft_publisher_is_approved",
+    "ft_publisher_info",
+    "ft_default_topics"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:16.843Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_cart_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_upsell_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:53.920Z"
+}

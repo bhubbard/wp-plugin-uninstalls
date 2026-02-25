@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc_cart_pdf_button_label', 'wc_cart_pdf_logo', 'wc_cart_pdf_logo_width', 'wc_cart_pdf_logo_alignment', 'wc_cart_pdf_open_pdf', 'wc_cart_pdf_copy_admin', 'wc_cart_pdf_show_checkout', 'wc_cart_pdf_capture_customer', 'wc_cart_pdf_unique_increment', 'wc_cart_pdf_modal_capture', 'woocommerce_email_header_image', 'wc_cart_pdf_unique_increment_num', 'woocommerce_tax_total_display', 'woocommerce_email_footer_text', 'woocommerce_email_background_color', 'woocommerce_email_body_background_color', 'woocommerce_email_base_color', 'woocommerce_email_text_color');
+

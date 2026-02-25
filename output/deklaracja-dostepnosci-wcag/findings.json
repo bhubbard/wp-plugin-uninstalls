@@ -1,0 +1,31 @@
+{
+  "options": [
+    "deklaracjadostepnosci_on",
+    "deklaracjadostepnosci_optimize",
+    "deklaracjadostepnosci_webaimcss",
+    "deklaracjadostepnosci_option_name",
+    "deklaracjadostepnosci_nazwa_podmiotu",
+    "deklaracjadostepnosci_status",
+    "deklaracjadostepnosci_status_text_add",
+    "deklaracjadostepnosci_status_data",
+    "deklaracjadostepnosci_kontakt_nazwa",
+    "deklaracjadostepnosci_kontakt_email",
+    "deklaracjadostepnosci_kontakt_telefon",
+    "deklaracjadostepnosci_architektura_0_0",
+    "deklaracjadostepnosci_architektura_0_1",
+    "deklaracjadostepnosci_architektura_1_0",
+    "deklaracjadostepnosci_architektura_1_1",
+    "deklaracjadostepnosci_architektura_2_0",
+    "deklaracjadostepnosci_architektura_2_1",
+    "deklaracjadostepnosci_architektura_3_0",
+    "deklaracjadostepnosci_architektura_3_1",
+    "deklaracjadostepnosci_architektura_4_0",
+    "deklaracjadostepnosci_architektura_4_1"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:33.653Z"
+}

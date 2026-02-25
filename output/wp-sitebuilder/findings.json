@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "non_pagebuilder_post_types"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lego_layout",
+    "is_lego_enabled",
+    "_wp_page_template",
+    "wpsb_blank_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:40.125Z"
+}

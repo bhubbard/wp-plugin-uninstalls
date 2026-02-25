@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sfo_container",
+    "sfo_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_simple_folio_item_link",
+    "_simple_folio_item_client_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:51.905Z"
+}

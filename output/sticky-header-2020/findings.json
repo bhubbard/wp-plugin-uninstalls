@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sticky-header-2020-last-update",
+    "sticky-header-2020-styles",
+    "sticky-header-2020-scripts",
+    "*_actions_notices"
+  ],
+  "transients": [
+    "*_adons_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:10.283Z"
+}

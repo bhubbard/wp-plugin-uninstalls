@@ -1,0 +1,39 @@
+{
+  "options": [
+    "asgarosforum_appearance",
+    "asgarosforum_db_version",
+    "asgarosforum_guests_timestamps",
+    "rewrite_rules",
+    "asgarosforum_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "asgarosforum_signature",
+    "asgarosforum_mention_notify",
+    "category_access",
+    "order",
+    "_views_template",
+    "asgarosforum_moderator",
+    "asgarosforum_banned",
+    "asgarosforum_subscription_*",
+    "asgarosforum_subscription_topic",
+    "asgarosforum_subscription_forum",
+    "asgarosforum_subscription_global_posts",
+    "asgarosforum_subscription_global_topics",
+    "asgarosforum_online",
+    "asgarosforum_online_timestamp",
+    "asgarosforum_role",
+    "asgarosforum_unread_cleared",
+    "asgarosforum_unread_exclude",
+    "usergroups",
+    "usergroup-color",
+    "usergroup-visibility",
+    "usergroup-auto-add",
+    "usergroup-icon",
+    "asgarosforum_lastvisit"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:06.393Z"
+}

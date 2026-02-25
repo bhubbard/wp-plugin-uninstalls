@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mpp_use_alternative_password_check",
+    "mpp_delete_used_passwords",
+    "mpp_used_passwords",
+    "mpp_password_expire_hours",
+    "mpp_used_pw_deletion_notification_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:27.748Z"
+}

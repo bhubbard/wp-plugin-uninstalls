@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpdevartec_settings",
+    "wp_user_roles",
+    "wpdevart_booking_version_new",
+    "wpdevart_booking_version",
+    "wpdevart_permissions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:53.256Z"
+}

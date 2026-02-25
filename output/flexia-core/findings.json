@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_force_tracked",
+    "*_migrated",
+    "wpins_deactivation_reason_*",
+    "wpins_deactivation_details_*",
+    "wpins_allow_tracking",
+    "wpins_last_track_time",
+    "wpins_block_notice",
+    "wpins_collect_email",
+    "wpins_admin_emails",
+    "wpdeveloper_plugins_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "put_do_weekly_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:56.341Z"
+}

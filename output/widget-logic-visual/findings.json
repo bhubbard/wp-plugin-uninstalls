@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*-conditional-tags",
+    "*-conditional-tags-activate",
+    "*-visibility",
+    "*-only_show_in",
+    "widget_logic_visual"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:21.660Z"
+}

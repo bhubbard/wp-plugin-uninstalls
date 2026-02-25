@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ifr_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'film_author'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'film_author'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'film_author'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'film_author'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'film_actors'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'film_actors'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'film_actors'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'film_actors'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'film_length'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'film_length'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'film_length'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'film_length'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'film_rdate'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'film_rdate'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'film_rdate'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'film_rdate'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'film_rating'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'film_rating'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'film_rating'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'film_rating'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom_post_source_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom_post_source_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom_post_source_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom_post_source_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom_post_source_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom_post_source_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom_post_source_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom_post_source_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'attach_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'attach_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'attach_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'attach_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'twitter_feed_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'twitter_feed_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'twitter_feed_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'twitter_feed_name'"

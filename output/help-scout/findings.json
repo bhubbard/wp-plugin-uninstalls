@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hsd_do_activation_redirect",
+    "hsd_current_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:50.018Z"
+}

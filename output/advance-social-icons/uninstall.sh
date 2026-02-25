@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_menu_item_parent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_menu_item_parent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_menu_item_parent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_menu_item_parent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_socialicn'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_socialicn'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_socialicn'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_socialicn'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_subtitle'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_subtitle'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_subtitle'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_subtitle'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_icon_size'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_icon_size'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_icon_size'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_icon_size'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_custom_width_size'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_custom_width_size'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_custom_width_size'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_custom_width_size'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_custom_height_size'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_custom_height_size'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_custom_height_size'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_custom_height_size'"

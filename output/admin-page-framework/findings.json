@@ -1,0 +1,21 @@
+{
+  "options": [
+    "APF_Demo",
+    "APF_BasicUsage",
+    "APF_TaxonomyField",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "apfl_contributors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "metabox_text_field",
+    "image_upload",
+    "text_field",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:20.229Z"
+}

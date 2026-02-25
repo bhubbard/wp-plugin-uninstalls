@@ -1,0 +1,40 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%options'"
+wp option delete 'mu_media_buttons'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-width'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-height'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-address'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-latitude'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-longitude'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-zoom'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-type'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-type-control'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-navigation-control'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-info-window-width'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%marker-clustering'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%cluster-max-zoom'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%cluster-grid-size'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%cluster-style'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%map-api-key'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%geocoding-api-key'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%latitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%latitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%latitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%latitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%longitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%longitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%longitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%longitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%zIndex'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%zIndex'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%zIndex'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%zIndex'"

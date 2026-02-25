@@ -1,0 +1,21 @@
+{
+  "options": [
+    "carbon_custom_sidebars",
+    "nias_course_endpoint"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_course_data_migrated",
+    "usercertificate_code",
+    "first_name",
+    "last_name",
+    "usercertificate_course",
+    "usercertificate_date",
+    "certificate_code_*",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:08.122Z"
+}

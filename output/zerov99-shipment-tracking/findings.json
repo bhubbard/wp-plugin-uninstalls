@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_email_header_image",
+    "woocommerce_email_base_color",
+    "woocommerce_email_body_background_color",
+    "woocommerce_email_text_color",
+    "woocommerce_email_footer_text",
+    "woocommerce_email_footer_text_color",
+    "zerov99_shipping_providers"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:54.741Z"
+}

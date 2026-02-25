@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpdfv_version",
+    "wpdfv_settings",
+    "wpdfv_settings_readmore_button_text",
+    "wpdfv_settings_enable_print",
+    "wpdfv_settings_enable_font_awesome",
+    "wpdfv_settings_enable_fullscreen",
+    "wpdfv_settings_btn_bg_color",
+    "wpdfv_settings_btn_text_color",
+    "wpdfv_settings_btn_hover_bg_color",
+    "wpdfv_settings_btn_hover_text_color",
+    "wpdfv_settings_btn_text_fontsize",
+    "wpdfv_settings_btn_icon_fontsize",
+    "wpdfv_settings_btn_padding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:01.727Z"
+}

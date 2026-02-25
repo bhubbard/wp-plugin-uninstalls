@@ -1,0 +1,14 @@
+{
+  "options": [
+    "lead_captor_popup_options",
+    "lead_captor_behavior_options",
+    "lead_captor_mailchimp_options",
+    "lead_captor_export_subscribers_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:23.551Z"
+}

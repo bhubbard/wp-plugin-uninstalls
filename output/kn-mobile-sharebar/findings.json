@@ -1,0 +1,28 @@
+{
+  "options": [
+    "kn_mobile_sharebar_where",
+    "kn_mobile_sharebar_twitter",
+    "kn_mobile_sharebar_whatsapp",
+    "kn_mobile_sharebar_visibility_homepage",
+    "kn_mobile_sharebar_visibility_post",
+    "kn_mobile_sharebar_visibility_page",
+    "kn_mobile_sharebar_height",
+    "kn_mobile_small_desktop",
+    "*_where",
+    "*_facebook",
+    "*_twitter",
+    "*_whatsapp",
+    "*_visibility_homepage",
+    "*_visibility_post",
+    "*_visibility_page",
+    "*_height",
+    "*_small_desktop",
+    "kn_mobile_sharebar_facebook"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:39.637Z"
+}

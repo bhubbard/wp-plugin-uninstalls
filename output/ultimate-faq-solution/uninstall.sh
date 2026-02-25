@@ -1,0 +1,128 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ufaqsw_setting_custom_style'
+wp option delete 'ufaqsw_ai_integration_settings'
+wp option delete 'ufaqsw_chatbot_settings'
+wp option delete 'faq_default_appearance_id'
+wp option delete 'ufaqsw_enable_woocommerce'
+wp option delete 'ufaqsw_global_faq_label'
+wp option delete 'ufaqsw_enable_global_faq'
+wp option delete 'ufaqsw_product_hide_group_title'
+wp option delete 'ufaqsw_global_faq'
+wp option delete 'ufaqsw_version'
+wp option delete 'ufaqsw_enable_search'
+wp option delete 'ufaqsw_enable_filter'
+wp option delete 'ufaqsw_live_search_text'
+wp option delete 'ufaqsw_live_search_loading_text'
+wp option delete 'ufaqsw_search_result_not_found'
+wp option delete 'ufaqsw_detail_page_slug'
+wp option delete 'ufaqsw_enable_group_detail_page'
+wp option delete 'faq_upgrade_to_1_6_3'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'linked_faq_appearance_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'linked_faq_appearance_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'linked_faq_appearance_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'linked_faq_appearance_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_faq_item01'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_faq_item01'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_faq_item01'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_faq_item01'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'group_short_desc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'group_short_desc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'group_short_desc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'group_short_desc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_old_appearance_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_old_appearance_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_old_appearance_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_old_appearance_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_old_group_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_old_group_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_old_group_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_old_group_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ufaqsw_enable_faq_tab'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ufaqsw_enable_faq_tab'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ufaqsw_enable_faq_tab'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ufaqsw_enable_faq_tab'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ufaqsw_tab_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ufaqsw_tab_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ufaqsw_tab_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ufaqsw_tab_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_title_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_title_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_title_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_title_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_title_font_size'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_title_font_size'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_title_font_size'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_title_font_size'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_question_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_question_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_question_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_question_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_answer_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_answer_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_answer_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_answer_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_question_background_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_question_background_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_question_background_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_question_background_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_answer_background_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_answer_background_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_answer_background_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_answer_background_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_border_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_border_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_border_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_border_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_question_font_size'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_question_font_size'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_question_font_size'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_question_font_size'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_answer_font_size'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_answer_font_size'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_answer_font_size'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_answer_font_size'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_answer_showall'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_answer_showall'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_answer_showall'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_answer_showall'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_hide_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_hide_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_hide_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_hide_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_normal_icon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_normal_icon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_normal_icon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_normal_icon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_active_icon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_active_icon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_active_icon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_active_icon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_behaviour'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_behaviour'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_behaviour'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_behaviour'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_question_bold'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_question_bold'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_question_bold'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_question_bold'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_created_with_ai'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_created_with_ai'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_created_with_ai'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_created_with_ai'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ufaqsw_faq_behaviour'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ufaqsw_faq_behaviour'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ufaqsw_faq_behaviour'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ufaqsw_faq_behaviour'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"

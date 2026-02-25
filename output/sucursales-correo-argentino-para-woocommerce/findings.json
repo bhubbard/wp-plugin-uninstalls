@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_ca_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sucursal_pv_centro_ca_estandar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:09.650Z"
+}

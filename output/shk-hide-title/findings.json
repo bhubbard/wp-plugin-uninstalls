@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "st_hide_title_check_option",
+    "st_hide_breadcrumb_check_option"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:21.087Z"
+}

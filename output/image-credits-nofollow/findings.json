@@ -1,0 +1,19 @@
+{
+  "options": [
+    "image-credits-nofollow_pages",
+    "image-credits-nofollow_sep",
+    "image-credits-nofollow_before",
+    "image-credits-nofollow_after",
+    "image-credits-nofollow_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_source_name",
+    "_wp_attachment_source_url",
+    "_wp_attachment_source_dofollow"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:39.422Z"
+}

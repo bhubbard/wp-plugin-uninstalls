@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('oowcode_admin_theme', 'oow_pjax_script_priority', 'oow_pjax_enabled', 'oow_pjax_targets', 'oow_pjax_exclude_selectors', 'oow_pjax_exclude_zone_selectors', 'oow_pjax_exclude_external', 'oow_pjax_exclude_target_blank', 'oow_pjax_enable_cache', 'oow_pjax_cache_lifetime', 'oow_pjax_debug_mode', 'oow_pjax_enable_loader', 'oow_pjax_min_loader_duration', 'oow_pjax_enable_forms', 'oow_pjax_custom_js_before', 'oow_pjax_custom_js_after', 'oow_pjax_form_refresh_targets', 'oow_pjax_loader_css');
+

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "_bbp_livesearch_beforehtml",
+    "_bbp_livesearch_afterhtml"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:50.014Z"
+}

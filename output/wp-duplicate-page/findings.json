@@ -1,0 +1,15 @@
+{
+  "options": [
+    "njt_duplicate_post_types",
+    "njt_duplicate_text_link",
+    "njt_duplicate_in_editor",
+    "njt_duplicate_reviewed",
+    "njt_duplicate_roles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:33.555Z"
+}

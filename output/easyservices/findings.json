@@ -1,0 +1,17 @@
+{
+  "options": [
+    "easyservices_version",
+    "easyservices_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "easyl_price",
+    "easyl_period",
+    "easyl_type",
+    "easyl_expert"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:04.244Z"
+}

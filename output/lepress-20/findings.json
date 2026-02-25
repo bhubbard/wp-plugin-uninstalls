@@ -1,0 +1,27 @@
+{
+  "options": [
+    "lepress-cron-is-running",
+    "lepress-settings",
+    "lepress-simple-subscribe-success",
+    "lepress-last-widget-course"
+  ],
+  "transients": [
+    "lepress-courses-sitewide"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lepress-read",
+    "_lepress-assignment-meta",
+    "_lepress-student-*",
+    "_lepress-assignment-end-date",
+    "lepress-feedback-given",
+    "_lepress-assignment-start-date",
+    "_is-lepress-assignment",
+    "_lepress-assignment-error",
+    "_lepress-notification-sent",
+    "iframe-key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:41.702Z"
+}

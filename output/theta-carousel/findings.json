@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "theta_carousel_slides",
+    "theta_carousel_config",
+    "theta_carousel_admin_view"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:14.918Z"
+}

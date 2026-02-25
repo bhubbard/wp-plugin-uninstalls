@@ -1,0 +1,20 @@
+{
+  "options": [
+    "googleplacesreviews_options",
+    "gpr_widget_version",
+    "gpr_refid_upgraded",
+    "widget_gpr_widget",
+    "gpr_doing_upgrade"
+  ],
+  "transients": [
+    "gpr_widget_api_*",
+    "gpr_widget_options_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gpr_activation_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:58.144Z"
+}

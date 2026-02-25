@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_image_id",
+    "icon",
+    "icon_size",
+    "zoom",
+    "map_height",
+    "addr_center",
+    "addr_center_lat",
+    "addr_center_lon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:42.170Z"
+}

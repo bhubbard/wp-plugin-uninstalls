@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "original_bk_image_url",
+    "original_image_url",
+    "original_image_width",
+    "original_image_height",
+    "_wp_attachment_backup_sizes",
+    "original_image_path",
+    "original_bk_image_path",
+    "original_bk_image_width",
+    "original_bk_image_height"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:20.368Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cresentai_api_key",
+    "cresentai_default_mode",
+    "cresentai_widget_title",
+    "cresentai_title_text_color",
+    "cresentai_title_background_color",
+    "cresentai_initial_prompt",
+    "cresentai_chat_background_color",
+    "cresentai_chat_message_background_color",
+    "cresentai_chat_message_text_color",
+    "cresentai_enforce_mandatory_userdetails_collection",
+    "cresentai_userdetails_text_color",
+    "cresentai_userdetails_label_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:36.974Z"
+}

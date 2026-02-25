@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woocommerce_enable_signup_and_login_from_checkout",
+    "woocommerce_virt_pagseguro_settings",
+    "virtuaria_pagseguro_not_authorized",
+    "woocommerce_ship_to_destination",
+    "homolog_number"
+  ],
+  "transients": [
+    "virtuaria_pagseguro_main_setting_saved"
+  ],
+  "cron_jobs": [
+    "virtuaria_pagseguro_pix_confirm_payment",
+    "pagseguro_process_update_order_status",
+    "pagseguro_pix_check_payment",
+    "pagseguro_ticket_check_payment"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pagseguro_credit_info_store_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:42.523Z"
+}

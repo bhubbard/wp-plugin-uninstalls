@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_math_size",
+    "wp_math_mail",
+    "wp_math_only_mail",
+    "wp_math_round",
+    "wp_math_static"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:07.370Z"
+}

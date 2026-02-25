@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpgayl_settingsoptions",
+    "wpgayl_notice_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpgayl_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:36.386Z"
+}

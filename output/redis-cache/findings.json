@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [
+    "settings_errors",
+    "_rediscache_activation_redirect"
+  ],
+  "cron_jobs": [
+    "rediscache_discard_metrics",
+    "redis_gather_metrics"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "roc_dismissed_pro_release_notice",
+    "roc_dismissed_wc_pro_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:47.014Z"
+}

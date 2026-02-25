@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_access_token"
+  ],
+  "transients": [
+    "*mail-integration-365-oauth2-auth-url",
+    "*mail-integration-365-oauth2-state"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:14.226Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "awas-agreement",
+    "awas_run_once"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:26.577Z"
+}

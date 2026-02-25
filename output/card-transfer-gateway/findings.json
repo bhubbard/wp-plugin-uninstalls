@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_card_transfer_gateway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ctgfree_cronjob_update_order_statuses_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:38.672Z"
+}

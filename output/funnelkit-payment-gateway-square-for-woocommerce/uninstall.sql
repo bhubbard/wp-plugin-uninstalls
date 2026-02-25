@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fkwcsq_setup_status', 'fkwcsq_connection_timestamp', 'fkwcsq_settings', 'fkwcsq_sandbox_tokens', 'fkwcsq_tokens', 'woocommerce_fkwcsq_square_settings', 'fkwcsq_sandbox_locations', 'fkwcsq_locations', 'woocommerce_default_country', 'fkwcsq_site_id', 'wc_square_settings', 'fkwcsq_last_sync', 'fkwcsq_products_sync_status', 'fkwcsq_categories_sync_status', 'fkwcsq_inventory_sync_status', 'fkwcsq_customers_sync_status', 'fkwcsq_version', 'active_sitewide_plugins', 'fkwcsq_wp_square', 'fkwcsq_square_general_settings', 'fkwcsq_apple_pay_domain_registered', 'fkwcsq_installing');
+DELETE FROM wp_options WHERE option_name LIKE 'fkwcsq_user_tokens_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wc_square_synced', 'fkwcsq_square_transaction_id', '_transaction_id', '_square_customer_id', '_square_variation_id', '_square_variation_version', 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_phone', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', '_square_id', '_square_version', '_square_image_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wc_square_synced', 'fkwcsq_square_transaction_id', '_transaction_id', '_square_customer_id', '_square_variation_id', '_square_variation_version', 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_phone', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', '_square_id', '_square_version', '_square_image_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wc_square_synced', 'fkwcsq_square_transaction_id', '_transaction_id', '_square_customer_id', '_square_variation_id', '_square_variation_version', 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_phone', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', '_square_id', '_square_version', '_square_image_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wc_square_synced', 'fkwcsq_square_transaction_id', '_transaction_id', '_square_customer_id', '_square_variation_id', '_square_variation_version', 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_phone', 'billing_address_1', 'billing_address_2', 'billing_city', 'billing_state', 'billing_postcode', 'billing_country', '_square_id', '_square_version', '_square_image_id');
+

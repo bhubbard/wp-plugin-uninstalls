@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_nfproot_plugins_settings",
+    "_nfp_root_settings",
+    "_nfp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nfpmnm_can_login_on_maintenance"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:39.577Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "license_checkout_confirm",
+    "check_confirm_page_fields_setting",
+    "confirm_on_off_text_bill",
+    "check_confirm_page_option",
+    "check_confirm_page_additional"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:52.812Z"
+}

@@ -1,0 +1,11 @@
+{
+  "options": [
+    "_CHECKOUT_PAGE_ID_FROM_NUMMUSPAY"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:04.937Z"
+}

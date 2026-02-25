@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpcms_cf7pp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcmscf7_enable",
+    "wpcmscf7_name",
+    "wpcmscf7_price",
+    "wpcmscf7_id",
+    "wpcmscf7_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:47.900Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "_filesmash_options",
+    "filesmash_activation_redirect",
+    "_filesmash_api_status",
+    "_filesmash_first_opt_images",
+    "filesmash_db_version",
+    "*_size_w",
+    "*_size_h",
+    "cloudflare_api_email",
+    "cloudflare_api_key",
+    "cloudflare_cached_domain_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_filesmash_size",
+    "_filesmash_ignore_notices",
+    "_cheetaho_ignore_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:28.821Z"
+}

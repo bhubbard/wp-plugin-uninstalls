@@ -1,0 +1,20 @@
+{
+  "options": [
+    "kontainer_secret",
+    "kontainer_url",
+    "kontainer_secret_fragment",
+    "kontainer_use_api",
+    "fileupload_maxk"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kontainer_file_id",
+    "_kontainer_folder_id",
+    "_kontainer_file_thumb",
+    "_kontainer_edit_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:35.805Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "qpson_store_apikey",
+    "qpson_store_url",
+    "qpson_store_name",
+    "qpson_store_id",
+    "qpson_enable_tax_calculate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qpson_store_product_id",
+    "qpson_id",
+    "qpson_publishProfileIds",
+    "qpson_publishProfileCodes",
+    "qpson_attributeVersion",
+    "qpson_propertyModelId"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:32.826Z"
+}

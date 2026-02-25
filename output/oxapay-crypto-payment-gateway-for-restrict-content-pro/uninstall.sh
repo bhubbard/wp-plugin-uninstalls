@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rcp_subscription_level'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rcp_subscription_level'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rcp_subscription_level'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rcp_subscription_level'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rcp_subscription_level_new'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rcp_subscription_level_new'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rcp_subscription_level_new'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rcp_subscription_level_new'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rcp_subscription_level_old'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rcp_subscription_level_old'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rcp_subscription_level_old'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rcp_subscription_level_old'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rcp_payment_profile_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rcp_payment_profile_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rcp_payment_profile_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rcp_payment_profile_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rcp_recurring'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rcp_recurring'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rcp_recurring'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rcp_recurring'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_rcp_expired_email_sent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_rcp_expired_email_sent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_rcp_expired_email_sent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_rcp_expired_email_sent'"

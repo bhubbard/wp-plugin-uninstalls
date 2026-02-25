@@ -1,0 +1,12 @@
+{
+  "options": [
+    "nxt_post_option_template_select",
+    "nxt_post_plugin_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:02.784Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_default_country",
+    "woocommerce_calc_taxes",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_display_shop",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_first_name",
+    "*_last_name",
+    "*_email",
+    "*_company",
+    "*_address_1",
+    "*_address_2",
+    "*_city",
+    "*_country",
+    "*_state",
+    "*_postcode",
+    "*_phone",
+    "billing_phone",
+    "_globale_ClearCart",
+    "_regular_price",
+    "_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:04.875Z"
+}

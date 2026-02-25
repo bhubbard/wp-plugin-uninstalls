@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp_status_do_activation_redirect",
+    "grafana_dashboard_title",
+    "grafana_api",
+    "grafana_url",
+    "grafana_dashboard_url",
+    "grafana_dashboard_id",
+    "grafana_dashboard_uid",
+    "grafana_dashboard_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "spiral_grafana_test_results_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:12.997Z"
+}

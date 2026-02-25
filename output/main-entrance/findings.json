@@ -1,0 +1,27 @@
+{
+  "options": [
+    "_mnnt_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mnnt_genre",
+    "_mnnt_date_of_birth",
+    "_mnnt_company_name",
+    "_mnnt_phone_number",
+    "_mnnt_state",
+    "_mnnt_country",
+    "_mnnt_address",
+    "_mnnt_lostpassword_token",
+    "_mnnt_lostpassword_token_expires",
+    "_mnnt_name",
+    "first_name",
+    "_mnnt_surname",
+    "last_name",
+    "_mnnt_default_acceptance_doc_id",
+    "_mnnt_secondary_acceptance_doc_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:01.644Z"
+}

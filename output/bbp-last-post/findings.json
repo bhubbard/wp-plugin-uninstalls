@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rlp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_last_active_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:09.406Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "mt2mba_max_variations",
+    "mt2mba_db_version",
+    "mt2mba_desc_behavior",
+    "mt2mba_dropdown_behavior",
+    "mt2mba_include_attrb_name",
+    "mt2mba_hide_base_price",
+    "mt2mba_sale_price_markup",
+    "mt2mba_round_markup",
+    "mt2mba_allow_zero"
+  ],
+  "transients": [
+    "mt2mba_current_base_*",
+    "wc_var_prices_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mt2mba_base_*",
+    "mt2mba_markup",
+    "mt2mba_base_regular_price",
+    "mt2mba_base_sale_price",
+    "_price",
+    "_min_variation_price",
+    "_max_variation_price",
+    "_min_variation_regular_price",
+    "_max_variation_regular_price",
+    "_min_variation_sale_price",
+    "_max_variation_sale_price",
+    "*_markup_amount",
+    "mt2mba_*",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:38.235Z"
+}

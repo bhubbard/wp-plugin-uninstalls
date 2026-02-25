@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wing_service_config",
+    "wing_merchant_address",
+    "wing_merchant_config",
+    "wing_marketplace_settings",
+    "shipox_version",
+    "wing_order_config",
+    "_wcfmmp_shipox_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "crawl_every_n_minutes"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "shipping_phone",
+    "_wing_order_number",
+    "_wing_order_id",
+    "_wcfmmp_shipox_settings",
+    "_wcfmmp_shipping",
+    "wcfmmp_profile_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:45.499Z"
+}

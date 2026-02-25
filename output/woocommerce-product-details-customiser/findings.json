@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wc_pdc_columns",
+    "wc_pdc_product_images",
+    "wc_pdc_upsells",
+    "wc_pdc_related",
+    "wc_pdc_tabs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:31.624Z"
+}

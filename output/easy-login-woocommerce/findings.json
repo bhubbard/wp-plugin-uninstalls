@@ -1,0 +1,27 @@
+{
+  "options": [
+    "xoo-el-settings-init",
+    "xoo-el-version",
+    "xoo_tracking_consent_easy-login-woocommerce",
+    "xoo-el-gl-options",
+    "xoo-el-sy-options",
+    "xoo-el-av-options",
+    "xoo_tracking_consent_*",
+    "xoo_plugin_deactivated_*",
+    "*_theme_templates_data",
+    "*_allow_old_layout",
+    "*_version",
+    "*-general-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "shipping_first_name",
+    "billing_last_name",
+    "shipping_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:07.338Z"
+}

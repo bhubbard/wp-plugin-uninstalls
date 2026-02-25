@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cookiealert_attivo",
+    "cookiealert_testo",
+    "cookiealert_informativa",
+    "cookiealert_link",
+    "cookiealert_testobottone",
+    "cookiealert_colorebottone",
+    "cookiealert_posizione"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:51.905Z"
+}

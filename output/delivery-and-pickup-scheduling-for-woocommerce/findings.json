@@ -1,0 +1,31 @@
+{
+  "options": [
+    "lpac_dps",
+    "active_sitewide_plugins",
+    "chwazi_db_version",
+    "lpac_dps_installed_at_version",
+    "lpac_dps_first_install_date",
+    "csf_demo_mode",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "lpac_dps_remove_passed_maxed_dates",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lpac_dps_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:46.301Z"
+}

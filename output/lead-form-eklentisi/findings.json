@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lead_form_fields",
+    "lead_communication_mode",
+    "lead_admin_communication_choice",
+    "lead_form_token",
+    "lead_form_styles",
+    "lead_form_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:15.648Z"
+}

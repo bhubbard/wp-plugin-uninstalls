@@ -1,0 +1,12 @@
+{
+  "options": [
+    "chatbox_manager_settings",
+    "cm-dismissed-notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:33.946Z"
+}

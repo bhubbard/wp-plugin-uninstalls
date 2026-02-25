@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wplmi_plugin_dismiss_rating_notice",
+    "wplmi_plugin_dismiss_donate_notice",
+    "wplmi_plugin_no_thanks_rating_notice",
+    "wplmi_plugin_dismissed_time",
+    "wplmi_plugin_no_thanks_donate_notice",
+    "wplmi_plugin_dismissed_time_donate",
+    "*_notice",
+    "wplmi_plugin_installed_time",
+    "wplmi_plugin_installed_time_donate",
+    "lmt_plugin_global_settings",
+    "wplmi_site_global_update_info",
+    "lmt_dashboard_widget_options",
+    "wplmi_plugin_api_data"
+  ],
+  "transients": [
+    "wplmi-show-notice-on-activation",
+    "wplmi_import_db_done",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "wplmi/fetch_plugin_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_date_updated",
+    "profile_last_modified",
+    "_edit_last"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:45.554Z"
+}

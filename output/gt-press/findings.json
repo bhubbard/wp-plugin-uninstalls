@@ -1,0 +1,18 @@
+{
+  "options": [
+    "GTPress",
+    "gtpressMenu_default_menu",
+    "gtpressMenu_default_submenu",
+    "gtpressMenu_disabled_menu_items",
+    "gtpressMenu_disabled_submenu_items",
+    "gtpressMenu_disabled_metas",
+    "GTTabs",
+    "gtpressMenu_admins_see_everything"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:27.535Z"
+}

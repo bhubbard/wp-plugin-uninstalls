@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wooconvo_settings",
+    "wooconvo_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wooconvo_thread",
+    "wooconvo_starred",
+    "is_starred",
+    "wooconvo_unread_vendor",
+    "wooconvo_unread_customer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:48.686Z"
+}

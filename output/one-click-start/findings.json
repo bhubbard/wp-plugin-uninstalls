@@ -1,0 +1,14 @@
+{
+  "options": [
+    "one_click_start_saved_recipe",
+    "one_click_start_show_review_prompt",
+    "enable_xmlrpc",
+    "ocs_saved_recipe"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:28.988Z"
+}

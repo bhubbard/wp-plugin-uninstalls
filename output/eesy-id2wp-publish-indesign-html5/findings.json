@@ -1,0 +1,28 @@
+{
+  "options": [
+    "id2wp_settings_applications_folder"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "id2wp_hits",
+    "id2wp_zip_name",
+    "id2wp_project_folder_name",
+    "id2wp_img_optimize",
+    "id2wp_password_protect",
+    "id2wp_protection_password",
+    "id2wp_arrow_color_text",
+    "id2wp_arrow_color_bg",
+    "id2wp_general_color",
+    "id2wp_custom_css",
+    "id2wp_meta_title",
+    "id2wp_meta_description",
+    "id2wp_password_protection",
+    "id2wp_password",
+    "id2wp_project_dir",
+    "id2wp_project_identifier"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:06.364Z"
+}

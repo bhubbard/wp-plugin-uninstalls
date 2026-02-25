@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wploti_maintenance_redirect_version",
+    "wploti_activation_notice",
+    "wploti_animation",
+    "wploti_status",
+    "wploti_notes_notice",
+    "wploti_message",
+    "wploti_header_type",
+    "wploti_whitelisted_roles",
+    "wploti_whitelisted_users",
+    "wploti_upload_animation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:35.636Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('tomas_bbpress_login_bar_disable_all_feature', 'tomas_bbpress_custom_links_login', 'bbpress_login_redirect_free', 'tomas_bbpress_login_bar_display_lost_password', 'bbpresscustomcss', 'bbpress_login_admin_bar', 'bbpress_enable_bbpress_sidebar', 'tomas_bbpress_only_selected_sidebar', 'tomas_bbpress_login_bar_location', 'tomas_bbpress_stop_register_spam', 'bbploginuser_first_run_guide_bar', 'tomas_bbpress_login_admin_logged_notificaion');
+

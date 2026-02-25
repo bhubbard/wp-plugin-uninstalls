@@ -1,0 +1,24 @@
+{
+  "options": [
+    "enviopack_branch_office",
+    "ecom_enviopack_options",
+    "enviopack_api_key",
+    "enviopack_api_secret",
+    "enviopack_packaging_mode",
+    "enviopack_shipping_mode",
+    "enviopack_shipping_status",
+    "enviopack_couriers",
+    "enviopack_address_id",
+    "enviopack_gmap_key",
+    "enviopack_status_on_processed",
+    "enviopack_debug",
+    "enviopack_access_token",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:48.241Z"
+}

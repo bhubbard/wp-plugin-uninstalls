@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wn_bos_ld_options",
+    "badgeos_settings",
+    "learndash_settings_courses_taxonomies",
+    "learndash_settings_topics_taxonomies",
+    "learndash_settings_lessons_taxonomies",
+    "learndash_settings_quizzes_taxonomies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_id",
+    "lesson_id",
+    "course_id",
+    "_badgeos_count",
+    "_badgeos_learndash_trigger",
+    "_badgeos_learndash_object_id",
+    "_badgeos_learndash_object_arg1",
+    "_badgeos_learndash_object_arg2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:37.407Z"
+}

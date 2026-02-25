@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sac_logout_text",
+    "sac_locked_text",
+    "sac_hide_menus"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sac_locked"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:42.448Z"
+}

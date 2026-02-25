@@ -1,0 +1,26 @@
+{
+  "options": [
+    "stswpro_tickets_table_db_version",
+    "*renameOrderButtonLink",
+    "woocommerce_myaccount_page_id",
+    "*renameAccountTabLink",
+    "*hideClosed",
+    "*textforResponseSave",
+    "*textforTicketSave",
+    "*mailToADmin",
+    "*AdminEmailAddress",
+    "*mailToCustomer",
+    "*mailIt_subjectToCust",
+    "*mailIt_contentToCust"
+  ],
+  "transients": [
+    "*_notification"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "STSWooCommerceProticketuser"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:24.887Z"
+}

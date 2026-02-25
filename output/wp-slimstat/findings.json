@@ -1,0 +1,31 @@
+{
+  "options": [
+    "slimstat_tracker_error",
+    "slimstat_geoip_error",
+    "slimstat_permalink_structure_updated",
+    "active_sitewide_plugins",
+    "slimstat_filters",
+    "slimstat_last_geoip_dl",
+    "slimstat_options",
+    "slimstat_visit_id"
+  ],
+  "transients": [
+    "wp_slimstat_addon_list",
+    "slimstat_your_content",
+    "slimstat_resource_titles",
+    "slimstat_ranking_values",
+    "*_promo_hide",
+    "slimstat_dynamic_strings",
+    "wp-slimstat-download-link-*",
+    "slimstat_*",
+    "slimstat_visit_id"
+  ],
+  "cron_jobs": [
+    "wp_slimstat_purge",
+    "wp_slimstat_update_geoip_database"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:42.570Z"
+}

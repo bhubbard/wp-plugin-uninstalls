@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pmp_initial_sync_made",
+    "omnisend_pmp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pmpro_bfirstname",
+    "pmpro_blastname",
+    "pmpro_baddress1",
+    "pmpro_baddress2",
+    "pmpro_bcity",
+    "pmpro_bstate",
+    "pmpro_bzipcode",
+    "pmpro_bcountry",
+    "pmpro_bphone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:41.105Z"
+}

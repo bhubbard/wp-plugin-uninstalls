@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fs_ad_list",
+    "fs_username_aliases",
+    "fs_bw_list"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fs_cef_list_purge_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:44.513Z"
+}

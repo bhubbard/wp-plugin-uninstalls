@@ -1,0 +1,30 @@
+{
+  "options": [
+    "bdt_biggopti_dismissals",
+    "bdt_usk_compare_products_page_id",
+    "woocommerce_cart_redirect_after_add",
+    "ultimate_post_kit_license_key",
+    "ultimate_store_kit_active_modules",
+    "ultimate_store_kit_general_modules",
+    "ultimate_store_kit_edd_modules",
+    "woocommerce_ship_to_destination",
+    "elementor_viewport_lg",
+    "elementor_viewport_md"
+  ],
+  "transients": [
+    "ultimate_store_template_id_*",
+    "ultimate_store_template_sample_post_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_wp_page_template",
+    "_elementor_edit_mode",
+    "_elementor_version",
+    "download_term_image",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:15.471Z"
+}

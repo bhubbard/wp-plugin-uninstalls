@@ -1,0 +1,15 @@
+{
+  "options": [
+    "odds_widgets_link_to_us",
+    "odds_widgets_config_data",
+    "odds_widgets_subscribe_email",
+    "odds_widgets_subscribe",
+    "odds_widgets_replace_jquery"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:41.750Z"
+}

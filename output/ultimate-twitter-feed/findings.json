@@ -1,0 +1,25 @@
+{
+  "options": [
+    "utf_consumer_key",
+    "utf_consumer_secret",
+    "utf_access_token",
+    "utf_access_token_secret",
+    "utf_shortcodes",
+    "utf_urls",
+    "utf_cache_option",
+    "utf_cache_in_minutes",
+    "utf_date_of_tweet",
+    "utf_replies_icon",
+    "utf_retweets_icon",
+    "utf_favorites_icon",
+    "utf_hide_videos",
+    "utf_hide_images",
+    "utf_size_images"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:58.423Z"
+}

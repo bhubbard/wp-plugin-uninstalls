@@ -1,0 +1,21 @@
+{
+  "options": [
+    "xyz_credit_link",
+    "xyz_ihs_installed_date",
+    "xyz_ihs_dnt_shw_notice",
+    "xyz_ihs_premium_version_ads",
+    "xyz_ihs_credit_dismiss",
+    "xyz_ihs_sort_order",
+    "xyz_ihs_sort_field_name",
+    "xyz_ihs_dismiss",
+    "xyz_ihs_limit",
+    "xyz_ihs_exec_in_editor",
+    "xyz_ihs_free_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:33.546Z"
+}

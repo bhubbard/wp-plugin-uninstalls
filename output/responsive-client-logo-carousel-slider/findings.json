@@ -1,0 +1,26 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "slc_import_ver",
+    "slc_imported"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ba_width",
+    "ba_height",
+    "ba_re_",
+    "ba_speed",
+    "ba_behavior",
+    "ba_mouse_direction",
+    "ba_padding",
+    "ba_boarder_size",
+    "ba_boarder_color",
+    "ba_bg_color",
+    "ba_",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:58.770Z"
+}

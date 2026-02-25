@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pxc_amm_apikey",
+    "pxc_amm_url_terms",
+    "pxc_amm_url_privacy",
+    "pxc_amm_url_imprint"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:28.453Z"
+}

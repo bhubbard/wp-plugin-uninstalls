@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'riskfeedback'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'risklist_objective_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'risklist_objective_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'risklist_objective_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'risklist_objective_meta'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'risklist_risk_info'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'risklist_risk_info'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'risklist_risk_info'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'risklist_risk_info'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'risklist_risk_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'risklist_risk_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'risklist_risk_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'risklist_risk_meta'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'process_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'process_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'process_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'process_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'process_freq'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'process_freq'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'process_freq'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'process_freq'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'risklist_action_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'risklist_action_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'risklist_action_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'risklist_action_meta'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'risklist_action_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'risklist_action_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'risklist_action_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'risklist_action_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'metric_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'metric_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'metric_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'metric_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'risklist_metric_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'risklist_metric_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'risklist_metric_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'risklist_metric_meta'"

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "MindCatColors",
+    "mindcat_image_noimage",
+    "mindcat_image_*",
+    "mindcat_image_primary",
+    "mindcat_image_secondary"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mindcat_image_primary",
+    "mindcat_image_secondary",
+    "mindcat_image_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:46.082Z"
+}

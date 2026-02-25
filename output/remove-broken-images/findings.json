@@ -1,0 +1,13 @@
+{
+  "options": [
+    "r34rbi_version",
+    "r34rbi_previous_version",
+    "r34rbi_deferred_admin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:28.070Z"
+}

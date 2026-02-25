@@ -1,0 +1,22 @@
+{
+  "options": [
+    "kaltura_partner_id",
+    "kaltura_secret",
+    "kaltura_admin_secret",
+    "kaltura_cms_user",
+    "kaltura_subp_id",
+    "kaltura_default_player_type",
+    "kaltura_show_media_from",
+    "kaltura_default_kcw_type",
+    "kaltura_user_identifier",
+    "kaltura_root_category",
+    "kaltura_enable_kcw",
+    "kaltura_allowed_players"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:29.966Z"
+}

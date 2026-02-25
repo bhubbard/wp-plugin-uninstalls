@@ -1,0 +1,15 @@
+{
+  "options": [
+    "permalink_struture"
+  ],
+  "transients": [
+    "_osig_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "osig_slider_custom_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:19.039Z"
+}

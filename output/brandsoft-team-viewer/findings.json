@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "contact_info",
+    "social_info",
+    "memberlist",
+    "custom_css",
+    "bsteam-designation"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:49.781Z"
+}

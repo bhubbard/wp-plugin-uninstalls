@@ -1,0 +1,22 @@
+{
+  "options": [
+    "myadmanager_paypal_add",
+    "myadmanager_cost_week",
+    "myadmanager_name_week",
+    "myadmanager_cost_month",
+    "myadmanager_name_month",
+    "myadmanager_paypal_return_page",
+    "myadmanager_paypal_email_msg",
+    "myAdManager_db_version",
+    "myadmanager_week_enable",
+    "myadmanager_widget_title",
+    "myAdManager_version",
+    "myadmanager_paypal_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:21.418Z"
+}

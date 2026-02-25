@@ -1,0 +1,21 @@
+{
+  "options": [
+    "newsletter_agile_domain",
+    "newsletter_agile_email",
+    "newsletter_agile_rest_api",
+    "newsletter_agile_password",
+    "newsletter_agile_webstats",
+    "newsletter_agile_webrules",
+    "newsletter_agile_js_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "newsletter_landing_page",
+    "newsletter_enable_webrule",
+    "newsletter_enable_webstats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:53.566Z"
+}

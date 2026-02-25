@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'icit_excerpt_length'
+wp option delete 'icit_excerpt_more_link'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'result_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'result_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'result_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'result_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'correct'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'correct'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'correct'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'correct'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'incorrect'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'incorrect'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'incorrect'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'incorrect'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'questions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'questions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'questions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'questions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'result_introduction'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'result_introduction'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'result_introduction'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'result_introduction'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'result_heading'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'result_heading'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'result_heading'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'result_heading'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'result'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'result'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'result'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'result'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'results'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'results'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'results'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'results'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nextdelay'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nextdelay'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nextdelay'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nextdelay'"

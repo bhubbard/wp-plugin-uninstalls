@@ -1,0 +1,23 @@
+{
+  "options": [
+    "_wpdm_hide_all",
+    "__wpdm_signup_roles"
+  ],
+  "transients": [
+    "wpdm_gb_categories_*",
+    "wpdm_gb_link_templates",
+    "wpdm_gb_post_templates",
+    "wpdm_gb_layouts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "__wpdm_link_label",
+    "__wpdm_pay_as_you_want",
+    "__wpdm_download_count",
+    "__wpdm_view_count",
+    "__wpdm_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:36.877Z"
+}

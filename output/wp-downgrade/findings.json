@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpdg_specific_version_name",
+    "wpdg_download_url",
+    "wpdg_edit_download_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:32.477Z"
+}

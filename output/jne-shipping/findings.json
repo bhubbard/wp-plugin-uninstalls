@@ -1,0 +1,16 @@
+{
+  "options": [
+    "jne_shipping_email",
+    "jne_shipping_donation",
+    "jne_shipping_onlist_status",
+    "jne_shipping_name",
+    "wpe_jneshipp_base_location",
+    "wpe_jneshipp_base_location_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:22.385Z"
+}

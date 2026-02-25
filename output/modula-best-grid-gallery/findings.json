@@ -1,0 +1,62 @@
+{
+  "options": [
+    "modula-checks",
+    "modula_ai_optimizer_status_*",
+    "modula_troubleshooting_option",
+    "modula_defaults_gallery",
+    "modula_defaults_album",
+    "modula_custom_permissions",
+    "modula_pro_license_key",
+    "use_modula_ai",
+    "imageseo_api_key",
+    "modula_ai_api_key",
+    "fusion_options",
+    "jetpack_active_modules",
+    "a3_lazy_load_global_settings",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "modula_image_licensing_option",
+    "modula_ai_language",
+    "modula_image_licensing_option ",
+    "modula_importer",
+    "photoblocks_galleries",
+    "modula_settings",
+    "modula_telemetry_registration_sent",
+    "modula_telemetry_initial_state_sent",
+    "modula_telemetry_initial_settings_sent",
+    "wpchill_telemetry_event_queue",
+    "wpchill_telemetry_registration_sent",
+    "modula_telemetry_opted_out",
+    "modula_telemetry_install_uuid",
+    "siteorigin_panels_settings",
+    "modula-rate-time"
+  ],
+  "transients": [
+    "wpchill_all_partners",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "wpchill_telemetry_weekly_report",
+    "wpchill_telemetry_process_queue",
+    "wpchill_telemetry_send_batch",
+    "wpchill_telemetry_state_send",
+    "wpchill_telemetry_daily_report"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "modula-images",
+    "_wp_attachment_image_alt",
+    "modula-settings",
+    "_customize_changeset_uuid",
+    "_modula_ai_report",
+    "_old_wp_attachment_metadata",
+    "_old_wp_attached_file",
+    "_wp_attachment_metadata",
+    "_modula_original"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:38.386Z"
+}

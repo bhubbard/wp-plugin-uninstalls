@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dsdi_version",
+    "dsdi_settings",
+    "default_ds_directory"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dsdi_options",
+    "option_1"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:05.033Z"
+}

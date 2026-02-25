@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_slimcd_payment_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method_title",
+    "_slimcd_sessionid",
+    "_slimcd_postback_done"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:30.833Z"
+}

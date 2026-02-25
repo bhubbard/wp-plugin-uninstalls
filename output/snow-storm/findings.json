@@ -1,0 +1,30 @@
+{
+  "options": [
+    "snowstorm_flakesMax",
+    "snowstorm_flakesMaxActive",
+    "snowstorm_animationInterval",
+    "snowstorm_excludeMobile",
+    "snowstorm_followMouse",
+    "snowstorm_snowColor",
+    "snowstorm_snowCharacter",
+    "snowstorm_snowStick",
+    "snowstorm_useMeltEffect",
+    "snowstorm_useTwinkleEffect",
+    "snowstorm_ratereview_scheduled",
+    "snowstorm_showmessage_ratereview",
+    "snowstorm_hidemessage_ratereview",
+    "snowstorm_dismissed-ratereview",
+    "snowstorm_pp",
+    "snow_storm_smart_rating_dismissed",
+    "snowstorm_dismissed-*",
+    "snowstorm_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "snowstorm_ratereviewhook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:43.372Z"
+}

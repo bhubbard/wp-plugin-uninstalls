@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_settings",
+    "machete_disabled_modules",
+    "machete_cleanup_settings",
+    "machete_cookies_settings",
+    "machete_maintenance_settings",
+    "machete_powertools_settings",
+    "machete_social_settings",
+    "machete_utils_settings",
+    "machete_woocommerce_settings",
+    "machete_activation_welcome"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:49.742Z"
+}

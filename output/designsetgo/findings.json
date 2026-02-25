@@ -1,0 +1,33 @@
+{
+  "options": [
+    "designsetgo_llms_txt_physical",
+    "designsetgo_global_styles",
+    "designsetgo_settings",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "dsgo_form_submissions_count",
+    "dsgo_form_attrs_*",
+    "dsgo_has_blocks_*",
+    "designsetgo_llms_txt_flush_rules",
+    "designsetgo_llms_md_*"
+  ],
+  "cron_jobs": [
+    "designsetgo_cleanup_old_submissions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_dsg_form_fields",
+    "_dsg_form_id",
+    "_dsg_submission_date",
+    "_dsg_submission_ip",
+    "_dsg_submission_user_agent",
+    "_dsg_submission_referer",
+    "dsg_gdpr_notice_dismissed",
+    "_dsg_email_sent",
+    "_dsg_email_to",
+    "_dsg_email_sent_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:25.681Z"
+}

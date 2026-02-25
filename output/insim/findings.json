@@ -1,0 +1,44 @@
+{
+  "options": [
+    "solo_sms_key",
+    "solo_sms_email",
+    "setting_change",
+    "phone_admin",
+    "isConnectedToInsim",
+    "insim_filter_usage",
+    "insim_campaign_stats",
+    "sim_to_shop_admin_alert",
+    "sim_to_shop_admin_alert_sent",
+    "sim_to_shop_freeoption",
+    "sim_to_shop_option_id_product",
+    "sim_to_shop_admin_phone",
+    "solo_sms_sender",
+    "is_team",
+    "is_premium",
+    "recipients",
+    "Sim_To_Shop_freeoption",
+    "subsc_type"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sim_to_shop_event_daily_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "shipping_first_name",
+    "billing_last_name",
+    "billing_phone",
+    "billing_country",
+    "insim_filter_presets",
+    "last_login",
+    "billing_city",
+    "first_name",
+    "last_name",
+    "phone_number",
+    "billing_firstname",
+    "billing_lastname"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:32.269Z"
+}

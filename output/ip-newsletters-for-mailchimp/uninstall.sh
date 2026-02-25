@@ -1,0 +1,73 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ipmcn_api_key'
+wp option delete 'ipmcn_api_url'
+wp option delete 'ipmcn_from_name'
+wp option delete 'ipmcn_from_email'
+wp option delete 'ipmcn_reply_to'
+wp option delete 'ipmcn_logging'
+wp option delete 'mc_logging'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mc_deployment_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mc_deployment_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mc_deployment_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mc_deployment_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mc_hh'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mc_hh'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mc_hh'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mc_hh'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mc_mm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mc_mm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mc_mm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mc_mm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mc_ampm'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mc_ampm'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mc_ampm'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mc_ampm'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'test_recipient'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'test_recipient'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'test_recipient'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'test_recipient'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'message_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'message_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'message_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'message_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'campaign_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'campaign_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'campaign_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'campaign_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'web_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'web_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'web_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'web_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ipmcn_deployment_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ipmcn_deployment_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ipmcn_deployment_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ipmcn_deployment_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mailing_subject'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mailing_subject'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mailing_subject'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mailing_subject'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mailing_sent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mailing_sent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mailing_sent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mailing_sent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'duplicated_flag'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'duplicated_flag'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'duplicated_flag'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'duplicated_flag'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'TrackId'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'TrackId'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'TrackId'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'TrackId'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mailing_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mailing_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mailing_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mailing_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'acfetch_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'acfetch_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'acfetch_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'acfetch_url'"

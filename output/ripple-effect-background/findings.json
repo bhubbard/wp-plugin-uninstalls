@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ripple_effect-enable_front_page",
+    "ripple_effect-enable_blog_page",
+    "animated_text",
+    "first_text",
+    "second_text",
+    "select_img_ripple_effect",
+    "btn1_label",
+    "btn1_link",
+    "btn2_label",
+    "btn2_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:45.309Z"
+}

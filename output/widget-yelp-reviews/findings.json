@@ -1,0 +1,22 @@
+{
+  "options": [
+    "yrw_active",
+    "yrw_api_key",
+    "yrw_activation_time",
+    "yrw_is_multisite",
+    "yrw_version",
+    "yrw_rev_notice_hide",
+    "rplg_rev_notice_show",
+    "yrw_language"
+  ],
+  "transients": [
+    "yrw_refresh_reviews_*"
+  ],
+  "cron_jobs": [
+    "yrw_refresh_reviews"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:43.942Z"
+}

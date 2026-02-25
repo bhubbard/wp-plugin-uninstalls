@@ -1,0 +1,15 @@
+{
+  "options": [
+    "speculative_loader_settings"
+  ],
+  "transients": [
+    "speculative_loader_error_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_speculative_loader_speculative_urls"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:15.784Z"
+}

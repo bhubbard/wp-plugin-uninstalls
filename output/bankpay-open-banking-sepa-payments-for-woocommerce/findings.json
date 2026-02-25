@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_bankpay_plus_settings",
+    "bankpay_plus_analytics_version",
+    "bankpay_plus_setup_notice_dismissed",
+    "bankpay_plus_wizard_completed",
+    "_transient_timeout_*",
+    "bankpay_plus_webhook_queue",
+    "woocommerce_mock_bankpay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bankpay_plus_process_webhook_queue",
+    "bankpay_plus_cleanup_old_data"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:14.328Z"
+}

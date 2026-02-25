@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpcf7"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ecrmt_error_message"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:25.334Z"
+}

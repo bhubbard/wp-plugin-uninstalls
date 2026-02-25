@@ -1,0 +1,31 @@
+{
+  "options": [
+    "opalservice_settings",
+    "elementor_cpt_support",
+    "opalservice_version",
+    "opalservice_version_upgraded_from",
+    "opalservice_setup"
+  ],
+  "transients": [
+    "_opalservice_installed",
+    "_opalservice_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*avatar",
+    "phone",
+    "*_data",
+    "*_latitude",
+    "*_longitude",
+    "*_address",
+    "*gallery",
+    "_pending_to_use_",
+    "*avatar_id",
+    "*_id",
+    "_wp_page_template",
+    "category-image-id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:05.036Z"
+}

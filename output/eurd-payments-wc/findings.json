@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_eurd_settings",
+    "woocommerce_coming_soon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eurd_pr_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:36.648Z"
+}

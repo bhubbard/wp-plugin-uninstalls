@@ -1,0 +1,14 @@
+{
+  "options": [
+    "quickeditnotes_enabled_post_types",
+    "qen_enabled_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_quickeditnotes_notes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:15.823Z"
+}

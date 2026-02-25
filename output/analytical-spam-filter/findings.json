@@ -1,0 +1,18 @@
+{
+  "options": [
+    "analytical_spam_filter_settings_db",
+    "analytical_spam_filter_salt",
+    "analytical_spam_filter_hash_field_id",
+    "analytical_spam_filter_honeypot_field_id",
+    "analytical_spam_filter_duration_field_id",
+    "analytical_spam_filter_database_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "analytical_spam_filter_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:26.252Z"
+}

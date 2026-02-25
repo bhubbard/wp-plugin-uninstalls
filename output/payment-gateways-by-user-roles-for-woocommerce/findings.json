@@ -1,0 +1,17 @@
+{
+  "options": [
+    "alg_wc_payment_gateways_by_user_roles_plugin_enabled",
+    "alg_wc_payment_gateways_by_user_roles_check_roles",
+    "alg_wc_gateway_roles_in_*",
+    "alg_wc_gateway_roles_ex_*",
+    "*_reset",
+    "active_sitewide_plugins",
+    "alg_wc_payment_gateways_by_user_roles_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:16.873Z"
+}

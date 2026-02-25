@@ -1,0 +1,16 @@
+{
+  "options": [
+    "topdawg_merchant_id",
+    "topdawg_api_key",
+    "topdawg_credentials_sent"
+  ],
+  "transients": [
+    "topdawg_plain_api_key_temp",
+    "topdawg_plugin_deactivating"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:34.803Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wc_settings_ddt_start_time",
+    "wc_settings_ddt_end_time",
+    "wc_settings_ddt_interval"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "order_delivery_date_and_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:45.272Z"
+}

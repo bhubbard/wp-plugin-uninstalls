@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sitechat_show_activation_notice",
+    "sitechat_link_code",
+    "sitechat_enable_ecommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:34.739Z"
+}

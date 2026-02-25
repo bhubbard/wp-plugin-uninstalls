@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_require_shipping_address",
+    "woocommerce_ship_to_same_address",
+    "woocommerce_enable_order_comments",
+    "woocommerce_weight_unit",
+    "woocommerce_calc_shipping",
+    "woocommerce_cart_page_id",
+    "woocommerce_enable_shipping_calc"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_maha_orders_state"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_maha_tracking_code",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:47.154Z"
+}

@@ -1,0 +1,6 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'bootstrap_modal_settings'
+

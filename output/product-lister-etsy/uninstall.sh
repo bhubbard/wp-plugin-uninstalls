@@ -1,0 +1,118 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ced_etsy_categories_fetched'
+wp option delete 'ced_etsy_global_settings'
+wp option delete 'ced_etsy_settings_category'
+wp option delete 'woocommerce_weight_unit'
+wp option delete 'woocommerce_dimension_unit'
+wp option delete 'ced_etsy_shop_name'
+wp option delete 'ced_etsy_setup_steps'
+wp option delete 'ced_etsy_details'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_chunk_products_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_get_offset_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_sync_existing_by_identifiers_%'"
+wp option delete 'ced_etsy_reauthorize_account'
+wp option delete 'ced_etsy_auth_info'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_woo_etsy_mapped_categories_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_woo_etsy_mapped_categories_name_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_setup_wiz_req_attrs_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_total_shop_products_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_total_e_shop_pros_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_auto_upload_categories_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_product_ids_in_profile_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'ced_etsy_inventory_scheduler_job_%'"
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_ced_etsy_token_%' OR option_name LIKE '_site_transient_ced_etsy_token_%'"
+wp transient delete 'ced-etsy-admin-notice'
+
+# Clear Cron Jobs
+wp cron event delete 'ced_etsy_auto_submit_shipment'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_ced_etsy_listing_id_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_ced_etsy_listing_id_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_ced_etsy_listing_id_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ced_etsy_listing_id_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_ced_etsy_url_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_ced_etsy_url_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_ced_etsy_url_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ced_etsy_url_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_ced_etsy_product_files_uploaded%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_ced_etsy_product_files_uploaded%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_ced_etsy_product_files_uploaded%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ced_etsy_product_files_uploaded%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'ced_etsy_previous_thumb_ids%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'ced_etsy_previous_thumb_ids%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'ced_etsy_previous_thumb_ids%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'ced_etsy_previous_thumb_ids%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'ced_etsy_profile_id_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'ced_etsy_profile_id_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'ced_etsy_profile_id_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'ced_etsy_profile_id_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_manage_stock'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_manage_stock'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_manage_stock'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_manage_stock'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stock_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stock_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stock_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stock_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_ced_etsy_listing_data_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_ced_etsy_listing_data_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_ced_etsy_listing_data_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ced_etsy_listing_data_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'ced_etsy_last_updated%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'ced_etsy_last_updated%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'ced_etsy_last_updated%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'ced_etsy_last_updated%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_ced_etsy_state_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_ced_etsy_state_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_ced_etsy_state_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ced_etsy_state_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'ced_etsy_profile_created_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'ced_etsy_profile_created_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'ced_etsy_profile_created_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'ced_etsy_profile_created_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'ced_etsy_mapped_category_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'ced_etsy_mapped_category_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'ced_etsy_mapped_category_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'ced_etsy_mapped_category_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'ced_etsy_profile_assigned%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'ced_etsy_profile_assigned%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'ced_etsy_profile_assigned%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'ced_etsy_profile_assigned%'"

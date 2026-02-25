@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('responsive_vc_tabs_permission', 'responsive_tabs_woo_sub_title', 'responsive_tabs_use_the_content', 'responsive_tabs_woocommerce_customize_default_tabs', 'responsive_tabs_woocommerce_default', 'Tabs_R_default_Settings', 'wpsm_tabs_r_review', 'responsive_vc_tabs_permission_role');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_responsive_tabs_woo_data', 'responsive_woo_tabs_activation', 'responsive_woo_tabs_priority', 'responsive_woo_tabs_condition', 'responsive_woo_tabs_singular_id', 'responsive_woo_tabs_archive', 'responsive_woo_tabs_products_cat', 'responsive_woo_tabs_products_tags', 'responsive_woo_tabs_icon', 'responsive_woo_tabs_callback', '_responsive_tabs_woo_layouts', 'wpsm_tabs_r_data', 'wpsm_tabs_r_count', 'Tabs_R_Settings');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_responsive_tabs_woo_data', 'responsive_woo_tabs_activation', 'responsive_woo_tabs_priority', 'responsive_woo_tabs_condition', 'responsive_woo_tabs_singular_id', 'responsive_woo_tabs_archive', 'responsive_woo_tabs_products_cat', 'responsive_woo_tabs_products_tags', 'responsive_woo_tabs_icon', 'responsive_woo_tabs_callback', '_responsive_tabs_woo_layouts', 'wpsm_tabs_r_data', 'wpsm_tabs_r_count', 'Tabs_R_Settings');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_responsive_tabs_woo_data', 'responsive_woo_tabs_activation', 'responsive_woo_tabs_priority', 'responsive_woo_tabs_condition', 'responsive_woo_tabs_singular_id', 'responsive_woo_tabs_archive', 'responsive_woo_tabs_products_cat', 'responsive_woo_tabs_products_tags', 'responsive_woo_tabs_icon', 'responsive_woo_tabs_callback', '_responsive_tabs_woo_layouts', 'wpsm_tabs_r_data', 'wpsm_tabs_r_count', 'Tabs_R_Settings');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_responsive_tabs_woo_data', 'responsive_woo_tabs_activation', 'responsive_woo_tabs_priority', 'responsive_woo_tabs_condition', 'responsive_woo_tabs_singular_id', 'responsive_woo_tabs_archive', 'responsive_woo_tabs_products_cat', 'responsive_woo_tabs_products_tags', 'responsive_woo_tabs_icon', 'responsive_woo_tabs_callback', '_responsive_tabs_woo_layouts', 'wpsm_tabs_r_data', 'wpsm_tabs_r_count', 'Tabs_R_Settings');
+

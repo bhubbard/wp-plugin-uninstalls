@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bunnycdn_api_key",
+    "bunnycdn_pull_zone",
+    "bunnycdn_excluded_urls",
+    "bunnycdn_always_purge",
+    "bunnycdn_pull_zone_name"
+  ],
+  "transients": [
+    "bunnycdn_purge_scheduled_*"
+  ],
+  "cron_jobs": [
+    "bunnycdn_purge_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:21.652Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "txtimpact",
+    "txtimpact-received-messages-version",
+    "txtimpact-sent-messages-version",
+    "txtimpact-subscribers-version",
+    "widget_txtimpact-subscribe"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:28.056Z"
+}

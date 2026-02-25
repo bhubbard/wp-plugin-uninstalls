@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pedro_demo_installed",
+    "pedro_demo_version",
+    "recently_activated",
+    "pdi_installed",
+    "pdi_version"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:06.901Z"
+}

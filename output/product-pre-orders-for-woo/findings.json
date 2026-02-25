@@ -1,0 +1,51 @@
+{
+  "options": [
+    "pre_order_setting_default",
+    "woocommerce_feature_custom_order_tables_enabled",
+    "woocommerce_custom_orders_table_enabled",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "villatheme_call",
+    "villatheme_ads",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called"
+  ],
+  "cron_jobs": [
+    "_wpro_schedule_date_cron",
+    "_wpro_schedule_date_cron_variation"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wpro_date_variable",
+    "_wpro_time_variable",
+    "_wpro_variable_is_preorder",
+    "_wpro_date",
+    "_wpro_time",
+    "_simple_preorder",
+    "_wpro_price",
+    "_wpro_label_variable",
+    "_wpro_price_variable",
+    "_wpro_no_date_label",
+    "_wpro_date_label",
+    "_wpro_manage_price",
+    "_wpro_price_type",
+    "_wpro_amount_price",
+    "_wpro_label",
+    "_wpro_date_label_variable",
+    "_wpro_no_date_label_variable",
+    "_wpro_manage_price_variable",
+    "_wpro_price_type_variable",
+    "_wpro_amount_price_variable",
+    "_regular_price",
+    "_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:38.683Z"
+}

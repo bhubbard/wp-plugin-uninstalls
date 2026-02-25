@@ -1,0 +1,13 @@
+{
+  "options": [
+    "payoneer-checkout_plugin_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "payoneer_process_system_report"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:47.771Z"
+}

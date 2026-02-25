@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wordpress_api_key",
+    "akismet_discard_month",
+    "akismet_show_user_comments_approved",
+    "akismet_connectivity_time",
+    "akismet_spam_count",
+    "akismet_alert_code",
+    "akismet_alert_msg",
+    "akismet_available_servers",
+    "jc_setting",
+    "jotform_options",
+    "jc_option_from_ajax",
+    "dx_option_from_ajax"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "akismet_schedule_cron_recheck"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "akismet_result",
+    "akismet_error",
+    "akismet_user_result",
+    "akismet_user",
+    "akismet_as_submitted",
+    "akismet_rechecking"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:18.663Z"
+}

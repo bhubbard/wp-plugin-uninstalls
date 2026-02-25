@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wonderplugin_pdf_disabledownload",
+    "wonderplugin_pdf_disableprint",
+    "wonderplugin_pdf_disabletext",
+    "wonderplugin_pdf_disabledoc",
+    "wonderplugin_pdf_disableopenfile",
+    "wonderplugin_pdf_disabletoolbar",
+    "wonderplugin_pdf_disablerightclick",
+    "wonderplugin_pdf_usedarktheme",
+    "wonderplugin_pdf_externallinktarget",
+    "wonderplugin_pdf_gaaccount",
+    "wonderplugin_pdf_textselection",
+    "wonderplugin_pdf_texthighlight",
+    "wonderplugin_pdf_texthighlightselected"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:56.761Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "trad_ioy_gen_settings",
+    "trad_ioy_version",
+    "trad_ioy_local_css",
+    "trad_ioy_avail_bible_versions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "trad_ioy_activate_shortcodes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:44.193Z"
+}

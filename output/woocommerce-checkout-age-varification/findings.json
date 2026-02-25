@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_order_number_start"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "My Field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:50.193Z"
+}

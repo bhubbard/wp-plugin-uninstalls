@@ -1,0 +1,29 @@
+{
+  "options": [
+    "joli_toc_rating_time",
+    "joli_toc_gopro_time",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "joli_toc_settings",
+    "joli_toc_use_v1"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "joli_toc_post_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:37.931Z"
+}

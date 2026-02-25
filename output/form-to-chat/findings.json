@@ -1,0 +1,21 @@
+{
+  "options": [
+    "whatsform_url",
+    "whatsform_page_title",
+    "whatsform_path",
+    "whatsform_url_input",
+    "whatsform_page_title_input",
+    "whatsform_path_input",
+    "whatsform_widget_snippet",
+    "whatsform_widget_show_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_whatsform_inpost_snippet",
+    "whatsform_getting_started_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:29.236Z"
+}

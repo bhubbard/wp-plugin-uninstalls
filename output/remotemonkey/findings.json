@@ -1,0 +1,17 @@
+{
+  "options": [
+    "remotemonkey_options",
+    "remotemonkey_do_activation_redirect",
+    "bm_remotemonkey",
+    "akeebabackupwp_config"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:29.032Z"
+}

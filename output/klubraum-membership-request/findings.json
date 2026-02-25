@@ -1,0 +1,14 @@
+{
+  "options": [
+    "kr_mr_api_token",
+    "kr_mr_introduction_text",
+    "kr_mr_latest_membership_request",
+    "kr_mr_latest_expire_at"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:50.346Z"
+}

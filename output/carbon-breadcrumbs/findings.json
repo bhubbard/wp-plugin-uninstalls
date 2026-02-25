@@ -1,0 +1,14 @@
+{
+  "options": [
+    "carbon_breadcrumbs_*",
+    "carbon_breadcrumbs_glue",
+    "carbon_breadcrumbs_min_items",
+    "carbon_breadcrumbs_last_item_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:23.639Z"
+}

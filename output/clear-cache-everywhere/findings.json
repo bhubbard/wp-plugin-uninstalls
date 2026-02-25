@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rewrite_rules",
+    "*_hosting_purge_url",
+    "clear_cache_everywhere_last_results"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:46.031Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wc_settings_order_number_enable_plugin",
+    "wc_settings_order_number_order_prefix",
+    "wc_settings_order_number_order_suffix",
+    "wc_settings_order_number_counter",
+    "wc_settings_order_number_order_format",
+    "wc_settings_order_number_width",
+    "wc_settings_order_number_start_order_number"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "new_order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:57.546Z"
+}

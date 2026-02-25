@@ -1,0 +1,23 @@
+{
+  "options": [
+    "gartentechnik_com_einstellungen",
+    "gartentechnik_com_gtcom_einstellungs_cache",
+    "gartentechnik_com_api_timeoutfehler",
+    "gartentechnik_com_standardseite_cache",
+    "gartentechnik_com_rss_import_bereits_importierte_quell_links"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gartentechnik_com_rss_import"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "kategorie",
+    "filter",
+    "tiefe",
+    "gartentechnik_com_rss_import_content_checksum",
+    "gartentechnik_com_rss_import_quell_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:26.197Z"
+}

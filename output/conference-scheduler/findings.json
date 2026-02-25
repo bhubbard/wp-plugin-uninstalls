@@ -1,0 +1,43 @@
+{
+  "options": [
+    "conf_scheduler_*",
+    "conf_scheduler_workshop_slug",
+    "conf_scheduler_version",
+    "conf_scheduler_options",
+    "wc_am_client_15800",
+    "wc_am_client_15800_instance",
+    "conf_scheduler_view_mode",
+    "conf_scheduler_day_mode",
+    "conf_scheduler_per_row",
+    "conf_scheduler_workshop_sort_field",
+    "conf_scheduler_workshop_sort_order",
+    "conf_scheduler_day_format",
+    "conf_scheduler_day_format_custom",
+    "conf_scheduler_filter_multiple",
+    "conf_scheduler_hide_empty",
+    "conf_scheduler_single_workshop_view"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "start",
+    "start_time",
+    "end_time",
+    "length",
+    "file_attachments_id",
+    "presenter_bio",
+    "workshop_id",
+    "location",
+    "location_url",
+    "presenter",
+    "limit",
+    "hide_title",
+    "collapse",
+    "hide_time",
+    "group_by_location",
+    "session"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:37.363Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "db_tagcloud_cols",
+    "db_tagcloud_fontsize",
+    "db_tagcloud_fontweight",
+    "db_tagcloud_borderwidth",
+    "db_tagcloud_underlined",
+    "db_tagcloud_underlined_hover",
+    "db_tagcloud_color",
+    "db_tagcloud_color_hover",
+    "db_tagcloud_background",
+    "db_tagcloud_background_hover"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:29.069Z"
+}

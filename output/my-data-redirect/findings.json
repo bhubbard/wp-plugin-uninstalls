@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mydr_dataask1",
+    "mydr_dataask2",
+    "mydr_dataask3",
+    "mydr_dataask4",
+    "mydr_dataplaceholder",
+    "mydr_datatitle",
+    "mydr_datasubmittext",
+    "mydr_datadata1",
+    "mydr_datadata2",
+    "mydr_datasubmit",
+    "mydr_dr_mydataplaceholder"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:57.229Z"
+}

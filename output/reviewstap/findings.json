@@ -1,0 +1,16 @@
+{
+  "options": [
+    "reviewstap_bus_id",
+    "reviewstap_api_key",
+    "reviewstap_secret_key",
+    "reviewstap_auto_add_users",
+    "reviewstap_auto_add_wc_customers",
+    "reviewstap_auto_add_wc_orders"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:04.816Z"
+}

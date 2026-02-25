@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fndry_global_styles",
+    "fndry_custom_fields",
+    "fndry_animation_settings",
+    "fndry_general_settings",
+    "fndry_component_styles",
+    "foundry_settings",
+    "fndry_license_key",
+    "fndry_license_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:28.700Z"
+}

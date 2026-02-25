@@ -1,0 +1,19 @@
+{
+  "options": [
+    "announcement_bar_settings",
+    "the_frosty_dashboard_widget_options"
+  ],
+  "transients": [
+    "feed_*",
+    "feed_mod_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_announcement_link",
+    "_announcement_count",
+    "_announcement_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:50.512Z"
+}

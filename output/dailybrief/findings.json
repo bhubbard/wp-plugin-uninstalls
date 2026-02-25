@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "dailybrief_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "exxo_wp_permlink",
+    "exxo_wp_author"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:57.222Z"
+}

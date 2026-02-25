@@ -1,0 +1,14 @@
+{
+  "options": [
+    "plugin_error",
+    "*_db_version",
+    "ainsys-webhook_url",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:38.915Z"
+}

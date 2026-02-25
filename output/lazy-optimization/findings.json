@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lzyopti_global_images_to_exclude",
+    "lzyopti_replace_image",
+    "lzyopti_delete_all_data",
+    "lzyopti_already_done_single_css",
+    "autoptimize_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:49.180Z"
+}

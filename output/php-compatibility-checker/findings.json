@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wpephpcompat_is_wptide",
+    "wpephpcompat.test_version",
+    "wpephpcompat.only_active",
+    "wpephpcompat.scan_results",
+    "wpephpcompat.lock",
+    "wpephpcompat.status",
+    "wpephpcompat.numdirs",
+    "wpephpcompat.show_notice"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wpephpcompat_start_test_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:08.239Z"
+}

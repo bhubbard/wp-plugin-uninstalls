@@ -1,0 +1,16 @@
+{
+  "options": [
+    "engagebay_livechat_rest_api",
+    "engagebay_livechat_domain",
+    "engagebay_livechat_email",
+    "engagebay_livechat_password",
+    "engagebay_livechat_js_api",
+    "engagebay_livechat_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:32.625Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "aa_block_fallback_country",
+    "aa_block_use_ip_api",
+    "aa_block_redirect_url",
+    "aa_block_enabled",
+    "aa_block_countries"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aa_block_enable",
+    "_aa_block_countries"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:43.579Z"
+}

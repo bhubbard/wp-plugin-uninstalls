@@ -1,0 +1,15 @@
+{
+  "options": [
+    "shopify_domain",
+    "shopify_access_token",
+    "cart_tab_button_color",
+    "cart_tab_button_hover_color",
+    "cart_tab_button_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:45.201Z"
+}

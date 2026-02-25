@@ -1,0 +1,42 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "wpm_site_language",
+    "wpm_use_redirect",
+    "wpm_use_prefix",
+    "wpm_show_untranslated_strings",
+    "wpm_uninstall_translations",
+    "wpm_languages",
+    "*_version",
+    "active_sitewide_plugins",
+    "splash_ws_user",
+    "splash_ws_id",
+    "splash_ws_key",
+    "woocommerce_prices_include_tax",
+    "woocommerce_calc_taxes",
+    "splash_multilang",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "splash_cf_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_anonymized",
+    "_thumbnail_id",
+    "_wcpdf_invoice_number",
+    "_sku",
+    "_stock",
+    "billing_*",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "first_name",
+    "last_name",
+    "_product_attributes",
+    "attribute_variant"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:57.202Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wps_wc_redirect_default",
+    "wps_wc_redirect_append_order_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "redirect_url",
+    "redirect_url_priority"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:17.329Z"
+}

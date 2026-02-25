@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "btcpay_api_validation_error",
+    "btcpay_api_validation_success",
+    "btcpay_webhook_exists",
+    "btcpay_webhook_created",
+    "btcpay_webhook_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:24.782Z"
+}

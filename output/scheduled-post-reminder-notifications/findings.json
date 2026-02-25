@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sprn_notification_method",
+    "sprn_reminder_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sprn_send_reminder"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:36.457Z"
+}

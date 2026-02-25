@@ -1,0 +1,13 @@
+{
+  "options": [
+    "smsapi_notifications",
+    "smsapi_subscription",
+    "smsapi_client"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:09.066Z"
+}

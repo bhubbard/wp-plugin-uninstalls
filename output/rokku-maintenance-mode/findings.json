@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rokkmamo_enabled",
+    "rokkmamo_logo_id",
+    "rokkmamo_headline",
+    "rokkmamo_message"
+  ],
+  "transients": [
+    "rokkmamo_status",
+    "rokkmamo_last_toggle"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:43.969Z"
+}

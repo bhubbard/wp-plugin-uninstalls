@@ -1,0 +1,19 @@
+{
+  "options": [
+    "product_shipping_options_number",
+    "display_shipping",
+    "product_shipping_cost",
+    "product_shipping_label",
+    "general_shipping_settings",
+    "shipping_options_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping*",
+    "_shipping-label*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:08.514Z"
+}

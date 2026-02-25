@@ -1,0 +1,33 @@
+{
+  "options": [
+    "mfrh_force_rename",
+    "mfrh_sync_alt",
+    "mfrh_sync_media_title",
+    "*_license",
+    "force_sslverify",
+    "*_pro_serial",
+    "meowapps_hide_meowapps",
+    "litespeed.conf.cache-rest",
+    "mwai_options",
+    "meowapps_news",
+    "*_rating_date",
+    "mfrh_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_require_file_renaming",
+    "_manual_file_renaming",
+    "_mfrh_history",
+    "_mfrh_proposed_filename",
+    "_mfrh_used_method",
+    "_mfrh_ideal_filename",
+    "_mfrh_proposed_filename_exists",
+    "_original_filename",
+    "_mfrh_keep_filename"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:22.517Z"
+}

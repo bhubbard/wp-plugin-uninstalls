@@ -1,0 +1,22 @@
+{
+  "options": [
+    "easytab_debug_log",
+    "easytab_ai",
+    "easytab_settings",
+    "easytab_ai_models",
+    "easytab_pro_third_parties_tabs",
+    "easytab_chat_gpt_ai_output_preset",
+    "easytab_claude_ai_output_preset",
+    "easytab_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_tab",
+    "easytab_additional_information_tab",
+    "easytab_description_tab"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:21.582Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bg_shce_effectsEnabled",
+    "bg_shce_animationEffect",
+    "bg_shce_animationSpeed",
+    "bg_shce_stickToBottom",
+    "bg_shce_preset1"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:03.973Z"
+}

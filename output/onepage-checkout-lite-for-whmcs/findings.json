@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_onepchli_page_id",
+    "_onepchli_selected_template",
+    "csf_demo_mode",
+    "one-page-whmcs-admin-page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:40.063Z"
+}

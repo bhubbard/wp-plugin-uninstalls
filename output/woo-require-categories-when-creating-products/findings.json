@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_required_taxonomies_post_types",
+    "woocommerce_required_taxonomies_taxonomies",
+    "woocommerce_required_taxonomies_error_message",
+    "woocommerce_required_taxonomies_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:31.120Z"
+}

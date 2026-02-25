@@ -1,0 +1,24 @@
+{
+  "options": [
+    "eCheckpoint_pre_settings",
+    "eCheckpoint_enable_50_state_fee",
+    "eCheckpoint_fee_percentage",
+    "eCheckpoint_minimum_fee_per_item",
+    "eCheckpoint_maximum_fee_per_item",
+    "eCheckpoint_calculate_fee_on_multiples",
+    "eCheckpoint_compliance_fee_message",
+    "eCheckpoint_excluded_states",
+    "eCheckpoint_API_Key_Value",
+    "eCheckpoint_Message_Checkbox_Value",
+    "eCheckpoint_OnHold_Checkbox_Value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shipping_company",
+    "customer_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:00.116Z"
+}

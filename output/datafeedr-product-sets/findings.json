@@ -1,0 +1,56 @@
+{
+  "options": [
+    "dfrapi_account",
+    "dfrps_configuration",
+    "dfrps_registered_cpts",
+    "*_configuration",
+    "dfrps_do_batch_image_import",
+    "dfrapi_networks",
+    "dfrapi_merchants",
+    "dfrps_db_version",
+    "dfrapi_coupon_networks",
+    "dfrps_version"
+  ],
+  "transients": [
+    "dfrps_doing_update"
+  ],
+  "cron_jobs": [
+    "dfrps_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_dfrps_has_been_published",
+    "_dfrps_cpt_type",
+    "_dfrps_cpt_next_update_time",
+    "_dfrps_update_schedule",
+    "_dfrps_cpt_update_phase",
+    "_dfrps_cpt_last_update_time_started",
+    "_dfrps_cpt_last_update_time_completed",
+    "_dfrps_cpt_last_update_num_api_requests",
+    "_dfrps_cpt_last_update_num_products_added",
+    "_dfrps_cpt_query",
+    "_dfrps_cpt_temp_query",
+    "_dfrps_preprocess_complete_*",
+    "_dfrps_postprocess_complete_*",
+    "*_first_pass",
+    "_dfrps_cpt_errors",
+    "_dfrps_cpt_previous_update_info",
+    "_dfrps_cpt_offset",
+    "_dfrps_cpt_last_update_num_products_deleted",
+    "_dfrps_product_check_image",
+    "_dfrps_cpt_update_iteration",
+    "_dfrps_cpt_manually_blocked_ids",
+    "_dfrps_cpt_manually_added_ids",
+    "_dfrps_cpt_terms",
+    "_dfrps_current_version",
+    "_dfrps_cpt_categories",
+    "_dfrps_option_ids",
+    "_dfrps_cpt_categories_history",
+    "_dfrps_cpt_import_into",
+    "_dfrps_product",
+    "_dfrps_featured_image_url",
+    "_dfrps_product_set_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:44.106Z"
+}

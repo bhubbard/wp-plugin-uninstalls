@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lndr_settings",
+    "lndr_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lndr_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lndr_project_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:50.983Z"
+}

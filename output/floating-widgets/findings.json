@@ -1,0 +1,32 @@
+{
+  "options": [
+    "floating_widgets_appreciation",
+    "floating_widgets_mode",
+    "floating_widgets_before_widget",
+    "floating_widgets_after_widget",
+    "floating_widgets_before_title",
+    "floating_widgets_after_title",
+    "floating_widgets_title_size",
+    "floating_widgets_title_color",
+    "floating_widgets_posts",
+    "floating_widgets_before_section",
+    "floating_widgets_after_section",
+    "floating_widgets_before_content",
+    "floating_widgets_after_content",
+    "floating_widget_float",
+    "floating_widget_width",
+    "floating_widget_padding",
+    "floating_widget_margin",
+    "floating_widget_border_width",
+    "floating_widget_border_style",
+    "floating_widget_border_color",
+    "floating_widgets_pages",
+    "floating_widgets_custom_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:01.907Z"
+}

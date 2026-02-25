@@ -1,0 +1,18 @@
+{
+  "options": [
+    "compare_payment_values"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cp_own",
+    "cp_trans_fee",
+    "cp_trans_additoinal_fee",
+    "cp_min_trans_fee",
+    "cp_card_body",
+    "cp_card_bottom"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:50.885Z"
+}

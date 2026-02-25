@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bernz_social_settings"
+  ],
+  "transients": [
+    "bernz_social_data_*"
+  ],
+  "cron_jobs": [
+    "bernz_social_refresh_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:53.140Z"
+}

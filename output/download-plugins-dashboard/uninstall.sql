@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('active_sitewide_plugins', 'alg_download_plugins_dashboard_version_separator_char', 'alg_download_plugins_dashboard_temp_dir', 'alg_download_plugins_dashboard_themes_append_version', 'alg_download_plugins_dashboard_themes_add_main_dir', 'alg_download_plugins_dashboard_themes_append_date_time', 'alg_download_plugins_dashboard_themes_output_files', 'alg_download_plugins_dashboard_themes_single_zip_file_name', 'alg_download_plugins_dashboard_themes_bulk_dir', 'alg_download_plugins_dashboard_plugins_append_version', 'alg_download_plugins_dashboard_plugins_add_main_dir', 'alg_download_plugins_dashboard_plugins_append_date_time', 'alg_download_plugins_dashboard_plugins_output_files', 'alg_download_plugins_dashboard_plugins_single_zip_file_name', 'alg_download_plugins_dashboard_plugins_bulk_dir', 'alg_download_plugins_dashboard_zip_library');
+

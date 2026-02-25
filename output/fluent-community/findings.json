@@ -1,0 +1,38 @@
+{
+  "options": [
+    "_bp_fcom_group_maps",
+    "_bp_fcom_last_post_id",
+    "_bp_fcom_last_user_id",
+    "_bp_fcom_last_migrated_member_id",
+    "_fcom_bp_migrations_status",
+    "fluentmail-settings",
+    "fluent_community_db_version",
+    "fluent_community_settings",
+    "rewrite_rules",
+    "_fcom_crm_tagging",
+    "siteUrl"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "locale",
+    "_wp_attachment_metadata",
+    "bp_favorite_activities",
+    "_fcom_deactivated_at",
+    "_fcom_space_ids",
+    "_fcom_user_photo",
+    "_fcom_is_verified",
+    "description",
+    "_fluent_cover_photo",
+    "_fcom_last_digest_sent",
+    "_new_email",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:39.683Z"
+}

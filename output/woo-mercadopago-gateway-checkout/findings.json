@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wc-mercadopago-plus-*",
+    "woocommerce_wc_mp_plus_gateway_bricks_settings",
+    "wc-mpp_options"
+  ],
+  "transients": [
+    "*-notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:25.831Z"
+}

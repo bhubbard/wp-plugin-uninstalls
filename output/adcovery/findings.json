@@ -1,0 +1,19 @@
+{
+  "options": [
+    "adcovery_last_update_at",
+    "adcovery_last_update_method",
+    "adcovery_enabled",
+    "adcovery_last_error_msg",
+    "adcovery_website_id",
+    "adcovery_api_key",
+    "adcovery_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_adcovery_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:35.412Z"
+}

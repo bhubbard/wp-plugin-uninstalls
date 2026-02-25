@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*about_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shortlink_target_url",
+    "shortlink_redirect_type",
+    "shortlink_hits"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:00.165Z"
+}

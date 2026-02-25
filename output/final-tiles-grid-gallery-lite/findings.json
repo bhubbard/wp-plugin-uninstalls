@@ -1,0 +1,35 @@
+{
+  "options": [
+    "ftg_review",
+    "FinalTiles_gallery_db_version",
+    "*_size_w",
+    "*_size_h",
+    "FinalTiles_gallery_options",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ftg_link",
+    "_ftg_target",
+    "ftg_filters",
+    "ftg_group",
+    "ftg_image_url",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:05.805Z"
+}

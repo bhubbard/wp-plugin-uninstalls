@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_add_bulk_cart_packages_products",
+    "_add_bulk_cart_packages_quantities",
+    "_package_complete_url",
+    "_add_bulk_cart_packages_coupon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:18.815Z"
+}

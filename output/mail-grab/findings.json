@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mlgb_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mlgb_content_type",
+    "mlgb_from",
+    "mlgb_*",
+    "mlgb_custom_headers",
+    "mlgb_attachments",
+    "mlgb_prevented"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:22.054Z"
+}

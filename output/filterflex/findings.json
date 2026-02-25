@@ -1,0 +1,21 @@
+{
+  "options": [
+    "filterflex_settings"
+  ],
+  "transients": [
+    "filterflex_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_filterflex_priority",
+    "_filterflex_output_config",
+    "_filterflex_transformations",
+    "_filterflex_apply_area",
+    "_filterflex_location_rules",
+    "_filterflex_filterable_element",
+    "_filterflex_context_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:23.179Z"
+}

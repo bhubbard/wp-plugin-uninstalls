@@ -1,0 +1,15 @@
+{
+  "options": [
+    "edd_settings",
+    "temp_subs_payment",
+    "edd_recurring_version",
+    "novalnet_db_version",
+    "novalnet_version_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:53.516Z"
+}

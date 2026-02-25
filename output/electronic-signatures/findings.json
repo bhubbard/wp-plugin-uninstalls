@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*dashboard_subscribe",
+    "ssing_date_format",
+    "ssing_dashboard_widget_flag",
+    "ssign_notice",
+    "swiftsign_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:35.549Z"
+}

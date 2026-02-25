@@ -1,0 +1,27 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_easytransac_settings",
+    "woocommerce_easytransac-sdd_settings",
+    "woocommerce_easytransac-paybybank_settings",
+    "woocommerce_easytransac-unified_settings",
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_manage_stock"
+  ],
+  "transients": [
+    "et_req_*"
+  ],
+  "cron_jobs": [
+    "woocommerce_cancel_unpaid_orders",
+    "easytransac_cancel_unpaid_orders_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "easytransac-clientid",
+    "ET_RequestId",
+    "ET_Tid",
+    "vat_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:11.627Z"
+}

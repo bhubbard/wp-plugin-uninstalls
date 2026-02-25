@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ultrablocks_google_maps_api_key",
+    "ultrablocks_mailchimp_api_key",
+    "ultrablocks_mailchimp_audience_id",
+    "ultrablocks_open_weather_map_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:17.064Z"
+}

@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wtn_api_key",
+    "wtn_caching_time",
+    "wtn_int_featured_content_settings",
+    "wtn_settings",
+    "wtn_general_settings",
+    "wtn_int_ticker_content_settings",
+    "wtn_int_ticker_styles_settings",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "wtn_flush_rewrite_rules_flag"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wtn_status",
+    "wtn_is_breaking",
+    "wtn_is_hero",
+    "wtn_is_featured"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:00.979Z"
+}

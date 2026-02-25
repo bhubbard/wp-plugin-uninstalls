@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_xprs_rewrite",
+    "wp_xprs_home_vbid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_xprs_vbid",
+    "wp_xprs_mode",
+    "wp_xprs_sidebar",
+    "wp_xprs_comments"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:25.641Z"
+}

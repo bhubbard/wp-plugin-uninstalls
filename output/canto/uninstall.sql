@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fbc_app_api', 'fbc_flight_domain', 'fbc_app_token', 'fbc_app_expire_token', 'fbc_app_timestamp', 'fbc_duplicates', 'fbc_cron', 'fbc_schedule', 'fbc_cron_time_day', 'fbc_cron_time_hour', 'fbc_app_id', 'fbc_app_secret', 'fbc_app_refresh_token', 'fbc_token_expire', 'fbc_flight_username', 'fbc_flight_password', 'fbc_refresh_token_expire', 'fbc_refresh_token', 'fbc_cron_start', 'fbc_app_token_expire', 'fbc_app_refresh_token_expire');
+DELETE FROM wp_options WHERE option_name LIKE '%_version';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_w';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_h';
+DELETE FROM wp_options WHERE option_name LIKE '%_crop';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_attachment_image_alt', 'fbc_id', 'fbc_scheme', 'description', 'copyright', 'terms', '_canto_asset_id', '_canto_asset_data', '_acf_image_data', '_wp_attachment_metadata');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_attachment_image_alt', 'fbc_id', 'fbc_scheme', 'description', 'copyright', 'terms', '_canto_asset_id', '_canto_asset_data', '_acf_image_data', '_wp_attachment_metadata');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_attachment_image_alt', 'fbc_id', 'fbc_scheme', 'description', 'copyright', 'terms', '_canto_asset_id', '_canto_asset_data', '_acf_image_data', '_wp_attachment_metadata');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_attachment_image_alt', 'fbc_id', 'fbc_scheme', 'description', 'copyright', 'terms', '_canto_asset_id', '_canto_asset_data', '_acf_image_data', '_wp_attachment_metadata');
+

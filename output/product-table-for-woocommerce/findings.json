@@ -1,0 +1,16 @@
+{
+  "options": [
+    "awcpt_general_settings",
+    "active_sitewide_plugins",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awcpt_data",
+    "awcpt_query"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:35.339Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ihs_otp_form_selector', 'ihs_otp_submit_btn-selector', 'ihs_otp_mobile_input_required', 'ihs_otp_mobile_input_name', 'ihs_otp_login_form_selector', 'ihs_otp_country_code', 'ihs_otp_msg_template', 'ihs_otp_auth_key', 'ihs_otp_sender_id', 'ihs_otp_mob_meta_key', 'ihs_otp_reset_template', 'ihs_otp_mob_country_code');
+

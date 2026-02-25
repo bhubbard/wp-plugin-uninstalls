@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rbu_cancel_force_flash",
+    "rbu_resize_quality",
+    "rbu_resize_height",
+    "rbu_resize_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:35.153Z"
+}

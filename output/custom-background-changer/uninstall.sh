@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cbc-bgoption'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cbc-bgoption'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cbc-bgoption'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cbc-bgoption'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cbc-bgcolor'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cbc-bgcolor'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cbc-bgcolor'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cbc-bgcolor'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cbc-bgimage'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cbc-bgimage'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cbc-bgimage'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cbc-bgimage'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cbc-bgattach'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cbc-bgattach'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cbc-bgattach'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cbc-bgattach'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cbc-bgrepeat'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cbc-bgrepeat'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cbc-bgrepeat'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cbc-bgrepeat'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cbc-bgposition'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cbc-bgposition'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cbc-bgposition'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cbc-bgposition'"

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "eew_settings",
+    "eew_egg-1",
+    "eew_egg-2",
+    "eew_files_settings",
+    "eew_egg-*",
+    "eew_target-url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hasCoupon",
+    "eew_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:01.419Z"
+}

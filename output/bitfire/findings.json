@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "bitfire_scan_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bitfire_mfa_code",
+    "bitfire_mfa_tel",
+    "bitfire_last_login",
+    "bitfire_mfa_correct",
+    "bitfire_mfa_sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:25.025Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "mysticky_option_welcomebar",
+    "hide_mystickymenu_cta",
+    "mysticky_option_name",
+    "poptin_id",
+    "hide_msmrecommended_plugin",
+    "*_hide_review_box",
+    "*_show_review_box_after",
+    "*_hide_upgrade_box",
+    "*_show_upgrade_box_after",
+    "*_hide_affiliate_box",
+    "*_show_affiliate_box_after",
+    "get_mystickybar_page_views",
+    "my-sticky-menu_hide_review_box",
+    "my-sticky-menu_show_review_box_after",
+    "mystickymenu_intro_box",
+    "mystickymenu-welcomebars",
+    "mysticky_option_welcomebar*",
+    "msm_redirection",
+    "has_sticky_header_old_version",
+    "sticky_header_status",
+    "update_mysticky_version_2_6",
+    "update_mysticky_version_2_5_7",
+    "msb_cl_widget_id_exists"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:41.500Z"
+}

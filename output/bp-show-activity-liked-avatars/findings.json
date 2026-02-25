@@ -1,0 +1,21 @@
+{
+  "options": [
+    "bsala_avatar_size",
+    "bsala_custom_title",
+    "bsala_min_avatar_no",
+    "bsala_max_avatar_no",
+    "bsala_custom_style",
+    "bsala_text_for_more",
+    " bsala_avatar_size ",
+    " bsala_custom_title ",
+    " bsala_min_avatar_no ",
+    " bsala_max_avatar_no ",
+    " bsala_text_for_more "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:47.142Z"
+}

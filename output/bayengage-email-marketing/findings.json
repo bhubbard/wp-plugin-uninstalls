@@ -1,0 +1,18 @@
+{
+  "options": [
+    "BEM_JUST_INSTALLED",
+    "BEM_CONNECTION_USER_ID",
+    "bem_redirect_url",
+    "BEM_CONNECTION_DEACTIVATE_USER_ID",
+    "bem_woo_sms_optin_status",
+    "BEM_CONNECTION_STATUS"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_capabilities"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:59.873Z"
+}

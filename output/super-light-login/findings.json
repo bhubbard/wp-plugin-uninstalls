@@ -1,0 +1,14 @@
+{
+  "options": [
+    "register_text_field",
+    "register_url_field",
+    "logo_settings_one",
+    "logo_settings_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:37.001Z"
+}

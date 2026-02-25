@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_twitter_access_token",
+    "twitterwall_bgcolor",
+    "twitterwall_avatar_bdcolor",
+    "twitterwall_consumer_key",
+    "twitterwall_consumer_secret",
+    "twitterwall_count",
+    "twitterwall_query",
+    "twitterwall_lang",
+    "twitterwall_url",
+    "twitterwall_options_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:44.226Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "quick_deploy_plugins",
+    "update_plugins",
+    "pc_ignored_plugins",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins",
+    "plugins_delete_result_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:05.408Z"
+}

@@ -1,0 +1,17 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('woocommerce_tax_based_on');
+delete_site_option('woocommerce_tax_based_on');
+delete_option('minicrm_plugin_activated');
+delete_site_option('minicrm_plugin_activated');
+
+// Delete Transients
+delete_transient('minicrm_project_ids_cache');
+delete_site_transient('minicrm_project_ids_cache');
+

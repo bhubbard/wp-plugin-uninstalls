@@ -1,0 +1,38 @@
+{
+  "options": [
+    "frame",
+    "border",
+    "wishlist_page",
+    "wish",
+    "*autoresize",
+    "cat_list",
+    "count_frame",
+    "*_backgroung_choose",
+    "*_backgroung",
+    "*_backgroung_image_left",
+    "*_backgroung_image_right",
+    "*_add_to_wish_but",
+    "*_arrow_prev",
+    "*_arrow_next",
+    "*_width_wish",
+    "*_height_wish",
+    "*_isTitle",
+    "*_isPrice",
+    "cover",
+    "register"
+  ],
+  "transients": [
+    "wpcat_functionnal_return_result"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "numbpage",
+    "wp_catalog",
+    "_regular_price",
+    "_sale_price",
+    "wishlist"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:18.831Z"
+}

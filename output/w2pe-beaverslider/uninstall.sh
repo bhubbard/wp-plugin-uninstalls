@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'bslider_effects'
+wp option delete 'bslider_height'
+wp option delete 'bslider_width'
+wp option delete 'bslider_caption_visible'
+wp option delete 'bslider_caption_left'
+wp option delete 'bslider_caption_right'
+wp option delete 'bslider_caption_bottom'
+wp option delete 'bslider_paginate'
+wp option delete 'bslider_paginate_pos'
+wp option delete 'bslider_pause_time'
+wp option delete 'bslider_interval'
+wp option delete 'bslider_supdate'
+wp option delete 'bslider_caption_top'
+wp option delete ' bslider_width'
+wp option delete ' bslider_height'
+wp option delete ' bslider_caption_visible'
+wp option delete ' bslider_caption_left'
+wp option delete ' bslider_caption_right'
+wp option delete ' bslider_caption_top'
+wp option delete ' bslider_caption_bottom'
+wp option delete ' bslider_paginate'
+wp option delete ' bslider_pause_time'
+wp option delete ' bslider_interval'
+wp option delete ' bslider_supdate'
+wp option delete ' bslider_effects'
+

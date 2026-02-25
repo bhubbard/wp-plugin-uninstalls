@@ -1,0 +1,24 @@
+{
+  "options": [
+    "last_lar_link_id",
+    "*old_data_imported"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*slug",
+    "lar_disabled",
+    "*keywords",
+    "*stats",
+    "_wp_page_template",
+    "*url",
+    "*do_follow",
+    "*open_in",
+    "*shrink",
+    "*link_type",
+    "*is_sensitive"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:11.055Z"
+}

@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('blc_activation_redirect', 'blocksy_active_extensions', 'blocksy_ext_white_label_settings', 'blocksy_ext_demos_current_demo', 'blocksy_ext_demos_currently_installing_demo', 'sidebars_widgets', 'blocksy_active_extensions_old', 'blocksy_ext_mailchimp_credentials', 'blocksy_ext_product_reviews_settings', 'woocommerce_hide_out_of_stock_items', 'woocommerce_registration_generate_password', 'woocommerce_enable_myaccount_registration', 'woocommerce_shop_page_id', 'blocksy_custom_palettes', 'allowedthemes', 'blocksy_ext_demos_exported_demo_data', 'wpforms_settings', 'qubely_global_options', 'elementor_experiment-container', 'woocommerce_db_version', 'woocommerce_myaccount_page_id', 'woocommerce_registration_generate_username', 'dismissed-blocksy_theme_version_mismatch_notice', 'wpappninja', 'breakdance_is_theme_disabled');
+DELETE FROM wp_options WHERE option_name LIKE 'widget_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('blocksy_product_review_options', 'rating', 'thumbnail_id', 'blocksy_taxonomy_meta_options', '_wp_attachment_image_alt', 'blocksy_demos_imported_post', 'blocksy_demos_imported_term', '_elementor_page_settings', 'brizy_post_uid', 'brizy_enabled', 'blocksy_original_post_id', '_menu_item_menu_item_parent', '_thumbnail_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('blocksy_product_review_options', 'rating', 'thumbnail_id', 'blocksy_taxonomy_meta_options', '_wp_attachment_image_alt', 'blocksy_demos_imported_post', 'blocksy_demos_imported_term', '_elementor_page_settings', 'brizy_post_uid', 'brizy_enabled', 'blocksy_original_post_id', '_menu_item_menu_item_parent', '_thumbnail_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('blocksy_product_review_options', 'rating', 'thumbnail_id', 'blocksy_taxonomy_meta_options', '_wp_attachment_image_alt', 'blocksy_demos_imported_post', 'blocksy_demos_imported_term', '_elementor_page_settings', 'brizy_post_uid', 'brizy_enabled', 'blocksy_original_post_id', '_menu_item_menu_item_parent', '_thumbnail_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('blocksy_product_review_options', 'rating', 'thumbnail_id', 'blocksy_taxonomy_meta_options', '_wp_attachment_image_alt', 'blocksy_demos_imported_post', 'blocksy_demos_imported_term', '_elementor_page_settings', 'brizy_post_uid', 'brizy_enabled', 'blocksy_original_post_id', '_menu_item_menu_item_parent', '_thumbnail_id');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'brizy-project-import-backup-%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'brizy-project-import-backup-%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'brizy-project-import-backup-%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'brizy-project-import-backup-%';
+

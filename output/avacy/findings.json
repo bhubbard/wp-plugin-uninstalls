@@ -1,0 +1,24 @@
+{
+  "options": [
+    "avacy_show_banner",
+    "avacy_enable_preemptive_block",
+    "avacy_tenant",
+    "avacy_webspace_key",
+    "avacy_webspace_id",
+    "avacy_api_token",
+    "*_form_user_identifier",
+    "avacy_WooCommerce_Checkout_Form_form_user_identifier",
+    "*_radio_enabled"
+  ],
+  "transients": [
+    "avacy_active_tab",
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:52.661Z"
+}

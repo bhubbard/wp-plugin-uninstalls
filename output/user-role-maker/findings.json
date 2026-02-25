@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pxls_wprm_installed",
+    "pxls_wprm_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wprm_user_caps"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:32.621Z"
+}

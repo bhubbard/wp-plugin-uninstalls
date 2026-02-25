@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wb_ads_rotator_admin_welcome_options",
+    "buddypress-ads-rotator_admin_faq_option",
+    "default_post_edit_rows",
+    "wb_ads_image_id"
+  ],
+  "transients": [
+    "_wb_ads_rotator_is_new_install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wb_ads_rotator_values",
+    "wb_ads_enable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:49.117Z"
+}

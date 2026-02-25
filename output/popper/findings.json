@@ -1,0 +1,24 @@
+{
+  "options": [
+    "popper",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "popper_process_form_action_*",
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "popper_rules",
+    "_popper_log_meta",
+    "_popper_log_*",
+    "_popper_actions",
+    "_popper_fields"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:01.947Z"
+}

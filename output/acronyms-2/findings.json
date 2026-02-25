@@ -1,0 +1,14 @@
+{
+  "options": [
+    "acronym_acronyms",
+    "acronym_content",
+    "acronym_comments",
+    "acronym_html5"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:07.629Z"
+}

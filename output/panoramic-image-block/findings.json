@@ -1,0 +1,15 @@
+{
+  "options": [
+    "panoramic_image_block_settings"
+  ],
+  "transients": [
+    "panoramic_image_block_version_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "panoramic_image_block_preferences"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:13.714Z"
+}

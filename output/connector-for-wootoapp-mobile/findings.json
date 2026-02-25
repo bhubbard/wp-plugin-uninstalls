@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wootoapp_blindkey",
+    "WC_settings_wootoapp_livemode_enabled",
+    "WC_settings_wootoapp_site_id",
+    "WC_settings_wootoapp_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:40.756Z"
+}

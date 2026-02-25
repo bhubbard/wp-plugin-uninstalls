@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_one_signal_app_id",
+    "*_one_signal_rest_api_key",
+    "*_blog_logo",
+    "*_theme_color",
+    "*_button_color",
+    "*_app_name",
+    "*_app_slogan",
+    "*_mpress_app_id",
+    "*_google_adsense_publisher_id",
+    "mpress-app-logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mpress_push_notification"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:45.051Z"
+}

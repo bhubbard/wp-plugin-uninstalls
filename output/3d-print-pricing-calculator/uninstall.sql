@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ppc3d_plugin_version', 'ppc3d_show_onboarding', 'ppc3d_stl_parser_api_url', 'ppc3d_stl_parser_api_key', 'stl_parser_cost_per_cc', 'ppc3d_cost_per_cubic_centimeter', 'ppc3d_currency_symbol', 'ppc3d_currency_position', 'ppc3d_uploaded_files', 'use_default_email_template', 'ppc3d_email_template', 'ppc3d_api_statistics', 'ppc3d_api_limits', 'ppc3d_subscription_plan', 'ppc3d_stl_parser_cost_per_cc', 'ppc3d_enable_bulk_orders', 'ppc3d_show_file_upload_section', 'ppc3d_enable_technology_options', 'ppc3d_printing_technology_options', 'ppc3d_enable_material_options', 'ppc3d_material_options', 'ppc3d_enable_quality_options', 'ppc3d_quality_options', 'ppc3d_enable_infill_options', 'ppc3d_infill_options', 'ppc3d_enable_color_options', 'ppc3d_color_options', 'ppc3d_notification_email', 'ppc3d_invoice_email', 'ppc3d_email_subject_prefix', 'ppc3d_activation_redirect', 'ppc3d_transient_key', 'ppc3d_debug_emails');
+

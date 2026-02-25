@@ -1,0 +1,20 @@
+{
+  "options": [
+    "jpibfi_selection_options",
+    "jpibfi_visual_options",
+    "jpibfi_lightbox_options",
+    "jpibfi_options_version",
+    "jpibfi_version",
+    "jpibfi_pro_ad",
+    "jpibfi_license"
+  ],
+  "transients": [
+    "update_plugins",
+    "_jpibfi_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:07.858Z"
+}

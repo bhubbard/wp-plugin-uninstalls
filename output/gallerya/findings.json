@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_product_thumbnail_slider_bullet_nav_enabled",
+    "*_product_thumbnail_slider_enabled",
+    "*_product_variation_slider_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_attachment_ids",
+    "*_video_id",
+    "*_video_source",
+    "*_video_display",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:55.457Z"
+}

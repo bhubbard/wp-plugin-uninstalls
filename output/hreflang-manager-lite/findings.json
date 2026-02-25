@@ -1,0 +1,26 @@
+{
+  "options": [
+    "daexthrmal_options_version",
+    "daexthrmal_database_version",
+    "daexthrmal_language",
+    "daexthrmal_default_language_*",
+    "daexthrmal_script",
+    "daexthrmal_default_script_*",
+    "daexthrmal_locale",
+    "daexthrmal_default_locale_*",
+    "*_auto_delete",
+    "daexthrmal_auto_alternate_pages",
+    "daexthrmal_show_log",
+    "daexthrmal_detect_url_mode",
+    "daexthrmal_https",
+    "daexthrmal_sample_future_permalink",
+    "daim_dismissible_notice_a",
+    "daexthrmal_auto_trailing_slash"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:25.108Z"
+}

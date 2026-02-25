@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wooco_settings",
+    "wooco_localization",
+    "wooco_*"
+  ],
+  "transients": [
+    "wooco_show_items_*",
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wooco_pricing",
+    "wooco_discount_percent",
+    "wooco_components",
+    "wpcvi_images",
+    "wooco_same_products",
+    "wooco_shipping_fee",
+    "wooco_qty_min",
+    "wooco_qty_max",
+    "wooco_total_limits",
+    "wooco_total_limits_min",
+    "wooco_total_limits_max",
+    "wooco_custom_price",
+    "wooco_before_text",
+    "wooco_after_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:43.393Z"
+}

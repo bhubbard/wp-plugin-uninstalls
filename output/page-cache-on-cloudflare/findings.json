@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "cfpc_action_preload_cache_set_urls_single_event",
+    "cfpc_action_preload_cache_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:37.018Z"
+}

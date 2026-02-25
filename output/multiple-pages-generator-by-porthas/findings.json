@@ -1,0 +1,63 @@
+{
+  "options": [
+    "mpg_branding_position",
+    "mpg_cache_hook_name",
+    "mpg_cache_hook_priority",
+    "mpg_legacy_user",
+    "mpg_database_version",
+    "wpseo",
+    "mpg_hook_name",
+    "mpg_hook_priority",
+    "mpg_site_basepath",
+    "mpg_search_settings",
+    "multi_pages_plugin_premium_license_data",
+    "multiple_pages_generator_by_porthas_install",
+    "multi_pages_plugin_premium_install",
+    "*_license_data",
+    "multi_pages_plugin_logger_flag",
+    "rank-math-options-titles",
+    "*_license_status",
+    "*_license_plan",
+    "*_failed_checks",
+    "*_logger_flag",
+    "themeisle_sdk_notifications",
+    "otter_reference_key",
+    "optimole_reference_key",
+    "rop_reference_key",
+    "neve_reference_key",
+    "hyve_reference_key",
+    "wp_full_pay_reference_key",
+    "feedzy_reference_key",
+    "themeisle_sdk_promotions_otter",
+    "*_install",
+    "*_version",
+    "*_license"
+  ],
+  "transients": [
+    "ti_plugin_info_*",
+    "themeisle_sdk_cache_token",
+    "themeisle_sdk_feed_items",
+    "themeisle_sdk_products",
+    "*act_err",
+    "*_license_data",
+    "tsk_attachment_count",
+    "tsk_posts_count",
+    "ti_theme_info_*",
+    "update_plugins",
+    "*_warning_rollback",
+    "update_themes",
+    "ti_sdk_pause_*"
+  ],
+  "cron_jobs": [
+    "mpg_sitemap_check",
+    "mpg_schedule_execution",
+    "schedule_execution"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mpg_dismiss_subscribe_notice",
+    "themeisle_sdk_dismissed_notice_black_friday"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:31.103Z"
+}

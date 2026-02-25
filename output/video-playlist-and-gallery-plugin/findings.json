@@ -1,0 +1,26 @@
+{
+  "options": [
+    "recently_activated",
+    "cincopa_cp_mt_api_token",
+    "CincopaRss",
+    "CincopaAsync",
+    "CincopaExcerpt",
+    "cincopa_welcome_notice",
+    "CincopaOpenGraph",
+    "CincopaTemplates",
+    "classic-editor-replace",
+    "cincopaexcerpt",
+    "cincopa_installed"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "cincopa_cp_mt_api_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:50.977Z"
+}

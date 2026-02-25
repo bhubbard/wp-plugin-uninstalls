@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpsh_enable",
+    "wpsh_bg_color",
+    "wpsh_text_color",
+    "wpsh_close_icon_color",
+    "wpsh_closable",
+    "wpsh_position",
+    "wpsh_content",
+    "wpsh_where",
+    "wpsh_auto_close",
+    "wpsh_page_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:17.762Z"
+}

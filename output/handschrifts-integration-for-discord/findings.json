@@ -1,0 +1,21 @@
+{
+  "options": [
+    "di_guild_id",
+    "di_bot_token",
+    "di_client_id",
+    "di_client_secret",
+    "di_redirect_url",
+    "di_auto_add",
+    "di_wp2d_roles_subscriber",
+    "di_enable_login",
+    "di_wp2d_roles_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "di_discord_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:35.165Z"
+}

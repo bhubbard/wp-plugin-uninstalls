@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ssslr_method",
+    "ssslr_hsts",
+    "ssslr_canonical_domain",
+    "ssslr_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "admin_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:32.017Z"
+}

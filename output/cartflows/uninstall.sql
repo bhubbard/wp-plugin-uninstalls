@@ -1,0 +1,42 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cartflows-assets-version', '_cartflows_common', 'cartflows_permalink_refresh', 'cartflows_kb_searches', 'wcf-instant-checkout-notice-skipped', '_cartflows_old_global_checkout	', 'cartflows-batch-is-complete', 'cartflows-manual-sync-complete', '_cartflows_store_checkout', 'wcf_first_flow_imported', 'wcf_learn_data', 'cartflows_delete_plugin_data', 'cartflows_stats_report_emails', 'cf_usage_optin', 'cartflows_stats_report_email_ids', 'cartflows_funnel_creation_method', '_cartflows_old_global_checkout', 'cpsw_test_con_status', 'cpsw_con_status', 'cartflows_docs_data', 'cartflows_show_weekly_report_email_notice', 'wcf_ignore_gutenberg_notice', '_cartflows_wizard_store_checkout_set', 'wcf_setup_complete', 'wcf_setup_skipped', 'wcf_exit_setup_step', 'bsf_product_referers', 'nps-survey-cartflows', 'cartflows-legacy-meta-show-design-options', 'cartflows_partner_url_param', 'wcf_start_onboarding', 'cartflows-version', 'cartflows-old-ui-user', 'cartflows-legacy-admin', 'wc_am_client_CartFlows_api_key', 'wc_am_client_CartFlows', 'cartflows_license_backup_data', 'wc_am_client_cartflows', 'wc_am_client_cartflows_api_key', 'cartflows-fresh-site', 'cartflows-batch-status-string', 'cartflows-batch-status', 'allowed_astra_notices', 'bsf_usage_last_displayed_time', 'bsf_usage_migrated', 'bsf_analytics_last_displayed_time', 'woocommerce_enable_checkout_login_reminder', 'woocommerce_enable_shipping_calc', 'woocommerce_enable_guest_checkout', 'woocommerce_enable_signup_and_login_from_checkout');
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_registration_generate_username', 'woocommerce_registration_generate_password', 'woocommerce_tax_total_display', 'woocommerce_tax_display_cart', 'update_plugins', 'cartflows_is_wcf_template_import', 'cartflows-cron-test-ok', '_fl_builder_activation_admin_notice', 'action_scheduler_last_pastdue_actions_check', 'action_scheduler_admin_notice', 'as_comment_count', 'bsf_analytics_track', 'bsf_usage_track', '_wc_activation_redirect');
+DELETE FROM wp_options WHERE option_name LIKE '%_api_key';
+DELETE FROM wp_options WHERE option_name LIKE '%-requests';
+DELETE FROM wp_options WHERE option_name LIKE '%last-export-checksums-latest';
+DELETE FROM wp_options WHERE option_name LIKE '%last-export-checksums';
+DELETE FROM wp_options WHERE option_name LIKE '%_usage_optin';
+DELETE FROM wp_options WHERE option_name LIKE '%_analytics_optin';
+DELETE FROM wp_options WHERE option_name LIKE '%_analytics_installed_time';
+DELETE FROM wp_options WHERE option_name LIKE '%_usage_installed_time';
+DELETE FROM wp_options WHERE option_name LIKE 'cartflows_rollback_versions_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_process_lock';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wcf-hide-step', 'wcf-steps', 'wcf-instant-checkout-notice-skipped', 'wcf-step-type', 'wcf-flow-id', '_wp_page_template', 'instant-layout-style', 'divi_content', 'cartflows_imported_step', '_fl_builder_data', '_fl_builder_draft', 'discount_type', 'wcf-ab-test', 'wcf-dynamic-css', 'wcf-field-google-font-url', 'wcf-checkout-products', 'wcf-disable-step', 'wcf-enable-gcp-styling', 'wcf-flow-indexing', 'wcf-flow-custom-script', 'wcf-custom-script', 'wcf-optin-product', 'wcf-offer-product', 'wcf-control-step', 'user_phone', '_elementor_data', '_cartflows_image_hash', 'sfwd-courses_wcf_course_template', 'wcf-enable-product-options', 'wcf-order-bump', 'wcf-pre-checkout-offer', 'wcf-custom-checkout-fields', 'wcf-dynamic-css-version', 'wcf-gcp-primary-color', 'wcf-gcp-text-color', 'wcf-gcp-accent-color', 'wcf_field_order_billing', 'wcf_field_order_shipping', 'wcf-step-note', 'wcf-gcp-secondary-color', 'wcf-gcp-primary-text-color', 'cartflows_redirect_flow_id', 'cartflows_add_to_cart_text');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wcf-hide-step', 'wcf-steps', 'wcf-instant-checkout-notice-skipped', 'wcf-step-type', 'wcf-flow-id', '_wp_page_template', 'instant-layout-style', 'divi_content', 'cartflows_imported_step', '_fl_builder_data', '_fl_builder_draft', 'discount_type', 'wcf-ab-test', 'wcf-dynamic-css', 'wcf-field-google-font-url', 'wcf-checkout-products', 'wcf-disable-step', 'wcf-enable-gcp-styling', 'wcf-flow-indexing', 'wcf-flow-custom-script', 'wcf-custom-script', 'wcf-optin-product', 'wcf-offer-product', 'wcf-control-step', 'user_phone', '_elementor_data', '_cartflows_image_hash', 'sfwd-courses_wcf_course_template', 'wcf-enable-product-options', 'wcf-order-bump', 'wcf-pre-checkout-offer', 'wcf-custom-checkout-fields', 'wcf-dynamic-css-version', 'wcf-gcp-primary-color', 'wcf-gcp-text-color', 'wcf-gcp-accent-color', 'wcf_field_order_billing', 'wcf_field_order_shipping', 'wcf-step-note', 'wcf-gcp-secondary-color', 'wcf-gcp-primary-text-color', 'cartflows_redirect_flow_id', 'cartflows_add_to_cart_text');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wcf-hide-step', 'wcf-steps', 'wcf-instant-checkout-notice-skipped', 'wcf-step-type', 'wcf-flow-id', '_wp_page_template', 'instant-layout-style', 'divi_content', 'cartflows_imported_step', '_fl_builder_data', '_fl_builder_draft', 'discount_type', 'wcf-ab-test', 'wcf-dynamic-css', 'wcf-field-google-font-url', 'wcf-checkout-products', 'wcf-disable-step', 'wcf-enable-gcp-styling', 'wcf-flow-indexing', 'wcf-flow-custom-script', 'wcf-custom-script', 'wcf-optin-product', 'wcf-offer-product', 'wcf-control-step', 'user_phone', '_elementor_data', '_cartflows_image_hash', 'sfwd-courses_wcf_course_template', 'wcf-enable-product-options', 'wcf-order-bump', 'wcf-pre-checkout-offer', 'wcf-custom-checkout-fields', 'wcf-dynamic-css-version', 'wcf-gcp-primary-color', 'wcf-gcp-text-color', 'wcf-gcp-accent-color', 'wcf_field_order_billing', 'wcf_field_order_shipping', 'wcf-step-note', 'wcf-gcp-secondary-color', 'wcf-gcp-primary-text-color', 'cartflows_redirect_flow_id', 'cartflows_add_to_cart_text');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wcf-hide-step', 'wcf-steps', 'wcf-instant-checkout-notice-skipped', 'wcf-step-type', 'wcf-flow-id', '_wp_page_template', 'instant-layout-style', 'divi_content', 'cartflows_imported_step', '_fl_builder_data', '_fl_builder_draft', 'discount_type', 'wcf-ab-test', 'wcf-dynamic-css', 'wcf-field-google-font-url', 'wcf-checkout-products', 'wcf-disable-step', 'wcf-enable-gcp-styling', 'wcf-flow-indexing', 'wcf-flow-custom-script', 'wcf-custom-script', 'wcf-optin-product', 'wcf-offer-product', 'wcf-control-step', 'user_phone', '_elementor_data', '_cartflows_image_hash', 'sfwd-courses_wcf_course_template', 'wcf-enable-product-options', 'wcf-order-bump', 'wcf-pre-checkout-offer', 'wcf-custom-checkout-fields', 'wcf-dynamic-css-version', 'wcf-gcp-primary-color', 'wcf-gcp-text-color', 'wcf-gcp-accent-color', 'wcf_field_order_billing', 'wcf_field_order_shipping', 'wcf-step-note', 'wcf-gcp-secondary-color', 'wcf-gcp-primary-text-color', 'cartflows_redirect_flow_id', 'cartflows_add_to_cart_text');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wcf_fields_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wcf_fields_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wcf_fields_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wcf_fields_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%-obj';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%-obj';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%-obj';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%-obj';
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wcf_field_order_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wcf_field_order_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wcf_field_order_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wcf_field_order_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wcf-%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wcf-%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wcf-%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wcf-%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wcf-field-width_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wcf-field-width_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wcf-field-width_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wcf-field-width_%';
+

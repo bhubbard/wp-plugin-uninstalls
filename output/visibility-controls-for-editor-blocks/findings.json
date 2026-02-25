@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gbvc_mobile_breakpoint",
+    "gbvc_tablet_breakpoint",
+    "gbvc_disable_styles_on_non_gutenberg_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:50.923Z"
+}

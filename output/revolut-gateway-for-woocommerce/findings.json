@@ -1,0 +1,27 @@
+{
+  "options": [
+    "revolut_pay_synchronous_webhook_domain_live_signing_key",
+    "revolut_pay_synchronous_webhook_domain_sandbox_signing_key",
+    "sandbox_revolut_webhook_domain_signing_secret",
+    "live_revolut_webhook_domain_signing_secret",
+    "WC_GATEWAY_REVOLUT_VERSION",
+    "woocommerce_revolut_cc_settings",
+    "woocommerce_revolut_pay_settings",
+    "woocommerce_revolut_payment_request_settings",
+    "woocommerce_revolut_pay_by_bank_settings",
+    "*_revolut_webhook_domain",
+    "*_revolut_webhook_domain_signing_secret",
+    "*_location_id",
+    "*_signing_key",
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_enable_signup_and_login_from_checkout",
+    "woocommerce_registration_generate_username",
+    "woocommerce_registration_generate_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:23.759Z"
+}

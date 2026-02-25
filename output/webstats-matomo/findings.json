@@ -1,0 +1,17 @@
+{
+  "options": [
+    "webstats_matomo_version",
+    "webstats_matomo_enable_matomo",
+    "webstats_matomo_enable_proxy",
+    "webstats_matomo_enable_cookie",
+    "webstats_matomo_site_id",
+    "webstats_matomo_matomo_url",
+    "webstats_matomo_auth_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:29.458Z"
+}

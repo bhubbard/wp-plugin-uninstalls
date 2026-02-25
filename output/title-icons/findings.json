@@ -1,0 +1,13 @@
+{
+  "options": [
+    "titleicons_defaulticon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iconfile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:42.558Z"
+}

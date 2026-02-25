@@ -1,0 +1,25 @@
+{
+  "options": [
+    "main-settings",
+    "jal_db_version",
+    "*_last_contacts_export_sync",
+    "*_last_contacts_import_sync",
+    "*_last_coupons_export_sync",
+    "*_last_coupons_import_sync",
+    "*_last_orders_export_sync",
+    "*_last_orders_sync",
+    "*_last_services_export_sync",
+    "*_last_services_import_sync"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cs_client_id",
+    "cs_order_id",
+    "cs_user_id",
+    "cs_import_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:01.807Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bpt_feedUrl_Data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bpt_feedUrl_pull_task"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_focuskw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:04.097Z"
+}

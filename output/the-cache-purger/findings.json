@@ -1,0 +1,18 @@
+{
+  "options": [
+    "kpcp_settings"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count",
+    "is_doing_cache_purge"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kptcp_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:23.657Z"
+}

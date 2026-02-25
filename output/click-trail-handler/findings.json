@@ -1,0 +1,18 @@
+{
+  "options": [
+    "clicutcl_attribution_settings",
+    "clicutcl_pii_risk_detected",
+    "clicutcl_consent_mode",
+    "clicutcl_gtm"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "clicutcl_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_clicutcl_tracking_sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:36.371Z"
+}

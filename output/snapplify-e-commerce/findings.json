@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wcsnapplify_debug_logging",
+    "wcsnapplify_download_product",
+    "wcsnapplify_auto_publish",
+    "wcsnapplify_auto_unpublish_unavailable",
+    "wcsnapplify_manage_categories",
+    "wcsnapplify_last_incoming_push_time",
+    "wcsnapplify_strict_validation",
+    "wcsnapplify_token",
+    "wcsnapplify_last_processed_time",
+    "wcsnapplify_ext_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_snap_cat_id",
+    "_product_attributes",
+    "_snap_imageUrl",
+    "_snap_id",
+    "_snap_takeDown",
+    "snplfy_sso_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:15.762Z"
+}

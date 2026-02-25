@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'quizz_answer'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'quizz_answer'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'quizz_answer'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'quizz_answer'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'quizz_exact'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'quizz_exact'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'quizz_exact'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'quizz_exact'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'quizz_last_bool'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'quizz_last_bool'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'quizz_last_bool'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'quizz_last_bool'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'quizz_last'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'quizz_last'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'quizz_last'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'quizz_last'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'quizz_nextlevel'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'quizz_nextlevel'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'quizz_nextlevel'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'quizz_nextlevel'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'quizz_lastpage'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'quizz_lastpage'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'quizz_lastpage'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'quizz_lastpage'"

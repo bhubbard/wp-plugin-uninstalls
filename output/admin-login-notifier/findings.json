@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aln_login_attempts",
+    "aln_login_attempts_since_viewed",
+    "aln_current_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aln_send_daily_email"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:57.556Z"
+}

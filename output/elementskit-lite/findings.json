@@ -1,0 +1,44 @@
+{
+  "options": [
+    "elementor_disabled_elements",
+    "elementskit_options",
+    "__validate_oppai__",
+    "elementskit-lite__plugin_activated",
+    "elementor_css_print_method",
+    "active_sitewide_plugins",
+    "*__banner_data",
+    "*__banner_last_check",
+    "elementskit-lite-edit_with_emailkit_banner_dismissed_*",
+    "elementskit-lite_install_date",
+    "elements_kit_onboard_status",
+    "elementskit_lite_activation_stamp",
+    "*_never_show",
+    "*_ask_me_later",
+    "*_install_date",
+    "*_first_action_Date",
+    "*_first_action",
+    "*_version",
+    "*__stories_data",
+    "*__stories_last_check",
+    "gutenkit_do_activation_redirect"
+  ],
+  "transients": [
+    "ekit_element_manager_compatibity"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "elementskit_custom_widget_data",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "elementskit_template_type",
+    "elementskit_template_condition_a",
+    "elementskit_template_condition_singular",
+    "elementskit_template_condition_singular_id",
+    "elementskit_template_activation",
+    "_elementor_edit_mode",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:26:37.624Z"
+}

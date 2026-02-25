@@ -1,0 +1,26 @@
+{
+  "options": [
+    "icp_tracking_code",
+    "icp_tracking_domain",
+    "update_plugins",
+    "current_theme",
+    "update_themes",
+    "icp_plugin_key",
+    "srpd_clickbank_id",
+    "icp_wp_auto_update",
+    "icp_plugins_auto_update",
+    "icp_themes_auto_update",
+    "icp_sa_forms_db_version",
+    "serped_db_version",
+    "widget_srpd_sa_widget"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:45.579Z"
+}

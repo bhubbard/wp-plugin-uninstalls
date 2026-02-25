@@ -1,0 +1,31 @@
+{
+  "options": [
+    "mcpner_llmstxt_settings",
+    "mcpner_llmstxt_content_selection",
+    "mcpner_llmstxt_exclusions",
+    "mcpner_llmstxt_integration_settings",
+    "llms_txt_settings",
+    "llms_txt_webhook_settings",
+    "llms_txt_pro_installed",
+    "llms_txt_pro_version"
+  ],
+  "transients": [
+    "mcpner_llmstxt_activation_error",
+    "mcpner_llmstxt_generation_result",
+    "llms_txt_license_valid",
+    "mcpner_llmstxt_content",
+    "mcpner_llmstxt_content_hash"
+  ],
+  "cron_jobs": [
+    "mcpner_llmstxt_scheduled_regeneration"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mcpner_llmstxt_excluded",
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_aioseo_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:01.514Z"
+}

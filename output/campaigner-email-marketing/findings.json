@@ -1,0 +1,41 @@
+{
+  "options": [
+    "campemma_auth_status",
+    "campemma_back_in_stock_button_type",
+    "campemma_back_in_stock_is_activate",
+    "campemma_account_id",
+    "campemma_consumer_key",
+    "campemma_consumer_secret",
+    "woocommerce_manage_stock",
+    "campemma_notify_me_title",
+    "campemma_notify_me_placeholder",
+    "campemma_notify_me_button_label",
+    "campemma_notify_me_button_color",
+    "campemma_notify_me_button_text_color",
+    "campemma_account_connected",
+    "classic-editor-replace",
+    "classic-editor-allow-users",
+    "campemma_preferences",
+    "campemma_username",
+    "campemma_password",
+    "campemma_cmp_user_jwt",
+    "campemma_accounts_data",
+    "campemma_user_type",
+    "campemma_store_id",
+    "campemma_store_name",
+    "campemma_account_name"
+  ],
+  "transients": [
+    "campemma_auth_url",
+    "campemma_wc_auth_state_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_previous_stock_status",
+    "_previous_stock_quantity",
+    "classic-editor-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:13.517Z"
+}

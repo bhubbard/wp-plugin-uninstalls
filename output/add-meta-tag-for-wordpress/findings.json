@@ -1,0 +1,16 @@
+{
+  "options": [
+    "enable_tag",
+    "enable_page_tag",
+    "enable_post_tag",
+    "enable_og"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "add_meta_tag_for_wordpress"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:10.771Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mk_slides_count",
+    "mk_images",
+    "mk_links",
+    "mk_links_target",
+    "mk_titles",
+    "mk_desc",
+    "mkShowLabel",
+    "mkShowNav",
+    "mkStopOverHover",
+    "mkSliderWidth",
+    "mkSliderHeight",
+    "mkSliderBorderWidth",
+    "mkSliderBorderColor",
+    "mkSliderBorderRadius",
+    "mkSliderTransition",
+    "mkTransitionVelocity",
+    "mkSliderInterval"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:31.364Z"
+}

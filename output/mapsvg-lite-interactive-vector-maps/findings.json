@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mapsvg_rewrite_flushed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mapsvg_location",
+    "_wp_page_template",
+    "mapsvg_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:43.038Z"
+}

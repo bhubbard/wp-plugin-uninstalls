@@ -1,0 +1,18 @@
+{
+  "options": [
+    "qweb_aca_access_key",
+    "qweb_aca_allowed_countries",
+    "qweb_aca_allow_known_proxies",
+    "qweb_aca_block_xmlrpc_access"
+  ],
+  "transients": [
+    "qweb_aca_quota_reached"
+  ],
+  "cron_jobs": [
+    "qweb_aca_clear_old_cache_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:26.480Z"
+}

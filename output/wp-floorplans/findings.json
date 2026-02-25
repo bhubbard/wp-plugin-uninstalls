@@ -1,0 +1,24 @@
+{
+  "options": [
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpfloorplans_floorplan_style",
+    "wpfloorplans_floorplan_sqft",
+    "wpfloorplans_floorplan_beds",
+    "wpfloorplans_floorplan_baths",
+    "wpfloorplans_floorplan_price",
+    "wpfloorplans_floorplan_garages",
+    "wpfloorplans_floorplan_brochure",
+    "wpfloorplans_floorplan_virtual_tour",
+    "wpfloorplans_floorplan_floorplan_gallery",
+    "wpfloorplans_floorplan_photo_gallery",
+    "wpfloorplans_floorplan_listings_gallery",
+    "wpfloorplans_floorplan_floors"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:35.453Z"
+}

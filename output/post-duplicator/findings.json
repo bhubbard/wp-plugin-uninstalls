@@ -1,0 +1,16 @@
+{
+  "options": [
+    "scporder_options",
+    "mtphr_postduplicator_version_upgraded_from",
+    "mtphr_postduplicator_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "mtphr_post_duplicator_notice_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:58.150Z"
+}

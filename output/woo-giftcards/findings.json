@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_giftcard_to_friend_name",
+    "woo_giftcard_to_friend_email",
+    "woo_giftcard_from_sender_name",
+    "woo_giftcard_from_sender_email",
+    "woo_giftcard_message",
+    "_woo_giftcard",
+    "gift-card-generated",
+    "_giftcard_friend_name",
+    "_giftcard_friend_email",
+    "_giftcard_message",
+    "discount_type",
+    "coupon_amount",
+    "usage_limit",
+    "woo_giftcard_order_number",
+    "apply_before_tax",
+    "free_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:57.611Z"
+}

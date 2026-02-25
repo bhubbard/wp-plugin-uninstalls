@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "_paydunya_hash",
+    "_paydunya_wc_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:38.987Z"
+}

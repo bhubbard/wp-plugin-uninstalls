@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*_http_s",
+    "*_saved_search_id",
+    "*_width",
+    "*_height",
+    "*_background_color",
+    "*_grid_color",
+    "*_header_background_color",
+    "*_header_text_color",
+    "*_agenda_register_btn_bg",
+    "*_agenda_register_btn_txt",
+    "*_agenda_date_bg",
+    "*_agenda_date_txt",
+    "*_view_mode",
+    "*_url",
+    "*_activate_links",
+    "*_organization_name",
+    "*_user_name",
+    "*_user_email",
+    "*_css_file"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:47.195Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "lookcheck_license_key",
+    "lookcheck_settings"
+  ],
+  "transients": [
+    "lookcheck_api_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:31.622Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wordpress_api_key",
+    "drainware_discard_month",
+    "drainware_show_user_comments_approved",
+    "drainware_connectivity_time",
+    "drainware_spam_count",
+    "drainware_available_servers",
+    "drainware_api_key",
+    "drainware_comment_nonce"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "drainware_schedule_cron_recheck",
+    "drainware_scheduled_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "drainware_result",
+    "drainware_user_result",
+    "drainware_user",
+    "drainware_as_submitted",
+    "drainware_rechecking",
+    "drainware_history",
+    "drainware_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:16.581Z"
+}

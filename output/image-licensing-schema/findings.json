@@ -1,0 +1,15 @@
+{
+  "options": [
+    "imalisch_settings_license",
+    "imalisch_settings_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_imalisch_post_license",
+    "imalisch_post_images_licenses"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:11.079Z"
+}

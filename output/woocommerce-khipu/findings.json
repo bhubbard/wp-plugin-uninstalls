@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_price_num_decimals",
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_manage_stock",
+    "woocommerce_gateway_khipu_payment_methods",
+    "woocommerce_khipuregulartransfer_settings",
+    "woocommerce_khipusimplifiedtransfer_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:10.847Z"
+}

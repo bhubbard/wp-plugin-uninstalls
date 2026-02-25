@@ -1,0 +1,32 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "wpadcf7sl_installed",
+    "wpadcf7sl_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event",
+    "wpadcf7sl_submission_count_reset"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpadcf7sl-limit-enabled",
+    "wpadcf7sl-reset-date",
+    "wpadcf7sl-total-submission",
+    "wpadcf7sl-period-interval",
+    "wpadcf7sl-period",
+    "wpadcf7sl-limit-type",
+    "wpadcf7sl-reset-limit-disable",
+    "wpadcf7sl-after-submission",
+    "wpadcf7sl-page-reload-delay",
+    "wpadcf7sl-redirect-page",
+    "wpadcf7sl-disable-display-message",
+    "submission-total-count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:44.297Z"
+}

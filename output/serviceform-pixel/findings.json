@@ -1,0 +1,16 @@
+{
+  "options": [
+    "serviceform_enable_product_api",
+    "serviceform_cdp_sync",
+    "serviceform_api_key",
+    "serviceform_settings_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:22.710Z"
+}

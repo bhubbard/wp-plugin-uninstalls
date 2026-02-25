@@ -1,0 +1,14 @@
+{
+  "options": [
+    "buckydrop_app_id",
+    "buckydrop_app_secret",
+    "buckydrop_merchant_id",
+    "buckydrop_shop_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:12.213Z"
+}

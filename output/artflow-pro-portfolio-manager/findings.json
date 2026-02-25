@@ -1,0 +1,19 @@
+{
+  "options": [
+    "artfprpo_logo_attachment_id",
+    "artfprpo_delete_on_uninstall",
+    "artfprpo_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_show_header",
+    "_show_series",
+    "_show_material",
+    "_show_features",
+    "_api_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:15.189Z"
+}

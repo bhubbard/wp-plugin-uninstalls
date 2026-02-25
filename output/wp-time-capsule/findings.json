@@ -1,0 +1,34 @@
+{
+  "options": [
+    "wptc-premium-extensions",
+    "spamshield_options",
+    "spamshield_whitelist_keys",
+    "itsec-storage",
+    "aio_wp_security_configs",
+    "_site_transient_*",
+    "spamshield_ubl_cache",
+    "auto_update_plugins",
+    "auto_updater.lock",
+    "_site_transient_update_core",
+    "_transient_*",
+    "wptc-init-errors",
+    "iwp_client_public_key",
+    "iwp_client_nossl_key",
+    "wptc_disable_sentry_lib",
+    "ftp_credentials",
+    "wptc_installed",
+    "is_wptc_activation_redirected"
+  ],
+  "transients": [
+    "dirsize_cache"
+  ],
+  "cron_jobs": [
+    "wptc_trigger_truncate_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "last_login_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:16.390Z"
+}

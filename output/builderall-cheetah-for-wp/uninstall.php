@@ -1,0 +1,193 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('_ba_cheetah_kit_fa_pro');
+delete_site_option('_ba_cheetah_kit_fa_pro');
+delete_option('_ba_cheetah_enable_fa_pro');
+delete_site_option('_ba_cheetah_enable_fa_pro');
+delete_option('ba_cheetah_beta_updates');
+delete_site_option('ba_cheetah_beta_updates');
+delete_option('ba_cheetah_alpha_updates');
+delete_site_option('ba_cheetah_alpha_updates');
+delete_option('_ba_cheetah_access_token');
+delete_site_option('_ba_cheetah_access_token');
+delete_option('_ba_cheetah_site_id');
+delete_site_option('_ba_cheetah_site_id');
+delete_option('_ba_cheetah_pro_email');
+delete_site_option('_ba_cheetah_pro_email');
+delete_option('_ba_cheetah_access');
+delete_site_option('_ba_cheetah_access');
+delete_option('_ba_cheetah_request_state');
+delete_site_option('_ba_cheetah_request_state');
+delete_option('_ba_cheetah_supercheckout_token');
+delete_site_option('_ba_cheetah_supercheckout_token');
+delete_option('ba-cheetah-supercharge-enabled');
+delete_site_option('ba-cheetah-supercharge-enabled');
+delete_option('ba_cheetah_account_connect_notification');
+delete_site_option('ba_cheetah_account_connect_notification');
+delete_option('ba_cheetah_recent_fonts');
+delete_site_option('ba_cheetah_recent_fonts');
+delete_option('_ba_cheetah_enabled_icons');
+delete_site_option('_ba_cheetah_enabled_icons');
+delete_option('_ba_cheetah_settings');
+delete_site_option('_ba_cheetah_settings');
+delete_option('_ba_cheetah_color_presets');
+delete_site_option('_ba_cheetah_color_presets');
+delete_option('_ba_cheetah_services');
+delete_site_option('_ba_cheetah_services');
+delete_option('_ba_cheetah_enabled_modules');
+delete_site_option('_ba_cheetah_enabled_modules');
+delete_option('_ba_cheetah_enabled_templates');
+delete_site_option('_ba_cheetah_enabled_templates');
+delete_option('_ba_cheetah_templates_override');
+delete_site_option('_ba_cheetah_templates_override');
+delete_option('_ba_cheetah_templates_override_rows');
+delete_site_option('_ba_cheetah_templates_override_rows');
+delete_option('_ba_cheetah_templates_override_columns');
+delete_site_option('_ba_cheetah_templates_override_columns');
+delete_option('_ba_cheetah_templates_override_modules');
+delete_site_option('_ba_cheetah_templates_override_modules');
+delete_option('_ba_cheetah_post_types');
+delete_site_option('_ba_cheetah_post_types');
+delete_option('_ba_cheetah_general_settings');
+delete_site_option('_ba_cheetah_general_settings');
+delete_option('_ba_cheetah_watermark');
+delete_site_option('_ba_cheetah_watermark');
+delete_option('_ba_cheetah_branding');
+delete_site_option('_ba_cheetah_branding');
+delete_option('_ba_cheetah_branding_icon');
+delete_site_option('_ba_cheetah_branding_icon');
+delete_option('_ba_cheetah_theme_branding');
+delete_site_option('_ba_cheetah_theme_branding');
+delete_option('_ba_cheetah_user_access');
+delete_site_option('_ba_cheetah_user_access');
+delete_option('_ba_cheetah_help_button');
+delete_site_option('_ba_cheetah_help_button');
+delete_option('_ba_cheetah_supercharge_enabled');
+delete_site_option('_ba_cheetah_supercharge_enabled');
+delete_option('_ba_cheetah_recaptcha_sitekey');
+delete_site_option('_ba_cheetah_recaptcha_sitekey');
+delete_option('_ba_cheetah_recaptcha_secretkey');
+delete_site_option('_ba_cheetah_recaptcha_secretkey');
+delete_option('_ba_cheetah_facebook_pixel_id');
+delete_site_option('_ba_cheetah_facebook_pixel_id');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_size_w' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_size_h' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('_transient_timeout_ba_cheetah_debug_mode');
+delete_site_option('_transient_timeout_ba_cheetah_debug_mode');
+delete_option('ba_cheetah_usage_enabled');
+delete_site_option('ba_cheetah_usage_enabled');
+
+// Delete Transients
+delete_transient('ba_cheetah_debug_mode');
+delete_site_transient('ba_cheetah_debug_mode');
+delete_transient('_ba_cheetah_activation_admin_notice');
+delete_site_transient('_ba_cheetah_activation_admin_notice');
+delete_transient('ba_templates_cached');
+delete_site_transient('ba_templates_cached');
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('ba_cheetah_pro_user');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'dismissed_wp_pointers' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'dismissed_wp_pointers' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'dismissed_wp_pointers' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'dismissed_wp_pointers' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_data_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_data_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_data_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_data_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_enabled' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_enabled' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_enabled' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_enabled' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_template_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_template_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_template_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_template_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_history_position' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_history_position' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_history_position' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_history_position' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_launched_tour' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_launched_tour' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_launched_tour' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_launched_tour' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba_cheetah_mode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba_cheetah_mode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba_cheetah_mode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba_cheetah_mode' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_page_template' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_page_template' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_page_template' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_page_template' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba-cheetah-custom-footer-id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba-cheetah-custom-footer-id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba-cheetah-custom-footer-id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba-cheetah-custom-footer-id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba-cheetah-footer-option' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba-cheetah-footer-option' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba-cheetah-footer-option' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba-cheetah-footer-option' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba-cheetah-custom-header-id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba-cheetah-custom-header-id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba-cheetah-custom-header-id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba-cheetah-custom-header-id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba-cheetah-header-option' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba-cheetah-header-option' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba-cheetah-header-option' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba-cheetah-header-option' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_template_global' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_template_global' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_template_global' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_template_global' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_draft' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_draft' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_draft' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_draft' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba-cheetah-popup-width' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba-cheetah-popup-width' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba-cheetah-popup-width' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba-cheetah-popup-width' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba_cheetah_user_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba_cheetah_user_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba_cheetah_user_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba_cheetah_user_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ba_cheetah_draft_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ba_cheetah_draft_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ba_cheetah_draft_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ba_cheetah_draft_settings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba-cheetah-fixed-header' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba-cheetah-fixed-header' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba-cheetah-fixed-header' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba-cheetah-fixed-header' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ba-cheetah-version' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ba-cheetah-version' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ba-cheetah-version' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ba-cheetah-version' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wp_attachment_image_alt' ) );
+

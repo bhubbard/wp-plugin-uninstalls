@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tabmel_override_ms",
+    "Admin",
+    "tablepress_tables"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tablepress_table_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:10.720Z"
+}

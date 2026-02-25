@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wdm_time_zone', 'wdm_currency', 'wdm_bidding_engines', 'payment_options_enabled', 'wdm_show_prvt_msg', 'wdm_auc_num_per_page', 'wdm_layout_style', 'wdm_login_page_url', 'wdm_wire_transfer', 'wdm_mailing_address', 'wdm_cash', 'wdm_users_login', 'wdm_account_mode', 'wdm_paypal_address', 'wdm_auction_email', 'wdm_auc_settings_data', 'wdm_auction_page_url', 'wdm_register_page_url', 'wdm_show_enddate_msg', 'wdm_show_timezone_msg');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wdm-auth-key', 'wdm_creation_time', 'wdm_buy_it_now', 'wdm-main-image', 'wdm_listing_ends', 'wdm_opening_bid', 'wdm_lowest_bid', 'wdm_incremental_val', 'wdm_payment_method', 'wdm_bidding_engine', 'wdm_auction_thumb', 'wdm_enable_shipping', 'current_auction_permalink', 'auction_bought_status', 'wdm_auction_buyer', 'auction_email_sent', 'email_sent_imd', 'wdm_to_be_sent', 'wdm_won_email_sent', 'wdm_previous_bid_value', 'wdm_this_auction_winner', 'wdm_uwa_pro_ignore_notice', 'wdm_uwa_plugin_layout_ignore_notice');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wdm-auth-key', 'wdm_creation_time', 'wdm_buy_it_now', 'wdm-main-image', 'wdm_listing_ends', 'wdm_opening_bid', 'wdm_lowest_bid', 'wdm_incremental_val', 'wdm_payment_method', 'wdm_bidding_engine', 'wdm_auction_thumb', 'wdm_enable_shipping', 'current_auction_permalink', 'auction_bought_status', 'wdm_auction_buyer', 'auction_email_sent', 'email_sent_imd', 'wdm_to_be_sent', 'wdm_won_email_sent', 'wdm_previous_bid_value', 'wdm_this_auction_winner', 'wdm_uwa_pro_ignore_notice', 'wdm_uwa_plugin_layout_ignore_notice');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wdm-auth-key', 'wdm_creation_time', 'wdm_buy_it_now', 'wdm-main-image', 'wdm_listing_ends', 'wdm_opening_bid', 'wdm_lowest_bid', 'wdm_incremental_val', 'wdm_payment_method', 'wdm_bidding_engine', 'wdm_auction_thumb', 'wdm_enable_shipping', 'current_auction_permalink', 'auction_bought_status', 'wdm_auction_buyer', 'auction_email_sent', 'email_sent_imd', 'wdm_to_be_sent', 'wdm_won_email_sent', 'wdm_previous_bid_value', 'wdm_this_auction_winner', 'wdm_uwa_pro_ignore_notice', 'wdm_uwa_plugin_layout_ignore_notice');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wdm-auth-key', 'wdm_creation_time', 'wdm_buy_it_now', 'wdm-main-image', 'wdm_listing_ends', 'wdm_opening_bid', 'wdm_lowest_bid', 'wdm_incremental_val', 'wdm_payment_method', 'wdm_bidding_engine', 'wdm_auction_thumb', 'wdm_enable_shipping', 'current_auction_permalink', 'auction_bought_status', 'wdm_auction_buyer', 'auction_email_sent', 'email_sent_imd', 'wdm_to_be_sent', 'wdm_won_email_sent', 'wdm_previous_bid_value', 'wdm_this_auction_winner', 'wdm_uwa_pro_ignore_notice', 'wdm_uwa_plugin_layout_ignore_notice');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wdm-image-%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wdm-image-%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wdm-image-%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wdm-image-%';
+

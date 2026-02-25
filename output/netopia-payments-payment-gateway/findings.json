@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_netopiapayments_settings",
+    "woocommerce_pay_page_id",
+    "woocommerce_netopiapayments_sandbox_cer_content",
+    "woocommerce_netopiapayments_live_cer_content",
+    "woocommerce_netopiapayments_sandbox_key_content",
+    "woocommerce_netopiapayments_live_key_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:12.045Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "myplugin_flush_rewrite_rules_flag",
+    "dmopress"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "address",
+    "city",
+    "facebook_url",
+    "instagram_url",
+    "latitude",
+    "longitude",
+    "zip",
+    "stateprov",
+    "telephone",
+    "tripadvisor_url",
+    "twitter_url",
+    "website_url",
+    "symbol",
+    "tripadvisor_location_id",
+    "twitter_handle"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:30.296Z"
+}

@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('aicw_allowed_hosts', 'aicw_default_host', 'aicw_api_model', 'aicw_enable_redirection', 'aicw_enable_img_generation', 'aicw_log_retention_period', 'aicw_gemini_ai_model', 'aicw_chatgpt_ai_model', 'aicw_pexels_api_key', 'aicw_gemini_api_key', 'aicw_gemini_models', 'aicw_chatgpt_api_secret_key', 'aicw_chatgpt_models', 'aicwp_campaign_frequency', 'aicw_version', 'aicw_is_enabled', 'aicw_flash_notices', 'aicw_notices_last_cleanup');
+DELETE FROM wp_options WHERE option_name LIKE '%_dismissed';
+DELETE FROM wp_options WHERE option_name LIKE '%_reminded_until';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_aicw_campaign_type', '_aicw_campaign_host', '_aicw_campaign_source', '_aicw_rss_feed_link', '_aicw_block_keywords', '_aicw_search_replaces', '_aicw_html_cleaners', '_aicw_insert_content_position', '_aicw_insert_content', '_aicw_campaign_target', '_aicw_generate_thumbnail', '_aicw_post_type', '_aicw_completed_post_status', '_aicw_campaign_id', '_aicw_related_campaign', '_aicw_content_source_link', '_aicw_generate_content_attempts');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_aicw_campaign_type', '_aicw_campaign_host', '_aicw_campaign_source', '_aicw_rss_feed_link', '_aicw_block_keywords', '_aicw_search_replaces', '_aicw_html_cleaners', '_aicw_insert_content_position', '_aicw_insert_content', '_aicw_campaign_target', '_aicw_generate_thumbnail', '_aicw_post_type', '_aicw_completed_post_status', '_aicw_campaign_id', '_aicw_related_campaign', '_aicw_content_source_link', '_aicw_generate_content_attempts');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_aicw_campaign_type', '_aicw_campaign_host', '_aicw_campaign_source', '_aicw_rss_feed_link', '_aicw_block_keywords', '_aicw_search_replaces', '_aicw_html_cleaners', '_aicw_insert_content_position', '_aicw_insert_content', '_aicw_campaign_target', '_aicw_generate_thumbnail', '_aicw_post_type', '_aicw_completed_post_status', '_aicw_campaign_id', '_aicw_related_campaign', '_aicw_content_source_link', '_aicw_generate_content_attempts');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_aicw_campaign_type', '_aicw_campaign_host', '_aicw_campaign_source', '_aicw_rss_feed_link', '_aicw_block_keywords', '_aicw_search_replaces', '_aicw_html_cleaners', '_aicw_insert_content_position', '_aicw_insert_content', '_aicw_campaign_target', '_aicw_generate_thumbnail', '_aicw_post_type', '_aicw_completed_post_status', '_aicw_campaign_id', '_aicw_related_campaign', '_aicw_content_source_link', '_aicw_generate_content_attempts');
+

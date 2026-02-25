@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_pakke_shipping_settings",
+    "woocommerce_store_postcode",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user",
+    "_shipping_colonia"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:59.155Z"
+}

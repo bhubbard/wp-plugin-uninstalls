@@ -1,0 +1,15 @@
+{
+  "options": [
+    "themerain_custom_fonts_counter",
+    "themerain_custom_fonts",
+    "themerain_adobe_fonts",
+    "themerain_adobe_fonts_id",
+    "themerain_portfolio_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:28.719Z"
+}

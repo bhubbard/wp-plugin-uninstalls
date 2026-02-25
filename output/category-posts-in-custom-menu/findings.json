@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cpcm-unfold",
+    "_cpcm-unfold",
+    "cpcm-orderby",
+    "_cpcm-orderby",
+    "_cpcm-order",
+    "cpcm-item-count",
+    "_cpcm-item-count",
+    "_cpcm-item-skip",
+    "cpcm-item-titles",
+    "_cpcm-item-titles",
+    "_cpcm-remove-original-item",
+    "_cpcm-subcategories",
+    "cpcm-order",
+    "cpcm-item-skip",
+    "cpcm-remove-original-item",
+    "cpcm-subcategories",
+    "_menu_item_classes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:40.693Z"
+}

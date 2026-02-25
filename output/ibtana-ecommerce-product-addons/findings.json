@@ -1,0 +1,39 @@
+{
+  "options": [
+    "iepa_mega_menu_tutorial_steps",
+    "iepa_tutorial_steps",
+    "recently_activated",
+    "icpa_settings",
+    "icpa_tax_settings",
+    "iepa_mm_woo_settings",
+    "iepamegabox_csettings",
+    "iepamega_settings",
+    "iepa_mm_font_family",
+    "iepa_mm_register_skin",
+    "iepamegabox_settings",
+    "iepa_mm_default_settings",
+    "widget_*",
+    "*_license_key",
+    "_ive_allow_file_generation",
+    "woocommerce_cart_page_id",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_pay_page_id",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iepa_tgmpa_dismissed_notice_*",
+    "icpa-tax-img-id",
+    "_iepamegamenu",
+    "_menu_item_object_id",
+    "iepa_style_timestamp-*",
+    "iepa_builder"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:35.596Z"
+}

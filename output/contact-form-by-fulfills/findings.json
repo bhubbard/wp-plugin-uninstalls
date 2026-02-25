@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cfbf_other",
+    "cfbf_edit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_read",
+    "is_reply",
+    "c_email",
+    "timeline",
+    "cfbf1",
+    "cfbf2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:05.804Z"
+}

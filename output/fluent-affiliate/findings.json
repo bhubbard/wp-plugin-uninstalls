@@ -1,0 +1,28 @@
+{
+  "options": [
+    "_fa_referral_settings",
+    "affwp_settings",
+    "_fla_affwp_migrations_status",
+    "_fla_solid_affiliate_migrations_status",
+    "*_migrations_status",
+    "siteUrl"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "fluent_affiliate/send_new_referral_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "locale",
+    "default_password_nag",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:31.805Z"
+}

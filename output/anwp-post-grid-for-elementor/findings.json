@@ -1,0 +1,19 @@
+{
+  "options": [
+    "anwp_pg_plugin_settings",
+    "anwp_pg_elementor_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_anwp_extras_video_source",
+    "_anwp_extras_video_id",
+    "_anwp_extras_gallery_images",
+    "_anwp_extras_category_color",
+    "_anwp_pg_category_color",
+    "_anwp_pg_category_text_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:03.178Z"
+}

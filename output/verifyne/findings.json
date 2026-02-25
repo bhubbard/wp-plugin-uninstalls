@@ -1,0 +1,13 @@
+{
+  "options": [
+    "vf_only_two_factor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "verifyne_user_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:44.691Z"
+}

@@ -1,0 +1,36 @@
+{
+  "options": [
+    "ip2y_keeplogs",
+    "ip2y_disable_notices",
+    "ip2y_group_content",
+    "ip2y_settings_arr",
+    "ip2y_version",
+    "woo_hook_isc*",
+    "woo_hook_isd*",
+    "*_keeplogs",
+    "ip2y_groups_content",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ip2y_cron_sborki",
+    "ip2y_cron_period",
+    "cron_sborki"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ip2y_length",
+    "_ip2y_width",
+    "_ip2y_height",
+    "_ip2y_weight",
+    "_ip2y_tags",
+    "_ip2y_market_sku",
+    "_ip2y_prod_id_on_yandex",
+    "_ip2y_market_sku_on_yandex",
+    "_ip2y_market_category_id_on_yandex",
+    "_ip2y_prod_archive_status",
+    "rank_math_primary_category"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:45.495Z"
+}

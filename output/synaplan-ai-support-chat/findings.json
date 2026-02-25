@@ -1,0 +1,23 @@
+{
+  "options": [
+    "synaplan_wp_db_version",
+    "synaplan_wp_version",
+    "synaplan_wp_setup_completed",
+    "synaplan_wp_widget_config",
+    "synaplan_wp_*",
+    "synaplan_wp_verification_token",
+    "synaplan_wp_api_key",
+    "synaplan_wp_user_id",
+    "synaplan_wp_wizard_data"
+  ],
+  "transients": [
+    "synaplan_wizard_data_*",
+    "synaplan_wp_api_status",
+    "synaplan_wp_widget_preview"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:17.070Z"
+}

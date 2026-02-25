@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*role_capabilities_processed",
+    "*role_backup",
+    "*possible_unwanted_changes_found",
+    "*welcome_needed",
+    "*last_backup_time",
+    "active_sitewide_plugins",
+    "*_role_last_edited_by",
+    "*_role_created_by",
+    "*settings",
+    "*custom_role_descriptions",
+    "*redirect_after_activation",
+    "*active_version",
+    "mre_role_post_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*mu_caps_processed",
+    "*cap_role_add_edit_display_type",
+    "*display_misc",
+    "*display_deprecated_caps",
+    "_mre_per_post_rules",
+    "mre_user_post_rules"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:39.577Z"
+}

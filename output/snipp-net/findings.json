@@ -1,0 +1,14 @@
+{
+  "options": [
+    "snipp_net_username",
+    "snipp_net_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "snipp_net_require_membership"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:55.488Z"
+}

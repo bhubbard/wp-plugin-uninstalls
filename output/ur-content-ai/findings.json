@@ -1,0 +1,29 @@
+{
+  "options": [
+    "vts_ai_content_logs",
+    "vts_ai_content_prompts",
+    "vts_ai_content_user_email",
+    "vts_ai_content_registration_step",
+    "vts_ai_content_api_key",
+    "vts_ai_google_access_token",
+    "vts_ai_google_refresh_token",
+    "vts_ai_google_token_expires_at",
+    "vts_ai_google_token_type",
+    "vts_ai_google_scope",
+    "vts_ai_google_id_token",
+    "vts_ai_content_model"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_focus_keyword",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:06.665Z"
+}

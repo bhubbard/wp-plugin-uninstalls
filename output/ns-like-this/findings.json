@@ -1,0 +1,25 @@
+{
+  "options": [
+    "my_liked_content_page_title",
+    "my_liked_content_page_name",
+    "my_liked_content_page_id",
+    "my_liked_content_id",
+    "nslt_dbVersion",
+    "nslt_jquery",
+    "nslt_onPage",
+    "nslt_useEmblems",
+    "nslt_textOrImage",
+    "nslt_text",
+    "most_liked_content",
+    "latest_liked_content",
+    "most_visited_liked_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_allow_all"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:41.482Z"
+}

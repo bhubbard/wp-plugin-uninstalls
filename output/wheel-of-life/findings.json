@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wheeloflife_queue_flush_rewrite_rules",
+    "wheel_of_life_CTA",
+    "wheel_of_life_social_sharing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "userId",
+    "wheelId",
+    "chartData",
+    "chartOptions",
+    "chartType"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:57.794Z"
+}

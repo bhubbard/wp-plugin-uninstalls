@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tinypress_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tiny_slug",
+    "target_url",
+    "source_post_id",
+    "source_post_type",
+    "redirection",
+    "notes",
+    "_pb_settings_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:36.836Z"
+}

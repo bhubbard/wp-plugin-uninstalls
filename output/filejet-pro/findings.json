@@ -1,0 +1,15 @@
+{
+  "options": [
+    "filejet_api_key",
+    "filejet_storage_id",
+    "secret",
+    "filejet_config",
+    "filejet_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:58.406Z"
+}

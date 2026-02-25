@@ -1,0 +1,38 @@
+{
+  "options": [
+    "vatomi_licenses"
+  ],
+  "transients": [
+    "vatomi_exist_products",
+    "vatomi_import_errors",
+    "vatomi_import_success",
+    "vatomi-logger-prune-last-run"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vatomi_access_token",
+    "vatomi_refresh_token",
+    "vatomi_token_expires_in",
+    "vatomi_username",
+    "vatomi_account_details",
+    "first_name",
+    "last_name",
+    "_vatomi_license_site",
+    "_vatomi_license_user_id",
+    "_vatomi_license_full_data",
+    "_vatomi_license_*",
+    "_vatomi_license_item_*",
+    "_vatomi_license_sold_at",
+    "_vatomi_license_supported_until",
+    "_vatomi_license_license",
+    "_vatomi_license_code",
+    "_vatomi_license_support_amount",
+    "_vatomi_license_amount",
+    "_vatomi_license_item_name",
+    "_vatomi_license_item_id",
+    "_vatomi_log_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:51.262Z"
+}

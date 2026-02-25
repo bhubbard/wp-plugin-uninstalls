@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fakeloader-delay-time",
+    "fakeloader-z-index",
+    "fakeloader-spinner",
+    "fakeloader-bg-color",
+    "fakeloader-is-image",
+    "fakeloader-spinner-file"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:18.015Z"
+}

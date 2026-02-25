@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bofa_client_id",
+    "bofa_client_secret",
+    "bofa_access_token",
+    "bofa_refresh_token",
+    "bofa_expire"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:26.454Z"
+}

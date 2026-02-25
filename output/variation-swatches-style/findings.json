@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_wcspc_license_notices_hide",
+    "activate-variation-swatches-style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "color",
+    "image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:54.543Z"
+}

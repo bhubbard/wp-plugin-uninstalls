@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ctcl_activate_phone_pay",
+    "ctcl_phone_pay_phone_number",
+    "ctcl_tax_rate",
+    "ctcl_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:36.335Z"
+}

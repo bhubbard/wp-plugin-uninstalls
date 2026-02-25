@@ -1,0 +1,19 @@
+{
+  "options": [
+    "post_type_rules_flushed_gl_js_maps",
+    "mapbox_gl_js_access_token",
+    "mapbox_gl_js_secret_access_token",
+    "mapbox_gl_js_username",
+    "wp_mapbox_gl_js_upgrade"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_mapbox_gl_js_map_object",
+    "wp_mapbox_gl_js_hidden_in_post",
+    "wp_mapbox_gl_js_dataset_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:08.226Z"
+}

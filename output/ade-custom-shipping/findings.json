@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ade_state_spliting",
+    "ade_custom_ng",
+    "ade_custom_gh",
+    "ade_custom_time",
+    "ade_state_reference",
+    "ade_custom_shipping_general"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:22.658Z"
+}

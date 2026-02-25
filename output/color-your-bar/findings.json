@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cyb-switch",
+    "cyb-ios-full-mode",
+    "cyb-post-type",
+    "cyb-color",
+    "cyb-ios-bar-style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cyb-color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:57.907Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "excelerate_ai_api_key"
+  ],
+  "transients": [
+    "excelerate_ai_gpt_content_update_lock"
+  ],
+  "cron_jobs": [
+    "gpt_content_update_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:55.494Z"
+}

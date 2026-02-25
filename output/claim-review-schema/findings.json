@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cr-post-types",
+    "cr-organisation-name",
+    "cr-organisation-url",
+    "cr-organisation-max-number-rating",
+    "cr-organisation-min-number-rating",
+    "cr-organisation-alternate-url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fullfact_all_claims"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:38.176Z"
+}

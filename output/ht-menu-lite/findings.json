@@ -1,0 +1,30 @@
+{
+  "options": [
+    "htmegamenu_do_activation_redirect",
+    "ht_menu_options_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_page_settings",
+    "_elementor_template_type",
+    "_elementor_edit_mode",
+    "_wp_page_template",
+    "htmega_menu_settings",
+    "_menu_item_menuwidth",
+    "_menu_item_menuposition",
+    "_menu_item_template",
+    "_menu_item_ficon",
+    "_menu_item_ficoncolor",
+    "_menu_item_menutag",
+    "_menu_item_menutagcolor",
+    "_menu_item_menutagbgcolor",
+    "_menu_item_megamenu",
+    "_menu_item_disablet",
+    "_menu_item_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:05.405Z"
+}

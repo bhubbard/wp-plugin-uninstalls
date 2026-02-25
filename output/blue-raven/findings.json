@@ -1,0 +1,30 @@
+{
+  "options": [
+    "blue_raven_activated",
+    "blue_raven_remove_all_data",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "blue_raven_wc_product_slug_redirects",
+    "blueraven_products_db_version",
+    "blueraven_messages_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "blue_raven_daily_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_blue_raven_meta_description",
+    "_blue_raven_meta_tags",
+    "_blue_raven_already_processed",
+    "rating",
+    "_low_stock_amount",
+    "_blue_raven_meta_title",
+    "_product_image_gallery",
+    "_rank_math_description",
+    "_yoast_wpseo_metadesc"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:55.687Z"
+}

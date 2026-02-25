@@ -1,0 +1,13 @@
+{
+  "options": [
+    "notify_old_blog"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "notify_old_blog_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:31.631Z"
+}

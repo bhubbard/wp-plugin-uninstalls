@@ -1,0 +1,19 @@
+{
+  "options": [
+    "robonobo_weight_rates",
+    "robonobo_api_key",
+    "robonobo_api_secret",
+    "robonobo_max_hour_for_today_delivery",
+    "robonobo_webhook_password",
+    "robonobo_company_name",
+    "robonobo_login",
+    "robonobo_secret",
+    "robonobo_company_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:39.012Z"
+}

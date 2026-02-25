@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wikiembed_options",
+    "wikiembeds",
+    "wiki_embed_white_list",
+    "wikiembed_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wiki_embed",
+    "wikiembed_expiration",
+    "wikiembed_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:16.711Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "woocommerce_eway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eway_token_cards"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:24.079Z"
+}

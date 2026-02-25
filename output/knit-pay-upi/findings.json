@@ -1,0 +1,59 @@
+{
+  "options": [
+    "knit_pay_pro_setup_rapidapi_key"
+  ],
+  "transients": [
+    "knit_pay_upi_checking_status_*",
+    "knit_pay_upi_gpay_rotate_cookies_*",
+    "knit_pay_upi_gpay_get_wiz_data_*"
+  ],
+  "cron_jobs": [
+    "knit_pay_upi_bharatpe_refresh_connection"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pronamic_gateway_upi_qr_bharatpe_integration_mode",
+    "_pronamic_gateway_upi_qr_bharatpe_bharatpe_session",
+    "_pronamic_gateway_upi_qr_bharatpe_csrf_token",
+    "_pronamic_gateway_upi_qr_bharatpe_connection_data",
+    "_pronamic_gateway_upi_qr_bharatpe_phone_number",
+    "_pronamic_gateway_upi_qr_bharatpe_uuid",
+    "_pronamic_gateway_upi_qr_bharatpe_merchant_id",
+    "_pronamic_gateway_upi_qr_bharatpe_token",
+    "_pronamic_gateway_upi_qr_payee_name",
+    "_pronamic_gateway_upi_qr_payment_template",
+    "_pronamic_gateway_upi_qr_bharatpe_otp",
+    "_pronamic_gateway_upi_qr_vpa",
+    "_pronamic_gateway_upi_qr_freecharge_cookie",
+    "_pronamic_gateway_upi_qr_freecharge_csrf_identifier",
+    "_pronamic_gateway_upi_qr_freecharge_is_connected",
+    "_pronamic_gateway_upi_qr_freecharge_phone_number",
+    "_pronamic_gateway_upi_qr_freecharge_otp",
+    "_pronamic_gateway_upi_qr_freecharge_otp_id",
+    "_pronamic_gateway_upi_qr_gpay_biz_wiz_global_data",
+    "_pronamic_gateway_upi_qr_gpay_biz_merchant_id",
+    "_pronamic_gateway_upi_qr_gpay_biz_cookies",
+    "_pronamic_gateway_upi_qr_gpay_biz_connection_data",
+    "_pronamic_gateway_upi_qr_hdfc_smarthub_session_id",
+    "_pronamic_gateway_upi_qr_hdfc_smarthub_app_version",
+    "_pronamic_gateway_upi_qr_hdfc_smarthub_encryption_key",
+    "_pronamic_gateway_upi_qr_hdfc_smarthub_device_id",
+    "_pronamic_gateway_upi_qr_hdfc_smarthub_phone_number",
+    "_pronamic_gateway_upi_qr_hdfc_smarthub_tid",
+    "_pronamic_gateway_upi_qr_hdfc_smarthub_otp",
+    "_pronamic_gateway_upi_qr_merchant_category_code",
+    "_pronamic_gateway_upi_qr_mobikwik_connection_data",
+    "_pronamic_gateway_upi_qr_mobikwik_token",
+    "_pronamic_gateway_upi_qr_phonepe_device_fingerprint",
+    "_pronamic_gateway_upi_qr_phonepe_fingerprint",
+    "_pronamic_gateway_upi_qr_phonepe_refresh_token",
+    "_pronamic_gateway_upi_qr_phonepe_token",
+    "_pronamic_gateway_upi_qr_phonepe_expires_at",
+    "_pronamic_gateway_upi_qr_phonepe_user_group_id",
+    "_pronamic_gateway_upi_qr_phonepe_group_value",
+    "_pronamic_gateway_upi_qr_phonepe_phone_number",
+    "_pronamic_gateway_upi_qr_phonepe_otp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:19.923Z"
+}

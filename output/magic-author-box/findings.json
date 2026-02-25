@@ -1,0 +1,31 @@
+{
+  "options": [
+    "mabox_options",
+    "ma_box_activation_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mabox_profile_template",
+    "mabox-profile-image",
+    "mabox_social_links",
+    "mabox_box_subset",
+    "mabox_box_name_font",
+    "mabox_box_web_font",
+    "mabox_box_desc_font",
+    "mabox_box_name_size",
+    "mabox_box_web_size",
+    "mabox_box_desc_size",
+    "mabox_box_icon_size",
+    "mabox_box_margin_top",
+    "mabox_box_margin_bottom",
+    "mabox_options",
+    "_mabox_predefined_template",
+    "_mabox_template_id",
+    "_disable_mabox_author_here",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:30.749Z"
+}

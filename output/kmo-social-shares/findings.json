@@ -1,0 +1,27 @@
+{
+  "options": [
+    "kmo_social_facebook",
+    "kmo_social_twitter",
+    "kmo_social_pinterest",
+    "kmo_social_googleplus",
+    "kmo_social_facebook_text",
+    "kmo_social_twitter_text",
+    "kmo_social_pinterest_text",
+    "kmo_social_googleplus_text",
+    "kmo_social_color",
+    "kmo_social_font_size",
+    "kmo_social_width",
+    "kmo_social_height",
+    "kmo_social_position",
+    "kmo_social_top",
+    "kmo_social_in",
+    "kmo_social_out",
+    "kmo_social_font-size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:33.787Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dropdown_query",
+    "dropdown_allowlinkback",
+    "dropdown_configmode",
+    "dropdown_use",
+    "dropdown_autoembed",
+    "dropdown_width",
+    "dropdown_uselegacy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:54.875Z"
+}

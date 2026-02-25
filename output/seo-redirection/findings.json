@@ -1,0 +1,14 @@
+{
+  "options": [
+    "nsr_upgrade_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsr_404_notice_dismissed",
+    "sr_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:28.014Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bb_ai_content_generator_encryption_key",
+    "bb_ai_content_generator_api_key",
+    "bb_ai_content_generator_api_usage_stats"
+  ],
+  "transients": [
+    "bb_ai_content_generator_temp_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:23.626Z"
+}

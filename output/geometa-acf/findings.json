@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp_geometa_version",
+    "wp_geometa_db_version",
+    "wp_geometa_capabilities"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "myplugin_lat",
+    "geo_longitude",
+    "wpgeometa_test",
+    "geo_latitude",
+    "myplugin_lng"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:58.835Z"
+}

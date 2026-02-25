@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpinv_created_initial_quote_pages",
+    "wpinv_quotes_activation_redirect",
+    "wpinv_quotes_flushed_rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpinv_quote_valid_until",
+    "_wpinv_quote_decline_reason"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:51.461Z"
+}

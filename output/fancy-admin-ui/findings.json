@@ -1,0 +1,12 @@
+{
+  "options": [
+    "fau_primary_color",
+    "fau_secondary_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:12.494Z"
+}

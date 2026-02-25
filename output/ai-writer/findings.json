@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ai_writer_api_key",
+    "aiwriter_rate_us",
+    "wmc_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:40.807Z"
+}

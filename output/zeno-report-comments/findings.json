@@ -1,0 +1,19 @@
+{
+  "options": [
+    "zrcmnt_threshold",
+    "zrcmnt_admin_notification",
+    "zrcmnt_admin_notification_each",
+    "zrcmnt_spamcheck",
+    "zrcmnt_ipblock_from_reporting",
+    "disallowed_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zrcmnt_reported",
+    "zrcmnt_moderated"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:38.285Z"
+}

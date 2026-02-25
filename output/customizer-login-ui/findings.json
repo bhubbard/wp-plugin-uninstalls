@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cluiwp_color1",
+    "cluiwp_color2",
+    "cluiwp_logo",
+    "cluiwp_background",
+    "cluiwp_brightness",
+    "cluiwp_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:02.071Z"
+}

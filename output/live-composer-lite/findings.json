@@ -1,0 +1,20 @@
+{
+  "options": [
+    "dslc_module_id_count",
+    "dslc_user"
+  ],
+  "transients": [
+    "_dslc_activation_redirect_1"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dslc_code",
+    "dslc_template_for",
+    "dslc_template_base",
+    "dslc_template_type",
+    "dslc_post_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:08.842Z"
+}

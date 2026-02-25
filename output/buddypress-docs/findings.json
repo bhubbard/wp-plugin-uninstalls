@@ -1,0 +1,28 @@
+{
+  "options": [
+    "rewrite_rules",
+    "bp-docs-slug",
+    "bp-docs-excerpt-length",
+    "bp-docs-directory-title",
+    "bp-docs-user-tab-name",
+    "bp-docs-tab-name",
+    "bp-docs-enable-attachments",
+    "dashboard_widget_options",
+    "*_children"
+  ],
+  "transients": [
+    "associated_groups-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bp_docs_last_editor",
+    "_bp_docs_last_pinged",
+    "_edit_last",
+    "bp_docs_count",
+    "bp_docs_settings",
+    "bp_docs_revision_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:38.903Z"
+}

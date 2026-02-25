@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mono_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mono_client_callback",
+    "mono_client_comments",
+    "mono_deliveryAddressInfo",
+    "mono_order_id",
+    "mono_order_state",
+    "_monocheckout_payment_method",
+    "_monocheckout_shipping_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:04.593Z"
+}

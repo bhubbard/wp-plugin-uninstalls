@@ -1,0 +1,23 @@
+{
+  "options": [
+    "getterms_token",
+    "getterms-manual-widget",
+    "getterms-auto-widget",
+    "getterms-show-widget",
+    "getterms-auto-language-detection",
+    "getterms-widget-slug",
+    "getterms-widget-language",
+    "getterms-default-language",
+    "getterms-languages",
+    "getterms-policies",
+    "getterms-token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_custom"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:50.352Z"
+}

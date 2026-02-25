@@ -1,0 +1,14 @@
+{
+  "options": [
+    "labur_settings_api_key",
+    "labur_settings_host"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "labur_shortened_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:17.336Z"
+}

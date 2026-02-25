@@ -1,0 +1,13 @@
+{
+  "options": [
+    "turn_off_web",
+    "noti_maintenance",
+    "custom_maintenance"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:30.234Z"
+}

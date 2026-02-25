@@ -1,0 +1,13 @@
+{
+  "options": [
+    "slwp_store_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aka_saved_locators"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:33.476Z"
+}

@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'maintenancemode'
+wp option delete 'page_title'
+wp option delete 'test-editor'
+wp option delete 'site_title_color'
+wp option delete 'site_title_font_size'
+wp option delete 'heading_color'
+wp option delete 'headingfont_size'
+wp option delete 'description_color'
+wp option delete 'descriptionfont_size'
+wp option delete 'footer_text'
+wp option delete 'footer_text_color'
+wp option delete 'footer_textfont_size'
+wp option delete 'custom_css'
+wp option delete 'background_bodycss'
+wp option delete 'background_overlay_bodycss'
+wp option delete 'background_overlay_opc_bodycss'
+wp option delete 'logo_width'
+wp option delete 'logo_height'
+wp option delete 'heading'
+wp option delete 'header_logo'
+wp option delete 'default_post_edit_rows'
+wp option delete 'fontfamily'
+wp option delete 'header_back'
+wp option delete 'is_maintenance_mode'
+wp option delete 'maintenance_mode_expire_time'
+

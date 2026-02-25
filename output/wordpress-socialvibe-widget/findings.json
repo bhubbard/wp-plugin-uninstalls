@@ -1,0 +1,18 @@
+{
+  "options": [
+    "socialvibe_flash_id",
+    "socialvibe_user_id",
+    "socialvibe_width",
+    "socialvibe_widget_title",
+    "socialvibe_height",
+    "socialvibe_noflash",
+    "socialvibe_widget_display",
+    "socialvibe_color_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:57.490Z"
+}

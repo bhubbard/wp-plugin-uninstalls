@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ncwcapr_restock_display_position",
+    "ncwcapr_restock_cron_schedule",
+    "ncwcapr_restock_enable_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ncwcapr_restock_check_dates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_restock_date",
+    "_restock_quantity",
+    "_restock_recurrence_type",
+    "_restock_recurrence_time",
+    "_last_recurring_restock",
+    "_restock_day_*",
+    "_restock_day_of_month",
+    "_restock_recurrence_enabled",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:25.753Z"
+}

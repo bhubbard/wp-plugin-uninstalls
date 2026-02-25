@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpgqb_username",
+    "wpgqb_userpassword",
+    "wpgqb_timespan",
+    "wpgqb_exclude",
+    "wpgqb_gaacount",
+    "wpgqb_count",
+    "wpgqb_levels",
+    "wpgqb_searchbase",
+    "wpgqb_title",
+    "wpgqb_cachettl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:33.901Z"
+}

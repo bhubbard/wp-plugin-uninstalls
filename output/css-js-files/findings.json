@@ -1,0 +1,37 @@
+{
+  "options": [
+    "css_js_files_css_links",
+    "css_js_files_css_files",
+    "css_js_files_css_rules",
+    "css_js_files_css_admin",
+    "css_js_files_js_links",
+    "css_js_files_js_files",
+    "css_js_files_js_rules",
+    "css_js_files_js_admin",
+    "css_js_files_head_rules",
+    "css_js_files_body_rules",
+    "css_js_files_footer_rules",
+    "css_js_files_path",
+    "*_rules",
+    "*_links",
+    "*_files",
+    "*_admin",
+    "css_js_files_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_links",
+    "*_files",
+    "*_rules",
+    "css_js_files_css_links",
+    "css_js_files_css_files",
+    "css_js_files_css_rules",
+    "css_js_files_js_links",
+    "css_js_files_js_files",
+    "css_js_files_js_rules"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:02.099Z"
+}

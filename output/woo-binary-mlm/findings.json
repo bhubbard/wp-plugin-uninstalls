@@ -1,0 +1,32 @@
+{
+  "options": [
+    "bmw_eligibility_settings",
+    "bmw_general_settings",
+    "bmw_mapping_settings",
+    "bmw_payout_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "account_holder_name",
+    "account_number",
+    "bank_name",
+    "ifsc_code",
+    "branch",
+    "first_name",
+    "last_name",
+    "product_points_*",
+    "user_address1",
+    "user_city",
+    "user_state",
+    "user_postalcode",
+    "user_dob",
+    "bmw_placement",
+    "bmw_sponsor",
+    "bmw_page_title",
+    "is_mlm_page"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:47.925Z"
+}

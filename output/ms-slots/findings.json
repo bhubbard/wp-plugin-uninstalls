@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ms_total_slots",
+    "ms_slot_remarks*",
+    "ms_slots_is_debug",
+    "ms_slot*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:44.077Z"
+}

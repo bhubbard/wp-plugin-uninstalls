@@ -1,0 +1,34 @@
+{
+  "options": [
+    "oxi_flipbox_support_massage",
+    "oxi_addons_pre_loader",
+    "oxi_addons_user_permission",
+    "oxi_addons_font_awesome",
+    "oxi_addons_google_font",
+    "oxilab_flip_box_recommended",
+    "oxilab_flip_box_activation_date",
+    "oxilab_flip_box_nobug",
+    "oxi_addons_font_awesome_version",
+    "oxilab_flip_box_version",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "oxi_flip_box_activation_redirect",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:45.836Z"
+}

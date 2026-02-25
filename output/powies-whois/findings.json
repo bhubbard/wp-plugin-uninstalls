@@ -1,0 +1,17 @@
+{
+  "options": [
+    "display-on-free",
+    "display-on-connect",
+    "display-on-invalid",
+    "show-www",
+    "show-whois-output",
+    "before-whois-output",
+    "after-whois-output"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:18.522Z"
+}

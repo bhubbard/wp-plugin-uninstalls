@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpimmo",
+    "wpimmo_search",
+    "wpimmo_groups",
+    "wpimmo_custom_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpimmo_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpimmo_images",
+    "wpimmo_*",
+    "*_token",
+    "wpimmo_images_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:12.175Z"
+}

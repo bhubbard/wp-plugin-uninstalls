@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ta_temporary_access_settings",
+    "ta_temporary_access_hash_data_*",
+    "ta_temporary_access_hash_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "temporary_access_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:18.378Z"
+}

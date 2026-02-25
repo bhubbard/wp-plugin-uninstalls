@@ -1,0 +1,38 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "uip-global-settings",
+    "uipress-cache-key"
+  ],
+  "transients": [
+    "uip_template_active_*",
+    "uip-master-menu"
+  ],
+  "cron_jobs": [
+    "uip_auto_site_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "uip-prefs",
+    "uip_menu_settings",
+    "uip-uid",
+    "uip-template-for-roles",
+    "uip-template-for-users",
+    "uip-template-excludes-roles",
+    "uip-template-excludes-users",
+    "uip-template-settings",
+    "uip-pattern-template",
+    "uip-pattern-type",
+    "uip-pattern-description",
+    "uip-pattern-icon",
+    "uip-ui-template",
+    "uip-template-type",
+    "uip-template-subsites",
+    "uip-menu-for-roles",
+    "uip-menu-for-users",
+    "uip-menu-excludes-roles",
+    "uip-menu-excludes-users"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:46.804Z"
+}

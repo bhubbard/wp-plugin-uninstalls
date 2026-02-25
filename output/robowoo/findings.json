@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "robokassa_total",
+    "robokassa_disable_second_receipt",
+    "robokassa_OpKey",
+    "robokassa_tax",
+    "robokassa_fake_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:47.689Z"
+}

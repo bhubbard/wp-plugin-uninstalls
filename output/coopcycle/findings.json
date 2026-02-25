@@ -1,0 +1,17 @@
+{
+  "options": [
+    "coopcycle_free_shipping",
+    "coopcycle_app_name",
+    "coopcycle_base_url",
+    "coopcycle_api_key",
+    "coopcycle_api_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:41.184Z"
+}

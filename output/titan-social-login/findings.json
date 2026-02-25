@@ -1,0 +1,23 @@
+{
+  "options": [
+    "titsl_settings",
+    "titsl_version",
+    "titsl_link_map_built",
+    "titsl_link_map_page",
+    "titsl_link_map"
+  ],
+  "transients": [
+    "titsl_twitter_pkce"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "nickname",
+    "titsl_avatar_url",
+    "*_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:08.793Z"
+}

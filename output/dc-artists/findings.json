@@ -1,0 +1,34 @@
+{
+  "options": [
+    "post_type_rules_flased_dca_artist",
+    "post_type_rules_flased_dca_labels",
+    "post_type_rules_flased_dca_music",
+    "dca_show_fb",
+    "dca_show_tw"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "link_user",
+    "back_cover_id",
+    "label_id",
+    "artist_id",
+    "release_date",
+    "amazon_url",
+    "itunes_url",
+    "mp3musicfactory_url",
+    "custom_txt_1",
+    "custom_txt_2",
+    "custom_txt_3",
+    "custom_txt_4",
+    "custom_txt_5",
+    "custom_url_1",
+    "custom_url_2",
+    "custom_url_3",
+    "custom_url_4",
+    "custom_url_5"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:58.132Z"
+}

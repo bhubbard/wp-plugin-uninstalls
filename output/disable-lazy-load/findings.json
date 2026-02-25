@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dll_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dll_on_attachment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:07.169Z"
+}

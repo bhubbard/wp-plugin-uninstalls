@@ -1,0 +1,22 @@
+{
+  "options": [
+    "shm_wizard_step",
+    "shmapper-by-teplitsa"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "color",
+    "icon",
+    "height",
+    "width",
+    "shmapper_track_type",
+    "default_icon_id",
+    "track",
+    "form_forms",
+    "is_legend"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:37.106Z"
+}

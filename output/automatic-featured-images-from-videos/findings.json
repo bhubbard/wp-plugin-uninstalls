@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wds_bulk_process_video_query_init"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_is_video",
+    "_video_url",
+    "_video_embed_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:22.684Z"
+}

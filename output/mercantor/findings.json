@@ -1,0 +1,36 @@
+{
+  "options": [
+    "mercantor_feed_token",
+    "mercantor_wizard_data",
+    "mercantor_google_client_id",
+    "mercantor_google_client_secret",
+    "woo_feed_auto_update_interval",
+    "woo_feed_batch_limit",
+    "mercantor_migration_completed",
+    "mercantor_settings",
+    "mercantor_rules",
+    "trp_settings",
+    "mercantor_exchange_rates",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "mercantor_sync_total",
+    "mercantor_sync_processed",
+    "mercantor_sync_started_at",
+    "mercantor_oauth_state",
+    "mercantor_oauth_return_url"
+  ],
+  "cron_jobs": [
+    "mercantor_sync_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_global_unique_id",
+    "_mpn",
+    "_brand",
+    "mercantor_setup_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:40.417Z"
+}

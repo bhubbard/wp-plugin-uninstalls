@@ -1,0 +1,21 @@
+{
+  "options": [
+    "riskfeedback"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "risklist_objective_meta",
+    "risklist_risk_info",
+    "risklist_risk_meta",
+    "process_data",
+    "process_freq",
+    "risklist_action_meta",
+    "risklist_action_date",
+    "metric_data",
+    "risklist_metric_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:27.545Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "quick_web_notes_position_css",
+    "quick_web_notes_message",
+    "quick_web_notes_bulk_delete_result"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:21.601Z"
+}

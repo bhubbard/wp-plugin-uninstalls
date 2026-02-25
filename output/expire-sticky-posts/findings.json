@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pw_esp_prefix"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pw_esp_expiration"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:43.826Z"
+}

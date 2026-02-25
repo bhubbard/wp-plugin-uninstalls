@@ -1,0 +1,28 @@
+{
+  "options": [
+    "fv_antispam_ver",
+    "fv_antispam",
+    "fv_antispam_filledin_conflict",
+    "fv_antispam_faqtastic",
+    "wordpress_api_key",
+    "fv_antispam_registrations",
+    "jetpack_active_modules",
+    "*_deferred_notices",
+    "*_deferred_errors"
+  ],
+  "transients": [
+    "plugin_slugs"
+  ],
+  "cron_jobs": [
+    "fv_clean_trash_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fv-antispam",
+    "fv_antispam_debug",
+    "fv-antispam-post",
+    "fv-antispam-server"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:00.852Z"
+}

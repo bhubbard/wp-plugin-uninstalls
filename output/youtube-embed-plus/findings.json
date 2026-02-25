@@ -1,0 +1,18 @@
+{
+  "options": [
+    "youtubeprefs_alloptions",
+    "embed_size_w",
+    "embed_size_h",
+    "*_migrate",
+    "embed_autourls"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "embedplus_double_plugin_warning",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:28.563Z"
+}

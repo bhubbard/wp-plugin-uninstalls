@@ -1,0 +1,20 @@
+{
+  "options": [
+    "modula_importer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "foogallery_attachments",
+    "_foogallery_settings",
+    "foogallery_template",
+    "_wp_attachment_image_alt",
+    "_foogallery_custom_url",
+    "_foogallery_custom_target",
+    "modula-settings",
+    "modula-images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:14.030Z"
+}

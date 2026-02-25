@@ -1,0 +1,16 @@
+{
+  "options": [
+    "extra_fee_option_enabled",
+    "extra_fee_option_label",
+    "extra_fee_option_cost",
+    "extra_fee_option_type",
+    "extra_fee_option_taxable",
+    "extra_fee_option_minorder"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:35.336Z"
+}

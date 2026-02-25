@@ -1,0 +1,19 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('beeapp', 'acfe', 'acfe_dynamic_post_types', 'acfe_dynamic_taxonomies', 'acfe_dynamic_block_types', 'acfe_dynamic_options_pages', 'active_sitewide_plugins', 'acf_version', 'acf_pro_license', 'acf_to_rest_api_request_version', 'acfe_dev_clean', 'acf_deactivated_notice_id');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_page_template', '_thumbnail_id', 'acf', 'acf_user_settings', '_wp_attachment_image_alt', 'rule', 'allorany', 'position', 'layout', 'hide_on_screen', 'rating', 'avatar', 'views', 'source', 'cover', 'author', 'title', 'video', 'audio', 'keywords', 'likes', 'formId', 'openid', 'session_key', 'platform');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_page_template', '_thumbnail_id', 'acf', 'acf_user_settings', '_wp_attachment_image_alt', 'rule', 'allorany', 'position', 'layout', 'hide_on_screen', 'rating', 'avatar', 'views', 'source', 'cover', 'author', 'title', 'video', 'audio', 'keywords', 'likes', 'formId', 'openid', 'session_key', 'platform');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_page_template', '_thumbnail_id', 'acf', 'acf_user_settings', '_wp_attachment_image_alt', 'rule', 'allorany', 'position', 'layout', 'hide_on_screen', 'rating', 'avatar', 'views', 'source', 'cover', 'author', 'title', 'video', 'audio', 'keywords', 'likes', 'formId', 'openid', 'session_key', 'platform');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_page_template', '_thumbnail_id', 'acf', 'acf_user_settings', '_wp_attachment_image_alt', 'rule', 'allorany', 'position', 'layout', 'hide_on_screen', 'rating', 'avatar', 'views', 'source', 'cover', 'author', 'title', 'video', 'audio', 'keywords', 'likes', 'formId', 'openid', 'session_key', 'platform');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_like_comment_u_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_like_comment_u_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_like_comment_u_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_like_comment_u_%';
+

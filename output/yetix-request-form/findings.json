@@ -1,0 +1,21 @@
+{
+  "options": [
+    "yetix_request__last_token_connection_subdomain",
+    "yetix_request__version",
+    "yetix_request__activation_trigger"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yetix_request__zendesk_user_id",
+    "yetix_request__zendesk_user_oauth_token",
+    "yetix_request__zendesk_user_meta",
+    "yetix_request__zendesk_user_update",
+    "yetix_request__zendesk_user_last_login",
+    "yetix_request__wordpress_user_last_connexion",
+    "default_password_nag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:25.723Z"
+}

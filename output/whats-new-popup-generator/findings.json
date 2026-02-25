@@ -1,0 +1,23 @@
+{
+  "options": [
+    "popup_plugin_value_subject",
+    "popup_plugin_value_width",
+    "popup_plugin_value_maxwidth",
+    "popup_plugin_value_padding",
+    "popup_plugin_value_btncolor",
+    "popup_plugin_value_namecolor",
+    "popup_plugin_value_whatscolor",
+    "popup_plugin_value_title*",
+    "popup_plugin_value_link*",
+    "popup_plugin_value_tab*",
+    "popup_plugin_value_tag",
+    "popup_plugin_value_shortcode",
+    "popup_plugin_value_tab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:53.912Z"
+}

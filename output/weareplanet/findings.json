@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_tax_round_at_subtotal",
+    "wc_weareplanet_base_gateway_url",
+    "woocommerce_manage_stock",
+    "ywpo_order_status"
+  ],
+  "transients": [
+    "wc_weareplanet_payment_methods"
+  ],
+  "cron_jobs": [
+    "weareplanet_five_minutes_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "weareplanet-previous-wc-min-version",
+    "_weareplanet_subscription_space_id",
+    "_weareplanet_subscription_token_id",
+    "_weareplanet_subscription_failed_renewal"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:57.635Z"
+}

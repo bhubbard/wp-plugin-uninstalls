@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tap_hashtags",
+    "tap_usernames",
+    "tap_category",
+    "tap_user",
+    "tap_add_news_to_db",
+    "tap_exceptions",
+    "tap_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tap_hourly_update_action"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:27.554Z"
+}

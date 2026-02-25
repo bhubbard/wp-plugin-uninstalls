@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dr_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dr_disable_right_click"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:47.556Z"
+}

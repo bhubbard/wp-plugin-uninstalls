@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*-review-request",
+    "*-review-dismissed",
+    "*-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_page_generator_pro_group",
+    "_page_generator_pro_index",
+    "_wp_page_template",
+    "_page_generator_pro_settings",
+    "_page_generator_pro_last_index_generated",
+    "_page_generator_pro_status",
+    "_page_generator_pro_system",
+    "_page_generator_pro_cancel"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:34.005Z"
+}

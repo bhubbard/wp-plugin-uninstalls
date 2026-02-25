@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wapapostnag",
+    "wapacomnag",
+    "wapaloc",
+    "wapaemail",
+    "dismissed_update_core"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "update_core"
+  ],
+  "cron_jobs": [
+    "WDPet_Daily",
+    "WDPet_Weekly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:13.117Z"
+}

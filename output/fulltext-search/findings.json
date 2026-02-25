@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "wpfts_used_mt"
+  ],
+  "cron_jobs": [
+    "wpfts_indexer_event",
+    "wpfts_log_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:51.238Z"
+}

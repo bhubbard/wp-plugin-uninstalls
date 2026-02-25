@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mapgrip_height",
+    "mapgrip_width",
+    "mapgrip_user_name",
+    "mapgrip_password",
+    "mapgrip_client_id",
+    "mapgrip_title",
+    "mapgrip_subtitle",
+    "mapgrip_grant_type",
+    "mapgrip_embed_url",
+    "mapgrip_secret_token",
+    "mapgrip_api_url",
+    "mapgrip_auth_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:16.149Z"
+}

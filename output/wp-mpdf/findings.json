@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mpdf_theme",
+    "mpdf_geshi",
+    "mpdf_geshi_linenumbers",
+    "mpdf_caching",
+    "mpdf_allow_all",
+    "mpdf_need_login",
+    "mpdf_stats",
+    "mpdf_debug",
+    "mpdf_cron_user",
+    "mpdf_code_page"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mpdf_generate_pdfs_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:52.658Z"
+}

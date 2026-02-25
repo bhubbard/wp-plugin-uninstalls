@@ -1,0 +1,118 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('belingo_geo_exclude_nonobject');
+delete_site_option('belingo_geo_exclude_nonobject');
+delete_option('belingo_geo_url_type');
+delete_site_option('belingo_geo_url_type');
+delete_option('belingo_geo_sitemap_per_page');
+delete_site_option('belingo_geo_sitemap_per_page');
+delete_option('belingo_geo_basic_popup_window_header');
+delete_site_option('belingo_geo_basic_popup_window_header');
+delete_option('belingo_geo_basic_popup_window_text1');
+delete_site_option('belingo_geo_basic_popup_window_text1');
+delete_option('belingo_geo_basic_popup_window_text2');
+delete_site_option('belingo_geo_basic_popup_window_text2');
+delete_option('belingo_geo_basic_forced_slug_generation');
+delete_site_option('belingo_geo_basic_forced_slug_generation');
+delete_option('belingo_geo_basic_forced_region_slug_generation');
+delete_site_option('belingo_geo_basic_forced_region_slug_generation');
+delete_option('belingo_geo_exclude_posts');
+delete_site_option('belingo_geo_exclude_posts');
+delete_option('belingo_geo_exclude_post_types');
+delete_site_option('belingo_geo_exclude_post_types');
+delete_option('belingo_geo_exclude_pages');
+delete_site_option('belingo_geo_exclude_pages');
+delete_option('belingo_geo_exclude_terms');
+delete_site_option('belingo_geo_exclude_terms');
+delete_option('belingo_geo_exclude_tags');
+delete_site_option('belingo_geo_exclude_tags');
+delete_option('belingo_geo_exclude_taxonomies');
+delete_site_option('belingo_geo_exclude_taxonomies');
+delete_option('belingo_geo_basic_default_nonecity');
+delete_site_option('belingo_geo_basic_default_nonecity');
+delete_option('belingo_geo_basic_finding_nonecity');
+delete_site_option('belingo_geo_basic_finding_nonecity');
+delete_option('belingo_geo_disable_subdomain_redirect');
+delete_site_option('belingo_geo_disable_subdomain_redirect');
+delete_option('belingo_geo_disable_subdirectory_redirect');
+delete_site_option('belingo_geo_disable_subdirectory_redirect');
+delete_option('belingo_geo_basic_show_first_city_when_nonecity');
+delete_site_option('belingo_geo_basic_show_first_city_when_nonecity');
+delete_option('belingo_geo_exclude_posts_in_archives');
+delete_site_option('belingo_geo_exclude_posts_in_archives');
+delete_option('belingo_geo_basic_show_in_breadcrumbs');
+delete_site_option('belingo_geo_basic_show_in_breadcrumbs');
+delete_option('belingo_geo_basic_rewrite_cookie_by_url');
+delete_site_option('belingo_geo_basic_rewrite_cookie_by_url');
+delete_option('belingo_geo_basic_rewrite_cookie_by_url_on_nogeo');
+delete_site_option('belingo_geo_basic_rewrite_cookie_by_url_on_nogeo');
+delete_option('belingo_geo_basic_forced_confirmation_city');
+delete_site_option('belingo_geo_basic_forced_confirmation_city');
+delete_option('belingo_geo_basic_default_text_nonecity');
+delete_site_option('belingo_geo_basic_default_text_nonecity');
+delete_option('belingo_geo_basic_filter_links_by_url');
+delete_site_option('belingo_geo_basic_filter_links_by_url');
+delete_option('belingo_geo_basic_woo_auto_detect_city_checkout');
+delete_site_option('belingo_geo_basic_woo_auto_detect_city_checkout');
+delete_option('belingo_geo_basic_enable_search_in_popup');
+delete_site_option('belingo_geo_basic_enable_search_in_popup');
+delete_option('belingo_geo_basic_add_city_to_woo_page_title');
+delete_site_option('belingo_geo_basic_add_city_to_woo_page_title');
+delete_option('belingo_geo_basic_enable_windows_in_footer');
+delete_site_option('belingo_geo_basic_enable_windows_in_footer');
+delete_option('belingo_geo_exclude_all_posts');
+delete_site_option('belingo_geo_exclude_all_posts');
+delete_option('belingo_geo_exclude_all_pages');
+delete_site_option('belingo_geo_exclude_all_pages');
+delete_option('belingo_geo_basic_disable_url');
+delete_site_option('belingo_geo_basic_disable_url');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'city_addon_contacts' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'city_addon_contacts' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'city_addon_contacts' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'city_addon_contacts' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'city_eng' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'city_eng' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'city_eng' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'city_eng' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'city_padej1' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'city_padej1' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'city_padej1' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'city_padej1' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'city_padej2' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'city_padej2' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'city_padej2' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'city_padej2' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'city_padej3' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'city_padej3' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'city_padej3' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'city_padej3' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'city_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'city_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'city_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'city_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'city_phone_link' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'city_phone_link' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'city_phone_link' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'city_phone_link' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'city_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'city_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'city_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'city_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'bg_regions_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'bg_regions_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'bg_regions_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'bg_regions_phone' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'bg_regions_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'bg_regions_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'bg_regions_address' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'bg_regions_address' ) );
+

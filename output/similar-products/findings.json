@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ced_similar_product_shop_visibility",
+    "ced_similar_product_heading",
+    "ced_similar_product_count",
+    "ced_similar_product_css",
+    "ced_similar_product_product_page_visibility",
+    "ced_similar_product_cart_visibility"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ced_similar_product_discount",
+    "_similar_product_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:17.102Z"
+}

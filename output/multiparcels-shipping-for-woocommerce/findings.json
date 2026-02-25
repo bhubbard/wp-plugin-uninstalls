@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_calc_taxes",
+    "woocommerce_weight_unit",
+    "multiparcels_settings",
+    "multiparcels_sender_details",
+    "multiparcels_address_autocomplete",
+    "multiparcels_carrier_logos",
+    "multiparcels_checkout",
+    "multiparcels_automatic_confirmation",
+    "woocommerce_paysera_settings",
+    "multiparcels_extra_cities*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "multiparcels_update_data_cron",
+    "multiparcels_automatic_confirmation_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "multiparcels_does_not_fit",
+    "multiparcels_external_id",
+    "multiparcels_location_identifier",
+    "multiparcels_products",
+    "multiparcels_hs_code",
+    "multiparcels_location_identifier_name",
+    "multiparcels_cod"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:39.914Z"
+}

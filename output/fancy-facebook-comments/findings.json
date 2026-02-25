@@ -1,0 +1,15 @@
+{
+  "options": [
+    "heateor_ffc",
+    "heateor_ffc_version",
+    "heateor_ffc_gdpr_notification_read"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_heateor_ffc_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:21.479Z"
+}

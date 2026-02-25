@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_active_addons",
+    "*_ignore",
+    "*_notice_ignore",
+    "wponion_*",
+    "_wponion_endpoints",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:52.841Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "a11y_statement_options",
+    "a11yStatement_post_id",
+    "acf_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "accessibilityStatement_a11yEvaluationDate",
+    "accessibilityStatement_a11yAuthor",
+    "accessibilityStatement_a11yEvaluationFits",
+    "accessibilityStatement_a11yNonComplianceList",
+    "accessibilityStatement_whatAreAlternativesToNonAccessableContent",
+    "accessibilityStatement_a11yMail",
+    "accessibilityStatement_a11yPhone",
+    "accessibilityStatement_a11yOtherContacts",
+    "accessibilityStatement_a11yTime",
+    "accessibilityStatement_a11yComplaints",
+    "accessibilityStatement_a11yFirstNotify",
+    "accessibilityStatement_a11yApprovedBy",
+    "accessibilityStatement_a11yApprovedByJobtitle",
+    "accessibilityStatement_HasStatementBeenReReviewed",
+    "accessibilityStatement_a11yRepeatedNotify",
+    "accessibilityStatement_a11yAcceptDocument",
+    "accessibilityStatement_a11ySupervisoryAuthorityComplaints",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:31.929Z"
+}

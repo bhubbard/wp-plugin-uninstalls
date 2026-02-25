@@ -1,0 +1,24 @@
+{
+  "options": [
+    "disclaimer",
+    "button_color",
+    "splash_save_to_local",
+    "activatation_status",
+    "splash_script_settings",
+    "splash_hubspot_settings",
+    "splash_hubspot_feed",
+    "splash_setting_fxn",
+    "jal_db_version",
+    "*_flush",
+    "wpfm-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gate_form_textarea",
+    "gate_form_input"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:48.636Z"
+}

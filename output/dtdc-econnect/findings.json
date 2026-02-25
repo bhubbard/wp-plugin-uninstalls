@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "shipsy_auto_sync_consignments_cron_hook",
+    "shipsy_auto_update_consignment_status_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:07.584Z"
+}

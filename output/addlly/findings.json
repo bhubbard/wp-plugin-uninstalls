@@ -1,0 +1,40 @@
+{
+  "options": [
+    "addlly_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "addlly_user_id",
+    "addlly_user_plan",
+    "faqSchema",
+    "article_id",
+    "user_id",
+    "topic",
+    "keyword",
+    "aiType",
+    "geoLocation",
+    "lang",
+    "generated_topic",
+    "meta_title",
+    "meta_dec",
+    "article_status",
+    "article_data",
+    "*VersionHistory",
+    "istrainArticle",
+    "citationContent",
+    "isArchivedArticle",
+    "isDeletedArticle",
+    "addlly_user_web_link",
+    "addlly_first_name",
+    "addlly_last_name",
+    "addlly_username",
+    "addlly_user_password",
+    "reviewArticleContent",
+    "longArticleContent",
+    "is_reviewed_article"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:58.107Z"
+}

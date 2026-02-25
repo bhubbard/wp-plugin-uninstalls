@@ -1,0 +1,19 @@
+{
+  "options": [
+    "hebrewdate_date_order",
+    "hebrewdate_spelling",
+    "hebrewdate_correct_sunset",
+    "hebrewdate_latitude",
+    "hebrewdate_longitude",
+    "hebrewdate_latin_display",
+    "hebrewdate_use_quotes",
+    "hebrewdate_display_full",
+    "hebrewdate_display_thousands"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:02.557Z"
+}

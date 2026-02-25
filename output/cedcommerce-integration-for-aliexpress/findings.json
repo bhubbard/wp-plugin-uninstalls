@@ -1,0 +1,35 @@
+{
+  "options": [
+    "ced_aliexpress_shipping_carriers",
+    "ced_aliexpress_woo_connection_data",
+    "woocommerce_default_country",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "*_shipping_carriers",
+    "woocommerce_currency",
+    "ced_woo_aliexpress_connection_data"
+  ],
+  "transients": [
+    "ced-connector-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ced_connector_brand",
+    "ced_connector_ean",
+    "_trackingCompany",
+    "_trackingNumber",
+    "tracking_errors",
+    "first_name",
+    "nickname",
+    "last_name",
+    "billing_phone",
+    "shipping_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:01.562Z"
+}

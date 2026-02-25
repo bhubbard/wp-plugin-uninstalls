@@ -1,0 +1,18 @@
+{
+  "options": [
+    "points-comments_enable",
+    "points-comments",
+    "points-welcome",
+    "points-points_label",
+    "points-points_singular_label",
+    "points-points_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:04.544Z"
+}

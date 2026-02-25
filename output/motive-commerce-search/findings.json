@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "woocommerce_calc_taxes",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:39.791Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "scso_gsc_property",
+    "scso_sync_state",
+    "scso_gsc_binding",
+    "scso_gsc_account_id",
+    "scso_use_proxy",
+    "scso_oauth_client_id",
+    "scso_oauth_client_secret",
+    "scso_gsc_token",
+    "scso_gsc_account_email",
+    "scso_last_sync_time",
+    "scso_db_version",
+    "scso_activation_redirect",
+    "scso_gsc_email"
+  ],
+  "transients": [
+    "scso_sync_error",
+    "scso_sync_lock",
+    "scso_hide_dev_warning"
+  ],
+  "cron_jobs": [
+    "scso_run_sync_batch",
+    "scso_auto_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:10.095Z"
+}

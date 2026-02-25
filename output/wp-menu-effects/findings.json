@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpme_hover_effect",
+    "wpme_selected_menu",
+    "wpme_apply_to_submenus",
+    "wpme_normal_text_color",
+    "wpme_hover_text_color",
+    "wpme_normal_background_color",
+    "wpme_hover_background_color",
+    "wpme_normal_border_color",
+    "wpme_hover_border_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:40.452Z"
+}

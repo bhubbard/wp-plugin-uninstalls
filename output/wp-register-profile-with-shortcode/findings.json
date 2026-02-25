@@ -1,0 +1,42 @@
+{
+  "options": [
+    "new_user_register_mail_subject",
+    "new_user_register_mail_body",
+    "enable_subscription",
+    "default_registration_form_hooks",
+    "wprw_admin_email",
+    "wprw_from_email",
+    "wprw_success_msg",
+    "enable_cfws_newsletter_subscription",
+    "subscription_page",
+    "thank_you_page_after_registration_url",
+    "username_in_registration",
+    "password_in_registration",
+    "firstname_in_registration",
+    "firstname_in_profile",
+    "is_firstname_required",
+    "lastname_in_registration",
+    "lastname_in_profile",
+    "is_lastname_required",
+    "displayname_in_registration",
+    "displayname_in_profile",
+    "is_displayname_required",
+    "userdescription_in_registration",
+    "userdescription_in_profile",
+    "is_userdescription_required",
+    "userurl_in_registration",
+    "userurl_in_profile",
+    "is_userurl_required",
+    "captcha_in_registration",
+    "captcha_in_wordpress_default_registration",
+    "force_login_after_registration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_reg_with_wprp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:07.450Z"
+}

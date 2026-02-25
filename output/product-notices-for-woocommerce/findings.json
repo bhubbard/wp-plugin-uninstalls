@@ -1,0 +1,39 @@
+{
+  "options": [
+    "crwpcn_global_product_notice_use_display_rules",
+    "crwpcn_product_notice_display_by_categories",
+    "crwpcn_product_notice_display_by_tags",
+    "crwpcn_global_product_notice",
+    "crwpcn_product_notice_background_color",
+    "crwpcn_product_notice_custom_background_color",
+    "crwpcn_product_notice_custom_text_color",
+    "crwpcn_product_notice_custom_border_color",
+    "crwcpn_product_notice_custom_border_radius",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "crwcpn_product_notice_display_by_categories_pt",
+    "crwcpn_product_notice_display_by_tags_pt",
+    "crwcpn_hide_global_notice",
+    "crwcpn_product_notice",
+    "crwpcn_single_product_notice_background_color",
+    "crwpcn_single_product_notice_custom_background_color",
+    "crwpcn_single_product_notice_custom_text_color",
+    "crwpcn_single_product_notice_custom_border_color",
+    "crwcpn_product_notice_border_radius",
+    "crwcpn_product_notice_pt",
+    "crwcpn_enable_global_product_notice_pt",
+    "crwcpn_global_product_notice_use_display_rules_pt",
+    "crwcpn_product_notice_display_by_products_pt",
+    "crwcpn_single_product_notice_background_color_pt",
+    "crwcpn_single_product_notice_custom_background_color_pt",
+    "crwcpn_single_product_notice_custom_text_color_pt",
+    "crwcpn_single_product_notice_custom_border_color_pt",
+    "crwcpn_product_notice_border_radius_pt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:53.695Z"
+}

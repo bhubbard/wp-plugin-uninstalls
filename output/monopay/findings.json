@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_mono_gateway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ccy",
+    "_payment_amount",
+    "_payment_amount_final"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:36.532Z"
+}

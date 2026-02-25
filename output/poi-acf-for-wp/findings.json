@@ -1,0 +1,18 @@
+{
+  "options": [
+    "poi_acf_general_settings",
+    "active_sitewide_plugins",
+    "*_version",
+    "lou_acf_wc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "poi_acf_field_data-*",
+    "rule",
+    "poi_page_rule"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:06.789Z"
+}

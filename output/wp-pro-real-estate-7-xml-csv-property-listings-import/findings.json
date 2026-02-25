@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_ignore",
+    "*_notice_ignore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geolocated",
+    "_ct_slider",
+    "_ct_files",
+    "pmxi_city",
+    "pmxi_state",
+    "pmxi_country",
+    "pmxi_zip"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:07.014Z"
+}

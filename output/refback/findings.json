@@ -1,0 +1,16 @@
+{
+  "options": [
+    "webmention_support_post_types",
+    "refback_home_mentions"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "do_refbacks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "referer_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:28.720Z"
+}

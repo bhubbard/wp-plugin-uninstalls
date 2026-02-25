@@ -1,0 +1,12 @@
+{
+  "options": [
+    "urlcoma_mapper_data",
+    "urlcoma_mapper_data_backup_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:22.676Z"
+}

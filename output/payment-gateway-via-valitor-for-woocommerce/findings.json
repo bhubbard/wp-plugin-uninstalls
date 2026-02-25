@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_valitor_settings",
+    "woocommerce_tax_display_cart",
+    "woocommerce_hold_stock_minutes"
+  ],
+  "transients": [
+    "*_processing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:43.062Z"
+}

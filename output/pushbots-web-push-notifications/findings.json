@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pb_application_id",
+    "pb_application_secret",
+    "pb_website_url",
+    "pb_safari_push_id",
+    "pb_enable_welcome_message",
+    "pb_welcome_title",
+    "pb_welcome_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:26.514Z"
+}

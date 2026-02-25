@@ -1,0 +1,16 @@
+{
+  "options": [
+    "iThoughtsTooltipGlossary"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ithoughts_tt_gl_term_used",
+    "ithoughts_tt_gl_reference",
+    "ithoughts_tt_gl_update_term_usage",
+    "ithoughts_tt_gl_has_terms"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:22.139Z"
+}

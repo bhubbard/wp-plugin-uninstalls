@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "first_name",
+    "last_name",
+    "billing_address_1",
+    "billing_city",
+    "billing_postcode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:35.581Z"
+}

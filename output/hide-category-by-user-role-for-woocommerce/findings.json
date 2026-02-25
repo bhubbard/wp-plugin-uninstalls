@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tswchc_rules",
+    "tswchc_redirect_url",
+    "tswchc_redirect_mode",
+    "tswchc_display_custom_message",
+    "tswchc_message_wrapper",
+    "tswchc_message_styles",
+    "tswchc_settings",
+    "tswchc_version"
+  ],
+  "transients": [
+    "wc_term_counts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:15.408Z"
+}

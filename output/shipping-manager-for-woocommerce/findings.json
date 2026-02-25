@@ -1,0 +1,31 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "wcsm_parent_country",
+    "cities_data",
+    "checkout_cities_label",
+    "wcsm_disabled_shipping",
+    "wcsm_disabled_billing",
+    "wcsm_cities_status",
+    "wcsm_cities_text",
+    "wcsm_cities_zones"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:06.177Z"
+}

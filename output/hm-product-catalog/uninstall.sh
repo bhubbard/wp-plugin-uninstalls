@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wphpc_general_settings'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_sku'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_sku'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_sku'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_sku'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_regular_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_sale_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_sale_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_sale_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_sale_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_weight'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_weight'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_weight'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_weight'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_stock_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_stock_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_stock_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_stock_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_product_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_product_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_product_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_product_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_product_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_product_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_product_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_product_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wphpc_short_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wphpc_short_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wphpc_short_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wphpc_short_description'"

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "acwp_skiplinks",
+    "acwp_skiplinks_body_open",
+    "acwp_skiplinks_turnsides",
+    "acwp_skiplinks_noanimation",
+    "acwp_skiplinks_noshadows",
+    "acwp_skiplinks_header_label",
+    "acwp_skiplinks_header_id",
+    "acwp_skiplinks_footer_label",
+    "acwp_skiplinks_footer_id",
+    "acwp_skiplinks_content_label",
+    "acwp_skiplinks_content_id",
+    "acwp_skiplinks_bg",
+    "acwp_skiplinks_txt",
+    "acwp_skiplinks_nometa"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acwp_skiplinks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:38.877Z"
+}

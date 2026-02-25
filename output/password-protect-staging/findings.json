@@ -1,0 +1,11 @@
+{
+  "options": [
+    "password_protect_staging_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:01.914Z"
+}

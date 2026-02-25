@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edel_exhibition_data",
+    "_edel_museum_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:22.875Z"
+}

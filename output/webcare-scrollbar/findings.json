@@ -1,0 +1,15 @@
+{
+  "options": [
+    "width",
+    "color",
+    "border",
+    "speed",
+    "radious"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:47.506Z"
+}

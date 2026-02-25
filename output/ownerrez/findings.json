@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ownerrez_apiRoot",
+    "ownerrez_username",
+    "ownerrez_token",
+    "ownerrez_externalSiteName",
+    "ownerrez_webhookToken",
+    "ownerrez_externalSiteId",
+    "ownerrez_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:58.910Z"
+}

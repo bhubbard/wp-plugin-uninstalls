@@ -1,0 +1,12 @@
+{
+  "options": [
+    "gvjcl_custom_css",
+    "gvjcl_content_separ"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:04.532Z"
+}

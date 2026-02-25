@@ -1,0 +1,16 @@
+{
+  "options": [
+    "page_dpago_response",
+    "page_pagodigital_response"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "commerce_reference",
+    "transactionid",
+    "_order_currency"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:27.514Z"
+}

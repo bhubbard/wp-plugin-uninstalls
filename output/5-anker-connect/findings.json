@@ -1,0 +1,24 @@
+{
+  "options": [
+    "last_boat_import",
+    "last_boat_import_page",
+    "last_basement_import",
+    "last_basement_import_page",
+    "connect_options",
+    "connect_options_tools"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "anker_connect_schedule_hook_boats",
+    "anker_connect_schedule_hook_basements"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "com5anker_mm",
+    "com5anker_id",
+    "com5anker_region",
+    "com5anker_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:02.450Z"
+}

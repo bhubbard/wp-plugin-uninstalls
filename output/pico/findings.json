@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "pico_publisher_id",
+    "pico_api_key ",
+    "pico_api_key",
+    "pico_widget_version",
+    "pico_gadget_version"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:52.187Z"
+}

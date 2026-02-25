@@ -1,0 +1,25 @@
+{
+  "options": [
+    "bfb_license_key",
+    "bfb_license_key_optimize",
+    "bfb_access_db_version",
+    "bfb_click_db_version",
+    "bfb_optimize_db_version",
+    "bfb_retention_period"
+  ],
+  "transients": [
+    "bfb_license_key_check_cache",
+    "bfb_license_key_optimize_cache"
+  ],
+  "cron_jobs": [
+    "bfb_cleanup_logs_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bfb_use_post",
+    "bfb_designType_*",
+    "bfb_optId_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:33.331Z"
+}

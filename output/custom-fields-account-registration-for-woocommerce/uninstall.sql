@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_default_country', 'cfafwr_meta_box_error');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('custom_field_checkbox', 'custom_register_field_type', 'billing_country', 'custom_field_label', 'custom_field_slug_name', 'custom_field_required', 'custom_field_size', 'custom_field_option_value', 'custom_field_option_label', 'custom_field_placeholder', 'cfafwr_custom_html', 'cfafwr_add_custom_class', 'cfafwr_field_ajax_id', 'shipping_country');
+DELETE FROM wp_usermeta WHERE meta_key IN ('custom_field_checkbox', 'custom_register_field_type', 'billing_country', 'custom_field_label', 'custom_field_slug_name', 'custom_field_required', 'custom_field_size', 'custom_field_option_value', 'custom_field_option_label', 'custom_field_placeholder', 'cfafwr_custom_html', 'cfafwr_add_custom_class', 'cfafwr_field_ajax_id', 'shipping_country');
+DELETE FROM wp_termmeta WHERE meta_key IN ('custom_field_checkbox', 'custom_register_field_type', 'billing_country', 'custom_field_label', 'custom_field_slug_name', 'custom_field_required', 'custom_field_size', 'custom_field_option_value', 'custom_field_option_label', 'custom_field_placeholder', 'cfafwr_custom_html', 'cfafwr_add_custom_class', 'cfafwr_field_ajax_id', 'shipping_country');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('custom_field_checkbox', 'custom_register_field_type', 'billing_country', 'custom_field_label', 'custom_field_slug_name', 'custom_field_required', 'custom_field_size', 'custom_field_option_value', 'custom_field_option_label', 'custom_field_placeholder', 'cfafwr_custom_html', 'cfafwr_add_custom_class', 'cfafwr_field_ajax_id', 'shipping_country');
+

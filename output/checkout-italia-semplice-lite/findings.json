@@ -1,0 +1,38 @@
+{
+  "options": [
+    "cisl_trust_badges_enabled",
+    "cisl_badges_title",
+    "cisl_badge_cards",
+    "cisl_badge_paypal",
+    "cisl_badge_ssl",
+    "cisl_badge_guarantee",
+    "*privacy_policy_url",
+    "*terms_conditions_url",
+    "*skip_cart_enabled",
+    "*trust_badges_enabled",
+    "*badges_title",
+    "woocommerce_checkout_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_enable_guest_checkout",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "*admin_notice",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:51.066Z"
+}

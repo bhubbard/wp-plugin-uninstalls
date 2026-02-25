@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ccc_option_api",
+    "ccc_option_widget_title",
+    "ccc_option_theme",
+    "ccc_option_custom_color",
+    "ccc_option_amount_label",
+    "ccc_option_from_label",
+    "ccc_option_to_label",
+    "ccc_option_result_label",
+    "ccc_option_default_from",
+    "ccc_option_default_to",
+    "ccc_options_widget_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:01.580Z"
+}

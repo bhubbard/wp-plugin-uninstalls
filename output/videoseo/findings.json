@@ -1,0 +1,15 @@
+{
+  "options": [
+    "videoseowtf",
+    "videoseo_last_generate_time",
+    "videoseo_last_ping_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "my_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:47.345Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_site_transient_update_plugins"
+  ],
+  "transients": [
+    "update_core"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:15.309Z"
+}

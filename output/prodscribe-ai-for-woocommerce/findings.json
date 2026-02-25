@@ -1,0 +1,16 @@
+{
+  "options": [
+    "prodscribe_ai_provider",
+    "prodscribe_ai_api_key",
+    "prodscribe_ai_model",
+    "prodscribe_ai_include_image",
+    "prodscribe_ai_max_tokens",
+    "prodscribe_ai_trial_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:37.898Z"
+}

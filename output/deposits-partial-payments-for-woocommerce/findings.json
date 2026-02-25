@@ -1,0 +1,35 @@
+{
+  "options": [
+    "awcdp_general_settings",
+    "awcdp_advanced_settings",
+    "woocommerce_prices_include_tax",
+    "awcdp_text_settings",
+    "active_sitewide_plugins",
+    "*_version",
+    "awdp_fee_label",
+    "woocommerce_checkout_pay_endpoint",
+    "woocommerce_checkout_order_received_endpoint",
+    "woocommerce_checkout_order_pay_endpoint",
+    "woocommerce_allow_bulk_remove_personal_data",
+    "woocommerce_tax_display_cart",
+    "awcdp_pys_pending_events"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "awcdp_pys_deferred_tracking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "deposit_percentage",
+    "payment_details",
+    "first_name",
+    "_awcdp_pys_purchase_tracked",
+    "_awcdp_deposits_order_has_deposit",
+    "awcdp_deposits_balance_amount",
+    "_awcdp_pys_full_payment_tracked",
+    "_awcdp_deposits_deposit_amount",
+    "_awcdp_deposits_payment_plan"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:53.971Z"
+}

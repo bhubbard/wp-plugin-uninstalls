@@ -1,0 +1,16 @@
+{
+  "options": [
+    "emwa_roles",
+    "emwaAdminbar",
+    "emwa_settings",
+    "emwa_role_string",
+    "emwaHelp",
+    "emwa_roles_cap_added"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:20.895Z"
+}

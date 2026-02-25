@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "_alt_text_needs_review"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:28.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awspn_show_on_order_and_email",
+    "awspn_product_price_note_separator",
+    "awspn_product_price_note",
+    "awspn_excl_price_on_order_and_email",
+    "awspn_excl_sep_on_order_and_email",
+    "awspn_product_price_note_oe_label",
+    "awspn_product_price_note_oe_texts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:52.782Z"
+}

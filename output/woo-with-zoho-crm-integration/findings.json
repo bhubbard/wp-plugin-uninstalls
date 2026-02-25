@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpzohocrm_status",
+    "wpzohocrm_auth_key",
+    "sync_number"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "LEADID",
+    "CONTACTID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:27.155Z"
+}

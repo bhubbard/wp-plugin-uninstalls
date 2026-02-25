@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wgtitle",
+    "srvLink",
+    "serveraddress",
+    "port",
+    "dspname",
+    "srvLink1",
+    "serveraddress1",
+    "port1",
+    "dspname1",
+    "dspstyle",
+    "wpsrvstatus_widget",
+    "srvstatus_options",
+    "srvstatus_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:52.175Z"
+}

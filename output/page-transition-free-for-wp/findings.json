@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wppatr-links",
+    "wppatr-not-links",
+    "wppatr-page-selector",
+    "wppatr-remove-scroll-bar",
+    "wppatr-page",
+    "wppatr-overlay",
+    "wppatr-loader",
+    "wppatr-active-transitions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:43.793Z"
+}

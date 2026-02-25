@@ -1,0 +1,14 @@
+{
+  "options": [
+    "scheduled_unsticky_days",
+    "scheduled_unsticky_cron"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "scheduled_unsticky_posts"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:06.252Z"
+}

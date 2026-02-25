@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tpcl_phone_option",
+    "tpcl_support_option",
+    "tpcl_plugin_do_activation_redirect",
+    "tpcl_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:35.395Z"
+}

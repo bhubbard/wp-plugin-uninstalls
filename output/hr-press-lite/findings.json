@@ -1,0 +1,30 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "hrp_holiday_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "middle_name",
+    "last_name",
+    "father_name",
+    "mother_name",
+    "spouse_name",
+    "marital_status",
+    "driving_license",
+    "blood_group",
+    "nationality",
+    "gender",
+    "address_1",
+    "address_2",
+    "city",
+    "country",
+    "state",
+    "zip_code",
+    "bio"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:15.302Z"
+}

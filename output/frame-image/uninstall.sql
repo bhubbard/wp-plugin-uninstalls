@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('PF_SETTINGS_OK', 'PF_SETTINGS_CADRE', 'PF_SETTINGS_PADDING', 'PF_SETTINGS_BORDER_COLOR', 'PF_SETTINGS_BORDER_WIDTH', 'PF_SETTINGS_BORDER_TYPE');
+

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mlockdown_status",
+    "mlock_basic_auth",
+    "mlockdown_rest_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:17.527Z"
+}

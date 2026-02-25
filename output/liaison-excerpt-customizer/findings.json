@@ -1,0 +1,13 @@
+{
+  "options": [
+    "excerpt_stuff_active",
+    "excerpt_stuff_excerpt_text",
+    "excerpt_stuff_excerpt_padding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:38.866Z"
+}

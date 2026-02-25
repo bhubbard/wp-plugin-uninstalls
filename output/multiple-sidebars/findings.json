@@ -1,0 +1,19 @@
+{
+  "options": [
+    "MultipleSidebars*",
+    "MultipleSidebars_taxonomy_sidebars_*",
+    "MultipleSidebarsHome",
+    "MultipleSidebarsSearch",
+    "MultipleSidebarsPostDefault",
+    "MultipleSidebarsPageDefault",
+    "MultipleSidebarsCategoryDefault"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "MultipleSidebars"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:02.458Z"
+}

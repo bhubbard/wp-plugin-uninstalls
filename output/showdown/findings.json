@@ -1,0 +1,17 @@
+{
+  "options": [
+    "WPShowdownOptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "points",
+    "lastIP",
+    "shown",
+    "link",
+    "won"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:59.720Z"
+}

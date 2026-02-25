@@ -1,0 +1,20 @@
+{
+  "options": [
+    "duoup_client_id",
+    "duoup_client_secret",
+    "duoup_api_host",
+    "duoup_roles",
+    "duoup_failmode",
+    "duoup_xmlrpc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "duo_auth_status",
+    "duo_auth_redirect_url",
+    "duo_auth_oidc_state"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:36.115Z"
+}

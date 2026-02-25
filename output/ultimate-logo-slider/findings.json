@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ata_logo_carousel_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ata_logo_id",
+    "ata_logo_link",
+    "ata_logo_tooltip",
+    "ata_logo_target",
+    "ata_logo_carousel_style",
+    "ata_logo_carousel_slider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:31.038Z"
+}

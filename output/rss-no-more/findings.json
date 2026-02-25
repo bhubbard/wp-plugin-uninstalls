@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rss-no-more-on",
+    "rss-no-more-em",
+    "rss-no-more-link",
+    "rss-no-more-footer",
+    "rss-no-more-hr",
+    "rss-no-more-style",
+    "rss-no-more-tracking",
+    "rss-no-more-utm-source",
+    "rss-no-more-utm-campaign",
+    "rss-no-more-utm-medium"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:09.151Z"
+}

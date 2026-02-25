@@ -1,0 +1,14 @@
+{
+  "options": [
+    "newsletter_integration_for_mailman3_options",
+    "newsletter_integration_for_mailman3_captchasecret",
+    "newsletter_integration_for_mailman3_captchasitekey",
+    "newsletter_integration_for_mailman3_mailman_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:17.600Z"
+}

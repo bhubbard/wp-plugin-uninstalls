@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_record_ip_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_record_user_ip"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:31.691Z"
+}

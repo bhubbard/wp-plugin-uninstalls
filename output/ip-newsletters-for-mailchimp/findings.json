@@ -1,0 +1,33 @@
+{
+  "options": [
+    "ipmcn_api_key",
+    "ipmcn_api_url",
+    "ipmcn_from_name",
+    "ipmcn_from_email",
+    "ipmcn_reply_to",
+    "ipmcn_logging",
+    "mc_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mc_deployment_date",
+    "mc_hh",
+    "mc_mm",
+    "mc_ampm",
+    "test_recipient",
+    "message_id",
+    "campaign_id",
+    "web_id",
+    "ipmcn_deployment_date",
+    "mailing_subject",
+    "mailing_sent",
+    "duplicated_flag",
+    "TrackId",
+    "mailing_id",
+    "acfetch_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:34.707Z"
+}

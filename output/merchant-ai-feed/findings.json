@@ -1,0 +1,12 @@
+{
+  "options": [
+    "merchant_ai_active_status",
+    "merchant_ai_auto_sync_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:25.122Z"
+}

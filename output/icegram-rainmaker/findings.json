@@ -1,0 +1,43 @@
+{
+  "options": [
+    "rm_sample_data_imported",
+    "_icegram_rm_activation_redirect",
+    "*_icegram",
+    "ig_forms_imported",
+    "rainmaker_sample_form_imported",
+    "active_sitewide_plugins",
+    "*_tracker_activated",
+    "*_installed_on",
+    "*_tracking_last_send",
+    "*_api",
+    "*_client_id",
+    "campaignmonitor_api",
+    "campaignmonitor_client_id",
+    "campaignmonitor_lists",
+    "ig_es_optintype",
+    "hubspot_api",
+    "hubspot_lists",
+    "mailchimp_api",
+    "mailchimp_double_optin",
+    "mailchimp_lists",
+    "rm_offer_bfcm_2025_icegram"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_send_tracking_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "rm_form_settings",
+    "email",
+    "name",
+    "rm_form_id",
+    "rm_raw_data",
+    "icegram_message_data",
+    "*_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:23.065Z"
+}

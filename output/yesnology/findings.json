@@ -1,0 +1,22 @@
+{
+  "options": [
+    "yesnology_secretkey",
+    "yesnology_username",
+    "yesnology_password",
+    "yesnology_tenatId",
+    "yesnology_companyId",
+    "yesnology_clientId",
+    "yesnology_secretKey",
+    "yesnology_companySelect",
+    "yesnology_bodyColor",
+    "yesnology_textColor",
+    "yesnology_buttonPosition",
+    "yesnology_submit_confirm"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:29.642Z"
+}

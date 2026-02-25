@@ -1,0 +1,20 @@
+{
+  "options": [
+    "m2a_after_post",
+    "m2a_allow_visitor",
+    "m2a_layout",
+    "m2a_style",
+    "m2a_labels",
+    "m2a_captcha_flag",
+    "m2a_captcha_conf",
+    "m2a_mail_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "message"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:03.476Z"
+}

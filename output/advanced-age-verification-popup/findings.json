@@ -1,0 +1,17 @@
+{
+  "options": [
+    "avp_cookie_duration",
+    "avp_redirect_url",
+    "avp_logo",
+    "avp_title",
+    "avp_enter_text",
+    "avp_exit_text",
+    "avp_verification_method"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:01.442Z"
+}

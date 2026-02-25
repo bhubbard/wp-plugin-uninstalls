@@ -1,0 +1,14 @@
+{
+  "options": [
+    "autentify_auto_order_check",
+    "autentify_api_token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_async_autentify_autenti_mail_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:23.746Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "spinitron_player_options"
+  ],
+  "transients": [
+    "spinitron_show_today"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:37.427Z"
+}

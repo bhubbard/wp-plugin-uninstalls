@@ -1,0 +1,27 @@
+{
+  "options": [
+    "dwps_view_per_page",
+    "dwps_disable_default_styles",
+    "dwps_tab_title",
+    "dwps_wc_default_specs",
+    "dwps_options"
+  ],
+  "transients": [
+    "dwspecs_data_migrating"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "attr_type",
+    "attr_default",
+    "attr_values",
+    "attr_group",
+    "attributes",
+    "_groups",
+    "old_id",
+    "_dwps_table",
+    "_dwps_specification_table"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:01.438Z"
+}

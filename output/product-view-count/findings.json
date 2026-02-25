@@ -1,0 +1,32 @@
+{
+  "options": [
+    "product-view-count_version",
+    "product-view-count_install_time",
+    "pvc_db_version",
+    "woocommerce_version",
+    "pvc_plugin_version",
+    "_site_transient_update_plugins",
+    "codexpert-blog-json"
+  ],
+  "transients": [
+    "pvc_migration_notice",
+    "cx-plugin-info-*",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "pvc_weekly_report",
+    "pvc_monthly_report",
+    "codexpert-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "product_view_count",
+    "_pvc_show_hide",
+    "_pvc_count_type",
+    "_pvc_select_type",
+    "_pvc_min_number",
+    "_pvc_max_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:41.838Z"
+}

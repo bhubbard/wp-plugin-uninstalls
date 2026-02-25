@@ -1,0 +1,17 @@
+{
+  "options": [
+    "affiliate-post-types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "url",
+    "match_case",
+    "boundary",
+    "nofollow",
+    "enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:28.976Z"
+}

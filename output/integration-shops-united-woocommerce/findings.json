@@ -1,0 +1,33 @@
+{
+  "options": [
+    "woocommerce_parcelpro_shipping_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_parcelpro_shipping_types_updated",
+    "woocommerce_parcelpro_shipping_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_parcelpro_status",
+    "_parcelpro_id",
+    "_parcelpro_track_url",
+    "_parcelpro_package",
+    "_shipping_address_1",
+    "_shipping_address_2",
+    "_shipping_company",
+    "_shipping_first_name",
+    "_shipping_last_name",
+    "_shipping_city",
+    "_shipping_postcode",
+    "_shipping_country",
+    "_shipping_email",
+    "_shipping_phone",
+    "_parcelpro_label",
+    "_parcelpro_track",
+    "_parcelpro_track_vervoerder"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:45.411Z"
+}

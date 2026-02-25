@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mdbg_mirror",
+    "mdbg_function",
+    "mdbg_simptrad",
+    "mdbg_autolink_the_content",
+    "mdbg_autolink_the_excerpt",
+    "mdbg_autolink_comment_text",
+    "mdbg_tag_hanzi",
+    "mdbg_tag_pinyin",
+    "mdbg_pinyin_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:07.786Z"
+}

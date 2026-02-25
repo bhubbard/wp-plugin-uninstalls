@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wpbel-version",
+    "wpbe_update_table_log",
+    "it_black_friday_banner_dismissed",
+    "wpbe_active_post_type",
+    "*_background_process_error",
+    "*_background_process_process_lock",
+    "*_background_process_try_again",
+    "itbbc_scheduler_version",
+    "wpbel_some_setting",
+    "wpbel_usage_track",
+    "*_email_subscription_sent",
+    "ithemeland_activation_email",
+    "wpbel_onboarding",
+    "wpbel_opt_in",
+    "wpbe_active_count_undo"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:05.239Z"
+}

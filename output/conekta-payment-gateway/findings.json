@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_force_ssl_checkout",
+    "woocommerce_conekta_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "conekta-order-id",
+    "conekta-clabe",
+    "meses-sin-intereses",
+    "transaction_id",
+    "_payment_method",
+    "conekta-referencia",
+    "conekta-paid-at",
+    "conekta-id",
+    "conekta-creado",
+    "conekta-expira",
+    "conekta-reference",
+    "conekta-redirect-url",
+    "conekta-deep-link",
+    "locale"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:35.976Z"
+}

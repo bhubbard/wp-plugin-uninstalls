@@ -1,0 +1,15 @@
+{
+  "options": [
+    "fbp",
+    "fbm",
+    "line",
+    "phone",
+    "mail"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:33.255Z"
+}

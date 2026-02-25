@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_first_install",
+    "*_sidebar_options",
+    "*_ads_box_off",
+    "*_donation_box_off",
+    "*_report_box_off"
+  ],
+  "transients": [
+    "wordquest_plugin_info",
+    "update_plugins",
+    "wordquest_guides_feed",
+    "wordquest_quest_feed",
+    "pluginreview_newest_feed",
+    "prn_feed",
+    "pluginreview_updated_feed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:09.833Z"
+}

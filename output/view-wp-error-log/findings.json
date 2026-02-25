@@ -1,0 +1,14 @@
+{
+  "options": [
+    "view_wp_error_log_no_lines",
+    "view_wp_error_log_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "view_wp_error_log_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:30.576Z"
+}

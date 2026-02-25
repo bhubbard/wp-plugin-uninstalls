@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aigwl_shortcode_name",
+    "_wp_attachment_image_alt",
+    "aigwl_display_layout",
+    "aigwl_image_hover_effect",
+    "aigwl_gallery",
+    "aigwl_enable_effects"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:17.060Z"
+}

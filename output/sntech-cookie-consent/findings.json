@@ -1,0 +1,24 @@
+{
+  "options": [
+    "sntc_banner_enabled",
+    "sntc_banner_style",
+    "sntc_banner_message",
+    "sntc_bg_color",
+    "sntc_text_color",
+    "sntc_link_color",
+    "sntc_accept_bg",
+    "sntc_accept_text",
+    "sntc_decline_bg",
+    "sntc_decline_text",
+    "sntc_privacy_url",
+    "sntc_install_time",
+    "sntc_review_dismissed",
+    "sntc_review_temp_dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:01.910Z"
+}

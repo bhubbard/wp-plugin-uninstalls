@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pcpl_welcome",
+    "pcpl_follow_config",
+    "pcpl_follow_enabled"
+  ],
+  "transients": [
+    "pcpl_activation_redirect_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:34.037Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mapbox_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:48.696Z"
+}

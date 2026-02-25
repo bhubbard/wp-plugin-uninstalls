@@ -1,0 +1,16 @@
+{
+  "options": [
+    "searchenginesnitch_email",
+    "searchenginesnitch_frequency"
+  ],
+  "transients": [
+    "searchenginesnitch_activation_notice"
+  ],
+  "cron_jobs": [
+    "searchenginesnitch_visibility_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:38.339Z"
+}

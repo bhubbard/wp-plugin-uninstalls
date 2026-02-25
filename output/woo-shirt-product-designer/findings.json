@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "designer_variation_front",
+    "designer_variation_back",
+    "designer_variation_color",
+    "designer_variation_prices",
+    "designer_allow_graphics",
+    "designer_addon_images",
+    "designer_addon_prices",
+    "designer_allow_text",
+    "designer_allow_custom_upload",
+    "designer_base_price",
+    "designer_text_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:11.026Z"
+}

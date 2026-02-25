@@ -1,0 +1,16 @@
+{
+  "options": [
+    "furikake_mode",
+    "furikake_yahoo_app_id",
+    "furikake_dictionary",
+    "furikake_grade",
+    "furikake_cache",
+    "furikake_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:00.179Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "quiqup_connector_activation_redirect",
+    "quiqup_connector_api_token",
+    "quiqup_enable_national_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_national_address",
+    "billing_national_address"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:10.422Z"
+}

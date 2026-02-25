@@ -1,0 +1,132 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'analytify_profile_exception'
+wp option delete 'analytify_ga4_exceptions'
+wp option delete 'analytify_tracking_property_info'
+wp option delete 'wpanalytify_settings'
+wp option delete 'wp-analytify-email'
+wp option delete 'analytics_file_aliases'
+wp option delete 'analytify_logs_setup'
+wp option delete 'analytify_date_differ'
+wp option delete 'pa_google_token'
+wp option delete 'analytify_search_console_data'
+wp option delete 'wp_analytify_modules'
+wp option delete 'wp-analytify-profile'
+wp option delete 'analytify_current_version'
+wp option delete 'analytify_gtag_move_to_notice'
+wp option delete 'analytify-ga4-streams'
+wp option delete 'wp-analytify-advanced'
+wp option delete 'pt_webprofile'
+wp option delete 'pt_webprofile_dashboard'
+wp option delete 'analytify_code'
+wp option delete 'display_tracking_code'
+wp option delete 'post_analytics_disable_back'
+wp option delete 'post_analytics_access_back'
+wp option delete 'analytify_posts_stats'
+wp option delete 'post_analytics_settings_back'
+wp option delete 'post_analytics_exclude_posts_back'
+wp option delete 'wp-analytify-admin'
+wp option delete 'post_analytics_exclude_posts'
+wp option delete 'post_analytics_exclude_categories'
+wp option delete 'post_analytics_exclude_tags'
+wp option delete 'post_analytics_exclude_custom_post_types'
+wp option delete 'post_analytics_exclude_roles'
+wp option delete 'post_analytics_exclude_ips'
+wp option delete 'post_analytics_exclude_domains'
+wp option delete 'post_analytics_exclude_terms'
+wp option delete 'post_analytics_exclude_author'
+wp option delete 'post_analytics_exclude_date'
+wp option delete 'post_analytics_exclude_meta'
+wp option delete 'post_analytics_exclude_taxonomies'
+wp option delete 'post_analytics_exclude_roles_back'
+wp option delete 'post_analytics_exclude_ips_back'
+wp option delete 'post_analytics_exclude_domains_back'
+wp option delete 'post_analytics_exclude_terms_back'
+wp option delete 'post_analytics_exclude_author_back'
+wp option delete 'post_analytics_exclude_date_back'
+wp option delete 'post_analytics_exclude_meta_back'
+wp option delete 'post_analytics_exclude_taxonomies_back'
+wp option delete 'wp-analytify-dashboard'
+wp option delete 'analytify_free_upgrade_routine'
+wp option delete 'analytify_ga4_mode'
+wp option delete 'analytify_show_rank_math_notice'
+wp option delete 'rank_math_google_analytic_options'
+wp option delete 'analytify_admin_footer_text_rated'
+wp option delete 'analytify_authentication_date'
+wp option delete 'analytify_dismiss_pointer'
+wp option delete 'analytify_remove_comparison_gif'
+wp option delete 'analytify_deactivation_reason'
+wp option delete 'analytify_deactivation_feedback'
+wp option delete 'wpb_sdk_wp-analytify'
+wp option delete '_analytify_optin'
+wp option delete 'wp-analytify-events-tracking'
+wp option delete 'wp-analytify-custom-dimensions'
+wp option delete 'wp-analytify-forms'
+wp option delete 'post_analytics_token'
+wp option delete 'analytify_token_refresh_failed_email_sent'
+wp option delete 'wpa_current_version'
+wp option delete 'analytify_mp_secrets'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'wpb_sdk_%'"
+wp option delete 'access_role_dashboard'
+wp option delete 'dashboard_panels'
+wp option delete 'profiles_list_summary'
+wp option delete 'analytify-ga-properties-summery'
+wp option delete 'analytify_reporting_property_info'
+wp option delete 'analytify_ua_code'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_property_info'"
+wp option delete 'wp-analytify-modules'
+wp option delete 'wp_analytify_pro_addons'
+wp option delete 'analytify_default_settings'
+wp option delete 'analytify_active_date'
+wp option delete 'show_welcome_page'
+wp option delete 'profiles_list_summary_backup'
+wp option delete 'ga4_update_number'
+wp option delete 'ua_update_number'
+wp option delete 'WP_ANALYTIFY_PLUGIN_VERSION'
+wp option delete 'wp_analytify_review_dismiss_4_1_8'
+wp option delete 'wp_analytify_active_time'
+wp option delete 'wp_analytify_buy_pro_active_time'
+wp option delete 'wp_analytify_buy_pro_notice'
+wp option delete 'show_tracking_pointer_1'
+wp option delete 'wpb_api_cache'
+wp option delete 'WP_ANALYTIFY_NEW_LOGIN'
+wp option delete 'WP_ANALYTIFY_PLUGIN_VERSION_OLD'
+wp option delete 'pt_webprofile_url'
+wp option delete 'hide_profiles'
+wp option delete 'analytify_ga4_exception'
+wp option delete 'analytify_ga_properties_list'
+wp option delete 'wp-analytify-mode'
+wp option delete 'analytify-deprecated-auth'
+
+# Delete Transients
+wp transient delete 'analytify_quota_exception'
+wp transient delete 'profiles_list'
+wp transient delete 'analytify_token_request_error_logged'
+wp transient delete 'analytify_token_error_logged'
+wp transient delete 'analytify_token_response_error_logged'
+wp transient delete 'analytify_token_exception_error_logged'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%_dismissed' OR option_name LIKE '_site_transient_%_dismissed'"
+wp transient delete 'analytify_api_addons'
+wp transient delete 'update_plugins'
+wp transient delete 'update_themes'
+
+# Clear Cron Jobs
+wp cron event delete 'analytify_email_cron_function'
+wp cron event delete 'analytify_cleanup_logs'
+wp cron event delete 'analytify_analytics_lib_cron'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_analytify_skip_tracking'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_analytify_skip_tracking'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_analytify_skip_tracking'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_analytify_skip_tracking'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_analytify_log_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_analytify_log_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_analytify_log_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_analytify_log_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_analytify_exclude_from_analytics'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_analytify_exclude_from_analytics'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_analytify_exclude_from_analytics'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_analytify_exclude_from_analytics'"

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('options_for_disable_dev_auto_core_updates', 'options_for_disable_minor_auto_core_updates', 'options_for_disable_major_auto_core_updates', 'options_for_disable_translation_files_updates', 'options_for_disable_update_notification_emails', 'admin_tools_hidden', 'admin_user_hidden', 'admin_login_logo', 'menus_only_to', 'plugins_only_to', 'menu_items_list_to_hide', 'submenu_items_list_to_hide', 'plugin_items_list_to_hide', 'top_bar_only_to', 'hide_top_bar', 'admin_small_logo', 'options_for_top_bar_menus', 'add_site_menu', 'admin_notices_only_to', 'options_for_disable_update_admin_tools_plugin', 'options_for_disable_and_hide_wordpress_updates', 'options_for_disable_and_hide_plugins_updates', 'options_for_disable_and_hide_themes_updates', 'options_for_plugin_AdminTools');
+

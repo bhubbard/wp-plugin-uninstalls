@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('asgarosforum_appearance', 'asgarosforum_db_version', 'asgarosforum_guests_timestamps', 'rewrite_rules', 'asgarosforum_options');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('asgarosforum_signature', 'asgarosforum_mention_notify', 'category_access', 'order', '_views_template', 'asgarosforum_moderator', 'asgarosforum_banned', 'asgarosforum_subscription_topic', 'asgarosforum_subscription_forum', 'asgarosforum_subscription_global_posts', 'asgarosforum_subscription_global_topics', 'asgarosforum_online', 'asgarosforum_online_timestamp', 'asgarosforum_role', 'asgarosforum_unread_cleared', 'asgarosforum_unread_exclude', 'usergroups', 'usergroup-color', 'usergroup-visibility', 'usergroup-auto-add', 'usergroup-icon', 'asgarosforum_lastvisit');
+DELETE FROM wp_usermeta WHERE meta_key IN ('asgarosforum_signature', 'asgarosforum_mention_notify', 'category_access', 'order', '_views_template', 'asgarosforum_moderator', 'asgarosforum_banned', 'asgarosforum_subscription_topic', 'asgarosforum_subscription_forum', 'asgarosforum_subscription_global_posts', 'asgarosforum_subscription_global_topics', 'asgarosforum_online', 'asgarosforum_online_timestamp', 'asgarosforum_role', 'asgarosforum_unread_cleared', 'asgarosforum_unread_exclude', 'usergroups', 'usergroup-color', 'usergroup-visibility', 'usergroup-auto-add', 'usergroup-icon', 'asgarosforum_lastvisit');
+DELETE FROM wp_termmeta WHERE meta_key IN ('asgarosforum_signature', 'asgarosforum_mention_notify', 'category_access', 'order', '_views_template', 'asgarosforum_moderator', 'asgarosforum_banned', 'asgarosforum_subscription_topic', 'asgarosforum_subscription_forum', 'asgarosforum_subscription_global_posts', 'asgarosforum_subscription_global_topics', 'asgarosforum_online', 'asgarosforum_online_timestamp', 'asgarosforum_role', 'asgarosforum_unread_cleared', 'asgarosforum_unread_exclude', 'usergroups', 'usergroup-color', 'usergroup-visibility', 'usergroup-auto-add', 'usergroup-icon', 'asgarosforum_lastvisit');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('asgarosforum_signature', 'asgarosforum_mention_notify', 'category_access', 'order', '_views_template', 'asgarosforum_moderator', 'asgarosforum_banned', 'asgarosforum_subscription_topic', 'asgarosforum_subscription_forum', 'asgarosforum_subscription_global_posts', 'asgarosforum_subscription_global_topics', 'asgarosforum_online', 'asgarosforum_online_timestamp', 'asgarosforum_role', 'asgarosforum_unread_cleared', 'asgarosforum_unread_exclude', 'usergroups', 'usergroup-color', 'usergroup-visibility', 'usergroup-auto-add', 'usergroup-icon', 'asgarosforum_lastvisit');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'asgarosforum_subscription_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'asgarosforum_subscription_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'asgarosforum_subscription_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'asgarosforum_subscription_%';
+

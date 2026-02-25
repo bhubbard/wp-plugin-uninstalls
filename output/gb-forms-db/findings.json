@@ -1,0 +1,31 @@
+{
+  "options": [
+    "gbfdb_enabled",
+    "gbfdb_first_activate_plugins",
+    "gbfdp_supported_plugins",
+    "gbfdb_supported_plugins",
+    "gbfdb_data",
+    "gbfdb_record_elementor_*",
+    "gbfdb_record_wpcf7_*",
+    "gbfdb_record_pojo_*",
+    "gbfdb_record_ninja_*",
+    "gbfdb_record_gravity_*",
+    "gbfdb_record_forms_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gbfdb_check_new_leads"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_id",
+    "*_status",
+    "*_name",
+    "*_meta",
+    "*_type",
+    "*_sent",
+    "*_API_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:59.508Z"
+}

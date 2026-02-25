@@ -1,0 +1,47 @@
+{
+  "options": [
+    "hbp_disabler_admin_notices",
+    "hbp_disabler_admin_notice_*",
+    "hbp_disabler_db_version",
+    "disabler_autop",
+    "disabler_options",
+    "disabler_settings",
+    "hbp_disabler_admin_install_timestamp",
+    "hbp_disabler_settings",
+    "hbp_disabler_version",
+    "disabler_version",
+    "disabler_xmlrpc",
+    "disabler_autosave",
+    "disabler_selfping",
+    "disabler_norss",
+    "disabler_capitalp",
+    "disabler_revisions",
+    "disabler_nourl",
+    "new_version",
+    "disabler_smartquotes",
+    "disabler_plugin_version",
+    "disabler_admin_notices",
+    "disabler_db_version"
+  ],
+  "transients": [
+    "hbp_disabler_installing",
+    "_hbp_disabler_activation_redirect",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "wp_update_themes",
+    "wp_update_plugins",
+    "wp_version_check",
+    "wp_maybe_auto_update",
+    "hbp_disabler_cleanup_logs",
+    "hbp_disabler_send_tracking_data_after_core_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:41.940Z"
+}

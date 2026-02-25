@@ -1,0 +1,18 @@
+{
+  "options": [
+    "init_plugin_suite_chat_engine_db_version",
+    "init_chat_last_daily_stat_update",
+    "init_chat_basic_settings",
+    "init_chat_security_settings",
+    "init_chat_advanced_settings",
+    "init_plugin_suite_chat_engine_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "init_chat_engine_cleanup_messages"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:16.931Z"
+}

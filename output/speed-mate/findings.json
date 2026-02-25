@@ -1,0 +1,28 @@
+{
+  "options": [
+    "speed_mate_caching_enable_cache",
+    "speed_mate_caching_cache_duration",
+    "speed_mate_caching_enable_static_caching",
+    "speed_mate_asset_optimization_enable_minification",
+    "speed_mate_asset_optimization_enable_html_minification",
+    "speed_mate_asset_optimization_enable_image_lazy_loading",
+    "speed_mate_asset_optimization_exclusions",
+    "speed_mate_asset_optimization_combine_css",
+    "speed_mate_db_optimization_revisions_cleanup_enable",
+    "speed_mate_db_optimization_revisions_cleanup_schedule",
+    "speed_mate_db_optimization_revisions_cleanup_keep_count",
+    "speed_mate_db_optimization_trash_spam_cleanup_enable",
+    "speed_mate_db_optimization_trash_spam_cleanup_schedule",
+    "speed_mate_pa_google_api_key",
+    "speed_mate_caching_enable_header_caching"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "speed_mate_revisions_cleanup_cron",
+    "speed_mate_trash_spam_cleanup_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:48.290Z"
+}

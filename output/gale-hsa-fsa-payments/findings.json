@@ -1,0 +1,22 @@
+{
+  "options": [
+    "gale_hsa_fsa_ts_sync_progress",
+    "gale_hsa_fsa_ts_total_products",
+    "woocommerce_gale_checkout_settings",
+    "gale_hsa_fsa_ts_products_synced"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_global_unique_id",
+    "_gale_product_id",
+    "_gale_eligibility",
+    "_price",
+    "_sale_currency_prices",
+    "_regular_currency_prices",
+    "_short_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:49.386Z"
+}

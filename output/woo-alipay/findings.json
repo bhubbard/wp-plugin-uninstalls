@@ -1,0 +1,15 @@
+{
+  "options": [
+    "icl_enable_multi_currency",
+    "woocommerce_currency",
+    "woocommerce_alipay_settings",
+    "woo_alipay_plugin_version",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:54.517Z"
+}

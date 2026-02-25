@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_wp_nv_fb_appid",
+    "_wp_nv_fb_twiter_text",
+    "_wp_nv_fb_twiter_text1",
+    "_wp_nv_fb_twiter_text2",
+    "_wp_nv_mode",
+    "_wp_nv_fb_twiter_text3"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vote_category",
+    "voter_nomineeid",
+    "voter_nomineename"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:09.118Z"
+}

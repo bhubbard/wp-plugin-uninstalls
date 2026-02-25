@@ -1,0 +1,18 @@
+{
+  "options": [
+    "auto_expire_posts_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "auto_expire_posts_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "auto_expire_posts_date",
+    "auto_expire_posts_timezone",
+    "auto_expire_posts_status",
+    "auto_expire_posts_expired"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:33.739Z"
+}

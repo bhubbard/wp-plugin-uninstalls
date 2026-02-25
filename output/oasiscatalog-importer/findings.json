@@ -1,0 +1,23 @@
+{
+  "options": [
+    "oasis_import_options",
+    "woocommerce_custom_orders_table_enabled",
+    "oasis_import_progress"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [
+    "oasis_import_schedule_run",
+    "oasis_import_schedule_up"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "oasis_cat_id",
+    "_stock",
+    "thumbnail_id",
+    "oasis_queue_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:52.498Z"
+}

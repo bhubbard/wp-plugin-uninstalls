@@ -1,0 +1,13 @@
+{
+  "options": [
+    "plugin-security-scanner"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "plugin_security_scanner_daily_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:55.482Z"
+}

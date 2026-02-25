@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sharingTrello_key",
+    "sharingTrello_token",
+    "sharingTrello_board_id_sentaku",
+    "*_board_list_id",
+    "*_label_list_id",
+    "sharingTrello_*",
+    "sharingTrello_post_*",
+    "sharingTrello_post_board_list_id",
+    "sharingTrello_post_label_list_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "trello_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:55.636Z"
+}

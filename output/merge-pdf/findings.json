@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cross_service_solutions_show_provider",
+    "cross_service_solutions_api_key",
+    "cross_service_solutions_all_activate_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:33.018Z"
+}

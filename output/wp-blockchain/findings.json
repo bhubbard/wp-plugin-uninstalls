@@ -1,0 +1,45 @@
+{
+  "options": [
+    "wpbc_provider_btc_username",
+    "wpbc_provider_btc_password",
+    "wpbc_provider",
+    "wpbc_last_cron",
+    "wpbc_block_cron",
+    "wpbc_cron_key",
+    "wpbc_allow_poorman",
+    "wpbc_settings_saved",
+    "wpbc_has_fontawesome",
+    "wpbc_donate_btc",
+    "wpbc_visible_states",
+    "wpbc_visible_only_admins",
+    "wpbc_blockchains",
+    "wpbc_domain_calls",
+    "wpbc_schema_version",
+    "wpbc_provider_username",
+    "wpbc_post_types",
+    "wpbc_*",
+    "wpbc_provider_ok_*",
+    "wpbc_provider_check",
+    "wpbc_provider_password",
+    "wpbc_provider_*",
+    "*_username",
+    "*_password",
+    "wpbc_intro",
+    "*username",
+    "*password",
+    "wpbc_restamps",
+    "wpbc_get_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpbc_cron_add_every_minute"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpbc_notice_dismissed",
+    "wpbc_stamp_*",
+    "wpbc_stamp_history_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:51.173Z"
+}

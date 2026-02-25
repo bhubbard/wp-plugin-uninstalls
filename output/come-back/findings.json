@@ -1,0 +1,23 @@
+{
+  "options": [
+    "come_back_activation_date",
+    "come_back_email_subject",
+    "come-back-email-editor",
+    "come_back_email_background_color",
+    "come_back_inactivity_period"
+  ],
+  "transients": [
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "come_back_email_sent",
+    "last_login",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:58.220Z"
+}

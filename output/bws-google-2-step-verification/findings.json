@@ -1,0 +1,31 @@
+{
+  "options": [
+    "gglstpvrfctn_options",
+    "gglstpvrfctn_key",
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gglstpvrfctn_email_init_time",
+    "gglstpvrfctn_backup_code",
+    "gglstpvrfctn_user_secret",
+    "gglstpvrfctn_sms_check",
+    "gglstpvrfctn_hide_profile_banner",
+    "gglstpvrfctn_hide_settings_banner",
+    "gglstpvrfctn_email_code",
+    "gglstpvrfctn_user_options",
+    "gglstpvrfctn_secret_question_data",
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:48.136Z"
+}

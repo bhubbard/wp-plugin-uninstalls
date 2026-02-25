@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpcf7",
+    "disallowed_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcf7_hide_welcome_panel_on",
+    "_config_validation",
+    "_locale",
+    "_hash",
+    "_*",
+    "_old_cf7_unit_id",
+    "_config_errors",
+    "_flamingo"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:25:42.482Z"
+}

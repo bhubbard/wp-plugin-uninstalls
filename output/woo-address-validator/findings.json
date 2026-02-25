@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wcav-invalid-key",
+    "wcav"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcav_shipping_status",
+    "wcav_billing_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:10.398Z"
+}

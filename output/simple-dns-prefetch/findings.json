@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sdp_meta_control",
+    "sdp_is_dns_disable",
+    "sdp_prefetch_host_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:11.739Z"
+}

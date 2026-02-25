@@ -1,0 +1,14 @@
+{
+  "options": [
+    "hocwp_plugin_core_version",
+    "hocwp_plugins"
+  ],
+  "transients": [
+    "hocwp_theme_flush_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:05.090Z"
+}

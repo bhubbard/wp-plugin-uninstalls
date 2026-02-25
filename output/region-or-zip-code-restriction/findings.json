@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_restricted_zipcodes",
+    "*_restrict_based_on",
+    "*_zone_regions",
+    "*_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:18.286Z"
+}

@@ -1,0 +1,49 @@
+{
+  "options": [
+    "altss_settings_options",
+    "altss_settings_cforms_container_id",
+    "altss_settings_cforms_privacy_policy_page",
+    "altss_settings_cforms_options_title_*",
+    "altss_settings_cforms_options_titleshow_*",
+    "altss_settings_cforms_options_desc_*",
+    "altss_settings_cforms_options_descshow_*",
+    "altss_settings_cforms_options_fields_*",
+    "altss_settings_cforms_options_reqfields_*",
+    "altss_settings_cforms_options_firstemail_*",
+    "altss_settings_cforms_options_secondemail_*",
+    "altss_settings_cforms_options_submitbtntext_*",
+    "altss_settings_cforms_options_field_*",
+    "altss_settings_cforms_additional_settings",
+    "altss_settings_options_custom_recs",
+    "altss_settings_options_custom_recs_settings",
+    "altss_settings_options_cookie_banner_settings",
+    "copyright_info",
+    "general_phone_number",
+    "altss_uninstall_data_enable",
+    "altss_uninstall_data_items",
+    "altss_settings_options_embedded_text_*"
+  ],
+  "transients": [
+    "cfs_record_removed_id",
+    "cfs_record_remove_error",
+    "altss_reviews_session",
+    "thadm_admrevs_session"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname",
+    "first_name",
+    "_seo_meta_title",
+    "seo_meta_title",
+    "_seo_meta_description",
+    "seo_meta_description",
+    "_seo_meta_og_image",
+    "seo_meta_og_image",
+    "_seo_meta__title",
+    "_seo_meta__description",
+    "_seo_meta__og_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:09.381Z"
+}

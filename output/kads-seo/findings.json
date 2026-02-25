@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_kseo_general_meta_keywords",
+    "_kseo_db_setup_version"
+  ],
+  "transients": [
+    "amp_ratting_total_*",
+    "_kseo_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kseo_post_title",
+    "_kseo_seen_about_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:13.419Z"
+}

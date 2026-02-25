@@ -1,0 +1,16 @@
+{
+  "options": [
+    "goosp_lang_code",
+    "goosp_disp_clos",
+    "goosp_edit_post",
+    "goosp_edit_page",
+    "goosp_edit_cmnt",
+    "goosp_lang_chkb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:45.818Z"
+}

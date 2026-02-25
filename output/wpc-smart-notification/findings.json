@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpcsn_settings",
+    "wpcsn_localization",
+    "wpcsn_*",
+    "wpcsn_opts"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:03.610Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "flash_toolkit_meta_box_errors",
+    "flash_toolkit_admin_notices",
+    "flash_pro_notice_start_time",
+    "flash_toolkit_admin_notice_*",
+    "flash_toolkit_db_version",
+    "flash_toolkit_permalinks",
+    "flash_toolkit_admin_footer_text_rated",
+    "flash_toolkit_version",
+    "flash_toolkit_custom_sidebars"
+  ],
+  "transients": [
+    "ft_installing",
+    "_flash_activation_redirect",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "flash_pro_notice_temporary_ignore",
+    "flash_pro_notice_permanent_ignore",
+    "*_notice",
+    "pageheader_size",
+    "pageheader_disable",
+    "layout_type",
+    "layout_desc",
+    "_example_cb",
+    "panels_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:19.975Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sahu_so_contact",
+    "sahu_so_countdown",
+    "sahu_so_dashboard",
+    "sahu_so_design",
+    "sahu_so_seo",
+    "sahu_so_social",
+    "sahu_siteoff_line_review"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:12.144Z"
+}

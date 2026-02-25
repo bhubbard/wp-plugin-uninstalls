@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hide-titles-option",
+    "hide_titles_plugin_do_activation_redirect",
+    "hide_titles_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hide_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:56.567Z"
+}

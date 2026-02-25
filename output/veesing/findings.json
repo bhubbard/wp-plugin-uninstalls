@@ -1,0 +1,18 @@
+{
+  "options": [
+    "veesing_sms_expire",
+    "veesing_template_register",
+    "veesing_sms_debug",
+    "veesing_sms_logs",
+    "veesing_sms_account",
+    "veesing_sms_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:03.558Z"
+}

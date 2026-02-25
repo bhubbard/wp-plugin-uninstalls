@@ -1,0 +1,53 @@
+{
+  "options": [
+    "wp-backitup_dismissed_notices",
+    "active_sitewide_plugins",
+    "*_critical_plugins",
+    "*_critical_options",
+    "wp-backitup_new_install",
+    "wp-backitup_major_version",
+    "wp-backitup_minor_version",
+    "wp-backitup_logging",
+    "wp-backitup_db_version",
+    "wp-backitup_backup_batch_size",
+    "wp-backitup_lite_registration_first_name",
+    "wp-backitup_license_customer_name",
+    "wp-backitup_lite_registration_email",
+    "wp-backitup_license_customer_email",
+    "wp-backitup_backup_dbtables_batch_size",
+    "wp-backitup_license_product_id",
+    "wp-backitup_license_type",
+    "*_delete_all"
+  ],
+  "transients": [
+    "*_process_lock",
+    "update_plugins",
+    "update_themes",
+    "update_core",
+    "wpbackitup_admin_notices",
+    "_wpbackitup_activation_redirect",
+    "error-support-email",
+    "error-support-ticket",
+    "settings_errors",
+    "support_ticket_id",
+    "support_body",
+    "error-support-body"
+  ],
+  "cron_jobs": [
+    "wpbackitup_weekly_scheduled_events",
+    "wpbackitup_daily_scheduled_events",
+    "wpbackitup_queue_scheduled_jobs",
+    "wpbackitup_aggregate_content_changes",
+    "wpbackitup_check_updates",
+    "wpbackitup_cleanup_old_events",
+    "wpbackitup_aggregate_security"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wp-backitup_dismissed_notices",
+    "_wp_attachment_is_custom_header",
+    "_wp_attachment_is_custom_background"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:10.876Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "faq_version",
+    "faq_pro_welcome_page_shown",
+    "faq_pro_welcome_page_shown_time",
+    "faq_allow_tracking",
+    "faq_ts_tracker_last_send",
+    "*_allow_tracking",
+    "*_ts_tracker_last_send",
+    "ts_reset_tracking",
+    "wcap_restrict_domain_address",
+    "active_TS_plugins",
+    "*_pro_welcome_page_shown",
+    "*_pro_welcome_page_shown_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_ts_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_acf_open",
+    "_acf_rtt",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:56.281Z"
+}

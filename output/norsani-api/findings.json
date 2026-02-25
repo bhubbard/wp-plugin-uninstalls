@@ -1,0 +1,13 @@
+{
+  "options": [
+    "norsani_api",
+    "woocommerce_tax_total_display",
+    "frozr_gen_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:45.169Z"
+}

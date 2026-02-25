@@ -1,0 +1,15 @@
+{
+  "options": [
+    "shamor_display_template",
+    "shamor_display_text",
+    "shamor_start_time",
+    "shamor_end_time",
+    "shamor_cache_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:07.172Z"
+}

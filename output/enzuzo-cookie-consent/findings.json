@@ -1,0 +1,15 @@
+{
+  "options": [
+    "enzuzo_cookie_consent_uuid",
+    "enzuzo_cookie_consent_enabled",
+    "enzuzo_cookie_consent_auto_blocking",
+    "enzuzo_cookie_consent_enable_wp_consent",
+    "enzuzo_cookie_consent_prefix_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:54.782Z"
+}

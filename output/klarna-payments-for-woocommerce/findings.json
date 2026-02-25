@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_klarna_payments_settings",
+    "kp_has_valid_credentials",
+    "kp_uuid4",
+    "kp_credentials_error",
+    "kec_signing_key",
+    "woocommerce_prices_include_tax",
+    "woocommerce_ship_to_destination",
+    "kec_webhook",
+    "kp_unavailable_feature_ids",
+    "*_settings",
+    "kom_settings",
+    "woocommerce_kco_settings",
+    "krokedil_support_*",
+    "woocommerce_smart_coupon_apply_before_tax",
+    "krokedil_debuglog_kp",
+    "kp_plugin_features",
+    "klarna_acquiring_partner_key"
+  ],
+  "transients": [
+    "klarna_payments_settings_page_config"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_email",
+    "dismissed_kp_check_permalinks_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:17.097Z"
+}

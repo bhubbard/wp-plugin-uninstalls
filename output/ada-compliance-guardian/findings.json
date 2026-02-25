@@ -1,0 +1,15 @@
+{
+  "options": [
+    "adacogu_plan_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_adacogu_auto_alt_error",
+    "_adacogu_auto_alt_generated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:55.034Z"
+}

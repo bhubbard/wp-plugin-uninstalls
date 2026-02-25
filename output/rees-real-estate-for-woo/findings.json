@@ -1,0 +1,46 @@
+{
+  "options": [
+    "woorealestate_params",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woorealestate_country",
+    "woorealestate_additional_detail",
+    "_woorealestate_type",
+    "woorealestate_property_floor",
+    "woorealestate_file_attach",
+    "woorealestate_video_image",
+    "woorealestate_video_url",
+    "woore_tour_settings",
+    "woorealestate_property_location",
+    "woorealestate_video_local_id",
+    "woorealestate_video_type",
+    "woore_tour_data",
+    "woore_info_mobile",
+    "woore_info_fax_number",
+    "woore_info_skype",
+    "woore_social_facebook",
+    "woore_social_twitter",
+    "woore_social_linkedin",
+    "woore_social_pinterest",
+    "woore_social_instagram",
+    "woore_social_youtube",
+    "woore_social_vimeo"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:48.187Z"
+}

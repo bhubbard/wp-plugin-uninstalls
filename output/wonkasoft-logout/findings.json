@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wonkasoft_logout_url",
+    "wonkasoft_logout_custom_url",
+    "wonkasoft_login_url",
+    "wonkasoft_login_custom_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:06.147Z"
+}

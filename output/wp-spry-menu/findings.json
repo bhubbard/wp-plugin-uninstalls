@@ -1,0 +1,14 @@
+{
+  "options": [
+    "parent_border_width",
+    "child_border_width"
+  ],
+  "transients": [
+    "wp_spry_menu_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:50.389Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "wpmdb_addon_requirement_check",
+    "wpmdb_settings",
+    "wpmdb_error_log",
+    "active_sitewide_plugins",
+    "wpmdb_migration_state",
+    "wpmdb_usage",
+    "wpmdb_remote_response",
+    "wpmdb_recent_migrations",
+    "wpmdb_migration_options",
+    "wpmdb_wpe_remote_cookie",
+    "wpmdb_migration_id",
+    "wpmdb_saved_profiles",
+    "wpmdb_schema_version",
+    "wpmdb_folder_transfers_media_files_*",
+    "wpmdb_folder_transfers_themes_*",
+    "wpmdb_folder_transfers_plugins_*",
+    "wpmdb_folder_transfers_muplugins_*",
+    "wpmdb_folder_transfers_others_*",
+    "ms_files_rewriting"
+  ],
+  "transients": [
+    "wpmdb_upgrade_data",
+    "update_plugins",
+    "wpmdb_disabled_legacy_addons",
+    "wpmdb_queue_status",
+    "wpmdb_migration_id",
+    "wp_migrate_db_deactivated_notice_id"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpmdb_dismiss_*",
+    "wpmdb_reminder_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:01.489Z"
+}

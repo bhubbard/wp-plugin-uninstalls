@@ -1,0 +1,21 @@
+{
+  "options": [
+    "awshortcode_region",
+    "awshortcode_tracking_id",
+    "awshortcode_inline_documentation",
+    "awshortcode_align",
+    "awshortcode_feed",
+    "awshortcode_strict_standards",
+    "awshortcode_context_links",
+    "awshortcode_product_preview",
+    "awshortcode_disabled_widgets",
+    "awshortcode_*",
+    "awshortcode_tracking_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:26.201Z"
+}

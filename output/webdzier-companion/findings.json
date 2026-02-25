@@ -1,0 +1,20 @@
+{
+  "options": [
+    "hg_media_id",
+    "widget_archives",
+    "widget_search",
+    "widget_hotel_galaxy_service_widget",
+    "sidebars_widgets",
+    "hotelgalaxy_media_id",
+    "hg_details_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "hg_room_settings_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:28.546Z"
+}

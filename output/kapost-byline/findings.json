@@ -1,0 +1,30 @@
+{
+  "options": [
+    "enable_xmlrpc",
+    "userphoto_maximum_dimension",
+    "userphoto_thumb_dimension"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kapost_analytics",
+    "*thumbnail",
+    "*rtmp",
+    "*external",
+    "_thumbnail_id",
+    "kapost_featured_image",
+    "_wp_page_template",
+    "userphoto_original_image_file",
+    "userphoto_approvalstatus",
+    "userphoto_image_file",
+    "userphoto_image_width",
+    "userphoto_image_height",
+    "userphoto_thumb_file",
+    "userphoto_thumb_width",
+    "userphoto_thumb_height",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:16.690Z"
+}

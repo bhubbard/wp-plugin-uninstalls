@@ -1,0 +1,19 @@
+{
+  "options": [
+    "psl_refresh_token",
+    "psl_page_id",
+    "psl_id",
+    "psl_token",
+    "psl_token_expiry"
+  ],
+  "transients": [
+    "psl_api_cache"
+  ],
+  "cron_jobs": [
+    "psl_token_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:38.050Z"
+}

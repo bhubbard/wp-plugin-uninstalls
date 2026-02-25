@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sacloud-webaccel-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sacloud_nocache",
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:18.564Z"
+}

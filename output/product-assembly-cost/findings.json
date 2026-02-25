@@ -1,0 +1,20 @@
+{
+  "options": [
+    "product_assembly_enabled",
+    "product_assembly_cost",
+    "product_assembly_cost_multiply",
+    "product_assembly_message",
+    "product_assembly_service",
+    "product_assembly_cost_mode",
+    "product_assembly_tax_status",
+    "product_assembly_tax_class",
+    "product_assembly_add_to_name",
+    "woocommerce_tax_display_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:17.333Z"
+}

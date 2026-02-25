@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fcbox_enable_cdn",
+    "fcbox_minify",
+    "fcbox_cdn_url",
+    "fcbox_cdn_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:28.213Z"
+}

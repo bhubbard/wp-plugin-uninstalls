@@ -1,0 +1,12 @@
+{
+  "options": [
+    "notes_widget_wrapper_defaults",
+    "notes_widget_wrapper_default_shortcode_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:45.977Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dblocks_textColor",
+    "dblocks_color",
+    "dblocks_playButtonSize",
+    "dblocks_iconType",
+    "dblocks_svgContent",
+    "dblocks_playButtonStyle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:27.016Z"
+}

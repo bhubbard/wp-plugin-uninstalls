@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tutor_quiz_option",
+    "earned_mark_percent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:26.165Z"
+}

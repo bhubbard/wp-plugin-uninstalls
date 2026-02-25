@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pattern_friend_mobile_max_threshold",
+    "pattern_friend_tablet_max_threshold",
+    "pattern_friend_header_sticky",
+    "pattern_friend_dynamic_css_version"
+  ],
+  "transients": [
+    "pattern_friend_plugin_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:39.419Z"
+}

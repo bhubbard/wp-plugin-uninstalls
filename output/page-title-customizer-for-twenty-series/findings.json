@@ -1,0 +1,32 @@
+{
+  "options": [
+    "pt_title_css_value_all",
+    "pt_title_css_value_all_smart",
+    "pt_title_css_value_all_pc",
+    "pt_title_css_value_all2",
+    "pt_title_css_value_all_smart2",
+    "pt_title_css_value_all_pc2",
+    "pt_title_css_value_category",
+    "pt_title_css_value_category_smart",
+    "pt_title_css_value_category_pc",
+    "pt_title_css_value_category2",
+    "pt_title_css_value_category_smart2",
+    "pt_title_css_value_category_pc2",
+    "pt_title_css_value_post",
+    "pt_title_css_value_post_smart",
+    "pt_title_css_value_post_pc",
+    "pt_title_css_value_post2",
+    "pt_title_css_value_post_smart2",
+    "pt_title_css_value_post_pc2",
+    "pt_title_css_category_all",
+    "pt_title_css_post_all",
+    "pt_title_css_category_all2",
+    "pt_title_css_post_all2"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:04.801Z"
+}

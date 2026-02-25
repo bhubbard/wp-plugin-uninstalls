@@ -1,0 +1,17 @@
+{
+  "options": [
+    "shink_plugins_option_enabled",
+    "shink_plugins_option_id",
+    "shink_plugins_option_domain",
+    "shink_plugins_option_website_entry_enabled",
+    "shink_plugins_option_include_exclude_domains_choose",
+    "shink_plugins_option_include_exclude_domains_value",
+    "shink_plugins_option_exclude_roles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:26.327Z"
+}

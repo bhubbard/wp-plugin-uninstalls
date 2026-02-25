@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bot_block",
+    "bot_block_master_table",
+    "bot_block_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bot_block_cron",
+    "bot_block_send_stats"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:00.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woobooster_partial_cod_enabled",
+    "woobooster_partial_cod_title_text",
+    "woobooster_partial_cod_amount",
+    "woobooster_partial_cod_amount_type",
+    "woobooster_partial_cod_extra_fees_enabled",
+    "woobooster_partial_cod_extra_fees",
+    "woobooster_partial_cod_extra_fees_title",
+    "woocommerce_tax_class",
+    "woobooster_partial_cod_extra_fees_tax"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "restrict_partial_cod",
+    "only_partial_cod"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:04.747Z"
+}

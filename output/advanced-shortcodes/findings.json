@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ascodes_shortcode_title",
+    "ascodes_shortcode_sub_title",
+    "ascodes_shortcode_content",
+    "ascodes_version",
+    "ascodes_flash_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ascodes_shortcode_title",
+    "ascodes_shortcode_sub_title",
+    "ascodes_shortcode_content"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:41.874Z"
+}

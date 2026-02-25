@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wwsm_delete_account"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wwsm_expiration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:07.854Z"
+}

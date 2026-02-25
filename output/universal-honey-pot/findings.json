@@ -1,0 +1,12 @@
+{
+  "options": [
+    "universal_honey_pot_use_user_behaviour",
+    "universal_honey_pot_counter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:35.286Z"
+}

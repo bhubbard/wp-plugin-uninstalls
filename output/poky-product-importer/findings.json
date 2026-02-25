@@ -1,0 +1,15 @@
+{
+  "options": [
+    "poky_token"
+  ],
+  "transients": [
+    "poky_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "attribute_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:31.992Z"
+}

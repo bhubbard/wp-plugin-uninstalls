@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cmbd_permalink_old",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins",
+    "cmbd_AddWizardMenu"
+  ],
+  "transients": [
+    "cmbdf_refresh_404_permalinks"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cmbd_purchase",
+    "cmbd_link",
+    "cmbd_pause_prod"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:20.657Z"
+}

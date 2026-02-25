@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpseo_onpage_fetch"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:52.280Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*-post-format",
+    "*-handle",
+    "*-default",
+    "*-did",
+    "*-url",
+    "*-secret",
+    "*-use-cron",
+    "*-tags",
+    "*-comment-override",
+    "*-comment-disable",
+    "*-debug-level",
+    "*-access-token",
+    "*-refresh-token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "neznam-atproto-share_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*-uri",
+    "*-http-uri",
+    "*-should-publish",
+    "*-text-to-publish"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:04.399Z"
+}

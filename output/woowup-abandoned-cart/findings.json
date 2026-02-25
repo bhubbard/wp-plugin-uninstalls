@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woowupApikey"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woowup_abandonedcart_send_cart"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_document"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:19.289Z"
+}

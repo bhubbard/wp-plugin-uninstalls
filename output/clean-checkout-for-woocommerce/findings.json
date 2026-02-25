@@ -1,0 +1,14 @@
+{
+  "options": [
+    "riffaz_wccc_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_full_name",
+    "_shipping_full_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:06.039Z"
+}

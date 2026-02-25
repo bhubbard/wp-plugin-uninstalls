@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woot_free_1",
+    "woot_settings",
+    "woot_mime_types_association",
+    "woot_rate_alert",
+    "woot_db_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:26.724Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "alg_wc_pvbur_user_roles_for_settings",
+    "alg_wc_pvbur_bulk_visible_products_*",
+    "alg_wc_pvbur_bulk_invisible_products_*",
+    "woocommerce_version",
+    "alg_wc_pvbur_enabled",
+    "alg_wc_pvbur_visibility",
+    "alg_wc_pvbur_purchasable",
+    "alg_wc_pvbur_add_column_visible_user_roles",
+    "alg_wc_pvbur_add_to_quick_edit",
+    "alg_wc_pvbur_query",
+    "*_reset",
+    "active_sitewide_plugins",
+    "alg_wc_pvbur_version"
+  ],
+  "transients": [
+    "awcpvbur_all_pids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:56.716Z"
+}

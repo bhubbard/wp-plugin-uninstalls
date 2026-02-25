@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ji_redirect_default",
+    "ji_register_*",
+    "ji_redirect_logout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ji_welcome_panel"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:38.081Z"
+}

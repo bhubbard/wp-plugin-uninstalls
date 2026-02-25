@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wck_cptc",
+    "wck_meta_boxes_ids",
+    "wck_update_to_unserialized",
+    "wck_ctc",
+    "wck_serial_status",
+    "wck_license_details",
+    "wck_tools",
+    "wck_serial",
+    "wck_extra_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_dismiss_notification",
+    "wck_cfc_args",
+    "wck_cfc_fields",
+    "wck_cfc_post_type_arg",
+    "wck_cfc_post_id_arg",
+    "wck_cfc_page_template_arg",
+    "_wp_attachment_image_alt",
+    "*_args",
+    "*_fields",
+    "_wp_page_template",
+    "*_1"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:44.901Z"
+}

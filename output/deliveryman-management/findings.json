@@ -1,0 +1,14 @@
+{
+  "options": [
+    "weblounge_woocommerce_prompt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_deliveryman_id",
+    "_delivery_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:46.773Z"
+}

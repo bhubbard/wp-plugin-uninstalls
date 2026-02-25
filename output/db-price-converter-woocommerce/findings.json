@@ -1,0 +1,20 @@
+{
+  "options": [
+    "db_woo_converter_currency_from",
+    "db_woo_converter_currency_to",
+    "db_woo_converter_date",
+    "db_woo_converter_date_cbr",
+    "db_woo_converter_rate_cbr",
+    "db_woo_converter_rate",
+    "db_woo_converter_if_cbr",
+    "db_woo_converter_margin",
+    "db_woo_converter_status",
+    "db_woo_converter_round"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:24.659Z"
+}

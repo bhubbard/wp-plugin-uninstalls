@@ -1,0 +1,21 @@
+{
+  "options": [
+    "lazy-number",
+    "lazy-number-geo",
+    "lazy-keywords",
+    "lazy-geo",
+    "lazy-check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lazy_seo_meta_key",
+    "lazy_seo_meta_key_geo",
+    "lazy_seo_meta_check",
+    "lazy_seo_meta_desc",
+    "lazy_seo_meta_h1"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:14.641Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "netangelss3_key_id",
+    "netangelss3_secret_key",
+    "netangelss3_connection_status",
+    "netangelss3_bucket",
+    "netangelss3_auto_enable",
+    "netangelss3_senderrors"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "netangelss3_upload_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:57.687Z"
+}

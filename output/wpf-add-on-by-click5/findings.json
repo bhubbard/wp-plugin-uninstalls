@@ -1,0 +1,19 @@
+{
+  "options": [
+    "click5_wpf_authentication_token_*",
+    "click5_wpf_addon_const_values",
+    "click5_wpf_addon_notifications",
+    "click5_wpf_addon_notifications_count_errors",
+    "click5_wpf_addon_form_enable_*",
+    "click5_wpf_addon_crm_fields_stored",
+    "posting_url",
+    "form_enable_*",
+    "click5_wpf_addon_posting_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:56.300Z"
+}

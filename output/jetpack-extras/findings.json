@@ -1,0 +1,14 @@
+{
+  "options": [
+    "jetpack_extras-options",
+    "text_direction"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sharing_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:25.538Z"
+}

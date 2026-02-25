@@ -1,0 +1,32 @@
+{
+  "options": [
+    "glideshow-background-color",
+    "glideshow-img-height",
+    "glideshow-border-color",
+    "glideshow-img-width",
+    "glideshow-text-color",
+    "glideshow-title-size",
+    "glideshow-text-width",
+    "glideshow-navigation-background-color",
+    "glideshow-navigation-color",
+    "glideshow-navigation-active-color",
+    "glideshow-navigation-active-background-color",
+    "glideshow-slider-speed",
+    "glideshow-slider-style",
+    "glideshow-slider-auto",
+    "glideshow-slider-duration",
+    "glideshow-order",
+    "glideshow-sort",
+    "glideshow-text-length",
+    "glideshow-navigation-back",
+    "glideshow-navigation-next"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "content_glider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:06.415Z"
+}

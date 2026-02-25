@@ -1,0 +1,14 @@
+{
+  "options": [
+    "peentify_status",
+    "peentify_api_key",
+    "peentify_api_secret",
+    "peentify_main_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:12.126Z"
+}

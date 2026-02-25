@@ -1,0 +1,23 @@
+{
+  "options": [
+    "DQH_name_type",
+    "DQH_name",
+    "DQH_rewite",
+    "DQH_lang_parent_post",
+    "DQH_title_in_post",
+    "DQH_next_post",
+    "DQH_previous_post",
+    "DQH_paging_chapter",
+    "DQH_chapers_per_page",
+    "DQH_html_list",
+    "DQH_rewrite"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mts_post_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:50.424Z"
+}

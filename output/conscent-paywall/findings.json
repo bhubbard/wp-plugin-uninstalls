@@ -1,0 +1,25 @@
+{
+  "options": [
+    "conscent_client_id",
+    "conscent_sdk_url",
+    "conscent_paywall_category",
+    "conscent_api_url",
+    "conscent_api_key",
+    "conscent_api_secret",
+    "conscent_after_logout",
+    "conscent_after_login",
+    "conscent_theme_location",
+    "conscent_content_visibility",
+    "conscent_default_name",
+    "conscent_amp_sdk_url",
+    "conscent_amp_api_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "conscent_post_content_visibility"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:32.935Z"
+}

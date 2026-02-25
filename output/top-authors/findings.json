@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ta_version",
+    "widget_top_authors",
+    "widget_top-authors",
+    "sidebars_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:31.924Z"
+}

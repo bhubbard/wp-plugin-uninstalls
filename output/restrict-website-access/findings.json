@@ -1,0 +1,14 @@
+{
+  "options": [
+    "zx_rwa_option_enabled",
+    "zx_rwa_option_password",
+    "zx_rwa_option_logo",
+    "zx_rwa_access_granted"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:05.881Z"
+}

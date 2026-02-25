@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_bacs_accounts",
+    "scan2payme_option_IBAN",
+    "scan2payme_option_BIC",
+    "scan2payme_option_showwhenstatus",
+    "scan2payme_option_showwhenmethod",
+    "scan2payme_option_showhook",
+    "scan2payme_option_PreviewMessage",
+    "scan2payme_option_PreviewAmount",
+    "scan2payme_option_Name",
+    "scan2payme_option_textabove",
+    "scan2payme_option_textunder",
+    "scan2payme_option_logo",
+    "scan2payme_option_account"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:44.870Z"
+}

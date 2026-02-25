@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpmapblock_ablocks_install_notice_hidden",
+    "kodezen_black_friday_notice",
+    "wp_map_block_first_install_time",
+    "insightsforwp_sent_data",
+    "wp_map_block_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:51.073Z"
+}

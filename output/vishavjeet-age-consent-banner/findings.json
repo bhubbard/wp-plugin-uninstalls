@@ -1,0 +1,14 @@
+{
+  "options": [
+    "vjacb_version",
+    "vjacb_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vjacb_cleanup_sessions"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:42.468Z"
+}

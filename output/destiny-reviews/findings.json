@@ -1,0 +1,30 @@
+{
+  "options": [
+    "dr_admin_email",
+    "dr_use_dr_styles",
+    "dr_custom_thank_you_page",
+    "dr_custom_name_label",
+    "dr_custom_name_placeholder",
+    "dr_custom_testimonial_label",
+    "dr_custom_testimonial_placeholder",
+    "dr_theme",
+    "dr_custom_bg",
+    "dr_custom_txt_clr",
+    "dr_border_radius",
+    "dr_border_radius_type",
+    "dr_button_colour",
+    "destiny_reviews_client_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "destiny_reviews_client_name",
+    "_destiny_reviews_comment",
+    "_destiny_reviews_position",
+    "_destiny_reviews_rating",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:11.761Z"
+}

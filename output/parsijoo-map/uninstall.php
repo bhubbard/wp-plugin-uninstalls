@@ -1,0 +1,11 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('parsijoo_api_map');
+delete_site_option('parsijoo_api_map');
+

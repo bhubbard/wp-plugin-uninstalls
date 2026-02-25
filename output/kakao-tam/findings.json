@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tmp_kakao_app_user_id",
+    "kakao_app_user_id",
+    "tmp_kakao_app_user_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:49.436Z"
+}

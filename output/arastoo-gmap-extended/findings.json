@@ -1,0 +1,16 @@
+{
+  "options": [
+    "arastoo_gmap_api",
+    "arastoo_gmap_content",
+    "arastoo_gmap_lat",
+    "arastoo_gmap_long",
+    "arastoo_gmap_icon",
+    "arastoo_gmap_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:44.703Z"
+}

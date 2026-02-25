@@ -1,0 +1,26 @@
+{
+  "options": [
+    "bh_maestro_activation_redirect",
+    "auto_update_plugins",
+    "allow_major_auto_core_updates",
+    "allow_minor_auto_core_updates",
+    "auto_update_themes",
+    "auto_update_plugin",
+    "auto_update_theme",
+    "bh_maestro_sso_log"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_core",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bh_maestro_location",
+    "bh_maestro_added_by",
+    "bh_maestro_added_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:19.068Z"
+}

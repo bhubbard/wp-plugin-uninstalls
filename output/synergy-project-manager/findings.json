@@ -1,0 +1,35 @@
+{
+  "options": [
+    "synergy_property_seo",
+    "clean_revision",
+    "infility_global_configure"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fave_taxonomy_img",
+    "taxonomy_img_source",
+    "fave_agent_license",
+    "fave_agent_mobile",
+    "fave_agent_email",
+    "fave_property_images",
+    "_thumbnail_id",
+    "crawler_img_source",
+    "is_estate",
+    "fave_agent_id",
+    "fave_property_map_address",
+    "use",
+    "gallery",
+    "label",
+    "address",
+    "established_year",
+    "total_units",
+    "school_network",
+    "developer",
+    "_elementor_template_type",
+    "mtr_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:18.349Z"
+}

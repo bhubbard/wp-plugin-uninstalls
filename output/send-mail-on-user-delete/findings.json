@@ -1,0 +1,14 @@
+{
+  "options": [
+    "smoud_subject",
+    "add_new_email_txt",
+    "smoud_subject_du",
+    "add_new_email_txt_du"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:44.134Z"
+}

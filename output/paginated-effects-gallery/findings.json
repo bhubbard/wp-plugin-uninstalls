@@ -1,0 +1,15 @@
+{
+  "options": [
+    "thumbnails_per_page",
+    "paginated_links",
+    "hide_effect",
+    "show_effect",
+    "effect_speed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:23.964Z"
+}

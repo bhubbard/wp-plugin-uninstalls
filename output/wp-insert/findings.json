@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wp_insert_abtesting_mode",
+    "wp_insert_adstxt_adsense_admin_notice_dismissed",
+    "wp_insert_inpostads",
+    "wp_insert_adwidgets",
+    "wp_insert_inthemeads",
+    "wp_insert_shortcodeads",
+    "wp_insert_pagelevelads",
+    "wp_insert_version",
+    "wp_insert_*",
+    "wp_insert_google_api_authentication_data",
+    "wp_insert_legalpages",
+    "wp_insert_legal_options",
+    "wp_insert_trackingcodes",
+    "wp_insert_vi_code_settings"
+  ],
+  "transients": [
+    "wp_insert_adstxt_adsense_autocheck_content",
+    "wp_insert_ip_*",
+    "wp_insert_google_api_access_token",
+    "wp_insert_vi_api_access_token",
+    "wp_insert_google_api_ad_units",
+    "wp_insert_vi_api_settings",
+    "wp_insert_vi_api_authetication_token",
+    "wp_insert_vi_api_jstag",
+    "wp_insert_vi_api_is_eu_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_insert_2.3_admin_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:50.751Z"
+}

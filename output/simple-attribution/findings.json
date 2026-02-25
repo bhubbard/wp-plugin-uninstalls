@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_settings",
+    "*_license_active",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_license_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "simple_attribution_title",
+    "simple_attribution_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:06.893Z"
+}

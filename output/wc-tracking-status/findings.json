@@ -1,0 +1,22 @@
+{
+  "options": [
+    "diu_wc_tracking_status",
+    "diu_wc_send_email",
+    "diu_wc_use_bootstrap",
+    "diu_wc_include_notes",
+    "diu_wc_custom_number_tracking",
+    "diu_wc_include_plugin_seguimiento"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "status_tracking",
+    "status_tracking_history",
+    "diurvan_wc_tracking_orden",
+    "wc_tracking_number_tracking",
+    "seguimiento"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:15.606Z"
+}

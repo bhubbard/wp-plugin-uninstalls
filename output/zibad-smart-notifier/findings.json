@@ -1,0 +1,37 @@
+{
+  "options": [
+    "zimsn_workflows",
+    "zimsn_default_country",
+    "zimsn_default_gateway",
+    "zimsn_default_fallback_gateway",
+    "zimsn_gateway_*",
+    "zimsn_gateway_twilio",
+    "zimsn_default_global_gateway",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "zimsn_process_queue",
+    "zimsn_check_abandoned_carts",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "phone",
+    "first_name",
+    "_zimsn_last_cart_activity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:38.703Z"
+}

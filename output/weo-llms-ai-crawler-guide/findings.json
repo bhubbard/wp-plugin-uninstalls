@@ -1,0 +1,16 @@
+{
+  "options": [
+    "weo_llms_intro",
+    "weo_llms_outro",
+    "weo_llms_post_types",
+    "weo_llms_add_to_robots"
+  ],
+  "transients": [
+    "weo_llms_content"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:54.739Z"
+}

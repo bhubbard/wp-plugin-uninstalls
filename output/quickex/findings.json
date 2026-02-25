@@ -1,0 +1,21 @@
+{
+  "options": [
+    "quickex_api_key",
+    "quickex_theme",
+    "quickex_main_url",
+    "quickex_how_it_works_url",
+    "quickex_terms_of_use_url",
+    "quickex_privacy_policy_url",
+    "quickex_theme_color",
+    "quickex_theme_text_color",
+    "quickex_show_header",
+    "quickex_show_footer",
+    "quickex_show_refund_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:31.791Z"
+}

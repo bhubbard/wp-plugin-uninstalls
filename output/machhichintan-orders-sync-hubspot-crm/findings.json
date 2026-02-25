@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hubspot_api_token",
+    "hubspot_deal_stage",
+    "hubspot_pipeline",
+    "store_deals_api_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hubspot_deal_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:54.150Z"
+}

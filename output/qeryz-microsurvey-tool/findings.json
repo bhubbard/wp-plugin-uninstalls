@@ -1,0 +1,19 @@
+{
+  "options": [
+    "qeryz_code",
+    "qeryz_checkbox",
+    "qeryz_form_checkbox",
+    "qeryz-form-identity",
+    "qeryz_id",
+    "qeryz_username",
+    "qeryz_password",
+    "QeryzIdentity",
+    "qeryz_group"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:40.428Z"
+}

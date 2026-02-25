@@ -1,0 +1,36 @@
+{
+  "options": [
+    "giftcard_messages",
+    "gift4u_setup_wizard",
+    "gift4u_data",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "update_plugins",
+    "villatheme_item_21055",
+    "villatheme_call",
+    "villatheme_ads",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called"
+  ],
+  "cron_jobs": [
+    "gift4u_schedule_send_giftcard"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tax_status",
+    "_tax_class",
+    "_gift4u_image_ids",
+    "_gift4u_card_template",
+    "_gift4u_discount_rules",
+    "_gift4u_message_character_limit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:55.210Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "giapi_auto_submissions",
+    "giapi_requests",
+    "rank-math-options-instant-indexing",
+    "giapi_settings",
+    "giapi_notices",
+    "rank_math_indexnow_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:59.796Z"
+}

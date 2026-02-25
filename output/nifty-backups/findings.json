@@ -1,0 +1,18 @@
+{
+  "options": [
+    "nifty_backups_api_secret_token",
+    "nifty_backup_options",
+    "nifty_bu_version",
+    "nifty-bu-first-time",
+    "nifty_backup_files"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nifty_cron_hook",
+    "nifty_backups_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:13.876Z"
+}

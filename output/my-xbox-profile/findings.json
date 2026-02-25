@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tag_myxboxprofile",
+    "gis_myxboxprofile",
+    "srg_myxboxprofile",
+    "hidejs_myxboxprofile"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:31.936Z"
+}

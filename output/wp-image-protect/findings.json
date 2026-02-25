@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wpippDisplay_visible_enabled",
+    "wpippDisplay_watermark_on_size",
+    "wpippDisplay_watermark_text",
+    "wpippDisplay_watermark_text_font",
+    "wpippDisplay_watermark_text_size",
+    "wpippDisplay_watermark_text_colour",
+    "wpippDisplay_watermark_text_border_width",
+    "wpippDisplay_watermark_text_background_colour",
+    "wpippDisplay_wpipp_watermark_image_url",
+    "wpippDisplay_watermark_position",
+    "wpippDisplay_watermark_transparency",
+    "wpippDisplay_caching_option",
+    "wpippDisplay_hotlinking_option",
+    "wpippDisplay_render_option",
+    "wpippDisplay_watermark_scale",
+    "wpippDisplay_debug_option",
+    "wpipp_continue_install",
+    "wpipp_version",
+    "wpipp_watermarks_not_set_ignore",
+    "wpippDisplay_htaccess_option",
+    "wpipp_mode",
+    "wpipp_textdomain",
+    "wpipp_active",
+    "wpipp_premium_install_ignore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpipp_exclude_from_watermark"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:10.729Z"
+}

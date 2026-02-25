@@ -1,0 +1,22 @@
+{
+  "options": [
+    "glossymm_options"
+  ],
+  "transients": [
+    "glossy_post_validation_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_glossymm_hf_template_type",
+    "_glossymm_hf_target_location",
+    "glossymm_enabled_template",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "_menu_item_image",
+    "_glossymm_vertical_header",
+    "_glossymm_hf_target_roles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:48.160Z"
+}

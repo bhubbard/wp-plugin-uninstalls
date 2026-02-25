@@ -1,0 +1,14 @@
+{
+  "options": [
+    "changa_feeds",
+    "changa_generic_feed_appid",
+    "changa_generic_para",
+    "changa_needs_redirection"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:34.069Z"
+}

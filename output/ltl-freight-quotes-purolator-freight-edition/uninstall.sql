@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('abf_db_version', 'EN_Plugins', 'purolator_ltl_quotes_web_hook_plan_requests', 'purolater_ltl_packages_quotes_package', 'purolater_quotes_store_type', 'purolater_ltl_package_expire_days', 'purolater_ltl_package_expire_date', 'purolator_ltl_always_include_residential', 'purolator_ltl_always_tailgate', 'purolator_ltl_plugin_licence_key', 'allow_proceed_checkout_eniture', 'prevent_proceed_checkout_eniture', 'en_purolator_ltl_update_now', 'en_old_user_dropship_status', 'en_old_user_warehouse_status', 'en_plugins_return_LTL_quotes', 'en_suppress_parcel_rates', 'woocommerce_currency', 'purolator_ltl_allow_other_plugins', 'purolator_ltl_option_tailgate', 'purolator_ltl_option_residential', 'purolator_ltl_setting_acccess_level', 'service_purolator_ltl_stndrd_quotes', 'service_purolator_ltl_expedited_quotes', 'purolator_ltl_production_password', 'purolator_ltl_reg_acc_num', 'purolator_ltl_production_key', 'handling_weight_purolator_ltl', 'maximum_handling_weight_purolator_ltl', 'eniture_plugin_6', 'en_weight_threshold_lfq', 'purolator_ltl_handling_fee', 'purolator_ltl_delivey_estimate', 'purolator_ltl_label_as_stndrd', 'purolator_ltl_label_as_expedited', 'woocommerce_version', 'enable_logs_purolator_ltl');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_hazardousmaterials', '_enable_dropship', '_dropship_location', '_ltl_freight_variation', '_ltl_freight', 'en_flat_rate_price', '_en_product_markup_variation', '_en_product_markup');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_hazardousmaterials', '_enable_dropship', '_dropship_location', '_ltl_freight_variation', '_ltl_freight', 'en_flat_rate_price', '_en_product_markup_variation', '_en_product_markup');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_hazardousmaterials', '_enable_dropship', '_dropship_location', '_ltl_freight_variation', '_ltl_freight', 'en_flat_rate_price', '_en_product_markup_variation', '_en_product_markup');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_hazardousmaterials', '_enable_dropship', '_dropship_location', '_ltl_freight_variation', '_ltl_freight', 'en_flat_rate_price', '_en_product_markup_variation', '_en_product_markup');
+

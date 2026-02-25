@@ -1,0 +1,17 @@
+{
+  "options": [
+    "keyring-*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_import_auto"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "permalink",
+    "avatar",
+    "syndication_urls"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:57.554Z"
+}

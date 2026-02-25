@@ -1,0 +1,16 @@
+{
+  "options": [
+    "seowriting_split_to_elementor",
+    "seowriting_plugin_name",
+    "sw_shema_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:47.005Z"
+}

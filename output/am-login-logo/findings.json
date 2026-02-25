@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wp_sett_loginpagebackgroundcolor",
+    "wp_sett_loginpageformbackgroundcolor",
+    "wp_sett_loginpageformfieldbackgroundcolor",
+    "wp_sett_loginpageformfontcolor",
+    "wp_sett_howdytext",
+    "wp_sett_footertext",
+    "wp_sett_hideadminlogo",
+    "wp_sett_hideadminbar",
+    "wp_sett_navigationbackgroundcolor",
+    "wp_sett_navigationfontcolor",
+    "wp_sett_navigationfonthovercolor",
+    "wp_sett_navigationhoverbackgroundcolor",
+    "wp_sett_subnavigationbackgroundcolor",
+    "wp_sett_subnavigationfontcolor",
+    "wp_sett_iconscolor",
+    "wp_sett_loginlogo",
+    "wp_sett_faviconimage",
+    "wp_sett_uploadfilesize",
+    "wp_sett_loginpagebackgroundimage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:35.003Z"
+}

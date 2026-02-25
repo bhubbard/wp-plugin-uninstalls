@@ -1,0 +1,33 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_price_num_decimals",
+    "woocommerce_currency_pos",
+    "wcb_note",
+    "wcb_note_time",
+    "wcb_active",
+    "woo_coupon_box_params",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_coupon_box_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:20.739Z"
+}

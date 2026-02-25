@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lws_cl_deactivate_comments",
+    "lws_cl_hide_comments",
+    "lwscleaner_do_not_ask_again",
+    "my_plugin_db_version",
+    "cron",
+    "lws_cl_*"
+  ],
+  "transients": [
+    "lwscleaner_remind_me",
+    "lws_cl_incache_modal"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:14.853Z"
+}

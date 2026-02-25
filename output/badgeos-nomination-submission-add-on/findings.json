@@ -1,0 +1,30 @@
+{
+  "options": [
+    "bos_ns_options",
+    "badgeos_admin_tools",
+    "badgeos_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_badgeos_earned_by",
+    "_badgeos_submission_achievement_id",
+    "_badgeos_submission_status",
+    "_badgeos_nomination_achievement_id",
+    "_badgeos_nomination_status",
+    "_badgeos_nomination_user_id",
+    "_badgeos_nominating_user_id",
+    "*submission_status",
+    "*nomination_status",
+    "submission_draft_achievement_id",
+    "_badgeos_submission_user_id",
+    "*_status",
+    "*_achievement_id",
+    "_wp_attached_file",
+    "_badgeos_all_attachment_submission_comment",
+    "_badgeos_all_attachment_submission"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:35.351Z"
+}

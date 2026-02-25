@@ -1,0 +1,40 @@
+{
+  "options": [
+    "wizup_total_time_minutes",
+    "wizup_abandoned_cart_template_name",
+    "wizup_abandoned_cart_variables",
+    "wizup_access_token",
+    "wizup_templates",
+    "wizup_show_product_whatsapp_button",
+    "wizup_whatsapp_button_message_product",
+    "wizup_whatsapp_button_message_general",
+    "wizup_new_order_template_name",
+    "wizup_new_order_variables",
+    "wizup_delivered_order_template_name",
+    "wizup_delivered_order_variables",
+    "wizup_canceled_order_template_name",
+    "wizup_canceled_order_variables",
+    "new_order_template_name",
+    "new_order_variables",
+    "delivered_order_template_name",
+    "delivered_order_variables",
+    "canceled_order_template_name",
+    "canceled_order_variables",
+    "*_template_name",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "wizup_cart_activity_*",
+    "wizup_abandoned_cart_notification_*"
+  ],
+  "cron_jobs": [
+    "wizup_check_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_whatsapp_optin",
+    "wizup_active_tab"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:19.167Z"
+}

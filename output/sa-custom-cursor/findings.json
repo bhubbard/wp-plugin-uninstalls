@@ -1,0 +1,27 @@
+{
+  "options": [
+    "sacursor_activate",
+    "sacursor_main_color",
+    "sacursor_image_activate",
+    "sacursor_second_image",
+    "sacursor_second_opacity_image",
+    "sacursor_second_color",
+    "sacursor_main_width",
+    "sacursor_main_height",
+    "sacursor_main_radius",
+    "sacursor_main_width_hover",
+    "sacursor_main_height_hover",
+    "sacursor_second_width",
+    "sacursor_second_height",
+    "sacursor_second_radius",
+    "sacursor_main_opacity",
+    "sacursor_href_selectors",
+    "sacursor_second_activate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:19.862Z"
+}

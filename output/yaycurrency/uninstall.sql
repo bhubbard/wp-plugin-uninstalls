@@ -1,0 +1,29 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('yay_currency_orders_synced_to_base', 'yay_currency_show_flag_in_menu_item', 'yay_currency_show_currency_name_in_menu_item', 'yay_currency_show_currency_symbol_in_menu_item', 'yay_currency_show_currency_code_in_menu_item', 'yay_currency_menu_item_size', 'yay_currency_show_flag_in_widget', 'yay_currency_show_currency_name_in_widget', 'yay_currency_show_currency_symbol_in_widget', 'yay_currency_show_currency_code_in_widget', 'yay_currency_widget_size', 'isShowRecommendations', 'yaycurrency_reviewed', 'wapf_settings_show_in_cart', 'wapf_settings_show_in_checkout', 'woocommerce_tax_display_shop', 'bm_fallback_customer_group', 'bm_bulk_price_discount_message', 'book_price-label', 'hp_booking_enable_quantity', 'hp_listing_allow_price_extras', 'woocommerce_tax_display_cart', 'woocommerce_calc_taxes', 'csp_price_text', 'yay_currency_checkout_different_currency', 'tier_pricing_table_lowest_prefix', 'tier_pricing_table_tiered_price_at_catalog_type', 'cron_projects', 'channel_project', 'woo_payment_discounts_setting', 'ywpar_rewards_percentual_conversion_rate', 'ywpar_rewards_conversion_rate', 'ywpar_earn_points_conversion_rate', 'ywsbs_total_subscription_length_text', 'yay_currency_show_flag_in_switcher', 'yay_currency_show_currency_name_in_switcher', 'yay_currency_show_currency_symbol_in_switcher', 'yay_currency_show_currency_code_in_switcher', 'yay_currency_switcher_size', 'yay_currency_show_single_product_page', 'yay_currency_switcher_position_on_single_product_page', 'yay_currency_show_menu', 'yay_currency_polylang_compatible', 'woocommerce_tax_total_display', 'woocommerce_tax_round_at_subtotal', 'woocommerce_price_num_decimals', 'woocommerce_price_decimal_sep', 'woocommerce_price_thousand_sep', 'woocommerce_currency', 'yay_currency_currency_unit_type');
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_currency_pos');
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('yay_currency_order_rate', 'b2bking_account_type', 'b2bking_account_parent', 'b2bking_b2buser', '_regular_price', 'bm_group_prices', 'bm_bulk_prices', '_sale_price', '_dokan_wholesale_meta', '_lp_regular_price', '_lp_sale_price', '_funnel_id', 'quote_contents', '_subscription_sign_up_fee', '_yay_currency_order_synced', 'status', 'payment_methods', 'currency_position', 'thousand_separator', 'decimal_separator', 'number_decimal', 'rate_type', 'rate', 'fee', '_woocs_order_rate', '_wcpay_multi_currency_order_default_currency', 'wmc_order_info', '_order_total', '_order_currency', 'yay_currency_checkout_original_total');
+DELETE FROM wp_usermeta WHERE meta_key IN ('yay_currency_order_rate', 'b2bking_account_type', 'b2bking_account_parent', 'b2bking_b2buser', '_regular_price', 'bm_group_prices', 'bm_bulk_prices', '_sale_price', '_dokan_wholesale_meta', '_lp_regular_price', '_lp_sale_price', '_funnel_id', 'quote_contents', '_subscription_sign_up_fee', '_yay_currency_order_synced', 'status', 'payment_methods', 'currency_position', 'thousand_separator', 'decimal_separator', 'number_decimal', 'rate_type', 'rate', 'fee', '_woocs_order_rate', '_wcpay_multi_currency_order_default_currency', 'wmc_order_info', '_order_total', '_order_currency', 'yay_currency_checkout_original_total');
+DELETE FROM wp_termmeta WHERE meta_key IN ('yay_currency_order_rate', 'b2bking_account_type', 'b2bking_account_parent', 'b2bking_b2buser', '_regular_price', 'bm_group_prices', 'bm_bulk_prices', '_sale_price', '_dokan_wholesale_meta', '_lp_regular_price', '_lp_sale_price', '_funnel_id', 'quote_contents', '_subscription_sign_up_fee', '_yay_currency_order_synced', 'status', 'payment_methods', 'currency_position', 'thousand_separator', 'decimal_separator', 'number_decimal', 'rate_type', 'rate', 'fee', '_woocs_order_rate', '_wcpay_multi_currency_order_default_currency', 'wmc_order_info', '_order_total', '_order_currency', 'yay_currency_checkout_original_total');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('yay_currency_order_rate', 'b2bking_account_type', 'b2bking_account_parent', 'b2bking_b2buser', '_regular_price', 'bm_group_prices', 'bm_bulk_prices', '_sale_price', '_dokan_wholesale_meta', '_lp_regular_price', '_lp_sale_price', '_funnel_id', 'quote_contents', '_subscription_sign_up_fee', '_yay_currency_order_synced', 'status', 'payment_methods', 'currency_position', 'thousand_separator', 'decimal_separator', 'number_decimal', 'rate_type', 'rate', 'fee', '_woocs_order_rate', '_wcpay_multi_currency_order_default_currency', 'wmc_order_info', '_order_total', '_order_currency', 'yay_currency_checkout_original_total');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'b2bking_regular_product_price_group_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'b2bking_regular_product_price_group_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'b2bking_regular_product_price_group_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'b2bking_regular_product_price_group_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'b2bking_sale_product_price_group_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'b2bking_sale_product_price_group_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'b2bking_sale_product_price_group_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'b2bking_sale_product_price_group_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_group_prices';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_group_prices';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_group_prices';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_group_prices';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_bulk_prices';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_bulk_prices';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_bulk_prices';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_bulk_prices';
+

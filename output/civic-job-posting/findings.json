@@ -1,0 +1,36 @@
+{
+  "options": [
+    "cjp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cjp_job_description",
+    "cjp_organization_name",
+    "cjp_organization_url",
+    "cjp_organization_logo",
+    "cjp_job_location_street_address",
+    "cjp_job_location_address_locality",
+    "cjp_job_location_address_region",
+    "cjp_job_location_postal_code",
+    "cjp_job_location_address_country",
+    "cjp_job_location_start_date",
+    "cjp_job_location_expiry_date",
+    "cjp_applicant_remotely_check",
+    "cjp_applicant_country",
+    "cjp_job_base_salary_currency",
+    "cjp_base_salary_value",
+    "cjp_base_min_salary_value",
+    "cjp_base_max_salary_value",
+    "cjp_job_base_salary_unit_text",
+    "cjp_job_employment_type",
+    "cjp_identifier_name",
+    "cjp_identifier_value",
+    "cjp_apply_value",
+    "cjp_apply_value_email",
+    "cjp_job_permalink_published"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:00.583Z"
+}

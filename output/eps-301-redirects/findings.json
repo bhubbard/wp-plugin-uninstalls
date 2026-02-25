@@ -1,0 +1,16 @@
+{
+  "options": [
+    "eps_pointers",
+    "eps_redirects_404_log",
+    "301-redirects-notices",
+    "eps_redirects_version"
+  ],
+  "transients": [
+    "post_type_cache_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:47.489Z"
+}

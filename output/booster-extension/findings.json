@@ -1,0 +1,38 @@
+{
+  "options": [
+    "twp_be_options_settings",
+    "twp_post_rating",
+    "twp_visited_date",
+    "twp_pined_posts"
+  ],
+  "transients": [
+    "twp-posts-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "phone",
+    "twp_be_like_count",
+    "twp_be_dislike_like_count",
+    "twp_be_ip_address_lists_dislike",
+    "twp_be_ip_address_lists_like",
+    "twp_be_ip_address_react_1",
+    "twp_be_ip_address_react_2",
+    "twp_be_ip_address_react_3",
+    "twp_be_ip_address_react_4",
+    "twp_be_ip_address_react_5",
+    "twp_be_ip_address_react_6",
+    "twp_be_react_1",
+    "twp_be_react_2",
+    "twp_be_react_3",
+    "twp_be_react_4",
+    "twp_be_react_5",
+    "twp_be_react_6",
+    "twp_be_post_views_count",
+    "be_user_avatar",
+    "be_user_background_avatar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:22.830Z"
+}

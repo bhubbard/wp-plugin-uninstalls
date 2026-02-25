@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'aicw_db_version'
+wp option delete 'aicw_display_option'
+wp option delete 'aicw_specific_pages'
+wp option delete 'aicw_chat_width'
+wp option delete 'aicw_chat_height'
+wp option delete 'aicw_typing_indicator_text'
+wp option delete 'aicw_enable_icon_animation'
+wp option delete 'aicw_widget_icon'
+wp option delete 'aicw_custom_icon_svg'
+wp option delete 'aicw_openai_key'
+wp option delete 'aicw_anthropic_key'
+wp option delete 'aicw_gemini_key'
+wp option delete 'aicw_selected_model'
+wp option delete 'aicw_widget_title'
+wp option delete 'aicw_widget_subtitle'
+wp option delete 'aicw_primary_color'
+wp option delete 'aicw_chat_position'
+wp option delete 'aicw_temperature'
+wp option delete 'aicw_max_tokens'
+wp option delete 'aicw_enable_widget'
+wp option delete 'aicw_custom_instructions'
+wp option delete 'aicw_knowledge_base'
+wp option delete 'aicw_top_p'
+wp option delete 'aicw_frequency_penalty'
+wp option delete 'aicw_presence_penalty'
+wp option delete 'aicw_knowledge_base_summary'
+wp option delete 'aicw_assistant_logo'
+

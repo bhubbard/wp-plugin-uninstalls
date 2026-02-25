@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_ignore",
+    "*_notice_ignore",
+    "reales_fields_settings",
+    "reales_prop_fields_settings",
+    "reales_amenities_settings",
+    "reales_cities_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "property_gallery",
+    "property_plans",
+    "property_city"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:05.630Z"
+}

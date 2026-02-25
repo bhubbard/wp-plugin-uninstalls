@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_maxv_st_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pros_EditorialReviews"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:19.579Z"
+}

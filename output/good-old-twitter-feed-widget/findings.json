@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_valid",
+    "good_old_twitter_widget"
+  ],
+  "transients": [
+    "*_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:10.451Z"
+}

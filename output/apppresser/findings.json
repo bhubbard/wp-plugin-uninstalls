@@ -1,0 +1,40 @@
+{
+  "options": [
+    "appp_deprecate_ver",
+    "appp_settings_ver",
+    "theme_mods_*",
+    "myapp_disable_remote_updates",
+    "appp_logging_timeout",
+    "appplog_filename",
+    "ap2-remote-js",
+    "appp_settings",
+    "active_sitewide_plugins",
+    "recently_activated"
+  ],
+  "transients": [
+    "_welcome_screen_activation_redirect",
+    "*limited_data",
+    "appp_license_*",
+    "apppresser_update_plugins",
+    "apppresser_plugin_check",
+    "apppresser_plugin_update_json",
+    "apppresser_update_themes",
+    "apppresser_theme_check",
+    "apppresser_theme_update_json",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "app_hash",
+    "*_dismissed",
+    "appp_media_url",
+    "app_cookie_auth",
+    "appp_media_image",
+    "app_unverified",
+    "app_verification_code",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:06.224Z"
+}

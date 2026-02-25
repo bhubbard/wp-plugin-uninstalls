@@ -1,0 +1,15 @@
+{
+  "options": [
+    "my_plugin_db_version",
+    "delighted_api_key",
+    "survey_time_period",
+    "survey_first_time_customer",
+    "survey_backfill_customer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:58.088Z"
+}

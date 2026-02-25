@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('catalogx_plugin_version', 'catalogx_plugin_activated', 'catalogx_enquiry_form_customization_settings', 'catalogx_plugin_installed', 'catalogx_tour_active', 'catalogx_tour_version', 'catalogx_request_quote_page', 'mvx_catalog_general_tab_settings', 'catalogx_all_settings_settings', 'catalogx_enquiry_email_temp_settings', 'catalogx_enquiry_cart_page', 'wholesale_products_page', 'catalogx_pages_settings', 'catalogx_wholesale_registration_settings', 'catalogx_enquiry-catalog-customization_settings', 'catalogx_enquiry_catalog_customization_settings', 'catalogx_all-settings_settings', 'catalogx_enquiry-quote-exclusion_settings', 'catalogx_enquiry_quote_exclusion_settings', 'catalogx_enquiry-form-customization_settings', 'catalogx_enquiry-email-temp_settings', 'catalogx_wholesale-registration_settings', 'mvx_catalog_button_appearance_tab_settings', 'catalogx_tools_settings', 'mvx_catalog_enquiry_form_tab_settings', 'mvx_catalog_pro_enquiry_form_data', 'mvx_catalog_exclusion_tab_settings', 'woocommerce_catalog_enquiry_from_settings', 'woocommerce_catalog_enquiry_general_settings', 'woocommerce_catalog_enquiry_exclusion_settings', 'woocommerce_catalog_enquiry_button_appearence_settings', 'variation_list');
+DELETE FROM wp_options WHERE option_name LIKE '_catalogx_session_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('vendor_enquiry_settings', '_mvx_vendor_catalog_settings', 'catalog_per_product_desc');
+DELETE FROM wp_usermeta WHERE meta_key IN ('vendor_enquiry_settings', '_mvx_vendor_catalog_settings', 'catalog_per_product_desc');
+DELETE FROM wp_termmeta WHERE meta_key IN ('vendor_enquiry_settings', '_mvx_vendor_catalog_settings', 'catalog_per_product_desc');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('vendor_enquiry_settings', '_mvx_vendor_catalog_settings', 'catalog_per_product_desc');
+

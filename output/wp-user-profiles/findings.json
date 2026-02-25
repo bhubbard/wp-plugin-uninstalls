@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_new_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "primary_blog"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:11.092Z"
+}

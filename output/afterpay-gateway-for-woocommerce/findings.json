@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_afterpay_settings",
+    "woocommerce_afterpay_api_error",
+    "woocommerce_currency"
+  ],
+  "transients": [
+    "afterpay-admin-activation-notice"
+  ],
+  "cron_jobs": [
+    "afterpay_do_cron_jobs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:53.905Z"
+}

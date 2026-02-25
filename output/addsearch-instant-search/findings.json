@@ -1,0 +1,15 @@
+{
+  "options": [
+    "addsearch_settings",
+    "addsearch_redirect",
+    "addSearchCustomerKey",
+    "addsearch_prexisting",
+    "addsearch_currentversion"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:35.217Z"
+}

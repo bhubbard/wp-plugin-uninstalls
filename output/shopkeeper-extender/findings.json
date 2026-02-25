@@ -1,0 +1,39 @@
+{
+  "options": [
+    "getbowtied_theme_license_subscription_expired_dismissed",
+    "getbowtied_theme_license_subscription_expiring_soon_dismissed",
+    "auto_update_themes",
+    "gbt_theme_updated_redirect",
+    "social_media_options_import",
+    "social_media_repeater_option_import",
+    "sk_footer_social_icons",
+    "sk_top_bar_social_icons",
+    "sk_*",
+    "sk_social_media_repeater",
+    "sk_social_sharing_options_import",
+    "sk_sharing_options",
+    "sk_sharing_options_facebook",
+    "sk_sharing_options_facebook_meta",
+    "sk_sharing_options_twitter",
+    "sk_sharing_options_pinterest"
+  ],
+  "transients": [
+    "gbt_dashboard_notification_*",
+    "update_themes",
+    "gbt_license_result",
+    "elementor_activation_redirect",
+    "wc_term_counts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "getbowtied-welcome-pointer-dismissed",
+    "display_type",
+    "header_id",
+    "_menu_item_background_url",
+    "_menu_item_megamenu",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:04.309Z"
+}

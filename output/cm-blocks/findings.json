@@ -1,0 +1,30 @@
+{
+  "options": [
+    "cmblocks_plugin_activated",
+    "cm_blocks_favorite_patterns_table_created",
+    "cm_blocks_visibility_media_sizes",
+    "__cm_blocks_media_migration",
+    "\tsite_logo",
+    "site_logo",
+    "__cm_blocks_import_*",
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_myaccount_page_id",
+    "cm_blocks_license_data",
+    "_cm_blocks_plugin_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cm_license_check_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cmblocks_image_url",
+    "_cmblocks_imported_id",
+    "cm_blocks_setting_header_sticky",
+    "cm_blocks_setting_header_sticky__settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:14.761Z"
+}

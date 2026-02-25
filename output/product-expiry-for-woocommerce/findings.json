@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "woo_expiry_schedule_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "woo_expiry_date",
+    "woo_expiry_action"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:00.150Z"
+}

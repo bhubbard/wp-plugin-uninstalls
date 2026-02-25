@@ -1,0 +1,118 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('byconsolewooodt_free_plugin_activation_date');
+delete_site_option('byconsolewooodt_free_plugin_activation_date');
+delete_option('byconsolewooodt_odt_setting');
+delete_site_option('byconsolewooodt_odt_setting');
+delete_option('byconsolewooodt_holidays_setting');
+delete_site_option('byconsolewooodt_holidays_setting');
+delete_option('byconsolewooodt_location_setting');
+delete_site_option('byconsolewooodt_location_setting');
+delete_option('bycwooodt_language_translate');
+delete_site_option('bycwooodt_language_translate');
+delete_option('byconsolewooodt_multiple_pickup_location');
+delete_site_option('byconsolewooodt_multiple_pickup_location');
+delete_option('byconsolewooodt_extra_options');
+delete_site_option('byconsolewooodt_extra_options');
+delete_option('byconsolewooodt_free_plugin_admin_access_date');
+delete_site_option('byconsolewooodt_free_plugin_admin_access_date');
+delete_option('byconsolewooodt_discount_percentage_amount');
+delete_site_option('byconsolewooodt_discount_percentage_amount');
+delete_option('byconsolewooodt_chekout_page_section_heading');
+delete_site_option('byconsolewooodt_chekout_page_section_heading');
+delete_option('byconsolewooodt_chekout_page_date_label');
+delete_site_option('byconsolewooodt_chekout_page_date_label');
+delete_option('byconsolewooodt_chekout_page_time_label');
+delete_site_option('byconsolewooodt_chekout_page_time_label');
+delete_option('byconsolewooodt_chekout_page_order_type_label');
+delete_site_option('byconsolewooodt_chekout_page_order_type_label');
+delete_option('byconsolewooodt_chekout_page_select_pickup_location_label');
+delete_site_option('byconsolewooodt_chekout_page_select_pickup_location_label');
+delete_option('byconsolewooodt_chekout_page_hrs_value');
+delete_site_option('byconsolewooodt_chekout_page_hrs_value');
+delete_option('byconsolewooodt_chekout_page_tips_label');
+delete_site_option('byconsolewooodt_chekout_page_tips_label');
+delete_option('byconsolewooodt_chekout_page_delivery_tip_label');
+delete_site_option('byconsolewooodt_chekout_page_delivery_tip_label');
+delete_option('byconsolewooodt_display_time_as');
+delete_site_option('byconsolewooodt_display_time_as');
+delete_option('byconsolewooodt_hours_format');
+delete_site_option('byconsolewooodt_hours_format');
+delete_option('byconsolewooodt_preorder_days');
+delete_site_option('byconsolewooodt_preorder_days');
+delete_option('byconsolewooodt_time_field_validation');
+delete_site_option('byconsolewooodt_time_field_validation');
+delete_option('byconsolewooodt_order_type');
+delete_site_option('byconsolewooodt_order_type');
+delete_option('add_delivery_pickup_date_time_in_order_note');
+delete_site_option('add_delivery_pickup_date_time_in_order_note');
+delete_option('byconsolewooodt_time_field_show');
+delete_site_option('byconsolewooodt_time_field_show');
+delete_option('byconsolewooodt_tips_show_on_checkout_page');
+delete_site_option('byconsolewooodt_tips_show_on_checkout_page');
+delete_option('byconsolewooodt_opening_hours_from');
+delete_site_option('byconsolewooodt_opening_hours_from');
+delete_option('byconsolewooodt_opening_hours_to');
+delete_site_option('byconsolewooodt_opening_hours_to');
+delete_option('byconsolewooodt_delivery_hours_from');
+delete_site_option('byconsolewooodt_delivery_hours_from');
+delete_option('byconsolewooodt_delivery_hours_to');
+delete_site_option('byconsolewooodt_delivery_hours_to');
+delete_option('byconsolewooodt_delivery_times');
+delete_site_option('byconsolewooodt_delivery_times');
+delete_option('byconsolewooodt_takeaway_lable');
+delete_site_option('byconsolewooodt_takeaway_lable');
+delete_option('byconsolewooodt_delivery_lable');
+delete_site_option('byconsolewooodt_delivery_lable');
+delete_option('byconsolewooodt_date_field_text');
+delete_site_option('byconsolewooodt_date_field_text');
+delete_option('byconsolewooodt_time_field_text');
+delete_site_option('byconsolewooodt_time_field_text');
+delete_option('byconsolewooodt_orders_delivered');
+delete_site_option('byconsolewooodt_orders_delivered');
+delete_option('byconsolewooodt_orders_pick_up');
+delete_site_option('byconsolewooodt_orders_pick_up');
+delete_option('byconsolewooodt_select_tip_lable_text');
+delete_site_option('byconsolewooodt_select_tip_lable_text');
+delete_option('byconsolewooodt_widget_field_position');
+delete_site_option('byconsolewooodt_widget_field_position');
+delete_option('byconsolewooodt_pickup_holidays');
+delete_site_option('byconsolewooodt_pickup_holidays');
+delete_option('byconsolewooodt_delivery_holidays');
+delete_site_option('byconsolewooodt_delivery_holidays');
+delete_option('byconsolewooodt_free_delivery_pickup_holiday1');
+delete_site_option('byconsolewooodt_free_delivery_pickup_holiday1');
+delete_option('byconsolewooodt_free_delivery_pickup_holiday2');
+delete_site_option('byconsolewooodt_free_delivery_pickup_holiday2');
+delete_option('byconsolewooodt_pickup_location');
+delete_site_option('byconsolewooodt_pickup_location');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_virtual' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_virtual' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_virtual' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_virtual' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'byconsolewooodt_delivery_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'byconsolewooodt_pickup_location' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'byconsolewooodt_pickup_location' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'byconsolewooodt_pickup_location' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'byconsolewooodt_pickup_location' ) );
+

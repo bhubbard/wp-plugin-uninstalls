@@ -1,0 +1,50 @@
+{
+  "options": [
+    "pixelavo_diagnostic_data_agreed",
+    "pixelavo_diagnostic_data_notice",
+    "pixelavo_delete_data_fetch_cache",
+    "*_htiop",
+    "*_htiop_bar",
+    "*_htiop_popup",
+    "*_htiop_redirect",
+    "*_htiop_data",
+    "*_htiop_timer",
+    "pixelavo_settings",
+    "pixelavo_ai_db_version",
+    "pixelavo_openssl_notice_dismissed",
+    "pixelavo_wp_keys_notice_dismissed",
+    "pixelavo_events",
+    "pixelavo_edd_events",
+    "pixelavo_download_files",
+    "pixelavo_time_on_page",
+    "pixelavo_page_scroll",
+    "pixelavo_form_submission",
+    "pixelavo_other_events",
+    "pixelavo_wc_view_content",
+    "pixelavo_wc_purchase",
+    "pixelavo_do_activation_redirect",
+    "pixelavo_installed",
+    "force_update_pixelavo_notice_info",
+    "pixelavo_pixels_list",
+    "pixelavo_custom_events",
+    "pixelavo_other_events_setting_modify",
+    "pixelavo_setting_modify_124",
+    "pixelavo_edd_purchase",
+    "pixelavo_edd_view_content"
+  ],
+  "transients": [
+    "pixelavo-notice-id-pixelavo-diagnostic-notice",
+    "*_htiop_data",
+    "pixelavo_ai_tables_checked",
+    "pixelavo_notice_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pixelavo_user_login",
+    "pixelavo_user_signup",
+    "_product_condition"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:34.522Z"
+}

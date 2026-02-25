@@ -1,0 +1,54 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "enable_cpbwc",
+    "cpbwc_product_images",
+    "cpbwc_product_builders",
+    "cpbwc_textbox_font_family",
+    "cpbwc_font_family",
+    "cpbwc_textbox_font_size",
+    "cpbwc_font_size",
+    "cpbwc_textbox_shadow",
+    "cpbwc_shadow",
+    "cpbwc_textbox_uppercase",
+    "cpbwc_uppercase"
+  ],
+  "transients": [
+    "cpbwc_activation_redirect",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "cpbwc_*"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cpbwc_builder_type",
+    "cpbwc_builder_type",
+    "_enable_cpbwc",
+    "_cpbwc_product_images",
+    "_cpbwc_product_builders",
+    "_cpbwc_hide_merge_image",
+    "_cpbwc_hide_draw",
+    "_cpbwc_hide_preview",
+    "_cpbwc_hide_add_template",
+    "_cpbwc_hide_add_textbox",
+    "_cpbwc_hide_download",
+    "_cpbwc_hide_reset",
+    "enable_cpbwc",
+    "_cpbwc_enabled",
+    "cpbwc_enabled",
+    "_cpbwc_product_logo",
+    "cpbwc_product_logo"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:36.296Z"
+}

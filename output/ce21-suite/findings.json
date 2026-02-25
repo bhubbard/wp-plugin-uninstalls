@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ce21_access_token",
+    "ce21_token_expiry",
+    "authorizeURI_ce21",
+    "tenantId_ce21",
+    "ce21_authentication_key",
+    "backendURI_ce21",
+    "baseAPIURI_ce21"
+  ],
+  "transients": [
+    "wp_upe_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_article_authentication",
+    "_wp_page_template",
+    "_post_authentication_custom_metabox_ce21",
+    "_sign_in_ce21",
+    "_CE21_CustomerId"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:43.272Z"
+}

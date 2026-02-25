@@ -1,0 +1,34 @@
+{
+  "options": [
+    "parcelbrokerwc-dismiss_notice",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "parcelbrokerwc-powered_by",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "parcelbrokerwc-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_anonymized",
+    "_parcelbrokerwc-order_response",
+    "_parcelbrokerwc-errors_count",
+    "_parcelbrokerwc-use_customs",
+    "_package_length",
+    "_package_width",
+    "_package_height",
+    "_parcelbrokerwc-order_errors",
+    "_parcelbrokerwc-parcel_list",
+    "_parcelbrokerwc-xml",
+    "_parcelbrokerwc-error-mail",
+    "_parcelbrokerwc-error-date",
+    "bookSuccess"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:01.571Z"
+}

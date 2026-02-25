@@ -1,0 +1,22 @@
+{
+  "options": [
+    "timezone",
+    "ip",
+    "proxy",
+    "curl_module",
+    "first",
+    "msg",
+    "redirect",
+    "tor",
+    "ua",
+    "log",
+    "ownserverip",
+    "curl_extension"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:09.678Z"
+}

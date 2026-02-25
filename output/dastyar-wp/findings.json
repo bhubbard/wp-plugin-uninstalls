@@ -1,0 +1,26 @@
+{
+  "options": [
+    "mbwp_heartbeat",
+    "mbwp_shortlink",
+    "mbwp_pingback",
+    "mbwp_xml_rpc",
+    "mbwp_remove_qurey_string",
+    "mbwp_hide_wp",
+    "mbwp_dns_prefetch",
+    "mbwp_contact_form",
+    "mbwp_mbeds",
+    "mbwp_WLManifest",
+    "mbwp_Remove_JQuery",
+    "mbwp_dashicons",
+    "mbwp_remove_url_comment",
+    "mbwp_disable_acf",
+    "mbwp_search",
+    "mbwp_preload_fonts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:30.038Z"
+}

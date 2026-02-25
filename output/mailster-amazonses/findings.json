@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mailster_amazonsns_last_response",
+    "_transient__mailster_send_period_timeout",
+    "_transient__mailster_send_period"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mailster_amazonses_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:49.002Z"
+}

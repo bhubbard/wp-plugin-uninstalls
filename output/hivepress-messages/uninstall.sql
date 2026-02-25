@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('hp_message_allow_attachment', 'hp_message_refresh_interval', 'hp_message_enable_storage', 'hp_message_blocked_keywords', 'hp_message_attachment_types', 'hp_message_expiration_period', 'hp_message_storage_period', 'hp_message_allow_monitoring', 'hp_message_allow_deletion', 'hp_user_enable_display');
+

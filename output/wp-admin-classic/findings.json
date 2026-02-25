@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_admin_class_color_scheme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:03.522Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "recently_activated",
+    "jewelrystore_option",
+    "spawp_option",
+    "home_and_blog_activate"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "tgmpa_dismissed_notice_*",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:53.321Z"
+}

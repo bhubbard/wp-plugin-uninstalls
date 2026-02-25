@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fapiMemberApiEmail",
+    "fapiMemberApiKey",
+    "fapi_member_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fapi_pages",
+    "fapi_user_memberships"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:48.114Z"
+}

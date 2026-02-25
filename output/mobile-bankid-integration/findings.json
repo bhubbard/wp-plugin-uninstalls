@@ -1,0 +1,22 @@
+{
+  "options": [
+    "mobile_bankid_integration_env",
+    "mobile_bankid_integration_certificate",
+    "mobile_bankid_integration_password",
+    "mobile_bankid_integration_wplogin",
+    "mobile_bankid_integration_registration",
+    "mobile_bankid_integration_terms",
+    "mobile_bankid_integration_session_secret",
+    "mobile_bankid_integration_woocommerce_login",
+    "mobile_bankid_integration_woocommerce_checkout_require_bankid",
+    "mobile_bankid_integration_woocommerce_age_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mobile_bankid_integration_personal_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:06.892Z"
+}

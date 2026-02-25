@@ -1,0 +1,20 @@
+{
+  "options": [
+    "amazing_linker_review_notice",
+    "amazing-linker-activation-time",
+    "widget_amazing_linker_product_widget",
+    "amazing_linker_credential_tab_option",
+    "amazing_linker_associate_tab_option",
+    "amazing_linker_settings_tab_option"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "amazing_linker_product_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:42.456Z"
+}

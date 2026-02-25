@@ -1,0 +1,17 @@
+{
+  "options": [
+    "smart_pwa_theme_color",
+    "smart_pwa_assets_paths",
+    "smart_pwa_not_available_page",
+    "smart_pwa_background_color",
+    "smart_pwa_icon"
+  ],
+  "transients": [
+    "smart_pwa_hash"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:07.977Z"
+}

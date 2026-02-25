@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bztm_settings"
+  ],
+  "transients": [
+    "bztm_stats",
+    "bztm_sources"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "display",
+    "featured",
+    "author_name",
+    "rating",
+    "date_published",
+    "source",
+    "review_url",
+    "location",
+    "owner_response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:17.049Z"
+}

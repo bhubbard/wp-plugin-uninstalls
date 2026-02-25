@@ -1,0 +1,25 @@
+{
+  "options": [
+    "exad_blocks_notice_hide",
+    "exad_save_settings",
+    "exad_google_map_api_option",
+    "exad_save_mailchimp_api",
+    "exad_primary_color_option",
+    "exad_secondary_color_option",
+    "exad_do_update_redirect",
+    "elementor_viewport_lg",
+    "elementor_viewport_md",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:28.362Z"
+}

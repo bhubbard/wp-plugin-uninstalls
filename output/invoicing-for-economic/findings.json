@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_input_secret_token",
+    "*_input_grant_token",
+    "*_select_productline",
+    "*_select_customer",
+    "*_select_layout",
+    "*_tokens_valid",
+    "_iwep_settings_plugin_active",
+    "_iwe_settings_plugin_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:58.958Z"
+}

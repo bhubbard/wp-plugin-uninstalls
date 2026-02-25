@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shsp_title",
+    "_shsp_li1",
+    "_shsp_li2",
+    "_shsp_li3",
+    "_shsp_li4",
+    "_shsp_li5",
+    "_shsp_align",
+    "_shsp_style"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:59.962Z"
+}

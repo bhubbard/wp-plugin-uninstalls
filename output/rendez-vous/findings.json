@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "rendez_vous_last_message_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rendez_vous_venue",
+    "_rendez_vous_duration",
+    "_rendez_vous_status",
+    "_rendez_vous_days",
+    "_rendez_vous_attendees",
+    "_rendez_vous_defdate",
+    "_rendez_vous_group_id",
+    "notification_rendez_vous_schedule",
+    "notification_rendez_vous_attend"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:47.967Z"
+}

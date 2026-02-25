@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "iare_crm_connection_status",
+    "iare_crm_campaigns"
+  ],
+  "cron_jobs": [
+    "iare_crm_sync_campaigns",
+    "iare_crm_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:34.533Z"
+}

@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('suggestion_toolkit_cache', 'suggestion_toolkit_cache_expiration', 'suggestion_toolkit_rewrite_tag', 'suggestion_toolkit_enabled_types', 'suggestion_toolkit_append_random', 'suggestion_toolkit_thumb_width', 'suggestion_toolkit_thumb_height', 'suggestion_toolkit_thumb_cover', 'suggestion_toolkit_title_font_size', 'suggestion_toolkit_title_words', 'suggestion_toolkit_target_blank', 'suggestion_toolkit_rel', 'suggestion_toolkit_rewrite_enable', 'suggestion_toolkit_append_category', 'suggestion_toolkit_num_suggestions', 'suggestion_toolkit_more', 'suggestion_toolkit_layout_style');
+DELETE FROM wp_options WHERE option_name LIKE '%_login_info';
+

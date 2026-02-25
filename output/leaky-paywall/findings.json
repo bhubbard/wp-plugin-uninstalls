@@ -1,0 +1,49 @@
+{
+  "options": [
+    "issuem-leaky-paywall-site-wide",
+    "last_zeen101_dot_com_leaky_rss_item",
+    "issuem-leaky-paywall"
+  ],
+  "transients": [
+    "_lpl_*",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "leaky_paywall_process_renewal_reminder",
+    "zeen101_dot_com_leaky_rss_feed_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_leaky_paywall_subscriber_notes",
+    "leaky_paywall_rss_item_notice_link",
+    "_gateway_txn_id",
+    "_price",
+    "_status",
+    "_nag_location_id",
+    "_user_data",
+    "_customer_data",
+    "_level_id",
+    "_gateway",
+    "_first_name",
+    "_last_name",
+    "_email",
+    "_currency",
+    "_is_recurring",
+    "_paypal_request",
+    "_transaction_status",
+    "_login",
+    "_issuem_leaky_paywall_show_upgrade_message",
+    "_issuem_leaky_paywall_visibility",
+    "_password",
+    "_field_data",
+    "*_level_id",
+    "*_plan",
+    "*_created",
+    "*_expires",
+    "*_payment_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:38.709Z"
+}

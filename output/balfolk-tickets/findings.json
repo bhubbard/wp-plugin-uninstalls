@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bft_products_ids_custom_checkbox",
+    "bft_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "BFT Custom Product Additional Check",
+    "_wp_page_template",
+    "BFT Additional Check"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:53.325Z"
+}

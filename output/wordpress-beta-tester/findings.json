@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_beta_tester",
+    "wp_beta_tester_core",
+    "wp_beta_tester_extras"
+  ],
+  "transients": [
+    "update_core",
+    "current_wp_release"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:54.283Z"
+}

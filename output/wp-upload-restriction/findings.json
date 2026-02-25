@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpur_selected_mimes",
+    "wpur_db_version",
+    "wpur_selected_mimes_*",
+    "wpur_max_upload_unit_*",
+    "wpur_max_upload_*",
+    "wpur_max_upload_restrict*",
+    "wpur_custom_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:07.889Z"
+}

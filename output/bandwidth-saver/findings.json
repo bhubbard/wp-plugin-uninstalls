@@ -1,0 +1,20 @@
+{
+  "options": [
+    "imgpro_cdn_batched_cache_key",
+    "imgpro_cdn_version",
+    "imgpro_cdn_settings"
+  ],
+  "transients": [
+    "imgpro_cdn_subscription_pending",
+    "imgpro_cdn_pending_payment",
+    "imgpro_cdn_payment_pending_recovery",
+    "imgpro_cdn_site_data",
+    "imgpro_cdn_tiers",
+    "imgpro_cdn_last_sync"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:55.742Z"
+}

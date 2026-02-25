@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpsync_spreadsheet_key",
+    "wpsync_spreadsheet_sheet",
+    "wpsync_allow_delete_from_spreadsheet",
+    "wpsync_allow_update_from_spreadsheet",
+    "wpsync_allow_update_fields",
+    "wpsync_debug_mode",
+    "wpsync_default_tags",
+    "wpsync_default_post_type",
+    "wpsync_default_status",
+    "wpsync_create_categories_if_not_exist",
+    "wpsync_create_tags_if_not_exist",
+    "wpsync_default_category"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpsync_external_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:13.335Z"
+}

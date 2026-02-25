@@ -1,0 +1,19 @@
+{
+  "options": [
+    "dynpicwatermark_default_position",
+    "dynpicwatermark_force_default_position",
+    "dynpicwatermark_size_type",
+    "dynpicwatermark_size_value",
+    "dynpicwatermark_watermark_file",
+    "dynpicwatermark_mark_any_image",
+    "dynpicwatermark_memory_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:04.060Z"
+}

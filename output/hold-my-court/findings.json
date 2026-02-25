@@ -1,0 +1,24 @@
+{
+  "options": [
+    "holdmyco_cb_court_count",
+    "holdmyco_cb_slot_minutes",
+    "holdmyco_cb_open_hour",
+    "holdmyco_cb_close_hour",
+    "holdmyco_cb_open_minute",
+    "holdmyco_cb_close_minute",
+    "hmc_cb_open_time",
+    "hmc_cb_close_time",
+    "hmc_cb_open_hour",
+    "hmc_cb_open_minute",
+    "hmc_cb_close_hour",
+    "hmc_cb_close_minute",
+    "holdmyco_cb_open_time",
+    "holdmyco_cb_close_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:00.327Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wpgs_settings",
+    "gspeech_*",
+    "gspeech_version_index",
+    "gspeech_crypto",
+    "gspeech_reload_session",
+    "gspeech_sh_w_loaded",
+    "gspeech_sh_",
+    "gspeech_plan",
+    "gspeech_appsumo",
+    "GTranslate",
+    "GSpeech",
+    "gspeech_db_version",
+    "gspeech_admin_notice",
+    "*_admin_notice"
+  ],
+  "transients": [
+    "gspeech_settings_cache",
+    "gsp_crypto_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:57.746Z"
+}

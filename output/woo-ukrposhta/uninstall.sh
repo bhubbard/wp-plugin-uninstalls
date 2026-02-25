@@ -1,0 +1,60 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'morkva_ukrposhta_default_payer'
+wp option delete 'invoice_addweight'
+wp option delete 'sendtype'
+wp option delete 'sendwtype'
+wp option delete 'up_sender_type'
+wp option delete 'up_company_name'
+wp option delete 'edrpou'
+wp option delete 'names1'
+wp option delete 'names2'
+wp option delete 'up_tin'
+wp option delete 'woocommerce_store_postcode'
+wp option delete 'phone'
+wp option delete 'production_bearer_ecom'
+wp option delete 'production_cp_token'
+wp option delete 'production_bearer_status_tracking'
+wp option delete 'invoice_up[]'
+wp option delete 'proptype'
+wp option delete 'woocommerce_default_country'
+wp option delete 'morkva_ukrposhta_db_version'
+wp option delete 'MORKVA_UKRPOSHTA_VERSION'
+wp option delete 'morkva_ukrposhta_state'
+wp option delete 'mrkvup_checkout_fields_position'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'morkva_ukrposhta_%'"
+wp option delete 'morkva_ukrposhta_address_shipping'
+wp option delete 'morkva_ukrposhta_send_statistic'
+wp option delete '_transient_shipping-transient-version'
+wp option delete 'morkva_ukrposhta_up_lang'
+wp option delete 'senduptype'
+wp option delete 'woocommerce_weight_unit'
+wp option delete 'mrkvup_default_order_weight '
+wp option delete 'mrkvup_default_order_length '
+wp option delete 'mrkvup_default_order_height'
+wp option delete 'mrkvup_default_order_height '
+wp option delete 'mrkvup_default_order_width'
+wp option delete ' sendtype'
+wp option delete 'up_invoice_description'
+wp option delete 'morkva_ukrposhta_transfer_postpay_to_sender_bank_account'
+wp option delete 'morkva_ukrposhta_default_price'
+wp option delete 'morkva_ukrposhta_up_api_key'
+wp option delete 'morkva_ukrposhta_spinner_color'
+wp option delete 'zone_ukrposhta'
+wp option delete 'mrkvup_default_order_weight'
+wp option delete 'mrkvup_default_order_length'
+wp option delete 'ukrposhta_calculate_rates_currency'
+wp option delete 'names3'
+wp option delete 'flat'
+wp option delete 'invoice_weight'
+wp option delete 'mrkvup_sender_iban'
+wp option delete 'morkvaup_email_template'
+wp option delete 'morkvaup_email_subject'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ukrposhta_ttn'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ukrposhta_ttn'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ukrposhta_ttn'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ukrposhta_ttn'"

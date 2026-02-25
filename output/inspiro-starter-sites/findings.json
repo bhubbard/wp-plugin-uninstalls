@@ -1,0 +1,44 @@
+{
+  "options": [
+    "inspiro_starter_sites_activation_redirect",
+    "woocommerce_setup_wizard_options_update_once",
+    "woocommerce_task_list_hidden",
+    "woocommerce_task_list_complete",
+    "woocommerce_task_list_welcome_modal_dismissed",
+    "inspiro_demo_layout",
+    "inspiro_starter_sites_imported_demo_id",
+    "inspiro_starter_sites_importer_elementor_pages",
+    "widget_*",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "elementor_activation_redirect",
+    "inspiro_starter_sites_importer_data",
+    "inspiro_starter_sites_importer_data_failed_attachment_imports",
+    "inspiro_starter_sites_import_menu_mapping",
+    "inspiro_starter_sites_import_posts_with_nav_block",
+    "wc_attribute_taxonomies",
+    "pt_importer_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_is_custom_header",
+    "_inspiro_starter_sites_importer_imported_post",
+    "_inspiro_starter_sites_importer_enable_for_batch",
+    "_elementor_version",
+    "_inspiro_starter_sites_importer_image_hash",
+    "_inspiro_starter_sites_importer_imported_term",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id",
+    "inspiro_starter_content_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:33.429Z"
+}

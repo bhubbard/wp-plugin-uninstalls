@@ -1,0 +1,19 @@
+{
+  "options": [
+    "fpr_options",
+    "fpr_store_key",
+    "followprice_activated",
+    "followprice_activation_redirect",
+    "followprice_activated_count",
+    "product_page_priorities"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sale_price_dates_from",
+    "_sale_price_dates_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:53.469Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lp_num_limit",
+    "lp_per_author",
+    "lp_force_delete"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:45.248Z"
+}

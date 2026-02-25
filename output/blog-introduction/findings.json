@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bintro_enabled",
+    "bintro_from",
+    "bintro_settings_heading",
+    "bintro_settings_content",
+    "bintro_page_permalink",
+    "bintro_show_heading",
+    "bintro_show_content",
+    "bintro_show_for",
+    "bintro_show_on_pages",
+    "bintro_show_on_home",
+    "bintro_heading_tag",
+    "bintro_style_intro",
+    "bintro_size_heading",
+    "bintro_style_heading",
+    "bintro_size_content",
+    "bintro_style_content",
+    "bintro_at_loop_count",
+    "bintro_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:54.372Z"
+}

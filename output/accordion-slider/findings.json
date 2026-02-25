@@ -1,0 +1,33 @@
+{
+  "options": [
+    "accordion_slider_access",
+    "accordion_slider_load_unminified_scripts",
+    "accordion_slider_add_ons",
+    "accordion_slider_is_custom_css",
+    "accordion_slider_custom_css",
+    "accordion_slider_load_stylesheets",
+    "accordion_slider_cache_expiry_interval",
+    "accordion_slider_hide_inline_info",
+    "accordion_slider_hide_getting_started_info",
+    "accordion_slider_hide_image_size_warning",
+    "accordion_slider_hide_custom_css_js_warning",
+    "accordion_slider_custom_js",
+    "accordion_slider_is_custom_js",
+    "accordion_slider_version",
+    "accordion_slider_load_custom_css_js"
+  ],
+  "transients": [
+    "accordion_slider_add_ons_cached_data",
+    "accordion_slider_post_names",
+    "accordion_slider_posts_data",
+    "accordion_slider_cache_*",
+    "accordion_slider_update_notification_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:35.767Z"
+}

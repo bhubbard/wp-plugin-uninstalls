@@ -1,0 +1,13 @@
+{
+  "options": [
+    "disable_page_comments",
+    "disable_post_comments",
+    "legacy_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:42.092Z"
+}

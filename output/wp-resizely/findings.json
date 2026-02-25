@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp-resizely-version",
+    "wp-resizely",
+    "ud::customer_key",
+    "ud::site_uid",
+    "wpp::splash::new_installation",
+    "wpp::splash::upgrade",
+    "*_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "featured"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:10.290Z"
+}

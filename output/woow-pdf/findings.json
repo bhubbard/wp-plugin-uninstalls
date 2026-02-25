@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woow_pdf_display_settings_compress",
+    "woow_pdf_display_settings_watermark",
+    "woow_pdf_display_general_settings",
+    "woow_pdf_display_settings_format_watermark"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file_backup",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:46.416Z"
+}

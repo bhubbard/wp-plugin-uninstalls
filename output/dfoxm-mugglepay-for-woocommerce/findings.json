@@ -1,0 +1,14 @@
+{
+  "options": [
+    "test message",
+    "$raw_response"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mpwp_check_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:39.944Z"
+}

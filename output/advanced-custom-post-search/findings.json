@@ -1,0 +1,25 @@
+{
+  "options": [
+    "acps_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acps_post_type",
+    "acps_taxonomy_values",
+    "acps_form_title",
+    "acps_title_position",
+    "acps_form_container_class",
+    "acps_form_labels",
+    "acps_keyword_text",
+    "acps_label_text",
+    "acps_submit_button_text",
+    "acps_keyword_input",
+    "acps_keyword_form_value",
+    "acps_blank_term",
+    "acps_multiple_terms"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:28.144Z"
+}

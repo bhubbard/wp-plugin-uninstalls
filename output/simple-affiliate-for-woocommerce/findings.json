@@ -1,0 +1,26 @@
+{
+  "options": [
+    "default_discount_rate",
+    "default_commission_rate",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_affiliate_reference",
+    "_affiliate_currency",
+    "_affiliate_discount_rate",
+    "_affiliate_commission_rate",
+    "_aff_user_id",
+    "_aff_discount",
+    "_affiliate_invited_by",
+    "_aff_balance_approved",
+    "_affiliate_balance",
+    "_aff_balance_spent",
+    "_aff_balance_spent_rollback",
+    "_aff_balance_spent_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:23.572Z"
+}

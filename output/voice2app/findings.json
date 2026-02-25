@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mp_voice_2_app_setting_id_email",
+    "mp_voice_2_app_setting_id_password",
+    "mp_server_email_host",
+    "mp_server_email_username",
+    "mp_server_email_password",
+    "mp_server_email_port",
+    "mpvoice2app"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "voice2app_narration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:20.539Z"
+}

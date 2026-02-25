@@ -1,0 +1,26 @@
+{
+  "options": [
+    "addonify_wishlist_plugin_review_status",
+    "*wishlist_page",
+    "woocommerce_myaccount_page_id",
+    "*remove_all_plugin_data_on_uninstall",
+    "udp_agent_allow_tracking",
+    "udp_agent_tracking_msg_last_shown_at",
+    "udp_installed_agents",
+    "udp_active_agent_basename"
+  ],
+  "transients": [
+    "addonify_wishlist_ask_for_review_transient"
+  ],
+  "cron_jobs": [
+    "cc_udp_agent_send_data",
+    "udp_agent_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "addonify_wishlist_default_wishlist",
+    "addonify_wishlist_default_default"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:22.939Z"
+}

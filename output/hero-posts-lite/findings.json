@@ -1,0 +1,13 @@
+{
+  "options": [
+    "hero_posts_words_per_minute",
+    "hero_posts_image_replacement",
+    "*-license"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:40.903Z"
+}

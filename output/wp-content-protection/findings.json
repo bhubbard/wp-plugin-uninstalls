@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpcp_post_type_settings",
+    "wpcp_content_protection_msg",
+    "wpcp_wrongpass_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcp_isprotection_userroles",
+    "wpcp_isprotection_loggedin",
+    "wpcp_isprotection_password",
+    "wpcp_isprotection_passvalue",
+    "post_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:45.932Z"
+}

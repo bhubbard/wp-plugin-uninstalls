@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ptr_analytics_code",
+    "ptr_tagmanager_code",
+    "ptr_noscript_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:07.436Z"
+}

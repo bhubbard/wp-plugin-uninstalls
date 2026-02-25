@@ -1,0 +1,41 @@
+{
+  "options": [
+    "wcdm_minimum_amount",
+    "wcdm_maximum_amount",
+    "wcdm_disabled_tax",
+    "wcdm_installed",
+    "wcdm_add_to_cart_btn_text",
+    "wcdm_editable_cart_price",
+    "wcdm_disabled_coupon_field",
+    "wcdm_expired_text",
+    "wcdm_fast_checkout",
+    "wcdm_skip_cart",
+    "wcdm_delete_data",
+    "*_flash_messages",
+    "_transient_*",
+    "active_sitewide_plugins",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_regular_price",
+    "wcdm_goal_amount",
+    "wcdm_is_predefined_amounts",
+    "wcdm_predefined_amounts_title",
+    "wcdm_predefined_amounts",
+    "wcdm_is_custom_amount",
+    "wcdm_amount_increment_steps",
+    "wcdm_min_amount",
+    "wcdm_max_amount",
+    "wcdm_campaign_id",
+    "_end_date",
+    "_raised_amount",
+    "wcdm_orders_id",
+    "wcdm_campaign_cause"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:26.284Z"
+}

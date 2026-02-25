@@ -1,0 +1,37 @@
+{
+  "options": [
+    "wgb_offer_rules_option_values",
+    "wgbl_rules",
+    "wgbl_option_values",
+    "wgb_option_values",
+    "wgb_some_setting",
+    "wgb_usage_track",
+    "ithemeland_wgb_email_subscription_sent",
+    "wgb_onboarding",
+    "wgb_opt_in",
+    "wgb_settings",
+    "wgb_rules",
+    "itg_localization_free",
+    "itg_localization_our_gift",
+    "itg_localization_gift_cart_type_label",
+    "itg_localization_select_gift",
+    "itg_localization_free_gift_removed",
+    "itg_localization_notice_checkout_message",
+    "itg_localization_notice_checkout_message_link_here",
+    "itg_localization_free_gift_added",
+    "itg_localization_add_gift",
+    "itg_localization_no_thanks",
+    "itg_localization_free_gift_empty_message",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_price_for_gift",
+    "gift_set"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:25.891Z"
+}

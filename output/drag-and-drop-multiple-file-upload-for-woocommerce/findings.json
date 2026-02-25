@@ -1,0 +1,44 @@
+{
+  "options": [
+    "wcf_show_in_dnd_file_uploader_in",
+    "wcf_show_in_dnd_file_upload_after",
+    "wcf_drag_n_drop_text*",
+    "wcf_drag_n_drop_separator*",
+    "wcf_drag_n_drop_browse_text*",
+    "wcf_drag_n_drop_error_server_limit*",
+    "wcf_drag_n_drop_error_files_too_large*",
+    "wcf_drag_n_drop_error_invalid_file*",
+    "wcf_drag_n_drop_error_min_file*",
+    "wcf_drag_n_drop_error_max_number_of_files*",
+    "wcf_drag_n_drop_error_max_file*",
+    "wcf_drag_n_drop_of_text*",
+    "wcf_drag_n_drop_deleting_text*",
+    "wcf_drag_n_drop_remove_text*",
+    "wcf_drag_n_drop_error_failed_to_upload",
+    "wcf_drag_n_drop_support_file_upload",
+    "wcf_drag_n_drop_error_invalid_file",
+    "wcf_drag_n_drop_error_files_too_large",
+    "wcf_drag_n_drop_disable",
+    "wcf_drag_n_drop_field_name",
+    "wcf_drag_n_drop_file_size_limit",
+    "wcf_drag_n_drop_max_file_upload",
+    "wcf_drag_n_drop_min_file_upload",
+    "wcf_drag_n_drop_default_label",
+    "wcf_drag_n_drop_required",
+    "wcf_drag_n_drop_error_min_file",
+    "show_in_dnd_file_uploader_in",
+    "show_in_dnd_file_upload_after"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_dnd_wc_daily_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "label_dnd_file_upload_wc",
+    "enable_dnd_file_upload_wc",
+    "disable_dnd_file_upload_wc"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:51.714Z"
+}

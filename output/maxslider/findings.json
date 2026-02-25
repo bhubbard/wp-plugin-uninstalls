@@ -1,0 +1,28 @@
+{
+  "options": [
+    "maxslider_db_version",
+    "medium_crop",
+    "large_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_maxslider_navigation",
+    "_maxslider_show_arrows",
+    "_maxslider_navigation_fg_color",
+    "_maxslider_navigation_bg_color",
+    "_maxslider_arrows_fg_color",
+    "_maxslider_arrows_bg_color",
+    "_maxslider_slides",
+    "_maxslider_autoslide",
+    "_maxslider_effect",
+    "_maxslider_slide_speed",
+    "_maxslider_height",
+    "_maxslider_height_unit",
+    "_maxslider_navigation_position",
+    "_maxslider_image_size"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:12.536Z"
+}

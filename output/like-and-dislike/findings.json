@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ladl_enabled_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ladl_likes",
+    "_ladl_dislikes",
+    "_ladl_user_vote"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:37.972Z"
+}

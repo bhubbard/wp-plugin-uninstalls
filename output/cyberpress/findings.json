@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_cyberpress_trying_to_add_archive_page",
+    "cyberpress_archive_pages",
+    "cyberpress_general",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [
+    "cyberpress_flush_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cyberpress_match_tournament",
+    "_cyberpress_team_game",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:29.989Z"
+}

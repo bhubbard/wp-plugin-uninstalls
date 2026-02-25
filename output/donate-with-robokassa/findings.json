@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dwr_merchant_pass_two",
+    "dwr_result_url",
+    "dwr_result_url_method",
+    "dwr_merchant_login",
+    "dwr_merchant_pass_one",
+    "dwr_default_donation_amount",
+    "dwr_operation_description",
+    "dwr_force_delete_tables"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:45.588Z"
+}

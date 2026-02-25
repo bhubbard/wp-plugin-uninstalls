@@ -1,0 +1,22 @@
+{
+  "options": [
+    "uspaw_button_layout",
+    "uspaw_popup_active",
+    "uspaw_social_share_active",
+    "uspaw_popup_title",
+    "uspaw_popup_color",
+    "uspaw_popup_image",
+    "uspaw_popup_right_icon_border",
+    "uspaw_popup_header_color",
+    "uspaw_popup_header_border_color",
+    "uspaw_popup_place",
+    "uspaw_popup_top_margin",
+    "uspaw_popup_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:34.162Z"
+}

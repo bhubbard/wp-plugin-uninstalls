@@ -1,0 +1,21 @@
+{
+  "options": [
+    "betterhints_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hint_url",
+    "_hint_post_content",
+    "_hint_condition1",
+    "_hint_condition1_value",
+    "_hint_condition1_operator",
+    "_hint_condition1_agent",
+    "_hint_condition1_user_role",
+    "post_content",
+    "_hint_clicks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:13.371Z"
+}

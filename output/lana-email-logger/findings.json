@@ -1,0 +1,17 @@
+{
+  "options": [
+    "lana_email_logger_cleanup_by_amount",
+    "lana_email_logger_cleanup_amount",
+    "lana_email_logger_cleanup_by_time",
+    "lana_email_logger_cleanup_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lana_email_logger_cleanup_by_amount",
+    "lana_email_logger_cleanup_by_time"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:58.099Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wfg_enable_free_gift",
+    "wfg_minimum_cart_value",
+    "wfg_gift_category",
+    "wfg_message_value_low",
+    "wfg_button_value_low",
+    "wfg_message_value_ok",
+    "wfg_button_value_ok"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_virtual"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:02.617Z"
+}

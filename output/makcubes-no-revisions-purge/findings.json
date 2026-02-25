@@ -1,0 +1,13 @@
+{
+  "options": [
+    "makcubes_nrp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "makcubes_nrp_weekly_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:44.497Z"
+}

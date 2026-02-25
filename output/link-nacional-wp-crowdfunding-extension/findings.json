@@ -1,0 +1,35 @@
+{
+  "options": [
+    "lkn_crowdfunding_custom_template_id",
+    "woocommerce_permalinks",
+    "lkn_custom_rewrite_rules",
+    "woocommerce_placeholder_image",
+    "lkn_custom_email_verification_*",
+    "lkn_send_email_verification_*",
+    "wpcf_redurl",
+    "lkn_wpcf_redurl_falha_email",
+    "lkn_wpcf_redurl_envio_email",
+    "lkn_wpcf_email_is_username",
+    "lkn_wpcf_registro_por_validacao",
+    "woocommerce_enable_reviews"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpneo_campaign_end_method",
+    "loved_campaign_ids",
+    "is_email_verified",
+    "wpcf_predefined_pledge_amount",
+    "_product_image_gallery",
+    "wpneo_country",
+    "_nf_location",
+    "_nf_funding_goal",
+    "_nf_duration_end",
+    "billing_city",
+    "billing_state",
+    "billing_country"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:58.346Z"
+}

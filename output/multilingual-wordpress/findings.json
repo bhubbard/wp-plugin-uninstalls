@@ -1,0 +1,16 @@
+{
+  "options": [
+    "redirect_*",
+    "session_lang_*",
+    "automatic_lang_redirection",
+    "show_lang_warnings",
+    "show_alternatives_box",
+    "session_lang_redirection"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:14.581Z"
+}

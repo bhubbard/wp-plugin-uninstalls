@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_shipping_tax_class",
+    "*_credentials_valid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Wybrany paczkomat",
+    "paczkomat_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:31.207Z"
+}

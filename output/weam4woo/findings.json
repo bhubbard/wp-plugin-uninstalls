@@ -1,0 +1,30 @@
+{
+  "options": [
+    "weam_attr_global_settings",
+    "weam_attr_*",
+    "weam_attr_backups",
+    "weam_attribute_settings",
+    "weam_attr_version",
+    "weam_attr_activated_at",
+    "weam_attr_first_install",
+    "weam_attr_stats",
+    "weam_attr_keep_data_on_uninstall",
+    "weam_attr_db_version",
+    "weam_attr_samples_created",
+    "weam_attr_auto_enabled_count",
+    "weam_attr_activation_notice_shown",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "weam_attr_activation_notice"
+  ],
+  "cron_jobs": [
+    "weam_attr_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:27.581Z"
+}

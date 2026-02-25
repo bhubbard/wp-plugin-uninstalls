@@ -1,0 +1,24 @@
+{
+  "options": [
+    "AppStore_country",
+    "AppStore_language",
+    "AppStore_enableStats",
+    "AppStore_Loop",
+    "AppStore_tdlink",
+    "AppStore_customAffURL",
+    "AppStore_PHGToken",
+    "AppStore_showRatings",
+    "AppStore_picCache",
+    "AppStore_dataCache",
+    "AppStore_dlLinkname",
+    "AppStore_SimpleClickCounter",
+    "appStore_db_version",
+    "AppStore_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:52.160Z"
+}

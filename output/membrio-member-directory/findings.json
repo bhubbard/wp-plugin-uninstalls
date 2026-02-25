@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_medir_member_email",
+    "_medir_message",
+    "_medir_sender_email",
+    "_medir_sender_name",
+    "_medir_first_name",
+    "_medir_last_name",
+    "_medir_email",
+    "_medir_assigned_teams",
+    "_medir_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:30.862Z"
+}

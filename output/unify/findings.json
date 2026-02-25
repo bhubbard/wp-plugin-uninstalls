@@ -1,0 +1,43 @@
+{
+  "options": [
+    "woocommerce_codeclouds_unify_settings",
+    "woocommerce_weight_unit",
+    "codeclouds_unify_pro_license",
+    "upgrde_request_sent",
+    "config_transferred_from_button",
+    "woocommerce_codeclouds_unify_free_trial_registation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "unify_connection_*",
+    "unify_connection_salt",
+    "_codeclouds_unify_order_id",
+    "crm_shipping_id",
+    "codeclouds_unify_connection",
+    "codeclouds_unify_shipping",
+    "codeclouds_unify_offer_id",
+    "codeclouds_unify_billing_model_id",
+    "codeclouds_unify_group_id",
+    "unify_crm_variation_prod_id",
+    "_price",
+    "_customer_user",
+    "notes",
+    "codeclouds_unify_*",
+    "unify_crm_item_option_id_*",
+    "unify_crm_item_option_value_id_*",
+    "unify_crm_attribute_count",
+    "unify_connection_offer_model",
+    "woo_shipping_method_price",
+    "unify_connection_shipping_id",
+    "crm_shipping_price",
+    "*_salt",
+    "unify_connection_crm",
+    "_thumbnail_id",
+    "_wp_attached_file",
+    "_codeclouds_unify_shipping_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:14.333Z"
+}

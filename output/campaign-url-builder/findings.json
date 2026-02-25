@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_keep_linkquery",
+    "*_keep_linkanchor",
+    "*_advanced_api",
+    "*_bitly_api_key",
+    "*_rebrandly_api_key",
+    "*_custom_domain",
+    "*_enforce_link_sanitize",
+    "*_show_useronly",
+    "*_keep_settings",
+    "*_admin_only",
+    "*_show_creator",
+    "*_metaboxes",
+    "*_shortcode_activator",
+    "*_shortcode_anonymous",
+    "*_shortcode_styles",
+    "*_shortcode_recaptcha",
+    "*_recaptcha_site_key",
+    "*_recaptcha_secret_key",
+    "reatlat_cub_version",
+    "*_google_api_key",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:08.753Z"
+}

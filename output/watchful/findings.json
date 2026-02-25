@@ -1,0 +1,21 @@
+{
+  "options": [
+    "watchfulSettings",
+    "watchful_last_login_time",
+    "watchful_last_login_error_counter",
+    "watchfulDoActivationRedirect",
+    "watchfulMessage"
+  ],
+  "transients": [
+    "update_themes",
+    "signatures",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "watchful_sso_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:47.214Z"
+}

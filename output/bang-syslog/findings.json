@@ -1,0 +1,24 @@
+{
+  "options": [
+    "syslog_dest",
+    "syslog_channel",
+    "syslog_prefix",
+    "syslog_logmem",
+    "syslog_logtime",
+    "syslog_colour",
+    "syslog_escape_newlines",
+    "syslog_strict",
+    "syslog_noajax",
+    "syslog_nojscss",
+    "syslog_ignore_urls"
+  ],
+  "transients": [
+    "bang_syslog_tail",
+    "bang_syslog_messages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:26.208Z"
+}

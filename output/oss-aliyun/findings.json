@@ -1,0 +1,13 @@
+{
+  "options": [
+    "oss_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:18.371Z"
+}

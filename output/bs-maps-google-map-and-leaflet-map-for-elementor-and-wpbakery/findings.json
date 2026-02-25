@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bsmaps_gmap_key",
+    "bsmaps_options"
+  ],
+  "transients": [
+    "bsmaps_ad_banner_popup_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:52.001Z"
+}

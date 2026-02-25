@@ -1,0 +1,41 @@
+{
+  "options": [
+    "GRVATIN_uppercase_fields",
+    "GRVATIN_version",
+    "GRVATIN_enable_aade_validation",
+    "GRVATIN_enable_vies_validation",
+    "GRVATIN_auto_send_invoice",
+    "GRVATIN_vat_exempt_eu",
+    "GRVATIN_vat_exempt_non_eu",
+    "grvatin_invoice_type_position",
+    "GRVATIN_article_39a",
+    "GRVATIN_article_39a_categories",
+    "GRVATIN_auto_send_email",
+    "GRVATIN_company_address",
+    "GRVATIN_company_name",
+    "GRVATIN_company_vat",
+    "GRVATIN_company_doy",
+    "GRVATIN_company_phone",
+    "GRVATIN_company_email",
+    "GRVATIN_company_website",
+    "GRVATIN_company_logo",
+    "grvatin_invoice_prefix",
+    "GRVATIN_greek_vat_validation_method",
+    "GRVATIN_vies_validation",
+    "GRVATIN_aade_username",
+    "GRVATIN_aade_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_invoice_type",
+    "_billing_vat_number",
+    "_billing_doy",
+    "_billing_business_activity",
+    "_vies_validated",
+    "_vat_exempt_39a"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:44.505Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wpzoom_rcb_do_activation_redirect",
+    "wpzoom_search_recipes_cards_time",
+    "wpzoom_credits",
+    "wpzoom_import_wprm_recipes"
+  ],
+  "transients": [
+    "wpzoom_rcb_search_recipe_box",
+    "wpzoom_rcb_welcome_banner",
+    "reblex_reusable_registered_stylesheets",
+    "wpzoom_rcb_plugin_user_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpzoom_rcb_parent_post_id",
+    "rcb-recipe-slug-dismissed",
+    "_elementor_data",
+    "_wpzoom_rcb_used_in",
+    "_wpzoom_rcb_has_parent",
+    "wpzoom_rcb_dismiss_black_friday_banner",
+    "wpzoom_rcb_imported_wprm_data",
+    "_wp_attachment_image_alt",
+    "tp_pinterest_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:49.867Z"
+}

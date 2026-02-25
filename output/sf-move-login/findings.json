@@ -1,0 +1,30 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "movelogin_scan_phpversion",
+    "sfml",
+    "registration",
+    "movelogin_users-login_settings",
+    "movelogin_settings",
+    "movelogin_active_submodule_move-login",
+    "movelogin_active_submodule_*"
+  ],
+  "transients": [
+    "movelogin_unlock_admin_key-*",
+    "settings_errors",
+    "movelogin_updates_message",
+    "movelogin_is_https_supported",
+    "movelogin_plugins_api_*",
+    "movelogin-notices-*",
+    "movelogin_active_submodules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "movelogin-bad-mx-*",
+    "movelogin-blind-password",
+    "movelogin-password-needs-rehash"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:41.060Z"
+}

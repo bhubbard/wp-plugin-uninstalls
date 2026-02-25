@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "lswp_plugin_clicked",
+    "lswp_pro_active"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_logosliderwpmeta",
+    "_lgx_lsp_shortcodes_meta",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:15.919Z"
+}

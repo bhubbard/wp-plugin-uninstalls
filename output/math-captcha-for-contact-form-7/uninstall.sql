@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cf7_math_captcha_enable', 'cf7_math_captcha_hide_for_logged_in', 'cf7_math_captcha_difficulty', 'cf7_math_captcha_operator', 'cf7_math_captcha_max_attempts', 'cf7_math_captcha_lockout_time', 'cf7_math_captcha_message', 'cf7_math_captcha_login_protection', 'cf7_math_captcha_woo_login', 'cf7_math_captcha_woo_register', 'cf7_math_captcha_tutor_login', 'cf7_math_captcha_tutor_register', 'cf7_math_captcha_title');
+

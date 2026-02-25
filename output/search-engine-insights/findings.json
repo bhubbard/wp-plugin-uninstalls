@@ -1,0 +1,19 @@
+{
+  "options": [
+    "seiwp_got_updated",
+    "seiwp_redeemed_code",
+    "seiwp_network_options",
+    "seiwp_options",
+    "seiwp_version",
+    "_seiwp_cache_*",
+    "_seiwp_cache_timeout_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "seiwp_expired_cache_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:14.711Z"
+}

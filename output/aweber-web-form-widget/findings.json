@@ -1,0 +1,31 @@
+{
+  "options": [
+    "AWeberWebformPluginWidgetOptions",
+    "aweber_webform_oauth_id",
+    "aweber_webform_oauth_removed",
+    "aweber_comment_checkbox_toggle",
+    "aweber_registration_checkbox_toggle",
+    "aweber_analytics_checkbox_toggle",
+    "aweber_comment_subscriber_text",
+    "aweber_register_subscriber_text",
+    "aweber_register_subscriber_listid",
+    "aweber_comment_subscriber_listid",
+    "aweber_comment_subscriber_tags",
+    "aweber_register_subscriber_tags",
+    "aweber_option_submitted",
+    "aweber_oauth_error",
+    "aweber_web_push_listid",
+    "AWeberWebformPluginAdminOptions",
+    "aweber_signup_text_value",
+    "dashboard_widget_options",
+    "aweber_landing_page_links"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:28.355Z"
+}

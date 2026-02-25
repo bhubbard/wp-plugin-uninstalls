@@ -1,0 +1,15 @@
+{
+  "options": [
+    "opensource_media_connect_client_id",
+    "opensource_media_connect_access_token",
+    "opensource_media_connect_client_secret"
+  ],
+  "transients": [
+    "opensource_media_connect_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:41.879Z"
+}

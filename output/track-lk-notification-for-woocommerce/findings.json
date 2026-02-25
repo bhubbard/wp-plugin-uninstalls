@@ -1,0 +1,21 @@
+{
+  "options": [
+    "tracknotify_app_key",
+    "tracknotify_app_secret",
+    "active_sitewide_plugins",
+    "tracknotify_admin_notification_status",
+    "tracknotify_customer_notification_status",
+    "tracknotify_admin_notification_text",
+    "tracknotify_service",
+    "tracknotify_admin_phone",
+    "tracknotify_customer_notification_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:14.357Z"
+}

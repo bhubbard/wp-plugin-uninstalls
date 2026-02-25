@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_wonderful_payments_gateway_settings",
+    "wonderful_payments_uuid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wonderful_payment_id",
+    "wonderful_payment_ref",
+    "wonderful_order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:00.485Z"
+}

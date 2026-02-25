@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wovax_crm_api_key",
+    "wovax_crm_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:40.824Z"
+}

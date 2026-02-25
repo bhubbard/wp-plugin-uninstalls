@@ -1,0 +1,42 @@
+{
+  "options": [
+    "eurostocks_transmissions",
+    "eurostocks_makes",
+    "eurostocks_transmissions_*",
+    "eurostocks_categories",
+    "eurostocks_categories_*",
+    "eurostocks_headlight_types",
+    "eurostocks_headlight_types_*",
+    "eurostocks_fuel_types",
+    "eurostocks_fuel_types_*",
+    "eurostocks_door_counts",
+    "eurostocks_door_counts_*",
+    "eurostocks_exterior_colors",
+    "eurostocks_exterior_colors_*",
+    "eurostocks_climatisations",
+    "eurostocks_climatisations_*",
+    "eurostocks_interior_types",
+    "eurostocks_interior_types_*",
+    "eurostocks_parking_assistant",
+    "eurostocks_parking_assistant_*",
+    "eurostocks_speed_controls",
+    "eurostocks_speed_controls_*",
+    "eurostocks-anti-spam",
+    "eurostocks_cars",
+    "eurostocks_db_version",
+    "*_cars",
+    "eurostocks_models",
+    "eurostocks_models_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "eurostocks_update_model_scheduler",
+    "eurostocks_update_model_job",
+    "eurostocks_clean_ip_history",
+    "eurostocks_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:41.919Z"
+}

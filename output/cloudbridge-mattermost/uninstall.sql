@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cbmm-cloudflare-ipv4', 'cbmm-cloudflare-check', 'cbmm-cloudflare-ipv6', 'cbmm-site-label', 'cbmm-mm-webhook', 'cbmm-force-locale-enus', 'cbmm-settings-remove', 'cbmm-roles-notify', 'cbmm-roles-warn', 'cbmm-roles-password-reset', 'cbmm-roles-password-skip-email', 'cbmm-unknown-warn', 'cbmm-notify-activate-plugin', 'cbmm-notify-deactivate-plugin', 'cbmm-notify-uninstall-plugin', 'cbmm-notify-change-admin-email', 'cbmm-notify-change-admin-email-inhibit-email', 'cbmm-roles-user-add', 'cbmm-roles-user-delete', 'cbmm-link-admin', 'cbmm-notice-emoji', 'cbmm-warning-emoji', 'cbmm-link-emoji', 'cbmm-bell-emoji', 'cbmm-mm-username', 'cbmm-mm-channel', 'cbmm-mm-mention', 'cbmm-oauth2-base-url', 'cbmm-oauth2-client-id', 'cbmm-oauth2-client-secret', 'cbmm-oauth2-login-roles', 'cbmm-oauth2-allow-usernames', 'cbmm-oauth2-allow-register', 'cbmm-oauth2-force-register', 'cbmm-oauth2-use-mmidforuuname', 'cbmm-remove-settings');
+

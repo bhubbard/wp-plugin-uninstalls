@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "init_plugin_suite_rs_global_avg"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_init_review_count",
+    "_init_review_total",
+    "_init_review_avg",
+    "_init_review_weighted"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:23.202Z"
+}

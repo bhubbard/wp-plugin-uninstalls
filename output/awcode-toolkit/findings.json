@@ -1,0 +1,34 @@
+{
+  "options": [
+    "aw_remote_management",
+    "aw_maint_mode",
+    "aw_maint_exceptions",
+    "aw_maint_title",
+    "aw_maint_message",
+    "active_sitewide_plugins",
+    "aw_remote_api_key",
+    "aw_remote_api_secret",
+    "aw_woo_prod_sales_count",
+    "aw_woo_prod_dimensions",
+    "aw_woo_past_order_count",
+    "aw_woo_utm",
+    "aw_woo_msp",
+    "aw_update_site_url"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_supplier_info",
+    "_supplier_id",
+    "_supplier",
+    "_customer_user",
+    "_utm"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:27.095Z"
+}

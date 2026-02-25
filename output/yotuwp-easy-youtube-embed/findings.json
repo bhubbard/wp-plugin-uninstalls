@@ -1,0 +1,30 @@
+{
+  "options": [
+    "yotuwp_pro_install_date",
+    "yotuwp_tracking_notice",
+    "yotuwp_install_date",
+    "yotuwp_allow_tracking",
+    "yotuwp_tracking_last_send",
+    "yotu-api",
+    "yotuwp_rating_date",
+    "yotu-settings",
+    "yotu-player",
+    "yotu-styling",
+    "yotu-effects",
+    "yotu-cache",
+    "yotuwp_activation_redirect",
+    "yotuwp_presets"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yotuwp_cache_event",
+    "yotuwp_weekly_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yotuwp_scgen_ignore_notice",
+    "yotuwp_rating_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:05.436Z"
+}

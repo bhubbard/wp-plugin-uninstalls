@@ -1,0 +1,15 @@
+{
+  "options": [
+    "jal_db_version",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "_uniqueOrderId"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:27.872Z"
+}

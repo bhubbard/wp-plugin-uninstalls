@@ -1,0 +1,16 @@
+{
+  "options": [
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "name",
+    "email",
+    "message",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:08.082Z"
+}

@@ -1,0 +1,35 @@
+{
+  "options": [
+    "adventurebook_db_version",
+    "adventurebook_enable_inline_editing",
+    "adventurebook_settings",
+    "adventurebook_version",
+    "adventurebook_character_page_id",
+    "adventurebook_fixed_content_height",
+    "adventurebook_show_direction_icons",
+    "adventurebook_enable_keyboard_navigation"
+  ],
+  "transients": [
+    "adventurebook_just_entered_zone_*",
+    "adventurebook_messages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "adventurebook_current_character_id_*",
+    "_adventurebook_page_script",
+    "_adventurebook_page_type",
+    "_adventurebook_shop_items",
+    "_adventurebook_shop_price_factor",
+    "_adventurebook_type",
+    "_additional_image",
+    "_adventurebook_combat_system",
+    "_adventurebook_start_page",
+    "adventurebook_last_parent",
+    "_adventurebook_decision_options",
+    "_adventurebook_audio_id",
+    "_adventurebook_startpage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:15.933Z"
+}

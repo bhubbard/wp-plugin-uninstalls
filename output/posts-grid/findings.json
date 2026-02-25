@@ -1,0 +1,35 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "gs_posts_grid_shortcode_prefs",
+    "gs_posts_grid_version",
+    "gs_pg_activation_redirect",
+    "gs_pg_active_time",
+    "gs_pg_maybe_later",
+    "gsadmin_maybe_later",
+    "gs_posts_grid_popup_visibility_order_*",
+    "GS_Posts_Grid_plugin_permalinks_flushed",
+    "gs_posts_grid_shortcode_layout",
+    "gs_posts_grid_visibility_order"
+  ],
+  "transients": [
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gs_posts_video_url",
+    "gs_posts_audio_url",
+    "gs_posts_gallery",
+    "gs_posts_media",
+    "order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:48.673Z"
+}

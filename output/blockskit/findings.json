@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [
+    "bk_import_demo_lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:10.766Z"
+}

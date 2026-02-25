@@ -1,0 +1,19 @@
+{
+  "options": [
+    "vpsuform_secret_key",
+    "vform_api_key",
+    "vform_plugin_version",
+    "vpsuform_review_count",
+    "vpsuform_review_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vform_send_scheduled_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_vform_selected_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:18.879Z"
+}

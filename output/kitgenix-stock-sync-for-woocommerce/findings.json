@@ -1,0 +1,16 @@
+{
+  "options": [
+    "kitgenix_stock_sync_for_woocommerce_settings"
+  ],
+  "transients": [
+    "kitgenix_stock_sync_for_woocommerce_kss_old_sku_*",
+    "kitgenix_stock_sync_for_woocommerce_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:12.578Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "swiftad_config",
+    "swiftpost_license",
+    "swiftad_db_version",
+    "swiftad_version",
+    "swiftad_license"
+  ],
+  "transients": [
+    "swiftimpressions_license_check"
+  ],
+  "cron_jobs": [
+    "swiftad_tasks_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ad_code",
+    "swiftad_target",
+    "swiftad_size",
+    "swiftad_target_type",
+    "swiftad_target_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:46.440Z"
+}

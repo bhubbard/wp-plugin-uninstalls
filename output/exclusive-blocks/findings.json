@@ -1,0 +1,29 @@
+{
+  "options": [
+    "exb_save_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "__exb_asset_version",
+    "exb_do_update_redirect",
+    "exclusiveblocks",
+    "woocommerce_shop_page_id",
+    "exclusiveblocks_dynamic_css_time",
+    "exclusiveblocks_dynamic_css_posts",
+    "widget_block"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event",
+    "delete_block_library_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_exclusiveblocks_dynamic_css_version",
+    "_exclusiveblocks_reusable_blocks",
+    "_exclusive_blocks_image_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:42.843Z"
+}

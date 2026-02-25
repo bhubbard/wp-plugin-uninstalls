@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wooid_script_cart_widget",
+    "wooyd_widget_geo",
+    "wooyd_widget_info",
+    "wooyd_widget_card",
+    "wooid_script_track_widget",
+    "wooyd_script_track_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:31.191Z"
+}

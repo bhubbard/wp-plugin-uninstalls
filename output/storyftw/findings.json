@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "storyftw_dashicon_classes_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*story_id",
+    "*palettes",
+    "*background",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:16.606Z"
+}

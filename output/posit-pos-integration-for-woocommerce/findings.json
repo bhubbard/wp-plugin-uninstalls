@@ -1,0 +1,15 @@
+{
+  "options": [
+    "last_inventory_update",
+    "plz_update_pos_bo_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "posit_inventory_cron",
+    "email_failed_sales_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:19.478Z"
+}

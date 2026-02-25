@@ -1,0 +1,17 @@
+{
+  "options": [
+    "promissa",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "note",
+    "masses_ID",
+    "church_ID",
+    "date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:51.384Z"
+}

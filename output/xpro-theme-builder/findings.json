@@ -1,0 +1,31 @@
+{
+  "options": [
+    "elementor_cpt_support",
+    "xpro_themer_frontend_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "xpro_theme_builder_target_include_locations",
+    "xpro_theme_builder_target_exclude_locations",
+    "xpro_theme_builder_target_user_roles",
+    "xpro_theme_builder_template_type",
+    "xpro_theme_builder_sticky",
+    "_elementor_template_type",
+    "*-location",
+    "*-exclusion",
+    "*-users",
+    "site-post-title",
+    "site-sidebar-layout",
+    "site-content-layout",
+    "footer-sml-layout",
+    "footer-adv-display",
+    "ast-main-header-display",
+    "_generate-sidebar-layout-meta",
+    "_generate-full-width-content",
+    "_generate-disable-headline"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:17.309Z"
+}

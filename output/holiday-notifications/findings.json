@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wphnp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_start_dtp",
+    "_end_dtp",
+    "_dtp_zone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:24.838Z"
+}

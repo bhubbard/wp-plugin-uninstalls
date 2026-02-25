@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mx_total_act"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "matrixseocronjob",
+    "matrixseostopwords"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:13.436Z"
+}

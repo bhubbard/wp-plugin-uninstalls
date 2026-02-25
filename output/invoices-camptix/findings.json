@@ -1,0 +1,20 @@
+{
+  "options": [
+    "camptix_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "invoice_number",
+    "auth",
+    "original_order",
+    "invoice_metas",
+    "tix_order",
+    "tix_email",
+    "tix_transaction_id",
+    "transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:36.847Z"
+}

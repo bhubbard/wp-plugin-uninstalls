@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sccs_coming_soon_enabled",
+    "sccs_coming_soon_message",
+    "sccsmm_enable",
+    "sccsmm_timer_end",
+    "sccsmm_timer_redirect",
+    "sccsmm_template",
+    "sccsmm_title",
+    "sccsmm_message",
+    "sccsmm_seo_title",
+    "sccsmm_seo_description",
+    "sccsmm_custom_css",
+    "sccsmm_logo_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:01.372Z"
+}

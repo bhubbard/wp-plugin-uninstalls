@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ampcf7_install_date",
+    "ampcf7_ignore_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:36.890Z"
+}

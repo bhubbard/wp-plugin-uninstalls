@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_icard_checkout_woocommerce_integration_settings",
+    "icard_checkout_woocommerce_integration_settings"
+  ],
+  "transients": [
+    "icard_installing",
+    "icard_checkout_woocommerce_cancelled_order",
+    "icard_checkout_woocommerce_payment_declined_*",
+    "icard_cancelled_order"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:01.958Z"
+}

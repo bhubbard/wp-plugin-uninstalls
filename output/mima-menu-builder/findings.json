@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mimamebu_active_currencies",
+    "mimamebu_active_languages",
+    "mimamebu_screensaver",
+    "mimamebu_features",
+    "mimamebu_front_theme",
+    "mimamebu_ss_timeout_min",
+    "mimamebu_active_theme",
+    "mimamebu_default_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:09.750Z"
+}

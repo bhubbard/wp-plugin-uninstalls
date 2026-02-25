@@ -1,0 +1,16 @@
+{
+  "options": [
+    "automatic-updater"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "auto_updater_svn_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:16.886Z"
+}

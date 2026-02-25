@@ -1,0 +1,42 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'social_random_posts_show_flag'
+wp option delete 'social_number_of_posts'
+wp option delete 'facebook_number_of_posts'
+wp option delete 'linkedin_number_of_posts'
+wp option delete 'twitter_number_of_posts'
+wp option delete 'instagram_number_of_posts'
+wp option delete 'social_cron_frequency'
+wp option delete 'days_to_keep_social_posts'
+wp option delete 'social_twitter_api_key'
+wp option delete 'social_twitter_api_secret'
+wp option delete 'social_twitter_username'
+wp option delete 'social_twitter_show_flag'
+wp option delete 'social_twitter_show_retweet_flag'
+wp option delete 'social_twitter_show_media_flag'
+wp option delete 'social_twitter_profile_image'
+wp option delete 'social_facebook_api_secret'
+wp option delete 'social_facebook_api_key'
+wp option delete 'social_facebook_username'
+wp option delete 'social_facebook_show_flag'
+wp option delete 'social_facebook_show_media_flag'
+wp option delete 'social_facebook_profile_image'
+wp option delete 'social_instagram_client_id'
+wp option delete 'social_instagram_redirect_url'
+wp option delete 'social_instagram_access_token'
+wp option delete 'social_instagram_access_token_link'
+wp option delete 'social_instagram_show_flag'
+wp option delete 'social_instagram_show_media_flag'
+wp option delete 'social_instagram_profile_image'
+wp option delete 'social_linkedin_show_flag'
+wp option delete 'social_linkedin_username'
+wp option delete 'social_linkedin_access_token'
+wp option delete 'social_linkedin_page_url'
+wp option delete 'social_linkedin_show_media_flag'
+wp option delete 'social_linkedin_profile_image'
+
+# Clear Cron Jobs
+wp cron event delete 'little_social_cron_job'
+

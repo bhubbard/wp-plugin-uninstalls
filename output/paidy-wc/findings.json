@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wc_paidy_show_ssl_notice",
+    "wc_paidy_show_curl_notice",
+    "woocommerce_paidy_settings",
+    "wc_paidy_show_pr_notice",
+    "wc-paygent-paidy",
+    "*_settings",
+    "woocommerce_paidy_on_boarding_settings",
+    "paidy_site_hash",
+    "wc_*",
+    "wc_paidy_apply_notice_2",
+    "wc_paidy_apply_notice_3",
+    "wc_paidy_apply_notice_99",
+    "paidy_received_data",
+    "received_data",
+    "woocommerce_price_num_decimals",
+    "paidy_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:20.974Z"
+}

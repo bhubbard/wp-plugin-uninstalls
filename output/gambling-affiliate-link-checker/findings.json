@@ -1,0 +1,18 @@
+{
+  "options": [
+    "alfchecker__alc_method",
+    "alfchecker__alc_list",
+    "alfchecker__alc_value",
+    "alfchecker__alc_slack_hook",
+    "alfchecker__alc_email",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aflc_add_every_hour"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:47.824Z"
+}

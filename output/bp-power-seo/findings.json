@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bp-pages",
+    "create_map",
+    "sitemap_update",
+    "members",
+    "groups",
+    "searches",
+    "bpp_group_list",
+    "bpp_group_profile",
+    "bpp_member_list",
+    "bpp_member_profile",
+    "bpp_member_profile_tabs",
+    "bpp_custom_fields",
+    "create_schema",
+    "schema_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:33.947Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wcqc_general_settings",
+    "*coupon_vat",
+    "woocommerce_gateway_order",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "VAT Number",
+    "_orddd_lite_timestamp",
+    "_orddd_pro_timestamp",
+    "_orddd_timestamp",
+    "_order_currency",
+    "_paid_date",
+    "_payment_method_title",
+    "_product_attributes",
+    "categories",
+    "_sku",
+    "_stock",
+    "_price",
+    "_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:56.852Z"
+}

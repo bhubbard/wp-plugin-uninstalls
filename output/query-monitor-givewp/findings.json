@@ -1,0 +1,11 @@
+{
+  "options": [
+    "widget_give_forms_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:28.476Z"
+}

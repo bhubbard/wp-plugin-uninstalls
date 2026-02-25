@@ -1,0 +1,21 @@
+{
+  "options": [
+    "toxicity_plugin_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "toxicity_comment_approve_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "identity_attack",
+    "insult",
+    "obscene",
+    "severe_toxicity",
+    "sexual_explicit",
+    "threat",
+    "toxicity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:44.086Z"
+}

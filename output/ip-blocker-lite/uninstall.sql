@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('faqnurul_ipcbl_activity_logs', 'faqnurul_ipcbl_ip_whitelist', 'faqnurul_ipcbl_cloudflare_secret_key', 'faqnurul_ipcbl_cloudflare_enabled', 'faqnurul_ipcbl_turnstile_login', 'faqnurul_ipcbl_cloudflare_site_key', 'faqnurul_ipcbl_captcha_enabled', 'faqnurul_ipcbl_turnstile_register', 'faqnurul_ipcbl_turnstile_comments', 'faqnurul_ipcbl_turnstile_lost_password', 'faqnurul_ipcbl_turnstile_woocommerce', 'faqnurul_ipcbl_captcha_secret_key', 'faqnurul_ipcbl_captcha_version', 'faqnurul_ipcbl_captcha_login', 'faqnurul_ipcbl_captcha_site_key', 'faqnurul_ipcbl_captcha_register', 'faqnurul_ipcbl_captcha_comments', 'faqnurul_ipcbl_captcha_lost_password', 'faqnurul_ipcbl_captcha_woocommerce', 'faqnurul_ipcbl_admin_lockout_enabled', 'faqnurul_ipcbl_lockout_max_attempts', 'faqnurul_ipcbl_lockout_duration', 'faqnurul_ipcbl_2fa_enabled', 'faqnurul_ipcbl_ip_blocked_list', 'faqnurul_ipcbl_country_blocked_list', 'faqnurul_ipcbl_custom_error_text', 'faqnurul_ipcbl_2fa_method', 'faqnurul_ipcbl_2fa_email', 'faqnurul_ipcbl_show_optin_notice', 'faqnurul_ipcbl_blocked_page_template', 'faqnurul_ipcbl_data_collection_optin', 'faqnurul_ipcbl_last_decline_time', 'faqnurul_ipcbl_last_active_track', 'faqnurul_ipcbl_installation_id', 'ipcbl_recaptcha_settings', 'faqnurul_ipcbl_recovery_hash', 'faqnurul_ipcbl_activation_redirect');
+DELETE FROM wp_options WHERE option_name LIKE 'faqnurul_2fa_email_code_%';
+DELETE FROM wp_options WHERE option_name LIKE 'faqnurul_2fa_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('faqnurul_ipcbl_2fa_enabled', 'faqnurul_ipcbl_2fa_method', 'faqnurul_ipcbl_2fa_secret', 'faqnurul_ipcbl_2fa_verified', 'faqnurul_ipcbl_2fa_verification_time', 'faqnurul_ipcbl_2fa_recovery_codes', 'faqnurul_ipcbl_2fa_email');
+DELETE FROM wp_usermeta WHERE meta_key IN ('faqnurul_ipcbl_2fa_enabled', 'faqnurul_ipcbl_2fa_method', 'faqnurul_ipcbl_2fa_secret', 'faqnurul_ipcbl_2fa_verified', 'faqnurul_ipcbl_2fa_verification_time', 'faqnurul_ipcbl_2fa_recovery_codes', 'faqnurul_ipcbl_2fa_email');
+DELETE FROM wp_termmeta WHERE meta_key IN ('faqnurul_ipcbl_2fa_enabled', 'faqnurul_ipcbl_2fa_method', 'faqnurul_ipcbl_2fa_secret', 'faqnurul_ipcbl_2fa_verified', 'faqnurul_ipcbl_2fa_verification_time', 'faqnurul_ipcbl_2fa_recovery_codes', 'faqnurul_ipcbl_2fa_email');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('faqnurul_ipcbl_2fa_enabled', 'faqnurul_ipcbl_2fa_method', 'faqnurul_ipcbl_2fa_secret', 'faqnurul_ipcbl_2fa_verified', 'faqnurul_ipcbl_2fa_verification_time', 'faqnurul_ipcbl_2fa_recovery_codes', 'faqnurul_ipcbl_2fa_email');
+

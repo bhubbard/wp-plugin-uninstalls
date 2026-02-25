@@ -1,0 +1,23 @@
+{
+  "options": [
+    "pronamic_google_maps_key",
+    "Pronamic_Google_maps",
+    "_pronamic_google_maps_fresh_design"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pronamic_google_maps_latitude",
+    "_pronamic_google_maps_longitude",
+    "_pronamic_google_maps_geocode_status",
+    "_pronamic_google_maps_active",
+    "_pronamic_google_maps_map_type",
+    "_pronamic_google_maps_zoom",
+    "_pronamic_google_maps_title",
+    "_pronamic_google_maps_description",
+    "_pronamic_google_maps_address"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:12.764Z"
+}

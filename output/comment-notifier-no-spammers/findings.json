@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lstc",
+    "lstc_migrate_options_complete",
+    "lstc_cleanup_emails_done",
+    "lstc_update_table_utf8_complete"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lstc_subscribe"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:03.776Z"
+}

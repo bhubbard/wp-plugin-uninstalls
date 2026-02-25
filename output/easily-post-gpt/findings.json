@@ -1,0 +1,29 @@
+{
+  "options": [
+    "gpt2wp_secret_key",
+    "gpt2wp_email",
+    "gpt2wp_custom_field_1",
+    "gpt2wp_onboarding_completed",
+    "gpt2wp_pexel_key",
+    "gpt2wp_notifications",
+    "gpt2wp_custom_field_2",
+    "gpt2wp_custom_field_3",
+    "gpt2wp_admin_default_post_status",
+    "gpt2wp_webhook_url",
+    "easily_post_gpt_company_info",
+    "easily_post_gpt_categories",
+    "easily_post_gpt_keyword_groups",
+    "easily_post_gpt_focus_areas"
+  ],
+  "transients": [
+    "easily_post_gpt_keyword_planner_saved"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:01.048Z"
+}

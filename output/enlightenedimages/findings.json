@@ -1,0 +1,24 @@
+{
+  "options": [
+    "elim_api_key",
+    "elim_azure_endpoint",
+    "elim_pro",
+    "elim_pro_plugin",
+    "elim_pro_api_key",
+    "elim_on_media_upload",
+    "elim_alt_text",
+    "elim_labels",
+    "elim_text",
+    "elim_logos",
+    "elim_landmarks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "elim_date",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:51.436Z"
+}

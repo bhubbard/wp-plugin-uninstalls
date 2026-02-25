@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_disabled_emails",
+    "_disable_order_emails"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:18.119Z"
+}

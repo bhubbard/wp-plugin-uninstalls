@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cma_afterActivation",
+    "rewrite_rules",
+    "cma_questions_title",
+    "cmaer_email_piping_category",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "cm_refresh_404_permalinks",
+    "cma_widget_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:38.656Z"
+}

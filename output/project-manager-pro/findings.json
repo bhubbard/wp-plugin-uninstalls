@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_projmanpro_related_project",
+    "_projmanpro_task_due_date",
+    "_projmanpro_task_assigned",
+    "_projmanpro_project_assigned",
+    "_projmanpro_project_due_date",
+    "_projmanpro_project_status",
+    "_projmanpro_task_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:29.644Z"
+}

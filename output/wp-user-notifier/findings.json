@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_enable",
+    "*_comment_need_pending",
+    "*_enabled_cf7",
+    "*_subject",
+    "*_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:47.486Z"
+}

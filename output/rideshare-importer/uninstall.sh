@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rideshare_provider'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rideshare_provider'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rideshare_provider'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rideshare_provider'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rideshare_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rideshare_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rideshare_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rideshare_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rideshare_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rideshare_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rideshare_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rideshare_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'raw_import_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'raw_import_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'raw_import_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'raw_import_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_polyline_encoded'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_polyline_encoded'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_polyline_encoded'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_polyline_encoded'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_public'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_public'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_public'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_public'"

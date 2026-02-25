@@ -1,0 +1,20 @@
+{
+  "options": [
+    "voxfor_mega_menu_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_voxfor_mega_menu_data",
+    "_voxfor_mega_menu_enabled",
+    "_voxfor_mega_menu_columns",
+    "_voxfor_mega_menu_width",
+    "_voxfor_mega_menu_icon",
+    "_voxfor_mega_menu_badge",
+    "_voxfor_mega_menu_content",
+    "voxfor_menu_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:37.434Z"
+}

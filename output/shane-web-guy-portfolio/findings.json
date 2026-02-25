@@ -1,0 +1,34 @@
+{
+  "options": [
+    "swgpreviewBackgroundColor",
+    "swgpBtnTextAlign",
+    "swgpBtnFontSize",
+    "swgpBtnBackgroundColor",
+    "swgpBtnFontColor",
+    "swgPreviewTextFontColor",
+    "swgp_upload_image",
+    "swgpreviewPadding",
+    "swgp_follow",
+    "swgPreviewTextTitleLabel",
+    "swgPreviewTextTagLabel",
+    "swgPreviewTextDescriptionLabel",
+    "swgPreviewTextPadding",
+    "swgPreviewTextFontSize",
+    "swgPreviewTextTitleAlign",
+    "swgPreviewTextTitleWeight",
+    "swgpBtnTitle",
+    "swgPreviewTextFontWeight",
+    "tax_meta_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "swg_info_description",
+    "swg_info_url",
+    "swg_info_keywords",
+    "swg_info_no_follow"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:53.828Z"
+}

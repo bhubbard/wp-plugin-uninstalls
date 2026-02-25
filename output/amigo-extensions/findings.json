@@ -1,0 +1,17 @@
+{
+  "options": [
+    "widget_archives",
+    "widget_search",
+    "widget_recent_posts",
+    "sidebars_widgets",
+    "widget_tag_cloud"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:52.292Z"
+}

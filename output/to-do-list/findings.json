@@ -1,0 +1,13 @@
+{
+  "options": [
+    "todo-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pctdl_user_todolist_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:34.977Z"
+}

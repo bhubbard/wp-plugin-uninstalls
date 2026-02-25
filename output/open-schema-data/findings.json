@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "schema_data",
+    "article_schema_data",
+    "author_name",
+    "author_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:17.326Z"
+}

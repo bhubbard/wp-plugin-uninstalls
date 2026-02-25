@@ -1,0 +1,16 @@
+{
+  "options": [
+    "edal_disabled_autoloads",
+    "edal_dismissed_warnings",
+    "edal_locked_autoloads",
+    "edal_total_autoload_size"
+  ],
+  "transients": [
+    "edal_autoload_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:41.026Z"
+}

@@ -1,0 +1,41 @@
+{
+  "options": [
+    "whatsapp_chat_page",
+    "whatsapp_chat_button",
+    "whatsapp_chat_powered_by",
+    "whatsapp_chat_round",
+    "whatsapp_chat_down",
+    "whatsapp_chat_left_side",
+    "whatsapp_chat_msg",
+    "whatsapp_chat_mobile",
+    "whatsapp_chat_hide_button",
+    "whatsapp_chat_hide_post",
+    "whatsapp_chat_hide_page",
+    "whatsapp_chat_dark",
+    "whatsapp_chat_white",
+    "qlwapp",
+    "jetpack_protect_active",
+    "jetpack_offline_mode",
+    "wpcom_public_coming_soon",
+    "woocommerce_shop_page_id",
+    "qlwapp_box",
+    "qlwapp_button",
+    "qlwapp_contacts",
+    "qlwapp_display",
+    "qlwapp_scheme",
+    "qlwapp_settings",
+    "qlwapp_woocommerce"
+  ],
+  "transients": [
+    "jetpack_is_single_user",
+    "quadlayers_news_feed",
+    "ql_plugin_feedback_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qlwapp-user-rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:58.367Z"
+}

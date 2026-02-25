@@ -1,0 +1,19 @@
+{
+  "options": [
+    "image-map-pro-fragmented-saves",
+    "bea_media_analytics_index",
+    "dnh_dismissed_notices"
+  ],
+  "transients": [
+    "bea_media_analytics_activated_notice"
+  ],
+  "cron_jobs": [
+    "bea.media_analytics.cron.force_indexation"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dnh_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:27.641Z"
+}

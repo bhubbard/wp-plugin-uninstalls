@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sac_export",
+    "sac_options",
+    "sac_censors",
+    "simple-ajax-chat-dismiss-notice"
+  ],
+  "transients": [
+    "sac_logged_users"
+  ],
+  "cron_jobs": [
+    "sac_cron_truncate"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:50.497Z"
+}

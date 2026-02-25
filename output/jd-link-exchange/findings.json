@@ -1,0 +1,17 @@
+{
+  "options": [
+    "JDL_login",
+    "JDL_idr",
+    "JDL_idl",
+    "JDL_pass",
+    "JDL_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "idr"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:46.839Z"
+}

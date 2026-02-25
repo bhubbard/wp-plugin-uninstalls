@@ -1,0 +1,15 @@
+{
+  "options": [
+    "xbooster_social_plugin_snps",
+    "xbooster_social_plugin_snp_counter_*",
+    "xbooster_social_plugin_share_ns",
+    "xbooster_display_options",
+    "xbooster_social_plugin_sns_counter_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:18.300Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "content_control_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "content_control_license_status_check",
+    "*/access/revoke"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "content_control_reviews_dismissed_triggers",
+    "content_control_reviews_last_dismissed",
+    "_content_control_reviews_already_did",
+    "restriction_settings",
+    "data_version"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:06.800Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_users_per_page",
+    "*_enable_pagination",
+    "*_pagination_style",
+    "*_user_meta_fields",
+    "*_settings_meta_fields",
+    "wp_user_profile_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_elementor_notice_dismissed",
+    "hide_in_members",
+    "cover_photo",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:08.914Z"
+}

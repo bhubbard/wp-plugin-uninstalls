@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_easy-post-types-fields_setup_wizard_seen",
+    "ept_review_notice_triggered",
+    "ept_review_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ept_taxonomies",
+    "_ept_fields",
+    "_ept_plural_name",
+    "_ept_supports"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:20.015Z"
+}

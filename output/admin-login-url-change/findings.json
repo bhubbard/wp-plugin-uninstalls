@@ -1,0 +1,14 @@
+{
+  "options": [
+    "jh_new_login_url",
+    "aluc_need_flush",
+    "aluc_runtime_slug",
+    "aluc_runtime_slug_flush"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:28.745Z"
+}

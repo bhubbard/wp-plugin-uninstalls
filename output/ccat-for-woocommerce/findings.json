@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_enable",
+    "*_shipping_enable",
+    "*_invoice_enable",
+    "*_test_mode",
+    "*_test_chk_code",
+    "*_chk_code",
+    "*_test_merchant_id",
+    "*_merchant_id",
+    "*_test_api_key",
+    "*_api_key",
+    "*_migration_completed",
+    "*_sender_name",
+    "*_sender_tel",
+    "*_sender_mobile",
+    "*_sender_address"
+  ],
+  "transients": [
+    "*api_access_token",
+    "api_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:28.316Z"
+}

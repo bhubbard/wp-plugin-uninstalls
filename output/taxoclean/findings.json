@@ -1,0 +1,17 @@
+{
+  "options": [
+    "taxoclean_current_taxo",
+    "taxoclean_max_per_page",
+    "taxoclean_orphan_level",
+    "taxoclean_lookalike_level",
+    "taxoclean_license",
+    "taxoclean_fast_mode",
+    "taxoclean_counter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:49.813Z"
+}

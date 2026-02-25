@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mxffi_flush_rewrite_rules",
+    "_mx_test_email",
+    "_mx_simple_faq_enable_ssr",
+    "_mx_simple_faq_admin_email",
+    "_mx_simple_faq_agree_link",
+    "_mx_simple_faq_recaptcha_site_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mxffi_user_name",
+    "_mxffi_user_email",
+    "_mxffi_faq_response",
+    "_mxffi_faq_response_sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:11.562Z"
+}

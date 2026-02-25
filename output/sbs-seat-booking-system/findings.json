@@ -1,0 +1,23 @@
+{
+  "options": [
+    "schedule"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price",
+    "_sale_price",
+    "_price",
+    "_uou_reserve_cost",
+    "_wc_base_cost",
+    "room_schedule",
+    "load_config",
+    "load_data",
+    "canvas_config",
+    "last_index",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:05.296Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "simesc_saved_recipients"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "simesc_monthly_email_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_simesc_recipients",
+    "_simesc_subject",
+    "_simesc_status",
+    "_simesc_last_sent",
+    "_simesc_day_of_month",
+    "_simesc_send_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:19.854Z"
+}

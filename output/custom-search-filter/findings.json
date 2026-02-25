@@ -1,0 +1,21 @@
+{
+  "options": [
+    "csf_title",
+    "search_text_1",
+    "search_text_2",
+    "search_text_3",
+    "search_text_4",
+    "search_text_5",
+    "search_text_6",
+    "search_text_7",
+    "search_text_8",
+    "search_text_9",
+    "search_text_10"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:45.350Z"
+}

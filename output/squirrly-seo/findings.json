@@ -1,0 +1,59 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "trp_settings",
+    "wpseo_social",
+    "wpseo_titles",
+    "wpseo",
+    "aioseo_options",
+    "rank-math-options-general",
+    "rank-math-options-titles",
+    "autodescription-site-settings",
+    "_psp_options",
+    "seopress_social_option_name",
+    "seopress_google_analytics_option_name",
+    "wpseo_taxonomy_meta",
+    "seopress_titles_option_name",
+    "sq_indexnow_log",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [
+    "sq_checkin",
+    "sq_stats",
+    "sq_briefcase_stats",
+    "sq_activate",
+    "sq_import",
+    "sq_auditpage_all",
+    "sq_innerlinks_suggestion",
+    "sq_auditpage_*",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "sq_processPing"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sq_image_downloaded",
+    "_sq_sla",
+    "_sq_keywords",
+    "sq_keyword",
+    "_sq_old_slug",
+    "ct_oxygenberg_full_page_block",
+    "ct_builder_shortcodes",
+    "_sq_woocommerce",
+    "description",
+    "rank_math_focus_keyword",
+    "_yoast_wpseo_focuskw",
+    "_aioseo_keywords",
+    "_seopress_analysis_target_kw",
+    "_sq_video",
+    "_sq_title",
+    "_sq_description",
+    "_sq_jsonld_custom",
+    "_sq_jsonld_builder",
+    "rating",
+    "_sq_pixel_custom"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:39.420Z"
+}

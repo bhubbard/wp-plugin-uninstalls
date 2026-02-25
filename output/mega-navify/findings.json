@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_options",
+    "*options",
+    "*responsive_breakpoint",
+    "*_locations",
+    "widget_*",
+    "*_icons"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*submenu_display_mode",
+    "*grid_system",
+    "*item_settings",
+    "*active_tab"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:08.142Z"
+}

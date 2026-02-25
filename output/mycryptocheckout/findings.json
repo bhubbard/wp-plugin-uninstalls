@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_price_num_decimals",
+    "woocommerce_mycryptocheckout_settings"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "mycryptocheckout_hourly",
+    "mycryptocheckout_retrieve_account",
+    "mycryptocheckout_check_for_valid_payment_id",
+    "mycryptocheckout_send_payment"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mcc_payment_id",
+    "_mcc_transaction_id",
+    "_mcc_amount",
+    "_mcc_currency_id",
+    "_mcc_to",
+    "_mcc_attempts",
+    "_mcc_confirmations",
+    "_mcc_created_at",
+    "_mcc_payment_timeout_hours",
+    "_mcc_payment_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:19.574Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "jigo_youtube_video_tab_custom_player",
+    "jigo_youtube_video_tab_player_skin",
+    "jigo_youtube_video_tab_player_skin_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "jigo_youtube_video_product_tab"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:38.477Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "eap-amazon-country",
+    "eap-amazon-tag",
+    "eap-amazon-api-access-key",
+    "eap-amazon-api-secret",
+    "eap-buy-now-button",
+    "eap-amazon-link-type",
+    "eap-amazon-show-price"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:46.620Z"
+}

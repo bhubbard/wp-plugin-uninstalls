@@ -1,0 +1,32 @@
+{
+  "options": [
+    "activate_admin",
+    "wc_gls_server",
+    "wc_gls_print_senderid",
+    "wc_gls_print_username",
+    "wc_gls_print_password",
+    "wc_gls_print_sender_name",
+    "wc_gls_print_sender_address",
+    "wc_gls_print_sender_city",
+    "wc_gls_print_sender_zipcode",
+    "wc_gls_print_sender_country",
+    "wc_gls_print_sender_contact",
+    "wc_gls_print_sender_phone",
+    "wc_gls_print_sender_email",
+    "wc_gls_enable_fds",
+    "wc_gls_print_contactid",
+    "wc_gls_email_content",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Želim naručiti dostavnu službu",
+    "gls_order_tracking_number",
+    "gls_order_parcel_number",
+    "gls_order_tracking_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:33.918Z"
+}

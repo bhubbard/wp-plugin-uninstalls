@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cdevroe_tootfaves_instance_url",
+    "cdevroe_tootfaves_access_token"
+  ],
+  "transients": [
+    "cdevroe_tootfaves_cache_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:58.925Z"
+}

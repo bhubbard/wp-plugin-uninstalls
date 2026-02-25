@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cdaiw_app_id",
+    "cdaiw_app_secret",
+    "cleandesk_app_id",
+    "cleandesk_app_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:05.733Z"
+}

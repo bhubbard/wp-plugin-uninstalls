@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ppgf_payping_configured",
+    "ppgf_payping_version",
+    "ppgf_payping_settings",
+    "payping_gf_recently_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:48.602Z"
+}

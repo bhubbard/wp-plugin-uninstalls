@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_pigeon_content_access",
+    "_wp_pigeon_content_price",
+    "_wp_pigeon_content_value",
+    "_wp_pigeon_content_prompt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:20.405Z"
+}

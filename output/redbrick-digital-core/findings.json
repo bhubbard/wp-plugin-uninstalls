@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wlio_api_url",
+    "rbd_core_review_engine_url_updated",
+    "rbd_core_review_engine_url",
+    "RBD_CORE_VALID",
+    "rbd_core_hipaa_compliance"
+  ],
+  "transients": [
+    "rbd_core_api_call"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:25.279Z"
+}

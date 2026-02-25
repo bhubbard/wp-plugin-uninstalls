@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ipr_feednumitems",
+    "ipr_hidefeedtitle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ipr_feedtitle",
+    "ipr_feedurl",
+    "ipr_feednumitems"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:58.851Z"
+}

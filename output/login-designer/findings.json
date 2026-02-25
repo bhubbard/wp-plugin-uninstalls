@@ -1,0 +1,37 @@
+{
+  "options": [
+    "login_designer_settings",
+    "login_designer",
+    "login_designer_license",
+    "login_designer_fonts_url",
+    "password_protected",
+    "login_designer_google_recaptcha",
+    "login_designer_recaptcha_settings",
+    "login_designer_translations",
+    "login_designer_pro",
+    "login_designer_error_messages",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "post-smtp-recommendation-notice-hidden",
+    "post_smtp_global_recommendation_notice_hidden"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:17.575Z"
+}

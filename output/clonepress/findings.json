@@ -1,0 +1,23 @@
+{
+  "options": [
+    "clonepress_roles",
+    "clonepress_types_enabled",
+    "clonepress_show_in_row_actions",
+    "clonepress_duplicate_label",
+    "clonepress_duplicate_post_status",
+    "clonepress_duplicate_suffix",
+    "clonepress_duplicate_redirect",
+    "clonepress_show_in_admin_bar",
+    "clonepress_show_in_bulk_actions",
+    "clonepress_show_in_metabox",
+    "clonepress_settings"
+  ],
+  "transients": [
+    "clonepress_reset_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:49.543Z"
+}

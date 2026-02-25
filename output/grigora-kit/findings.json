@@ -1,0 +1,23 @@
+{
+  "options": [
+    "grigora_kit_settings",
+    "site_logo",
+    "grigora_blocks_typography",
+    "grigora_st_logo_id",
+    "grigora_st_templates_meta",
+    "downloaded_font_files"
+  ],
+  "transients": [
+    "grigora_st_templates_meta_updated_flag"
+  ],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_grigora-toc-disable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:49.930Z"
+}

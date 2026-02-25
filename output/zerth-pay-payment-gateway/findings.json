@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_zerthpay_settings"
+  ],
+  "transients": [
+    "zerthpay_webhook_processed_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:25.217Z"
+}

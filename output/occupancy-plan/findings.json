@@ -1,0 +1,16 @@
+{
+  "options": [
+    "op_dashboard_widget_blocks",
+    "occupancy_plan_db_version"
+  ],
+  "transients": [
+    "occupancy_plan_state_*"
+  ],
+  "cron_jobs": [
+    "occupancy_plan_cleanup_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:23.315Z"
+}

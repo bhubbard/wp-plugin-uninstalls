@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_ark_gateway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "arkcommerce_refresh_exchange_rate",
+    "arkcommerce_check_for_open_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ark_total"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:35.179Z"
+}

@@ -1,0 +1,42 @@
+{
+  "options": [
+    "xfgmc_plugin_notifications",
+    "xfgmc_settings_arr",
+    "xfgmc_last_feed_id",
+    "xfgmc_last_element_feed_*",
+    "xfgmc_keeplogs",
+    "xfgmc_version",
+    "xfgmc_feed_content",
+    "woo_hook_isc*",
+    "woo_hook_isd*",
+    "active_sitewide_plugins",
+    "xfgmc_settings_arr_backup",
+    "xfgmc_registered_feeds_arr",
+    "xfgmcp_order_id",
+    "xfgmcp_order_email"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "xfgmc_cron_start_feed_creation",
+    "xfgmc_cron_sborki"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "xfgmc_google_product_category",
+    "xfgmc_tax_category",
+    "xfgmc_size",
+    "xfgmc_size_type",
+    "xfgmc_size_type_alt",
+    "xfgmc_fb_product_category",
+    "_xfgmc_barcode",
+    "rank_math_primary_category",
+    "_xfgmc_fb_product_category",
+    "_xfgmc_identifier_exists",
+    "_ts_gtin",
+    "usbs_gtin_field",
+    "_alg_ean",
+    "_xfgmc_tax_category"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:56.568Z"
+}

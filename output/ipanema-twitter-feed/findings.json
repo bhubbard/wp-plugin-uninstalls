@@ -1,0 +1,12 @@
+{
+  "options": [
+    "itf_gt_database_options_*",
+    "itf_gt_database_options_"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:55.085Z"
+}

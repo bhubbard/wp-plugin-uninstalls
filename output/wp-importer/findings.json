@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_importer_unique_id",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_metakeywords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:14.224Z"
+}

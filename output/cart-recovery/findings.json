@@ -1,0 +1,29 @@
+{
+  "options": [
+    "crfw_licence_*",
+    "crfw_licence_status_*",
+    "crfw_db_version",
+    "crfw_settings_email",
+    "crfw_cart_completion_working",
+    "crfw_cart_salt",
+    "crfw_cron_last_run",
+    "crfw_anon_meta_clearup_processed_until",
+    "woocommerce_tax_display_shop",
+    "checkout_url",
+    "crfw_cart_value_tracking_started",
+    "crfw_settings_*",
+    "crfw_settings_main"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "crfw_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_payment_user_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:04.963Z"
+}

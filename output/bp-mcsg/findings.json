@@ -1,0 +1,14 @@
+{
+  "options": [
+    "server-livechat-db-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "minecraft_username",
+    "whitelist_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:25.862Z"
+}

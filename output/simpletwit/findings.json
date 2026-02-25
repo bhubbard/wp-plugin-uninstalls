@@ -1,0 +1,21 @@
+{
+  "options": [
+    "stf_auth_creds",
+    "stf_twit",
+    "stf_last_tweet",
+    "stf_creds_info"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "stf_tweet_import"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "raw_tweet",
+    "tweet_id",
+    "is_retweet",
+    "is_reply"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:56.939Z"
+}

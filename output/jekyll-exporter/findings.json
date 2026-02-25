@@ -1,0 +1,21 @@
+{
+  "options": [
+    "jekyll_export_start_time",
+    "_hidden_option",
+    "visible_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "serialized_field",
+    "custom_field",
+    "empty_string",
+    "false_value",
+    "zero_value",
+    "null_value",
+    "non_empty_value"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:24.373Z"
+}

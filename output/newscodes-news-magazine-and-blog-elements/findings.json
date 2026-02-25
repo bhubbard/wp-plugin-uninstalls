@@ -1,0 +1,14 @@
+{
+  "options": [
+    "newscodes_settings",
+    "newscodes_shortcodes",
+    "_nc_less_styles",
+    "_nc_less_styles_exclude"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:59.619Z"
+}

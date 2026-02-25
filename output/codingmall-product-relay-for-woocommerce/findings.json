@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wooapisync_db_version",
+    "wooapisync_jobs",
+    "wooapisync_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wooapisync_process_queue_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wooapisync_disable_auto"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:00.017Z"
+}

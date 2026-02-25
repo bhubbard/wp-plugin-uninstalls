@@ -1,0 +1,15 @@
+{
+  "options": [
+    "r34ecre_days",
+    "r34ecre_max_events",
+    "r34ecre_images_all",
+    "r34ecre_image_size",
+    "r34ecre_venue_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:21.461Z"
+}

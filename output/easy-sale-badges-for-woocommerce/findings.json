@@ -1,0 +1,15 @@
+{
+  "options": [
+    "asnp_easy_sale_badge_settings",
+    "*_added",
+    "asnp_wesb_db_version"
+  ],
+  "transients": [
+    "asnp_wesb_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:06.444Z"
+}

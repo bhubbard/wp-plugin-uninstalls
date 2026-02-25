@@ -1,0 +1,30 @@
+{
+  "options": [
+    "san_notifications",
+    "san_instances",
+    "woocommerce_bacs_accounts",
+    "san_wa_*",
+    "wnt_connection"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "followup_cron_hook",
+    "followup_cron_hook_2",
+    "followup_cron_hook_3",
+    "aftersales_cron_hook",
+    "abandoned_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_order_shipping",
+    "_order_total",
+    "followup",
+    "followup_2",
+    "followup_3",
+    "_completed_date",
+    "aftersales"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:23.372Z"
+}

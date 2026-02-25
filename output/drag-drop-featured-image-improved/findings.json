@@ -1,0 +1,16 @@
+{
+  "options": [
+    "drag-drop-post-types",
+    "drag-drop-file-types",
+    "drag-drop-user-capability",
+    "drag-drop-page-reload"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:34.315Z"
+}

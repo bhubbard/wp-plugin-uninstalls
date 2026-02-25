@@ -1,0 +1,28 @@
+{
+  "options": [
+    "a3_lazy_load_global_settings",
+    "a3_lazy_load_version",
+    "a3_lazy_load_just_installed",
+    "a3_lazy_load_style_version",
+    "*_clean_on_deletion",
+    "*_enable",
+    "*_google_font_list",
+    "*_style_version",
+    "*_google_api_key",
+    "*_toggle_box_open",
+    "*-custom-boxes"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_status",
+    "a3_lazyload_addons_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*opened",
+    "*-custom-boxes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:00.306Z"
+}

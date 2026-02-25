@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_advsp_post_pos",
+    "_advsp_content",
+    "_advsp_class",
+    "_advsp_pos",
+    "_advsp_hp",
+    "_advsp_sticky"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:17.549Z"
+}

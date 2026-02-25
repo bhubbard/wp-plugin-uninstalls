@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cip_settings",
+    "wl_cip_setup_wizard",
+    "cip_staff_request",
+    "cip_official_holidays",
+    "cip_staff_event_request"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:10.658Z"
+}

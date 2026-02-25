@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cis_news_aggregator_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cis_news_aggregator_fetch_feeds_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_is_aggregator_post"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:00.914Z"
+}

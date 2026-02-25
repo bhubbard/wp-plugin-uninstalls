@@ -1,0 +1,13 @@
+{
+  "options": [
+    "plugin_dir_stats_setting_opt",
+    "plugin_dir_stats_updated",
+    "plugin_dir_stats_checkver_stamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:01.659Z"
+}

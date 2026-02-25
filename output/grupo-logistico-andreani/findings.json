@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_email_from_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_chosen_shipping",
+    "nro_envio",
+    "url_etiqueta",
+    "_params_andreani",
+    "_billing_dni",
+    "sucursal_andreani"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:05.504Z"
+}

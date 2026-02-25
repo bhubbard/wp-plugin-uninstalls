@@ -1,0 +1,22 @@
+{
+  "options": [
+    "elcmt_csp",
+    "elcmt_description",
+    "elcmt_og_enabled",
+    "elcmt_og_title",
+    "elcmt_og_description",
+    "elcmt_og_image",
+    "elcmt_og_url",
+    "elcmt_twitter_enabled",
+    "elcmt_twitter_title",
+    "elcmt_twitter_description",
+    "elcmt_twitter_image",
+    "elcmt_twitter_card"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:54.795Z"
+}

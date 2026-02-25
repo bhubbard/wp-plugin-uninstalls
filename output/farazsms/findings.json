@@ -1,0 +1,36 @@
+{
+  "options": [
+    "farazsms_do_activation_redirect",
+    "farazsms_settings_options",
+    "farazsms_login_notify_options",
+    "farazsms_phonebook_options",
+    "farazsms_integrations_options",
+    "farazsms_comments_options",
+    "farazsms_newsletter_options",
+    "farazsms_woocommerce_options",
+    "farazsms_elementor_options",
+    "farazsms_edd_options",
+    "farazsms_aff_options",
+    "farazsms_membership_options",
+    "fsms_rss_meta_box",
+    "fsms_panel_expire_date",
+    "sent_low_remaining_days_30",
+    "sent_low_remaining_days_7"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "digits_phone",
+    "farazsms_affiliate_phone",
+    "digits_phone_no",
+    "wupp_mobile",
+    "sent_welcome_message",
+    "mobile",
+    "farazsms_low_credit_notify_sent_timestamp",
+    "sent_retention_message",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:31.573Z"
+}

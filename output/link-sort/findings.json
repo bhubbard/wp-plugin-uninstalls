@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cocolinksort_links_order",
+    "als_sort_id",
+    "als_order_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:40.161Z"
+}

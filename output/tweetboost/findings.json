@@ -1,0 +1,33 @@
+{
+  "options": [
+    "acf_version",
+    "acf_update_550_termmeta",
+    "tweet-boost-tweet-status-log",
+    "tweet-boost",
+    "tweet-boost-notice"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "tweet_boost_heartbeat"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "*tweet_boost_status_data",
+    "tweet_boost_notification_*",
+    "tweet_time",
+    "tweet_boost_status_data",
+    "tweet_boost_post_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:44.435Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "srwc_settings",
+    "srwc_flush_rewrite_rules"
+  ],
+  "transients": [
+    "srwc_mailchimp_pending_*",
+    "srwc_mailchimp_confirmation_url_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "srwc_customer_name",
+    "srwc_win_label",
+    "srwc_coupon_code",
+    "srwc_customer_mobile",
+    "srwc_spin_date",
+    "srwc_customer_email",
+    "date_expires",
+    "discount_type",
+    "coupon_amount",
+    "usage_limit",
+    "limit_usage_to_x_items",
+    "usage_limit_per_user",
+    "free_shipping",
+    "individual_use",
+    "exclude_sale_items",
+    "minimum_amount",
+    "maximum_amount",
+    "product_ids",
+    "exclude_product_ids",
+    "product_categories",
+    "exclude_product_categories",
+    "customer_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:24.318Z"
+}

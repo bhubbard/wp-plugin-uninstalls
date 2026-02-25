@@ -1,0 +1,12 @@
+{
+  "options": [
+    "ata_cart_notices_hide",
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:49.156Z"
+}

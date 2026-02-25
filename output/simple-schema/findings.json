@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sdc_default_schema",
+    "sdc_default_schema_content",
+    "sdc_defaults",
+    "sdc_settings",
+    "moup_uploads",
+    "sdc_uploads"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_opengraph-image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:04.037Z"
+}

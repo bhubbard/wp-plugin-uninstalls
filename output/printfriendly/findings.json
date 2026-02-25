@@ -1,0 +1,27 @@
+{
+  "options": [
+    "pf_*",
+    "printfriendly_option",
+    "pf_button_type",
+    "pf_custom_image",
+    "pf_custom_text",
+    "pf_custom_both",
+    "pf_show_list",
+    "pf_content_placement",
+    "pf_content_position",
+    "pf_margin_top",
+    "pf_margin_right",
+    "pf_margin_bottom",
+    "pf_margin_left",
+    "pf_text_color",
+    "pf_text_size"
+  ],
+  "transients": [
+    "pf-tab"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:49.332Z"
+}

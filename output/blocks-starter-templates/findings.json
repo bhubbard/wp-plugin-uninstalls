@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpst_block_templates_fresh_site",
+    "wpst-block-templates-export-checksums-time",
+    "wpst-block-templates-batch-is-complete",
+    "wpst-block-templates-manual-sync-complete",
+    "wpst-block-templates-export-checksums",
+    "wpst-block-templates-export-checksums-latest",
+    "wpst-block-templates_data-*",
+    "wpst-block-templates-categories",
+    "wpst-block-templates-site-requests",
+    "wpst-block-templates-sites-*",
+    "wpst-block-templates-block-requests",
+    "wpst-block-templates-blocks-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpst_block_templates_image_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:11.788Z"
+}

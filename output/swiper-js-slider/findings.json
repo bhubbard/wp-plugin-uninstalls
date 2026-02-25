@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*setting_general",
+    "*setting_autoplay",
+    "*setting_pagination",
+    "*setting_navigation",
+    "*setting_breakpoints",
+    "*gallery_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:44.986Z"
+}

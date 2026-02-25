@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pcav_enable_validation",
+    "pcav_license_key",
+    "pcav_api_key",
+    "pcav_configured_provider",
+    "pcav_hide_fields",
+    "pcav_empty_fields",
+    "pcav_enable_debugmode",
+    "pcav_autocomplete_off",
+    "pcav_housenumber_and_addition_line_2",
+    "pcav_color_placeholder",
+    "pcav_color_result"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:20.937Z"
+}

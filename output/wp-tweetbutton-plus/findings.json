@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wptb_count",
+    "wptb_lang",
+    "wptb_via",
+    "wptb_related",
+    "wptb_related_desc",
+    "wptb_text",
+    "wptb_text_value",
+    "wptb_display_entry",
+    "wptb_display_page",
+    "wptb_display_home",
+    "wptb_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:11.644Z"
+}

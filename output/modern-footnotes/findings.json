@@ -1,0 +1,13 @@
+{
+  "options": [
+    "modern_footnotes_settings",
+    "modern_footnotes_include_footnote_list_at_end_of_rss_content_default_value_has_been_set",
+    "modern_footnotes_use_expandable_footnotes_on_desktop_instead_of_tooltips_has_been_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:37.247Z"
+}

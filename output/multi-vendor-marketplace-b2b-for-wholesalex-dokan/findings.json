@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wholesalex_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dokan_store_name",
+    "wholesalex_conversation_dokan_vid"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:07.635Z"
+}

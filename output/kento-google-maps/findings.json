@@ -1,0 +1,26 @@
+{
+  "options": [
+    "kggm_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kggm-param-address",
+    "kggm-param-infowindow",
+    "kggm-param-marker",
+    "kggm-param-marker-custom",
+    "kggm-param-map",
+    "kggm-param-width",
+    "kggm-param-height",
+    "kggm-param-zoom",
+    "kggm-param-type",
+    "kggm-param-swheel",
+    "kggm-param-controls",
+    "kggm-param-cache",
+    "kggm-param-class",
+    "kggm-param-id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:00.767Z"
+}

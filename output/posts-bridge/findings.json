@@ -1,0 +1,19 @@
+{
+  "options": [
+    "posts-bridge-jwt-secret",
+    "posts-bridge_general",
+    "posts-bridge_wp",
+    "posts-bridge_wp-rest",
+    "posts-bridge_rest-api",
+    "posts-bridge_rest",
+    "http-bridge_general",
+    "posts-bridge_http",
+    "_posts_bridge_detach_queue"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:12.297Z"
+}

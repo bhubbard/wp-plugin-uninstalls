@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_default_country"
+  ],
+  "transients": [
+    "pwpl_this_ip_address",
+    "pwpl_my_ip_addresses",
+    "pwpl_this_geo_data",
+    "pwpl_this_geo_data_last_checked"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:45.426Z"
+}

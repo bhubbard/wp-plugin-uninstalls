@@ -1,0 +1,16 @@
+{
+  "options": [
+    "taxonomy_*",
+    "woocommerce_default_quantity",
+    "dqfwc_installed",
+    "dqfwc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dqfwc_default_quantity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:05.231Z"
+}

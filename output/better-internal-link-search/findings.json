@@ -1,0 +1,14 @@
+{
+  "options": [
+    "better_internal_link_search_version",
+    "better_internal_link_search"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "twitter"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:26.708Z"
+}

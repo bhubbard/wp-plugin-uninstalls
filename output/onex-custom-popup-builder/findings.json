@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_mailchimp",
+    "custom-popup-builder-settings_mailchimp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type",
+    "_elementor_page_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:34.716Z"
+}

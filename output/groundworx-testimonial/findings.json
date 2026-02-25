@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gwx_testimonial_singular",
+    "gwx_testimonial_plural"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gwx_author",
+    "gwx_citation",
+    "gwx_photo",
+    "gwx_quote"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:09.592Z"
+}

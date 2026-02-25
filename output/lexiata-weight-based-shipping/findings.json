@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lexiwbs_cod_restriction_enabled",
+    "lexiwbs_cod_min_total",
+    "lexiwbs_cod_max_total"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:32.665Z"
+}

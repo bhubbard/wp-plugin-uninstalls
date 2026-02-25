@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sthw_hide_unknown",
+    "sthw_cache_enable",
+    "sthw_cache_lifetime",
+    "widget_st_hitbox_widget"
+  ],
+  "transients": [
+    "st_hitbox_widget-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:34.967Z"
+}

@@ -1,0 +1,47 @@
+{
+  "options": [
+    "*organization_id_import",
+    "*organization_name_import",
+    "*organization_id_export",
+    "*chosen_terminals",
+    "*organization_name_export",
+    "*chosen_groups",
+    "*menu_id",
+    "*price_category_id",
+    "*chosen_city_ids",
+    "*all_cities",
+    "*molnia_api_on",
+    "*apiLogin",
+    "*iiko_product_categories",
+    "*telegram",
+    "*local",
+    "*debug_mode",
+    "*debug_emails",
+    "*syrve_server",
+    "*timeout",
+    "*molnia_api_id",
+    "*molnia_api_secret",
+    "*export",
+    "*import",
+    "*remove_plugin_settings"
+  ],
+  "transients": [
+    "*access_token",
+    "*groups",
+    "*sizes",
+    "*services",
+    "*modifiers",
+    "*modifier_groups_list"
+  ],
+  "cron_jobs": [
+    "*cron_export_order",
+    "*cron_import_nomenclature"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*group_id",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:12.080Z"
+}

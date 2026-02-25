@@ -1,0 +1,21 @@
+{
+  "options": [
+    "inkreez_key",
+    "inkreez_sequences",
+    "inkreez_gtm_code_id",
+    "inkreez_cf7_*",
+    "inkreez_gtm_code_head",
+    "inkreez_gtm_code_body",
+    "inkreez_role"
+  ],
+  "transients": [
+    "inkreez_custom_plugin_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:22.746Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "le_single_post_post"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "le_activation"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:25.263Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "themehunk_megamenu_options",
+    "themehunk_megamenu_settings",
+    "themehunk_megamenu_multisite_share_themes",
+    "themehunk_megamenu_themes_last_updated",
+    "themehunk_megamenu_themes",
+    "widget_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "themehunk_megamenu_item_megamenu_status",
+    "themehunk_megamenu_layout",
+    "themehunk_megamenu_builder_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:30.759Z"
+}

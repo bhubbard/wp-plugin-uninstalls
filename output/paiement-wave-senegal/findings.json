@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pw_wave_license_key",
+    "pw_wave_license_status",
+    "pw_wave_license_last_check",
+    "pw_wave_trial_started",
+    "pw_wave_trial_end",
+    "pw_wave_license_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pw_wave_license_check_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:47.310Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "srx_canonical_check",
+    "srx_internal_check",
+    "srx_metaval_check",
+    "srx-metatitle-check",
+    "srx-whitelist-kwd",
+    "srx-whitelist-kwd-box",
+    "srx_popup_open"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:59.920Z"
+}

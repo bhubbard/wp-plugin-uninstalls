@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hillapay_payCode",
+    "_billing_phone",
+    "woo_hillapay_amount_wage",
+    "woo_hillapay_amount_merchant",
+    "woo_hillapay_transaction_id",
+    "woo_hillapay_rrn",
+    "card",
+    "_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:10.851Z"
+}

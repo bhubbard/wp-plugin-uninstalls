@@ -1,0 +1,16 @@
+{
+  "options": [
+    "taxonomy_image_plugin",
+    "taxonomy_image_plugin_settings",
+    "taxonomy_images_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:27.824Z"
+}

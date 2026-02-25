@@ -1,0 +1,19 @@
+{
+  "options": [
+    "events_listing_fix_featured",
+    "events_listing_Options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "events_listing_featured",
+    "events_listing_url",
+    "events_listing_date",
+    "events_listing_end_date",
+    "book_author",
+    "book_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:54.664Z"
+}

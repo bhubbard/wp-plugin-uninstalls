@@ -1,0 +1,15 @@
+{
+  "options": [
+    "spocket_store_authorization_key",
+    "spocket_shop_url",
+    "spocket_auth_token",
+    "spocket_user_id",
+    "spocket_connected"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:06.722Z"
+}

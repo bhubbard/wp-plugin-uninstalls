@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "popupmeta_pop_sub_title",
+    "popup_colorpicker",
+    "popup_text_colorpicker",
+    "popupmeta_pop_button",
+    "popupmeta_pop_shortcode",
+    "button_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:53.168Z"
+}

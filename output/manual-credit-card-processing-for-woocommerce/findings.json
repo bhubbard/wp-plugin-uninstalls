@@ -1,0 +1,14 @@
+{
+  "options": [
+    "moco_wc_mcc_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method",
+    "_payment_method_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:05.332Z"
+}

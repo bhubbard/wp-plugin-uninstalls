@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_new_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*samaccountname",
+    "*user_disabled_reason",
+    "*userprincipalname"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:33.559Z"
+}

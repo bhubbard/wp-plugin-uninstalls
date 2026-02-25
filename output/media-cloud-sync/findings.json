@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_db_version",
+    "*_do_activation_redirect",
+    "*_db_upgrade_version"
+  ],
+  "transients": [
+    "*_upgrade_queue",
+    "*_upgrade_total",
+    "*_upgrade_completed",
+    "*_upgrade_started"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_imagify_data",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:20.958Z"
+}

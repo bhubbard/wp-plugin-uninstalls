@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_belluno_bankslip_settings",
+    "woocommerce_belluno_card_settings",
+    "woocommerce_belluno_settings",
+    "woocommerce_belluno_pix_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_belluno_transaction_id",
+    "_belluno_method",
+    "_belluno_billet_url",
+    "_belluno_status",
+    "_billing_client_cpf",
+    "billing_neighborhood",
+    "_billing_number",
+    "_shipping_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:17.243Z"
+}

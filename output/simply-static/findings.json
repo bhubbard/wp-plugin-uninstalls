@@ -1,0 +1,37 @@
+{
+  "options": [
+    "simply-static",
+    "simply-static-use-single",
+    "simply-static-use-build",
+    "simply-static-*",
+    "simply-static-404-only",
+    "fs_accounts",
+    "*_multisite_export_running",
+    "*_blog_exported",
+    "active_sitewide_plugins",
+    "*_total_pages",
+    "simply_static_delayed_until",
+    "simply_static_elementor_defaults_set",
+    "elementor_meta_generator_tag",
+    "elementor_css_print_method",
+    "elementor_lazy_load_background_images",
+    "elementor_element_cache_ttl",
+    "elementor_experiment-e_font_icon_svg",
+    "elementor_experiment-e_optimized_markup",
+    "wpseo-premium-redirects-base"
+  ],
+  "transients": [
+    "simply_static_has_build_terms",
+    "simply_static_checks",
+    "simply_static_failed_tests"
+  ],
+  "cron_jobs": [
+    "simply_static_site_export_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:52.723Z"
+}

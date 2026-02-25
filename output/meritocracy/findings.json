@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cashcred_user_settings",
+    "cost",
+    "cashcred_payment_transfer_date",
+    "cashcred_log_1",
+    "cashcred_log_counter",
+    "cashcred_log_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:09.839Z"
+}

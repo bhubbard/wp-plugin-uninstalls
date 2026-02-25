@@ -1,0 +1,21 @@
+{
+  "options": [
+    "enable_on_woocommerce",
+    "enable_on_shopp",
+    "enable_on_gform",
+    "selected_gform",
+    "gform_phone_field_id",
+    "enable_on_cform7",
+    "selected_cform7",
+    "cform7_phone_field_id",
+    "show_selected",
+    "selected_countries",
+    "initial_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:42.914Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "gil_zm_settings",
+    "gil_zm_layout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:32.733Z"
+}

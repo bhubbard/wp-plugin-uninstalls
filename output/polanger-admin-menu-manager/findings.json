@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pdt_settings_v2_migrated",
+    "pdt_settings",
+    "pdt_menu_items"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:14.061Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('automatic_post_tagger', 'automatic_post_tagger_keywords', 'automatic_post_tagger_groups', 'apt_plugin_version', 'apt_admin_notice_install', 'apt_admin_notice_update', 'apt_admin_notice_donate', 'apt_hidden_widgets', 'apt_stats_current_tags', 'apt_stats_assigned_tags', 'apt_stats_install_date', 'apt_post_analysis_title', 'apt_post_analysis_content', 'apt_post_analysis_excerpt', 'apt_handling_current_tags', 'apt_string_manipulation_convert_diacritic', 'apt_string_manipulation_lowercase', 'apt_string_manipulation_strip_tags', 'apt_string_manipulation_replace_whitespaces', 'apt_string_manipulation_replace_nonalphanumeric', 'apt_string_manipulation_ignore_asterisks', 'apt_word_recognition_separators', 'apt_miscellaneous_tag_maximum', 'apt_miscellaneous_tagging_occasion', 'apt_miscellaneous_substring_analysis', 'apt_miscellaneous_substring_analysis_length', 'apt_miscellaneous_substring_analysis_start', 'apt_miscellaneous_wildcards', 'apt_bulk_tagging_posts_per_cycle', 'apt_bulk_tagging_range', 'apt_bulk_tagging_statuses');
+

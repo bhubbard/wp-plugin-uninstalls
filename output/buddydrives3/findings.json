@@ -1,0 +1,21 @@
+{
+  "options": [
+    "_buddydrive_user_quota",
+    "_buddydrive_version",
+    "_buddydrive_max_upload",
+    "_buddydrive_allowed_extensions"
+  ],
+  "transients": [
+    "_buddydrive_is_new_install",
+    "_buddydrive_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_buddydrive_sharing_option",
+    "_buddydrive_total_space",
+    "_buddydrive_sharing_groups"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:09.014Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "hypertransfer_page_selection",
+    "hypertransfer_total_uploaded_files",
+    "hypertransfer_remove_data_on_uninstall",
+    "hypertransfer_file_storage_limit",
+    "hypertransferItem_*",
+    "hypertransfer_logo_color_orizzontale",
+    "hypertransfer_compress_file_on_server",
+    "hypertransfer_max_compress_file_on_server",
+    "hypertransfer_plugin_version",
+    "hypertransfer_logo_bianco_simbolo",
+    "hypertransfer_full_notified",
+    "hypertransfer_send_full_notification",
+    "hypertransfer_max_file_updatable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:21.256Z"
+}

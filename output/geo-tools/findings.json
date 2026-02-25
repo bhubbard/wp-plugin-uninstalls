@@ -1,0 +1,24 @@
+{
+  "options": [
+    "geotools_TBMilles",
+    "geotools_tb_answer_type",
+    "geotools-color-picker-background-trackable",
+    "geotools_statbaranswer_type",
+    "geotools_statbar_geocacheur",
+    "geotools_statbar_Citation",
+    "geotools_statbar_guid",
+    "geotools_statbar_image",
+    "geotools-statbar-title",
+    "geotoolsTBNumber",
+    "geotools-trackable-title",
+    "geotools-color-picker-background-trackable-r",
+    "geotools-color-picker-background-trackable-g",
+    "geotools-color-picker-background-trackable-b"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:26.691Z"
+}

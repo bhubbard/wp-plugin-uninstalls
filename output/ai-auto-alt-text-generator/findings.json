@@ -1,0 +1,23 @@
+{
+  "options": [
+    "aatg_openai_api_key",
+    "aatg_openai_model",
+    "aatg_image_size",
+    "aatg_image_detail",
+    "aatg_site_context",
+    "aatg_auto_title",
+    "aatg_send_filename",
+    "aatg_title_full_context",
+    "aatg_bulk_delay",
+    "aatg_bulk_batch_size",
+    "aatg_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:48.932Z"
+}

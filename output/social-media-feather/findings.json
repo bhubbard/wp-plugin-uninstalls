@@ -1,0 +1,24 @@
+{
+  "options": [
+    "synved_social_settings",
+    "smf-hide-review",
+    "synved_connect_id_*",
+    "synved_connect_install_date",
+    "synved_version",
+    "synved_option_wp_upgrade_addon_transfer",
+    "synved_option_wp_upgrade_addon_transfer_time",
+    "synved_connect_id_default",
+    "widget_synved_social_share",
+    "widget_synved_social_follow"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "synved_social_exclude",
+    "synved_social_exclude_share",
+    "synved_social_exclude_follow"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:26.853Z"
+}

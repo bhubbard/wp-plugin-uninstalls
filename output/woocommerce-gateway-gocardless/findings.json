@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_gocardless_settings",
+    "wc_gocardless_access_token_unauthorized",
+    "wc_gocardless_default_webhook_secret",
+    "woocommerce_gocardless_default_webhook_secret",
+    "wc_gocardless_version",
+    "woocommerce_gocardless_version",
+    "woocommerce_gocardless_settings_deprecated"
+  ],
+  "transients": [
+    "wc_gocardless_available_scheme_identifiers",
+    "wc_gocardless_connection_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gocardless_customer_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:46.638Z"
+}

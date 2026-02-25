@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "set-post-featured-icon",
+    "set-post-featured-icon-to-title",
+    "post-featured-icon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:19.559Z"
+}

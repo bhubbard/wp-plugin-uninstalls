@@ -1,0 +1,29 @@
+{
+  "options": [
+    "pimi_encryption_key",
+    "pimi_site_salt",
+    "pimi_blocked_ips",
+    "pimi_approval_enabled",
+    "pimi_approval_threshold",
+    "pimi_uninstall_delete_data",
+    "pimi_csv_file_*",
+    "pimi_csv_import_*",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [
+    "wp_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_elementor_template_type",
+    "_elementor_data",
+    "_elementor_version",
+    "_elementor_css",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:00.581Z"
+}

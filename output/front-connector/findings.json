@@ -1,0 +1,14 @@
+{
+  "options": [
+    "frontapp_auth",
+    "frontapp_inbox",
+    "frontapp_freshchat",
+    "frontapp_chat_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:52.751Z"
+}

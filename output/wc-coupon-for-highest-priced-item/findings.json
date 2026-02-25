@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mb-mc-coupon-disable-kofi"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "allow_multiple_discounted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:00.148Z"
+}

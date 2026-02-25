@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hp_woo_rewards_points_settings_option",
+    "hp_woo_rewards_points_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hp_woo_rewards_points",
+    "hp_woo_rewards_points_details",
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:53.440Z"
+}

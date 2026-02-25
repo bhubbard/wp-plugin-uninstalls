@@ -1,0 +1,61 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_last_send'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_skipped'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_allow_tracking'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_notice'"
+wp option delete 'gs_customize_presets_settings'
+wp option delete 'gs_form_animate'
+wp option delete 'gscusl-form-position'
+wp option delete 'gs_logo'
+wp option delete 'gs_logo_width'
+wp option delete 'gs_logo_height'
+wp option delete 'gs_logo_hide'
+wp option delete 'gs_logo_padding'
+wp option delete 'gs_bg_image'
+wp option delete 'gs_bg_color'
+wp option delete 'gs_bg_repeat'
+wp option delete 'gs_background_position'
+wp option delete 'gs_bg_size'
+wp option delete 'gs_back_hide'
+wp option delete 'gs_form_bg_image'
+wp option delete 'gs_form_bg_position'
+wp option delete 'gs_form_bg_repeat'
+wp option delete 'gs_form_bg_size'
+wp option delete 'gs_form_bg_color'
+wp option delete 'gs_form_width'
+wp option delete 'gs_form_height'
+wp option delete 'gs_form_padding'
+wp option delete 'gs_form_font_sizes'
+wp option delete 'gs_form_border_color'
+wp option delete 'gs_form_border_thick'
+wp option delete 'gs_form_border_style'
+wp option delete 'gs_form_border_radius'
+wp option delete 'gs_field_width'
+wp option delete 'gs_field_margin'
+wp option delete 'gs_field_bg'
+wp option delete 'gs_field_color'
+wp option delete 'gs_field_label'
+wp option delete 'gs_field_border_color'
+wp option delete 'gs_form_field_border_thick'
+wp option delete 'gs_form_field_border_style'
+wp option delete 'gs_button_color'
+wp option delete 'gs_button_bg'
+wp option delete 'gs_button_border'
+wp option delete 'gs_button_hover_color'
+wp option delete 'gs_button_hover_bg'
+wp option delete 'gs_button_hover_border'
+wp option delete 'gs_other_color'
+wp option delete 'gs_other_color_hover'
+wp option delete 'gs_footer_display_text'
+wp option delete 'gs_back_display_text'
+wp option delete 'gs_other_css'
+wp option delete 'gs_logo_title'
+wp option delete 'gs_logo_url'
+wp option delete 'gscusl-login-icons'
+wp option delete 'gs_login_footer_text'
+
+# Clear Cron Jobs
+

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "pos-parent",
+    "pos-optimization-rules",
+    "pos-optimized-rules",
+    "pos-sign",
+    "eazywp_connection",
+    "eazywp_connecting_info",
+    "pos_locked_plugins_data",
+    "pos_locked_plugins_list",
+    "pos_blocked_plugins_data",
+    "pos_blocked_plugins_list",
+    "active_sitewide_plugins",
+    "woocommerce_permalinks",
+    "pos-x16",
+    "pos_login_notice_dismissed",
+    "pos_plugin_frozen",
+    "pos_plugin_frozen_by",
+    "pos_activation_redirect",
+    "pos_plugin_image",
+    "pos_history_x32",
+    "POS_LOCAL_HISTORY",
+    "pos_vul_count",
+    "pos_439001",
+    "pos_plugin_data"
+  ],
+  "transients": [
+    "x32s"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pos_token",
+    "pos_promotion_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:22.115Z"
+}

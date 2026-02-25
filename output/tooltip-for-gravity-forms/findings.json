@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tooltip_plugin_version",
+    "gravity_tooltip_options"
+  ],
+  "transients": [
+    "tooltip_update_checker",
+    "gravitychecker"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:25.243Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "_iamg_activating_plugin",
+    "_iamg_activated_plugin",
+    "*_called_reg_client",
+    "*_registered",
+    "*_install_version",
+    "iamg_install_version",
+    "iamg_install_date",
+    "*_install_date",
+    "*categoryShow",
+    "iamg_after_install",
+    "iamg_redirect_overview",
+    "*_gallery_count"
+  ],
+  "transients": [
+    "iamg_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "id_local",
+    "presentation",
+    "presentation_parameters",
+    "presentation_dependence",
+    "pages",
+    "presentation_history",
+    "encrypted",
+    "_iamg_custom_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:10.351Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "eazycfc_label_text",
+    "eazycfc_honeypot",
+    "eazycfc_easy",
+    "eazycfc_disable_comment_form"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:09.910Z"
+}

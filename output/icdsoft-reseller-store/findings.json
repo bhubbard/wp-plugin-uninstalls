@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ICD_Hosting_Admin_Notices",
+    "icd_hosting_admin_notice_*",
+    "icd_hosting_version",
+    "icd_hosting_excluded_pages_ids",
+    "icd_hosting_domaincheck_page_id",
+    "icd_hosting_hostingorder_page_id",
+    "icd_hosting_certificates_page_id",
+    "icd_hosting_thankyou_page_id",
+    "icd_hosting_terms_page_id",
+    "icd_hosting_payment_page_id",
+    "icd_hosting_postback_page_id",
+    "icd_hosting_request_page_id",
+    "icd_hosting_renew_page_id",
+    "*_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:57.305Z"
+}

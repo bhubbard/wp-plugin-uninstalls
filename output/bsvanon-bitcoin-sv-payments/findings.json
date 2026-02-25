@@ -1,0 +1,31 @@
+{
+  "options": [
+    "_transient_timeout_*",
+    "woocommerce_bitcoin_sv_settings",
+    "bwwc_gateway_id_migration_done",
+    "woocommerce_bitcoin_settings",
+    "bwwc_migration_offset"
+  ],
+  "transients": [
+    "bwwc_coingecko_rate_*",
+    "bwwc_coinpaprika_rate_*"
+  ],
+  "cron_jobs": [
+    "BWWC_cron_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "order_total_in_btc",
+    "bitcoins_address",
+    "expected_sats",
+    "address_expires_at",
+    "txids",
+    "received_sats",
+    "confirmed_sats",
+    "best_confirmations",
+    "last_blockchain_check",
+    "last_checked_at"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:47.232Z"
+}

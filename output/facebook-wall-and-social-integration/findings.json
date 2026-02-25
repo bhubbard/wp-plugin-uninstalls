@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ms_fbwall_plugin_general_settings",
+    "ms_fbwall_plugin_postlayout_settings",
+    "ms_fbwall_plugin_color_settings",
+    "ms_fbwall_plugin_token_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:48.323Z"
+}

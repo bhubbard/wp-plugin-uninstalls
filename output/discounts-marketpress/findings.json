@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "regular_price",
+    "has_sale",
+    "sale_price_amount",
+    "sale_price_percentage",
+    "sale_price_start_date",
+    "sale_price_end_date",
+    "sort_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:09.157Z"
+}

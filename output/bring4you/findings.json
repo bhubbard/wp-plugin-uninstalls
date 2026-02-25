@@ -1,0 +1,23 @@
+{
+  "options": [
+    "b4y_plugin_setting_adresse",
+    "b4y_plugin_setting_prod",
+    "b4y_plugin_setting_adresse_longitude",
+    "b4y_plugin_setting_adresse_latitude",
+    "b4y_plugin_setting_texte",
+    "b4y_plugin_setting_aide",
+    "b4y_plugin_setting_comm",
+    "b4y_plugin_setting_key",
+    "b4y_plugin_setting_cats",
+    "b4y_plugin_setting_sender_name",
+    "b4y_plugin_setting_sender_phone"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "b4y_send"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:41.514Z"
+}

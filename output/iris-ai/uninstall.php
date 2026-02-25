@@ -1,0 +1,174 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('irisai_mode');
+delete_site_option('irisai_mode');
+delete_option('irisai_proxy_base_url');
+delete_site_option('irisai_proxy_base_url');
+delete_option('irisai_proxy_api_key');
+delete_site_option('irisai_proxy_api_key');
+delete_option('irisai_openai_api_key');
+delete_site_option('irisai_openai_api_key');
+delete_option('irisai_model');
+delete_site_option('irisai_model');
+delete_option('irisai_vector_post_types');
+delete_site_option('irisai_vector_post_types');
+delete_option('irisai_require_login');
+delete_site_option('irisai_require_login');
+delete_option('irisai_error_message');
+delete_site_option('irisai_error_message');
+delete_option('irisai_privacy_mode');
+delete_site_option('irisai_privacy_mode');
+delete_option('irisai_index_posts_per_step');
+delete_site_option('irisai_index_posts_per_step');
+delete_option('irisai_chunks_per_embed');
+delete_site_option('irisai_chunks_per_embed');
+delete_option('irisai_step_time_budget');
+delete_site_option('irisai_step_time_budget');
+delete_option('irisai_vector_chunk_size');
+delete_site_option('irisai_vector_chunk_size');
+delete_option('irisai_vector_chunk_overlap');
+delete_site_option('irisai_vector_chunk_overlap');
+delete_option('irisai_rate_limit');
+delete_site_option('irisai_rate_limit');
+delete_option('irisai_rate_window');
+delete_site_option('irisai_rate_window');
+delete_option('irisai_provider');
+delete_site_option('irisai_provider');
+delete_option('irisai_api_base');
+delete_site_option('irisai_api_base');
+delete_option('irisai_max_output_tokens');
+delete_site_option('irisai_max_output_tokens');
+delete_option('irisai_user_consent');
+delete_site_option('irisai_user_consent');
+delete_option('irisai_system_prompt');
+delete_site_option('irisai_system_prompt');
+delete_option('irisai_prompt_suggestions');
+delete_site_option('irisai_prompt_suggestions');
+delete_option('irisai_appearance');
+delete_site_option('irisai_appearance');
+delete_option('irisai_enable_waves');
+delete_site_option('irisai_enable_waves');
+delete_option('irisai_wave_start');
+delete_site_option('irisai_wave_start');
+delete_option('irisai_wave_center');
+delete_site_option('irisai_wave_center');
+delete_option('irisai_wave_end');
+delete_site_option('irisai_wave_end');
+delete_option('irisai_chatpage_show_sources');
+delete_site_option('irisai_chatpage_show_sources');
+delete_option('irisai_sticky_input');
+delete_site_option('irisai_sticky_input');
+delete_option('irisai_auto_focus');
+delete_site_option('irisai_auto_focus');
+delete_option('irisai_chat_title');
+delete_site_option('irisai_chat_title');
+delete_option('irisai_show_tagline');
+delete_site_option('irisai_show_tagline');
+delete_option('irisai_chat_placeholder');
+delete_site_option('irisai_chat_placeholder');
+delete_option('irisai_show_suggestions');
+delete_site_option('irisai_show_suggestions');
+delete_option('irisai_empty_state_title');
+delete_site_option('irisai_empty_state_title');
+delete_option('irisai_empty_state_message');
+delete_site_option('irisai_empty_state_message');
+delete_option('irisai_vector_db_version');
+delete_site_option('irisai_vector_db_version');
+delete_option('irisai_auto_reindex');
+delete_site_option('irisai_auto_reindex');
+delete_option('irisai_auto_inject_widget');
+delete_site_option('irisai_auto_inject_widget');
+delete_option('irisai_welcome_message');
+delete_site_option('irisai_welcome_message');
+delete_option('irisai_widget_theme');
+delete_site_option('irisai_widget_theme');
+delete_option('irisai_enable_unread_badge');
+delete_site_option('irisai_enable_unread_badge');
+delete_option('irisai_persist_session');
+delete_site_option('irisai_persist_session');
+delete_option('irisai_session_storage_key');
+delete_site_option('irisai_session_storage_key');
+delete_option('irisai_widget_visibility_mode');
+delete_site_option('irisai_widget_visibility_mode');
+delete_option('irisai_enable_history');
+delete_site_option('irisai_enable_history');
+delete_option('irisai_max_history');
+delete_site_option('irisai_max_history');
+delete_option('irisai_show_welcome');
+delete_site_option('irisai_show_welcome');
+delete_option('irisai_enable_sources');
+delete_site_option('irisai_enable_sources');
+delete_option('irisai_show_suggestions_widget');
+delete_site_option('irisai_show_suggestions_widget');
+delete_option('irisai_widget_position');
+delete_site_option('irisai_widget_position');
+delete_option('irisai_widget_visibility_include_ids');
+delete_site_option('irisai_widget_visibility_include_ids');
+delete_option('irisai_widget_visibility_exclude_ids');
+delete_site_option('irisai_widget_visibility_exclude_ids');
+delete_option('irisai_enable_fallback');
+delete_site_option('irisai_enable_fallback');
+delete_option('irisai_widget_label');
+delete_site_option('irisai_widget_label');
+delete_option('irisai_installed_version');
+delete_site_option('irisai_installed_version');
+delete_option('irisai_do_setup_wizard');
+delete_site_option('irisai_do_setup_wizard');
+delete_option('irisai_setup_completed');
+delete_site_option('irisai_setup_completed');
+delete_option('irisai_setup_dismissed');
+delete_site_option('irisai_setup_dismissed');
+
+// Delete Transients
+global $wpdb;
+$transients = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s OR option_name LIKE %s", '_transient_irisai_consent_%', '_site_transient_irisai_consent_%' ) );
+foreach ( $transients as $transient ) {
+	delete_option( $transient );
+}
+delete_transient('irisai_has_index');
+delete_site_transient('irisai_has_index');
+delete_transient('irisai_embedding_mismatch_detected');
+delete_site_transient('irisai_embedding_mismatch_detected');
+delete_transient('irisai_rag_docs_cache');
+delete_site_transient('irisai_rag_docs_cache');
+delete_transient('irisai_indexing_running');
+delete_site_transient('irisai_indexing_running');
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('irisai_reindex_post');
+wp_clear_scheduled_hook('irisai_index_step');
+wp_clear_scheduled_hook('irisai_background_index');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_irisai_search_keywords' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_irisai_search_keywords' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_irisai_search_keywords' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_irisai_search_keywords' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_irisai_search_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_irisai_search_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_irisai_search_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_irisai_search_description' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_irisai_needs_reindex' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_irisai_needs_reindex' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_irisai_needs_reindex' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_irisai_needs_reindex' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'irisai_consent' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'irisai_consent' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'irisai_consent' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'irisai_consent' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'irisai_indexed_job' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'irisai_indexed_job' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'irisai_indexed_job' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'irisai_indexed_job' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'irisai_preferences' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'irisai_preferences' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'irisai_preferences' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'irisai_preferences' ) );
+

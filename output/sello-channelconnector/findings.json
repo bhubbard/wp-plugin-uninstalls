@@ -1,0 +1,23 @@
+{
+  "options": [
+    "cc_account_id",
+    "cc_account_updated",
+    "cc_account_status",
+    "cc_categories_updated",
+    "cc_integrations_updated",
+    "cc_shipping_method",
+    "cc_default_payment_method",
+    "cc_payment_method",
+    "cc_new_order_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sello_order_id",
+    "channelconnector_active_*",
+    "channelconnector_category_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:41.108Z"
+}

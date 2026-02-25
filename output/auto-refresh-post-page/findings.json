@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ARPP_my_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ARPP_duration_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:28.778Z"
+}

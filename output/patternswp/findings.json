@@ -1,0 +1,21 @@
+{
+  "options": [
+    "patternswp_hide_theme_patterns",
+    "patternswp_hide_uncategorized_patterns",
+    "patternswp_hide_core_patterns",
+    "patternswp_plugin_license_data",
+    "patternswp_license_key"
+  ],
+  "transients": [
+    "patternswp_category_type",
+    "patternswp_cache_cleared",
+    "patternswp_activation_redirect"
+  ],
+  "cron_jobs": [
+    "patternswp_hourly_transient_load"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:41.598Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lottiefiles_activation_redirect",
+    "lottie_config_admin",
+    "lottiefiles_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:22.966Z"
+}

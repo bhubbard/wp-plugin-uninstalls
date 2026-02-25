@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'active_sitewide_plugins'
+wp option delete 'woocommerce_okhi-integration_settings'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_street_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_street_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_street_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_street_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_property_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_property_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_property_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_property_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_property_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_property_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_property_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_property_number'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_lat'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_lat'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_lat'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_lat'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_lon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_lon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_lon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_lon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_place_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_place_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_place_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_place_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_state'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_state'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_state'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_state'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_okhi_neighborhood'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_okhi_neighborhood'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_okhi_neighborhood'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_okhi_neighborhood'"

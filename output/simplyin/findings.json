@@ -1,0 +1,41 @@
+{
+  "options": [
+    "SimplyInApiConnection",
+    "SimplyIn_Backend_Url",
+    "SimplyIn_Environment",
+    "simplyin_register_by_default",
+    "SimplyInShippingMappingCache",
+    "SimplyInSettingsErrorMsg",
+    "SimplyInSettingsSuccessMsg",
+    "SimplyInRegisterByDefaultDisabled",
+    "simplyin_api_key",
+    "SimplyInLogisticsPartnersOrder",
+    "woocommerce_checkout_order_received_endpoint",
+    "woocommerce_checkout_order_pay_endpoint",
+    "SIMPLYIN_DOCS_INFO",
+    "woocommerce_version",
+    "SimplyIn_Api_Logs",
+    "woocommerce_simplyin_settings",
+    "woocommerce_tax_display_cart",
+    "SimplyInShippingIntegrations",
+    "SimplyInSwitchLastChange",
+    "SimplyInLastSyncTimestamp",
+    "SimplyInTransactionHistoryLengthDay",
+    "SimplyInRegisterByDefaultStateOld"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "simplyin_add_udpate_cron_interval"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "_simplyin_payment_timeout_failed",
+    "_simplyin_payment_timeout_failed_payment_uuid",
+    "SimplyInUserExist",
+    "SimplyInUserHmacEmail",
+    "SimplyInUserStatus"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:23.743Z"
+}

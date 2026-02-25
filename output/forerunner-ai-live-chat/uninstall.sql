@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('forerunner_font_size_base', 'forerunner_font_size_header', 'forerunner_font_family', 'forerunner_font_weight', 'forerunner_button_bg_color', 'forerunner_button_hover_color', 'forerunner_voice_connecting_color', 'forerunner_voice_active_color', 'forerunner_chat_bubble_user_color', 'forerunner_header_gradient_start_color', 'forerunner_header_gradient_end_color', 'forerunner_widget_width', 'forerunner_widget_height', 'forerunner_maximized_width', 'forerunner_maximized_height', 'forerunner_noise_sensitivity', 'forerunner_interruption_sensitivity', 'forerunner_voice_timeout', 'forerunner_enable_voice_debugging', 'forerunner_greeting_font_size', 'forerunner_ai_live_chat_bot_icon_type', 'forerunner_ai_live_chat_bot_icon_custom', 'forerunner_ai_live_chat_webhook', 'forerunner_webhook_auth_type', 'forerunner_ai_live_chat_ai_name', 'forerunner_ai_live_chat_header_title', 'forerunner_ai_live_chat_header_subtitle', 'forerunner_ai_live_chat_disclaimer_text', 'forerunner_ai_live_chat_disclaimer_secondary_text', 'forerunner_ai_live_chat_greeting_message', 'forerunner_greeting_enabled', 'forerunner_greeting_delay', 'forerunner_greeting_animation', 'forerunner_ai_live_chat_input_placeholder', 'forerunner_webhook_request_field', 'forerunner_webhook_response_field', 'forerunner_webhook_timeout', 'forerunner_webhook_auth_header_name', 'forerunner_webhook_auth_header_value', 'forerunner_webhook_auth_query_param', 'forerunner_webhook_auth_query_value', 'forerunner_ai_live_chat_quick_actions', 'forerunner_ai_live_chat_voice_enabled', 'forerunner_ai_live_chat_license_key', 'forerunner_ai_license_cached_status', 'forerunner_ai_license_last_check', 'forerunner_ai_live_chat_agents', 'forerunner_ai_live_chat_visitors', 'forerunner_ai_pending_requests');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('forerunner_ai_pro_promotion_dismissed');
+DELETE FROM wp_usermeta WHERE meta_key IN ('forerunner_ai_pro_promotion_dismissed');
+DELETE FROM wp_termmeta WHERE meta_key IN ('forerunner_ai_pro_promotion_dismissed');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('forerunner_ai_pro_promotion_dismissed');
+

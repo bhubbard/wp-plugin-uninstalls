@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpsm_cns_default_settings",
+    "wpsm_counterbox_default_settings",
+    "wpsm_cns_review"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Counter_Meta_Settings",
+    "manisha_demo_data",
+    "manisha_demo_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:38.700Z"
+}

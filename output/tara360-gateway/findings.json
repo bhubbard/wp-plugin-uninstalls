@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_tara360_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tara360_return_nonce",
+    "tara360_track_id",
+    "tara360_transaction_status",
+    "tara360_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:56.948Z"
+}

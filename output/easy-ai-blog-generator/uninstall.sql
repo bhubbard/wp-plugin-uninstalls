@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('easyaibloggen_api_key', 'easyaibloggen_default_image_style', 'easyaibloggen_default_tone_modifier', 'easyaibloggen_enable_scheduling', 'easyaibloggen_schedule_topic', 'easyaibloggen_schedule_interval', 'easyaibloggen_schedule_topics_keywords', 'easyaibloggen_brand_voice', 'easyaibloggen_enable_personalization', 'easyaibloggen_personalization_strength', 'easyaibloggen_company_name', 'easyaibloggen_website_purpose', 'easyaibloggen_target_audience', 'easyaibloggen_products_services', 'easyaibloggen_differentiators', 'easyaibloggen_call_to_action', 'easyaibloggen_suggested_keywords', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+DELETE FROM wp_options WHERE option_name LIKE 'easyaibloggen_format_preview_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_easyaibloggen_preferred_keyword', '_yoast_wpseo_metadesc', '_aioseo_description', '_rank_math_description', '_easyaibloggen_generated_topic', '_wp_attachment_image_alt', '_easyaibloggen_focus_keyword', '_aioseop_description');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_easyaibloggen_preferred_keyword', '_yoast_wpseo_metadesc', '_aioseo_description', '_rank_math_description', '_easyaibloggen_generated_topic', '_wp_attachment_image_alt', '_easyaibloggen_focus_keyword', '_aioseop_description');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_easyaibloggen_preferred_keyword', '_yoast_wpseo_metadesc', '_aioseo_description', '_rank_math_description', '_easyaibloggen_generated_topic', '_wp_attachment_image_alt', '_easyaibloggen_focus_keyword', '_aioseop_description');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_easyaibloggen_preferred_keyword', '_yoast_wpseo_metadesc', '_aioseo_description', '_rank_math_description', '_easyaibloggen_generated_topic', '_wp_attachment_image_alt', '_easyaibloggen_focus_keyword', '_aioseop_description');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_easyaibloggen_social_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_easyaibloggen_social_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_easyaibloggen_social_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_easyaibloggen_social_%';
+

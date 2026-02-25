@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('MESSAGE_BUSINESS_ACCOUNTID', 'MESSAGE_BUSINESS_APIKEY', 'MESSAGE_BUSINESS_FORMBUILDEROPTIONS', 'MESSAGE_BUSINESS_INPUTSUBMITBUTTONTEXT', 'MESSAGE_BUSINESS_HIDEFORMAFTERSUBMIT', 'MESSAGE_BUSINESS_WIDGETFORMHTML', 'MESSAGE_BUSINESS_SHOP_URL', 'MESSSAGE_BUSINESS_CONSUMER_KEY', 'MESSAGE_BUSINESS_CONSUMER_SECRET', 'MESSAGE_BUSINESS_LAST_PAGE_CUSTOMERS', 'MESSAGE_BUSINESS_START_DATE_LAST_IMPORT_CUSTOMERS', 'MESSAGE_BUSINESS_END_DATE_LAST_IMPORT_CUSTOMERS', 'MESSAGE_BUSINESS_IMPORT_CUSTOMERS_FREQUENCY', 'MESSAGE_BUSINESS_CONSUMER_KEY');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('last_login');
+DELETE FROM wp_usermeta WHERE meta_key IN ('last_login');
+DELETE FROM wp_termmeta WHERE meta_key IN ('last_login');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('last_login');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_woocommerce_updated_cart_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_woocommerce_updated_cart_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_woocommerce_updated_cart_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_woocommerce_updated_cart_%';
+

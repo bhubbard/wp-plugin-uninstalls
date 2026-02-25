@@ -1,0 +1,13 @@
+{
+  "options": [
+    "crtbr_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "crtbr_cron_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:23.018Z"
+}

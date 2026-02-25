@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cff_options",
+    "cscf_options",
+    "cff_version",
+    "cscf_version",
+    "recaptcha_public_key",
+    "recaptcha_private_key",
+    "array_key",
+    "*_form_rendered"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:17.817Z"
+}

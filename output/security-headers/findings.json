@@ -1,0 +1,26 @@
+{
+  "options": [
+    "security_headers_hsts_time",
+    "security_headers_hsts_subdomains",
+    "security_headers_hsts_preload",
+    "security_headers_nosniff",
+    "security_headers_xss",
+    "security_headers_frame",
+    "security_headers_hpkp_key1",
+    "security_headers_hpkp_key2",
+    "security_headers_hpkp_key3",
+    "security_headers_hpkp_time",
+    "security_headers_hpkp_subdomains",
+    "security_headers_hpkp_uri",
+    "security_headers_referrer",
+    "security_headers_ect_time",
+    "security_headers_ect_enforce",
+    "security_headers_ect_uri"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:10.922Z"
+}

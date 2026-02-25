@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_ga_id",
+    "woocommerce_ga_support_display_advertising",
+    "woocommerce_ga_ecommerce_tracking_enabled",
+    "woocommerce_google_analytics_pro_notice_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:12.851Z"
+}

@@ -1,0 +1,50 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'bpd_batch_history'
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_bpd_current_session_%' OR option_name LIKE '_site_transient_bpd_current_session_%'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bpd_preferences'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bpd_preferences'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bpd_preferences'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bpd_preferences'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_edit_mode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_edit_mode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_edit_mode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_edit_mode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_fl_builder_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_fl_builder_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_fl_builder_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_fl_builder_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_fl_builder_draft'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_fl_builder_draft'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_fl_builder_draft'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_fl_builder_draft'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_bricks_page_content_2'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_bricks_page_content_2'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_bricks_page_content_2'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_bricks_page_content_2'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_bricks_page_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_bricks_page_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_bricks_page_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_bricks_page_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_bricks_page_assets_css'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_bricks_page_assets_css'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_bricks_page_assets_css'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_bricks_page_assets_css'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_bricks_page_assets_js'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_bricks_page_assets_js'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_bricks_page_assets_js'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_bricks_page_assets_js'"

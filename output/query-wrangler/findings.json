@@ -1,0 +1,18 @@
+{
+  "options": [
+    "qw_plugin_version",
+    "qw_edit_theme",
+    "qw_live_preview",
+    "qw_show_silent_meta",
+    "qw_meta_value_field_handler",
+    "qw_widget_theme_compat"
+  ],
+  "transients": [
+    "query_wrangler_meta_keys_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:36.651Z"
+}

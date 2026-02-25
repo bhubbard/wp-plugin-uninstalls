@@ -1,0 +1,21 @@
+{
+  "options": [
+    "daextulma_live_preview_markdown_parser",
+    "daextulma_live_preview_php_auto_refresh",
+    "daextulma_live_preview_php_debounce_delay",
+    "daextulma_editor_markdown_parser",
+    "daextulma_options_version",
+    "*_database_version",
+    "*_documents_menu_required_capability",
+    "*_tools_menu_required_capability",
+    "daextulma_dismissible_notice_a",
+    "*_editor_markdown_parser",
+    "*_live_preview_markdown_parser"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:51.178Z"
+}

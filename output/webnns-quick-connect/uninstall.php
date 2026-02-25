@@ -1,0 +1,17 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('webnns_qc_phone');
+delete_site_option('webnns_qc_phone');
+delete_option('webnns_qc_enabled_call');
+delete_site_option('webnns_qc_enabled_call');
+delete_option('webnns_qc_enabled_viber');
+delete_site_option('webnns_qc_enabled_viber');
+delete_option('webnns_qc_enabled_whatsapp');
+delete_site_option('webnns_qc_enabled_whatsapp');
+

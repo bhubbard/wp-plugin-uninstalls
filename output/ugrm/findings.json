@@ -1,0 +1,16 @@
+{
+  "options": [
+    "UGRM_admin_role",
+    "UGRM_editor_role",
+    "UGRM_author_role",
+    "UGRM_contributor_role",
+    "UGRM_subscriber_role",
+    "UGRM_return_target_to_HTTPS"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:36.905Z"
+}

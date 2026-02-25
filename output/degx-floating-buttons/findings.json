@@ -1,0 +1,19 @@
+{
+  "options": [
+    "degxfb_tooltip_color",
+    "degxfb_whatsapp_number",
+    "degxfb_phone_number",
+    "degxfb_button_position",
+    "degxfb_button_size",
+    "degxfb_whatsapp_color",
+    "degxfb_phone_color",
+    "degxfb_whatsapp_tooltip",
+    "degxfb_phone_tooltip"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:44.385Z"
+}

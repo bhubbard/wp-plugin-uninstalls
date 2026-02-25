@@ -1,0 +1,14 @@
+{
+  "options": [
+    "opio_active",
+    "widget_custom_html",
+    "widget_block",
+    "opio_debug_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:01.736Z"
+}

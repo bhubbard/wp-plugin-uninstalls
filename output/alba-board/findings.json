@@ -1,0 +1,21 @@
+{
+  "options": [
+    "alba_board_limits",
+    "alba_board_uploads",
+    "alba_board_notifications",
+    "alba_delete_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "alba_card_attachments",
+    "alba_comments",
+    "alba_tag_bg_color",
+    "alba_tag_text_color",
+    "alba_list_parent",
+    "alba_board_parent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:50.723Z"
+}

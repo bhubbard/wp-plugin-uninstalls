@@ -1,0 +1,18 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cozy_dashboard_dismissed_notice', 'cozy_addons_block_theme', 'cozy-block--accordion', 'cozy-block--advanced-gallery', 'cozy-block--mega-menu', 'cozy-block--advanced-tab', 'cozy-block--back-to-top', 'cozy-block--breadcrumb', 'cozy-block--button', 'cozy-block--cf7-styler', 'cozy-block--container', 'cozy-block--countdown-timer', 'cozy-block--counter', 'cozy-block--cta', 'cozy-block--current-time', 'cozy-block--featured-content-box', 'cozy-block--icon-list', 'cozy-block--icon-picker', 'cozy-block--img-compare', 'cozy-block--modal', 'cozy-block--portfolio-gallery', 'cozy-block--pricing-table', 'cozy-block--progress-bar', 'cozy-block--sidebar-panel', 'cozy-block--slider', 'cozy-block--social-icon', 'cozy-block--social-share', 'cozy-block--teams', 'cozy-block--testimonial', 'cozy-block--toggle-content', 'cozy-block--ad', 'cozy-block--advanced-categories', 'cozy-block--categorized-post-tabs', 'cozy-block--featured-post', 'cozy-block--featured-post-tabs', 'cozy-block--magazine-grid', 'cozy-block--magazine-list', 'cozy-block--news-ticker', 'cozy-block--popular-post', 'cozy-block--post-carousel', 'cozy-block--post-comments', 'cozy-block--post-slider', 'cozy-block--post-views', 'cozy-block--related-post', 'cozy-block--trending-post', 'cozy-block--add-to-cart', 'cozy-block--featured-product', 'cozy-block--featured-product-tabs', 'cozy-block--product-category', 'cozy-block--product-carousel');
+DELETE FROM wp_options WHERE option_name IN ('cozy-block--product-review', 'cozy-block--product-slider', 'cozy-block--product-tab', 'cozy-block--quick-view', 'cozy-block--wishlist', 'ca-cpt--mega-menu-templates', 'ca-cpt--portfolio-gallery-templates', 'ca--utility--animation', 'ca--utility--styles', 'ca--utility--pattern-library', 'woocommerce_currency_pos', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+DELETE FROM wp_options WHERE option_name LIKE 'ca--utility--%';
+DELETE FROM wp_options WHERE option_name LIKE 'cozy-block--%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('cozy_block_wishlist_data', 'ca_portfolio_gallery_url', 'cozy_post_views_count', 'thumbnail_id', 'rating', 'ca_portfolio_gallery_project_year', 'ca_portfolio_gallery_client', 'ca_portfolio_gallery_skills', 'cozy_trending_post_views');
+DELETE FROM wp_usermeta WHERE meta_key IN ('cozy_block_wishlist_data', 'ca_portfolio_gallery_url', 'cozy_post_views_count', 'thumbnail_id', 'rating', 'ca_portfolio_gallery_project_year', 'ca_portfolio_gallery_client', 'ca_portfolio_gallery_skills', 'cozy_trending_post_views');
+DELETE FROM wp_termmeta WHERE meta_key IN ('cozy_block_wishlist_data', 'ca_portfolio_gallery_url', 'cozy_post_views_count', 'thumbnail_id', 'rating', 'ca_portfolio_gallery_project_year', 'ca_portfolio_gallery_client', 'ca_portfolio_gallery_skills', 'cozy_trending_post_views');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('cozy_block_wishlist_data', 'ca_portfolio_gallery_url', 'cozy_post_views_count', 'thumbnail_id', 'rating', 'ca_portfolio_gallery_project_year', 'ca_portfolio_gallery_client', 'ca_portfolio_gallery_skills', 'cozy_trending_post_views');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'ca_portfolio_gallery_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'ca_portfolio_gallery_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'ca_portfolio_gallery_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'ca_portfolio_gallery_%';
+

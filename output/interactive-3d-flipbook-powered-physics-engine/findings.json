@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*book_templates",
+    "*_version",
+    "*book_control_props",
+    "*options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:47.706Z"
+}

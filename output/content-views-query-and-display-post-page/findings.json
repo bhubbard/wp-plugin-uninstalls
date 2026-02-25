@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pt_cv_version_pro",
+    "active_sitewide_plugins",
+    "opd_external_plugins",
+    "cv_pretty_pagination_url",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "contentviews_block_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:30.190Z"
+}

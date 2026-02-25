@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_latitude",
+    "*_longitude",
+    "*_holy_day_dates",
+    "*_pages_to_redirect",
+    "*_redirect_to_page",
+    "keepsabbath_setting_latitude",
+    "keepsabbath_setting_longitude",
+    "keepsabbath_setting_holy_day_dates",
+    "keepsabbath_setting_pages_to_redirect",
+    "keepsabbath_setting_redirect_to_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:58.168Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ld_chosen_cats",
+    "ld_chosen_pages",
+    "ld_use_pages",
+    "ld_use_posts",
+    "ld_code_code",
+    "ld_code_use_default_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:07.434Z"
+}

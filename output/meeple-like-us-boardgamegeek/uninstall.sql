@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('AverageWeight', 'BggRank', 'PlayCount', 'Designers', 'Artists', 'Publishers', 'Mechanisms', 'Affiliate', 'Image', 'ImageSize', 'ExternalLinks', 'CollectionIncludeYear', 'CollectionIncludeStatus', 'CollectionIncludeNumPlays', 'CollectionIncludeComments', 'CollectionIncludeRating', 'CollectionIncludeUserRating', 'CollectionIncludeBggRank', 'Rating5', 'Rating45', 'Rating4', 'Rating35', 'Rating3', 'Rating25', 'Rating2', 'Rating15', 'Rating1', 'IncludeTLDR', 'ApiKey', 'AverageWeightLabel', 'BggRankLabel', 'PlayCountLabel', 'PlayCountWithRecommendedLabel', 'DesignersLabel', 'ArtistsLabel', 'PublishersLabel', 'MechanismsLabel', 'AffiliateLabel', 'ColourBlindnessLabel', 'VisualAccessibilityLabel', 'FluidIntelligenceLabel', 'MemoryLabel', 'PhysicalAccessibilityLabel', 'EmotionalAccessibilityLabel', 'SocioeconomicAccessibilityLabel', 'CommunicationLabel', 'AccessibilityLabel', 'SearchForLabel', 'GameNameLabel', 'NotesLabel');
+DELETE FROM wp_options WHERE option_name IN ('HeavyWeightLabel', 'MediumHeavyWeightLabel', 'MediumWeightLabel', 'MediumLightWeightLabel', 'LightWeightLabel', 'api_key');
+

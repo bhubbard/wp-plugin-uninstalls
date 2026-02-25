@@ -1,0 +1,41 @@
+{
+  "options": [
+    "leadmachine_gf_forms",
+    "leadmachine_company_id",
+    "leadmachine_api_key",
+    "leadmachine_api_url",
+    "leadmachine_form_title",
+    "leadmachine_form_description",
+    "leadmachine_button_text",
+    "leadmachine_button_color",
+    "leadmachine_background_color",
+    "leadmachine_title_color",
+    "leadmachine_description_color",
+    "leadmachine_label_color",
+    "leadmachine_input_background",
+    "leadmachine_input_border_color",
+    "leadmachine_input_text_color",
+    "leadmachine_success_message",
+    "leadmachine_gf_enabled",
+    "leadmachine_gf_default_tags",
+    "leadmachine_post_sync_enabled",
+    "leadmachine_post_sync_categories",
+    "leadmachine_newsletter_title",
+    "leadmachine_newsletter_description",
+    "leadmachine_newsletter_button_text",
+    "leadmachine_newsletter_success_message",
+    "leadmachine_newsletter_optin_text",
+    "leadmachine_newsletter_name_label",
+    "leadmachine_newsletter_email_label",
+    "leadmachine_categories_last_sync",
+    "leadmachine_posts_last_sync"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_leadmachine_synced_at"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:31.769Z"
+}

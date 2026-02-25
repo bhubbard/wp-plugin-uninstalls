@@ -1,0 +1,24 @@
+{
+  "options": [
+    "dropavifmo_last_scan_timestamp",
+    "dropavifmo_initial_scan_complete"
+  ],
+  "transients": [
+    "dropavifmo_pending_remote_jobs",
+    "dropavifmo_cf_purge_error_msg",
+    "dropavifmo_remote_polling_active"
+  ],
+  "cron_jobs": [
+    "dropavifmo_scan_extra_dirs_hook",
+    "dropavifmo_send_monthly_report_hook",
+    "dropavifmo_remote_polling_hook",
+    "dropavifmo_process_cron_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dropavifmo_conflict_notice_dismissed",
+    "_wp_error_while_processing"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:02.723Z"
+}

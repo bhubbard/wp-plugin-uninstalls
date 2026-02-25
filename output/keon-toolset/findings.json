@@ -1,0 +1,26 @@
+{
+  "options": [
+    "theme_mods_*",
+    "remind_me_later_bosa_pro_time",
+    "upgrade_bosa_pro_notice_dismiss_*"
+  ],
+  "transients": [
+    "keon_toolset_demo_lists",
+    "keon_toolset_theme_state_list",
+    "keon_toolset_bosa_common_demo_lists",
+    "keon_toolset_template_lists",
+    "keon_toolset_template_state_list",
+    "imported_option",
+    "options.json",
+    "imported_post_ids",
+    "kt_adim_imported_post_ids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismiss_gutener_upsell_notice",
+    "store_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:47.524Z"
+}

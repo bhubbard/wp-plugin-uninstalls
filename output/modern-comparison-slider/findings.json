@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_shadow",
+    "*_theme",
+    "*_color",
+    "*_startingpoint",
+    "*_hoverstart",
+    "*_smoothing",
+    "*_smoothingamount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:48.809Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "blogwolf_connected",
+    "blogwolf_api_url",
+    "blogwolf_api_tokens",
+    "blogwolf_consent_given",
+    "blogwolf_session_data",
+    "blogwolf_login_token"
+  ],
+  "transients": [
+    "blogwolf_posts_list",
+    "blogwolf_pages_list",
+    "blogwolf_categories_list",
+    "blogwolf_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_title",
+    "_wp_page_template",
+    "_wp_attachment_image_alt",
+    "_blogwolf_meta_title",
+    "_blogwolf_meta_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:35.673Z"
+}

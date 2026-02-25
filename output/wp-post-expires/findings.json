@@ -1,0 +1,15 @@
+{
+  "options": [
+    "xn_wppe_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "xn-wppe-expiration",
+    "xn-wppe-expiration-action",
+    "xn-wppe-expiration-prefix"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:40.140Z"
+}

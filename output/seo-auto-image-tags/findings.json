@@ -1,0 +1,13 @@
+{
+  "options": [
+    "seo_image_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:25.005Z"
+}

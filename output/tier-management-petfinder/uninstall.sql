@@ -1,0 +1,55 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('kw_pefinder_api_key', 'kw_pefinder_customer_id', 'kw_pefinder_external_contact_url_saved_species', 'kw_pefinder_external_contact_url', 'kw_pefinder_scroll_offset', 'kw_pefinder_external_sponsor_contact_url', 'kw_pefinder_contact_only_loggedin', 'kw_pefinder_share_activate', 'kw_pefinder_share_platforms', 'kw_pefinder_hide_internal_nr', 'kw_pefinder_show_badge_junior', 'kw_pefinder_show_badge_senior', 'kw_pefinder_show_badge_emergency', 'kw_pefinder_show_badge_handicap', 'kw_pefinder_show_badge_sponsor', 'kw_pefinder_show_searching_sponsors', 'kw_pefinder_sponsors_list_one_line', 'kw_pefinder_sponsors_list_show_adopted', 'kw_pefinder_sponsors_list_filter_covered', 'kw_pefinder_sponsors_list_show_city', 'kw_pefinder_hide_serial_nr', 'kw_pefinder_share_title', 'kw_pefinder_delete_data_on_deinstallation');
+DELETE FROM wp_options WHERE option_name LIKE 'kw_pefinder_list_sorting_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_andere';
+DELETE FROM wp_options WHERE option_name LIKE '%Bilder';
+DELETE FROM wp_options WHERE option_name LIKE '%Allgemein';
+DELETE FROM wp_options WHERE option_name LIKE '%Beschreibung';
+DELETE FROM wp_options WHERE option_name LIKE '%Paten';
+DELETE FROM wp_options WHERE option_name LIKE '%Patenschaftsbedarf';
+DELETE FROM wp_options WHERE option_name LIKE '%Vermittlungskontakt';
+DELETE FROM wp_options WHERE option_name LIKE '%Patenschaftskontakt';
+DELETE FROM wp_options WHERE option_name LIKE '%Teilen';
+DELETE FROM wp_options WHERE option_name LIKE '%show_badges';
+DELETE FROM wp_options WHERE option_name LIKE '%show_badge_junior';
+DELETE FROM wp_options WHERE option_name LIKE '%show_badge_senior';
+DELETE FROM wp_options WHERE option_name LIKE '%show_badge_emergency';
+DELETE FROM wp_options WHERE option_name LIKE '%show_badge_handicap';
+DELETE FROM wp_options WHERE option_name LIKE '%show_badge_sponsor';
+DELETE FROM wp_options WHERE option_name LIKE '%customer_id';
+DELETE FROM wp_options WHERE option_name LIKE '%api_key';
+DELETE FROM wp_options WHERE option_name LIKE '%contact_only_loggedin';
+DELETE FROM wp_options WHERE option_name LIKE '%delete_data_on_deinstallation';
+DELETE FROM wp_options WHERE option_name LIKE '%scroll_offset';
+DELETE FROM wp_options WHERE option_name LIKE '%external_contact_url';
+DELETE FROM wp_options WHERE option_name LIKE '%external_sponsor_contact_url';
+DELETE FROM wp_options WHERE option_name LIKE '%share_title';
+DELETE FROM wp_options WHERE option_name LIKE '%share_activate';
+DELETE FROM wp_options WHERE option_name LIKE '%share_platforms';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_column';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_order';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_column_vermittelt';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_order_vermittelt';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_column_fremdvermittlung';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_order_fremdvermittlung';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_column_verstorben';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_order_verstorben';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_column_patengesuch';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_order_patengesuch';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_column_patengedeckt';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_order_patengedeckt';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_column_andere';
+DELETE FROM wp_options WHERE option_name LIKE '%list_sorting_order_andere';
+DELETE FROM wp_options WHERE option_name LIKE '%hide_internal_nr';
+DELETE FROM wp_options WHERE option_name LIKE '%hide_serial_nr';
+DELETE FROM wp_options WHERE option_name LIKE '%show_searching_sponsors';
+DELETE FROM wp_options WHERE option_name LIKE '%sponsors_list_one_line';
+DELETE FROM wp_options WHERE option_name LIKE '%sponsors_list_show_adopted';
+DELETE FROM wp_options WHERE option_name LIKE '%sponsors_list_filter_covered';
+DELETE FROM wp_options WHERE option_name LIKE '%sponsors_list_show_city';
+DELETE FROM wp_options WHERE option_name LIKE '%external_contact_url_saved_species';
+DELETE FROM wp_options WHERE option_name LIKE 'kw_pefinder_list_sorting_column%';
+DELETE FROM wp_options WHERE option_name LIKE 'kw_pefinder_list_sorting_order%';
+

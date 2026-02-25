@@ -1,0 +1,32 @@
+{
+  "options": [
+    "email_options",
+    "email_fields",
+    "email_contenttype",
+    "email_snippet",
+    "email_interval",
+    "email_multiple",
+    "email_imageverify",
+    "email_template_title",
+    "email_template_subtitle",
+    "email_template_subject",
+    "email_template_body",
+    "email_template_bodyalt",
+    "email_template_sentsuccess",
+    "email_template_sentfailed",
+    "email_template_error",
+    "stats_display",
+    "stats_mostlimit",
+    "email_smtp",
+    "email_mailer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp-email-remark",
+    "wp-email-title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:55.107Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ihfc_photo_url",
+    "_ihfc_wpml_is_original",
+    "_ihfc_wpml_original_post_id",
+    "_ihfc_hotel_id",
+    "_ihfc_date_add",
+    "_ihfc_tpl_post_id",
+    "_ihfc_hotel",
+    "_ihfc_date_modification",
+    "_ihfc_hotel_name",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:32.118Z"
+}

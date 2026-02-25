@@ -1,0 +1,18 @@
+{
+  "options": [
+    "softech_forms_db_version",
+    "softech_smtp_host",
+    "softech_smtp_port",
+    "softech_smtp_username",
+    "softech_smtp_password",
+    "softech_smtp_encryption",
+    "softech_smtp_from_email",
+    "softech_smtp_from_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:21.729Z"
+}

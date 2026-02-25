@@ -1,0 +1,18 @@
+{
+  "options": [
+    "inspire_checkout_fields_*",
+    "inspire_checkout_fields_css_disable",
+    "api_flexible-checkout-fields-pro_activated",
+    "inspire_checkout_fields_section_settings",
+    "wpdesk_helper_options",
+    "wpdesk_tracker_skip_flexible_checkout_fields",
+    "wpdesk_tracker_notice",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:30.748Z"
+}

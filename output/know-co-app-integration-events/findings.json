@@ -1,0 +1,21 @@
+{
+  "options": [
+    "know__events__button_styles",
+    "know__events__button_classes",
+    "know__events__alert_container_styles",
+    "know__events__alert_container_classes",
+    "know__events__alert_heading_styles",
+    "know__events__alert_heading_classes",
+    "know__events__login_button_classes",
+    "know__events__login_button_styles",
+    "know__events__payment_process_button_classes",
+    "know__events__payment_process_button_styles",
+    "know--events--settings-group"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:20.075Z"
+}

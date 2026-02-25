@@ -1,0 +1,37 @@
+{
+  "options": [
+    "returnsup_needs_webhook_setup",
+    "returnsup_webhook_ids",
+    "returnsup_webhook_id",
+    "returnsup_enable_account_menu",
+    "woocommerce_tax_based_on",
+    "woocommerce_default_country",
+    "returnsup_connection_key",
+    "returnsup_connection_secret",
+    "returnsup_consumer_secret",
+    "wooreturns_setup_step",
+    "wooreturns_consumer_key",
+    "wooreturns_api_error",
+    "wooreturns_request_data",
+    "wooreturns_request_timestamp",
+    "wooreturns_request_id",
+    "woocommerce_wooreturns_free_exchange_settings",
+    "wooreturns_connection_key",
+    "returnsup_key_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "returnsupc_create_webhook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_returnsup_refund_in_progress",
+    "_returnsup_credit_note_generated",
+    "_returnsup_credit_note_generated_at",
+    "_returnsup_unified",
+    "_returnsup_return_id",
+    "wooreturns_lang"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:02.645Z"
+}

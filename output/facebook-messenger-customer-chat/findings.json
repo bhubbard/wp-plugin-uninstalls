@@ -1,0 +1,19 @@
+{
+  "options": [
+    "fbmcc_page_types",
+    "fbmcc_pageID",
+    "fbmcc_locale",
+    "fbmcc_install_ts",
+    "fbmcc_last_alert_check_ts",
+    "fbmcc_cached_alert_check_response",
+    "fbmcc_notice",
+    "fbmcc_generatedCode",
+    "fbmcc_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:24.869Z"
+}

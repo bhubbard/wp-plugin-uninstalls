@@ -1,0 +1,14 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('rucurrency_chart_data');
+delete_site_option('rucurrency_chart_data');
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('rucurrency_chart_cron_hook');
+

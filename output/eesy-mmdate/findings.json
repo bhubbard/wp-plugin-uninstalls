@@ -1,0 +1,16 @@
+{
+  "options": [
+    "eesymodi_time",
+    "eesymodi_interval",
+    "eesymodi_selected_posts",
+    "eesymodi_last_update_date"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "eesymodi_update_post_modified"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:08.315Z"
+}

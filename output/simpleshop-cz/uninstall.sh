@@ -1,0 +1,73 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ssc_cache_products'
+wp option delete 'ssc_plugin_version'
+wp option delete 'ssc_valid_api_keys'
+
+# Clear Cron Jobs
+wp cron event delete 'ssc_send_user_has_access_to_post_notification'
+wp cron event delete 'simpleshop_send_welcome_email'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ssc_groups'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ssc_groups'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ssc_groups'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ssc_groups'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%date_to_access'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%date_to_access'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%date_to_access'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%date_to_access'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%date_until_to_access'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%date_until_to_access'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%date_until_to_access'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%date_until_to_access'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%days_to_access'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%days_to_access'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%days_to_access'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%days_to_access'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%expire_days_after_registration'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%expire_days_after_registration'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%expire_days_after_registration'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%expire_days_after_registration'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ssc_no_access_redirect_post_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ssc_no_access_redirect_post_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ssc_no_access_redirect_post_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ssc_no_access_redirect_post_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ssc_no_access_redirect'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ssc_no_access_redirect'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ssc_no_access_redirect'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ssc_no_access_redirect'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ssc_new_user'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ssc_new_user'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ssc_new_user'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ssc_new_user'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%email_user_can_access'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%email_user_can_access'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%email_user_can_access'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%email_user_can_access'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%email_subject_user_can_access'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%email_subject_user_can_access'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%email_subject_user_can_access'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%email_subject_user_can_access'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ssc_user_groups'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ssc_user_groups'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ssc_user_groups'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ssc_user_groups'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_ssc_group_subscription_valid_to_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_ssc_group_subscription_valid_to_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_ssc_group_subscription_valid_to_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ssc_group_subscription_valid_to_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_ssc_group_subscription_date_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_ssc_group_subscription_date_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_ssc_group_subscription_date_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ssc_group_subscription_date_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%user_groups'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%user_groups'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%user_groups'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%user_groups'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"

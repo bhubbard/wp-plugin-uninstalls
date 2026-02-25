@@ -1,0 +1,22 @@
+{
+  "options": [
+    "lbs_bible_version",
+    "lbs_libronix",
+    "lbs_existing_libronix",
+    "lbs_libronix_color",
+    "lbs_tooltips",
+    "lbs_search_comments",
+    "lbs_nosearch",
+    "lbs_new_window",
+    "lbs_libronix_bible_version",
+    "lbs_convert_hyperlinks",
+    "lbs_case_insensitive",
+    "lbs_tag_chapters"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:06.292Z"
+}

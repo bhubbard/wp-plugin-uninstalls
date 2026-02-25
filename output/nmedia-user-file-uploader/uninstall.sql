@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpfm_guest_user_id', 'filemanager_meta', 'wpfm_file_meta', 'wpfm_fields_migrated');
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+DELETE FROM wp_options WHERE option_name LIKE '%_file_meta';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wpfm_total_filesize_used', 'wpfm_title', 'wpfm_file_author', 'edd_file_price', 'file_hashes', 'author_name', 'shared_with', 'shared_with_role', 'wpfm_file_name', '_wp_attached_file', 'wpfm_dir_path', 'wpfm_file_size', 'wpfm_file_upload_limit', 'wpfm_node_type', 'wpfm_bp_group_id', 'wpfm_discription', 'wpfm_file_parent', 'wpfm_file_url', 'wpfm_date_created', 'wpfm_is_image', 'wpfm_file_thumb_url', 'wpfm_total_downloads', 'wpfm_share_alert', 'wpfm_amazon_data', 'wpfm_file_location', 'video_duration', 'wpfm_migrated');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wpfm_total_filesize_used', 'wpfm_title', 'wpfm_file_author', 'edd_file_price', 'file_hashes', 'author_name', 'shared_with', 'shared_with_role', 'wpfm_file_name', '_wp_attached_file', 'wpfm_dir_path', 'wpfm_file_size', 'wpfm_file_upload_limit', 'wpfm_node_type', 'wpfm_bp_group_id', 'wpfm_discription', 'wpfm_file_parent', 'wpfm_file_url', 'wpfm_date_created', 'wpfm_is_image', 'wpfm_file_thumb_url', 'wpfm_total_downloads', 'wpfm_share_alert', 'wpfm_amazon_data', 'wpfm_file_location', 'video_duration', 'wpfm_migrated');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wpfm_total_filesize_used', 'wpfm_title', 'wpfm_file_author', 'edd_file_price', 'file_hashes', 'author_name', 'shared_with', 'shared_with_role', 'wpfm_file_name', '_wp_attached_file', 'wpfm_dir_path', 'wpfm_file_size', 'wpfm_file_upload_limit', 'wpfm_node_type', 'wpfm_bp_group_id', 'wpfm_discription', 'wpfm_file_parent', 'wpfm_file_url', 'wpfm_date_created', 'wpfm_is_image', 'wpfm_file_thumb_url', 'wpfm_total_downloads', 'wpfm_share_alert', 'wpfm_amazon_data', 'wpfm_file_location', 'video_duration', 'wpfm_migrated');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wpfm_total_filesize_used', 'wpfm_title', 'wpfm_file_author', 'edd_file_price', 'file_hashes', 'author_name', 'shared_with', 'shared_with_role', 'wpfm_file_name', '_wp_attached_file', 'wpfm_dir_path', 'wpfm_file_size', 'wpfm_file_upload_limit', 'wpfm_node_type', 'wpfm_bp_group_id', 'wpfm_discription', 'wpfm_file_parent', 'wpfm_file_url', 'wpfm_date_created', 'wpfm_is_image', 'wpfm_file_thumb_url', 'wpfm_total_downloads', 'wpfm_share_alert', 'wpfm_amazon_data', 'wpfm_file_location', 'video_duration', 'wpfm_migrated');
+

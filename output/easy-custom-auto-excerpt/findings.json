@@ -1,0 +1,18 @@
+{
+  "options": [
+    "tonjoo_ecae_options",
+    "ecae_ignore_notice",
+    "ecae_later_date",
+    "ecae_start_date"
+  ],
+  "transients": [
+    "tonjoo_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ecae_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:56.796Z"
+}

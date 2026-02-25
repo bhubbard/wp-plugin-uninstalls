@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('speedguard_options', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_active_plugins', 'fs_storage_logger', 'speedguard-notice-activation', 'speedguard_tests_count', 'speedguard_notice_add_new_url_error_empty', 'speedguard_notice_add_new_url_error_not_url', 'speedguard_notice_create_test', 'speedguard_notice_add_new_url_error_max_urls', 'speedguard_notice_add_new_url_error_not_current_domain', 'speedguard_notice_slow_down', 'speedguard_notice_already_in_queue', 'speedguard_notice_delete_guarded_pages', 'speedguard_tests_in_queue', 'speedguard_last_test_is_done', 'speedguard_not_production_environment', 'speedguard_no_cwv_data', 'speedguard_notice_cwv_mobile_match', 'speedguard_test_in_progress', 'speedguard_notice_update_test', 'speedguard_sending_request_now', ' speedguard_sending_request_now', 'speedguard-tests-running', 'fs_snooze_period', 'update_plugins', 'update_themes', '_fs_api_connection_retry_counter', 'speedguard-notice-deactivation');
+DELETE FROM wp_options WHERE option_name LIKE 'speedguard_notice_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('guarded_post_id', 'speedguard_item_type', 'guarded_post_blog_id', 'speedguard_on', 'sg_test_result', 'speedguard_page_url');
+DELETE FROM wp_usermeta WHERE meta_key IN ('guarded_post_id', 'speedguard_item_type', 'guarded_post_blog_id', 'speedguard_on', 'sg_test_result', 'speedguard_page_url');
+DELETE FROM wp_termmeta WHERE meta_key IN ('guarded_post_id', 'speedguard_item_type', 'guarded_post_blog_id', 'speedguard_on', 'sg_test_result', 'speedguard_page_url');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('guarded_post_id', 'speedguard_item_type', 'guarded_post_blog_id', 'speedguard_on', 'sg_test_result', 'speedguard_page_url');
+

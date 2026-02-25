@@ -1,0 +1,7 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('custom-typekit-fonts', 'allowed_astra_notices', 'bsf_analytics_track');
+DELETE FROM wp_options WHERE option_name LIKE '%_analytics_optin';
+DELETE FROM wp_options WHERE option_name LIKE '%_analytics_installed_time';
+

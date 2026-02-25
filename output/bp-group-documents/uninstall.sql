@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('bp_group_documents_nav_page_name', 'bp_group_documents_upload_permission', 'bp_group_documents_use_categories', 'bp_group_documents_valid_file_formats', 'bp_group_documents_display_file_size', 'bp_group_documents_display_icons', 'bp_group_documents_display_owner', 'bp_group_documents_display_date', 'bp_group_documents_items_per_page', 'bp_group_documents_display_download_count', 'bp-group-documents-db-version', 'bp_group_documents_enable_all_groups', 'bp_group_documents_progress_bar', 'bp_group_documents_forum_attachments');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('notification_group_documents_upload_mod', 'notification_group_documents_upload_member');
+DELETE FROM wp_usermeta WHERE meta_key IN ('notification_group_documents_upload_mod', 'notification_group_documents_upload_member');
+DELETE FROM wp_termmeta WHERE meta_key IN ('notification_group_documents_upload_mod', 'notification_group_documents_upload_member');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('notification_group_documents_upload_mod', 'notification_group_documents_upload_member');
+

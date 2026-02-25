@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cc_child_pages",
+    "*_size_h",
+    "*_size_w"
+  ],
+  "transients": [
+    "ccchildpages_dash_stats"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ccchildpages_hide_dash_widget"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:29.084Z"
+}

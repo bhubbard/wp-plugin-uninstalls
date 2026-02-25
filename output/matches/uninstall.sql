@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('matches_upcoming_list_number', 'matches_team_name', 'matches_team_location', 'matches_team_logo', 'matches_date_format', 'matches_custom_date_format', 'matches_date_localize', 'matches_date_timezone', 'matches_db_version');
+

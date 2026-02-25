@@ -1,0 +1,44 @@
+{
+  "options": [
+    "ee_options",
+    "ee_remarketing_snippets",
+    "ee_api_data",
+    "ee_additional_data",
+    "conv_selected_events",
+    "woocommerce_currency",
+    "woocommerce_default_country",
+    "convsst_msg_nofifications",
+    "convsst_sst_pcount",
+    "ee_conversio_send_to",
+    "ga_EC",
+    "google_ads_conversion_tracking",
+    "ee_ads_tracking_id",
+    "ads_ert",
+    "ads_edrt",
+    "ee_customer_gmail",
+    "convsst_ut",
+    "ee_customer_gtm_gmail",
+    "conv_sst_server_hits_db",
+    "convsst_prod_mapped_attrs",
+    "convsst_prod_mapped_cats",
+    "convsst_ads_tracking_id",
+    "conv_gads_currency"
+  ],
+  "transients": [
+    "conv_sst_server_hits",
+    "_conversios_activation_redirect_sst"
+  ],
+  "cron_jobs": [
+    "convsst_dbnewfeature_schedule_hook",
+    "tvc_add_cron_interval_for_product_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tvc_tracked_refund",
+    "_yoast_wpseo_primary_product_cat",
+    "billing_phone",
+    "_tracked"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:48.808Z"
+}

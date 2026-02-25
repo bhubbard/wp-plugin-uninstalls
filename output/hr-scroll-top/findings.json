@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hrsticoninsert",
+    "hrstbgcolor",
+    "hrsthover",
+    "hrsticon-left-right",
+    "hrsticon-roundcorner",
+    "hrstspeed",
+    "hrst_plugin_do_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:54.317Z"
+}

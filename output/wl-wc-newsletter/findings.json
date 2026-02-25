@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wlwcn_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "discount_amount",
+    "expiry_in_days",
+    "mail_from_address",
+    "mail_replyto_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:01.122Z"
+}

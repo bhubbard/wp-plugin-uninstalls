@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_redirect_author_pages_redirect_non_authors",
+    "wp_redirect_author_pages_activate",
+    "wp_redirect_author_pages_adminonly",
+    "wp_redirect_author_pages_status",
+    "wp_redirect_author_pages_destination",
+    "wp_redirect_author_pages_authorlink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:41.640Z"
+}

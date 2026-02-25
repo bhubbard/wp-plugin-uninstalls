@@ -1,0 +1,12 @@
+{
+  "options": [
+    "etc_json_settings",
+    "etc_width_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:35.424Z"
+}

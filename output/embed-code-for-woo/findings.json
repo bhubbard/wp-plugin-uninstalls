@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wec_archive_code",
+    "wec_product_page",
+    "wec_cart_page",
+    "wec_checkout_page",
+    "wec_confirmation_page",
+    "wec_embed_in_head",
+    "wec_all_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:53.117Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "GOOGLE_MAP_API_KEY",
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "location",
+    "marker_description",
+    "marker_animation",
+    "is_info_window_open",
+    "latitude",
+    "longitude",
+    "width",
+    "width_metric",
+    "height",
+    "height_metric",
+    "zoom_level",
+    "draggable",
+    "scroll",
+    "map_type",
+    "marker_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:30.947Z"
+}

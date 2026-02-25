@@ -1,0 +1,24 @@
+{
+  "options": [
+    "flowplayer_backgroundColor",
+    "flowplayer_canvas",
+    "flowplayer_sliderColor",
+    "flowplayer_buttonColor",
+    "flowplayer_buttonOverColor",
+    "flowplayer_durationColor",
+    "flowplayer_timeColor",
+    "flowplayer_progressColor",
+    "flowplayer_bufferColor",
+    "flowplayer_autobuffer",
+    "flowplayer_autoplay",
+    "flowplayer_key",
+    "flowplayer_logo",
+    "flowplayer_logolink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:38.787Z"
+}

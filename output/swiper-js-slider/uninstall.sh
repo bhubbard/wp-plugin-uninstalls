@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%setting_general'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%setting_general'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%setting_general'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%setting_general'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%setting_autoplay'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%setting_autoplay'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%setting_autoplay'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%setting_autoplay'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%setting_pagination'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%setting_pagination'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%setting_pagination'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%setting_pagination'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%setting_navigation'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%setting_navigation'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%setting_navigation'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%setting_navigation'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%setting_breakpoints'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%setting_breakpoints'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%setting_breakpoints'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%setting_breakpoints'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%gallery_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%gallery_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%gallery_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%gallery_id'"

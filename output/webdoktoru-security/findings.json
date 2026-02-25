@@ -1,0 +1,15 @@
+{
+  "options": [
+    "webdoktoru_security_settings"
+  ],
+  "transients": [
+    "webdoktoru_security_cache"
+  ],
+  "cron_jobs": [
+    "webdoktoru_security_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:55.529Z"
+}

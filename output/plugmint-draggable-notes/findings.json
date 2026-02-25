@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pdan_admin_notes_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pdan_visibility_meta",
+    "pdan_minimized",
+    "pdan_order_meta",
+    "pdan_checklist_meta",
+    "pdan_color_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:34.996Z"
+}

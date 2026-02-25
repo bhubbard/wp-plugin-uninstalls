@@ -1,0 +1,16 @@
+{
+  "options": [
+    "icdb_table_shortcode",
+    "icdb_column_property",
+    "icdb_header_style",
+    "icdb_content_length",
+    "icdb_excerpt_length",
+    "icdb_table_seq"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:02.940Z"
+}

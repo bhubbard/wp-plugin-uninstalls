@@ -1,0 +1,19 @@
+{
+  "options": [
+    "beerxml_shortcode_cache",
+    "beerxml_shortcode_units",
+    "beerxml_shortcode_download",
+    "beerxml_shortcode_style",
+    "beerxml_shortcode_mash",
+    "beerxml_shortcode_misc",
+    "beerxml_shortcode_actuals",
+    "beerxml_shortcode_fermentation",
+    "beerxml_shortcode_mhop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:52.083Z"
+}

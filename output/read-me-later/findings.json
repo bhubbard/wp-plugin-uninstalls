@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*-settings",
+    "*-display-settings",
+    "demo-radio",
+    "rml_installdate",
+    "rml_supported",
+    "rml_save_for_later_page_id",
+    "read-me-later-settings",
+    "read-me-later-display-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rml_saved_for_later"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:30.410Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ensemble_installed",
+    "*_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ensemble-class",
+    "ensemble-start-date",
+    "ensemble-end-date",
+    "ensemble-city",
+    "ensemble-directors",
+    "ensemble-instructors"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:38.454Z"
+}

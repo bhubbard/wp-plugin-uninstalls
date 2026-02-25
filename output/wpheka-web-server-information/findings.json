@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpheka_web_server_db_advanced_info",
+    "wpheka_web_server_info_version"
+  ],
+  "transients": [
+    "wpheka_web_server_db_software",
+    "wpheka_web_server_db_version",
+    "wpheka_web_server_db_max_connection",
+    "wpheka_web_server_db_max_packet_size",
+    "wpheka_web_server_db_disk_usage",
+    "wpheka_web_server_db_index_disk_usage",
+    "wpheka_web_server_os",
+    "wpheka_web_server_location"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:00.248Z"
+}

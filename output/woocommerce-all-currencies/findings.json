@@ -1,0 +1,24 @@
+{
+  "options": [
+    "alg_wc_all_currencies_enabled",
+    "alg_wc_all_currencies_custom_currencies_enabled",
+    "alg_wc_all_currencies_custom_currencies_codes",
+    "alg_wc_all_currencies_custom_currencies_names",
+    "alg_wc_all_currencies_hide_symbol",
+    "alg_wc_all_currencies_use_code_as_symbol",
+    "alg_wc_all_currencies_list_country_enabled",
+    "alg_wc_all_currencies_list_crypto_enabled",
+    "alg_wc_all_currencies_custom_currencies_total",
+    "*_reset",
+    "active_sitewide_plugins",
+    "alg_wc_all_currencies_version",
+    "alg_wc_all_currencies_symbols",
+    "woocommerce_currencies_pro_currency_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:13.002Z"
+}

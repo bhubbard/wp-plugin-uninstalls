@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wpr_default_signup_form",
+    "wpr_is_installed",
+    "wpr_user_msg",
+    "wpr_migrate_controle",
+    "wpregistration_meta",
+    "wpr_icon_cache_fonticons",
+    "wpr_core_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpr_account_status",
+    "wpr_fields",
+    "wpr_assign_user_role",
+    "wpr_form_id",
+    "wpr_password",
+    "wpr_last_login",
+    "_wpr_core",
+    "_wpr_wpml_*",
+    "_icl_lang_duplicate_of",
+    "wpr_last_page_visit",
+    "wpr_email_key",
+    "wpr_member_restrict",
+    "wpr_role_restrict",
+    "wpr_restrict_msg",
+    "_wpr_wpml_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:07.241Z"
+}

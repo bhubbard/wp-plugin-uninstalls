@@ -1,0 +1,13 @@
+{
+  "options": [
+    "signups_cron_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "signups_cron_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:58:02.217Z"
+}

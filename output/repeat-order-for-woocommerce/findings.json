@@ -1,0 +1,18 @@
+{
+  "options": [
+    "prro_version",
+    "prro_order_status_*",
+    "prro_reactivate_action",
+    "prro_cart_notice",
+    "prro_create_order_note",
+    "prro_show_repeat_order_on_order_list",
+    "prro_show_user_reorder_list",
+    "prro_show_reorder_in_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:50.113Z"
+}

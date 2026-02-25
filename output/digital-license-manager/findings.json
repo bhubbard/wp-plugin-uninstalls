@@ -1,0 +1,36 @@
+{
+  "options": [
+    "dlm_tools",
+    "dlm_needs_permalinks_flush",
+    "time_formt",
+    "nc_info_dlm_lmfwc",
+    "dlm_settings_general",
+    "dlm_settings_*",
+    "dlm_lmfw_migration_generator_map",
+    "dlm_db_version",
+    "lmfwc_settings_general",
+    "lmfwc_settings_order_status",
+    "dlm_database_migration_*",
+    "dlm_database_migration_lmfw"
+  ],
+  "transients": [
+    "dlm_consumer_key",
+    "dlm_api_key",
+    "dlm_permalinks_needs_flush",
+    "dlm_error",
+    "dlm_notice_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lmfwc_licensed_product_delivered_quantity",
+    "lmfwc_licensed_product_use_generator",
+    "lmfwc_licensed_product_assigned_generator",
+    "dlm_licensed_product_use_stock",
+    "dlm_licensed_product_use_generator",
+    "dlm_licensed_product_assigned_generator",
+    "dlm_licensed_product_licenses_source"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:45.150Z"
+}

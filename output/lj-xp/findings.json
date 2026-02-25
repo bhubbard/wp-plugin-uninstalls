@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ljxp",
+    "ljxp_username",
+    "ljxp_error_notice",
+    "lj_xp_error_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ljxp_privacy",
+    "ljxp_friendsgroups",
+    "ljxp_comments",
+    "ljxp_userpic",
+    "no_lj",
+    "ljID",
+    "ljURL",
+    "ljxp_cut_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:34.583Z"
+}

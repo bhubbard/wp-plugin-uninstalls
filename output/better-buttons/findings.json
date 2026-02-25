@@ -1,0 +1,16 @@
+{
+  "options": [
+    "AWS_AccessKeyId",
+    "AWS_SecretKey",
+    "AWS_Tag",
+    "AWS_Locale"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "product_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:59.761Z"
+}

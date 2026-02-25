@@ -1,0 +1,39 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "tf_display_admin_notice_time",
+    "beafwc_installation_date",
+    "beafwc_review_notice_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "beafwc_before_image",
+    "beafwc_after_image",
+    "beafwc_image_styles",
+    "beafwc_default_offset",
+    "beafwc_before_label",
+    "beafwc_after_label",
+    "beafwc_no_overlay",
+    "beafwc_move_slider_on_hover",
+    "beafwc_click_to_move",
+    "beafwc_on_scroll_slide",
+    "skip_lazy_load",
+    "beafwc_custom_color",
+    "beafwc_before_label_background",
+    "beafwc_before_label_color",
+    "beafwc_after_label_background",
+    "beafwc_after_label_color",
+    "beafwc_activate_slider",
+    "beafwc_before_after_style",
+    "beafwc_slider_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:01.626Z"
+}

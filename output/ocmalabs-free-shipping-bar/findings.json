@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ocma_fsb_position",
+    "ocma_fsb_display_method",
+    "ocma_fsb_threshold",
+    "ocma_fsb_bg_color",
+    "ocma_fsb_bg_color_progress",
+    "ocma_fsb_bg_color_completed",
+    "ocma_fsb_msg_initial",
+    "ocma_fsb_msg_progress",
+    "ocma_fsb_msg_completed",
+    "ocma_fsb_enabled",
+    "ocma_fsb_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:52.889Z"
+}

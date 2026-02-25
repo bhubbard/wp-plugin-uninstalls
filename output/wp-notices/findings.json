@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vr_wp_notices_dompdf",
+    "vr_wp_notices_directory",
+    "vr_wp_notices_directory_url"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vr_wp_notices_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:33.744Z"
+}

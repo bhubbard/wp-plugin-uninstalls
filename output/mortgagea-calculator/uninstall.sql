@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wmc_settings', 'wmc_title_font', 'mortt_calc_back_color', 'mortgage_title_color', 'mortt_border_color', 'wmc_intfield_title_color', 'cf_hover_color', 'wcf_enable_chart', 'wmc_result_title_color', 'wmc_act_sch_btn_text_color', 'wmc_act_sch_btn_bg_color', 'wmc_sch_btn_text_color', 'wmc_sch_btn_bg_color', 'wmc_annu_tab_head_text_color', 'wmc_annu_tab_body_text_color', 'wmc_month_tab_head_text_color', 'wmc_month_tab_body_text_color', 'wcf_enable_month_annual_schedule', 'mortgage_title', 'wmc_month_pay_text', 'wmc_total_pay_text', 'wmc_total_interest_text', 'default_purchase_price', 'min_purchase_price', 'max_purchase_price', 'default_roi', 'min_roi', 'max_roi', 'default_loan_term', 'min_loan_term', 'max_loan_term', 'wmc_chart_type', 'wmc_monthley_color', 'wmc_totalpayment_color', 'wmc_totalinterset_color', 'wcf_enable_annual_schedule', 'wcf_enable_monthly_schedule', 'wmc_chart_month_pay_text', 'wmc_chart_total_pay_text', 'wmc_chart_total_interest_text');
+

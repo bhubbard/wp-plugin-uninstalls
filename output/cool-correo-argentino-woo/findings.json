@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wc-coolca-branches",
+    "wc-coolca-branches-*",
+    "wc-coolca-price",
+    "wc-coolca-*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "coolca-branches-cron-updater"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wcfmmp_profile_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:49.471Z"
+}

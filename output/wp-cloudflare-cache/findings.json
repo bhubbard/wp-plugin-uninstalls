@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpcc_config",
+    "wpcc_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpcc_purge_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:02.495Z"
+}

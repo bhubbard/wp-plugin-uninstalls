@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cos_headlinestudio_embed_token",
+    "cos_headlinestudio_user_id",
+    "cos_headlinestudio_user_email",
+    "cos_headlinestudio_account_connected_at",
+    "cos_headlinestudio_prefer_classic_experience",
+    "cos_headlinestudio_is_onboarded"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cos_headline_text",
+    "cos_seo_score",
+    "cos_headline_score",
+    "cos_last_analyzed_headline"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:30.007Z"
+}

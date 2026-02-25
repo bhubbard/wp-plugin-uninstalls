@@ -1,0 +1,16 @@
+{
+  "options": [
+    "eip_redirect_provider",
+    "eip_redirect_api2",
+    "eip_redirect_api3",
+    "eip_country",
+    "eip_ruletype",
+    "eip_redirect_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:30.377Z"
+}

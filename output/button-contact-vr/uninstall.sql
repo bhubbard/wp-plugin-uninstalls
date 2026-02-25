@@ -1,0 +1,10 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('buttonizer_buttons', 'buttonizer_buttons_published', 'buttonizer_rules', 'buttonizer_rules_published', 'buttonizer_schedules', 'buttonizer_schedules_published', 'buttonizer_has_changes', 'buttonizer_buttons_backup_30', 'buttonizer_buttons_published_backup_30', 'buttonizer_has_changes_backup_30', 'buttonizer_rules_backup_30', 'buttonizer_rules_published_backup_30', 'buttonizer_schedules_backup_30', 'buttonizer_schedules_published_backup_30', 'buttonizer_settings_backup_30', 'buttonizer_settings', 'button_contact_legacy', 'pzf_phone', 'pzf_color_phone', 'pzf_phone2', 'pzf_color_phone2', 'pzf_phone3', 'pzf_color_phone3', 'pzf_phone_bar', 'pzf_zalo', 'pzf_telegram', 'pzf_instagram', 'pzf_youtube', 'pzf_tiktok', 'pzf_linkfanpage', 'pzf_linkmessenger', 'pzf_whatsapp', 'pzf_viber', 'pzf_linkggmap', 'pzf_color_linkggmap', 'pzf_contact_link', 'pzf_color_contact', 'pzf_enable_all_in_one', 'pzf_note_all_in_one', 'pzf_note_bar_all_in_one', 'pzf_color_all_in_one', 'pzf_icon_all_in_one', 'pzf_hide_default_all_in_one', 'pzf_color_contact_form', 'pzf_color_showroom', 'setting_size', 'pzf_location', 'pzf_location_bottom', 'pzf_hide_mobile', 'pzf_hide_desktop');
+DELETE FROM wp_options WHERE option_name IN ('pzf_off_effects', 'pzf_id_fanpage', 'pzf_color_fb', 'logged_in_greeting', 'pzf_enable_contact_form', 'pzf_bg_contact_form', 'pzf_max_w_contact_form');
+DELETE FROM wp_options WHERE option_name LIKE '%_account';
+DELETE FROM wp_options WHERE option_name LIKE '%_site_connection';
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+DELETE FROM wp_options WHERE option_name LIKE '%_site_connection';
+

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "storeradar_email_tracking_enabled",
+    "storeradar_show_activation_notice"
+  ],
+  "transients": [
+    "storeradar_error_logs",
+    "storeradar_guest_*",
+    "storeradar_stored_carts",
+    "storeradar_analytics_sessions",
+    "storeradar_analytics_pageviews",
+    "storeradar_analytics_summary"
+  ],
+  "cron_jobs": [
+    "storeradar_cart_cleanup",
+    "storeradar_record_traffic_event",
+    "storeradar_analytics_cleanup",
+    "storeradar_heartbeat"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_storeradar_cart_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:56.260Z"
+}

@@ -1,0 +1,59 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "disallowed_keys",
+    "widget_block",
+    "bp-activity-db-version",
+    "bp-blogs-db-version",
+    "bp-friends-db-version",
+    "bp-groups-db-version",
+    "bp-messages-db-version",
+    "bp-xprofile-db-version",
+    "bp-db-version",
+    "_bp_db_version",
+    "bp-core-db-version",
+    "_bp-core-db-version",
+    "_bp_retain_bp_default",
+    "hide-loggedout-adminbar",
+    "_bp_community_visibility",
+    "_bp_theme_package_id",
+    "bp-disable-account-deletion",
+    "bp-disable-avatar-uploads",
+    "bp-disable-cover-image-uploads",
+    "bp-enable-members-invitations",
+    "bp-enable-membership-requests",
+    "bp-disable-profile-sync",
+    "bp_restrict_group_creation",
+    "bp-disable-group-avatar-uploads",
+    "bp-disable-group-cover-image-uploads",
+    "bp-disable-group-activity-deletions",
+    "bp-disable-blogforum-comments",
+    "_bp_enable_heartbeat_refresh",
+    "_bp_enable_akismet",
+    "illegal_names",
+    "limited_email_domains",
+    "registration"
+  ],
+  "transients": [
+    "_bp_activation_redirect",
+    "_bp_is_new_install",
+    "bp_active_member_count",
+    "theme_roots",
+    "update_plugins",
+    "_bp_admin_signups_errors"
+  ],
+  "cron_jobs": [
+    "bp_activity_akismet_delete_old_metadata"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bp_activity_comment_id",
+    "_bp_component_slugs",
+    "_bp_last_posted",
+    "bp_type_name",
+    "bp_email_preheader",
+    "_export_file_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:50.339Z"
+}

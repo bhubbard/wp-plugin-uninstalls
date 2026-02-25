@@ -1,0 +1,13 @@
+{
+  "options": [
+    "block_theme_color_switcher_button_text",
+    "block_theme_color_switcher_position",
+    "block_theme_color_switcher_top"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:32.052Z"
+}

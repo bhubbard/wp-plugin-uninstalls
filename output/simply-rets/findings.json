@@ -1,0 +1,51 @@
+{
+  "options": [
+    "sr_api_name",
+    "sr_api_key",
+    "sr_contact_page",
+    "sr_show_listingmeta",
+    "sr_show_listing_remarks",
+    "sr_show_agent_contact",
+    "sr_listing_gallery",
+    "sr_show_leadcapture",
+    "sr_leadcapture_recipient",
+    "sr_additional_rooms",
+    "sr_listhub_analytics",
+    "sr_listhub_analytics_id",
+    "sr_listhub_analytics_test_events",
+    "sr_search_map_position",
+    "sr_permalink_structure",
+    "sr_google_api_key",
+    "sr_office_on_thumbnails",
+    "sr_agent_on_thumbnails",
+    "sr_thumbnail_idx_image",
+    "sr_show_mls_status_text",
+    "sr_agent_office_above_the_fold",
+    "sr_show_mls_trademark_symbol",
+    "sr_disable_listing_details_map",
+    "sr_default_idx_filter",
+    "sr_idx_address_display_text",
+    "sr_date_default_timezone",
+    "sr_listing_force_image_https",
+    "sr_leadcapture_custom_form",
+    "sr_custom_disclaimer",
+    "sr_custom_no_results_message",
+    "sr_demo_page_created",
+    "sr_show_admin_message",
+    "sr_adv_search_meta_vendors",
+    "sr_adv_search_meta_endpoints",
+    "sr_adv_search_meta_timestamp",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sr_update_adv_search_options_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sr_filters",
+    "sr_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:44.842Z"
+}

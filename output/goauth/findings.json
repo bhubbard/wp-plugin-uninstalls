@@ -1,0 +1,39 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "goauth_enable",
+    "goauth_force_login",
+    "goauth_hide_loginform",
+    "goauth_hide_forget",
+    "goauth_xmlrpc_disabled",
+    "goauth_api_disabled",
+    "goauth_save_on_uninstall",
+    "goauth_antilockout",
+    "goauth_2fa_enable",
+    "goauth_2fa_salt",
+    "goauth_2fa_show_qr",
+    "goauth_google_enable",
+    "goauth_client_id",
+    "goauth_client_secret",
+    "goauth_domain",
+    "goauth_button_style",
+    "goauth_disable_user_enum",
+    "goauth_recover_button_style",
+    "goauth_db_version",
+    "goauth_auto_register_exclude"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "goauth_remove_garbage"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:50.885Z"
+}

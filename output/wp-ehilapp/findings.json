@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_ehilapp_options_cat",
+    "wp_ehilapp_options_tag",
+    "wp_ehilapp_options_cat_inv",
+    "wp_ehilapp_options_tag_inv",
+    "wp_ehilapp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:26.767Z"
+}

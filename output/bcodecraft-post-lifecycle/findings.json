@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bclc_last_audit_run",
+    "bclc_last_expiration_check",
+    "bclc_needs_reschedule",
+    "bclc_settings",
+    "bclc_activated_at",
+    "bclc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bclc_check_expirations",
+    "bclc_run_audit"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bclc_expiration_action",
+    "_bclc_expiration_date",
+    "_bclc_expired_at",
+    "_bclc_expired_by"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:42.502Z"
+}

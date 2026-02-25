@@ -1,0 +1,30 @@
+{
+  "options": [
+    "nikePLUS_localpath",
+    "nikePLUS_userid",
+    "nikePLUS_pass",
+    "nikePLUS_showpowersong",
+    "nikePLUS_itmslink",
+    "nikePLUS_dontcache",
+    "nikePLUS_proxy",
+    "nikePLUS_showgoals",
+    "nikePLUS_showrecords",
+    "nikePLUS_decimal",
+    "nikePLUS_thousands",
+    "nikePLUS_showavgs",
+    "nikePLUS_showrecent",
+    "nikePLUS_showgraphs",
+    "nikePLUS_graphsmoothing",
+    "nikePLUS_showrecentcount",
+    "nikePLUS_lastxml",
+    "nikePLUS_showchallenge",
+    "nikePLUS_showchallengedetail",
+    "widget_nikePLUS"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:42.356Z"
+}

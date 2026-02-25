@@ -1,0 +1,28 @@
+{
+  "options": [
+    "productive_global_section_following_options",
+    "productive_global_section_grid_options",
+    "productive_global_section_misc_options",
+    "productive_global_section_popup_options",
+    "active_sitewide_plugins",
+    "productive_global_section_sharing_options",
+    "productive_global_section_slider_options",
+    "productive_style_section_manage_cpts_options",
+    "productive_style_section_integration_options",
+    "_transient_productive_style",
+    "_transient_timeout_productive_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "productive_user_follow_site_1",
+    "productive_user_follow_site_2",
+    "productive_user_follow_site_3",
+    "productive_user_follow_site_4",
+    "productive_user_follow_site_5",
+    "productive_user_follow_site_profesion"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:03.731Z"
+}

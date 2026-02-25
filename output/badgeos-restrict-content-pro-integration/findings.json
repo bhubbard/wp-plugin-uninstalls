@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_license_active",
+    "wn_bosrcp_license_key",
+    "badgeos_settings"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_badgeos_count",
+    "_badgeos_rcp_trigger",
+    "_badgeos_rcp_object_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:19.195Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "edubzl_delete_data_on_uninstall",
+    "edubzl_notes",
+    "edubzl_logs",
+    "edubzl_batch_size",
+    "edubzl_batch_interval",
+    "edubzl_max_attempts",
+    "edubzl_queue_enabled",
+    "edubzl_cleanup_queue_days",
+    "edubzl_test_mode"
+  ],
+  "transients": [
+    "edubzl_last_job_id",
+    "edubzl_cron_processing"
+  ],
+  "cron_jobs": [
+    "edubzl_cleanup_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:46.887Z"
+}

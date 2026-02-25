@@ -1,0 +1,13 @@
+{
+  "options": [
+    "shopper_dotcom_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shopper_sync_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:10.628Z"
+}

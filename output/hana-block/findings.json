@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hana_block_type",
+    "_hana_block_layout",
+    "_hana_block_action"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:30.161Z"
+}

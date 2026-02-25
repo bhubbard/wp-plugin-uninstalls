@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_local_ga"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:37.102Z"
+}

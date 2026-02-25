@@ -1,0 +1,20 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'slider_animation_one'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'slider_animation_one'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'slider_animation_one'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'slider_animation_one'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'slider_animation_two'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'slider_animation_two'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'slider_animation_two'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'slider_animation_two'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'slider_animation_three'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'slider_animation_three'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'slider_animation_three'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'slider_animation_three'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"

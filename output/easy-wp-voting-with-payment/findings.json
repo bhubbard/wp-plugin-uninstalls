@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ewvwp_paystack_secret_key",
+    "ewvwp_display_vote",
+    "ewvwp_display_state",
+    "ewvwp_paystack_public_key",
+    "ewvwp_min_amount",
+    "ewvwp_template",
+    "ewvwp_no_of_candidate_per_page"
+  ],
+  "transients": [
+    "ewvwp-admin-notice-example"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ewvwp_nickname_value_key",
+    "_ewvwp_state_value_key",
+    "_ewvwp_age_value_key",
+    "_ewvwp_vote_value_key",
+    "_ewvwp_occupation_value_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:37.536Z"
+}

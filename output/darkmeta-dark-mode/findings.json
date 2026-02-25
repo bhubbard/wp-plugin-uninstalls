@@ -1,0 +1,15 @@
+{
+  "options": [
+    "darkmeta_dark_mode_enabled",
+    "darkmeta_dark_mode_background_color",
+    "darkmeta_dark_mode_text_color",
+    "darkmeta_dark_mode_icon_light",
+    "darkmeta_dark_mode_icon_dark"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:02.750Z"
+}

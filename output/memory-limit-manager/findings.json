@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "memory_limit_manager_errors_*",
+    "memory_limit_manager_attempted_values_*",
+    "memory_limit_manager_success_*",
+    "memory_limit_manager_success",
+    "memory_limit_manager_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:46.025Z"
+}

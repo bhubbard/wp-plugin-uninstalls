@@ -1,0 +1,15 @@
+{
+  "options": [
+    "openboxdeal_cache_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_openboxdeal_main_product_id",
+    "_openboxdeal_main_product_variation_id",
+    "_product_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:26.006Z"
+}

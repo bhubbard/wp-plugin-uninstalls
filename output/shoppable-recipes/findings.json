@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_version",
+    "SHOPPABLE_RECIPES_review_dismissed",
+    "save-recipe",
+    "contacts",
+    "SHOPPABLE_RECIPES_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:59.566Z"
+}

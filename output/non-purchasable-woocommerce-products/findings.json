@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gp_npwp_hide_admin_column",
+    "gp_npwp_new_button_text",
+    "gp_npwp_hide_wrapper",
+    "gp_npwp_new_message_text",
+    "gp_npwp_hide_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_not_buyable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:41.525Z"
+}

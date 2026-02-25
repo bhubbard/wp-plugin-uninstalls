@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc4bp_pages_options', 'wc4bp_options', 'wc4bp_options_delete', 'wc4bp_options_notifications', 'woocommerce_shop_page_id', 'woocommerce_cart_page_id', 'woocommerce_myaccount_page_id', 'woocommerce_checkout_page_id', 'bp-pages', 'wc4bp_options_sync', 'wc4bp_options_pages', 'wc4bp_installed', 'woocommerce_default_country', 'wc4bp_installed_date', 'wc4bp_shipping_address_ids', 'wc4bp_billing_address_ids', 'woocommerce_force_ssl_checkout', 'recently_activated', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'woocommerce_myaccount_orders_endpoint', 'woocommerce_myaccount_downloads_endpoint', 'woocommerce_myaccount_edit_address_endpoint', 'woocommerce_myaccount_payment_methods_endpoint', 'woocommerce_myaccount_edit_account_endpoint', 'wc4bp_upgrade', 'update_plugins', 'fs_snooze_period', '_fs_api_connection_retry_counter', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wc4bp-review', 'wc4bp-review-later');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wc4bp-review', 'wc4bp-review-later');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wc4bp-review', 'wc4bp-review-later');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wc4bp-review', 'wc4bp-review-later');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wc4bp_tgmpa_dismissed_notice_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wc4bp_tgmpa_dismissed_notice_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wc4bp_tgmpa_dismissed_notice_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wc4bp_tgmpa_dismissed_notice_%';
+

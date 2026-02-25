@@ -1,0 +1,15 @@
+{
+  "options": [
+    "emplmasy_activation_time",
+    "emplmasy_date_format",
+    "emplmasy_currency_symbol",
+    "emplmasy_currency_position",
+    "emplmasy_delete_data_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:01.094Z"
+}

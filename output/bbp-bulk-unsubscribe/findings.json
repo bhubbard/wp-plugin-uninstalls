@@ -1,0 +1,11 @@
+{
+  "options": [
+    "_bbp_admin_setting_callback_unsubscribe_from_all"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:59.218Z"
+}

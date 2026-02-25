@@ -1,0 +1,13 @@
+{
+  "options": [
+    "h5pxapikatchu_version",
+    "h5pxapikatchu_defaults_set",
+    "h5pxapikatchu_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:17.826Z"
+}

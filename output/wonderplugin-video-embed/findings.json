@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wonderplugin_videoembed_keepdata",
+    "wonderplugin_videoembed_disableupdate",
+    "wonderplugin_videoembed_addjstofooter",
+    "wonderplugin_videoembed_zindex",
+    "wonderplugin_videoembed_information"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:13.745Z"
+}

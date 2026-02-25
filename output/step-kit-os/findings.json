@@ -1,0 +1,19 @@
+{
+  "options": [
+    "step_kit_os_settings"
+  ],
+  "transients": [
+    "step_kit_os_settings_cache",
+    "step_kit_os_button_color"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wc_persistent_cart_contents",
+    "_step_kit_os_page",
+    "_step_kit_os_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:28.793Z"
+}

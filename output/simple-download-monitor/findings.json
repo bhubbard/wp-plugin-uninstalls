@@ -1,0 +1,34 @@
+{
+  "options": [
+    "sdm_downloads_options",
+    "sdm_global_options",
+    "sdm_plugin_activated_time",
+    "sdm_advanced_options",
+    "sdm_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sdm_upload_thumbnail",
+    "sdm_description",
+    "sdm_upload",
+    "sdm_item_dispatch",
+    "sdm_item_new_window",
+    "sdm_item_disable_single_download_page",
+    "sdm_item_hide_dl_button_single_download_page",
+    "sdm_item_anonymous_can_download",
+    "sdm_count_offset",
+    "sdm_item_no_log",
+    "sdm_item_show_date_fd",
+    "sdm_item_show_file_size_fd",
+    "sdm_item_show_item_version_fd",
+    "sdm_item_file_size",
+    "sdm_item_version",
+    "sdm_download_button_text",
+    "sdm_is_protected_download",
+    "_exclude_from_media_library"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:28.886Z"
+}

@@ -1,0 +1,43 @@
+{
+  "options": [
+    "ef-domain",
+    "ef-apikey",
+    "ef-woocommerce-active",
+    "ef_courses_page_title",
+    "ef_courses_page_name",
+    "ef_courses_page_id",
+    "ef_signup_page_title",
+    "ef_signup_page_name",
+    "ef_signup_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_efront_course_id",
+    "_visibility",
+    "_stock_status",
+    "total_sales",
+    "_downloadable",
+    "_virtual",
+    "_purchase_note",
+    "_featured",
+    "_weight",
+    "_length",
+    "_width",
+    "_height",
+    "_sku",
+    "_product_attributes",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_sold_individually",
+    "_manage_stock",
+    "_backorders",
+    "_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:31.117Z"
+}

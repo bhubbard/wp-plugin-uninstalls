@@ -1,0 +1,28 @@
+{
+  "options": [
+    "sermons_nl_kerkomroep_mountpoint",
+    "sermons_nl_kerkomroep_min_delay",
+    "sermons_nl_kerkomroep_min_ahead",
+    "sermons_nl_kerktijden_id",
+    "sermons_nl_kerktijden_weeksahead",
+    "sermons_nl_kerktijden_weeksback",
+    "sermons_nl_youtube_channel",
+    "sermons_nl_youtube_key",
+    "sermons_nl_youtube_weeksback",
+    "sermons_nl_youtube_min_ahead",
+    "sermons_nl_icon_color_archive",
+    "sermons_nl_icon_color_planned",
+    "sermons_nl_icon_color_live",
+    "sermons_nl_last_update_time",
+    "sermons_nl_icon_color_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sermons_nl_cron_quarterly",
+    "sermons_nl_cron_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:00.822Z"
+}

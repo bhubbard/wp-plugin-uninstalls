@@ -1,0 +1,18 @@
+{
+  "options": [
+    "clariti_api_key",
+    "clariti_api_host",
+    "clariti_api_secret",
+    "clariti_plugin_version"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wprm_parent_post_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:28.022Z"
+}

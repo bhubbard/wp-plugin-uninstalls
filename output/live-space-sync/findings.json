@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wp_msnsync_url",
+    "wp_msnsync_password",
+    "wp_msnsync_enable",
+    "wp_msnsync_cook",
+    "wp_msnsync_publish",
+    "wp_msnsync_delete",
+    "wp_msnsync_full",
+    "wp_msnsync_msg",
+    "wp_msnsync_title",
+    "wp_msnsync_more",
+    "wp_msnsync_id",
+    "wp_msnsync_exclude"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:48.364Z"
+}

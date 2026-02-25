@@ -1,0 +1,19 @@
+{
+  "options": [
+    "istwqfs_qty_field_enable",
+    "istwqfs_qty_label_enable",
+    "istwqfs_quantity_label",
+    "istwqfs_qty_label_font_color",
+    "istwqfs_qty_label_font_weight",
+    "istwqfs_qty_label_font_size",
+    "istwqfs_product_added_message"
+  ],
+  "transients": [
+    "*istwqfserror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:22.528Z"
+}

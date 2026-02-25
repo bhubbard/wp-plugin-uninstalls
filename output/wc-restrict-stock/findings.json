@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcrs_restrict_count",
+    "wcrs_restrict_count_notes",
+    "wcrs_hide_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:49.277Z"
+}

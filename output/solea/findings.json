@@ -1,0 +1,38 @@
+{
+  "options": [
+    "solea_central_member_management",
+    "solea_icon_children",
+    "solea_icon_adults",
+    "solea_registration_order_url",
+    "solea_account_owner",
+    "solea_account_iban",
+    "solea_last_version",
+    "page_used_for_state"
+  ],
+  "transients": [
+    "solea-rest-api-nonce-user*"
+  ],
+  "cron_jobs": [
+    "solea/daily/maintenance",
+    "solea/daily/informmangement",
+    "solea/sunday/information"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "telephone",
+    "localgroup",
+    "street",
+    "housenumber",
+    "zipcode",
+    "city",
+    "allergies",
+    "intolerances",
+    "medication",
+    "birthday",
+    "solea_nickname"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:57.013Z"
+}

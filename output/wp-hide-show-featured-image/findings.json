@@ -1,0 +1,17 @@
+{
+  "options": [
+    "whsfi_hide_show_featured_image_notice",
+    "whsfi_hide_all_image",
+    "whsfi_hide_admin_bar",
+    "whsfi_hide_howdy_text",
+    "whsfi_hide_admin_bar_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_whsfi_hide_featured"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:04.064Z"
+}

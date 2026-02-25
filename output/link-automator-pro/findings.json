@@ -1,0 +1,18 @@
+{
+  "options": [
+    "linkaupr_donation_qr_image_id",
+    "linkaupr_options",
+    "linkaupr_db_version"
+  ],
+  "transients": [
+    "linkaupr_keywords_cache",
+    "linkaupr_stats_cache"
+  ],
+  "cron_jobs": [
+    "linkaupr_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:27.871Z"
+}

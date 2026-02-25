@@ -1,0 +1,18 @@
+{
+  "options": [
+    "szamlahegy_wc_api_key",
+    "szamlahegy_wc_default_productnr",
+    "szamlahegy_wc_test",
+    "szamlahegy_wc_invoice_type",
+    "szamlahegy_wc_server_url",
+    "szamlahegy_wc_generate_auto"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_szamlahegy_wc_response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:30.059Z"
+}

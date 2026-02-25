@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "editableRecipe_fn",
+    "editableRecipe_photo",
+    "editableRecipe_ingredient",
+    "editableRecipe_instructions",
+    "editableRecipe_yeild",
+    "editableRecipe_source",
+    "editableRecipe_source_url",
+    "editableRecipe_duration_h",
+    "editableRecipe_duration_m",
+    "editableRecipe_summary"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:38.543Z"
+}

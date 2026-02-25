@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_apikey",
+    "integrity-checker_apikey",
+    "integrity-checker_siteid",
+    "*_cron",
+    "*_dbversion",
+    "*_version",
+    "wp_checksum_apikey",
+    "wp_checksum_siteid",
+    "*_siteid",
+    "integrity_checker_scheduledrun"
+  ],
+  "transients": [
+    "update_plugins",
+    "integrity-checker_accesslevel",
+    "*_accesslevel",
+    "tt_teststate_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:48.137Z"
+}

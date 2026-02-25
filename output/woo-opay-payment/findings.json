@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wc_ecpayinvoice_active_model",
+    "*_settings",
+    "woocommerce_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_payment_tag",
+    "payment_method",
+    "BankCode",
+    "vAccount",
+    "ExpireDate",
+    "PaymentNo",
+    "card4no",
+    "_total_success_times"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:31.736Z"
+}

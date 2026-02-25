@@ -1,0 +1,16 @@
+{
+  "options": [
+    "madquick_ppg_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_madquick_ppg_page",
+    "_madquick_ppg_page_type",
+    "_madquick_ppg_created_date",
+    "_madquick_ppg_form_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:21.632Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "isp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "realhomes_stripe_session_id",
+    "isp_transaction",
+    "txn_id",
+    "payment_date",
+    "payment_status",
+    "payment_gross",
+    "payer_email",
+    "mc_currency"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:18.828Z"
+}

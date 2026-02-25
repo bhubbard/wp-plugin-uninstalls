@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tcsb_enable_protection",
+    "tcsb_enable_logging",
+    "tcsb_notification_email",
+    "tcsb_time_threshold",
+    "tcsb_badwords_list",
+    "tcsb_enable_japanese_skip",
+    "tcsb_log_filename"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:51.832Z"
+}

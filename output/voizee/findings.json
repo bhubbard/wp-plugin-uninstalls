@@ -1,0 +1,19 @@
+{
+  "options": [
+    "voizee_api_key",
+    "voizee_widget_script",
+    "voizee_api_dashboard_enabled",
+    "voizee_api_cf7_enabled",
+    "voizee_api_gf_enabled",
+    "voizee_api_cf7_logs",
+    "voizee_api_gf_logs"
+  ],
+  "transients": [
+    "voizee_stats_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:00.165Z"
+}

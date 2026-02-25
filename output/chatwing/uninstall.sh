@@ -1,0 +1,11 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'chatwing_default_%'"
+wp option delete 'chatwing_default_keysecret'
+wp option delete 'chatwing_default_app_id'
+wp option delete 'chatwing_access_token'
+wp option delete 'chatwing_default_width'
+wp option delete 'chatwing_default_height'
+

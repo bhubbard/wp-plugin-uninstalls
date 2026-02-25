@@ -1,0 +1,25 @@
+{
+  "options": [
+    "whippet_options",
+    "sgal_tracking_id",
+    "sgal_adjusted_bounce_rate",
+    "sgal_script_position",
+    "sgal_enqueue_order",
+    "sgal_anonymize_ip",
+    "sgal_track_admin",
+    "caos_remove_wp_cron",
+    "caos_disable_display_features",
+    "whippet_Issue_1",
+    "whippet_Issue_2",
+    "Activated_Plugin",
+    "whippet_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_local_ga"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:44.089Z"
+}

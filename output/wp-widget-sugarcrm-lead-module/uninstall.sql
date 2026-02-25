@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('OEPL_Form_Custom_CSS', 'OEPL_Captcha_status', 'OEPL_Select_Captcha', 'OEPL_RECAPTCHA_SITE_KEY', 'OEPL_is_SugarCRM_htaccess_Protected', 'OEPL_SugarCRM_htaccess_Username', 'OEPL_SugarCRM_htaccess_Password', 'OEPL_SugarCRMSuccessMessage', 'OEPL_SugarCRMFailureMessage', 'OEPL_SugarCRMReqFieldsMessage', 'OEPL_SugarCRMInvalidCaptchaMessage', 'OEPL_auto_IP_addr_status', 'OEPL_Email_Notification', 'OEPL_Email_Notification_Receiver', 'OEPL_User_Redirect_Status', 'OEPL_User_Redirect_To', 'OEPL_SUGARCRM_URL', 'OEPL_SUGARCRM_ADMIN_USER', 'OEPL_SUGARCRM_ADMIN_PASS', 'OEPL_RECAPTCHA_SECRET_KEY', 'OEPL_PLUGIN_VERSION', 'wp2sl_captcha');
+

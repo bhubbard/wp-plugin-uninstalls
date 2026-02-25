@@ -1,0 +1,21 @@
+{
+  "options": [
+    "brtg_post_type",
+    "brtg_bot_token",
+    "brtg_telegram_channels",
+    "brtg_msg_web_preview",
+    "brtg_msg_tpl",
+    "brtg_auto_send",
+    "brtg_delete_options",
+    "brtg_author",
+    "auto_send"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_brtg_targetSent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:09.091Z"
+}

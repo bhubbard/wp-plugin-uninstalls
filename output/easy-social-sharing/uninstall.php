@@ -1,0 +1,190 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('easy_social_sharing_handheld_enable');
+delete_site_option('easy_social_sharing_handheld_enable');
+delete_option('easy_social_sharing_meta_box_errors');
+delete_site_option('easy_social_sharing_meta_box_errors');
+delete_option('easy_social_sharing_admin_notices');
+delete_site_option('easy_social_sharing_admin_notices');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'easy_social_sharing_admin_notice_%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('easy_social_sharing_db_version');
+delete_site_option('easy_social_sharing_db_version');
+delete_option('easy_social_sharing_facebook_client_id');
+delete_site_option('easy_social_sharing_facebook_client_id');
+delete_option('easy_social_sharing_facebook_client_secret');
+delete_site_option('easy_social_sharing_facebook_client_secret');
+delete_option('easy_social_sharing_facebook_access_token');
+delete_site_option('easy_social_sharing_facebook_access_token');
+delete_option('easy_social_sharing_admin_footer_text_rated');
+delete_site_option('easy_social_sharing_admin_footer_text_rated');
+delete_option('easy_social_sharing_custom_colors_enabled');
+delete_site_option('easy_social_sharing_custom_colors_enabled');
+delete_option('easy_social_sharing_background_color');
+delete_site_option('easy_social_sharing_background_color');
+delete_option('easy_social_sharing_hover_background_color');
+delete_site_option('easy_social_sharing_hover_background_color');
+delete_option('easy_social_sharing_version');
+delete_site_option('easy_social_sharing_version');
+delete_option('easy_social_sharing_allowed_locations');
+delete_site_option('easy_social_sharing_allowed_locations');
+delete_option('easy_social_sharing_reset_postdata');
+delete_site_option('easy_social_sharing_reset_postdata');
+delete_option('easy_social_sharing_front_page_enable');
+delete_site_option('easy_social_sharing_front_page_enable');
+delete_option('easy_social_sharing_inline_icons_location');
+delete_site_option('easy_social_sharing_inline_icons_location');
+delete_option('easy_social_sharing_inline_enable_all_networks');
+delete_site_option('easy_social_sharing_inline_enable_all_networks');
+delete_option('easy_social_sharing_sidebar_enable_all_networks');
+delete_site_option('easy_social_sharing_sidebar_enable_all_networks');
+delete_option('easy_social_sharing_api_support_networks_only');
+delete_site_option('easy_social_sharing_api_support_networks_only');
+delete_option('ess-data-migrated');
+delete_site_option('ess-data-migrated');
+delete_option('easy_social_sharing_allowed_screens');
+delete_site_option('easy_social_sharing_allowed_screens');
+delete_option('easy_social_sharing_all_except_screens');
+delete_site_option('easy_social_sharing_all_except_screens');
+delete_option('easy_social_sharing_specific_allowed_screens');
+delete_site_option('easy_social_sharing_specific_allowed_screens');
+delete_option('ess-social-network-cache-date');
+delete_site_option('ess-social-network-cache-date');
+delete_option('easy_social_sharing_twitter_username');
+delete_site_option('easy_social_sharing_twitter_username');
+delete_option('easy_social_sharing_allowed_networks');
+delete_site_option('easy_social_sharing_allowed_networks');
+delete_option('easy_social_sharing_handheld_disable');
+delete_site_option('easy_social_sharing_handheld_disable');
+delete_option('easy_social_sharing_minimum_share_count');
+delete_site_option('easy_social_sharing_minimum_share_count');
+delete_option('easy_social_sharing_sidebar_icons_spacing');
+delete_site_option('easy_social_sharing_sidebar_icons_spacing');
+delete_option('easy_social_sharing_flyin_enable_share_counts');
+delete_site_option('easy_social_sharing_flyin_enable_share_counts');
+delete_option('easy_social_sharing_flyin_icon_shape');
+delete_site_option('easy_social_sharing_flyin_icon_shape');
+delete_option('easy_social_sharing_flyin_icons_location');
+delete_site_option('easy_social_sharing_flyin_icons_location');
+delete_option('easy_social_sharing_flyin_enable_all_networks');
+delete_site_option('easy_social_sharing_flyin_enable_all_networks');
+delete_option('easy_social_sharing_flyin_enable_networks_label');
+delete_site_option('easy_social_sharing_flyin_enable_networks_label');
+delete_option('easy_social_sharing_flyin_trigger_purchase');
+delete_site_option('easy_social_sharing_flyin_trigger_purchase');
+delete_option('easy_social_sharing_flyin_trigger_comment');
+delete_site_option('easy_social_sharing_flyin_trigger_comment');
+delete_option('easy_social_sharing_flyin_trigger_bottom');
+delete_site_option('easy_social_sharing_flyin_trigger_bottom');
+delete_option('easy_social_sharing_flyin_enable_delay');
+delete_site_option('easy_social_sharing_flyin_enable_delay');
+delete_option('easy_social_sharing_flyin_delay_duration');
+delete_site_option('easy_social_sharing_flyin_delay_duration');
+delete_option('easy_social_sharing_flyin_enable_idle');
+delete_site_option('easy_social_sharing_flyin_enable_idle');
+delete_option('easy_social_sharing_flyin_idle_timeout');
+delete_site_option('easy_social_sharing_flyin_idle_timeout');
+delete_option('easy_social_sharing_flyin_enable_scroll');
+delete_site_option('easy_social_sharing_flyin_enable_scroll');
+delete_option('easy_social_sharing_flyin_scroll_position');
+delete_site_option('easy_social_sharing_flyin_scroll_position');
+delete_option('easy_social_sharing_flyin_enable_cookie');
+delete_site_option('easy_social_sharing_flyin_enable_cookie');
+delete_option('easy_social_sharing_flyin_cookie_duration');
+delete_site_option('easy_social_sharing_flyin_cookie_duration');
+delete_option('easy_social_sharing_flyin_title');
+delete_site_option('easy_social_sharing_flyin_title');
+delete_option('easy_social_sharing_flyin_message');
+delete_site_option('easy_social_sharing_flyin_message');
+delete_option('easy_social_sharing_flyin_enable_total_shares');
+delete_site_option('easy_social_sharing_flyin_enable_total_shares');
+delete_option('easy_social_sharing_inline_enable_share_counts');
+delete_site_option('easy_social_sharing_inline_enable_share_counts');
+delete_option('easy_social_sharing_inline_icon_shape');
+delete_site_option('easy_social_sharing_inline_icon_shape');
+delete_option('easy_social_sharing_inline_layouts');
+delete_site_option('easy_social_sharing_inline_layouts');
+delete_option('easy_social_sharing_inline_enable_networks_label');
+delete_site_option('easy_social_sharing_inline_enable_networks_label');
+delete_option('easy_social_sharing_inline_enable_total_shares');
+delete_site_option('easy_social_sharing_inline_enable_total_shares');
+delete_option('easy_social_sharing_popup_enable_share_counts');
+delete_site_option('easy_social_sharing_popup_enable_share_counts');
+delete_option('easy_social_sharing_popup_layout');
+delete_site_option('easy_social_sharing_popup_layout');
+delete_option('easy_social_sharing_popup_enable_all_networks');
+delete_site_option('easy_social_sharing_popup_enable_all_networks');
+delete_option('easy_social_sharing_popup_enable_networks_label');
+delete_site_option('easy_social_sharing_popup_enable_networks_label');
+delete_option('easy_social_sharing_popup_trigger_purchase');
+delete_site_option('easy_social_sharing_popup_trigger_purchase');
+delete_option('easy_social_sharing_popup_trigger_comment');
+delete_site_option('easy_social_sharing_popup_trigger_comment');
+delete_option('easy_social_sharing_popup_trigger_bottom');
+delete_site_option('easy_social_sharing_popup_trigger_bottom');
+delete_option('easy_social_sharing_popup_enable_delay');
+delete_site_option('easy_social_sharing_popup_enable_delay');
+delete_option('easy_social_sharing_popup_delay_duration');
+delete_site_option('easy_social_sharing_popup_delay_duration');
+delete_option('easy_social_sharing_popup_enable_idle');
+delete_site_option('easy_social_sharing_popup_enable_idle');
+delete_option('easy_social_sharing_popup_idle_timeout');
+delete_site_option('easy_social_sharing_popup_idle_timeout');
+delete_option('easy_social_sharing_popup_enable_scroll');
+delete_site_option('easy_social_sharing_popup_enable_scroll');
+delete_option('easy_social_sharing_popup_scroll_position');
+delete_site_option('easy_social_sharing_popup_scroll_position');
+delete_option('easy_social_sharing_popup_enable_cookie');
+delete_site_option('easy_social_sharing_popup_enable_cookie');
+delete_option('easy_social_sharing_popup_cookie_duration');
+delete_site_option('easy_social_sharing_popup_cookie_duration');
+delete_option('easy_social_sharing_popup_title');
+delete_site_option('easy_social_sharing_popup_title');
+delete_option('easy_social_sharing_popup_message');
+delete_site_option('easy_social_sharing_popup_message');
+delete_option('easy_social_sharing_popup_enable_total_shares');
+delete_site_option('easy_social_sharing_popup_enable_total_shares');
+delete_option('easy_social_sharing_sidebar_enable_share_counts');
+delete_site_option('easy_social_sharing_sidebar_enable_share_counts');
+delete_option('easy_social_sharing_sidebar_icon_shape');
+delete_site_option('easy_social_sharing_sidebar_icon_shape');
+delete_option('easy_social_sharing_sidebar_enable_total_shares');
+delete_site_option('easy_social_sharing_sidebar_enable_total_shares');
+delete_option('easy_social_sharing_sidebar_layout_orientation');
+delete_site_option('easy_social_sharing_sidebar_layout_orientation');
+
+// Delete Transients
+delete_transient('ess_installing');
+delete_site_transient('ess_installing');
+delete_transient('_ess_activation_redirect');
+delete_site_transient('_ess_activation_redirect');
+global $wpdb;
+$transients = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s OR option_name LIKE %s", '_transient_%_process_lock', '_site_transient_%_process_lock' ) );
+foreach ( $transients as $transient ) {
+	delete_option( $transient );
+}
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('easy_social_sharing_flush_rewrite_rules');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'disable_ess' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'disable_ess' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'disable_ess' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'disable_ess' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ess_location_disabled' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ess_location_disabled' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ess_location_disabled' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ess_location_disabled' ) );
+

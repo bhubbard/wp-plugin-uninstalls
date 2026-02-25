@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_ame-digital_settings",
+    "welcome_learn_more"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pqad_ame_delete_qrcode"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wad_api_order_status",
+    "_wad_captured_order_uuid",
+    "_wad_captured_order_nsu",
+    "_wad_api_order_id",
+    "_ame_digital_response",
+    "_wad_api_order_cashbackamount",
+    "_shipping_number",
+    "_shipping_neighborhood",
+    "_billing_number",
+    "_billing_neighborhood"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:54.923Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wctofb_api",
+    "wctofb_apikey_success",
+    "wctofb_runonce",
+    "wctofb_pg_version",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "wctofb_api_success"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wctofbcronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:57.275Z"
+}

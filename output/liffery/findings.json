@@ -1,0 +1,12 @@
+{
+  "options": [
+    "liffery_option_domain_validated",
+    "liffery_option_domain_validated_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:38.007Z"
+}

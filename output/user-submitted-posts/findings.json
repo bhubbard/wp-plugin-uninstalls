@@ -1,0 +1,21 @@
+{
+  "options": [
+    "usp_options",
+    "user-submitted-posts-dismiss-notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_submit_name",
+    "user_submit_url",
+    "user_submit_email",
+    "is_submission",
+    "user_submit_image",
+    "user_submit_ip",
+    "usp-post-id",
+    "usp-post-time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:38.661Z"
+}

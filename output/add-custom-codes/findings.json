@@ -1,0 +1,26 @@
+{
+  "options": [
+    "custom-css-codes-input",
+    "custom-footer-codes-input",
+    "custom-header-codes-input",
+    "accodes_global_css_on_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "accodes_hide_header",
+    "_accodes_header_metabox",
+    "accodes_hide_footer",
+    "_accodes_footer_metabox",
+    "_accodes_code",
+    "_accodes_snippet_language",
+    "_accodes_snippet_location",
+    "_accodes_snippet_active",
+    "_accodes_snippet_notes",
+    "_accodes_snippet_tags",
+    "_accodes_snippet_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:07.975Z"
+}

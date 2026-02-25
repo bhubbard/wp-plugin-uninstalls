@@ -1,0 +1,24 @@
+{
+  "options": [
+    "pgc_fullcalendar_theme",
+    "pgc_selected_calendar_ids",
+    "pgc_fullcalendar_version",
+    "pgc_cache_time",
+    "pgc_access_token",
+    "pgc_api_key",
+    "pgc_show_private_events",
+    "pgc_private_events_title",
+    "pgc_public_calendarlist",
+    "pgc_refresh_token",
+    "pgc_calendarlist",
+    "pgc_colorlist",
+    "pgc_client_secret",
+    "pgc_notices_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:19.006Z"
+}

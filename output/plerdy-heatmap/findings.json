@@ -1,0 +1,13 @@
+{
+  "options": [
+    "plerdy_tracking_script",
+    "plerdy_abtracking_script",
+    "checkbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:19.065Z"
+}

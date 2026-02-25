@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_bluemedia_settings",
+    "bm_payment_methods_order",
+    "woocommerce_bluemedia_payment_gateway_settings",
+    "woocommerce_hold_stock_minutes",
+    "autopay_order_remote_status_path",
+    "bluemedia_activated",
+    "woocommerce_gateway_order"
+  ],
+  "transients": [
+    "autopay_request_*",
+    "autopay_debug_enabled",
+    "autopay_audit_*"
+  ],
+  "cron_jobs": [
+    "bm_cancel_failed_pending_order_after_one_hour"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "autopay_test_product",
+    "bm_order_payment_params",
+    "bm_order_itn_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:40.999Z"
+}

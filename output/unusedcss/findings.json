@@ -1,0 +1,29 @@
+{
+  "options": [
+    "rapidload_license_data",
+    "rapidload_settings",
+    "rapidload_do_activation_redirect",
+    "rapidload_onboard_skipped",
+    "active_sitewide_plugins",
+    "rapidload_titan_gear",
+    "rapidload_privacy_policy_accepted",
+    "rapidload_cache",
+    "optml_settings"
+  ],
+  "transients": [
+    "rapidload_cache_disk_updated",
+    "rapidload_page_cache_size"
+  ],
+  "cron_jobs": [
+    "cron_uucss_process_queue",
+    "uucss_run_gpsi_test_for_all"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_uucss_*",
+    "_clear_post_cache_on_update",
+    "rapidload_js_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:36.410Z"
+}

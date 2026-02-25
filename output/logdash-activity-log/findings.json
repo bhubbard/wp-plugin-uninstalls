@@ -1,0 +1,19 @@
+{
+  "options": [
+    "logdash_deleted_events",
+    "logdash_options",
+    "classic-editor-replace",
+    "classic-editor-allow-users"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_expired_log"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sfwd-quizzes",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:41.238Z"
+}

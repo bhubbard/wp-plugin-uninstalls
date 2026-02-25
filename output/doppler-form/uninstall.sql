@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('dplr_settings', 'dplr_2_0_updated', 'dplr_hub_script', 'dplr_tracking_enabled', 'dplr_wc_consent', 'dplr_wc_consent_location', 'dplr_wc_consent_text', 'dplr_wc_open_graph_meta', 'dplrwoo_api_connected', 'dplr_subscribers_list', 'dplr_learnpress_subscribers_list', 'dplrwoo_last_synch', 'dplr_version', 'sidebars_widgets', 'widget_dplr_subscription_widget', 'widget_dplr_form_widget');
+

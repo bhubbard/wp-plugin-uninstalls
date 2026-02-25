@@ -1,0 +1,21 @@
+{
+  "options": [
+    "shopanalytics_enable_logging",
+    "shopanalytics_enable_pro_previews",
+    "shopanalytics_light_charts",
+    "shopanalytics_log_retention_days",
+    "shopanalytics_lite_do_activation_redirect",
+    "shopanalytics_lite_settings",
+    "shopanalytics_lite_network_option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shopanalytics_custom_daily_log_cleanup_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_country"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:28.055Z"
+}

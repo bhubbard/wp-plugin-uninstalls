@@ -1,0 +1,23 @@
+{
+  "options": [
+    "buying_buddy_settings",
+    "buying_buddy_activation_redirect",
+    "buying_buddy_foundation_pages",
+    "buyingbuddy_version",
+    "buyingbuddy_options",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "buying_buddy_update_check",
+    "update_plugins",
+    "buying_buddy_property_cache",
+    "buying_buddy_repository_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:38.526Z"
+}

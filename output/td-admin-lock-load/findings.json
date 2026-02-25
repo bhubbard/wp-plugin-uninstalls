@@ -1,0 +1,14 @@
+{
+  "options": [
+    "td_al_db_version",
+    "td_al_access_code",
+    "td_al_lock_active",
+    "td_al_divertto"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:02.869Z"
+}

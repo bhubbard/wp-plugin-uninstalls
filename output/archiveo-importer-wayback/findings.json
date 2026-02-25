@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [
+    "archiveo_session_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_archiveo_imported",
+    "_archiveo_original_url",
+    "_archiveo_wayback_timestamp",
+    "_archiveo_created",
+    "_wbp_created"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:03.476Z"
+}

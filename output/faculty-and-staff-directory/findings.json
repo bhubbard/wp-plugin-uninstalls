@@ -1,0 +1,25 @@
+{
+  "options": [
+    "fsdirectory_sortstyle",
+    "fsdirectory_displaystyle",
+    "fsdirectory_hidethumbnail",
+    "fsdirectory_stylethumbnail",
+    "fssettings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "facstaffphone",
+    "facstaffemail",
+    "facstaffwebsite",
+    "facstafftwitter",
+    "facstafflinkedin",
+    "facstafftitle",
+    "facstaffofficelocation",
+    "facstaffnotes",
+    "facstaffcompany"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:08.609Z"
+}

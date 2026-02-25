@@ -1,0 +1,14 @@
+{
+  "options": [
+    "qni_content_index_expiration_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qni_content_index_timestamp",
+    "qni_content_index"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:54.528Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fm_tools_active"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fm_tools_active_check_cron",
+    "fm_tools_active_check_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fm_tools_active_campaign"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:51.201Z"
+}

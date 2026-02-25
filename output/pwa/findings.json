@@ -1,0 +1,14 @@
+{
+  "options": [
+    "offline_browsing",
+    "site_icon_maskable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:32.787Z"
+}

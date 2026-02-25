@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cfef_usage_share_data', 'cfkef_enabled_elements', 'cfkef_toggle_all', 'cfkef_enable_elementor_pro_form', 'cfkef_enable_hello_plus', 'cfkef_enable_formkit_builder', 'cfl_plugin_initialized', 'CFL_initial_save_version', 'cfl-install-date', 'cfef_formdb_marketing_dismissed', 'cfl_review_notice_dismiss', 'cfkef-defaultPlugin', 'cpfm_opt_in_choice_cool_forms', 'cfl_site_key_v2', 'cfl_secret_key_v2', 'cfl_site_key_v3', 'cfl_secret_key_v3', 'cfl_threshold_v3', 'cfefp_redirect_conditionally', 'cfefp_email_conditionally', 'cfefp_mailchimp_conditionally', 'cfefp_getresponse_conditionally', 'cfefp_webhook_conditionally', 'cfefp_whatsapp_conditionally', 'cfkef_geo_provider', 'cfkef_country_code_api_key', 'cfkef_country_code_non_ipapi_api_key', 'cfefp_cdn_image', 'cfefp_cloudflare_site_key', 'cfefp_cloudflare_secret_key', 'cfefp_h_site_key', 'cfefp_h_secret_key', 'eef-v', 'eef-type', 'eef-installDate', 'ccfef_review_notice_dismiss', 'cfkef_elementor_notice_dismiss');
+DELETE FROM wp_options WHERE option_name LIKE '%-install-by';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_cfkef_form_data', '_cfkef_form_meta', '_cfkef_form_entry_id', '_cfkef_form_name', '_cfkef_element_id', '_cfkef_user_email', '_cfkef_form_post_id', '_cfkef_form_action_count', '_cfkef_entry_view_status');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_cfkef_form_data', '_cfkef_form_meta', '_cfkef_form_entry_id', '_cfkef_form_name', '_cfkef_element_id', '_cfkef_user_email', '_cfkef_form_post_id', '_cfkef_form_action_count', '_cfkef_entry_view_status');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_cfkef_form_data', '_cfkef_form_meta', '_cfkef_form_entry_id', '_cfkef_form_name', '_cfkef_element_id', '_cfkef_user_email', '_cfkef_form_post_id', '_cfkef_form_action_count', '_cfkef_entry_view_status');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_cfkef_form_data', '_cfkef_form_meta', '_cfkef_form_entry_id', '_cfkef_form_name', '_cfkef_element_id', '_cfkef_user_email', '_cfkef_form_post_id', '_cfkef_form_action_count', '_cfkef_entry_view_status');
+

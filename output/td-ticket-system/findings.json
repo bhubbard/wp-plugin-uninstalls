@@ -1,0 +1,18 @@
+{
+  "options": [
+    "td_tts_db_version",
+    "td_tts_menuPos",
+    "td_tts_styles",
+    "td_tts_notification",
+    "td_tts_responsenote",
+    "td_tts_contactForm",
+    "td_tts_loginForm",
+    "td_tts_successPage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:03.799Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "Waymark_Settings",
+    "waymark_activation_redirect",
+    "Waymark_Settings_Backup",
+    "Waymark_Version",
+    "Waymark_Settings_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:52.458Z"
+}

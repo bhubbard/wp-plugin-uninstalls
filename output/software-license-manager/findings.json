@@ -1,0 +1,14 @@
+{
+  "options": [
+    "slm_plugin_options",
+    "wp_lic_mgr_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "slm_daily_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:16.751Z"
+}

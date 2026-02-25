@@ -1,0 +1,14 @@
+{
+  "options": [
+    "widget_*",
+    "sidebars_widgets",
+    "CR_SCHEMA_VERSION",
+    "cleverreach_newsletter_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:17.241Z"
+}

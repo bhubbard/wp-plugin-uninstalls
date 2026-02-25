@@ -1,0 +1,26 @@
+{
+  "options": [
+    "default_post_edit_rows",
+    "vforce_helper",
+    "zendash_widget1",
+    "zendash_widget2",
+    "zendash_widget3",
+    "zendash_widget4",
+    "zendash_widget5",
+    "zendash_widget6",
+    "zendash_widget7",
+    "zendash_widget8"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "association_id_override",
+    "show_form_assembly_settings",
+    "form_assembly_form_id",
+    "form_assembly_hidden_input_id",
+    "vforce_formassembly_review_header"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:19.539Z"
+}

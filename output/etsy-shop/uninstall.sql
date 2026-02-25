@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('etsy_shop_version', 'etsy_shop_timeout', 'etsy_shop_cache_life', 'etsy_shop_debug_mode', 'etsy_shop_target_blank', 'etsy_shop_api_key', 'etsy_shop_quickstart_shop_id');
+

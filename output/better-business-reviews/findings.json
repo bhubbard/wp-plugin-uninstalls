@@ -1,0 +1,22 @@
+{
+  "options": [
+    "brtpmj_url",
+    "brtpmj_bu_displayname",
+    "brtpmj_bu_identifyingname",
+    "brtpmj_bu_numberofreviews",
+    "brtpmj_bu_score",
+    "brtpmj_bu_profileimageurl",
+    "brtpmj_bu_stars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "reviewDate",
+    "cName",
+    "cimage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:06.732Z"
+}

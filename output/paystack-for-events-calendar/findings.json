@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tec_tickets_commerce_paystack_account"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "paystack_split_type",
+    "paystack_sub_account",
+    "paystack_split_transaction"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:39.886Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "genesis-landing-page-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_glps_lp_settings_mobile",
+    "_glps_lp_settings_regular"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:57.682Z"
+}

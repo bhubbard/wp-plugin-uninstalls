@@ -1,0 +1,15 @@
+{
+  "options": [
+    "et_pb_builder_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gdpr_cache_worker",
+    "gdpr_cache_scan_front",
+    "gdpr_cache_check_staleness"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:43.331Z"
+}

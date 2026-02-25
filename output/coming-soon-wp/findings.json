@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dazz_cs_contact",
+    "dazz_cs_dashboard",
+    "dazz_cs_design",
+    "dazz_cs_seo",
+    "dazz_cs_social"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:26.844Z"
+}

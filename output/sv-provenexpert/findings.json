@@ -1,0 +1,24 @@
+{
+  "options": [
+    "sv_proven_expert",
+    "widget_sv_provenexpert_widget",
+    "widget_block",
+    "sv_provenexpert_modules_settings_api_id",
+    "sv_provenexpert_modules_settings_api_key",
+    "sv_provenexpert_version",
+    "widget_sv_provenexpert_modules_widget",
+    "sv_provenexpert_modules_common_settings_settings_api_id",
+    "sv_provenexpert_modules_common_settings_settings_api_key"
+  ],
+  "transients": [
+    "sv_provenexpert"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sv_core_expert_mode",
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:56.170Z"
+}

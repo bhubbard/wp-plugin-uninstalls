@@ -1,0 +1,14 @@
+{
+  "options": [
+    "count_cwp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_counts",
+    "total_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:30.796Z"
+}

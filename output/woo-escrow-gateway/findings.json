@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pv_custom_commission_rate",
+    "dokan_admin_percentage",
+    "dokan_admin_additional_fee",
+    "_wcfmmp_commission_type",
+    "_wcfmmp_commission",
+    "_wcv_commission_type",
+    "_wcv_commission_amount",
+    "_wcv_commission_fee",
+    "_wcv_commission_percent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:27.080Z"
+}

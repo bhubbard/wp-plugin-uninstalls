@@ -1,0 +1,21 @@
+{
+  "options": [
+    "enable_attribution_box",
+    "license",
+    "site_name",
+    "my_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "license_url",
+    "attribution_name",
+    "attribution_url",
+    "source_work_url",
+    "extra_permissions_url",
+    "_license"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:13.474Z"
+}

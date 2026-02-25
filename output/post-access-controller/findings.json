@@ -1,0 +1,26 @@
+{
+  "options": [
+    "access_denied_message",
+    "post_types",
+    "meta_box_location",
+    "meta_box_priority",
+    "enable_post_visibility"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "postaccesscontroller_noacs_msg_type",
+    "postaccesscontroller_noacs_custom_msg",
+    "postaccesscontroller_group_user",
+    "postaccesscontroller_public_ind",
+    "postaccesscontroller_ctrl_type",
+    "postaccesscontroller_meta_user",
+    "postaccesscontroller_meta_group",
+    "postaccesscontroller_meta_role",
+    "postaccesscontroller_meta_*",
+    "postaccesscontroller_admin_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:27.650Z"
+}

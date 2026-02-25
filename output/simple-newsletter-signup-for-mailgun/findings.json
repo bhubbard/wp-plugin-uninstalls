@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simpnesi_mailgun_api_key",
+    "simpnesi_mailgun_domain",
+    "simpnesi_mailing_list",
+    "simpnesi_recaptcha_site_key",
+    "simpnesi_recaptcha_secret_key",
+    "simpnesi_recaptcha_threshold"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:27.144Z"
+}

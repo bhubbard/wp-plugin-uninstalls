@@ -1,0 +1,23 @@
+{
+  "options": [
+    "maid_title",
+    "maid_subtitle",
+    "maid_button_text",
+    "max_bedrooms",
+    "max_bathrooms",
+    "base_price",
+    "price_per_bathroom",
+    "price_per_bedroom",
+    "supervisor_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "customer_email",
+    "meta_b",
+    "meta_c"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:26.599Z"
+}

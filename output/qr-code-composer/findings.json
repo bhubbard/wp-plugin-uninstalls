@@ -1,0 +1,18 @@
+{
+  "options": [
+    "qrc_composer_settings",
+    "qrc_composer_do_activation_edirect",
+    "qrc_autogenerate",
+    "qrc_admin_integrate",
+    "qrc_custom_link_generator",
+    "qrc_vcard_generator"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qrc_metabox"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:41.801Z"
+}

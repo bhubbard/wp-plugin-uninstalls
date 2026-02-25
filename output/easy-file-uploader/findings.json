@@ -1,0 +1,16 @@
+{
+  "options": [
+    "easy_dragdrop_button_label",
+    "easy_dragdrop_file_types_allowed",
+    "easy_dragdrop_max_file_size",
+    "easy_dragdrop_file_type_error",
+    "easy_dragdrop_file_size_error",
+    "easy_dragdrop_max_files"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:56.921Z"
+}

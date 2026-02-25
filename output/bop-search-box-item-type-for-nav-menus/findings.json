@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bop_nav_search_box_item_recd_vers_warn",
+    "bop_nav_search_box_item_version",
+    "bop_nav_search_box_item_recommended_versions_warn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:03.547Z"
+}

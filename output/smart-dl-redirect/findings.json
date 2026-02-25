@@ -1,0 +1,13 @@
+{
+  "options": [
+    "smartdlre_timer_seconds",
+    "smartdlre_ad_code",
+    "smartdlre_redirect_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:33.576Z"
+}

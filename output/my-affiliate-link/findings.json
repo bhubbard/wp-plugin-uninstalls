@@ -1,0 +1,20 @@
+{
+  "options": [
+    "my-affiliate-link-siteurl",
+    "my-affiliate-link-prefix",
+    "my-affiliate-link-cssclass",
+    "my-affiliate-link-onclick",
+    "my-affiliate-link-nofollow",
+    "my-affiliate-link-target",
+    "my-affiliate-link-trailingslash",
+    "my-affiliate-link-childsep",
+    "my-affiliate-link-amazontrackingid",
+    "my-affiliate-link-class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:30.744Z"
+}

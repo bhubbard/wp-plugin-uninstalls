@@ -1,0 +1,16 @@
+{
+  "options": [
+    "otterwp_buy_again_colors",
+    "otterwp_buy_again_flush_needed"
+  ],
+  "transients": [
+    "otterwp_buy_again_css_error",
+    "otterwp_buy_again_css_needs_update",
+    "otterwp_buy_again_categories_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:58.834Z"
+}

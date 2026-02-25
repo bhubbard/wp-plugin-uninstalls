@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpfla_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_anonymous_name",
+    "_bbp_anonymous_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:33.831Z"
+}

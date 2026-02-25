@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*activation",
+    "*userinfo_url",
+    "*login_url",
+    "*token_url",
+    "*self_service_onboarding",
+    "*disable_wp_form",
+    "*trusona_enabled",
+    "*client_id",
+    "*client_secret",
+    "*site_hash",
+    "trusona_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*subject_id",
+    "*enabled",
+    "*paired"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:19.398Z"
+}

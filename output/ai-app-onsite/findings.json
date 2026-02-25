@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ai_app_onsite_fresh_install",
+    "ai_app_onsite_encryption_key",
+    "ai_app_onsite_encryption_iv",
+    "ai_app_onsite_api_key",
+    "aiapp_server_base_url",
+    "ai_app_onsite_unique_id",
+    "ai_app_license_last_checked",
+    "aiapp_client_credentials",
+    "ai_app_onsite_accepted_tos_version",
+    "is_hackathon_user",
+    "domain_access_allowed"
+  ],
+  "transients": [
+    "ai_app_onsite_plugin_was_updated"
+  ],
+  "cron_jobs": [
+    "ai_app_onsite_check_license_cron",
+    "ai_app_onsite_user_stats_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:40.720Z"
+}

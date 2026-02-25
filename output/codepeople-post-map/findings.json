@@ -1,0 +1,16 @@
+{
+  "options": [
+    "installed_*",
+    "cpm_config",
+    "cpm_load_resources_in_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cpm_point",
+    "cpm_map"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:19.378Z"
+}

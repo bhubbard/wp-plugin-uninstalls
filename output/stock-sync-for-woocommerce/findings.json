@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woo_stock_sync_last_updated",
+    "wss_last_response",
+    "woo_stock_sync_log_retention",
+    "wss_last_sync",
+    "wss_db_version",
+    "woocommerce_manage_stock",
+    "woo_stock_sync_role",
+    "woo_stock_sync_process_model",
+    "woo_stock_sync_batch_size",
+    "woo_stock_sync_enabled",
+    "wp_flash_messages"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woo_stock_sync_log_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_woo_stock_sync_data",
+    "_wss_status_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:52.817Z"
+}

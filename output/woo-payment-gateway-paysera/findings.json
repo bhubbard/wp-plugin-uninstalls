@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_paysera_settings"
+  ],
+  "transients": [
+    "paysera_plugins_needs_deactivation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "paysera_new_delivery_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:28.574Z"
+}

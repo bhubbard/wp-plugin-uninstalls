@@ -1,0 +1,18 @@
+{
+  "options": [
+    "apwpultimate_ultimate_options",
+    "apwpultimate_ultimate_plugin_version"
+  ],
+  "transients": [
+    "apwpultimate_ultimate_install_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*artist_name",
+    "*audio_file",
+    "*duration"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:22.964Z"
+}

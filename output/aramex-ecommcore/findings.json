@@ -1,0 +1,34 @@
+{
+  "options": [
+    "aramex_post_login_redirect_url",
+    "arxec_enable_plugin_rate_calculator",
+    "arxec_enable_rate_calculator_on_checkout",
+    "arxec_enable_rate_calculator_on_product_detail",
+    "arxec_enable_rate_calculator_on_cart",
+    "aramex_unified_jwt_token",
+    "aramex_unified_identifier",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_postcode",
+    "woocommerce_store_phone"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aramex_last_update_api",
+    "_aramex_unified_synced",
+    "_aramex_awb",
+    "_stock",
+    "_stock_status",
+    "_sku",
+    "_aramex_shipment_created",
+    "_aramex_shipment_cancelled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:01.225Z"
+}

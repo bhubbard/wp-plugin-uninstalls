@@ -1,0 +1,20 @@
+{
+  "options": [
+    "integrator_url",
+    "integrator_apisecret",
+    "integrator_apiusername",
+    "integrator_apipassword",
+    "integrator_cnxnid",
+    "integrator_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_a",
+    "page",
+    "vars"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:44.728Z"
+}

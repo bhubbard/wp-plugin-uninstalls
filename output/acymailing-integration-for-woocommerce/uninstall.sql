@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_subscription_price', 'discount_type', 'coupon_amount', 'expiry_date', 'date_expires', 'usage_limit', 'usage_limit_per_user', 'limit_usage_to_x_items', 'usage_count', 'minimum_amount', 'maximum_amount', 'free_shipping', 'exclude_sale_items', 'product_ids', 'exclude_product_ids', 'product_categories', 'exclude_product_categories', 'individual_use', 'customer_email');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_subscription_price', 'discount_type', 'coupon_amount', 'expiry_date', 'date_expires', 'usage_limit', 'usage_limit_per_user', 'limit_usage_to_x_items', 'usage_count', 'minimum_amount', 'maximum_amount', 'free_shipping', 'exclude_sale_items', 'product_ids', 'exclude_product_ids', 'product_categories', 'exclude_product_categories', 'individual_use', 'customer_email');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_subscription_price', 'discount_type', 'coupon_amount', 'expiry_date', 'date_expires', 'usage_limit', 'usage_limit_per_user', 'limit_usage_to_x_items', 'usage_count', 'minimum_amount', 'maximum_amount', 'free_shipping', 'exclude_sale_items', 'product_ids', 'exclude_product_ids', 'product_categories', 'exclude_product_categories', 'individual_use', 'customer_email');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_subscription_price', 'discount_type', 'coupon_amount', 'expiry_date', 'date_expires', 'usage_limit', 'usage_limit_per_user', 'limit_usage_to_x_items', 'usage_count', 'minimum_amount', 'maximum_amount', 'free_shipping', 'exclude_sale_items', 'product_ids', 'exclude_product_ids', 'product_categories', 'exclude_product_categories', 'individual_use', 'customer_email');
+

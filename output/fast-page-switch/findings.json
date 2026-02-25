@@ -1,0 +1,13 @@
+{
+  "options": [
+    "fps_post_types",
+    "fps_post_statuses",
+    "fps_min_cap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:10.824Z"
+}

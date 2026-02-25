@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_tax_total_display",
+    "woocommerce_tax_display_shop",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_woocommerce_payments_settings",
+    "wpdesk_notice_dismiss_flexible-subscriptions-failed-payment-request-notice",
+    "active_sitewide_plugins",
+    "woocommerce_enable_order_comments"
+  ],
+  "transients": [
+    "fsub_payment_request_error_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fsb_subscription_one_time_shipping",
+    "_purchase_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:41.139Z"
+}

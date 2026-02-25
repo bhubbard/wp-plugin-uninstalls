@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hebdate_sunset",
+    "hebdate_lang",
+    "hebdate_hide_alafim",
+    "hebdate_format",
+    "hebdate_format_custom",
+    "latitude",
+    "longitude"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:02.634Z"
+}

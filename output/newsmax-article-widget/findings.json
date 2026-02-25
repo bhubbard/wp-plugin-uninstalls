@@ -1,0 +1,14 @@
+{
+  "options": [
+    "newsmax_nm_client_id",
+    "newsmax_nm_template",
+    "newsmax_nm_article_selector",
+    "newsmax_nm_cloudflare_async"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:29.772Z"
+}

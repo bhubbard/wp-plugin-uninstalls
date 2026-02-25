@@ -1,0 +1,46 @@
+{
+  "options": [
+    "vasp_superuser_id",
+    "vasp_options",
+    "vasp_events_table_dimensions",
+    "vasp_cron_timezone",
+    "vasp_canonical_dimensions",
+    "vasp_articles_imported",
+    "vasp_db_version",
+    "vasp_last_cron_run",
+    "vasp_last_cron_error",
+    "vasp_last_cron_error_message",
+    "vasp_cron_rescheduled_to_4am",
+    "valserv_cron_fix_notice_shown",
+    "valserv_clearance_fix_notice_shown",
+    "valserv_options"
+  ],
+  "transients": [
+    "sp_post_totals",
+    "vasp_daily_integrity_check",
+    "vasp_file_tampering_alert",
+    "vasp_last_save_time",
+    "vasp_cron_last_init",
+    "vasp_cron_running",
+    "vasp_manual_cron_running",
+    "vasp_ajax_cron_trigger",
+    "vasp_menu_cache"
+  ],
+  "cron_jobs": [
+    "vasp_daily_analytics_fetch",
+    "vasp_enforce_superuser_access"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_vasp_views",
+    "_vasp_sessions",
+    "vasp_cron_timezone",
+    "vasp_clearance_level",
+    "wp_capabilities",
+    "vasp_access",
+    "vasp_last_privilege_change",
+    "vasp_clearance_integrity"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:15.465Z"
+}

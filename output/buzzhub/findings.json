@@ -1,0 +1,14 @@
+{
+  "options": [
+    "buzzhub_display_settings",
+    "buzzhub_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "buzzhub_cleanup_temp_files"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:27.776Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "tsoh_post_types",
+    "tsoh_place_post_type",
+    "tsoh_place_post_type_public",
+    "tsoh_place_post_types",
+    "tsoh_google_api_key",
+    "tsoh_default_time",
+    "tsoh_default_days",
+    "tsoh_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tsoh_site_location",
+    "_tsoh_holiday_note",
+    "_tsoh_*",
+    "_tsoh_local_business_type",
+    "_tsoh_access"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:36.450Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tmpl_badge_activate_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "newbadge_title",
+    "newbadge_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:11.946Z"
+}

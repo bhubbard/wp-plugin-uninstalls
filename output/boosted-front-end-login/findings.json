@@ -1,0 +1,22 @@
+{
+  "options": [
+    "boosted_frontend_login_lost_password_page_id",
+    "boosted_frontend_login_registration_page_id"
+  ],
+  "transients": [
+    "boosted_frontend_login_login_error_*",
+    "boosted_frontend_login_lost_password_error_*",
+    "boosted_frontend_login_lost_password_message_*",
+    "boosted_frontend_login_registration_error_*",
+    "boosted_frontend_login_registration_message_*",
+    "boosted_frontend_login_verification_message_*",
+    "boosted_frontend_login_verification_error_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "email_verification_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:47.166Z"
+}

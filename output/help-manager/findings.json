@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*-document",
+    "*-custom-css",
+    "*-admin",
+    "*-permissions",
+    "*-advanced",
+    "help-manager-permissions",
+    "wphm_default_document",
+    "help-manager-advanced",
+    "help-manager-admin",
+    "help-manager-document",
+    "help-manager-custom-css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:31.782Z"
+}

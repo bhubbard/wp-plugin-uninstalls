@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wb_bsl_ver",
+    "bsl_version",
+    "wb_bsl_promote",
+    "wb_idx_data_updated",
+    "*ver",
+    "wb_bsl_check_all",
+    "wb_bsl_cnf_*",
+    "bsl_yandex_token",
+    "bsl_yandex_error",
+    "bsl_bing_updateCrawlStats",
+    "wb_bsl_db_ver",
+    "bsl_google_jwt_token"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "bsl_check_all_404_url",
+    "baidu_push_url_cron_action_v3",
+    "bsl_single_push_url",
+    "baidu_push_url_cron_action_v4"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wb_bsl_daily_push",
+    "url_in_baidu",
+    "url_in_baidu_ymd"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:23.889Z"
+}

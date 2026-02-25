@@ -1,0 +1,46 @@
+{
+  "options": [
+    "gravitecnet_option_app_key",
+    "pwaforwp_settings",
+    "OneSignalWPSetting",
+    "wisdom_deactivation_reason_*",
+    "wisdom_deactivation_details_*",
+    "wisdom_allow_tracking",
+    "wisdom_last_track_time",
+    "pwaforwp_wisdom_block_notice",
+    "wisdom_collect_email",
+    "wisdom_admin_emails",
+    "pwaforwp_review_never",
+    "pwaforwp_review_notice_bar_close_date",
+    "autoptimize_cdn_url",
+    "wph_settings",
+    "pwaforwp_visibility_settings",
+    "pwawppro_license_info",
+    "pwaforwp_update_pre_cache_list",
+    "pwaforwp_activation_date",
+    "pwa_token_list",
+    "pwaforwp_pre_cache_post_ids",
+    "pwaforwp_admin_notice_transient",
+    "_transient_pwaforwp_restapi_check",
+    "pwa_uninstall_data"
+  ],
+  "transients": [
+    "pwaforwp_pre_cache_post_ids",
+    "pwaforwp_restapi_check",
+    "pwaforwp_file_change_transient",
+    "pwaforwp_addon_zto7",
+    "pwaforwp_addons_expired",
+    "pwaforwp_addons_set_transient",
+    "plugin_slugs",
+    "pwaforwp_admin_notice_transient"
+  ],
+  "cron_jobs": [
+    "put_do_weekly_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:03.846Z"
+}

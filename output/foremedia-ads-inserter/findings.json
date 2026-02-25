@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fmai_token",
+    "fmai_settings_updated",
+    "fmai_show_ads_txt_updated_notice",
+    "fmai_ads_txt",
+    "fmai_exiting_ads_txt",
+    "fmai_analytics_enabled",
+    "fmai_analytics_code",
+    "fmai_push_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:55.644Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "swise_service_account_credential",
+    "swise_settings_*",
+    "swise_settings_integrations"
+  ],
+  "transients": [
+    "*_process_lock",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:14.804Z"
+}

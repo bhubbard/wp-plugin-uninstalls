@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wp_jv_ces_db_version",
+    "wp_jv_ces_set_email_from",
+    "wp_jv_ces_set_email_from_address",
+    "wp_jv_ces_set_notification_mode",
+    "wp_jv_ces_set_notification_about",
+    "wp_jv_ces_set_subject",
+    "wp_jv_ces_set_content"
+  ],
+  "transients": [
+    "auto_notification_result",
+    "auto_notification_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_jv_ces_user_notification",
+    "wp_jv_ces_notification_sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:29.876Z"
+}

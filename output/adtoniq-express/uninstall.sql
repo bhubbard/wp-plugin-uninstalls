@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('adtoniq-lastVersion', 'adtoniq-integration-url', 'adtoniq-api-key', 'adtoniq-fqdn', 'adtoniq-waisa-pageid', 'adtoniq-head-injection', 'adtoniq-lastUpdate', 'adtoniq-master-control', 'adtoniq-debug-js', 'adtoniq-as-enabled', 'adtoniq-debug-proxy-server', 'adtoniq-as-css-selector', 'adtoniq-debug-proxy-filter', 'adtoniq-as-publisher-id', 'adtoniq-as-max-ads', 'adtoniq-as-data-ad-layout', 'adtoniq-as-data-ad-format', 'adtoniq-as-data-ad-slot', 'adtoniq-as-code-snippet', 'adtoniq-as-saved', 'adtoniq-as-data-ad-client', 'adtoniq-msg-is-enabled', 'adtoniq-api-saved', 'adtoniq-is-private', 'adtoniq-ga-property-id', 'adtoniq-ga-traffic-split', 'adtoniq-ga-saved', 'adtoniq-msg-users', 'adtoniq-msg-message', 'adtoniq-msg-confirm', 'adtoniq-msg-reject', 'adtoniq-msg-confirm-btn', 'adtoniq-msg-reject-btn', 'adtoniq-msg-custom-btn-class', 'adtoniq-msg-select', 'adtoniq-msg-saved', 'adtoniq-protection-status', 'adtoniq-protection-url', 'adtoniq-protection-css', 'adtoniq-protection-saved');
+

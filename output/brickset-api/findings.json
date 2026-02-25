@@ -1,0 +1,17 @@
+{
+  "options": [
+    "brickset-api-settings",
+    "brickset_oembed_key"
+  ],
+  "transients": [
+    "bs_api_contributors",
+    "_bs_api_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "brickset_user_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:57.221Z"
+}

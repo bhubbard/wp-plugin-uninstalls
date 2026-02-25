@@ -1,0 +1,12 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wc_aow_processing_quantity"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:26.476Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_servientrega_shipping_settings",
+    "servientrega_validation_error",
+    "wf_dhl_shipping_validation_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shipping_servientrega_wc_ss_schedule",
+    "shipping_servientrega_wc_ss_schedule_delete_old_pdfs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_custom_price_product_smp",
+    "guide_servientrega",
+    "_billing_identificacion",
+    "_shipping_identificacion"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:42.435Z"
+}

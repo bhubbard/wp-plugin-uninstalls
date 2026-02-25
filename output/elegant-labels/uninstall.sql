@@ -1,0 +1,71 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('elegant_labels_review_dismissed', 'elegant_labels_review_completed', 'elegant_labels_activation_time', 'elegant_labels_main_settings', 'woocommerce_weight_unit', 'woocommerce_dimension_unit');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('elegant_labels_cs_typography', '_elegant_labels_conditions', 'elegant_labels_label_place_position', 'elegant_labels_label_text', 'elegant_labels_page_custom_layout', 'elegant_labels_background_color', 'elegant_labels_text_color', 'elegant_labels_label_position', '_initial_stock_quantity', '_view_count', 'post_views_count', '_wp_page_template');
+DELETE FROM wp_usermeta WHERE meta_key IN ('elegant_labels_cs_typography', '_elegant_labels_conditions', 'elegant_labels_label_place_position', 'elegant_labels_label_text', 'elegant_labels_page_custom_layout', 'elegant_labels_background_color', 'elegant_labels_text_color', 'elegant_labels_label_position', '_initial_stock_quantity', '_view_count', 'post_views_count', '_wp_page_template');
+DELETE FROM wp_termmeta WHERE meta_key IN ('elegant_labels_cs_typography', '_elegant_labels_conditions', 'elegant_labels_label_place_position', 'elegant_labels_label_text', 'elegant_labels_page_custom_layout', 'elegant_labels_background_color', 'elegant_labels_text_color', 'elegant_labels_label_position', '_initial_stock_quantity', '_view_count', 'post_views_count', '_wp_page_template');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('elegant_labels_cs_typography', '_elegant_labels_conditions', 'elegant_labels_label_place_position', 'elegant_labels_label_text', 'elegant_labels_page_custom_layout', 'elegant_labels_background_color', 'elegant_labels_text_color', 'elegant_labels_label_position', '_initial_stock_quantity', '_view_count', 'post_views_count', '_wp_page_template');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%label_type';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%label_type';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%label_type';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%label_type';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%label_text';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%label_text';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%label_text';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%label_text';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%page_custom_layout';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%page_custom_layout';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%page_custom_layout';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%page_custom_layout';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%label_place';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%label_place';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%label_place';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%label_place';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%label_position';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%label_position';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%label_position';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%label_position';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%background_color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%background_color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%background_color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%background_color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%text_color';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%text_color';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%text_color';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%text_color';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%cs_typography';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%cs_typography';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%cs_typography';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%cs_typography';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%image_label_type';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%image_label_type';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%image_label_type';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%image_label_type';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%pro_image_layout';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%pro_image_layout';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%pro_image_layout';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%pro_image_layout';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%custom_image';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%custom_image';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%custom_image';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%custom_image';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%custom_image_width';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%custom_image_width';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%custom_image_width';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%custom_image_width';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%padding';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%padding';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%padding';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%padding';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%margin';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%margin';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%margin';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%margin';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%label_place_position';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%label_place_position';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%label_place_position';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%label_place_position';
+

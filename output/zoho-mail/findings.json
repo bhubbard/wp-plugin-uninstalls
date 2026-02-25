@@ -1,0 +1,23 @@
+{
+  "options": [
+    "zmail_integ_domain_name",
+    "zmail_plugin_installed",
+    "zmail_auth_code",
+    "zmail_refresh_token",
+    "zmail_account_id",
+    "zmail_integ_from_email_id",
+    "zmail_access_token",
+    "redirect_url",
+    "zmail_integ_client_id",
+    "zmail_integ_client_secret",
+    "zmail_content_type",
+    "zmail_integ_from_name",
+    "zmail_integ_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:12.951Z"
+}

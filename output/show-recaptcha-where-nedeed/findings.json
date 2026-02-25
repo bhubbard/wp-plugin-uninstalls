@@ -1,0 +1,12 @@
+{
+  "options": [
+    "srrw_recaptcha_cf7_enabled",
+    "srrw_recaptcha_cf7_donate_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:06.403Z"
+}

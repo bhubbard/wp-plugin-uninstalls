@@ -1,0 +1,12 @@
+{
+  "options": [
+    "thoughtmetric_snippet",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:07.519Z"
+}

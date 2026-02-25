@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hpulr_restricted_roles",
+    "hpulr_hidden_price_message",
+    "hpulr_test_mode",
+    "hpulr_allowed_countries"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hpulr_custom_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:39.310Z"
+}

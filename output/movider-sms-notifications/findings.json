@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wc_movider_sms_account_apikey",
+    "wc_movider_sms_account_secretkey",
+    "wc_movider_sms_from_name",
+    "wc_movider_sms_checkout_optin_checkbox_default",
+    "wc_movider_sms_checkout_optin_checkbox_label",
+    "wc_movider_sms_log_errors",
+    "wc_movider_sms_enable_admin_sms",
+    "wc_movider_sms_admin_sms_template",
+    "wc_movider_sms_admin_sms_recipients",
+    "wc_movider_sms_send_sms_order_statuses",
+    "*_sms_template",
+    "wc_movider_sms_default_sms_template"
+  ],
+  "transients": [
+    "wc_movider_sms_balance"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_movider_sms_optin",
+    "_billing_phone",
+    "_billing_first_name",
+    "_billing_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:45.283Z"
+}

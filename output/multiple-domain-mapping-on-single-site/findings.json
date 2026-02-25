@@ -1,0 +1,17 @@
+{
+  "options": [
+    "falke_mdm_versionhint",
+    "falke_mdm_upgrade_notice",
+    "multidomainplugin_tabsettings",
+    "multidomainplugin_options",
+    "falke_mdm_settings",
+    "falke_mdm_mappings",
+    "falke_mdm_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:05.948Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "client_portal_flush_rewrite_rules_flag",
+    "cp_activation_date_time",
+    "cp_notice_pb_dimiss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:21.451Z"
+}

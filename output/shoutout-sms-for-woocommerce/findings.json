@@ -1,0 +1,18 @@
+{
+  "options": [
+    "shoutout_sms_woo_send_sms_*",
+    "*_sms_template",
+    "shoutout_sms_woo_default_sms_template",
+    "shoutout_sms_woo_auth_token",
+    "shoutout_sms_woo_from_number",
+    "shoutout_sms_woo_enable_admin_sms",
+    "shoutout_sms_woo_admin_sms_template",
+    "shoutout_sms_woo_admin_sms_recipients"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:45.752Z"
+}

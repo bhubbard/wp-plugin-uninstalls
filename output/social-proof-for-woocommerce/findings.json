@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wooProof_api_settings",
+    "social_proof_stale_cache_*"
+  ],
+  "transients": [
+    "social_proof_fallback_*",
+    "social_proof_api_*",
+    "social_proof_wc_admin_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:43.709Z"
+}

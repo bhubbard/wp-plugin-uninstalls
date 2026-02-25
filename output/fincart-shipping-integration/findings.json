@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fincart_use_default_pickup_loc",
+    "fincart_api_token",
+    "fincart_city_area",
+    "fincart_show_tracking_info_on_frontend",
+    "fincart_send_orders_automatically",
+    "fincart_open_package",
+    "fincart_description_format",
+    "fincart_api_token_validation"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fincart_daily_check_api_token"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:10.052Z"
+}

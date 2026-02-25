@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wtmlab_meta_archive_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wtmlab_meta_title",
+    "_wtmlab_meta_description",
+    "_wtmlab_meta_og_description",
+    "_wtmlab_meta_twitter_description",
+    "_wtmlab_meta_og_image",
+    "_wtmlab_meta_twitter_image",
+    "_wtmlab_meta_canonical_url",
+    "_wtmlab_meta_robots",
+    "_wtmlab_meta_custom_code",
+    "_wtmlab_meta_keywords",
+    "wtmlab_meta_title",
+    "wtmlab_meta_description",
+    "wtmlab_meta_og_description",
+    "wtmlab_meta_twitter_description",
+    "wtmlab_meta_og_image",
+    "wtmlab_meta_twitter_image",
+    "wtmlab_meta_canonical_url",
+    "wtmlab_meta_robots",
+    "wtmlab_meta_custom_code",
+    "wtmlab_meta_keywords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:23.105Z"
+}

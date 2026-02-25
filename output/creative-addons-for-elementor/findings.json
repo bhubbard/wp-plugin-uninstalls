@@ -1,0 +1,26 @@
+{
+  "options": [
+    "crel_version_first",
+    "active_sitewide_plugins",
+    "crel_version",
+    "crel_preset_settings",
+    "crel_error_log",
+    "crel_long_notices",
+    "crel_one_time_notices",
+    "crel_show_upgrade_message",
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes"
+  ],
+  "transients": [
+    "_crel_plugin_installed",
+    "_crel_plugin_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_template_type",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:47.557Z"
+}

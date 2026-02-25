@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mmww_options",
+    "mmww_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_mmww_saved_attachment_metadata",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:19.355Z"
+}

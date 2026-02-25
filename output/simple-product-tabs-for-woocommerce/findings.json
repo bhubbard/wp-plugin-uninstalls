@@ -1,0 +1,22 @@
+{
+  "options": [
+    "simple_product_tabs_settings",
+    "*_license_key",
+    "*_settings"
+  ],
+  "transients": [
+    "update_plugins",
+    "*-dont-check-license"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sptb_override_*",
+    "_sptb_conditions_category",
+    "_sptb_field_*",
+    "_sptb_display_tab_globally",
+    "_sptb_tab_icon"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:49.297Z"
+}

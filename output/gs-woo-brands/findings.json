@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "gsbrand_activation_redirect",
+    "woocommerce_prepend_shop_page_to_urls",
+    "gswcbr_active_time",
+    "gswcbr_review_dismiss"
+  ],
+  "transients": [
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "brand_image_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:33.705Z"
+}

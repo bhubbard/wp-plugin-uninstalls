@@ -1,0 +1,15 @@
+{
+  "options": [
+    "webidextrous_time_delayed_redirects_option",
+    "webidextrous_time_delayed_redirects_network_option"
+  ],
+  "transients": [
+    "webidextrous_time_delayed_redirects_cache",
+    "webidextrous_time_delayed_redirects_debug"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:48.151Z"
+}

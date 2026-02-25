@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "aam_security_audit_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "aam_user_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:34.415Z"
+}

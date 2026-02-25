@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ya-turbo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "turbo_yandex_related"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:46.689Z"
+}

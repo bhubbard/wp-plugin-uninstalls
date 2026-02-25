@@ -1,0 +1,17 @@
+{
+  "options": [
+    "serpr_account_json",
+    "serpr_active_site",
+    "serpr_sites_data",
+    "serpr_cache_lifetime",
+    "serpr_excluded_keywords"
+  ],
+  "transients": [
+    "serpr_sites_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:09.030Z"
+}

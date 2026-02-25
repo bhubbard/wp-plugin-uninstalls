@@ -1,0 +1,14 @@
+{
+  "options": [
+    "IRP_HookPriority"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "irp_weekly_scheduled_events",
+    "irp_daily_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:22.477Z"
+}

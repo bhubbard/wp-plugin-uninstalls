@@ -1,0 +1,14 @@
+{
+  "options": [
+    "givecloud_settings_fields"
+  ],
+  "transients": [
+    "givecloud_api_is_connected",
+    "givecloud_fundraising_forms"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:40.522Z"
+}

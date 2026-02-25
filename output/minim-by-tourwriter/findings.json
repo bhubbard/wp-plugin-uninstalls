@@ -1,0 +1,15 @@
+{
+  "options": [
+    "minim_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "itinerary_id",
+    "itinerary_display",
+    "itinerary_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:01.061Z"
+}

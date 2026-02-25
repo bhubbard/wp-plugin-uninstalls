@@ -1,0 +1,21 @@
+{
+  "options": [
+    "kotaqx_poster_version",
+    "kotaqx_poster_settings"
+  ],
+  "transients": [
+    "kotaqx_poster_twitter_oauth_request_token",
+    "kotaqx_poster_twitter_oauth_request_token_secret",
+    "*_pro_active"
+  ],
+  "cron_jobs": [
+    "kotaqx_poster_schedule_cron",
+    "kotaqx_poster_do_republish_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_kotaqx_poster_ever_published"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:48.902Z"
+}

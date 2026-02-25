@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sm_as_gallery",
+    "sm_post_type",
+    "sm_category",
+    "simple_post_per_page",
+    "simple_post_orderby",
+    "simple_post_order",
+    "simple_post_darkbox",
+    "simple_post_author",
+    "sm_post_comment",
+    "sm_post_title",
+    "sm_shortcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:27.252Z"
+}

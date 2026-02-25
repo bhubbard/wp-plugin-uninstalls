@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mailbul_mid",
+    "mailbul_enable",
+    "mailbul_url",
+    "mailbul_username",
+    "mailbul_usertoken",
+    "mailbul_importall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:24.331Z"
+}

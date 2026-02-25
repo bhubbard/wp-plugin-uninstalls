@@ -1,0 +1,18 @@
+{
+  "options": [
+    "jetpack_active_modules",
+    "hcaptcha_settings",
+    "elementor_safe_mode",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:58.971Z"
+}

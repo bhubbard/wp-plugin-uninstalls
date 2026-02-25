@@ -1,0 +1,58 @@
+{
+  "options": [
+    "coursestorm-settings",
+    "coursestorm-site-info",
+    "coursestorm_flushed_permalinks"
+  ],
+  "transients": [
+    "coursestorm_course_import_progress",
+    "coursestorm_course_import_status",
+    "coursestorm_import_step_transient",
+    "coursestorm_settings_status",
+    "coursestorm_welcome_screen_activation_redirect",
+    "coursestorm_sync_triggered_from_plugin_activation",
+    "coursestorm_course_import_start_time",
+    "coursestorm_sync_triggered_from_options_page",
+    "coursestorm_sync_triggered_manually",
+    "coursestorm_import_total_courses_fetched",
+    "coursestorm_import_total_courses_to_import",
+    "coursestorm_import_current_fetch_course_page",
+    "coursestorm_import_courses_raw_course_list_page_*",
+    "coursestorm_import_total_courses_saved",
+    "coursestorm_import_current_save_course_page",
+    "coursestorm_sync_triggered_from_ajax_call",
+    "coursestorm_import_current_course_page_transient",
+    "coursestorm_import_courses_raw_course_list"
+  ],
+  "cron_jobs": [
+    "coursestorm_sync",
+    "coursestorm_sync_catalog",
+    "coursestorm_sync_courses",
+    "coursestorm_sync_categories",
+    "coursestorm_sync_save_courses_as_posts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sessions",
+    "instructor",
+    "first_session_id",
+    "first_session_date",
+    "next_session_id",
+    "next_session_date",
+    "upcoming_session_id",
+    "upcoming_session_date",
+    "import_touched_at",
+    "url",
+    "image",
+    "site",
+    "continuous_enrollment",
+    "price",
+    "description",
+    "register_online",
+    "id",
+    "location",
+    "room"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:49.271Z"
+}

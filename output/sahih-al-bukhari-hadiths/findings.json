@@ -1,0 +1,16 @@
+{
+  "options": [
+    "border_hadith_color",
+    "border_hadith_bloc",
+    "background_hadith_bloc",
+    "color_hadith_ref",
+    "background_hadith_ref",
+    "hadith_custum_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:28.944Z"
+}

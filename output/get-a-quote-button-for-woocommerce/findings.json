@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpb_gqb_installed",
+    "wpb_gqb_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpb_gqb_disable",
+    "_stock_status",
+    "wpb_gqb_pro_discount_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:45.497Z"
+}

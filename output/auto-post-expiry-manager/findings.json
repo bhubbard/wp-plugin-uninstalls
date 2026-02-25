@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "apem_check_expiry_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "expiry_datetime",
+    "expiry_status",
+    "expiry_notify"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:18.374Z"
+}

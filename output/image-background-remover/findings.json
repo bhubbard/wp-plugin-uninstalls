@@ -1,0 +1,24 @@
+{
+  "options": [
+    "rmbg_api_key",
+    "rmbg_processing_mode",
+    "rmbg_auto_removal_enabled",
+    "rmbg_items_per_page",
+    "rmbg_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rmbg_process_uploaded_image"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_rmbg_processed",
+    "_rmbg_original_image",
+    "_rmbg_output_image",
+    "original_image_id",
+    "_rmbg_original_id",
+    "_rmbg_auto_processed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:28.475Z"
+}

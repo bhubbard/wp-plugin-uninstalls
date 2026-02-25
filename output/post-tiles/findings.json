@@ -1,0 +1,24 @@
+{
+  "options": [
+    "posttile-transparency",
+    "category-key",
+    "category-key-jquery",
+    "featured-images",
+    "responsive-key",
+    "animation-style",
+    "posttiles-width",
+    "posttiles-height",
+    "featured-image-width",
+    "featured-image-height",
+    "excerpt-length",
+    "pagination-key",
+    "cat_bg_*",
+    "cat_tx_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:23.343Z"
+}

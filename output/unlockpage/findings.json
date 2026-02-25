@@ -1,0 +1,13 @@
+{
+  "options": [
+    "unlockpage_verification_token",
+    "unlockpage_signing_secret",
+    "unlockpage_api_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:22.873Z"
+}

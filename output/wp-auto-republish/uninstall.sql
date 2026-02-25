@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpar_plugin_settings', 'wpar_last_global_cron_run', 'wpar_plugin_dismiss_rating_notice', 'wpar_plugin_no_thanks_rating_notice', 'wpar_plugin_installed_time', 'revivepress_hide_permalink_notice', 'wpar_next_scheduled_timestamp', 'wpar_plugin_dismissed_time', 'wpar_republish_log_history', 'wpar_dashboard_widget_options', 'wpar_global_republish_post_ids', 'wpar_social_credentials', 'wpar_next_eligible_date', 'revivepress_version', 'revivepress_install_date', 'revivepress_db_version', 'wpar_next_scheduled', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'wpar_in_progress', 'rvp_import_db_done', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes', 'action_scheduler_last_pastdue_actions_check', 'action_scheduler_admin_notice', 'as_comment_count');
+

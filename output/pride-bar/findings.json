@@ -1,0 +1,12 @@
+{
+  "options": [
+    "pride_bar_option",
+    "pride_bar_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:01.651Z"
+}

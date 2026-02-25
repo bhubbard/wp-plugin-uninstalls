@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_meta_optimizer",
+    "wp_meta_optimizer_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "import_metas_wpmo"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:35.756Z"
+}

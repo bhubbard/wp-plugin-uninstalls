@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mimf_slogan_show",
+    "mimf_msg_settings",
+    "mimf_settings",
+    "mimf_hide_page",
+    "mimf_hide_toolbar",
+    "mimf_particlejs",
+    "mimf_conditional_script"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:35.295Z"
+}

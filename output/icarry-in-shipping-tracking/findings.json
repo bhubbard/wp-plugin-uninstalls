@@ -1,0 +1,26 @@
+{
+  "options": [
+    "icarry_shipping",
+    "icarry_module_version",
+    "icarry_language_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shipment_id_POST_META_ID",
+    "shipment_awb_POST_META_ID",
+    "shipment_courier_id_POST_META_ID",
+    "shipment_type_POST_META_ID",
+    "shipment_mode_POST_META_ID",
+    "shipment_status_POST_META_ID",
+    "shipment_status_id_POST_META_ID",
+    "shipment_added_date_POST_META_ID",
+    "shipment_picked_date_POST_META_ID",
+    "shipment_delivered_date_POST_META_ID",
+    "shipment_pickup_id_POST_META_ID",
+    "icarry_shipment_action_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:20.476Z"
+}

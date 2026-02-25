@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ytpp_rel",
+    "ytpp_info",
+    "ytpp_controls",
+    "ytpp_privacy",
+    "ytpp_iframe_fix",
+    "ytppYouTubeApi",
+    "ytpp_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:06.064Z"
+}

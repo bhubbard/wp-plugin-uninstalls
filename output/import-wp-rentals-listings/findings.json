@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_notice_ignore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "image_to_attach"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:57.710Z"
+}

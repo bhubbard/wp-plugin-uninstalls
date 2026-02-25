@@ -1,0 +1,30 @@
+{
+  "options": [
+    "google_maps_api_key",
+    "tt_font_theme_options",
+    "stylepress_purchases",
+    "dtbaker-elementor"
+  ],
+  "transients": [
+    "import_style_*",
+    "stylepressimportpostids",
+    "stylepresspostorphans",
+    "stylepress_downloadable"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dtbaker_is_component",
+    "_elementor_data",
+    "icon",
+    "_elementor_template_type",
+    "_menu_item_displaytype",
+    "_menu_item_slideout",
+    "_menu_item_*",
+    "_thumbnail_id",
+    "dtbaker_style",
+    "stylepress_advanced"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:03.051Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_credova_settings",
+    "credova_db_version",
+    "woocommerce_prices_include_tax"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:23.504Z"
+}

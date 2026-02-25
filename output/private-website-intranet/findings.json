@@ -1,0 +1,14 @@
+{
+  "options": [
+    "private-website-intranet-redirect-after-login",
+    "private-website-intranet-login-page",
+    "private-website-intranet-use-shortcode",
+    "private-website-intranet-redirect-after-login-page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:50.525Z"
+}

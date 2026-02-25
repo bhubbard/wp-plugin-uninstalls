@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wphpc_general_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wphpc_sku",
+    "wphpc_regular_price",
+    "wphpc_sale_price",
+    "wphpc_weight",
+    "wphpc_status",
+    "wphpc_stock_status",
+    "wphpc_product_type",
+    "wphpc_product_url",
+    "wphpc_short_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:08.683Z"
+}

@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_currency', 'woocommerce_permalinks', 'woocommerce_tax_display_shop', 'doofinder_script_migrated', 'woocommerce_cart_redirect_after_add', 'doofinder_for_wp_notices', 'doofinder_for_wp_show_once_notices', 'doofinder_for_wp_token', 'woocommerce_doofinder_internal_search_api_key', 'doofinder_for_wp_api_host', 'doofinder_wizard_errors', 'woocommerce_doofinder_feed_attributes_additional_attributes', 'doofinder_update_on_save_last_exec', 'doofinder_for_wp_api_key', 'doofinder_for_wp_region', 'doofinder_for_wp_dooplugins_host', 'doofinder_for_wp_update_on_save', 'doofinder_for_wp_enable_js_layer', 'doofinder_for_wp_js_layer', 'doofinder_sector', 'doofinder_for_wp_plugin_version', 'doofinder_for_wp_plugin_update_running', 'doofinder_for_wp_rewrite_rules_state', 'df_product_rest_attributes');
+DELETE FROM wp_options WHERE option_name LIKE '%_size_w';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_h';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_doofinder_for_wp_indexing_visibility', 'thumbnail_id', '_wc_cog_cost', '_wc_cog_cost_variable', '_product_image_gallery');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_doofinder_for_wp_indexing_visibility', 'thumbnail_id', '_wc_cog_cost', '_wc_cog_cost_variable', '_product_image_gallery');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_doofinder_for_wp_indexing_visibility', 'thumbnail_id', '_wc_cog_cost', '_wc_cog_cost_variable', '_product_image_gallery');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_doofinder_for_wp_indexing_visibility', 'thumbnail_id', '_wc_cog_cost', '_wc_cog_cost_variable', '_product_image_gallery');
+

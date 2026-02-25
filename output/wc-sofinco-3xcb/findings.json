@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_env",
+    "*_settings",
+    "*_test_settings",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:27.639Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "emailchef_invalid_credentials_notice",
+    "emailchef_settings",
+    "fs_contact_global",
+    "fs_contact_form*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "check_emailchef_credentials"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:05.346Z"
+}

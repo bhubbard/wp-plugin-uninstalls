@@ -1,0 +1,17 @@
+{
+  "options": [
+    "uncertifyai_settings"
+  ],
+  "transients": [
+    "uncertifyai_user_data",
+    "uncertifyai_usage_data",
+    "uncertifyai_recheck_result_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_uncertifyai_ai_check"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:24.443Z"
+}

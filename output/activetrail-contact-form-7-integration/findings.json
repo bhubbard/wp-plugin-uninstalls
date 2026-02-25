@@ -1,0 +1,23 @@
+{
+  "options": [
+    "formid",
+    "emailshortcode",
+    "approvalcheckbox",
+    "activetraillogin",
+    "apipassword",
+    "zeevgroupid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7_activetrail_addon_tag_key",
+    "_cf7_activetrail_addon_tag_key11",
+    "_cf7_activetrail_addon_tag_key22",
+    "_cf7_activetrail_addon_tag_key33",
+    "_cf7_activetrail_addon_tag_key44",
+    "_cf7_activetrail_addon_tag_key55"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:41.854Z"
+}

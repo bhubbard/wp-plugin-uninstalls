@@ -1,0 +1,16 @@
+{
+  "options": [
+    "awext_ishome",
+    "awext_issingle",
+    "awext_ispage",
+    "awext_isarchive",
+    "awext_issearch",
+    "awext_is404"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:38.656Z"
+}

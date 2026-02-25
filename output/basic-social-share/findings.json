@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bss-facebook",
+    "bss-twitter",
+    "bss-whatsapp",
+    "bss-tumblr",
+    "bss-telegram",
+    "bss-pinterest",
+    "bss-googleplus",
+    "bss-linkedin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:27.840Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "plugin_key_actions",
+    "woovendors_pages",
+    "woovendor_tab_general",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_enable_myaccount_registration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woo_order_vendor_id_*",
+    "woo_order_commision_*",
+    "woo_commision_status_*",
+    "woo_commision_date_*",
+    "_billing_first_name",
+    "_billing_last_name",
+    "_billing_address_1",
+    "_billing_address_2",
+    "_billing_city",
+    "_billing_state",
+    "_billing_country",
+    "_billing_postcode",
+    "_billing_email",
+    "_billing_phone",
+    "woo_order_product_price_*",
+    "total_sales",
+    "_order_total",
+    "_order_key",
+    "_price",
+    "woo_order_product_id_*",
+    "woo_order_vendor_id",
+    "woo_order_total_vendor_products",
+    "vendor_account",
+    "wp_capabilities"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:24.780Z"
+}

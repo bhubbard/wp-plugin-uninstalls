@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_yandex-go-delivery_settings",
+    "*_settings",
+    "woocommerce_cod_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:54.685Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wap8-cpt-slug",
+    "wap8-hct-slug",
+    "wap8-hct-singular",
+    "wap8-hct-plural",
+    "wap8-nhct-slug",
+    "wap8-nhct-singular",
+    "wap8-nhct-plural",
+    "wap8-cpt-singular",
+    "wap8-cpt-plural"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wap8_portfolio_feature",
+    "_wap8_client_name",
+    "_wap8_project_url",
+    "_wap8_project_url_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:52.309Z"
+}

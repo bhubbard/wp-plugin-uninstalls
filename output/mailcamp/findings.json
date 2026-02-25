@@ -1,0 +1,20 @@
+{
+  "options": [
+    "mailcamp_options_api",
+    "mailcamp_options_lists",
+    "mailcamp_options_form",
+    "mailcamp_options_shortcode",
+    "mailcamp_options_wc",
+    "mailcamp_options_wc_fields",
+    "mailcamp_options",
+    "mailcamp_options_listids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_signup_checkbox"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:43.851Z"
+}

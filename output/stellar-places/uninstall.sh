@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'stellar_places_google_maps_api_key'
+wp option delete 'stellar_places_default_map_icon'
+wp option delete 'stellar_places_version'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_custom_icon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_custom_icon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_custom_icon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_custom_icon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_latitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_latitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_latitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_latitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_longitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_longitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_longitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_longitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_formatted_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_formatted_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_formatted_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_formatted_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_street_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_street_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_street_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_street_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_locality'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_locality'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_locality'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_locality'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_region'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_region'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_region'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_region'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_postal_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_postal_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_postal_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_postal_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stlr_places_country'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stlr_places_country'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stlr_places_country'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stlr_places_country'"

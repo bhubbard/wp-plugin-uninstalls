@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*installed_plugins",
+    "*valid_plugins",
+    "*invalid_plugins",
+    "*expected_versions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bp_type_name",
+    "bp_type_singular_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:44.440Z"
+}

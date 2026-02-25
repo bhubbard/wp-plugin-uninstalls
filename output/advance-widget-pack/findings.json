@@ -1,0 +1,13 @@
+{
+  "options": [
+    "widget_recent_comments"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_views"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:49.314Z"
+}

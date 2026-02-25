@@ -1,0 +1,31 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wpheaderandfooter_basics",
+    "wpheaderandfooter_active_time",
+    "wpheaderandfooter_review_dismiss",
+    "wpheaderandfooter_basics_logger",
+    "wpheaderandfooter_settings",
+    "wpb_sdk_wp-headers-and-footers",
+    "_wpheaderandfooter_optin",
+    "wpb_sdk_*",
+    "login_customizer_options",
+    "login_customizer_settings",
+    "wpb_sdk_module_id",
+    "wpb_sdk_module_slug",
+    "wpb_api_cache"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "wpb_logger_cron_*",
+    "wpb_daily_sync_cron_*",
+    "wpb_data_sync_*"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:49.707Z"
+}

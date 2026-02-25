@@ -1,0 +1,39 @@
+{
+  "options": [
+    "muchat_ai_chatbot_agent_id",
+    "muchat_ai_chatbot_verify",
+    "muchat_ai_chatbot_context",
+    "muchat_ai_chatbot_interface_initial_messages",
+    "muchat_ai_chatbot_enable_guest_messages",
+    "muchat_ai_chatbot_guest_initial_messages",
+    "muchat_ai_chatbot_enable_guest_context",
+    "muchat_ai_chatbot_guest_context",
+    "muchat_ai_chatbot_load_strategy",
+    "muchat_ai_chatbot_script_position",
+    "muchat_ai_chatbot_use_logged_in_user_info",
+    "muchat_ai_chatbot_widget_enabled",
+    "muchat_ai_chatbot_schedule_enabled",
+    "muchat_ai_chatbot_schedule_days",
+    "muchat_ai_chatbot_schedule_start_time",
+    "muchat_ai_chatbot_schedule_end_time",
+    "muchat_ai_chatbot_plugin_options",
+    "muchat_ai_chatbot_visibility_mode",
+    "muchat_ai_chatbot_visibility_pages",
+    "muchat_ai_chatbot_onboarding"
+  ],
+  "transients": [
+    "muchat_connection_status",
+    "muchat_product_meta_fields_cache",
+    "muchat_ai_chatbot_plugin_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "digits_phone",
+    "phone",
+    "_muchat_previous_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:24.713Z"
+}

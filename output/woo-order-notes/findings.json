@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wooon_settings"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_customer_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:31.200Z"
+}

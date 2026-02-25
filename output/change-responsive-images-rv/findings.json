@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cri_options",
+    "cri_media_descriptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:52.050Z"
+}

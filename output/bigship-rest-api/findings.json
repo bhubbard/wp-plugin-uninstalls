@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bigshiprestapi_api_token",
+    "bigship_consumer_key",
+    "bigship_consumer_secret",
+    "bigship_key_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:09.658Z"
+}

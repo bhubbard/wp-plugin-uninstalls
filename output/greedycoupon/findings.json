@@ -1,0 +1,21 @@
+{
+  "options": [
+    "gd_hide_theme_header",
+    "gd_permalink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "coupons_code",
+    "coupon_short_desc",
+    "coupon_affiliate_link",
+    "coupon_store_name",
+    "coupon_show",
+    "rzilla_hosting_name",
+    "coupon_count",
+    "post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:21.543Z"
+}

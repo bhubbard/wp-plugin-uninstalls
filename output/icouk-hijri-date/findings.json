@@ -1,0 +1,16 @@
+{
+  "options": [
+    "icouk_hijri_date_version",
+    "icouk_hijri_date_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "icouk_hijri_date_cache_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "icouk_hijri_date_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:23.600Z"
+}

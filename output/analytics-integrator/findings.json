@@ -1,0 +1,15 @@
+{
+  "options": [
+    "analytics-integrator-google-analytics-id",
+    "analytics-integrator-fullstory-id",
+    "analytics-integrator-hotjar-id",
+    "analytics-integrator-mouseflow-id",
+    "analytics-integrator-smartlook-id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:49.501Z"
+}

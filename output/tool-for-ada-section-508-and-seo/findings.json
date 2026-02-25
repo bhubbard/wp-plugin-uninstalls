@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dvin508_enable_front"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plugin_notice_dismissed",
+    "_course_page_note",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:55.829Z"
+}

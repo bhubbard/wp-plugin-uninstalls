@@ -1,0 +1,7 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('scm_option_woocommerce_status', 'scm_option_advanced_driver_redis', 'scm_option_advanced_driver_redis_connection_type', 'scm_option_advanced_driver_mongodb', 'scm_option_advanced_driver_mongodb_connection_type', 'scm_option_advanced_driver_memcached', 'scm_option_advanced_driver_memcached_connection_type', 'scm_option_driver', 'scm_config', 'scm_last_reset_time', 'scm_version', 'scm_dir_hash', 'scm_option_uninstall', 'scm_option_caching_status', 'option_caching_status', 'scm_option_expert_mode_status', 'scm_option_html_debug_comment', 'scm_option_clear_cache', 'scm_option_exclusion_status', 'scm_option_excluded_list', 'scm_option_excluded_list_filtered', 'scm_option_benchmark_footer_text_display', 'scm_option_benchmark_footer_text', 'scm_option_benchmark_widget_display', 'scm_option_benchmark_widget', 'scm_option_statistics_status', 'scm_option_excluded_cookie_vars', 'scm_option_excluded_get_vars', 'scm_option_excluded_post_vars', 'scm_option_post_archives', 'scm_option_post_homepage', 'scm_option_post_types', 'scm_option_ttl', 'scm_option_visibility_guest', 'scm_option_visibility_login_user', 'scm_option_woocommerce_event_payment_complete', 'scm_option_woocommerce_post_archives', 'scm_option_woocommerce_post_types', 'scm_blog_id');
+DELETE FROM wp_options WHERE option_name LIKE 'scm_option_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_vars';
+

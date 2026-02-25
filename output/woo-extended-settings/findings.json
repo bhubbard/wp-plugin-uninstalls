@@ -1,0 +1,27 @@
+{
+  "options": [
+    "*_version",
+    "*remove_product_summary",
+    "*remove_related_products",
+    "*woocommerce_template_single_add_to_cart",
+    "*woocommerce_template_loop_add_to_cart",
+    "*wc_add_to_cart_message_html",
+    "*redirect_if_empty_cart",
+    "*single_checkout_page",
+    "*remove_checkout_billing_fields",
+    "*remove_checkout_shipping_fields",
+    "*remove_order_comments",
+    "*remove_product_tabs",
+    "*remove_related_products_from_single_page",
+    "*checkout_page_layout",
+    "*add_last_product_to_single_page",
+    "*billing_checkout_page_layout",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:23.452Z"
+}

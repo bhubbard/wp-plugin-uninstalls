@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "opalestate_package_maximum_purchased",
+    "opalestate_package_enable_expired",
+    "opalestate_package_duration",
+    "opalestate_package_hightlighted",
+    "opalestate_package_unlimited_listings",
+    "opalestate_package_package_listings",
+    "opalestate_package_package_featured_listings",
+    "*package_expired",
+    "*package_id",
+    "*user_id",
+    "*payment_id",
+    "*package_activation",
+    "*send_expired_email",
+    "*package_listings",
+    "*package_featured_listings",
+    "opalestate_package_duration_unit",
+    "opalestate_package_recurring"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:15.640Z"
+}

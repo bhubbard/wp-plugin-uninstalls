@@ -1,0 +1,15 @@
+{
+  "options": [
+    "offline_shell_enabled",
+    "offline_shell_debug",
+    "offline_shell_race_enabled",
+    "offline_shell_files",
+    "offline_shell_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:04.879Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "writio_do_activation_redirect",
+    "writio_account_email"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "writio_pull_unpublished_articles"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:38.368Z"
+}

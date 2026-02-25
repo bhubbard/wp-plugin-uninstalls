@@ -1,0 +1,13 @@
+{
+  "options": [
+    "search_box_heading",
+    "search_button_name",
+    "no_of_pages_counter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:19.772Z"
+}

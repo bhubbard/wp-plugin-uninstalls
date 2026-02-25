@@ -1,0 +1,22 @@
+{
+  "options": [
+    "keep_in_touch_use_anti_robot_page",
+    "keep_in_touch_use_full_name",
+    "keep_in_touch_subscription_confirmation_text",
+    "keep_in_touch_send_empty_digest_message",
+    "keep_in_touch_empty_digest_message_text",
+    "keep_in_touch_delivery_weekday",
+    "keep_in_touch_delivery_time",
+    "keep_in_touch_header_image_option",
+    "keep_in_touch_header_image_custom_path"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "keep_in_touch_daily_event_hook",
+    "keep_in_touch_weekly_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:16.663Z"
+}

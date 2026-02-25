@@ -1,0 +1,20 @@
+{
+  "options": [
+    "div-width",
+    "div-color",
+    "image-bg-color",
+    "image-border-color",
+    "image-border-hover-color",
+    "category-id",
+    "number-posts",
+    "numberposts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:48.743Z"
+}

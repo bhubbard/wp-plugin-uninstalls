@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpenq_scripts_path",
+    "wpenq_scripts_cond",
+    "wpenq_styles_path",
+    "wpenq_styles_cond"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:28.260Z"
+}

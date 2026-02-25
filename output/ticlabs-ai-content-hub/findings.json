@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ticlabsaich-opt-openai-api-key",
+    "ticlabsaich-opt-openai-api-model",
+    "*-img-api-key",
+    "ticlabsaich-opt-openai-model",
+    "ticlabsaich_license_key",
+    "*-text-api-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:24.361Z"
+}

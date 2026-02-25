@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mp3_vplayer_post_types"
+  ],
+  "transients": [
+    "mp3_vplayer_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mp3_url",
+    "mp3_title",
+    "mp3_author"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:51.614Z"
+}

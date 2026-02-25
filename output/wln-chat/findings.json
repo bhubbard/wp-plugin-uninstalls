@@ -1,0 +1,18 @@
+{
+  "options": [
+    "position_option",
+    "wln_settings_page",
+    "wln_register_plugin_settings",
+    "wln-plugin-settings-group-fields",
+    "phone_option",
+    "message_option",
+    "texticon_option",
+    "position_option_v"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:07.679Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('spost_admin_from_email', 'spost_allowed_level', 'spost_require_email', 'spost_posting_posttype', 'spost_posting_taxonomy', 'spost_posting_status', 'spost_posting_default_user', 'spost_db_version', 'spost_db_build', 'spost_login_button_background', 'spost_login_button_text_color', 'spost_register_button_background', 'spost_register_button_text_color', 'spost_or_button_background', 'spost_or_button_text_color', 'spost_admin_email', 'spost_send_poster_email', 'spost_custom_login_page', 'spost_interval_between_posts', 'spost_log_user_ip', 'spost_version', 'spost_build');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('poster_name', 'stranger_posting_email');
+DELETE FROM wp_usermeta WHERE meta_key IN ('poster_name', 'stranger_posting_email');
+DELETE FROM wp_termmeta WHERE meta_key IN ('poster_name', 'stranger_posting_email');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('poster_name', 'stranger_posting_email');
+

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aiknowledgebase_api_key",
+    "aiknowledgebase_assistant_details",
+    "wmc_redirect",
+    "aiknowledgebase_customize_assistant"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:47.861Z"
+}

@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crudiator_last_query'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crudiator_last_query'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crudiator_last_query'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crudiator_last_query'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_custom_setting_json'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_custom_setting_json'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_custom_setting_json'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_custom_setting_json'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_table_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_table_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_table_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_table_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_capability'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_capability'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_capability'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_capability'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_slug'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_slug'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_slug'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_slug'"

@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_version_pilot_is_active",
+    "_*",
+    "_version_pilot_plugin_slug",
+    "_version_pilot_plugin_requires_wp",
+    "_version_pilot_plugin_requires_php",
+    "_version_pilot_version_number",
+    "_version_pilot_plugin_homepage_url",
+    "_version_pilot_plugin_banner_low",
+    "_version_pilot_plugin_banner_high",
+    "_version_pilot_package_url",
+    "_version_pilot_version_minimum"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:50.805Z"
+}

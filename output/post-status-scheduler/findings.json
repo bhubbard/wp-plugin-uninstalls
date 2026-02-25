@@ -1,0 +1,31 @@
+{
+  "options": [
+    "post_status_scheduler"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "schedule_post_status_change"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "scheduler_date",
+    "scheduler_check_status",
+    "scheduler_status",
+    "scheduler_check_category",
+    "scheduler_category_action",
+    "scheduler_category",
+    "scheduler_check_meta",
+    "scheduler_meta_key",
+    "scheduler_unstick",
+    "scheduler_stick",
+    "scheduler_email_notify",
+    "scheduler_category_action_add",
+    "scheduler_category_add",
+    "scheduler_category_action_remove",
+    "scheduler_category_remove",
+    "post_status_scheduler_date",
+    "scheduler_unpublished"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:32.952Z"
+}

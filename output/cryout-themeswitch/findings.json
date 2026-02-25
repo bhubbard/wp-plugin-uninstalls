@@ -1,0 +1,15 @@
+{
+  "options": [
+    "allowedthemes",
+    "cryout_favorite_themes",
+    "cryout_themeswitch"
+  ],
+  "transients": [
+    "cryout_themeswitch_lasturl"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:15.856Z"
+}

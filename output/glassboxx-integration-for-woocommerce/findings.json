@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_version",
+    "glassboxx_wc_apibaseurl",
+    "glassboxx_wc_active",
+    "glassboxx_ty_msg",
+    "glassboxx_wc_id",
+    "glassboxx_wc_debug",
+    "woo_multi_currency_params"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gbx_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:47.906Z"
+}

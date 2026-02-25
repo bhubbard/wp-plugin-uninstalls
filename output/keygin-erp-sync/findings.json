@@ -1,0 +1,23 @@
+{
+  "options": [
+    "keygin_settings",
+    "keygin_sync_enabled",
+    "keygin_next_sync",
+    "keygin_last_sync",
+    "keygin_erp_sync_active"
+  ],
+  "transients": [
+    "keygin_warehouses",
+    "keygin_sync_running",
+    "keygin_warehouses_fetched_at"
+  ],
+  "cron_jobs": [
+    "keygin_sync_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_keygin_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:24.102Z"
+}

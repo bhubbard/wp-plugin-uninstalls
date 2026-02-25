@@ -1,0 +1,20 @@
+{
+  "options": [
+    "bg_css",
+    "bg_at",
+    "color_css",
+    "menu_pattern",
+    "cawaii_header_logo",
+    "cawaii_login_logo",
+    "cawaii_dshbrd_metaboxes",
+    "cawaii_post_metaboxes",
+    "force_default_login_logo",
+    "force_default_header_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:04.953Z"
+}

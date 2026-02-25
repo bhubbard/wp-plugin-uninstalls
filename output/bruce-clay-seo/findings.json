@@ -1,0 +1,18 @@
+{
+  "options": [
+    "seotoolset_settings"
+  ],
+  "transients": [
+    "bcseo_subscription"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_seotoolset_*",
+    "_seotoolset_attributes",
+    "_seotoolset_meta_title",
+    "_seotoolset_meta_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:23.206Z"
+}

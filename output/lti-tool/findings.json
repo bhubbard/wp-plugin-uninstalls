@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lti_tool_options",
+    "lti_tool_site",
+    "lti_choices",
+    "ltisite"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lti_tool_platform_key",
+    "lti_tool_user_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:43.928Z"
+}

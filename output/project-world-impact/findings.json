@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mpwi_design_settings",
+    "mpwi_access_token",
+    "mpwi_gtm_container_id",
+    "mpwi_enable_gtm",
+    "mpwi_settings"
+  ],
+  "transients": [
+    "mpwi_flash_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:04.979Z"
+}

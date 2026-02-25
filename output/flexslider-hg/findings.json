@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_randomize",
+    "_slideshow_speed",
+    "_animation_speed",
+    "_animation",
+    "_animation_direction",
+    "_image_size",
+    "_heading_tag",
+    "_hide_slide_data",
+    "_order_by",
+    "_order",
+    "_limit",
+    "_corners",
+    "_style",
+    "_targetblank",
+    "_slide_link_url",
+    "_slider_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:31.749Z"
+}

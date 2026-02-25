@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cp_lock_wc_password",
+    "cp_lock_wc_allow_users",
+    "cp_lock_wc_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:14.543Z"
+}

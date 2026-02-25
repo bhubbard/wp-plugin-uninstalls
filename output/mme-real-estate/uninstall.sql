@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('symbol_location', 'mostrar_poweredby', 'pagina-propiedades', 'margintoppage', 'mostrar_form', 'email_informes', 'properties_per_page', 'mostrar_titulo', 'max_width', 'simbolo_moneda', 'label_re_estado', 'label_re_ciudad', 'label_re_colonia', 'label_re_toperacion', 'label_re_tpropiedad');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('propiedad_colonia', 'propiedad_calle', 'propiedad_precio', 'propiedad_superficie_total', 'propiedad_superficie_construida', 'propiedad_niveles', 'propiedad_recamaras', 'propiedad_espacios_auto', 'propiedad_banos', 'propiedad_medios_banos', 'propiedad_espacios', 'propiedad_servicios', 'propiedad_mapa', 'propiedad_url_youtube', 'propiedad_numero', 'propiedad_operacion', 'propiedad_tipopropiedad', 'propiedad_resumen');
+DELETE FROM wp_usermeta WHERE meta_key IN ('propiedad_colonia', 'propiedad_calle', 'propiedad_precio', 'propiedad_superficie_total', 'propiedad_superficie_construida', 'propiedad_niveles', 'propiedad_recamaras', 'propiedad_espacios_auto', 'propiedad_banos', 'propiedad_medios_banos', 'propiedad_espacios', 'propiedad_servicios', 'propiedad_mapa', 'propiedad_url_youtube', 'propiedad_numero', 'propiedad_operacion', 'propiedad_tipopropiedad', 'propiedad_resumen');
+DELETE FROM wp_termmeta WHERE meta_key IN ('propiedad_colonia', 'propiedad_calle', 'propiedad_precio', 'propiedad_superficie_total', 'propiedad_superficie_construida', 'propiedad_niveles', 'propiedad_recamaras', 'propiedad_espacios_auto', 'propiedad_banos', 'propiedad_medios_banos', 'propiedad_espacios', 'propiedad_servicios', 'propiedad_mapa', 'propiedad_url_youtube', 'propiedad_numero', 'propiedad_operacion', 'propiedad_tipopropiedad', 'propiedad_resumen');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('propiedad_colonia', 'propiedad_calle', 'propiedad_precio', 'propiedad_superficie_total', 'propiedad_superficie_construida', 'propiedad_niveles', 'propiedad_recamaras', 'propiedad_espacios_auto', 'propiedad_banos', 'propiedad_medios_banos', 'propiedad_espacios', 'propiedad_servicios', 'propiedad_mapa', 'propiedad_url_youtube', 'propiedad_numero', 'propiedad_operacion', 'propiedad_tipopropiedad', 'propiedad_resumen');
+

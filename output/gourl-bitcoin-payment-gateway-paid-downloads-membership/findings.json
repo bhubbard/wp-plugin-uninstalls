@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*version",
+    "*prev_version",
+    "bj_lazy_load_options",
+    "*currencyconverterapi_key",
+    "*page_files_intro",
+    "*page_payperview_intro",
+    "*ppvLevel",
+    "*page_membership_intro",
+    "*ppmLevel",
+    "*page_products_intro",
+    "*private_key",
+    "*public_key",
+    "*ppmProfile",
+    "*ppmExpiry"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:19.028Z"
+}

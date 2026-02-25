@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "ff_auto_reponder",
+    "convertkitid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:20.547Z"
+}

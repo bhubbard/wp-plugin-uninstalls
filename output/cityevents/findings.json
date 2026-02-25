@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cityevents_default_city",
+    "cityevents_default_limit",
+    "cityevents_default_cache_minutes",
+    "cityevents_default_date_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:48.877Z"
+}

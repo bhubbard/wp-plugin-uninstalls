@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acfw30_form_fields",
+    "acfw30_form_bg_spcolor",
+    "acfw30_form_font_spcolor",
+    "acfw30_form_btn_spcolor",
+    "acfw30_form_border_spcolor",
+    "acfw30_form_btn_text_spcolor",
+    "acfw30_form_placeholder_spcolor",
+    "acfw30_form_notice_email",
+    "acfw30_form_notice_title",
+    "acfw30_form_notice_text"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:35.828Z"
+}

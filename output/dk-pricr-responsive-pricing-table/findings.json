@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rpt_plan_group",
+    "_rpt_currency",
+    "_rpt_open_newwindow",
+    "_rpt_original_font",
+    "_rpt_title_alignment",
+    "_rpt_title_fontsize",
+    "_rpt_subtitle_fontsize",
+    "_rpt_description_fontsize",
+    "_rpt_price_fontsize",
+    "_rpt_recurrence_fontsize",
+    "_rpt_button_fontsize",
+    "_rpt_features_fontsize"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:34.827Z"
+}

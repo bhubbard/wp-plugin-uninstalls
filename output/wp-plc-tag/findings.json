@@ -1,0 +1,14 @@
+{
+  "options": [
+    "plctag_elementor_tag_list_active",
+    "plctag_elementor_active",
+    "plcarticle_listview_active",
+    "plcarticle_listview_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:47.810Z"
+}

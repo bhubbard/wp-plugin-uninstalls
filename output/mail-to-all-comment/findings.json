@@ -1,0 +1,17 @@
+{
+  "options": [
+    "qw_MTA_default_sub",
+    "qw_MTA_subject",
+    "qw_MTA_mail",
+    "qw_MTA_list",
+    "qw_MTA_content",
+    "qw_MTA_post",
+    "qw_MTA_notsentpost"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:31.688Z"
+}

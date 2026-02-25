@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gazchaps-woocommerce-auto-category-product-thumbnails_use-transients",
+    "gazchaps-woocommerce-auto-category-product-thumbnails_transient-expiry",
+    "gazchaps-woocommerce-auto-category-product-thumbnails_transient-expiry-custom",
+    "gazchaps-woocommerce-auto-category-product-thumbnails_shuffle",
+    "gazchaps-woocommerce-auto-category-product-thumbnails_recurse",
+    "gazchaps-woocommerce-auto-category-product-thumbnails_category-size",
+    "gazchaps-woocommerce-auto-category-product-thumbnails_exclude-thumbnail-ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:49.293Z"
+}

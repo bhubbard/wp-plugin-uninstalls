@@ -1,0 +1,20 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'page_role'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'page_role'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'page_role'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'page_role'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'profile_picture'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'profile_picture'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'profile_picture'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'profile_picture'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'user_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'user_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'user_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'user_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'display_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'display_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'display_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'display_name'"

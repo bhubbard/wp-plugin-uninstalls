@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wp_roster_settings",
+    "wp_roster_data_*",
+    "wp_roster_data_history_*",
+    "wp_roster_data_log_*",
+    "wp_roster_data_attendance_*"
+  ],
+  "transients": [
+    "northern_beaches_websites",
+    "wp-roster-update"
+  ],
+  "cron_jobs": [
+    "wp_roster_send_automated_notifications"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wp-roster-roster-allocation",
+    "wp-roster-profile-photo",
+    "wp-roster-preference",
+    "wp-roster-phone",
+    "wp_capabilities",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:10.647Z"
+}

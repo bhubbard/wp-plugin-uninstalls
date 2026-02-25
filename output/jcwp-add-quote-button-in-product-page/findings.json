@@ -1,0 +1,16 @@
+{
+  "options": [
+    "jcwp_quote_option_field_phone_number",
+    "jcwp_quote_option_field_button_text",
+    "jcwp_quote_option_field_message_text",
+    "jcwp_quote_option_field_show_on_product_page",
+    "jcwp_quote_option_field_show_on_shop_page",
+    "jcwp_quote_option_field_show_on_categories"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:34.407Z"
+}

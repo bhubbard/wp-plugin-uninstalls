@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woovr_settings",
+    "woovr_*"
+  ],
+  "transients": [
+    "wpclever_plugins",
+    "woovr_variations_form_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woovr_active",
+    "woovr_name",
+    "woovr_image",
+    "woovr_image_id",
+    "_woovr_show_price",
+    "_woovr_show_availability",
+    "_woovr_show_description",
+    "_woovr_selector",
+    "_woovr_orderby",
+    "_woovr_order",
+    "_woovr_variation_name",
+    "_woovr_show_image",
+    "_woovr_clear_label",
+    "_woovr_clear_image",
+    "_woovr_clear_image_id",
+    "wpcvi_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:47.775Z"
+}

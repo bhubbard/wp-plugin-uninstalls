@@ -1,0 +1,14 @@
+{
+  "options": [
+    "WPMSM_mail_data",
+    "wpmsm_mail_smtp_ignore_notice",
+    "wpmsm_mailer_install_date",
+    "WPMS_mail_flag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:44.695Z"
+}

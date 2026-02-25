@@ -1,0 +1,13 @@
+{
+  "options": [
+    "daisycon_transactions_publisher_id",
+    "daisycon_transactions_username",
+    "daisycon_transactions_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:29.083Z"
+}

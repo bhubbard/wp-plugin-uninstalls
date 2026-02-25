@@ -1,0 +1,35 @@
+{
+  "options": [
+    "epta-install-date",
+    "epta_initial_save_version",
+    "tecset-installDate",
+    "tecset-ratingDiv",
+    "epta_elementor_notice_dismissed",
+    "tec_tribe_single_event_page",
+    "tecset-single-page-id",
+    "cpfm_opt_in_choice_cool_events"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "epta_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "epta-apply-on",
+    "epta-categoery",
+    "epta-tag",
+    "epta-specific-event",
+    "epta-select-temp",
+    "epta-primary-color",
+    "epta-secondary-alternate-color",
+    "epta-alternate-primary-color",
+    "epta-url",
+    "tecset-date-format",
+    "epta-custom-css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:33.136Z"
+}

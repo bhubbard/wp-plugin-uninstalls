@@ -1,0 +1,40 @@
+{
+  "options": [
+    "viwebpos_receipts_params",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "viwebpos_params",
+    "woocommerce_tax_display_cart",
+    "woocommerce_version",
+    "*_prefix",
+    "woocommerce_calc_discounts_sequentially",
+    "woocommerce_tax_round_at_subtotal",
+    "woocommerce_tax_display_shop",
+    "woocommerce_default_country",
+    "woocommerce_prices_include_tax",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*",
+    "viwebpos_update_database"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "viwebpos_barcode",
+    "shipping_company",
+    "billing_company"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:55.695Z"
+}

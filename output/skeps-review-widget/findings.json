@@ -1,0 +1,18 @@
+{
+  "options": [
+    "sgr_site_token",
+    "sgr_location_id",
+    "sgr_location_info"
+  ],
+  "transients": [
+    "skeps_connector_api_error",
+    "sgr_accounts_cache"
+  ],
+  "cron_jobs": [
+    "sgr_update_location"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:14.789Z"
+}

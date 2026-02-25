@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pesistulokset_api_key",
+    "pesistulokset_enable_transients",
+    "pesistulokset_transients_expire"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:38.823Z"
+}

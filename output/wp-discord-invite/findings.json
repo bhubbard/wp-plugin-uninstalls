@@ -1,0 +1,22 @@
+{
+  "options": [
+    "smr_discord_uri",
+    "smr_discord_click_count",
+    "smr_discord_link_last_click",
+    "smr_discord_click_count_last_reset",
+    "smr_discord_webhook_enable",
+    "smr_discord_webhook_url",
+    "smr_discord_invite_link",
+    "smr_discord_embed_color",
+    "smr_discord_title",
+    "smr_discord_author",
+    "smr_discord_description",
+    "smr_discord_image_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:07.672Z"
+}

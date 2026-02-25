@@ -1,0 +1,38 @@
+{
+  "options": [
+    "liveblogging_update_effect",
+    "liveblogging_style",
+    "liveblogging_date_style",
+    "liveblogging_twitter_token",
+    "liveblogging_twitter_secret",
+    "liveblogging_imported_tweets",
+    "liveblogging_twitter_request_token",
+    "liveblogging_twitter_request_secret",
+    "liveblogging_comments",
+    "liveblog_assigned_ids",
+    "liveblogging_id",
+    "liveblogging_method",
+    "liveblogging_enable_twitter",
+    "liveblogging_disable_twitter_comments",
+    "liveblogging_meteor_host",
+    "liveblogging_meteor_controller",
+    "liveblogging_meteor_controller_port",
+    "liveblogging_unhooks",
+    "liveblogging_timed_update_freq",
+    "liveblogging_date"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "live_blogging_check_twitter"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_liveblog_active",
+    "_liveblog",
+    "liveblogging_hashtag",
+    "_liveblogging_tweeted",
+    "_liveblogging_deleted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:26.206Z"
+}

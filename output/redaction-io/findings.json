@@ -1,0 +1,20 @@
+{
+  "options": [
+    "redaction_io_apikey",
+    "classic-editor-replace"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_redaction_io_regenerate_slug",
+    "_redaction_io_keyword",
+    "_redaction_io_lang",
+    "_redaction_io_task_status",
+    "_redaction_io_task_total_stage",
+    "_redaction_io_task_current_stage",
+    "_redaction_io_task_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:33.206Z"
+}

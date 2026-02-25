@@ -1,0 +1,19 @@
+{
+  "options": [
+    "SlothLogoCustomizer_AllowOverride",
+    "SlothLogoCustomizer_SitePoweredByURL",
+    "SlothLogoCustomizer_SitePoweredByTitle",
+    "SlothLogoCustomizer_SiteImageAttachmentId",
+    "SlothLogoCustomizer_SiteImageAttachmentURL",
+    "SlothLogoCustomizer_PoweredByURL",
+    "SlothLogoCustomizer_PoweredByTitle",
+    "SlothLogoCustomizer_imageAttachmentId",
+    "SlothLogoCustomizer_imageAttachmentURL"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:30.036Z"
+}

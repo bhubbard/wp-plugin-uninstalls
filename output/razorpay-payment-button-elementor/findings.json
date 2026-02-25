@@ -1,0 +1,15 @@
+{
+  "options": [
+    "title_field",
+    "description_field",
+    "key_id_field",
+    "key_secret_field",
+    "payment_action_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:57.676Z"
+}

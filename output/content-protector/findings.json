@@ -1,0 +1,49 @@
+{
+  "options": [
+    "passster_secure_key",
+    "passster",
+    "passster_general_settings",
+    "passster_advanced_settings",
+    "passster_global_id",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "passster_activate_protection",
+    "passster_protection_type",
+    "passster_password",
+    "passster_area_shortcode",
+    "passster_password_list",
+    "passster_password_lists",
+    "passster_passwords",
+    "passster_activate_user_restriction",
+    "passster_user_restriction_type",
+    "passster_user_restriction",
+    "passster_redirect_url",
+    "passster_headline",
+    "passster_instruction",
+    "passster_placeholder",
+    "passster_button",
+    "passster_id",
+    "passster_hide",
+    "passster_protect_child_pages",
+    "passster_activate_overwrite_defaults",
+    "passster_activate_misc_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:34.084Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('bp_xmlrpc_cap_low', 'bp_xmlrpc_enabled', 'bp_xmlrpc_enabled_calls', 'bp_xmlrpc_more_info', 'bp_xmlrpc_require_approval', 'bp_xmlrpc_allowed_users', 'limit_login_lockouts', 'limit_login_retries', 'limit_login_retries_valid', 'limit_login_lockouts_total', 'limit_login_logged', 'limit_login_client_type', 'limit_login_allowed_retries', 'limit_login_lockout_duration', 'limit_login_allowed_lockouts', 'limit_login_long_duration', 'limit_login_valid_duration', 'limit_login_lockout_notify', 'limit_login_notify_email_after', 'limit_login_cookies');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('bp_xmlrpc_services', 'bp_xmlrpc_disabled');
+DELETE FROM wp_usermeta WHERE meta_key IN ('bp_xmlrpc_services', 'bp_xmlrpc_disabled');
+DELETE FROM wp_termmeta WHERE meta_key IN ('bp_xmlrpc_services', 'bp_xmlrpc_disabled');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('bp_xmlrpc_services', 'bp_xmlrpc_disabled');
+

@@ -1,0 +1,34 @@
+{
+  "options": [
+    "pronamic_event_status_upcoming",
+    "pronamic_event_status_passed",
+    "pronamic_event_repeat_slug_date_format",
+    "pronamic_event_base",
+    "pronamic_event_category_base",
+    "pronamic_event_status_base",
+    "pronamic_events_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pronamic_event_status_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_pronamic_end_date",
+    "_pronamic_event_all_day",
+    "_pronamic_event_repeat",
+    "_pronamic_event_repeat_frequency",
+    "_pronamic_event_repeat_interval",
+    "_pronamic_event_ends_on",
+    "_pronamic_event_ends_on_count",
+    "_pronamic_event_ends_on_until",
+    "_pronamic_event_start_date",
+    "_pronamic_event_end_date",
+    "_pronamic_event_start_date_gmt",
+    "_pronamic_event_end_date_gmt",
+    "_pronamic_location",
+    "_pronamic_event_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:02.924Z"
+}

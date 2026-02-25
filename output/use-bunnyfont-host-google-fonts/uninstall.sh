@@ -1,0 +1,14 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'rrgf_options'
+wp option delete 'rrgf_do_activation_redirect'
+wp option delete 'rrgf_notice_closed_time'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_last_send'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_skipped'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_allow_tracking'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_tracking_notice'"
+
+# Clear Cron Jobs
+

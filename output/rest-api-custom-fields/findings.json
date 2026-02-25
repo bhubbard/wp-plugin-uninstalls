@@ -1,0 +1,15 @@
+{
+  "options": [
+    "integromat_api_options_*",
+    "integromat_api_options_comment",
+    "integromat_api_options_post",
+    "integromat_api_options_term",
+    "integromat_api_options_user"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:26.657Z"
+}

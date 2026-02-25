@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_ex_attr_staff",
+    "*_mypage_id",
+    "first_name",
+    "last_name",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:49.872Z"
+}

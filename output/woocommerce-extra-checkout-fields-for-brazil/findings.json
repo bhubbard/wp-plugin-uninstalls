@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wcbcf_settings",
+    "wcbcf_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_number",
+    "billing_neighborhood",
+    "shipping_number",
+    "shipping_neighborhood",
+    "*_number",
+    "*_neighborhood",
+    "*_persontype",
+    "*_cpf",
+    "*_rg",
+    "*_cnpj",
+    "*_ie",
+    "*_birthdate",
+    "*_gender",
+    "*_cellphone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:53.530Z"
+}

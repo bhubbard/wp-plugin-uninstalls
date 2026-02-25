@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wc-pedido-minimo-onoff",
+    "wc-pedido-minimo-usuarios",
+    "wc-pedido-minimo-funcionamento",
+    "wc-pedido-minimo-valor",
+    "wc-pedido-minimo-quantidade",
+    "wc-pedido-minimo-pagamentos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:41.064Z"
+}

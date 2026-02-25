@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Style'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Style'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Style'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Style'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Trigger'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Trigger'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Trigger'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Trigger'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Trigger_Element'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Trigger_Element'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Trigger_Element'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Trigger_Element'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Display'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Display'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Display'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Display'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Cookie'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Cookie'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Cookie'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'Pro_Modal_Meta_Box_Option_Cookie'"

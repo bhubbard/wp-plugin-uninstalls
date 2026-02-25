@@ -1,0 +1,12 @@
+{
+  "options": [
+    "woocommerce_paymaya_settings",
+    "cynder_paymaya_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:15.331Z"
+}

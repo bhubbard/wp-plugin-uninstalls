@@ -1,0 +1,30 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smp_poll_status",
+    "smp_poll_color_options",
+    "smp_display_poll_result",
+    "smp_poll_color",
+    "smp_poll_second_color",
+    "smp_end_date",
+    "smp_poll_option",
+    "smp_poll_option_id",
+    "smp_vote_total_count",
+    "smp_vote_count_*",
+    "smpp_status",
+    "smpp_color_options",
+    "smpp_display_poll_result",
+    "smpp_color",
+    "smpp_second_color",
+    "smpp_end_date",
+    "smpp_option",
+    "smpp_option_id",
+    "smpp_vote_total_count",
+    "smpp_vote_count_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:45.032Z"
+}

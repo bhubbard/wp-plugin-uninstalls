@@ -1,0 +1,13 @@
+{
+  "options": [
+    "opendirectory_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "odir_usrename"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:34.931Z"
+}

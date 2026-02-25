@@ -1,0 +1,16 @@
+{
+  "options": [
+    "lmmvp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lmmvp_last_modified",
+    "_lmmvp_modifications",
+    "_lmmvp_manual_date",
+    "_lmmvp_last_author"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:24.645Z"
+}

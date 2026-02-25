@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bdplpc_background_color",
+    "bdplpc_bg_image_url",
+    "bdplpc_logo_url",
+    "bdplpc_form_background_color",
+    "bdplpc_header_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:17.023Z"
+}

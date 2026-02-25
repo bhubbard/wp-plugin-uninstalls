@@ -1,0 +1,23 @@
+{
+  "options": [
+    "lbrty_settings_general_options",
+    "lbrty_settings_display_options",
+    "lbrty_settings_advanced_options"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "lbrty_book_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lbrty_isbn",
+    "lbrty_isbn13",
+    "lbrty_stores_found",
+    "lbrty_last_lookup_time",
+    "lbrty_first_lookup"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:36.665Z"
+}

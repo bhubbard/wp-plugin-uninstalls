@@ -1,0 +1,14 @@
+{
+  "options": [
+    "horizontal-scrolling-announcements",
+    "horizontal-scrolling-roles"
+  ],
+  "transients": [
+    "_hsas_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:56.101Z"
+}

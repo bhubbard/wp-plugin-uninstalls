@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_finix_gateway_settings",
+    "woocommerce_default_country",
+    "*_settings",
+    "woocommerce_finix_apple_pay_gateway_settings",
+    "woocommerce_finix_google_pay_gateway_settings",
+    "*_payments_secret_key",
+    "*_payments_webhooks_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:12.591Z"
+}

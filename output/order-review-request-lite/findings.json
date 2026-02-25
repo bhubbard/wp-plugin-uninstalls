@@ -1,0 +1,14 @@
+{
+  "options": [
+    "review_days_after_order",
+    "review_review_link"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "review_request_send_email"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:10.697Z"
+}

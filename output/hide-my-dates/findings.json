@@ -1,0 +1,14 @@
+{
+  "options": [
+    "hmd_options",
+    "hmd_opt_date",
+    "hmd_opt_modifieddate",
+    "hmd_opt_comments"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:25.947Z"
+}

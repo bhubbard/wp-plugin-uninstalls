@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "piq_captured_amount",
+    "piq_capture_tx_id",
+    "_customer_user",
+    "_payment_method"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:20.421Z"
+}

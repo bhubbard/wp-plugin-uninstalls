@@ -1,0 +1,50 @@
+{
+  "options": [
+    "alt_magic_private_site",
+    "alt_magic_api_key",
+    "alt_magic_user_id",
+    "alt_magic_account_active",
+    "alt_magic_max_concurrency",
+    "alt_magic_auto_generate",
+    "alt_magic_alt_gen_type",
+    "alt_magic_language",
+    "alt_magic_use_for_title",
+    "alt_magic_use_for_caption",
+    "alt_magic_use_for_description",
+    "alt_magic_prepend_string",
+    "alt_magic_append_string",
+    "alt_magic_extra_prompt",
+    "alt_magic_use_seo_keywords",
+    "alt_magic_use_post_title",
+    "alt_magic_refresh_alt_text",
+    "alt_magic_woocommerce_use_product_name",
+    "alt_magic_auto_rename_on_upload",
+    "alt_magic_enable_redirections",
+    "alt_magic_rename_use_seo_keywords",
+    "alt_magic_rename_use_post_title",
+    "alt_magic_rename_use_woocommerce_product_name",
+    "alt_magic_update_posts",
+    "alt_magic_update_excerpts",
+    "alt_magic_update_postmeta",
+    "alt_magic_update_guid",
+    "alt_magic_rename_language",
+    "altm_debug_mode"
+  ],
+  "transients": [
+    "_alt_magic_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_altm_original_image_data",
+    "_altm_rename_history",
+    "_altm_rename_refs_history",
+    "_altm_original_filename",
+    "_wp_attached_file",
+    "rank_math_focus_keyword",
+    "_seopress_analysis_target_kw"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:38.703Z"
+}

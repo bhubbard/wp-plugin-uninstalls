@@ -1,0 +1,46 @@
+{
+  "options": [
+    "formychat_country_code",
+    "formychat_wc_shop",
+    "formychat_wc_product",
+    "formychat_custom_css",
+    "formychat_integration_fluent-crm",
+    "formychat_integration_mailchimp",
+    "formychat_google_sheets",
+    "formychat_integration_google_sheets",
+    "scf-setup-run",
+    "formychat_integration_*",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "formychat_integration_fluent-crm_lists",
+    "formychat_integration_fluent-crm_tags",
+    "formychat_integration_fluent-crm_fields_mapping",
+    "formychat_widget_table_created",
+    "formychat_has_first_widget",
+    "formychat_whatsapp",
+    "formychat_icon",
+    "formychat_call_to_action",
+    "formychat_form",
+    "formychat_contact_form_7",
+    "formychat_greetings",
+    "formychat_target",
+    "formychat_enabled"
+  ],
+  "transients": [
+    "formychat_google_sheets_just_connected"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "_formy_chat_configuration",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:50.207Z"
+}

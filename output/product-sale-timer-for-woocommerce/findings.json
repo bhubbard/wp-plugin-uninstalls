@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wcc_pst_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcc_pst_sale_price_start_time",
+    "_wcc_pst_sale_price_end_time",
+    "_wcc_pst_sale_start_datetime",
+    "_wcc_pst_sale_end_datetime",
+    "wcc_pst_sale_start_datetime",
+    "wcc_pst_sale_end_datetime",
+    "_sale_price",
+    "_regular_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:53.209Z"
+}

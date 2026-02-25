@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wp_old_post_date_remover_settings",
+    "opdr_days_to_show_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:30.450Z"
+}

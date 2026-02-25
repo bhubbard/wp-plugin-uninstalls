@@ -1,0 +1,55 @@
+{
+  "options": [
+    "_transient_extendify_admin_pages_menu",
+    "extendify_assist_tour_progress",
+    "extendify_domains_recommendations_activities",
+    "extendify_assist_globals",
+    "extendify_assist_router",
+    "extendify_assist_tasks",
+    "extendify_first_installed_version",
+    "extendify_onboarding_completed",
+    "extendify_enable_preview_features_v1",
+    "extendify_draft_router",
+    "extendify_help_center_router",
+    "extendify_assist_support_articles",
+    "extendify_wc_import_results",
+    "extendify_site_profile",
+    "extendify_site_id",
+    "generate_settings",
+    "extendify_shared_activity",
+    "extendify_draft_settings",
+    "extendify_user_selections",
+    "extendify_partner_data_v2",
+    "wpforms_settings",
+    "extendify_run_migrations",
+    "extendify_library_site_data"
+  ],
+  "transients": [
+    "extendify_partner_data_cache_check",
+    "extendify_recommendations_products",
+    "extendify_domains",
+    "extendify_recommendations",
+    "extendify_supportArticles",
+    "extendify_*",
+    "extendify_apex_domain",
+    "extendify_site_url",
+    "extendify_home_url"
+  ],
+  "cron_jobs": [
+    "extendify_update_domains_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_edit_lock",
+    "_wp_attachment_image_alt",
+    "extendify_last_login",
+    "made_with_extendify_launch",
+    "_product_image_gallery",
+    "extendify_ai_consent",
+    "wp_persisted_preferences",
+    "_hash",
+    "extendify_form_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:20.776Z"
+}

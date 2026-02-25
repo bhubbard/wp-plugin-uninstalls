@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pdfi_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pdfi_firstname",
+    "pdfi_lastname",
+    "pdfi_email",
+    "pdfi_occupation",
+    "pdfi_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:06.033Z"
+}

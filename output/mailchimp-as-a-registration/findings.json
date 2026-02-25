@@ -1,0 +1,20 @@
+{
+  "options": [
+    "mailchimp_registration",
+    "registration_terms",
+    "registration_terms_dialog_title",
+    "mailchimp_apikey",
+    "mailchimp_listid"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "phone",
+    "phone_extension"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:02.390Z"
+}

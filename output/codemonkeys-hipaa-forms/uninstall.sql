@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('form_builder', 'enabled_forms_settings', 'time_zone', 'load_css_js_conditionally', 'hipaa_disable_email_notifications', 'limit_notification_email', 'hipaa_notification_email_subject', 'hipaa_notification_email_message', 'privacy_notice_method', 'privacy_notice_link', 'privacy_notice_label', 'privacy_notice_copy', 'hipaa_custom_status_enabled', 'hipaa_custom_status_options', 'license_key', 'caldera_enabled_form_ids', 'gravity_enabled_form_ids', 'hipaa_form_css', 'hipaa_role_capabilities', 'hipaa_notification_from_name', 'hipaa_notification_from_email', 'notification_email', 'hipaa_notification_email', 'hipaa_role_read_posts_cap', 'hipaa_role_edit_posts_cap', 'hipaa_role_delete_posts_cap', 'hipaa_role_install_plugins_cap', 'hipaa_role_activate_plugins_cap', 'hipaa_role_edit_plugins_cap', 'hipaa_role_update_plugins_cap', 'hipaa_role_delete_plugins_cap', 'hipaa_role_manage_options_cap', 'hipaa_role_manage_categories_cap', 'hipaa_role_upload_files_cap');
+

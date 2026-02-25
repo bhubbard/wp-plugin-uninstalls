@@ -1,0 +1,43 @@
+{
+  "options": [
+    "coinsnap_bitcoin_voting_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_coinsnap_bitcoin_voting_polls_currency",
+    "_coinsnap_bitcoin_voting_polls_description",
+    "_coinsnap_bitcoin_voting_polls_option_1",
+    "_coinsnap_bitcoin_voting_polls_option_2",
+    "_coinsnap_bitcoin_voting_polls_option_3",
+    "_coinsnap_bitcoin_voting_polls_option_4",
+    "_coinsnap_bitcoin_voting_polls_amount",
+    "_coinsnap_bitcoin_voting_polls_starting_date",
+    "_coinsnap_bitcoin_voting_polls_ending_date",
+    "_coinsnap_bitcoin_voting_polls_thank_you_message",
+    "_coinsnap_bitcoin_voting_polls_active",
+    "_coinsnap_bitcoin_voting_polls_one_vote",
+    "_coinsnap_bitcoin_voting_polls_collect_donor_info",
+    "_coinsnap_bitcoin_voting_polls_custom_field_name",
+    "_coinsnap_bitcoin_voting_polls_*",
+    "*_visibility",
+    "_*",
+    "_coinsnap_bitcoin_voting_donor_name",
+    "_coinsnap_bitcoin_voting_amount",
+    "_coinsnap_bitcoin_voting_message",
+    "_coinsnap_bitcoin_voting_form_type",
+    "_coinsnap_bitcoin_voting_email",
+    "_coinsnap_bitcoin_voting_address",
+    "_coinsnap_bitcoin_voting_payment_id",
+    "_coinsnap_bitcoin_voting_custom_field",
+    "_coinsnap_bitcoin_voting_polls_first_name_visibility",
+    "_coinsnap_bitcoin_voting_polls_last_name_visibility",
+    "_coinsnap_bitcoin_voting_polls_email_visibility",
+    "_coinsnap_bitcoin_voting_polls_address_visibility",
+    "_coinsnap_bitcoin_voting_polls_custom_field_visibility",
+    "_coinsnap_bitcoin_voting_dont_show"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:36.009Z"
+}

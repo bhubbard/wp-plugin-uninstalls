@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gf_square_settings_*",
+    "rg_gforms_currency",
+    "gravity_forms_square_form_counter",
+    "gf_square_settings_location_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:31.876Z"
+}

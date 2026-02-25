@@ -1,0 +1,23 @@
+{
+  "options": [
+    "loftloader_lite_version",
+    "loftloader-custom-settings",
+    "loftloader_main_switch",
+    "loftloader_show_range",
+    "loftloader_bg_color",
+    "loftloader_bg_opacity",
+    "loftloader_bg_animation",
+    "loftloader_loader_type",
+    "loftloader_loader_color",
+    "loftloader_custom_img",
+    "loftloader_img_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "loftloader_page_shortcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:52.312Z"
+}

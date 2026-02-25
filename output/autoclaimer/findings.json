@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "atacr_autoclaim",
+    "_package_id",
+    "_claimed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:11.140Z"
+}

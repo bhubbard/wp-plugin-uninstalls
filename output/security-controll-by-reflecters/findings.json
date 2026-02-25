@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wrs_sc_settings",
+    "scbr_settings",
+    "wrs_sc_blocked_users",
+    "scbr_blocked_users"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wrs_sc_trusted_devices",
+    "scbr_trusted_devices",
+    "wrs_sc_siren_muted",
+    "scbr_siren_muted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:48.032Z"
+}

@@ -1,0 +1,34 @@
+{
+  "options": [
+    "woocommerce_pr_dhl_paket_settings",
+    "woocommerc_stc_dhl_import_finished",
+    "woocommerce_shiptastic_shipper_address_country",
+    "woocommerce_shiptastic_return_address_country",
+    "_wcdpi_settings_general",
+    "woocommerce_stc_internetmarke_import_finished",
+    "_wcdpi_settings_portokasse",
+    "_wcdpi_settings_internetmarke_1c4a",
+    "woocommerce_shiptastic_dhl_version",
+    "woocommerce_stc_dhl_enable_legacy_soap",
+    "woocommerce_bacs_accounts",
+    "woocommerce_shiptastic_dhl_enable_legacy_soap",
+    "woocommerce_checkout_address_2_field"
+  ],
+  "transients": [
+    "_wc_stc_dhl_im_products_refresh_error",
+    "_wc_stc_dhl_im_page_formats_refresh_error",
+    "wc_stc_dhl_portokasse_balance",
+    "wc_stc_dhl_im_current_page_formats",
+    "woocommerce_stc_dhl_paket_api_access_token",
+    "wc_stc_dhl_im_products_expire"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pr_shipment_dhl_label_tracking",
+    "shipping_dhl_postnumber",
+    "shipping_parcelshop_post_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:47.665Z"
+}

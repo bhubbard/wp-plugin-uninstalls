@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mw_significant_update",
+    "mw_significant_update_gmt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:50.658Z"
+}

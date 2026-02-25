@@ -1,0 +1,16 @@
+{
+  "options": [
+    "playerjs_com_script_path",
+    "playerjs_com_width",
+    "playerjs_com_customheight",
+    "playerjs_com_height",
+    "playerjs_com_align",
+    "playerjs_com_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:43.341Z"
+}

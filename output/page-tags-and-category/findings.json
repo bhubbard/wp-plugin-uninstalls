@@ -1,0 +1,12 @@
+{
+  "options": [
+    "daq_tags_enable",
+    "daq_category_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:44.217Z"
+}

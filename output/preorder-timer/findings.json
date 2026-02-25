@@ -1,0 +1,31 @@
+{
+  "options": [
+    "preorder_timer_hpos_notice_shown",
+    "preorder_timer_product_ids",
+    "preorder_timer_style",
+    "preorder_timer_text",
+    "preorder_timer_expiry_action",
+    "preorder_timer_expired_message",
+    "preorder_timer_enabled",
+    "preorder_timer_settings",
+    "preorder_timer_version"
+  ],
+  "transients": [
+    "woocommerce_hpos_incompatible_plugins",
+    "woocommerce_features_cache",
+    "preorder_timer_hpos_compatibility_checked",
+    "preorder_timer_cache"
+  ],
+  "cron_jobs": [
+    "preorder_timer_check_expiry"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_preorder_enabled",
+    "_preorder_available_date",
+    "_preorder_available_time",
+    "_preorder_button_text"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:56.907Z"
+}

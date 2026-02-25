@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gcstb_delete_db",
+    "gcstb_delete_db_confirm",
+    "gcstb_answer_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:50.177Z"
+}

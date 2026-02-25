@@ -1,0 +1,34 @@
+{
+  "options": [
+    "cppw_email_info",
+    "cppw_hide_shipping_address",
+    "cppw_instructions",
+    "flexible_shipping_methods_*",
+    "*_settings",
+    "betrs_shipping_options-*",
+    "cppw_checkout_default_empty",
+    "cppw_nearby_points",
+    "cppw_total_points",
+    "cppw_mapbox_public_token",
+    "cppw_google_api_key",
+    "cppw_display_phone",
+    "cppw_display_schedule",
+    "cppw_points_last_update_try_datetime",
+    "cppw_points",
+    "cppw_points_last_update_datetime",
+    "cppw_points_last_update_server"
+  ],
+  "transients": [
+    "webdados_dpd_portugal_pro_nag",
+    "webdados_dpd_pickup_pro_nag"
+  ],
+  "cron_jobs": [
+    "cppw_update_pickup_list"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_was_shipping_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:22.855Z"
+}

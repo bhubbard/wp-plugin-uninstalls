@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pmaw_ios_appid",
+    "pmaw_android_appid",
+    "pmaw_android_title",
+    "pmaw_android_author",
+    "pmaw_android_icon",
+    "pmaw_android_app_store",
+    "pmaw_android_price",
+    "pmaw_android_button"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:42.953Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ays_advanced_related_posts_upgrade_plugin",
+    "ays_advanced_related_posts_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*post_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:07.083Z"
+}

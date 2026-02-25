@@ -1,0 +1,25 @@
+{
+  "options": [
+    "pv_height",
+    "pv_width",
+    "pv_single_only",
+    "pv_float",
+    "pv_widget_title",
+    "pv_in_post",
+    "pv_in_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pv_in_widget",
+    "pv_video",
+    "pv_video_text",
+    "pv_height",
+    "pv_width",
+    "pv_float",
+    "pv_in_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:07.550Z"
+}

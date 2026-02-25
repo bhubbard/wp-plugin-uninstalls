@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'iande'
+wp option delete 'iande_activation'
+wp option delete 'iande_appointments_settings'
+wp option delete 'iande_institution'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'groups'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'groups'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'groups'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'groups'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'num_people'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'num_people'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'num_people'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'num_people'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'group_size'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'group_size'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'group_size'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'group_size'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'group_slot'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'group_slot'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'group_slot'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'group_slot'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exception'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exception'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exception'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exception'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'date_from'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'date_from'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'date_from'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'date_from'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'date_to'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'date_to'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'date_to'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'date_to'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'source'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'source'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'source'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'source'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'collection'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'collection'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'collection'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'collection'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exhibition'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exhibition'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exhibition'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exhibition'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'tainacan_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'tainacan_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'tainacan_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'tainacan_meta'"

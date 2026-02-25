@@ -1,0 +1,15 @@
+{
+  "options": [
+    "nginxm_global_options",
+    "nginxm_options",
+    "nginxm_init_check"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nm_check_log_file_size_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:19.747Z"
+}

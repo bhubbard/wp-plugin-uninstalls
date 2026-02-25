@@ -1,0 +1,17 @@
+{
+  "options": [
+    "shortcoder_last_changelog",
+    "sc_settings",
+    "shortcoder_version",
+    "shortcoder_data",
+    "shortcoder_flags"
+  ],
+  "transients": [
+    "sc_upgrade"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:48.491Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "cartsguru_db_version",
+    "carts_guru_feature_facebook",
+    "carts_guru_feature_fbm",
+    "carts_guru_feature_ci",
+    "carts_guru_facebook_catalogId",
+    "carts_guru_facebook_pixel",
+    "carts_guru_tracker_url",
+    "carts_guru_facebook_pageId",
+    "carts_guru_facebook_appId",
+    "carts_guru_feature_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "expiry_date",
+    "apply_after_tax",
+    "free_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:50.507Z"
+}

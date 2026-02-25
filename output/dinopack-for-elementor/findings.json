@@ -1,0 +1,19 @@
+{
+  "options": [
+    "dinopack_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "_yoast_wpseo_title",
+    "_dinopack_seo_title",
+    "_yoast_wpseo_metadesc",
+    "_dinopack_meta_description",
+    "_yoast_wpseo_focuskw",
+    "_dinopack_focus_keywords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:57.591Z"
+}

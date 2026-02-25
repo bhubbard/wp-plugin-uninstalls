@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "ayudawp_no_gutenberg_activated",
+    "ayudawp_fse_theme_activated_warning"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ayudawp_no_gutenberg_fse_warning_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:31.808Z"
+}

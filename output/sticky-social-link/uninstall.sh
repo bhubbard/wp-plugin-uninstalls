@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'sticky-slink-fb'
+wp option delete 'sticky-slink-twitter'
+wp option delete 'sticky-slink-insta'
+wp option delete 'sticky-slink-linkedin'
+wp option delete 'sticky-slink-youtube'
+wp option delete 'sticky-slink-behance'
+wp option delete 'sticky-slink-pinterest'
+wp option delete 'sticky-slink-tiktok'
+wp option delete 'sticky-slink-whatsapp'
+wp option delete 'sticky-slink-messenger'
+wp option delete 'sticky-slink-telegram'
+wp option delete 'sticky-slink-wechat'
+wp option delete 'sticky-slink-viber'
+wp option delete 'sticky-slinkeemail'
+wp option delete 'sticky-slink-dribbble'
+wp option delete 'sticky-slink-reddit'
+wp option delete 'sticky-slink-snapchat'
+wp option delete 'sticky-slink-medium'
+wp option delete 'sticky-slink-quora'
+wp option delete 'sticky-slink-tumblr'
+wp option delete 'sslink-position'
+wp option delete 'sslink-menubgcolor'
+wp option delete 'sslink-iconbgcolor'
+wp option delete 'sslink-iconhovercolor'
+wp option delete 'sslink-roundcorner'
+wp option delete 'sslink_plugin_do_activate'
+

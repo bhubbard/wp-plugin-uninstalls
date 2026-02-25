@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sl_trans_API_key",
+    "sl_trans_API_secret",
+    "sl_trans_ID",
+    "sl_trans_google_apikey",
+    "sl_trans_google_prid",
+    "sl_trans_timing_check",
+    "sl_trans_type_check",
+    "sl_trans_tax_check",
+    "sl_trans_engine"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sl_trans_newPost"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:12.019Z"
+}

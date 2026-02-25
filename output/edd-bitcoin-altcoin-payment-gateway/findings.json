@@ -1,0 +1,15 @@
+{
+  "options": [
+    "edd_settings",
+    "ebapg_db_version",
+    "*_cart",
+    "*_log",
+    "*_ct"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:34.754Z"
+}

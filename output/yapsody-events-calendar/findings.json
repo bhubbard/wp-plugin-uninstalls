@@ -1,0 +1,31 @@
+{
+  "options": [
+    "yapevents_available_views",
+    "yapevents_eventColor",
+    "yapevents_eventTextColor",
+    "yapevents_version",
+    "yapevents_theme",
+    "yapevents_theme_css",
+    "yapevents_limit",
+    "yapevents_limit_txt",
+    "yapevents_qtips",
+    "yapevents_qtips_style",
+    "yapevents_qtips_my",
+    "yapevents_qtips_at",
+    "yapevents_qtips_rounded",
+    "yapevents_qtips_image",
+    "yapevents_timeFormat",
+    "yapevents_defaultView",
+    "yapevents_weekends",
+    "yapevents_qtips_shadow",
+    "yapevents_venueShowTooltip",
+    "yapevents_venueShowImages",
+    "yapevents_venue_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:30.188Z"
+}

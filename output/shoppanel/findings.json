@@ -1,0 +1,15 @@
+{
+  "options": [
+    "shoppanel_active",
+    "woocommerce_manage_stock",
+    "shoppanel_default",
+    "woocommerce_notify_low_stock_amount",
+    "shoppanel_mapbox_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:33.051Z"
+}

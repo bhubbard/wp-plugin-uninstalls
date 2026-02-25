@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gmwplw_select_type",
+    "gmwplw_product_show",
+    "gmwplw_show_per_column",
+    "gmwplw_thum",
+    "gmwplw_order_by",
+    "gmwplw_order",
+    "gmwplw_select_tax_val",
+    "gmwplw_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:30.743Z"
+}

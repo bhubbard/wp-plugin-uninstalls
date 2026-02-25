@@ -1,0 +1,16 @@
+{
+  "options": [
+    "kwayyhs_do_activation_redirect",
+    "kwayyhs_active_*",
+    "kwayyhs_sortorder",
+    "global-admin-bar-roles",
+    "kwayyhs_exclude",
+    "kwayyhs_newname_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:00.497Z"
+}

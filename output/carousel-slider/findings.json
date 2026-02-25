@@ -1,0 +1,30 @@
+{
+  "options": [
+    "carousel_slider_settings",
+    "carousel_slider_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_carousel_slider_link_url",
+    "_wp_attachment_image_alt",
+    "_slide_type",
+    "_carousel_slider_version",
+    "_content_slider",
+    "_content_slider_settings",
+    "_images_urls",
+    "_post_order",
+    "_post_orderby",
+    "_posts_per_page",
+    "_post_query_type",
+    "_post_in",
+    "_post_categories",
+    "_post_tags",
+    "_post_date_after",
+    "_post_date_before",
+    "_yoast_wpseo_primary_category"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:42.072Z"
+}

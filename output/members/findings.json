@@ -1,0 +1,34 @@
+{
+  "options": [
+    "members_admin_access_settings",
+    "mrh_plugin_settings",
+    "members_role_hierarchy",
+    "members_hide_announcements",
+    "members_notifications",
+    "members_activated",
+    "members_review_prompt_delay",
+    "members_settings",
+    "members_review_prompt_removed",
+    "members_active_addons",
+    "members_dismiss_upgrade_header",
+    "woocommerce_myaccount_page_id",
+    "members_addons_migrated"
+  ],
+  "transients": [
+    "members_30days_flag",
+    "members_review_prompt_delay",
+    "caseproof_growth_tools_configuration_data_v2"
+  ],
+  "cron_jobs": [
+    "members_admin_notifications_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_members_access_role",
+    "_members_access_error",
+    "dismissed_wp_pointers",
+    "_role"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:44.856Z"
+}

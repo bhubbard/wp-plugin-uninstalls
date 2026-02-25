@@ -1,0 +1,10 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('evas_settings', 'evas_statement_settings', 'evas_cust_show_open_button', 'evas_cust_button_tabindex', 'evas_cust_button_position', 'evas_cust_button_caption', 'evas_cust_button_icon', 'evas_cust_button_icon_position', 'evas_cust_button_size', 'evas_cust_button_margin', 'evas_cust_button_padding', 'evas_cust_button_border_radius', 'evas_cust_button_color', 'evas_cust_button_color_hover', 'evas_cust_button_bgcolor', 'evas_cust_button_bgcolor_hover', 'evas_cust_button_entrance_timeout', 'evas_cust_button_entrance_animation', 'evas_cust_button_hover_animation', 'evas_cust_button_show_after_scrolling_desktop', 'evas_cust_button_show_after_scrolling_mobile', 'evas_cust_popup_position', 'evas_cust_popup_draggable', 'evas_cust_popup_background_color', 'evas_cust_popup_key_color', 'evas_cust_popup_text_color', 'evas_cust_popup_background_color_dark', 'evas_cust_popup_key_color_dark', 'evas_cust_popup_text_color_dark', 'evas_cust_popup_border_radius', 'evas_cust_popup_shadow', 'evas_cust_popup_overlay', 'evas_cust_popup_overlay_color', 'evas_cust_popup_close_anywhere', 'evas_cust_reset_button', 'evas_cust_hide_button', 'evas_tts_api_key', 'evas_tts_language', 'evas_tts_voice_name', 'evas_tts_speaking_rate', 'evas_tts_pitch', 'evas_tts_cache_enabled', 'evas_usage_analytics_settings', 'evas_vk_enabled', 'evas_vk_default_layout', 'evas_vk_theme', 'evas_vk_key_size', 'evas_vk_show_on_focus', 'evas_vk_sound_enabled', 'evas_vn_enabled');
+DELETE FROM wp_options WHERE option_name IN ('evas_vn_language', 'evas_vn_continuous', 'evas_vn_show_indicator', 'evas_vn_feedback_sound', 'evas_vn_visual_feedback', 'evas_vn_sensitivity', 'evas_vn_auto_start', 'evas_vn_custom_commands');
+DELETE FROM wp_options WHERE option_name LIKE 'evas_cust_%';
+DELETE FROM wp_options WHERE option_name LIKE 'evas_tts_%';
+DELETE FROM wp_options WHERE option_name LIKE 'evas_vk_%';
+DELETE FROM wp_options WHERE option_name LIKE 'evas_vn_%';
+

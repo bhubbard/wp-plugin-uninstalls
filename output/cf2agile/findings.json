@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cf2agile__activecollab__org_name",
+    "cf2agile__activecollab__app_name",
+    "cf2agile__activecollab__username",
+    "cf2agile__activecollab__password",
+    "cf2agile__activecollab__self_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:48.405Z"
+}

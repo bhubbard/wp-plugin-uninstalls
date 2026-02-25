@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cjmailerTo",
+    "cjmailerSubject",
+    "cjmailerBody",
+    "cjmailerUser",
+    "default_post_edit_rows",
+    "cjmailerto"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "CJMailSchdule"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:00.449Z"
+}

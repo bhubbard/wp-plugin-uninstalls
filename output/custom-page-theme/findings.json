@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_sch",
+    "*_js",
+    "*_css",
+    "_cpt_cpt-sample-menu_sch",
+    "_cpt_pg_content_template_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_page_theme_select"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:11.603Z"
+}

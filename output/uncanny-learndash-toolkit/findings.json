@@ -1,0 +1,42 @@
+{
+  "options": [
+    "uncanny_toolkit_active_classes",
+    "learndash_settings_ld_integrity",
+    "_uncanny_toolkit_review_time",
+    "_uncanny_toolkit_review_reminder",
+    "_uncanny_toolkit_review_reminder_date",
+    "FrontendLoginPlus",
+    "LoginRedirect",
+    "HideAdminBar",
+    "uncanny_pro_toolkitlearnDashMyCourses",
+    "uncanny_owl_over_time_*",
+    "uncanny_owl_notices",
+    "uo_license_status",
+    "ulgm_license_status",
+    "*_license_status",
+    "uo_reporting_license_status",
+    "uo_codes_license_status",
+    "uo_license_key",
+    "active_sitewide_plugins",
+    "uncanny_owl_over_time_toolkit-free"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "uncanny_owl_admin_notifications_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "uo_is_verified",
+    "uo_verified_email_sent",
+    "learndash_last_known_page",
+    "learndash_last_known_course_*",
+    "_sfwd-quizzes",
+    "_nav_menu_role",
+    "_sfwd-quiz",
+    "session_tokens"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:27.511Z"
+}

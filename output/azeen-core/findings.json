@@ -1,0 +1,29 @@
+{
+  "options": [
+    "widget_*",
+    "sidebars_widgets",
+    "_wc_needs_pages",
+    "woocommerce_single_image_width",
+    "woocommerce_thumbnail_image_width",
+    "woocommerce_thumbnail_cropping",
+    "woocommerce_thumbnail_cropping_custom_width",
+    "woocommerce_thumbnail_cropping_custom_height",
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes",
+    "elementor_container_width"
+  ],
+  "transients": [
+    "_wc_activation_redirect",
+    "kirki_css_write_to_file_failed",
+    "kirki_googlefonts_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_*",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:43.192Z"
+}

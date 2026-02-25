@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_viewed",
+    "otb_new_theme",
+    "active_sitewide_plugins",
+    "*_version",
+    "sss_delete_all_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "super-simple-slider-slide-settings-group"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:19.113Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "WidgTit",
+    "Ad1Destination",
+    "Ad1Img",
+    "Ad2Destination",
+    "Ad2Img",
+    "Ad3Destination",
+    "Ad3Img",
+    "Ad4Destination",
+    "Ad4Img",
+    "Ad5Destination",
+    "Ad5Img",
+    "Ad6Destination",
+    "Ad6Img"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:48.623Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "preload_lcp_image_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lcp_url_preload",
+    "lcp_id_preload",
+    "lcp_mobile_url_preload",
+    "lcp_mobile_id_preload",
+    "lcp_force_as",
+    "lcp_mobile_force_as"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:03.982Z"
+}

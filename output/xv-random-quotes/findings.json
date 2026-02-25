@@ -1,0 +1,30 @@
+{
+  "options": [
+    "xv_quotes_default_category_id",
+    "xv_migration_pending",
+    "xv_quotes_migrated_v2",
+    "xv_migration_total",
+    "xv_quotes_widgets_migrated",
+    "widget_xv_random_quotes_widget",
+    "_xv_quotes_migrated",
+    "xv_quotes_needs_migration",
+    "stray_quotes_options",
+    "xv_quotes_flush_rewrite_rules"
+  ],
+  "transients": [
+    "xv_migration_error",
+    "xv_migration_success",
+    "xv_migration_progress",
+    "xv_migration_total",
+    "xv_migration_offset"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_quote_source",
+    "author_url",
+    "_quote_legacy_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:22.439Z"
+}

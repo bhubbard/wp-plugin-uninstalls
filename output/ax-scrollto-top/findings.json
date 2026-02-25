@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ax_icon_select",
+    "ax_width",
+    "ax_height",
+    "ax_background_color",
+    "ax_text_color",
+    "ax_font_size",
+    "ax_padding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:15.738Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "chat_webirc_options",
+    "chat_webirc_temp_avatars",
+    "chat_webirc_temp_files"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "chat_webirc_cleanup_temp_images"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "chat_webirc_avatar",
+    "chat_webirc_avatar_uploaded_at"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:05.815Z"
+}

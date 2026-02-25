@@ -1,0 +1,14 @@
+{
+  "options": [
+    "hdq_a_l_members_only",
+    "hdq_quiz_results_l"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hdq_quiz_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:56.677Z"
+}

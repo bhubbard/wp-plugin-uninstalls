@@ -1,0 +1,23 @@
+{
+  "options": [
+    "nautica_app_grade_db_version",
+    "APPGRADENAUTICA_NAUTICA_APP_GRADE_TOKEN",
+    "APPGRADENAUTICA_SINCRO_PRODOTTI_SPED",
+    "APPGRADENAUTICA_SINCRO_CORSO_LEZIONI",
+    "APPGRADENAUTICA_CORSO_LEZIONI_SEND_EMAIL",
+    "APPGRADENAUTICA_SINCRO_CORSO_PACCHETTI",
+    "APPGRADENAUTICA_SINCRO_PRODOTTI",
+    "APPGRADENAUTICA_SINCRO_PRODOTTI_NAME",
+    "APPGRADENAUTICA_SINCRO_PRODOTTI_FATTURA",
+    "APPGRADENAUTICA_SINCRO_PRODOTTI_CODE"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wdn",
+    "_id_corso_lezione"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:29.569Z"
+}

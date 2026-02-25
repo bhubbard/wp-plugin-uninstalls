@@ -1,0 +1,13 @@
+{
+  "options": [
+    "redpen_option_name",
+    "widget_Id",
+    "redpen_plugin_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:24.820Z"
+}

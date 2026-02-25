@@ -1,0 +1,19 @@
+{
+  "options": [
+    "star_color",
+    "btn_color",
+    "display_number",
+    "sdvts_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "designation",
+    "country",
+    "star_rating",
+    "video_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:01.633Z"
+}

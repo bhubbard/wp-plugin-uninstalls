@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*-stat"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "position",
+    "rating",
+    "groups",
+    "testimonials"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:08.850Z"
+}

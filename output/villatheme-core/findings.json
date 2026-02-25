@@ -1,0 +1,28 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "pscw_setup_wizard",
+    "elementor_cpt_support",
+    "elementor_disable_color_schemes",
+    "elementor_disable_typography_schemes",
+    "elementor_google_font",
+    "elementor_active_kit",
+    "villco"
+  ],
+  "transients": [
+    "villco_import_progress"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "viwcpf_filter_menu",
+    "_elementor_template_type",
+    "_elementor_page_settings",
+    "_elementor_edit_mode",
+    "enable_footer",
+    "metabox_footer_options",
+    "_villco_menu_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:44.374Z"
+}

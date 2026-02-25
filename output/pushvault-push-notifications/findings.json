@@ -1,0 +1,26 @@
+{
+  "options": [
+    "pvlt-modal-title",
+    "pvlt-modal-text",
+    "pvlt-modal-accept-button",
+    "pvlt-modal-cancel-button",
+    "pvlt_media_selector_attachment_id",
+    "pvlt-powered",
+    "pvlt-display-option",
+    "pvlt-time-interval",
+    "pvlt-cookie-interval",
+    "pvlt-show-options",
+    "pvlt-obscured",
+    "pvlt-disable-jquery",
+    "pvlt-paused",
+    "pvlt-uid",
+    "pvlt-sender-id",
+    "pvlt-publicKey"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:02.998Z"
+}

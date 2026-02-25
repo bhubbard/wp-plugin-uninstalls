@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_easyauthnet_authorizenet_settings",
+    "*_settings",
+    "easyauthnet_activation_time",
+    "easyauthnet_review_notice_hide_v1",
+    "easyauthnet_next_show_time",
+    "woocommerce_easyauthnet_authorizenet_echeck_settings",
+    "woocommerce_default_country"
+  ],
+  "transients": [
+    "easyauthnet_authorizenet_invalid_credentials_message",
+    "easyauthnet_authorized_for_woocommerce_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "billing_last_name",
+    "billing_address_1",
+    "billing_city",
+    "billing_state",
+    "billing_postcode",
+    "billing_country",
+    "billing_address_2",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:59.844Z"
+}

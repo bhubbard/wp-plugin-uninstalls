@@ -1,0 +1,19 @@
+{
+  "options": [
+    "parsely_data_schema_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_traffic_boost_original_link_attributes",
+    "_traffic_boost_source_post_revision",
+    "_traffic_boost_source_original_post_content",
+    "_traffic_boost_source_original_paragraph",
+    "parsely_metadata_last_updated",
+    "wp_parsely_page",
+    "_smart_link_applied"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:33.320Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "forced_layout_expire_time",
+    "iphone_theme",
+    "show_switch_link_for_desktop",
+    "desktop_view_theme_link_text",
+    "mobile_view_theme_link_text",
+    "ipad_theme",
+    "android_theme",
+    "android_tab_theme",
+    "opera_theme",
+    "blackberry_theme",
+    "parm_os_theme",
+    "windows_theme",
+    "other_theme",
+    "amts_hide_pro_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:02.535Z"
+}

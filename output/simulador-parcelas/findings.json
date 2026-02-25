@@ -1,0 +1,21 @@
+{
+  "options": [
+    "simuparc_token",
+    "simuparc_tipo_exibicao",
+    "simuparc_produto_cor_texto",
+    "simuparc_produto_negrito",
+    "simuparc_produto_italico",
+    "simuparc_produto_sublinhado",
+    "simuparc_posicao",
+    "simuparc_exibir_em_loop",
+    "simuparc_loop_alinhamento",
+    "simuparc_loop_cor_texto",
+    "simuparc_loop_prefixo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:27.638Z"
+}

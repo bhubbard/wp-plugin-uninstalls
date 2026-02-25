@@ -1,0 +1,38 @@
+{
+  "options": [
+    "_wpan_disable_help_tabs",
+    "_wpan_disable_notice_posts",
+    "_wpan_animate_help_tab",
+    "_wpan_hide_default_help_tabs",
+    "_wpan_enable_global_help_tab",
+    "_wpan_global_help_tab_title",
+    "_wpan_global_help_tab_body",
+    "_wpan_global_help_tab_image_id",
+    "_wpan_enable_admin_footer_text",
+    "_wpan_admin_footer_text",
+    "_wpan_admin_footer_icon_image_id",
+    "acf_version",
+    "carbon_custom_sidebars"
+  ],
+  "transients": [
+    "wpan_help_tabs_*",
+    "wpan_notices_*",
+    "update_plugins",
+    "acf_plugin_updates"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpan_has_seen_help_tab_animation",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:57.642Z"
+}

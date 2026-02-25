@@ -1,0 +1,13 @@
+{
+  "options": [
+    "existing_field_groups"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_field_groups"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:20.470Z"
+}

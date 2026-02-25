@@ -1,0 +1,40 @@
+{
+  "options": [
+    "wp_weixin_broadcast_preview_options",
+    "wp_weixin_broadcast_default_cover_media_id",
+    "wp_weixin_broadcast_plugin_version"
+  ],
+  "transients": [
+    "wp_weixin_broadcast_user_tags",
+    "wp_weixin_broadcast_remote_user_info",
+    "wp_weixin_broadcast_flush"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_weixin_broadcast_article_show_cover_image",
+    "wp_weixin_broadcast_article_need_open_comment",
+    "wp_weixin_broadcast_article_only_fans_can_comment",
+    "wp_weixin_broadcast_article_author",
+    "wp_weixin_broadcast_article_source_post_id",
+    "wp_weixin_broadcast_article_origin_url",
+    "wp_weixin_broadcast_msg_id",
+    "wp_weixin_broadcast_items",
+    "wp_weixin_broadcast_target_type",
+    "wp_weixin_broadcast_tencent_agree",
+    "wp_weixin_broadcast_msg_data_id",
+    "wp_weixin_broadcast_job_complete",
+    "wp_weixin_broadcast_deleted_items",
+    "wp_weixin_broadcast_target_tag",
+    "wp_weixin_broadcast_target_users",
+    "wp_weixin_broadcast_send_ignore_reprint",
+    "wp_weixin_broadcast_media_id",
+    "wp_weixin_broadcast_message_type",
+    "wp_weixin_broadcast_last_operation",
+    "wp_weixin_broadcast_status",
+    "wp_weixin_broadcast_message_structure",
+    "wp_weixin_broadcast_clientmsgid"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:09.360Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "WPTestMonkey_do_shortcode_on_output_buffer",
+    "WPTestMonkey_show_dashboard_widget",
+    "WPTestMonkey_current_migration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:02.801Z"
+}

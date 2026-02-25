@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "global_styles",
+    "global_styles_*",
+    "gutenberg_global_styles",
+    "gutenberg_global_styles_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:33.002Z"
+}

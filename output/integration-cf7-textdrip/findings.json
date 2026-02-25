@@ -1,0 +1,13 @@
+{
+  "options": [
+    "intefocf_textdrip_api_key",
+    "intefocf_cf7form_campaign_*",
+    "intefocf_cf7form_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:13.261Z"
+}

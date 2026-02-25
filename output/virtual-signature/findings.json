@@ -1,0 +1,13 @@
+{
+  "options": [
+    "setting_signature"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_signature-types"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:40.501Z"
+}

@@ -1,0 +1,63 @@
+{
+  "options": [
+    "wcshipping_migration_state",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "wc_connect_taxes_enabled",
+    "wcshipping_options",
+    "woocommerce_ppec_paypal_settings",
+    "woocommerce_erasure_request_removes_order_data",
+    "woocommerce_shipping_debug_mode",
+    "woocommerce_tax_total_display",
+    "woocommerce_tax_based_on",
+    "stats_options",
+    "jetpack_activation_source",
+    "jetpack_affiliate_code",
+    "jetpack_partner_subsidiary_id",
+    "jetpack_offline_mode",
+    "vaultpress",
+    "vaultpress_auto_register",
+    "jetpack_sso_remove_login_form",
+    "jetpack_sso_match_by_email",
+    "jetpack_sso_require_two_step",
+    "jetpack_protect_active",
+    "wpcom_public_coming_soon",
+    "woocommerce_setup_jetpack_opted_in",
+    "woocommerce_email_text_color"
+  ],
+  "transients": [
+    "connect_server_is_alive_transient",
+    "jetpack_assumed_site_creation_date",
+    "jetpack_idc_possible_dynamic_site_url_detected",
+    "jetpack_idc_local",
+    "jetpack_idc_ip_requester_*",
+    "jetpack_is_single_user",
+    "wcc_notice_dismissed_*"
+  ],
+  "cron_jobs": [
+    "jetpack_heartbeat",
+    "jetpack_clean_nonces",
+    "wc_connect_fetch_service_schemas",
+    "wc_connect_fetch_sift_config"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wc_connect_last_box_id",
+    "wc_connect_last_service_id",
+    "wc_connect_last_carrier_id",
+    "wcs_migration_survey_count",
+    "wcs_migration_survey_last_shown",
+    "wcs_migration_survey_completed",
+    "wc_connect_nux_notices",
+    "dismissed_wp_pointers",
+    "wc_connect_customs_info",
+    "jetpack_json_api_*",
+    "jetpack_tracks_wpcom_id",
+    "jetpack_tracks_anon_id",
+    "wpcom_user_id",
+    "wpcom_user_data",
+    "jetpack_force_logout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:26.916Z"
+}

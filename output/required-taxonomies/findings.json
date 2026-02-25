@@ -1,0 +1,14 @@
+{
+  "options": [
+    "vg_required_taxonomies_post_types",
+    "vg_required_taxonomies_taxonomies",
+    "vg_required_taxonomies_error_message",
+    "vg_required_taxonomies_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:14.965Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wccf_cod_fee_enabled",
+    "wccf_cod_fee_label",
+    "wccf_cod_fee_type",
+    "wccf_cod_fee_amount",
+    "wccf_cod_fee_min_total"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:32.869Z"
+}

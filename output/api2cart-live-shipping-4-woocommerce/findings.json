@@ -1,0 +1,16 @@
+{
+  "options": [
+    "live_shipping_service_secret",
+    "*_settings",
+    "live_shipping_service_version",
+    "live_shipping_service_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "live_shipping_service_last_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:07.133Z"
+}

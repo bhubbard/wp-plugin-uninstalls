@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cff-google-calendar-version",
+    "CP_CFF_GOOGLE_CALENDAR_CLIENT_ID",
+    "CP_CFF_GOOGLE_CALENDAR_CLIENT_SECRET",
+    "CP_CFF_GOOGLE_CALENDAR_ACCESS_TOKEN",
+    "CP_CFF_GOOGLE_CALENDAR_REFRESH_TOKEN"
+  ],
+  "transients": [
+    "cff_google_oauth_state"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:52.876Z"
+}

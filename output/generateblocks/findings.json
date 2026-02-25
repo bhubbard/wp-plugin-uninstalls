@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_shop_page_id",
+    "generateblocks_dynamic_css_time",
+    "generateblocks_dynamic_css_posts",
+    "generateblocks_version",
+    "generateblocks",
+    "gb_use_v1_blocks",
+    "generate_settings",
+    "generateblocks_do_activation_redirect",
+    "widget_block",
+    "generateblocks_pattern_libraries",
+    "*-patterns_0"
+  ],
+  "transients": [
+    "*_0"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_generateblocks_dynamic_css_version",
+    "_generateblocks_reusable_blocks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:00.859Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "rpaefw_ops_index",
+    "woocommerce_store_postcode",
+    "rpaefw_dogovor",
+    "woocommerce_currency",
+    "woocs",
+    "rpaefw_hide_info_log",
+    "woocommerce_email_footer_text",
+    "rpaefw_use_auto_email_tracking_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_post_tracking_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:41.386Z"
+}

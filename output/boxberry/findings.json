@@ -1,0 +1,22 @@
+{
+  "options": [
+    "boxberry_reception_point_notice_active",
+    "boxberry_deliveries_renamed",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "boxberry_is_export_done",
+    "woocommerce_calc_taxes",
+    "wiidget_url",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "boxberry_update_data_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_boxberry_array"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:56.083Z"
+}

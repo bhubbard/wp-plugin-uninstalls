@@ -1,0 +1,27 @@
+{
+  "options": [
+    "cupri_general_settings",
+    "_cupri",
+    "cupri_redirect_after_activation_option",
+    "cupri_gateways_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_my_meta_value_key",
+    "_cupri_fprice",
+    "_cupri_result_code",
+    "_cupri_gateway",
+    "_cupri_currency",
+    "_cupri_log",
+    "_wpm_order_type",
+    "_*",
+    "_cupri_fields",
+    "_cupri_fmobile",
+    "_cupri_femail",
+    "_sepehr2_digitalreceipt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:59.599Z"
+}

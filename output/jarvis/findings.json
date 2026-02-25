@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jarvis_theme",
+    "jarvis_hotkey"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:44.379Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "uimptr_file_scan",
+    "tuxbfu_max_upload_size",
+    "tuxbfu_settings",
+    "tuxbfu_file_scan",
+    "ms_files_rewriting"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "uimptr_cleanup_temp_files"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_is_custom_background",
+    "_wp_attachment_is_custom_header",
+    "uimptr_notice_*",
+    "uimptr_notice_big_file_form_uploads_promo",
+    "_wp_attachment_image_alt",
+    "bfu_notice_dismissed",
+    "bfu_upgrade_notice_dismissed",
+    "bfu_subscribe_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:42.105Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "sp-wcsp-woo-notice-dismissed",
+    "shapedplugin_offer_banner_dismissed_*",
+    "sp_woo_category_slider_review_notice_dismiss",
+    "sp-wps-notice-dismissed",
+    "sp-wsb-notice-dismissed",
+    "sp_wcsp_settings",
+    "woo_category_slider_version",
+    "woo_category_slider_first_version",
+    "woo_category_slider_activation_date",
+    "woo_category_slider_db_version",
+    "sp_category_slider_page_id*",
+    "shapedplugin_offer_banner_dismissed_black_friday_2025",
+    "shapedplugin_offer_banner_dismissed_new_year_2026"
+  ],
+  "transients": [
+    "spwoocs_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sp_wcsp_shortcode_options",
+    "sp_wcsp_layout_options",
+    "sp_wcsp_upload_options",
+    "_spf_errors",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:20.242Z"
+}

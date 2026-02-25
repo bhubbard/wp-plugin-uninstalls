@@ -1,0 +1,14 @@
+{
+  "options": [
+    "intochat_display_method",
+    "intochat_default_id"
+  ],
+  "transients": [
+    "intochat_embed_transient_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:28.896Z"
+}

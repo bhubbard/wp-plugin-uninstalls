@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cyberimpact_settings",
+    "cyberimpact_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cyberimpact_checkbox",
+    "_cyberimpact_group",
+    "_cyberimpact_opt_in_type",
+    "_cyberimpact_mappings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:41.558Z"
+}

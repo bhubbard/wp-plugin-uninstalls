@@ -1,0 +1,28 @@
+{
+  "options": [
+    "fergcorp_countdownTimer_version",
+    "fergcorp_countdownTimer_deleteOneTimeEvents",
+    "fergcorp_countdownTimer_timeFormat",
+    "fergcorp_countdownTimer_showYear",
+    "fergcorp_countdownTimer_showMonth",
+    "fergcorp_countdownTimer_showWeek",
+    "fergcorp_countdownTimer_showDay",
+    "fergcorp_countdownTimer_showHour",
+    "fergcorp_countdownTimer_showMinute",
+    "fergcorp_countdownTimer_showSecond",
+    "fergcorp_countdownTimer_stripZero",
+    "fergcorp_countdownTimer_enableJS",
+    "fergcorp_countdownTimer_timeSinceTime",
+    "fergcorp_countdownTimer_titleSuffix",
+    "fergcorp_countdownTimer_enableShortcodeExcerpt",
+    "fergcorp_countdownTimer_oneTimeEvent",
+    "fergcorp_countdownTimer_*",
+    "widget_fergcorp_countdown_timer_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:14.716Z"
+}

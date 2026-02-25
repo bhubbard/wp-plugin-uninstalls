@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sau_updated_packages",
+    "sau_last_checked",
+    "sau_mode"
+  ],
+  "transients": [
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "sau_check_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:23.665Z"
+}

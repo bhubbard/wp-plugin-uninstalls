@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ipccp_last_run_time_start', 'ipccp_user_cron', 'ipccp_recluster', 'ipccp_imagemap_min', 'ipccp_imagemap_max', 'ipccp_last_run_time_finish', 'ipccp_user_table_name', 'ipccp_user_table_key', 'ipccp_user_add_my_place', 'ipccp_user_my_place_long', 'ipccp_user_my_place_lat', 'ipccp_user_DS_MIN', 'ipccp_user_DS_MAX', 'ipccp_user_DS_STEPS', 'ipccp_user_DS_LOW', 'ipccp_user_DS_HIGH', 'ipccp_user_Border_Dot_Outer', 'ipccp_user_Color_Crosshair', 'ipccp_user_Color_Dot_Outer', 'ipccp_user_Color_Dot_InnerMax', 'ipccp_user_Color_Dot_InnerMin', 'ipccp_user_which_clustering', 'ipccp_user_SCC', 'ipccp_user_CDist', 'ipccp_user_delay', 'ipccp_user_time_limit', 'ipccp_user_template_output', 'ipccp_user_use_imagemap', 'ipccp_user_show_small_picture', 'ipccp_user_image_width_min', 'ipccp_user_image_width_max', 'ipccp_user_redraw_on_update', 'ipccp_user_read_from_file', 'ipccp_user_file_name', 'ipccp_user_filter_includes', 'ipccp_user_draw_legend', 'ipccp_user_memory_efficient', 'ipccp_user_jpg_quality', 'ipccp_user_cluster_steps', 'ipccp_user_which_cluster_steps', 'ipccp_status');
+DELETE FROM wp_options WHERE option_name LIKE 'ipccp_%';
+

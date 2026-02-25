@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_wp_wlh_cron_queue",
+    "wp_wlh_db_version",
+    "wp_wlh_install",
+    "wp_wlh_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_wlh_cron_job"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_wlh_linking_to",
+    "_wp_wlh_linking_here"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:50.686Z"
+}

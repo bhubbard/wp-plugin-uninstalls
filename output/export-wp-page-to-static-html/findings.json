@@ -1,0 +1,57 @@
+{
+  "options": [
+    "rcExportHtmlKeepSameName",
+    "rcExportHtmlAddContentsToTheHeader",
+    "rcExportHtmlAddContentsToTheFooter",
+    "rcExportHtmlSearchFor",
+    "rcExportHtmlReplaceWith",
+    "wpptsh_user_roles",
+    "ewptshp_worker_token",
+    "rcExportHtmlCreateIndexOnSinglePage",
+    "rc_url_to_replace",
+    "rcExportHtmlExcludeUrls",
+    "html_export_cookies",
+    "RcDownloadTotalQueue",
+    "SetTotalDownloaded",
+    "*currently_exporting_url",
+    "*currently_exporting_item",
+    "rc_export_html_ftp_connection_status",
+    "rc_export_html_ftp_data",
+    "rcwph_hidden_files",
+    "*task",
+    "*pages_data",
+    "rcExportHtmlSaveAllAssetsToSpecificDir",
+    "_user_roles_can_generate_pdf",
+    "ewpptsh_review_status",
+    "ewpptsh_next_review_status",
+    "ewpptsh_review_status2",
+    "ewpptsh_next_review_status2",
+    "recorp_ewpp_settings",
+    "wpptsh_hide_review",
+    "export_wp_page_to_html_activation_check",
+    "wpptsh_db_version",
+    "wpptsh_notices",
+    "wpptsh_notices_clicked_data",
+    "rc_export_pages_as_html_task",
+    "rc_is_export_pages_zip_downloaded",
+    "rc_single_post_exporting",
+    "rc_single_post_exporting_post_name"
+  ],
+  "transients": [
+    "doing_cron"
+  ],
+  "cron_jobs": [
+    "next_page_export_from_queue",
+    "start_export_internal_wp_page_to_html_event",
+    "wpptsh_daily_schedules",
+    "start_export_custom_url_to_html_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pdf_export_log",
+    "_upload_to_ftp_path",
+    "_upload_to_ftp"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:20.047Z"
+}

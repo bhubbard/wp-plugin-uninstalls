@@ -1,0 +1,37 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "active_sitewide_plugins",
+    "wcfm_capability_options",
+    "wcfm_marketplace_options",
+    "woocommerce_manage_stock",
+    "woocommerce_price_num_decimals",
+    "wcfmvm_registration_custom_fields",
+    "wcfm_shipping_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "*user_avatar",
+    "display_type",
+    "order",
+    "thumbnail_id",
+    "wp_user_avatar",
+    "wcfmmp_profile_settings",
+    "_disable_vendor",
+    "_wcfm_store_offline",
+    "_wcfm_email_verified",
+    "_wcfm_email_verified_for",
+    "wcfmvm_custom_infos",
+    "wcfm_membership",
+    "wcfm_membership_next_schedule",
+    "subscription",
+    "wcfm_membership_billing_period",
+    "wcfm_membership_billing_cycle"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:46.119Z"
+}

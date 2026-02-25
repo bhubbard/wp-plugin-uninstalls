@@ -1,0 +1,17 @@
+{
+  "options": [
+    "yoco_wc_payment_gateway_version",
+    "woocommerce_class_yoco_wc_payment_gateway_settings",
+    "yoco_orders_pending_payment",
+    "woocommerce_hold_stock_minutes"
+  ],
+  "transients": [
+    "yoco_webhook_processing",
+    "yoco_order_processing_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:58.364Z"
+}

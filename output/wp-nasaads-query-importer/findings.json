@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_nasaads_query_importer-token",
+    "wp_nasaads_query_importer-template",
+    "wp_nasaads_query_importer-template_start",
+    "wp_nasaads_query_importer-template_stop",
+    "wp_nasaads_query_importer-numrecords",
+    "wp_nasaads_query_importer-empty_list",
+    "wp_nasaads_query_importer-acknowledge",
+    "wp_nasaads_query_importer-valid_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:47.512Z"
+}

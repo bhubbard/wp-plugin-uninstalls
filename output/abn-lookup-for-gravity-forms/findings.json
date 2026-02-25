@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gravityformsaddon_itsg_gf_abnlookup_settings_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "itsg_abnlookup_clear_cache_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:08.196Z"
+}

@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sovrn_workbench-user_action', 'sovrn_workbench-publish_modal_post_id', 'sovrn_workbench-article_id', 'sovrn_workbench-amp_enabled', 'sovrn_workbench-facebook_enabled', 'sovrn_workbench-fbia_started', 'sovrn_workbench-twitter_enabled', 'sovrn_workbench-google_plus_enabled', 'sovrn_workbench-apple_news_enabled', 'sovrn_workbench-publish_modal_is_facebook', 'sovrn_workbench-publish_modal_is_twitter', 'sovrn_workbench-publish_modal_is_google_plus', 'sovrn_workbench-publish_modal_is_apple_news', 'sovrn_workbench_do_activation_redirect', 'sovrn_workbench-publish_modal_user_status', 'sovrn_workbench-country_code', 'sovrn_workbench-privacy_policy', 'sovrn_workbench-terms_n_conditions', 'sovrn_workbench-email', 'sovrn_workbench-password', 'sovrn_workbench-password_confirm', 'sovrn_workbench-authentication-error', 'sovrn_workbench-auth_token', 'sovrn_workbench-sso-country_code', 'sovrn_workbench-sso-privacy_policy', 'sovrn_workbench-sso-terms_n_conditions', 'sovrn_workbench-sso-username', 'sovrn_workbench-sso-password', 'sovrn_workbench-login_username', 'sovrn_workbench-login_password', 'sovrn_workbench-username', 'sovrn_workbench-login_email', 'sovrn_workbench-reset_login_email', 'sovrn_workbench-reset_temporary_password', 'sovrn_workbench-reset_password', 'sovrn_workbench-reset_confirm_password', 'sovrn_workbench-in-password-recovery-mode', 'sovrn_workbench-forgot_password_email', 'sovrn_workbench-selected_facebook_page_id', 'sovrn_workbench-apple-news-key', 'sovrn_workbench-apple-news-secret', 'sovrn_workbench-apple-news-channel', 'sovrn_workbench-apple-news-section', 'sovrn_workbench-apple-news-edit', 'sovrn_workbench-apple-news-channel-name', 'sovrn_workbench-apple-news-site', 'sovrn_workbench-apple-news-share-url', 'sovrn_workbench_priority', 'sovrn_option_name', 'sovrn_workbench-admin_notices');
+DELETE FROM wp_options WHERE option_name LIKE '%_last_sent';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('sovrn_likes', 'sovrn_shares', 'sovrn_comments', 'sovrn_insights_last_updated');
+DELETE FROM wp_usermeta WHERE meta_key IN ('sovrn_likes', 'sovrn_shares', 'sovrn_comments', 'sovrn_insights_last_updated');
+DELETE FROM wp_termmeta WHERE meta_key IN ('sovrn_likes', 'sovrn_shares', 'sovrn_comments', 'sovrn_insights_last_updated');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('sovrn_likes', 'sovrn_shares', 'sovrn_comments', 'sovrn_insights_last_updated');
+

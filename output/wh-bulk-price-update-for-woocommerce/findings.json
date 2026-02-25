@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wh_bulk_price_update_block_size",
+    "wh_bulk_price_update_preview_block_size",
+    "wh_bulk_price_update_time_limit"
+  ],
+  "transients": [
+    "*_en",
+    "*_de"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:11.605Z"
+}

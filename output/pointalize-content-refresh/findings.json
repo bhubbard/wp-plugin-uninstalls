@@ -1,0 +1,18 @@
+{
+  "options": [
+    "plzcr_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "plzcr_digest_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_plz_fresh_never",
+    "_plz_fresh_interval_days",
+    "_plz_fresh_last_reviewed",
+    "_plz_fresh_snooze_until"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:56.700Z"
+}

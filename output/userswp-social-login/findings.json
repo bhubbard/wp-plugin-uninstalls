@@ -1,0 +1,27 @@
+{
+  "options": [
+    "uwp_social_db_version",
+    "uwp-social-authuri-notice-dismissed",
+    "uwp_settings"
+  ],
+  "transients": [
+    "_uwp_social_activation_redirect",
+    "uwp_social_profile_incomplete_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_uwp_social_login",
+    "user_registered",
+    "_uwp_register_form_id",
+    "first_name",
+    "last_name",
+    "is_uwp_social_login_no_password",
+    "uwp_social_login_provider",
+    "uwp_mod",
+    "uwp_current_provider",
+    "uwp_social_user_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:00.185Z"
+}

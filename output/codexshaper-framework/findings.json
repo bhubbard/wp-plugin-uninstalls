@@ -1,0 +1,16 @@
+{
+  "options": [
+    "csmf_post_types_cache",
+    "csmf_taxonomies_cache",
+    "csmf_module_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "csmf_metabox_errors_*",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:31.053Z"
+}

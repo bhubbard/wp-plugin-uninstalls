@@ -1,0 +1,13 @@
+{
+  "options": [
+    "flsiwa_meta_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:41.001Z"
+}

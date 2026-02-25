@@ -1,0 +1,22 @@
+{
+  "options": [
+    "accessibility_shopid",
+    "accessibility_primaryid",
+    "accessibility_install",
+    "my_plugin_selected_language",
+    "accessibility_do_redirect",
+    "ada_uninstall_reason",
+    "accessibility_tokken",
+    "accessibility_url",
+    "accessibility_plan",
+    "accessibility_widget_backup_*"
+  ],
+  "transients": [
+    "accessibility_widget_data_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:14.853Z"
+}

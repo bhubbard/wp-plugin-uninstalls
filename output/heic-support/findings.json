@@ -1,0 +1,15 @@
+{
+  "options": [
+    "heic_support_format",
+    "heic_support_replace"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_heic_support_copy_of",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:45.276Z"
+}

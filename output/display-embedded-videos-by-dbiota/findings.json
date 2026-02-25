@@ -1,0 +1,13 @@
+{
+  "options": [
+    "displayembeddedvideosbydb_tb_name",
+    "displayembeddedvideosbydb_flag_recreation",
+    "displayembeddedvideosbydb_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:49.261Z"
+}

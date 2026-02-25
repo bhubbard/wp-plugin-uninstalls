@@ -1,0 +1,37 @@
+{
+  "options": [
+    "sp_woo_gallery_slider_review_notice_dismiss",
+    "sp-smart-swatches-notice-dismissed",
+    "shapedplugin_offer_banner_dismissed_*",
+    "wcgs_settings",
+    "woo_gallery_slider_version",
+    "woo_gallery_slider_first_version",
+    "woo_gallery_slider_activation_date",
+    "woo_gallery_slider_db_version",
+    "wcgs_assigns",
+    "shapedplugin_offer_banner_dismissed_black_friday_2025",
+    "shapedplugin_offer_banner_dismissed_new_year_2026"
+  ],
+  "transients": [
+    "wcgs_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcgs_assign_layout_settings",
+    "wcgs_layouts_metaboxes",
+    "wcgs_metabox",
+    "wcgs_video",
+    "woo_gallery_slider",
+    "_wcgs_errors_*",
+    "_wc_additional_variation_images",
+    "_product_image_gallery",
+    "rtwpvg_images",
+    "wavi_value",
+    "woo_variation_gallery_images",
+    "_wc_attachment_source",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:03.581Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "shorten2list_options_*",
+    "shorten2list_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "short_url",
+    "sent-by-mail"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:38.414Z"
+}

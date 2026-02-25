@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_license",
+    "*_options",
+    "elementor_cpt_support",
+    "*_version",
+    "*_was_wp_org",
+    "*_previous_version",
+    "*_previous_was_wp_org"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:07.436Z"
+}

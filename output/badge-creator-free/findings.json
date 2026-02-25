@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_badgeCreator_width",
+    "_badgeCreator_height",
+    "_badgeCreator_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:15.008Z"
+}

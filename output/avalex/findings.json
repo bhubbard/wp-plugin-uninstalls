@@ -1,0 +1,15 @@
+{
+  "options": [
+    "avalex_api_key",
+    "avalex_valid_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "avalex_cron_event",
+    "avalex_update_dse_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:56.857Z"
+}

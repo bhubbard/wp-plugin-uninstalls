@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_offset"
+  ],
+  "transients": [
+    "cwps_acf_acfe_form_action_activity",
+    "cwps_acf_acfe_form_action_case",
+    "cwps_acf_acfe_form_action_contact",
+    "cwps_acf_acfe_form_action_event",
+    "cwps_acf_acfe_form_action_participant"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:28.572Z"
+}

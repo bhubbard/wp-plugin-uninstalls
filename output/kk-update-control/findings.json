@@ -1,0 +1,14 @@
+{
+  "options": [
+    "kk_uc_core_default_disable",
+    "kk_uc_plugins_default_disable",
+    "kk_uc_themes_default_disable",
+    "kk_uc_translations_default_disable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:51.801Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_analytics_optin",
+    "*_analytics_installed_time"
+  ],
+  "transients": [
+    "bsf_analytics_track"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:19.085Z"
+}

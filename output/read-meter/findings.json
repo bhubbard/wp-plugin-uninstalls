@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bsf_rt_general_settings",
+    "bsf_rt_saved_msg",
+    "bsf_rt_read_time_settings",
+    "bsf_rt_progress_bar_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:46.408Z"
+}

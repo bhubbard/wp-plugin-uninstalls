@@ -1,0 +1,19 @@
+{
+  "options": [
+    "herogi_api_key",
+    "herogi_api_secret",
+    "herogi_tracking_domain",
+    "herogi_api_url",
+    "herogi_push_notification_enabled",
+    "herogi_location_tracking_enabled",
+    "herogi_click_tracking_enabled",
+    "herogi_pageload_tracking_enabled",
+    "herogi_sdk_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:44.187Z"
+}

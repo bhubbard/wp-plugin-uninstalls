@@ -1,0 +1,24 @@
+{
+  "options": [
+    "tbss_EnableExternalService",
+    "tbss_LinkMode",
+    "tbss_OpenInNewTab",
+    "tbss_RespectExistingLinks",
+    "tbss_SkipTags",
+    "tbss_SkipClasses",
+    "tbss_ThemeMode",
+    "tbs_EnableExternalService",
+    "tbs_LinkMode",
+    "tbs_OpenInNewTab",
+    "tbs_RespectExistingLinks",
+    "tbs_SkipTags",
+    "tbs_SkipClasses",
+    "tbs_ThemeMode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:53.941Z"
+}

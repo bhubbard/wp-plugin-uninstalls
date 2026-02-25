@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tchpcs_displayimage",
+    "tchpcs_word_limit",
+    "tchpcs_query_posts_showposts",
+    "tchpcs_query_posts_orderby",
+    "tchpcs_query_posts_order",
+    "tchpcs_query_posts_category"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:27.757Z"
+}

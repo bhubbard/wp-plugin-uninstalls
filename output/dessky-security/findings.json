@@ -1,0 +1,13 @@
+{
+  "options": [
+    "version",
+    "dessky_security_admin_footer_text_rated",
+    "dessky_security_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:41.485Z"
+}

@@ -1,0 +1,103 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'bpfwp-settings'
+wp option delete 'BPFWP_Trial_Happening'
+wp option delete 'bpfwp_custom_field_values'
+wp option delete 'rewrite_rules'
+wp option delete 'bpfwp-installation-time'
+wp option delete 'bpfwp-permission-level'
+wp option delete 'bpfwp-review-ask-time'
+
+# Delete Transients
+wp transient delete 'bpfwp-getting-started'
+wp transient delete 'fsp-helper-notice-dismissed'
+wp transient delete 'bpfwp-ait-iat-plugin-notice-dismissed'
+wp transient delete 'bpfwp-admin-install-notice'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'contact_post'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'contact_post'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'contact_post'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'contact_post'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'ordering-link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'ordering-link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'ordering-link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'ordering-link'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'contact_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'contact_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'contact_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'contact_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'clickphone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'clickphone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'clickphone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'clickphone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cell-phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cell-phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cell-phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cell-phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'clickcellphone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'clickcellphone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'clickcellphone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'clickcellphone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'whatsapp'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'whatsapp'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'whatsapp'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'whatsapp'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'whatsappdisplay'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'whatsappdisplay'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'whatsappdisplay'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'whatsappdisplay'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'whatsapptext'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'whatsapptext'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'whatsapptext'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'whatsapptext'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'fax'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'fax'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'fax'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'fax'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'opening_hours'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'opening_hours'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'opening_hours'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'opening_hours'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exceptions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exceptions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exceptions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exceptions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'disable_main_exceptions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'disable_main_exceptions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'disable_main_exceptions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'disable_main_exceptions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'custom_field_values'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'custom_field_values'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'custom_field_values'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'custom_field_values'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bpfwp-schema-data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bpfwp-schema-data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bpfwp-schema-data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bpfwp-schema-data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'bpfwp_values_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'bpfwp_values_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'bpfwp_values_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'bpfwp_values_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'rating'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'rating'"

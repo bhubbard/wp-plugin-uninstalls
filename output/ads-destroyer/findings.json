@@ -1,0 +1,25 @@
+{
+  "options": [
+    "adsd_activation_time",
+    "adsd_new_options",
+    "adsd_new_logging_enabled",
+    "adsd_log_level",
+    "adsd_logging_enabled",
+    "adsd_log_levels",
+    "adsd_new_network_options"
+  ],
+  "transients": [
+    "adsd_new_cache",
+    "adsd_new_rules_cache"
+  ],
+  "cron_jobs": [
+    "adsd_new_cleanup_expired_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "adsd_selection_mode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:01.764Z"
+}

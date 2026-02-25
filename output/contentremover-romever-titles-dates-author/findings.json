@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_contentremover_hide_title",
+    "_contentremover_hide_date",
+    "_contentremover_hide_author"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:29.825Z"
+}

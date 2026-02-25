@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wspd_settings_discount_percentage_position_on_shop', 'wspd_settings_discount_percentage_position_on_product', 'wspd_settings_enable_discount_percentage_on_shop', 'wspd_settings_enable_discount_percentage_color_on_shop', 'wspd_settings_discount_percentage_color_on_shop', 'wspd_settings_discount_percentage_text_on_shop', 'wspd_settings_discount_percentage_css_on_shop', 'wspd_settings_discount_percentage_css_on_sale_flash', 'wspd_settings_enable_discount_percentage_on_sale_flash', 'wspd_settings_discount_percentage_text_on_sale_flash', 'wspd_settings_enable_discount_percentage_on_product', 'wspd_settings_discount_percentage_text_on_product', 'wspd_settings_discount_percentage_css_on_product');
+

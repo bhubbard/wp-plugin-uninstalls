@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "lh_wayback_machine_single",
+    "lh_wayback_machine_process"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_lh_wayback_machine-timestamp",
+    "_lh_wayback_machine-last_result"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:51.287Z"
+}

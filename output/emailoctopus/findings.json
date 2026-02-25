@@ -1,0 +1,20 @@
+{
+  "options": [
+    "emailoctopus_api_key"
+  ],
+  "transients": [
+    "emailoctopus_form_settings_saved_status",
+    "emailoctopus_api_refresh_status",
+    "emailoctopus_load_forms",
+    "emailoctopus_api_disconnect_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_emailoctopus_form_automatic_display",
+    "_emailoctopus_form_id",
+    "_emailoctopus_form_post_types"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:14.713Z"
+}

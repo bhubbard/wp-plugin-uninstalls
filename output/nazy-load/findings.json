@@ -1,0 +1,21 @@
+{
+  "options": [
+    "flying_images_cdn_exclude_keywords",
+    "flying_images_lazymethod",
+    "flying_images_exclude_keywords",
+    "flying_images_enable_cdn",
+    "flying_images_enable_lazyloading",
+    "flying_images_enable_responsive_images",
+    "flying_images_enable_compression",
+    "flying_images_quality",
+    "FLYING_IMAGES_VERSION",
+    "flying_images_margin",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:35.230Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "ptiwmm_title",
+    "ptiwmm_banner_image",
+    "ptiwmm_headline",
+    "ptiwmm_message",
+    "ptiwmm_countdown_date",
+    "ptiwmm_footer_copyright",
+    "ptiwmm_enabled",
+    "ptiwmm_background_color",
+    "ptiwmm_text_color",
+    "ptiwmm_ga_code",
+    "ptiwmm_503_enabled",
+    "ptiwmm_selected_pages",
+    "ptiwmm_mode",
+    "ptiwmm_bypass_key",
+    "ptiwmm_selected_template",
+    "ptiwmm_uploaded_images"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:57.978Z"
+}

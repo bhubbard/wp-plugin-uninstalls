@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'document_engine_queue_flush_rewrite_rules'
+wp option delete 'document_engine_pdf_button_text'
+wp option delete 'document_engine_pdf_post_type'
+wp option delete 'document_engine_pdf_button_action'
+wp option delete 'document_engine_pdf_button_position'
+wp option delete 'document_engine_pdf_button_alignment'
+wp option delete 'document_engine_pdf_header_logo'
+wp option delete 'document_engine_pdf_header_show_post_title'
+wp option delete 'document_engine_pdf_header_show_pagination'
+wp option delete 'document_engine_pdf_footer_text'
+wp option delete 'document_engine_pdf_footer_show_post_title'
+wp option delete 'document_engine_pdf_footer_show_pagination'
+wp option delete 'document_engine_pdf_page_orientation'
+wp option delete 'document_engine_pdf_page_font_size'
+wp option delete 'document_engine_pdf_page_margin_left'
+wp option delete 'document_engine_pdf_page_margin_right'
+wp option delete 'document_engine_pdf_page_margin_top'
+wp option delete 'document_engine_pdf_page_margin_bottom'
+wp option delete 'document_engine_pdf_page_margin_header'
+wp option delete 'document_engine_pdf_page_protected_permissions'
+wp option delete 'document_engine_pdf_page_keep_columns'
+wp option delete 'document_engine_pdf_page_enable_protection'
+wp option delete 'document_engine_pdf_use_theme_style'
+wp option delete 'document_engine_pdf_custom_css'
+wp option delete 'document_engine_pdf_header_font_size'
+wp option delete 'document_engine_pdf_footer_font_size'
+

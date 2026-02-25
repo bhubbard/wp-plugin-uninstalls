@@ -1,0 +1,26 @@
+{
+  "options": [
+    "brimp_activity_log"
+  ],
+  "transients": [
+    "brimp_oauth_error",
+    "brimp_oauth_state",
+    "brimp_simple_import_running",
+    "brimp_advanced_import_running",
+    "brimp_initial_import_running"
+  ],
+  "cron_jobs": [
+    "brimp_simple_import",
+    "brimp_advanced_import",
+    "brimp_initial_import_batch"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*google_review_id",
+    "*import_time",
+    "*import_mode",
+    "*test_import"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:05.660Z"
+}

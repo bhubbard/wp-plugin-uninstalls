@@ -1,0 +1,19 @@
+{
+  "options": [
+    "multiSMTP_server_count",
+    "multiSMTP_lastServer",
+    "*_host",
+    "*_port",
+    "*_username",
+    "*_password",
+    "multiSMTP_from_address",
+    "multiSMTP_from_name",
+    "*_security"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:00.978Z"
+}

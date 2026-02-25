@@ -1,0 +1,17 @@
+{
+  "options": [
+    "google_api_key",
+    "sc_gds_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "autocomplete",
+    "latitude",
+    "longitude",
+    "wpgeoloc_coords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:26.932Z"
+}

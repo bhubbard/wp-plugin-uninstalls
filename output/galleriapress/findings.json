@@ -1,0 +1,23 @@
+{
+  "options": [
+    "galleriapress",
+    "galleriapress_default_gallery",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "galleriapress_items",
+    "galleriapress_common",
+    "galleriapress_picasa",
+    "galleriapress_wp_media",
+    "_wp_attachment_image_alt",
+    "galleriapress_profile",
+    "galleriapress_link_profile",
+    "default_gallery_profile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:58.599Z"
+}

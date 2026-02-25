@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpstacker_version', 'wpstacker_statistics', 'wpstacker_key_a', 'wpstacker_key_b', 'wpstacker_pocket_consumer_key', 'wpstacker_pocket_access_key', 'wpstacker_pocket_username', 'wpstacker_entry_building', 'wpstacker_title', 'wpstacker_introduction_text', 'wpstacker_statements_text', 'wpstacker_language', 'wpstacker_pocket_consumer_key_custom', 'wpstacker_links_to_use', 'wpstacker_faved', 'wpstacker_order', 'wpstacker_mark_as_readed', 'wpstacker_clean_url', 'wpstacker_meta_keyword_as_tags', 'wpstacker_reference_wpstacker', 'wpstacker_post_status', 'wpstacker_post_format', 'wpstacker_post_category', 'wpstacker_comment_status', 'wpstacker_ping_status');
+

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cf7_inbound_organizer_columns",
+    "cf7_inbound_organizer_general"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_from_name",
+    "_from_email",
+    "_subject",
+    "_cf7io_color",
+    "_meta",
+    "_cf7io_notes",
+    "_fields",
+    "_field_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:33.730Z"
+}

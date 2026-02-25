@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_corcrm_payment_settings",
+    "woocommerce_estimate_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hiecor_product_id",
+    "_wc_cog_cost",
+    "hwp_var_gtin",
+    "hcv4_page_tracking",
+    "_bundle_items",
+    "msrp",
+    "hiecor_order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:01.461Z"
+}

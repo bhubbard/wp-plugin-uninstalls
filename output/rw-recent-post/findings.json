@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "date_posted",
+    "rwrptpost_type_",
+    "number_of_post",
+    "poststyle"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:37.363Z"
+}

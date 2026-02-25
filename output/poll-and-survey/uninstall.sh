@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pasp_poll_option'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pasp_poll_option'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pasp_poll_option'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pasp_poll_option'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pasp_poll_option_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pasp_poll_option_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pasp_poll_option_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pasp_poll_option_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pasp_poll_vote_total_count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pasp_poll_vote_total_count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pasp_poll_vote_total_count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pasp_poll_vote_total_count'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'pasp_poll_vote_count_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'pasp_poll_vote_count_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'pasp_poll_vote_count_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'pasp_poll_vote_count_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pasp_poll_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pasp_poll_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pasp_poll_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pasp_poll_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pasp_poll_option_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pasp_poll_option_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pasp_poll_option_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pasp_poll_option_image'"

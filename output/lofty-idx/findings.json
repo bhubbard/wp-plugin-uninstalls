@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_page_id",
+    "lofty_idx_needs_rewrite_flush",
+    "lofty_idx_secret_key",
+    "lofty_idx_listing_page_id",
+    "lofty_idx_listing_detail_page_id",
+    "lofty_idx_sold_listing_page_id",
+    "lofty_idx_sold_detail_page_id",
+    "lofty_idx_db_version",
+    "lofty_idx_custom_css",
+    "lofty_idx_custom_js",
+    "lofty_idx_custom_html",
+    "widget_lofty_widget_quick_search",
+    "lofty_idx_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:03.845Z"
+}

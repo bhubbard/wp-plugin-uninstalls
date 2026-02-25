@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sm_sql_logs_options",
+    "sm_sql_logs_settings",
+    "sql_logs_db_version",
+    "SM_SQL_LOGS_VERSION"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:02.302Z"
+}

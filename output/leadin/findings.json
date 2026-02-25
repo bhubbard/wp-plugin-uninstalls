@@ -1,0 +1,32 @@
+{
+  "options": [
+    "wpe_template",
+    "leadin_portalId",
+    "leadin_account_name",
+    "leadin_portal_domain",
+    "leadin_hublet",
+    "leadin_disable_internal_tracking",
+    "leadin_business_unit_id",
+    "leadin_access_token",
+    "leadin_refresh_token",
+    "leadin_expiry_time",
+    "leadin_activation_time",
+    "leadin_content_embed_ui_install"
+  ],
+  "transients": [
+    "proxy_mappings"
+  ],
+  "cron_jobs": [
+    "leadin_update_proxy_mappings"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "leadin_email",
+    "leadin_skip_review",
+    "leadin_review_banner_last_call",
+    "leadin_has_min_contacts",
+    "leadin_track_consent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:55.559Z"
+}

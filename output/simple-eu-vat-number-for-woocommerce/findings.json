@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vat_number",
+    "is_vat_exempt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:36.536Z"
+}

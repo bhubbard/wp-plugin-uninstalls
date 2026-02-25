@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bed_booking_access_token"
+  ],
+  "transients": [
+    "bed_booking_calendar_id",
+    "bed_booking_user",
+    "bed_booking_object",
+    "bed_booking_widget_settings",
+    "bed_booking_license",
+    "bed_booking_rooms"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:32.674Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pricelist_header",
+    "pricelist_logo",
+    "facebook_chat",
+    "woocommerce_cart_redirect_after_add"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "post_size",
+    "_sale_price",
+    "_regular_price",
+    "_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:10.089Z"
+}

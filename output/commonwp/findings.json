@@ -1,0 +1,13 @@
+{
+  "options": [
+    "commonwp_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "for_recently_upgraded_core"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:25.126Z"
+}

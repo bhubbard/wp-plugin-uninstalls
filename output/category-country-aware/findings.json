@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ccax_options",
+    "cookie_notice_options",
+    "cca_configcodes",
+    "CCA_WID_VERSION",
+    "CCA_VIRGIN_INSTALL",
+    "ccax_post_widgets",
+    "cc_maxmind_status",
+    "ccax_maxmind_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:21.595Z"
+}

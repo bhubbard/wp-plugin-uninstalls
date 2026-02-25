@@ -1,0 +1,32 @@
+{
+  "options": [
+    "pad_a_auto_update_data",
+    "PAD_a_auto_update_desc",
+    "regnow_affiliae_id",
+    "PAD_a_auto_acc",
+    "PAD_a_auto_update_data",
+    "regnow_affiliate_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "PAD_a_download_count",
+    "PAD_a_d_url",
+    "PAD_a_url",
+    "PAD_a_s_version",
+    "PAD_a_release_date",
+    "PAD_a_screenshot",
+    "PAD_a_o_url",
+    "PAD_a_licence",
+    "PAD_a_os",
+    "PAD_a_lang",
+    "PAD_a_price",
+    "PAD_a_regnow_p_id",
+    "PAD_a_editor_url",
+    "PAD_a_editor",
+    "PAD_a_is_software"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:40.101Z"
+}

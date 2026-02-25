@@ -1,0 +1,17 @@
+{
+  "options": [
+    "btw_importer_data",
+    "btw_importer_status"
+  ],
+  "transients": [
+    "btw_importer_current_file",
+    "btw_importer_image_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_old_permalink"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:30.152Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bh_related_post_options"
+  ],
+  "transients": [
+    "bh_related_post_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:00.864Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "ssc_cache_products",
+    "ssc_plugin_version",
+    "ssc_valid_api_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ssc_send_user_has_access_to_post_notification",
+    "simpleshop_send_welcome_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ssc_groups",
+    "*date_to_access",
+    "*date_until_to_access",
+    "*days_to_access",
+    "*expire_days_after_registration",
+    "_ssc_no_access_redirect_post_id",
+    "_ssc_no_access_redirect",
+    "_ssc_new_user",
+    "*email_user_can_access",
+    "*email_subject_user_can_access",
+    "_ssc_user_groups",
+    "_ssc_group_subscription_valid_to_*",
+    "_ssc_group_subscription_date_*",
+    "*user_groups",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:03.245Z"
+}

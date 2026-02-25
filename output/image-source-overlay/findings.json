@@ -1,0 +1,21 @@
+{
+  "options": [
+    "image_so_position",
+    "image_so_source_text",
+    "image_so_only_post",
+    "image_so_nofollow",
+    "image_so_version_number",
+    "image_so_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "image_so_source_name",
+    "image_so_source_url",
+    "image_so_source_position",
+    "image_so_nofollow"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:07.728Z"
+}

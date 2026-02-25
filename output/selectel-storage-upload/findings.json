@@ -1,0 +1,24 @@
+{
+  "options": [
+    "selupload_username",
+    "selupload_pass",
+    "selupload_auth",
+    "selupload_container",
+    "selupload_path_in_storage",
+    "selupload_debug",
+    "selupload_lazyuploading",
+    "selupload_notoverewrite",
+    "selupload_delafter",
+    "selupload_filter",
+    "selupload_del"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "selupload_scheduleUpload",
+    "selupload_delFile"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:53.003Z"
+}

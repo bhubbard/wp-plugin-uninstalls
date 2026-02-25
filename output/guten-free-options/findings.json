@@ -1,0 +1,32 @@
+{
+  "options": [
+    "gfo_lock_settings",
+    "gfo_lock_network_settings",
+    "active_sitewide_plugins",
+    "guten_free_options",
+    "*_sidebar_options",
+    "network_default_editor",
+    "sidebars_widgets",
+    "*_first_install",
+    "*_ads_box_off",
+    "*_donation_box_off",
+    "*_report_box_off"
+  ],
+  "transients": [
+    "wordquest_plugin_info",
+    "update_plugins",
+    "wordquest_guides_feed",
+    "wordquest_quest_feed",
+    "pluginreview_newest_feed",
+    "prn_feed",
+    "pluginreview_updated_feed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_default_editor",
+    "_editor_override"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:51.835Z"
+}

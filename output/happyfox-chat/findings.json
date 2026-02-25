@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hfc_api_key",
+    "hfc_embed_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:31.596Z"
+}

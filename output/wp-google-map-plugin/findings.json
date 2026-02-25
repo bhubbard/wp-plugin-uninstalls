@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wpgmp_settings",
+    "wpgmp_location_extrafields",
+    "fc_*",
+    "*_latest_version",
+    "weplugins_notification",
+    "*-fc-styles",
+    "wpgmp_integrations_data",
+    "wpgmp_current_csv",
+    "op_activated",
+    "wpgmp_language",
+    "wpgmp_api_key",
+    "wpgmp_scripts_place",
+    "wpgmp_allow_meta",
+    "wpgmp_scripts_minify",
+    "wpgmp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpmapspro_check_notification"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:18.082Z"
+}

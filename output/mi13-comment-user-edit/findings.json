@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mi13_comment_user_edit"
+  ],
+  "transients": [
+    "mi13_comment_user_edit_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:10.527Z"
+}

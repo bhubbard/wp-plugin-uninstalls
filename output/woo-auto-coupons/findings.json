@@ -1,0 +1,35 @@
+{
+  "options": [
+    "wac_pro_version",
+    "wac_db_version",
+    "wac_uninstall",
+    "wac_cart_page",
+    "wac_checkout_page",
+    "wac_bulk_apply_future",
+    "wac_bulk_url_future",
+    "wac_coupon_email",
+    "wac_email_prompt",
+    "wac_email_err",
+    "wac_email_dismiss",
+    "wac_min_qty_ntf",
+    "wac_max_qty_ntf",
+    "wac_sc_cart",
+    "wac_dismiss_upgrade"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_qty_ntf",
+    "_wc_auto_apply",
+    "customer_email",
+    "_wc_url_apply",
+    "_wc_prefix",
+    "_wc_min_qty",
+    "_wc_max_qty",
+    "_wc_min_qty_ntf",
+    "_wc_max_qty_ntf"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:04.772Z"
+}

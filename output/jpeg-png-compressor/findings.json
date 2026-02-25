@@ -1,0 +1,32 @@
+{
+  "options": [
+    "pjci_api_key",
+    "pjci_sizes",
+    "pjci_responseCode",
+    "pjci_compression_timing",
+    "pjci_quota_remaining",
+    "pjci_total_credits",
+    "pjci_plan_name",
+    "pjci_quota_total",
+    "pjci_quota_used",
+    "pjci_response_message",
+    "pjci_response_errorMsg",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "pjci_api_responsecode"
+  ],
+  "transients": [
+    "pjci_rpc_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pjci_compress_images",
+    "pjci_check_bgcompress",
+    "pjci_single_images_check",
+    "pjci_inc_no"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:10.782Z"
+}

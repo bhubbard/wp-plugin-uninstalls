@@ -1,0 +1,25 @@
+{
+  "options": [
+    "custom_redirection_url",
+    "custom_redirection_enabled"
+  ],
+  "transients": [
+    "acpgc_feedback_message",
+    "acpgc_feedback_type",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acpgc_user_score",
+    "first_name",
+    "last_name",
+    "_acpgc_all_questions_answered",
+    "_acpgc_round_calculated",
+    "include_question_*",
+    "custom_avatar",
+    "league_owner"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:32.674Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "*_last_queried",
+    "ckwc_version",
+    "ck_code_verifier",
+    "*-review-request",
+    "*-review-dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ckwc_refresh_token",
+    "convertkit_resource_refresh_*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ckwc_subscription",
+    "ckwc_purchase_data_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:34.827Z"
+}

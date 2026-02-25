@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gallery_markers_setting_option_name",
+    "galleries-markers-demo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "glm_params",
+    "slides"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:25.962Z"
+}

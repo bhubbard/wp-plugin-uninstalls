@@ -1,0 +1,30 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "recipe_favorites",
+    "recipe_ratings",
+    "recipe_average_rating",
+    "recipe_shopping_list",
+    "recipe_prep_time",
+    "recipe_cook_time",
+    "recipe_difficulty",
+    "recipe_servings",
+    "recipe_dietary_restrictions",
+    "recipe_ingredients",
+    "onemorebite_favorites",
+    "onemorebite_ratings",
+    "onemorebite_avg_rating",
+    "onemorebite_shopping_list",
+    "onemorebite_prep_time",
+    "onemorebite_cook_time",
+    "onemorebite_difficulty",
+    "onemorebite_servings",
+    "onemorebite_dietary",
+    "onemorebite_ingredients"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:57.002Z"
+}

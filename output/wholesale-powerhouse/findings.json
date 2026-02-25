@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wholpo_settings",
+    "wholesale_powerhouse_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wh_tier_lite",
+    "_wh_hide_from_retail",
+    "_wh_price_*",
+    "wh_pending_approval",
+    "wh_tax_id",
+    "first_name",
+    "last_name",
+    "billing_company"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:58.512Z"
+}

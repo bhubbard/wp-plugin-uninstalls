@@ -1,0 +1,25 @@
+{
+  "options": [
+    "sbs_package",
+    "step_order",
+    "sbs_general",
+    "sbs_version",
+    "sbs_navbar",
+    "sbs_onf",
+    "sbs_display",
+    "sbs_premium_key"
+  ],
+  "transients": [
+    "sbs_premium_key_valid"
+  ],
+  "cron_jobs": [
+    "sbs_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_merch_credit",
+    "_required_product"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:29.737Z"
+}

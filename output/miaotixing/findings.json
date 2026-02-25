@@ -1,0 +1,13 @@
+{
+  "options": [
+    "miaotixing_option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "miaotixing_cron_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:55.442Z"
+}

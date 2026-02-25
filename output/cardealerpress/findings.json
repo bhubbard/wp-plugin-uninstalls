@@ -1,0 +1,36 @@
+{
+  "options": [
+    "cdp_admin_options",
+    "cdp_db_name_update",
+    "cdp_theme_options",
+    "cdp_shortcode_options",
+    "wporg_options",
+    "*_options",
+    "rewrite_rules",
+    "cardealerpress_settings",
+    "cdp_transfer_options",
+    "cardealerpress_extender_settings",
+    "cdp_requirements_checked",
+    "has_rewrite_for_plugin_name_new_taxonomies"
+  ],
+  "transients": [
+    "cdp_manual_update_handler_processing",
+    "cdp_manual_update_handler_processing_*",
+    "cdp_company_check_update_handler_processing_*",
+    "cdp_company_processing_*",
+    "cdp_check_for_company_update_*",
+    "cdp_custom_import_update",
+    "cdp_auto_update_handler_processing_*",
+    "dt_geo_data",
+    "cdp_dealer_names"
+  ],
+  "cron_jobs": [
+    "cdp_cron_inventory_update",
+    "cdp_cron_log_file_refresh",
+    "cdp_cron_company_handler_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:46.809Z"
+}

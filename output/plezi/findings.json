@@ -1,0 +1,16 @@
+{
+  "options": [
+    "plz_configuration_authentification_options",
+    "plz_configuration_tracking_options",
+    "classic-editor-replace",
+    "plz_configuration_options"
+  ],
+  "transients": [
+    "plezi_wpbakery_forms"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:32.779Z"
+}

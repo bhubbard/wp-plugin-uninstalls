@@ -1,0 +1,12 @@
+{
+  "options": [
+    "devgirl_reviews_option",
+    "devgirl_reviews_style_select"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:23.934Z"
+}

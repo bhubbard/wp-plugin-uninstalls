@@ -1,0 +1,22 @@
+{
+  "options": [
+    "settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "juvo_mail_editor_trigger_init",
+    "bl_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "icl_admin_language",
+    "*_recipients",
+    "*_subject",
+    "*_attachments",
+    "*_cc",
+    "*_bcc",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:35.625Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tp_tooltip_speed",
+    "tp_tooltip_width",
+    "tp_tooltip_delay",
+    "tp_tooltip_bgcolor",
+    "tp_tooltip_color",
+    "tp_tooltip_position",
+    "tp_tooltip_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:34.358Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ContentScheduler_Options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "contentscheduler*",
+    "contentscheduler"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cs-enable-schedule",
+    "_cs-expire-date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:39.798Z"
+}

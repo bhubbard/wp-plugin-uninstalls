@@ -1,0 +1,12 @@
+{
+  "options": [
+    "erf_cfdb7_settings",
+    "erf_cfdb7_clear_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:23.999Z"
+}

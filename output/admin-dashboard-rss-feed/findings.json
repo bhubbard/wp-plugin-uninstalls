@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wsx_rss_feed_image_attachment_id",
+    "wsx_logo_title",
+    "wsx_logo_target_link",
+    "wsx_rss_feed_url",
+    "wsx_rss_feed_count"
+  ],
+  "transients": [
+    "wsx-rss-feed-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:59.553Z"
+}

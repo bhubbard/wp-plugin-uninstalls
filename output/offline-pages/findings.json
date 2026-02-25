@@ -1,0 +1,15 @@
+{
+  "options": [
+    "opwp_allow_external_pages",
+    "opwp_allow_category_pages",
+    "opwp_allow_tag_pages",
+    "opwp_allow_author_pages",
+    "opwp_custom_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:05.747Z"
+}

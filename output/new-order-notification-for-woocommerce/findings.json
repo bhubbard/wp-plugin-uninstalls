@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_new_order_id_for_notification",
+    "__new_order_option",
+    "_order_id_for_new_order_notification",
+    "_non_v2_alert_options",
+    "nonw_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:03.787Z"
+}

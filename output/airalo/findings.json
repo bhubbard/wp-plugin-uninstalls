@@ -1,0 +1,14 @@
+{
+  "options": [
+    "airalo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "airalo_hourly_cron_hook",
+    "airalo_daily_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:25.638Z"
+}

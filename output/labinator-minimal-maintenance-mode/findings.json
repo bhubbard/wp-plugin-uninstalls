@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_settings",
+    "lmm_maintenance_settings",
+    "lmm_activation_welcome"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:32.977Z"
+}

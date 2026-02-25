@@ -1,0 +1,11 @@
+{
+  "options": [
+    "ncb_arm_404_log_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:09.372Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mt_posts_per_page",
+    "twiogle_make_no_follow",
+    "link_back_to_profile",
+    "remove_hashtags",
+    "twiogle_commenter_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "twiogle_find_and_post_comments"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:33.844Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "searchwp_modal_form_version",
+    "searchwp_modal_form_version_upgraded_from",
+    "searchwp_modal_form_last_update",
+    "searchwp_modal_form_activation_redirect",
+    "searchwp_modal_form_admin_notices"
+  ],
+  "transients": [
+    "searchwp_modal_form_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_swp_modal_forms_use_icon",
+    "searchwp_modal_form_admin_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:47.611Z"
+}

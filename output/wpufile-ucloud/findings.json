@@ -1,0 +1,13 @@
+{
+  "options": [
+    "medium_large_size_w",
+    "medium_large_size_h",
+    "WPUFile_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:28.620Z"
+}

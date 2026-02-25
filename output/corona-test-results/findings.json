@@ -1,0 +1,21 @@
+{
+  "options": [
+    "corona_test_results_options",
+    "dismissed_corona_test_results_rating_nag",
+    "corona_test_results_activationtime",
+    "dismissed_corona_test_results_*",
+    "*_page_created",
+    "corona_test_results_license_error",
+    "corona_test_results_quickcheckin_page_created",
+    "corona_test_results_result_invalid_page_created"
+  ],
+  "transients": [
+    "corona_test_results_license_error",
+    "corona_test_results_license_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:33.443Z"
+}

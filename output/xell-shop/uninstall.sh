@@ -1,0 +1,35 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'CWWYA_%'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_customer_user'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_customer_user'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_customer_user'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_customer_user'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'id_CWWYA'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'id_CWWYA'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'id_CWWYA'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'id_CWWYA'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'img'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'img'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'img'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'img'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'gallery_image%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'gallery_image%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'gallery_image%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'gallery_image%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'attribute_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'attribute_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'attribute_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'attribute_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'variations_CWWYA'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'variations_CWWYA'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'variations_CWWYA'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'variations_CWWYA'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'variations_aveonline'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'variations_aveonline'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'variations_aveonline'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'variations_aveonline'"

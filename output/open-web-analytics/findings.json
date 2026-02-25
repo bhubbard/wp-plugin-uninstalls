@@ -1,0 +1,11 @@
+{
+  "options": [
+    "owa_wp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:37.177Z"
+}

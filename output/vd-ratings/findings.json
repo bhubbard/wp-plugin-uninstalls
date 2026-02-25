@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_vd_user_login",
+    "_vd_rate_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vd_rate",
+    "rating_once",
+    "_vd_user_rate",
+    "_vd_post_rate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:56.525Z"
+}

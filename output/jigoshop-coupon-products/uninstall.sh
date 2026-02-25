@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'order_items'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'order_items'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'order_items'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'order_items'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'regular_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'locator_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'locator_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'locator_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'locator_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'usage_limit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'usage_limit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'usage_limit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'usage_limit'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'type'"

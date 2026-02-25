@@ -1,0 +1,24 @@
+{
+  "options": [
+    "onlistlists",
+    "onlistadmin",
+    "onlistinfo",
+    "onlist_date_plugin_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "onlist_country",
+    "onlist_address",
+    "onlist_city",
+    "onlist_state",
+    "onlist_zipcode",
+    "onlist_phone",
+    "onlist_email",
+    "onlist_website",
+    "onlist_other"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:33.639Z"
+}

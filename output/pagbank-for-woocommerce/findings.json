@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pagbank_stored_keypair"
+  ],
+  "transients": [
+    "pagbank_oauth_code_verifier",
+    "pagbank_oauth_application_id",
+    "pagbank_oauth_environment",
+    "pagbank_cached_request_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pagbank_account_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:22.569Z"
+}

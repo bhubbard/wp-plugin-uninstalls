@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpupg_activated",
+    "wpupg_flush",
+    "wpupg_migrated_to_version",
+    "wpupg_templates",
+    "wpupg_template_*",
+    "wpupg_option",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpupg_dismissed_notices",
+    "wpupg_custom_link",
+    "wpupg_custom_link_behaviour",
+    "wpupg_custom_link_nofollow",
+    "wpupg_custom_image",
+    "wpupg_custom_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:30.746Z"
+}

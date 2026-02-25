@@ -1,0 +1,13 @@
+{
+  "options": [
+    "disable_rss_feeds",
+    "disable_comments_on_pages",
+    "disable_comments_on_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:28.617Z"
+}

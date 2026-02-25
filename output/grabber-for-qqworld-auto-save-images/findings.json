@@ -1,0 +1,12 @@
+{
+  "options": [
+    "qqworld-auto-save-images-exclude-domain",
+    "qqworld-auto-save-images-grabber"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:31.095Z"
+}

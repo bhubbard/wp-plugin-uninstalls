@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_woo_additional_terms_page_id",
+    "_woo_additional_terms_notice",
+    "_woo_additional_terms_error",
+    "woo_additional_terms_onboarding",
+    "woo_additional_terms_rated",
+    "woo_additional_terms_activation_timestamp",
+    "woo_additional_terms_options",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:40.906Z"
+}

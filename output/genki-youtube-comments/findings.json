@@ -1,0 +1,15 @@
+{
+  "options": [
+    "genki_youtube_schedule",
+    "genki_youtube_skipspam",
+    "genki_commentlog"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "genki_youtube_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:02.050Z"
+}

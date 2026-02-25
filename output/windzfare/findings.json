@@ -1,0 +1,26 @@
+{
+  "options": [
+    "elementor_cpt_support",
+    "windzfare_installed",
+    "windzfare_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_windzfare",
+    "_windzfare_funding_goal",
+    "_windzfare_duration_start",
+    "_windzfare_duration_end",
+    "_windzfare_funding_video",
+    "_windzfare_campaign_end_method",
+    "_windzfare_country",
+    "_windzfare_location",
+    "_windzfare_primary_color",
+    "_sale_price",
+    "_price",
+    "repeatable_donation_level_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:48.441Z"
+}

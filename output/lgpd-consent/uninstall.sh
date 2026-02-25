@@ -1,0 +1,13 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'lgpd_consent_cyfer_options'
+wp option delete 'lgpd_consent_license_key'
+wp option delete 'lgpd_consent_license_status'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'lgpd_consent_cyfer_pro_notice_dismissed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'lgpd_consent_cyfer_pro_notice_dismissed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'lgpd_consent_cyfer_pro_notice_dismissed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'lgpd_consent_cyfer_pro_notice_dismissed'"

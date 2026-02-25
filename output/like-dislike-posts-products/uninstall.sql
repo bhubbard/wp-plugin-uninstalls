@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ldppp_enable_likes_plugin', 'ldppp_enable_product_achieve_page', 'ldppp_after_before_achieve_btn', 'ldppp_only_logged_in_rating_users', 'ldppp_auto_display_rating_progressbar', 'ldppp_enable_product_page', 'ldppp_after_before_btn', 'ldppp_display_in_template', 'ldppp_after_before_content', 'ldppp_only_logged_in_users', 'ldppp_hide_likes', 'ldppp_hide_dislikes', 'ldppp_hide_ratings_details', 'ldppp_hide_like_dislike_details', 'ldppp_enable_comments_vote', 'ldppp_count_type', 'ldppp_enable_post_view_read', 'ldppp_likedislike_progress_bar', 'ldppp_ratings_progress_bar', 'ldppp_comments_progress_bar', 'ldppp_auto_display_likedislike_buttons', 'ldppp_auto_display_likedislike_progressbar', 'ldppp_auto_display_rating', 'ldppp_custom_text', 'ldppp_like_color', 'ldppp_dislike_color', 'ldppp_where_want_display', 'ldppp_auto_display_comments', 'ldppp_custom_text_for_comments', 'ldppp_auto_display_progressbar_comments', 'ldppp_auto_display_post_views', 'ldppp_where_want_view_display', 'ldppp_content_read_percentage', 'ldppp_content_read_time', 'ldppp_prevent_multiple_ip', 'ldppp_view_counter_display', 'ldppp_enable_add_to_favorites', 'ldppp_auto_display_favorites', 'ldppp_where_want_add_to_favorites_display', 'ldppp_custom_add_to_favorites', 'ldppp_favourite_color_active', 'ldppp_favourite_color_deactive', 'ldppp_enable_social_share', 'ldppp_auto_display_social_share', 'ldppp_where_want_add_to_social_share_display', 'ldppp_custom_ss_text', 'ldppp_enable_copy_posts', 'ldppp_auto_display_copy_posts', 'ldppp_where_want_add_to_copy_posts_display', 'ldppp_custom_copy_posts_text');
+DELETE FROM wp_options WHERE option_name IN ('ldppp_display_admin_like_count', 'ldppp_display_admin_dislike_count', 'ldppp_display_admin_ratings_count', 'ldppp_display_admin_view_count', 'ldppp_enable_admin_comments', 'ldppp_like_dislike_color', 'ldppp_enable_achieve_product_page');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('ldppp_comment_likes', 'ldppp_comment_dislikes', 'ldppp_comment_voted_users');
+DELETE FROM wp_usermeta WHERE meta_key IN ('ldppp_comment_likes', 'ldppp_comment_dislikes', 'ldppp_comment_voted_users');
+DELETE FROM wp_termmeta WHERE meta_key IN ('ldppp_comment_likes', 'ldppp_comment_dislikes', 'ldppp_comment_voted_users');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('ldppp_comment_likes', 'ldppp_comment_dislikes', 'ldppp_comment_voted_users');
+

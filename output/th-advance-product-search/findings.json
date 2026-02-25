@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "th_advance_product_search"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "_menu_item_thaps_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:48.246Z"
+}

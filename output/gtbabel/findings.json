@@ -1,0 +1,20 @@
+{
+  "options": [
+    "gtbabel_url_settings",
+    "gtbabel_plugin_version",
+    "gtbabel_license_key"
+  ],
+  "transients": [
+    "gtbabel_public_urls",
+    "gtbabel_auto_grab_sitemap_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gtbabel_alt_lng",
+    "gtbabel_prevent_lngs",
+    "gtbabel__email_notifications_discovered_last_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:32.884Z"
+}

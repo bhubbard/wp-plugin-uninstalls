@@ -1,0 +1,19 @@
+{
+  "options": [
+    "exclude_pin_it_images",
+    "excluded_pint_it_pages",
+    "WL_Enable_Pinit_Post",
+    "WL_Enable_Pinit_Page",
+    "WL_Pinit_Btn_On_Hover",
+    "WL_Mobile_Status",
+    "WL_Pinit_Btn_Color",
+    "WL_Pinit_Btn_Design",
+    "WL_Pinit_Btn_Size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:14.192Z"
+}

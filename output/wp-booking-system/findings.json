@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpbs_settings",
+    "wpbs_hide_v2_welcome_screen",
+    "wpbs_db_version",
+    "wpbs_version",
+    "wpbs_first_activation",
+    "wpbs_upgrade_5_0_0",
+    "wpbs_upgrade_5_0_0_skipped",
+    "wpbs_serial_key",
+    "wpbs_registered_website_id",
+    "wpbs-options",
+    "wpbs-languages"
+  ],
+  "transients": [
+    "wpbs_subscription_type",
+    "wpbs_serial_status",
+    "wpbs_upgrader_legend_items_relationships"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:27.615Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "weeblramp_last_amp_suffix",
+    "weeblramp_last_op_mode",
+    "weeblramp_last_post_types_hash",
+    "disqus_forum_url",
+    "weeblramp_rewrite_rules_flush_required",
+    "weeblramp_activation_plugin_manager_errors",
+    "weeblramp_current_stylesheet",
+    "weeblramp_current_template",
+    "woocommerce_enable_review_rating",
+    "wblib_logging_config"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wbamp_enable_amp",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:53.675Z"
+}

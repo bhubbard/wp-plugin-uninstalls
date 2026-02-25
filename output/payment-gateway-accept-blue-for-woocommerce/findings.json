@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_acceptblue-ach_settings",
+    "woocommerce_acceptblue-cc_settings",
+    "woocommerce_force_ssl_checkout",
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "acceptblue_check_ach_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_acceptblue_xrefnum",
+    "_acceptblue_transaction_charged",
+    "Accept.blue Payment ID",
+    "_transaction_id",
+    "*_card_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:41.090Z"
+}

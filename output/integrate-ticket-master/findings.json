@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ank_wp_ticket_debug_mode",
+    "ank_wp_ticket_api_key",
+    "ank_wp_ticket_api_url",
+    "ank_wp_ticket_event_sort_by",
+    "ank_wp_ticket_count_event_page",
+    "ank_wp_ticket_country"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_logging_prune_routine"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_log_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:58.129Z"
+}

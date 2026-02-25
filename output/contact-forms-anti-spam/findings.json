@@ -1,0 +1,45 @@
+{
+  "options": [
+    "maspik_run_once",
+    "spamcounter",
+    "maspik_matrix_auto_enabled",
+    "maspik_columns_last_check",
+    "maspik_db_version",
+    "maspik_dlm_license",
+    "errorlog",
+    "spamapi",
+    "shere_data",
+    "maspik_api_requests",
+    "maspik_recent_ip_checks",
+    "maspik_api_id",
+    "maspik_spam_key",
+    "maspik_blacklist_merged",
+    "maspik_blacklist_merge_notice",
+    "maspik_matrix_enabled_notice",
+    "maspik_matrix_enabled_notice_dismissed",
+    "maspik_matrix_widget_hidden",
+    "maspik_licensing_version",
+    "contact-forms-anti-spam-license-data"
+  ],
+  "transients": [
+    "maspik_monthly_stats",
+    "Mapik_dismissed_shereing_notice",
+    "maspik_version_info",
+    "maspik_blacklist_merge_notice_dismissed",
+    "*flash"
+  ],
+  "cron_jobs": [
+    "cfas_daily_api_refresh",
+    "weekly_to_r_maspik_request",
+    "weekly_spam_logs_request",
+    "maspik_cfas_dlm_license_check",
+    "maspik_dlm_license_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "maspik_whats_new_seen_version",
+    "maspik_pointer_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:15.702Z"
+}

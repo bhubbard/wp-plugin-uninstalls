@@ -1,0 +1,14 @@
+{
+  "options": [
+    "msv_amspsbtt_page_scroll_back_to_top_icon",
+    "msv_amspsbtt_page_scroll_back_to_top_style",
+    "msv_amspsbtt_page_scroll_back_to_top_layout",
+    "msv_amspsbtt_page_scroll_back_to_top_advanced"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:43.507Z"
+}

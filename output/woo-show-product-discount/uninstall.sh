@@ -1,0 +1,18 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wspd_settings_discount_percentage_position_on_shop'
+wp option delete 'wspd_settings_discount_percentage_position_on_product'
+wp option delete 'wspd_settings_enable_discount_percentage_on_shop'
+wp option delete 'wspd_settings_enable_discount_percentage_color_on_shop'
+wp option delete 'wspd_settings_discount_percentage_color_on_shop'
+wp option delete 'wspd_settings_discount_percentage_text_on_shop'
+wp option delete 'wspd_settings_discount_percentage_css_on_shop'
+wp option delete 'wspd_settings_discount_percentage_css_on_sale_flash'
+wp option delete 'wspd_settings_enable_discount_percentage_on_sale_flash'
+wp option delete 'wspd_settings_discount_percentage_text_on_sale_flash'
+wp option delete 'wspd_settings_enable_discount_percentage_on_product'
+wp option delete 'wspd_settings_discount_percentage_text_on_product'
+wp option delete 'wspd_settings_discount_percentage_css_on_product'
+

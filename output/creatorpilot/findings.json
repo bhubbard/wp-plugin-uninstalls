@@ -1,0 +1,18 @@
+{
+  "options": [
+    "Creator_Pilot_Session",
+    "Creator_Pilot_Job_Id",
+    "Creator_Pilot_License",
+    "Creator_Pilot_Error_Message",
+    "Creator_Pilot_Error_Code",
+    "Creator_Pilot_Status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:43.329Z"
+}

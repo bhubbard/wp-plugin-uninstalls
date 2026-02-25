@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ultracomm-online-users",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "MchWpTaskScheduler"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ultracomm-user-info",
+    "uc-stars-rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:18.261Z"
+}

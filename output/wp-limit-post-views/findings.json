@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wplpv-post-view-count",
+    "wplpv-post-view-count-unit",
+    "wplpv-redirect-on-limit",
+    "wplpv-redirect-location",
+    "wplpv-use-js",
+    "wplpv-using-pmppro",
+    "wplpv-db-version",
+    "wplpv_post_view_limit_*",
+    "wplpv_pmppro_limit_*",
+    "pmprolpv_redirect_page"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wplpv_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:06.470Z"
+}

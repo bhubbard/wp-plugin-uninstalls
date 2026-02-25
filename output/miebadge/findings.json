@@ -1,0 +1,17 @@
+{
+  "options": [
+    "miebadge_settings",
+    "miebadge_install_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "miebadge_review_dismissed",
+    "miebadge_review_dismissed_time",
+    "miebadge_donation_shown",
+    "miebadge_positive_review_action"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:59.150Z"
+}

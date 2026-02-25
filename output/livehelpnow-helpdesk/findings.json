@@ -1,0 +1,28 @@
+{
+  "options": [
+    "lhn_authentication_info",
+    "lhn_session_destroyed",
+    "lhn_oauth_id",
+    "lhn_oauth_secret",
+    "lhn_first_authentication_passed",
+    "lhn_default_chat",
+    "lhn_display_chat",
+    "lhn_remove_plugin_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lhn_destroy_user_session_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "chat_widget_id",
+    "_price",
+    "chat_options",
+    "chat_dictionary",
+    "closedpostboxes_lhn-chat",
+    "chat_display",
+    "chat_hide"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:00.805Z"
+}

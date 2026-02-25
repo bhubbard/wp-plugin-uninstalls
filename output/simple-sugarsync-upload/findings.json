@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wp_ssync_allow_ext",
+    "wp_ssync_username",
+    "wp_ssync_password",
+    "wp_ssync_key",
+    "wp_ssync_secret",
+    "wp_ssync_show_form",
+    "wp_ssync_delete_file",
+    "wp_ssync_thank_message",
+    "wp_ssync_path",
+    "wp_ssync_temp_path",
+    "wp_ssync_menu_pref",
+    "wp_ssync_version_number"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:51.742Z"
+}

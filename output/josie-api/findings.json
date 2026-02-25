@@ -1,0 +1,15 @@
+{
+  "options": [
+    "josie_api_cors",
+    "josie_api_max_posts_per_page"
+  ],
+  "transients": [
+    "tlc_up__*",
+    "tlc__*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:31.625Z"
+}

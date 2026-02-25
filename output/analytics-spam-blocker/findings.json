@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ajdg_spamblocker_domains",
+    "ajdg_activate_analytics-spam-blocker",
+    "ajdg_spamblocker_hide_birthday",
+    "ajdg_spamblocker_hide_review",
+    "ajdg_spamblocker_updates",
+    "ajdg_spamblocker_user",
+    "ajdg_spamblocker_stats",
+    "ajdg_spamblocker_error",
+    "ajdg_spamblocker_subscription",
+    "ajdg_spamblocker_reports",
+    "ajdg_spamblocker_hide_register",
+    "ajdg_spamblocker_version"
+  ],
+  "transients": [
+    "ajdg_update_analytics-spam-blocker"
+  ],
+  "cron_jobs": [
+    "spamblocker_get_spam_domains",
+    "ajdg_api_stats_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:43.040Z"
+}

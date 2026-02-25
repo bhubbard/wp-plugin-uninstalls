@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_zinia_payment_widgets"
+  ],
+  "transients": [
+    "zinia_success_msg",
+    "zinia_error_msg"
+  ],
+  "cron_jobs": [
+    "zinia_daily_event",
+    "zinia_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:26.544Z"
+}

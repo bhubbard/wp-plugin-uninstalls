@@ -1,0 +1,22 @@
+{
+  "options": [
+    "rsilitechsp_roles_discounts",
+    "rsilitechsp_show_save_message",
+    "rsilitechsp_show_role_badge",
+    "rsilitechsp_show_original_price",
+    "rsilitechsp_stack_with_coupons",
+    "rsilitechsp_apply_to_sale_items",
+    "rsilitech_simple_pricing_activation_time",
+    "rsilitech_simple_pricing_notices_shown"
+  ],
+  "transients": [
+    "*_notice_dismissed",
+    "*_upgrade_notice_dismissed",
+    "*_review_notice_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:49.798Z"
+}

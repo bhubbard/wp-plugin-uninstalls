@@ -1,0 +1,19 @@
+{
+  "options": [
+    "yektanet_do_activation_redirect",
+    "active_yektanet_plugin",
+    "yektanet_app_id",
+    "YEKTANET_PLUGIN_VERSION",
+    "yektanet_method",
+    "unofficialYektanetScript",
+    "unofficialYektanetProductBrand"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yektanet_view_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:19.234Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp_vk_ver",
+    "wp_vk_db_ver",
+    "wp_vk_ver_*",
+    "vk_pay_conf",
+    "wbm-cnf"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vk_price",
+    "_wp_page_template",
+    "wb_down_price",
+    "wb_dl_mode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:52.043Z"
+}

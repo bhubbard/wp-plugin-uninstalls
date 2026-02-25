@@ -1,0 +1,18 @@
+{
+  "options": [
+    "atlas_content_modeler_usage_tracking",
+    "atlas_content_modeler_post_types",
+    "atlas_content_modeler_taxonomies",
+    "atlas_content_modeler_current_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "acm_hide_feedback_banner",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:05.230Z"
+}

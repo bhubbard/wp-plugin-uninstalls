@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpdoodle_settings",
+    "wpdoodle_default_rules_added",
+    "et_divi"
+  ],
+  "transients": [
+    "wpdoodle_form_errors",
+    "mddoodle_logo_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpdoodle_occasion",
+    "_wpdoodle_region",
+    "_wpdoodle_countries",
+    "_wpdoodle_start_date",
+    "_wpdoodle_end_date",
+    "_wpdoodle_repeat_annual",
+    "_wpdoodle_status",
+    "_wpdoodle_primary_logo",
+    "_wpdoodle_light_logo",
+    "_wpdoodle_dark_logo",
+    "_wpdoodle_mobile_logo",
+    "_wpdoodle_is_default",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:58:06.333Z"
+}

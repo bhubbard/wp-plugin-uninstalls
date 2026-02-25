@@ -1,0 +1,17 @@
+{
+  "options": [
+    "simple-webp-images-conversion-quality",
+    "simple-webp-images-output-buffering",
+    "simple-webp-images-excluded-html-ob",
+    "simple-webp-images-lazy-loading",
+    "simple-webp-images-excluded-lazy-loading"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:41.136Z"
+}

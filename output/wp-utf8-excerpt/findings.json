@@ -1,0 +1,14 @@
+{
+  "options": [
+    "home_excerpt_length",
+    "archive_excerpt_length",
+    "allowd_tag",
+    "read_more_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:02.132Z"
+}

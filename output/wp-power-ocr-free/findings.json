@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpo_language",
+    "wpo_username",
+    "wpo_licence_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:29.544Z"
+}

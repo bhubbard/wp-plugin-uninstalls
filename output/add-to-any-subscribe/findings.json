@@ -1,0 +1,17 @@
+{
+  "options": [
+    "A2A_SUBSCRIBE_button_opens_new_window",
+    "A2A_SUBSCRIBE_onclick",
+    "A2A_SUBSCRIBE_button",
+    "A2A_SUBSCRIBE_button_custom",
+    "A2A_SUBSCRIBE_button_text",
+    "A2A_SUBSCRIBE_widget_title",
+    "A2A_SUBSCRIBE_additional_js_variables"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:52.033Z"
+}

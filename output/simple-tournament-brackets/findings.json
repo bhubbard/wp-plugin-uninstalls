@@ -1,0 +1,18 @@
+{
+  "options": [
+    "stb_options",
+    "simple_tournament_brackets_options"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "stb_competitors",
+    "stb_status",
+    "stb_match_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:40.015Z"
+}

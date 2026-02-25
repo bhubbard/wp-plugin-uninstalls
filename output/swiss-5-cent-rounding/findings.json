@@ -1,0 +1,12 @@
+{
+  "options": [
+    "sr_vat_price_rounding",
+    "sr_discount_price_rounding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:40.894Z"
+}

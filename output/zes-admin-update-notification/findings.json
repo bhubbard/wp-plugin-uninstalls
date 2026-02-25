@@ -1,0 +1,16 @@
+{
+  "options": [
+    "zaun_notified",
+    "update_plugins",
+    "update_core"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zaun_cron_event",
+    "zaun_test"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:59.445Z"
+}

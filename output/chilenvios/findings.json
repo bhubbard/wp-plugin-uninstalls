@@ -1,0 +1,21 @@
+{
+  "options": [
+    "multicourier_shipping_calculator_settings",
+    "mi_plugin_activado",
+    "multicourier_district_keys"
+  ],
+  "transients": [
+    "multicourier_shipping_calculator_states",
+    "multicourier_districts_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_estado",
+    "_billing_estado_nombre",
+    "_billing_distrito",
+    "_billing_distrito_nombre"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:45.832Z"
+}

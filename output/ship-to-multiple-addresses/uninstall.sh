@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'destinations_price_section_on'
+wp option delete 'destinations_individual_section'
+wp option delete 'destinations_main_section_on'
+wp option delete 'destinations_gift_section_on'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_product_attributes'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_virtual'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sold_individually'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_visibility'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'product_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'product_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'product_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'product_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'name_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'name_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'name_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'name_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'phone_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'phone_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'phone_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'phone_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'email_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'email_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'email_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'email_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'address_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'address_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'address_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'address_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'custommessage_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'custommessage_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'custommessage_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'custommessage_%'"

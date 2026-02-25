@@ -1,0 +1,18 @@
+{
+  "options": [
+    "smsidea_settings",
+    "smsidea_master_key",
+    "smsidea_db_version",
+    "smsidea_*",
+    "smsidea_api_key",
+    "smsidea_test_master_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:57.613Z"
+}

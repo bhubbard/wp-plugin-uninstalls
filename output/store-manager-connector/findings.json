@@ -1,0 +1,14 @@
+{
+  "options": [
+    "SMCONNECTOR_OPTIONS"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [
+    "smconnector_session_keys",
+    "smconnector_failed_login"
+  ],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:31.783Z"
+}

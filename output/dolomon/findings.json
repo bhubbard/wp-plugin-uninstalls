@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dolomon-url",
+    "dolomon-app_id",
+    "dolomon-app_secret",
+    "dolomon-cache_expiration"
+  ],
+  "transients": [
+    "dolomon_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:03.383Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "dfx_randomuserid_activation_show_activation_notice",
+    "dfx_randomuserid_first_user_moved_to"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:26.772Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sfe_purchase_form_page_id",
+    "sfe_whitelist",
+    "sfe_envato_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sfe_user_item",
+    "sfe_item_verify_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:21.754Z"
+}

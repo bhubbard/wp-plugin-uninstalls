@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nd_p_mytext",
+    "nd_m_p_collect",
+    "table_title",
+    "nd_btn_text",
+    "mytext",
+    "aw_custom_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:48.178Z"
+}

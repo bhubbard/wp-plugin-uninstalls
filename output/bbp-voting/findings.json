@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bbp_voting_log",
+    "bbp_voting_score",
+    "bbp_voting_ups",
+    "bbp_voting_downs",
+    "bbp_voting_votes",
+    "bbp_voting_forum_enable_topics",
+    "bbp_voting_forum_enable_replies",
+    "bbp_voting_weighted_score",
+    "bbp_voting_trending_score",
+    "sort_bbpress_topics_by_votes_on_forum",
+    "sort_bbpress_replies_by_votes_on_forum"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:21.384Z"
+}

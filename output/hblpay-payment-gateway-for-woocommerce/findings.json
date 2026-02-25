@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_hblpay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_discount",
+    "_campaign_id",
+    "discount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:27.028Z"
+}

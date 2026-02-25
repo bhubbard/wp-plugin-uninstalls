@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cct_license_lang",
+    "cct_layout",
+    "cct_photo_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_source_author",
+    "_source_type",
+    "_source_title",
+    "_source_url",
+    "_author_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:34.470Z"
+}

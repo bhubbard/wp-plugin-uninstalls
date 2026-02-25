@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_woocommerce_openpix_boleto_settings",
+    "*_settings",
+    "woocommerce_woocommerce_openpix_pix_settings",
+    "woocommerce_woocommerce_openpix_pix_crediary_settings",
+    "woocommerce_woocommerce_openpix_pix_parcelado_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:04.932Z"
+}

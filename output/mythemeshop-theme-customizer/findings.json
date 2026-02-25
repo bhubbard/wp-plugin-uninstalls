@@ -1,0 +1,25 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "widget_onepage_featured-widget",
+    "widget_onepage_buttons-widget",
+    "widget_onepage_features-widget",
+    "widget_onepage_counter-widget",
+    "widget_onepage_services-widget",
+    "widget_mts_widget_recent_tweets",
+    "widget_onepage_testimonials-widget",
+    "widget_onepage_clients-widget",
+    "widget_onepage_blog-widget",
+    "mts_customizer_flag",
+    "mts_twitter_plugin_last_cache_time",
+    "mts_twitter_plugin_tweets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:39.732Z"
+}

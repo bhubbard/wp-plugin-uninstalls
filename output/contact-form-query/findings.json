@@ -1,0 +1,28 @@
+{
+  "options": [
+    "stcfq_redirect_to_settings",
+    "stcfq_form_fields",
+    "stcfq_consent_field",
+    "stcfq_submit_button",
+    "stcfq_feedback_messages",
+    "stcfq_layout",
+    "stcfq_design",
+    "stcfq_captcha",
+    "stcfq_google_recaptcha_v2",
+    "stcfq_cf_turnstile",
+    "stcfq_block_keywords",
+    "stcfq_email_carrier",
+    "stcfq_wp_mail",
+    "stcfq_smtp",
+    "stcfq_email_to_admin",
+    "stcfq_delete_data_enable"
+  ],
+  "transients": [
+    "stcfq_unanswered_messages_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:28.880Z"
+}

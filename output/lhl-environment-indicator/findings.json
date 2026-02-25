@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lhlnvnd_main_options",
+    "lhlnvnd_environment_options",
+    "lhlnvnd_email_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:27.079Z"
+}

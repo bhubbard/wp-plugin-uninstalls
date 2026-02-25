@@ -1,0 +1,33 @@
+{
+  "options": [
+    "cfgeo_webhook_enabled",
+    "cfgeo_webhook_urls",
+    "cfgeo_webhook_secret",
+    "cfgeo_webhook_timeout",
+    "cfgeo_webhook_logs",
+    "cfgeo_google_api_key",
+    "cfgeo_color_picker",
+    "cfgeo_activation_redirect",
+    "cfgeo_debug_mode",
+    "cfgeo_ipstack_access"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cfgeo_send_webhook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_form_data",
+    "cfgeo-country",
+    "cfgeo-state",
+    "cfgeo-city",
+    "cfgeo-lat-long",
+    "cfgeo-api-used",
+    "cfgeo-debug-ipstack",
+    "cfgeo-debug-ipapi",
+    "cfgeo-debug-keycdn",
+    "_form_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:03.479Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "gsb_redirect",
+    "gp_sticky_buttons_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "widget_status",
+    "channels_setting",
+    "gsb_selected_channels",
+    "theme_setting",
+    "trigger_setting",
+    "page_rule_setting",
+    "day_rule_setting",
+    "date_rule_setting",
+    "country_rule_setting"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:23.288Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('rocketship_seo_bot_detector_settings', 'rocketship_seo_db_version', 'rocketship_seo_settings', 'rocketship_seo_ai_redirect_settings', 'rocketship_seo_bot_redirect_settings', 'rocketship_seo_google_oauth_client_id', 'rocketship_seo_google_oauth_client_secret', 'rocketship_seo_google_oauth_access_token', 'rocketship_seo_google_oauth_refresh_token', 'rocketship_seo_google_oauth_token_expires', 'rocketship_seo_google_places_api_key', 'rocketship_seo_reviews_cache_duration', 'rocketship_seo_reviews_custom_css', 'rocketship_seo_saved_place_ids', 'rocketship_seo_reviews_fetch_method', 'rocketship_seo_version', 'rocketship_seo_bot_detector_table_version', 'rocketship_seo_file_rules_settings', 'rocketship_seo_indexing_settings', 'rocketship_seo_indexnow_log', 'rocketship_seo_indexnow_stats', 'rocketship_seo_admin_notices', 'rocketship_seo_redirect_table_version', 'rocketship_seo_reviews_auth_method', 'rocketship_seo_reviews_oauth_token', 'rocketship_seo_reviews_oauth_refresh_token', 'rocketship_seo_reviews_oauth_token_expiry', 'rocketship_seo_reviews_oauth_account_info', 'rocketship_seo_reviews_oauth_client_id', 'rocketship_seo_reviews_oauth_client_secret', 'rocketship_seo_visual_sitemap_settings', 'rocketship_seo_update_history', 'rocketship_seo_updating');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_rocketship_seo_noindex', '_rocketship_seo_meta_title', '_rocketship_seo_meta_description', '_rocketship_seo_exclude_sitemap', '_wp_attachment_image_alt', '_rocketship_seo_disable_toc');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_rocketship_seo_noindex', '_rocketship_seo_meta_title', '_rocketship_seo_meta_description', '_rocketship_seo_exclude_sitemap', '_wp_attachment_image_alt', '_rocketship_seo_disable_toc');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_rocketship_seo_noindex', '_rocketship_seo_meta_title', '_rocketship_seo_meta_description', '_rocketship_seo_exclude_sitemap', '_wp_attachment_image_alt', '_rocketship_seo_disable_toc');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_rocketship_seo_noindex', '_rocketship_seo_meta_title', '_rocketship_seo_meta_description', '_rocketship_seo_exclude_sitemap', '_wp_attachment_image_alt', '_rocketship_seo_disable_toc');
+

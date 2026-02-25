@@ -1,0 +1,35 @@
+{
+  "options": [
+    "lp_rgv2_credentials",
+    "lp_rg_global_options",
+    "lp_rgv2_just_onboarded",
+    "lp_rg_merchant_credentials",
+    "lp_rg_version",
+    "lp_rg_settings_options",
+    "lp_rgv2_global_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rg_has_paywall",
+    "_rg_specific_paywall",
+    "_edit_last",
+    "_rg_title",
+    "_rg_access_to",
+    "_rg_access_entity",
+    "_rg_preview_id",
+    "_rg_specific_posts",
+    "_rg_individual_option",
+    "_rg_options_order",
+    "_rg_is_active",
+    "_rg_price",
+    "_rg_revenue",
+    "_rg_duration",
+    "_rg_period",
+    "_rg_custom_title",
+    "_rg_custom_desc"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:42.221Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wc18-password",
+    "wc18-categories",
+    "wc18-image",
+    "wc18-cert-activation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc-codice-18app"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:08.264Z"
+}

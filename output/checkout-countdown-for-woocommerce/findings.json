@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ccfwoo_general_section",
+    "ccfwoo_enable_countdown",
+    "ccfwoo_minutes",
+    "ccfwoo_countdown_style",
+    "ccfwoo_before_countdown",
+    "ccfwoo_inbetween_countdown",
+    "ccfwoo_after_countdown",
+    "ccfwoo_expired_text",
+    "ccfwoo_style_bg_color",
+    "ccfwoo_style_font_color",
+    "ccfwoo_enable_banner_message",
+    "ccfwoo_banner_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:05.939Z"
+}

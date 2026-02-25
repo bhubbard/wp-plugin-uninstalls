@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cardless_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cardlessmoney_payment_check_id",
+    "_cardlessmoney_payment_check_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:41.779Z"
+}

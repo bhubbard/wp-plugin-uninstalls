@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_calc_taxes",
+    "woocommerce_pay4pay_admin_footer_text_rated",
+    "woocommerce_default_gateway"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:20.316Z"
+}

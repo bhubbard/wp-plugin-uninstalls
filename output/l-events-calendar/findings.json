@@ -1,0 +1,17 @@
+{
+  "options": [
+    "lec_name_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "start_date",
+    "end_date",
+    "start_time",
+    "end_time",
+    "location"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:29.023Z"
+}

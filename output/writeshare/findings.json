@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpws_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpws_has_authorship",
+    "wpws_authorship_requested",
+    "owner"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:16.548Z"
+}

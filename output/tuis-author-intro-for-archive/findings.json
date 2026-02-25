@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tui_aifa_div",
+    "tui_aifa_message",
+    "tui_aifa_placemessagebefore",
+    "tui_aifa_hasphp",
+    "tui_aifa_addcss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:33.896Z"
+}

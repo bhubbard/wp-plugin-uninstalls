@@ -1,0 +1,35 @@
+{
+  "options": [
+    "alg_wc_stock_snapshot_action_scheduler",
+    "alg_wc_stock_snapshot_action_scheduler_interval",
+    "alg_wc_stock_snapshot_tools_take_snapshot",
+    "alg_wc_stock_snapshot_tools_delete_snapshots",
+    "alg_wc_stock_snapshot_clear_transients",
+    "alg_wc_stock_snapshot_url",
+    "alg_wc_stock_snapshot_product_update",
+    "alg_wc_stock_snapshot_include_variations",
+    "alg_wc_stock_snapshot_count_children",
+    "alg_wc_stock_snapshot_extra_data",
+    "alg_wc_stock_snapshot_version",
+    "alg_wc_stock_snapshot_history_date_points",
+    "alg_wc_stock_snapshot_history_product_cats",
+    "alg_wc_stock_snapshot_report_do_in_background",
+    "*_reset",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "alg_wc_stock_snapshot_report_data",
+    "alg_wc_stock_snapshot_restocked",
+    "alg_wc_stock_snapshot_history",
+    "alg_wc_stock_snapshot_report"
+  ],
+  "cron_jobs": [
+    "alg_wc_stock_snapshot"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_alg_wc_stock_snapshot"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:12.835Z"
+}

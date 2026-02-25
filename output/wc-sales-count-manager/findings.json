@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wcscm_enable",
+    "wcscm_shope_page",
+    "wcscm-inlinecss",
+    "wcscm_0_order_text",
+    "wcscm_after_single",
+    "wcscm_text",
+    "wcscm_text_color",
+    "wcscm_count_color",
+    "wcscm_bg_color",
+    "wcscm_social_buttons",
+    "wcscm_after_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "total_sales"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:06.737Z"
+}

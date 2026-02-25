@@ -1,0 +1,14 @@
+{
+  "options": [
+    "evfc_verified_*",
+    "evfc_pending_comments"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "evfc_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:44.999Z"
+}

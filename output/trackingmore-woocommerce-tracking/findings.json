@@ -1,0 +1,32 @@
+{
+  "options": [
+    "trackingmore_option_name",
+    "trackingmore_api_enabled",
+    "trackingmore_prices_include_tax",
+    "trackingmore_weight_unit",
+    "trackingmore_dimension_unit",
+    "trackingmore_force_ssl_checkout",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_trackingmore_tracking_provider",
+    "_trackingmore_tracking_number",
+    "_trackingmore_tracking_shipdate",
+    "_trackingmore_tracking_postal",
+    "_trackingmore_tracking_account",
+    "_trackingmore_tracking_key",
+    "_trackingmore_tracking_destination_country",
+    "_trackingmore_tracking_origin_country",
+    "_tracking_number",
+    "_wc_shipment_tracking_items",
+    "is_customer_note",
+    "_trackingmore_tracking_provider_name",
+    "_*",
+    "trackingmore_wp_api_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:54.540Z"
+}

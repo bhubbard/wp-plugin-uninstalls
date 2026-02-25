@@ -1,0 +1,26 @@
+{
+  "options": [
+    "pluginperseo_configuracion",
+    "pluginperseo_parametros",
+    "_transient_timeout_wc_product_gallery_*"
+  ],
+  "transients": [
+    "wc_product_gallery_*"
+  ],
+  "cron_jobs": [
+    "intervalo_perseo",
+    "perseo_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "PerseoIdentificacion",
+    "billing_phone",
+    "billing_address_1",
+    "PerseoCodigo",
+    "PerseoID",
+    "_thumbnail_id",
+    "_product_image_gallery"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:28.161Z"
+}

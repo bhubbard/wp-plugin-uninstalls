@@ -1,0 +1,12 @@
+{
+  "options": [
+    "schg_tables_initialized",
+    "schg_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:27.476Z"
+}

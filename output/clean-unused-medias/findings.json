@@ -1,0 +1,24 @@
+{
+  "options": [
+    "lnjcm_medias_in_content_index",
+    "lnjcm_medias_in_content_ids",
+    "lnjcm_medias_in_postmeta_ids",
+    "lnjcm_medias_in_usermeta_ids",
+    "lnjcm_medias_in_option_ids",
+    "lnjcm_medias_in_content_last_check",
+    "lnjcm_medias_in_content_pause",
+    "lnjcm_medias_in_content_completed",
+    "lnjcm_medias_in_content_completed_date",
+    "lnjcm_medias_in_content_processing"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lnjcm_check_medias_in_content"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lnjcm_used_in"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:49.326Z"
+}

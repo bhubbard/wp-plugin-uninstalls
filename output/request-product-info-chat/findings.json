@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rpic_phone",
+    "rpic_message",
+    "rpic_buttontext",
+    "rpic_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:12.099Z"
+}

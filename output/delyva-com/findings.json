@@ -1,0 +1,17 @@
+{
+  "options": [
+    "delyva_user_id",
+    "delyva_api_key",
+    "delyva_integration_id",
+    "woocommerce_delyva_settings",
+    "woocs_welcome_currency",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:39.121Z"
+}

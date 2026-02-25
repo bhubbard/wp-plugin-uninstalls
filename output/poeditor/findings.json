@@ -1,0 +1,17 @@
+{
+  "options": [
+    "poeditor_apikey",
+    "poeditor_projects",
+    "poeditor_files",
+    "poeditor_languages",
+    "poeditor_assingments",
+    "poeditor_flash_messages",
+    "Activated_Plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:28.868Z"
+}

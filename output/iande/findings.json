@@ -1,0 +1,27 @@
+{
+  "options": [
+    "iande",
+    "iande_activation",
+    "iande_appointments_settings",
+    "iande_institution"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "groups",
+    "num_people",
+    "group_size",
+    "group_slot",
+    "exception",
+    "date_from",
+    "date_to",
+    "_wp_page_template",
+    "source",
+    "collection",
+    "exhibition",
+    "tainacan_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:38.811Z"
+}

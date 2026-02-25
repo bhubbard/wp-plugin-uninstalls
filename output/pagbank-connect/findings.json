@@ -1,0 +1,55 @@
+{
+  "options": [
+    "woocommerce_rm-pagbank-integrations_settings",
+    "woocommerce_rm-pagbank_settings",
+    "*_settings",
+    "pagbank_db_version",
+    "woocommerce_rm-pagbank-cc_settings",
+    "woocommerce_rm-pagbank-pix_settings",
+    "woocommerce_rm-pagbank-boleto_settings",
+    "pagbank_pix_lastorder_checked",
+    "woocommerce_store_postcode",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_rm-pagbank-*",
+    "woocommerce_rm-pagbank-redirect_settings",
+    "woocommerce_rm-pagbank-integrations_marketplace_account_id",
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_email_footer_text",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "rm_pagbank_dynamic_ico_accessible",
+    "rm_pagbank_product_installment_info_*",
+    "pagbank_product_installment_options",
+    "pagbank_recurring_message",
+    "recurring_restricted_products"
+  ],
+  "cron_jobs": [
+    "rm_pagbank_cron_process_recurring_payments",
+    "rm_pagbank_cron_process_recurring_cancellations",
+    "rm_pagbank_cron_process_expired_paused",
+    "rm_pagbank_cron_cancel_expired_pix",
+    "rm_pagbank_cron_force_order_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_recurring_enabled",
+    "_frequency",
+    "_frequency_cycle",
+    "_initial_fee",
+    "_recurring_max_cycles",
+    "_recurring_trial_length",
+    "_recurring_discount_amount",
+    "_recurring_discount_cycles",
+    "_recurring_restricted_pages",
+    "_recurring_restricted_categories",
+    "_recurring_restricted_unauthorized_page",
+    "_recurring_restriction_active",
+    "pagbank_dismiss_pix_order_keys_notice",
+    "pagbank_account_id",
+    "pagbank_account_validated"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:55.813Z"
+}

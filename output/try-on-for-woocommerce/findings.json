@@ -1,0 +1,19 @@
+{
+  "options": [
+    "specfit_platinum_access_key",
+    "specfit_platinum_access_email",
+    "specfit_default_3d_params",
+    "specfit_settings_texts",
+    "specfit_header_logo_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "try_on_image_specfit_platinum",
+    "specfit_product_try_on_color_keys",
+    "specfit_product_try_on_color_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:22.261Z"
+}

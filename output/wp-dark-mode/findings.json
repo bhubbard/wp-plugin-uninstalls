@@ -1,0 +1,37 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "wp_dark_mode_admin_enabled_classic_editor",
+    "wp_dark_mode_activated",
+    "hide_wp_dark_mode_recommended_plugins",
+    "wp_dark_mode_upgraded_version",
+    "wp_dark_mode_preset_sync_version",
+    "wp_dark_mode_advanced",
+    "wp_dark_mode_wc",
+    "wp_dark_mode_color",
+    "wp_dark_mode_image_settings",
+    "wp_dark_mode_video_settings",
+    "wp_dark_mode_color_presets",
+    "wp_dark_mode_color_preset_id",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "wp_dark_mode_enabled",
+    "wpdm_social_share_enable",
+    "wpdm_social_share_init",
+    "wpdm_social_share_*",
+    "wpdm_social_share_button_size"
+  ],
+  "transients": [
+    "wp_dark_mode_recommended_plugins",
+    "wp_dark_mode_promo_countdown_timer"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:37.666Z"
+}

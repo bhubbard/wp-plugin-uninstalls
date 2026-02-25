@@ -1,0 +1,13 @@
+{
+  "options": [
+    "moving_media_library_number_files",
+    "moving_media_library_mail_send",
+    "moving_media_library_export_files"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:55.993Z"
+}

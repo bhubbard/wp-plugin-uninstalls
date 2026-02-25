@@ -1,0 +1,17 @@
+{
+  "options": [
+    "featured_image_pro_settings",
+    "dnh_dismissed_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "featured_image_pro_premium_nag_ignore",
+    "featured_image_pro_premium_nag2_ignore",
+    "_wp_attachment_image_alt",
+    "dnh_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:12.506Z"
+}

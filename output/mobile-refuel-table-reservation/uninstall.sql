@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mrtr_wochentag_zeiten', 'mrtr_benachrichtigungs_email', 'mrtr_container_background', 'mrtr_text_color', 'mrtr_button_color', 'mrtr_button_hover', 'mrtr_email_benachrichtigungen', 'mrtr_intervall', 'mrtr_spezielle_tage_konfiguration', 'mrtr_max_personen', 'mrtr_tile_background', 'mrtr_border_radius', 'mrtr_verweildauer', 'mrtr_restaurant_name', 'mrtr_ausgeschlossene_tage', 'mrtr_language', 'mrtr_mindestvorlauf_stunden', 'mrtr_calendar_token', 'mrtr_calendar_token_include_past', 'mrtr_setup_wizard_completed');
+

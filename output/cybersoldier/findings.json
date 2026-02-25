@@ -1,0 +1,23 @@
+{
+  "options": [
+    "number_of_lines",
+    "cybersoldier_send_mail_to_opponent",
+    "cybersoldier_time_to_end",
+    "cybersoldier_number_of_lines",
+    "cybersoldier_url_to_infopage",
+    "cybersoldier_refresh_page_for_opponent",
+    "cybersoldier_admin_is_player"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_color",
+    "invited_user",
+    "cybersoldierbody_color",
+    "cybersoldier*",
+    "description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:36.006Z"
+}

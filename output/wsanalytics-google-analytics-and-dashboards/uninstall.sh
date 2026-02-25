@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'WSAnalytics_CLIENTID'
+wp option delete 'WSAnalytics_CLIENTSECRET'
+wp option delete 'WSAnalytics_DEV_KEY'
+wp option delete 'ws_google_token'
+wp option delete 'post_analytics_token'
+wp option delete 'pt_webprofile'
+wp option delete 'pt_webprofile_dashboard'
+wp option delete 'wsanalytics_code'
+wp option delete 'WSAnalytics_disable_front'
+wp option delete 'ws_welcome_message'
+wp option delete 'WSAnalytics_posts_stats'
+wp option delete 'post_analytics_exclude_posts_back'
+wp option delete 'post_analytics_access_back'
+wp option delete 'display_tracking_code'
+wp option delete 'WSAnalytics_tracking_code'
+wp option delete 'webPropertyId'
+wp option delete 'display_demographic_code'
+wp option delete 'post_analytics_access'
+wp option delete 'WSAnalytics_posts_stats_front'
+wp option delete 'post_analytics_exclude_posts_front'
+wp option delete 'post_analytics_settings_front'
+wp option delete 'post_analytics_settings_back'
+wp option delete 'post_analytics_disable_back'
+wp option delete 'pt_webprofile_url'
+wp option delete 'ws_lasterror_occur'
+

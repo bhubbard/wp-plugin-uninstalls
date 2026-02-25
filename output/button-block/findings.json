@@ -1,0 +1,12 @@
+{
+  "options": [
+    "button_block_option",
+    "fs_lite_accounts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:06.551Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpesurvey_extra_options",
+    "wpes_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpes_answer_options",
+    "_wpes_answer_type_def",
+    "_wpes_answer_*",
+    "_wpes_issue_final_answer",
+    "_wpes_issue_final_args",
+    "_wpes_survey_expiration_survey",
+    "_wpes_node_parent_id",
+    "_wpes_survey_association",
+    "_wpes_survey_order",
+    "_wpes_audit_*",
+    "_wpes_survey_print_history_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:14.420Z"
+}

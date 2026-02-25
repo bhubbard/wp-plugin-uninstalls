@@ -1,0 +1,51 @@
+{
+  "options": [
+    "carticy_ai_checkout_test_mode",
+    "carticy_ai_checkout_delete_data_on_uninstall",
+    "carticy_ai_checkout_webhook_url",
+    "carticy_ai_checkout_enable_ip_allowlist",
+    "carticy_ai_checkout_openai_ip_ranges_backup",
+    "carticy_ai_checkout_api_key",
+    "carticy_ai_checkout_webhook_secret",
+    "carticy_ai_checkout_test_webhook_url",
+    "carticy_ai_checkout_enable_openai_robots",
+    "carticy_ai_checkout_feed_last_updated",
+    "woocommerce_shipping_tax_class",
+    "carticy_ai_checkout_application_data",
+    "woocommerce_stripe_settings",
+    "carticy_ai_checkout_rate_limit_enabled",
+    "carticy_ai_checkout_admin_notices",
+    "woocommerce_weight_unit",
+    "carticy_ai_checkout_test_bypass_ip",
+    "carticy_ai_checkout_webhook_retry_queue",
+    "carticy_ai_checkout_openai_ip_ranges_last_updated"
+  ],
+  "transients": [
+    "carticy_ai_checkout_wizard_errors_*",
+    "settings_errors",
+    "carticy_ai_checkout_wizard_test_results",
+    "carticy_ai_checkout_spt_*",
+    "carticy_ai_checkout_openai_ip_ranges",
+    "carticy_ai_checkout_test_product_sku",
+    "*json",
+    "*csv",
+    "*xml",
+    "*tsv",
+    "carticy_ai_checkout_conformance_test_results",
+    "carticy_ai_checkout_mock_scenario_results",
+    "carticy_ai_checkout_testing_redirect"
+  ],
+  "cron_jobs": [
+    "carticy_ai_checkout_refresh_product_feed",
+    "carticy_ai_checkout_cleanup_sessions",
+    "carticy_ai_checkout_update_openai_ips"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_carticy_ai_checkout_enabled",
+    "_carticy_ai_checkout_quality_score",
+    "_carticy_ai_checkout_quality_issues"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:13.891Z"
+}

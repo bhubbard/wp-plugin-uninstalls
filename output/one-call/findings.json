@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ac_ocapi_options",
+    "ac_ocapi_wp_defualt_filds"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:51.849Z"
+}

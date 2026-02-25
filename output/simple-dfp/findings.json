@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simplegam_option",
+    "simplegam_settings",
+    "simplegam_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_block_code",
+    "_size"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:40.036Z"
+}

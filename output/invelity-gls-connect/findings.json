@@ -1,0 +1,16 @@
+{
+  "options": [
+    "invelity_gls_connect_options",
+    "invelity_gls_export_options"
+  ],
+  "transients": [
+    "invelity-gls-connect-ad",
+    "invelity-plugins-description",
+    "invelity-plugins-ad"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:59.420Z"
+}

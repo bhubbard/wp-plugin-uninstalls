@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dmmrd_enable_mode",
+    "dmmrd_custom_page_id",
+    "dmmrd_mode_scope",
+    "dmmrd_maintenance_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:01.994Z"
+}

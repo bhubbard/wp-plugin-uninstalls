@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gb_sf4wp_options"
+  ],
+  "transients": [
+    "gb_sf4wp_api_lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sf4wp_send"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:05.903Z"
+}

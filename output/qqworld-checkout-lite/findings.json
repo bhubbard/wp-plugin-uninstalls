@@ -1,0 +1,17 @@
+{
+  "options": [
+    "qqworld-checkout-payments",
+    "woocommerce_currency",
+    "icl_enable_multi_currency",
+    "woocommerce_calc_shipping"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "Wepay Out Trade No."
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:35.774Z"
+}

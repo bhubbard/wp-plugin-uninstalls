@@ -1,0 +1,15 @@
+{
+  "options": [
+    "as_gl_sv_opt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "as_gl_image_column",
+    "as_gl_image_size",
+    "as_gl_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:14.547Z"
+}

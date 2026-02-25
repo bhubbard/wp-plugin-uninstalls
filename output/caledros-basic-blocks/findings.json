@@ -1,0 +1,17 @@
+{
+  "options": [
+    "caledros_basic_blocks_enable_preload",
+    "caledros_basic_blocks_add_column_layout_to_wp_site_blocks",
+    "caledros_basic_blocks_set_custom_height_to_wp_site_blocks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "category_image",
+    "category_image_url",
+    "alt_text_category_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:09.317Z"
+}

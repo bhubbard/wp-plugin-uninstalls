@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "regenerate_all_elementor_css"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "display_type",
+    "_yoast_wpseo_primary_product_cat",
+    "page_parent_child_redirect",
+    "alternative_taxonomy_page_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:20.490Z"
+}

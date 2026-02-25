@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp-autorefresh",
+    "wp-autorefresh-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_easy_auto_reload_mode",
+    "_easy_auto_reload_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:47.682Z"
+}

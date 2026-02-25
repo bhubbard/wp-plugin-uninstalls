@@ -1,0 +1,13 @@
+{
+  "options": [
+    "affwp_erl_version",
+    "affiliatewp_external_referral_links",
+    "affwp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:05.254Z"
+}

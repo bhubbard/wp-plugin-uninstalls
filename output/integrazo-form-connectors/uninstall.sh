@@ -1,0 +1,123 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'integrazo_fc_error_notification'
+wp option delete 'integrazo_fc_error_notification_email'
+wp option delete 'integrazo_fc_error_notification_subject'
+wp option delete 'integrazo_fc_delete_data'
+wp option delete 'integrazo_fc_enable_log_cleanup'
+wp option delete 'integrazo_fc_log_retention_days'
+wp option delete 'integrazo_fc_session_key'
+
+# Delete Transients
+wp transient delete 'integrazo_fc_success'
+wp transient delete 'integrazo_fc_fail'
+wp transient delete 'integrazo_fc_integration_message'
+wp transient delete 'integrazo_fc_integration_error'
+wp transient delete 'integrazo_fc_google_auth_data'
+wp transient delete 'integrazo_fc_zoho_auth_data'
+wp transient delete 'integrazo_fc_hubspot_auth_data'
+wp transient delete 'integrazo_fc_mailchimp_auth_data'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_company'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_company'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_company'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_company'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_address_1'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_address_1'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_address_1'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_address_1'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_address_2'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_address_2'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_address_2'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_address_2'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_city'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_city'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_city'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_city'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_postcode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_postcode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_postcode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_postcode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_country'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_country'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_country'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_country'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_state'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_state'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_state'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_state'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'billing_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'billing_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'billing_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'billing_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_first_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_first_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_first_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_first_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_last_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_last_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_last_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_last_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_company'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_company'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_company'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_company'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_address_1'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_address_1'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_address_1'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_address_1'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_address_2'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_address_2'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_address_2'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_address_2'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_city'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_city'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_city'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_city'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_postcode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_postcode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_postcode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_postcode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_country'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_country'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_country'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_country'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shipping_state'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shipping_state'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shipping_state'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shipping_state'"

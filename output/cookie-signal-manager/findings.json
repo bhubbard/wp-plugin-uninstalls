@@ -1,0 +1,15 @@
+{
+  "options": [
+    "coksima_settings",
+    "coksima_secret_key",
+    "coksima_secret_iv"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "coksima_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:44.295Z"
+}

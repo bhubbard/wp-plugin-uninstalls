@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cookiefox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "always_on",
+    "unblock_embeds",
+    "order",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:50.549Z"
+}

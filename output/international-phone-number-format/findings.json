@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ipnfp_intl_phone_number_format_active",
+    "ipnfp_intl_phone_number_format_lookup_active",
+    "ipnfp_intl_phone_number_format_lookup_ttl",
+    "ipnfp_intl_phone_number_format_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:27.286Z"
+}

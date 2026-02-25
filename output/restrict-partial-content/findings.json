@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "allow_role",
+    "allow_user",
+    "open_time",
+    "open_condition",
+    "restrict_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:04.506Z"
+}

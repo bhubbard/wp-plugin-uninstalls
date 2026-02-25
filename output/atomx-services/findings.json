@@ -1,0 +1,19 @@
+{
+  "options": [
+    "atomx_settings_orders",
+    "atomx_settings_subs",
+    "atomx_settings_special_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_atomx_order_code",
+    "_atomx_subs_code",
+    "_price",
+    "_regular_price",
+    "_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:09.927Z"
+}

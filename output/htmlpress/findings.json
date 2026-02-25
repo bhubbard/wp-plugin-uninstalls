@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "selected-scripts",
+    "selected-styles",
+    "*_url",
+    "template_file_js_url",
+    "template_file_css_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:47.999Z"
+}

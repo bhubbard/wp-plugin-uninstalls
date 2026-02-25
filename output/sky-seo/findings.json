@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sky_seo",
+    " . $this->sky_fields . "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*title",
+    "*description",
+    "*keyword",
+    "*background"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:09.414Z"
+}

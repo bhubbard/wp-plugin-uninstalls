@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_payfam_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payfam_webhook_processed",
+    "_payfam_expected_amount",
+    "_payfam_account_name",
+    "_payfam_account_number",
+    "_payfam_bank_name",
+    "_payfam_api_response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:30.831Z"
+}

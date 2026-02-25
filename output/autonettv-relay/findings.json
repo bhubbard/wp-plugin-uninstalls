@@ -1,0 +1,17 @@
+{
+  "options": [
+    "autonettv_relay_api_settings_fields",
+    "autonettv_relay_api_settings_categories_fields",
+    "autonettv_relay_api_categories",
+    "autonettv_relay_api_settings_schedule_fields",
+    "autonettv-relay-api-categories"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "autonettv_relay_api_events_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:02.578Z"
+}

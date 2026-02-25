@@ -1,0 +1,13 @@
+{
+  "options": [
+    "plugin_latencytracker_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lt_clear_max"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:58.441Z"
+}

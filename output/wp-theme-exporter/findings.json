@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wp_theme_exporter_settings",
+    "wp_theme_exporter_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:01.194Z"
+}

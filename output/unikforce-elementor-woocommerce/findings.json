@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_unikforce",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_slidermeta",
+    "_selectproduct_layout",
+    "unikforce_selectcategory_layout",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:11.936Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "teligro-rand-url",
+    "teligro_version",
+    "update_keyboard_time_teligro",
+    "wp-telegram-pro",
+    "wptp-rand-url",
+    "woocommerce_notify_no_stock_amount",
+    "woocommerce_myaccount_orders_endpoint",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "auto_channels_teligro"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "telegram_receive_plugins_notification",
+    "*_teligro",
+    "order_note_message_teligro",
+    "_product_attributes",
+    "attribute_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:47.240Z"
+}

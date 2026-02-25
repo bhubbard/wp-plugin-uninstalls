@@ -1,0 +1,18 @@
+{
+  "options": [
+    "aofw_apply_on",
+    "aofw_product_selection_mode",
+    "aofw_selected_categories",
+    "aofw_selected_tags",
+    "woocommerce_pre_order_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aofw_enabled",
+    "_aofw_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:37.706Z"
+}

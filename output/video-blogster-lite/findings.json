@@ -1,0 +1,22 @@
+{
+  "options": [
+    "postratings_max"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "VideoSource",
+    "VideoID",
+    "VideoDuration",
+    "VideoLikes",
+    "VideoDislikes",
+    "VideoFavorites",
+    "views",
+    "ratings_users",
+    "ratings_score",
+    "ratings_average"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:00.364Z"
+}

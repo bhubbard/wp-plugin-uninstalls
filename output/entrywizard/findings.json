@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ewz_data_version",
+    "cron",
+    "ewz_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ewz_do_action_webform"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ewz_itemsperpage",
+    "gutenberg_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:28.135Z"
+}

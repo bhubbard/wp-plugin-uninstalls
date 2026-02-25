@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dbem_sync_translations_multisite_progress",
+    "em_wpml_version",
+    "em_wpml_disable_recurrence_notice",
+    "dbem_events_page",
+    "dbem_rsvp_enabled",
+    "dbem_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:28.458Z"
+}

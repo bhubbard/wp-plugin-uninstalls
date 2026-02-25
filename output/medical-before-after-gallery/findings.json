@@ -1,0 +1,43 @@
+{
+  "options": [
+    "medbeafgallery_all_category_id",
+    "medbeafgallery_settings",
+    "medbeafgallery_all_category_image",
+    "medbeafgallery_color_hash",
+    "medbeafgallery_dynamic_css_url",
+    "medbeafgallery_version",
+    "medbeafgallery_db_version"
+  ],
+  "transients": [
+    "medbeafgallery_library_warning",
+    "medbeafgallery_free_to_pro_migration",
+    "medbeafgallery_cases_cache",
+    "medbeafgallery_categories_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_medbeafgallery_main_before_image",
+    "_medbeafgallery_main_after_image",
+    "_medbeafgallery_additional_image_pairs",
+    "medbeafgallery_category_image",
+    "_medbeafgallery_image_pairs",
+    "_medbeafgallery_case_gender",
+    "_medbeafgallery_case_age",
+    "_medbeafgallery_case_procedure_type",
+    "_medbeafgallery_cropped_image",
+    "_medbeafgallery_original_image_id",
+    "_medbeafgallery_case_id",
+    "medbeafgallery_is_default_category",
+    "_medbeafgallery_main_description",
+    "_wp_attachment_image_alt",
+    "_medbeafgallery_case_recovery",
+    "_medbeafgallery_case_duration",
+    "_medbeafgallery_case_results",
+    "_medbeafgallery_procedure_info",
+    "_medbeafgallery_case_featured",
+    "medbeafgallery_warning_acknowledged"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:19.174Z"
+}

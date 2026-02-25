@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bverse_bible_ref_services",
+    "bverse_bible_version",
+    "bverse_open_new_window",
+    "bverse_popover",
+    "bverse_bibles_max_depth",
+    "bverse_credits",
+    "bverse_biblia_social"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:23.265Z"
+}

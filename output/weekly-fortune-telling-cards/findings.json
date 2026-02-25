@@ -1,0 +1,13 @@
+{
+  "options": [
+    "power_fortune_telling_cards_plugin_option",
+    "rewrite_rules",
+    "power_weekly_cards_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:45.984Z"
+}

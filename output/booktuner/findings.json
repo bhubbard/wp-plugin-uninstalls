@@ -1,0 +1,20 @@
+{
+  "options": [
+    "booktuner_update_frequency",
+    "booktuner_cachepath",
+    "booktuner_limit",
+    "booktuner_userid",
+    "booktuner_shelf",
+    "booktuner_sort",
+    "booktuner_sort_order",
+    "booktuner_display_format",
+    "booktuner_image_size",
+    "booktuner_review_length"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:53.721Z"
+}

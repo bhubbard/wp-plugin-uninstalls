@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bpd_batch_history"
+  ],
+  "transients": [
+    "bpd_current_session_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bpd_preferences",
+    "_elementor_data",
+    "_elementor_edit_mode",
+    "_elementor_css",
+    "_fl_builder_data",
+    "_fl_builder_draft",
+    "_bricks_page_content_2",
+    "_bricks_page_content",
+    "_bricks_page_assets_css",
+    "_bricks_page_assets_js"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:53.648Z"
+}

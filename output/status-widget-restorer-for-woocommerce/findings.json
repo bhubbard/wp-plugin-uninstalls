@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_setup_complete",
+    "woocommerce_onboarding_completed",
+    "woocommerce_currency",
+    "woocommerce_default_country",
+    "swrfw7sk_review_dismissed_permanently",
+    "swrfw7sk_install_date",
+    "swrfw7sk_review_dismissed_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "metaboxhidden_dashboard"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:05.336Z"
+}

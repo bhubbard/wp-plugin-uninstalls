@@ -1,0 +1,34 @@
+{
+  "options": [
+    "dspp_order_statuses_inserted",
+    "dspp_invoice_statuses_inserted",
+    "dspp_email_tempelates_inserted"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dspp_send_abandoned_checkout_email_event",
+    "dspp_send_unpaid_invoice_email_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "coupon_discount_type",
+    "coupon_value",
+    "coupon_expiry_date",
+    "excluded_categories",
+    "stripe_key",
+    "paypal_email",
+    "bank_account",
+    "_dspp_service_type",
+    "_dspp_single_price",
+    "_dspp_attributes",
+    "_dspp_variations",
+    "_service_price",
+    "custom_website_data",
+    "avatar",
+    "invoice_created",
+    "invoice_id",
+    "order_placed_against_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:29.400Z"
+}

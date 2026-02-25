@@ -1,0 +1,31 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'JSONAPI-Host'
+wp option delete 'JSONAPI-Port'
+wp option delete 'JSONAPI-User'
+wp option delete 'JSONAPI-Pass'
+wp option delete 'JSONAPI-Salt'
+wp option delete 'mcp_widget_host'
+wp option delete 'mcp_widget_title'
+wp option delete 'mcp_widget_status'
+wp option delete 'mcp_chat_widget_title'
+wp option delete 'mcp_widget_hostname'
+wp option delete 'mcp_widget_avatar_size'
+wp option delete 'mcp_widget_motd'
+wp option delete 'mcp_widget_name'
+wp option delete 'mcp_widget_version'
+wp option delete 'mcp_widget_port'
+wp option delete 'mcp_widget_plugins'
+wp option delete 'mcp_widget_plugininfo'
+wp option delete 'mcp_widget_player'
+wp option delete 'mcp_widget_avatars'
+wp option delete 'mcp_chat-amount'
+wp option delete 'mcp_chat-capability'
+wp option delete 'mcp_stream-amount'
+wp option delete 'mcp_widget_image_size'
+wp option delete 'mcp_widget_ticks'
+wp option delete 'mcp_widget_plugintooltips'
+wp option delete 'mcp_widget_avatartooltips'
+

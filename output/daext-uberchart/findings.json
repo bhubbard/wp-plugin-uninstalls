@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_chartjs_url",
+    "*_chartjs_adapter_date_fns_url",
+    "*_assets_mode",
+    "daextubch_options_version",
+    "daextubch_database_version",
+    "daextubch_assets_mode",
+    "daextubch_chartjs_url",
+    "daextubch_chartjs_adapter_date_fns_url",
+    "daextubch_verify_single_shortcode",
+    "daextubch_max_execution_time",
+    "*_verify_single_shortcode",
+    "daextubch_max_execution_time_value"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:31.805Z"
+}

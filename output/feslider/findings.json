@@ -1,0 +1,13 @@
+{
+  "options": [
+    "feslider"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "feslider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:44.966Z"
+}

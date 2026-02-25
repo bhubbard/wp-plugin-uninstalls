@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tcs_addstyledrop",
+    "tcs_locstyle",
+    "tcs_cuslink",
+    "tcs_submenu",
+    "tcs_nomerge"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:15.187Z"
+}

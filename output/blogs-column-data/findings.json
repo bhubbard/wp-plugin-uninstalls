@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bcd_email_subscription_notice_shown",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wordn"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:32.654Z"
+}

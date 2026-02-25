@@ -1,0 +1,29 @@
+{
+  "options": [
+    "my_plugin_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_achtransaction_id",
+    "_payment_method",
+    "_inovio_gateway_scheduled_subscription_custid",
+    "CUST_ID",
+    "PMT_L4",
+    "_customer_ip_address",
+    "_inovio_gateway_scheduled_request",
+    "_inovio_gateway_scheduled_response",
+    "_inoviotransaction_id",
+    "_inovio_gateway_scheduled_first_request",
+    "uniqid",
+    "REQ_ID",
+    "TRANS_STATUS_NAME",
+    "TRANS_ID",
+    "_inovio_gateway_scheduled_first_response",
+    "my_field_name",
+    "my_field_term"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:20.601Z"
+}

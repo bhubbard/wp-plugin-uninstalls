@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpskillbar_save_meta_value",
+    "skill_title_color",
+    "skill_bar_bg_color",
+    "skill_bar_percentage_bg_color",
+    "skill_value_bg_color",
+    "skill_title_font_size",
+    "skill_value_font_size",
+    "skill_title_font_family",
+    "pValue_font_family",
+    "skill_bar_height",
+    "skill_bar_b_radius"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:58.878Z"
+}

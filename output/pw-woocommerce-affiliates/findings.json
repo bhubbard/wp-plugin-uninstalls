@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id",
+    "pw_affiliates_default_commission",
+    "pw_affiliates_commission_before_tax",
+    "pw_affiliates_program_name",
+    "pwwa_url_fields",
+    "pwwa_affiliate_endpoint",
+    "pw_affiliates_use_builtin_jquery_styles",
+    "pw_affiliates_cookie_days",
+    "pw_affiliates_show_code_in_cart",
+    "pw_affiliates_show_code_in_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pw_affiliates_commission"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:14.879Z"
+}

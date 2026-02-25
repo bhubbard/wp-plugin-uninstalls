@@ -1,0 +1,17 @@
+{
+  "options": [
+    "set_size",
+    "set_tweet",
+    "set_fb",
+    "set_font",
+    "set_msg",
+    "set_opt",
+    "set_admin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:17.542Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "affprodimp_amazon_access_key",
+    "affprodimp_amazon_secret_key",
+    "affprodimp_amazon_country_code",
+    "affprodimp_amazon_affiliate_id",
+    "affprodimp_settings_remote_image",
+    "affprodimp_settings_product_type",
+    "affprodimp_settings_gallery_images",
+    "affprodimp_settings_product_price",
+    "affprodimp_settings_product_attributes"
+  ],
+  "transients": [
+    "affprodimp_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "affprodimp_product_img_url",
+    "affprodimp_product_asin",
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_product_url",
+    "affprodimp_sync_date",
+    "_product_image_gallery",
+    "affprodimp_product_gallery_url",
+    "_stock_status",
+    "_product_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:35.695Z"
+}

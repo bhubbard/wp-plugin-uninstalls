@@ -1,0 +1,28 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "__themereps_helper_do_redirect"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_ficon",
+    "_menu_item_megamenu",
+    "_menu_item_column",
+    "_menu_item_disablet",
+    "themereps_project_client",
+    "themereps_project_location",
+    "themereps_project_start_date",
+    "themereps_project_close_date",
+    "themereps_project_budget"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:00.732Z"
+}

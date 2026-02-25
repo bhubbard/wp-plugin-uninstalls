@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_mvc_notice_dismissed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_mvc_notice_dismissed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_mvc_notice_dismissed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_mvc_notice_dismissed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_mvc_state'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_mvc_state'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_mvc_state'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_mvc_state'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_mvc_roles'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_mvc_roles'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_mvc_roles'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_mvc_roles'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_mvc_device'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_mvc_device'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_mvc_device'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_mvc_device'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_mvc_page_mode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_mvc_page_mode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_mvc_page_mode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_mvc_page_mode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_mvc_pages'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_mvc_pages'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_mvc_pages'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_mvc_pages'"

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_easypay_pk_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "EASYPAY_IPN_LOG"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:44.790Z"
+}

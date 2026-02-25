@@ -1,0 +1,18 @@
+{
+  "options": [
+    "hwcf_version_1_0_0_installed",
+    "hwcf_notice_dismiss",
+    "hwcf_migrated_1_2_16",
+    "hwcf_settings_data",
+    "hwcf_disable_purchases",
+    "hwcf_delete_on_deactivation",
+    "hwcf_cripple_bots",
+    "hwcf_settings_ids_increament"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:10.494Z"
+}

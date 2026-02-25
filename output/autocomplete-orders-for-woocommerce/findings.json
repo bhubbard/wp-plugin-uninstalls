@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wcao_autocomplete_order_status",
+    "aofw_autocomplete_order_status",
+    "wcao_auto_complete_order_for",
+    "aofw_auto_complete_order_for",
+    "aofw_installed",
+    "*_flash_messages",
+    "_transient_*",
+    "active_sitewide_plugins",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:33.838Z"
+}

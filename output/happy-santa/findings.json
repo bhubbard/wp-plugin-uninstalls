@@ -1,0 +1,14 @@
+{
+  "options": [
+    "santa_speed",
+    "santa_style",
+    "santa_size",
+    "santa_direction"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:18.974Z"
+}

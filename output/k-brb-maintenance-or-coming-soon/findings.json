@@ -1,0 +1,31 @@
+{
+  "options": [
+    "k-brb-field-on",
+    "k-brb-field-who",
+    "k-brb-field-logo",
+    "k-brb-field-title",
+    "k-brb-field-text",
+    "k-brb-field-facebook",
+    "k-brb-field-github",
+    "k-brb-field-googleplus",
+    "k-brb-field-instagram",
+    "k-brb-field-linkedin",
+    "k-brb-field-twitter",
+    "k-brb-field-youtube",
+    "k-brb-field-icons-style",
+    "k-brb-field-background-color",
+    "k-brb-field-border-color",
+    "k-brb-field-title-color",
+    "k-brb-field-text-color",
+    "k-brb-field-link-color",
+    "k-brb-field-head",
+    "k-brb-field-body",
+    "k-brb-field-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:21.491Z"
+}

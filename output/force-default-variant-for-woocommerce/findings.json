@@ -1,0 +1,20 @@
+{
+  "options": [
+    "hpy_variant_sort",
+    "hpy_disabled_auto_remove_dropdown",
+    "hpy_variant_respect",
+    "hpy_variant_then_sort",
+    "woocommerce_hide_out_of_stock_items",
+    "hpy_variant_stockLimit",
+    "hpy_plugin_deferred_admin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_attributes",
+    "*_primary"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:18.742Z"
+}

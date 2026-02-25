@@ -1,0 +1,33 @@
+{
+  "options": [
+    "glimbyte_ssl_*",
+    "glimbyte_ssl_https_enabled",
+    "glimbyte_ssl_redirect_type",
+    "glimbyte_ssl_force_all",
+    "glimbyte_ssl_excluded_urls",
+    "glimbyte_ssl_mixed_content_fix_enabled",
+    "glimbyte_ssl_mixed_content_method",
+    "glimbyte_ssl_cert_alert_enabled",
+    "glimbyte_ssl_cert_alert_days",
+    "glimbyte_ssl_cert_alert_email",
+    "glimbyte_ssl_hsts_enabled",
+    "glimbyte_ssl_hsts_max_age",
+    "glimbyte_ssl_hsts_subdomains",
+    "glimbyte_ssl_hsts_preload",
+    "glimbyte_ssl_debug_mode",
+    "glimbyte_ssl_logs",
+    "glimbyte_ssl_network_force_https",
+    "glimbyte_ssl_allow_site_override"
+  ],
+  "transients": [
+    "glimbyte_ssl_scan_results",
+    "glimbyte_ssl_admin_notice"
+  ],
+  "cron_jobs": [
+    "glimbyte_ssl_check_certificate"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:07.308Z"
+}

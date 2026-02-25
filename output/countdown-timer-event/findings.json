@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cte-countdown-timer-event-v",
+    "cte-countdown-timer-event-type",
+    "cte-countdown-timer-event-installDate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cte-countdown-timer-settings",
+    "timer_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:18.898Z"
+}

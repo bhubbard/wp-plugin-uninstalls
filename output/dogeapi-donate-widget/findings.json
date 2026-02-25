@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dogeAPI_on_page",
+    "dogeAPI_on_post",
+    "animation_type",
+    "dogeAPI_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "payment_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:37.604Z"
+}

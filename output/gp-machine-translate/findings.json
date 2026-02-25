@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gp_machine_translate_provider",
+    "gp_machine_translate_key",
+    "gp_machine_translate_client_id",
+    "gp_machine_translate_extra_info",
+    "gp_machine_translate_version",
+    "gp_google_translate_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gp_machine_translate_client_id",
+    "gp_machine_translate_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:16.808Z"
+}

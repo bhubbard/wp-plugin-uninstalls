@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wsfe_widget_registration_form",
+    "wsfe_plugin_just_activated",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:11.071Z"
+}

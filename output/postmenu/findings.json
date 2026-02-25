@@ -1,0 +1,18 @@
+{
+  "options": [
+    "postmenu_options",
+    "postmenu_version",
+    "nav_menu_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lp_nav_menu_roles",
+    "_dp_original",
+    "_wp_page_template",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:47.096Z"
+}

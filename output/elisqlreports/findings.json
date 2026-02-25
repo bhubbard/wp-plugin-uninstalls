@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ELISQLREPORTS_reports_array",
+    "ELISQLREPORTS_settings_array",
+    "ELISQLREPORTS_BACKUP_DB",
+    "ELISQLREPORTS_cache_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ELISQLREPORTS_hourly_backup",
+    "ELISQLREPORTS_daily_backup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:46.176Z"
+}

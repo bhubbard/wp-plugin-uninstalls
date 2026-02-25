@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hms_mc_importer"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hms_mc_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "mailchimp_id",
+    "mailchimp_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:12.016Z"
+}

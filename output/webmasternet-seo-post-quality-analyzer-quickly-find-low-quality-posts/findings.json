@@ -1,0 +1,15 @@
+{
+  "options": [
+    "post_analyzer_word",
+    "post_analyzer_img",
+    "post_analyzer_head",
+    "post_analyzer_para",
+    "post_analyzer_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:10.978Z"
+}

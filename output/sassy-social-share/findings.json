@@ -1,0 +1,23 @@
+{
+  "options": [
+    "heateor_sss",
+    "heateor_sss_twitcount_notification_read",
+    "heateor_sss_gdpr_notification_read",
+    "heateor_sss_version",
+    "heateor_sss_custom_url_shares",
+    "heateor_sss_homepage_shares"
+  ],
+  "transients": [
+    "heateor-sss-admin-notice-on-activation",
+    "heateor_sss_share_count_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_heateor_sss_meta",
+    "_heateor_sss_bitly_url",
+    "_heateor_sss_shares_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:33.354Z"
+}

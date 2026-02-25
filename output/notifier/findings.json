@@ -1,0 +1,52 @@
+{
+  "options": [
+    "notifier_meta",
+    "notifier_ctc_enable",
+    "notifier_enable_abandonment_cart_tracking",
+    "notifier_api_key",
+    "*api_activated",
+    "notifier_enabled_triggers",
+    "notifier_api_activated",
+    "notifier_ctc_button_style",
+    "notifier_ctc_whatsapp_number",
+    "*hidden_custom_keys",
+    "*site_key",
+    "notifier_enable_async_triggers",
+    "*api_key",
+    "*enabled_triggers",
+    "notifier_enable_activity_log",
+    "*enable_opt_in_checkbox_checkout",
+    "*checkout_opt_in_checkbox_text",
+    "notifier_abandonment_cart_cron_run_time",
+    "*default_country_code",
+    "notifier_ctc_greeting_text",
+    "notifier_ctc_custom_button_image_url"
+  ],
+  "transients": [
+    "notifier_notice_*",
+    "notifier_custom_meta_keys",
+    "_notifier_user_meta_keys",
+    "_notifier_custom_meta_keys",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*trigger_enabled",
+    "*data_fields",
+    "*recipient_fields",
+    "*trigger",
+    "billing_phone",
+    "billing_country",
+    "billing_state",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:36.803Z"
+}

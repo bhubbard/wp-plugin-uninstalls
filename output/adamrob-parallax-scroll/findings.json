@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "parallax_meta_height",
+    "parallax_meta_vpos",
+    "parallax_meta_hpos",
+    "parallax_meta_pheight",
+    "parallax_meta_pheightmob",
+    "parallax_meta_DisableParImg",
+    "parallax_meta_DisableParallax",
+    "parallax_meta_hstyle",
+    "parallax_meta_FullWidth",
+    "parallax_meta_speed",
+    "parallax_meta_parallaxjs"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:20.651Z"
+}

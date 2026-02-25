@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ICC_Star_H",
+    "ICC_Star_Add",
+    "ICC_table_db"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:31.859Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "storm_clean_admin_version",
+    "storm_clean_admin_activated",
+    "storm_clean_admin_generals_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wsca_check_inactive_users_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:05.427Z"
+}

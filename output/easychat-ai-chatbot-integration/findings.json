@@ -1,0 +1,13 @@
+{
+  "options": [
+    "easyaich_ai_chatbot_client",
+    "easyaich_ai_chatbot_bot",
+    "easyaich_ai_chatbot_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:01.416Z"
+}

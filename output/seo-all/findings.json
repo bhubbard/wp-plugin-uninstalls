@@ -1,0 +1,19 @@
+{
+  "options": [
+    "seo_all_baidu_push",
+    "seo_all_global",
+    "seo_all_other",
+    "seo_all_sitemap",
+    "seo_all_index",
+    "seo_all_robots"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Baidu_Push",
+    "post_seo_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:11.733Z"
+}

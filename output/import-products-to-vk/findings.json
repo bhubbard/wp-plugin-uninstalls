@@ -1,0 +1,32 @@
+{
+  "options": [
+    "ip2vk_keeplogs",
+    "woo_hook_isc*",
+    "woo_hook_isd*",
+    "ip2vk_disable_notices",
+    "ip2vk_group_content",
+    "ip2vk_settings_arr",
+    "ip2vk_version",
+    "*_keeplogs",
+    "active_sitewide_plugins",
+    "ip2vk_groups_content"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ip2vk_cron_sborki",
+    "ip2vk_cron_period",
+    "cron_sborki"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ip2vk_vk_category_id",
+    "_ts_gtin",
+    "_ip2vk_prod_id_on_vk",
+    "_ip2vk_existing_photo_id",
+    "_ip2vk_vk_product_category",
+    "thumbnail_id",
+    "rank_math_primary_category"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:41.392Z"
+}

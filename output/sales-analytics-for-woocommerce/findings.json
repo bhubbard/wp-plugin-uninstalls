@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "_wcml_settings",
+    "salesafw_analytics_show_walkthrough",
+    "woocommerce_custom_orders_table_enabled",
+    "salesafw_redirect_on_activation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:27.852Z"
+}

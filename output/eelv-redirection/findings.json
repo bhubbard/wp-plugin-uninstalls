@@ -1,0 +1,13 @@
+{
+  "options": [
+    "eelv_url_redirect",
+    "eelv_when_redirect",
+    "eelv_code_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:20.817Z"
+}

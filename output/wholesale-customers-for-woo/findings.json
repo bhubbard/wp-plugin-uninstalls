@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wcs_global_discount",
+    "wcs_min_cart_amount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcs_wholesale_customer",
+    "wholesale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:08.157Z"
+}

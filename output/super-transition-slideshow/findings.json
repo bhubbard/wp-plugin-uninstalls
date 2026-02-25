@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sts_dir",
+    "sts_pause",
+    "sts_transduration",
+    "sts_dir_1",
+    "sts_dir_2",
+    "sts_dir_3",
+    "sts_dir_4",
+    "sts_title",
+    "sts_title_yes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:19.326Z"
+}

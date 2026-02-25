@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_extended_cpt_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_extended_cpt_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_extended_cpt_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_extended_cpt_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_extended_tax_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_extended_tax_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_extended_tax_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_extended_tax_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_extended_meta_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_extended_meta_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_extended_meta_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_extended_meta_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_extended_post_id_for_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_extended_post_id_for_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_extended_post_id_for_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_extended_post_id_for_meta'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_extended_post_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_extended_post_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_extended_post_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_extended_post_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wp_extended_post_id_for_tax'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wp_extended_post_id_for_tax'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wp_extended_post_id_for_tax'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wp_extended_post_id_for_tax'"

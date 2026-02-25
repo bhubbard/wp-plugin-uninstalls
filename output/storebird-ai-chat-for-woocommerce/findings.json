@@ -1,0 +1,34 @@
+{
+  "options": [
+    "storebird_api_key",
+    "storebird_secret_key",
+    "storebird_enabled",
+    "storebird_admin_only",
+    "storebird_connected_via",
+    "storebird_last_sync",
+    "storebird_product_count",
+    "storebird_version",
+    "storebird_api_url",
+    "storebird_dashboard_url"
+  ],
+  "transients": [
+    "storebird_connection_verified",
+    "storebird_connect_message",
+    "storebird_widget_config",
+    "storebird_sync_lock",
+    "storebird_sync_progress",
+    "storebird_sync_products",
+    "storebird_sync_product_ids",
+    "storebird_sync_count",
+    "storebird_pending_connect",
+    "storebird_auto_connect_cooldown",
+    "storebird_redirect_after_connect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_estimated_delivery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:19.179Z"
+}

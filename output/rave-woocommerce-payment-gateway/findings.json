@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_rave_settings",
+    "*_settings",
+    "autocomplete_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_flw_payment_txn_ref",
+    "_rave_wc_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:25.579Z"
+}

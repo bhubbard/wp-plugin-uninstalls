@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sdp_On_Homepage",
+    "sdp_On_Posts",
+    "sdp_On_Pages",
+    "sdp_On_Archives",
+    "sdp_On_Search",
+    "sdp_cookies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:34.879Z"
+}

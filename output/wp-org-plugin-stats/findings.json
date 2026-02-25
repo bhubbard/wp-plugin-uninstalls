@@ -1,0 +1,27 @@
+{
+  "options": [
+    "jltwporgst_sheet_promo_data",
+    "jltwporgst_sheet_promo_data_hash",
+    "worg_plugin_request",
+    "jltwporgst_activation_time",
+    "*_allow_tracking"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "jltwporgst_sheet_promo_data_remote_sync",
+    "cron_save_org_downloads"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:30.044Z"
+}

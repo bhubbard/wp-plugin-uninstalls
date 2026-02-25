@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lmcp_rewrite_rules"
+  ],
+  "transients": [
+    "lmcp_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lmcp_custom_permalink"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:23.930Z"
+}

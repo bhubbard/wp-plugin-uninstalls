@@ -1,0 +1,29 @@
+{
+  "options": [
+    "_blockart_version",
+    "_blockart_activation_redirect",
+    "_blockart_activation_time",
+    "_blockart_blocks_css",
+    "widget_block",
+    "_blockart_global_styles_generated_timestamp",
+    "_blockart_settings",
+    "_blockart_widget_css",
+    "_blockart_dynamic_css_print_method",
+    "downloaded_font_files"
+  ],
+  "transients": [
+    "_blockart_library_data",
+    "*]",
+    "_blockart_media_items"
+  ],
+  "cron_jobs": [
+    "blockart_delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_blockart_blocks_css",
+    "_blockart_review"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:19.517Z"
+}

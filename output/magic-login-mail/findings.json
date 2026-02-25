@@ -1,0 +1,16 @@
+{
+  "options": [
+    "magic_login_mail_valid_errors",
+    "magic_login_mail_email_errors",
+    "magic_login_mail_email_success"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "magic_login_mail_*",
+    "*_expiration"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:31.370Z"
+}

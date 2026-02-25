@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mycred_eventsmanager_gateway_prefs', 'dbem_multiple_bookings', 'dbem_bookings_currency', 'dbem_bookings_approval', 'dbem_bookings_anonymous', 'dbem_bookings_registration_disable', 'dbem_bookings_currency_decimal_point', 'dbem_bookings_currency_thousands_sep', 'dbem_bookings_currency_format', 'em_mycred_checkout_option_name', 'em_mycred_checkout_booking_feedback', 'em_mycred_checkout_booking_feedback_free', 'em_mycred_checkout_button', 'em_mycred_checkout_booking_feedback_completed', 'em_mycred_checkout_booking_feedback_cancelled', 'em_mycred_checkout_inc_tax', 'em_mycred_checkout_reserve_pending', 'em_offline_booking_feedback', 'em_mycred_elements_option_name', 'em_mycred_elements_booking_feedback', 'em_mycred_elements_booking_feedback_free', 'em_mycred_elements_booking_feedback_completed', 'em_mycred_elements_booking_feedback_cancelled', 'em_mycred_elements_inc_tax', 'em_mycred_elements_reserve_pending', 'emp_mycred_version', 'em_mycred_checkout_api', 'em_mycred_elements_api', 'em_mycred_elements_mode', 'em_mycred_checkout_mode');
+DELETE FROM wp_options WHERE option_name LIKE '%_manual_approval';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'mycred_tickets_reward_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'mycred_tickets_reward_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'mycred_tickets_reward_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'mycred_tickets_reward_%';
+

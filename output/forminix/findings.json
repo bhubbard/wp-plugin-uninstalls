@@ -1,0 +1,15 @@
+{
+  "options": [
+    "forminix_modules",
+    "forminix_forms",
+    "forminix_form_settings",
+    "forminix_entries",
+    "forminix_entry_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:44.653Z"
+}

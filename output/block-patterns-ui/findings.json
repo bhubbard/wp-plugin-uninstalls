@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bpui_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bpui_categories",
+    "bpui_keywords",
+    "bpui_viewport_width"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:39.334Z"
+}

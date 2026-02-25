@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_chameleon",
+    "ap_case",
+    "ap_layout",
+    "ap_dom",
+    "ap_debug_logger",
+    "alphabetic_pagination_options"
+  ],
+  "transients": [
+    "ap_taxes_types_query_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:54.102Z"
+}

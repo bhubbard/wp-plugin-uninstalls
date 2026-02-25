@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_member_position",
+    "_facebook_url",
+    "_likdin_url",
+    "_insta_url",
+    "_twitter_url",
+    "_google_url",
+    "_youtube_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:59.400Z"
+}

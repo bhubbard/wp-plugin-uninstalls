@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sep_event_options",
+    "sep_visual_layout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "event_address",
+    "event_meta",
+    "add_segment",
+    "event_start_date_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:31.995Z"
+}

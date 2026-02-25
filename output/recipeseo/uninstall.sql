@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('recipeseo_ingredient_label', 'recipeseo_ingredient_label_hide', 'recipeseo_ingredient_list_type', 'recipeseo_instruction_label', 'recipeseo_instruction_label_hide', 'recipeseo_instruction_list_type', 'recipeseo_prep_time_label', 'recipeseo_prep_time_label_hide', 'recipeseo_cook_time_label', 'recipeseo_cook_time_label_hide', 'recipeseo_total_time_label', 'recipeseo_total_time_label_hide', 'recipeseo_yield_label', 'recipeseo_yield_label_hide', 'recipeseo_serving_size_label', 'recipeseo_serving_size_label_hide', 'recipeseo_calories_label', 'recipeseo_calories_label_hide', 'recipeseo_fat_label', 'recipeseo_fat_label_hide', 'amd_recipeseo_db_version');
+

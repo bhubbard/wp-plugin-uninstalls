@@ -1,0 +1,13 @@
+{
+  "options": [
+    "header_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cpb"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:10.669Z"
+}

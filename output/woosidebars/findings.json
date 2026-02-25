@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_condition",
+    "_sidebar_to_replace",
+    "_*",
+    "admin_color",
+    "_enable_sidebar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:17.906Z"
+}

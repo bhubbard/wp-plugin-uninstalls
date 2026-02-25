@@ -1,0 +1,37 @@
+{
+  "options": [
+    "gutenify_global_style",
+    "gutenify_site_options",
+    "gutenify_settings",
+    "downloaded_font_files",
+    "*_site_options",
+    "*_admin_global_style",
+    "*_global_style"
+  ],
+  "transients": [
+    "global_styles",
+    "global_styles_*",
+    "gutenberg_global_styles",
+    "gutenberg_global_styles_*",
+    "gutenify_remote_templates",
+    "gutenify_remote_template_kits",
+    "gutenify_demo_categories",
+    "gutenify_demo_import_list",
+    "_transient_pt_importer_data"
+  ],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_demo_imported",
+    "*_demo_imported_data",
+    "kit_name",
+    "_wp_page_template",
+    "kit_templates",
+    "kit_parts",
+    "kit_navigations"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:52.013Z"
+}

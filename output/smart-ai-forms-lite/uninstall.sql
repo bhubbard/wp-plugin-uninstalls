@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('smaraifo_notification_emails', 'smaraifo_db_version', 'smaraifo_smtp_enable', 'smaraifo_email_from_name', 'smaraifo_email_from', 'smaraifo_email_reply_to', 'smaraifo_smtp_host', 'smaraifo_smtp_port', 'smaraifo_smtp_encr', 'smaraifo_smtp_auth', 'smaraifo_smtp_user', 'smaraifo_smtp_pass', 'smaraifo_customizer_selected_form', 'smaraifo_button_background_color', 'smaraifo_button_text_color', 'smaraifo_button_border_radius', 'smaraifo_button_border_width', 'smaraifo_button_border_color', 'smaraifo_button_padding_top', 'smaraifo_button_padding_right', 'smaraifo_button_padding_bottom', 'smaraifo_button_padding_left', 'smaraifo_button_width', 'smaraifo_button_alignment', 'smaraifo_button_margin_top', 'smaraifo_button_margin_bottom', 'smaraifo_button_hover_background_color', 'smaraifo_button_hover_text_color', 'smaraifo_field_border_radius', 'smaraifo_field_border_width', 'smaraifo_field_border_color', 'smaraifo_field_background_color', 'smaraifo_field_text_color', 'smaraifo_field_font_size', 'smaraifo_field_padding_top', 'smaraifo_field_padding_right', 'smaraifo_field_padding_bottom', 'smaraifo_field_padding_left', 'smaraifo_label_color', 'smaraifo_label_font_size', 'smaraifo_label_font_weight', 'smaraifo_field_placeholder_color', 'smaraifo_field_focus_border_color', 'smaraifo_field_focus_shadow_color', 'smaraifo_version');
+DELETE FROM wp_options WHERE option_name LIKE '%_button_styles';
+DELETE FROM wp_options WHERE option_name LIKE '%_customization';
+DELETE FROM wp_options WHERE option_name LIKE '%_field_styles';
+

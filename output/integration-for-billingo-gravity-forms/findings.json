@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_gf_billingo_pro_enabled",
+    "_gf_billingo_pro_key",
+    "_gf_billingo_pro_email",
+    "_gf_billingo_error"
+  ],
+  "transients": [
+    "gf_billingo_bank_accounts_*",
+    "gf_billingo_invoice_blocks_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gf_billingo_admin_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:58.695Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "blacklist_local",
+    "blacklist_exclude",
+    "blacklist_last_update",
+    "blacklist_github_source_updated",
+    "use_wordpress_comment_blacklist_splorp",
+    "apa_another_blacklist_url",
+    "_transient_timeout_blacklist_github_update_check",
+    "use_wordpress_comment_blacklist_splorp "
+  ],
+  "transients": [
+    "blacklist_update_process",
+    "blacklist_github_update_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:40.606Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "diskusijam_api_page_key",
+    "diskusijam_api_user_key",
+    "diskusijam_profile_id",
+    "diskusijam_page_id",
+    "diskusijam_comment_sync",
+    "diskusijam_lang"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "diskusijam_comment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:00.772Z"
+}

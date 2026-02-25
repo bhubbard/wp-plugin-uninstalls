@@ -1,0 +1,38 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "muzaara_google_scopes",
+    "muzaara_bing_accesstoken",
+    "muzaara_bing_scopes",
+    "muzaara_plugins"
+  ],
+  "transients": [
+    "muzaara_woopf_bing_taxonomies",
+    "muzaara_woopf_bing_google_categories",
+    "muzaara_bing_dev_key"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "muzaara_woopf_bing_product_types",
+    "muzaara_woopf_bing_feed_type",
+    "muzaara_woopf_bing_push_type",
+    "muzaara_woopf_bing_refresh_rate",
+    "muzaara_woopf_bing_last_refreshed",
+    "muzaara_woopf_bing_dump_url",
+    "muzaara_woopf_bing_merchant_id",
+    "muzaara_woopf_bing_catalog_id",
+    "muzaara_woopf_bing_running_status",
+    "muzaara_woopf_bing_country",
+    "muzaara_woopf_bing_notice_email",
+    "muzaara_woopf_bing_category_mapping",
+    "muzaara_woopf_bing_mappings",
+    "muzaara_woopf_bing_filters",
+    "muzaara_woopf_bing_rules",
+    "muzaara_woopf_bing_utm",
+    "muzaara_woopf_bing_product_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:00.708Z"
+}

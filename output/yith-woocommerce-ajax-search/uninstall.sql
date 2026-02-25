@@ -1,0 +1,19 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ywcas_last_index_process', 'yith_wcas_search_fields', 'yith_wcas_synonymous', 'woocommerce_currency_pos', 'yith_wcas_db_version', 'ywcas_first_indexing', 'yith_wcas_free_option_version', 'yith_wcas_enable_transient', 'ywcas_updated_to_v2', 'ywcas_user_switch_to_block', 'ywcas_old_setting_checked', 'yith_wcas_search_default_template', 'yith_wcas_show_search_list', 'yith_wcas_show_category_list', 'woocommerce_tax_display_shop', 'yith_wcas_search_by_sku', 'yith_wcas_cf_name', 'yith_wcas_show_thumbnail', 'yith_wcas_show_sale_badge', 'yith_wcas_show_outofstock_badge', 'yith_wcas_show_featured_badge', 'yith_wcas_search_input_label', 'yith_wcas_search_submit_label', 'yith_wcas_posts_per_page', 'yith_wcas_search_price_label', 'yith_wcas_search_show_thumbnail_dim', 'yith_wcas_search_title_color', 'yith_wcas_show_excerpt_num_words', 'yith_wcas_search_show_view_all', 'yith_wcas_search_show_view_all_text', 'yith_wcas_search_show_no_results_text', 'yith_wcas_hide_feature_if_on_sale', 'ywcas_shortcodes_list', 'yith_wcas_sale_badge', 'yith_wcas_outofstock', 'yith_wcas_featured_badge', 'yith_wcas_loader_url', 'widget_yith_woocommerce_ajax_search', 'yith_wcas_search_in_title', 'yith_wcas_search_in_excerpt', 'yith_wcas_search_in_content', 'yith_wcas_search_in_product_categories', 'yith_wcas_search_in_product_tags', 'yith_wcas_search_by_sku_variations', 'yith_wcas_search_in_author', 'yith_wcas_hide_out_of_stock', 'yith_wcas_default_research', 'yith_wcas_include_variations', 'yith_wcas_search_type_more_words', 'yith_wcas_transient_duration');
+DELETE FROM wp_options WHERE option_name IN ('yith_wcas_show_excerpt', 'yith_wcas_categories', 'yith_wcas_show_price', 'yith_wcas_order_by_post_type', 'yith_wcas_order_by_post_type_select', 'yith_wcas_search_in_product_brands', 'yith_wcas_search_in_vendor', 'yit_font_awesome_list', 'yit_dashicons_list', 'yit_plugin_fw_panel_wc_default_options_set', 'yit_recently_activated', 'yith_system_info', 'yith_wcas_min_chars', 'yith-plugin-fw-latest-hc-articles', 'yith-plugin-fw-system-status-tls-version', 'yith-plugin-fw-system-status-output-ip', 'update_plugins');
+DELETE FROM wp_options WHERE option_name LIKE 'yith_wcas_search_in_%';
+DELETE FROM wp_options WHERE option_name LIKE 'yith_wcas_show_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_width';
+DELETE FROM wp_options WHERE option_name LIKE '%_height';
+DELETE FROM wp_options WHERE option_name LIKE '%_options';
+DELETE FROM wp_options WHERE option_name LIKE '%-yith-attachment-id';
+DELETE FROM wp_options WHERE option_name LIKE 'ywcas_stored_query_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('dismissed_wp_pointers', 'blog-cats');
+DELETE FROM wp_usermeta WHERE meta_key IN ('dismissed_wp_pointers', 'blog-cats');
+DELETE FROM wp_termmeta WHERE meta_key IN ('dismissed_wp_pointers', 'blog-cats');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('dismissed_wp_pointers', 'blog-cats');
+

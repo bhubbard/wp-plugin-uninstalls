@@ -1,0 +1,13 @@
+{
+  "options": [
+    "max_items",
+    "no_of_cols",
+    "cat_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:33.467Z"
+}

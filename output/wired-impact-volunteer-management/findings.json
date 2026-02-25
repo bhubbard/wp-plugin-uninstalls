@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wivm_version",
+    "volunteer_opp_rsvp_db_version",
+    "wivm-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_contact_name",
+    "_contact_phone",
+    "_contact_email",
+    "_location",
+    "_street",
+    "_city",
+    "_state",
+    "_zip",
+    "_one_time_opp",
+    "_start_date_time",
+    "_end_date_time",
+    "_flexible_frequency",
+    "_has_volunteer_limit",
+    "_volunteer_limit",
+    "_form_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:56.865Z"
+}

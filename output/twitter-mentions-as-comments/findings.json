@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tmac_options"
+  ],
+  "transients": [
+    "tlc_up__*"
+  ],
+  "cron_jobs": [
+    "tmac_hourly_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tmac_last_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:08.935Z"
+}

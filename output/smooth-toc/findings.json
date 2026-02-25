@@ -1,0 +1,19 @@
+{
+  "options": [
+    "smoothtoc_title",
+    "smoothtoc_position",
+    "smoothtoc_headings",
+    "smoothtoc_bg_color",
+    "smoothtoc_text_color",
+    "smoothtoc_font_size",
+    "smoothtoc_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smoothtoc_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:59.563Z"
+}

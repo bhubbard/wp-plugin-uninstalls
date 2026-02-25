@@ -1,0 +1,15 @@
+{
+  "options": [
+    "iris_translate_options",
+    "iris_translate_seo_options",
+    "iris_translate_url_translations",
+    "iris_custom_translations",
+    "iris_url_translations"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:36.300Z"
+}

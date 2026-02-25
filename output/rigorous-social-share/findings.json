@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rss_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rss_content_flag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:30.572Z"
+}

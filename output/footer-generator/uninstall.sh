@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'item1-link'
+wp option delete 'item1-icon'
+wp option delete 'item1-title'
+wp option delete 'item2-link'
+wp option delete 'item2-icon'
+wp option delete 'item2-title'
+wp option delete 'item3-link'
+wp option delete 'item3-icon'
+wp option delete 'item3-title'
+wp option delete 'item4-link'
+wp option delete 'item4-icon'
+wp option delete 'item4-title'
+wp option delete 'item5-link'
+wp option delete 'item5-icon'
+wp option delete 'item5-title'
+wp option delete 'text-size'
+wp option delete 'icon-color'
+wp option delete 'background-color'
+wp option delete 'show-after'
+wp option delete 'padding-top-bottom'
+wp option delete 'item1-select'
+wp option delete 'item2-select'
+wp option delete 'item3-select'
+wp option delete 'item4-select'
+wp option delete 'item5-select'
+wp option delete 'view-port-size'
+wp option delete 'disabled-footer'
+

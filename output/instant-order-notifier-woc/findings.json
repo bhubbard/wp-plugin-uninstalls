@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpc_last_order_time",
+    "wpc_last_order_id",
+    "wpc_notification_settings",
+    "wpc_last_seen_order_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:45.507Z"
+}

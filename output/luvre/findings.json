@@ -1,0 +1,16 @@
+{
+  "options": [
+    "luvre_settings"
+  ],
+  "transients": [
+    "luvre_plugin_activated",
+    "luvre_plugin_activated_nonce"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:22.506Z"
+}

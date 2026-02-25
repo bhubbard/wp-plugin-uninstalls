@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rewrite_rules",
+    "openvideoplugin_domain_verification_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "openvideoplugin_refresh_channel_path_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:34.978Z"
+}

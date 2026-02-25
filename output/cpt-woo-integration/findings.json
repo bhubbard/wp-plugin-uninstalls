@@ -1,0 +1,29 @@
+{
+  "options": [
+    "cptwooint_settings",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_based_on",
+    "woocommerce_tax_round_at_subtotal",
+    "cptwooint_plugin_version",
+    "cptwooint_plugin_activation_time",
+    "cptwooint_spare_me",
+    "cptwooint_remind_me",
+    "cptwooint_rated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_wc_payment_id",
+    "email",
+    "first_name",
+    "last_name",
+    "phone",
+    "contacts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:50.152Z"
+}

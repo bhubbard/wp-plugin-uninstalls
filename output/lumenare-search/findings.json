@@ -1,0 +1,20 @@
+{
+  "options": [
+    "lumenare_search_settings",
+    "lumenare_search_db_version",
+    "lumenare_search_last_indexed",
+    "lumenare_search_stop_words_hash",
+    "lumenare_search_last_post_types"
+  ],
+  "transients": [
+    "lumenare_reindex_batch"
+  ],
+  "cron_jobs": [
+    "lumenare_search_initial_index",
+    "lumenare_search_calculate_trending"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:21.909Z"
+}

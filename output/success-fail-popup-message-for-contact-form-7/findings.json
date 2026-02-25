@@ -1,0 +1,29 @@
+{
+  "options": [],
+  "transients": [
+    "*sfpmcf7error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sfpmcf7_enabled_popup_val",
+    "sfpmcf7_popup_message",
+    "sfpmcf7_m_popup_width",
+    "sfpmcf7_m_popup_radius",
+    "sfpmcf7_m_popup_duration",
+    "sfpmcf7_popup_background_option",
+    "sfpmcf7_popup_background_color",
+    "hidden_img_count",
+    "sfpmcf7_popup_image_color",
+    "sfpmcf7_popup_gradient_color",
+    "sfpmcf7_popup_gradient_color1",
+    "sfpmcf7_popup_text_color",
+    "sfpmcf7_popup_button_background_color",
+    "sfpmcf7_popup_button_text",
+    "failure_hidden_img_count",
+    "sfpmcf7_enabled_failure_popup_val",
+    "sfpmcf7_failure_popup_background_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:46.796Z"
+}

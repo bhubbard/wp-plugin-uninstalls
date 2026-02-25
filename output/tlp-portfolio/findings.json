@@ -1,0 +1,23 @@
+{
+  "options": [
+    "rtportfolio_bf_2021",
+    "rtpf_ny_2025",
+    "rtport_plugin_activation_time",
+    "rtport_spare_me",
+    "rtport_remind_me",
+    "rtport_rated",
+    "rtport_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "project_url",
+    "tools",
+    "client_name",
+    "completed_date",
+    "short_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:58.018Z"
+}

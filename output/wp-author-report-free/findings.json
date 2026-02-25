@@ -1,0 +1,15 @@
+{
+  "options": [
+    "included_stat_user",
+    "holyday"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "views",
+    "wpar_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:39.056Z"
+}

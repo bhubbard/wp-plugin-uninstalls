@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fftmj_client_id",
+    "fftmj_client_secret",
+    "fftmj_redirect_uri",
+    "fftmj_api_long_token",
+    "fftmj_api_long_token_generated",
+    "fftmj_api_long_token_expires"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:48.754Z"
+}

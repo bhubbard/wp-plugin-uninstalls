@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('pushalert_enable_for', '_pushalert_enable_auto_sw_manifest', 'pushalert_config_id', '_pushalert_abandoned_cart', '_pushalert_out_of_stock', '_pushalert_price_drop', '_pushalert_shipment_alert', '_pushalert_woocommerce_enable', 'pushalert_api_key', 'pushalert_web_id', '_pushalert_version', 'woocommerce_settings_pushalert_auto_assoc_yes', 'woocommerce_settings_pushalert_auto_assoc_no', 'woocommerce_settings_pushalert_auto_assoc', 'pushalert_sender_id', 'pushalert_default_title', 'pushalert_utm_source', 'pushalert_utm_medium', 'pushalert_utm_campaign', 'pushalert_default_expiry', 'pushalert_plugin_activation', 'pushalert_large_image', '_pushalert_cookie_id', 'pushalert_encrypt_key', 'woocommerce_settings_pushalert_association_css', 'woocommerce_settings_pushalert_confirm_message', 'woocommerce_settings_pushalert_button_yes', 'woocommerce_settings_pushalert_button_no', 'woocommerce_settings_pushalert_dashboard_option', '_pushalert_send_to_custom');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('pushalert_notification_title', 'pushalert_notification_message', 'pushalert_notification_enable', 'pushalert_notification_expiry', 'pushalert_utm_source', 'pushalert_utm_medium', 'pushalert_utm_campaign', 'pushalert_publish_status', '_woocommerce_persistent_cart');
+DELETE FROM wp_usermeta WHERE meta_key IN ('pushalert_notification_title', 'pushalert_notification_message', 'pushalert_notification_enable', 'pushalert_notification_expiry', 'pushalert_utm_source', 'pushalert_utm_medium', 'pushalert_utm_campaign', 'pushalert_publish_status', '_woocommerce_persistent_cart');
+DELETE FROM wp_termmeta WHERE meta_key IN ('pushalert_notification_title', 'pushalert_notification_message', 'pushalert_notification_enable', 'pushalert_notification_expiry', 'pushalert_utm_source', 'pushalert_utm_medium', 'pushalert_utm_campaign', 'pushalert_publish_status', '_woocommerce_persistent_cart');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('pushalert_notification_title', 'pushalert_notification_message', 'pushalert_notification_enable', 'pushalert_notification_expiry', 'pushalert_utm_source', 'pushalert_utm_medium', 'pushalert_utm_campaign', 'pushalert_publish_status', '_woocommerce_persistent_cart');
+

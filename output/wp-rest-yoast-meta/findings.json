@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_rest_yoast_meta_version"
+  ],
+  "transients": [
+    "yoast_meta_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:17.311Z"
+}

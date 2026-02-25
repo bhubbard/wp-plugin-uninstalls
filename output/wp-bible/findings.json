@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_bible_default_width",
+    "wp_bible_slim",
+    "wp_bible_inline",
+    "wp_bible_new_window",
+    "wp_bible_default_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:03.642Z"
+}

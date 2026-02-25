@@ -1,0 +1,15 @@
+{
+  "options": [
+    "show_screen_metabox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "administrator_id",
+    "author_id",
+    "editor_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:56.101Z"
+}

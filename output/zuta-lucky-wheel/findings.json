@@ -1,0 +1,16 @@
+{
+  "options": [
+    "zutalw_game_title",
+    "zutalw_popup_delay",
+    "zutalw_max_spins",
+    "zutalw_reset_days",
+    "zutalw_recaptcha_site_key",
+    "zutalw_recaptcha_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:45.812Z"
+}

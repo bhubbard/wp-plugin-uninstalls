@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [
+    "content.json",
+    "widgets.json",
+    "options.json",
+    "delayed_posts",
+    "imported_term_ids",
+    "imported_post_ids",
+    "post_orphans"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:19.576Z"
+}

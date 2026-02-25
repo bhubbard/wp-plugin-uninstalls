@@ -1,0 +1,26 @@
+{
+  "options": [
+    "si_do_activation_redirect",
+    "si_current_version",
+    "si_stripe_option",
+    "si_gtag_option",
+    "si_hash_migration_completed",
+    "*tally"
+  ],
+  "transients": [
+    "update_plugins",
+    "si_messaging_for_*",
+    "*_shortcodes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_invoice_access_hash",
+    "_estimate_access_hash",
+    "*_est",
+    "time_invoice_id",
+    "expense_invoice_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:26.694Z"
+}

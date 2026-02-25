@@ -1,0 +1,25 @@
+{
+  "options": [
+    "b1_database_version",
+    "b1-accounting",
+    "woocommerce_prices_include_tax",
+    "woocommerce_calc_taxes",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_custom_orders_table_data_sync_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "admin_post_b1_sync_orders",
+    "admin_post_b1_sync_items",
+    "admin_post_b1_clear_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_stock",
+    "_stock_status",
+    "_price",
+    "_regular_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:00.200Z"
+}

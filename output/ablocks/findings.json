@@ -1,0 +1,32 @@
+{
+  "options": [
+    "ablocks_frontend_dashboard_sub_pages",
+    "ablocks_first_install_time",
+    "insightsforwp_sent_data",
+    "ablocks_need_activation_redirect",
+    "ablocks_has_required_block_attribute_migration",
+    "widget_*",
+    "sidebars_widgets",
+    "ablocks_version",
+    "ablocks_fonts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ablocks_tb_template_type",
+    "ablocks_dismiss_offer_notice",
+    "_thumbnail_id",
+    "_wp_attachment_image_alt",
+    "ablocks_*",
+    "ablock_page_type",
+    "description",
+    "first_name",
+    "last_name",
+    "_wp_attachment_is_custom_header",
+    "_ablocks_demo_ref",
+    "_menu_item_menu_item_parent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:19.402Z"
+}

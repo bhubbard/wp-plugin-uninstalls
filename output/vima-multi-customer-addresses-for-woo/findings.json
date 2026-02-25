@@ -1,0 +1,28 @@
+{
+  "options": [
+    "vima_multi_addresses_settings",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*",
+    "woocommerce_ship_to_destination",
+    "woocommerce_enable_order_comments"
+  ],
+  "transients": [
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vima_shipping_addresses",
+    "shipping_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:59.554Z"
+}

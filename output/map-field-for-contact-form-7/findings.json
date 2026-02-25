@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gmfcf_country_code",
+    "gmfcf_address_option",
+    "gmfcf_cf7_geo_api_key",
+    "gmfcf_map_height",
+    "gmfcf_cf7_geo_gpa_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:32.458Z"
+}

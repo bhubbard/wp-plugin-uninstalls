@@ -1,0 +1,39 @@
+{
+  "options": [
+    "ignore_asana_plugins_messages",
+    "asana_active_free_plugin",
+    "_els_subscribe",
+    "els_settings"
+  ],
+  "transients": [
+    "_els_activation_redirect",
+    "els-google-fonts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "els_listing_gallery",
+    "captions",
+    "slides",
+    "property_heading",
+    "property_bedrooms",
+    "property_bathrooms",
+    "property_rooms",
+    "property_land_area",
+    "property_land_area_unit",
+    "property_status",
+    "slider_type",
+    "slider_theme",
+    "slider_container_id",
+    "slider_width",
+    "slider_height",
+    "slider_fill_mode",
+    "auto_play",
+    "autoplay_interval",
+    "slide_duration",
+    "loop",
+    "drag_orientation"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:01.113Z"
+}

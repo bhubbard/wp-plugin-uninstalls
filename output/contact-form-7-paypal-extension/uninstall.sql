@@ -1,0 +1,76 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('_exceed_cfpezw_l', '_exceed_cfpezw', 'cf7pe_install_notice');
+DELETE FROM wp_options WHERE option_name LIKE '%enable_log';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_form_data', '_form_id', '_transaction_status', '_total', '_currency', '_paymen_type', 'subscription_canceled', '_attachment', '_transaction_id', '_email', '_payer_email', '_amount', '_quantity', '_request_Ip', '_transaction_response', '_invoice_no', '_last_payment_reference', '_transaction_status_on_site');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_form_data', '_form_id', '_transaction_status', '_total', '_currency', '_paymen_type', 'subscription_canceled', '_attachment', '_transaction_id', '_email', '_payer_email', '_amount', '_quantity', '_request_Ip', '_transaction_response', '_invoice_no', '_last_payment_reference', '_transaction_status_on_site');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_form_data', '_form_id', '_transaction_status', '_total', '_currency', '_paymen_type', 'subscription_canceled', '_attachment', '_transaction_id', '_email', '_payer_email', '_amount', '_quantity', '_request_Ip', '_transaction_response', '_invoice_no', '_last_payment_reference', '_transaction_status_on_site');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_form_data', '_form_id', '_transaction_status', '_total', '_currency', '_paymen_type', 'subscription_canceled', '_attachment', '_transaction_id', '_email', '_payer_email', '_amount', '_quantity', '_request_Ip', '_transaction_response', '_invoice_no', '_last_payment_reference', '_transaction_status_on_site');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%use_paypal';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%use_paypal';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%use_paypal';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%use_paypal';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%mode_sandbox';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%mode_sandbox';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%mode_sandbox';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%mode_sandbox';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%sandbox_client_id';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%sandbox_client_id';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%sandbox_client_id';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%sandbox_client_id';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%sandbox_client_secret';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%sandbox_client_secret';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%sandbox_client_secret';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%sandbox_client_secret';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%live_client_id';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%live_client_id';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%live_client_id';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%live_client_id';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%live_client_secret';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%live_client_secret';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%live_client_secret';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%live_client_secret';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%amount';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%amount';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%amount';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%amount';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%email';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%email';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%email';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%email';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%description';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%description';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%description';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%description';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%quantity';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%quantity';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%quantity';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%quantity';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%mailsend';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%mailsend';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%mailsend';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%mailsend';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%success_returnurl';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%success_returnurl';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%success_returnurl';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%success_returnurl';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%cancel_returnurl';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%cancel_returnurl';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%cancel_returnurl';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%cancel_returnurl';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%message';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%message';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%message';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%message';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%currency';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%currency';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%currency';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%currency';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%enable_on_site_payment';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%enable_on_site_payment';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%enable_on_site_payment';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%enable_on_site_payment';
+

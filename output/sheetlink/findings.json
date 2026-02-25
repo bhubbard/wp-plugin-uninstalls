@@ -1,0 +1,25 @@
+{
+  "options": [
+    "rgsi_activation_time",
+    "raogsi_credentials",
+    "raogsi_google_token",
+    "rgsi_review_notice_dismissed",
+    "srgsi_review_notice_dismissed",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "raogsi_worksheet_list"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sent_to_sheet"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:07.922Z"
+}

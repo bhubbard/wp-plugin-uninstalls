@@ -1,0 +1,21 @@
+{
+  "options": [
+    "LDAP_authentication_auto_create_user",
+    "LDAP_authentication_use_ssl",
+    "LDAP_authentication_server",
+    "LDAP_authentication_base_dn",
+    "LDAP_authentication_role_equivalent_groups",
+    "LDAP_authentication_default_email_domain",
+    "LDAP_authentication_bind_dn",
+    "LDAP_authentication_bind_password",
+    "LDAP_authentication_uid_filter",
+    "LDAP_authentication_group_filter",
+    "LDAP_authentication_group_attribute"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:37.673Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "options_freshjet__api_key",
+    "options_freshjet__secret_key",
+    "options_freshjet__sender_name",
+    "options_freshjet__sender_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:36.779Z"
+}

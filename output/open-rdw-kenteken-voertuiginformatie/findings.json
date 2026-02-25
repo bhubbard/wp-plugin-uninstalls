@@ -1,0 +1,21 @@
+{
+  "options": [
+    "puc_license_rdw",
+    "open-rdw-notice-dismissed",
+    "tsd_rdw_license_status",
+    "open_rdw_formatters",
+    "status_puc_license_rdw",
+    "puc_date_rdw",
+    "tussendoor_token",
+    "rdw_tsd_license",
+    "tsd_rdw_tsd_rdw_license_status"
+  ],
+  "transients": [
+    "*_license_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:31.679Z"
+}

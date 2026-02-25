@@ -1,0 +1,43 @@
+{
+  "options": [
+    "_ddwcaf_affiliate_registration_fields",
+    "woocommerce_registration_generate_username",
+    "woocommerce_registration_generate_password",
+    "_ddwcaf_enabled",
+    "_ddwcaf_user_roles",
+    "_ddwcaf_fields_enabled_on_woocommerce_registration",
+    "_ddwcaf_affiliate_dashboard_page_id",
+    "_ddwcaf_enable_widgets_affiliate_dashboard_page",
+    "_ddwcaf_primary_color",
+    "_ddwcaf_default_affiliate_dashboard_page",
+    "_ddwcaf_my_account_enabled",
+    "_ddwcaf_enable_widgets_my_account_endpoint",
+    "_ddwcaf_query_variable_name",
+    "_ddwcaf_referral_cookie_name",
+    "_ddwcaf_referral_cookie_expires",
+    "_ddwcaf_register_visits_enabled",
+    "_ddwcaf_referral_social_share_options",
+    "_ddwcaf_social_share_title",
+    "_ddwcaf_social_share_text",
+    "_ddwcaf_pinterest_image_url",
+    "_ddwcaf_default_commission_rate",
+    "_ddwcaf_exclude_taxes_enabled",
+    "_ddwcaf_exclude_discounts_enabled",
+    "_ddwcaf_withdrawal_methods",
+    "_ddwcaf_affiliate_registration_form_shortcode",
+    "_ddwcaf_affiliate_registration_form_shortcode_content",
+    "_ddwcaf_affiliate_dashboard_shortcode",
+    "woocommerce_logout_endpoint"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ddwcaf_affiliate_status",
+    "_ddwcaf_affiliate_info_data",
+    "_ddwcaf_affiliate_withdrawal_methods",
+    "_ddwcaf_affiliate_default_withdrawal_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:40.560Z"
+}

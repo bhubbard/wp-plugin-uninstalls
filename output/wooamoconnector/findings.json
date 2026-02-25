@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wac_subdomain",
+    "wac_login",
+    "wac_key",
+    "wooac_orders_send_from",
+    "wooms_orders_send_from",
+    "wac_sync_time",
+    "wac_sync_disable"
+  ],
+  "transients": [
+    "wac_last_start"
+  ],
+  "cron_jobs": [
+    "wooamoconnector_cron_worker"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wooamoc_send_timestamp",
+    "wac_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:06.007Z"
+}

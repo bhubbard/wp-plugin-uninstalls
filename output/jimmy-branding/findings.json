@@ -1,0 +1,23 @@
+{
+  "options": [
+    "jimmy_branding_option_content",
+    "jimmy_branding_option_width",
+    "jimmy_branding_option_width_percents",
+    "jimmy_branding_option_height_min",
+    "jimmy_branding_option_height_min_percents",
+    "jimmy_branding_option_height_max",
+    "jimmy_branding_option_height_max_percents",
+    "jimmy_branding_option_res_choice",
+    "jimmy_branding_option_color_opener",
+    "jimmy_branding_option_width_opener",
+    "jimmy_branding_option_opener_choice",
+    "jimmy_branding_option_webgl_choice",
+    "jimmy_branding_option_shortcode_choice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:11.835Z"
+}

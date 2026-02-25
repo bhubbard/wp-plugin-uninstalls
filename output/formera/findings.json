@@ -1,0 +1,30 @@
+{
+  "options": [
+    "formera_gdpr_mode",
+    "formera_brand_color",
+    "formera_container_width",
+    "formera_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_formera_subject",
+    "_formera_content",
+    "_formera_updated_at",
+    "_formera_questions",
+    "_formera_settings",
+    "_formera_status",
+    "_formera_survey_id",
+    "_formera_user_id",
+    "_formera_ip_address",
+    "_formera_response_data",
+    "_formera_message",
+    "_formera_recipients",
+    "_formera_sent_at",
+    "_formera_name",
+    "_formera_email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:18.199Z"
+}

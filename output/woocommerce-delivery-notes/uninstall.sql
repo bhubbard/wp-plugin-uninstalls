@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wcdn_template_type', 'woocommerce_version', 'wcdn_deliverynote_customization', 'wcdn_invoice_number_count', 'wcdn_invoice_customization', 'wcdn_receipt_customization', 'wcdn_template_type_invoice', 'wcdn_template_type_receipt', 'wcdn_template_type_delivery-note', 'wcdn_general_settings', 'wcdn_company_logo_image_id', 'wcdn_custom_company_name', 'wcdn_company_address', 'wcdn_personal_notes', 'wcdn_policies_conditions', 'wcdn_footer_imprint', 'wcdn_print_order_page_endpoint', 'wcdn_email_print_link', 'wcdn_admin_email_print_link', 'wcdn_print_button_on_view_order_page', 'wcdn_print_button_on_my_account_page', 'wcdn_rtl_invoice', 'wcdn_invoice_number_suffix', 'wcdn_invoice_number_prefix', 'wcdn_deliverynote_settings', 'wcdn_invoice_settings', 'wcdn_receipt_settings', 'wcdn_template_style', 'wcdn_template_type_delivery_note', 'wcdn_version', 'wcdn_document_settings', 'wcdn_invoice_number_start', 'wcdn_invoice_number_counter', 'wcdn_invoice_template_type', 'wcdn_receipt_template_type', 'wcdn_delivery_note_template_type', 'wcdn_create_invoice_number', 'active_sitewide_plugins', 'ts_tracker_last_send', 'wcdn_allow_tracking', 'woocommerce_store_city', 'woocommerce_default_country', 'woocommerce_tax_display_cart', 'woocommerce_tax_total_display', 'wcdn_company_address ', 'wcdn_ts_tracker_last_send', 'wcdn_flush_rewrite_rules');
+DELETE FROM wp_options WHERE option_name LIKE '%_customization';
+DELETE FROM wp_options WHERE option_name LIKE 'wcdn_template_type_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_allow_tracking';
+

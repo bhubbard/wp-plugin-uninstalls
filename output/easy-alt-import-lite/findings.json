@@ -1,0 +1,21 @@
+{
+  "options": [
+    "easy_alt_import_errors",
+    "easy_alt_import_last_rows",
+    "easy_alt_import_backup",
+    "easy_alt_import_backup_date",
+    "easy_alt_import_apply_errors",
+    "easy_alt_import_undo_errors",
+    "easy_alt_import_version"
+  ],
+  "transients": [
+    "easy_alt_import_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:00.223Z"
+}

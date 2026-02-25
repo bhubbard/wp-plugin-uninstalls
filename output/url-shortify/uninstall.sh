@@ -1,0 +1,64 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'fs_debug_mode'
+wp option delete '_transient_timeout_fs_snooze_period'
+wp option delete '_site_transient_timeout_fs_snooze_period'
+wp option delete 'active_sitewide_plugins'
+wp option delete 'fs_storage_logger'
+wp option delete 'fs_active_plugins'
+wp option delete '301_redirects'
+wp option delete 'ta_link_prefix_custom'
+wp option delete 'ta_no_follow'
+wp option delete 'ta_link_redirect_type'
+wp option delete 'ta_pass_query_str'
+wp option delete 'url_shortify_do_activation_redirect'
+wp option delete 'url_shortify_report_emails'
+wp option delete 'url_shortify_email_report_day'
+wp option delete 'url_shortify_email_report_time'
+wp option delete 'kc_us_settings'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_dismissed'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_settings'"
+
+# Delete Transients
+wp transient delete 'action_scheduler_last_pastdue_actions_check'
+wp transient delete 'action_scheduler_admin_notice'
+wp transient delete 'as_comment_count'
+wp transient delete 'fs_snooze_period'
+wp transient delete 'update_plugins'
+wp transient delete '_fs_api_connection_retry_counter'
+wp transient delete 'update_themes'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_geoip_%' OR option_name LIKE '_site_transient_geoip_%'"
+wp transient delete 'kc_plugins_info'
+
+# Clear Cron Jobs
+wp cron event delete 'fs_debug_turn_off_logging_hook'
+wp cron event delete 'regenerate_json_links_daily'
+wp cron event delete 'regenerate_json_links'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ta_no_follow'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ta_no_follow'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ta_no_follow'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ta_no_follow'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ta_redirect_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ta_redirect_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ta_redirect_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ta_redirect_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ta_pass_query_str'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ta_pass_query_str'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ta_pass_query_str'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ta_pass_query_str'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ta_link_expire_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ta_link_expire_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ta_link_expire_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ta_link_expire_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_ta_destination_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_ta_destination_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_ta_destination_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_ta_destination_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%_time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%_time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%_time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_time'"

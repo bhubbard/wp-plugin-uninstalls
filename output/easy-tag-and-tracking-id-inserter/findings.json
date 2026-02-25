@@ -1,0 +1,15 @@
+{
+  "options": [
+    "easy_tag_and_tracking_id_inserter_google_webmaster",
+    "easy_tag_and_tracking_id_inserter_google_analytical",
+    "easy_tag_and_tracking_id_inserter_google_tag_manager",
+    "easy_tag_and_tracking_id_inserter_webmaster",
+    "easy_tag_and_tracking_id_inserter_analytical"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:28.077Z"
+}

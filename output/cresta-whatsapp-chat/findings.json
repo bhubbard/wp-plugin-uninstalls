@@ -1,0 +1,14 @@
+{
+  "options": [
+    "crestawhatsappchat_settings",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_get_cresta_whatsapp_chat_plugin"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:24.178Z"
+}

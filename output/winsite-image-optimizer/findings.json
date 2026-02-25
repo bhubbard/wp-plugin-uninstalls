@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wsi_photonized",
+    "_wsi_engine",
+    "_wsi_original_filesize"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:56.401Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "bprwg_activate_message",
+    "bprwg_approved_message",
+    "bprwg_denied_message",
+    "bprwg_admin_pending_message",
+    "bprwg_user_pending_message",
+    "bprwg_moderate",
+    "bprwg_privacy_network",
+    "bprwg_enable_notifications",
+    "bprwg_blocked_ips",
+    "bprwg_blocked_emails"
+  ],
+  "transients": [
+    "bpro_user_count",
+    "bpro_total_user_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bprwg_ip_address",
+    "_bprwg_is_moderated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:37.813Z"
+}

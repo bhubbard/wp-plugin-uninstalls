@@ -1,0 +1,25 @@
+{
+  "options": [
+    "pp_wczc_zoho_api2_token",
+    "pp_wczc_zoho_client_id",
+    "pp_wczc_zoho_client_secret",
+    "pp_wczc_zoho_email",
+    "pp_wczc_zoho_host",
+    "pp_wczc_zoho_api_token",
+    "pp_wczc_no_ssl_verify",
+    "pp_wczc_add_contacts",
+    "pp_wczc_update_contacts",
+    "pp_wczc_contacts_lead_source",
+    "pp_wczc_add_leads",
+    "pp_wczc_update_leads",
+    "pp_wczc_leads_lead_source"
+  ],
+  "transients": [
+    "pp_wczc_zoho_fields_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:53.404Z"
+}

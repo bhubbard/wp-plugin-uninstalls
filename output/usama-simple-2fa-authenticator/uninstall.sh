@@ -1,0 +1,23 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_us2fa_redirect_%' OR option_name LIKE '_site_transient_us2fa_redirect_%'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'us2fa_temp_secret'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'us2fa_temp_secret'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'us2fa_temp_secret'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'us2fa_temp_secret'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'us2fa_secret'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'us2fa_secret'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'us2fa_secret'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'us2fa_secret'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'us2fa_enabled'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'us2fa_enabled'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'us2fa_enabled'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'us2fa_enabled'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'us2fa_backup_codes'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'us2fa_backup_codes'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'us2fa_backup_codes'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'us2fa_backup_codes'"

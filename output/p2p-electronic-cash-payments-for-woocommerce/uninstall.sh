@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Clear Cron Jobs
+wp cron event delete 'ECP_cron_action'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bitcoins_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bitcoins_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bitcoins_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bitcoins_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bch_cashaddr'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bch_cashaddr'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bch_cashaddr'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bch_cashaddr'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'order_total_in_btc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'order_total_in_btc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'order_total_in_btc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'order_total_in_btc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bitcoins_paid_total'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bitcoins_paid_total'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bitcoins_paid_total'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bitcoins_paid_total'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bitcoins_refunded'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bitcoins_refunded'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bitcoins_refunded'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bitcoins_refunded'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'exchange_rate'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'exchange_rate'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'exchange_rate'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'exchange_rate'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_incoming_payments'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_incoming_payments'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_incoming_payments'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_incoming_payments'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_payment_completed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_payment_completed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_payment_completed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_payment_completed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bitcoin_variant'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bitcoin_variant'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bitcoin_variant'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bitcoin_variant'"

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "Kloudymail",
+    "widget_kloudymail",
+    "kmlg_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "kmlgUpdateFields"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:49.145Z"
+}

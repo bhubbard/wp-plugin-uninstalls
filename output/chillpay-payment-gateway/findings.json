@@ -1,0 +1,21 @@
+{
+  "options": [
+    "chillpay_stored_site_url",
+    "chillpay_domain_changed",
+    "chillpay_gateways_fixed",
+    "woocommerce_chillpay_installment_settings",
+    "woocommerce_chillpay_settings"
+  ],
+  "transients": [
+    "wc_payment_gateways",
+    "woocommerce_payment_gateways",
+    "wc_site_url",
+    "chillpay_merchant_info",
+    "chillpay_fee_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:55.714Z"
+}

@@ -1,0 +1,43 @@
+{
+  "options": [
+    "widget_*",
+    "sidebars_widgets",
+    "qode_essential_addons_framework_permalinks",
+    "qode_essential_addons_framework_custom_sidebars",
+    "woocommerce_enable_review_rating"
+  ],
+  "transients": [
+    "qodef_total_import_blocks",
+    "qodef_imported_posts",
+    "qodef_imported_terms"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_elementor_data",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "qodef_page_sidebar_layout",
+    "qodef_page_custom_sidebar",
+    "qodef_post_format_audio_url",
+    "qodef_post_format_gallery_images",
+    "qodef_post_format_link",
+    "qodef_post_format_link_text",
+    "qodef_post_format_quote_text",
+    "qodef_post_format_quote_author",
+    "qodef_post_format_video_url",
+    "qodef_show_header_widget_areas",
+    "qodef_header_custom_widget_area_*",
+    "qodef_product_list_image",
+    "qodef_portfolio_item_padding",
+    "qodef_portfolio_list_image",
+    "qodef_portfolio_info_items",
+    "qodef_portfolio_media",
+    "qodef_portfolio_single_back_to_link",
+    "qodef_header_custom_widget_area_one",
+    "qodef_header_custom_widget_area_two"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:39.191Z"
+}

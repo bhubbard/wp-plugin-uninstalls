@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rssopt_announce_feed_name",
+    "rssopt_announce_rss_link",
+    "rssopt_more_link_text",
+    "rssopt_full_rss_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:10.914Z"
+}

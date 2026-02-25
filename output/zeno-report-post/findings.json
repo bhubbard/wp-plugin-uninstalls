@@ -1,0 +1,26 @@
+{
+  "options": [
+    "zeno_report_post-show_ip_to_client",
+    "zeno_report_post-show_on_blog",
+    "zeno_report_post-add_what",
+    "zeno_report_post-msg_min_length",
+    "zeno_report_post-require_login",
+    "zeno_report_post-spamfilter",
+    "zeno_report_post-subscribed_notification",
+    "zeno_report_post-email_notification",
+    "zeno_report_post-email_address",
+    "zeno_report_post-email_subject",
+    "zeno_report_post-email_body",
+    "zeno_report_post-post_types",
+    "disallowed_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_zeno_report_post",
+    "_zeno_report_post_moderated"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:11.642Z"
+}

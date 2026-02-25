@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pgrpw_activation_time",
+    "pgrpw_review_notice_hide_v1",
+    "pgrpw_next_show_time"
+  ],
+  "transients": [
+    "easy_razorpay_for_woocommerce_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_razorpay_order_id",
+    "_razorpay_payment_id",
+    "_razorpay_payment_verified"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:05.959Z"
+}

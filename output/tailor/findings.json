@@ -1,0 +1,24 @@
+{
+  "options": [
+    "_tailor_icon_kits",
+    "_tailor_editor_styles",
+    "jetpack_portfolio",
+    "jetpack_testimonial",
+    "tailor_version",
+    "tailor_previous_version"
+  ],
+  "transients": [
+    "tailor_control_definitions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tailor_layout",
+    "_post_title",
+    "_wp_attachment_image_alt",
+    "_edit_lock",
+    "_edit_last"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:47.021Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "fs_contact_form*",
+    "haw_mautic_drop_data",
+    "haw_mautic_base_url",
+    "haw_mautic_auth_type",
+    "haw_mautic_public_key",
+    "haw_mautic_secret_key",
+    "haw_mautic_access_token_data",
+    "haw_mautic_integration_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_form"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:15.154Z"
+}

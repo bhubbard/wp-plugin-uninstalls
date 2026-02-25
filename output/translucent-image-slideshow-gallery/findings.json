@@ -1,0 +1,25 @@
+{
+  "options": [
+    "TISG_width",
+    "TISG_height",
+    "TISG_delay",
+    "TISG_speed",
+    "TISG_dir",
+    "TISG_link",
+    "TISG_title",
+    "TISG_dir_1",
+    "TISG_link_1",
+    "TISG_dir_2",
+    "TISG_link_2",
+    "TISG_dir_3",
+    "TISG_link_3",
+    "TISG_dir_4",
+    "TISG_link_4"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:04.469Z"
+}

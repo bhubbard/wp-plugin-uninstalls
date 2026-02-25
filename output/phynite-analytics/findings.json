@@ -1,0 +1,55 @@
+{
+  "options": [
+    "phynite_api_key",
+    "phynite_sync_state",
+    "phynite_sync_queue",
+    "phynite_retry_queue",
+    "phynite_dataset_id",
+    "phynite_website_name",
+    "phynite_last_sync",
+    "phynite_last_sync_count",
+    "phynite_health_status",
+    "phynite_scheduled_sync_enabled",
+    "phynite_last_scheduled_sync"
+  ],
+  "transients": [
+    "phynite_rate_limit"
+  ],
+  "cron_jobs": [
+    "phynite_health_check",
+    "phynite_process_retry_queue",
+    "phynite_scheduled_sync",
+    "phynite_process_sync_batch"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_focus_keyword",
+    "rank_math_seo_score",
+    "rank_math_canonical_url",
+    "rank_math_robots",
+    "rank_math_rich_snippet",
+    "description",
+    "yield",
+    "category",
+    "rating",
+    "prep_time",
+    "cook_time",
+    "total_time",
+    "ingredients",
+    "calories",
+    "wprm_recipe_id",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_linkdex",
+    "_yoast_wpseo_content_score",
+    "_yoast_wpseo_canonical",
+    "_yoast_wpseo_meta-robots-noindex",
+    "_yoast_wpseo_meta-robots-nofollow",
+    "_yoast_wpseo_schema_article_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:29.133Z"
+}

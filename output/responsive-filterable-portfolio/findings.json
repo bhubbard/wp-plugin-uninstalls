@@ -1,0 +1,12 @@
+{
+  "options": [
+    "best_portfolio_grid_settings",
+    "wp_best_portfolio_msg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:19.865Z"
+}

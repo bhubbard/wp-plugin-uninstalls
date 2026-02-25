@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('woo_giftcard_to_friend_name', 'woo_giftcard_to_friend_email', 'woo_giftcard_from_sender_name', 'woo_giftcard_from_sender_email', 'woo_giftcard_message', '_woo_giftcard', 'gift-card-generated', '_giftcard_friend_name', '_giftcard_friend_email', '_giftcard_message', 'discount_type', 'coupon_amount', 'usage_limit', 'woo_giftcard_order_number', 'apply_before_tax', 'free_shipping');
+DELETE FROM wp_usermeta WHERE meta_key IN ('woo_giftcard_to_friend_name', 'woo_giftcard_to_friend_email', 'woo_giftcard_from_sender_name', 'woo_giftcard_from_sender_email', 'woo_giftcard_message', '_woo_giftcard', 'gift-card-generated', '_giftcard_friend_name', '_giftcard_friend_email', '_giftcard_message', 'discount_type', 'coupon_amount', 'usage_limit', 'woo_giftcard_order_number', 'apply_before_tax', 'free_shipping');
+DELETE FROM wp_termmeta WHERE meta_key IN ('woo_giftcard_to_friend_name', 'woo_giftcard_to_friend_email', 'woo_giftcard_from_sender_name', 'woo_giftcard_from_sender_email', 'woo_giftcard_message', '_woo_giftcard', 'gift-card-generated', '_giftcard_friend_name', '_giftcard_friend_email', '_giftcard_message', 'discount_type', 'coupon_amount', 'usage_limit', 'woo_giftcard_order_number', 'apply_before_tax', 'free_shipping');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('woo_giftcard_to_friend_name', 'woo_giftcard_to_friend_email', 'woo_giftcard_from_sender_name', 'woo_giftcard_from_sender_email', 'woo_giftcard_message', '_woo_giftcard', 'gift-card-generated', '_giftcard_friend_name', '_giftcard_friend_email', '_giftcard_message', 'discount_type', 'coupon_amount', 'usage_limit', 'woo_giftcard_order_number', 'apply_before_tax', 'free_shipping');
+

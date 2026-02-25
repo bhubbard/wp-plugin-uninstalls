@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bf_xprofile_options",
+    "wc4bp_sync_mail",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc4bp_xprofile_tmpga_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:52.483Z"
+}

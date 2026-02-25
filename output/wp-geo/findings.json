@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_geo_show_version_msg",
+    "wp_geo_options",
+    "wp_geo_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:00.137Z"
+}

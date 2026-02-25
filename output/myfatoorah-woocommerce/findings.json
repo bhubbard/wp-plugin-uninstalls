@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_myfatoorah_shipping_settings",
+    "woocommerce_myfatoorah_v2_settings",
+    "woocommerce_myfatoorah_embedded_settings",
+    "*_settings",
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "myfatoorah_backup_log_files"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:40.495Z"
+}

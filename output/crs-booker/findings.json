@@ -1,0 +1,18 @@
+{
+  "options": [
+    "crsbkr_hue",
+    "crsbkr_sat",
+    "crsbkr_lig",
+    "crsbkr_booking_endpoint",
+    "crsbkr_endpoint",
+    "crsbkr_uuid",
+    "crsbkr_api_key",
+    "crsbkr_search_results_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:47.891Z"
+}

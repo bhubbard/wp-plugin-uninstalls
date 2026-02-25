@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_email_base_color",
+    "dokan_selling"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "u4crypto_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "vendor-cnpj",
+    "u4cryptoItemId",
+    "boletolink",
+    "boleto",
+    "boletovencimento",
+    "boletoid",
+    "documentNumber",
+    "transaction",
+    "u4cryptoTextContent",
+    "u4cryptoImageContent",
+    "u4cryptoQrcodeURL",
+    "u4cryptoReference",
+    "u4cryptoPaymentStart",
+    "_payment_method",
+    "u4cryptoQRcodePayment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:23.514Z"
+}

@@ -1,0 +1,53 @@
+{
+  "options": [
+    "cl_general_settings",
+    "cl_paddle_notice",
+    "enable_cl_smtp",
+    "cl_popup_settings",
+    "cl_recaptcha_settings",
+    "cl_db_version",
+    "cl_other_mailer",
+    "cl_twilio_settings",
+    "cart_lift_security_key",
+    "rex_cart_lift_version",
+    "rex_cart_lift_installed_time",
+    "woocommerce_email_footer_text",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "rex_cart_lift_activation_redirect",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "cart_lift_process_scheduled_email_hook",
+    "cart_lift_x_days_cart_remove",
+    "wp_cl_x_day_cart_remove",
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "individual_use",
+    "free_shipping",
+    "product_ids",
+    "product_categories",
+    "exclude_product_ids",
+    "discount_type",
+    "coupon_amount",
+    "usage_limit",
+    "apply_before_tax",
+    "date_expires",
+    "_price",
+    "cl_edd_session_id",
+    "cl_recovered_cart",
+    "cl_lp_session_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:32.097Z"
+}

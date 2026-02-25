@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_lists",
+    "wp_subscribe_activated",
+    "wp_subscribe_notice_views"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_subscribe_ignore_notice",
+    "wp_subscribe_ignore_notice_2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:50.012Z"
+}

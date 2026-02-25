@@ -1,0 +1,26 @@
+{
+  "options": [
+    "aza-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aza_demo_generation"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "aza-visitor",
+    "aza-reports",
+    "_aza-visitor",
+    "aza-phone",
+    "_status",
+    "_amount",
+    "_first_cost",
+    "_hash",
+    "form_title",
+    "phone",
+    "_promo_code",
+    "aza-settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:35.967Z"
+}

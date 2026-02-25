@@ -1,0 +1,19 @@
+{
+  "options": [
+    "zarincall_api_key",
+    "zarincall_wellcome_isEnable",
+    "zarincall_woocommrece_onOrderCompelete_isEnable",
+    "zarincall_woocommrece_add_phone_register_isEnable",
+    "zarincall_wellcome_fileId",
+    "zarincall_woocommrece_onOrderCompelete_fileId"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zarincall_phone_number",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:15.372Z"
+}

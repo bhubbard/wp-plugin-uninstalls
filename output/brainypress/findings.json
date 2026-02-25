@@ -1,0 +1,19 @@
+{
+  "options": [
+    "brainypress_gemini_api_key",
+    "brainypress_tw_consumer_key",
+    "brainypress_tw_consumer_secret",
+    "brainypress_tw_access_token",
+    "brainypress_tw_access_secret",
+    "brainypress_active_orders",
+    "brainypress_review_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "brainypress_hourly_check_v8"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:20.001Z"
+}

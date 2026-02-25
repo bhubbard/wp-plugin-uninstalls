@@ -1,0 +1,19 @@
+{
+  "options": [
+    "nivo_search_default_preset_created",
+    "nivo_search_enable_ajax",
+    "nivo_search_excluded_products"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nivo_search_generale",
+    "_nivo_search_display",
+    "_nivo_search_style",
+    "_nivo_search_query",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:10.590Z"
+}

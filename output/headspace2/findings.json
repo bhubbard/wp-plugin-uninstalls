@@ -1,0 +1,36 @@
+{
+  "options": [
+    "headspace_*",
+    "headspace_options",
+    "headspace_cat_*",
+    "headspace_version",
+    "headspace_global",
+    "headspace_attachment",
+    "headspace_page",
+    "headspace_post",
+    "headspace_404",
+    "headspace_category",
+    "headspace_author",
+    "headspace_home",
+    "headspace_front",
+    "headspace_search",
+    "headspace_tags",
+    "headspace_taxonomy_*",
+    "headspace_taxonomy",
+    "headspace_archive",
+    "headspace_login",
+    "headspace2",
+    "headspace_keywords",
+    "headspace_dictionary",
+    "headspace_page_plugins",
+    "headspace_page_themes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_headspace_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:29.341Z"
+}

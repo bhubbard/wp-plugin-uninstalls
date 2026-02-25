@@ -1,0 +1,26 @@
+{
+  "options": [
+    "uptimemonster_site_monitor_api_keys",
+    "uptimemonster_first_installed",
+    "uptimemonster_need_setup",
+    "auto_update_plugins",
+    "auto_update_themes",
+    "umsm_site_monitor_api_keys",
+    "roxwp_site_monitor_api_keys",
+    "uptimemonster_site_monitor_version"
+  ],
+  "transients": [
+    "update_core",
+    "uptimemonster-setting-status",
+    "uptimemonster-is-connected",
+    "uptimemonster_plugin_data_*",
+    "uptimemonster_theme_data_*",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:21.470Z"
+}

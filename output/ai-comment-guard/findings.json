@@ -1,0 +1,20 @@
+{
+  "options": [
+    "aicog_db_version",
+    "aicog_settings",
+    "aicog_version"
+  ],
+  "transients": [
+    "aicog_connection_tested",
+    "aicog_last_error",
+    "aicog_ai_processed_*"
+  ],
+  "cron_jobs": [
+    "aicog_cleanup",
+    "aicog_daily_stats"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:19.760Z"
+}

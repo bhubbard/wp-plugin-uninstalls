@@ -1,0 +1,39 @@
+{
+  "options": [
+    "helpgent_is_running_background_db_migration_process",
+    "helpgent_is_running_background_process",
+    "helpgent_media_clean_up_status",
+    "helpgent_media_migration_status",
+    "helpgent_media_migration_route",
+    "helpgent_cancel_media_migration_process",
+    "helpgent_media_transfer_status",
+    "helpgent_total_email_sent",
+    "helpgent_active_media_driver",
+    "helpgent_removed_old_pro_plugin",
+    "helpgent_dismiss_nginx_setup_notice",
+    "helpgent-settings",
+    "helpgent_email_template_settings",
+    "_helpgent_options",
+    "helpgent_legacy_form",
+    "helpgent_is_done_migration:*"
+  ],
+  "transients": [
+    "helpgent_executed_media_clean_up_processor",
+    "*_process_lock",
+    "helpgent_executed_media_transfer_processor"
+  ],
+  "cron_jobs": [
+    "helpgent_background_processor_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "helpgent_timezone",
+    "helpgent_about",
+    "helpgent_avatar",
+    "helpgent_delete_scheduled",
+    "helpgent_user_number",
+    "helpgent_user_company"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:31.821Z"
+}

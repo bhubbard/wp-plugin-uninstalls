@@ -1,0 +1,22 @@
+{
+  "options": [
+    "upkeprvalidationkeycstm",
+    "upkpr_vulnerability_all",
+    "upkpr_vulnerability_*",
+    "upkpr_vulnerability_theme",
+    "upkpr_vulnerability_core",
+    "upkpr_vulnerability_plugin",
+    "upkepr-maintenance-json"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "upkprtkn"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:57.146Z"
+}

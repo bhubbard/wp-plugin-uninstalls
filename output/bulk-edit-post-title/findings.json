@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bept_allow_tracking"
+  ],
+  "transients": [
+    "bulk_edit_post_title_action",
+    "bulk_edit_post_title_ids",
+    "bept_tracking_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:26.322Z"
+}

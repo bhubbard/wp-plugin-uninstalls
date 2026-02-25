@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tt_add_to_cart_enabled",
+    "tt_add_to_cart_icon_enabled",
+    "tt_buy_now_enabled",
+    "tt_buy_now_button_position",
+    "tt_buy_now_icon_enabled",
+    "tt_skip_cart_checkout_enabled",
+    "tt_buy_now_url",
+    "tt_buy_now_button_text",
+    "tt_add_to_cart_button_text",
+    "tt_add_to_cart_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:25.868Z"
+}

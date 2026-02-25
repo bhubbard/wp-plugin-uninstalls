@@ -1,0 +1,23 @@
+{
+  "options": [
+    "social_offset",
+    "ubuntu-com_image",
+    "ubuntu-com_link",
+    "ubuntu-loco_image",
+    "ubuntu-loco_link",
+    "why-ubuntu_image",
+    "why-ubuntu_link",
+    "ubuntu-tour_image",
+    "ubuntu-tour_link",
+    "download-ubuntu_image",
+    "download-ubuntu_link",
+    "ubuntu-dvd_image",
+    "ubuntu-dvd_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:28.141Z"
+}

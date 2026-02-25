@@ -1,0 +1,40 @@
+{
+  "options": [
+    "mmb_stats_filter",
+    "mwp_incremental_update_active",
+    "mwp_worker_brand",
+    "mwp_maintenace_mode",
+    "mwp_core_autoupdate",
+    "mwp_recovering",
+    "mwp_container_parameters",
+    "mwp_container_site_parameters",
+    "mwp_service_key",
+    "mwp_incremental_recover_lock",
+    "mmb_network_admin_install",
+    "_worker_public_key",
+    "_worker_nossl_key",
+    "_action_message_id",
+    "mwp_notifications",
+    "mwp_worker_configuration",
+    "_site_transient_*",
+    "woocommerce_db_version",
+    "woocommerce_version",
+    "user_hit_count"
+  ],
+  "transients": [
+    "mwp_recovery_key",
+    "n_*"
+  ],
+  "cron_jobs": [
+    "mwp_auto_update",
+    "mwp_check_for_post_update",
+    "mwp_update_public_keys",
+    "mwp_backup_tasks",
+    "mwp_notifications",
+    "mwp_datasend"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:27:06.292Z"
+}

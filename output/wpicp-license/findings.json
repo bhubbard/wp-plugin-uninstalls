@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpicp_license",
+    "wpicp_wangan",
+    "wpicp_province",
+    "wpicp_company",
+    "wpicp_email",
+    "wpicp_phone",
+    "wpicp_edi",
+    "wpicp_app",
+    "wpicp_miniapp",
+    "cn_icp",
+    "cn_ga"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:01.132Z"
+}

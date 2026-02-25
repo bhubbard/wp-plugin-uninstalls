@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*menu_backups",
+    "*import_export_logs",
+    "*nav_menu_options",
+    "*max_backups",
+    "cm_mbr_max_backups"
+  ],
+  "transients": [
+    "*messages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*original_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:51.188Z"
+}

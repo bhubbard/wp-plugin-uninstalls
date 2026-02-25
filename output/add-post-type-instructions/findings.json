@@ -1,0 +1,12 @@
+{
+  "options": [
+    "apti-display-activation-message",
+    "apti-display-uninstallation-message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:52.134Z"
+}

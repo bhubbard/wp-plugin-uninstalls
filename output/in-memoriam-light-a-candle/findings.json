@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ct_activated",
+    "ct_prompted",
+    "imlac_candle_publish_notification"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "candle_prayer_name",
+    "candle_prayer_email",
+    "candle_prayer_location_name",
+    "candle_title_email",
+    "candle_prayer_location"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:45.585Z"
+}

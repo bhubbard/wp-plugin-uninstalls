@@ -1,0 +1,19 @@
+{
+  "options": [
+    "podbase_temp_state",
+    "podbase_temp_state_time",
+    "podbase_temp_state_user_id",
+    "podbase_internal_store_id",
+    "podbase_disconnect_token",
+    "podbase_key_id",
+    "podbase_connected",
+    "podbase_connection_date",
+    "podbase_aae_store_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:46.920Z"
+}

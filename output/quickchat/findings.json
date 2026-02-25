@@ -1,0 +1,12 @@
+{
+  "options": [
+    "header_code",
+    "quickchat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:38.795Z"
+}

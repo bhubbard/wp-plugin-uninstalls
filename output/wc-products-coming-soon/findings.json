@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pcs_enable",
+    "_pcs_label",
+    "_pcs_show_countdown",
+    "_pcs_available_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:13.487Z"
+}

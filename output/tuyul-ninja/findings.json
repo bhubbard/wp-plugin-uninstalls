@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpty_db_version",
+    "wpty_priority",
+    "wpty_email",
+    "wpty_period",
+    "options"
+  ],
+  "transients": [
+    "doing_cron"
+  ],
+  "cron_jobs": [
+    "send_post_to_blogger"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:58.671Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ch_public_key",
+    "ch_secret_key",
+    "ch_disable",
+    "ch_miner_speed",
+    "ch_delayed_miner_speed",
+    "ch_delayed_miner_time",
+    "ch_mobile_disable",
+    "ch_user_concent_needed",
+    "ci_public_key",
+    "ci_secret_key",
+    "ci_disable",
+    "ci_miner_speed",
+    "ci_delayed_miner_speed",
+    "ci_delayed_miner_time",
+    "ci_mobile_disable",
+    "ci_user_concent_needed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:31.321Z"
+}

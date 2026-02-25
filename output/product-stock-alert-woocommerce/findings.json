@@ -1,0 +1,21 @@
+{
+  "options": [
+    "Product_stock_option_css",
+    "Product_stock_alert_db_version",
+    "Product_stock_option_sender",
+    "Product_stock_option_from",
+    "Product_stock_option_subject",
+    "Product_stock_option_message",
+    "Product_stock_option_error",
+    "Product_stock_option_success",
+    "Product_stock_option_placeholder",
+    "Product_stock_option_submit",
+    "Product_stock_option_shortcode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:10.082Z"
+}

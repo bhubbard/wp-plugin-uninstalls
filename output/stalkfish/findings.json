@@ -1,0 +1,23 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "classic-editor-allow-users",
+    "sidebars_widgets",
+    "sf_queue_flush_rewrite_rules",
+    "sf_exclude_rules",
+    "sf_app_api_key"
+  ],
+  "transients": [
+    "stalkfish_last_error",
+    "stalkfish_connect_timeout",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:45.994Z"
+}

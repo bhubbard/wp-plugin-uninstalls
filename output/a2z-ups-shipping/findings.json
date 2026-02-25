@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_feature_product_block_editor_enabled",
+    "hit_ups_auto_main_settings",
+    "hit_ups_auto_values_*",
+    "hit_multi_vendor",
+    "hitshipo_ups_working_status",
+    "hit_ups_auto_status_*",
+    "hit_ups_auto_return_values_*",
+    "hit_ups_auto_return_status_*",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency"
+  ],
+  "transients": [
+    "hitshipo_ups_rest_auth_token_default",
+    "hitshipo_ups_rest_auth_token_*",
+    "hitshipo_ups_nonce_temp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hit_ups_auto_vendor_settings",
+    "hit_ups_auto_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:22.516Z"
+}

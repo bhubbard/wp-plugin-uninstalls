@@ -1,0 +1,36 @@
+{
+  "options": [
+    "dila_max_suggestions",
+    "dila_auto_insert_links",
+    "dila_enable_classic_editor",
+    "dila_indexing_trigger",
+    "dila_excluded_post_types",
+    "dila_enable_inline_highlights",
+    "dila_min_internal_links",
+    "dila_db_version"
+  ],
+  "transients": [
+    "dila_orphan_count",
+    "dila_broken_links_cache",
+    "dila_total_indexed_posts",
+    "dila_broken_links_count",
+    "dila_suggestions_*",
+    "dila_idf_scores",
+    "dila_index_progress"
+  ],
+  "cron_jobs": [
+    "dila_index_posts",
+    "dila_daily_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_dila_inbound_count",
+    "_dila_last_indexed",
+    "_dila_keyword_count",
+    "_dila_outbound_count",
+    "dila_onboarding_completed",
+    "dila_onboarding_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:03.927Z"
+}

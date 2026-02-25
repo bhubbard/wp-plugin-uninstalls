@@ -1,0 +1,13 @@
+{
+  "options": [
+    "vandapardakht_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vandapardakht_refid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:36.741Z"
+}

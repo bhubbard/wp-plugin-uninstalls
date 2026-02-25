@@ -1,0 +1,21 @@
+{
+  "options": [
+    "custom-css-js-tree",
+    "ccj_settings",
+    "*_activation_time",
+    "*_version",
+    "*_dismiss_notice",
+    "ccj-custom_codes_for_block_editor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_active",
+    "_edit_last",
+    "options",
+    "_slug"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:10.958Z"
+}

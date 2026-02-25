@@ -1,0 +1,28 @@
+{
+  "options": [
+    "MVCP_site_id",
+    "mv_mcp_version",
+    "mv_create_version",
+    "mv_publish_queue",
+    "mv_queues",
+    "*_queue",
+    "*_db_version",
+    "grow_site_uuid",
+    "grow_journey_status",
+    "mv_create_db_version"
+  ],
+  "transients": [
+    "mv_create_reset_term_association_locked",
+    "mv_create_reset_term_association_locked_*",
+    "mv_create_amazon_provision"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "disable-jtr",
+    "origin_uri"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:29.412Z"
+}

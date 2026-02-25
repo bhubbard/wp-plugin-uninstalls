@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "reepay_csv_data_migration_mobilepay_to_vipps",
+    "woocommerce_reepay_checkout_settings",
+    "woocommerce_currency",
+    "woocommerce_reepay_webhook_*",
+    "*_settings",
+    "woocommerce_reepay_version"
+  ],
+  "transients": [
+    "reepay_api_action_error",
+    "reepay_api_action_success",
+    "reepay_order_complete_should_settle_*",
+    "reepay_invoice_*",
+    "reepay_mobilepay_gateway_settings_saved_notice",
+    "reepay_mobilepay_subscriptions_gateway_settings_saved_notice",
+    "gateways_reepay",
+    "reepay_webhook_settings_secret"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reepay_customer_id",
+    "_reepay_enable_age_verification",
+    "_reepay_minimum_age"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:14.265Z"
+}

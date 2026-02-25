@@ -1,0 +1,12 @@
+{
+  "options": [
+    "su_wp_email_name",
+    "su_wp_email_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:59.381Z"
+}

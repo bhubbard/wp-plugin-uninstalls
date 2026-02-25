@@ -1,0 +1,14 @@
+{
+  "options": [
+    "red8_ai_color_palette_option",
+    "red8_ai_color_palette_settings_key_saved_date"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "red8_schedule_expired_key_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:35.041Z"
+}

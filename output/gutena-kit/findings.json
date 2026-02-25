@@ -1,0 +1,41 @@
+{
+  "options": [
+    "gutenakit_onboarding",
+    "active_sitewide_plugins",
+    "gutena_kit_global_typography",
+    "*_completed",
+    "*_license_key_status",
+    "*_child",
+    "allowedthemes",
+    "*_license_key",
+    "widget_*",
+    "sidebars_widgets",
+    "recently_activated",
+    "gutena_inactive_blocks"
+  ],
+  "transients": [
+    "gutenakit_demo_required_plugins",
+    "*_merlin_redirect",
+    "merlin_import_file_base_name",
+    "pt_importer_data",
+    "wc_attribute_taxonomies",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_is_custom_header",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id",
+    "tgmpa_dismissed_notice_*",
+    "gutenakit_post_config"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:16.436Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "accumulus_settings",
+    "accumulus_webhook_endpoint_enabled",
+    "accumulus_webhook_auth_user",
+    "accumulus_webhook_auth_password",
+    "accumulus_active_customer_role",
+    "*token",
+    "*client_id",
+    "*client_secret",
+    "accumulus_client_id",
+    "accumulus_client_secret",
+    "accumulus_testclient_id",
+    "accumulus_testclient_secret",
+    "accumulus_itestclient_id",
+    "accumulus_itestclient_secret",
+    "accumulus_token",
+    "accumulus_testtoken",
+    "accumulus_itesttoken"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "accumulus_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:23.260Z"
+}

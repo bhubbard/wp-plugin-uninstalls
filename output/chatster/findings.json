@@ -1,0 +1,22 @@
+{
+  "options": [
+    "chatster_enc_key",
+    "chatster_version",
+    "ch_welcome_notice_viewed",
+    "chatster_api_key",
+    "chatster_bot_qa_options",
+    "chatster_bot_options",
+    "chatster_chat_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "chatster_remove_old_convs",
+    "chatster_verify_presence",
+    "chatster_update_presence",
+    "chatster_check_new_requests"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:24.669Z"
+}

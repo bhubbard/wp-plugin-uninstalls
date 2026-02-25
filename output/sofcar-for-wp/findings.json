@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sofcar_token",
+    "sofcar_auth",
+    "sofcar_locale",
+    "sofcar_view_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:29.728Z"
+}

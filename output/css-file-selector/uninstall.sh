@@ -1,0 +1,12 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'gil_css_file_selector_file'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'gil_css_file_selector_file'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'gil_css_file_selector_file'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'gil_css_file_selector_file'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'gil_css_file_selector_rules'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'gil_css_file_selector_rules'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'gil_css_file_selector_rules'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'gil_css_file_selector_rules'"

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "schema_integration",
+    "wpseo_titles",
+    "wpseo_taxonomy_meta"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "schema_integration_source",
+    "schema_integration_conditions",
+    "schema_integration_name",
+    "schema_integration",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:47.560Z"
+}

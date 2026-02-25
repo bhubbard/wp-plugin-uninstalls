@@ -1,0 +1,19 @@
+{
+  "options": [
+    "click5_ninja_addon_const_values",
+    "click5_ninja_addon_notifications",
+    "click5_ninja_addon_notifications_count_errors",
+    "click5_ninja_addon_form_enable_*",
+    "click5_ninja_addon_crm_fields_stored",
+    "posting_url",
+    "form_enable_*",
+    "click5_ninja_authentication_token_*",
+    "click5_ninja_addon_posting_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:35.602Z"
+}

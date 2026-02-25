@@ -1,0 +1,21 @@
+{
+  "options": [
+    "athemes_blocks_enabled_blocks",
+    "athemes_blocks_dashboard_settings",
+    "woocommerce_enable_ajax_add_to_cart",
+    "downloaded_font_files",
+    "widget_block"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "atb_dashboard_notifications_latest_read",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:11.571Z"
+}

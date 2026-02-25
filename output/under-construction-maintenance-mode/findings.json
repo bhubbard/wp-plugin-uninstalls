@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wpb_sdk_under-construction-maintenance-mode",
+    "_ucmm_optin",
+    "ucmm_active_time",
+    "ucmm_review_dismiss",
+    "ucmm_wpbrigade_setting",
+    "ucmm_wpbrigade_customization",
+    "active_sitewide_plugins",
+    "wpb_sdk_*",
+    "wpb_sdk_module_id",
+    "wpb_sdk_module_slug",
+    "wpb_api_cache"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "wpb_logger_cron_*",
+    "wpb_daily_sync_cron_*",
+    "wpb_data_sync_*"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:48.293Z"
+}

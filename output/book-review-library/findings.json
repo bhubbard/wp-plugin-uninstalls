@@ -1,0 +1,15 @@
+{
+  "options": [
+    "book_reviews_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "isbn",
+    "book_in_stock",
+    "award_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:44.677Z"
+}

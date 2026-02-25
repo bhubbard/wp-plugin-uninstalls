@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Payer CCBILL email address",
+    "Payer first name",
+    "Payer last name",
+    "Payment type",
+    "Subscription ID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:16.689Z"
+}

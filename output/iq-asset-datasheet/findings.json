@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_IQmaximages",
+    "*_IQshowthmbnails",
+    "*_IQshowaboutreviews",
+    "*_IQshowassetname",
+    "*_IQshowprices",
+    "*_IQshowdescription",
+    "*_IQshowimages",
+    "*_IQshowvideo",
+    "*_IQshowassetmetadata",
+    "IQdatasheet_template_IQmaximages",
+    "IQdatasheet_template_IQshowthmbnails",
+    "IQdatasheet_template_IQshowaboutreviews",
+    "IQdatasheet_template_IQshowassetname",
+    "IQdatasheet_template_IQshowprices",
+    "IQdatasheet_template_IQshowdescription",
+    "IQdatasheet_template_IQshowimages",
+    "IQdatasheet_template_IQshowvideo",
+    "IQdatasheet_template_IQshowassetmetadata"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:32.086Z"
+}

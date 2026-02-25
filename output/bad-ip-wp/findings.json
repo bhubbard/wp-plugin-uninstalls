@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bad_ip_blocked",
+    "bad_ip_last_upgrade"
+  ],
+  "transients": [
+    "bad_ip_activated",
+    "bad_ip_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:32.334Z"
+}

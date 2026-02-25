@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ptc_delete_data_on_uninstall",
+    "PTC_plugin_version",
+    "ptc_activated_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "protect_children",
+    "_protect_children"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:34.642Z"
+}

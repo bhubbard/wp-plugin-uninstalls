@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'job_manager_enable_types'
+wp option delete 'job_manager_enable_categories'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_application_deadline'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_application_deadline'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_application_deadline'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_application_deadline'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_job_expires'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_job_expires'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_job_expires'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_job_expires'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geolocation_city'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geolocation_city'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geolocation_city'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geolocation_city'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_job_location'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_job_location'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_job_location'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_job_location'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geolocation_state_long'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geolocation_state_long'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geolocation_state_long'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geolocation_state_long'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geolocation_country_short'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geolocation_country_short'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geolocation_country_short'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geolocation_country_short'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geolocated'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geolocated'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geolocated'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geolocated'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geolocation_lat'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geolocation_lat'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geolocation_lat'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geolocation_lat'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geolocation_long'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geolocation_long'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geolocation_long'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geolocation_long'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_company_tagline'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_company_tagline'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_company_tagline'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_company_tagline'"

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "tb_string_swap"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tb-nag-string-swap-no-framework"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:34.210Z"
+}

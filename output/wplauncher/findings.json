@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_currency",
+    "wplauncher_company_name",
+    "wplauncher_logo",
+    "wplauncher_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_description",
+    "*_cost",
+    "*_budget",
+    "*_hourly_estimate",
+    "*_cost_estimate",
+    "*_status",
+    "*_response"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:41.474Z"
+}

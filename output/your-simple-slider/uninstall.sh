@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'slider_height'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'slider_height'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'slider_height'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'slider_height'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'height_units'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'height_units'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'height_units'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'height_units'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'slider_speed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'slider_speed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'slider_speed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'slider_speed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'slider_arrow'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'slider_arrow'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'slider_arrow'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'slider_arrow'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'slider_bullet'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'slider_bullet'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'slider_bullet'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'slider_bullet'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'your_simple_slider_img'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'your_simple_slider_img'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'your_simple_slider_img'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'your_simple_slider_img'"

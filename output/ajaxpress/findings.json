@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ajaxpress_diagnostic_permission",
+    "ajaxpress_license",
+    "ajaxpress_deactivate_feedbacks",
+    "ajaxpress_migrated_version",
+    "*disable_for_admins",
+    "*loader_layout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ajaxpress_tour_completed",
+    "ajaxpress_tour_mode",
+    "ajaxpress_tour_dismissed_at"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:01.900Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "edd_hd_ids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_hide_download",
+    "_edd_hide_redirect_download"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:24.344Z"
+}

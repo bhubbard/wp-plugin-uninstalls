@@ -1,0 +1,37 @@
+{
+  "options": [
+    "ails_auto_sync_offset",
+    "autolinks_sync",
+    "ails_last_synced_items",
+    "automatic-internal-links-for-seo",
+    "ails_onboarding_status",
+    "autolinks_db_version",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "ails_badge_count",
+    "ails_sync_totals",
+    "ails_auto_sync_lock",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "ails_auto_sync_event",
+    "ails_transients",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_focuskw",
+    "disable_internal_links"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:01.043Z"
+}

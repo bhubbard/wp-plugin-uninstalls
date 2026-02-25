@@ -1,0 +1,22 @@
+{
+  "options": [
+    "siteorigin_installer_admin_dismissed",
+    "siteorigin_premium_affiliate_id",
+    "siteorigin_installer",
+    "siteorigin_custom_file",
+    "so_css_output_location",
+    "so_css_editor_theme",
+    "so_css_version",
+    "*]"
+  ],
+  "transients": [
+    "siteorigin_installer_product_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "socss_hide_gs"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:16.262Z"
+}

@@ -1,0 +1,24 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('nip_finder_api_key');
+delete_site_option('nip_finder_api_key');
+delete_option('nip_finder_subscription_type');
+delete_site_option('nip_finder_subscription_type');
+delete_option('nip_finder_getting_nip');
+delete_site_option('nip_finder_getting_nip');
+delete_option('nip_finder_getting_postal_codes');
+delete_site_option('nip_finder_getting_postal_codes');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_billing_nip' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_billing_nip' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_billing_nip' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_billing_nip' ) );
+

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "poly_pin_enabled_types",
+    "poly_pin_quick_pinning",
+    "poly_pin_enable_edit_plugins_themes",
+    "poly_pin_terms",
+    "poly_pin_*",
+    "poly_pin_quick_access_menu",
+    "poly_pin_plugins",
+    "poly_pin_themes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "term_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:42.982Z"
+}

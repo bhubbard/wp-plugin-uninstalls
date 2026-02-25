@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ctc_chat_settings"
+  ],
+  "transients": [
+    "ctc_chat_settings_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ctc_chat_hide_button",
+    "_ctc_chat_custom_message",
+    "_ctc_chat_assigned_number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:19.419Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [
+    "sagepay_server_next_url"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Status",
+    "StatusDetail",
+    "VPSTxId",
+    "CAVV",
+    "SecurityKey",
+    "TxAuthNo",
+    "AVSCV2",
+    "AddressResult",
+    "PostCodeResult",
+    "CV2Result",
+    "3DSecureStatus",
+    "VendorTxCode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:19.798Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "engageya_params_layout_type_id",
+    "engageya_params_opt",
+    "engageya_params_token",
+    "engageya_params_user_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:11.269Z"
+}

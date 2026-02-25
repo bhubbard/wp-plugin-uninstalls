@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpcvs_settings",
+    "wpcvs_localization",
+    "wpcvs_*",
+    "wpcvs_show_label_*",
+    "wpcvs_groups_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcvs_name",
+    "wpcvs_group",
+    "wpcvs_tooltip",
+    "wpcvs_button",
+    "wpcvs_color",
+    "wpcvs_image",
+    "wpcvs_radio"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:52.117Z"
+}

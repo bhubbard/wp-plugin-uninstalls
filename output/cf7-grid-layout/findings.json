@@ -1,0 +1,41 @@
+{
+  "options": [
+    "_cf7sg_dynamic_dropdown_taxonomy",
+    "_cf7sg_dynamic_dropdown_system_taxonomy",
+    "cf7sg-admin-notices",
+    "_cf7sg_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7sg_cm_theme",
+    "_cf7sg_js_cm_theme",
+    "_cf7sg_css_cm_theme",
+    "_cf7sg_script_classes",
+    "_cf7sg_form_page",
+    "_wp_desired_post_slug",
+    "_cf7sg_sub_forms",
+    "_cf7sg_grid_table_names",
+    "_cf7sg_grid_tabs_names",
+    "_cf7sg_grid_toggled_names",
+    "_cf7sg_grid_tabbed_toggles",
+    "_cf7sg_grid_grouped_toggles",
+    "_cf7sg_has_tabs",
+    "_cf7sg_has_tables",
+    "_cf7sg_has_toggles",
+    "_cf7sg_managed_form",
+    "_cf7sg_version",
+    "_cf7sg_disable_jstags_comments",
+    "_cf7sg_page_redirect",
+    "_cf7sg_cache_redirect_data",
+    "_form",
+    "_cf7sg_select2_tagged_fields",
+    "dismissed_wp_pointers",
+    "_config_errors",
+    "_cf7sg_classes",
+    "cf7sg_toggles_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:31.759Z"
+}

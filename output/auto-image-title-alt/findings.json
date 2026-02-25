@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aita_fields_to_update",
+    "aita_capitalization_format",
+    "aita_rename_files_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:03.126Z"
+}

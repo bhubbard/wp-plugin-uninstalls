@@ -1,0 +1,16 @@
+{
+  "options": [
+    "shownotes_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shownotes",
+    "_shownotesname",
+    "shownotes",
+    "post_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:31.444Z"
+}

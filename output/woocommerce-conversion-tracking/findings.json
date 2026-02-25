@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wcct_installed",
+    "wcct_version",
+    "wcct_dismissable_notice",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "wcct_settings",
+    "woocommerce_wc_conv_tracking_settings",
+    "_wcct_20_notice_dismiss"
+  ],
+  "transients": [
+    "wcct_upgrade_to_20"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:32.786Z"
+}

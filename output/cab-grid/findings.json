@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cabGrid_Prices",
+    "cabGrid_Places",
+    "cabGrid_Options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:46.982Z"
+}

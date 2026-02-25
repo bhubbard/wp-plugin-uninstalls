@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'giornalismo_photo_credit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'giornalismo_photo_credit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'giornalismo_photo_credit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'giornalismo_photo_credit'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'giornalismo_photo_caption'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'giornalismo_photo_caption'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'giornalismo_photo_caption'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'giornalismo_photo_caption'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'giornalismo_featured_video'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'giornalismo_featured_video'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'giornalismo_featured_video'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'giornalismo_featured_video'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'giornalismo_highlight_one'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'giornalismo_highlight_one'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'giornalismo_highlight_one'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'giornalismo_highlight_one'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'giornalismo_highlight_two'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'giornalismo_highlight_two'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'giornalismo_highlight_two'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'giornalismo_highlight_two'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'giornalismo_highlight_three'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'giornalismo_highlight_three'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'giornalismo_highlight_three'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'giornalismo_highlight_three'"

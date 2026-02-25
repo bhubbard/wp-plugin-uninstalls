@@ -1,0 +1,27 @@
+{
+  "options": [
+    "artemis_payment_gateway_plugin_activation_time",
+    "void_spare_me",
+    "woocommerce_currency",
+    "woocommerce_agp_settings",
+    "agp_token_api",
+    "agp_token_api_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "OrderTransactionHash",
+    "*_sale_price",
+    "*_sale_price_dates_from",
+    "*_sale_price_dates_to",
+    "_expired_payment",
+    "agp_transaction_memo",
+    "agp_choosen_payment",
+    "agp_choosen_payment_value",
+    "agp_choosen_payment_currency",
+    "_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:42.619Z"
+}

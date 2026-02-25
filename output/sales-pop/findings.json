@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_permalinks",
+    "sm_mode",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_price_num_decimals",
+    "woocommerce_price_decimal_sep"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_beeketing_option1",
+    "thumbnail_id",
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_manage_stock",
+    "_backorders",
+    "_stock",
+    "_sku",
+    "_downloadable",
+    "_downloadable_files",
+    "_virtual"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:41.105Z"
+}

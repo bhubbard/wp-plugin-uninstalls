@@ -1,0 +1,17 @@
+{
+  "options": [
+    "intelliassist_options",
+    "intms_cs",
+    "intelliassist_activation_redirect",
+    "intms_ck",
+    "woocommerce_email_from_address"
+  ],
+  "transients": [
+    "intelliassist_flush_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:51.659Z"
+}

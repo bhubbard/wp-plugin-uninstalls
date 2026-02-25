@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "site_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "*_capabilities"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:50.435Z"
+}

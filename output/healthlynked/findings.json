@@ -1,0 +1,13 @@
+{
+  "options": [
+    "twhl_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "healthlynked_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:27.714Z"
+}

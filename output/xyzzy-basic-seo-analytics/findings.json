@@ -1,0 +1,16 @@
+{
+  "options": [
+    "xbs_analytics_code",
+    "xbs_base_keywords",
+    "xbs_base_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_xbs_meta_keywords_field",
+    "_xbs_meta_description_field"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:29.993Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "azwctabs_global_tabs",
+    "az-custom-tabs-for-woocommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_azwctabs_product_tabs"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:01.362Z"
+}

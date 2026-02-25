@@ -1,0 +1,15 @@
+{
+  "options": [
+    "elementor_css_print_method"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "_wp_attachment_image_alt",
+    "_taxonomy_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:11.449Z"
+}

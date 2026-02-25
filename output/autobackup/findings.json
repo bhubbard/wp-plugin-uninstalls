@@ -1,0 +1,22 @@
+{
+  "options": [
+    "auto_backup_cloud_storage",
+    "auto_backup_last_restore",
+    "auto_backup_sheduled_settings"
+  ],
+  "transients": [
+    "auto_backup_storage_type",
+    "auto_backup_drp_app_key",
+    "auto_backup_drp_app_secret",
+    "auto_backup_gdrive_client_id",
+    "auto_backup_gdrive_client_secret"
+  ],
+  "cron_jobs": [
+    "auto_backup_sheduled_databaase_hook",
+    "auto_backup_sheduled_files_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:15.016Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "icl_enable_multi_currency",
+    "woocommerce_wechatpay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "WeChatPay Trade No."
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:30.566Z"
+}

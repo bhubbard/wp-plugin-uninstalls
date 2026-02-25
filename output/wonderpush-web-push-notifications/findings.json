@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wonderpush.last_send_time",
+    "WonderPushSettings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wonderpush_send_notification",
+    "wonderpush_send_notification_delay_seconds",
+    "wonderpush_target_segment_ids",
+    "wonderpush_target_segment_id",
+    "wonderpush_target_tags",
+    "wonderpush_meta_box_present"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:50.081Z"
+}

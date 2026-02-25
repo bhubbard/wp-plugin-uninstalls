@@ -1,0 +1,17 @@
+{
+  "options": [
+    "seelwopu_admin_user",
+    "seelwopu_debug_mode",
+    "seelwopu_wc_auth_token",
+    "seelwopu_wc_auth_date",
+    "seelwopu_oauth_state",
+    "seelwopu_oauth_timestamp",
+    "woocommerce_email_from_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:26.948Z"
+}

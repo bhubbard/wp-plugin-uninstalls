@@ -1,0 +1,16 @@
+{
+  "options": [
+    "domain_search_for_whmcs_url",
+    "domain_search_for_whmcs_placeholder",
+    "domain_search_for_whmcs_shortcodes",
+    "whmcs_domain_search_url",
+    "whmcs_domain_search_placeholder",
+    "whmcs_domain_search_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:16.556Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "aialtg_settings"
+  ],
+  "transients": [
+    "aialtg_stats"
+  ],
+  "cron_jobs": [
+    "aialtg_cron_process_images"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aialtg_processed",
+    "_aialtg_error_log",
+    "_wp_attachment_image_alt",
+    "_aialtg_gen_date",
+    "_aialtg_gen_source"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:00.043Z"
+}

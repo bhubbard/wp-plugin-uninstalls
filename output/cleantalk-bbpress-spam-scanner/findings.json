@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ct_checked_now",
+    "_bbp_author_ip",
+    "ct_bad",
+    "ct_checked",
+    "ct_marked_as_spam",
+    "_bbp_forum_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:36.060Z"
+}

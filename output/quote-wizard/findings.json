@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wdsqw_form_dynamic_fields",
+    "wdsqw_version"
+  ],
+  "transients": [
+    "wdsqw_oos_error_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wdsqw_enable_quote",
+    "wdsqw_enabled_roles",
+    "wdsqw_enable_quote_oos"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:08.216Z"
+}

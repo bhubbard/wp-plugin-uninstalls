@@ -1,0 +1,20 @@
+{
+  "options": [
+    "dwwsunarc_active_first",
+    "dwwsunarc_settings_sunarc",
+    "dwwsunarc_wallet_id",
+    "woocommerce_dwwsunarc_wallet_payment_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dwwsunarc_wallet_balance",
+    "_price",
+    "_regular_price",
+    "_virtual",
+    "_sold_individually"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:37.001Z"
+}

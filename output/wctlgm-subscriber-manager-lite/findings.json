@@ -1,0 +1,37 @@
+{
+  "options": [
+    "wctlgm_bot_token",
+    "wctlgm_require_activation_flow",
+    "wctlgm_allow_external_invites",
+    "wctlgm_secret_token",
+    "wctlgm_bot_url",
+    "wctlgm_channels",
+    "wctlgm_activation_flow_migrated",
+    "wctlgm_force_activation_flow",
+    "wctlgm_webhook_clicked",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "wctlgm_telegram_fetch_channel_id_active",
+    "wctlgm_channel_id_temp_store",
+    "wctlgm_activation_flow_changed",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_telegram_channel_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:41.690Z"
+}

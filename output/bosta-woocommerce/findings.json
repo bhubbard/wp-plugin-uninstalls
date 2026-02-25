@@ -1,0 +1,35 @@
+{
+  "options": [
+    "woocommerce_bosta_settings",
+    "bosta_initial_product_sync_completed",
+    "_transient_timeout_*",
+    "bosta_webhook_secret"
+  ],
+  "transients": [
+    "bosta_country_id_Transient",
+    "bosta_inventory_success",
+    "bosta_inventory_error",
+    "bosta_success_count",
+    "bosta_success",
+    "bosta_errors",
+    "bosta_failed_orders",
+    "deferred_order_update",
+    "bosta_current_ranking_filter",
+    "bosta_current_ranking_filter_legacy",
+    "bosta_zoning",
+    "bosta_city_areas",
+    "bosta_timelineLength",
+    "bosta_payment_method_update_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_state",
+    "_billing_area",
+    "_bosta_sku",
+    "_sku",
+    "_bosta_product_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:16.809Z"
+}

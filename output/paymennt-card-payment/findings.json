@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_paymennt_card_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method_title",
+    "_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:43.850Z"
+}

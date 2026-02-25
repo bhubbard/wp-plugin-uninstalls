@@ -1,0 +1,25 @@
+{
+  "options": [
+    "chatway_user_identifier",
+    "chatway_token",
+    "chatway_redirection",
+    "chatway_api_secret_license_key",
+    "chatway_has_auth_error",
+    "chatway_wp_plugin_version",
+    "chatway_secret_key",
+    "chatway_user_cache_identifier"
+  ],
+  "transients": [
+    "chatway_unread_messages_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "chatway_status_*",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:18.061Z"
+}

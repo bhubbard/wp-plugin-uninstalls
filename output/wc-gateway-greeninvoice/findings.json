@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_tax_based_on",
+    "woocommerce_tax_round_at_subtotal",
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:31.650Z"
+}

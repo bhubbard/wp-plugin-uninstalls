@@ -1,0 +1,14 @@
+{
+  "options": [
+    "personyze_account_id",
+    "personyze_tracking_domains",
+    "personyze_track_add_to_cart",
+    "personyze_track_purchase"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:40.758Z"
+}

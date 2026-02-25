@@ -1,0 +1,13 @@
+{
+  "options": [
+    "onyxflo_enable_cart_check",
+    "onyxflo_auto_hold",
+    "onyxflo_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:42.109Z"
+}

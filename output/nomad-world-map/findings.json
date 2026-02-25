@@ -1,0 +1,20 @@
+{
+  "options": [
+    "nwm_settings",
+    "nwm_post_ids",
+    "nwm_route_order",
+    "nwm_map_ids",
+    "nwm_version"
+  ],
+  "transients": [
+    "nwm_locations_*",
+    "nwm_route_list_*",
+    "nwm_widget_*",
+    "nwm_locations"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:36.022Z"
+}

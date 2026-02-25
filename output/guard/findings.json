@@ -1,0 +1,22 @@
+{
+  "options": [
+    "guard_status",
+    "guard_lpl",
+    "guard_notices",
+    "guard_max_attempts",
+    "guard_lock_duration",
+    "guard_notify_email",
+    "guard_pin",
+    "guard_url",
+    "guard_custom_text",
+    "guard_custom_username_text",
+    "guard_custom_password_text",
+    "guard_custom_authkey_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:05.653Z"
+}

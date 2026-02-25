@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpal-settings",
+    "wpal_log_limit_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpal_published_flag",
+    "wpal_edited_flag",
+    "wpal_before_title",
+    "wpal_after_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:51.812Z"
+}

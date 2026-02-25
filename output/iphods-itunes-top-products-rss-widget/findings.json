@@ -1,0 +1,15 @@
+{
+  "options": [
+    "iphods_activation_permissions",
+    "iphods_activation_permission",
+    "iphods_backlink_permission",
+    "iphods_affiliate_program",
+    "iphods_backlink_permissions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:16.412Z"
+}

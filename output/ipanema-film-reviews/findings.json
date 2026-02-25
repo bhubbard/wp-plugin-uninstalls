@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ifr_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "film_author",
+    "film_actors",
+    "film_length",
+    "film_rdate",
+    "film_rating",
+    "custom_post_source_name",
+    "custom_post_source_address",
+    "attach_data",
+    "twitter_feed_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:19.542Z"
+}

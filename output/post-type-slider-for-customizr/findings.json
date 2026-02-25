@@ -1,0 +1,14 @@
+{
+  "options": [
+    "risbl_slider_customizr_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "risbl_prefix_title_id",
+    "risbl_slide_order_index"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:53.529Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "gueschac_activated",
+    "gueschac_activation_notice_dismissed91",
+    "gueschac_settings",
+    "woocommerce_email_footer_text",
+    "gueschac_enabled",
+    "gueschac_minimum_order",
+    "gueschac_send_welcome_email",
+    "gueschac_email_subject",
+    "gueschac_email_content",
+    "woocommerce_email_header_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gueschac_temp_pass",
+    "default_billing_address",
+    "default_shipping_address",
+    "_gueschac_processed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:07.812Z"
+}

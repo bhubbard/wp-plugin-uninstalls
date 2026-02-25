@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slider_shortcode",
+    "gallery_data",
+    "sws_res_slider_autostart",
+    "sws_res_slider_startstop",
+    "sws_res_slider_autodelay",
+    "sws_res_slider_pager",
+    "sws_res_slider_navigation"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:31.591Z"
+}

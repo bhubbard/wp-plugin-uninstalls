@@ -1,0 +1,13 @@
+{
+  "options": [
+    "taros_bot_id",
+    "taros_bot_name",
+    "taros_widget_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:11.920Z"
+}

@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vw_notes_and_files_downloader_attachment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:40.720Z"
+}

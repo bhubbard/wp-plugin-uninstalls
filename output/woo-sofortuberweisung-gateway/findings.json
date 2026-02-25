@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_gzd_checkout_stop_order_cancellation",
+    "woocommerce_sofortueberweisung_gateway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sofortTransCounter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:11.056Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bbec-posttypes",
+    "bbec-posttype",
+    "bbec-templates",
+    "bbec-edition-format",
+    "wp_admin_notifications"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bb_edition_control"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:03.749Z"
+}

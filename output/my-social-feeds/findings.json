@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ifbData",
+    "bpifb_Data",
+    "fs_lite_accounts",
+    "msfbp_instagram_access_tokens",
+    "msfbp_pinterest_feeds_credentials",
+    "ttp_tiktok_accounts_migrated",
+    "ttp_tiktok_accounts",
+    "msfbp_twitter_credentials"
+  ],
+  "transients": [
+    "ttp_tiktok_videos",
+    "ttp_tiktok_user_info",
+    "ifbInstagramData",
+    "ttp_tiktok_authorized_data",
+    "ttp_tiktok_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:05.783Z"
+}

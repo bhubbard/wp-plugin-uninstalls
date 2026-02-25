@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tmpl_amp_settings",
+    "tmpl_amp_plugin_active"
+  ],
+  "transients": [
+    "twentyfourteen_category_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:25.522Z"
+}

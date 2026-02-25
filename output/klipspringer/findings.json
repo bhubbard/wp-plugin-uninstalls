@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ssklip_settings_accessibility",
+    "ssklip_settings_appearance",
+    "ssklip_settings_closebutton",
+    "ssklip_settings_customstyles",
+    "ssklip_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:25.722Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "theme_wing_admin_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "service_sub_title",
+    "service_description",
+    "service_icon",
+    "team_designation",
+    "team_about",
+    "team_social_medias",
+    "pricing_type",
+    "pricing_currency",
+    "pricing_price",
+    "pricing_plan",
+    "pricing_features",
+    "pricing_button_label",
+    "pricing_button_url",
+    "project_sub_title",
+    "project_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:35.612Z"
+}

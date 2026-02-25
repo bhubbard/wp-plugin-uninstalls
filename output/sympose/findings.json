@@ -1,0 +1,39 @@
+{
+  "options": [
+    "sympose",
+    "sidebars_widgets",
+    "widget_sympose_session_information",
+    "sympose_extensions",
+    "sympose_quick_start_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*event_date",
+    "*schedule_page_id",
+    "*session_start",
+    "*session_end",
+    "*session_people",
+    "*session_organisations",
+    "_sympose_organisation_people",
+    "_sympose_linked_organisation",
+    "*image",
+    "*image_id",
+    "_sympose_event_date",
+    "*saved_sessions",
+    "_sympose_session_people",
+    "*description",
+    "*schedule_people_format",
+    "*schedule_organisations_format",
+    "*session_static",
+    "_sympose_social_media",
+    "_sympose_session_*",
+    "_sympose_description",
+    "_sympose_image_id",
+    "_sympose_schedule_page_id",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:48.375Z"
+}

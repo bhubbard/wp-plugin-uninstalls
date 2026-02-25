@@ -1,0 +1,19 @@
+{
+  "options": [
+    "clwpuu_disable_comments",
+    "clwpuu_google_analytics",
+    "clwpuu_classic_widgets",
+    "clwpuu_classic_editor",
+    "clwpuu_maintenance_mode",
+    "clwpuu_disable_xmlrpc",
+    "clwpuu_regenerate_thumbnails",
+    "clwpuu_duplicate_page",
+    "clwpuu_maintenance_mode "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:12.316Z"
+}

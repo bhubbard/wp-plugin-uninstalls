@@ -1,0 +1,17 @@
+{
+  "options": [
+    "roundups_api_key",
+    "roundups_latest_articles",
+    "roundups_flush_rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_aioseo_description",
+    "_rank_math_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:27.699Z"
+}

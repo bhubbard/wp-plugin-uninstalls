@@ -1,0 +1,22 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "frakt123_custom_shipping_order_sync_version",
+    "frakt123_custom_shipping_order_sync__auto_send_name",
+    "frakt123_custom_shipping_order_sync__order_status",
+    "frakt123_custom_shipping_order_sync__order_shipping",
+    "frakt123_custom_shipping_order_sync__api_name",
+    "frakt123_custom_shipping_order_sync__secret_name",
+    "*_api_name",
+    "*_secret_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "frakt_track_id",
+    "frakt_track_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:38.172Z"
+}

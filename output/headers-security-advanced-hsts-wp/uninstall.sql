@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('hsts_csp_report_uri', 'disable_csp_header', 'disable_hsts_header', 'disable_x_content_type_options_header', 'disable_x_frame_options_header', 'hsts_max_age', 'hsts_include_subdomains', 'hsts_preload', 'hsts_csp', 'hsts_pp', 'hsts_x_frame_options', 'hsts_x_frame_options_allow_from_url', 'HEADERS_SECURITY_ADVANCED_HSTS_WP_PLUGIN_VERSION', 'hsts_x_frame_options_url_field');
+

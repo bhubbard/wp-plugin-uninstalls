@@ -1,0 +1,38 @@
+{
+  "options": [
+    "__gutentor_do_redirect",
+    "gutentor-cat-*",
+    "gutentor_settings_options",
+    "__gutentor_helper_options",
+    "gutentor_widget_dcss",
+    "*_license_key",
+    "widget_block",
+    "__templateberg_do_redirect"
+  ],
+  "transients": [
+    "gutentor_get_template_library",
+    "gutentor_get_block_json_*",
+    "gutentor_meta_keys_*"
+  ],
+  "cron_jobs": [
+    "gutentor_weekly_scheduled_events",
+    "gutentor_daily_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gutentor_meta",
+    "gutentor_edd_demo_url",
+    "gutentor_meta_video_url",
+    "gutentor_meta_video_id",
+    "thumbnail_id",
+    "gutentor_templateberg_notice_calendar",
+    "gutentor_gfont_url",
+    "gutentor_css_info",
+    "gutentor_dynamic_css",
+    "_wp_page_template",
+    "*_upgrade_to_pro_notice",
+    "*_upgrade_to_pro_notice_partially"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:03.317Z"
+}

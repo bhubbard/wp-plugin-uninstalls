@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_version",
+    "woocommerce_ginger_settings",
+    "*_credit-card_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_order_id",
+    "bank_reference"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:01.683Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "web3devs_abnft_configured_coins_setting",
+    "web3devs_abnft_denial_page_setting",
+    "web3devs_abnft_api_key_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_web3devs_abnft_meta_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:03.835Z"
+}

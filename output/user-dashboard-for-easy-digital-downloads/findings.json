@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ud_for_edd_general_options",
+    "ud_for_edd_redirection_options",
+    "ud_for_edd_access_control_options",
+    "ud_for_edd_email_options",
+    "ud_for_edd_reset_options",
+    "ud_for_edd_general_option",
+    "ud_for_edd_redirection_option",
+    "ud_for_edd_options",
+    "ud_for_edd_flush_rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:54.573Z"
+}

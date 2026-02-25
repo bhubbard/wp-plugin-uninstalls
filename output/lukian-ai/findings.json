@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lukianai_feedbacks",
+    "lukianai_options",
+    "lukianai_credit_options"
+  ],
+  "transients": [
+    "lukianai_enhancements"
+  ],
+  "cron_jobs": [
+    "lukianai_monthly_credit_reset"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fave_property_images"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:04.732Z"
+}

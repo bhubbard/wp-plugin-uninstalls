@@ -1,0 +1,22 @@
+{
+  "options": [
+    "scroll_wp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_scroll_id",
+    "_scroll_state",
+    "_scroll_mobile_redirect",
+    "_scroll_content",
+    "_scroll_style",
+    "_scroll_head",
+    "_scroll_js",
+    "_scroll_ad_js",
+    "_scroll_fonts",
+    "_scroll_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:01.404Z"
+}

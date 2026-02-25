@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wraiter_light_options"
+  ],
+  "transients": [
+    "wraiter_light_ad_banner_popup_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:00.759Z"
+}

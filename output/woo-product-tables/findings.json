@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_plugin_activation_errors",
+    "*db_version",
+    "*db_installed",
+    "*plug_was_used",
+    "*_full_installed",
+    "*_opts_data",
+    "*_last__time_contact_send",
+    "*welcome_sent",
+    "*_unique_stats",
+    "woocommerce_enable_review_rating"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*-tour-hst",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "_product_attributes",
+    "_wc_price_calculator"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:52.012Z"
+}

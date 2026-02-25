@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*-enabled",
+    "ump_payfast-sandbox",
+    "ump_payfast-merchant_id",
+    "ump_payfast-merchant_key",
+    "ump_payfast-return_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:23.466Z"
+}

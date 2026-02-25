@@ -1,0 +1,15 @@
+{
+  "options": [
+    "metadupo_allowed_roles",
+    "metadupo_post_status",
+    "metadupo_post_author",
+    "metadupo_post_date",
+    "metadupo_allowed_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:50.051Z"
+}

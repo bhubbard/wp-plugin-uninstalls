@@ -1,0 +1,23 @@
+{
+  "options": [
+    "kw_cssad",
+    "kw_eadt",
+    "kw_adt",
+    "kw_top_target",
+    "kw_top_height",
+    "kw_eadl",
+    "kw_adl",
+    "kw_left_target",
+    "kw_left_width",
+    "kw_eadr",
+    "kw_adr",
+    "kw_right_target",
+    "kw_right_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:14.690Z"
+}

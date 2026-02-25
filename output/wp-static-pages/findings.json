@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpsp_ref_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpsp_plugin_cron_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpsp_is_static",
+    "wpsp_cat_is_static"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:04.035Z"
+}

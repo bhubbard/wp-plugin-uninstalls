@@ -1,0 +1,17 @@
+{
+  "options": [
+    "docid_general_asset_secret",
+    "docid_general_asset_id"
+  ],
+  "transients": [
+    "docid_user_*",
+    "docid_skip_auth_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "docid_restricted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:33.623Z"
+}

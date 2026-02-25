@@ -1,0 +1,16 @@
+{
+  "options": [
+    "important-color",
+    "column-title",
+    "description-states"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_description",
+    "important"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:15.674Z"
+}

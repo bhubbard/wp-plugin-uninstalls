@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dp_404_redirect_enabled",
+    "dp_404_redirect_url"
+  ],
+  "transients": [
+    "dp_404_show_tracking_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:02.157Z"
+}

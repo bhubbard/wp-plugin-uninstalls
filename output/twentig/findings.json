@@ -1,0 +1,21 @@
+{
+  "options": [
+    "downloaded_font_files",
+    "fresh_site",
+    "twentig-options",
+    "twentig_global_spacing"
+  ],
+  "transients": [
+    "_twentig_activation_redirect"
+  ],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:29.621Z"
+}

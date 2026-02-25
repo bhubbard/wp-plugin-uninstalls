@@ -1,0 +1,63 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'allparcels_api'
+wp option delete 'allparcels_terminals'
+wp option delete 'allparcels_kurjeriai'
+wp option delete 'allparcels_pickup_point'
+wp option delete 'allparcels_post_office'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'terminalui'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'terminalui'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'terminalui'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'terminalui'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'kurjeriui'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'kurjeriui'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'kurjeriui'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'kurjeriui'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'express_paslauga'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'express_paslauga'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'express_paslauga'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'express_paslauga'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pristatymas_sestadieni'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pristatymas_sestadieni'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pristatymas_sestadieni'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pristatymas_sestadieni'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dokumentu_grazinimas'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dokumentu_grazinimas'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dokumentu_grazinimas'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dokumentu_grazinimas'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'informuoti_pastu'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'informuoti_pastu'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'informuoti_pastu'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'informuoti_pastu'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'informuoti_pastug'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'informuoti_pastug'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'informuoti_pastug'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'informuoti_pastug'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'informuoti_sms'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'informuoti_sms'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'informuoti_sms'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'informuoti_sms'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'informuoti_smsg'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'informuoti_smsg'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'informuoti_smsg'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'informuoti_smsg'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'savarankiskas'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'savarankiskas'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'savarankiskas'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'savarankiskas'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'skyriui'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'skyriui'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'skyriui'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'skyriui'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'taskui'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'taskui'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'taskui'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'taskui'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_payment_method'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_payment_method'"

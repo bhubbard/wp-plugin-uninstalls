@@ -1,0 +1,27 @@
+{
+  "options": [
+    "_bsk_pdf_manager_open_target",
+    "_bsk_pdf_manager_category_list_has_title",
+    "_bsk_pdf_manager_pdf_order_by_",
+    "_bsk_pdf_manager_pdf_order_",
+    "_bsk_pdf_manager_db_ver_",
+    "_bsk_pdf_manager_rels_done_",
+    "_bsk_pdf_manager_free_to_pro_done_",
+    "*message_id_51",
+    "*message_id_15",
+    "*message_id_31",
+    "*message_id_32",
+    "*message_id_33",
+    "*message_id_34",
+    "*message_id_16"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bsk_pdfm_free_schedule_check_promote_weekly",
+    "bsk_pdfm_free_schedule_check_promote_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:26.914Z"
+}

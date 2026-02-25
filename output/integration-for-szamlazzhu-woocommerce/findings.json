@@ -1,0 +1,49 @@
+{
+  "options": [
+    "wc_szamlazz_auto_invoice_status",
+    "wc_szamlazz_auto_void_status",
+    "wc_szamlazz_automations",
+    "wc_szamlazz_advanced_options",
+    "wc_szamlazz_vat_overrides",
+    "wc_szamlazz_eusafa",
+    "_wc_szamlazz_ipn_url",
+    "*_pro_enabled",
+    "*_pro_key",
+    "*_pro_meta",
+    "wc_szamlazz_extra_accounts",
+    "wc_szamlazz_notes",
+    "wc_szamlazz_payment_method_options_v2",
+    "wc_szamlazz_accounting_details",
+    "wc_szamlazz_*",
+    "_wc_szamlazz_cookie_name",
+    "_wc_szamlazz_db_version",
+    "wc_szamlazz_version_number",
+    "woocommerce_wc_szamlazz_settings",
+    "wc_szamlazz_vat_number_type",
+    "wc_szamlazz_invoice_type_company",
+    "woocommerce_wc_szamlazz_settings_old",
+    "surbma_hc_fields",
+    "woocommerce_prices_include_tax",
+    "*_settings",
+    "woocommerce_shipping_tax_class",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "wc_szamlazz_mnb_arfolyam_kozep"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_szamlazz_adoszam",
+    "billing_tax_number",
+    "wc_szamlazz_megjegyzes",
+    "wc_szamlazz_mennyisegi_egyseg",
+    "wc_szamlazz_tetel_nev",
+    "wc_szamlazz_custom_cost",
+    "wc_szamlazz_disable_auto_invoice",
+    "wc_szamlazz_hide_item",
+    "wc_szamlazz_admin_notices"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:04.896Z"
+}

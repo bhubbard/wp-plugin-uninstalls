@@ -1,0 +1,20 @@
+{
+  "options": [
+    "nr_popoutbutton_bgcolor",
+    "nr_popoutbutton_window_width",
+    "nr_popoutbutton_window_height",
+    "nr_vmplayer_window_width",
+    "nr_vmplayer_window_height",
+    "nr_vmplayer_stream_url",
+    "nr_vmplayer_color",
+    "nr_vmplayer_product_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:45.216Z"
+}

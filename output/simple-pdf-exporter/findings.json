@@ -1,0 +1,16 @@
+{
+  "options": [
+    "spe_pdfhandler",
+    "_transient_timeout_simple_pdf_export_posts"
+  ],
+  "transients": [
+    "simple_pdf_export_posts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pdf_export_page_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:33.132Z"
+}

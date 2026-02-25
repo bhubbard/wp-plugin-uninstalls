@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sigma_ssr_replace_info",
+    "sigma_ssr_search_info",
+    "sigma_ssr_plugin_should_stop_search",
+    "sigma_ssr_plugin_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:49.560Z"
+}

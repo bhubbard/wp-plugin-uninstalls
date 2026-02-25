@@ -1,0 +1,17 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_settings'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_license_active'"
+wp option delete 'active_sitewide_plugins'
+
+# Delete Transients
+wp transient delete 'update_plugins'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_%_license_error' OR option_name LIKE '_site_transient_%_license_error'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nickname'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nickname'"

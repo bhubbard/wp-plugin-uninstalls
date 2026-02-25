@@ -1,0 +1,22 @@
+{
+  "options": [
+    "etww_do_activation_redirect",
+    "etww_active_time",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [
+    "etww_template_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_location",
+    "_elementor_conditions",
+    "_wp_page_template",
+    "etww_pro_promo_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:33.662Z"
+}

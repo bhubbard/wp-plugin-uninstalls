@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wiasano_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wiasano_check_posts",
+    "wiasano_send_categories"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:14.475Z"
+}

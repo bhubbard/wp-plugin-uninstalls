@@ -1,0 +1,14 @@
+{
+  "options": [
+    "trymylook_api_key",
+    "trymylook_button_text",
+    "trymylook_generate_button_text",
+    "trymylook_enable_download"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:00.650Z"
+}

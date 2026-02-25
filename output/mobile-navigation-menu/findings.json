@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mnm_option_1",
+    "mnm_option_8",
+    "mnm_option_6",
+    "mnm_option_7",
+    "mnm_option_2",
+    "mnm_option_3",
+    "mnm_option_4",
+    "mnm_option_5",
+    "mnm_option_12"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:35.434Z"
+}

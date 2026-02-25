@@ -1,0 +1,19 @@
+{
+  "options": [
+    "subscribe_reloaded_manager_page",
+    "smtp_pass",
+    "smtp_user",
+    "stcrbe_last_run",
+    "stcrbe_unsubscribed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "FV_STCR_sharing_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_stcr@_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:01.368Z"
+}

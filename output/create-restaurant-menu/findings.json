@@ -1,0 +1,24 @@
+{
+  "options": [
+    "storename",
+    "menutitlefontsize",
+    "menuotherfontsize",
+    "otherbuttonbgcolor",
+    "currencysymb",
+    "jquery",
+    "allergens",
+    "allergensfontsize",
+    "allergensfontcolor",
+    "bootstrap_minjs",
+    "fontawesome_mincss",
+    "bootstrap_mincss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:58.493Z"
+}

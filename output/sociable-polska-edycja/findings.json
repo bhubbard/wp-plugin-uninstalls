@@ -1,0 +1,28 @@
+{
+  "options": [
+    "sociable_awesmapikey",
+    "sociable_active_sites",
+    "sociable_imagedir",
+    "sociable_tagline",
+    "sociable_awesmenable",
+    "sociable_useiframe",
+    "sociable_iframewidth",
+    "sociable_iframeheight",
+    "sociable_usetargetblank",
+    "sociable_usetextlinks",
+    "sociable_disablesprite",
+    "sociable_disablealpha",
+    "sociable_conditionals",
+    "sociable_usecss",
+    "sociable_disablewidget",
+    "sociable_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sociableoff"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:49.901Z"
+}

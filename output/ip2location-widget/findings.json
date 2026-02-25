@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ip2location_widget_language",
+    "ip2location_widget_type",
+    "ip2location_widget_debug_log_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:22.297Z"
+}

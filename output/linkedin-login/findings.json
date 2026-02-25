@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pkli_basic_options",
+    "pkli_locked_content_options",
+    "pkli_buddypress_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pkli_access_token",
+    "pkli_linkedin_id",
+    "pkli_linkedin_profile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:27.505Z"
+}

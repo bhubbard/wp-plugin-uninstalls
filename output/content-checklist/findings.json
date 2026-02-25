@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpcc_word_limit_green",
+    "wpcc_word_limit_orange"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:36.299Z"
+}

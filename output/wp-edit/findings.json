@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wp_edit_global",
+    "wp_edit_general",
+    "wp_edit_posts",
+    "jwl_toggle_wpautop_settings",
+    "wp_edit_editor",
+    "wp_edit_extras",
+    "wp_edit_user_dashboard_options",
+    "wp_edit_buttons",
+    "wp_edit_activation_redirect",
+    "wp_edit_install"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "description",
+    "_jwl_disable_wpautop",
+    "aaa_wp_edit_user_meta",
+    "ignore_wpedit_ag_notice",
+    "ignore_wpedit_custom_buttons_notice",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:07.077Z"
+}

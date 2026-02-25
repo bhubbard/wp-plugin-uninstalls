@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wordpress_ln_gah_ad",
+    "wordpress_ln_gah_id",
+    "wordpress_ln_p_ah_ga_id",
+    "wordpress_ln_p_ah_add_for_admins",
+    "wordpress_ln_p_ah",
+    "wordpress_lnpo_ah",
+    "rmnd_phylax_analytics_head"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:38.766Z"
+}

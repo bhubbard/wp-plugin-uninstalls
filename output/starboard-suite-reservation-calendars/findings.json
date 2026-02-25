@@ -1,0 +1,12 @@
+{
+  "options": [
+    "starboard_suite_settings",
+    "starboard_suite_subdomain"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:40.174Z"
+}

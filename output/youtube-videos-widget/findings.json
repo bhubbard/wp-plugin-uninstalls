@@ -1,0 +1,20 @@
+{
+  "options": [
+    "myyt_username",
+    "myyt_hd",
+    "myyt_width",
+    "myyt_height",
+    "myyt_display_many",
+    "myyt_display_thumb",
+    "myyt_display_dateadded",
+    "myyt_enable_hd",
+    "myyt_orderby",
+    "Youtube_videos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:26.881Z"
+}

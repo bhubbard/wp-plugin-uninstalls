@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sssi_options"
+  ],
+  "transients": [
+    "sssi_style_cache"
+  ],
+  "cron_jobs": [
+    "sssi_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:07.133Z"
+}

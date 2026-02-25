@@ -1,0 +1,25 @@
+{
+  "options": [
+    "SHA_SECRET_KEY",
+    "SHA_SECRET_IV",
+    "WPSA_API_KEY",
+    "IGNORE_FILES",
+    "TAG_FREQUENCY",
+    "SESSION_DURATION",
+    "COOKIE",
+    "IP_STRING",
+    "IGNORE_BOTS",
+    "ANONYMIZE_IP",
+    "STOP_LOGGING",
+    "VISITOR_COUNT",
+    "REFRESH_TODAYS_LOG_DURATION",
+    "MAX_CACHE_RECORDS",
+    "MAX_DATABASE_RECORDS"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:22.930Z"
+}

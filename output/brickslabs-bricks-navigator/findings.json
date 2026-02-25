@@ -1,0 +1,15 @@
+{
+  "options": [
+    "brickslabs_bricks_navigator_show_in_editor",
+    "brickslabs_bricks_navigator_show_community_menu",
+    "brickslabs_bricks_navigator_show_thirdparty_plugins",
+    "brickslabs_bricks_navigator_show_bricks_internal",
+    "brickslabs_bricks_navigator_show_bricks_external"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:12.351Z"
+}

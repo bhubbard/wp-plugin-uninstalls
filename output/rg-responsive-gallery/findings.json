@@ -1,0 +1,28 @@
+{
+  "options": [
+    "rrg_mode",
+    "rrg_autostart",
+    "rrg_captions",
+    "rrg_controls",
+    "rrg_pager",
+    "rrg_infiniteLoop",
+    "rrg_speed",
+    "rrg_style_css",
+    "rrg_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rrg_image_path",
+    "rrg_image_path",
+    "_rrg_alt",
+    "rrg_alt",
+    "_rrg_desc",
+    "rrg_desc",
+    "_rrg_url",
+    "rrg_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:56.636Z"
+}

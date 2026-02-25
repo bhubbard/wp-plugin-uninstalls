@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'vendorname'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'vendorname'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'vendorname'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'vendorname'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'establishment_year'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'establishment_year'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'establishment_year'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'establishment_year'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'street_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'street_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'street_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'street_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'area_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'area_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'area_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'area_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'state'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'state'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'state'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'state'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pincode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pincode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pincode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pincode'"

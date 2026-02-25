@@ -1,0 +1,26 @@
+{
+  "options": [
+    "hdlsa_bad_words_list",
+    "hdlsa_agora_app_id",
+    "hdlsa_agora_app_certificate",
+    "hdlsa_agora_customer_id",
+    "hdlsa_agora_customer_secret",
+    "hdlsa_agora_project_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hdlsa_host_name",
+    "_hdlsa_host_avatar_id",
+    "_hdlsa_chat_history",
+    "_hdlsa_stream_start_time",
+    "_hdlsa_stream_end_time",
+    "_hdlsa_total_viewers",
+    "_hdlsa_peak_viewers",
+    "_hdlsa_viewer_sessions",
+    "_hdlsa_selected_products"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:31.883Z"
+}

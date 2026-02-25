@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mcf_recaptcha_apikey",
+    "mcf_recaptcha_secret",
+    "mcf_sender_email",
+    "mcf_recipient_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:46.211Z"
+}

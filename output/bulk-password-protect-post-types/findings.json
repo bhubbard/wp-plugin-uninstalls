@@ -1,0 +1,12 @@
+{
+  "options": [
+    "pass_protect_all_select_types",
+    "pass_protect_all_pass_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:29.939Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "mod_za_far_date",
+    "mod_za_far_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:37.723Z"
+}

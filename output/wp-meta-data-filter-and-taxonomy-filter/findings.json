@@ -1,0 +1,44 @@
+{
+  "options": [
+    "meta_data_filter_settings",
+    "mdf_marketing_settings",
+    "mdf_stat_start_data",
+    "mdf_start_period_stat",
+    "meta_data_filter_was_activated",
+    "date_format_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mdtf_cache_count_data_auto_clean",
+    "mdtf_cache_terms_data_auto_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "page_meta_data_filter",
+    "shortcode_options",
+    "html_items",
+    "page_mdf_string",
+    "medafi_years",
+    "page_mdf_link",
+    "mdf_link_seo_prefix",
+    "mdf_link_seo_suffix",
+    "show_results_tax_navigation",
+    "panel_type",
+    "default_order",
+    "default_order_by",
+    "mdf_woo_search_values",
+    "_wp_page_template",
+    "sequence",
+    "widget_section_max_height",
+    "backend_section_max_height",
+    "widget_section_toggle",
+    "widget_section_sel_emulator",
+    "*_latitude",
+    "*_longitude",
+    "*_desc",
+    "*_from",
+    "*_to"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:06.705Z"
+}

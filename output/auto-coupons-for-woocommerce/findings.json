@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "usage_limit",
+    "usage_limit_per_user",
+    "minimum_amount",
+    "expiry_date",
+    "individual_use",
+    "free_shipping",
+    "exclude_sale_items",
+    "maximum_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:20.109Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*description",
+    "*_archive",
+    "mnbaa_seo_screens",
+    "*title",
+    "*_meta",
+    "mnbaa_seo_private_update",
+    "license_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mnbaa_seo_description",
+    "mnbaa_seo_title",
+    "*title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:59.101Z"
+}

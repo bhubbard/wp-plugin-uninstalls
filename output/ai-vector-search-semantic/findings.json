@@ -1,0 +1,47 @@
+{
+  "options": [
+    "aivesese_search_results_limit",
+    "aivesese_cli_upgrade_notice_dismissed",
+    "aivesese_plugin_version",
+    "aivesese_connection_mode",
+    "aivesese_postgres_connection_string",
+    "aivesese_lite_stopwords",
+    "aivesese_lite_synonyms",
+    "aivesese_lite_index_limit",
+    "aivesese_lite_avg_search_time",
+    "aivesese_license_key",
+    "aivesese_api_activated",
+    "aivesese_store",
+    "aivesese_url",
+    "aivesese_key",
+    "aivesese_enable_search",
+    "aivesese_semantic_toggle",
+    "aivesese_openai",
+    "aivesese_enable_woodmart_integration",
+    "aivesese_sql_v2_dismissed",
+    "aivesese_schema_installed",
+    "aivesese_schema_install_method",
+    "aivesese_analytics_db_version",
+    "aivesese_schema_version",
+    "aivesese_master_key_notice_dismissed",
+    "aivesese_show_welcome_notice",
+    "aivesese_analytics_discovered",
+    "aivesese_opportunity_shown_*",
+    "aivesese_auto_sync",
+    "aivesese_enable_pdp_similar",
+    "aivesese_enable_cart_below"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aivs_cleanup_analytics",
+    "aivesese_rebuild_lite_index"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aivesese_help_open",
+    "_cogs_total_value",
+    "_cost_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:28.651Z"
+}

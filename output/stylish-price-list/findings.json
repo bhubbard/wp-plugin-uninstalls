@@ -1,0 +1,25 @@
+{
+  "options": [
+    "spl_license_return",
+    "stylishpl_license_key",
+    "spl_extra_settings",
+    "spllk_opt",
+    "act_ser_conn_refused",
+    "spl_save_count",
+    "spl_feedback_invoke",
+    "spl_cats_*",
+    "df_spl_emailsender",
+    "df_spl_notifications",
+    "stylish_price_list_version",
+    "googlefonts_options",
+    "wp_google_fonts_global_notification"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "spl_stats_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:38.009Z"
+}

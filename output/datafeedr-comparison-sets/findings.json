@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dfrcs_options",
+    "dfrcs_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dfrps_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:55.676Z"
+}

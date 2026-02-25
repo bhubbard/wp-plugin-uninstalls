@@ -1,0 +1,14 @@
+{
+  "options": [
+    "orbit_slider_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_orbit_gallery_images",
+    "_orbit_slider_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:17.801Z"
+}

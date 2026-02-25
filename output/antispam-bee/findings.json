@@ -1,0 +1,16 @@
+{
+  "options": [
+    "antispam_bee",
+    "antispambee_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "antispam_bee_daily_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "antispam_bee_reason"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:27:52.619Z"
+}

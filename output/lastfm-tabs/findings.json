@@ -1,0 +1,14 @@
+{
+  "options": [
+    "lastfm_tabs_options"
+  ],
+  "transients": [
+    "lastfm_tabs_template_cache",
+    "lastfm_tabs_shortcode_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:55.081Z"
+}

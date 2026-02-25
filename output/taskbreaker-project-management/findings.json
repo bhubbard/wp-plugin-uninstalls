@@ -1,0 +1,15 @@
+{
+  "options": [
+    "task_breaker_tasks_table_version",
+    "task_breaker_comments_table_version",
+    "bp-pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "task_breaker_project_group_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:53.186Z"
+}

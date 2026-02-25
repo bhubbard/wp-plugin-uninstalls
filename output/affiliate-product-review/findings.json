@@ -1,0 +1,16 @@
+{
+  "options": [
+    "apr_isntalled",
+    "apr_version",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "apr_products",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:48.975Z"
+}

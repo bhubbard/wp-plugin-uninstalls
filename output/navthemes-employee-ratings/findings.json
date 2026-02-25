@@ -1,0 +1,35 @@
+{
+  "options": [
+    "acf_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "acf_plugin_updates"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "*_task_name",
+    "*_description",
+    "*_time",
+    "*_date",
+    "*_project",
+    "user_name",
+    "week",
+    "categories_professionalism",
+    "categories_efficiency_and_technical_knowledge",
+    "categories_proactiveness",
+    "categories_helping_your_teammates",
+    "categories_leaves"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:51.372Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_on_front",
+    "litespeed-cache-conf",
+    "mrf_availability",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "mrf_activation_redirect",
+    "signup_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "no_marfeelize",
+    "mrf_amp_active",
+    "mrf_marfeelizable",
+    "headline"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:07.760Z"
+}

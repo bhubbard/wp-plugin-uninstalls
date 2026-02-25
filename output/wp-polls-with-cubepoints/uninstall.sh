@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'poll_latestpoll'
+wp option delete 'poll_cubepoints'
+wp option delete 'poll_ans_sortby'
+wp option delete 'poll_ans_sortorder'
+wp option delete 'widget_polls'
+wp option delete 'poll_currentpoll'
+wp option delete 'poll_bar'
+wp option delete 'poll_ajax_style'
+wp option delete 'poll_ans_result_sortby'
+wp option delete 'poll_ans_result_sortorder'
+wp option delete 'poll_archive_perpage'
+wp option delete 'poll_archive_displaypoll'
+wp option delete 'poll_archive_url'
+wp option delete 'poll_archive_show'
+wp option delete 'poll_close'
+wp option delete 'poll_logging_method'
+wp option delete 'poll_cookielog_expiry'
+wp option delete 'poll_allowtovote'
+wp option delete 'poll_template_voteheader'
+wp option delete 'poll_template_votebody'
+wp option delete 'poll_template_votefooter'
+wp option delete 'poll_template_resultheader'
+wp option delete 'poll_template_resultbody'
+wp option delete 'poll_template_resultbody2'
+wp option delete 'poll_template_resultfooter'
+wp option delete 'poll_template_resultfooter2'
+wp option delete 'poll_template_pollarchivelink'
+wp option delete 'poll_template_pollarchiveheader'
+wp option delete 'poll_template_pollarchivefooter'
+wp option delete 'poll_template_pollarchivepagingheader'
+wp option delete 'poll_template_pollarchivepagingfooter'
+wp option delete 'poll_template_disable'
+wp option delete 'poll_template_error'
+wp option delete 'stats_url'
+wp option delete 'stats_display'
+
+# Clear Cron Jobs
+wp cron event delete 'polls_cron'
+

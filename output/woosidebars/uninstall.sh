@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_condition'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_condition'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_condition'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_condition'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sidebar_to_replace'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sidebar_to_replace'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sidebar_to_replace'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sidebar_to_replace'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'admin_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'admin_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'admin_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'admin_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_enable_sidebar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_enable_sidebar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_enable_sidebar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_enable_sidebar'"

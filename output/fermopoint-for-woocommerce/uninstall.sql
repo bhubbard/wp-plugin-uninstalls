@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('FERMOPOINT_ACCOUNT_ID', 'FERMOPOINT_ACCOUNT_SECRET', 'FERMOPOINT_ACCOUNT_NICKNAME', 'FERMOPOINT_ACCOUNT_BORNDATE', 'fermopoint_sandbox', 'FERMOPOINT_MODALITAVISIBILE', 'woocommerce_version');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_shipping_ticketId-fermopoint', '_shipping_urlticket-fermopoint', '_shipping_approvalUrl-fermopoint', '_shipping_rejectUrl-fermopoint', 'fermopoint_ticketid', 'fermopoint_state', '_shipping_first_name', '_shipping_last_name', '_shipping_company', '_shipping_address_1', '_shipping_address_2', '_shipping_postcode', '_shipping_city', '_shipping_state', '_shipping_country', '_shipping_statebook-fermopoint', '_shipping_statenote-fermopoint', 'idpoint');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_shipping_ticketId-fermopoint', '_shipping_urlticket-fermopoint', '_shipping_approvalUrl-fermopoint', '_shipping_rejectUrl-fermopoint', 'fermopoint_ticketid', 'fermopoint_state', '_shipping_first_name', '_shipping_last_name', '_shipping_company', '_shipping_address_1', '_shipping_address_2', '_shipping_postcode', '_shipping_city', '_shipping_state', '_shipping_country', '_shipping_statebook-fermopoint', '_shipping_statenote-fermopoint', 'idpoint');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_shipping_ticketId-fermopoint', '_shipping_urlticket-fermopoint', '_shipping_approvalUrl-fermopoint', '_shipping_rejectUrl-fermopoint', 'fermopoint_ticketid', 'fermopoint_state', '_shipping_first_name', '_shipping_last_name', '_shipping_company', '_shipping_address_1', '_shipping_address_2', '_shipping_postcode', '_shipping_city', '_shipping_state', '_shipping_country', '_shipping_statebook-fermopoint', '_shipping_statenote-fermopoint', 'idpoint');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_shipping_ticketId-fermopoint', '_shipping_urlticket-fermopoint', '_shipping_approvalUrl-fermopoint', '_shipping_rejectUrl-fermopoint', 'fermopoint_ticketid', 'fermopoint_state', '_shipping_first_name', '_shipping_last_name', '_shipping_company', '_shipping_address_1', '_shipping_address_2', '_shipping_postcode', '_shipping_city', '_shipping_state', '_shipping_country', '_shipping_statebook-fermopoint', '_shipping_statenote-fermopoint', 'idpoint');
+

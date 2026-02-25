@@ -1,0 +1,13 @@
+{
+  "options": [
+    "um_options",
+    "um_recaptcha_version",
+    "um_recaptcha_last_version_upgrade"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:30.990Z"
+}

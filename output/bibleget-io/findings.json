@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bibleget_settings",
+    "BGET",
+    "*IDX",
+    "bibleget_biblebooks*",
+    "bibleget_versions",
+    "bibleget_error_admin_notices",
+    "bibleget_languages",
+    "bibleget_admin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:54.984Z"
+}

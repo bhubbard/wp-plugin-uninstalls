@@ -1,0 +1,13 @@
+{
+  "options": [
+    "jobvite_api_key",
+    "jobvite_secret_key",
+    "jobvite_company_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:13.273Z"
+}

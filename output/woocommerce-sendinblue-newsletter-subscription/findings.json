@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "woocommerce_shop_page_id",
+    "wc_sendinblue_settings",
+    "woocommerce_new_order_settings",
+    "woocommerce_failed_order_settings",
+    "woocommerce_cancelled_order_settings",
+    "woocommerce_customer_on_hold_order_settings",
+    "woocommerce_customer_processing_order_settings",
+    "woocommerce_customer_refunded_order_settings",
+    "woocommerce_customer_completed_order_settings",
+    "woocommerce_customer_note_settings",
+    "woocommerce_customer_new_account_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user",
+    "_billing_email",
+    "ws_opt_in",
+    "_thankyou_action_done",
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:22.772Z"
+}

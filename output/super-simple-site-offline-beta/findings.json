@@ -1,0 +1,30 @@
+{
+  "options": [
+    "bcSOFF_offline_redirect",
+    "bcSOFF_site_offline",
+    "bcSOFF_offline_analytics",
+    "bcSOFF_offline_header",
+    "bcSOFF_offline_redirect_url",
+    "bcSOFF_offline_ip_exempt",
+    "bcSOFF_offline_background_image",
+    "bcSOFF_offline_logo",
+    "bcSOFF_offline_message",
+    "bcSOFF_offline_theme",
+    "bcSOFF_offline_css",
+    "bcSOFF_offline_label",
+    "bcSOFF_share_data",
+    "bcSOFF_token",
+    "bcSOFF_*",
+    "bcSOFF_apistring"
+  ],
+  "transients": [
+    "bcSOFF_ask_account_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ssso_post_override"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:59.085Z"
+}

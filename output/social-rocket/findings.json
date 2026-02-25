@@ -1,0 +1,51 @@
+{
+  "options": [
+    "social_rocket_admin_notices",
+    "sr_admin_notice_*",
+    "social_rocket_settings",
+    "_social_rocket_facebook_invalid_token",
+    "active_sitewide_plugins",
+    "sr_admin_notice_sr_invalid_facebook_token",
+    "*_last_call",
+    "_social_rocket_buffer_last_call",
+    "_social_rocket_facebook_last_call",
+    "_social_rocket_pinterest_last_call",
+    "_social_rocket_reddit_last_call",
+    "_social_rocket_twitter_last_call"
+  ],
+  "transients": [
+    "*_notice",
+    "*_process_lock",
+    "sr_hide_sr_invalid_facebook_token_notice"
+  ],
+  "cron_jobs": [
+    "social_rocket_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "social_rocket_total_shares",
+    "social_rocket_pinterest_description",
+    "social_rocket_og_description",
+    "social_rocket_og_image",
+    "social_rocket_og_title",
+    "social_rocket_pinterest_image",
+    "social_rocket_twitter_message",
+    "social_rocket_inline_position",
+    "social_rocket_floating_position",
+    "social_rocket_facebook_profile_url",
+    "social_rocket_twitter_username",
+    "social_rocket_position",
+    "_yoast_wpseo_opengraph-title",
+    "_yoast_wpseo_opengraph-description",
+    "_yoast_wpseo_opengraph-image",
+    "_yoast_wpseo_twitter-title",
+    "_yoast_wpseo_twitter-description",
+    "_yoast_wpseo_twitter-image",
+    "tcb2_ready",
+    "tcb_editor_enabled",
+    "tve_landing_page",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:26.048Z"
+}

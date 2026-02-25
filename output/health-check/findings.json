@@ -1,0 +1,25 @@
+{
+  "options": [
+    "health-check-beta-features",
+    "health-check-disable-plugin-hash",
+    "health-check-default-theme",
+    "health-check-allowed-plugins",
+    "health-check-current-theme",
+    "health-check-dashboard-notices",
+    "health-check-backup-plugin-list"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "health-check-site-status-result",
+    "health-check-checksums",
+    "php_check_*"
+  ],
+  "cron_jobs": [
+    "health-check-scheduled-site-status-check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:42.142Z"
+}

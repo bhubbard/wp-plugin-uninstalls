@@ -1,0 +1,16 @@
+{
+  "options": [
+    "reportaj_ads_publisher_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "reportaj_ads_publisher_import_posts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "reportaj_ads_code",
+    "reportaj_ads_sent_api"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:53.600Z"
+}

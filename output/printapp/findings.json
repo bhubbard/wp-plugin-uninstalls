@@ -1,0 +1,13 @@
+{
+  "options": [
+    "print_app_domain_key",
+    "print_app_secret_key",
+    "print_app_cust_download_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:04.487Z"
+}

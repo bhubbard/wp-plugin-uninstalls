@@ -1,0 +1,31 @@
+{
+  "options": [
+    "cp_options",
+    "cp_dismissed_messages",
+    "cp-options",
+    "cp_version"
+  ],
+  "transients": [
+    "presstrends_cache_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cp-task-list-id",
+    "_cp-project-id",
+    "_cp-meta-type",
+    "_cp-activity-action",
+    "_cp-activity-type",
+    "_cp-activity-author",
+    "_cp-activity-ID",
+    "_cp-task-assign",
+    "_cp-task-status",
+    "_cp-task-due",
+    "_cp-project-users",
+    "_cp-task-priority",
+    "_cp-project-description",
+    "_cp-task-list-description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:42.344Z"
+}

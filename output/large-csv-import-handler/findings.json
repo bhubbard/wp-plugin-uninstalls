@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lcih_csv_delimiter",
+    "lcih_csv_enclosure",
+    "lcih_csv_escape"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:16.323Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ocflite_transport', 'ocflite_to_email', 'ocflite_from_email', 'ocflite_from_name', 'ocflite_smtp_host', 'ocflite_smtp_port', 'ocflite_smtp_secure', 'ocflite_smtp_user', 'ocflite_smtp_pass', 'ocflite_file_format', 'ocflite_recaptcha_enable', 'ocflite_recaptcha_site_key', 'ocflite_recaptcha_secret_key', 'ocflite_recaptcha_threshold', 'ocflite_recaptcha_action', 'ocflite_rate_limit');
+

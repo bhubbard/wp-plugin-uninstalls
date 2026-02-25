@@ -1,0 +1,14 @@
+{
+  "options": [
+    "EEPEDD"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eepedd_cid",
+    "_eepedd_tracked"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:28.381Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ac_catalog_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ac_main_product_image",
+    "ac_attachment_file",
+    "_ac_additional_product_images",
+    "ac-product-details",
+    "*_file",
+    "*_title",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:27.034Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "abovewp_bge_enabled",
+    "abovewp_bge_show_single_product",
+    "abovewp_bge_show_variable_product",
+    "abovewp_bge_show_cart_item",
+    "abovewp_bge_show_cart_subtotal",
+    "abovewp_bge_show_cart_total",
+    "abovewp_bge_show_order_totals",
+    "abovewp_bge_show_orders_table",
+    "abovewp_bge_show_api_prices",
+    "abovewp_bge_show_shipping_labels",
+    "abovewp_bge_show_tax_labels",
+    "abovewp_bge_show_mini_cart",
+    "abovewp_bge_show_thank_you_page",
+    "abovewp_bge_eur_position",
+    "abovewp_bge_eur_format",
+    "abovewp_bge_bgn_rounding",
+    "abovewp_bge_show_*",
+    "woocommerce_tax_display_cart",
+    "woocommerce_tax_display_shop",
+    "abovewp_bge_migration_in_progress",
+    "abovewp_bge_migration_offset",
+    "abovewp_bge_migration_total",
+    "abovewp_bge_migration_last_error",
+    "woocommerce_currency",
+    "abovewp_bge_eur_label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "abovewp_migration_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:06.434Z"
+}

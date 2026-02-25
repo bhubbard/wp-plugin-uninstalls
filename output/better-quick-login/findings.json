@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bql_login_form",
+    "bql_expire_time",
+    "bql_keep_logged_in",
+    "bql_force_one_session",
+    "bql_recaptcha_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "quicklogin_token"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:57.841Z"
+}

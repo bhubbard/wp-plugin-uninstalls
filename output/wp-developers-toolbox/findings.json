@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_debug_mode",
+    "*_error_log",
+    "*_admin_bar_toggle",
+    "*_admin_only",
+    "*_ip_only",
+    "developer_toolbox_options_debug_mode",
+    "developer_toolbox_options_error_log",
+    "developer_toolbox_options_admin_bar_toggle",
+    "developer_toolbox_options_admin_only",
+    "developer_toolbox_options_ip_only"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:31.762Z"
+}

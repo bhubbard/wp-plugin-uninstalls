@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpo_wcpdf_general_settings",
+    "wpo_wcpdf_documents_settings_receipt",
+    "wcpdf_IT_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_invoice_type",
+    "billing_customer_type",
+    "billing_cf",
+    "billing_cf2",
+    "billing_PEC"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:14.842Z"
+}

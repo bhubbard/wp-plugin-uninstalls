@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mds_employee_name",
+    "_mds_employee_designation",
+    "_mds_employee_age",
+    "_mds_employee_degree",
+    "_mds_employee_skills",
+    "_mds_employee_downtown",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:32.193Z"
+}

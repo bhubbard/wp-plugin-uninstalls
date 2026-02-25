@@ -1,0 +1,18 @@
+{
+  "options": [
+    "qa_index_text_color",
+    "qa_index_bold",
+    "question_text_color",
+    "question_bold",
+    "question_justify",
+    "answer_text_color",
+    "answer_bold",
+    "answer_justify"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:04.765Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "onedelivery_company_name",
+    "onedelivery_postcode",
+    "onedelivery_city",
+    "onedelivery_street",
+    "onedelivery_street_number",
+    "onedelivery_country_code",
+    "onedelivery_api_username",
+    "onedelivery_api_password",
+    "onedelivery_label_format"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "onebyal_wcs_process_tracking_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:56.766Z"
+}

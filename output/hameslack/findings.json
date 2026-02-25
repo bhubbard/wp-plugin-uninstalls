@@ -1,0 +1,24 @@
+{
+  "options": [
+    "hameslack_pending_review_channel",
+    "hameslack_slash_signing_secret",
+    "hameslack_slash_messages",
+    "hameslack_active_addons",
+    "hameslack_invitation_channel",
+    "hameslack_payload_url",
+    "hameslack_invite_api_token",
+    "hameslack_outgoing",
+    "hameslack_bot_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname",
+    "hameslack_last_requested",
+    "_hameslack_hash",
+    "_hameslack_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:25.323Z"
+}

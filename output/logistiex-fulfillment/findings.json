@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_email_from_address",
+    "woocommerce_store_phone",
+    "woocommerce_store_admin_user_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "logistiex_fulfillment_send_debounced_order_to_webhook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:53.412Z"
+}

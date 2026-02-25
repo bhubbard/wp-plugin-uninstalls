@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rns_do_activation_redirect",
+    "rns_settings"
+  ],
+  "transients": [
+    "rns-plugin-activation-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rns_enable",
+    "rns_reaction_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:19.175Z"
+}

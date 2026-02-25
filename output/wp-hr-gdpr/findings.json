@@ -1,0 +1,41 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "wphrgdpr_consent_quetions",
+    "wphrgdpr_last_update_post",
+    "wphrgdpr_consent_contents",
+    "wphrgdpr_email_templates_data",
+    "wphrgdpr_email_templates_label",
+    "wphrgdpr_page_ids",
+    "wphrgdrplite_page_ids",
+    "wphrgdrplite_created_posts",
+    "wphrgdpr_created_posts",
+    "wphr_email_settings_data-protection-form",
+    "wphr_email_settings_subject-access-request"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_consent_form",
+    "post_default_title",
+    "model_answers",
+    "model_answer_type",
+    "model_answers_chk",
+    "value_checked",
+    "wphrgdpr_consent_policy_submit",
+    "field_required",
+    "model_default_answers",
+    "model_answers_text",
+    "model_answers_default_chk",
+    "privacy_answer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:34.291Z"
+}

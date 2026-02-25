@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lwpgls_general"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lwpgls_synonyms"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:27.556Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hyperise-snippet"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hyperise_meta_hash",
+    "_hyperise_meta_title",
+    "_hyperise_meta_desc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:19.595Z"
+}

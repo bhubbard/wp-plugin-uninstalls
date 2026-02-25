@@ -1,0 +1,15 @@
+{
+  "options": [
+    "url",
+    "login",
+    "password",
+    "my_plugin_db_version",
+    "hidden"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:00.505Z"
+}

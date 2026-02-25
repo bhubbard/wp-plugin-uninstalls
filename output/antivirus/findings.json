@@ -1,0 +1,15 @@
+{
+  "options": [
+    "antivirus"
+  ],
+  "transients": [
+    "antivirus-activation-notice"
+  ],
+  "cron_jobs": [
+    "antivirus_daily_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:16.314Z"
+}

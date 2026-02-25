@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('italseva_validator_settings', 'italseva_authoritative_domains', 'italseva_validator_db_version', 'italseva_validator_version', 'italseva_validator_delete_data_on_uninstall', 'italseva_sitemap_urls', 'italseva_cannibalization_sitemap_posts');
+DELETE FROM wp_options WHERE option_name LIKE 'italseva_validation_count_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_italseva_meta_description', '_italseva_meta_title', '_italseva_intent', '_yoast_wpseo_focuskw', 'rank_math_focus_keyword', '_italseva_keyword', '_italseva_result', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', 'rank_math_title', 'rank_math_description', '_italseva_seo_title', '_italseva_seo_description', '_italseva_slug', '_italseva_validation_results', '_italseva_validation_timestamp', '_italseva_user_tier', 'italseva_validator_tier', '_wp_attachment_image_alt');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_italseva_meta_description', '_italseva_meta_title', '_italseva_intent', '_yoast_wpseo_focuskw', 'rank_math_focus_keyword', '_italseva_keyword', '_italseva_result', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', 'rank_math_title', 'rank_math_description', '_italseva_seo_title', '_italseva_seo_description', '_italseva_slug', '_italseva_validation_results', '_italseva_validation_timestamp', '_italseva_user_tier', 'italseva_validator_tier', '_wp_attachment_image_alt');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_italseva_meta_description', '_italseva_meta_title', '_italseva_intent', '_yoast_wpseo_focuskw', 'rank_math_focus_keyword', '_italseva_keyword', '_italseva_result', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', 'rank_math_title', 'rank_math_description', '_italseva_seo_title', '_italseva_seo_description', '_italseva_slug', '_italseva_validation_results', '_italseva_validation_timestamp', '_italseva_user_tier', 'italseva_validator_tier', '_wp_attachment_image_alt');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_italseva_meta_description', '_italseva_meta_title', '_italseva_intent', '_yoast_wpseo_focuskw', 'rank_math_focus_keyword', '_italseva_keyword', '_italseva_result', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', 'rank_math_title', 'rank_math_description', '_italseva_seo_title', '_italseva_seo_description', '_italseva_slug', '_italseva_validation_results', '_italseva_validation_timestamp', '_italseva_user_tier', 'italseva_validator_tier', '_wp_attachment_image_alt');
+

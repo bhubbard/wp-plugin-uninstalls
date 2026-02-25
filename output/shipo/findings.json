@@ -1,0 +1,33 @@
+{
+  "options": [
+    "shipo_api_key",
+    "shipo_access_token",
+    "shipo_token_expiry",
+    "shipo_sender_address",
+    "shipo_automation_awb",
+    "shipo_custom_delivery_name",
+    "shipo_show_couriers",
+    "shipo_free_shipping",
+    "shipo_test_mode",
+    "shipo_sender_method",
+    "shipo_couriers_show",
+    "shipo_couriers_show_services",
+    "shipo_couriers_custom_price",
+    "shipo_couriers_custom_price_type",
+    "shipo_couriers_custom_name",
+    "shipo_sender_locker",
+    "shipo_pricing_percentage_*",
+    "shipo_*",
+    "woocommerce_default_country"
+  ],
+  "transients": [
+    "shipo_admin_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipo_shipping_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:16.463Z"
+}

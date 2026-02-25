@@ -1,0 +1,19 @@
+{
+  "options": [
+    "EasyIndex"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "easyindex",
+    "_menu_item_object_id",
+    "easyindexSourceUrl",
+    "easyindexInvalidate",
+    "easyindexGenerate",
+    "_wp_page_template",
+    "thesis_post_image"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:46.571Z"
+}

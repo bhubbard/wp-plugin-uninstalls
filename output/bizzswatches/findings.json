@@ -1,0 +1,21 @@
+{
+  "options": [
+    "bizzplugin_webhook_*",
+    "bizzplugin_webhook_secret_*",
+    "bizzplugin_webhooks_*",
+    "bizzswatches_settings"
+  ],
+  "transients": [
+    "codersaiful_browse_plugins",
+    "bizzswatches_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bizzswatches_color",
+    "bizzswatches_image",
+    "_bizzswatches_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:18.353Z"
+}

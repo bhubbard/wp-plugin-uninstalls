@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hw4wp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hw4wp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wp-hotwords_custom_color",
+    "wp-hotwords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:00.598Z"
+}

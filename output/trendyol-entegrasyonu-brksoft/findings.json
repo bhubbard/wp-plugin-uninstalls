@@ -1,0 +1,18 @@
+{
+  "options": [
+    "brkti_supplier_id",
+    "brkti_api_key",
+    "brkti_api_secret",
+    "brkti_auto_sync",
+    "brkti_last_sync",
+    "brkti_sync_count_*"
+  ],
+  "transients": [
+    "brkti_sync_lock_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:37.026Z"
+}

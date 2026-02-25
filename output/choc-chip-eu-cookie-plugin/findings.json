@@ -1,0 +1,12 @@
+{
+  "options": [
+    "choc_chip_eu_cookie_appearance",
+    "choc_chip_eu_cookie_optin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:32.692Z"
+}

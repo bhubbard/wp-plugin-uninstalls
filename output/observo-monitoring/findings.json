@@ -1,0 +1,13 @@
+{
+  "options": [
+    "observo_sysinfo_code"
+  ],
+  "transients": [
+    "observo-monitoring-admin-notice-install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:24.420Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gmdpcf_country_code",
+    "gmdpcf_address_option",
+    "gmdpcf_skin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:07.496Z"
+}

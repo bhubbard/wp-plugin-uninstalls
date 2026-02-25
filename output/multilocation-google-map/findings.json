@@ -1,0 +1,24 @@
+{
+  "options": [
+    "mgm_map_key_options",
+    "mgm_map_lat_options",
+    "mgm_map_lng_options",
+    "mgm_map_zoom_options",
+    "mgm_map_type_options",
+    "mgm_map_scrollwheel_options",
+    "mgm_map_draggable_options",
+    "mgm_map_zoomcontrol_options",
+    "mgm_map_marker_click_zoom_options",
+    "mgm_upload_pointer_image_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "latitude_id",
+    "longitude_id",
+    "description_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:06.930Z"
+}

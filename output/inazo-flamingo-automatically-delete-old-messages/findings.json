@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_version",
+    "*_contact_days",
+    "*_inbound_days",
+    "*_outbound_days",
+    "*_spam_days",
+    "inazo_flamingo_auto_trash_version",
+    "inazo_flamingo_auto_trash_contact_days",
+    "inazo_flamingo_auto_trash_inbound_days",
+    "inazo_flamingo_auto_trash_outbound_days",
+    "inazo_flamingo_auto_trash_spam_days"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "inazo_flamingo_auto_trash_cron_task_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:46.224Z"
+}

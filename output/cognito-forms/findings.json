@@ -1,0 +1,12 @@
+{
+  "options": [
+    "cognito_dev_environment",
+    "cognito_public_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:31.689Z"
+}

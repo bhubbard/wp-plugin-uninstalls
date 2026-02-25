@@ -1,0 +1,49 @@
+{
+  "options": [
+    "_yeepdf_dropbox_api_token",
+    "_yeepdf_dropbox_api_token_refresh_token",
+    "pdf_creator_dropbox_token",
+    "pdf_creator_dropbox_token_secret",
+    "pdf_custom_fonts",
+    "_yeepdf_woocommerce_demo",
+    "pdf_creator_save_folder",
+    "pdf_creator_save_random",
+    "pdf_creator_papers",
+    "pdf_creator_save_pdf",
+    "pdf_download_last",
+    "yeepdf_elementor_forms_setup",
+    "gform_email_count",
+    "gform_api_count",
+    "rg_gforms_message",
+    "rg_gforms_key",
+    "gform_version_info",
+    "rg_gforms_currency",
+    "rg_gforms_enable_akismet",
+    "gform_upload_page_slug",
+    "yeepdf_gravity_forms_setup",
+    "gf_save_dropbox_*",
+    "download_link_pdf_gf",
+    "_redmuber_item_*",
+    "ninja_forms_addons_feed"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "data_email",
+    "data_email_email",
+    "_builder_pdf_settings",
+    "_builder_pdf_settings_font_family",
+    "_pdfcreator_formwidget",
+    "_pdfcreator_formwidget_entry",
+    "_elementor_data",
+    "_wp_attachment_image_alt",
+    "_yeepdf_gravity_forms",
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:51.890Z"
+}

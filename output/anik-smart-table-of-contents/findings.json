@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aniksmta_settings",
+    "aniksmta_install_date",
+    "aniksmta_review_dismissed",
+    "aniksmta_review_done"
+  ],
+  "transients": [
+    "aniksmta_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aniksmta_disable",
+    "_aniksmta_heading_levels"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:16.913Z"
+}

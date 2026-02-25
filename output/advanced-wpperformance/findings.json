@@ -1,0 +1,16 @@
+{
+  "options": [
+    "awpp-option",
+    "awpp-settings",
+    "awpp_serverpush_files"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "awpp_renew_htaccess_cron",
+    "awpp_monitoring_sheduled_psi_request"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:58.093Z"
+}

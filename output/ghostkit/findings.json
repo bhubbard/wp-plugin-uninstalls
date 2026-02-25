@@ -1,0 +1,36 @@
+{
+  "options": [
+    "*_state",
+    "*_time",
+    "ghostkit_google_recaptcha_api_site_key",
+    "ghostkit_google_recaptcha_api_secret_key",
+    "ghostkit_settings",
+    "ghostkit_disabled_blocks",
+    "ghostkit_google_maps_api_key",
+    "ghostkit_custom_code",
+    "active_sitewide_plugins",
+    "ghostkit_typography",
+    "vpf_db_version",
+    "ghostkit_fonts_settings",
+    "ghostkit_customizer_fields",
+    "ghostkit_color_palette"
+  ],
+  "transients": [
+    "gkt_deactivated_notice_id",
+    "ghostkit_google_fonts_list",
+    "ghostkit_remote_templates",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ghostkit_custom_css",
+    "ghostkit_custom_js_head",
+    "ghostkit_custom_js_foot",
+    "ghostkit_typography",
+    "_wp_attachment_image_alt",
+    "ghostkit_customizer_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:43.780Z"
+}

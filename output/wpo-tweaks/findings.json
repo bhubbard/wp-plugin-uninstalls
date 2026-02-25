@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ayudawp_wpotweaks_show_activation_notice",
+    "_transient_timeout_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ayudawp_wpotweaks_clean_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:39.311Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "learnworlds_sso_use_woocommerce_account_urls",
+    "learnworlds_sso_access_token",
+    "learnworlds_sso_access_token_expires_on",
+    "learnworlds_sso_client_id",
+    "learnworlds_sso_client_secret",
+    "learnworlds_sso_api_server_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "learnworlds_user_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:44.933Z"
+}

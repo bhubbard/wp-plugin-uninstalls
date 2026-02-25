@@ -1,0 +1,37 @@
+{
+  "options": [
+    "hootkit-dismiss-review",
+    "hootkit-activate",
+    "hootkit_adminsettings_footer",
+    "hootkit-activemods",
+    "*_customcode",
+    "hootkit_customcode_disablesafemode",
+    "hootkitimport_wc_flush",
+    "hootkitimport_mflogs",
+    "*_page_id",
+    "newsletter_show_welcome",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [
+    "hootkitimport_freshpack",
+    "hootkitimport_idsmap_widgets_*",
+    "_mappress_activation_redirect",
+    "hootkitimport_idsmap_*",
+    "hootkitimport_idsmap_wc_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hootkitimport",
+    "_hash",
+    "_wp_attachment_is_custom_header",
+    "_menu-item-hybridextend_megamenu",
+    "_menu-item-hoot_megamenu",
+    "_menu-item-hootmenu",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:07.876Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "post-bridge-social-poster-access-token",
+    "post-bridge-social-poster-refresh-token",
+    "post-bridge-social-poster-token-expires"
+  ],
+  "transients": [
+    "post_bridge_social_poster_api_profiles"
+  ],
+  "cron_jobs": [
+    "post_bridge_social_poster_log_cleanup_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_post_bridge_social_poster",
+    "_post_bridge_social_poster_success",
+    "_post_bridge_social_poster_error",
+    "_post_bridge_social_poster_errors",
+    "*_needs_publishing",
+    "*_needs_updating",
+    "*_last_sent",
+    "*_success",
+    "*_error",
+    "*_errors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:39.700Z"
+}

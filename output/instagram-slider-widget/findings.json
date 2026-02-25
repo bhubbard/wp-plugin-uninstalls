@@ -1,0 +1,60 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "widget_jr_insta_slider",
+    "widget_wyoutube_feed",
+    "widget_wfacebook_feed",
+    "instagram_slider_widget_logger_flag",
+    "factory_plugin_versions",
+    "*_is_active",
+    "wis_account",
+    "wis_youtube_account",
+    "*_license_data",
+    "*_license_status",
+    "*_license_plan",
+    "*_failed_checks",
+    "*_logger_flag",
+    "themeisle_sdk_notifications",
+    "otter_reference_key",
+    "optimole_reference_key",
+    "rop_reference_key",
+    "neve_reference_key",
+    "hyve_reference_key",
+    "wp_full_pay_reference_key",
+    "feedzy_reference_key",
+    "themeisle_sdk_promotions_otter",
+    "*_install",
+    "*_version",
+    "*_license"
+  ],
+  "transients": [
+    "jr_insta_user_ids",
+    "app_ids_cache",
+    "wbcr_factory_google_fonts",
+    "wbcr_factory_google_fonts_raw",
+    "wis_instagram_widget_195",
+    "wis_youtube_widget_195",
+    "ti_plugin_info_*",
+    "themeisle_sdk_cache_token",
+    "themeisle_sdk_feed_items",
+    "themeisle_sdk_products",
+    "*act_err",
+    "*_license_data",
+    "tsk_attachment_count",
+    "tsk_posts_count",
+    "ti_theme_info_*",
+    "update_plugins",
+    "*_warning_rollback",
+    "update_themes",
+    "ti_sdk_pause_*"
+  ],
+  "cron_jobs": [
+    "jr_insta_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "themeisle_sdk_dismissed_notice_black_friday"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:05.059Z"
+}

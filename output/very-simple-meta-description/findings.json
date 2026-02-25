@@ -1,0 +1,18 @@
+{
+  "options": [
+    "vsmd-setting-4",
+    "vsmd-setting-5",
+    "vsmd-setting-1",
+    "vsmd-setting-2",
+    "vsmd-setting-7",
+    "vsmd-setting-3",
+    "vsmd-setting-6",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:23.146Z"
+}

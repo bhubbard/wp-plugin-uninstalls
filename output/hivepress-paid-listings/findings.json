@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hp_listing_package_allow_free",
+    "hp_listing_enable_moderation",
+    "hp_product_listing_feature",
+    "hp_listing_featuring_period"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hp_moderated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:39.547Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "trackbee_application_password",
+    "trackbee_site_url",
+    "trackbee_pixel_api_key",
+    "trackbee_api_key"
+  ],
+  "transients": [
+    "trackbee_error",
+    "trackbee_tech_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:46.291Z"
+}

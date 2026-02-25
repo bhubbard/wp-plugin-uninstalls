@@ -1,0 +1,14 @@
+{
+  "options": [
+    "laxi_chatbot_enabled",
+    "laxi_wc_consumer_key",
+    "laxi_wc_consumer_secret",
+    "laxi_wc_api_key_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:31.175Z"
+}

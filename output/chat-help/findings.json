@@ -1,0 +1,26 @@
+{
+  "options": [
+    "chat_help_version",
+    "chat_help_first_version",
+    "chat_help_activation_date",
+    "chat_help_db_version",
+    "cwp_option",
+    "chat_help_review_notice_dismiss",
+    "themeatelier_offer_banner_dismissed_*",
+    "ch_wooCommerce",
+    "ch_settings"
+  ],
+  "transients": [
+    "themeatelier_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_CHAT_HELP_errors_*",
+    "_chat_help_errors_*",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:36.518Z"
+}

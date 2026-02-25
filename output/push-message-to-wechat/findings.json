@@ -1,0 +1,16 @@
+{
+  "options": [
+    "PushMessageToWeChat"
+  ],
+  "transients": [
+    "pmtw_pushbear_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Pmtw_Submit",
+    "nickname"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:08.513Z"
+}

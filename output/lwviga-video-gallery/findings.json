@@ -1,0 +1,18 @@
+{
+  "options": [
+    "lwviga_video_gallery_default_thumbnail",
+    "lwviga_video_gallery_primary_color",
+    "lwviga_video_gallery_overlay_color",
+    "lwviga_video_gallery_overlay_opacity"
+  ],
+  "transients": [
+    "lwviga_video_gallery_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lwviga_video_gallery_videos"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:18.014Z"
+}

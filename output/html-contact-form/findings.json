@@ -1,0 +1,15 @@
+{
+  "options": [
+    "HTML_CF_code",
+    "html_CF_Email",
+    "html_form_install_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "html_contact_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:28.301Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [
+    "nc_bb_sm_error",
+    "_nc_bb_sm_front-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nc_bb_sm_class_name",
+    "_nc_bb_sm_definition",
+    "_nc_bb_sm_front"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:03.719Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "calcslive_api_key",
+    "calcslive_default_width",
+    "calcslive_default_height",
+    "calcslive_domain"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:45.910Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "em_*",
+    "em_content_image",
+    "em_image_url",
+    "em_source_code",
+    "em_active",
+    "em_sitewide"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:38.672Z"
+}

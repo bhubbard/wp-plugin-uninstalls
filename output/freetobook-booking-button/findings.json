@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ftb_widget_key",
+    "ftb_widget_style",
+    "ftb_widget_button_url",
+    "ftb_widget_button_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:20.896Z"
+}

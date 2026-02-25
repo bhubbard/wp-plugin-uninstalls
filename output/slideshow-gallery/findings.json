@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tridebugging",
+    "slideshow_smart_rating_dismissed",
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [
+    "*update_info",
+    "slideshow_update_info"
+  ],
+  "cron_jobs": [
+    "slideshow_ratereviewhook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:40.401Z"
+}

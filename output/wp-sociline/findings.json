@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpsociline_fonts",
+    "wpsociline_popupbox_height",
+    "wpsociline_popupbox_border",
+    "wpsociline_popupbox_bordercolor",
+    "wpsociline_popupbox_borderradius",
+    "wpsociline_popupbox_icon",
+    "wpsociline_notification_icon_bgcolor",
+    "wpsociline_popupbox_rightoffset",
+    "wpsociline_boxshadow_offset",
+    "wpsociline_blurradius",
+    "wpsociline_spreadraius",
+    "wpsociline_boxshadow_color",
+    "wpsociline_popup_state",
+    "wpsociline_userid",
+    "*_licensed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:44.496Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_notify_low_stock",
+    "woocommerce_stock_email_recipient",
+    "woocommerce_notify_no_stock",
+    "woocommerce_notify_no_stock_amount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smifw_location_stocks",
+    "_stock"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:44.746Z"
+}

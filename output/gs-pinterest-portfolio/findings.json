@@ -1,0 +1,31 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "gs_pinterest_settings",
+    "gspin_upgraded_to_1_4_0",
+    "gspin_active_time",
+    "gspin_review_dismiss",
+    "gspin_maybe_later",
+    "gsadmin_active_time",
+    "gsadmin_maybe_later",
+    "gspin_activation_redirect",
+    "gspin_shortcode_prefs"
+  ],
+  "transients": [
+    "gsplugins-pro-plugins",
+    "gsplugins_free_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event",
+    "gs_pinterest_pin_sync_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gspin_ignore_notice279"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:48.617Z"
+}

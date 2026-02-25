@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id",
+    "global_coupons",
+    "global_coupons_menu"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "usage_limit_per_user",
+    "individual_use",
+    "customer_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:52.967Z"
+}

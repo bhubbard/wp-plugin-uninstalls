@@ -1,0 +1,20 @@
+{
+  "options": [
+    "recently_activated",
+    "*version"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_lock",
+    "*activating"
+  ],
+  "cron_jobs": [
+    "*_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:56.009Z"
+}

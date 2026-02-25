@@ -1,0 +1,23 @@
+{
+  "options": [
+    "appointmentsw_changes",
+    "appointmentsw",
+    "asw-guest",
+    "asw-duration",
+    "asw-numdays",
+    "asw-maxoffset",
+    "asw-start_time_0",
+    "asw-end_time_0",
+    "asw-start_time_1",
+    "asw-end_time_1",
+    "appointmentsw-subject"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thechamp_large_avatar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:13.462Z"
+}

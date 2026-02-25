@@ -1,0 +1,33 @@
+{
+  "options": [
+    "woocommerce_gpos_settings",
+    "gpos_submenu_pages",
+    "gpos_clear_export_dir_failed",
+    "gpos_default_account",
+    "gpos_db_version",
+    "gpos_callback_test_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gpos_success_transaction_notification",
+    "gpos_error_transaction_notification",
+    "gpos_daily_transaction_notification",
+    "gpos_weekly_transaction_notification",
+    "gpos_clear_redirect_table",
+    "gpos_clear_export_dir",
+    "gpos_garbage_collector",
+    "gpos_delete_session_meta",
+    "gpos_transaction_check_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gpos_hide_rating_message",
+    "gpos_gateway_id",
+    "gpos_is_installments_active",
+    "gpos_extra_installments_active",
+    "gpos_installments",
+    "note_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:06.039Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "n8n_chat_widget_url",
+    "n8n_chat_widget_enabled",
+    "n8n_chat_widget_position",
+    "n8n_chat_widget_title",
+    "n8n_chat_widget_color",
+    "n8n_chat_widget_icon",
+    "n8n_chat_widget_icon_type",
+    "n8n_chat_widget_svg_icon",
+    "n8n_chat_widget_zoom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:33.488Z"
+}

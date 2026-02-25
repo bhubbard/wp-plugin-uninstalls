@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_zipmoney_settings",
+    "woocommerce_currency",
+    "active_sitewide_plugins",
+    "woocommerce_force_ssl_checkout",
+    "au-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:45.459Z"
+}

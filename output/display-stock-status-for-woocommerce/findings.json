@@ -1,0 +1,27 @@
+{
+  "options": [
+    "show_stocks",
+    "stock_position",
+    "display_icon",
+    "in_stock_color",
+    "out_stock_color",
+    "dssfw_backorder_stock",
+    "out_stock_bg_color",
+    "dssfw_out_of_stock",
+    "dssfw_can_be_backorder_stock",
+    "in_stock_bg_color",
+    "dssfw_in_stock",
+    "dssfw_product_backorder_stock",
+    "dssfw_product_out_of_stock",
+    "dssfw_product_in_stock",
+    "dssfw_product_can_be_backorder_stock"
+  ],
+  "transients": [
+    "*sslpfwerror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:08.691Z"
+}

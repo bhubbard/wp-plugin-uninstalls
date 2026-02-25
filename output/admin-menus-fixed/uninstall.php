@@ -1,0 +1,13 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('ozh_adminmenu');
+delete_site_option('ozh_adminmenu');
+delete_option('agca_header');
+delete_site_option('agca_header');
+

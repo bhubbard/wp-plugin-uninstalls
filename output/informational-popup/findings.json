@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pop_text_color",
+    "pop_border_color",
+    "pop_animate_left",
+    "pop_bg_color",
+    "pop_border_width",
+    "pop_post_text_color",
+    "pop_animation_type",
+    "my-theme-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:17.504Z"
+}

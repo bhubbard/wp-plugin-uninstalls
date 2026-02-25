@@ -1,0 +1,25 @@
+{
+  "options": [
+    "metaslider_lightbox_migration_done",
+    "metaslider_lightbox_general_options",
+    "metaslider_lightbox_content_options",
+    "metaslider_lightbox_manual_options",
+    "metaslider_lightbox_appearance_options",
+    "metaslider_lightbox_icon_color_migration_done",
+    "metaslider_lightbox_background_color_migration_done",
+    "ml_lightbox_options",
+    "metaslider_lightbox_plugin_version",
+    "metaslider_lightbox_plugin_path"
+  ],
+  "transients": [
+    "metaslider_lightbox_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ml-slider_settings",
+    "ml-slider_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:32.333Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "wp_template_cache_*",
+    "block_template_cache_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_theme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:17.836Z"
+}

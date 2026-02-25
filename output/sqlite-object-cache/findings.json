@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sqlite_object_cache_settings",
+    "*_settings",
+    "sqlite_object_cache_version"
+  ],
+  "transients": [
+    "sqlite-object-cache-flush-on-update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:44.917Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "azure_login_setting_flow",
+    "o365_user_auth_online_access_token",
+    "o365_userauth_verify_auth_flow",
+    "o365_base_plugin_is_verify",
+    "o365_settings",
+    "o365_user_auth_online_token_expires",
+    "o365_user_auth_online_refresh_token",
+    "wpcf-usermeta",
+    "365_plugin_top_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aaduserobjectid",
+    "nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:35.931Z"
+}

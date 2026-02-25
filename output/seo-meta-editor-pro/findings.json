@@ -1,0 +1,26 @@
+{
+  "options": [
+    "seo_meta_editor_pro_options",
+    "seo_meta_editor_settings",
+    "seo_meta_editor_version",
+    "wpseo_titles"
+  ],
+  "transients": [
+    "seo_meta_editor_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rank_math_robots",
+    "rank_math_canonical_url",
+    "rank_math_focus_keyword",
+    "rank_math_primary_category",
+    "rank_math_primary_product_cat",
+    "_yoast_wpseo_meta-robots-noindex",
+    "_yoast_wpseo_meta-robots-nofollow",
+    "_yoast_wpseo_meta-robots-adv",
+    "_yoast_wpseo_primary_category"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:10.773Z"
+}

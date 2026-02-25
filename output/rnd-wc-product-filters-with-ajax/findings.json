@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rndapf_settings",
+    "woocommerce_currency_pos",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:33.653Z"
+}

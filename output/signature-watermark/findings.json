@@ -1,0 +1,15 @@
+{
+  "options": [
+    "signature-watermark-settings",
+    "mywebsiteadvisor_pluigin_installer_menu_disable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wporg_favorites",
+    "_watermark_backups"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:35.797Z"
+}

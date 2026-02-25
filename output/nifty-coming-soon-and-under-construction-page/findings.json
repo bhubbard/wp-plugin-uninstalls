@@ -1,0 +1,19 @@
+{
+  "options": [
+    "nifty_cs_option",
+    "nifty_cs_migrated",
+    "option_tree",
+    "nifty_cs_options",
+    "downloaded_font_files"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:27.174Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_hide_affiliate_box",
+    "*_show_affiliate_box_after",
+    "poptin_id",
+    "poptin_marketplace_token",
+    "poptin_user_id",
+    "poptin_marketplace_email_id",
+    "poptin_plugin_redirection"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:29.629Z"
+}

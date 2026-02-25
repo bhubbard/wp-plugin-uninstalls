@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bba_admin_custom_order_fields",
+    "bba_token",
+    "bba_token_expiration",
+    "woocommerce_allowed_countries",
+    "woocommerce_bbamastro_rules_settings",
+    "bba_admin_custom_order_field_next_field_id"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:56.316Z"
+}

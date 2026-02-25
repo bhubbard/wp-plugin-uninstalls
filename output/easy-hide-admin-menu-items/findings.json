@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ehami_data_install"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hide_icons_disable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:42.634Z"
+}

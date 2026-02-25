@@ -1,0 +1,21 @@
+{
+  "options": [
+    "huxloe_shipping_enable_log",
+    "huxloe_shipping_tenant_id",
+    "huxloe_shipping_api_key",
+    "huxloe_shipping_user_id",
+    "huxloe_shipping_ioss_number",
+    "huxloe_shipping_eori_number",
+    "huxloe_shipping_vat_number"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "huxloe_consigmentNumber",
+    "_hs_code",
+    "_huxloe_country_manufacturer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:22.499Z"
+}

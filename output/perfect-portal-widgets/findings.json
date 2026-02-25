@@ -1,0 +1,15 @@
+{
+  "options": [
+    "perfect_portal_company_guid",
+    "perfect_portal_region",
+    "perfect_portal_quote_calc_intake_type",
+    "perfect_portal_quote_calc_intake_guid",
+    "perfect_portal_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:58.264Z"
+}

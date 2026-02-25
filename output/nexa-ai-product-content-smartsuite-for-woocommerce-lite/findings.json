@@ -1,0 +1,24 @@
+{
+  "options": [
+    "nexaapc_settings",
+    "nexaapc_activation_time",
+    "nexaapc_review_notice_hide",
+    "nexaapc_next_show_time"
+  ],
+  "transients": [
+    "nexaapc_product_content_smartsuite_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nexaapc_product_faqs",
+    "_nexaapc_ai_*",
+    "_nexaapc_ai_tags",
+    "_nexaapc_ai_faqs",
+    "_nexaapc_ai_name",
+    "_nexaapc_ai_description",
+    "_nexaapc_ai_shortdesc"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:09.278Z"
+}

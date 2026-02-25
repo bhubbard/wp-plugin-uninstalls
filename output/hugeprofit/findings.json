@@ -1,0 +1,42 @@
+{
+  "options": [
+    "hugeprofit_api_token",
+    "hugeprofit_sync_in_progress",
+    "hugeprofit_background_token_*",
+    "hugeprofit_crm_url",
+    "hugeprofit_background_token_import",
+    "hugeprofit_background_token_export",
+    "hugeprofit_server_error",
+    "hugeprofit_integration_id",
+    "hugeprofit_cron_check",
+    "hugeprofit_cron_check_time",
+    "hugeprofit_force_alternative_method",
+    "hugeprofit_user_token",
+    "hugeprofit_user_id",
+    "hugeprofit_ident",
+    "hugeprofit_auto_sync"
+  ],
+  "transients": [
+    "hugeprofit_reference_info"
+  ],
+  "cron_jobs": [
+    "hugeprofit_export_products_batch",
+    "hugeprofit_import_products_batch",
+    "hugeprofit_auto_sync_products",
+    "hugeprofit_update_crm_url",
+    "hugeprofit_sync_single_product"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_hugeprofit_cost_price",
+    "_hugeprofit_product_id",
+    "_hugeprofit_synthetic_parent_for_hp_id",
+    "_hugeprofit_test_id",
+    "_hugeprofit_barcode",
+    "_hugeprofit_image_hash",
+    "_global_unique_id",
+    "_hugeprofit_sync_lock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:35.256Z"
+}

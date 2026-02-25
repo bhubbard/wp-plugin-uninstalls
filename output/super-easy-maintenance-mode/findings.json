@@ -1,0 +1,40 @@
+{
+  "options": [
+    "super_easy_mm_status",
+    "super_easy_mm_whitelisted_ips",
+    "super_easy_mm_whitelisted_roles",
+    "super_easy_mm_background_color",
+    "super_easy_mm_main_block_background_color",
+    "super_easy_mm_bg_opacity",
+    "super_easy_mm_text_color",
+    "super_easy_mm_button_color",
+    "super_easy_mm_button_hover_color",
+    "super_easy_mm_contact_email",
+    "super_easy_mm_copyright_text",
+    "super_easy_mm_copyright_text_color",
+    "super_easy_mm_background_image",
+    "super_easy_mm_header_text",
+    "super_easy_mm_logo",
+    "super_easy_mm_paragraph_text",
+    "super_easy_mm_button_text",
+    "super_easy_mm_paragraph_text_color",
+    "super_easy_mm_header_text_color",
+    "super_easy_mm_button_text_color",
+    "super_easy_mm_button_text_hover_color",
+    "super_easy_mm_facebook_url",
+    "super_easy_mm_twitter_url",
+    "super_easy_mm_instagram_url",
+    "super_easy_mm_linkedin_url",
+    "super_easy_mm_activated",
+    "super_easy_mm_meta_title",
+    "super_easy_mm_meta_description"
+  ],
+  "transients": [
+    "super_easy_mm_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:11.974Z"
+}

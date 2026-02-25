@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dgnts_settings",
+    "dgnts_api_key",
+    "dgnts_system_prompt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:54.434Z"
+}

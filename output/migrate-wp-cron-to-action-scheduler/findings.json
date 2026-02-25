@@ -1,0 +1,25 @@
+{
+  "options": [
+    "acswp_plugin_dismiss_rating_notice",
+    "acswp_plugin_dismiss_donate_notice",
+    "acswp_plugin_no_thanks_rating_notice",
+    "acswp_plugin_dismissed_time",
+    "acswp_plugin_no_thanks_donate_notice",
+    "acswp_plugin_dismissed_time_donate",
+    "*_notice",
+    "acswp_plugin_installed_time",
+    "acswp_settings",
+    "acswp_unique_action"
+  ],
+  "transients": [
+    "acswp-show-notice-on-activation",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:12.641Z"
+}

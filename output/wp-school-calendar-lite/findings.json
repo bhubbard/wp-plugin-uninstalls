@@ -1,0 +1,41 @@
+{
+  "options": [
+    "wpsc_options",
+    "wpsc_version",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "wpsc_flush_rules",
+    "wpsc_import_data",
+    "wpsc_import_remove_existing",
+    "wpsc_pair_group_ids",
+    "wpsc_pair_category_ids",
+    "wpsc_pair_important_date_ids",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bgcolor",
+    "_order",
+    "_calendar_options",
+    "_start_date",
+    "_end_date",
+    "_exclude_weekend",
+    "_category_id",
+    "_additional_notes",
+    "_enable_recurring"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:09.082Z"
+}

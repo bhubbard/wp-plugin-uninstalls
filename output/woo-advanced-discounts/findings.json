@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wad-options",
+    "wad_admin_notice_ignore",
+    "wad_do_activation_redirect",
+    "o-wad-subscribe",
+    "woocommerce_prices_include_tax"
+  ],
+  "transients": [
+    "wad_review_submitted",
+    "wad-hide-reviews",
+    "wad_notice_dismiss",
+    "wad-hide-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "o-discount",
+    "wad_used_discount",
+    "o-list"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:39.605Z"
+}

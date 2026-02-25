@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "am_lottieplayer_pro_load_light"
+  ],
+  "transients": [
+    "am_deactivated_notice_id"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_source_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:02.038Z"
+}

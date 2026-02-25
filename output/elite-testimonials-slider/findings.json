@@ -1,0 +1,35 @@
+{
+  "options": [
+    "sp_tf_options",
+    "et_sp_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "etsp_client_designation",
+    "etsp_client_rating",
+    "etsp_client_link",
+    "testm_shortcode_meta_box",
+    "etsp_testimonial_category",
+    "etsp_testm_quote_font_size",
+    "etsp_testm_client_font_size",
+    "etsp_testm_designation_font_size",
+    "etsp_testm_txt_color",
+    "etsp_testm_theme_color",
+    "etsp_testm_title_color",
+    "etsp_testm_rating_color",
+    "etsp_testm_navigation",
+    "etsp_testm_pagination",
+    "etsp_testm_autoplay",
+    "etsp_testm_show_rating",
+    "etsp_testm_number_of_items",
+    "etsp_testm_slide_speed",
+    "etsp_testm_pagination_speed",
+    "etsp_testm_post_per_page",
+    "etsp_testimonial_theme",
+    "testm_display_shortcode_meta_box"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:26.223Z"
+}

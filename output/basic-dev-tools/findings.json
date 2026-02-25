@@ -1,0 +1,14 @@
+{
+  "options": [
+    "basic_dev_tools_hide_admin_bar",
+    "basic_dev_tools_disable_theme_updates",
+    "basic_dev_tools_disable_plugin_updates",
+    "basic_dev_tools_disable_core_updates"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:48.946Z"
+}

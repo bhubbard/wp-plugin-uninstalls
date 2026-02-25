@@ -1,0 +1,38 @@
+{
+  "options": [
+    "opttab_api_key",
+    "opttab_auto_sync_enabled",
+    "opttab_sync_frequency",
+    "opttab_sync_content_types",
+    "opttab_conflict_resolution",
+    "opttab_debug_logging",
+    "opttab_onboarding_completed",
+    "opttab_version",
+    "opttab_access_token",
+    "opttab_user_info",
+    "opttab_refresh_token",
+    "opttab_token_expires_at",
+    "opttab_webhook_id",
+    "opttab_webhook_secret",
+    "opttab_plan_limits_backup"
+  ],
+  "transients": [
+    "opttab_oauth_state"
+  ],
+  "cron_jobs": [
+    "opttab_sync_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_opttab_geo_data",
+    "_opttab_geo_breakdown",
+    "_opttab_geo_score",
+    "_opttab_geo_analyzed",
+    "_yoast_wpseo_metadesc",
+    "_genesis_description",
+    "_opttab_geo_title",
+    "_opttab_geo_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:32.708Z"
+}

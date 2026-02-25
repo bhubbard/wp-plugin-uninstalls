@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mailmoo_smtp_host",
+    "mailmoo_smtp_port",
+    "mailmoo_smtp_auth",
+    "mailmoo_smtp_username",
+    "mailmoo_smtp_password",
+    "mailmoo_smtp_encryption",
+    "mailmoo_from_email",
+    "mailmoo_from_name",
+    "mailmoo_reply_to_email",
+    "mailmoo_reply_to_name",
+    "mailmoo_enable_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:39.909Z"
+}

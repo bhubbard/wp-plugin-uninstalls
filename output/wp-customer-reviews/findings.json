@@ -1,0 +1,43 @@
+{
+  "options": [
+    "wpcr_options",
+    "*_gotosettings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcr_migrated_to_3x",
+    "*_review_post",
+    "*_review_rating",
+    "wpcr3_enable",
+    "wpcr3_format",
+    "wpcr3_business_name",
+    "wpcr3_business_street1",
+    "wpcr3_business_city",
+    "wpcr3_business_state",
+    "wpcr3_business_zip",
+    "wpcr3_business_country",
+    "wpcr3_business_phone",
+    "wpcr3_business_url",
+    "wpcr3_product_name",
+    "wpcr3_product_brand",
+    "wpcr3_product_id",
+    "wpcr3_review_post",
+    "wpcr3_review_name",
+    "wpcr3_review_email",
+    "wpcr3_review_ip",
+    "wpcr3_review_website",
+    "wpcr3_review_title",
+    "wpcr3_review_rating",
+    "wpcr3_review_admin_response",
+    "*_hideform",
+    "*_review_ip",
+    "*_review_name",
+    "*_review_email",
+    "*_review_title",
+    "*_review_website"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:57.343Z"
+}

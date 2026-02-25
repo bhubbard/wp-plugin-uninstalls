@@ -1,0 +1,13 @@
+{
+  "options": [
+    "elementor_element_cache_ttl"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:00.691Z"
+}

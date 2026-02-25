@@ -1,0 +1,11 @@
+{
+  "options": [
+    "wee_remove_xmlrpc_methods_default_ping_status_original"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:20.700Z"
+}

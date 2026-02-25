@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ebec-install-date",
+    "ebec_initial_save_version",
+    "ebec-alreadyRated",
+    "ebec_activation_time",
+    "ebec_spare_me",
+    "ebec-v",
+    "cpfm_opt_in_choice_cool_events",
+    "classic-editor-replace"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "ebec_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:09.477Z"
+}

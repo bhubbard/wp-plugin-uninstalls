@@ -1,0 +1,38 @@
+{
+  "options": [
+    "yaml_cf_schemas",
+    "yaml_cf_global_schema",
+    "yaml_cf_template_global_schemas",
+    "yaml_cf_data_object_types",
+    "yaml_cf_data_object_entries_*",
+    "yaml_cf_global_data",
+    "yaml_cf_partial_data",
+    "yaml_cf_template_global_data",
+    "yaml_cf_template_settings",
+    "yaml_cf_tracked_posts",
+    "yaml_cf_partial_schemas"
+  ],
+  "transients": [
+    "yaml_cf_data_objects_success_*",
+    "yaml_cf_data_object_success_*",
+    "yaml_cf_invalid_global_schema_*",
+    "yaml_cf_invalid_schema_*",
+    "yaml_cf_invalid_template_global_schema_*",
+    "yaml_cf_import_error_*",
+    "yaml_cf_theme_templates",
+    "yaml_cf_templates_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yaml_cf_data",
+    "_yaml_cf_schema",
+    "_yaml_cf_use_template_global",
+    "_yaml_cf_use_template_global_fields",
+    "_wp_page_template",
+    "_yaml_cf_imported",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:09.255Z"
+}

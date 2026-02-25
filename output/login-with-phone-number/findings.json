@@ -1,0 +1,24 @@
+{
+  "options": [
+    "idehweb_lwp_settings",
+    "idehweb_lwp_settings_styles",
+    "idehweb_lwp_settings_localization",
+    "idehweb_lwp_settings_registration_fields",
+    "lwp_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "phone_number",
+    "_billing_phone",
+    "userRegisteredNow",
+    "updatedPass",
+    "activation_code_timestamp",
+    "temporary_email",
+    "activation_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:29.043Z"
+}

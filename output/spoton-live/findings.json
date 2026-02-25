@@ -1,0 +1,15 @@
+{
+  "options": [
+    "spoton_call_tracking",
+    "spoton_activate_hooks",
+    "spoton_activate_forms",
+    "spoton_key",
+    "spoton_exclude_forms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:17.167Z"
+}

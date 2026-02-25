@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sendBlogAlerts",
+    "roles_send_list",
+    "username_s",
+    "password_s",
+    "sender_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:37.076Z"
+}

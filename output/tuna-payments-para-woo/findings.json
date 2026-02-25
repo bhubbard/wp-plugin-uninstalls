@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tuna_payment_operation_mode",
+    "tuna_payment_antifraud_config",
+    "tuna_payment_allow_cartao",
+    "tuna_operation_mode",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:00.319Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "xmas_media",
+    "santas",
+    "xmas_url",
+    "xmas_mp3",
+    "xmas_ogg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:32.351Z"
+}

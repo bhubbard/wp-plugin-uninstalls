@@ -1,0 +1,20 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('address_country', 'tel_number1', 'tel_number2', 'tel_number3', 'tel_country', 'all_view', 'amJL_plugin', 'privacy', 'profile_url', 'author_image', 'alterName', 'auto_making_jsonld_installed', 'plugin', 'amJL_certification_key', 'API', 'breadcrumb_check', 'article_check', 'image_check', 'sitelink_check', 'video_value', 'howto_check', 'faq_check', 'review_check', 'profile_check', 'recipe_check', 'logo_check', 'url1', 'event_check');
+DELETE FROM wp_options WHERE option_name LIKE 'url%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('eventAttendanceMode', 'eventStatus', 'locCountry', 'faq_number', 'EventName', 'StartDate', 'EndDate', 'locName', 'locAddress', 'EventDescription', 'ingredient_number', 'howto_number', 'supply_number', 'tool_number', 'step_number', 'howto_name', 'howto_image', 'howto_time', 'total_video', 'howto_cost_passage', 'howto_cost', 'title', 'preptime', 'cooktime', 'recipe_category', 'calory', 'keyword', 'description', 'image', 'area', 'recipe_video', 'itemName', 'reviewDescription', 'reviewSku', 'reviewMpn', 'BrandName', 'ratingValue', 'PositiveNumber', 'NegativeNumber', 'itemURL', 'itemPriceCurrency', 'itemPrice', 'itemPriceValidUntil', 'itemCondition', 'itemAvailability', 'imageNumber');
+DELETE FROM wp_usermeta WHERE meta_key IN ('eventAttendanceMode', 'eventStatus', 'locCountry', 'faq_number', 'EventName', 'StartDate', 'EndDate', 'locName', 'locAddress', 'EventDescription', 'ingredient_number', 'howto_number', 'supply_number', 'tool_number', 'step_number', 'howto_name', 'howto_image', 'howto_time', 'total_video', 'howto_cost_passage', 'howto_cost', 'title', 'preptime', 'cooktime', 'recipe_category', 'calory', 'keyword', 'description', 'image', 'area', 'recipe_video', 'itemName', 'reviewDescription', 'reviewSku', 'reviewMpn', 'BrandName', 'ratingValue', 'PositiveNumber', 'NegativeNumber', 'itemURL', 'itemPriceCurrency', 'itemPrice', 'itemPriceValidUntil', 'itemCondition', 'itemAvailability', 'imageNumber');
+DELETE FROM wp_termmeta WHERE meta_key IN ('eventAttendanceMode', 'eventStatus', 'locCountry', 'faq_number', 'EventName', 'StartDate', 'EndDate', 'locName', 'locAddress', 'EventDescription', 'ingredient_number', 'howto_number', 'supply_number', 'tool_number', 'step_number', 'howto_name', 'howto_image', 'howto_time', 'total_video', 'howto_cost_passage', 'howto_cost', 'title', 'preptime', 'cooktime', 'recipe_category', 'calory', 'keyword', 'description', 'image', 'area', 'recipe_video', 'itemName', 'reviewDescription', 'reviewSku', 'reviewMpn', 'BrandName', 'ratingValue', 'PositiveNumber', 'NegativeNumber', 'itemURL', 'itemPriceCurrency', 'itemPrice', 'itemPriceValidUntil', 'itemCondition', 'itemAvailability', 'imageNumber');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('eventAttendanceMode', 'eventStatus', 'locCountry', 'faq_number', 'EventName', 'StartDate', 'EndDate', 'locName', 'locAddress', 'EventDescription', 'ingredient_number', 'howto_number', 'supply_number', 'tool_number', 'step_number', 'howto_name', 'howto_image', 'howto_time', 'total_video', 'howto_cost_passage', 'howto_cost', 'title', 'preptime', 'cooktime', 'recipe_category', 'calory', 'keyword', 'description', 'image', 'area', 'recipe_video', 'itemName', 'reviewDescription', 'reviewSku', 'reviewMpn', 'BrandName', 'ratingValue', 'PositiveNumber', 'NegativeNumber', 'itemURL', 'itemPriceCurrency', 'itemPrice', 'itemPriceValidUntil', 'itemCondition', 'itemAvailability', 'imageNumber');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'question_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'question_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'question_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'question_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'answer_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'answer_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'answer_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'answer_%';
+

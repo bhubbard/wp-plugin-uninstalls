@@ -1,0 +1,21 @@
+{
+  "options": [
+    "icf7ic",
+    "icf7ic_signals_data",
+    "icf7ic_*",
+    "active_sitewide_plugins",
+    "auto_update_plugins",
+    "auto_update_core"
+  ],
+  "transients": [
+    "update_plugins",
+    "icf7ic_lists_cache"
+  ],
+  "cron_jobs": [
+    "icf7ic_metrics_heartbeat"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:19.403Z"
+}

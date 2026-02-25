@@ -1,0 +1,43 @@
+{
+  "options": [
+    "family_tree_category_key",
+    "family_tree_link",
+    "show_biodata_on_posts_page",
+    "family_tree_toolbar_blogpage",
+    "family_tree_toolbar_treenav",
+    "showcreditlink",
+    "bOneNamePerLine",
+    "bOnlyFirstName",
+    "bBirthAndDeathDates",
+    "bConcealLivingDates",
+    "bShowSpouse",
+    "bShowOneSpouse",
+    "bVerticalSpouses",
+    "bMaidenName",
+    "bShowGender",
+    "bDiagonalConnections",
+    "bRefocusOnClick",
+    "bShowToolbar",
+    "canvasbgcol",
+    "nodeoutlinecol",
+    "nodefillcol",
+    "nodefillopacity",
+    "nodetextcolour",
+    "nodecornerradius",
+    "nodeminwidth",
+    "generationheight"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gender",
+    "father",
+    "mother",
+    "spouse",
+    "born",
+    "died"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:31.889Z"
+}

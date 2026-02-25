@@ -1,0 +1,25 @@
+{
+  "options": [
+    "suffice_toolkit_admin_notices",
+    "suffice_toolkit_admin_notice_*",
+    "suffice_toolkit_db_version",
+    "suffice_toolkit_permalinks",
+    "suffice_toolkit_admin_footer_text_rated",
+    "suffice_toolkit_version",
+    "suffice_toolkit_custom_sidebars"
+  ],
+  "transients": [
+    "st_installing",
+    "_suffice_activation_redirect",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "layout_type",
+    "layout_desc",
+    "_example_cb"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:12.841Z"
+}

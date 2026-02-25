@@ -1,0 +1,33 @@
+{
+  "options": [
+    "*options",
+    "mu_media_buttons",
+    "*map-width",
+    "*map-height",
+    "*map-address",
+    "*map-latitude",
+    "*map-longitude",
+    "*map-zoom",
+    "*map-type",
+    "*map-type-control",
+    "*map-navigation-control",
+    "*map-info-window-width",
+    "*marker-clustering",
+    "*cluster-max-zoom",
+    "*cluster-grid-size",
+    "*cluster-style",
+    "*map-api-key",
+    "*geocoding-api-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*address",
+    "*latitude",
+    "*longitude",
+    "*zIndex"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:14.332Z"
+}

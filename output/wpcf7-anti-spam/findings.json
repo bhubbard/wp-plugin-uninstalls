@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpcf7_antispam_pass",
+    "wpcf7_antispam_hash",
+    "wpcf7_antispam_collector",
+    "wpcf7_antispam_mail_smtp_host",
+    "wpcf7_antispam_mail_smtp_port",
+    "wpcf7_antispam_mail_smtp_login",
+    "wpcf7_antispam_mail_smtp_pass",
+    "wpcf7_antispam_mail_sender",
+    "wpcf7_antispam_mail_recipient",
+    "wpcf7_antispam_mail_cc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:30.453Z"
+}

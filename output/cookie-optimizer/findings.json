@@ -1,0 +1,32 @@
+{
+  "options": [
+    "cookie_opt_banner_active",
+    "cookie_opt_id",
+    "cookie_opt_do_not_sell_page",
+    "cookie_opt_first_setting",
+    "cookie_opt_statistics",
+    "cookie_opt_geolocation_setting",
+    "cookie_opt_version",
+    "cookie_opt_views",
+    "cookie_opt_deactivation"
+  ],
+  "transients": [
+    "msg-cookie-opt",
+    "validate-err",
+    "successUpdate",
+    "packageUser",
+    "successDelate",
+    "errorsForUpdate",
+    "errorsForCreate",
+    "successCreate"
+  ],
+  "cron_jobs": [
+    "opt_cookie_id_check_daily_event",
+    "cookie_opt_check_daily_event",
+    "opt_cookie_my_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:01.998Z"
+}

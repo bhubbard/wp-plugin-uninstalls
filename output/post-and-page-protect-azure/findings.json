@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_ad_protect_*",
+    "sm_session_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_session_garbage_collection"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_azure_ad_protect_enabled",
+    "_azure_ad_protect_directory_id",
+    "_azure_ad_protect_application_id",
+    "_azure_ad_protect_application_secret"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:47.568Z"
+}

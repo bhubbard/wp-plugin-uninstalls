@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'hide_main_nav'
+wp option delete 'hide_site_name'
+wp option delete 'hide_login_signup'
+wp option delete 'hide_visit_random'
+wp option delete 'scroll_with_pages'
+wp option delete 'add_wp_pages'
+wp option delete 'add_bp_components'
+wp option delete 'page_link_dropdown'
+wp option delete 'bp_community_links'
+wp option delete 'list_pages_dropdown'
+wp option delete 'main_background_color'
+wp option delete 'sub_background_color'
+wp option delete 'main_text_color'
+wp option delete 'link_hover_color'
+wp option delete 'nav_back_color'
+wp option delete 'sub_item_width'
+wp option delete 'main_item_padding'
+wp option delete 'menu_border_color'
+wp option delete 'overall_navbar_width'
+wp option delete 'overall_item_height'
+wp option delete 'submenu_top_margin'
+wp option delete 'navbar_vertical_offset'
+wp option delete 'navbar_horizontal_offset'
+wp option delete 'item_font_family'
+wp option delete 'item_font_size'
+wp option delete 'item_font_style'
+wp option delete 'item_font_weight'
+wp option delete 'bp-disable-forum-directory'
+

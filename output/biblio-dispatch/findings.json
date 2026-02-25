@@ -1,0 +1,13 @@
+{
+  "options": [
+    "biblio_dispatch_license_key_email",
+    "biblio_dispatch_license_key",
+    "biblio_dispatch_license_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:56.776Z"
+}

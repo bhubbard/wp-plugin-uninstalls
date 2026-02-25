@@ -1,0 +1,30 @@
+{
+  "options": [
+    "contentad_api_key",
+    "contentad_install_key",
+    "contentad_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ca_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "placement",
+    "_ca_widget_inactive",
+    "_ca_display_cat_tag",
+    "_ca_display_home",
+    "_excluded_categories",
+    "_excluded_tags",
+    "_widget_guid",
+    "_widget_id",
+    "_thumbnail_id",
+    "_widget_type",
+    "_widget_exit_pop",
+    "_widget_mobile_exit_pop",
+    "exclude_tags",
+    "exclude_cats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:57.940Z"
+}

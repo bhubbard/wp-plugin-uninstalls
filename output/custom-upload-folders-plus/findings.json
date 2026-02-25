@@ -1,0 +1,16 @@
+{
+  "options": [
+    "jwcuf_select",
+    "jwcuf_default_folder_name",
+    "jwcuf_file_types",
+    "jwcuf_user_folder_name",
+    "jwcuf_uploads_use_yearmonth_folders",
+    "jwcuf_use_blogname_folders"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:12.174Z"
+}

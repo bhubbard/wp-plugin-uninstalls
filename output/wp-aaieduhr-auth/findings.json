@@ -1,0 +1,15 @@
+{
+  "options": [
+    "illegal_names",
+    "limited_email_domains",
+    "wp_aaieduhr_auth_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aaieduhr_account"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:48.136Z"
+}

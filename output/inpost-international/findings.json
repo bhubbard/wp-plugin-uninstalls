@@ -1,0 +1,36 @@
+{
+  "options": [
+    "inpost_intl_code_verifier",
+    "inpost_intl_code_challenge",
+    "inpost_international_connection_timeout",
+    "inpost_international_settings_merchant",
+    "inpost_international_settings_auth",
+    "inpost_international_only_for_admins",
+    "inpost_international_settings_products",
+    "woocommerce_custom_orders_table_enabled",
+    "inpost_international_settings_sending",
+    "inpost_international_settings_dispatch_points",
+    "inpost_international_settings_geowidget",
+    "active_sitewide_plugins",
+    "*_settings",
+    "*_template_rates",
+    "*_rates",
+    "woocommerce_default_country",
+    "easypack_geowidget_production_token",
+    "easypack_geowidget_sandbox_token",
+    "inpost_intl_activated",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [
+    "inpost_intl_api_token_refreshing"
+  ],
+  "cron_jobs": [
+    "inpost_intl_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "inpost_international_parcel_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:53.469Z"
+}

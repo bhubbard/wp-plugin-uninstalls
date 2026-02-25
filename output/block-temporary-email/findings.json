@@ -1,0 +1,18 @@
+{
+  "options": [
+    "istempmail_token",
+    "istempmail_blocked_list",
+    "istempmail_whitelist",
+    "istempmail_blacklist",
+    "istempmail_check",
+    "istempmail_check_scope",
+    "istempmail_ignored_uris",
+    "istempmail_ignored_payload"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:50.458Z"
+}

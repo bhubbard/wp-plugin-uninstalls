@@ -1,0 +1,24 @@
+{
+  "options": [
+    "apcm_plugin_options_logger",
+    "apcm_plugin_options_adminbar",
+    "apcm_plugin_options_usecdn",
+    "apcm_plugin_options_nag",
+    "apcm_plugin_features_earlyloading",
+    "apcm_plugin_features_gc",
+    "apcm_plugin_features_analytics",
+    "apcm_plugin_features_history",
+    "apcm_plugin_features_metrics",
+    "apcm_earlyloading",
+    "apcm_forceearlyloading",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:06.165Z"
+}

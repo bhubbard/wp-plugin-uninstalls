@@ -1,0 +1,27 @@
+{
+  "options": [
+    "gdpr-custom-robots",
+    "gdpr-use-custom-url",
+    "gdpr-custom-url",
+    "gdpr-background-image",
+    "gdpr_display_mode",
+    "gdpr_compact_position",
+    "gdpr_compact_display",
+    "gdpr_sample_posts",
+    "orcas-nagger",
+    "orcas_pro_extension",
+    "orcas_upgrade_token",
+    "orcas_installed_single_extension"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "page_type",
+    "language",
+    "version",
+    "gdpr_accepted"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:05.616Z"
+}

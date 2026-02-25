@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_kco_settings",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_vipps_recurring_checkout_page_id",
+    "woocommerce_prices_include_tax",
+    "woocommerce_vipps_recurring_settings",
+    "woo-vipps-recurring-version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "cancel_subscription_lock*",
+    "maybe_cancel_due_charge_lock*",
+    "_vipps_recurring_token"
+  ],
+  "cron_jobs": [
+    "woocommerce_vipps_recurring_delete_pending_order",
+    "woocommerce_vipps_recurring_check_order_statuses",
+    "woocommerce_vipps_recurring_check_gateway_change_request",
+    "woocommerce_vipps_recurring_update_subscription_details_in_app",
+    "woocommerce_vipps_recurring_check_orders_marked_for_deletion"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:37.606Z"
+}

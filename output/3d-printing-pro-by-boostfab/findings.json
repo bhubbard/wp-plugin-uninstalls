@@ -1,0 +1,15 @@
+{
+  "options": [
+    "boostfab_api_token",
+    "boostfab_organization_slug",
+    "boostfab_cookie_policy",
+    "boostfab_primary_color",
+    "boostfab_sample_quotation_page_created"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:52.620Z"
+}

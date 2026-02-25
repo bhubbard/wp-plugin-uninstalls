@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_cart_redirect_after_add', 'hpy_cs_destination', 'hpy_cs_custom_link', 'hpy_cs_custom_text', 'woocommerce_shop_page_id', 'woocommerce_permalinks', 'hpy_cs_empty_cart_notice', 'hpy_cs_empty_cart_text', 'hpy_cs_permanent_cart_notice', 'hpy_cs_trigger_on_update', 'hpy_cs_settings', 'recent_cat');
+

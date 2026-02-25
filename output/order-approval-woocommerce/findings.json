@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sg_oa_woo_manage_inventory",
+    "woocommerce_woa_gateway_settings",
+    "sg_enable_order_edit",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:37.818Z"
+}

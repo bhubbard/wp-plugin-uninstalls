@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wally_api_key",
+    "wally_widget_enabled",
+    "wally_autosync_enabled",
+    "wally_sync_consent",
+    "_transient_timeout_*",
+    "wally_batch_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:21.626Z"
+}

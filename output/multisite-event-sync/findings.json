@@ -1,0 +1,15 @@
+{
+  "options": [
+    "multisite_event_sync_sites"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "multisite_event_sync_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_imported_from_subsite"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:23.015Z"
+}

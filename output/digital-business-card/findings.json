@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rnd_digi_desgi",
+    "rnd_digi_company",
+    "rnd_digi_address",
+    "rnd_digi_email",
+    "rnd_digi_website",
+    "rnd_digi_phone",
+    "rnd_digi_telphone",
+    "rnd_digi_whatsapp",
+    "rnd_digi_fax",
+    "rnd_digi_facebook",
+    "rnd_digi_twitter",
+    "rnd_digi_linkedin",
+    "rnd_digi_insta",
+    "rnd_digi_youtube",
+    "gallery_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:31.974Z"
+}

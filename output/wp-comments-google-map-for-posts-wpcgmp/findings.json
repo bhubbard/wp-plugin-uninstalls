@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpcgmp_gmaps_api",
+    "wpcgmp_ipinfodb_api",
+    "wpcgmp_marker",
+    "wpcgmp_count_marker",
+    "wpcgmp_zoom",
+    "wpcgmp_coord_lat",
+    "wpcgmp_coord_lon",
+    "wpcgmp_map_display",
+    "wpcgmp_no_comment_text",
+    "wpcgmp_map_width",
+    "wpcgmp_map_height",
+    "post_category"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:29.225Z"
+}

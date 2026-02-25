@@ -1,0 +1,19 @@
+{
+  "options": [
+    "api",
+    "key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "meta-address-text",
+    "meta-zip-text",
+    "meta-city-text",
+    "meta-state-text",
+    "meta-lng-text",
+    "meta-lat-text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:10.865Z"
+}

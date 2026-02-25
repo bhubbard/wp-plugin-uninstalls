@@ -1,0 +1,24 @@
+{
+  "options": [
+    "metorik_importing_currently",
+    "woocommerce_registration_generate_username",
+    "woocommerce_registration_generate_password",
+    "metorik_cart_settings",
+    "metorik_checkout_url",
+    "metorik_show_activation_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_metorik_cart_token",
+    "_metorik_customer_email_opt_out",
+    "_metorik_pending_recovery",
+    "_metorik_engage",
+    "_metorik_source_type",
+    "_metorik_referer",
+    "_metorik_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:10.857Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "akia_chat_website_token",
+    "akia_chat_office_name",
+    "akia_chat_powered_by_acknowledged"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:00.616Z"
+}

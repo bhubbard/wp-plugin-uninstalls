@@ -1,0 +1,23 @@
+{
+  "options": [
+    "avang-email-sender-basename",
+    "avang-email-subscribe-basename",
+    "avangemail_plugin_dir_name",
+    "avangemail_options",
+    "avangemail_send-email-type",
+    "avangemail_config_from_name",
+    "avangemail_config_from_email",
+    "avangemail_from_email",
+    "avangemail_config_override_wooCommerce",
+    "avangemail_config_woocommerce_original_email",
+    "avangemail_config_woocommerce_original_name",
+    "woocommerce_email_from_address",
+    "woocommerce_email_from_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:25.961Z"
+}

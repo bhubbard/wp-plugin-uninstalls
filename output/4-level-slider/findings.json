@@ -1,0 +1,26 @@
+{
+  "options": [
+    "fls_background_color",
+    "fls_text_color",
+    "fls_circle_color",
+    "fls_circle_active_color",
+    "fls_slide_1_title",
+    "flsslider_one_1_link",
+    "flsslider_one_1_img",
+    "fls_slide_2_title",
+    "flsslider_one_2_link",
+    "flsslider_one_2_img",
+    "fls_slide_3_title",
+    "flsslider_one_3_link",
+    "flsslider_one_3_img",
+    "fls_slide_4_title",
+    "flsslider_one_4_link",
+    "flsslider_one_4_img"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:09.473Z"
+}

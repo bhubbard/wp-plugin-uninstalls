@@ -1,0 +1,40 @@
+{
+  "options": [
+    "wsdesk_version_*",
+    "wsdesk_pack",
+    "wsdesk_setup_wizard",
+    "elex_last_scheduled_time",
+    "wsdesk_agent_common_signature",
+    "wsdesk_scheduled_triggers",
+    "wsdesk_support_page",
+    "wsdesk_pay_for_detection_rule",
+    "*pay_forsupport_child_of_parent",
+    "*wsdesk_pay_for_detection_got",
+    "*wsdesk_pay_for_support_histry",
+    "wsdesk_pay_for_support_complete_history",
+    "wsdesk_activation_status",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again",
+    "*_email",
+    "*_licence_key",
+    "*_instance_id",
+    "*_activation_status"
+  ],
+  "transients": [
+    "_wsdesk_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [
+    "start_scheduled_trigger_cron",
+    "crm_email_crawler"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wsdesk_tags",
+    "wsdesk_agent_signature",
+    "child_users_list",
+    "wsdesk_sms_phone_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:12.150Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "vigia_aiss_tip_dismissed",
+    "vigia_db_version",
+    "vigia_flush_rewrite",
+    "vigia_activation_notice",
+    "vigia_blocked_crawlers",
+    "vigia_robots_rules",
+    "vigia_email_settings",
+    "vigia_llms_settings",
+    "vigia_settings",
+    "vigia_custom_crawlers",
+    "vigia_blocked_items",
+    "vigia_markdown_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vigia_send_email_alerts",
+    "vigia_daily_cleanup",
+    "vigia_llms_regenerate"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_meta-robots-noindex",
+    "rank_math_robots",
+    "_aioseo_noindex",
+    "_seopress_robots_index",
+    "_genesis_noindex"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:49.799Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "ibanwpf_licenses",
+    "ibanwpf_reviews_installed_on"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ibanwpf_reviews_dismissed_triggers",
+    "_ibanwpf_reviews_last_dismissed",
+    "_ibanwpf_reviews_already_did"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:05.658Z"
+}

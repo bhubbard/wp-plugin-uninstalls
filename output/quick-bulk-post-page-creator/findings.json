@@ -1,0 +1,14 @@
+{
+  "options": [
+    "qbppc_entries",
+    "qbppc_hierarchy_indent_character",
+    "qbppc_post_type",
+    "qbppc_post_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:26.637Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "job_manager_google_maps_api_key",
+    "job_manager_submission_duration",
+    "*_ignore",
+    "*_notice_ignore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geolocated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:27.079Z"
+}

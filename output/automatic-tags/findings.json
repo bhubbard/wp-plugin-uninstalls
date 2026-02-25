@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpat_api_key",
+    "wpat_capital_strategy_cat",
+    "wpat_capital_strategy_tag",
+    "wpat_ignore_prior"
+  ],
+  "transients": [
+    "wpat_activation_admin_notice_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:27.767Z"
+}

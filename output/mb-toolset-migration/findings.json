@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wpcf-fields",
+    "wpcf-termmeta",
+    "wpcf-usermeta",
+    "wpcf-custom-types",
+    "wpcf-custom-taxonomies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_types_repeatable_field_group_post_type",
+    "_wp_types_group_fields",
+    "toolset-post-sortorder",
+    "meta_box",
+    "meta_box_id",
+    "settings",
+    "_wp_types_group_post_types",
+    "_wp_types_associated_taxonomy",
+    "_wp_types_group_showfor",
+    "fields",
+    "relationship"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:59.866Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "kk_postoption_ff",
+    "kk_message_ff"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ff_rolekadmin",
+    "ff_role_alowk"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:26.179Z"
+}

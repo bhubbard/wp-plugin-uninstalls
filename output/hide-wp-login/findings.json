@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hmwl_hide_option",
+    "hmwl_slug_name",
+    "hmwl_login_key",
+    "hmwl_redirect_slug",
+    "hmwl_hide_elementor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:11.380Z"
+}

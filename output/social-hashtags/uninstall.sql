@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('social_hashtag_user_link', 'social_hashtag_userhandle', 'social_hashtag_post_link', 'social_hashtag_platform', 'social_hashtag_thumb_url', 'social_hashtag_full_url', 'social_hashtag_thumb_imagesize', 'social_hashtag_sha', 'social_hashtag_location', 'social_hashtag_timestamp', 'social_hashtag_vid_embed', 'social_hashtag_full_imagesize', '_wp_attached_file');
+DELETE FROM wp_usermeta WHERE meta_key IN ('social_hashtag_user_link', 'social_hashtag_userhandle', 'social_hashtag_post_link', 'social_hashtag_platform', 'social_hashtag_thumb_url', 'social_hashtag_full_url', 'social_hashtag_thumb_imagesize', 'social_hashtag_sha', 'social_hashtag_location', 'social_hashtag_timestamp', 'social_hashtag_vid_embed', 'social_hashtag_full_imagesize', '_wp_attached_file');
+DELETE FROM wp_termmeta WHERE meta_key IN ('social_hashtag_user_link', 'social_hashtag_userhandle', 'social_hashtag_post_link', 'social_hashtag_platform', 'social_hashtag_thumb_url', 'social_hashtag_full_url', 'social_hashtag_thumb_imagesize', 'social_hashtag_sha', 'social_hashtag_location', 'social_hashtag_timestamp', 'social_hashtag_vid_embed', 'social_hashtag_full_imagesize', '_wp_attached_file');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('social_hashtag_user_link', 'social_hashtag_userhandle', 'social_hashtag_post_link', 'social_hashtag_platform', 'social_hashtag_thumb_url', 'social_hashtag_full_url', 'social_hashtag_thumb_imagesize', 'social_hashtag_sha', 'social_hashtag_location', 'social_hashtag_timestamp', 'social_hashtag_vid_embed', 'social_hashtag_full_imagesize', '_wp_attached_file');
+

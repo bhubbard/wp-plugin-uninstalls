@@ -1,0 +1,15 @@
+{
+  "options": [
+    "webclp_background_type",
+    "webclp_background_image",
+    "webclp_gradient_color_1",
+    "webclp_gradient_color_2",
+    "webclp_custom_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:01.963Z"
+}

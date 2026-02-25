@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_oca_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sucursal_pv_centro_oca_estandar",
+    "sucursal_oca_c",
+    "chosen_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:16.487Z"
+}

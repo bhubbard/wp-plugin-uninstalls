@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wilapp_options"
+  ],
+  "transients": [
+    "wilapp_query_professional"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:03.276Z"
+}

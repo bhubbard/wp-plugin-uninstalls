@@ -1,0 +1,44 @@
+{
+  "options": [
+    "helpie-faq",
+    "helpie_faq_slug_updated",
+    "helpie_faq_slug_changed_from",
+    "helpie_faq_group_slug_changed_from",
+    "helpie_version",
+    "helpie_upgrades",
+    "tablesome_version",
+    "tablesome_upgrades",
+    "csf_demo_mode",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "helpie_faq/track_events",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "order",
+    "click_counter",
+    "faq_group_settings",
+    "helpie_menu_settings",
+    "helpie_woo_metabox",
+    "helpie_faq_group_items",
+    "question_types",
+    "helpie_faq_group_old_terms",
+    "dismissed_wp_pointers",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:37.889Z"
+}

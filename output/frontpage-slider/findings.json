@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "prva",
+    "druga",
+    "treca",
+    "cetvrta",
+    "peta",
+    "selectSlideTheme",
+    "fpsl_number_of_slides",
+    "fpNaslov",
+    "fp_products",
+    "wishlist",
+    "compare",
+    "_product_image_gallery",
+    "selectCat",
+    "leftRight",
+    "preporucujemo",
+    "selected_products"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:53.523Z"
+}

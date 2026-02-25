@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wp_vc_setting_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpvc_coupon_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "vc_unique_promo_id",
+    "*coupon-code-text",
+    "*deal-button-text",
+    "*coupon-type",
+    "*discount-text",
+    "*hide-coupon",
+    "*link",
+    "*description",
+    "*show-expiration",
+    "*expire-date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:55.431Z"
+}

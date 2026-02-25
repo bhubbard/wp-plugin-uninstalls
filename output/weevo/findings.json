@@ -1,0 +1,14 @@
+{
+  "options": [
+    "weevosdd_access_token",
+    "weevosdd_username"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tracking_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:46.617Z"
+}

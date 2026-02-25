@@ -1,0 +1,30 @@
+{
+  "options": [
+    "mop_ai_indexer_config",
+    "mop_ai_indexer_iset",
+    "mop_ai_indexer_last_generated",
+    "mop_ai_indexer_last_generated_file",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "mop_ai_indexer_exclude",
+    "_wp_robots_noindex",
+    "_wp_robots_nofollow",
+    "_wp_robots",
+    "_yoast_wpseo_meta-robots-noindex",
+    "_yoast_wpseo_meta-robots-nofollow",
+    "_yoast_wpseo_meta-robots-adv",
+    "rank_math_robots",
+    "_seopress_robots_index",
+    "_seopress_robots_follow",
+    "_aioseo_noindex",
+    "_aioseo_nofollow"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:50.653Z"
+}

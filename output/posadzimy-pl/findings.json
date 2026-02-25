@@ -1,0 +1,19 @@
+{
+  "options": [
+    "posadzimy_do_activation_redirect",
+    "woocommerce_custom_orders_table_enabled",
+    "posadzimy_balance",
+    "woocommerce_calc_taxes"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "posadzimy_balance_cron_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "shipping_first_name",
+    "shipping_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:35.992Z"
+}

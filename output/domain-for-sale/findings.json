@@ -1,0 +1,26 @@
+{
+  "options": [
+    "domain_for_sale_version",
+    "domain_for_sale_first_version",
+    "domain_for_sale_activation_date",
+    "domain_for_sale_db_version",
+    "dfs-opt",
+    "domain_for_sale_review_notice_dismiss",
+    "themeatelier_offer_banner_dismissed_*"
+  ],
+  "transients": [
+    "themeatelier_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dfs_template_options",
+    "dfs_layouts",
+    "_dfs_errors_*",
+    "domain_for_sale_view_options",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:09.229Z"
+}

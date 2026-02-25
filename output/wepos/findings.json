@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "we_pos_version",
+    "woocommerce_myaccount_page_id",
+    "we_pos_installed",
+    "woocommerce_registration_generate_username",
+    "woocommerce_registration_generate_password",
+    "woocommerce_tax_display_shop",
+    "woocommerce_tax_display_cart",
+    "woocommerce_prices_include_tax"
+  ],
+  "transients": [
+    "wepos-flush-rewrites"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:55.941Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "modern_fields_shorthand_functions",
+    "modern_fields_color_palette",
+    "modern_fields_test"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mf_location",
+    "mf_scope",
+    "mf_targets",
+    "mf_roles",
+    "mf_settings",
+    "mf_position",
+    "mf_cpt",
+    "fields_count",
+    "_wp_attachment_image_alt",
+    "first_name",
+    "last_name",
+    "mf_group_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:54.258Z"
+}

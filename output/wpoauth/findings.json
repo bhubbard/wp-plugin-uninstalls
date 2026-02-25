@@ -1,0 +1,16 @@
+{
+  "options": [
+    "secuforoauth_providers",
+    "secuforoauth_user_providers",
+    "secuforoauth_is_installed",
+    "secuforoauth_is_alone",
+    "secuforoauth_user_login",
+    "secuforoauth_login_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:55.477Z"
+}

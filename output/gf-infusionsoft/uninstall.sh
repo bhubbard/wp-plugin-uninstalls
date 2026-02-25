@@ -1,0 +1,15 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_debug'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_version'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_lists'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_updates'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_settings'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_crm'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_meta'"
+wp option delete 'recently_activated'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_msg'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_install_data'"
+

@@ -1,0 +1,15 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('melipayamak_2fa_text', 'melipayamak_admin', 'melipayamak_comment_text', 'melipayamak_comment', 'melipayamak_2fa', 'melipayamak_register_text', 'melipayamak_register', 'melipayamak_login_text', 'melipayamak_login', 'melipayamak_edd_text', 'melipayamak_edd', 'melipayamak_wc2', 'melipayamak_wc2_text', 'melipayamak_wc', 'melipayamak_wc_text', 'melipayamak_wc3', 'melipayamak_wc3_text', 'melipayamak_wc4', 'melipayamak_wc4_text', 'melipayamak_wc5_text', 'melipayamak_wc5', 'melipayamak_wc_mobile_verification', 'woocommerce_myaccount_page_id', 'melipayamak_wc_mobile_verification_text', 'melipayamak_send_text', 'melipayamak_send', 'melipayamak_cf7', 'melipayamak_gravity_forms', 'melipayamak_code', 'melipayamak_code_text', 'melipayamak_sync', 'melipayamak_group', 'melipayamak_welcome', 'melipayamak_welcome_text', 'melipayamak_nregister', 'melipayamak_nregister_text', 'melipayamak_mfield', 'melipayamak_register2', 'melipayamak_register2_text', 'melipayamak_lostpw', 'melipayamak_lostpw_text', 'melipayamak_update_period', 'melipayamak_username', 'melipayamak_password', 'melipayamak_tel', 'melipayamak_update', 'melipayamak_groups', 'melipayamak_sig', 'melipayamak_use_voice', 'melipayamak_credit');
+DELETE FROM wp_options WHERE option_name IN ('melipayamak_page', 'melipayamak_iborder', 'melipayamak_ihborder', 'melipayamak_sbg', 'melipayamak_shbg', 'melipayamak_sborder', 'melipayamak_shborder', 'melipayamak_fontc', 'melipayamak_cfontc', 'melipayamak_fonts', 'melipayamak_fontm', 'melipayamak_form', 'melipayamak_border', 'melipayamak_radius', 'melipayamak_ilbg', 'melipayamak_ilhbg', 'melipayamak_ibg', 'melipayamak_ihbg', 'melipayamak_last_version', 'melipayamak_widget');
+DELETE FROM wp_options WHERE option_name LIKE 'wpcf7_melipayamak_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wpcf7_melipayamak_mobile_field_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wpcf7_melipayamak_user_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('mpmobile', 'mp_wc_new_sms_sent', 'mp_last_verified_mobile', 'billing_phone', 'mp_verification_code', 'billing_first_name', 'billing_last_name');
+DELETE FROM wp_usermeta WHERE meta_key IN ('mpmobile', 'mp_wc_new_sms_sent', 'mp_last_verified_mobile', 'billing_phone', 'mp_verification_code', 'billing_first_name', 'billing_last_name');
+DELETE FROM wp_termmeta WHERE meta_key IN ('mpmobile', 'mp_wc_new_sms_sent', 'mp_last_verified_mobile', 'billing_phone', 'mp_verification_code', 'billing_first_name', 'billing_last_name');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('mpmobile', 'mp_wc_new_sms_sent', 'mp_last_verified_mobile', 'billing_phone', 'mp_verification_code', 'billing_first_name', 'billing_last_name');
+

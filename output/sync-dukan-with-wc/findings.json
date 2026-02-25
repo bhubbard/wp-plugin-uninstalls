@@ -1,0 +1,22 @@
+{
+  "options": [
+    "dukan_access_code",
+    "dukan_connection",
+    "dukan_cron",
+    "dukan_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_visibility",
+    "_stock",
+    "_regular_price",
+    "_price",
+    "_stock_status",
+    "_sku",
+    "_dukan_order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:07.684Z"
+}

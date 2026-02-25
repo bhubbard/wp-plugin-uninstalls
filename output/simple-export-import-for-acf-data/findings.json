@@ -1,0 +1,19 @@
+{
+  "options": [
+    "seip_background_import_status",
+    "seip_settings",
+    "seip_license_key",
+    "seip_bulk_settings",
+    "_*",
+    "seip_export_file",
+    "seip_subscription"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:30.112Z"
+}

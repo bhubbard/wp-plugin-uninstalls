@@ -1,0 +1,118 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('bp_starting_points');
+delete_site_option('bp_starting_points');
+delete_option('bp_close_bets');
+delete_site_option('bp_close_bets');
+delete_option('bp_min_stake');
+delete_site_option('bp_min_stake');
+delete_option('bp_max_stake');
+delete_site_option('bp_max_stake');
+delete_option('bp_sport_title_bg_color');
+delete_site_option('bp_sport_title_bg_color');
+delete_option('bp_sport_title_text_color');
+delete_site_option('bp_sport_title_text_color');
+delete_option('bp_sport_container_bg_color');
+delete_site_option('bp_sport_container_bg_color');
+delete_option('bp_event_title_bg_color');
+delete_site_option('bp_event_title_bg_color');
+delete_option('bp_event_title_text_color');
+delete_site_option('bp_event_title_text_color');
+delete_option('bp_event_container_bg_color');
+delete_site_option('bp_event_container_bg_color');
+delete_option('bp_bet_event_title_bg_color');
+delete_site_option('bp_bet_event_title_bg_color');
+delete_option('bp_bet_event_title_text_color');
+delete_site_option('bp_bet_event_title_text_color');
+delete_option('bp_cat_title_bg_color');
+delete_site_option('bp_cat_title_bg_color');
+delete_option('bp_cat_title_text_color');
+delete_site_option('bp_cat_title_text_color');
+delete_option('bp_cat_container_bg_color');
+delete_site_option('bp_cat_container_bg_color');
+delete_option('bp_button_bg_color');
+delete_site_option('bp_button_bg_color');
+delete_option('bp_button_text_color');
+delete_site_option('bp_button_text_color');
+delete_option('bp_featured_heading_bg_color');
+delete_site_option('bp_featured_heading_bg_color');
+delete_option('bp_featured_heading_text_color');
+delete_site_option('bp_featured_heading_text_color');
+delete_option('bp_featured_name_bg_color');
+delete_site_option('bp_featured_name_bg_color');
+delete_option('bp_featured_name_text_color');
+delete_site_option('bp_featured_name_text_color');
+delete_option('bp_featured_button_bg_color');
+delete_site_option('bp_featured_button_bg_color');
+delete_option('bp_featured_button_text_color');
+delete_site_option('bp_featured_button_text_color');
+delete_option('bp_lb_table_text_color');
+delete_site_option('bp_lb_table_text_color');
+delete_option('bp_lb_heading_bg_color');
+delete_site_option('bp_lb_heading_bg_color');
+delete_option('bp_lb_odd_bg_color');
+delete_site_option('bp_lb_odd_bg_color');
+delete_option('bp_lb_even_bg_color');
+delete_site_option('bp_lb_even_bg_color');
+delete_option('bp_slip_heading_bg_color');
+delete_site_option('bp_slip_heading_bg_color');
+delete_option('bp_slip_heading_text_color');
+delete_site_option('bp_slip_heading_text_color');
+delete_option('bp_slip_row_bg_color');
+delete_site_option('bp_slip_row_bg_color');
+delete_option('bp_slip_row_text_color');
+delete_site_option('bp_slip_row_text_color');
+delete_option('bp_slip_subrow_bg_color');
+delete_site_option('bp_slip_subrow_bg_color');
+delete_option('bp_slip_subrow_text_color');
+delete_site_option('bp_slip_subrow_text_color');
+delete_option('bp_one_win_per_cat');
+delete_site_option('bp_one_win_per_cat');
+delete_option('bp_default_odd_type');
+delete_site_option('bp_default_odd_type');
+delete_option('bp_only_int_stakes');
+delete_site_option('bp_only_int_stakes');
+delete_option('bp_paypal_mail');
+delete_site_option('bp_paypal_mail');
+delete_option('bp_max_points_to_buy');
+delete_site_option('bp_max_points_to_buy');
+delete_option('bp_max_allowed_points');
+delete_site_option('bp_max_allowed_points');
+delete_option('bp_paypal_url_fail');
+delete_site_option('bp_paypal_url_fail');
+delete_option('bp_paypal_token');
+delete_site_option('bp_paypal_token');
+delete_option('bp_paypal_sandbox');
+delete_site_option('bp_paypal_sandbox');
+delete_option('bp_paypal_success_message');
+delete_site_option('bp_paypal_success_message');
+delete_option('bp_paypal_error_message');
+delete_site_option('bp_paypal_error_message');
+delete_option('bp_paypal_txn_ids');
+delete_site_option('bp_paypal_txn_ids');
+delete_option('bp_db_version');
+delete_site_option('bp_db_version');
+delete_option('bp_pages_inserted');
+delete_site_option('bp_pages_inserted');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'bp_points' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'bp_points' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'bp_points' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'bp_points' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'bp_points_buyed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'bp_points_buyed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'bp_points_buyed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'bp_points_buyed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'bp_odd_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'bp_odd_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'bp_odd_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'bp_odd_type' ) );
+

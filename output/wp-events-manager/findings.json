@@ -1,0 +1,46 @@
+{
+  "options": [
+    "tp_event_meta_box_error_messages",
+    "thimpress_events",
+    "blog_name",
+    "thimpress-event-version",
+    "thimpress_events_show_remove_event_auth_notice",
+    "*_paypal_sanbox_email",
+    "*_paypal_email",
+    "*_paypal_enable",
+    "thimpress_events_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tp_event_schedule_status",
+    "tp_event_cancel_payment_booking",
+    "wpems_cancel_payment_booking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ea_user_approved",
+    "ea_booking_note",
+    "tp_event_status",
+    "tp_event_date_start",
+    "tp_event_date_end",
+    "thimpress_event_auth_quantity",
+    "thimpress_event_auth_cost",
+    "tp_event_qty",
+    "tp_event_price",
+    "tp_event_time_start",
+    "tp_event_time_end",
+    "*date_start",
+    "*time_start",
+    "*date_end",
+    "*time_end",
+    "*qty",
+    "*price",
+    "*location",
+    "ea_booking_*",
+    "tp_event_*",
+    "wpems_event_location",
+    "tp_event_location"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:57.784Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_private_settings",
+    "wp_private_replacement_type",
+    "wp_private_before_html",
+    "wp_private_after_html",
+    "wp_private_not_authorized_text",
+    "wp_private_selected_users",
+    "wp_private_custom_login_page_url",
+    "wp_private_linkback_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:32.345Z"
+}

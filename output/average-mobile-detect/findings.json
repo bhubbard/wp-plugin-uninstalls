@@ -1,0 +1,15 @@
+{
+  "options": [
+    "avrgmobdtct_redirect",
+    "the_mobile_site_uri",
+    "non_mobile_site_uri"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "avrgmobdtct_equiv"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:29.373Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_aoh_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aoh_errors_*",
+    "_aoh_profile_options",
+    "aoh_post_options",
+    "_aoh_profile_card_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:13.593Z"
+}

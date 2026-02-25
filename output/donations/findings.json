@@ -1,0 +1,20 @@
+{
+  "options": [
+    "donations_version",
+    "donations_widget_options",
+    "donations_alertpay_email",
+    "donations_moneybookers_email",
+    "donations_paypal_email",
+    "web_invoice_force_https",
+    "donations_item_name",
+    "donations_item_code",
+    "donations_currency",
+    "donations_amount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:19.525Z"
+}

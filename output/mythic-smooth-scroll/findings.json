@@ -1,0 +1,12 @@
+{
+  "options": [
+    "mythic_ss_header_id",
+    "mythic_ss_offset_amount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:57.235Z"
+}

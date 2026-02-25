@@ -1,0 +1,25 @@
+{
+  "options": [
+    "auth_signin_token",
+    "chatgptModel",
+    "hotspot-switch",
+    "ai_select",
+    "custom_proxy",
+    "openai_key",
+    "roleInstruction",
+    "seo-analysis",
+    "search-images",
+    "hotspot_ai_do_activation_redirect",
+    "classic-editor-replace",
+    "baijiahao_hotspot_cookies",
+    "classic_editor_support_switch"
+  ],
+  "transients": [
+    "hotspot_last_checked_time"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:10.717Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ed_logo_carousel_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ed_logo_id",
+    "ed_logo_link",
+    "ed_logo_tooltip",
+    "ed_logo_target",
+    "ed_logo_carousel_style",
+    "ed_logo_carousel_slider"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:46.853Z"
+}

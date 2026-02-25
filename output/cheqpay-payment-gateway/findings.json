@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_cheqpay_link_settings"
+  ],
+  "transients": [
+    "cheqpay_challenge_jwt_*",
+    "cheqpay_challenge_url_*",
+    "cheqpay_ddc_jwt_*",
+    "cheqpay_ddc_url_*",
+    "cheqpay_ddc_payment_id_*",
+    "cheqpay_ddc_session_token_*",
+    "cheqpay_authentication_transaction_id_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:04.041Z"
+}

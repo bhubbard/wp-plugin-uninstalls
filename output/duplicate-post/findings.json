@@ -1,0 +1,41 @@
+{
+  "options": [
+    "duplicate_post_version",
+    "duplicate_post_show_notice",
+    "duplicate_post_copychildren",
+    "duplicate_post_copyattachments",
+    "duplicate_post_copycomments",
+    "duplicate_post_copytitle",
+    "duplicate_post_copydate",
+    "duplicate_post_copystatus",
+    "duplicate_post_copyslug",
+    "duplicate_post_copyexcerpt",
+    "duplicate_post_copycontent",
+    "duplicate_post_copythumbnail",
+    "duplicate_post_copytemplate",
+    "duplicate_post_copyformat",
+    "duplicate_post_copyauthor",
+    "duplicate_post_copypassword",
+    "duplicate_post_copymenuorder",
+    "duplicate_post_taxonomies_blacklist",
+    "duplicate_post_blacklist",
+    "duplicate_post_types_enabled",
+    "duplicate_post_show_original_column",
+    "duplicate_post_show_original_in_post_states",
+    "duplicate_post_show_original_meta_box",
+    "duplicate_post_show_link",
+    "duplicate_post_show_link_in",
+    "duplicate_post_title_prefix",
+    "duplicate_post_title_suffix",
+    "duplicate_post_increase_menu_order_by"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_dp_original"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:25:44.324Z"
+}

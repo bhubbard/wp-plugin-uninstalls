@@ -1,0 +1,14 @@
+{
+  "options": [
+    "climate_content_pool_general_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "content_pool_message",
+    "content_pool_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:59.348Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woo_store_vacation_onboarding",
+    "woo_store_vacation_rated",
+    "woo_store_vacation_activation_timestamp",
+    "woo_store_vacation_options",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:30.506Z"
+}

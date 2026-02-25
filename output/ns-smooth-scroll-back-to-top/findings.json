@@ -1,0 +1,27 @@
+{
+  "options": [
+    "btta_reviews_installed_on",
+    "btta_total_open_count",
+    "ns_btta_font_awsome",
+    "ns_btta_position",
+    "ns_btta_background",
+    "ns_btta_text_color",
+    "ns_btta_border_color",
+    "ns_btta_background_hover",
+    "ns_btta_text_color_hover",
+    "ns_btta_border_color_hover",
+    "ns_btta_speed",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_btta_reviews_dismissed_triggers",
+    "_btta_reviews_last_dismissed",
+    "_btta_reviews_already_did"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:49.164Z"
+}

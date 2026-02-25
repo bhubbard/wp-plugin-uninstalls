@@ -1,0 +1,53 @@
+{
+  "options": [
+    "lws_optimize_deactivate_temporarily",
+    "lws_optimize_offline",
+    "lws_optimize_config_array",
+    "lws_optimize_sitemap_urls",
+    "lws_optimize_preload_is_ongoing",
+    "lws_optimize_pagespeed_history",
+    "lws_optimize_cache_statistics",
+    "lws_optimize_original_image",
+    "lws_optimize_images_convertion",
+    "lws_optimize_current_convertion_stats",
+    "lws_optimize_all_media_convertion",
+    "lws_optimize_image_autoconversion_options",
+    "lws_optimize_image_conversion_options",
+    "lws_optimize_image_api_key",
+    "lws_from_autoinstall_optimize",
+    "wp_lwsoptimize_post_update",
+    "lwsop_do_not_ask_again",
+    "lws_opti_memcaching_on",
+    "lwsop_autopurge",
+    "lws_op_deactivated",
+    "lws_op_change_max_width_media",
+    "lws_op_fb_cache",
+    "lws_op_fb_exclude",
+    "lws_op_fb_preload_state",
+    "polylang",
+    "active_sitewide_plugins",
+    "lwsop_plugin_version"
+  ],
+  "transients": [
+    "lws_optimize_conversion_lock",
+    "lwsop_remind_me"
+  ],
+  "cron_jobs": [
+    "lws_optimize_maintenance_db_weekly",
+    "lws_optimize_start_filebased_preload",
+    "lws_optimize_clear_filebased_cache_cron",
+    "lwsop_revertOptimization",
+    "lws_optimize_image_conversion_cron",
+    "lws_optimize_pro_image_conversion_cron",
+    "lws_optimize_image_deconversion_cron",
+    "lws_optimize_clear_filebased_cache",
+    "lws_optimize_convert_media_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:40.918Z"
+}

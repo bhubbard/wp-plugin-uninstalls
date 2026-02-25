@@ -1,0 +1,24 @@
+{
+  "options": [
+    "lecsp_title",
+    "lecsp_robots_meta",
+    "lecsp_heading",
+    "lecsp_heading_text_color",
+    "lecsp_coming_soon_text",
+    "lecsp_show_social_media",
+    "lecsp_fb_link",
+    "lecsp_twiiter_link",
+    "lecsp_insta_link",
+    "lecsp_pinterest_link",
+    "lecsp_google_link",
+    "lecsp_linkedin_link",
+    "body_background_image",
+    "lecsp_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:15.293Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "onlyoffice-plugin-uuid",
+    "onlyoffice-plugin-bytes",
+    "onlyoffice-formats",
+    "onlyoffice-formats-version",
+    "onlyoffice_settings"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_edit_last",
+    "_wp_attachment_metadata",
+    "_edit_lock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:29.600Z"
+}

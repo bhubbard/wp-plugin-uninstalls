@@ -1,0 +1,14 @@
+{
+  "options": [
+    "boei_key_option"
+  ],
+  "transients": [
+    "boei_just_connected",
+    "boei_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:44.786Z"
+}

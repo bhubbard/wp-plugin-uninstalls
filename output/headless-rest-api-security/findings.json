@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hras_enabled",
+    "hras_api_key",
+    "hras_allowed_domain",
+    "hras_whitelisted_routes",
+    "hras_headless_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:08.248Z"
+}

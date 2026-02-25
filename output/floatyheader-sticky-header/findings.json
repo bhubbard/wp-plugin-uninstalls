@@ -1,0 +1,21 @@
+{
+  "options": [
+    "floatyheader_sh_selector",
+    "floatyheader_sh_bg_color",
+    "floatyheader_sh_text_color",
+    "floatyheader_sh_offset",
+    "floatyheader_sh_transition_effect",
+    "floatyheader_sh_disable_mobile",
+    "floatyheader_sh_mobile_bg_color",
+    "floatyheader_sh_mobile_text_color",
+    "floatyheader_sh_scroll_up_mode",
+    "floatyheader_sh_scroll_up_desktop",
+    "floatyheader_sh_scroll_up_mobile"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:59.790Z"
+}

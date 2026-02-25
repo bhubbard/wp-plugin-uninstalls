@@ -1,0 +1,27 @@
+{
+  "options": [
+    "xyz_gal_thumb_height",
+    "xyz_gal_thumb_width",
+    "xyz_gal_img_height",
+    "xyz_gal_img_width",
+    "xyz_credit_link",
+    "xyz_gal_credit_dismiss",
+    "xyz_gal_page_limit",
+    "xyz_gal_gallery_height",
+    "xyz_gal_gallery_width",
+    "xyz_gal_wpgal_responsive",
+    "xyz_gal_slideshow",
+    "xyz_gal_slideshow_interval",
+    "xyz_gal_wp_gallery_override",
+    "xyz_cart_product_gallery",
+    "xyz_cls_gallery"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:59.971Z"
+}

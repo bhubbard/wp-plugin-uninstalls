@@ -1,0 +1,18 @@
+{
+  "options": [
+    "client_status_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "client_status_update_all_clients_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_client_url",
+    "_client_email",
+    "_client_data",
+    "_client_last_update"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:49.696Z"
+}

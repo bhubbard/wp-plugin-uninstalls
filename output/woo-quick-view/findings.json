@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wcqv_options",
+    "wcqv_style",
+    "wpcqv_view_install_date",
+    "woocommerce_enable_lightbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcqv_view_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:23.653Z"
+}

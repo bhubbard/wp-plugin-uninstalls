@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dlpom_menu_id",
+    "dlpom_menu_item_id",
+    "dlpom_number_of_posts",
+    "dlpom_schedule_date",
+    "dlpom_repeat_interval",
+    "dlpom_schedule_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dlpom_scheduled_task"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:50.417Z"
+}

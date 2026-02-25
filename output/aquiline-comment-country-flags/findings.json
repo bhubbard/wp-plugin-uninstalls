@@ -1,0 +1,13 @@
+{
+  "options": [
+    "aquiline_comment_country_flags_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aquiline_comment_country_flags_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:43.781Z"
+}

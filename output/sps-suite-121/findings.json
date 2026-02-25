@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sps_sidebar_page_switcher",
+    "sps_hierarchical_display",
+    "sps_trim_breaks",
+    "sps_minimum_user_level",
+    "sps_search_static_pages",
+    "sps_standard_separator",
+    "sps_list_archives",
+    "sps_date_prefix",
+    "sps_widget_archives"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sps_show_in_sidebar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:13.545Z"
+}

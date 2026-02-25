@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woowhole_to_emailaddress",
+    "woowhole_from_emailaddress",
+    "woowhole_from_name",
+    "woowhole_success_msg",
+    "woowhole_failed_msg",
+    "woowhole_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:12.158Z"
+}

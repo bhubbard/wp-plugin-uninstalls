@@ -1,0 +1,32 @@
+{
+  "options": [
+    "ofc_version",
+    "ofc_migration_done",
+    "ofc_pro_notice",
+    "offer_calc_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*service_fields",
+    "_offer_calc_autoresponder",
+    "_offercalc_aw_auth_code",
+    "_offercalc_aw_list",
+    "_offercalc_gr_api",
+    "_offercalc_gr_list",
+    "_offercalc_mc_api",
+    "_offercalc_mc_list",
+    "*image_title",
+    "*service_title",
+    "*price_title",
+    "*count_title",
+    "*total_title",
+    "*submission_offer_value",
+    "*email",
+    "*edit_image",
+    "_offercalc_service_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:20.256Z"
+}

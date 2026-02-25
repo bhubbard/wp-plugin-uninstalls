@@ -1,0 +1,19 @@
+{
+  "options": [
+    "expire_users_notification_message",
+    "expire_users_notification_admin_message",
+    "expire_users_default_expire_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "expire_user_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_expire_user_date",
+    "_expire_user_settings",
+    "_expire_user_expired"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:26.309Z"
+}

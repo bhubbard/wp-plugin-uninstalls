@@ -1,0 +1,14 @@
+{
+  "options": [
+    "signature_checkout_position",
+    "signature_order_page_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_signature_attachment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:58.231Z"
+}

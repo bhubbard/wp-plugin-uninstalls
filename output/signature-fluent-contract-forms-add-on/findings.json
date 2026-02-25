@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fluentform_global_modules_status",
+    "WP_ESignature__Fluent_Forms_Digital_Signature_documentation"
+  ],
+  "transients": [
+    "_esign_fluentform_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:10.511Z"
+}

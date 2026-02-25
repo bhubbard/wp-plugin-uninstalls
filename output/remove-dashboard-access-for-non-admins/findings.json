@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rda_access_switch",
+    "rda_access_cap",
+    "rda_enable_profile",
+    "rda_redirect_url",
+    "rda_login_message",
+    "rda-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:53.630Z"
+}

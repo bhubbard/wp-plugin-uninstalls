@@ -1,0 +1,21 @@
+{
+  "options": [
+    "rtex_highlighter_active_*",
+    "rtex_highlighter_thickness_*",
+    "rtex_highlighter_color_*",
+    "rtex_highlighter_type_*",
+    "rtex_highlighter_opacity_*",
+    "rtex_font_size_active_*",
+    "rtex_font_size_size_*",
+    "rtex_highlighter_title_*",
+    "rtex_font_size_title_*",
+    "rtex_underline_active",
+    "rtex_clear_format_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:29.979Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "jcorgstp_active",
+    "jcorgstp_duration",
+    "jcorgstp_scroleActivateAt",
+    "jcorgstp_scrollElementId",
+    "jcorgstp_easingType",
+    "jcorgstp_position",
+    "jcorgstp_scrollText",
+    "jcorgstp_backgroundColor",
+    "jcorgstp_foreColor",
+    "jcorgstp_fontFamily",
+    "jcorgstp_fontSize",
+    "jcorgstp_fontWeight",
+    "jcorgstp_textPadding",
+    "jcorgstp_zindex",
+    "jcorgstp_containerWidth",
+    "jcorgstp_containerBorder",
+    "jcorgstp_borderRadius",
+    "jcorgstp_disableon_tablet",
+    "jcorgstp_disableon_mobile",
+    "jcorgstp_callback",
+    "jcorgstp_linkback",
+    "jcorgstp_linkback_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:18.270Z"
+}

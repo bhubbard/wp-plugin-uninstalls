@@ -1,0 +1,25 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "mltlngg_options",
+    "sidebars_widgets",
+    "widget_multi_language_widget"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers",
+    "_mltlngg_menu_item",
+    "metaboxhidden_nav-menus"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:52.443Z"
+}

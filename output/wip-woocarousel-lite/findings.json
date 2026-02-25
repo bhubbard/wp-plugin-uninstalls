@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wip_woocarousel_settings",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wip_woocarousel-lite_dismissed_notice_usrid*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:19.850Z"
+}

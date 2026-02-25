@@ -1,0 +1,15 @@
+{
+  "options": [
+    "slayer_ad_ads",
+    "slayer_ad_css",
+    "slayer_ad_html_before",
+    "slayer_ad_html_after",
+    "slayer_ad_max_count_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:52.980Z"
+}

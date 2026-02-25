@@ -1,0 +1,14 @@
+{
+  "options": [
+    "atnfwoo_tracking_number_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "atnfwoo_courier_name",
+    "atnfwoo_tracking_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:58.927Z"
+}

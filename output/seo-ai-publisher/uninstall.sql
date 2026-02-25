@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('seoai_publisher_api_key', 'seoai_publisher_default_author', 'seoai_publisher_default_category', 'seoai_publisher_enable_block_conversion', 'seoai_publisher_connected', 'seoai_publisher_shared_secret', 'seoai_publisher_site_id', 'seoai_publisher_webhook_retry_queue', 'seoai_publisher_auto_update', 'seoai_publisher_auto_update_major', 'seoai_publisher_update_notifications', 'seoai_publisher_previous_version', 'seoai_publisher_oauth_success', 'seoai_publisher_oauth_error', 'seoai_publisher_oauth_state', 'seoai_publisher_code_verifier', 'seoai_publisher_activated', 'seo_ai_webhooks_sent', 'seoai_webhook_queue_last_check');
+DELETE FROM wp_options WHERE option_name LIKE 'seoai_publisher_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wp_attachment_image_alt', '_seoai_external_id', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_focuskw', '_yoast_wpseo_canonical', '_aioseo_title', '_aioseo_description', '_aioseo_keywords', '_aioseo_custom_canonical', 'rank_math_title', 'rank_math_description', 'rank_math_focus_keyword', 'rank_math_canonical_url', '_seoai_seo_meta');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wp_attachment_image_alt', '_seoai_external_id', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_focuskw', '_yoast_wpseo_canonical', '_aioseo_title', '_aioseo_description', '_aioseo_keywords', '_aioseo_custom_canonical', 'rank_math_title', 'rank_math_description', 'rank_math_focus_keyword', 'rank_math_canonical_url', '_seoai_seo_meta');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wp_attachment_image_alt', '_seoai_external_id', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_focuskw', '_yoast_wpseo_canonical', '_aioseo_title', '_aioseo_description', '_aioseo_keywords', '_aioseo_custom_canonical', 'rank_math_title', 'rank_math_description', 'rank_math_focus_keyword', 'rank_math_canonical_url', '_seoai_seo_meta');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wp_attachment_image_alt', '_seoai_external_id', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_focuskw', '_yoast_wpseo_canonical', '_aioseo_title', '_aioseo_description', '_aioseo_keywords', '_aioseo_custom_canonical', 'rank_math_title', 'rank_math_description', 'rank_math_focus_keyword', 'rank_math_canonical_url', '_seoai_seo_meta');
+

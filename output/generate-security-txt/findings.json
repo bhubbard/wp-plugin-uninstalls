@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*notification_delete",
+    "*securitytxt_email_date",
+    "securitytxt_email_sent",
+    "securitytxt_archiveorg_request",
+    "securitytxt_hash",
+    "*expires",
+    "securitytxt_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "check_securitytxt_expiration_event",
+    "securitytxt_archiveorg_request_event",
+    "securitytxt_verify_file_contents_event",
+    "securitytxt_verify_file_contents"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:02.473Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wchc_hide_products_from_cat",
+    "wchc_hide_product_cats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:00.233Z"
+}

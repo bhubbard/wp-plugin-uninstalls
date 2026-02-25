@@ -1,0 +1,16 @@
+{
+  "options": [
+    "imageflux_exclude_extensions",
+    "imageflux_storage",
+    "imageflux_domain",
+    "imageflux_format",
+    "imageflux_quality",
+    "imageflux_exif_removal"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:25.374Z"
+}

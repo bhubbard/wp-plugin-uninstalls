@@ -1,0 +1,23 @@
+{
+  "options": [
+    "hl_userLogin_Header",
+    "hl_userEmail_Header",
+    "hl_userFirstname_Header",
+    "hl_userLastname_Header",
+    "hl_userNicename_Header",
+    "hl_userDisplayname_Header",
+    "hl_authHeader",
+    "hl_logoutURL",
+    "hl_settingsSaved",
+    "hl_createNewUser*",
+    "hl_defaultRole*",
+    "hl_createNewUser",
+    "hl_defaultRole"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:16.816Z"
+}

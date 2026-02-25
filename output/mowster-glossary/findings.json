@@ -1,0 +1,24 @@
+{
+  "options": [
+    "mowsterG_shortcode",
+    "mowsterG_pagination_word",
+    "mowster_Glossary_Terms_Per_Page",
+    "mowsterG_terms_per_page",
+    "mowsterG_html_before_term",
+    "mowsterG_html_after_term",
+    "mowsterG_html_before_description",
+    "mowsterG_html_after_description",
+    "mowsterG_text_previous_page",
+    "mowsterG_text_next_page",
+    "mowsterG_end_size",
+    "mowsterG_mid_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mowsterG_user_access"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:42.487Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mailercloud_api_key",
+    "mailercloud_Activated_Plugin",
+    "mailercloud_selected_sync_list_id",
+    "mailercloud_selected_sync_list"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mailercloud_cron_every_five_minutes"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:58.139Z"
+}

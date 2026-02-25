@@ -1,0 +1,16 @@
+{
+  "options": [
+    "aisprtsw_api_settings",
+    "aisprtsw_post_settings",
+    "aisprtsw_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aisprtsw_fetch_cron",
+    "aisprtsw_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:55.030Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "gravityforms_cardconnect_api_status",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gf_cardconnect_sunset_warning_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:56.571Z"
+}

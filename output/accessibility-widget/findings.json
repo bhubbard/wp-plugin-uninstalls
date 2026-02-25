@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cya11y_widget_settings",
+    "widget_accesstxt",
+    "cya11y_banners",
+    "cya11y_version",
+    "cya11y_first_time_activated_plugin"
+  ],
+  "transients": [
+    "_cya11y_first_time_install",
+    "cya11y_first_time_install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:19.467Z"
+}

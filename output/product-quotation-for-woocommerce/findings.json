@@ -1,0 +1,27 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "pqfw_quotations_cart",
+    "pqfw_settings",
+    "_pqfw_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pqfw_customer_email",
+    "pqfw_customer_phone",
+    "pqfw_customer_subject",
+    "pqfw_customer_comments",
+    "pqfw_products_info",
+    "pqfw_products_ids",
+    "pqfw_customer_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:44.902Z"
+}

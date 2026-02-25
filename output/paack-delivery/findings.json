@@ -1,0 +1,18 @@
+{
+  "options": [
+    "paack_testing",
+    "api_token",
+    "store_id",
+    "is_store_valid",
+    "text_popup",
+    "zip_codes",
+    "paack_message_zip_code_success",
+    "paack_message_zip_code_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:34.790Z"
+}

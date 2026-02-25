@@ -1,0 +1,15 @@
+{
+  "options": [
+    "plugin_urbangiraffe_rss",
+    "widget_available_*",
+    "widget_config_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_post_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:38.131Z"
+}

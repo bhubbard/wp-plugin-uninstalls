@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_enable_signup_and_login_from_checkout",
+    "woocommerce_registration_generate_username",
+    "woocommerce_registration_generate_password",
+    "*_settings",
+    "woocommerce_currency"
+  ],
+  "transients": [
+    "sezzle_api_error"
+  ],
+  "cron_jobs": [
+    "sezzle_daily_data_send_event_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:40.723Z"
+}

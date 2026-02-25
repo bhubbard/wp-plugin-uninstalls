@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wbio_lite_last_media_modified",
+    "wbio_lite_total_optimized",
+    "wbio_lite_bytes_saved",
+    "wbio_lite_activated_date"
+  ],
+  "transients": [
+    "*_time",
+    "wbio_lite_unused_images_cache",
+    "wbio_lite_unused_images_cache_time"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wbio_lite_backup_file",
+    "_wbio_lite_backed_up",
+    "_wbio_lite_optimized",
+    "_wbio_lite_original_size",
+    "_wbio_lite_optimized_size",
+    "_wbio_lite_format",
+    "_wbio_lite_quality",
+    "_wbio_lite_optimized_file",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:12.078Z"
+}

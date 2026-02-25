@@ -1,0 +1,30 @@
+{
+  "options": [
+    "frbl_activation_redirect",
+    "frontblocks_settings",
+    "frontblocks-pro_license_apikey",
+    "frontblocks-pro_license_deactivate_checkbox",
+    "generate_settings",
+    "frontblocks-pro_license_activated",
+    "generate_dynamic_css_output"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "all_day",
+    "start_date",
+    "start_time",
+    "end_date",
+    "end_time",
+    "cost",
+    "web",
+    "poster_evento",
+    "direccion_evento",
+    "thumbnail_id",
+    "reading_time",
+    "frontblocks_stars"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:30.588Z"
+}

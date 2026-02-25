@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_security_master",
+    "wp_security_master_key",
+    "wp_security_master_time",
+    "wp_security_master_time_value",
+    "wp_security_master_time_unit",
+    "wp_security_master_activate_state"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:06.749Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "chartbeat_userid",
+    "chartbeat_enable_newsbeat",
+    "chartbeat_apikey",
+    "chartbeat_trackadmins",
+    "chartbeat_enable_headline_testing",
+    "chartbeat_widgetconfig"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:39.307Z"
+}

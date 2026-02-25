@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_purchased",
+    "*_donated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*-notice-dismissed",
+    "ofts_hide_page_sidebar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:44.165Z"
+}

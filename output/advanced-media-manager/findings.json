@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tabsetting",
+    "tabsync",
+    "tabdownload"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smack_storage_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:43.998Z"
+}

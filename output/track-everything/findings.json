@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ethoseo_hide_ethoseo",
+    "ethoseo_te_dictionary",
+    "ethoseo_te_trackforms",
+    "ethoseo_te_trackoutbound",
+    "ethoseo_te_tracksearchforms",
+    "ethoseo_te_trackemail",
+    "ethoseo_te_trackgooglerank",
+    "ethoseo_te_universal",
+    "ethoseo_te_infooter",
+    "ethoseo_te_debug",
+    "ethoseo_te_special",
+    "ethoseo_te_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:43.973Z"
+}

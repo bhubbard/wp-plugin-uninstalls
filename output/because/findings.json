@@ -1,0 +1,23 @@
+{
+  "options": [
+    "sp_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "social_polling_active_field",
+    "_social_polling_answer_one_field",
+    "_social_polling_answer_two_field",
+    "social_polling_question_field",
+    "social_polling_answer_one_field",
+    "social_polling_answer_one_image_id",
+    "social_polling_answer_two_field",
+    "social_polling_answer_two_image_id",
+    "_my_meta_value_key",
+    "vote_choice",
+    "subscribed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:46.213Z"
+}

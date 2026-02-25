@@ -1,0 +1,27 @@
+{
+  "options": [
+    "micaptcha_*",
+    "micaptcha_loading_mode",
+    "micaptcha_type",
+    "micaptcha_letters",
+    "micaptcha_total_no_of_characters",
+    "micaptcha_use_curve",
+    "micaptcha_use_noise",
+    "micaptcha_distort",
+    "micaptcha_allowlist_ips",
+    "micaptcha_timeout_time",
+    "micaptcha_case_sensitive",
+    "micaptcha_login",
+    "micaptcha_password",
+    "micaptcha_register",
+    "micaptcha_lost",
+    "micaptcha_comments",
+    "micaptcha_registered"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:55.980Z"
+}

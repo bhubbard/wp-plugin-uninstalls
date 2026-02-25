@@ -1,0 +1,19 @@
+{
+  "options": [
+    "baseerp_api_environment_endpoint",
+    "baseerp_debug",
+    "baseerp_shipping_company_id",
+    "baseerp_bank_id",
+    "baseerp_api_key",
+    "baseerp_webhook_auth_token"
+  ],
+  "transients": [
+    "baseerp_bulk_nf_messages",
+    "baseerp_notice_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:24.238Z"
+}

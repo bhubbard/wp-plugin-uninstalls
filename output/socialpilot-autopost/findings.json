@@ -1,0 +1,14 @@
+{
+  "options": [
+    "socialpilot_options",
+    "socialpilot_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "socialpilot_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:19.879Z"
+}

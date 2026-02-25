@@ -1,0 +1,29 @@
+{
+  "options": [
+    "anycoin_db_check",
+    "woocommerce_anycoin_payment_settings",
+    "zano_payment_db_version",
+    "woocommerce_zano_payment_settings",
+    "cron",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "anycoin_last_status_update",
+    "zano_last_status_update"
+  ],
+  "cron_jobs": [
+    "anycoin_cleanup_expired_payments",
+    "anycoin_monitor_payments",
+    "anycoin_check_transactions",
+    "wp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_anycoin_selected_asset",
+    "_anycoin_asset_id",
+    "_anycoin_asset_amount",
+    "_anycoin_verification_attempts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:52.485Z"
+}

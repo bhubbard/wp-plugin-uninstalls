@@ -1,0 +1,21 @@
+{
+  "options": [
+    "repack_telemetry_optin",
+    "repack_telemetry_sent",
+    "repack_telemetry_consent_dismissed",
+    "repack_start",
+    "repack_counter"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "repack_telemetry"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_shipping_repack",
+    "*_counter"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:36.589Z"
+}

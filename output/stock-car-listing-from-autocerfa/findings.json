@@ -1,0 +1,48 @@
+{
+  "options": [
+    "autocerfa_debug",
+    "autocerfa_processing",
+    "car_per_page",
+    "single_page_slug",
+    "autocerfa_theme_color_1",
+    "autocerfa_theme_color_2",
+    "autocerfa_theme_color_3",
+    "daily_sync",
+    "autocerfa_view_style",
+    "filter_option",
+    "cropping_image_as_aspect_ration",
+    "autocerfa_requires_flush",
+    "ops_token",
+    "autocerfa_shortcodes_settings",
+    "autocerfa_single_page",
+    "autocerfa_car_list_page",
+    "autocerfa_reload",
+    "sending_email",
+    "opcodespace_subscription",
+    "autocerfa_price",
+    "autocerfa_plugin_version",
+    "version",
+    "autocerfa_log_file_code",
+    "autocerfa_token",
+    "autocerfa_no_of_cars",
+    "lead_updated_date",
+    "autocerfa_username"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "autocerfa_add_every_five_minutes",
+    "autocerfa_daily_event",
+    "autocerfa_twicedaily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "badge_id",
+    "hidden",
+    "images",
+    "raw_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:56.391Z"
+}

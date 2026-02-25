@@ -1,0 +1,13 @@
+{
+  "options": [
+    "h5presizepulse_version",
+    "h5presizepulse_defaults_set",
+    "h5presizepulse_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:27.043Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "apploxa_custom_interval",
+    "apploxa_abandoned_cart",
+    "apploxa_order_note_msg",
+    "apploxa_enable_otp",
+    "apploxa_otp_txt",
+    "apploxa_login_url",
+    "apploxa_token",
+    "apploxa_admin_whatsapp",
+    "apploxa_*",
+    "apploxa_adm_*",
+    "apploxa_adm_order_processing"
+  ],
+  "transients": [
+    "apploxa_otp_*"
+  ],
+  "cron_jobs": [
+    "apploxa_check_abandoned_carts_event",
+    "apploxa_clear_abandoned_cart_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "apploxa_whatsapp",
+    "billing_phone",
+    "_cart_timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:29.389Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cron",
+    "show_on_front ",
+    "imlt_track_user",
+    "imtl_test_speed_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "imlt_admin_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "set_cron_time_tmp_admin",
+    "tmp_admin_psw"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:26.746Z"
+}

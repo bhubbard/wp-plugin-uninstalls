@@ -1,0 +1,16 @@
+{
+  "options": [
+    "repair_woocommerce_speed_options",
+    "repair_woocommerce_speed_custom_handles"
+  ],
+  "transients": [
+    "_repair_woocommerce_speed_do_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_repair_woo_custom_handles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:17.352Z"
+}

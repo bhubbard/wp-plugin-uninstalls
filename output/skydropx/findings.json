@@ -1,0 +1,21 @@
+{
+  "options": [
+    "skydropx_visited_permalink_view",
+    "SKYDROPX_SHOP_ID",
+    "rewrite_rules",
+    "SKYDROPX_ENABLE_QUOTATION",
+    "SKYDROPX_COUNTRY_QUOTATION",
+    "SKYDROPX_TOKEN",
+    "woocommerce_store_postcode",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:10.224Z"
+}

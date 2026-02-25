@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sn_wp_duration",
+    "_sn_wp_notice_type",
+    "_sn_wp_notice_color",
+    "_sn_wp_message",
+    "_sn_wp_position",
+    "_sn_wp_show_title",
+    "_sn_wp_notice_anime",
+    "_sn_wp_auto_hide",
+    "_sn_wp_can_hide",
+    "_sn_wp_duration_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:36.387Z"
+}

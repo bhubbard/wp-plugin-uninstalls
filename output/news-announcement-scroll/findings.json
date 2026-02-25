@@ -1,0 +1,29 @@
+{
+  "options": [
+    "gNewsAnnouncementtype",
+    "gNewsAnnouncementorder",
+    "gNewsAnnouncementfont",
+    "gNewsAnnouncementfontsize",
+    "gNewsAnnouncementfontweight",
+    "gNewsAnnouncementfontcolor",
+    "gNewsAnnouncementwidth",
+    "gNewsAnnouncementheight",
+    "gNewsAnnouncementslidetimeout",
+    "gNewsAnnouncementslidedirection",
+    "gNewsAnnouncementtextalign",
+    "gNewsAnnouncementtextvalign",
+    "gNewsAnnouncementnoannouncement",
+    "gNews_pluginversion",
+    "gNewsAnnouncementtitle",
+    "gNewsAnnouncementnoannouncement ",
+    "_current_nas_db_version"
+  ],
+  "transients": [
+    "_nas_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:10.003Z"
+}

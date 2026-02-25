@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_price_num_decimals"
+  ],
+  "transients": [
+    "*_log_cleanup_check",
+    "campaignbay_calender_campaigns",
+    "campaignbay_active_campaigns",
+    "campaignbay_scheduled_campaigns"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_campaignbay_onboarding_first_campaign"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:34.199Z"
+}

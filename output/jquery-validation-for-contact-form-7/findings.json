@@ -1,0 +1,14 @@
+{
+  "options": [
+    "jvcf7_install_date",
+    "jvcf7_current_version",
+    "jvcf7_show_label_error",
+    "jvcf7_invalid_field_design"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:31.471Z"
+}

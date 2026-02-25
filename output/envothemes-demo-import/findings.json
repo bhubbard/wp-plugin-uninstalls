@@ -1,0 +1,36 @@
+{
+  "options": [
+    "*-version",
+    "envothemes_active_time",
+    "envothemes_active_pro_time",
+    "envothemes_activation_redirect",
+    "envothemes_maybe_later",
+    "envothemes_review_dismiss",
+    "envothemes_active_enwoo_time",
+    "widget_*",
+    "sidebars_widgets",
+    "_wc_needs_pages",
+    "woocommerce_single_image_width",
+    "woocommerce_thumbnail_image_width",
+    "woocommerce_thumbnail_cropping",
+    "woocommerce_thumbnail_cropping_custom_width",
+    "woocommerce_thumbnail_cropping_custom_height",
+    "elementor_container_width",
+    "envo_wizard",
+    "automatic_2nd_notice",
+    "2nd_notice"
+  ],
+  "transients": [
+    "_wc_activation_redirect"
+  ],
+  "cron_jobs": [
+    "add_second_notice"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:01.765Z"
+}

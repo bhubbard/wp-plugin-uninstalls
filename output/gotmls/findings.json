@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_blob",
+    "*_array",
+    "GOTMLS_settings_array",
+    "GOTMLS_definitions_array",
+    "GOTMLS_get_URL_blob",
+    "GOTMLS_definitions_blob",
+    "GOTMLS_nonce_blob",
+    "GOTMLS_Installation_Keys",
+    "WP_firewall_exclude_terms",
+    "WP_firewall_whitelisted_ip",
+    "GOTMLS_get_URL_array"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "GOTMLS_threats_found"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:15.421Z"
+}

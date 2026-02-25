@@ -1,0 +1,24 @@
+{
+  "options": [
+    "listenup_options",
+    "listenup_pronunciation_rules"
+  ],
+  "transients": [
+    "listenup_signed_url_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_cloud_path",
+    "_listenup_mp3_cloud_path",
+    "_listenup_chunked_audio",
+    "*_file",
+    "*_url",
+    "*_size",
+    "_listenup_audio",
+    "_listenup_wav_cloud_path",
+    "_listenup_mp3_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:52.615Z"
+}

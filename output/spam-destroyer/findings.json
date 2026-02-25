@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*-activation-date",
+    "spam-destroyer-stats",
+    "spam-destroyer-version",
+    "spam-destroyer-gd-notice-removed",
+    "spam-destroyer-key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "issues"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:36.754Z"
+}

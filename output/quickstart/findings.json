@@ -1,0 +1,14 @@
+{
+  "options": [
+    "qs_termmeta_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_qs_section",
+    "menu_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:14.891Z"
+}

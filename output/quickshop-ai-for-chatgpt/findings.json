@@ -1,0 +1,15 @@
+{
+  "options": [
+    "icgpt_enable",
+    "icgpt_merchant_id",
+    "icgpt_webhook_secret",
+    "icgpt_test_mode",
+    "icgpt_default_enable_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:12.926Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "max_image_size_control_data",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "medium_crop",
+    "large_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:13.527Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpfc-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpfc_claim",
+    "_wpfc_author",
+    "_wpfc_source",
+    "_wpfc_verdict",
+    "_wpfc_explainer",
+    "_wpfc_author_type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:00.445Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "german_posting_selected_countries",
+    "german_posting_api_key",
+    "german_posting_content",
+    "german_image_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_german_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:30.832Z"
+}

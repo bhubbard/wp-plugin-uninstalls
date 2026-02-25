@@ -1,0 +1,37 @@
+{
+  "options": [
+    "yaydp_product_pricing_rules",
+    "yaydp_removed_product_pricing_rules",
+    "yaydp_cart_discount_rules",
+    "yaydp_removed_cart_discount_rules",
+    "yaydp_checkout_fee_rules",
+    "yaydp_removed_checkout_fee_rules",
+    "yaydp_exclude_rules",
+    "yaydp_product_collections_rules",
+    "yaydp_core_settings",
+    "yaydp_rules",
+    "woocommerce_checkout_page_id",
+    "woocommerce_currency",
+    "woocommerce_tax_display_shop",
+    "yaydp_prevent_yaycurrency_convert_hooks"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yaydp_clear_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yaydp_product_pricing_rules",
+    "first_name",
+    "last_name",
+    "yaydp_cart_discount_rules",
+    "yaydp_checkout_fee_rules",
+    "b2bking_registration_role",
+    "b2bking_regular_product_price_group_*",
+    "b2bking_sale_product_price_group_*",
+    "saso_eventtickets_is_ticket",
+    "_is_extra_product"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:34.206Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "hag_mcdt_deepl_api_key",
+    "hag_mcdt_default_languages"
+  ],
+  "transients": [
+    "hag_mcdt_supported_languages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hag_mcdt_is_clone",
+    "_hag_mcdt_sites",
+    "_hag_mcdt_languages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:26.181Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "eu_cookie_text_color",
+    "eu_cookie_bg_color",
+    "eu_cookie_animation_type",
+    "eu_cookie_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:33.304Z"
+}

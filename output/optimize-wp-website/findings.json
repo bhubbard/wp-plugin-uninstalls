@@ -1,0 +1,19 @@
+{
+  "options": [
+    "owpw_remove_wp_embed",
+    "owpw_remove_jquery_migrate",
+    "owpw_remove_commnet_reply",
+    "owpw_remove_generator",
+    "owpw_page_specific_block"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_oww_css_postion",
+    "_oww_custom_css",
+    "_oww_css_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:39.447Z"
+}

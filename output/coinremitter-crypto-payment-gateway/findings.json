@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_coinremitterpayments_settings",
+    "woocommerce_version",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [
+    "currency_value"
+  ],
+  "cron_jobs": [
+    "update_fiat_rate_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_order_crypto_price",
+    "_order_crypto_coin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:42.103Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "seo_settings_by_jordanhost_options",
+    "seo_settings_by_jordanhost_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_seo_settings_by_jordanhost_title",
+    "_seo_settings_by_jordanhost_description",
+    "_seo_settings_by_jordanhost_keywords",
+    "_seo_settings_by_jordanhost_noindex"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:55.527Z"
+}

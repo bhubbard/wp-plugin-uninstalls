@@ -1,0 +1,16 @@
+{
+  "options": [
+    "screenly_cast_enabled",
+    "screenly_cast_*",
+    "screenly_previous_theme",
+    "screenly_cast_cache_duration",
+    "screenly_cast_logo",
+    "screenly_options_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:09.519Z"
+}

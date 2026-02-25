@@ -1,0 +1,17 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "eddadv_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "edd_sale_price",
+    "edd_sale_price_time",
+    "_csf_errors_*",
+    "edd_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:32.519Z"
+}

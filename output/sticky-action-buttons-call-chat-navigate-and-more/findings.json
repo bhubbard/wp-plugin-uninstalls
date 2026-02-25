@@ -1,0 +1,14 @@
+{
+  "options": [
+    "combar_sab_buttons",
+    "combar_sab_setting_desk",
+    "combar_sab_general_setting",
+    "combar_sab_setting_mob"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:37.453Z"
+}

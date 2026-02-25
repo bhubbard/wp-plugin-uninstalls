@@ -1,0 +1,22 @@
+{
+  "options": [
+    "agl_cookie_days",
+    "agl_primary_color",
+    "agl_title_color",
+    "agl_main_title",
+    "agl_description",
+    "agl_custom_success_message",
+    "agl_yes_btn_text",
+    "agl_no_btn_text",
+    "agl_test_mode",
+    "agl_logo_img",
+    "agl_age_limit",
+    "agl_safe_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:40.413Z"
+}

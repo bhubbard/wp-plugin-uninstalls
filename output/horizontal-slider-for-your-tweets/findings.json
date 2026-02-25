@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hsfyt_application_key",
+    "hsfyt_application_secret",
+    "hsfyt_access_token",
+    "hsfyt_access_token_secret",
+    "hsfyt_user_screenname"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:25.323Z"
+}

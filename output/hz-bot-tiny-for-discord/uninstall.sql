@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('hz_discord_bot_setting_public_key', 'hz_discord_bot_setting_bot_token', 'hz_discord_bot_setting_guild_id', 'hz_discord_bot_setting_application_id', 'hz_discord_webhook_form_blocks', 'hz_discord_bot_notice_form_blocks', 'hz_discord_bot_notify_status', 'hz_discord_bot_form_blocks_status', 'hz_discord_bot_form_status_ctrl', 'hz_discord_bot_form_blocks_message', 'hz_discord_bot_form_find_message', 'hz_discord_bot_form_product_enable', 'hz_discord_bot_form_phone_blocks', 'hz_discord_bot_form_phoneLimit_blocks', 'hz_discord_bot_form_status_phone', 'hz_discord_bot_form_payment_phone', 'hz_discord_bot_setting_debug', 'hz_discord_bot_setting_clear', 'hz_discord_bot_form_blocks', 'hz_discord_bot_setting_form_blocks', 'hz_discord_bot_settings_error');
+

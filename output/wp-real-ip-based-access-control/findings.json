@@ -1,0 +1,12 @@
+{
+  "options": [
+    "acl_ctrl_mode",
+    "acl_ctrl_addr"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:24.619Z"
+}

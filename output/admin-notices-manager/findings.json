@@ -1,0 +1,14 @@
+{
+  "options": [
+    "anm_update_notice_needed",
+    "anm_active_version",
+    "anm_settings",
+    "anm-plugin-installed-by-user-id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:43.757Z"
+}

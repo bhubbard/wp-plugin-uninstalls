@@ -1,0 +1,20 @@
+{
+  "options": [
+    "saboxplugin_options",
+    "sab_version"
+  ],
+  "transients": [
+    "sab_error_msg"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sabox_social_links",
+    "sabox-profile-image",
+    "_disable_sab_author_here",
+    "_wp_attachment_image_alt",
+    "sab_box_link"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:31:30.110Z"
+}

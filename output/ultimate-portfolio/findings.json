@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ultimate_portfolio_form_data",
+    "ultimate_portfolio_default_image_id"
+  ],
+  "transients": [
+    "ultimate_portfolio_plugin_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ultimate_portfolio_shortcodes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:02.482Z"
+}

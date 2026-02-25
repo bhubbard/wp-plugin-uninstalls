@@ -1,0 +1,27 @@
+{
+  "options": [
+    "*smartcat_db_version",
+    "*smartcat_workflow_stages",
+    "*smartcat_vendor_id",
+    "*smartcat_account_name",
+    "*smartcat_api_project_id",
+    "*statistic_queue_active",
+    "*callback_authorisation_token",
+    "*smartcat_debug_mode"
+  ],
+  "transients": [
+    "smartcat_translation_connector_updated",
+    "smartcat_cron_handler"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sc_errors_per_page",
+    "sc_events_per_page",
+    "sc_profiles_per_page",
+    "sc_dashboard_per_page",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:18.509Z"
+}

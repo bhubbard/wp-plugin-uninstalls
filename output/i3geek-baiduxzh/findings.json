@@ -1,0 +1,20 @@
+{
+  "options": [
+    "I3GEEK_XZH_SETTING",
+    "I3GEEK_XZH_NOTICE",
+    "I3GEEK_XZH_SUBMITNUMBER"
+  ],
+  "transients": [
+    "I3GEEK_XZH_MSG_STATUS",
+    "I3GEEK_XZH_MSG_CONTENT",
+    "I3GEEK_XZH_LOG_WRITABLE",
+    "I3GEEK_XZH_UPDATE_FLAG"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "i3geek_xzh_submit"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:43.543Z"
+}

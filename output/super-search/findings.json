@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ss_exclude_child",
+    "ss_easy_mode",
+    "ss_show_children",
+    "ss_manual_cats",
+    "ss_template_mode",
+    "ss_template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:42.897Z"
+}

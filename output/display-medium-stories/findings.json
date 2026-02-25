@@ -1,0 +1,29 @@
+{
+  "options": [
+    "mpost_slider",
+    "mpost_post_design",
+    "mpost_slider_design",
+    "mpost_background_color",
+    "mpost_title_color",
+    "mpost_desc_color",
+    "mpost_btn_title",
+    "mpost_btnbg_color",
+    "mpost_btn_color",
+    "mpost_date_format",
+    "mpost_default_image_radius",
+    "mpost_padding_type",
+    "mpost_default_image_padding",
+    "mpost_default_image_margin",
+    "mpost_bootstrap",
+    "mpost_no_post",
+    "mpost_container_size",
+    "mpost_arrows_color",
+    "mpost_arrows_bgcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:47.133Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "flying_scripts_disabled_pages",
+    "flying_scripts_include_list",
+    "FLYING_SCRIPTS_VERSION",
+    "flying_scripts_timeout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:01.393Z"
+}

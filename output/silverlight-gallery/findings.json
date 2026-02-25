@@ -1,0 +1,22 @@
+{
+  "options": [
+    "slgallery_standard_width",
+    "slgallery_standard_height",
+    "slgallery_standard_leftarrow",
+    "slgallery_standard_rightarrow",
+    "slgallery_standard_pagenumbers",
+    "slgallery_standard_thumbnails",
+    "slgallery_standard_preloader",
+    "slgallery_standard_fill",
+    "slgallery_standard_bgColor",
+    "slgallery_standard_bgMode",
+    "slgallery_standard_version",
+    "slgallery_alternate_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:12.157Z"
+}

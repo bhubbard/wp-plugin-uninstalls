@@ -1,0 +1,18 @@
+{
+  "options": [
+    "web_irc_ws_url",
+    "web_irc_channel",
+    "web_irc_nickname_prefix",
+    "web_irc_realname",
+    "web_irc_theme",
+    "web_irc_autoconnect"
+  ],
+  "transients": [
+    "web_irc_client_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:55.265Z"
+}

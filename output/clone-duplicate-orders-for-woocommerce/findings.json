@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cdo_wc_acf_option_fields"
+  ],
+  "transients": [
+    "cdo_wc_cloning_order_*",
+    "cdo_wc_clone_order_admin_notice",
+    "cdo_wc_activated_plugin"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:57.311Z"
+}

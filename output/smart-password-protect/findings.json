@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sppwp_options",
+    "sppwp_active_features",
+    "sppwp_temp_login_settings",
+    "sppwp_temp_logins",
+    "sppwp_version"
+  ],
+  "transients": [
+    "sppwp_activation_redirect",
+    "sppwp_update_redirect"
+  ],
+  "cron_jobs": [
+    "sppwp_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sppwp_is_temp_user"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:07.880Z"
+}

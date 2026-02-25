@@ -1,0 +1,23 @@
+{
+  "options": [
+    "lazy_bloggers_ai_image_generator_logs",
+    "lazy_bloggers_ai_image_generator_api_key",
+    "lazy_bloggers_ai_image_generator_size",
+    "lazy_bloggers_ai_image_generator_include_title",
+    "lazy_bloggers_ai_image_generator_include_category",
+    "lazy_bloggers_ai_image_generator_include_tag",
+    "lazy_bloggers_ai_image_generator_use_post_content",
+    "lazy_bloggers_ai_image_generator_style_prompt",
+    "lazy_bloggers_ai_image_generator_enable_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lazy_bloggers_ai_image_generator_delayed_image_generation"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:55.549Z"
+}

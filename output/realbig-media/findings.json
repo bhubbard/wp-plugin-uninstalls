@@ -1,0 +1,34 @@
+{
+  "options": [
+    "token_value_input",
+    "token_value_send",
+    "rb_cacheClearAllow",
+    "rb_ampSettings",
+    "realbig_status_gatherer_version",
+    "realbig_status_gatherer",
+    "rb_TurboRssOptions",
+    "rfwp_selectiveOffField",
+    "rfwp_selectiveOffFieldRestore",
+    "wpseo_titles",
+    "rb_testMode",
+    "reboot_options",
+    "realbigForWP_version"
+  ],
+  "transients": [
+    "gatherContentContainerLong",
+    "related-*"
+  ],
+  "cron_jobs": [
+    "rb_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "template_meta",
+    "custom_template",
+    "_yoast_wpseo_title",
+    "_aioseop_title",
+    "ytremove_meta_value"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:44.354Z"
+}

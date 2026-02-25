@@ -1,0 +1,19 @@
+{
+  "options": [
+    "my_timezone_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "billing_email",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_company",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:41.456Z"
+}

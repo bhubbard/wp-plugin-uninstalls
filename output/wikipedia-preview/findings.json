@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wikipediapreview_init_timestamp",
+    "wikipediapreview_do_activation_redirect",
+    "wikipediapreview_options_detect_links"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wikipediapreview_detectlinks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:01.925Z"
+}

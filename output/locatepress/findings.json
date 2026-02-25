@@ -1,0 +1,28 @@
+{
+  "options": [
+    "locate_press_set",
+    "locatepress_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "image_gallery_data",
+    "locatepress_contact_no",
+    "locatepress_business_hour",
+    "locatepress_yt-url",
+    "locatepress_ig-url",
+    "locatepress_pin-url",
+    "locatepress_fb-url",
+    "locatepress_twir-url",
+    "locatepress_video_url",
+    "locatepress_logo",
+    "lp_location_lat_long",
+    "lp_location_country",
+    "lp_location_latitude",
+    "lp_location_longitude",
+    "listing_type-icon"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:13.147Z"
+}

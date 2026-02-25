@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tabs_rpvsrc_recentposts_cnt",
+    "tabs_rpvsrc_recentcomments_cnt",
+    "tabs_rpvsrc_recentposts_title",
+    "tabs_rpvsrc_recentcomments_title",
+    "tabs_rpvsrc_recentcomments_lgt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:11.237Z"
+}

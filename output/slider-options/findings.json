@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smsd-meta_type",
+    "_smsd-meta_target"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:21.670Z"
+}

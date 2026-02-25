@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ptms_scrollamount",
+    "ptms_scrolldelay",
+    "ptms_direction",
+    "ptms_style",
+    "ptms_noofpost",
+    "ptms_categories",
+    "ptms_orderbys",
+    "ptms_order",
+    "ptms_spliter",
+    "ptms_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:55.604Z"
+}

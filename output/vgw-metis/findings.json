@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wp_metis_api_key",
+    "wp_metis_pixel_auto_add_pages",
+    "wp_metis_pixel_auto_add_posts",
+    "classic-editor-replace",
+    "metis_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "do_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_metis_text_type",
+    "_metis_text_length",
+    "managevg-wort-metis_page_metis-messagescolumnshidden",
+    "managevg-wort-metis_page_metis-pixelcolumnshidden",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:39.714Z"
+}

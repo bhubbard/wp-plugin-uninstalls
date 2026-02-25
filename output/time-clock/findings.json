@@ -1,0 +1,30 @@
+{
+  "options": [
+    "etimeclockwp_firstrun",
+    "etimeclockwp_install_date",
+    "etimeclockwp_settings"
+  ],
+  "transients": [
+    "etimeclockwp_activation_notice",
+    "_etimeclockwp_extensions_feed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "status_*",
+    "uid",
+    "count",
+    "notices",
+    "in",
+    "out",
+    "etimeclockwp_name",
+    "etimeclockwp_id",
+    "etimeclockwp_pwd",
+    "etimeclockwp_wp_account",
+    "etimeclockwp_meta_id",
+    "total",
+    "total_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:55.393Z"
+}

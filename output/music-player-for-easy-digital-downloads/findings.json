@@ -1,0 +1,26 @@
+{
+  "options": [
+    "eddmp_global_settings",
+    "installed_*"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eddmp_enable_player",
+    "_eddmp_show_in",
+    "_eddmp_player_layout",
+    "_eddmp_player_controls",
+    "_eddmp_player_volume",
+    "_eddmp_player_title",
+    "_eddmp_play_all",
+    "_eddmp_loop",
+    "_eddmp_preload",
+    "_eddmp_visualizer",
+    "_eddmp_drive_files"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:10.409Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "cfb_flip_type_option",
+    "cfb-initial-save-version",
+    "cfb-install-date",
+    "Flip-Boxes-ratingDiv",
+    "Flip-Boxes-installDate",
+    "cfb-ratingDiv",
+    "Flip-Boxes-v",
+    "Flip-Boxes-type",
+    "CoolPlugins_blocks_widgets_css_file"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "*flip_layout",
+    "*effect",
+    "_CoolPlugins_gutenberg_block_stylesheet",
+    "_CoolPlugins_gutenberg_block_fontawesome_libraray",
+    "_CoolPlugins_gutenberg_block_fonts",
+    "_coolPlugins_gutenberg_block_styles",
+    "_CoolPlugins_gutenberg_block_styles",
+    "*bootstrap",
+    "*font",
+    "*height",
+    "*icon_size",
+    "*skin_color",
+    "*column",
+    "*flip_repeat_group",
+    "*LinkTarget",
+    "*event",
+    "*no_of_items"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:46.497Z"
+}

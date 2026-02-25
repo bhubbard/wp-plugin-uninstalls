@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('w3all_url_to_cms', 'w3all_phpbb_dbconn', 'w3all_path_to_cms', 'w3all_pass_hash_way', 'w3all_not_link_phpbb_wp', 'w3all_conf_avatars', 'w3all_conf_pref', 'w3all_conf_pref_template_embed_link', 'w3all_bruteblock_phpbbulist', 'w3all_forum_template_wppage', 'w3all_phpbb_cookie', 'widget_wp_w3all_widget_login', 'widget_wp_w3all_widget_last_topics', 'widget_wp_w3all_widget_phpbb_onlinestats', 'w3all_exclude_id1', 'w3all_iframe_phpbb_link_yn', 'w3all_u_signups_data', 'widget_wp_w3all_widget_phpbb_mchat');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('locale', 'w3all_wpdelete_phpbbulist_delby', '_new_email');
+DELETE FROM wp_usermeta WHERE meta_key IN ('locale', 'w3all_wpdelete_phpbbulist_delby', '_new_email');
+DELETE FROM wp_termmeta WHERE meta_key IN ('locale', 'w3all_wpdelete_phpbbulist_delby', '_new_email');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('locale', 'w3all_wpdelete_phpbbulist_delby', '_new_email');
+

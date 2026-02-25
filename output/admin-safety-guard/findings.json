@@ -1,0 +1,22 @@
+{
+  "options": [
+    "social_login_crendentials",
+    "tpsa_admin-bar_pro_fields",
+    "tp_admin_safety_guard_deactivate_token",
+    "tpsa_version",
+    "tpsm_is_setup_wizard"
+  ],
+  "transients": [
+    "tpsm_do_activation_redirect"
+  ],
+  "cron_jobs": [
+    "remove_old_block_users_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_tpsa_otp_code",
+    "tpsm_dismissed_setup_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:41.289Z"
+}

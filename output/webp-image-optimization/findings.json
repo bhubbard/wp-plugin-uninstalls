@@ -1,0 +1,16 @@
+{
+  "options": [
+    "webp_image_optimization_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_original_file_size",
+    "_webp_file_size",
+    "_wp_attached_file",
+    "_avif_file_size"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:15.884Z"
+}

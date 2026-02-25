@@ -1,0 +1,14 @@
+{
+  "options": [
+    "education_pro_local_avatars_caps"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "simple_local_avatar",
+    "big_avatar"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:53.239Z"
+}

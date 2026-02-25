@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp247_body_classes_css",
+    "wp247_body_classes_scroll",
+    "wp247_body_classes_custom",
+    "wp247_body_classes_mobile"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:17.609Z"
+}

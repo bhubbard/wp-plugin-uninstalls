@@ -1,0 +1,25 @@
+{
+  "options": [
+    "apf_plugin_default_product_status",
+    "apf_plugin_page_id",
+    "apf_plugin_template",
+    "apf_reviews_installed_on",
+    "apf_total_open_count",
+    "pe-plugin-id-response-*",
+    "plugineye_init*",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_attributes",
+    "attribute_*",
+    "_apf_reviews_dismissed_triggers",
+    "_apf_reviews_last_dismissed",
+    "_apf_reviews_already_did"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:44.927Z"
+}

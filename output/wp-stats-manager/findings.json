@@ -1,0 +1,43 @@
+{
+  "options": [
+    "wsmTimezoneString",
+    "*TimezoneString",
+    "*ChartDays",
+    "*Country",
+    "*ArchiveDays",
+    "*KeepData",
+    "*ReportScheduleTime",
+    "*SiteDashboardNormalWidgets",
+    "*SiteDashboardSideWidgets",
+    "*SitePluginNormalWidgets",
+    "*SitePluginSideWidgets",
+    "*UserRoles",
+    "*UserRolesExcluding",
+    "*Robots",
+    "*_settings",
+    "*GoogleMapAPI",
+    "*ReportStats",
+    "*ReportEmails",
+    "*Dashboard_widget",
+    "*Plugin_widget",
+    "*_tables",
+    "*_dailyReportedTime",
+    "exclusion_ip_address_list",
+    "wsm_popup_status",
+    "*_lastHitTime",
+    "*AdminColors",
+    "*dashboard_widget",
+    "wsm_free_active_time",
+    "wsm_free_review_dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_dailyScheduler"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wsm_dismiss_timezone_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:22.611Z"
+}

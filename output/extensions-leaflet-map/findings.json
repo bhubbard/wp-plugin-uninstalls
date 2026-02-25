@@ -1,0 +1,48 @@
+{
+  "options": [
+    "leafext_awesome",
+    "leafext_deleting",
+    "leafext_eleparams",
+    "leafext_values",
+    "leafext_multieleparams",
+    "leafext_color_*",
+    "leafext_sgpxparams",
+    "leafext_sgpx_unclean_db",
+    "leafext_waypoints",
+    "leafext_filemgr",
+    "leafext_file_listing_*",
+    "leafext_gesture",
+    "leaflet_scroll_wheel_zoom",
+    "leafext_parentgroup",
+    "leafext_canvas",
+    "leafext_hover",
+    "leafext_cluster",
+    "leafext_placementparams",
+    "leafext_featuredmap",
+    "leafext_overviewmap",
+    "leaflet_mapid",
+    "leaflet_map_tile_url",
+    "leaflet_map_tile_url_subdomains",
+    "leaflet_default_attribution",
+    "leaflet_default_min_zoom",
+    "leaflet_default_max_zoom",
+    "leafext_maps",
+    "leafext_providers",
+    "leafext_zoomhome",
+    "active_sitewide_plugins",
+    "leaflet_default_width",
+    "leaflet_default_height",
+    "leaflet_default_zoom"
+  ],
+  "transients": [
+    "leafext_ovm_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geo_latitude",
+    "geo_longitude"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:06.574Z"
+}

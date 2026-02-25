@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_avatar_capability"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_avatar_profile",
+    "wp_fb_profile",
+    "wp_gplus_profile"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:24.610Z"
+}

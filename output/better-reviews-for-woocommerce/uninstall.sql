@@ -1,0 +1,72 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_enable_reviews', 'current_theme', 'woocommerce_review_rating_verification_required', 'woocommerce_review_rating_verification_label', 'woocommerce_shop_page_id', 'woocommerce_email_footer_text');
+DELETE FROM wp_options WHERE option_name LIKE '%first_install_complete';
+DELETE FROM wp_options WHERE option_name LIKE '%plugin_version';
+DELETE FROM wp_options WHERE option_name LIKE '%allow_anonymous';
+DELETE FROM wp_options WHERE option_name LIKE '%global_attributes';
+DELETE FROM wp_options WHERE option_name LIKE '%global_charstcs';
+DELETE FROM wp_options WHERE option_name LIKE '%default_stars';
+DELETE FROM wp_options WHERE option_name LIKE '%send_reminders';
+DELETE FROM wp_options WHERE option_name LIKE '%reminder_wait';
+DELETE FROM wp_options WHERE option_name LIKE '%preserve_on_delete';
+DELETE FROM wp_options WHERE option_name LIKE '%update_transient';
+DELETE FROM wp_options WHERE option_name LIKE '%all_reviews';
+DELETE FROM wp_options WHERE option_name LIKE '%admin_reviews';
+DELETE FROM wp_options WHERE option_name LIKE '%pending_reviews';
+DELETE FROM wp_options WHERE option_name LIKE '%verifed_reviews';
+DELETE FROM wp_options WHERE option_name LIKE '%legacy_review_counts';
+DELETE FROM wp_options WHERE option_name LIKE '%all_attributes';
+DELETE FROM wp_options WHERE option_name LIKE '%all_charstcs';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_wc_review_count', '_customer_user', '_billing_email', '_billing_first_name', '_billing_last_name', 'rating', 'verified', '_wc_average_rating');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_wc_review_count', '_customer_user', '_billing_email', '_billing_first_name', '_billing_last_name', 'rating', 'verified', '_wc_average_rating');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_wc_review_count', '_customer_user', '_billing_email', '_billing_first_name', '_billing_last_name', 'rating', 'verified', '_wc_average_rating');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_wc_review_count', '_customer_user', '_billing_email', '_billing_first_name', '_billing_last_name', 'rating', 'verified', '_wc_average_rating');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%legacy_count';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%legacy_count';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%legacy_count';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%legacy_count';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%reminder_wait';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%reminder_wait';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%reminder_wait';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%reminder_wait';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%send_reminder';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%send_reminder';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%send_reminder';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%send_reminder';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%product_attributes';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%product_attributes';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%product_attributes';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%product_attributes';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%product_author_charstcs';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%product_author_charstcs';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%product_author_charstcs';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%product_author_charstcs';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%average_rating';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%average_rating';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%average_rating';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%average_rating';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%review_count';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%review_count';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%review_count';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%review_count';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%legacy_review_ids';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%legacy_review_ids';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%legacy_review_ids';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%legacy_review_ids';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%has_legacy_reviews';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%has_legacy_reviews';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%has_legacy_reviews';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%has_legacy_reviews';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%review_reminder_status';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%review_reminder_status';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%review_reminder_status';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%review_reminder_status';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%review_reminder_data';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%review_reminder_data';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%review_reminder_data';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%review_reminder_data';
+

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "logo-url1",
+    "logo-img1",
+    "logo-url2",
+    "logo-img2",
+    "logo-url3",
+    "logo-img3",
+    "logo-url4",
+    "logo-img4",
+    "logo-url5",
+    "logo-img5",
+    "logo-url6",
+    "logo-img6"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:06.529Z"
+}

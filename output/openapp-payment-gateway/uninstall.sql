@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_openapp_settings', 'woocommerce_version', 'openappgw_db_version', 'woocommerce_myaccount_page_id', 'woocommerce_weight_unit', 'woocommerce_dimension_unit', 'openappgw_sse_supported');
+DELETE FROM wp_options WHERE option_name LIKE '%_enabled';
+DELETE FROM wp_options WHERE option_name LIKE '%_cost';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('oa_last_login', 'oaOrderId', 'paczkomat_key', 'Wybrany paczkomat', '_billing_nip', 'oa_auth_token');
+DELETE FROM wp_usermeta WHERE meta_key IN ('oa_last_login', 'oaOrderId', 'paczkomat_key', 'Wybrany paczkomat', '_billing_nip', 'oa_auth_token');
+DELETE FROM wp_termmeta WHERE meta_key IN ('oa_last_login', 'oaOrderId', 'paczkomat_key', 'Wybrany paczkomat', '_billing_nip', 'oa_auth_token');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('oa_last_login', 'oaOrderId', 'paczkomat_key', 'Wybrany paczkomat', '_billing_nip', 'oa_auth_token');
+

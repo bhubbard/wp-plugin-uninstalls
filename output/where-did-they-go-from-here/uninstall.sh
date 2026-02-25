@@ -1,0 +1,20 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ald_wherego_settings'
+wp option delete 'wherego_settings'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wheredidtheycomefrom'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wheredidtheycomefrom'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wheredidtheycomefrom'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wheredidtheycomefrom'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_video_thumbnail'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_video_thumbnail'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_video_thumbnail'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_video_thumbnail'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"

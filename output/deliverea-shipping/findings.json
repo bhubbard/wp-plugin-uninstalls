@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wcdeliverea_api_user",
+    "wcdeliverea_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_deliverea_shipping_dlvr_ref",
+    "_deliverea_shipping_date",
+    "_deliverea_shipping_carrier_ref",
+    "_deliverea_status",
+    "_deliverea_collection_dlvr_ref",
+    "_deliverea_collection_carrier_ref"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:13.269Z"
+}

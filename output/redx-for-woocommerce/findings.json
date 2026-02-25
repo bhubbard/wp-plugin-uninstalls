@@ -1,0 +1,16 @@
+{
+  "options": [
+    "redx_tracking_plugin_activation_redirect",
+    "redex_tracking_enabled",
+    "redex_tracking_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_parcel_weight",
+    "_redx_tracking_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:06.594Z"
+}

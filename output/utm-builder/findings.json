@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "sutm_form_data_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sutm_link_history"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:31.547Z"
+}

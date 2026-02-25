@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dsgn_css",
+    "dsgn_design_library",
+    "dsgn_license"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:20.319Z"
+}

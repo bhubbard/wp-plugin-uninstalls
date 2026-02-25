@@ -1,0 +1,22 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cr_mailing_id",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_country",
+    "first_name",
+    "last_name",
+    "billing_company",
+    "billing_postcode",
+    "billing_city",
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:49.005Z"
+}

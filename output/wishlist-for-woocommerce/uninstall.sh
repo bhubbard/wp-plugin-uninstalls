@@ -1,0 +1,21 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'data_wishlist_genral'
+wp option delete 'data_share_wishlist'
+wp option delete 'data_style_wishlist'
+wp option delete 'recently_activated'
+
+# Delete Transients
+wp transient delete 'update_plugins'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_pwlp_wishlistf'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_pwlp_wishlistf'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_pwlp_wishlistf'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_pwlp_wishlistf'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'tgmpa_dismissed_notice_%'"

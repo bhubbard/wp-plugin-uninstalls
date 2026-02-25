@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_mccp_settings",
+    "woocommerce_mccp_account",
+    "woocommerce_mccp_secret",
+    "woocommerce_mccp_wallets",
+    "mccp_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:31.660Z"
+}

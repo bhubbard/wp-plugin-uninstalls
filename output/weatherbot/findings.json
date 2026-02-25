@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rx_weatherbot_settings",
+    "rx_weatherbot_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rx_weatherbot_refresh_weather"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:34.206Z"
+}

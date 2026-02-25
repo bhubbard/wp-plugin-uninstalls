@@ -1,0 +1,27 @@
+{
+  "options": [
+    "cg_enabled",
+    "cg_blacklist",
+    "cg_whitelist",
+    "cg_bck_color",
+    "cg_scn_color",
+    "cg_cookietitle",
+    "cg_cookietext",
+    "cg_cookiedeclaration",
+    "cg_expire",
+    "cg_ad_storage",
+    "cg_ad_user_data",
+    "cg_ad_personalization",
+    "cg_analytics_storage",
+    "cg_api_key",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cg_update_lists"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:31.451Z"
+}

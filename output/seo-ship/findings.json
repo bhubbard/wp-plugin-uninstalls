@@ -1,0 +1,33 @@
+{
+  "options": [
+    "floating_seo_ship_meta_title",
+    "floating_seo_ship_meta_description",
+    "floating_seo_ship_noindex",
+    "floating_seo_ship_nofollow",
+    "floating_seo_ship_canonical",
+    "woocommerce_shop_page_id",
+    "_floating_seo_ship_meta_title",
+    "_floating_seo_ship_meta_description",
+    "_floating_seo_ship_meta_keywords",
+    "_floating_seo_ship_meta_noindex",
+    "_floating_seo_ship_meta_nofollow",
+    "_floating_seo_ship_meta_canonical"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_floating_seo_ship_post_meta_title",
+    "_floating_seo_ship_post_meta_description",
+    "_floating_seo_ship_post_meta_noindex",
+    "_floating_seo_ship_post_meta_nofollow",
+    "_floating_seo_ship_post_meta_canonical",
+    "_floating_seo_ship_meta_title",
+    "_floating_seo_ship_meta_description",
+    "_floating_seo_ship_meta_noindex",
+    "_floating_seo_ship_meta_nofollow",
+    "_floating_seo_ship_meta_canonical"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:04.289Z"
+}

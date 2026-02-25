@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ymc_bg_stage",
+    "ymc_bg_color",
+    "ymc_border_color",
+    "ymc_text_color",
+    "ymc_counter_color",
+    "ymc_question_color",
+    "ymc_bg_correct_ansver",
+    "ymc_bg_incorrect_ansver",
+    "ymc_align_question",
+    "ymc_mute",
+    "ymc_popup",
+    "ymc_header_popup",
+    "ymc_content_popup",
+    "ymc_theme_crossword",
+    "ymc_crossword"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:47.091Z"
+}

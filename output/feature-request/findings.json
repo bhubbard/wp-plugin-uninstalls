@@ -1,0 +1,31 @@
+{
+  "options": [
+    "avfr_version",
+    "avfr_installed_before",
+    "avfr_post_registered",
+    "avfr_tax_option_moved",
+    "avfr_settings_groups",
+    "feature_request_version",
+    "*db_version",
+    "avfr_settings_main",
+    "avfr_settings_features"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_avfr_status",
+    "_flag",
+    "_avfr_total_votes",
+    "_avfr_votes",
+    "avfr_max_votes",
+    "avfr_total_votes",
+    "avfr_comments_disabled",
+    "avfr_new_disabled",
+    "_thumbnail_id",
+    "_avfr_author_email",
+    "*_has_voted"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:15.746Z"
+}

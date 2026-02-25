@@ -1,0 +1,18 @@
+{
+  "options": [
+    "inax_options",
+    "inax_payment_gateway",
+    "inax_do_activation",
+    "inax_db_version",
+    "woocommerce_currency",
+    "inax_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_current_woo_wallet_balance"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:53.221Z"
+}

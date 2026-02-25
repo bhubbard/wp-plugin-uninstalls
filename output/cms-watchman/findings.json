@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cms_watchman_current_cms",
+    "cms_watchman_access_token",
+    "cms_watchman_client_id",
+    "cms_watchman_client_secret",
+    "cms_watchman_new_update",
+    "cms_watchman_welcom_display"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cms_watchman_plugin_update_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "cms_watchman_company_id_*",
+    "cms_watchman_company_token_*",
+    "cms_watchman_auth_token_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:11.853Z"
+}

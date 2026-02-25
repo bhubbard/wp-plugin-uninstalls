@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pjm_graph_options",
+    "pjm_graph_title",
+    "pjm_graph_width",
+    "pjm_graph_height",
+    "pjm_graph_bgcolor",
+    "pjm_graph_fgcolor",
+    "pjm_graph_linecolor",
+    "pjm_graph_bglinecolor",
+    "pjm_graph_trendcolor",
+    "pjm_graph_datefmt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:47.900Z"
+}

@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('moceanapi_abandoned_carts_hide_images', 'moceanapi_abandoned_carts_bulk_email_content', 'moceanapi_abandoned_carts_key', 'moceanapi_abandoned_carts_secret', 'moceanapi_abandoned_carts_from', 'moceanapi_abandoned_carts_bulk_content', 'moceanapi_abandoned_carts_lift_email', 'moceanapi_abandoned_carts_exclude_ghost_carts', 'moceanapi_abandoned_carts_email_content', 'moceanapi_abandoned_carts_notification_email', 'moceanapi_abandoned_carts_notification_frequency', 'moceanapi_abandoned_carts_content', 'moceanapi_abandoned_carts_notification_sms', 'moceanapi_abandoned_carts_sms_notification_frequency', 'moceanapi_abandoned_carts_exit_intent_status', 'moceanapi_abandoned_carts_exit_intent_test_mode', 'moceanapi_abandoned_carts_exit_intent_type', 'moceanapi_abandoned_carts_exit_intent_main_color', 'moceanapi_abandoned_carts_exit_intent_inverse_color', 'moceanapi_abandoned_carts_exit_intent_image', 'moceanapi_abandoned_carts_version_number', 'moceanapi_abandoned_carts_recoverable_cart_count', 'moceanapi_abandoned_carts_transferred_table', 'wclcfc_review_submitted', 'wclcfc_version_number', 'wclcfc_captured_abandoned_cart_count', 'moceanapi_abandoned_carts_captured_abandoned_cart_count', 'wclcfc_times_review_declined', 'moceanapi_abandoned_carts_times_review_declined', 'wclcfc_exit_intent_status', 'wclcfc_exit_intent_test_mode', 'wclcfc_exit_intent_type', 'wclcfc_exit_intent_main_color', 'wclcfc_exit_intent_inverse_color', 'fs_debug_mode', 'active_sitewide_plugins', 'fs_active_plugins', 'fs_storage_logger', 'moceanapi_abandoned_carts_ghost_cart_count', 'moceanapi_abandoned_carts_carts_per_page', 'moceanapi_abandoned_carts_recoverable_cart_count', 'update_plugins', 'update_themes');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_phone', 'billing_country', 'moceanapi_abandoned_carts_carts_per_page');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_phone', 'billing_country', 'moceanapi_abandoned_carts_carts_per_page');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_phone', 'billing_country', 'moceanapi_abandoned_carts_carts_per_page');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_phone', 'billing_country', 'moceanapi_abandoned_carts_carts_per_page');
+

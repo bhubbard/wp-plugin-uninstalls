@@ -1,0 +1,29 @@
+{
+  "options": [
+    "Zotpress_DefaultAccount",
+    "Zotpress_cache_version",
+    "Zotpress_DefaultCPT",
+    "Zotpress_DefaultEditor",
+    "Zotpress_DefaultStyle",
+    "Zotpress_StyleList",
+    "Zotpress_update_version",
+    "Zotpress_main_db_version",
+    "Zotpress_oauth_db_version",
+    "Zotpress_zoteroItems_db_version",
+    "Zotpress_zoteroCollections_db_version",
+    "Zotpress_zoteroTags_db_version",
+    "Zotpress_zoteroRelItemColl_db_version",
+    "Zotpress_zoteroRelItemTags_db_version",
+    "Zotpress_zoteroItemImages_db_version",
+    "Zotpress_update_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zotpress_5_2_ignore_notice",
+    "zotpress_survey_notice_ignore"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:39.731Z"
+}

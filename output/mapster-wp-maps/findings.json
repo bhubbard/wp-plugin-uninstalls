@@ -1,0 +1,52 @@
+{
+  "options": [
+    "mapster_tutorial",
+    "mapster_default_popup",
+    "mapster_settings_page",
+    "mapster_default_image_text",
+    "mapster_default_header",
+    "mapster_welcome_message",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "acf_first_activated_version",
+    "acf_version",
+    "acf_escaped_html_notice_dismissed",
+    "cptui_post_types",
+    "cptui_taxonomies",
+    "acf_escaped_html_log",
+    "acf_will_escape_html_log"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "acf_deactivated_notice_id",
+    "acf_network_upgrade_needed_*"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook",
+    "acf_update_site_health_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "term_order",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "_acf_changed",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "*_url",
+    "*_target"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:51.650Z"
+}

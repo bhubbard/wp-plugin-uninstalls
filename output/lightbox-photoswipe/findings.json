@@ -1,0 +1,20 @@
+{
+  "options": [
+    "falke_mdm_mappings",
+    "disabled_post_ids",
+    "lightbox_photoswipe_use_cache",
+    "lightbox_photoswipe_add_lazyloading",
+    "*_crop",
+    "*_size_w",
+    "*_size_h",
+    "lightbox_photoswipe_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lbwps_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:34:25.241Z"
+}

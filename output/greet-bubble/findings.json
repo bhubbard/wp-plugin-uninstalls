@@ -1,0 +1,29 @@
+{
+  "options": [
+    "greet_bubble_version",
+    "greet_bubble_first_version",
+    "greet_bubble_activation_date",
+    "greet_bubble_db_version",
+    "greet_bubble_review_notice_dismiss",
+    "themeatelier_offer_banner_dismissed_*",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "_greet"
+  ],
+  "transients": [
+    "themeatelier_plugins"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_greet_bubble_errors_*",
+    "themeatelier_discount_dismissed",
+    "_greet_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:31.520Z"
+}

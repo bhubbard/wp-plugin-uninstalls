@@ -1,0 +1,40 @@
+{
+  "options": [
+    "pcnch_enable_log",
+    "pcnch_post_types",
+    "pcnch_update_types",
+    "pcnch_display_limit",
+    "pcnch_first_visit_display_limit",
+    "pcnch_first_visit_post_types",
+    "pcnch_localstorage_lifetime",
+    "pcnch_localstorage_first_visit_lifetime",
+    "pcnch_transient_key_lifetime",
+    "pcnch_transient_key_first_visit_lifetime",
+    "pcnch_post_icons",
+    "pcnch_list_position",
+    "pcnch_list_width",
+    "pcnch_read_icon",
+    "pcnch_show_logo",
+    "pcnch_mark_all_as_read",
+    "pcnch_show_read_items",
+    "pcnch_hide_read_items",
+    "pcnch_all_read_message",
+    "pcnch_custom_notifications",
+    "pcnch_cron_frequency",
+    "pcnch_cron_time",
+    "pcnch_show_welcome_message"
+  ],
+  "transients": [
+    "pcnch_first_visit_notifications",
+    "pcnch_daily_notifications"
+  ],
+  "cron_jobs": [
+    "pcnch_refresh_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "main_blog_tag"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:20.278Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fca_pc",
+    "fca_pc_after_upgrade_info",
+    "fca_pc_no_pixel_dismissed",
+    "fca_pc_version",
+    "fca_pc_show_review_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fca_pc_schedule_review_notice"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:13.358Z"
+}

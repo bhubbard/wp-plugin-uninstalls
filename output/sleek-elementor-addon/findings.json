@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sleek_ea_widgets_settings",
+    "sleek_ea_enabled_widgets",
+    "sleek_ea_plugin_activated",
+    "sleek_ea_widgets_data"
+  ],
+  "transients": [
+    "sleek_ea_elementor_notice",
+    "sleek_ea_widget_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:47.849Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "load-html-files-settings",
+    "*_form_rendered"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "load_html_files_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:33.447Z"
+}

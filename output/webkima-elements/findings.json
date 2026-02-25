@@ -1,0 +1,15 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "webkima_elements"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webkima_elements_notice_*",
+    "webkima_elements_cache_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:50.471Z"
+}

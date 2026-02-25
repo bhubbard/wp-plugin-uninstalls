@@ -1,0 +1,37 @@
+{
+  "options": [
+    "SME_Settings",
+    "SME_smugmugembed_api",
+    "SME_api_progress",
+    "SME_api_token",
+    "SME_SelectedAlbums",
+    "PS_PhotoSession_options_Types",
+    "PS_PhotoSession_options_Start_Time",
+    "PS_PhotoSession_options_Time_Increments-select",
+    "PS_PhotoSession_options_End_Time",
+    "PS_PhotoSession_options_ShowTakenSessions",
+    "PS_PhotoSession_options_Header_Style",
+    "PS_PhotoSession_options_Link_Style",
+    "PS_PhotoSession_options_Success_Text",
+    "SME_SmugMugEmbed_options_AvailableSizes",
+    "SME_SmugMugEmbed_options_DefaultSize",
+    "SME_SmugMugEmbed_options_DefaultAlign",
+    "SME_SmugMugEmbed_options_AvailableClickResponse",
+    "SME_SmugMugEmbed_options_DefaultClickResponse",
+    "SME_SmugMugEmbed_options_DefaultKeywords",
+    "SME_SmugMugEmbed_options_DefaultCaption",
+    "SME_SmugMugEmbed_options_DefaultImageName",
+    "SME_SmugMugEmbed_options_DefaultOpenNewWindow",
+    "SME_SmugMugEmbed_options_Galleries\r\n",
+    "SME_License"
+  ],
+  "transients": [
+    "sme_license_reminder",
+    "sme_license_expiration"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:11.912Z"
+}

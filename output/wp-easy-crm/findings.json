@@ -1,0 +1,21 @@
+{
+  "options": [
+    "clients_db_version",
+    "wp-easy-crm-settings",
+    "eacr_recaptcha_site_key",
+    "eacr_recaptcha_secret_key",
+    "eacr_enable_region_in_contact_form",
+    "eacr_exclude_general_region",
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "eacr_send_email_reminder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "region_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:19.816Z"
+}

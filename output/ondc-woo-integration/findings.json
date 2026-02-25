@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ondcsellerapp_onboarding",
+    "ondcsellerapp_settings",
+    "ondcsellerapp_env_veriables",
+    "ondcsellerapp_enable_message_queue",
+    "ondcsellerapp_subscription_request_type"
+  ],
+  "transients": [
+    "_ondc_activation_redirect"
+  ],
+  "cron_jobs": [
+    "ondcsellerapp_message_schedule_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ondcsellerapp_product_categories",
+    "ondcsellerapp_product_sub_categories",
+    "ondcsellerapp_product_sync",
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:23.173Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpt_configure_options",
+    "group_ptable_installed",
+    "group_ptable_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "table_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:13.801Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gf_zibal_configured",
+    "gf_zibal_version",
+    "gf_zibal_settings",
+    "recently_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:47.266Z"
+}

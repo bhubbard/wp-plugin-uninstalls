@@ -1,0 +1,27 @@
+{
+  "options": [
+    "rss_language",
+    "acf_repeater_ac",
+    "acf_gallery_ac",
+    "acf_options_page_ac",
+    "acf_flexible_content_ac",
+    "acf_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen",
+    "_wp_page_template",
+    "field_group_layout",
+    "show_on_page",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:54.574Z"
+}

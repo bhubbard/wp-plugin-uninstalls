@@ -1,0 +1,18 @@
+{
+  "options": [
+    "uxkode_custom_buttons_styles",
+    "uxkode_addons_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_uxkode_custom_buttons_type",
+    "_uxkode_product_addons_enabled",
+    "_uxkode_product_addons_selected",
+    "_uxkode_custom_buttons_enabled",
+    "_uxkode_custom_buttons"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:39.986Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "_wpio_settings",
+    "wpio_optimize_fail_counter",
+    "wpio_optimization_disabled_notice_dismissed",
+    "wpio_db_version",
+    "wpio_indexation_auto",
+    "wpio_do_activation_redirect",
+    "wpio_ao_lastRun",
+    "wpio_is_OptimizeAll",
+    "wpio_ao_status",
+    "wpio_err_logs",
+    "*_irreview_installation_time",
+    "*_irfeedback_version",
+    "*_disallow_feedback"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpio_auto_optimize_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpio-optimizeall-notice-dismissed",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:23.662Z"
+}

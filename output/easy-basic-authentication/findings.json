@@ -1,0 +1,24 @@
+{
+  "options": [
+    "basic_auth_plugin_admin_enable",
+    "basic_auth_plugin_enable",
+    "basic_auth_plugin_username",
+    "basic_auth_plugin_password",
+    "basic_auth_plugin_whitelist",
+    "basic_auth_plugin_urlwhitelist",
+    "basic_auth_plugin_alert_enable",
+    "basic_auth_plugin_alertemail",
+    "basic_auth_plugin_admin_log_enable",
+    "basic_auth_plugin_remove_data_after_uninstall",
+    "basic_auth_failure_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "locale",
+    "_easy_basic_authentication_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:14.425Z"
+}

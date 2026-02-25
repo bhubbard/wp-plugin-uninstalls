@@ -1,0 +1,21 @@
+{
+  "options": [
+    "eatransform_sns_last_debug",
+    "eatransform_sns_publisher_settings",
+    "wp_twitter_auto_poster_settings",
+    "wp_sns_auto_poster_settings"
+  ],
+  "transients": [
+    "eatransform_sns_error",
+    "eatransform_sns_success"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eatransform_sns_addon_dismissed",
+    "_eatransform_sns_posted",
+    "_eatransform_sns_posted_at"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:57.745Z"
+}

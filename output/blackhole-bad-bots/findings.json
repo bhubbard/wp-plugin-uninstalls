@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bbb_options",
+    "bbb_badbots",
+    "blackhole-bad-bots-dismiss-notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:54.024Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "tct_spd_settings"
+  ],
+  "transients": [
+    "tct_spd_weather_data*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:52.165Z"
+}

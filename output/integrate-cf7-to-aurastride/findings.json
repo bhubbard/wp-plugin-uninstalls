@@ -1,0 +1,25 @@
+{
+  "options": [
+    "cf7au_api_fields_mapping",
+    "cf7au_api_enable",
+    "cf7au_api_url",
+    "cf7au_authorization_code",
+    "cf7au_client_id",
+    "cf7au_client_secret",
+    "cf7au_authorization_key",
+    "cf7au_log_enable",
+    "cf7au_send_direct",
+    "cf7au_aurastride_api_refresh_token",
+    "cf7au_aurastride_api_access_token",
+    "cf7au_aurastride_api_expiry_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cf7au_aurastride_crm_api_enquiry_submission",
+    "cf7au_aurastride_crm_form_api_enquiry_submission"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:19.707Z"
+}

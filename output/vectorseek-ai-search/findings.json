@@ -1,0 +1,14 @@
+{
+  "options": [
+    "vectorseek_host",
+    "vectorseek_context",
+    "vectorseek_api_key",
+    "vectorseek_search_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:09.938Z"
+}

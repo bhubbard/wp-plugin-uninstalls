@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ctcl_stripe_display_label",
+    "ctcl_activate_stripe",
+    "ctcl_stripe_test_mode",
+    "ctc_stripe_test_publishable_key",
+    "ctc_stripe_test_secret_key",
+    "ctc_stripe_live_publishable_key",
+    "ctc_stripe_live_secret_key",
+    "ctcl_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:19.612Z"
+}

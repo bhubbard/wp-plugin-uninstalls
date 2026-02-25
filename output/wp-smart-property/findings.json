@@ -1,0 +1,18 @@
+{
+  "options": [
+    "post_grid_layout_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "property_address",
+    "admin_notes",
+    "post_grid_meta_options",
+    "post_grid_post_settings",
+    "post_grid_ads_loop_meta_options",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:15.144Z"
+}

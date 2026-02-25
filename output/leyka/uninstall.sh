@@ -1,0 +1,255 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'leyka_success_page'
+wp option delete 'leyka_failure_page'
+wp option delete 'leyka_pd_terms_page'
+wp option delete 'leyka_terms_of_service_page'
+wp option delete 'leyka_engagement_banner_hide_from_roles'
+wp option delete 'leyka_merchandise_updated'
+wp option delete 'leyka_support_packages_no_campaign_behavior'
+wp option delete 'leyka_unisender_error_log'
+wp option delete 'permalink-structure'
+wp option delete 'leyka_donations_storage_type'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'leyka_admin_notice_%'"
+wp option delete 'leyka_donor_management_available'
+wp option delete 'leyka_campaign_categories_available'
+wp option delete 'leyka_plugin_stats_option_needs_sync'
+wp option delete 'leyka_plugin_stats_option_sync_done'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'leyka_%'"
+wp option delete 'leyka_permalinks_flushed'
+wp option delete 'leyka_donor_accounts_available'
+wp option delete 'leyka_init_wizard_redirect'
+wp option delete 'leyka_last_ver'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'leyka_currency_rur2%'"
+wp option delete 'leyka_stats_sipher_public_key'
+wp option delete 'polylang'
+wp option delete 'leyka_cp_ip'
+wp option delete 'leyka_yandex-yandex_money_label'
+wp option delete 'leyka_currency_rur_label'
+wp option delete 'leyka_currency_rur_min_sum'
+wp option delete 'leyka_currency_rur_max_sum'
+wp option delete 'leyka_currency_rur_fixed_amounts'
+wp option delete 'chronopay_card_product_id_rur'
+wp option delete 'chronopay_card_rebill_product_id_rur'
+wp option delete 'leyka_admin_donors_data_editable'
+wp option delete 'leyka_donors_data_editable'
+wp option delete 'leyka_receiver_country'
+wp option delete 'leyka_donations_storage_last_post2sep_id'
+wp option delete 'leyka_delete_plugin_data'
+wp option delete 'leyka_delete_plugin_options'
+
+# Delete Transients
+wp transient delete 'leyka_gds_integration_last_data_preparing_date'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_leyka_dashboard_data_cache_timestamp_%' OR option_name LIKE '_site_transient_leyka_dashboard_data_cache_timestamp_%'"
+wp transient delete 'leyka_donations2refresh_donor_data_cache'
+wp transient delete 'leyka_default_campaign_id'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_leyka_stats_donations_dynamics_%' OR option_name LIKE '_site_transient_leyka_stats_donations_dynamics_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_leyka_stats_donations_main_curr_%' OR option_name LIKE '_site_transient_leyka_stats_donations_main_curr_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_leyka_stats_donations_main_prev_%' OR option_name LIKE '_site_transient_leyka_stats_donations_main_prev_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_leyka_stats_donations_recurring_curr_%' OR option_name LIKE '_site_transient_leyka_stats_donations_recurring_curr_%'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_leyka_stats_donations_recurring_prev_%' OR option_name LIKE '_site_transient_leyka_stats_donations_recurring_prev_%'"
+wp transient delete 'leyka_init_campaign_id'
+wp transient delete 'leyka_wizards_activities'
+wp transient delete 'leyka_last_active_recurring_date'
+wp transient delete 'leyka_last_deferred_emails_date'
+wp transient delete 'leyka_last_update_recurring_subscriptions_status_date'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_campaign_merchandise_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_campaign_merchandise_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_campaign_merchandise_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_campaign_merchandise_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'payment_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'payment_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'payment_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'payment_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_gateway_response'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_gateway_response'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_gateway_response'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_gateway_response'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_dashboard_banner_closed-grade_plugin'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_dashboard_banner_closed-grade_plugin'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_dashboard_banner_closed-grade_plugin'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_dashboard_banner_closed-grade_plugin'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'campaign_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'campaign_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'campaign_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'campaign_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'campaign_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'campaign_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'campaign_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'campaign_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'leyka_dashboard_banner_closed-%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'leyka_dashboard_banner_closed-%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'leyka_dashboard_banner_closed-%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'leyka_dashboard_banner_closed-%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'campaign_target'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'campaign_target'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'campaign_target'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'campaign_target'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'payments_single_tab_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'payments_single_tab_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'payments_single_tab_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'payments_single_tab_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'payments_recurring_tab_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'payments_recurring_tab_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'payments_recurring_tab_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'payments_recurring_tab_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'payments_single_amounts_options_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'payments_single_amounts_options_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'payments_single_amounts_options_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'payments_single_amounts_options_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE 'payments_recurring_amounts_options_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE 'payments_recurring_amounts_options_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE 'payments_recurring_amounts_options_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE 'payments_recurring_amounts_options_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'is_finished'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'is_finished'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'is_finished'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'is_finished'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'hide_cover_tint'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'hide_cover_tint'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'hide_cover_tint'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'hide_cover_tint'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'total_funded'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'total_funded'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'total_funded'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'total_funded'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'campaign_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'campaign_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'campaign_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'campaign_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'donations_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'donations_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'donations_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'donations_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'donations_type_default'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'donations_type_default'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'donations_type_default'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'donations_type_default'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'campaign_css'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'campaign_css'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'campaign_css'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'campaign_css'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'campaign_cover'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'campaign_cover'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'campaign_cover'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'campaign_cover'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'campaign_logo'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'campaign_logo'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'campaign_logo'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'campaign_logo'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'default_payments_amounts'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'default_payments_amounts'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'default_payments_amounts'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'default_payments_amounts'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'campaign_currency'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'campaign_currency'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'campaign_currency'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'campaign_currency'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'form_content_position'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'form_content_position'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'form_content_position'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'form_content_position'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_leyka_target_reaching_mailout_sent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_leyka_target_reaching_mailout_sent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_leyka_target_reaching_mailout_sent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_leyka_target_reaching_mailout_sent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_leyka_target_reaching_mailout_errors'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_leyka_target_reaching_mailout_errors'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_leyka_target_reaching_mailout_errors'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_leyka_target_reaching_mailout_errors'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_leyka_daily_rouble_mode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_leyka_daily_rouble_mode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_leyka_daily_rouble_mode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_leyka_daily_rouble_mode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_leyka_daily_rouble_amount_variants'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_leyka_daily_rouble_amount_variants'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_leyka_daily_rouble_amount_variants'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_leyka_daily_rouble_amount_variants'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_leyka_daily_rouble_pm_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_leyka_daily_rouble_pm_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_leyka_daily_rouble_pm_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_leyka_daily_rouble_pm_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_campaign_additional_fields_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_campaign_additional_fields_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_campaign_additional_fields_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_campaign_additional_fields_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'count_views'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'count_views'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'count_views'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'count_views'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'count_submits'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'count_submits'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'count_submits'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'count_submits'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_account_activation_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_account_activation_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_account_activation_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_account_activation_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_description'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_description'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_description'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_description'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_first_donation_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_first_donation_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_first_donation_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_first_donation_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_first_donation_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_first_donation_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_first_donation_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_first_donation_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_last_donation_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_last_donation_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_last_donation_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_last_donation_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_last_donation_date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_last_donation_date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_last_donation_date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_last_donation_date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_campaigns'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_campaigns'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_campaigns'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_campaigns'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_campaigns_news_subscriptions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_campaigns_news_subscriptions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_campaigns_news_subscriptions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_campaigns_news_subscriptions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_gateways'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_gateways'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_gateways'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_gateways'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_amount_donated'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_amount_donated'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_amount_donated'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_amount_donated'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_amount_donated_currency'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_amount_donated_currency'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_amount_donated_currency'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_amount_donated_currency'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_donor_comments'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_donor_comments'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_donor_comments'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_donor_comments'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'leyka_dashboard_banner_closed-webinar-jan2022'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'leyka_dashboard_banner_closed-webinar-jan2022'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'leyka_dashboard_banner_closed-webinar-jan2022'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'leyka_dashboard_banner_closed-webinar-jan2022'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'header_cover_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'header_cover_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'header_cover_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'header_cover_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cover_bg_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cover_bg_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cover_bg_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cover_bg_color'"

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "qcclr_autoreply_settings",
+    "qcld_clr_key",
+    "qcld_clr_spam_protection",
+    "qcld_clr_spam",
+    "qcld_clr_delivery",
+    "qcld_clr_speed",
+    "qcld_clr_spam_message",
+    "comment_link_remove_option_name",
+    "qcclr_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:14.404Z"
+}

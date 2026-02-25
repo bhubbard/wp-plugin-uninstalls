@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tpcp_notification_read_status",
+    "_tpcp_assign_to",
+    "_tpcp_notification_for_user",
+    "_tpcp_due_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:31.457Z"
+}

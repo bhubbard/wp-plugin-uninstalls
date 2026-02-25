@@ -1,0 +1,16 @@
+{
+  "options": [
+    "droppcc-setting",
+    "droppcc-profile",
+    "droppcc-setting ",
+    "droppcc-profile "
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dropp_data_log_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:03.504Z"
+}

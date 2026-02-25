@@ -1,0 +1,41 @@
+{
+  "options": [
+    "*_duration",
+    "*_message_multiple",
+    "*_message",
+    "*cc_callbacks",
+    "*cc_consent_type",
+    "*cc_website_name",
+    "*cc_notice_banner_type",
+    "*cc_color_palette",
+    "*cc_language",
+    "*cc_notice_banner_reject_button_hide",
+    "*cc_preferences_center_close_button_hide",
+    "*cc_page_refresh_confirmation_buttons",
+    "*cc_custom_css",
+    "*cc_vendor_scripts_b64",
+    "*cc_enabled",
+    "*cc_selected_version",
+    "*_when",
+    "*_where",
+    "*_tag",
+    "*_target_blank",
+    "*_custom_css",
+    "*_bar_type",
+    "*_bar_position",
+    "*_close_message",
+    "*_disable_logged",
+    "*update_notice_duration",
+    "*cc_allow_open_prf_center",
+    "*settings_warning_disable",
+    "*links_separator"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_last_user_update"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:24.219Z"
+}

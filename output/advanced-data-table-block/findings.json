@@ -1,0 +1,12 @@
+{
+  "options": [
+    "advadata_plugin_version",
+    "advadata_activation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:58.227Z"
+}

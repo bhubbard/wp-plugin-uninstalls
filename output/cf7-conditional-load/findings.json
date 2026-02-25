@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cf7cl_conditional_load",
+    "cf7cl_archive"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7cl_checkbox_value"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:30.552Z"
+}

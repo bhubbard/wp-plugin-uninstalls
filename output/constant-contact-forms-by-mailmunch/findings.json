@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*_landing_pages_enabled",
+    "*_activation_redirect",
+    "*_activation_date",
+    "*_dismiss_review_notice",
+    "*constantcontact_access_token",
+    "*constantcontact_list_id",
+    "cc_mm_activation_redirect",
+    "*_user_token",
+    "*_site_id",
+    "*_auto_embed",
+    "*user_token",
+    "*user_email",
+    "*user_password",
+    "*skip_onboarding",
+    "*data",
+    "*guest_user",
+    "*wordpress_instance_id",
+    "*site_id",
+    "*list_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:44.474Z"
+}

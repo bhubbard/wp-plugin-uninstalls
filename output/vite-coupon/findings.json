@@ -1,0 +1,25 @@
+{
+  "options": [
+    "apbd_prov_*",
+    "active_sitewide_plugins",
+    "health-check-allowed-plugins",
+    "*_addons",
+    "*_installed",
+    "woocommerce_prices_include_tax",
+    "_vt_ac",
+    "apps_bd_ups",
+    "vc_addons",
+    "wc_admin_show_legacy_coupon_menu",
+    "woocommerce_enable_coupons"
+  ],
+  "transients": [
+    "dismissed_notice_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cogs_total_value"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:43.896Z"
+}

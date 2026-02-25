@@ -1,0 +1,18 @@
+{
+  "options": [
+    "rtcl_installed_from"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_views",
+    "_rtcl_image",
+    "_rtcl_icon",
+    "rtcl_favourites",
+    "phone",
+    "_rtcl_pp_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:08.766Z"
+}

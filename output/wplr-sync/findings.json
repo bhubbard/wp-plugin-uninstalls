@@ -1,0 +1,48 @@
+{
+  "options": [
+    "wplr_media_library",
+    "wplr_media_modals",
+    "wplr_public_api",
+    "wplr_hide_extensions",
+    "wplr_debugging_enabled",
+    "wplr_library_show_hierarchy",
+    "wplr_debuglogs",
+    "wplr_catch_errors",
+    "wplr_check_same_file",
+    "meowapps_hide_ads",
+    "wplr_enable_keywords",
+    "wplr_sync_keywords",
+    "wr2x_big_image_size_threshold",
+    "wplr_plugins",
+    "wplr_use_taken_date",
+    "wplr_filename_accents",
+    "wplr_upload_folder",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "nfw_options",
+    "wplr_media_organizer",
+    "*_license",
+    "force_sslverify",
+    "*_pro_serial",
+    "meowapps_hide_meowapps",
+    "litespeed.conf.cache-rest",
+    "mwai_options",
+    "meowapps_news",
+    "*_rating_date"
+  ],
+  "transients": [
+    "wplr_auth_token",
+    "wplr-media-size-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wplr_auth_token",
+    "_wp_attachment_image_alt",
+    "_media_version",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:06.178Z"
+}

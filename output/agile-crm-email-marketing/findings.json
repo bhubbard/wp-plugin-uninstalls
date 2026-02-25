@@ -1,0 +1,21 @@
+{
+  "options": [
+    "email_marketing_agile_domain",
+    "email_marketing_agile_email",
+    "email_marketing_agile_rest_api",
+    "email_marketing_agile_password",
+    "email_marketing_agile_webstats",
+    "email_marketing_agile_webrules",
+    "email_marketing_agile_js_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "email_marketing_landing_page",
+    "email_marketing_enable_webrule",
+    "email_marketing_enable_webstats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:23.193Z"
+}

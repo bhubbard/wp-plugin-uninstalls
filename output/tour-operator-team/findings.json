@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_lsx-to_settings"
+  ],
+  "transients": [
+    "_tour_operators_team_flush_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "expert",
+    "accommodation_to_team",
+    "contact_number",
+    "contact_email",
+    "skype"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:23.826Z"
+}

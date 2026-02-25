@@ -1,0 +1,17 @@
+{
+  "options": [
+    "yasakani_option"
+  ],
+  "transients": [
+    "yasakani_statistics",
+    "yasakani_statistics_*",
+    "yasakani_notice"
+  ],
+  "cron_jobs": [
+    "cron_yasakani_bruteforce_expired"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:10.476Z"
+}

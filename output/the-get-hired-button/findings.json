@@ -1,0 +1,12 @@
+{
+  "options": [
+    "thegehib_button_activated",
+    "thegehib_button_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:50.100Z"
+}

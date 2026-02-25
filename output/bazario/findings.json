@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_shop_page_id",
+    "woocommerce_catalog_columns",
+    "woocommerce_enable_shipping_calc",
+    "woocommerce_tax_total_display",
+    "woocommerce_enable_order_comments",
+    "woocommerce_ship_to_destination",
+    "woocommerce_hide_out_of_stock_items",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bazario_template_type",
+    "_wp_attachment_image_alt",
+    "thumbnail_id",
+    "_sold_individually",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:30.031Z"
+}

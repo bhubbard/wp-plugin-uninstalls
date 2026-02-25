@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_paylane_settings",
+    "login_PayLane",
+    "password_PayLane"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payment_method_title",
+    "paylane-type",
+    "paylane-id-sale",
+    "paylane-notification-type",
+    "paylane-notification-timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:40.342Z"
+}

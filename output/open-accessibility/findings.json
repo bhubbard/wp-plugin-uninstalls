@@ -1,0 +1,14 @@
+{
+  "options": [
+    "open_accessibility_options",
+    "open_accessibility_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "open_accessibility_cleanup_data"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:33.510Z"
+}

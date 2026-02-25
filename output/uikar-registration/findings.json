@@ -1,0 +1,17 @@
+{
+  "options": [
+    "landing_page_id",
+    "email_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "validity_duration",
+    "tel",
+    "Mobile",
+    "has_to_be_activated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:33.968Z"
+}

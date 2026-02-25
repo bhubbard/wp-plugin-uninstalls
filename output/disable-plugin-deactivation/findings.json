@@ -1,0 +1,14 @@
+{
+  "options": [
+    "disable_plugin_deactivation",
+    "disable_plugin_activation",
+    "disable_plugin_deletion",
+    "disable_plugin_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:05.218Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "jal_db_version",
+    "woocommerce_currency",
+    "sortsearchtitle_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "my_oneminute_event",
+    "my_custom_5_minute_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sync",
+    "_warranty",
+    "_booking_start"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:17.286Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "accordion_post_type_selected",
+    "choose_style",
+    "accordion_lightbox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "accordion_fancy"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:56.335Z"
+}

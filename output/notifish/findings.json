@@ -1,0 +1,14 @@
+{
+  "options": [
+    "notifish_credentials_notice_dismissed",
+    "notifish_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_notifish_meta_value_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:24.201Z"
+}

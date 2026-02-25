@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_custom_admin_bar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show_admin_bar_front"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:39.201Z"
+}

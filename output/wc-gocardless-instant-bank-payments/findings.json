@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gc_ob_payment_id",
+    "gc_ob_payment_ref",
+    "gc_ob_customer_id",
+    "gc_ob_billing_request_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:15.489Z"
+}

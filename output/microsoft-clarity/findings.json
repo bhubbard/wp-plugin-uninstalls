@@ -1,0 +1,16 @@
+{
+  "options": [
+    "clarity_project_id",
+    "clarity_wordpress_site_id",
+    "clarity_is_latest_plugin_version",
+    "clarity_is_agent_enabled",
+    "clarity_activation_redirect",
+    "clarity_collect_batch"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:16.010Z"
+}

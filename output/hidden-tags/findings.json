@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hidden_tags_visibility",
+    "hidden_tags"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:36.999Z"
+}

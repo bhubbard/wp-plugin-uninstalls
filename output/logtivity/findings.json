@@ -1,0 +1,23 @@
+{
+  "options": [
+    "logtivity_last_settings_check_in_at",
+    "dismissed-*",
+    "logtivity_enable_options_table_logging",
+    "logtivity_enable_post_meta_logging",
+    "logtivity_version",
+    "logtivity_app_verify_url",
+    "logtivity_activate"
+  ],
+  "transients": [
+    "dismissed-logtivity-site-url-has-changed-notice",
+    "dismissed-*",
+    "logtivity_*",
+    "update_plugins",
+    "logtivity-welcome-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:30.092Z"
+}

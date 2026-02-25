@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dirtysuds_export_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "story_print_headline",
+    "sub_head",
+    "story_production_notes",
+    "story_captions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:16.363Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "aet_turn_on",
+    "aet_block_manually_added_tags",
+    "aet_examine_post_title",
+    "aet_examine_post_content",
+    "aet_filter_by_category",
+    "aet_clean_uninstall",
+    "aet_included_categories",
+    "aet_automatic_tagging_included_categories",
+    "aet_automatic_tagging"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:24.971Z"
+}

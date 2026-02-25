@@ -1,0 +1,52 @@
+{
+  "options": [
+    "external_updates-*",
+    "woocommerce_weight_unit",
+    "mkl_pc__settings",
+    "woocommerce_cart_redirect_after_add",
+    "*_size_w",
+    "*_size_h",
+    "ywraq_hide_add_to_cart",
+    "ywraq_hide_price",
+    "mkl_pc_theme_viewer_bg",
+    "alg_wc_currency_switcher_price_formats_currency_position_*",
+    "woocommerce_currency",
+    "mkl_pc_theme_use_viewer_bg",
+    "mkl_pc__wpml_registered_fields",
+    "mkl_pc__pll_registered_fields",
+    "*color_mode",
+    "*choice_width",
+    "*_no_form_modal",
+    "*_disable_sticky_footer",
+    "mkl_pc_version",
+    "auto_update_plugins",
+    "*_sid",
+    "udmanager_updater_sid"
+  ],
+  "transients": [
+    "mkl_pc_themes_url",
+    "mkl_pc_data_init_version_*",
+    "mkl_pc_data_init_*",
+    "mkl_get_configurable_products"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_variable_configuration_mode",
+    "*_all_variations_are_configurable",
+    "*_is_configurable",
+    "*structure",
+    "mkl_pc_hide_addon__*",
+    "mkl_pc_hide_addon__stock_management_placeholder",
+    "mkl_pc_hide_addon__extra_price_placeholder",
+    "mkl_pc_hide_addon__form_field_placeholder",
+    "elementor_configuration_modal_id",
+    "elementor_configuration_modal_button_label",
+    "mkl_pc_hide_addon__conditional_placeholder",
+    "mkl_load_configurator_on_page",
+    "enable_default_add_to_cart",
+    "_mkl_product_configurator_content__backup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:17.136Z"
+}

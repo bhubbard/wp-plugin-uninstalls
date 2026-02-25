@@ -1,0 +1,24 @@
+{
+  "options": [
+    "virtuaria_gstore_code",
+    "virtuaria_google_ignore_categories",
+    "virtuaria_google_ignore_groups",
+    "virtuaria_google_frequency_feed",
+    "virtuaria_google_analytics"
+  ],
+  "transients": [
+    "virtuaria_google_feed_message"
+  ],
+  "cron_jobs": [
+    "google_generate_feed"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_unity_metric",
+    "_box_metric",
+    "_price",
+    "_product_brand"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:55.388Z"
+}

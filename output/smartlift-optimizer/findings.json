@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smartlift_cache_enable",
+    "smartlift_webp_enable",
+    "smartlift_lazy_enable",
+    "smartlift_defer_js",
+    "smartlift_minify_html"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:33.755Z"
+}

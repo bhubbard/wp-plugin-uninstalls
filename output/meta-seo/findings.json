@@ -1,0 +1,14 @@
+{
+  "options": [
+    "manornk_meta_description"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_manornk_meta_description_value_key",
+    "_manornk_rel_canonical_value_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:59.881Z"
+}

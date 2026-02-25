@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sidebars_widgets",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_thumbnail_id",
+    "_product_image_gallery",
+    "_menu_item_object_id",
+    "_menu_item_menu_item_parent",
+    "thumbnail_id",
+    "_csf_errors_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:43.168Z"
+}

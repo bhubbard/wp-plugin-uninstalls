@@ -1,0 +1,56 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'number_of_particles'
+wp option delete 'color_of_particles'
+wp option delete 'type_of_particle'
+wp option delete 'border_width_of_particles'
+wp option delete 'border_color_of_particles'
+wp option delete 'polygon_sides_of_particles'
+wp option delete 'image_as_particle'
+wp option delete 'opacity_of_particles'
+wp option delete 'random_opacity_of_particles'
+wp option delete 'size_of_particles'
+wp option delete 'line_linked_color_of_particles'
+wp option delete 'opacity_of_particles_line'
+wp option delete 'line_width_between_particles'
+wp option delete 'speed_of_particles'
+wp option delete 'direction_of_particles'
+wp option delete 'random_movement_of_particles'
+wp option delete 'out_mode_of_particles'
+wp option delete 'bounce_between_particles'
+wp option delete 'enable_hover_on_particles'
+wp option delete 'hover_mode_on_particles'
+wp option delete 'enable_click_on_particles'
+wp option delete 'click_mode_on_particles'
+wp option delete 'grab_distance_on_particles'
+wp option delete 'grab_line_opacity_on_particles'
+wp option delete 'bubble_distance_on_particles'
+wp option delete 'bubble_size_on_hover_particles'
+wp option delete 'hover_event_duration_particles'
+wp option delete 'bubble_line_opacity_on_particles'
+wp option delete 'speed_on_hover_particles'
+wp option delete 'repulse_distance_on_particles'
+wp option delete 'repulse_duration_on_particles'
+wp option delete 'push_nb_particles'
+wp option delete 'remove_number_on_click_particles'
+wp option delete 'background_color_of_banner'
+wp option delete 'background_image_of_banner'
+wp option delete 'height_of_banner'
+wp option delete 'banner_header_title_color'
+wp option delete 'banner_header_title_font_size'
+wp option delete 'banner_header_title'
+wp option delete 'banner_description_text_color'
+wp option delete 'banner_description_text_size'
+wp option delete 'banner_description'
+wp option delete 'banner_call_to_action_bg'
+wp option delete 'banner_call_to_action_color'
+wp option delete 'banner_call_to_action_url'
+wp option delete 'banner_call_to_action'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"

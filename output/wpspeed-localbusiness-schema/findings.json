@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wpsp_lcseo_businesstype",
+    "wpsp_lbs_name",
+    "wpsp_lbs_straddress",
+    "wpsp_lbs_city",
+    "wpsp_lbs_state",
+    "wpsp_lbs_addresscountry",
+    "wpsp_lbs_postal",
+    "wpsp_lbs_image",
+    "wpsp_lbs_phone",
+    "wpsp_lbs_url",
+    "wpsp_lbs_map",
+    "wpsp_lcseo_pricerange1",
+    "wpsp_lcseo_pricerange",
+    "wpsp_lbs_active",
+    "wpsp_lcseo_geo",
+    "wpsp_lcseo_lat",
+    "wpsp_lcseo_lon",
+    "pro_version_notification_jsonld_dismissed_until"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:20.129Z"
+}

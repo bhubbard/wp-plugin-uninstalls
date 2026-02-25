@@ -1,0 +1,23 @@
+{
+  "options": [
+    "telegram_channel_names_temp",
+    "site_variables_my_secret",
+    "randoms_for_main_site",
+    "my_optioned_arrayyy",
+    "*_network_managed",
+    "*_transl_lastvers",
+    "*_transl_exists"
+  ],
+  "transients": [
+    "termids_for_js"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_ext_url",
+    "_wp_page_template",
+    "wpmm_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:40.620Z"
+}

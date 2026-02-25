@@ -1,0 +1,16 @@
+{
+  "options": [
+    "seo_copy_do_activation_redirect",
+    "sc_api_key",
+    "seocopy_apikey_setting",
+    "seocopy_language",
+    "wp_seo_plugins_user_display_name",
+    "wp_seo_plugins_user_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:29.971Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "classic-editor-replace",
+    "activated_icp_plugin",
+    "icp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "icp_meta_options",
+    "_icp_gallery_link_url",
+    "_icp_gallery_link_target"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:12.929Z"
+}

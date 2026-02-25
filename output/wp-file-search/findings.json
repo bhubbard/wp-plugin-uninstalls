@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_file_search_wfs_last_update_key",
+    "wp_file_search_wfs_file_search"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "document_lookup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_doc_content"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:42.032Z"
+}

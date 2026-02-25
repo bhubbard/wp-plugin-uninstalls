@@ -1,0 +1,25 @@
+{
+  "options": [
+    "sfwf_licenses",
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "sfwf_form_id_*",
+    "sfwf_general_settings*",
+    "sfwf_reviews_installed_on",
+    "sfwf_ultimate_settings",
+    "sfwf_select_form_id",
+    "sfwf_general_settings"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sfwf_reviews_dismissed_triggers",
+    "_sfwf_reviews_last_dismissed",
+    "_sfwf_reviews_already_did"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:21.658Z"
+}

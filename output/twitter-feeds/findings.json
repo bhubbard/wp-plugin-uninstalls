@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wtfeeds_consumer_screen_name",
+    "wtfeeds_consumer_key",
+    "wtfeeds_consumer_secret",
+    "wtfeeds_access_token",
+    "wtfeeds_access_token_secret",
+    "wtfeeds_display_number_of_tweets",
+    "wtfeeds_display_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:02.554Z"
+}

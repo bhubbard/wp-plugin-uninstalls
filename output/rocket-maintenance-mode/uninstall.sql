@@ -1,0 +1,7 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mmp_favicon', 'mmp_on_off', 'mmp_title', 'mmp_seo_meta', 'mmp_analytics', 'mmp_logo', 'mmp_headline', 'mmp_message', 'mmp_bgcolor', 'mmp_text_color', 'mmp_links_color', 'mmp_links_hover_color', 'mmp_background_image', 'mmp_res_bg', 'mmp_fft', 'mmp_ffht', 'mmp_custom_css', 'mmp_custom_header_script', 'mmp_custom_footrt_script', 'mmp_fb_page', 'mmp_tw_page', 'mmp_lkin_page', 'mmp_pin_page', 'mmp_insta_page', 'mmp_show_fb', 'mmp_show_tw', 'mmp_show_lk', 'mmp_show_pin', 'mmp_show_insta', 'mmp_on_off_countdown', 'mmp_on_off_progress', 'mmp_set_dateTime', 'mmp_set_progress', 'mmp_on_off_subscribe', 'mmp_http_503', 'mmp_feed_access', 'mmp_themes', 'mmp_mc_api', 'mmp_mc_listid', 'mmp_mc_optin', 'mmp_mc_sbt', 'mmp_mc_pt', 'mmp_subheading', 'mmp_headingcolor', 'mmp_userroles', 'mmp_notificationx_notification', 'wpmmp_settings', 'wpmmp_preToNewDone', 'wpmmp-activation-notice', 'fs_debug_mode');
+DELETE FROM wp_options WHERE option_name IN ('_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_active_plugins', 'fs_storage_logger', 'mmp_notificationx_support', 'wpmmp_install_version', '_nx_meta_activation_notice', 'fs_snooze_period', 'update_plugins', 'update_themes', '_fs_api_connection_retry_counter');
+DELETE FROM wp_options WHERE option_name LIKE 'wf-plugin-info-%';
+

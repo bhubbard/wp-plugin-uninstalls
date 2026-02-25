@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_new_order_settings",
+    "woocommerce_fonepay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Fonepay Trace Id (Trace ID) "
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:47.275Z"
+}

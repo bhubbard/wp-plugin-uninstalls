@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "usage_limit",
+    "_dealicious_points",
+    "birthday"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:33.175Z"
+}

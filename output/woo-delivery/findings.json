@@ -1,0 +1,33 @@
+{
+  "options": [
+    "coderockz_woo_delivery_option_delivery_settings",
+    "coderockz_woo_delivery_date_settings",
+    "coderockz_woo_delivery_pickup_date_settings",
+    "coderockz_woo_delivery_time_settings",
+    "coderockz_woo_delivery_pickup_settings",
+    "coderockz_woo_delivery_localization_settings",
+    "coderockz_woo_delivery_other_settings",
+    "woocommerce_version",
+    "coderockz_woo_delivery_review_notice",
+    "coderockz-woo-delivery-activation-time",
+    "coderockz_woo_delivery_date_time_change",
+    "woocommerce_ship_to_destination",
+    "coderockz_woo_delivery_pickup_location_settings",
+    "coderockz_woo_delivery_additional_field_settings",
+    "et_divi"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "delivery_date",
+    "pickup_date",
+    "delivery_time",
+    "pickup_time",
+    "delivery_type",
+    "_virtual",
+    "_downloadable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:47.549Z"
+}

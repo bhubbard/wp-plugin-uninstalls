@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "ccaop_do_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:43.912Z"
+}

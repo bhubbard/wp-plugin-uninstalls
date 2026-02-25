@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_paguelofacil_gateway_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pf_transaction_id",
+    "_pf_payment_method",
+    "_pf_total_pagado",
+    "_pf_paguelofacil_status",
+    "_pf_transaction_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:01.066Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "njtape_post_expire_option",
+    "*_expire_option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "njtape_post_expiry_add_custom_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_njtape_expiration_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:11.121Z"
+}

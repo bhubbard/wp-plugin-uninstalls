@@ -1,0 +1,16 @@
+{
+  "options": [
+    "PREPAFACILE_CONTRAT",
+    "PREPAFACILE_REFEXP",
+    "PREPAFACILE_STATE_EXPORT",
+    "PREPAFACILE_STATE_ENVOIE",
+    "PREPAFACILE_DB_VERSION",
+    "WOO2PREPAFACILE_VERSION"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:26.894Z"
+}

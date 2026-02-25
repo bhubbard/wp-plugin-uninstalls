@@ -1,0 +1,20 @@
+{
+  "options": [
+    "CORNER_AD_PLUGIN_VERSION",
+    "corner_ad_analytics",
+    "corner_ad_analytics_tracking_id",
+    "corner_ad_default_ad",
+    "corner_ad_random_ad",
+    "corner_ad_context",
+    "corner_ad_posttypes",
+    "installed_*"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:11.857Z"
+}

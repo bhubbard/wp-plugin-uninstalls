@@ -1,0 +1,22 @@
+{
+  "options": [
+    "styleform",
+    "diq_rest_key",
+    "diq_recheck_authorize",
+    "diq_recheck_fields",
+    "diq_recheck_subscription_lists",
+    "diq_add_form_fields",
+    "diq_add_subscription_lists",
+    "sc_style",
+    "sc_redirect_url",
+    "response_status",
+    "sc_hide_form",
+    "diq_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:30.397Z"
+}

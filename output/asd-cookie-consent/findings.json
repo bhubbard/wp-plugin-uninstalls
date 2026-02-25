@@ -1,0 +1,23 @@
+{
+  "options": [
+    "asd_cookie_consent",
+    "theme",
+    "position",
+    "back_color",
+    "text_color",
+    "message",
+    "show_link",
+    "text_cookie_info",
+    "href_cookie_info",
+    "btn_text",
+    "btn_color",
+    "btn_text_color",
+    "expiry"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:27.596Z"
+}

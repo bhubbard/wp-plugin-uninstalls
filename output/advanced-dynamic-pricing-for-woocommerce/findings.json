@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_subscriptions_is_active",
+    "woocommerce_currency",
+    "woosb_settings",
+    "woocommerce_tax_display_shop",
+    "woocommerce_tax_display_cart",
+    "woocommerce_calc_taxes",
+    "woocommerce_prices_include_tax",
+    "woocommerce_price_num_decimals",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_currency_pos",
+    "woocommerce_tax_round_at_subtotal",
+    "woocommerce_default_country",
+    "woocommerce_price_display_suffix"
+  ],
+  "transients": [
+    "import-result",
+    "wdp_geoip_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price_wmcp",
+    "_sale_price_wmcp",
+    "_sale_price_adp",
+    "_product_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:27.887Z"
+}

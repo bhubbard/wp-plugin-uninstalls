@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wobel-version",
+    "wobe_update_table_log",
+    "wobe_meta_fields",
+    "wobe_column_fields",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_custom_orders_table_data_sync_enabled",
+    "wobe_get_orders_otb",
+    "*_background_process_error",
+    "*_background_process_process_lock",
+    "*_background_process_try_again",
+    "itbbc_scheduler_version",
+    "wobel_some_setting",
+    "wobel_usage_track",
+    "*_email_subscription_sent",
+    "ithemeland_activation_email",
+    "wobel_onboarding",
+    "wobel_opt_in"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:13.430Z"
+}

@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'simdiaw_settings_options'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-start-date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-start-date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-start-date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-start-date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-end-date'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-end-date'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-end-date'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-end-date'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-start-time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-start-time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-start-time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-start-time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-end-time'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-end-time'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-end-time'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-end-time'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-loc'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-loc'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-loc'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-loc'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-art-id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-art-id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-art-id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-art-id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-link-text'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-link-text'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-link-text'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-link-text'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'simdiaw-type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'simdiaw-type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'simdiaw-type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'simdiaw-type'"

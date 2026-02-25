@@ -1,0 +1,13 @@
+{
+  "options": [
+    "archivesposttab_license_status",
+    "archivesposttab_license_key",
+    "archivesposttab_license_reff"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:52.692Z"
+}

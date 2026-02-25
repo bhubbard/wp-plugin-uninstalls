@@ -1,0 +1,16 @@
+{
+  "options": [
+    "imcm-display-position",
+    "display_position",
+    "imcm-checkout-fields",
+    "imcm-style-options",
+    "imcm-setting-troubleshoot",
+    "imcm-setting-general"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:16.250Z"
+}

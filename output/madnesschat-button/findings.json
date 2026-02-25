@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mcnb_basic_options",
+    "mcnb_basic_last_settings_update",
+    "mcnb_db_version",
+    "mcnb_realtime_stats",
+    "mcnb_security_logs",
+    "mcnb_options",
+    "mcnb_basic_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mcnb_last_save"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:23.360Z"
+}

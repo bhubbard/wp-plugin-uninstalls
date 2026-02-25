@@ -1,0 +1,16 @@
+{
+  "options": [
+    "default_language",
+    "default_inline",
+    "default_line_numbers",
+    "custom_prism_css",
+    "custom_prism_js",
+    "notice_warn_theme_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:51.853Z"
+}

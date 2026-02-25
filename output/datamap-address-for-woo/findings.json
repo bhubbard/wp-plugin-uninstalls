@@ -1,0 +1,32 @@
+{
+  "options": [
+    "dmaw_datamap_address_woo_api_password",
+    "dmaw_datamap_address_woo_url",
+    "dmaw_datamap_address_woo_api_username",
+    "dmaw_datamap_access_token",
+    "dmaw_datamap_access_token_expiry",
+    "dmaw_datamap_refresh_token",
+    "dmaw_datamap_refresh_token_expiry",
+    "dmaw_datamap_address_woo_shipping_country",
+    "dmaw_datamap_address_woo_shipping_address",
+    "dmaw_datamap_address_woo_shipping_city",
+    "dmaw_datamap_address_woo_shipping_postcode",
+    "dmaw_datamap_address_woo_shipping_state",
+    "dmaw_datamap_address_woo_billing_address",
+    "dmaw_datamap_address_woo_billing_city",
+    "dmaw_datamap_address_woo_billing_postcode",
+    "dmaw_datamap_address_woo_billing_state",
+    "dmaw_datamap_address_woo_api_key",
+    "dmaw_datamap_address_woo_enable_extension",
+    "dmaw_datamap_address_woo_country_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_billing/dmaw_datamap_address_woo/dcode",
+    "_wc_shipping/dmaw_datamap_address_woo/dcode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:50.650Z"
+}

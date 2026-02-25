@@ -1,0 +1,16 @@
+{
+  "options": [
+    "Activated_Plugin",
+    "wp_sonetel_accountId",
+    "wp_sonetel_activated",
+    "wp_sonetel_bar_activated",
+    "wp_sonetel_window_close",
+    "wp_sonetel_window_reload"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:31.309Z"
+}

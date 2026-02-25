@@ -1,0 +1,14 @@
+{
+  "options": [
+    "pdf_email_address",
+    "pdf_email_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pdf_email_on_save_status"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:20.927Z"
+}

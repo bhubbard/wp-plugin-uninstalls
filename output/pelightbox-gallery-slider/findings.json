@@ -1,0 +1,24 @@
+{
+  "options": [
+    "Lightbox_settings",
+    "img_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "simple_imgs",
+    "img_main",
+    "youtube_main",
+    "vimeo_main",
+    "portfo_main",
+    "iframe_main",
+    "_wp_page_template",
+    "simg_main",
+    "custom_css",
+    "settings_main",
+    "Soundcloud_main"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:00.047Z"
+}

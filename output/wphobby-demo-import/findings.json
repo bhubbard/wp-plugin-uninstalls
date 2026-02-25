@@ -1,0 +1,44 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "whdi_recent_import_log_file",
+    "whdi_import_data",
+    "_whdi_old_customizer_data",
+    "_whdi_old_site_options",
+    "_whdi_old_widgets_data",
+    "whdi-settings",
+    "whdi_sites_wpforms_ids_mapping",
+    "whdi_*",
+    "whdi_sites_recent_import_log_file",
+    "widget_*",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_whdi_sites_imported_wp_forms",
+    "_elementor_version",
+    "_whdi_sites_hotlink_imported",
+    "_elementor_data",
+    "_whdi_sites_imported_post",
+    "_whdi_sites_imported_term",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:58.004Z"
+}

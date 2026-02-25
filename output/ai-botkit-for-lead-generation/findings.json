@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ai_botkit_chatbot_sitewide_enabled",
+    "ai_botkit_post_sync_settings",
+    "ai_botkit_saas_connect_token",
+    "ai_botkit_banned_keywords",
+    "ai_botkit_blocked_ips",
+    "ai_botkit_chatbot_enabled_pages",
+    "ai_botkit_setup_completed",
+    "ai_botkit_version"
+  ],
+  "transients": [
+    "ai_botkit_onboarding_nonce",
+    "_ai_botkit_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:03.492Z"
+}

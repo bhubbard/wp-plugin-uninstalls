@@ -1,0 +1,17 @@
+{
+  "options": [
+    "honeypot_guard_options",
+    "honeypot_guard_db_version",
+    "honeypot_guard_installed_at"
+  ],
+  "transients": [
+    "honeypot_guard_registration_success_*"
+  ],
+  "cron_jobs": [
+    "honeypot_guard_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:03.188Z"
+}

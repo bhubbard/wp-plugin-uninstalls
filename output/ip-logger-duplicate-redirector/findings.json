@@ -1,0 +1,18 @@
+{
+  "options": [
+    "silr_db_version",
+    "silr_exclude_admins",
+    "silr_enable_redirect",
+    "silr_redirect_url",
+    "silr_retention_hours",
+    "silr_logs_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "silr_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:40.643Z"
+}

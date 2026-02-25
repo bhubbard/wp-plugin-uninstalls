@@ -1,0 +1,51 @@
+{
+  "options": [
+    "edd_sample_license_key",
+    "tf_controller_license_key",
+    "edd_sample_license_status",
+    "tf_auto_increment_license_key",
+    "tf_iconizer_license_key",
+    "tf_animator_license_key",
+    "tf_currencies_license_key",
+    "tf_parallax_license_key",
+    "tf_bundle_license_key",
+    "tf_promo",
+    "tf-activated",
+    "tf_footer_style_version"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_tf_stat",
+    "_tf_bg",
+    "_tf_bgc",
+    "_tf_bgct",
+    "_tf_tc",
+    "_tf_ic",
+    "_tf_ctc",
+    "_tf_nc",
+    "_tf_ics",
+    "_tf_border_type",
+    "_tf_boc",
+    "_tf_border",
+    "_tf_tts",
+    "_tf_nbs",
+    "_tf_layout",
+    "_tf_nmh",
+    "_tf_sp",
+    "_tf_nmt",
+    "_tf_nmtd",
+    "_tf_nma",
+    "_tf_nmad",
+    "_tf_cm",
+    "_tf_cmo",
+    "_tf_tvm",
+    "_tf_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:09.546Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wzm_posts_per_page",
+    "wzm_products_per_page",
+    "wzm_json_update_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wzm_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:32.028Z"
+}

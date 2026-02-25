@@ -1,0 +1,36 @@
+{
+  "options": [
+    "edit_order_page_id",
+    "edit_product_page_id",
+    "add_product_page_id",
+    "list_product_page_id",
+    "list_order_page_id",
+    "commission_fee",
+    "product_show",
+    "woocommerce_woo_wallet_endpoint"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_role",
+    "product_terms_condtion",
+    "product_tags",
+    "product_category",
+    "product_type",
+    "_downloadable",
+    "_downloadable_files",
+    "product",
+    "_virtual",
+    "_product_image_gallery",
+    "bank_account_name",
+    "bank_account",
+    "name_of_bank",
+    "IBAN",
+    "BIC",
+    "ifsc_code",
+    "lock_bank_details"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:34.002Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gf_oxapay_version",
+    "gf_oxapay_merchant",
+    "gf_oxapay_lifetime",
+    "gf_oxapay_site_name",
+    "gf_oxapay_auth_token",
+    "recently_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:48.904Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*_version",
+    "*_cboxheight",
+    "*_cboxwidth",
+    "*_cboxid",
+    "*_securitytag",
+    "*_privatekey",
+    "*_premium",
+    "kn_malay_chat_version",
+    "kn_malay_chat_cboxheight",
+    "kn_malay_chat_cboxwidth",
+    "kn_malay_chat_cboxid",
+    "kn_malay_chat_securitytag",
+    "kn_malay_chat_privatekey",
+    "kn_malay_chat_premium"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:40.321Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "cstmsrch_options",
+    "jbbrd_options",
+    "jbbrd_custom_metafield_error_notice",
+    "sndr_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [
+    "jbbrd_move_vacancies_to_archive_dayly_function",
+    "sndr_mail_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers",
+    "jbbrd_job_candidate_category_choose",
+    "archive",
+    "jbbrd_user_cv",
+    "job_candidate_saved_search"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:06.384Z"
+}

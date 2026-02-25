@@ -1,0 +1,35 @@
+{
+  "options": [
+    "recipespn_options_changed",
+    "recipespn_options_remove",
+    "recipespn_recipe_slug",
+    "recipespn_pages_recipe",
+    "recipespn_url_main",
+    "recipespn_redirecting"
+  ],
+  "transients": [
+    "recipespn_just_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "recipespn_child_birthdate",
+    "recipespn_user_current_login",
+    "recipespn_user_last_login",
+    "recipespn_recipe_history",
+    "recipespn_recipe_periodicity",
+    "recipespn_recipe_date",
+    "recipespn_recipe_time",
+    "recipespn_owners",
+    "recipespn_ingredients_name",
+    "recipespn_steps_name",
+    "recipespn_steps_description",
+    "recipespn_steps_time",
+    "recipespn_time",
+    "recipespn_images",
+    "recipespn_video_url",
+    "recipespn_suggestions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:48.511Z"
+}

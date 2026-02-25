@@ -1,0 +1,26 @@
+{
+  "options": [
+    "newsletter_user",
+    "newsletter_pass",
+    "newsletter_apikey",
+    "newsletter_msg_success",
+    "newsletter_msg_confirm",
+    "gan_enable_popup_forms",
+    "gan_user_hash",
+    "newsletter_plugin_version",
+    "newsletter_default_verify_mail_subject",
+    "newsletter_default_verify_mail_text",
+    "widget_getanewsletter",
+    "gan_redirect_after_activation"
+  ],
+  "transients": [
+    "gan_auth_failed_*",
+    "gan_auth_email_sent_*",
+    "newsletter_flash_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:58.983Z"
+}

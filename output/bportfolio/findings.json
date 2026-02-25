@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bppf_plugin_do_activation_redirect",
+    "csf_demo_mode",
+    "_bppfsettings_"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bppfshortcode_",
+    "_csf_errors_*",
+    "_bportfolio_"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:02.529Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_simple_chat_options",
+    "*_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_simple_chat_greeting",
+    "wp_simple_chat_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:56.197Z"
+}

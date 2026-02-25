@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpbox_sgsr_trial_started",
+    "wpbox_sgsr_license_type",
+    "wpbox_sgsr_trial_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:07.336Z"
+}

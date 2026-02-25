@@ -1,0 +1,19 @@
+{
+  "options": [
+    "themify_saved_*",
+    "themify_saved_colors",
+    "themify_saved_gradients"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "popup_page_view",
+    "popup_show_once",
+    "popup_limit_count",
+    "*_attach_id",
+    "popup_show"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:59.972Z"
+}

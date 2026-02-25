@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ext_cst_status",
+    "ext_cst_label",
+    "ext_cst_label_billing",
+    "ext_cst_amount_type",
+    "ext_cst_amount",
+    "ext_cst_label_css",
+    "ext_cst_inc_ship_costs",
+    "ext_cst_inc_tax",
+    "ext_cst_extra",
+    "ext_cst_auto_checked",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:06.687Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "prime_elementor_addons_settings",
+    "pea_plugin_version",
+    "pea_last_updated",
+    "pea_active_widgets",
+    "prime_elementor_addons_do_activation_redirect",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:31.046Z"
+}

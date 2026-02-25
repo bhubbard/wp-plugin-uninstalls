@@ -1,0 +1,12 @@
+{
+  "options": [
+    "simple_ical_options",
+    "simple_ical_block_attrs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:09.581Z"
+}

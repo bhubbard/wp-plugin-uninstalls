@@ -1,0 +1,32 @@
+{
+  "options": [
+    "ipintel_kill_switch",
+    "ipintel_api_key",
+    "ipintel_mode",
+    "ipintel_block_threshold",
+    "ipintel_last_usage",
+    "ipintel_whitelist",
+    "ipintel_blacklist",
+    "ipintel_request_log",
+    "ipintel_challenge_threshold",
+    "ipintel_challenge_theme",
+    "ipintel_block_theme",
+    "ipintel_challenge_duration",
+    "ipintel_footer_badge",
+    "ipintel_last_usage_time",
+    "ipintel_plan",
+    "ipintel_cache_index",
+    "ipintel_threat_log",
+    "ipintel_firewall_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ipintel_prune_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ipintel_cache_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:25.121Z"
+}

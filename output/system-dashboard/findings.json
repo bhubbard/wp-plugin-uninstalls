@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_site_transient_timeout_*",
+    "_transient_timeout_*",
+    "csf_demo_mode"
+  ],
+  "transients": [
+    "sd_cpu_count",
+    "sd_cpu_core_count",
+    "sd_total_ram",
+    "sd_db_disk_usage"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:12.350Z"
+}

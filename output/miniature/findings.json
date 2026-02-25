@@ -1,0 +1,17 @@
+{
+  "options": [
+    "miniature_options",
+    "miniature_cache"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "miniature_thumbinfo_build_schedule",
+    "miniature_thumbs_rebuild_schedule",
+    "miniature_single_thumb_build_schedule",
+    "miniature_thumbs_rebuilding_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:16.366Z"
+}

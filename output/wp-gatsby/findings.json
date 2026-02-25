@@ -1,0 +1,35 @@
+{
+  "options": [
+    "wpgatsby_settings",
+    "_gatsby_tracked_post_types",
+    "_gatsby_tracked_taxonomies",
+    "test_option"
+  ],
+  "transients": [
+    "test_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "action_type",
+    "referenced_node_status",
+    "_gatsby_preview_data",
+    "referenced_node_id",
+    "referenced_node_relay_id",
+    "referenced_node_single_name",
+    "referenced_node_plural_name",
+    "_wpgatsby_page_path",
+    "_wpgatsby_node_modified",
+    "_wpgatsby_node_remote_preview_status",
+    "_wpgatsby_node_remote_preview_status_context",
+    "test_post_meta",
+    "test_meta",
+    "test_key",
+    "description",
+    "show_admin_bar_front",
+    "nickname",
+    "test"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:46.124Z"
+}

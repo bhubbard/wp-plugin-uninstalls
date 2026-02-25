@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sknh_settings",
+    "sknh_version",
+    "sknh_activation_time",
+    "sknh_last_settings_update"
+  ],
+  "transients": [
+    "sknh_update_data",
+    "sknh_notice_cache",
+    "sknh_auto_update_status"
+  ],
+  "cron_jobs": [
+    "sknh_daily_cleanup",
+    "sknh_weekly_report"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:53.335Z"
+}

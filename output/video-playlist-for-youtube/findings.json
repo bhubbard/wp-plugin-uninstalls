@@ -1,0 +1,18 @@
+{
+  "options": [
+    "video_plylst_admin_notice",
+    "vpfy_reg_ytubapi_key",
+    "vpfy_vid_autoply",
+    "vpfy_vid_length",
+    "ytpp_controls"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "customdata_group",
+    "_utubeSliderRange"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:50.280Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "simple_website_redirect_status",
+    "simple_website_redirect_to_root",
+    "simple_website_redirect_type",
+    "simple_website_redirect_url",
+    "simple_website_redirect_exclude_paths",
+    "simple_website_redirect_exclude_query_params"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:26.786Z"
+}

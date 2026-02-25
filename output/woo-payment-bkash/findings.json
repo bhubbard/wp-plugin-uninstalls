@@ -1,0 +1,28 @@
+{
+  "options": [
+    "dc_bkash_installed",
+    "wcwpbkash_installed",
+    "wcwpbkash_version",
+    "woocommerce_bkash_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "dc_bkash_token",
+    "dc_bkash_token_data"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dc_bkash_refunded",
+    "dc_bkash_refunded_amount",
+    "dc_bkash_refund_id",
+    "dc_bkash_refund_charge"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:34.286Z"
+}

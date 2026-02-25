@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "depublish_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_depublish_date",
+    "_depublish_enable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:59.718Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "afb_*",
+    "afb_setting",
+    "afb_style",
+    "afb_post_types",
+    "afb_hide_default_controller",
+    "afb_comment",
+    "afb_controller",
+    "afb_db_version",
+    "afb_ga"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_afb_post_type",
+    "_afb_object_id",
+    "_afb_source_comment_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:39.884Z"
+}

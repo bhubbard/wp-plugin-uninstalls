@@ -1,0 +1,15 @@
+{
+  "options": [
+    "resizeer_process_on_upload",
+    "resizeer_max_width",
+    "resizeer_max_height",
+    "resizeer_quality",
+    "resizeer_process_uploads_automatically"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:26.585Z"
+}

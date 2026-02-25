@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_subtitle_woocommerce_enabled",
+    "wp_subtitle_woocommerce_show_on_single",
+    "wp_subtitle_woocommerce_show_in_loop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "wps_subtitle"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:20.182Z"
+}

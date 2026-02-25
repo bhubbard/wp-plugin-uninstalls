@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bisteinoff_plugin_robots_custom",
+    "bisteinoff_plugin_robots_custom_google",
+    "bisteinoff_plugin_robots_enable_yandex",
+    "bisteinoff_plugin_robots_custom_yandex",
+    "bisteinoff_plugin_robots_custom_other"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:58.309Z"
+}

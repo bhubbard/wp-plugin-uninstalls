@@ -1,0 +1,18 @@
+{
+  "options": [
+    "informigados_duplicate_all_options"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "informigados_duplicate_all_debug_log",
+    "informigados_duplicate_all_admin_notice",
+    "_elementor_edit_mode",
+    "_elementor_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:33.577Z"
+}

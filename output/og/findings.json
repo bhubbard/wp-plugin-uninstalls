@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rt_reading_time_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata",
+    "_wp_attachment_image_alt",
+    "_expiration-date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:16.785Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "seatkit_currency_symbol",
+    "seatkit_company_name",
+    "seatkit_delete_on_uninstall",
+    "seatkit_admin_email_from",
+    "seatkit_payment_mode",
+    "seatkit_enabled_gateways",
+    "seatkit_default_gateway",
+    "seatkit_razorpay_key",
+    "seatkit_razorpay_secret",
+    "seatkit_stripe_publishable",
+    "seatkit_stripe_secret",
+    "seatkit_cancel_hours",
+    "seatkit_refund_deduction",
+    "seatkit_ticket_company",
+    "seatkit_ticket_footer",
+    "seatkit_reservation_expiry",
+    "seatkit_reservation_percent",
+    "sk_ticket_footer",
+    "sk_ticket_color",
+    "sk_ticket_company",
+    "seatkit_version",
+    "seatkit_lock_expiry_minutes"
+  ],
+  "transients": [
+    "seatkit_cancel_otp_*"
+  ],
+  "cron_jobs": [
+    "seatkit_cron_cleanup_locks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_seatkit_otp",
+    "_seatkit_otp_expiry",
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:30.791Z"
+}

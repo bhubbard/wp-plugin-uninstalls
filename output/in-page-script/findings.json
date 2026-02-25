@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ips_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_header_script",
+    "_footer_script"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:44.988Z"
+}

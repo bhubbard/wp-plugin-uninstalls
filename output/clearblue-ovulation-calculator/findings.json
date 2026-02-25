@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cboc-language",
+    "cboc-format",
+    "cboc-show-credits",
+    "cboc-color-*",
+    "cbddc-version",
+    "cbddc-show-credits"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:11.193Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mv_mcp_version",
+    "MVCP_*",
+    "mcp_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "get_ad_text_cron_event",
+    "mcp_verify_ads_txt_health_event",
+    "mcp_offering_check_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "mv_category_video_settings",
+    "wprm_video_embed",
+    "video_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:34.849Z"
+}

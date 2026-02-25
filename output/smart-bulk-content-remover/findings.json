@@ -1,0 +1,13 @@
+{
+  "options": [
+    "abdfw_page_cleanup_schedule"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "abdfw_run_scheduled_page_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:12.486Z"
+}

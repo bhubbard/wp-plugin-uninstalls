@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_est_seo_focuskw",
+    "_est_seo_title",
+    "_est_seo_desc",
+    "_est_seo_kd"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:16.505Z"
+}

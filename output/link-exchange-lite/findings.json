@@ -1,0 +1,24 @@
+{
+  "options": [
+    "link_exchange_use_captcha",
+    "link_exchange_captcha_private_key",
+    "link_exchange_captcha_public_key",
+    "link_exchange_email_admin",
+    "link_exchange_privacy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "link_exchange_user_name",
+    "link_exchange_user_email",
+    "link_exchange_landing_page_url",
+    "link_exchange_site_banner_url",
+    "link_exchange_reciprocal_link_url",
+    "link_exchange_notes",
+    "link_exchange_accepted_once",
+    "link_exchange_rejected_once"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:27.618Z"
+}

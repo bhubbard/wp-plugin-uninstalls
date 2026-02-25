@@ -1,0 +1,20 @@
+{
+  "options": [
+    "craftify_ai_options"
+  ],
+  "transients": [
+    "craftify_ai_connection_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "rank_math_title",
+    "rank_math_description",
+    "_aioseo_title",
+    "_aioseo_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:31.305Z"
+}

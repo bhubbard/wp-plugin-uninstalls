@@ -1,0 +1,23 @@
+{
+  "options": [
+    "uploadcare_source_tabs",
+    "uploadcare_public",
+    "uploadcare_upload_lifetime",
+    "uploadcare_secret",
+    "uploadcare_cdn_base",
+    "uploadcare_finetuning",
+    "uploadcare_adaptive_delivery",
+    "uploadcare_blink_loader",
+    "uploadcare_public_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uploadcare_uuid",
+    "uploadcare_url",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:09.892Z"
+}

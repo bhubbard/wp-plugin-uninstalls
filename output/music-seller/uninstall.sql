@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('music_seller_show_preview', 'music_seller_thankyou_page', 'music_seller_paypal_currency', 'music_seller_use_id3', 'music_seller_button_color_1', 'music_seller_button_color_2', 'music_seller_border_color', 'music_seller_button_color_1_hover', 'music_seller_button_color_2_hover', 'music_seller_border_color_hover', 'music_seller_paypal_account', 'music_seller_checkout_page', 'music_seller_cancel_page', 'music_seller_paypal_return_button_text', 'music_seller_paypal_sandbox', 'music_seller_attach_files', 'music_seller_email_delivery', 'music_sller_vat_percent', 'music_seller_email_delivery_subject', 'music_seller_email_delivery_text', 'music_seller_downloads_limit', 'music_seller_link_expiration', 'music_seller_file_title', 'music_seller_paypal_verify_transactions', 'music_seller_vat_percent', 'music_seller_paypal_language', 'music_seller_color_scheme');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('first_name', 'last_name', 'mc_currency', 'mc_gross', 'residence_country', 'payer_email', 'downloads', '_my_meta_value_key', 'music_seller_file', 'music_seller_price', 'music_seller_title', 'music_seller_order', 'music_seller_preview', 'music_seller_wavs', 'music_seller_order_key', 'order_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('first_name', 'last_name', 'mc_currency', 'mc_gross', 'residence_country', 'payer_email', 'downloads', '_my_meta_value_key', 'music_seller_file', 'music_seller_price', 'music_seller_title', 'music_seller_order', 'music_seller_preview', 'music_seller_wavs', 'music_seller_order_key', 'order_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('first_name', 'last_name', 'mc_currency', 'mc_gross', 'residence_country', 'payer_email', 'downloads', '_my_meta_value_key', 'music_seller_file', 'music_seller_price', 'music_seller_title', 'music_seller_order', 'music_seller_preview', 'music_seller_wavs', 'music_seller_order_key', 'order_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('first_name', 'last_name', 'mc_currency', 'mc_gross', 'residence_country', 'payer_email', 'downloads', '_my_meta_value_key', 'music_seller_file', 'music_seller_price', 'music_seller_title', 'music_seller_order', 'music_seller_preview', 'music_seller_wavs', 'music_seller_order_key', 'order_id');
+

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "qvt_title_font_size",
+    "qvt_price_font_size",
+    "qvt_descr_font_size",
+    "qvt_btn_font_size",
+    "qvt_meta_font_size",
+    "qvt_tag_font_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "xga_short_category",
+    "xga_short_theme",
+    "xga_short_total",
+    "xga_short_title_color",
+    "xga_short_title_active_color",
+    "xga_short_title_bg_color",
+    "xga_short_active_title_bg_color",
+    "xga_short_border_color",
+    "xga_short_descr_color",
+    "xga_short_descr_bg_color",
+    "xga_short_title_font_size",
+    "xga_short_descr_font_size",
+    "is_open_initial"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:43.437Z"
+}

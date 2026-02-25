@@ -1,0 +1,41 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wfcm_last-scan-timestamp",
+    "_bbp_default_role",
+    "_bbp_allow_anonymous",
+    "_bbp_edit_lock",
+    "_bbp_throttle_time",
+    "woocommerce_*",
+    " woocommerce_currency",
+    " woocommerce_cart_page_id",
+    "classic-editor-replace",
+    "classic-editor-allow-users",
+    "nav_menu_options",
+    "allowedthemes",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [
+    "wsal_deactivate_plugins",
+    "update_plugins",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "wsal_log_events_ext_db",
+    "wsal_cleanup_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_forum_type",
+    "_bbp_sticky_topics",
+    "_bbp_status",
+    "_product_attributes",
+    "_stock",
+    "_stock_status",
+    "wp_2fa_enabled_methods",
+    "_application_passwords"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:55.422Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ENCHANTIER_SETTINGS",
+    "ENCHANTIER_KEY",
+    "ENCHANTIER_PASSWORD",
+    "ENCHANTIER_NOHEADER"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "EnChantier_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:14.605Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "trackmage_client_id",
+    "trackmage_client_secret",
+    "trackmage_workspace",
+    "trackmage_sync_statuses",
+    "trackmage_sync_start_date",
+    "trackmage_trigger_sync",
+    "trackmage_delete_data",
+    "reset_plugin_settings",
+    "trackmage_integration",
+    "trackmage_webhook",
+    "trackmage_team",
+    "trackmage_webhook_username",
+    "trackmage_webhook_password",
+    "trackmage_order_status_aliases",
+    "trackmage_custom_order_statuses",
+    "trackmage_modified_order_statuses"
+  ],
+  "transients": [
+    "trackmage-wizard-notice",
+    "trackmage_error",
+    "trackmage-remove-integration-error",
+    "trackmage_error_shown",
+    "trackmage_workspaces",
+    "trackmage_carriers",
+    "trackmage_order_statuses"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_trackmage_order_id",
+    "trackmage_carrier",
+    "trackmage_tracking_number",
+    "_trackmage_tracking_page_link",
+    "_trackmage_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:38.750Z"
+}

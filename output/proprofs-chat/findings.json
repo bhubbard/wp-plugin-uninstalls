@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ppct_register_site",
+    "ppct_chat_active",
+    "ppct_reg_email",
+    "ppct_private_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:58.253Z"
+}

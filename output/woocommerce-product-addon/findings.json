@@ -1,0 +1,63 @@
+{
+  "options": [
+    "ppom_css_output",
+    "ppom_settings_migration_done",
+    "*_settings",
+    "ppom_legacy_user",
+    "personalizedproduct_db_version",
+    "woocommerce_weight_unit",
+    "woocommerce_currency_pos",
+    "woocommerce_price_decimal_sep",
+    "ppom_demo_meta_installed",
+    "woocommerce_product_addon_install",
+    "woocommerce_tax_display_shop",
+    "woocommerce_tax_display_cart",
+    "woocommerce_feature_email_improvements_enabled",
+    "ppom_pro_license_data",
+    "*_license_data",
+    "*_license_status",
+    "*_license_plan",
+    "*_failed_checks",
+    "*_logger_flag",
+    "themeisle_sdk_notifications",
+    "otter_reference_key",
+    "optimole_reference_key",
+    "rop_reference_key",
+    "neve_reference_key",
+    "hyve_reference_key",
+    "wp_full_pay_reference_key",
+    "feedzy_reference_key",
+    "themeisle_sdk_promotions_otter",
+    "*_install",
+    "*_version",
+    "*_license"
+  ],
+  "transients": [
+    "ppom_meta_imported",
+    "ti_plugin_info_*",
+    "themeisle_sdk_cache_token",
+    "themeisle_sdk_feed_items",
+    "themeisle_sdk_products",
+    "*act_err",
+    "*_license_data",
+    "tsk_attachment_count",
+    "tsk_posts_count",
+    "ti_theme_info_*",
+    "update_plugins",
+    "*_warning_rollback",
+    "update_themes",
+    "ti_sdk_pause_*"
+  ],
+  "cron_jobs": [
+    "do_action_remove_images",
+    "setup_styles_and_scripts_wooproduct"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "product_id",
+    "_ppom_fields",
+    "themeisle_sdk_dismissed_notice_black_friday"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:55.975Z"
+}

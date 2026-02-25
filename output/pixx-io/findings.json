@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "locale",
+    "pixxio_id",
+    "pixxio_import_gmt",
+    "pixxio_mediaspace",
+    "pixxio_downloadFormat"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:13.490Z"
+}

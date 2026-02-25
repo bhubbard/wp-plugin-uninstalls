@@ -1,0 +1,19 @@
+{
+  "options": [
+    "modularity-options",
+    "worddown_last_export",
+    "worddown_settings",
+    "worddown_current_export_id",
+    "worddown_export_completed_flag",
+    "worddown_export_status_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "worddown_export_cron",
+    "worddown_process_export_chunk"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:28.804Z"
+}

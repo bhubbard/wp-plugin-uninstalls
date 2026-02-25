@@ -1,0 +1,40 @@
+{
+  "options": [
+    "chessgame_shizzle-boardtheme",
+    "chessgame_shizzle-piecetheme",
+    "chessgame_shizzle-honeypot",
+    "chessgame_shizzle-honeypot_value",
+    "chessgame_shizzle-nonce",
+    "chessgame_shizzle-timeout",
+    "chessgame_shizzle-notifybymail",
+    "chessgame_shizzle-mail-from",
+    "chessgame_shizzle-simple-list-search",
+    "chessgame_shizzle-blogpage",
+    "chessgame_shizzle-rss",
+    "chessgame_shizzle-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cs_chessgame_pgn",
+    "cs_chessgame_puzzle",
+    "cs_chessgame_white_player",
+    "cs_chessgame_black_player",
+    "cs_chessgame_result",
+    "cs_chessgame_elo_white_player",
+    "cs_chessgame_elo_black_player",
+    "cs_chessgame_datetime",
+    "cs_chessgame_location",
+    "cs_chessgame_tournament",
+    "cs_chessgame_round",
+    "cs_chessgame_submitter",
+    "cs_chessgame_code",
+    "cs_chessgame_level",
+    "cs_chessgame_fen",
+    "chessgame_shizzle_form",
+    "chessgame_shizzle_simple_list"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:49.640Z"
+}

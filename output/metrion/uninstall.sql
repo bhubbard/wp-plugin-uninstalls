@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('metrion_api_path_part_1', 'metrion_api_path_part_2', 'metrion_user_cookie_name', 'metrion_user_cookie_lifetime', 'metrion_webhook_destination', 'metrion_click_ids_cookie_name', 'metrion_session_cookie_name', 'woocommerce_prices_include_tax', 'metrion_installation_id', 'metrion_event_id_name', 'metrion_session_cookie_lifetime', 'metrion_debug_mode', 'metrion_vat_included', 'metrion_shipping_costs_included', 'metrion_allow_marketing', 'metrion_allow_pii', 'metrion_allow_uid', 'metrion_allow_sid', 'metrion_allow_cookie_placement_before_explicit_consent', 'metrion_cmp_selection', 'metrion_consent_cookie_name', 'metrion_consent_floodgate_name', 'metrion_onetrust_marketing_code', 'metrion_onetrust_analytics_code', 'metrion_google_ads_syncs', 'metrion_enforce_google_consent_mode', 'metrion_meta_ads_syncs', 'metrion_microsoft_ads_enable_tracking', 'metrion_microsoft_ads_enforce_consent_mode', 'metrion_microsoft_ads_enable_dynamic_remarketing', 'metrion_microsoft_ads_tag_id', 'metrion_google_analytics_enable_tracking', 'metrion_google_analytics_measurement_id', 'metrion_google_analytics_api_secret', 'metrion_tiktok_ads_syncs', 'metrion_purchase_only_tracking', 'metrion_elementor_excluded_forms', 'metrion_floodgate_name', 'metrion_meta_test_event_code', 'metrion_enable_elementor_form_tracking', 'metrion_use_api_endpoints_to_load_js', 'metrion_session_info_storage_name', 'metrion_allow_pre_consent_pings', 'metrion_enable_block_detection', 'metrion_enable_myyounit_integration', 'metrion_enable_woocommerce_tracking', 'metrion_data_collection', 'metrion_api_key', 'metrion_api_secret', 'metrion_credentials_valid');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_metrion_tracking_sent');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_metrion_tracking_sent');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_metrion_tracking_sent');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_metrion_tracking_sent');
+

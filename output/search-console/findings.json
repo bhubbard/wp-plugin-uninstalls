@@ -1,0 +1,21 @@
+{
+  "options": [
+    "search_console",
+    "serach_console_version",
+    "search_console_token",
+    "searchconsole_token",
+    "search_console_version",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:20.483Z"
+}

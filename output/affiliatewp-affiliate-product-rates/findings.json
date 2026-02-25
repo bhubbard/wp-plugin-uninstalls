@@ -1,0 +1,14 @@
+{
+  "options": [
+    "affwp_version",
+    "affwp_apr_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "affwp_product_rates"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:56.406Z"
+}

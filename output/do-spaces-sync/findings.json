@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dos_key",
+    "dos_secret",
+    "dos_endpoint",
+    "dos_container",
+    "dos_storage_path",
+    "dos_storage_file_only",
+    "dos_storage_file_delete",
+    "dos_filter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:40.902Z"
+}

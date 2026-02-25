@@ -1,0 +1,12 @@
+{
+  "options": [
+    "feedfocal_activation_redirect",
+    "feedfocal_survey_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:56.378Z"
+}

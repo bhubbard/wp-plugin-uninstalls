@@ -1,0 +1,20 @@
+{
+  "options": [
+    "apaui_enable",
+    "apaui_mode",
+    "apaui_is_virtual",
+    "apaui_is_downloadable",
+    "apaui_tax",
+    "apaui_updatepost"
+  ],
+  "transients": [
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:39.622Z"
+}

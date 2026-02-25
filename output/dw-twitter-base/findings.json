@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dw_twitteruser",
+    "dw_consumerkey",
+    "dw_consumersecret",
+    "dw_accesstoken",
+    "dw_accesstokensecret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:51.454Z"
+}

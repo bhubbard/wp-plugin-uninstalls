@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_jnt_settings",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jtawb",
+    "jtorder",
+    "cancel"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:26.429Z"
+}

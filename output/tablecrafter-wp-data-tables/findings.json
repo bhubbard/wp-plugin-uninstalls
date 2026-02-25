@@ -1,0 +1,24 @@
+{
+  "options": [
+    "tc_tracked_urls",
+    "tablecrafter_collaboration_enabled",
+    "tablecrafter_collaboration_logging",
+    "tablecrafter_collaboration_logs",
+    "tablecrafter_airtable_token",
+    "tc_do_activation_redirect"
+  ],
+  "transients": [
+    "tc_cache_*",
+    "tc_export_*"
+  ],
+  "cron_jobs": [
+    "tablecrafter_cleanup_collaboration_sessions",
+    "tc_cleanup_export_files",
+    "tc_refresher_cron",
+    "tc_refresh_single_source"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:54.355Z"
+}

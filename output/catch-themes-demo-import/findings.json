@@ -1,0 +1,28 @@
+{
+  "options": [
+    "widget_*",
+    "sidebars_widgets",
+    "ctp_options"
+  ],
+  "transients": [
+    "ctdi_importer_data",
+    "wc_attribute_taxonomies",
+    "ctdi_demo_json",
+    "cdti_import_dir_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_is_custom_header",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:31.970Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pdxglobal_options",
+    "nohackme_defender_options",
+    "nohackme_defender_license"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nohackme_defender_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:08.213Z"
+}

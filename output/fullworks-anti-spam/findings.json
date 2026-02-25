@@ -1,0 +1,37 @@
+{
+  "options": [
+    "fullworks-anti-spam",
+    "fullworks_anti_spam_db_version",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fullworks-anti-spam-utility-data",
+    "fullworks_anti_spam_key_name",
+    "fullworks_anti_spam_key_value",
+    "fwantispam_training_data_obj",
+    "fullworks_anti_spam_random_version",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fullworks_anti_spam_daily_admin",
+    "fullworks_anti_spam_daily_training",
+    "fwas_admin_daily",
+    "fullworks_anti_spam_monthly_reports",
+    "fullworks_anti_spam_alerts",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fwas_upgrade_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:47.591Z"
+}

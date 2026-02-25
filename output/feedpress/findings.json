@@ -1,0 +1,13 @@
+{
+  "options": [
+    "feedpress"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "feedpress_feeds_syncing_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:46.853Z"
+}

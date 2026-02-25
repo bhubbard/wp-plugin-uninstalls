@@ -1,0 +1,17 @@
+{
+  "options": [
+    "theme_location",
+    "mobile_width",
+    "menu_id",
+    "menu_background",
+    "menu_background_hover",
+    "menu_item_color",
+    "menu_item_color_hover"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:13.051Z"
+}

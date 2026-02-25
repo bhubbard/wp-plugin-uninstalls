@@ -1,0 +1,23 @@
+{
+  "options": [
+    "chatics_url",
+    "chatics_enabled",
+    "chatics_position",
+    "chatics_title",
+    "chatics_color",
+    "chatics_icon_type",
+    "chatics_icon_text",
+    "chatics_icon_url",
+    "chatics_zoom",
+    "chatics_allowed_days",
+    "chatics_start_time",
+    "chatics_end_time",
+    "chatics_header_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:47.015Z"
+}

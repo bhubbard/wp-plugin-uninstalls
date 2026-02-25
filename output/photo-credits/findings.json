@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "be_photographer_name",
+    "be_photographer_website",
+    "be_photographer_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:21.683Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tcbd_google_map_latitude",
+    "tcbd_google_map_longitude",
+    "tcbd_google_map_zoom",
+    "tcbd_google_map_marker",
+    "tcbd_google_map_style",
+    "tcbd_google_map_scroll_zoom",
+    "tcbd_google_map_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:41.553Z"
+}

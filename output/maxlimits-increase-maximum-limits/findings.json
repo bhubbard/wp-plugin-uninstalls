@@ -1,0 +1,20 @@
+{
+  "options": [
+    "maxlimits_tracking_pending",
+    "maxlimits_allow_tracking",
+    "maxlimits_just_activated",
+    "maxlimits_insights_consent",
+    "maxlimits_install_event_sent",
+    "woocommerce_default_country",
+    "maxlimits_version_tracked"
+  ],
+  "transients": [
+    "maxlimits_insights_notice_dismissed",
+    "maxlimits_shop_notice_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:53.561Z"
+}

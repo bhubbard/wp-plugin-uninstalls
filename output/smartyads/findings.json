@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smartyads_zones",
+    "smarty_new_key_valid",
+    "smartyads_site_id",
+    "smartyads_key",
+    "smartyads_host"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:06.754Z"
+}

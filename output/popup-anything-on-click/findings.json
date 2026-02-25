@@ -1,0 +1,47 @@
+{
+  "options": [
+    "popupaoc_plugin_version",
+    "popupaoc_options",
+    "wpos_anylc_redirect",
+    "wpos_anylc_site_uid"
+  ],
+  "transients": [
+    "popupaoc_install_notice",
+    "wpos_anylc_optin_notice_*"
+  ],
+  "cron_jobs": [
+    "wpos_monthly_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*tab",
+    "*popup_goal",
+    "*display_type",
+    "*popup_appear",
+    "*behaviour",
+    "*content",
+    "*design",
+    "*advance",
+    "*custom_css",
+    "*popup_type",
+    "*delay",
+    "*image_title",
+    "*image_caption",
+    "*enable_loader",
+    "*enable_ovelay",
+    "*popup_link_txt",
+    "*popup_image_url",
+    "*popup_image_id",
+    "*popup_button_txt",
+    "*speedin",
+    "*speedout",
+    "*full_screen",
+    "*popup_positionx",
+    "*popup_positiony",
+    "*popup_effect",
+    "*popupwidth",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:52.460Z"
+}

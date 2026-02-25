@@ -1,0 +1,27 @@
+{
+  "options": [
+    "formshield_seen_messages",
+    "formshield_email_queue",
+    "formshield_last_periodic_report",
+    "et_theme_builder",
+    "formshield_options",
+    "*_updated",
+    "formshield_ip_blacklist",
+    "wp-human-presence",
+    "formshield_version",
+    "ninja_forms_version",
+    "ninja_forms_load_deprecated"
+  ],
+  "transients": [
+    "dcd_divi_scan"
+  ],
+  "cron_jobs": [
+    "formshield_send_periodic_report"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wpforms_entries_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:21.014Z"
+}

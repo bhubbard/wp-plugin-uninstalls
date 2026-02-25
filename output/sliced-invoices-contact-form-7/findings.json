@@ -1,0 +1,38 @@
+{
+  "options": [
+    "sliced_tax",
+    "sliced_invoices",
+    "sliced_quotes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sliced_description",
+    "_sliced_invoice_created",
+    "_sliced_invoice_prefix",
+    "_sliced_invoice_number",
+    "_sliced_invoice_suffix",
+    "_sliced_number",
+    "_sliced_items",
+    "_sliced_tax_calc_method",
+    "_sliced_tax",
+    "_sliced_tax_name",
+    "_sliced_additional_tax_name",
+    "_sliced_additional_tax_rate",
+    "_sliced_additional_tax_type",
+    "_sliced_invoice_terms",
+    "_sliced_payment_methods",
+    "_sliced_quote_created",
+    "_sliced_quote_prefix",
+    "_sliced_quote_number",
+    "_sliced_quote_suffix",
+    "_sliced_quote_terms",
+    "_sliced_client_business",
+    "_sliced_client_address",
+    "_sliced_client_extra_info",
+    "_sliced_client"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:32.052Z"
+}

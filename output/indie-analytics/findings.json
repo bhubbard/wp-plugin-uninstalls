@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_provider",
+    "*_site_id",
+    "*_tracking_url",
+    "*_custom_domain",
+    "*_exclude_admins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:23.533Z"
+}

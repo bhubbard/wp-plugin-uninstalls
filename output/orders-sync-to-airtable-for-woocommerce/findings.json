@@ -1,0 +1,20 @@
+{
+  "options": [
+    "action_scheduler_lock_async-request-runner",
+    "orders_sync_to_airtable_for_woocommerce_exporter_state",
+    "orders_sync_to_airtable_for_woocommerce_exporter_settings",
+    "orders_sync_to_airtable_for_woocommerce_check_chars"
+  ],
+  "transients": [
+    "orders_sync_to_airtable_for_woocommerce_current_template_version",
+    "orders_sync_to_airtable_for_woocommerce_site_health_check_*",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:35.616Z"
+}

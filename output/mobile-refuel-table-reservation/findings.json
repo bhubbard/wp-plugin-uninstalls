@@ -1,0 +1,31 @@
+{
+  "options": [
+    "mrtr_wochentag_zeiten",
+    "mrtr_benachrichtigungs_email",
+    "mrtr_container_background",
+    "mrtr_text_color",
+    "mrtr_button_color",
+    "mrtr_button_hover",
+    "mrtr_email_benachrichtigungen",
+    "mrtr_intervall",
+    "mrtr_spezielle_tage_konfiguration",
+    "mrtr_max_personen",
+    "mrtr_tile_background",
+    "mrtr_border_radius",
+    "mrtr_verweildauer",
+    "mrtr_restaurant_name",
+    "mrtr_ausgeschlossene_tage",
+    "mrtr_language",
+    "mrtr_mindestvorlauf_stunden",
+    "mrtr_calendar_token",
+    "mrtr_calendar_token_include_past"
+  ],
+  "transients": [
+    "mrtr_setup_wizard_completed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:00.323Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('live_font_preview_enable_all', 'live_font_preview_products', 'live_font_preview_categories', 'live_font_preview_fonts', 'live_font_preview_title', 'live_font_preview_text_label', 'live_font_preview_font_label', 'live_font_preview_preview_label', 'live_font_preview_text_placeholder', 'live_font_preview_preview_text', 'live_font_preview_max_text_length', 'live_font_preview_cart_text_label', 'live_font_preview_cart_font_label', 'live_font_preview_order_text_label', 'live_font_preview_order_font_label', 'live_font_preview_error_text', 'live_font_preview_error_font');
+

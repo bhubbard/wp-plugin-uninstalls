@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sheetable_install_time",
+    "sheetable_settings",
+    "sheetable_performance_*"
+  ],
+  "transients": [
+    "sheetable_performance_settings"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:35.502Z"
+}

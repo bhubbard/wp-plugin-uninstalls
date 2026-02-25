@@ -1,0 +1,58 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "*_hide_admin_notice",
+    "upgrade_store_options",
+    "upgrade_store_do_activation_redirect",
+    "upgrade-store_hide_admin_notice",
+    "upgrade_store_api_settings",
+    "upgrade_store_api_attachments",
+    "upgrade_store_api_woo_email",
+    "upgrade_store_api_quickview",
+    "upgrade_store_api_stocks_left",
+    "upgrade_store_api_banner",
+    "upgrade_store_api_gallery",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_upgrade_store_product_tab_data",
+    "_upgrade_store_product_countdown_data",
+    "_upgrade_store_gallery_type",
+    "*check",
+    "*name",
+    "*description",
+    "*icon",
+    "*type",
+    "*internalFile",
+    "*externalFile",
+    "*newWindow",
+    "_stock",
+    "*total_sold_count_text",
+    "*subtext",
+    "_upgrade_store_product_attachment_name",
+    "_upgrade_store_product_attachment_icon",
+    "_upgrade_store_product_attachment_description",
+    "_upgrade_store_product_attachment_type",
+    "_upgrade_store_product_attachment_internalFile",
+    "_upgrade_store_product_attachment_externalFile",
+    "_upgrade_store_product_attachment_newWindow",
+    "_product_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:21.381Z"
+}

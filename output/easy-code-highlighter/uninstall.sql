@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('code_highlighter_language', 'code_highlighter_text_copy', 'code_highlighter_text_copied', 'code_highlighter_bg_color', 'code_highlighter_line_color', 'code_highlighter_button_color', 'code_highlighter_button_border_color', 'code_highlighter_button_border_thickness', 'code_highlighter_button_font_size', 'code_highlighter_button_padding_top', 'code_highlighter_button_padding_right', 'code_highlighter_button_padding_bottom', 'code_highlighter_button_padding_left', 'code_highlighter_button_border', 'code_highlighter_button_border_radius', 'code_highlighter_button_border_radius_value');
+

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "lwtt_username",
+    "lwtt_password",
+    "enable_lwtt",
+    "lwtt_username_sina",
+    "lwtt_password_sina",
+    "lwtt_sina",
+    "lwtt_time",
+    "lwtt_update_prefix",
+    "lwtt_new_prefix",
+    "lwtt_api",
+    "lwtt_tags",
+    "lwtt_proxy",
+    "lwtt_custom_proxy"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lwtt_value",
+    "_lwtt_text"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:50.350Z"
+}

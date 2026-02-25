@@ -1,0 +1,27 @@
+{
+  "options": [
+    "plugin_reviews_num_chars",
+    "plugin_reviews_read_more_text",
+    "plugin_reviews_hide_nav_dots",
+    "plugin_reviews_text_color",
+    "plugin_reviews_background_color",
+    "plugin_reviews_font_size",
+    "plugin_reviews_border_style",
+    "plugin_reviews_border_color",
+    "plugin_reviews_avatar_width",
+    "plugin_reviews_avatar_height",
+    "plugin_reviews_padding",
+    "plugin_reviews_margin",
+    "wr_reviews_flush_transient",
+    "plugin_reviews_activation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plugin_reviews_dismissed_starfish_notice",
+    "plugin_reviews_dismissed_review_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:30.395Z"
+}

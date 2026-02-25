@@ -1,0 +1,40 @@
+{
+  "options": [
+    "swpsmtp_options",
+    "smtp_test_mail",
+    "swpsmtp_pass_encrypted",
+    "swpsmtp_enc_key",
+    "easy_wp_smtp_activated_time",
+    "easy_wp_smtp_test_email",
+    "easy_wp_smtp_activation_prevent_redirect",
+    "easy_wp_smtp_initial_version",
+    "wpforms_activation_redirect",
+    "aioseo_activation_redirect",
+    "easy_wp_smtp_connect_token",
+    "easy_wp_smtp_connect",
+    "mailer",
+    "easy_wp_smtp_version",
+    "easy_wp_smtp_activated",
+    "easy_wp_smtp_mail_key",
+    "easy_wp_smtp_summary_report_email_last_sent_week",
+    "active_sitewide_plugins",
+    "easy_wp_smtp"
+  ],
+  "transients": [
+    "easy_wp_smtp_lite_just_activated",
+    "easy_wp_smtp_sd_code",
+    "easy_wp_smtp_activation_redirect",
+    "easy_wp_smtp_just_activated",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "easy_wp_smtp_pro_banner_dismissed",
+    "easy_wp_smtp_debug_events_per_page"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:28:43.163Z"
+}

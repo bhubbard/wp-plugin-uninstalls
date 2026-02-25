@@ -1,0 +1,30 @@
+{
+  "options": [
+    "advanced_woo_discount_rules_load_version",
+    "active_sitewide_plugins",
+    "woocommerce_currency",
+    "_awdr_review",
+    "advanced_woo_discount_rules_current_version",
+    "woocommerce_tax_display_cart",
+    "woocommerce_tax_display_shop",
+    "icl_sitepress_settings",
+    "woo-discount-config",
+    "woocommerce_price_num_decimals",
+    "woocommerce_calc_taxes",
+    "woocommerce_prices_include_tax",
+    "awdr_priority_reset",
+    "awdr_activity_log_version"
+  ],
+  "transients": [
+    "awdr_addons_list",
+    "wdr_recommendations_list",
+    "awdr_sale_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awdr_filters"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:34.999Z"
+}

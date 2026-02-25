@@ -1,0 +1,20 @@
+{
+  "options": [
+    "yourls_api_test",
+    "yourls_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yourls_cron",
+    "yourls_test"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_yourls_keyword",
+    "_yourls_url",
+    "_yourls_clicks",
+    "yourls_shorturl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:49.294Z"
+}

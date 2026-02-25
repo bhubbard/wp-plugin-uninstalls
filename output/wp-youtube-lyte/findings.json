@@ -1,0 +1,26 @@
+{
+  "options": [
+    "lyte_emptycache",
+    "lyte_show_links",
+    "lyte_size",
+    "lyte_hidef",
+    "lyte_position",
+    "lyte_microdata",
+    "lyte_greedy",
+    "lyte_yt_api_key",
+    "lyte_local_thumb",
+    "lyte_disclaimer",
+    "lyte_api_error",
+    "lyte_version",
+    "lyte_cache_index",
+    "lyte_widget_cache"
+  ],
+  "transients": [
+    "wp-youtube-lyte_banner"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:20.691Z"
+}

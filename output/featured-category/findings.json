@@ -1,0 +1,14 @@
+{
+  "options": [
+    "featcat_num_posts",
+    "featcat_title",
+    "featcat_category_id",
+    "featcat_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:39.003Z"
+}

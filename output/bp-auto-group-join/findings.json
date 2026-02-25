@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bp_auto_group_join_plugin_options",
+    "bp_auto_group_join_support_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bpagj_groups_visited"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:00.270Z"
+}

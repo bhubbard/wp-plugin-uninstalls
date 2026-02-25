@@ -1,0 +1,29 @@
+{
+  "options": [
+    "agile_timeline_global_settings",
+    "post_timeline_global_settings"
+  ],
+  "transients": [
+    "agile-timeline-err",
+    "post-timeline-err"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "agile-timeline-post-date",
+    "ptl-fav-icon",
+    "ptl-post-date",
+    "ptl-post-link",
+    "ptl-video-url",
+    "ptl-post-order",
+    "ptl-post-color",
+    "ptl-icon-type",
+    "ptl-media-type",
+    "ptl_gallery",
+    "ptl-custom-icon",
+    "_wp_attachment_image_alt",
+    "ptl-like"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:59.840Z"
+}

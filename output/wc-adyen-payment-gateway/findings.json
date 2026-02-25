@@ -1,0 +1,16 @@
+{
+  "options": [
+    "psawg_redirect_object_*",
+    "psawg_redirect_object",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_adyen_notifications",
+    "_woocommerce_adyen_payment_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:38.449Z"
+}

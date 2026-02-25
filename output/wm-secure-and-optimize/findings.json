@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wmso_wikimint_maint_settings",
+    "wmso_wikimint_optimize_settings",
+    "wmso_wikimint_security_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:56.926Z"
+}

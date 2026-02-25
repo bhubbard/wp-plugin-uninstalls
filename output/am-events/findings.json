@@ -1,0 +1,16 @@
+{
+  "options": [
+    "am_timepicker_minutestep",
+    "am_rewrite_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "am_startdate",
+    "am_enddate",
+    "am_recurrence_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:50.878Z"
+}

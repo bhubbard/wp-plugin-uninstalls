@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "wemono_plugin_version",
+    "wemono_auto_update_enabled"
+  ],
+  "transients": [
+    "wemono_plugin_data_wc-wemono"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:57.847Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "achat_brand_color",
+    "achat_seondary_color",
+    "achat_text_color",
+    "far_plugin_settings",
+    "ch_def_reply_option",
+    "achat_greetings_option",
+    "ch_greeting_option",
+    "achat_default_reply_option",
+    "tawk_to_script",
+    "ch_brnd_name_option",
+    "ac_icon_image_option",
+    "enable_chat_feature"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "xxxx_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:03.171Z"
+}

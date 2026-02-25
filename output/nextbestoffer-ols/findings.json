@@ -1,0 +1,24 @@
+{
+  "options": [
+    "NextBestOffer_OLS_use_case",
+    "NextBestOffer_OLS_api_key",
+    "NextBestOffer_OLS_max_rule_length",
+    "NextBestOffer_OLS_min_support",
+    "NextBestOffer_OLS_min_confidence",
+    "NextBestOffer_OLS_training_mode",
+    "NextBestOffer_OLS_batch_size",
+    "NextBestOffer_OLS_email_recommendations",
+    "NextBestOffer_OLS_recom_mode",
+    "NextBestOffer_OLS_selected_partial",
+    "NextBestOffer_OLS_logs"
+  ],
+  "transients": [
+    "NextBestOffer_OLS_training_status",
+    "NextBestOffer_OLS_temporary_recommendations*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:44.592Z"
+}

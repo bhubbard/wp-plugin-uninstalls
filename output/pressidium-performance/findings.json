@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pressidium_performance_activated",
+    "pressidium_performance_settings",
+    "pressidium_performance_table_versions"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "pressidium_performance_clean_up_cron_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:35.910Z"
+}

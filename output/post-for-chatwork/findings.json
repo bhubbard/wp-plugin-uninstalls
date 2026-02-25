@@ -1,0 +1,14 @@
+{
+  "options": [
+    "post_cw_api_token",
+    "post_cw_roomid",
+    "post_send_cwr_expert",
+    "post_send_cwr_messege"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:25.430Z"
+}

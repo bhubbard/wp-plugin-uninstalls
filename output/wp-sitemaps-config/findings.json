@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_sitemaps_config_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpxmlsitemap_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:43.596Z"
+}

@@ -1,0 +1,63 @@
+{
+  "options": [
+    "frm_connect_token",
+    "frm_install_running",
+    "frmpro-credentials",
+    "frmpro-authorized",
+    "frm_db_version",
+    "frm_feedback_expired",
+    "frm_lite_settings_upgrade",
+    "frm_last_style_update",
+    "frm_first_activation",
+    "frm_dismissed",
+    "*key",
+    "*active",
+    "*last_activate",
+    "frm_last_cleared",
+    "frm_antispam_secret_key",
+    "ftp_credentials",
+    "wordpress_api_key",
+    "frm_form_state_key",
+    "frm_honeypot_class",
+    "frm_inbox",
+    "wp_mail_smtp_activation_prevent_redirect",
+    "frm_options",
+    "frm-usage-uuid",
+    "frmpro_css",
+    "widget_frm_show_form",
+    "frm_sale_ab_group",
+    "frm_admin_menu_name",
+    "recaptcha",
+    "disallowed_keys",
+    "frm_square_lite_last_verify_attempt",
+    "*_options",
+    "frm_stripe_lite_last_verify_attempt"
+  ],
+  "transients": [
+    "frm_updating_api",
+    "frmpro_css",
+    "frm_api_licence",
+    "update_plugins",
+    "*excludeinclude",
+    "*includeinclude",
+    "*includeexclude",
+    "*excludeexclude",
+    "frm_options",
+    "frmpro_options",
+    "formidable_plugin_data",
+    "frm_recent_spam_detected",
+    "frm_square_last_process_*",
+    "frm_last_process_*"
+  ],
+  "cron_jobs": [
+    "formidable_send_usage",
+    "frm_payment_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:32.516Z"
+}

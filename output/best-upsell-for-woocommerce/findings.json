@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_tax_display_cart",
+    "woocommerce_tax_display_shop",
+    "woocommerce_currency_pos",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_default_country",
+    "woocommerce_store_postcode",
+    "woocommerce_currency",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bestupsell_text_attribute"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:42.083Z"
+}

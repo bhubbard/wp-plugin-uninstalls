@@ -1,0 +1,35 @@
+{
+  "options": [
+    "pdfev_archive_slug",
+    "pdfev_css_colors",
+    "pdfev_flipbook_status",
+    "pdfev_archive_title",
+    "pdfev_reading_counter",
+    "pdfev_archive_read",
+    "pdfev_download_counter",
+    "pdfev_archive_download",
+    "pdfev_shortcode_page_url",
+    "pdfev_dummy_import_notice",
+    "pdfev_dummy_import_done",
+    "pdfev_archive_template",
+    "pdfev_archive_template_lists",
+    "rewrite_rules",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pdfev_meta_pdf_url",
+    "pdfev_meta_download",
+    "pdfev_meta_downloads_count",
+    "pdfev_meta_views_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:56.740Z"
+}

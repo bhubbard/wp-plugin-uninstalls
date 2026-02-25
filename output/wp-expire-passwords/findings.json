@@ -1,0 +1,13 @@
+{
+  "options": [
+    "days_until_expired"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "EP_password_expires"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:01.226Z"
+}

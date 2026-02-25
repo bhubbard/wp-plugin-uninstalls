@@ -1,0 +1,28 @@
+{
+  "options": [
+    "ahcfree_first_time_setup",
+    "ahcfree_custom_timezone",
+    "ahcfree_upgrade_message",
+    "ahcfree_new_updates",
+    "ahcfree_hide_top_bar_icon",
+    "ahcfree_delete_plugin_data_on_uninstall",
+    "ahcproExcludeRoles",
+    "ahcfree_ahcfree_haships",
+    "ahcfree_save_ips_opn",
+    "ahcproUserRoles",
+    "ahcproRobots",
+    "ahcfree_wp_hits_counter_options",
+    "ahc_db_indexes_ahc_online_users_added"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ahc_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ahcfree_total_views",
+    "_ahcfree_unique_visitors"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:36.933Z"
+}

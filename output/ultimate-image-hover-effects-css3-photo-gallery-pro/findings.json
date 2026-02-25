@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcpop",
+    "grid_cols",
+    "custom_css",
+    "masonry"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:49.178Z"
+}

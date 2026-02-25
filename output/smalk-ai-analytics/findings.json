@@ -1,0 +1,17 @@
+{
+  "options": [
+    "smalk_ai_workspace_key",
+    "smalk_ai_workspace_name",
+    "smalk_ai_publisher_activated",
+    "smalk_ai_project_key"
+  ],
+  "transients": [
+    "smalk_workspace_fetch_success",
+    "smalk_workspace_fetch_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:38.320Z"
+}

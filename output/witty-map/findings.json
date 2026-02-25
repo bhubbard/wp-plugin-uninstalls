@@ -1,0 +1,22 @@
+{
+  "options": [
+    "googlemapapi_key",
+    "wittymap_loc",
+    "wittymap_def_zoom",
+    "wittymap_marker",
+    "wittymap_draggable",
+    "wittymap_doubleClickZoom",
+    "wittymap_zoomControl",
+    "wittymap_scrollWheel",
+    "wittymap_streetView",
+    "wittymap_markerLabel",
+    "wittymap_labelX",
+    "wittymap_labelY"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:43.577Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "testimonial_settings",
+    "testimonial_video_playback"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awl_testimonial*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:28.783Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "active-digital-barcodes-version",
+    "alg_wc_ean_title",
+    "wpm_pgw_label",
+    "hwp_gtin_text",
+    "woocommerce_currency_pos",
+    "woocommerce_currency",
+    "*_notice_dismissed"
+  ],
+  "transients": [
+    "*2.0.5",
+    "wpbcu_old_post",
+    "wpbcu_validation_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "date_expires",
+    "_product_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:47.771Z"
+}

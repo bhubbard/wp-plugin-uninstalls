@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_ad7_biz_id",
+    "wp_ad7_biz_type",
+    "wp_ad7_biz_domains",
+    "wp_ad7_biz_entry",
+    "wp_ad7_biz_convert",
+    "wp_ad7_biz_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:42.192Z"
+}

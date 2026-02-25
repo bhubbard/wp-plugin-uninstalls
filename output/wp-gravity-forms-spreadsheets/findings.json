@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_version",
+    "*_updates",
+    "*_settings",
+    "*_crm",
+    "*_meta",
+    "recently_activated",
+    "*_debug",
+    "*_msg",
+    "*_install_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:44.009Z"
+}

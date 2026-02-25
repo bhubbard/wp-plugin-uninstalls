@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woopt_actions",
+    "woopt_features"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woopt_actions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:07.768Z"
+}

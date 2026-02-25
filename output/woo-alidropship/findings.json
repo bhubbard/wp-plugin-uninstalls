@@ -1,0 +1,57 @@
+{
+  "options": [
+    "vi_wad_temp_api_credentials",
+    "woo_orders_tracking_settings",
+    "vi_wad_create_table_of_error_product_images",
+    "ald_search_product_country",
+    "woocommerce_default_country",
+    "woocommerce_currency",
+    "wooaliexpressdropship_params",
+    "ald_deleted_old_posts_data",
+    "ald_migrated_to_new_table",
+    "vi_wad_user_agent_list",
+    "vi_wad_last_used_user_agent",
+    "viwad_setup_wizard",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "vi_wad_background_download_images_complete",
+    "vi_wad_background_import_product",
+    "wc_featured_products",
+    "villatheme_call",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called",
+    "villatheme_ads",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "wp_vi_wad_background_download_images_cron",
+    "publish_future_post",
+    "vi_wad_update_aff_urls"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "vi_wad_show_notice",
+    "_vi_wad_aliexpress_product_id",
+    "_vi_wad_aliexpress_variation_id",
+    "_vi_wad_aliexpress_variation_attr",
+    "_vi_wad_shipping_info",
+    "_thumbnail_id",
+    "_product_image_gallery",
+    "_sku",
+    "_vi_wad_aliexpress_variation_ship_from",
+    "vi_wad_per_page",
+    "_vi_wad_migrate_from_id",
+    "_wp_page_template",
+    "_ald_migrated_to_new_table",
+    "_vi_wad_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:12.153Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "icegram_mailer_ess_data",
+    "icegram_mailer_opted_for_sending_service",
+    "icegram_mailer_status",
+    "icegram_mailer_onboarding_complete",
+    "icegram_mailer_mailer_settings",
+    "icegram_mailer_branding_enabled",
+    "icegram_mailer_test_mailbox_user",
+    "icegram_mailer_db_version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "icegram_mailer_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:33.930Z"
+}

@@ -1,0 +1,51 @@
+{
+  "options": [
+    "templately_ai_business_niches",
+    "templately_ai_processed_pages",
+    "templately_logo_generation_processes",
+    "templately_logo_generation_data",
+    "templately_custom_css",
+    "site_logo",
+    "eb_global_styles",
+    "templately-gutenberg-hide-buttons",
+    "templately_flush_rewrite_rules",
+    "templately_fsi_imported_list",
+    "templately_fsi_log",
+    "templately_import_platform",
+    "templately_post_archive",
+    "__templately_stylesheet",
+    "__templately_*",
+    "fluent_cart_store_settings",
+    "templately_enable_fsi_skip_on_error",
+    "templately_ai_process_data",
+    "_templately_global_login"
+  ],
+  "transients": [
+    "templately_subscriptions",
+    "templately_header_styles_*",
+    "templately-google-fonts",
+    "templately_activation_redirect",
+    "wpnotice_priority_time_expired"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "_templately_template_type",
+    "_elementor_controls_usage",
+    "_wp_attachment_image_alt",
+    "templately_fsi_complete",
+    "templately_fsi_pack_id",
+    "fluent-products-gallery-image",
+    "_elementor_source_image_hash",
+    "_templately_original_id",
+    "_templately_original_url",
+    "_templately_demo_url",
+    "_templately_image_hash_meta_id",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "_elementor_template_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:25.314Z"
+}

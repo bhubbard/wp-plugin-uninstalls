@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pe_params",
+    "pe_clientid",
+    "pe_clientsecret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:40.275Z"
+}

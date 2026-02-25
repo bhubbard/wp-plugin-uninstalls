@@ -1,0 +1,18 @@
+{
+  "options": [
+    "tickers_title",
+    "per_page_item",
+    "post_type",
+    "title_color",
+    "items_color",
+    "title_bg_color",
+    "items_bg_color",
+    "effect_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:45.380Z"
+}

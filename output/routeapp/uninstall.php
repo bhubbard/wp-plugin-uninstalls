@@ -1,0 +1,118 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('routeapp_merchant_id');
+delete_site_option('routeapp_merchant_id');
+delete_option('routeapp_secret_token');
+delete_site_option('routeapp_secret_token');
+delete_option('_routeapp_webhooks_created');
+delete_site_option('_routeapp_webhooks_created');
+delete_option('_routeapp_webhooks_secret');
+delete_site_option('_routeapp_webhooks_secret');
+delete_option('routeapp_included_order_statuses');
+delete_site_option('routeapp_included_order_statuses');
+delete_option('routeapp_cancel_order_statuses');
+delete_site_option('routeapp_cancel_order_statuses');
+delete_option('routeapp_public_token');
+delete_site_option('routeapp_public_token');
+delete_option('routeapp_user_token');
+delete_site_option('routeapp_user_token');
+delete_option('routeapp_user_id');
+delete_site_option('routeapp_user_id');
+delete_option('_routeapp_last_install_date');
+delete_site_option('_routeapp_last_install_date');
+delete_option('routeapp_route_enable_extra_columns');
+delete_site_option('routeapp_route_enable_extra_columns');
+delete_option('_routeapp_version');
+delete_site_option('_routeapp_version');
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+delete_option('mimo_provider_list');
+delete_site_option('mimo_provider_list');
+delete_option('woocommerce_store_address');
+delete_site_option('woocommerce_store_address');
+delete_option('woocommerce_store_address_2');
+delete_site_option('woocommerce_store_address_2');
+delete_option('woocommerce_store_city');
+delete_site_option('woocommerce_store_city');
+delete_option('woocommerce_store_postcode');
+delete_site_option('woocommerce_store_postcode');
+delete_option('woocommerce_default_country');
+delete_site_option('woocommerce_default_country');
+delete_option('woocommerce_weight_unit');
+delete_site_option('woocommerce_weight_unit');
+delete_option('routeapp_taxable_class');
+delete_site_option('routeapp_taxable_class');
+delete_option('routeapp_checkout_hook');
+delete_site_option('routeapp_checkout_hook');
+delete_option('routeapp_route_fee_taxable');
+delete_site_option('routeapp_route_fee_taxable');
+delete_option('routeapp_excluded_shipping_methods');
+delete_site_option('routeapp_excluded_shipping_methods');
+delete_option('routeapp_route_fresh_installed');
+delete_site_option('routeapp_route_fresh_installed');
+delete_option('routeapp_route_show_order_updates');
+delete_site_option('routeapp_route_show_order_updates');
+delete_option('routeapp_failed_registration');
+delete_site_option('routeapp_failed_registration');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_routeapp_order_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_routeapp_order_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_routeapp_order_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_routeapp_order_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_routeapp_included_order_statuses' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_routeapp_included_order_statuses' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_routeapp_included_order_statuses' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_routeapp_included_order_statuses' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_routeapp_cancel_order_statuses' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_routeapp_cancel_order_statuses' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_routeapp_cancel_order_statuses' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_routeapp_cancel_order_statuses' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_routeapp_route_charge' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_routeapp_route_charge' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_routeapp_route_charge' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_routeapp_route_charge' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_routeapp_route_protection' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_routeapp_route_protection' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_routeapp_route_protection' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_routeapp_route_protection' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'routeapp_shipment_tracking_provider' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'routeapp_shipment_tracking_provider' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'routeapp_shipment_tracking_provider' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'routeapp_shipment_tracking_provider' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_bst_tracking_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_bst_tracking_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_bst_tracking_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_bst_tracking_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_bst_tracking_provider' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_bst_tracking_provider' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_bst_tracking_provider' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_bst_tracking_provider' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'routeapp_shipment_api_called' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'routeapp_shipment_api_called' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'routeapp_shipment_api_called' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'routeapp_shipment_api_called' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'routeapp_shipment_tracking_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'routeapp_shipment_tracking_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'routeapp_shipment_tracking_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'routeapp_shipment_tracking_number' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'usps_evs_label_details_array' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'usps_evs_label_details_array' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'usps_evs_label_details_array' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'usps_evs_label_details_array' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_routeapp_quote' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_routeapp_quote' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_routeapp_quote' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_routeapp_quote' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_routeapp_version' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_routeapp_version' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_routeapp_version' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_routeapp_version' ) );
+

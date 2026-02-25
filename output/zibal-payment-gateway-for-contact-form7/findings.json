@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cf7pp_theme_message",
+    "cf7pp_theme_error_message",
+    "cf7pp_options",
+    "cf7pp_my_plugin_notice_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7pp_enable",
+    "_cf7pp_email",
+    "_cf7pp_price",
+    "_cf7pp_mobile",
+    "_cf7pp_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:24.374Z"
+}

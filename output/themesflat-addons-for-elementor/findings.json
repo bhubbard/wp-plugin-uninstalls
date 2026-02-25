@@ -1,0 +1,20 @@
+{
+  "options": [
+    "elementor_google_maps_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tf_flashsale_text",
+    "_tf_flashsale_text_2",
+    "_sale_price",
+    "_regular_price",
+    "tfhf_template_include_locations",
+    "tfhf_template_exclude_locations",
+    "tfhf_template_type",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:53.181Z"
+}

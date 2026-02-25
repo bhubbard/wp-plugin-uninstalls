@@ -1,0 +1,20 @@
+{
+  "options": [
+    "hashform_first_activation",
+    "hashform_dismissed_notices",
+    "_hashform_security_salt",
+    "hashform_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hashform_dismissed_notices",
+    "managetoplevel_page_hashform-entriescolumnshidden",
+    "hashform_styles",
+    "managetoplevel_page_hashformcolumnshidden",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:20.755Z"
+}

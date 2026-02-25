@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_dlocal_go_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dlocal_go_payment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:05.847Z"
+}

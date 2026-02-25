@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "*_id",
+    "_gmp_video_thumbnail",
+    "_gmp_video_uri",
+    "_gmp_video_embed",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:39.738Z"
+}

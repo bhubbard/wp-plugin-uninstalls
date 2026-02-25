@@ -1,0 +1,14 @@
+{
+  "options": [
+    "th_variation_swatches"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product_attribute_color",
+    "product_attribute_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:06.677Z"
+}

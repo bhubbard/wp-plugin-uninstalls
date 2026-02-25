@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wcexd-sensei-option",
+    "wcexd-users-role"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_address_1",
+    "billing_postcode",
+    "billing_city",
+    "billing_state",
+    "billing_country",
+    "billing_phone",
+    "billing_cpf",
+    "billing_cnpj"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:36.955Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "open_lightbox_event",
+    "open_link_in_new_page",
+    "display_google_search",
+    "display_wp_tags_page",
+    "display_wiki_search"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:31.822Z"
+}

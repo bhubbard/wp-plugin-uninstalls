@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ssc_real_seo_baseline_last_results"
+  ],
+  "transients": [
+    "ssc_real_seo_baseline_error",
+    "ssc_real_seo_baseline_results"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:26.953Z"
+}

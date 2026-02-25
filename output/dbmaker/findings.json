@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "save_post_type",
+    "format",
+    "status",
+    "char_code",
+    "ignore_firstline",
+    "public_post_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:07.462Z"
+}

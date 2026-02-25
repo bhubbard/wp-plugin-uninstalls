@@ -1,0 +1,19 @@
+{
+  "options": [
+    "vwi_vend_connect_subdomain",
+    "vwi_vend_connect_token",
+    "vwi_vend_connect_cashier",
+    "vwi_vend_last_import_finish"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_woo_vend_product_id",
+    "_current_vend_version",
+    "_imported_images_versions",
+    "vend_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:11.529Z"
+}

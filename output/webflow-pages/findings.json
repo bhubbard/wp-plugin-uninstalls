@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_wf_static_page_rules",
+    "_wf_dynamic_page_rules",
+    "wf_pages_cache_duration",
+    "_wf_api_token_version",
+    "_wf_api_token"
+  ],
+  "transients": [
+    "_wf_site_data",
+    "wf_site_cached"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:53.789Z"
+}

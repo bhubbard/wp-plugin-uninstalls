@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_inicis_pro_settings",
+    "woocommerce_inicis_std_settings"
+  ],
+  "transients": [
+    "inicis_std_return_*",
+    "inicis_std_oid_*",
+    "seoulcommerce_kg_inicis_pro_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:35.752Z"
+}

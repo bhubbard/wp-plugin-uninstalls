@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ignore_js', 'vwo_id', 'code_type', 'vwo_clicks', 'settings_tolerance', 'library_tolerance', 'use_existing_jquery', 'enable_woocommerce_event_tracking', 'track_product_view', 'track_add_to_cart', 'track_remove_from_cart', 'track_checkout', 'track_purchase', 'vwo_server_side_tracking', 'vwo_coll_url');
+

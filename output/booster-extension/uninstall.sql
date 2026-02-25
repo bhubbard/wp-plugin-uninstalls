@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('twp_be_options_settings', 'twp_post_rating', 'twp_visited_date', 'twp_pined_posts');
+DELETE FROM wp_options WHERE option_name LIKE 'twp-posts-%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('rating', 'phone', 'twp_be_like_count', 'twp_be_dislike_like_count', 'twp_be_ip_address_lists_dislike', 'twp_be_ip_address_lists_like', 'twp_be_ip_address_react_1', 'twp_be_ip_address_react_2', 'twp_be_ip_address_react_3', 'twp_be_ip_address_react_4', 'twp_be_ip_address_react_5', 'twp_be_ip_address_react_6', 'twp_be_react_1', 'twp_be_react_2', 'twp_be_react_3', 'twp_be_react_4', 'twp_be_react_5', 'twp_be_react_6', 'twp_be_post_views_count', 'be_user_avatar', 'be_user_background_avatar');
+DELETE FROM wp_usermeta WHERE meta_key IN ('rating', 'phone', 'twp_be_like_count', 'twp_be_dislike_like_count', 'twp_be_ip_address_lists_dislike', 'twp_be_ip_address_lists_like', 'twp_be_ip_address_react_1', 'twp_be_ip_address_react_2', 'twp_be_ip_address_react_3', 'twp_be_ip_address_react_4', 'twp_be_ip_address_react_5', 'twp_be_ip_address_react_6', 'twp_be_react_1', 'twp_be_react_2', 'twp_be_react_3', 'twp_be_react_4', 'twp_be_react_5', 'twp_be_react_6', 'twp_be_post_views_count', 'be_user_avatar', 'be_user_background_avatar');
+DELETE FROM wp_termmeta WHERE meta_key IN ('rating', 'phone', 'twp_be_like_count', 'twp_be_dislike_like_count', 'twp_be_ip_address_lists_dislike', 'twp_be_ip_address_lists_like', 'twp_be_ip_address_react_1', 'twp_be_ip_address_react_2', 'twp_be_ip_address_react_3', 'twp_be_ip_address_react_4', 'twp_be_ip_address_react_5', 'twp_be_ip_address_react_6', 'twp_be_react_1', 'twp_be_react_2', 'twp_be_react_3', 'twp_be_react_4', 'twp_be_react_5', 'twp_be_react_6', 'twp_be_post_views_count', 'be_user_avatar', 'be_user_background_avatar');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('rating', 'phone', 'twp_be_like_count', 'twp_be_dislike_like_count', 'twp_be_ip_address_lists_dislike', 'twp_be_ip_address_lists_like', 'twp_be_ip_address_react_1', 'twp_be_ip_address_react_2', 'twp_be_ip_address_react_3', 'twp_be_ip_address_react_4', 'twp_be_ip_address_react_5', 'twp_be_ip_address_react_6', 'twp_be_react_1', 'twp_be_react_2', 'twp_be_react_3', 'twp_be_react_4', 'twp_be_react_5', 'twp_be_react_6', 'twp_be_post_views_count', 'be_user_avatar', 'be_user_background_avatar');
+

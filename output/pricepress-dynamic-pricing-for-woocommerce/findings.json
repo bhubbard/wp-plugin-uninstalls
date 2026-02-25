@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pricepress_allow_tracking"
+  ],
+  "transients": [
+    "pricepress_tracking_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pricepress_enabled",
+    "_pricepress_tiers",
+    "_pricepress_show_table",
+    "_pricepress_shipping_enabled",
+    "_pricepress_shipping_qty"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:27.546Z"
+}

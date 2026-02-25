@@ -1,0 +1,18 @@
+{
+  "options": [
+    "puca_enable_cache",
+    "puca_cache_lifetime",
+    "puca_enable_compression",
+    "puca_minify_html",
+    "puca_lazy_load",
+    "puca_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "puca_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:39.460Z"
+}

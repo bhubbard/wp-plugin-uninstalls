@@ -1,0 +1,28 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpt_column_width",
+    "wpt_row_height",
+    "wpt_corner_radius",
+    "wpt_corner_gradient",
+    "wpt_style",
+    "wpt_column_margin",
+    "wpt_total_row",
+    "wpt_total_column",
+    "wpt_featured_column",
+    "wpt_table_field",
+    "wpt_table_field_header",
+    "wpt_table_field_price",
+    "wpt_table_column_ribon",
+    "wpt_table_column_signup_text",
+    "wpt_table_column_signup_url",
+    "wpt_table_column_color",
+    "wpt_bg_img",
+    "wpt_themes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:40.361Z"
+}

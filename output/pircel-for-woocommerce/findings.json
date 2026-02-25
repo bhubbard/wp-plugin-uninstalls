@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pircel_sizes_options",
+    "pircel_mapping_options",
+    "pircel_options",
+    "woocommerce_store_id",
+    "pircel_tools_options",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "wc_shipping_method_count",
+    "wc_shipping_method_count_legacy",
+    "pircel_shipment_*",
+    "pircel_shipment_for_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:16.998Z"
+}

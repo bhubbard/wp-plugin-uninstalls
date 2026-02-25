@@ -1,0 +1,14 @@
+{
+  "options": [
+    "slidebox_css_title",
+    "slidebox_css_content",
+    "slidebox_img_more",
+    "slidebox_img_less"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:59.169Z"
+}

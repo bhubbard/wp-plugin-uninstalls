@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpnm_enable_user_registration_notification",
+    "wpnm_user_registration_email",
+    "wpnm_enable_password_change_notification",
+    "wpnm_password_change_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:52.076Z"
+}

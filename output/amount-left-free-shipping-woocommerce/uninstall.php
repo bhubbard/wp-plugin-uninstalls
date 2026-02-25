@@ -1,0 +1,103 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('alg_wc_left_to_free_shipping_hide_shipping_methods_free_shipping_method');
+delete_site_option('alg_wc_left_to_free_shipping_hide_shipping_methods_free_shipping_method');
+delete_option('alg_wc_left_to_free_shipping_enabled');
+delete_site_option('alg_wc_left_to_free_shipping_enabled');
+delete_option('alg_wc_left_to_free_shipping_info_enabled_cart');
+delete_site_option('alg_wc_left_to_free_shipping_info_enabled_cart');
+delete_option('alg_wc_left_to_free_shipping_info_position_cart');
+delete_site_option('alg_wc_left_to_free_shipping_info_position_cart');
+delete_option('alg_wc_left_to_free_shipping_info_priority_cart');
+delete_site_option('alg_wc_left_to_free_shipping_info_priority_cart');
+delete_option('alg_wc_left_to_free_shipping_progressbar_enabled');
+delete_site_option('alg_wc_left_to_free_shipping_progressbar_enabled');
+delete_option('alg_wc_left_to_free_shipping_progressbar_animation_enabled');
+delete_site_option('alg_wc_left_to_free_shipping_progressbar_animation_enabled');
+delete_option('alg_wc_left_to_free_shipping_progressbar_background_color');
+delete_site_option('alg_wc_left_to_free_shipping_progressbar_background_color');
+delete_option('alg_wc_left_to_free_shipping_progressbar_foreground_color');
+delete_site_option('alg_wc_left_to_free_shipping_progressbar_foreground_color');
+delete_option('alg_wc_left_to_free_shipping_progressbar_height');
+delete_site_option('alg_wc_left_to_free_shipping_progressbar_height');
+delete_option('alg_wc_left_to_free_shipping_hide_by_disabled_shipping_method');
+delete_site_option('alg_wc_left_to_free_shipping_hide_by_disabled_shipping_method');
+delete_option('alg_wc_left_to_free_shipping_hide_by_disabled_shipping_method_operator');
+delete_site_option('alg_wc_left_to_free_shipping_hide_by_disabled_shipping_method_operator');
+delete_option('alg_wc_left_to_free_shipping_hide_shipping_methods');
+delete_site_option('alg_wc_left_to_free_shipping_hide_shipping_methods');
+delete_option('alg_wc_left_to_free_shipping_visible_shipping_methods_on_hide');
+delete_site_option('alg_wc_left_to_free_shipping_visible_shipping_methods_on_hide');
+delete_option('alg_wc_left_to_free_shipping_sv_minusone');
+delete_site_option('alg_wc_left_to_free_shipping_sv_minusone');
+delete_option('alg_wc_left_to_free_shipping_clear_notices');
+delete_site_option('alg_wc_left_to_free_shipping_clear_notices');
+delete_option('alg_wc_left_to_free_shipping_default_notice_enabled');
+delete_site_option('alg_wc_left_to_free_shipping_default_notice_enabled');
+delete_option('alg_wc_left_to_free_shipping_default_notice_display_by_function');
+delete_site_option('alg_wc_left_to_free_shipping_default_notice_display_by_function');
+delete_option('alg_wc_left_to_free_shipping_default_notice_content');
+delete_site_option('alg_wc_left_to_free_shipping_default_notice_content');
+delete_option('alg_wc_left_to_free_shipping_default_notice_type');
+delete_site_option('alg_wc_left_to_free_shipping_default_notice_type');
+delete_option('alg_wc_left_to_free_shipping_min_cart_amount');
+delete_site_option('alg_wc_left_to_free_shipping_min_cart_amount');
+delete_option('alg_wc_left_to_free_shipping_info_content_cart');
+delete_site_option('alg_wc_left_to_free_shipping_info_content_cart');
+delete_option('alg_wc_left_to_free_shipping_cart_wrap_template');
+delete_site_option('alg_wc_left_to_free_shipping_cart_wrap_template');
+delete_option('alg_wc_left_to_free_shipping_cart_wrap_method');
+delete_site_option('alg_wc_left_to_free_shipping_cart_wrap_method');
+delete_option('alg_wc_left_to_free_shipping_cart_total_method');
+delete_site_option('alg_wc_left_to_free_shipping_cart_total_method');
+delete_option('alg_wc_left_to_free_shipping_include_discounts');
+delete_site_option('alg_wc_left_to_free_shipping_include_discounts');
+delete_option('alg_wc_left_to_free_shipping_exclude_shipping');
+delete_site_option('alg_wc_left_to_free_shipping_exclude_shipping');
+delete_option('alg_wc_left_to_free_shipping_exclude_shipping_taxes');
+delete_site_option('alg_wc_left_to_free_shipping_exclude_shipping_taxes');
+delete_option('alg_wc_left_to_free_shipping_check_virtual');
+delete_site_option('alg_wc_left_to_free_shipping_check_virtual');
+delete_option('alg_wc_left_to_free_shipping_mma_enabled');
+delete_site_option('alg_wc_left_to_free_shipping_mma_enabled');
+delete_option('alg_wc_left_to_free_shipping_manual_min_amount');
+delete_site_option('alg_wc_left_to_free_shipping_manual_min_amount');
+delete_option('alg_wc_left_to_free_shipping_mma_roles_val');
+delete_site_option('alg_wc_left_to_free_shipping_mma_roles_val');
+delete_option('alg_wc_left_to_free_shipping_multiple_shipping_priority');
+delete_site_option('alg_wc_left_to_free_shipping_multiple_shipping_priority');
+delete_option('alg_wc_left_to_free_shipping_sv_zero');
+delete_site_option('alg_wc_left_to_free_shipping_sv_zero');
+delete_option('alg_wc_left_to_free_shipping_set_shipping_country_automatically');
+delete_site_option('alg_wc_left_to_free_shipping_set_shipping_country_automatically');
+delete_option('woocommerce_version');
+delete_site_option('woocommerce_version');
+delete_option('alg_wc_left_to_free_shipping_check_free_shipping');
+delete_site_option('alg_wc_left_to_free_shipping_check_free_shipping');
+delete_option('alg_wc_left_to_free_check_cart_free_shipping');
+delete_site_option('alg_wc_left_to_free_check_cart_free_shipping');
+delete_option('alg_wc_left_to_free_shipping_info_content_reached');
+delete_site_option('alg_wc_left_to_free_shipping_info_content_reached');
+delete_option('alg_wc_left_to_free_shipping_custom_empty_cart');
+delete_site_option('alg_wc_left_to_free_shipping_custom_empty_cart');
+delete_option('alg_wc_left_to_free_shipping_info_content_empty_cart');
+delete_site_option('alg_wc_left_to_free_shipping_info_content_empty_cart');
+delete_option('alg_wc_left_to_free_shipping_version');
+delete_site_option('alg_wc_left_to_free_shipping_version');
+delete_option('alg_wc_left_to_free_shipping_mma_shipping_classes');
+delete_site_option('alg_wc_left_to_free_shipping_mma_shipping_classes');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_reset' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+

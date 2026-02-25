@@ -1,0 +1,13 @@
+{
+  "options": [
+    "post_type_rules_flased_event"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "superevents_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:02.513Z"
+}

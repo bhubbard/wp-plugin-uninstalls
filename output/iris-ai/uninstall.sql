@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('irisai_mode', 'irisai_proxy_base_url', 'irisai_proxy_api_key', 'irisai_openai_api_key', 'irisai_model', 'irisai_vector_post_types', 'irisai_require_login', 'irisai_error_message', 'irisai_privacy_mode', 'irisai_index_posts_per_step', 'irisai_chunks_per_embed', 'irisai_step_time_budget', 'irisai_vector_chunk_size', 'irisai_vector_chunk_overlap', 'irisai_rate_limit', 'irisai_rate_window', 'irisai_provider', 'irisai_api_base', 'irisai_max_output_tokens', 'irisai_user_consent', 'irisai_system_prompt', 'irisai_prompt_suggestions', 'irisai_appearance', 'irisai_enable_waves', 'irisai_wave_start', 'irisai_wave_center', 'irisai_wave_end', 'irisai_chatpage_show_sources', 'irisai_sticky_input', 'irisai_auto_focus', 'irisai_chat_title', 'irisai_show_tagline', 'irisai_chat_placeholder', 'irisai_show_suggestions', 'irisai_empty_state_title', 'irisai_empty_state_message', 'irisai_vector_db_version', 'irisai_auto_reindex', 'irisai_auto_inject_widget', 'irisai_welcome_message', 'irisai_widget_theme', 'irisai_enable_unread_badge', 'irisai_persist_session', 'irisai_session_storage_key', 'irisai_widget_visibility_mode', 'irisai_enable_history', 'irisai_max_history', 'irisai_show_welcome', 'irisai_enable_sources', 'irisai_show_suggestions_widget');
+DELETE FROM wp_options WHERE option_name IN ('irisai_widget_position', 'irisai_widget_visibility_include_ids', 'irisai_widget_visibility_exclude_ids', 'irisai_enable_fallback', 'irisai_widget_label', 'irisai_installed_version', 'irisai_do_setup_wizard', 'irisai_setup_completed', 'irisai_setup_dismissed', 'irisai_has_index', 'irisai_embedding_mismatch_detected', 'irisai_rag_docs_cache', 'irisai_indexing_running');
+DELETE FROM wp_options WHERE option_name LIKE 'irisai_consent_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_irisai_search_keywords', '_irisai_search_description', '_irisai_needs_reindex', 'irisai_consent', 'irisai_indexed_job', 'irisai_preferences');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_irisai_search_keywords', '_irisai_search_description', '_irisai_needs_reindex', 'irisai_consent', 'irisai_indexed_job', 'irisai_preferences');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_irisai_search_keywords', '_irisai_search_description', '_irisai_needs_reindex', 'irisai_consent', 'irisai_indexed_job', 'irisai_preferences');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_irisai_search_keywords', '_irisai_search_description', '_irisai_needs_reindex', 'irisai_consent', 'irisai_indexed_job', 'irisai_preferences');
+

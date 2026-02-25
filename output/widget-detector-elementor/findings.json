@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wde_disabled_widgets",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "*editor_hover",
+    "widget_detector_elementor_reviews_installed_on",
+    "widget_detector_elementor_total_open_count",
+    "wde_editor_hover",
+    "recently_activated",
+    "winter_mvc_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_widget_detector_elementor_reviews_dismissed_triggers",
+    "_widget_detector_elementor_reviews_last_dismissed",
+    "_widget_detector_elementor_reviews_already_did",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:45.561Z"
+}

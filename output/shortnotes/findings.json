@@ -1,0 +1,17 @@
+{
+  "options": [
+    "shortnotes_rules_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "send_shortnote_webmentions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "shortnotes_reply_to_url",
+    "shortnotes_reply_to_name",
+    "_share_on_mastodon_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:39.518Z"
+}

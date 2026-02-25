@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wpjobboard_confirmation_page_id",
+    "wpjobboard_upload_dir",
+    "wpjobboard_ip_logging_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpjobboard_show_title_description",
+    "jobboard_confirmation_settings",
+    "wpjobboard_application_builder_settings",
+    "wpjobboard_submit_button_settings",
+    "wpjobboard_form_design_settings",
+    "application_end_timestamp",
+    "wpjb_email_notifications",
+    "job_experince_text",
+    "job_type",
+    "wpjb_form_scheduling_settings",
+    "job_location",
+    "job_vacancies",
+    "application_start_date",
+    "application_end_date",
+    "application_start_timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:55.384Z"
+}

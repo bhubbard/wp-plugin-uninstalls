@@ -1,0 +1,21 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('bao_firebase', 'default_product_cat', 'bao_pages', 'bao_groups', 'dotapp_theme', 'dotapp_settings', 'dotapp_blocks', 'woocommerce_review_rating_verification_required', 'woocommerce_enable_guest_checkout', 'wc_points_rewards_redeem_points_message', 'wc_points_rewards_earn_points_message', 'bao_fcm_token', 'bao_my_blocks', 'wc_featured_products');
+DELETE FROM wp_options WHERE option_name LIKE '%_store';
+DELETE FROM wp_options WHERE option_name LIKE '%_delivery_boy';
+DELETE FROM wp_options WHERE option_name LIKE 'BAOPAGE%';
+DELETE FROM wp_options WHERE option_name LIKE 'BAOGROUP%';
+DELETE FROM wp_options WHERE option_name LIKE 'dotapp_blocks%';
+DELETE FROM wp_options WHERE option_name LIKE 'dotapp_settings%';
+DELETE FROM wp_options WHERE option_name LIKE 'dotapp_theme%';
+DELETE FROM wp_options WHERE option_name LIKE 'bao-store-category-%';
+DELETE FROM wp_options WHERE option_name LIKE 'dokan-store-category-%';
+DELETE FROM wp_options WHERE option_name LIKE 'mstoreapp-store-category-%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_vendor_id', 'bao_onesignal_user_id', 'bao_fcm_token', 'mstoreapp_vendor_type', '_product_addons_exclude_global', '_product_addons', '_priority', 'bao_uid', 'bao_wishlist', '_vendor_profile_image', '_wp_attachment_image_alt', 'thumbnail_id', '_featured', 'first_name', 'last_name', 'billing_phone', 'billing_first_name', 'billing_last_name', 'shipping_first_name', 'shipping_last_name', 'rating', '_vendor_term_id', 'timezone_string', '_store_lng', '_store_lat', 'gmt_offset', 'wcfm_vendor_delivery_time', '_wc_points_modifier', 'vendor_data', 'wcfm_vendor_store_hours', 'dokan_profile_settings', 'dokan_store_name', 'brand_thumbnail_id', 'pwb_brand_image', 'pwb_brand_banner', 'product_attribute_color', 'product_attribute_image');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_vendor_id', 'bao_onesignal_user_id', 'bao_fcm_token', 'mstoreapp_vendor_type', '_product_addons_exclude_global', '_product_addons', '_priority', 'bao_uid', 'bao_wishlist', '_vendor_profile_image', '_wp_attachment_image_alt', 'thumbnail_id', '_featured', 'first_name', 'last_name', 'billing_phone', 'billing_first_name', 'billing_last_name', 'shipping_first_name', 'shipping_last_name', 'rating', '_vendor_term_id', 'timezone_string', '_store_lng', '_store_lat', 'gmt_offset', 'wcfm_vendor_delivery_time', '_wc_points_modifier', 'vendor_data', 'wcfm_vendor_store_hours', 'dokan_profile_settings', 'dokan_store_name', 'brand_thumbnail_id', 'pwb_brand_image', 'pwb_brand_banner', 'product_attribute_color', 'product_attribute_image');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_vendor_id', 'bao_onesignal_user_id', 'bao_fcm_token', 'mstoreapp_vendor_type', '_product_addons_exclude_global', '_product_addons', '_priority', 'bao_uid', 'bao_wishlist', '_vendor_profile_image', '_wp_attachment_image_alt', 'thumbnail_id', '_featured', 'first_name', 'last_name', 'billing_phone', 'billing_first_name', 'billing_last_name', 'shipping_first_name', 'shipping_last_name', 'rating', '_vendor_term_id', 'timezone_string', '_store_lng', '_store_lat', 'gmt_offset', 'wcfm_vendor_delivery_time', '_wc_points_modifier', 'vendor_data', 'wcfm_vendor_store_hours', 'dokan_profile_settings', 'dokan_store_name', 'brand_thumbnail_id', 'pwb_brand_image', 'pwb_brand_banner', 'product_attribute_color', 'product_attribute_image');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_vendor_id', 'bao_onesignal_user_id', 'bao_fcm_token', 'mstoreapp_vendor_type', '_product_addons_exclude_global', '_product_addons', '_priority', 'bao_uid', 'bao_wishlist', '_vendor_profile_image', '_wp_attachment_image_alt', 'thumbnail_id', '_featured', 'first_name', 'last_name', 'billing_phone', 'billing_first_name', 'billing_last_name', 'shipping_first_name', 'shipping_last_name', 'rating', '_vendor_term_id', 'timezone_string', '_store_lng', '_store_lat', 'gmt_offset', 'wcfm_vendor_delivery_time', '_wc_points_modifier', 'vendor_data', 'wcfm_vendor_store_hours', 'dokan_profile_settings', 'dokan_store_name', 'brand_thumbnail_id', 'pwb_brand_image', 'pwb_brand_banner', 'product_attribute_color', 'product_attribute_image');
+

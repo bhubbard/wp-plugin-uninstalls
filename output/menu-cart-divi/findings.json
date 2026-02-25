@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lwpdm_menu_cart_activation_time",
+    "lwpdm_menu_cart_spare_me",
+    "lwp_menu_cart_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:05.196Z"
+}

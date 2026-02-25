@@ -1,0 +1,16 @@
+{
+  "options": [
+    "storesetup_is_done",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_default_country",
+    "woocommerce_store_postcode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:09.402Z"
+}

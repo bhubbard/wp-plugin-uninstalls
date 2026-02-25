@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zinv_hide_price_cart"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:58.841Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "arpmp_post_type_cron",
+    "arpmp_republish_interval",
+    "arpmp_posts_per_batch",
+    "arpmp_max_republish_per_day",
+    "arpmp_enable_permalink_change",
+    "arpmp_pause_auto_republish",
+    "arpmp_date_update_mode",
+    "arpmp_republish_order"
+  ],
+  "transients": [
+    "arpmp_republish_count_today"
+  ],
+  "cron_jobs": [
+    "arpmp_auto_republish"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:10.908Z"
+}

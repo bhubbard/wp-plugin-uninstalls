@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_wp_flickr_key_api",
+    "_wp_flickr_key_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_Flickr_options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:47.117Z"
+}

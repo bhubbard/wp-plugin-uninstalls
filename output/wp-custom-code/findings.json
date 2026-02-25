@@ -1,0 +1,15 @@
+{
+  "options": [
+    "kfag_wp_custom_*",
+    "kfag_wp_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kfag_wp_custom_*",
+    "kfag_wp_custom_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:53.652Z"
+}

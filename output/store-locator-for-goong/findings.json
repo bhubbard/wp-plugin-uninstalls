@@ -1,0 +1,18 @@
+{
+  "options": [
+    "store_locator_goong_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_store_address",
+    "_store_hotline",
+    "_store_hours",
+    "_store_lat",
+    "_store_lng",
+    "_store_google_maps_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:36.314Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "apspider_gutenberg_editmenu_name",
+    "apspider_radio_editmenu",
+    "apspider_gutenberg_radio_editmenu",
+    "apspp_radio_viewposts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:12.989Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "note_placement_above",
+    "note_placement_below",
+    "note_placement_yes",
+    "note_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:23.396Z"
+}

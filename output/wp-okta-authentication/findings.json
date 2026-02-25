@@ -1,0 +1,13 @@
+{
+  "options": [
+    "okta_org_url",
+    "okta_client_id",
+    "okta_client_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:48.893Z"
+}

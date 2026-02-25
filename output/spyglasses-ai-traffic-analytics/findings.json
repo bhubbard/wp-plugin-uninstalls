@@ -1,0 +1,19 @@
+{
+  "options": [
+    "spyglasses_api_key",
+    "spyglasses_debug_mode",
+    "spyglasses_auto_sync_patterns",
+    "spyglasses_last_pattern_sync",
+    "spyglasses_block_ai_model_trainers"
+  ],
+  "transients": [
+    "spyglasses_agent_patterns"
+  ],
+  "cron_jobs": [
+    "spyglasses_update_patterns"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:54.462Z"
+}

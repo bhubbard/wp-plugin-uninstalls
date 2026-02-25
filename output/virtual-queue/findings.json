@@ -1,0 +1,16 @@
+{
+  "options": [
+    "vq_active_sessions",
+    "vq_sessions_limit_number",
+    "vq_cookie_expire_hours",
+    "vq_refresh_seconds",
+    "vq_inactive_minutes",
+    "vq_landing_page_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:10.259Z"
+}

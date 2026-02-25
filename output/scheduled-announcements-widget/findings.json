@@ -1,0 +1,21 @@
+{
+  "options": [
+    "saw_scroll_options",
+    "saw_speed_options",
+    "saw_trans_options",
+    "saw_width_options",
+    "saw_height_options",
+    "saw_text_color_options",
+    "saw_link_color_options",
+    "saw_order_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "saw_start_date",
+    "saw_end_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:24.272Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "booking_version_num",
+    "booking_simulate_login_as_user",
+    "booking_date_format",
+    "booking_time_format",
+    "booking_feedback_03",
+    "booking_feedback_03_rating",
+    "booking_is_use_captcha"
+  ],
+  "transients": [
+    "_booking_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nickname",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:51.803Z"
+}

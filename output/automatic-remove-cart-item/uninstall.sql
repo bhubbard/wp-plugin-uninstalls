@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('auto_remove_cart_item_settings_redirect', 'auto_remove_cart_item_custom_nonce', 'auto_remove_cart_item_dropdown', 'auto_remove_cart_item_time_interval_seconds', 'auto_remove_cart_item_time_interval_minutes', 'auto_remove_cart_item_time_interval_hours', 'auto_remove_cart_item_time_interval_days', 'auto_remove_cart_item_checkbox');
+

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_dropp_is_settings",
+    "woocommerce_dropp_shipping_db_version",
+    "woocommerce_calc_taxes",
+    "woocommerce_prices_include_tax",
+    "woocommerce_tax_display_cart",
+    "dropp_for_woocommerce_admin_notices"
+  ],
+  "transients": [
+    "dropp_pickup_enabled",
+    "dropp_for_woocommerce_price_info",
+    "dropp_delivery_postcodes"
+  ],
+  "cron_jobs": [
+    "dropp_schedule_add_new"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:13.705Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "szamlazz_hu_invoice_type"
+  ],
+  "transients": [
+    "szamlazzhu_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:33.818Z"
+}

@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "autoblog-ai_token"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:54.489Z"
+}

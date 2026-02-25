@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wpua_doctype'
+wp option delete 'wpua_icon_size'
+wp option delete 'wpua_show_text_icons'
+wp option delete 'wpua_icon_style'
+wp option delete 'wpua_icon_style_input'
+wp option delete 'wpua_text_using'
+wp option delete 'wpua_text_on'
+wp option delete 'wpua_text_via'
+wp option delete 'wpua_show_version'
+wp option delete 'wpua_text_links'
+wp option delete 'wpua_show_full_ua'
+wp option delete 'wpua_hide_unknown_ua'
+wp option delete 'wpua_admin_only'
+wp option delete 'wpua_output_location'
+wp option delete 'ua_output_location'
+wp option delete 'ua_doctype'
+wp option delete 'ua_comment_size'
+wp option delete 'ua_show_text'
+wp option delete 'ua_image_style'
+wp option delete 'ua_image_css'
+wp option delete 'ua_text_surfing'
+wp option delete 'ua_text_on'
+wp option delete 'ua_text_via'
+wp option delete 'ua_text_links'
+wp option delete 'ua_show_ua_bool'
+wp option delete 'ua_hide_unknown_bool'
+wp option delete 'ua_admin_only_bool'
+wp option delete 'ua_track_size'
+

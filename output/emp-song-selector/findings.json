@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*settings",
+    "*stats",
+    "*version"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "song_title",
+    "event_id",
+    "song_length",
+    "ms_playlists",
+    "ms_playlist_pdf_url",
+    "artist_name",
+    "song_year",
+    "song_genre",
+    "sample_playlist",
+    "song_month"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:56.893Z"
+}

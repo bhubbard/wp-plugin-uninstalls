@@ -1,0 +1,13 @@
+{
+  "options": [
+    "maintenance_meta",
+    "maintenance_options",
+    "mtnc_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:27:04.383Z"
+}

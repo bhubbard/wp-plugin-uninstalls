@@ -1,0 +1,16 @@
+{
+  "options": [
+    "paratypewr_settings",
+    "ptw_settings"
+  ],
+  "transients": [
+    "paratypewr_settings_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "paratypewr_user_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:56.582Z"
+}

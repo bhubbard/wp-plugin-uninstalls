@@ -1,0 +1,18 @@
+{
+  "options": [
+    "give_auto_append_country_code",
+    "give_bsecure_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bsecure_order_ref",
+    "donor_contact",
+    "country_calling_code",
+    "_give_donor_contact_number",
+    "_bsecure_order_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:30.649Z"
+}

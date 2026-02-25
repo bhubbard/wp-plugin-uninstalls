@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_manage_stock",
+    "woocommerce_hold_stock_minutes",
+    "*_settings",
+    "woocommerce_new_order_settings",
+    "woocommerce_cpgw_card_settings",
+    "woocommerce_cpgw_ach_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pay_response_received"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:24.552Z"
+}

@@ -1,0 +1,70 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'sits_widgets_version'
+wp option delete '_elementor_global_css'
+wp option delete 'sits_elementor_addons_options'
+wp option delete 'sits_elementor_addons_disabled_widgets'
+
+# Delete Transients
+wp transient delete 'sits_hf_synced_ids'
+wp transient delete 'elementor_widgets_cache'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_template_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_template_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_template_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_template_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_page_template'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_page_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_page_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_page_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_page_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_conditions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_conditions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_conditions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_conditions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sits_hf_source_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sits_hf_source_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sits_hf_source_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sits_hf_source_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_css'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_version'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_version'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_version'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_version'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sits_hf_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sits_hf_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sits_hf_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sits_hf_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_softech_mega_menu_template_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_softech_mega_menu_template_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_softech_mega_menu_template_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_softech_mega_menu_template_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_softech_mm_enable'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_softech_mm_enable'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_softech_mm_enable'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_softech_mm_enable'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_softech_mega_menu_item_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_softech_mega_menu_item_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_softech_mega_menu_item_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_softech_mega_menu_item_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'author_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'author_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'author_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'author_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'job_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'job_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'job_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'job_title'"

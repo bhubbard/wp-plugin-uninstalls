@@ -1,0 +1,15 @@
+{
+  "options": [
+    "kktt-animated-bar",
+    "kktt-bar-head",
+    "kktt-back-color",
+    "kktt-font-color",
+    "kktt-transp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:17.654Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('smoobu_properties_list', 'smoobu_api_key', 'smoobu_custom_styling', 'smoobu_calendar_theme', 'smoobu_full_width', 'smoobu_custom_styling_border_shadow', 'smoobu_custom_styling_border_radius', 'smoobu_custom_styling_color_general_bg', 'smoobu_custom_styling_color_header_bg', 'smoobu_custom_styling_color_header', 'smoobu_custom_styling_color_days', 'smoobu_custom_styling_color_regular_bg', 'smoobu_custom_styling_color_regular', 'smoobu_custom_styling_color_disabled_bg', 'smoobu_custom_styling_color_disabled', 'smoobu_custom_styling_color_highlighted_bg', 'smoobu_custom_styling_color_highlighted', 'smoobu_custom_styling_color_hover_bg', 'smoobu_custom_styling_color_hover', 'smoobu_custom_styling_color_selected_bg', 'smoobu_custom_styling_color_selected');
+

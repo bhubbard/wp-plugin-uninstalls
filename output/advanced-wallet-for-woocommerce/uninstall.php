@@ -1,0 +1,116 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('pisol_aww_cashback_expiry_days');
+delete_site_option('pisol_aww_cashback_expiry_days');
+delete_option('pisol_aww_cashback_rule');
+delete_site_option('pisol_aww_cashback_rule');
+delete_option('_add_wallet_recharge_product');
+delete_site_option('_add_wallet_recharge_product');
+delete_option('wallet_product_title');
+delete_site_option('wallet_product_title');
+delete_option('wallet_product_taxable');
+delete_site_option('wallet_product_taxable');
+delete_option('wallet_product_tax_class');
+delete_site_option('wallet_product_tax_class');
+delete_option('pisol_aww_refund_expiry_days');
+delete_site_option('pisol_aww_refund_expiry_days');
+delete_option('pi_aww_do_activation_redirect');
+delete_site_option('pi_aww_do_activation_redirect');
+delete_option('pisol_aww_enable_cashback');
+delete_site_option('pisol_aww_enable_cashback');
+delete_option('pisol_aww_process_cashback_status');
+delete_site_option('pisol_aww_process_cashback_status');
+delete_option('pisol_aww_enable_cashback_on_recharge');
+delete_site_option('pisol_aww_enable_cashback_on_recharge');
+delete_option('pisol_aww_max_cashback_amount');
+delete_site_option('pisol_aww_max_cashback_amount');
+delete_option('pisol_aww_exclude_user_roles');
+delete_site_option('pisol_aww_exclude_user_roles');
+delete_option('pisol_aww_cashback_type');
+delete_site_option('pisol_aww_cashback_type');
+delete_option('pisol_aww_cashback_amount');
+delete_site_option('pisol_aww_cashback_amount');
+delete_option('pisol_aww_enable_registration_reward');
+delete_site_option('pisol_aww_enable_registration_reward');
+delete_option('pisol_aww_registration_reward_amount');
+delete_site_option('pisol_aww_registration_reward_amount');
+delete_option('pisol_aww_registration_reward_expires_in_days');
+delete_site_option('pisol_aww_registration_reward_expires_in_days');
+delete_option('pisol_aww_enable_review_reward');
+delete_site_option('pisol_aww_enable_review_reward');
+delete_option('pisol_aww_review_reward_amount');
+delete_site_option('pisol_aww_review_reward_amount');
+delete_option('pisol_aww_review_reward_expires_in_days');
+delete_site_option('pisol_aww_review_reward_expires_in_days');
+delete_option('pisol_aww_single_reward_per_product');
+delete_site_option('pisol_aww_single_reward_per_product');
+delete_option('pisol_aww_wallet_coupon_order_states');
+delete_site_option('pisol_aww_wallet_coupon_order_states');
+delete_option('pisol_aww_min_recharge_amount');
+delete_site_option('pisol_aww_min_recharge_amount');
+delete_option('pisol_aww_max_recharge_amount');
+delete_site_option('pisol_aww_max_recharge_amount');
+delete_option('pisol_aww_enable_gateway_charge');
+delete_site_option('pisol_aww_enable_gateway_charge');
+delete_option('pisol_aww_payment_gateway_charges');
+delete_site_option('pisol_aww_payment_gateway_charges');
+delete_option('pisol_aww_gateway_charge_type');
+delete_site_option('pisol_aww_gateway_charge_type');
+delete_option('pisol_aww_purhase_expiry_in_days');
+delete_site_option('pisol_aww_purhase_expiry_in_days');
+delete_option('pisol_aww_potential_cashback_label');
+delete_site_option('pisol_aww_potential_cashback_label');
+delete_option('pisol_aww_potential_cashback_tooltip');
+delete_site_option('pisol_aww_potential_cashback_tooltip');
+delete_option('pisol_aww_cashback_label');
+delete_site_option('pisol_aww_cashback_label');
+delete_option('woocommerce_pisol_wallet_settings');
+delete_site_option('woocommerce_pisol_wallet_settings');
+delete_option('pisol_aww_enable_recharge');
+delete_site_option('pisol_aww_enable_recharge');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pisol_aww_has_custom_cashback' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pisol_aww_has_custom_cashback' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pisol_aww_has_custom_cashback' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pisol_aww_has_custom_cashback' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pisol_aww_cashback_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pisol_aww_cashback_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pisol_aww_cashback_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pisol_aww_cashback_type' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pisol_aww_cashback_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pisol_aww_cashback_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pisol_aww_cashback_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pisol_aww_cashback_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pisol_aww_max_cashback_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pisol_aww_max_cashback_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pisol_aww_max_cashback_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pisol_aww_max_cashback_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pi_aww_is_wallet_coupon' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pi_aww_is_wallet_coupon' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pi_aww_is_wallet_coupon' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pi_aww_is_wallet_coupon' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pisol_aww_registration_reward_given' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pisol_aww_registration_reward_given' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pisol_aww_registration_reward_given' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pisol_aww_registration_reward_given' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pisol_aww_registration_reward_credit_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pisol_aww_registration_reward_credit_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pisol_aww_registration_reward_credit_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pisol_aww_registration_reward_credit_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pisol_aww_review_reward_given' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pisol_aww_review_reward_given' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pisol_aww_review_reward_given' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pisol_aww_review_reward_given' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_pisol_aww_review_reward_credit_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_pisol_aww_review_reward_credit_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_pisol_aww_review_reward_credit_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_pisol_aww_review_reward_credit_id' ) );
+

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "amanuke_pp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*use_prettyphoto",
+    "*url_lightbox_type",
+    "_url_lightbox",
+    "*url_lightbox",
+    "*url_lightbox_group"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:29.370Z"
+}

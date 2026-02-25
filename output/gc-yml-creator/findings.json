@@ -1,0 +1,18 @@
+{
+  "options": [
+    "goods_catalog_yml_field1",
+    "gcYmlCours",
+    "gcYmlCPA",
+    "gcYmlCron"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yml_goods_catalog_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gc_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:37.407Z"
+}

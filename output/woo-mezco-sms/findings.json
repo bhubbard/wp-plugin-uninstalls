@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mezco_sms_settings"
+  ],
+  "transients": [
+    "mezco_sms_plugin"
+  ],
+  "cron_jobs": [
+    "mezco_sms_ejecuta_el_temporizador"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:59.649Z"
+}

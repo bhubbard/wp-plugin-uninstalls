@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cww_cf7apikey",
+    "cww_cf7apiurl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cww_enable",
+    "cww_fields",
+    "cww_credentials"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:33.357Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('shtb_adv_setting_opt', 'shtb_adv_using_syntaxhighlighter', 'shtb_adv_button_window_size', 'shtb_adv_button_row', 'shtb_adv_insert', 'shtb_adv_codebox', 'shtb_adv_safe_mode', 'allow_tab', 'syntaxhighlighter_settings', 'wp_sh_language3', 'wp_sh_language2', 'wp_sh_setting_opt', 'wp_sh_version', 'shtb_adv_languages', 'wp_sh_gutter', 'shc_opt', 'shtb_adv_updated', 'shtb_adv_checkver_stamp');
+

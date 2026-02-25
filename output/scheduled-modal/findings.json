@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kwp_modal_start_time",
+    "_kwp_modal_end_time",
+    "_kwp_modal_button_color",
+    "_kwp_modal_button_text",
+    "_kwp_modal_callout",
+    "_kwp_modal_delay",
+    "_kwp_modal_extra",
+    "_kwp_modal_gradient",
+    "_kwp_modal_menu_item_class",
+    "_kwp_modal_menu_item_label",
+    "_kwp_modal_supporting",
+    "_kwp_modal_suppress",
+    "_kwp_modal_target_post_id",
+    "_kwp_modal_target_url",
+    "_kwp_modal_text_color",
+    "_kwp_modal_text_shadow",
+    "_kwp_modal_bg_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:44.316Z"
+}

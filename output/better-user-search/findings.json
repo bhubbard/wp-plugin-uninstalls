@@ -1,0 +1,11 @@
+{
+  "options": [
+    "bu_search_meta_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:35.922Z"
+}

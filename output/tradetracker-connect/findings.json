@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tradetracker_connect_campaign_options",
+    "tradetracker_connect_webservice_options",
+    "tradetracker_connect_directlinking_options",
+    "tradetracker_connect_feed_options",
+    "tradetracker_connect_feed_generator",
+    "tradetracker_connect_scheduled_events"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tradetracker_connect_feed_cron_hook",
+    "tradetracker_connect_order_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:24.061Z"
+}

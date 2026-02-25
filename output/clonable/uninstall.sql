@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('clonable_site', 'clonable_api_key', 'clonable_woocommerce_allowed_origins', 'clonable_default_country_by_domain', 'clonable_debounce_counter', 'clonable_public_key', 'clonable_allowed_hosts_enabled', 'clonable_woocommerce_module_enabled', 'clonable_woocommerce_analytics_enabled', 'clonable_product_exclusions_enabled', 'clonable_woocommerce_enable_pdf_invoice_translation', 'clonable_enable_menu_language_switcher', 'clonable_menu_language_switcher_menu', 'clonable_show_flag', 'clonable_rounded_flag', 'clonable_show_text', 'clonable_background_color', 'clonable_hover_background_color', 'clonable_langswitch_data', 'clonable_enable_language_switcher', 'clonable_size', 'clonable_position', 'clonable_language_tag_service_enabled', 'clonable_langtag_data', 'clonable_langtag_switch', 'clonable_locale_service_enabled', 'clonable_shortcode_service_enabled', 'clonable_subfolder_service_enabled', 'clonable_max_proxy_timeout', 'clonable_max_upstream_requests', 'clonable_max_upstream_queued', 'clonable_subfolder_clone_origin_domain', 'clonable_last_sync', 'clonable_email_translations_excluded_addresses', 'clonable_wpo_replacements_by_domain', 'clonable_connection_mode', 'clonable_notifications', 'clonable_cached_user');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('clonable_origin');
+DELETE FROM wp_usermeta WHERE meta_key IN ('clonable_origin');
+DELETE FROM wp_termmeta WHERE meta_key IN ('clonable_origin');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('clonable_origin');
+

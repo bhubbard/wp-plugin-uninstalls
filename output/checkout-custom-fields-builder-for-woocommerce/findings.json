@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ccfbw_install_date",
+    "woocommerce_enable_guest_checkout",
+    "_site_transient_envato_market_themes",
+    "popup_data",
+    "notices_data",
+    "notification_data",
+    "stm_mailchimp_integration_member_data_*",
+    "woocommerce_enable_order_comments",
+    "woocommerce_ship_to_destination",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [
+    "stm_buy_pro_notice_setting",
+    "custom_*",
+    "update_plugins",
+    "*_notice_setting",
+    "*_themes",
+    "wp_org_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:30.866Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "upd_brief_mainwp_version",
+    "*_APIManAdder",
+    "upd_brief_settings",
+    "upd_brief_encrypted_mainwp_api_key",
+    "upd_brief_encrypted_update_brief_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "upd_brief_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:38.683Z"
+}

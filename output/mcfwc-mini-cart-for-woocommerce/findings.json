@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mcfwc_minicart_options",
+    "mcfwc_minicart_color_options",
+    "mcfwc_custom_image_cart_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:18.520Z"
+}

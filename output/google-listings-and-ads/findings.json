@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gla_*",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_google_analytics_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jetpack_json_api_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:28:37.439Z"
+}

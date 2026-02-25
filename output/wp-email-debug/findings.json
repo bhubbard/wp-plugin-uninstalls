@@ -1,0 +1,13 @@
+{
+  "options": [
+    "WPMDBUG_enabled",
+    "WPMDBUG_email",
+    "WPMDBUG_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:31.202Z"
+}

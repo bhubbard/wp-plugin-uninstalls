@@ -1,0 +1,15 @@
+{
+  "options": [
+    "carbon_custom_sidebars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_my_meta_value_key",
+    "_my_meta_value_key_id",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:36.419Z"
+}

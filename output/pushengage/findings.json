@@ -1,0 +1,40 @@
+{
+  "options": [
+    "pe_notifications_row_setting",
+    "pe_notification_*",
+    "pushengage_whatsapp_click_to_chat",
+    "pushengage_settings",
+    "pushengage_wa_automation_campaigns",
+    "pushengage_whatsapp_settings",
+    "pushengage_encryption_key"
+  ],
+  "transients": [
+    "pushengage_activation_redirect",
+    "pushengage_debug_system_info",
+    "pushengage_transient_error",
+    "pushengage_wp_metrics_whatsapp_tracking",
+    "pe_subscription_plan_type"
+  ],
+  "cron_jobs": [
+    "pushengage_send_weekly_metrics",
+    "pushengage_check_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pe_push_options",
+    "pe_override_scheduled",
+    "_pe_override",
+    "_pushengage_custom_text",
+    "_sedule_notification",
+    "pushengage_subscriber_ids",
+    "billing_address_1",
+    "billing_city",
+    "billing_state",
+    "billing_country",
+    "billing_postcode",
+    "pushengage_woo_notice",
+    "pushengage_review_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:15.535Z"
+}

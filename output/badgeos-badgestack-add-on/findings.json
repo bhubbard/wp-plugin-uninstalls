@@ -1,0 +1,19 @@
+{
+  "options": [
+    "BadgeOS_BadgeStack_Activated",
+    "badgeos_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_badgeos_singular_name",
+    "_badgeos_plural_name",
+    "_badgeos_show_in_menu",
+    "_badgeos_count",
+    "_badgeos_trigger_type",
+    "_badgeos_achievement_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:57.448Z"
+}

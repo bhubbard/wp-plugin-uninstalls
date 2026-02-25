@@ -1,0 +1,41 @@
+{
+  "options": [
+    "rcpm_default_recipe_course_terms",
+    "rcpm_default_allergen_ingredients",
+    "rcpm_sample_recipe_1",
+    "rcpm_activation_redirect",
+    "rcpm_permalinks",
+    "*_license_active",
+    "*_db_version",
+    "rcpm_tracking_last_send",
+    "rcpm_settings",
+    "rcpm_tracking_notice",
+    "rcpm_status_options",
+    "rcpm_version_upgraded_from",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "rcpm_flush_rewrite_rules",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "rcpm_weekly_scheduled_events",
+    "rcpm_daily_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "phases",
+    "phase_*",
+    "additional_notes",
+    "_is_allergen",
+    "_has_lactose",
+    "_allergen_warning",
+    "servings",
+    "prep_time",
+    "cook_time",
+    "total_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:43.587Z"
+}

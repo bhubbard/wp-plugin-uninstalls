@@ -1,0 +1,70 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_store_address', 'woocommerce_store_postcode', 'woocommerce_store_city', 'woocommerce_weight_unit', 'woocommerce_default_country', 'woocommerce_tax_total_display');
+DELETE FROM wp_options WHERE option_name LIKE '%sandbox_mode';
+DELETE FROM wp_options WHERE option_name LIKE '%vatcode_field';
+DELETE FROM wp_options WHERE option_name LIKE '%taxcode_field';
+DELETE FROM wp_options WHERE option_name LIKE '%tax_representative_field';
+DELETE FROM wp_options WHERE option_name LIKE '%denomination_field';
+DELETE FROM wp_options WHERE option_name LIKE '%name_field';
+DELETE FROM wp_options WHERE option_name LIKE '%surname_field';
+DELETE FROM wp_options WHERE option_name LIKE '%taxregime_field';
+DELETE FROM wp_options WHERE option_name LIKE '%private_enabled';
+DELETE FROM wp_options WHERE option_name LIKE '%next_invoice_field';
+DELETE FROM wp_options WHERE option_name LIKE '%sectional_enabled';
+DELETE FROM wp_options WHERE option_name LIKE '%sectional_start_field';
+DELETE FROM wp_options WHERE option_name LIKE '%sectional_end_field';
+DELETE FROM wp_options WHERE option_name LIKE '%tax_natura';
+DELETE FROM wp_options WHERE option_name LIKE '%payment_methods';
+DELETE FROM wp_options WHERE option_name LIKE '%endpoint_sandbox';
+DELETE FROM wp_options WHERE option_name LIKE '%endpoint_production';
+DELETE FROM wp_options WHERE option_name LIKE '%api_field';
+DELETE FROM wp_options WHERE option_name LIKE '%permanent_data';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_payment_method', '_order_shipping');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_payment_method', '_order_shipping');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_payment_method', '_order_shipping');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_payment_method', '_order_shipping');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%invoice_date';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%invoice_date';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%invoice_date';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%invoice_date';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%customer_is_a_private';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%customer_is_a_private';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%customer_is_a_private';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%customer_is_a_private';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%sdi_code';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%sdi_code';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%sdi_code';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%sdi_code';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%pec_destinatario';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%pec_destinatario';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%pec_destinatario';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%pec_destinatario';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%billing_vat_code';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%billing_vat_code';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%billing_vat_code';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%billing_vat_code';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%billing_tax_code';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%billing_tax_code';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%billing_tax_code';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%billing_tax_code';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%payment_method';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%payment_method';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%payment_method';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%payment_method';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%force_invoice_number';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%force_invoice_number';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%force_invoice_number';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%force_invoice_number';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%invoice_number';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%invoice_number';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%invoice_number';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%invoice_number';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%invoice_status';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%invoice_status';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%invoice_status';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%invoice_status';
+

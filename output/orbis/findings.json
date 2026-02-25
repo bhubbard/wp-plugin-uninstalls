@@ -1,0 +1,49 @@
+{
+  "options": [
+    "orbis_email_frequency",
+    "orbis_email_time",
+    "orbis_email_subject",
+    "orbis_email_subject_date_format",
+    "orbis_currency",
+    "orbis_db_version"
+  ],
+  "transients": [
+    "_orbis_activation_redirect"
+  ],
+  "cron_jobs": [
+    "orbis_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_orbis_company_id",
+    "_orbis_company_kvk_number",
+    "_orbis_company_email",
+    "_orbis_company_website",
+    "_orbis_company_address",
+    "_orbis_company_postcode",
+    "_orbis_company_city",
+    "_orbis_company_country",
+    "_orbis_company_twitter",
+    "_orbis_company_facebook",
+    "_orbis_company_linkedin",
+    "_orbis_person_email_address",
+    "_orbis_person_phone_number",
+    "_orbis_person_mobile_number",
+    "_orbis_person_twitter",
+    "_orbis_person_facebook",
+    "_orbis_person_linkedin",
+    "_orbis_project_id",
+    "_orbis_project_principal_id",
+    "_orbis_project_is_finished",
+    "_orbis_project_seconds_available",
+    "_orbis_project_agreement_id",
+    "_orbis_user",
+    "_orbis_project_is_invoicable",
+    "_orbis_project_finished_modified",
+    "_orbis_project_is_invoiced",
+    "_orbis_project_invoice_number",
+    "_orbis_deal_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:09.226Z"
+}

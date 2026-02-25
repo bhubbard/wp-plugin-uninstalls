@@ -1,0 +1,25 @@
+{
+  "options": [
+    "yeemail_contact_form_7_setup",
+    "_redmuber_item_*",
+    "ninja_forms_addons_feed"
+  ],
+  "transients": [
+    "yeekit_addons_*",
+    "yeekit_addons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yeemail_contact_form_7",
+    "_email2_template",
+    "*_template",
+    "_yeemail_template",
+    "_mail_template",
+    "data_email",
+    "_mail_type",
+    "yeeaddons_dismissed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:06.536Z"
+}

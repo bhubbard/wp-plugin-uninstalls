@@ -1,0 +1,38 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES",
+    "redux-framework_extendify_plugin_notice",
+    "*ense_key",
+    "*icense_status",
+    "*-transients",
+    "redux_custom_font_current",
+    "woocommerce_shop_page_id",
+    "auto_update_redux_google_fonts",
+    "_redux_content_width",
+    "omfe_opts",
+    "omfe_install_date",
+    "omfe_review_notice"
+  ],
+  "transients": [
+    "update_plugins",
+    "*-transient",
+    "*-transients-metaboxes",
+    "*-transients-users",
+    "omfe_activated",
+    "omfe_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_myarcadetheme",
+    "ignore_*",
+    "ignore_hints",
+    "_visibility",
+    "_stock_status",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:36.743Z"
+}

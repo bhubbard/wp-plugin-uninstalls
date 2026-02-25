@@ -1,0 +1,45 @@
+{
+  "options": [
+    "wpak_hash_key",
+    "wpak_version"
+  ],
+  "transients": [
+    "update_plugins",
+    "wpak_used_themes"
+  ],
+  "cron_jobs": [
+    "wpak_weekly_license_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "subhead",
+    "_wpak_app_platform",
+    "_wpak_app_name",
+    "_wpak_app_phonegap_id",
+    "_wpak_app_desc",
+    "_wpak_app_version",
+    "_wpak_app_version_code",
+    "_wpak_app_target_architecture",
+    "_wpak_app_build_tool",
+    "_wpak_app_phonegap_version",
+    "_wpak_app_author",
+    "_wpak_app_author_website",
+    "_wpak_app_author_email",
+    "_wpak_app_phonegap_plugins",
+    "_wpak_app_icons",
+    "_wpak_use_default_icons_and_splash",
+    "_wpak_app_simulation_secured",
+    "_wpak_app_url_scheme",
+    "_wpak_app_pwa_path",
+    "_wpak_app_pwa_name",
+    "_wpak_app_pwa_short_name",
+    "_wpak_app_pwa_desc",
+    "_wpak_app_pwa_background_color",
+    "_wpak_app_pwa_theme_color",
+    "_wpak_app_pwa_version",
+    "_wpak_app_title",
+    "_wpak_app_debug_mode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:37.185Z"
+}

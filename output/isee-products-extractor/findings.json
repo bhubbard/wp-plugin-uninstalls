@@ -1,0 +1,19 @@
+{
+  "options": [
+    "site_status_in_isee",
+    "wpei_show_datasheets"
+  ],
+  "transients": [
+    "cached_chart_data",
+    "cached_most_searched_keywords",
+    "shop_ranking_data",
+    "cached_most_clicked_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product_english_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:12.471Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "usdigitarget_google_maps_api_key",
+    "usdigitarget_google_maps_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:04.427Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "rocketcdn_api_key",
+    "rocketcdn_cdn_url",
+    "rocketcdn_previous_cdn_url",
+    "rocketcdn_current_version",
+    "rocketcdn_previous_version"
+  ],
+  "transients": [
+    "rocketcdn_customer_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rocketcdn_dismissed_notices"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:28.771Z"
+}

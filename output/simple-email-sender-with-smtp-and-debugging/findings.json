@@ -1,0 +1,17 @@
+{
+  "options": [
+    "simple_email_sender_smtp_host",
+    "simple_email_sender_smtp_port",
+    "simple_email_sender_smtp_username",
+    "simple_email_sender_smtp_password",
+    "simple_email_sender_smtp_encryption",
+    "simple_email_sender_from_email",
+    "simple_email_sender_debug_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:42.451Z"
+}

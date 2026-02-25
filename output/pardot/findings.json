@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pardot_crypto_key",
+    "pardot_settings"
+  ],
+  "transients": [
+    "pardot_form_html_*",
+    "pardot_dynamicContent_html_*",
+    "pardot_forms",
+    "pardot_dynamicContent",
+    "pardot_tracking_code_template"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:31.023Z"
+}

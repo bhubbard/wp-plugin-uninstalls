@@ -1,0 +1,22 @@
+{
+  "options": [
+    "contentweaver_ai_lite_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cw_lite_source",
+    "_cw_lite_sources",
+    "_cw_lite_wrap",
+    "_cw_lite_holder",
+    "_cw_lite_meta_description",
+    "_cw_image_source_url",
+    "_cw_image_creator",
+    "_cw_image_title",
+    "_cw_image_source",
+    "_cw_image_license"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:41.972Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "fitbituserid",
+    "fitbitcliid",
+    "fitbitsecret",
+    "fitbitcallback",
+    "fitbitaccesstoken",
+    "fitbitrefreshtoken"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gfsc_grab_steps",
+    "gfsc_use_refresh_token"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:37.962Z"
+}

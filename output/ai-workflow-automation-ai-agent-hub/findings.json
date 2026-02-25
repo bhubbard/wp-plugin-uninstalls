@@ -1,0 +1,14 @@
+{
+  "options": [
+    "awfah_rbac_initialized",
+    "wp_ai_client_provider_credentials"
+  ],
+  "transients": [
+    "ai_agent_hub_oauth_state_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:47.005Z"
+}

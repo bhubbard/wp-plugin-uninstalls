@@ -1,0 +1,34 @@
+{
+  "options": [
+    "booked_hide_end_times",
+    "booked_custom_fields_*",
+    "booked_custom_fields",
+    "booked_require_guest_phone",
+    "booked_require_guest_email_address",
+    "booked_approval_email_content",
+    "booked_approval_email_subject",
+    "booked_registration_email_content",
+    "booked_registration_email_subject",
+    "booked_registration_name_requirements",
+    "booked_booking_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_appointment_timestamp",
+    "_appointment_timeslot",
+    "_appointment_user",
+    "first_name",
+    "last_name",
+    "_appointment_guest_name",
+    "_appointment_guest_surname",
+    "_appointment_title",
+    "_appointment_guest_email",
+    "_cf_meta_value",
+    "nickname",
+    "phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:04.307Z"
+}

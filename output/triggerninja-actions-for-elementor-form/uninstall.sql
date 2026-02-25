@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('tnef_enable_logging', 'tnef_aweber_pkce', 'tnef_aweber_access_token', 'tnef_aweber_refresh_token', 'tnef_aweber_token_expires', 'tnef_aweber_tokens', 'tnef_campayn_api_key', 'tnef_companyhub_subdomain', 'tnef_companyhub_api_key', 'tnef_constantcontact_pkce', 'tnef_constantcontact_access_token', 'tnef_constantcontact_refresh_token', 'tnef_constantcontact_token_expires', 'tnef_directiq_api_key', 'tnef_directiq_api_secret', 'tnef_elasticemail_api_key', 'tnef_elasticemail_public_accountid', 'tnef_engagebay_api_key', 'tnef_flodesk_api_key', 'tnef_gohighlevel_api_key', 'tnef_loops_api_key', 'tnef_mailcoach_api_url', 'tnef_mailcoach_api_token', 'tnef_mailercloud_api_key', 'tnef_mailjet_api_key', 'tnef_mailjet_secret_key', 'tnef_mailrelay_subdomain', 'tnef_mailrelay_api_key', 'tnef_mailwizz_api_url', 'tnef_mailwizz_api_key', 'tnef_rapidmail_username', 'tnef_rapidmail_password', 'tnef_resend_api_key', 'tnef_saleshandy_api_key', 'tnef_sender_api_key', 'tnef_sendfox_api_key', 'tnef_enabled_platforms', 'tnef_aweber_auth_code');
+

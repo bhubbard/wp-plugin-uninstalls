@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7hsfi_enabled",
+    "_cf7hsfi_portal_id",
+    "_cf7hsfi_form_id",
+    "_cf7hsfi_form_page_url",
+    "_cf7hsfi_form_page_name",
+    "_cf7hsfi_form_fields",
+    "_cf7hsfi_debug_log"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:18.848Z"
+}

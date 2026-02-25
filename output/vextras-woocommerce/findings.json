@@ -1,0 +1,18 @@
+{
+  "options": [
+    "vextras_woocommerce_version",
+    "vextras_woocommerce_plugin_do_activation_redirect",
+    "vextras-woocommerce",
+    "vextras-woocommerce-*",
+    "woocommerce_default_catalog_orderby"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vextras_woocommerce_is_subscribed",
+    "vextras_woocommerce_tracking_numbers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:15.372Z"
+}

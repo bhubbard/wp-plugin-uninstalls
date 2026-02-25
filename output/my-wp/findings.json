@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "log",
+    "blog_id",
+    "user_id",
+    "request_uri",
+    "_wp_attachment_image_alt",
+    "item_location"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:02.639Z"
+}

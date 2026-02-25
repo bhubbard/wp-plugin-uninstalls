@@ -1,0 +1,15 @@
+{
+  "options": [
+    "toffeepress_api_key",
+    "toffeepress_quality",
+    "toffeepress_keep_originals"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tp_compressed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:22.763Z"
+}

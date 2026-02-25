@@ -1,0 +1,48 @@
+{
+  "options": [
+    "redux_builder_amp",
+    "mc4wp_integrations",
+    "iubenda_activation_data",
+    "status",
+    "iubenda_consent_forms",
+    "iubenda_radar_api_configuration",
+    "iubenda_cookie_law_version",
+    "iubenda-code-*",
+    "iubenda_cookie_law_solution",
+    "iubenda_activated_products",
+    "show_comments_cookies_opt_in",
+    "iubenda_api_key",
+    "iubenda_last_radar_run",
+    "iubenda_privacy_policy_solution",
+    "iubenda_terms_conditions_solution",
+    "iubenda_consent_solution",
+    "iubenda_global_options",
+    "iubenda_cs_page_configuration",
+    "iubenda_pp_page_configuration",
+    "iubenda_quick_generator_response",
+    "iubenda_tc_page_configuration",
+    "iubenda_radar_api_response"
+  ],
+  "transients": [
+    "iub_activation_completed",
+    "iub_upgrade_completed"
+  ],
+  "cron_jobs": [
+    "iubenda_verify_cookie_policy_existence",
+    "iubenda_schedule_reload_radar_config"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_iub_form_source",
+    "_iub_object_type",
+    "_iub_object_id",
+    "_iub_form_fields",
+    "_iub_form_subject",
+    "_iub_form_preferences",
+    "_iub_form_exclude",
+    "_iub_form_legal_notices",
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:08.682Z"
+}

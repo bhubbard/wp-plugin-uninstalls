@@ -1,0 +1,17 @@
+{
+  "options": [
+    "notice_dissmissed",
+    "awe_save_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "ad_gravity_form_options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:40.972Z"
+}

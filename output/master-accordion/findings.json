@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mran_all_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mran_term_template",
+    "acwp_term_style"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:08.104Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "gwd_email_to",
+    "gwd_app_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:51.861Z"
+}

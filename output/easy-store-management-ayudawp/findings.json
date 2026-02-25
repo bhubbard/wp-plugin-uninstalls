@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ayudawp_esm_activated",
+    "ayudawp_esm_version",
+    "woocommerce_store_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:37.616Z"
+}

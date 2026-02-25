@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'aza-settings'
+
+# Clear Cron Jobs
+wp cron event delete 'aza_demo_generation'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aza-visitor'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aza-visitor'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aza-visitor'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aza-visitor'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aza-reports'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aza-reports'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aza-reports'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aza-reports'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_aza-visitor'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_aza-visitor'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_aza-visitor'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_aza-visitor'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aza-phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aza-phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aza-phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aza-phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_amount'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_amount'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_amount'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_amount'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_first_cost'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_first_cost'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_first_cost'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_first_cost'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hash'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hash'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hash'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hash'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'form_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'form_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'form_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'form_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_promo_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_promo_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_promo_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_promo_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aza-settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aza-settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aza-settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aza-settings'"

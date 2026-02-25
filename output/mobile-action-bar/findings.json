@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mobi_actionbar_global_logo",
+    "mobi_actionbar_global_button_text",
+    "mobi_actionbar_global_action_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:50.885Z"
+}

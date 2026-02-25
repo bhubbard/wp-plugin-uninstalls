@@ -1,0 +1,44 @@
+{
+  "options": [
+    "tasty_recipes_ignore_convert_types",
+    "tasty_recipes_welcome_redirect",
+    "rewrite_rules",
+    "_simple_recipe_pro",
+    "tasty_first_activation"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "tasty_recipes_process_thumbnails"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "srp_ratings",
+    "archive_srp_ratings",
+    "_ratings",
+    "archive_ratings",
+    "nutrifox_response",
+    "nutrifox_error",
+    "video_url_response",
+    "video_url_error",
+    "_wp_attachment_metadata",
+    "_tasty_recipe_parents",
+    "tasty_recipes_ignore_convert_*",
+    "first_name",
+    "last_name",
+    "create_ratings",
+    "wprm_ratings",
+    "zrp_ratings",
+    "cookbook_servings_unit",
+    "_simple_recipe_pro_hidenutrition",
+    "wprm_author_display",
+    "wprm_parent_post_id",
+    "wprm_servings_unit",
+    "wprm_rating",
+    "_thumbnail_id",
+    "recipe_servings_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:21.329Z"
+}

@@ -1,0 +1,51 @@
+{
+  "options": [
+    "*_clean_on_deletion",
+    "*_enable",
+    "*_google_font_list",
+    "*_style_version",
+    "a3_portfolio_version",
+    "portfolio_page_id",
+    "a3_portfolio_just_installed",
+    "a3_portfolios_style_version",
+    "portfolio_inner_container_single_main_image_width_reset",
+    "a3_portfolio_permalinks",
+    "a3_portfolio_global_settings",
+    "a3_portfolio_global_item_expander_settings",
+    "a3_portfolio_item_cards_settings",
+    "*_google_api_key",
+    "*_toggle_box_open",
+    "*-custom-boxes",
+    "a3_portfolio_item_posts_settings",
+    "a3_portfolio_shortcodes_setting"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_status",
+    "a3_portfolio_addons_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*opened",
+    "*-custom-boxes",
+    "_a3_portfolio_image_gallery",
+    "_portfolio_attributes",
+    "order",
+    "_wp_attachment_image_alt",
+    "text-color",
+    "bg-color",
+    "border-color",
+    "_a3_portfolio_card_desc",
+    "_a3_portfolio_viewmore_button_text",
+    "_a3_portfolio_launch_button_text",
+    "_a3_portfolio_launch_site_url",
+    "_a3_portfolio_launch_open_type",
+    "_a3_portfolio_meta_layout_column",
+    "_a3_portfolio_meta_gallery_wide",
+    "_a3_portfolio_meta_thumb_position",
+    "active_portfolio_taxonomy"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:26.118Z"
+}

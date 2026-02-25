@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_email_from_address",
+    "woocommerce_email_from_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:05.093Z"
+}

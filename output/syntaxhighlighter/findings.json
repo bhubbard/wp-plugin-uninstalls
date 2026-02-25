@@ -1,0 +1,14 @@
+{
+  "options": [
+    "syntaxhighlighter_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_syntaxhighlighter_encoded",
+    "syntaxhighlighter_encoded"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:59.776Z"
+}

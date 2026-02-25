@@ -1,0 +1,19 @@
+{
+  "options": [
+    "hide_text_regex",
+    "hide_text_email",
+    "hide_text_url",
+    "hide_text_replace_text",
+    "hide_text_admin_hidden",
+    "hide_text_phone_number",
+    "promo_hunt_title",
+    "promo_hunt_message",
+    "promo_image"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:37.197Z"
+}

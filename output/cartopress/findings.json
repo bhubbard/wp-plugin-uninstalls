@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cartopress_admin_options",
+    "cartopress_custom_fields",
+    "cartopress_cartodb_verified"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cp_post_description",
+    "_cp_post_geo_data",
+    "_cp_post_donotsync"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:17.139Z"
+}

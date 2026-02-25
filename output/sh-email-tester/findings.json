@@ -1,0 +1,14 @@
+{
+  "options": [
+    "shet_settings",
+    "shmet_email_tester_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shet_clear_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:53.140Z"
+}

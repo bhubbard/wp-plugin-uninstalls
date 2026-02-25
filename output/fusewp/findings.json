@@ -1,0 +1,42 @@
+{
+  "options": [
+    "fusewp_dismiss_leave_review_forever",
+    "fusewp_install_date",
+    "fusewp_connect_token",
+    "fusewp_license_key",
+    "fusewp_upgrader_success_flag",
+    "fwp_db_ver",
+    "fusewp_plugin_activated",
+    "fusewp_bulk_sync_processed_cache",
+    "fusewp_db_ver",
+    "fusewp_bulk_sync_flag",
+    "pand-*",
+    "fusewp_license_status",
+    "fusewp_license_expired_status"
+  ],
+  "transients": [
+    "*_email_list",
+    "yolo-plugin-info-*",
+    "fusewp_aweber_email_list",
+    "fusewp_constant_contact_contact_fields",
+    "fusewp_constant_contact_email_list",
+    "fusewp_constant_contact_tags",
+    "fusewp_google_sheet_files",
+    "fusewp_google_sheets_columns",
+    "fusewp_google_sheet_files_sheets",
+    "fusewp_hubspot_v3api_email_list",
+    "fusewp_hubspot_contact_fields",
+    "fusewp_hubspot_get_owners",
+    "fusewp_hubspot_contact_id_*",
+    "fusewp_salesforce_email_list",
+    "fusewp_salesforce_topics",
+    "zohocampaigns_contact_fields"
+  ],
+  "cron_jobs": [
+    "fusewp_daily_recurring_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:00.094Z"
+}

@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'hec_options'
+wp option delete 'hec_version'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%hec_dashboard_days'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%hec_dashboard_days'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%hec_dashboard_days'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%hec_dashboard_days'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hec_hide'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hec_hide'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hec_hide'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hec_hide'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hec_notes'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hec_notes'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hec_notes'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hec_notes'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hec_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hec_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hec_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hec_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hec_event'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hec_event'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hec_event'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hec_event'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hec_calculation'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hec_calculation'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hec_calculation'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hec_calculation'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hec_start'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hec_start'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hec_start'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hec_start'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_hec_stop'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_hec_stop'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_hec_stop'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_hec_stop'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'hec_extended'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'hec_extended'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'hec_extended'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'hec_extended'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '%hec'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '%hec'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '%hec'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '%hec'"

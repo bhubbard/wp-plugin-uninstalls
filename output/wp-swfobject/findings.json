@@ -1,0 +1,24 @@
+{
+  "options": [
+    "swf_version",
+    "swf_bgcolor",
+    "swf_wmode",
+    "swf_menu",
+    "swf_quality",
+    "swf_fullscreen",
+    "swf_scriptaccess",
+    "swf_align",
+    "swf_message",
+    "swf_file",
+    "swf_showinfo",
+    "swf_annotations",
+    "swf_loading",
+    "swf_msgiphone"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:45.002Z"
+}

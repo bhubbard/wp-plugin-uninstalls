@@ -1,0 +1,33 @@
+{
+  "options": [
+    "CP_CFTE_LOAD_SCRIPTS",
+    "cp_cfte_rep_enable",
+    "cp_cfte_rep_days",
+    "cp_cfte_rep_hour",
+    "cp_cfte_rep_emails",
+    "cp_cfte_fp_from_email",
+    "cp_cfte_rep_subject",
+    "cp_cfte_rep_emailformat",
+    "cp_cfte_rep_message",
+    "installed_contact-form-to-email",
+    "CP_CFTE_CSS",
+    "CP_CFTE_JS",
+    "CFTE_ONE_TIME_2UPDATE",
+    "cp_cfte_last_sent_id_*",
+    "cp_cfte_last_verified",
+    "cp_cfte_last_sent*",
+    "*_JS",
+    "*_CSS",
+    "autoptimize_js_exclude"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*",
+    "codepeople_cftedk_banner_*",
+    "cpeople-captcha-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:33.108Z"
+}

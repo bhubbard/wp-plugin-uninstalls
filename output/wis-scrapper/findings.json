@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wis_scrapper_pack_passcount",
+    "wis_scrapper_add1_passcount",
+    "wis_scrapper_add1_clicked",
+    "wis_scrapper_options",
+    "wis_backup_version_plugin",
+    "wis_backup_package_active",
+    "wis_backup_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:27.603Z"
+}

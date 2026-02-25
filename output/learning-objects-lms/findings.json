@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wcloi_url_api",
+    "wcloi_consumer_key",
+    "wcloi_consumer_secret",
+    "woocommerce_enable_guest_checkout",
+    "woocommerce_registration_generate_password",
+    "wcloi_learningobjects_autenticate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcloi_prodotto_lo",
+    "wcloi_prodotto_ecm"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:32.513Z"
+}

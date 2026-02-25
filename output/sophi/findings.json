@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [
+    "sophi_site_automation_access_token",
+    "sophi_content_sync_pending_*"
+  ],
+  "cron_jobs": [
+    "sophi_retry_get_curated_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sophi_site_automation_last_updated",
+    "sophi_site_automation_data",
+    "_yoast_wpseo_canonical",
+    "_yoast_wpseo_focuskw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:37.080Z"
+}

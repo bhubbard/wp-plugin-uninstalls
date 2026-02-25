@@ -1,0 +1,17 @@
+{
+  "options": [
+    "shabm_settings",
+    "shabm_presets",
+    "bg_shce_effectsEnabled",
+    "bg_shce_animationEffect",
+    "bg_shce_animationSpeed",
+    "bg_shce_stickToBottom",
+    "bg_shce_accordion"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:40.291Z"
+}

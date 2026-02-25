@@ -1,0 +1,150 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('momo_acgwc_insights_settings');
+delete_site_option('momo_acgwc_insights_settings');
+delete_option('momo_acgwc_chatbot_settings');
+delete_site_option('momo_acgwc_chatbot_settings');
+delete_option('momo_acg_cb_trainings_list');
+delete_site_option('momo_acg_cb_trainings_list');
+delete_option('momo_acgwc_cb_trainings_settings');
+delete_site_option('momo_acgwc_cb_trainings_settings');
+delete_option('momo_acgwc_cb_dashboard_contents');
+delete_site_option('momo_acgwc_cb_dashboard_contents');
+delete_option('momo_acg_wc_edit_product_settings');
+delete_site_option('momo_acg_wc_edit_product_settings');
+delete_option('momo_acg_wc_openai_settings');
+delete_site_option('momo_acg_wc_openai_settings');
+delete_option('momowc_rssfeed_openai_settings');
+delete_site_option('momowc_rssfeed_openai_settings');
+delete_option('momowc_autoblog_openai_settings');
+delete_site_option('momowc_autoblog_openai_settings');
+delete_option('momo_acg_rssfeed_event_list');
+delete_site_option('momo_acg_rssfeed_event_list');
+delete_option('fs_debug_mode');
+delete_site_option('fs_debug_mode');
+delete_option('_transient_timeout_fs_snooze_period');
+delete_site_option('_transient_timeout_fs_snooze_period');
+delete_option('_site_transient_timeout_fs_snooze_period');
+delete_site_option('_site_transient_timeout_fs_snooze_period');
+delete_option('active_sitewide_plugins');
+delete_site_option('active_sitewide_plugins');
+delete_option('fs_storage_logger');
+delete_site_option('fs_storage_logger');
+delete_option('fs_active_plugins');
+delete_site_option('fs_active_plugins');
+delete_option('momo_wsw_api_cache_settings');
+delete_site_option('momo_wsw_api_cache_settings');
+delete_option('momo_acg_wc_insights_settings');
+delete_site_option('momo_acg_wc_insights_settings');
+delete_option('momo_acg_wc_related_settings');
+delete_site_option('momo_acg_wc_related_settings');
+delete_option('momo_acg_wc_searchlog_settings');
+delete_site_option('momo_acg_wc_searchlog_settings');
+
+// Delete Transients
+delete_transient('fs_snooze_period');
+delete_site_transient('fs_snooze_period');
+delete_transient('update_plugins');
+delete_site_transient('update_plugins');
+delete_transient('_fs_api_connection_retry_counter');
+delete_site_transient('_fs_api_connection_retry_counter');
+delete_transient('update_themes');
+delete_site_transient('update_themes');
+delete_transient('momo_revenue_insights');
+delete_site_transient('momo_revenue_insights');
+delete_transient('momo_revenue_insights_monthly');
+delete_site_transient('momo_revenue_insights_monthly');
+delete_transient('momo_revenue_insights_weekly');
+delete_site_transient('momo_revenue_insights_weekly');
+delete_transient('momo_revenue_insights_yearly');
+delete_site_transient('momo_revenue_insights_yearly');
+delete_transient('momo_order_insights');
+delete_site_transient('momo_order_insights');
+delete_transient('momo_average_order_insights');
+delete_site_transient('momo_average_order_insights');
+delete_transient('momo_weekly_sales_insights');
+delete_site_transient('momo_weekly_sales_insights');
+delete_transient('momo_monthly_sales_insights');
+delete_site_transient('momo_monthly_sales_insights');
+delete_transient('momo_overall_insights');
+delete_site_transient('momo_overall_insights');
+delete_transient('momo_overall_insights_monthly');
+delete_site_transient('momo_overall_insights_monthly');
+delete_transient('momo_overall_insights_weekly');
+delete_site_transient('momo_overall_insights_weekly');
+delete_transient('momo_overall_insights_yearly');
+delete_site_transient('momo_overall_insights_yearly');
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('momo_acg_trainings_embeddings_hook');
+wp_clear_scheduled_hook('fs_debug_turn_off_logging_hook');
+wp_clear_scheduled_hook('momoacgwc_delete_old_viewed_products_event');
+wp_clear_scheduled_hook('momoacgwc_delete_old_removed_cart_products_event');
+wp_clear_scheduled_hook('momo_store_email_template_event');
+wp_clear_scheduled_hook('momo_delete_old_search_logs_cron');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'workflow_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'workflow_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'workflow_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'workflow_status' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'event' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'event' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'event' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'event' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'event_action' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'event_action' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'event_action' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'event_action' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'to' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'to' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'to' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'to' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'reply_to_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'reply_to_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'reply_to_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'reply_to_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'reply_to_email' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'reply_to_email' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'reply_to_email' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'reply_to_email' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'subject' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'subject' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'subject' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'subject' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'heading' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'heading' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'heading' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'heading' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'preheader' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'preheader' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'preheader' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'preheader' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'reply_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'reply_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'reply_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'reply_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'reply_email' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'reply_email' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'reply_email' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'reply_email' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'momo_views_count' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'momo_views_count' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'momo_views_count' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'momo_views_count' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'momo_view_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'momo_view_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'momo_view_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'momo_view_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'total_sales' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'total_sales' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'total_sales' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'total_sales' ) );
+

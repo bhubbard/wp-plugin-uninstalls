@@ -1,0 +1,25 @@
+{
+  "options": [
+    "jtzl_sw_deactivated_at",
+    "jtzl_sw_options",
+    "jtzl_sw_cdn_settings",
+    "jtzl_sw_log_settings",
+    "jtzl_sw_plugin_version",
+    "jtzl_sw_db_version",
+    "jtzl_sw_cache_version",
+    "jtzl_sw_version"
+  ],
+  "transients": [
+    "jtzl_sw_build_missing_notice",
+    "jtzl_sw_deactivated",
+    "jtzl_sw_flush_rewrite_rules",
+    "jtzl_sw_reregister_sw"
+  ],
+  "cron_jobs": [
+    "jtzl_sw_cleanup_error_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:26.953Z"
+}

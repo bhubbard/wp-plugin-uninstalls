@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bie_license",
+    "bie_hide_setup_notice",
+    "bie_blogspot_domain_*",
+    "bie_page_token_*",
+    "bie_settings",
+    "bie_hide_redirects_plugin_notice",
+    "bie_installed_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:29.308Z"
+}

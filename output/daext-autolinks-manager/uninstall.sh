@@ -1,0 +1,51 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_bulk_import_rows'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_pagination_statistics_menu'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_statistics_data_last_update'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_statistics_data_update_frequency'"
+wp option delete 'daextam_options_version'
+wp option delete 'daextam_database_version'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_enable_autolinks'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_category_id'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_left_boundary'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_right_boundary'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_post_types'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_categories'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_tags'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_term_group_id'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_limit'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_case_sensitive_search'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_open_new_tab'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_use_nofollow'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_defaults_priority'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_supported_terms'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_enable_test_mode'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_filter_priority'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_same_url_limit'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_random_prioritization'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_ignore_self_autolinks'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_categories_and_tags_verification'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_protect_attributes'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_protected_gutenberg_blocks'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_protected_gutenberg_custom_blocks'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_protected_gutenberg_custom_void_blocks'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_protected_tags'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_general_limit_mode'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_general_limit_characters_per_autolink'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_advanced_general_limit_amount'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_analysis_set_max_execution_time'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_analysis_max_execution_time_value'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_analysis_set_memory_limit'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_analysis_memory_limit_value'"
+wp option delete 'daextam_dismissible_notice_a'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_analysis_post_types'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_analysis_limit_posts_analysis'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_daextam_enable_autolinks'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_daextam_enable_autolinks'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_daextam_enable_autolinks'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_daextam_enable_autolinks'"

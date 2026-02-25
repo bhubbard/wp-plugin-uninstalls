@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_show_gutenberg_blocks",
+    "*_server_side",
+    "*_options_field",
+    "*_woocommerce_options_field",
+    "*_server_showpopups",
+    "*_show_tinymce",
+    "*_v2_script_url",
+    "*_stale_cart_map",
+    "*_wc_actions_forms",
+    "run_only_once_indexes",
+    "woocommerce_currency",
+    "*_enable_access_control"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_key",
+    "_woocommerce_persistent_cart",
+    "_woocommerce_persistent_cart_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:22.797Z"
+}

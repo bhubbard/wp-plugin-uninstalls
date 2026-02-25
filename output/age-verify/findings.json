@@ -1,0 +1,23 @@
+{
+  "options": [
+    "_av_require_for",
+    "_av_always_verify",
+    "_av_minimum_age",
+    "_av_cookie_duration",
+    "_av_membership",
+    "_av_heading",
+    "_av_description",
+    "_av_input_type",
+    "_av_styling",
+    "_av_overlay_color",
+    "_av_bgcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_av_needs_verify"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:09.548Z"
+}

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "woocommerce_slp_show_pricing_table",
+    "woocommerce_slp_price_adjustment_direction",
+    "woocommerce_slp_stock_level_column_title",
+    "woocommerce_slp_percentage_change",
+    "woocommerce_slp_price",
+    "woocommerce_slp_explainer",
+    "woocommerce_slp_display_discount_as"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter",
+    "original_price_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_manage_stock",
+    "_regular_price",
+    "_sale_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:52.666Z"
+}

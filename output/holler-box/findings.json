@@ -1,0 +1,28 @@
+{
+  "options": [
+    "hollerbox_settings",
+    "hwp_ac_api_key",
+    "hwp_ac_url",
+    "hwp_ck_api_key",
+    "hwp_mc_api_key",
+    "hwp_email_title",
+    "*_table_version",
+    "hwp_pro_edd_license",
+    "hwp_pro_edd_license_status",
+    "hwp_powered_by",
+    "holler_previous_updates"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "hollerbox/telemetry"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "hollerbox_closed_popups",
+    "hollerbox_popup_conversions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:27.577Z"
+}

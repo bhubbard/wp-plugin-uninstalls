@@ -1,0 +1,31 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gwchab_labels",
+    "_gwchab_type",
+    "_gwchab_opt_bar_horizontal",
+    "_gwchab_opt_responsive",
+    "_gwchab_opt_aspect",
+    "_gwchab_opt_title_display",
+    "_gwchab_opt_title_text",
+    "_gwchab_opt_title_color",
+    "_gwchab_opt_title_size",
+    "_gwchab_opt_legend_display",
+    "_gwchab_opt_legend_position",
+    "_gwchab_opt_begin_zero",
+    "_gwchab_opt_line_tension",
+    "_gwchab_show_vals",
+    "_gwchab_vals_color",
+    "_gwchab_vals_size",
+    "_gwchab_datasets",
+    "_gwchab_dataset",
+    "_gwchab_values",
+    "_gwchab_bar_bg",
+    "_gwchab_bar_border"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:56.602Z"
+}

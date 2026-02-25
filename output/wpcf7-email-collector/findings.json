@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mc_wpcf7_form_id",
+    "mc_wpcf7_form_opened",
+    "mc_wpcf7_form_mail",
+    "mc_wpcf7_form_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:25.246Z"
+}

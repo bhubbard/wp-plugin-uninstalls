@@ -1,0 +1,28 @@
+{
+  "options": [
+    "p_cgal1ery_count_uploads",
+    "p_cgal1ery_reg_code",
+    "p_c1_k_g_r_9",
+    "p_cgal1ery_uploadscounter_reminder",
+    "p_cgal1ery_reminder_time",
+    "p_cgal1ery_count_users",
+    "p_cgal1ery_db_version",
+    "p_cgal1ery_install_date",
+    "CgEntriesOwnSlugName",
+    "CgEntriesOwnSlugName*",
+    "CgEntriesOwnSlugNameGalleries",
+    "CgEntriesOwnSlugNameGalleriesUser",
+    "CgEntriesOwnSlugNameGalleriesNoVoting",
+    "CgEntriesOwnSlugNameGalleriesWinner",
+    "CgEntriesOwnSlugNameGalleriesEcommerce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "nickname"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:02.310Z"
+}

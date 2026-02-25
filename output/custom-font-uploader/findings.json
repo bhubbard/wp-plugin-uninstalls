@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cfup-general-settings",
+    "custom-font-uploader-settings",
+    "google-font-uploader-settings",
+    "cfup-support",
+    "font_file_name",
+    "cfu_general_settings",
+    "cfupgooglefonts_data",
+    "cfu_apikey_verified",
+    "googlefont_file_name"
+  ],
+  "transients": [
+    "_cfu_is_new_install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:18.804Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "affiliate-power-options",
+    "affiliate-power-meta-options",
+    "affiliate-power-version",
+    "affiliate-power-premium"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "affiliate_power_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:17.178Z"
+}

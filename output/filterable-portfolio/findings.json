@@ -1,0 +1,17 @@
+{
+  "options": [
+    "filterable_portfolio"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_project_images",
+    "_client_name",
+    "_project_url",
+    "_project_date",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:13.063Z"
+}

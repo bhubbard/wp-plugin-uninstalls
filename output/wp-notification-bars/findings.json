@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_notification_bar_activated",
+    "wp_notification_bar_notice_views",
+    "mtsnb_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mtsnb_data",
+    "wp_notification_bar_ignore_notice",
+    "wp_notification_bar_ignore_notice_2",
+    "_mtsnb_override_bar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:47.620Z"
+}

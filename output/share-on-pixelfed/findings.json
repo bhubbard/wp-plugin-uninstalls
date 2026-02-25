@@ -1,0 +1,20 @@
+{
+  "options": [
+    "share_on_pixelfed_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "share_on_pixelfed_post",
+    "share_on_pixelfed_refresh_token"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_share_on_pixelfed_url",
+    "_share_on_pixelfed_error",
+    "_wp_attachment_image_alt",
+    "_share_on_pixelfed",
+    "_share_on_pixelfed_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:53.016Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "FLYING_PAGES_VERSION",
+    "flying_pages_config_delay",
+    "flying_pages_config_ignore_keywords",
+    "flying_pages_config_max_rps",
+    "flying_pages_config_hover_delay",
+    "flying_pages_config_disable_on_login"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:13.359Z"
+}

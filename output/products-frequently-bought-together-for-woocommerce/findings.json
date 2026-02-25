@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pfbt_order_statuses"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pisol_pfbt_process_orders_batch_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:23.843Z"
+}

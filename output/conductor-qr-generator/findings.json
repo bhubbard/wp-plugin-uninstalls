@@ -1,0 +1,12 @@
+{
+  "options": [
+    "conductor_qr_generator_logo_url",
+    "conductor_qr_generator_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:06.058Z"
+}

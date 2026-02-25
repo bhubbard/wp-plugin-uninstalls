@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bshare_code",
+    "bshare_pos",
+    "bshare_inPage",
+    "bshare_inFeed",
+    "bshare_infeed",
+    "bshare_inpage"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:11.666Z"
+}

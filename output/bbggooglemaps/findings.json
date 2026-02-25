@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bbg_google_maps_lat",
+    "bbg_google_maps_lng"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:17.088Z"
+}

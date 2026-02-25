@@ -1,0 +1,16 @@
+{
+  "options": [
+    "buddy_member_cover",
+    "buddy_group_cover",
+    "buddy_hide_activity_tab",
+    "buddy_profile_image",
+    "buddy_custom_widget_template",
+    "buddy_custom_shortcode_template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:06.885Z"
+}

@@ -1,0 +1,41 @@
+{
+  "options": [
+    "xoo-wl-list-view",
+    "xoo_wl_cron_working",
+    "xoo-wl-gl-enqty",
+    "xoo-wl-import-started-notice",
+    "xoo-wl-import-in-progress",
+    "xoo-wl-import-success",
+    "xoo_wl_crons_in_queue",
+    "xoo-wl-schedule-crons",
+    "xoo_wl_cron_emails",
+    "xoo-wl-cron-cleanup-last-check",
+    "xoo-wl-version",
+    "woocommerce_hide_out_of_stock_items",
+    "xoo_tracking_consent_waitlist-woocommerce",
+    "xoo-wl-general-options",
+    "xoo-wl-email-options",
+    "xoo-wl-style-options",
+    "xoo_wl_cron_test_count",
+    "xoo-wl-gl-enguest",
+    "xoo_tracking_consent_*",
+    "xoo_plugin_deactivated_*",
+    "*_theme_templates_data",
+    "woocommerce_myaccount_page_id",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "xoo_wl_cron_send_back_in_stock_email_for_product",
+    "xoo_wl_cron_fetch_old_waitlist",
+    "xoo_wl_test_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_xoo_waitlist_disable",
+    "_xoo_waitlist_force_show",
+    "_xoo-wl-users"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:28.393Z"
+}

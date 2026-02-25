@@ -1,0 +1,24 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'location'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'location'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'location'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'location'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'border'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'border'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'border'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'border'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'border_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'border_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'border_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'border_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shadow_size'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shadow_size'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shadow_size'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shadow_size'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'shadow_blur'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'shadow_blur'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'shadow_blur'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'shadow_blur'"

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpcareers",
+    "wpca_affiliate_id",
+    "wpca_userId",
+    "wpca_password",
+    "*before_Tag",
+    "*after_Tag",
+    "rss_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:14.333Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cptt_dcp_disabled",
+    "cpt_toggle_disabled",
+    "cptt_dcp_all_cpts",
+    "cpt_toggle_all_cpts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:08.832Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_newebpay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_needUBN",
+    "_billing_UBN",
+    "_billing_invoiceFlag",
+    "_billing_invoiceFlagNum",
+    "_billing_Buyer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:20.842Z"
+}

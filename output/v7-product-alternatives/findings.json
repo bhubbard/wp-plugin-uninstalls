@@ -1,0 +1,22 @@
+{
+  "options": [
+    "v7pa_title_text",
+    "v7pa_button_text",
+    "v7pa_accent_color",
+    "v7pa_text_color",
+    "v7pa_bg_color",
+    "v7pa_border_radius",
+    "v7pa_show_brand",
+    "v7pa_show_price"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_v7pa_alt_product",
+    "_brand",
+    "brand"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:46.554Z"
+}

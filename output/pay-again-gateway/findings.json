@@ -1,0 +1,19 @@
+{
+  "options": [
+    "iamport_rest_key",
+    "iamport_rest_secret",
+    "_iamport_customer_prefix",
+    "_iamport_rsa_keyphrase",
+    "_iamport_rsa_private_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_iamport_rest_key",
+    "_iamport_rest_secret"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:19.201Z"
+}

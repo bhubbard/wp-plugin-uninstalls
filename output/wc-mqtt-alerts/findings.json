@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wooshiftrmqtt_shiftr_url",
+    "wooshiftrmqtt_shiftr_username",
+    "wooshiftrmqtt_shiftr_password",
+    "wooshiftrmqtt_shiftr_topic_prefix",
+    "wooshiftrmqtt_shiftr_retain",
+    "wooshiftrmqtt_shiftr_qos",
+    "wooshiftrmqtt_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:10.236Z"
+}

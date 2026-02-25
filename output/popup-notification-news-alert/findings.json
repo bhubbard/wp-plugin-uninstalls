@@ -1,0 +1,17 @@
+{
+  "options": [
+    "popup_alert_display_options",
+    "popup_alert_social_options",
+    "popup_alert_input_examples"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nelio_nice_title",
+    "_popup_alert",
+    "sl-meta-box-sidebar-pages"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:58.637Z"
+}

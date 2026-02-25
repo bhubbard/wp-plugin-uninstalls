@@ -1,0 +1,23 @@
+{
+  "options": [
+    "yr-images-optimize-upload-removeFileAfterSend",
+    "yr-images-optimize-upload-targetSize",
+    "yr-images-optimize-upload-quality",
+    "yr-images-optimize-upload-minQuality",
+    "yr-images-optimize-upload-qualityStepSize",
+    "yr-images-optimize-upload-maxWidth",
+    "yr-images-optimize-upload-maxHeight",
+    "yr-images-optimize-upload-resize",
+    "yr-images-optimize-upload-throwIfSizeNotReached",
+    "yr-images-optimize-upload-template",
+    "yr-images-optimize-upload-template-dnd",
+    "yr-images-optimize-upload-maxFiles",
+    "yr-images-optimize-upload-file-formats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:05.407Z"
+}

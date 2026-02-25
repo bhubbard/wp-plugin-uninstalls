@@ -1,0 +1,20 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'list_posts_count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'list_posts_count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'list_posts_count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'list_posts_count'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'list_posts_exclude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'list_posts_exclude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'list_posts_exclude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'list_posts_exclude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'list_posts_include_series'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'list_posts_include_series'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'list_posts_include_series'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'list_posts_include_series'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'list_posts_include'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'list_posts_include'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'list_posts_include'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'list_posts_include'"

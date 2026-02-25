@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*enabled",
+    "*login",
+    "*body_html",
+    "*roles",
+    "*head_title",
+    "*body_title",
+    "*body_subtitle",
+    "*body_content",
+    "*color_bg",
+    "*color_text",
+    "*color_link",
+    "*color_link2",
+    "*color_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:41.798Z"
+}

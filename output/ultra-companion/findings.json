@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_meta_identity",
+    "post_images",
+    "post_gallery_image_count",
+    "post_embed_video_url",
+    "post_embed_audio_url",
+    "_wp_attachment_image_alt",
+    "wpop_ignore_notice222"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:06.968Z"
+}

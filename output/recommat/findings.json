@@ -1,0 +1,14 @@
+{
+  "options": [
+    "recommat_settings",
+    "activate-recommat"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "recommat_hourly_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:05.034Z"
+}

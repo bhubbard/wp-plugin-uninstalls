@@ -1,0 +1,31 @@
+{
+  "options": [
+    "kiwiz_invoice_list_settings",
+    "kiwiz_refund_list_settings",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_postcode",
+    "woocommerce_store_city",
+    "kiwiz_api_token",
+    "kiwiz_activation_date",
+    "kiwiz_update_increment_id",
+    "*_settings",
+    "*_cron_list",
+    "woocommerce_calc_taxes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user",
+    "*_certify",
+    "*_filename",
+    "_kiwiz_invoice_date",
+    "_kiwiz_refund_date",
+    "*_file_hash",
+    "*_block_hash",
+    "*_certification_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:13.594Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_settings",
+    "active_sitewide_plugins",
+    "woocommerce_modena_slice_settings",
+    "woocommerce_modena_credit_settings",
+    "woocommerce_modena_business_leasing_settings",
+    "woocommerce_modena_click_settings",
+    "modena_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:19.135Z"
+}

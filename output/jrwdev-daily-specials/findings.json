@@ -1,0 +1,14 @@
+{
+  "options": [
+    "jrwdev-daily-specials"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "weekday",
+    "price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:02.613Z"
+}

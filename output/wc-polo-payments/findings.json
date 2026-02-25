@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_polopagpayments_geteway_settings",
+    "polopagpayments_last_check"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "polopagpayments_schedule_api",
+    "polopagpayments_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:46.213Z"
+}

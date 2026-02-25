@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bbkmedialibrary_notification_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bbkmedialibrary_report_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bkml_attachment_file_size",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:45.727Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "birinci_sozlesme_link_ismi",
+    "ikinci_sozlesme_link_ismi",
+    "firmaadi",
+    "firmaadresi",
+    "firmatelno",
+    "firmaverdaire",
+    "firmaverno",
+    "sozlesme_mail_durumu",
+    "korkmaz_contract_log_enabled",
+    "alanlar_options",
+    "sozlesme_ozellik_3",
+    "sozlesme_ozellik_1",
+    "sozlesme_ozellik_2",
+    "sozlesme_ozellik_5",
+    "sozlesme_ozellik_6",
+    "sozlesme_ozellik_4",
+    "birinci_sozlesme_metni",
+    "ikinci_sozlesme_metni",
+    "ve_metin",
+    "son_metin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:43.526Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_cio4wc_settings",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_chargeio_test_customer_info",
+    "_chargeio_live_customer_info",
+    "ChargeIO Fee",
+    "ChargeIO Customer Id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:23.590Z"
+}

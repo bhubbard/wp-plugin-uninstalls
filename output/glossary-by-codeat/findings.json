@@ -1,0 +1,43 @@
+{
+  "options": [
+    "*_count_terms",
+    "*_count_related_terms",
+    "*-settings",
+    "*-extra",
+    "glossary-settings",
+    "glossary-customizer",
+    "glossary-extra",
+    "rgmk_google_map_api_key",
+    "sd_load_widgets",
+    "sidebars_widgets",
+    "dnh_dismissed_notices",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "*_promo_hide",
+    "*_sites"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_link_type",
+    "*_url",
+    "*_cpt",
+    "*_tag",
+    "_wp_page_template",
+    "dnh_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:29.666Z"
+}

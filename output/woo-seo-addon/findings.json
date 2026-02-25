@@ -1,0 +1,34 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "premmerce_seo_*",
+    "premmerce_seo_settings_brand_field",
+    "premmerce_seo_brand_field",
+    "premmerce_seo_settings_markup_tc",
+    "premmerce_seo_settings_markup_ld",
+    "premmerce_seo_settings_markup_og",
+    "premmerce_seo_settings_image_alts",
+    "premmerce_seo_db_version",
+    "premmerce_seo_address",
+    "premmerce_seo_email",
+    "premmerce_seo_telephone",
+    "premmerce_seo_openingHours",
+    "premmerce_seo_paymentAccepted"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:13.956Z"
+}

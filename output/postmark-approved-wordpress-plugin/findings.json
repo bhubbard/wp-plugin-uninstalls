@@ -1,0 +1,22 @@
+{
+  "options": [
+    "postmark_settings",
+    "postmark_enabled",
+    "postmark_api_key",
+    "postmark_stream_name",
+    "postmark_sender_address",
+    "postmark_force_from",
+    "postmark_force_html",
+    "postmark_trackopens",
+    "postmark_tracklinks",
+    "postmark_enable_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pm_log_cron_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:39.611Z"
+}

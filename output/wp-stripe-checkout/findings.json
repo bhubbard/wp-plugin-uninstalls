@@ -1,0 +1,37 @@
+{
+  "options": [
+    "wp_stripe_checkout_verify_front_end_nonces",
+    "wp_stripe_checkout_show_deprecated_products",
+    "wp_stripe_checkout_db_version",
+    "wp_stripe_checkout_load_scripts_globally",
+    "wpstripecheckout_logfile_suffix",
+    "wp_stripe_checkout_options",
+    "wp_stripe_checkout_email_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpstripeco_product_price",
+    "_wpstripeco_product_enable_variable_pricing",
+    "_txn_id",
+    "_name",
+    "_email",
+    "_amount",
+    "_wp_user_id",
+    "_product_name",
+    "_wpstripeco_product_enable_variable_quantity",
+    "_wpstripeco_product_variable_quantity_minimum",
+    "_wpstripeco_product_variable_quantity_maximum",
+    "_wpstripeco_product_billing_address_collection",
+    "_wpstripeco_product_phone_number_collection",
+    "_wpstripeco_product_shipping_address_collection",
+    "_wpstripeco_product_stripe_shipping_rate_id",
+    "_wpstripeco_product_allow_promotion_codes",
+    "_wpstripeco_product_tax_id_collection",
+    "_wpstripeco_product_button_text",
+    "_wpstripeco_product_button_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:31.281Z"
+}

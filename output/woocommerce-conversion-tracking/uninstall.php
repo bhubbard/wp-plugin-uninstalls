@@ -1,0 +1,51 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('wcct_installed');
+delete_site_option('wcct_installed');
+delete_option('wcct_version');
+delete_site_option('wcct_version');
+delete_option('wcct_dismissable_notice');
+delete_site_option('wcct_dismissable_notice');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_tracking_last_send' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_tracking_skipped' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_allow_tracking' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", '%_tracking_notice' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('wcct_settings');
+delete_site_option('wcct_settings');
+delete_option('woocommerce_wc_conv_tracking_settings');
+delete_site_option('woocommerce_wc_conv_tracking_settings');
+delete_option('_wcct_20_notice_dismiss');
+delete_site_option('_wcct_20_notice_dismiss');
+
+// Delete Transients
+delete_transient('wcct_upgrade_to_20');
+delete_site_transient('wcct_upgrade_to_20');
+
+// Clear Cron Jobs
+

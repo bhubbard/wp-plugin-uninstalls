@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ns-airport-transfers-admin-email",
+    "ns-airport-transfers-contact-email",
+    "ns-airport-transfers-contact-phone",
+    "ns-airport-transfers-country",
+    "ns-airport-transfers-resort",
+    "ns-airport-transfers-time-format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:36.674Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "si_contact_form_gb",
+    "sicf_ctct_valid",
+    "sicf_ctct_form_*",
+    "sicf_ctct"
+  ],
+  "transients": [
+    "sicf_ctct_cc_lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:59.307Z"
+}

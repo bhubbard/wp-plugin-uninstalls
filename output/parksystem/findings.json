@@ -1,0 +1,22 @@
+{
+  "options": [
+    "parksystem_page_template",
+    "parksystem_parking_token",
+    "parksystem_body_bg_color",
+    "parksystem_text_color",
+    "parksystem_input_bg_color",
+    "parksystem_label_text_color",
+    "parksystem_card_bg_color",
+    "parksystem_input_hover_bg_color"
+  ],
+  "transients": [
+    "parksystem_block_template_content",
+    "parksystem_block_template_path",
+    "parksystem_iframe_content"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:40.300Z"
+}

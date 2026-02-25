@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc_wugrat_settings_tab_styling_text_color_odd_row', 'wc_wugrat_settings_tab_general_enable_wugrat', 'wc_wugrat_settings_tab_styling_layout', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'wugrat_group_order', 'wc_wugrat_settings_tab_general_position_single_attributes', 'wc_wugrat_settings_tab_general_single_attributes_label', 'wc_wugrat_settings_tab_general_position_dimension_attributes', 'wc_wugrat_settings_tab_general_dimension_attributes_label', 'wc_wugrat_settings_tab_styling_enable_customize_attribute_table_color', 'wc_wugrat_settings_tab_styling_background_color_odd_row', 'wc_wugrat_settings_tab_styling_text_color_even_row', 'wc_wugrat_settings_tab_styling_background_color_even_row', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes');
+

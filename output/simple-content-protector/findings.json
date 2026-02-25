@@ -1,0 +1,12 @@
+{
+  "options": [
+    "tscp_plugin_enabled",
+    "tscp_disable_for_admins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:59.525Z"
+}

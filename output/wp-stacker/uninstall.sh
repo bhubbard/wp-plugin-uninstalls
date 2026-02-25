@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wpstacker_version'
+wp option delete 'wpstacker_statistics'
+wp option delete 'wpstacker_key_a'
+wp option delete 'wpstacker_key_b'
+wp option delete 'wpstacker_pocket_consumer_key'
+wp option delete 'wpstacker_pocket_access_key'
+wp option delete 'wpstacker_pocket_username'
+wp option delete 'wpstacker_entry_building'
+wp option delete 'wpstacker_title'
+wp option delete 'wpstacker_introduction_text'
+wp option delete 'wpstacker_statements_text'
+wp option delete 'wpstacker_language'
+wp option delete 'wpstacker_pocket_consumer_key_custom'
+wp option delete 'wpstacker_links_to_use'
+wp option delete 'wpstacker_faved'
+wp option delete 'wpstacker_order'
+wp option delete 'wpstacker_mark_as_readed'
+wp option delete 'wpstacker_clean_url'
+wp option delete 'wpstacker_meta_keyword_as_tags'
+wp option delete 'wpstacker_reference_wpstacker'
+wp option delete 'wpstacker_post_status'
+wp option delete 'wpstacker_post_format'
+wp option delete 'wpstacker_post_category'
+wp option delete 'wpstacker_comment_status'
+wp option delete 'wpstacker_ping_status'
+

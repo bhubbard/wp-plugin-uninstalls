@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('latwaitr_target_languages', 'latwaitr_openai_api_key', 'latwaitr_openai_model', 'latwaitr_website_description', 'latwaitr_translate_title', 'latwaitr_translate_content', 'latwaitr_translate_excerpt', 'latwaitr_translate_custom_fields', 'latwaitr_translate_seo', 'latwaitr_translate_taxonomies', 'latwaitr_translation_prompt', 'latwaitr_enable_telemetry', 'latwaitr_debug_mode', 'latwaitr_manual_check_responses', 'latwaitr_db_version', 'latwaitr_custom_fields_whitelist', 'latwaitr_custom_fields_blacklist');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_yoast_wpseo_title', '_yoast_wpseo_metadesc', 'rank_math_title', 'rank_math_description', '_elementor_edit_mode', '_elementor_data', '_latwaitr_elementor_string_objects', '_latwaitr_elementor_original_data', '_wpml_post_translation_editor_native');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_yoast_wpseo_title', '_yoast_wpseo_metadesc', 'rank_math_title', 'rank_math_description', '_elementor_edit_mode', '_elementor_data', '_latwaitr_elementor_string_objects', '_latwaitr_elementor_original_data', '_wpml_post_translation_editor_native');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_yoast_wpseo_title', '_yoast_wpseo_metadesc', 'rank_math_title', 'rank_math_description', '_elementor_edit_mode', '_elementor_data', '_latwaitr_elementor_string_objects', '_latwaitr_elementor_original_data', '_wpml_post_translation_editor_native');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_yoast_wpseo_title', '_yoast_wpseo_metadesc', 'rank_math_title', 'rank_math_description', '_elementor_edit_mode', '_elementor_data', '_latwaitr_elementor_string_objects', '_latwaitr_elementor_original_data', '_wpml_post_translation_editor_native');
+

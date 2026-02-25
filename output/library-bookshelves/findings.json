@@ -1,0 +1,35 @@
+{
+  "options": [
+    "lbs_cat_overdrive",
+    "lbs_cat_System",
+    "lbs_cat_cloudlibrary",
+    "library_bookshelves",
+    "*_version",
+    "widget_bookshelves_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "list_input",
+    "isbn",
+    "placeholders",
+    "shuffle_items",
+    "disable_links",
+    "slick_override",
+    "settings",
+    "ebooks",
+    "alt",
+    "wsapi",
+    "ws-key",
+    "ws-secret",
+    "ws-token-url",
+    "ws-request",
+    "ws-json",
+    "item_id_type",
+    "schedule",
+    "error_message"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:29.626Z"
+}

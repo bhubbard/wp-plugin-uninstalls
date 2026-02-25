@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_shipping_tax_class",
+    "woocommerce_weight_unit",
+    "woocommerce_ship_to_destination",
+    "woocommerce_dimension_unit",
+    "shopup_venipak_shipping_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:27.208Z"
+}

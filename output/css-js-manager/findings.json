@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ccm_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "critical_css_apply",
+    "critical_css"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:37.669Z"
+}

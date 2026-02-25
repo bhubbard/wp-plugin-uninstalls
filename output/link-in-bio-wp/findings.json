@@ -1,0 +1,18 @@
+{
+  "options": [
+    "linkinbio_landing_page_custom_slug",
+    "linkinbio_flush_rewrites",
+    "linkinbio_landing_page_disable_css",
+    "linkinbio_page_image",
+    "linkinbio_landing_page_image_link",
+    "linkinbio_landing_page_caption"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_linkinbio_redirect_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:03.704Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_notify_no_stock_amount",
+    "niwopims_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_location_code",
+    "_address_line",
+    "_address_line2",
+    "_city",
+    "_zip_code",
+    "_state",
+    "_country",
+    "_contact_person_first_name",
+    "_contact_person_last_name",
+    "_email_address",
+    "_contact_no",
+    "_is_active",
+    "_manage_stock",
+    "_stock",
+    "_sku"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:48.067Z"
+}

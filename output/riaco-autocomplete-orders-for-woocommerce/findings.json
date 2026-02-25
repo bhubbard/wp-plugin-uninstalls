@@ -1,0 +1,16 @@
+{
+  "options": [
+    "riaco_autocomplete_orders_enabled",
+    "riaco_autocomplete_orders_from_status",
+    "riaco_autocomplete_orders_product_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "status_triggered",
+    "note"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:23.311Z"
+}

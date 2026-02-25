@@ -1,0 +1,22 @@
+{
+  "options": [
+    "heateor_fbl_version",
+    "heateor_fbl"
+  ],
+  "transients": [
+    "heateor-fbl-admin-notice-on-activation"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "heateor_fbl_redirect_url",
+    "heateor_fbl_gdpr_consent",
+    "heateor_fbl_dontupdate_avatar",
+    "heateor_fbl_avatar",
+    "heateor_fbl_large_avatar",
+    "heateor_fbl_id",
+    "heateor_fbl_temp_userdata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:09.542Z"
+}

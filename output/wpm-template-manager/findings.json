@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpm_template_manager_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpm_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:24.338Z"
+}

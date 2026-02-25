@@ -1,0 +1,30 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wc4jp_admin_footer_text_rated', 'wc4jp-postofficebank', 'wc4jp-bankjp', 'wc4jp-atstore', 'wc4jp-cod2', 'jp4wc_2025031pr_hide_notice', 'jp4wc_hide_security_check_notice', 'jp4wc_security_settings', 'jp4wc_hide_paypal_deprecation_notice', 'wc4jp-paypal', 'jp4wc_hide_ecbuddy_notice', 'active_sitewide_plugins', 'jetpack_options', 'ms_manual_whitelist', 'wc4jp_time_zone_details', 'wc4jp-delivery-date', 'wc4jp-delivery-date-required', 'wc4jp-delivery-time-zone', 'wc4jp-delivery-time-zone-required', 'wc4jp-unspecified-date', 'wc4jp-delivery-deadline', 'wc4jp-start-date', 'wc4jp-reception-period', 'wc4jp-holiday-start-date', 'wc4jp-holiday-end-date', 'wc4jp-day-of-week', 'wc4jp-unspecified-time', 'wc4jp-yomigana', 'wc4jp-yomigana-required', 'woocommerce_atstore_settings', 'woocommerce_bankjp_settings', 'woocommerce_cod2_settings', 'woocommerce_postofficebank_settings', 'wc4jp-company-name', 'wc4jp-honorific-suffix', 'wc4jp-no-ja', 'wc4jp-yahoo-app-id', 'wc4jp-zip2address', 'wc4jp-affiliate-a8', 'wc4jp-affiliate-felmat', 'wc4jp-affiliate-a8-test', 'wc4jp-affiliate-a8-pid', 'wc4jp-affiliate-felmat-pid', 'woocommerce_cod_fees', 'jp4wc_tax_class_for_cod', 'woocommerce_default_gateway', 'woocommerce_cod_settings', 'wc4jp-custom-email-customer-name', 'wc4jp-date-format', 'wc4jp-delivery-notification-email');
+DELETE FROM wp_options WHERE option_name IN ('wc4jp-free-shipping', 'jp4wc_version', 'jp4wc-first-installing', 'paidy_do_activation_redirect', 'wc4jp-tracking', 'jp4wc_tracker_last_send', 'woocommerce_woocommerce_payments_settings', 'woocommerce_api_enabled', 'woocommerce_weight_unit', 'woocommerce_dimension_unit', 'woocommerce_file_download_method', 'woocommerce_downloads_require_login', 'woocommerce_calc_taxes', 'woocommerce_enable_coupons', 'woocommerce_enable_guest_checkout', 'woocommerce_enable_checkout_login_reminder', 'woocommerce_force_ssl_checkout', 'woocommerce_enable_signup_and_login_from_checkout', 'woocommerce_enable_myaccount_registration', 'woocommerce_registration_generate_username', 'woocommerce_registration_generate_password', 'woocommerce_feature_custom_order_tables_enabled', 'woocommerce_custom_orders_table_data_sync_enabled', 'woocommerce_custom_orders_table_enabled', 'woocommerce_use_db_transactions_for_custom_orders_table_data_sync', 'woocommerce_db_transactions_isolation_level_for_custom_orders_table_data_sync', 'woocommerce_show_marketplace_suggestions', 'pickup_location_pickup_locations', 'woocommerce_mobile_app_usage', 'wc4jp-billing_postcode', 'wc4jp-billing_state', 'wc4jp-billing_city', 'wc4jp-billing_address_1', 'wc4jp-billing_address_2', 'wc4jp-billing_phone', 'woocommerce_bankjp_accounts', 'wc_paidy_show_ssl_notice', 'wc_paidy_show_curl_notice', 'woocommerce_paidy_settings', 'wc_paidy_show_pr_notice', 'wc-paygent-paidy', 'woocommerce_paidy_on_boarding_settings', 'paidy_site_hash', 'wc_paidy_apply_notice_2', 'wc_paidy_apply_notice_3', 'wc_paidy_apply_notice_99', 'paidy_received_data', 'received_data', 'woocommerce_currency', 'woocommerce_terms_page_id');
+DELETE FROM wp_options WHERE option_name IN ('woocommerce_ppcp-oxxo-gateway_settings', 'woocommerce_ppcp-pay-upon-invoice-gateway_settings', 'ppcp-request-ids', 'wc4jp-jp4wc-paypal', 'woocommerce-ppcp-version', 'woocommerce_postofficebankjp_accounts', 'woocommerce_price_num_decimals', 'woocommerce_postofficebankjp_settings', 'woocommerce_atstorejp_settings', 'woocommerce_cod_extra_charge_name', 'woocommerce_cod_extra_charge_amount', 'woocommerce_cod_extra_charge_max_cart_value', 'woocommerce_cod_extra_charge_calc_taxes', 'jp4wc_first_installing', 'jp4wc_installing');
+DELETE FROM wp_options WHERE option_name LIKE '%_notice';
+DELETE FROM wp_options WHERE option_name LIKE 'wc4jp-%';
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+DELETE FROM wp_options WHERE option_name LIKE 'wc_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_accept_manual_renewals';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_subscription_price_string', 'ppcp_customer_id', 'ppcp_guest_customer_id', 'payment_token_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_subscription_price_string', 'ppcp_customer_id', 'ppcp_guest_customer_id', 'payment_token_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_subscription_price_string', 'ppcp_customer_id', 'ppcp_guest_customer_id', 'payment_token_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_subscription_price_string', 'ppcp_customer_id', 'ppcp_guest_customer_id', 'payment_token_id');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_yomigana_first_name';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_yomigana_first_name';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_yomigana_first_name';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_yomigana_first_name';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_yomigana_last_name';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_yomigana_last_name';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_yomigana_last_name';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_yomigana_last_name';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_phone';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_phone';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_phone';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_phone';
+

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "pagenoemail_enabled_post_types",
+    "pagenoemail_email_subject",
+    "pagenoemail_email_message",
+    "pagenoemail_bcc_address"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pagenoemail_notification_email",
+    "_pagenoemail_custom_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:53.696Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "RSP_options",
+    "RSP_options[radio_option1]",
+    "RSP_options[RSP_text_string]",
+    "RSP_options[adshare_percentage]"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:35.121Z"
+}

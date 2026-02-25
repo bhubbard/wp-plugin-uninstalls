@@ -1,0 +1,28 @@
+{
+  "options": [
+    "_transient_timeout_adminoptim_locked_*",
+    "adminoptim_db_log",
+    "default_*",
+    "adminoptim_last_optimize_db_time"
+  ],
+  "transients": [
+    "adminoptim_locked_*",
+    "adminoptim_failed_login_*",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "adminoptim_2fa",
+    "adminoptim_disable_account",
+    "_wp_attachment_image_alt",
+    "_adminoptim_lock_modified_date",
+    "_adminoptim_temp_modified_date",
+    "last_login",
+    "_adminoptim_xml_exclude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:47.255Z"
+}

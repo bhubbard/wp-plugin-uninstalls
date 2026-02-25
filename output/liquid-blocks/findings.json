@@ -1,0 +1,18 @@
+{
+  "options": [
+    "liquid_blocks_toggle",
+    "liquid_blocks_no",
+    "liquid_blocks_type",
+    "liquid_blocks_name",
+    "liquid_blocks_clean"
+  ],
+  "transients": [
+    "liquid_admin_notices",
+    "liquid_admin_offer"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:45.696Z"
+}

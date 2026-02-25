@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'optBackupAllWM'
+wp option delete 'nwmCurrentVersion'
+wp option delete 'nwmCurrentType'
+wp option delete 'optAutoWM'
+wp option delete 'optUploadWM'
+wp option delete 'optActiveTxtWM'
+wp option delete 'optActiveImgWM'
+wp option delete 'optQuality'
+wp option delete 'optTypeGIF'
+wp option delete 'optTypeJPEG'
+wp option delete 'optTypePNG'
+wp option delete 'optTypeWEBP'
+wp option delete 'optDisableCopy'
+wp option delete 'optTextWM'
+wp option delete 'optFontWM'
+wp option delete 'optSizeWM'
+wp option delete 'optAlphaWM'
+wp option delete 'optColorWM'
+wp option delete 'optLB_Mosaic'
+wp option delete 'optCustom_X'
+wp option delete 'optCustom_Y'
+wp option delete 'optMosaicCross'
+wp option delete 'optPosTxtWM'
+wp option delete 'optAlignWM_X'
+wp option delete 'optAlignWM_Y'
+wp option delete 'optDegreeWM'
+wp option delete 'optImageWM'
+wp option delete 'optOpacWM'
+wp option delete 'optGreyscaleWM'
+wp option delete 'optNegateWM'
+wp option delete 'optPosImgWM'
+wp option delete 'optAlignImgWM_X'
+wp option delete 'optAlignImgWM_Y'
+wp option delete 'optFitWM_Width'
+wp option delete 'optFitWM_Height'
+wp option delete 'optKeepRatio'
+wp option delete 'optMargin_X'
+wp option delete 'optMargin_Y'
+wp option delete 'optDegreeImgWM'
+wp option delete 'optBackupImgWM'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_size_w'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_size_h'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_crop'"
+

@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "BUX payment complete",
+    "BUX.digital payment complete",
+    "Transaction ID",
+    "Payer first name",
+    "Payer last name",
+    "Payer email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:35.222Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "product_video_gallery_for_wc_embedVideo",
+    "product_video_gallery_for_wc_thumb_postition",
+    "product_video_gallery_for_wc_setting",
+    "product_video_gallery_for_wc_thumb_gap",
+    "product_video_gallery_for_wc_thumb_img_gap",
+    "product_video_gallery_for_wc_thumb_img_round",
+    "product_video_gallery_for_wc_thumb_img_numbers",
+    "product_video_gallery_for_wc_thumb_nav_button_color",
+    "product_video_gallery_for_wc_thumb_nav_arrow_color",
+    "product_video_gallery_for_wc_preload",
+    "product_video_gallery_for_wc_autoplay",
+    "product_video_gallery_for_wc_muted",
+    "product_video_gallery_for_wc_loop",
+    "product_video_gallery_for_wc_resetOnEnd",
+    "product_video_gallery_for_wc_enableSmoothSeeking",
+    "product_video_gallery_for_wc_playsinline",
+    "product_video_gallery_for_wc_playbackRates",
+    "product_video_gallery_for_wc_pictureInPicture",
+    "product_video_gallery_for_wc_bigPlayButton",
+    "product_video_gallery_for_wc_progressControl",
+    "product_video_gallery_for_wc_remainingTimeDisplay",
+    "product_video_gallery_for_wc_displayNegative",
+    "product_video_gallery_for_wc_volumeControl",
+    "product_video_gallery_for_wc_fullscreenToggle"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_video_gallery_for_wc_data",
+    "_product_video_gallery_variable_for_wc_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:49.221Z"
+}

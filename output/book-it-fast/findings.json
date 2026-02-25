@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bookitfast_api_url",
+    "bookitfast_currency",
+    "bookitfast_api_token",
+    "bookitfast_settings",
+    "bookitfast_api_key",
+    "bookitfast_endpoint"
+  ],
+  "transients": [
+    "bookitfast_login_reload"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:17.911Z"
+}

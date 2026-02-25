@@ -1,0 +1,18 @@
+{
+  "options": [
+    "tipo_checkbox_ce",
+    "tipo_checkbox_pass",
+    "tipo_checkbox_otros",
+    "tipo_checkbox_dni",
+    "tipo_checkbox_ruc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_documento",
+    "_nro"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:21.057Z"
+}

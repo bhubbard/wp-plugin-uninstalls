@@ -1,0 +1,41 @@
+{
+  "options": [
+    "flipnumber",
+    "flip_height",
+    "autoplay",
+    "navigation",
+    "pagination",
+    "repeate_loop",
+    "stop_hover",
+    "flip_speed",
+    "flip_bg_color",
+    "flip_border_color",
+    "flip_border_width",
+    "flip_border_radius",
+    "flip_title_color",
+    "gobal_color",
+    "flip_color",
+    "flip_txt_color",
+    "default_post_edit_rows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fcb_frontside_image",
+    "_fcb_Backside_image",
+    "_fcb_frontside_heading",
+    "_fcb_frontside_content",
+    "_fcb_backside_heading",
+    "_fcb_backside_content",
+    "_fcb_backside_button_txt",
+    "_fcb_backside_button_bg_color",
+    "_fcb_backside_button_text_color",
+    "_fcb_frontside_image_id",
+    "_fcb_Backside_image_id",
+    "_fcb_backside_button_link",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:39.592Z"
+}

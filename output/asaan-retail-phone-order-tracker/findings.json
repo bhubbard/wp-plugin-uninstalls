@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cubicsofts_asa_api_base",
+    "cubicsofts_asa_api_key",
+    "cubicsofts_asa_secret_token",
+    "cubicsofts_asa_email",
+    "cubicsofts_asa_password"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cubicsofts_asa_sync_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:35.656Z"
+}

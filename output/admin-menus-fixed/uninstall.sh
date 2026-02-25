@@ -1,0 +1,7 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ozh_adminmenu'
+wp option delete 'agca_header'
+

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp_header_images",
+    "wphi_gluri_slider",
+    "wphi_header_videos",
+    "wphi_sidebar_settings",
+    "wphi_template_custom",
+    "wphi_styling",
+    "wphi_dom",
+    "wphi_template",
+    "wphi_post_type_selection",
+    "wphi_on_off_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:35.253Z"
+}

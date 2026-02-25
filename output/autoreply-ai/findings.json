@@ -1,0 +1,32 @@
+{
+  "options": [
+    "autoreply_email",
+    "autoreply_ai_api_key",
+    "autoreply_ai_activated",
+    "autoreply_ai_word_limit",
+    "autoreply_ai_selected_model_gemini",
+    "autoreply_ai_selected_engine",
+    "autoreply_ai_auto_reply",
+    "autoreply_ai_selected_user",
+    "autoreply_ai_selected_model",
+    "autoreply_ai_selected_forum",
+    "autoreply_ai_prompt_add",
+    "autoreply_ai_auto_reply_msg",
+    "autoreply_ai_without_reply_enable",
+    "autoreply_ai_generated_ai_notic",
+    "autoreply_ai_generated_ai_notic_enable",
+    "autoreply_ai_selected_comment_based",
+    "autoreply_llmstxt_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_auto_reply",
+    "fmwp_topic",
+    "fmwp_forum",
+    "_bbp_reply_to"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:46.387Z"
+}

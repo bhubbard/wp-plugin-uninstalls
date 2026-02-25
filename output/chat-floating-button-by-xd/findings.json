@@ -1,0 +1,13 @@
+{
+  "options": [
+    "xdwhatsapp_number",
+    "xdwhatsapp_button_text",
+    "xdwhatsapp_button_visibility"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:14.700Z"
+}

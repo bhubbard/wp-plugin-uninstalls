@@ -1,0 +1,15 @@
+{
+  "options": [
+    "notely_settings"
+  ],
+  "transients": [
+    "notely-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "notely"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:10.348Z"
+}

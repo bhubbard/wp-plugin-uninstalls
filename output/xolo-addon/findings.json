@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_license_key_status",
+    "*_license_key"
+  ],
+  "transients": [
+    "*_license_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plans_subtitle",
+    "plans_currency",
+    "plans_price",
+    "plans_duration",
+    "plans_features_1",
+    "plans_features_2",
+    "plans_features_3",
+    "plans_features_4",
+    "plans_features_5",
+    "plans_features_6",
+    "price_recomended",
+    "plans_button_label",
+    "plans_button_link",
+    "plans_button_link_target",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:30.966Z"
+}

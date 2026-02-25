@@ -1,0 +1,14 @@
+{
+  "options": [
+    "free_writer_plugin_options",
+    "free_writer_activate_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "import_approved_post"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:41.020Z"
+}

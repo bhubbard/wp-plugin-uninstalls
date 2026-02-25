@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smart_icon",
+    "learn_more_text",
+    "learn_more_link",
+    "service_bg_c",
+    "service_icon_c",
+    "service_head_c",
+    "service_body_c",
+    "service_link_c",
+    "wordn"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:30.551Z"
+}

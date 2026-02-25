@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_db_version",
+    "*_options",
+    "quick_flag_db_version",
+    "quick_flag_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:05.733Z"
+}

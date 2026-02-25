@@ -1,0 +1,14 @@
+{
+  "options": [
+    "evtb_version",
+    "evtb_activation_time",
+    "evtb_initial_save_version",
+    "evtb_install_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:28.385Z"
+}

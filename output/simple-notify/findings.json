@@ -1,0 +1,18 @@
+{
+  "options": [
+    "simpno_enable_emails_new_user_register",
+    "simpno_email_template_new_user_register",
+    "simpno_enable_emails_new_post_publish",
+    "simpno_email_template_new_post_publish",
+    "notification_enable_emails_new_user_register",
+    "notification_email_template_new_user_register",
+    "notification_enable_emails_new_post_publish",
+    "notification_email_template_new_post_publish"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:03.189Z"
+}

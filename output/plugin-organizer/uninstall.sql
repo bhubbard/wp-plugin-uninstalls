@@ -1,0 +1,19 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('PO_saved_plugin_order', 'PO_disable_plugins_mobile', 'PO_custom_post_type_support', 'PO_pt_stored', 'PO_mobile_user_agents', 'PO_disable_compat_notices', 'PO_disable_admin_warning', 'PO_disable_admin_notices', 'PO_custom_css', 'PO_fuzzy_url_matching', 'PO_ignore_protocol', 'PO_ignore_arguments', 'PO_order_access_net_admin', 'PO_auto_trailing_slash', 'PO_enabled_roles', 'PO_debug_roles', 'PO_disable_plugins_frontend', 'PO_disable_plugins_admin', 'PO_disable_plugins_by_role', 'PO_display_debug_msg', 'active_sitewide_plugins', 'PO_version_num', 'PO_old_posts_moved', 'PO_disabled_plugins', 'PO_disabled_mobile_plugins', 'PO_disabled_groups', 'PO_disabled_mobile_groups', 'PO_disabled_search_plugins', 'PO_enabled_search_plugins', 'PO_disabled_mobile_search_plugins', 'PO_enabled_mobile_search_plugins', 'PO_disabled_search_groups', 'PO_enabled_search_groups', 'PO_disabled_mobile_search_groups', 'PO_updating_plugin', 'PO_admin_styles', 'PO_old_urls_moved', 'PO_old_groups_moved', 'PO_preserve_settings', 'PO_group_members_corrected', 'PO_admin_disable_plugins', 'PO_disable_by_role', 'PO_disable_mobile_plugins', 'PO_disable_plugins', 'PO_plugin_order', 'PO_default_group', 'PO_alternate_admin', 'PO_network_active_plugins_color', 'PO_enabled_mobile_search_groups', 'PO_delete_missing_posts');
+DELETE FROM wp_options WHERE option_name LIKE 'PO_disabled_pt_plugins_%';
+DELETE FROM wp_options WHERE option_name LIKE 'PO_enabled_pt_plugins_%';
+DELETE FROM wp_options WHERE option_name LIKE 'PO_disabled_mobile_pt_plugins_%';
+DELETE FROM wp_options WHERE option_name LIKE 'PO_enabled_mobile_pt_plugins_%';
+DELETE FROM wp_options WHERE option_name LIKE 'PO_disabled_pt_groups_%';
+DELETE FROM wp_options WHERE option_name LIKE 'PO_enabled_pt_groups_%';
+DELETE FROM wp_options WHERE option_name LIKE 'PO_disabled_mobile_pt_groups_%';
+DELETE FROM wp_options WHERE option_name LIKE 'PO_enabled_mobile_pt_groups_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_PO_group_members', '_PO_enabled_mobile_plugins', '_PO_disabled_mobile_plugins', '_PO_enabled_plugins', '_PO_disabled_plugins', '_PO_affect_children', '_PO_permalink');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_PO_group_members', '_PO_enabled_mobile_plugins', '_PO_disabled_mobile_plugins', '_PO_enabled_plugins', '_PO_disabled_plugins', '_PO_affect_children', '_PO_permalink');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_PO_group_members', '_PO_enabled_mobile_plugins', '_PO_disabled_mobile_plugins', '_PO_enabled_plugins', '_PO_disabled_plugins', '_PO_affect_children', '_PO_permalink');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_PO_group_members', '_PO_enabled_mobile_plugins', '_PO_disabled_mobile_plugins', '_PO_enabled_plugins', '_PO_disabled_plugins', '_PO_affect_children', '_PO_permalink');
+

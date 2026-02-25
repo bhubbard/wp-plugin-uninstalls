@@ -1,0 +1,12 @@
+{
+  "options": [
+    "PiwigoPress_previous_url",
+    "PiwigoPress_previous_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:31.603Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "afe_widgets",
+    "afe_first_install_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:30.726Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "csellwoo_enabled",
+    "csellwoo_licenses_data",
+    "active_sitewide_plugins",
+    "csellwoo_buttonclasses",
+    "csellwoo_formclasses",
+    "csellwoo_alertmsg",
+    "*version",
+    "csellwoo_rcd",
+    "csellwoo_pnotice",
+    "csellwoo_pnoticetext",
+    "csellwoo_ptype",
+    "woocommerce_csellwoo_order_email_settings",
+    "csellwoo_ptitle",
+    "csellwoo_pdesc",
+    "csellwoo_showproducts",
+    "csellwoo_spf",
+    "csellwoo_loginlink",
+    "wc_price_based_country_version",
+    "_oga_wppbc_countries_groups",
+    "woocommerce_version",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "csellwoo_unistall"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_protected",
+    "_csellwoo_lic",
+    "ptext1",
+    "_csellwoo_*",
+    "*_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:42.893Z"
+}

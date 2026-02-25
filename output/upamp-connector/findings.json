@@ -1,0 +1,18 @@
+{
+  "options": [
+    "upamp_api_key",
+    "upamp_api_secret",
+    "upamp_api_secret_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_aioseop_description",
+    "_upamp_meta_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:59.944Z"
+}

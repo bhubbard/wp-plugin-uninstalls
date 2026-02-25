@@ -1,0 +1,27 @@
+{
+  "options": [
+    "thesgdiet_tdee_settings_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sgdiet_goal",
+    "sgdiet_gender",
+    "sgdiet_height",
+    "sgdiet_weight",
+    "sgdiet_age",
+    "sgdiet_activity",
+    "sgdiet_calories_target",
+    "sgdiet_carbohydrates_target",
+    "sgdiet_protein_target",
+    "sgdiet_fat_target",
+    "sgdiet_dietstyle",
+    "sgdiet_calories_maintain",
+    "sgdiet_carbohydrates_maintain",
+    "sgdiet_protein_maintain",
+    "sgdiet_fat_maintain"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:33.345Z"
+}

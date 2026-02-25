@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fhw_dsgvo_kommentar_time_removement",
+    "fhw_dsgvo_kommentar_removement_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fhw_dsgvo_kommentare_rotation"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:40.497Z"
+}

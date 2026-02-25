@@ -1,0 +1,17 @@
+{
+  "options": [
+    "simple_sf_width",
+    "simple_sf_pid",
+    "simple_sf_style",
+    "simple_sf_hide",
+    "simple_sf_delay",
+    "simple_sf_effect",
+    "simple_sf_activate_shortcode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:43.171Z"
+}

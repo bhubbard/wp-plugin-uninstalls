@@ -1,0 +1,61 @@
+{
+  "options": [
+    "ced_etsy_categories_fetched",
+    "ced_etsy_global_settings",
+    "ced_etsy_settings_category",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "ced_etsy_shop_name",
+    "ced_etsy_setup_steps",
+    "ced_etsy_details",
+    "ced_etsy_chunk_products_*",
+    "ced_etsy_get_offset_*",
+    "ced_etsy_sync_existing_by_identifiers_*",
+    "ced_etsy_reauthorize_account",
+    "ced_etsy_auth_info",
+    "ced_woo_etsy_mapped_categories_*",
+    "ced_woo_etsy_mapped_categories_name_*",
+    "ced_etsy_setup_wiz_req_attrs_*",
+    "ced_etsy_total_shop_products_*",
+    "ced_etsy_total_e_shop_pros_*",
+    "ced_etsy_auto_upload_categories_*",
+    "ced_etsy_product_ids_in_profile_*",
+    "ced_etsy_inventory_scheduler_job_*"
+  ],
+  "transients": [
+    "ced_etsy_token_*",
+    "ced-etsy-admin-notice"
+  ],
+  "cron_jobs": [
+    "ced_etsy_sync_existing_products_job_*",
+    "ced_etsy_auto_upload_products_*",
+    "ced_etsy_auto_submit_shipment",
+    "ced_etsy_inventory_scheduler_job_*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ced_etsy_listing_id_*",
+    "_ced_etsy_url_*",
+    "_ced_etsy_product_files_uploaded*",
+    "ced_etsy_previous_thumb_ids*",
+    "ced_etsy_profile_id_*",
+    "_stock",
+    "_manage_stock",
+    "_stock_status",
+    "_weight",
+    "_length",
+    "_width",
+    "_height",
+    "_sku",
+    "_thumbnail_id",
+    "_ced_etsy_listing_data_*",
+    "ced_etsy_last_updated*",
+    "_ced_etsy_state_*",
+    "ced_etsy_profile_created_*",
+    "ced_etsy_mapped_category_*",
+    "_price",
+    "ced_etsy_profile_assigned*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:52.554Z"
+}

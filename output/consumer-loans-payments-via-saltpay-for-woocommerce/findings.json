@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_saltpay_cl_settings"
+  ],
+  "transients": [
+    "_saltpay_loans_*",
+    "_saltpay_loan_advert_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:17.725Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "steempress_sp_permlink",
+    "steempress_sp_author",
+    "Steempress_sp_steem_publish",
+    "Steempress_sp_steem_update"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:15.742Z"
+}

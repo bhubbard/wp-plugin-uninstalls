@@ -1,0 +1,29 @@
+{
+  "options": [
+    "suremails_do_redirect",
+    "suremails_content_guard_activated",
+    "suremails_notice_dismissal_time",
+    "suremails_menu_notice_dismissed",
+    "suremails-version",
+    "suremails_content_guard_hashes",
+    "allowed_astra_notices",
+    "*_analytics_optin",
+    "bsf_analytics_last_displayed_time",
+    "*_analytics_installed_time",
+    "suremails_content_guard_user_details",
+    "suremails_settings",
+    "suremails_protection_files_generated"
+  ],
+  "transients": [
+    "bsf_analytics_track"
+  ],
+  "cron_jobs": [
+    "suremails_cleanup_cron",
+    "suremails_weekly_summary",
+    "suremails_retry_failed_email"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:09.359Z"
+}

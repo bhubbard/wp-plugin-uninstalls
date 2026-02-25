@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bos_api_version",
+    "badgeos_settings"
+  ],
+  "transients": [
+    "non_ob_conversion_progress"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_badgeos_restapi_apikey",
+    "_badgeos_restapi_permission",
+    "_badgeos_restapi_domain",
+    "_badgeos_restapi_user"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:12.337Z"
+}

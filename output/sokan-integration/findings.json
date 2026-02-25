@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_token",
+    "*_sale_status",
+    "*_refunded_status",
+    "*_sync_date",
+    "*_api_limitation",
+    "*_customer_identity",
+    "*_sync_mode",
+    "*_api_url"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "skng_auto_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:47.039Z"
+}

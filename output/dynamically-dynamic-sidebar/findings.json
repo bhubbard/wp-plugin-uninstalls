@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dds_sidebars",
+    "dds_target_widget_area",
+    "dds_area_for_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dds_widget_area"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:58.062Z"
+}

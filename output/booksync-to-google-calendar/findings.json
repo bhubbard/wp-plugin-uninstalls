@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bsgcal_tokens",
+    "bsgcal_settings",
+    "bsgcal_version"
+  ],
+  "transients": [
+    "bsgcal_oauth_state",
+    "bsgcal_calendar_cache"
+  ],
+  "cron_jobs": [
+    "bsgcal_cleanup_expired_tokens",
+    "bsgcal_sync_calendar_events"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:44.530Z"
+}

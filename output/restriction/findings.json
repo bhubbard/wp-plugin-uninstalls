@@ -1,0 +1,17 @@
+{
+  "options": [
+    "restrictioncurrentversion",
+    "restrictiondisableallfeature",
+    "restrictionmoregisterpageurl",
+    "saved_open_page_url",
+    "restrictionenablepagelevelprotect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "restc_restriction_access_to_this_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:54.065Z"
+}

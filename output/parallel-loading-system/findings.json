@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp_pls_simple_method",
+    "wp_pls_root",
+    "wp_pls_load_external",
+    "wp_pls_process_gif_images",
+    "wp_pls_db_version",
+    "wp_pls_version",
+    "wp_pls_found_root",
+    "wp_pls_has_updated_files",
+    "wp_pls_has_gd",
+    "wp_pls_cant_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:20.388Z"
+}

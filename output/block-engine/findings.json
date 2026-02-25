@@ -1,0 +1,16 @@
+{
+  "options": [
+    "block_engine_plugin_version",
+    "block_engine_plugin_db_version",
+    "block_engine_install_date",
+    "block_engine_css_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "block_engine_ctt_via"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:36.796Z"
+}

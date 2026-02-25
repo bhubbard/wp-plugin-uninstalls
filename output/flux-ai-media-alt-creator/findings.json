@@ -1,0 +1,22 @@
+{
+  "options": [
+    "flux_ai_alt_creator_settings",
+    "flux-plugins_common_options"
+  ],
+  "transients": [
+    "flux_ai_media_alt_creator_activation_redirect",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "flux_ai_media_alt_creator_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_flux_ai_alt_creator_scan_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:40.668Z"
+}

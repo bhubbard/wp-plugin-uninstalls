@@ -1,0 +1,25 @@
+{
+  "options": [
+    "fyp_news_ticker_items",
+    "fyp-news-ticker|settings|speed",
+    "fyp-news-ticker|settings|direction",
+    "fyp-news-ticker|settings|pause_on_hover",
+    "fyp-news-ticker|settings|show_icons",
+    "fyp-news-ticker|settings|template",
+    "fyp-news-ticker|design|bg_color",
+    "fyp-news-ticker|design|text_color",
+    "fyp-news-ticker|design|link_color",
+    "fyp-news-ticker|design|icon_color",
+    "fyp-news-ticker|design|height",
+    "fyp-news-ticker|design|font_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_news_items",
+    "_feed_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:13.885Z"
+}

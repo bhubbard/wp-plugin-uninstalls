@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "aifstt_daily_media_file_size_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "aifstt_media_file_size"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:59.476Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ual_login_button_text",
+    "ual_text_above_form",
+    "ual_login_error_msg",
+    "ual_redirect_login"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:27.274Z"
+}

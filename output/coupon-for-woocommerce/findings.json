@@ -1,0 +1,39 @@
+{
+  "options": [
+    "coupon_series_id",
+    "product_id",
+    "coupon_codes",
+    "usage_limit",
+    "coupon_amount",
+    "expiry",
+    "cblock_count",
+    "cblock_length",
+    "coupon_series_id_delete",
+    "coupon_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "usage_limit_per_user",
+    "limit_usage_to_x_items",
+    "expiry_date",
+    "free_shipping",
+    "exclude_sale_items",
+    "product_categories",
+    "exclude_product_categories",
+    "minimum_amount",
+    "maximum_amount",
+    "customer_email",
+    "coupon-for-woocommerce_series_id",
+    "is_voucher"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:49.570Z"
+}

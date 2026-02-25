@@ -1,0 +1,22 @@
+{
+  "options": [
+    "globalpayments_plugin_deferred_admin_notices",
+    "woocommerce_globalpayments_version",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_globalpayments_payment_captured",
+    "_globalpayments_payment_action",
+    "_securesubmit_used_card_data",
+    "_securesubmit_original_reported_total",
+    "*_billing_address",
+    "*_email",
+    "*_payer",
+    "*_shipping_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:57.979Z"
+}

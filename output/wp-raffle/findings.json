@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_raffle_setting_paypal",
+    "wp_raffle_setting_tickets",
+    "wp_raffle_setting_users",
+    "wp_raffle_setting_events",
+    "wp_raffle_setting_prizes",
+    "wp_raffle_setting_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:16.815Z"
+}

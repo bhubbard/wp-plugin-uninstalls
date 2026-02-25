@@ -1,0 +1,32 @@
+{
+  "options": [
+    "momo_themes_exim_options",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "evcal_options_evcal_1",
+    "evo_tax_meta"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mmt_eo_exim_export_to_eventbrite",
+    "mmt_eo_exim_eventbrite_id",
+    "evcal_srow",
+    "evcal_erow",
+    "evcal_repeat",
+    "evcal_rep_freq",
+    "repeat_intervals"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:13.117Z"
+}

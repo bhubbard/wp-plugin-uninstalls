@@ -1,0 +1,12 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_replexim_image_urls'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_replexim_image_urls'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_replexim_image_urls'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_replexim_image_urls'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'replexim_dismiss_global_addon_notice'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'replexim_dismiss_global_addon_notice'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'replexim_dismiss_global_addon_notice'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'replexim_dismiss_global_addon_notice'"

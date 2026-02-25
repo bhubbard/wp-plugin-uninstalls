@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ts_bat_hide_nonhirearchicals",
+    "ts_bat_select_multiple",
+    "ts_bat_hide_real_name",
+    "ts_bat_hide_get",
+    "ts_bat_hide_remove",
+    "ts_bat_dont_empty"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ts_bulk_add_term"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:14.463Z"
+}

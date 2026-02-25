@@ -1,0 +1,15 @@
+{
+  "options": [
+    "number_slides",
+    "header_color",
+    "text_color",
+    "display_header",
+    "display_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:21.308Z"
+}

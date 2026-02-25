@@ -1,0 +1,25 @@
+{
+  "options": [
+    "jp_config",
+    "jp_header_loc",
+    "jp_custom_name",
+    "jp_custom_header",
+    "jp_privacy",
+    "jp_privacyp",
+    "jp_privacyl",
+    "jp_comments",
+    "jp_cat",
+    "jp_tag",
+    "jp_more",
+    "jp_dbversion"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_jp_xpto",
+    "_jp_xpid_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:42.967Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "google_analytics_code",
+    "google_webmaster_code",
+    "pinterest_code",
+    "bing_webmaster_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_title_tag",
+    "post_meta_title",
+    "post_meta_description",
+    "og_title",
+    "og_description",
+    "og_url",
+    "og_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:07.183Z"
+}

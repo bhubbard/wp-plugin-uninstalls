@@ -1,0 +1,26 @@
+{
+  "options": [
+    "autopostToMastodon-client-id",
+    "autopostToMastodon-client-secret",
+    "autopostToMastodon-token",
+    "autopostToMastodon-instance",
+    "autopostToMastodon-notice",
+    "autopostToMastodon-message",
+    "autopostToMastodon-mode",
+    "autopostToMastodon-toot-size",
+    "autopostToMastodon-postOnStandard",
+    "autopostToMastodon-catsAsTags",
+    "autopostToMastodon-content-warning"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "autopostToMastodon-post-status",
+    "autopostToMastodonshare-lastSuccessfullTootURL",
+    "autopostToMastodon-toot",
+    "autopostToMastodon-toot-thumbnail"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:56.222Z"
+}

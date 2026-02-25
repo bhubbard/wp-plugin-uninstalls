@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cf_cc_settings_lazy_load",
+    "cf_cc_settings_visited_pages",
+    "cf_cc_settings_remove_data_on_uninstall",
+    "cf_cc_settings_geoip_provider",
+    "cf_cc_settings_google_maps_api_key",
+    "cf_cc_settings_geoip_provider_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf_cc_trigger_default",
+    "cf_cc_trigger_default_metadata",
+    "cf_cc_conditions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:40.436Z"
+}

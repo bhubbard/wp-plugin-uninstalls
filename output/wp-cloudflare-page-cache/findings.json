@@ -1,0 +1,60 @@
+{
+  "options": [
+    "swcfpc_version",
+    "swcfpc_config",
+    "swcfpc_fc_ttl_registry",
+    "cf_will_run_free_to_pro_migrations",
+    "swcfpc_preloader_lock",
+    "swcfpc_purge_cache_lock",
+    "siteground_optimizer_enable_cache",
+    "*_install",
+    "*_license_data",
+    "*_license_status",
+    "*_license_plan",
+    "*_failed_checks",
+    "*_logger_flag",
+    "themeisle_sdk_notifications",
+    "otter_reference_key",
+    "optimole_reference_key",
+    "rop_reference_key",
+    "neve_reference_key",
+    "hyve_reference_key",
+    "wp_full_pay_reference_key",
+    "feedzy_reference_key",
+    "themeisle_sdk_promotions_otter",
+    "*_version",
+    "*_license",
+    "downloaded_font_files"
+  ],
+  "transients": [
+    "swpcf_optimole_data",
+    "ti_plugin_info_*",
+    "themeisle_sdk_cache_token",
+    "themeisle_sdk_feed_items",
+    "themeisle_sdk_products",
+    "*act_err",
+    "*_license_data",
+    "tsk_attachment_count",
+    "tsk_posts_count",
+    "ti_theme_info_*",
+    "update_plugins",
+    "*_warning_rollback",
+    "update_themes",
+    "ti_sdk_pause_*",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "swcfpc_cache_purge_cron",
+    "swcfpc_purge_cache_cron",
+    "delete_fonts_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "swcfpc_bypass_cache",
+    "themeisle_sdk_dismissed_notice_black_friday"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:37.354Z"
+}

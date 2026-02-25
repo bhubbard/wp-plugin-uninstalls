@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "woorechnung_version",
+    "fakturpro_version",
+    "secondary_title_title_format",
+    "woorechnung_updated_2_0_0",
+    "woorechnung_line_description",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:34.658Z"
+}

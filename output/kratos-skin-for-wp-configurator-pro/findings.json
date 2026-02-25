@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpc_kratos_skin_license_status",
+    "wpc_kratos_skin_license_key",
+    "wpc_kratos_group_icon_width",
+    "wpc_kratos_sub_group_icon_width",
+    "wpc_kratos_icon_width",
+    "wpc_kratos_group_icon_height",
+    "wpc_kratos_sub_group_icon_height",
+    "wpc_kratos_icon_height",
+    "wpc_kratos_control_header_title"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpc_config_id",
+    "_wpc_config_style"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:08.247Z"
+}

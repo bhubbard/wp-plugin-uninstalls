@@ -1,0 +1,22 @@
+{
+  "options": [
+    "urgcw_urgency_countdown_timers",
+    "urgcw_urgency_countdown_animation",
+    "urgcw_urgency_countdown_look",
+    "urgcw_urgency_font_color",
+    "urgcw_urgency_font_family",
+    "urgcw_urgency_bg_color",
+    "urgcw_urgency_widgets",
+    "urgcw_global_urgency_widget_enabled"
+  ],
+  "transients": [
+    "urgcw_show_woocommerce_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "total_sales"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:46.323Z"
+}

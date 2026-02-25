@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rtc-settings",
+    "rtc-version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "realtimecommentscleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:37.961Z"
+}

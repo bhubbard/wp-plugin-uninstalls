@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_landing_pages_enabled",
+    "*_activation_redirect",
+    "*_activation_date",
+    "*_dismiss_review_notice",
+    "*mailchimp_access_token",
+    "*mailchimp_list_id",
+    "mc_mm_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:36.714Z"
+}

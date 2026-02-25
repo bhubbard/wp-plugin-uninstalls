@@ -1,0 +1,37 @@
+{
+  "options": [
+    "pa_review_notice",
+    "lottie_widget_notice",
+    "active_sitewide_plugins",
+    "pa_beta_save_settings",
+    "dethemekit_option",
+    "pa_maps_save_settings",
+    "pa_wht_lbl_save_settings",
+    "pa_save_settings",
+    "temp_count",
+    "woocommerce_currency_pos",
+    "woocommerce_enable_review_rating",
+    "yith_wcwl_wishlist_page_id",
+    "yith_wcwl_add_to_wishlist_text",
+    "yith_wcwl_browse_wishlist_text",
+    "yith_wcwl_product_added_text"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_saleflash_text",
+    "_stock_status",
+    "_manage_stock",
+    "dethemekit_total_stock_quantity",
+    "_stock",
+    "_elementor_page_settings",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:50.604Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "holoultek_ai_content_generator_provider",
+    "holoultek_ai_content_generator_api_key",
+    "holoultek_ai_content_generator_system_message",
+    "holoultek_ai_content_generator_maximum_length"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:50.681Z"
+}

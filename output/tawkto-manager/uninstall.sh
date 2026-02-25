@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ttm_version'
+wp option delete 'ttm_hide_subscribers'
+wp option delete 'ttm_tawktoscript'
+wp option delete 'ttm_advanced_mode'
+wp option delete 'ttm_hide_logged_in_subscribers'
+wp option delete 'ttm_backend_show_subscribers'
+wp option delete 'ttm_backend_show_editors'
+wp option delete 'ttm_backend_show_authors'
+wp option delete 'ttm_backend_show_always'
+wp option delete 'ttm_backend_hide_admin'
+wp option delete 'ttm_backend_show_myaccount'
+wp option delete 'ttm_hide_shopmanager'
+wp option delete 'ttm_show_always'
+wp option delete 'ttm_show_front_page'
+wp option delete 'ttm_show_cat_pages'
+wp option delete 'ttm_show_tag_pages'
+wp option delete 'ttm_show_page'
+wp option delete 'ttm_show_post'
+wp option delete 'ttm_hide_admin'
+wp option delete 'ttm_show_logged_in_subscribers'
+wp option delete 'ttm_backend_hide_shopmanager'
+wp option delete 'ttm_show_single_product'
+wp option delete 'ttm_show_shop_page'
+wp option delete 'ttm_show_cart_page'
+wp option delete 'ttm_show_checkout_page'
+

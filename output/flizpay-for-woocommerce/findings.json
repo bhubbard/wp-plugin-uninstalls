@@ -1,0 +1,15 @@
+{
+  "options": [
+    "flizpay_rewrite_rules_flushed",
+    "woocommerce_flizpay_settings"
+  ],
+  "transients": [
+    "flizpay_cashback_transient",
+    "flizpay_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:49.539Z"
+}

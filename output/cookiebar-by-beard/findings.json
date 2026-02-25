@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cbbb_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cbbb_script_meta_key",
+    "_cbbb_script_location_meta_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:09.539Z"
+}

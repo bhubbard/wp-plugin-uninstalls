@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sfxvxp_version', 'sfxvxp_dam_use_widget_only', 'sfxvxp_dam_token', 'sfxvxp_dam_sec', 'sfxvxp_dam_directory', 'sfxvxp_dam_sync_dam_metadata_to_wp', 'sfxvxp_dam_keep_file', 'sfxvxp_dam_sync_selection_metadata', 'sfxvxp_dam_sync_alt_text', 'sfxvxp_dam_sync_title', 'sfxvxp_dam_sync_description', 'sfxvxp_dam_sync_caption', 'sfxvxp_dam_resize_option', 'sfxvxp_dam_sync_assets_from_dam_to_wp', 'sfxvxp_dam_metadata_to_get_attachment_id', 'sfxvxp_dam_sort_default_option', 'sfxvxp_dam_disable_transformations', 'sfxvxp_dam_skip_download_file_size', 'sfxvxp_dam_enable_ai_embed', 'sfxvxp_dam_widget_views', 'sfxvxp_dmo_token_cname', 'sfxvxp_dmo_standard_mode', 'sfxvxp_dmo_use_origin_url', 'sfxvxp_dmo_lazy_loading', 'sfxvxp_dmo_ignore_svg', 'sfxvxp_dmo_prevent_image_upsize', 'sfxvxp_dmo_image_quality', 'sfxvxp_dmo_maximum_pixel_ratio', 'sfxvxp_dmo_remove_v7', 'sfxvxp_dmo_image_size_attributes', 'sfxvxp_dmo_url_signature', 'sfxvxp_dmo_custom_function', 'sfxvxp_dmo_custom_library', 'sfxvxp_dmo_skip_classes', 'sfxvxp_dmo_skip_files', 'sfxvxp_dmo_enable_srcset', 'sfxvxp_dmo_srcset_widths', 'sfxvxp_setup_completed', 'sfxvxp_dam_sass_key', 'sfxvxp_attachments_cron_lock');
+DELETE FROM wp_options WHERE option_name LIKE '%_size_w';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_h';
+DELETE FROM wp_options WHERE option_name LIKE 'sfxvxp_sync_dam_attachment_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('sfxvxp_dam_select_metadata', 'sfxvxp_dam_delete_files', '_wp_attached_file', 'sfxvxp_dam_metadata', 'sfxvxp_dam_status', 'sfxvxp_dam_uuid', '_wp_attachment_metadata', 'sfxvxp_dam_error_msg', '_wp_attachment_image_alt');
+DELETE FROM wp_usermeta WHERE meta_key IN ('sfxvxp_dam_select_metadata', 'sfxvxp_dam_delete_files', '_wp_attached_file', 'sfxvxp_dam_metadata', 'sfxvxp_dam_status', 'sfxvxp_dam_uuid', '_wp_attachment_metadata', 'sfxvxp_dam_error_msg', '_wp_attachment_image_alt');
+DELETE FROM wp_termmeta WHERE meta_key IN ('sfxvxp_dam_select_metadata', 'sfxvxp_dam_delete_files', '_wp_attached_file', 'sfxvxp_dam_metadata', 'sfxvxp_dam_status', 'sfxvxp_dam_uuid', '_wp_attachment_metadata', 'sfxvxp_dam_error_msg', '_wp_attachment_image_alt');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('sfxvxp_dam_select_metadata', 'sfxvxp_dam_delete_files', '_wp_attached_file', 'sfxvxp_dam_metadata', 'sfxvxp_dam_status', 'sfxvxp_dam_uuid', '_wp_attachment_metadata', 'sfxvxp_dam_error_msg', '_wp_attachment_image_alt');
+

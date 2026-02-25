@@ -1,0 +1,13 @@
+{
+  "options": [
+    "admin_payment_bypass_enabled",
+    "woocommerce_wpfi_woo_order_test_settings",
+    "wpfi_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:01.895Z"
+}

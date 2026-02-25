@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "_aioseop_description",
+    "_yoast_wpseo_focuskw_text_input",
+    "_yoast_wpseo_canonical",
+    "_aioseop_custom_link",
+    "_yoast_wpseo_meta-robots-noindex",
+    "_aioseop_noindex",
+    "_yoast_wpseo_meta-robots-nofollow",
+    "_aioseop_nofollow",
+    "_yoast_wpseo_meta-robots-adv",
+    "_aioseop_noodp",
+    "_aioseop_noydir"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:49.478Z"
+}

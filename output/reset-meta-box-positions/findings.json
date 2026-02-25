@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rmbp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "meta-box-order_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:41.649Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "eventadmin_import_demo_data",
+    "eventadmin_import_demo_data_done",
+    "eventadmin_notification_email",
+    "eventadmin_notification_email_name",
+    "eventadmin_email_subject_assign",
+    "eventadmin_email_subject_unassign",
+    "eventadmin_email_text_assign",
+    "eventadmin_email_text_unassign",
+    "eventadmin_allow_overlap",
+    "eventadmin_unassign_limit_hours",
+    "eventadmin_limit_per_year",
+    "eventadmin_limit_per_month",
+    "eventadmin_limit_per_week",
+    "eventadmin_limit_per_day"
+  ],
+  "transients": [
+    "eventadmin_token_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "term_color",
+    "max_volunteers",
+    "shift_start",
+    "shift_end",
+    "eventadmin_phone",
+    "assigned_user_*",
+    "first_name",
+    "last_name",
+    "magic_login_token",
+    "magic_login_expire"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:33.561Z"
+}

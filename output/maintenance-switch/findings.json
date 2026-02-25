@@ -1,0 +1,21 @@
+{
+  "options": [
+    "maintenance_switch_settings",
+    "ms_page_html",
+    "ms_switch_roles",
+    "ms_allowed_roles",
+    "ms_allowed_ips",
+    "ms_use_theme",
+    "ms_status",
+    "ms_maintenance_page_html",
+    "ms_allowed_ip",
+    "maintenance_switch_status",
+    "maintenance_switch_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:15.685Z"
+}

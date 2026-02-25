@@ -1,0 +1,16 @@
+{
+  "options": [
+    "spbp_enabled",
+    "spbp_popup_delay",
+    "spbp_popup_bg_color",
+    "spbp_popup_position",
+    "spbp_impressions",
+    "spbp_clicks"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:48.956Z"
+}

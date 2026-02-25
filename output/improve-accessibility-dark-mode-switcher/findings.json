@@ -1,0 +1,15 @@
+{
+  "options": [
+    "iads_options",
+    "iads_db_version",
+    "iads_blacklisted_ips"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "iads_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:47.962Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woo_qr_pay_allow",
+    "woo_qr_pay_iban",
+    "woo_qr_pay_account_owner",
+    "woo_qr_pay_compatibility_mode",
+    "woo_qr_pay_add_to_email",
+    "woo_qr_pay_custom_description_email_visibility",
+    "woocommerce_bacs_settings",
+    "woo_qr_pay_custom_description",
+    "wc_qr_payment_migrated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_qr_payment_code_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:04.377Z"
+}

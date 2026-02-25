@@ -1,0 +1,33 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "emsb_service_availability_ends_at",
+    "emsb_display_service_title",
+    "emsb_display_service_location",
+    "emsb_display_service_price",
+    "emsb_service_availability_starts_at",
+    "emsb_service_off_day_sun",
+    "emsb_service_off_day_mon",
+    "emsb_service_off_day_tues",
+    "emsb_service_off_day_wed",
+    "emsb_service_off_day_thurs",
+    "emsb_service_off_day_fri",
+    "emsb_service_off_day_sat",
+    "emsb_service_full_day_reservation",
+    "emsb_service_am_starting_time",
+    "emsb_service_am_ending_time",
+    "emsb_service_am_slot_duration",
+    "emsb_service_pm_starting_time",
+    "emsb_service_pm_ending_time",
+    "emsb_service_pm_slot_duration",
+    "emsb_service_orders_per_slot",
+    "emsb_service_provider_email",
+    "emsbtexteditor",
+    "emsbtexteditor_check"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:31.711Z"
+}

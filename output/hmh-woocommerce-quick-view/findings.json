@@ -1,0 +1,38 @@
+{
+  "options": [
+    "*enable_quick_view",
+    "*quick_view_button_label",
+    "*closing_button_hover_color",
+    "*enable_quick_view_on_mobile",
+    "*advance_style",
+    "*enable_content_left",
+    "*enable_content_right"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpb_shortcodes_custom_css",
+    "*sections",
+    "*lockAnchors",
+    "*navigation",
+    "*navigationPosition",
+    "*navigationTooltips",
+    "*showActiveTooltip",
+    "*keyboardScrolling",
+    "*continuousVertical",
+    "*loop-bottom",
+    "*loop-top",
+    "*responsiveWidth",
+    "*responsiveHeight",
+    "*touchSensitivity",
+    "*scrollBar",
+    "*autoScrolling",
+    "*scrollingSpeed",
+    "_Hmh_Wqv_background_color",
+    "_Hmh_Wqv_background_image",
+    "_Hmh_Wqv_child_sections"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:18.615Z"
+}

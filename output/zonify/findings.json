@@ -1,0 +1,15 @@
+{
+  "options": [
+    "zonify_api_key",
+    "zonify_error",
+    "zonify_error_message",
+    "zonifyapp_api_key",
+    "editorify_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:50.657Z"
+}

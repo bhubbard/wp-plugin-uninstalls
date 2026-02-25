@@ -1,0 +1,25 @@
+{
+  "options": [
+    "lawyer_locker_internal_encryption_key",
+    "lawyer_locker_enable_lockbox",
+    "lawyer_locker_encryption_key_location",
+    "lawyer_locker_privilege_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lawyer_locker_id",
+    "_lawyer_locker_password",
+    "_lawyer_locker_expiration",
+    "_lawyer_locker_custom_privilege_footer",
+    "_lawyer_locker_client_name",
+    "_lawyer_locker_internal_notes",
+    "_lawyer_locker_encryption_key",
+    "_lawyer_locker_expiration_date",
+    "_lawyer_locker_encrypted_messages",
+    "_lawyer_locker_read_lockers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:51.661Z"
+}

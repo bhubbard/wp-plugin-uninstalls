@@ -1,0 +1,14 @@
+{
+  "options": [
+    "egawp_activated_on",
+    "egawp_select_type",
+    "egawp_value",
+    "egawp_deactivated_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:01.074Z"
+}

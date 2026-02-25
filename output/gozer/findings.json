@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gozer_settings",
+    "gozer_bypass_tokens"
+  ],
+  "transients": [
+    "gozer_activation_notice"
+  ],
+  "cron_jobs": [
+    "gozer_cleanup_tokens"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:05.814Z"
+}

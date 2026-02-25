@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp360_firm_details', 'wp360_invoice_addresses', 'wp360_invoice_banking', 'wp360_thankyoumsg', 'wp360_invoicestartnumber', 'wp360_company_address', 'woocommerce_myaccount_page_id', 'wp360_invoices_page_id', 'wp360invoice_plugin_activated', 'wp360invoice_plugin_version', 'wp360-admin-notice-error');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('invoice_user', 'invoice_address', 'invoice_bank', 'invoice_firm', 'invoice_amount', 'invoice_status', 'payment_receipt', 'invoice_number', 'invoice_type', 'invoice_items', 'wp360_invoice_user_extra_fields', 'invoice_createddate', 'billing_phone', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_country', 'billing_city', 'billing_state', 'billing_postcode');
+DELETE FROM wp_usermeta WHERE meta_key IN ('invoice_user', 'invoice_address', 'invoice_bank', 'invoice_firm', 'invoice_amount', 'invoice_status', 'payment_receipt', 'invoice_number', 'invoice_type', 'invoice_items', 'wp360_invoice_user_extra_fields', 'invoice_createddate', 'billing_phone', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_country', 'billing_city', 'billing_state', 'billing_postcode');
+DELETE FROM wp_termmeta WHERE meta_key IN ('invoice_user', 'invoice_address', 'invoice_bank', 'invoice_firm', 'invoice_amount', 'invoice_status', 'payment_receipt', 'invoice_number', 'invoice_type', 'invoice_items', 'wp360_invoice_user_extra_fields', 'invoice_createddate', 'billing_phone', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_country', 'billing_city', 'billing_state', 'billing_postcode');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('invoice_user', 'invoice_address', 'invoice_bank', 'invoice_firm', 'invoice_amount', 'invoice_status', 'payment_receipt', 'invoice_number', 'invoice_type', 'invoice_items', 'wp360_invoice_user_extra_fields', 'invoice_createddate', 'billing_phone', 'billing_first_name', 'billing_last_name', 'billing_address_1', 'billing_address_2', 'billing_country', 'billing_city', 'billing_state', 'billing_postcode');
+

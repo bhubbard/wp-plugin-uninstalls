@@ -1,0 +1,16 @@
+{
+  "options": [
+    "snfw_template_*",
+    "snfw_api_key",
+    "snfw_auth_key",
+    "snfw_template_order_placed",
+    "snfw_seller_number",
+    "snfw_template_seller_alert"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:00.875Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "leaderboard_options",
+    "leaderboard_num_top_shoppers",
+    "leadfowo_prize_email_subject",
+    "leadfowo_prize_email_body"
+  ],
+  "transients": [
+    "leadfowo_monthly_duplicate_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_leadfowo_month",
+    "_leadfowo_year",
+    "_leadfowo_prizes_data",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:13.257Z"
+}

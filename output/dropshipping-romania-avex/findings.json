@@ -1,0 +1,32 @@
+{
+  "options": [
+    "DROPSHIPPING_ROMANIA_AVEX_VERSION",
+    "avex_the_dropshipping_romania_avex_activation_is_done"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_avex_order_id",
+    "_avex_order_status",
+    "_regular_price",
+    "_sale_price",
+    "_sku",
+    "_weight",
+    "_avex_sales_price",
+    "_avex_avex_price",
+    "_avex_brand",
+    "_avex_ean",
+    "_avex_image",
+    "_avex_images",
+    "_avex_category",
+    "_avex_imported_product",
+    "_price",
+    "_stock",
+    "_avex_order_sent",
+    "_avex_order_awb_file",
+    "_avex_order_awb_file_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:52.209Z"
+}

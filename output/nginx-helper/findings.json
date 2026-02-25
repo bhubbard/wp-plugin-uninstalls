@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rt_wp_nginx_helper_options",
+    "rt_wp_nginx_helper_init_check",
+    "nginx_helper_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rt_wp_nginx_helper_check_log_file_size_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:17.082Z"
+}

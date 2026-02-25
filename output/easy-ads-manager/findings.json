@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "easy_ads_addotionals",
+    "main_easy_ads_array",
+    "main_easy_ads_taxonomy_custom_field",
+    "main_easy_ads_date_custom_field",
+    "easy_ads_manager_views_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:38.637Z"
+}

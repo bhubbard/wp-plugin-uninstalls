@@ -1,0 +1,20 @@
+{
+  "options": [
+    "hp_reviews_per_page",
+    "hp_review_default_order",
+    "hp_review_allow_attachment",
+    "hp_review_allow_replies",
+    "hp_installed_time",
+    "hp_review_allow_anonymous",
+    "hp_review_criteria",
+    "hp_review_enable_moderation",
+    "hp_review_allow_multiple",
+    "hp_user_enable_display"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:17.225Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "recently_activated",
+    "corsi_facebook",
+    "corsi_youtube",
+    "corsi_twitter",
+    "corsi_agoogleplus",
+    "corsi_smtphost",
+    "corsi_smtpuser",
+    "corsi_smtppassword",
+    "corsi_googleplus"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:41.872Z"
+}

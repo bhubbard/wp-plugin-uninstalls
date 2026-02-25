@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ad_out_of_stock_badge_meta",
+    "ad_out_of_stock_badgeClr_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:45.232Z"
+}

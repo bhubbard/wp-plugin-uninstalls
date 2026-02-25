@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_photoai_job_ids",
+    "_photoai_generated_images",
+    "_photoai_processed_jobs",
+    "_photoai_job_attachments",
+    "_photoai_generated_image_ids",
+    "_photoai_bulk_queued"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:33.820Z"
+}

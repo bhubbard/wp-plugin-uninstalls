@@ -1,0 +1,29 @@
+{
+  "options": [
+    "link_*",
+    "link_1",
+    "link_2",
+    "link_3",
+    "link_4",
+    "link_5",
+    "link_6",
+    "link_7",
+    "link_8",
+    "link_9",
+    "link_10",
+    "link_11",
+    "link_12",
+    "link_13",
+    "link_14",
+    "link_15",
+    "link_16",
+    "link_17",
+    "link_18"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:00.455Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "lp_calculated_rating_average_courses"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lpr_rating",
+    "_lpr_review_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:16.744Z"
+}

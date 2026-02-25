@@ -1,0 +1,22 @@
+{
+  "options": [
+    "is_wordpress_com_hosted"
+  ],
+  "transients": [
+    "facebook_wpcom_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "billing_phone",
+    "_variable_pricing",
+    "edd_variable_prices",
+    "edd_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:27.262Z"
+}

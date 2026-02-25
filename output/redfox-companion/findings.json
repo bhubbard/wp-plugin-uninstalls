@@ -1,0 +1,11 @@
+{
+  "options": [
+    "hotel_paradise_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:45.828Z"
+}

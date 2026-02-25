@@ -1,0 +1,25 @@
+{
+  "options": [
+    "direct_freight_express_shipping_settings",
+    "direct_freight_express_api_key",
+    "direct_freight_express_account_number",
+    "direct_freight_express_insurance_fee",
+    "direct_freight_express_insurance_fee_type",
+    "direct_freight_express_markup",
+    "direct_freight_express_markup_type",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "direct_freight_express_shipping_rate_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:24.138Z"
+}

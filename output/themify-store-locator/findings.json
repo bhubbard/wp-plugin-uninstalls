@@ -1,0 +1,26 @@
+{
+  "options": [
+    "themify_store_base_slug",
+    "single_image_size_w",
+    "single_image_size_h",
+    "archive_image_size_w",
+    "archive_image_size_h",
+    "themify_sl_map_api",
+    "themify_store_locator_activation_redirect",
+    "themify_saved_*",
+    "themify_saved_colors",
+    "themify_saved_gradients"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "themify_storelocator_address",
+    "themify_storelocator_numbers",
+    "themify_storelocator_timing",
+    "*_attach_id",
+    "popup_show"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:56.312Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_slp_gfl_mapping_form_id",
+    "_slp_gfl_mapping_condition_enabled",
+    "_slp_gfl_mapping_condition_field_id",
+    "_slp_gfl_mapping_condition_operator",
+    "_slp_gfl_mapping_condition_value",
+    "_slp_gfl_mapping_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:24.547Z"
+}

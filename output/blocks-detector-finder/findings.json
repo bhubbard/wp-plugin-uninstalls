@@ -1,0 +1,13 @@
+{
+  "options": [
+    "winter_mvc_active_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:13.623Z"
+}

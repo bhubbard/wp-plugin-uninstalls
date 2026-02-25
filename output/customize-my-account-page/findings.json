@@ -1,0 +1,43 @@
+{
+  "options": [
+    "woocommerce_myaccount_orders_endpoint",
+    "woocommerce_myaccount_downloads_endpoint",
+    "woocommerce_myaccount_edit_address_endpoint",
+    "woocommerce_myaccount_payment_methods_endpoint",
+    "woocommerce_myaccount_edit_account_endpoint",
+    "woocommerce_logout_endpoint",
+    "woocommerce_myaccount_subscriptions_endpoint",
+    "woocommerce_myaccount_teams_area_endpoint",
+    "tgwc_flush_rewrite",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "tgwc_customize",
+    "tgwc_my_account_file_version",
+    "tgwc_debug_settings",
+    "tgwc_settings",
+    "tgwc_endpoints",
+    "tgwc_flat_settings_migrated",
+    "tgwc_version",
+    "tgwc_added_default_custom_endpoint"
+  ],
+  "transients": [
+    "tgwc_active_endpoint"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgwc_avatar_image",
+    "*first_name",
+    "*last_name",
+    "*company",
+    "*address_1",
+    "*address_2",
+    "*city",
+    "*state",
+    "*postcode",
+    "*country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:07.034Z"
+}

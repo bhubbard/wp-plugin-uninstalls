@@ -1,0 +1,19 @@
+{
+  "options": [
+    "fiber_admin_db_version",
+    "fiad_db_error",
+    "fiber_admin",
+    "fiad_miscellaneous",
+    "fiad_cpo",
+    "fiad_duplicate",
+    "fiber-admin-white-label"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:25.358Z"
+}

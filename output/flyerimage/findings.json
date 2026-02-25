@@ -1,0 +1,13 @@
+{
+  "options": [
+    "flyer_image_installed_V002596854",
+    "flyer_image_version_V002596854",
+    "flyeri_api_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:36.708Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "o3_moc_cats"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "o3_moc_cats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:38.028Z"
+}

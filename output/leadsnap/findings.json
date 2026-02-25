@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wsl_settings",
+    "wncrm_source_id"
+  ],
+  "transients": [
+    "wncrm_is_already_called"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wsl_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:36.255Z"
+}

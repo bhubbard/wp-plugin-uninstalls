@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cyke_url",
+    "cyke_user_email",
+    "cyke_user_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:09.404Z"
+}

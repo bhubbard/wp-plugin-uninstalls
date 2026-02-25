@@ -1,0 +1,19 @@
+{
+  "options": [
+    "frenglish_cache_salt",
+    "frenglish_server_side_translations",
+    "frenglish_api_key",
+    "frenglish_supported_languages",
+    "frenglish_origin_language",
+    "frenglish_config_fetched_at",
+    "frenglish_excluded_translation_blocks",
+    "frenglish_config_rev",
+    "frenglish_cache_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:13.912Z"
+}

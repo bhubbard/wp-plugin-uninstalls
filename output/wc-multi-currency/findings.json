@@ -1,0 +1,17 @@
+{
+  "options": [
+    "APBD_pv_*",
+    "woocommerce_currency",
+    "woocommerce_currency_pos",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_order_currency",
+    "_apbd_wmc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:12.212Z"
+}

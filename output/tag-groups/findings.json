@@ -1,0 +1,31 @@
+{
+  "options": [
+    "tag_group_admin_notice",
+    "tag_group_shortcode_widget",
+    "tag_group_shortcode_enqueue_always",
+    "tag_group_tags_filter",
+    "tag_group_reset_when_uninstall",
+    "tag_group_sample_page_id",
+    "tag_group_taxonomy",
+    "tag_group_base_first_activation_time",
+    "tag_group_labels",
+    "tag_group_ids",
+    "max_tag_group_id",
+    "chatty_mango_cache",
+    "term_group_labels",
+    "term_group_labels_*",
+    "tag_group_group_languages",
+    "classic-editor-replace"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tag_groups_check_tag_migration",
+    "tag_groups_purge_expired_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cm_term_group_array"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:31.606Z"
+}

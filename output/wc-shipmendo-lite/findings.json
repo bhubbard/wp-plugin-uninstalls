@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_cargo_tracking_default_cargo_company",
+    "_cargo_tracking_email_enabled",
+    "_cargo_tracking_sms_message",
+    "_cargo_tracking_sms_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cargo_tracking_number",
+    "_cargo_company_info",
+    "_billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:02.481Z"
+}

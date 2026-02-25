@@ -1,0 +1,17 @@
+{
+  "options": [
+    "phpbbdb_host",
+    "phpbbdb_name",
+    "phpbbdb_user",
+    "phpbbdb_pass",
+    "phpbbdb_prefix",
+    "phpbb_forum_url",
+    "phpbb_seo_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:29.414Z"
+}

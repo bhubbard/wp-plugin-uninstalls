@@ -1,0 +1,14 @@
+{
+  "options": [
+    "floating_share_button",
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:22.267Z"
+}

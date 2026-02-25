@@ -1,0 +1,13 @@
+{
+  "options": [
+    "switch_jq_version_version",
+    "switch_jq_version_cdn",
+    "switch_jq_version_customise_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:10.525Z"
+}

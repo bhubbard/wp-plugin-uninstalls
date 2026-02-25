@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cbvmfp_peertube_url",
+    "cbvmfp_peertube_anzahl_videos",
+    "cbvmfp_peertube_channel",
+    "cbvmfp_livestream_fallback_type",
+    "cbvmfp_livestream_fallback_image",
+    "cbvmfp_livestream_fallback_video"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:52.052Z"
+}

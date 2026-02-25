@@ -1,0 +1,21 @@
+{
+  "options": [
+    "indexapi_token",
+    "indexapi_new_post_index_request",
+    "indexapi_post_update_index_request",
+    "indexapi_allowed_post_type",
+    "indexapi_allowed_taxonomies",
+    "indexAPI_allowed_taxonomies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "indexapi_publish",
+    "indexapi_last_submit",
+    "send_index_request",
+    "send_request"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:10.964Z"
+}

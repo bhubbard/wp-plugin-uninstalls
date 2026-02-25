@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bvd_wcpdf_user_template_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_user"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:31.922Z"
+}

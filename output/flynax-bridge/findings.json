@@ -1,0 +1,19 @@
+{
+  "options": [
+    "flb_wp_token",
+    "flb_fl_token",
+    "flb_fl_url",
+    "flb_flynax_listings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "flb_update_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:52.078Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tryst_option",
+    "tryst"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "date",
+    "time",
+    "tryst_available_ops",
+    "location"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:28.374Z"
+}

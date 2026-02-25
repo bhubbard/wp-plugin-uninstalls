@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gf_settings",
+    "gravityformsaddon_gravityformsrecaptcha_settings",
+    "gfcnp_plugin",
+    "gf_cnp_settings",
+    "gfcnp_activation_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:02.585Z"
+}

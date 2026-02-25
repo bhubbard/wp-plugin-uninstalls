@@ -1,0 +1,13 @@
+{
+  "options": [
+    "webkewrc_references_citations_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webkewrc_wp_references_field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:41.903Z"
+}

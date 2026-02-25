@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woocommerce_currency_pos",
+    "_siq_num_indexed_posts",
+    "siq_api_error_log_enabled",
+    "_siq_admin_notices",
+    "_siq_indexed_posts",
+    "siq_db_version",
+    "_siq_plugin_version",
+    "_siq_hide_icon_notice",
+    "_siq_hide_review_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "siq_delta_sync_cron",
+    "siq_delta_sync_cron_stop"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_visibility"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:09.986Z"
+}

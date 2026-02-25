@@ -1,0 +1,24 @@
+{
+  "options": [
+    "arvan-cloud-vod-status",
+    "arvan-cloud-vod-selected_channel_id",
+    "vod_prevent_saving_video_on_local",
+    "arvan-cloud-vod-api_key"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acv_video_data_after_upload",
+    "acv_video_data",
+    "ar-vod-media-id",
+    "acv_video_data_last_fetch",
+    "arvan_video_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:55.680Z"
+}

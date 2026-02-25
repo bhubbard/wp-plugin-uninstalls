@@ -1,0 +1,62 @@
+{
+  "options": [
+    "auto_update_plugins",
+    "wordfenceActivated",
+    "wordfence_version",
+    "iwp_client_action_message_id",
+    "iwp_client_public_key",
+    "wordfence_syncingAttackData",
+    "wordfence_lastSyncAttackData",
+    "wordfence_syncAttackDataAttempts",
+    "limit_login_retries",
+    "wf_plugin_act_error",
+    "rewrite_rules",
+    "woocommerce_enable_checkout_login_reminder",
+    "woocommerce_myaccount_page_id",
+    "*.lock",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "wordfenceCentralJWT*",
+    "wordfenceCentralDisconnectCount",
+    "update_plugins",
+    "update_core",
+    "update_themes",
+    "wordfence_updating_notifications",
+    "wordfenceUnlockTries",
+    "wfunlock_*",
+    "wfSyncGeoIPActive",
+    "wfsn_backoff",
+    "wflsbucket:*"
+  ],
+  "cron_jobs": [
+    "wordfence_email_activity_report",
+    "wordfence_batchSendAuditEvents",
+    "wordfence_batchSendSecurityEvents",
+    "wordfence_daily_autoUpdate",
+    "wordfence_daily_cron",
+    "wordfence_hourly_cron",
+    "wordfence_scheduled_scan",
+    "wordfence_refreshUpdateNotification",
+    "wordfence_completeCoreUpdateNotification",
+    "wordfence_version_check",
+    "wordfence_batchReportBlockedAttempts",
+    "wordfence_batchReportFailedAttempts",
+    "wordfence_processAttackData",
+    "wordfence_start_scheduled_scan",
+    "wordfence_ls_role_sync_cron",
+    "wordfence_ls_ntp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_context",
+    "_wf_twoFactorNonce",
+    "_wf_twoFactorNonceTime",
+    "wordfence-notifications",
+    "wfls-last-captcha-score",
+    "wfls-last-login",
+    "wfls-captcha-nonce"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:25:49.362Z"
+}

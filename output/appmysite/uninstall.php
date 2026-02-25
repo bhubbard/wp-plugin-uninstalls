@@ -1,0 +1,114 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('woocommerce_default_catalog_orderby');
+delete_site_option('woocommerce_default_catalog_orderby');
+delete_option('wc_points_rewards_partial_redemption_enabled');
+delete_site_option('wc_points_rewards_partial_redemption_enabled');
+delete_option('wc_points_rewards_cart_min_discount');
+delete_site_option('wc_points_rewards_cart_min_discount');
+delete_option('wc_points_rewards_points_tax_application');
+delete_site_option('wc_points_rewards_points_tax_application');
+delete_option('wc_points_rewards_cart_max_discount');
+delete_site_option('wc_points_rewards_cart_max_discount');
+delete_option('wc_points_rewards_points_label');
+delete_site_option('wc_points_rewards_points_label');
+delete_option('woocommerce_prices_include_tax');
+delete_site_option('woocommerce_prices_include_tax');
+delete_option('ams_users_can_register');
+delete_site_option('ams_users_can_register');
+delete_option('wc_fields_shipping');
+delete_site_option('wc_fields_shipping');
+delete_option('wc_fields_billing');
+delete_site_option('wc_fields_billing');
+delete_option('wc_fields_additional');
+delete_site_option('wc_fields_additional');
+delete_option('wc_points_rewards_write_review_points');
+delete_site_option('wc_points_rewards_write_review_points');
+delete_option('wc_points_rewards_account_signup_points');
+delete_site_option('wc_points_rewards_account_signup_points');
+delete_option('wc_points_rewards_points_expiry');
+delete_site_option('wc_points_rewards_points_expiry');
+delete_option('wc_points_rewards_points_expire_points_since');
+delete_site_option('wc_points_rewards_points_expire_points_since');
+delete_option('wc_points_rewards_version');
+delete_site_option('wc_points_rewards_version');
+delete_option('wc_points_rewards_earn_points_ratio');
+delete_site_option('wc_points_rewards_earn_points_ratio');
+delete_option('wc_points_rewards_earn_points_rounding');
+delete_site_option('wc_points_rewards_earn_points_rounding');
+delete_option('wc_points_rewards_redeem_points_ratio');
+delete_site_option('wc_points_rewards_redeem_points_ratio');
+delete_option('wc_points_rewards_max_discount');
+delete_site_option('wc_points_rewards_max_discount');
+delete_option('wc_points_rewards_points_expiry_number');
+delete_site_option('wc_points_rewards_points_expiry_number');
+delete_option('wc_points_rewards_points_expiry_period');
+delete_site_option('wc_points_rewards_points_expiry_period');
+delete_option('wc_points_rewards_single_product_message');
+delete_site_option('wc_points_rewards_single_product_message');
+delete_option('wc_points_rewards_variable_product_message');
+delete_site_option('wc_points_rewards_variable_product_message');
+delete_option('wc_points_rewards_earn_points_message');
+delete_site_option('wc_points_rewards_earn_points_message');
+delete_option('wc_points_rewards_redeem_points_message');
+delete_site_option('wc_points_rewards_redeem_points_message');
+delete_option('wc_points_rewards_thank_you_message');
+delete_site_option('wc_points_rewards_thank_you_message');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'first_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'first_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'first_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'first_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'last_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'last_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'last_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'last_name' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wc_points_redeemed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wc_points_redeemed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wc_points_redeemed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wc_points_redeemed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ams_wc_points_redeemed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ams_wc_points_redeemed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ams_wc_points_redeemed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ams_wc_points_redeemed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ams_wc_points_rewards_discount_code' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ams_wc_points_rewards_discount_code' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ams_wc_points_rewards_discount_code' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ams_wc_points_rewards_discount_code' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ams_wc_points_rewards_discount_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ams_wc_points_rewards_discount_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ams_wc_points_rewards_discount_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ams_wc_points_rewards_discount_amount' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wc_max_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wc_max_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wc_max_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wc_max_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wc_min_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wc_min_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wc_min_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wc_min_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_wc_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_wc_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_wc_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_wc_points_earned' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ams_bookmarks' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ams_bookmarks' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ams_bookmarks' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ams_bookmarks' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'wp_user_avatar' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'wp_user_avatar' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'wp_user_avatar' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'wp_user_avatar' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ams_wishlist' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ams_wishlist' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ams_wishlist' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ams_wishlist' ) );
+

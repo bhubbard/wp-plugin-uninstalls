@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ragbot_settings",
+    "ragbot_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ragbot_cleanup_sessions"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:57.688Z"
+}

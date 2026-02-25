@@ -1,0 +1,20 @@
+{
+  "options": [
+    "tmf_options",
+    "tmf_settings",
+    "tmf_units_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tmf-map-the-basics-object",
+    "tmf-map-placecard-object",
+    "tmf-map-marker-array",
+    "tmf-map-circle-array",
+    "tmf-map-polygon-array",
+    "tmf-map-polyline-array"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:43.156Z"
+}

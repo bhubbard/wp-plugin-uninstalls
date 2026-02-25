@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_bukubank_accounts"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bukubank_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bukubank_confirm_meta_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:43.778Z"
+}

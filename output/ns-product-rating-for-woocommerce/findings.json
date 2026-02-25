@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ns_product_rating_woocommerce_symbol_color",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ns_prw_post_rate",
+    "_ns_prw_post_rate_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:29.325Z"
+}

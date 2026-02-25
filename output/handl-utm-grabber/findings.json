@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hug_zapier_url",
+    "hug_zapier_log",
+    "hug_httponly_cookies",
+    "hug_append_all",
+    "check_v2717_doc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:19.822Z"
+}

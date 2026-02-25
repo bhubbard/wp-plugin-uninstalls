@@ -1,0 +1,33 @@
+{
+  "options": [
+    "*_DataCenter",
+    "*_clientId",
+    "*_clientSecret",
+    "*_masterCalendar",
+    "*_masterAccessToken",
+    "*_masterRefreshToken",
+    "*_AuthorizationPageId",
+    "*_CreateAuthPage",
+    "nicappcrono_CreateAuthPage",
+    "nicappcrono_clientId"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "nicappcronoCronJob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_calendarID",
+    "*_calendarName",
+    "*_AccessToken",
+    "*_RefreshToken",
+    "*_ProfileName",
+    "*_ProfileID",
+    "*_ProviderID",
+    "*_Product_Display",
+    "*_Product_Id",
+    "*_TwoWay"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:13.944Z"
+}

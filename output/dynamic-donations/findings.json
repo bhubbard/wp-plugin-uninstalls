@@ -1,0 +1,21 @@
+{
+  "options": [
+    "dydo_options",
+    "woocommerce_currency",
+    "dydo_woocommerce_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dydo_stripe_customer_id",
+    "first_name",
+    "last_name",
+    "_visibility",
+    "_stock_status",
+    "_sold_individually",
+    "_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:23.753Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mspp_review_prompt_removed",
+    "mspp_review_prompt_delay"
+  ],
+  "transients": [
+    "mspp_review_prompt_delay"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:21.330Z"
+}

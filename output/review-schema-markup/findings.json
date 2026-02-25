@@ -1,0 +1,18 @@
+{
+  "options": [
+    "review-max-rating",
+    "review-interval-rating",
+    "review-show-rating",
+    "review-fill-style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "schema_item_name",
+    "schema_item_url",
+    "schema_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:32.157Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "apbox_font_size",
+    "apbox_button_color",
+    "apbox_currency",
+    "apbox_heading_level",
+    "apbox_button_text",
+    "apbox_delete_data_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_apbox_price",
+    "_apbox_affiliate_link",
+    "_apbox_rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:15.844Z"
+}

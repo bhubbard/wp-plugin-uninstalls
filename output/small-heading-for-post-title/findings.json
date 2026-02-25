@@ -1,0 +1,19 @@
+{
+  "options": [
+    "style_shfpt",
+    "home_shfpt",
+    "frontpage_shfpt",
+    "archive_shfpt",
+    "category_shfpt",
+    "post_shfpt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_slug_value_key",
+    "_position_value_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:29.459Z"
+}

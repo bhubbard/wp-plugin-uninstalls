@@ -1,0 +1,14 @@
+{
+  "options": [
+    "elfi_plugin_do_activation_redirect",
+    "elfi__cpt_base"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:21.159Z"
+}

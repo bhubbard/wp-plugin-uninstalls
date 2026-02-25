@@ -1,0 +1,22 @@
+{
+  "options": [
+    "gpservice_version",
+    "woocommerce_greenpay-payment-service_settings",
+    "greenpay_dismissed_migration_token",
+    "greenpay_token_migration",
+    "greenpay_dismissed_gp_webhook_tokenization",
+    "greenpay_dismissed_gp_webhook",
+    "woocommerce_prices_include_tax",
+    "greenpay_dismissed_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "card",
+    "greenpay_token_updated",
+    "greenpay_webhook_response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:22.271Z"
+}

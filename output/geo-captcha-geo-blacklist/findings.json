@@ -1,0 +1,22 @@
+{
+  "options": [
+    "geo_capblack_black",
+    "geo_capblack_legal",
+    "geo_capblack_comments",
+    "geo_capblack_registration",
+    "geo_capblack_log_ips",
+    "geo_capblack_blocked_spam",
+    "geo_capblack_not_whitelisted_comments",
+    "geo_capblack_whitelisted_comments",
+    "geo_capblack_registered_comments",
+    "geo_capblack_manuell_spam",
+    "geo_capblack_whitelisted_spam",
+    "recently_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:27.649Z"
+}

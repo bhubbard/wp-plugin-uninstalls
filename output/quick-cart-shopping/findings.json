@@ -1,0 +1,23 @@
+{
+  "options": [
+    "qcshopping_cart_settings",
+    "qcshopping_general_settings",
+    "qcshopping_layout_settings",
+    "qcshopping_toggle_settings",
+    "qcshopping_variation_popup_settings",
+    "__qcshopping_pro_license_info",
+    "qcshopping_checkout_settings",
+    "qcshopping_installation_time",
+    "qcshopping_version"
+  ],
+  "transients": [
+    "qcshopping_activate_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:11.377Z"
+}

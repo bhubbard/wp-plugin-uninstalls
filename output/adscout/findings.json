@@ -1,0 +1,23 @@
+{
+  "options": [
+    "as_integration_options",
+    "adscout_integration_options",
+    "adscout_api_token",
+    "adscout_partner_domain_hex",
+    "as_feed_last_updated",
+    "adscout_hash"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "as_generate_product_feed_daily",
+    "run_adscout_job_queue",
+    "adscout_run_job_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ac_coupon_type",
+    "ac_coupon_source"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:23.590Z"
+}

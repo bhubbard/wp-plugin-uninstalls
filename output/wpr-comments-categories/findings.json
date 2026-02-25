@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpr_current_categories",
+    "wpr_comments_cat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpr_comment_category"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:03.957Z"
+}

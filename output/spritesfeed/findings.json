@@ -1,0 +1,26 @@
+{
+  "options": [
+    "sfs-global-options",
+    "sfs-fb-credentials",
+    "sfs-yt-credentials",
+    "sfs-flickr-credentials",
+    "sfs-twitter-credentials",
+    "sfs-insta-credentials",
+    "sfs-feed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sfs_cron_hook",
+    "sfs_cron_hook_secondary",
+    "sfs_cron_hook_videos",
+    "sfs_cron_hook_albums",
+    "sfs_cron_hook_instagram"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "feed_picture",
+    "feed_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:31.276Z"
+}

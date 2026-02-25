@@ -1,0 +1,51 @@
+{
+  "options": [
+    "ec_shop_id",
+    "ec_product_sync_enable",
+    "ec_order_sync_enable",
+    "ec_rest_api_sync_log",
+    "ec_shop_verified",
+    "ec_shop_token",
+    "ec_shop_refresh_token",
+    "ec_api_key",
+    "ec_shop_name",
+    "ec_shop_sync_enable",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_postcode",
+    "woocommerce_store_city",
+    "woocommerce_default_country",
+    "ec_user_id",
+    "ec_customer_id",
+    "ec_customer_email",
+    "ec_admin_dev_mode",
+    "ec_is_registration_fee_paid",
+    "package_name",
+    "ec_cron_sync_time",
+    "ec_admin_dev_pwd",
+    "revenue_architect_setting_data_cc"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ec_add_custom_cron_job"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_company",
+    "sync_to_empact_failed",
+    "sync_to_empact",
+    "sync_to_empact_date_time",
+    "is_empact_order_when_disabled",
+    "is_empact_order",
+    "sync_to_empact_log",
+    "empact_product_id",
+    "empact_order_id",
+    "_wc_shipment_tracking_items",
+    "_aftership_tracking_number",
+    "_aftership_tracking_provider_name",
+    "sync_test_response"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:48.083Z"
+}

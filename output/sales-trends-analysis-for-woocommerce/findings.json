@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ni_invoice_option"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "prefix_do_this_in_every_fifteen_minute",
+    "my_hourly_event_anzar"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:24.654Z"
+}

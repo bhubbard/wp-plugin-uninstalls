@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bw_lti_enabled",
+    "bw_lti_consumer_key",
+    "bw_lti_consumer_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:09.547Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "posti_wh_api_auth",
+    "posti_wh_api_warehouses",
+    "woocommerce_default_country",
+    "woocommerce_store_postcode",
+    "posti_warehouse_db_version",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "posti_wh_options",
+    "woocommerce_posti_warehouse_settings"
+  ],
+  "transients": [
+    "posti_warehouse_shipping_methods"
+  ],
+  "cron_jobs": [
+    "posti_cronjob"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_posti_wh_warehouse",
+    "is_customer_note",
+    "_ean",
+    "_posti_wh_warehouse_single",
+    "_posti_last_sync",
+    "_posti_wh_distribution",
+    "_wholesale_price",
+    "_posti_fragile",
+    "_posti_lq",
+    "_posti_large",
+    "_posti_id",
+    "_posti_wh_country_of_origin",
+    "_posti_wh_hs_tariff_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:16.932Z"
+}

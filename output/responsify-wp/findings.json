@@ -1,0 +1,21 @@
+{
+  "options": [
+    "selected_sizes",
+    "globally_active",
+    "rwp_added_filters",
+    "rwp_picturefill",
+    "rwp_retina",
+    "selected_element",
+    "ignored_image_formats",
+    "rwp_custom_media_queries",
+    "rwp_debug_mode",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:23.918Z"
+}

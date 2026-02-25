@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rbd-faq-question-color",
+    "rbd-faq-question-bg",
+    "rbd-faq-category-color",
+    "rbd-faq-category-bg",
+    "rbd-faq-answer-color",
+    "rbd-faq-answer-bg",
+    "rbd-faq-icon-color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:19.223Z"
+}

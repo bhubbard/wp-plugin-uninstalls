@@ -1,0 +1,24 @@
+{
+  "options": [
+    "flux_media_optimizer_db_version",
+    "flux_media_optimizer_options",
+    "flux-plugins_common_options"
+  ],
+  "transients": [
+    "flux_media_optimizer_notices",
+    "flux_media_optimizer_activation_redirect",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "flux_media_optimizer_retry_failed_jobs",
+    "flux_media_optimizer_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:55.471Z"
+}

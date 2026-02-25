@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpcpq_settings",
+    "wpcpq_prices",
+    "wpcpq_localization",
+    "wpcpq_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpcpq_enable",
+    "wpcpq_prices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:37.436Z"
+}

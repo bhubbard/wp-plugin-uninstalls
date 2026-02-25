@@ -1,0 +1,18 @@
+{
+  "options": [
+    "allow_kses_div",
+    "allow_kses_embed",
+    "allow_kses_iframe",
+    "allow_kses_img",
+    "allow_kses_map",
+    "allow_kses_object",
+    "allow_kses_param",
+    "allow_kses_pre"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:15.445Z"
+}

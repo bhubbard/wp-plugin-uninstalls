@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mo_discord_logout_redirection_enable', 'mo_discord_login_theme', 'mo_discord_enable', 'mo_login_icon_space', 'mo_login_icon_custom_width', 'mo_login_icon_custom_height', 'mo_login_icon_custom_size', 'mo_login_icon_custom_color', 'mo_discord_login_custom_theme', 'mo_discord_login_button_customize_text', 'mo_login_icon_custom_boundary', 'mo_discord_login_widget_customize_logout_name_text', 'mo_discord_login_widget_customize_logout_text', 'mo_login_discord_login_widget_customize_textcolor', 'mo_discord_login_widget_customize_text', 'app_pos', 'mo_discord_login_app', 'mo_discord_integrator_version', 'mo_discord_fonawesome_load', 'mo_discord_bootstrap_load', 'mo_discord_login_redirect', 'mo_discord_login_redirect_url', 'mo_discord_relative_login_redirect_url', 'mo_discord_logout_redirect', 'mo_discord_logout_redirect_url', 'mo_discord_verify_customer', 'mo_discord_registration_status', 'mo_discord_admin_email', 'mo_discord_admin_phone', 'mo_discord_admin_customer_key', 'mo_discord_message', 'mo_discord_admin_api_key', 'mo_discord_customer_token', 'mo_discord_new_registration', 'mo_dis_basic_role_mapping', 'mo_discord_integrator_host_name', 'regi_pop_up', 'pop_regi_msg', 'mo_discord_user_activation_date1', 'mo_discord_admin_company_name', 'mo_discord_admin_first_name', 'mo_discord_admin_last_name', 'mo_default_role', 'mo_discord_default_login_enable', 'mo_discord_default_register_enable', 'mo_discord_social_login_avatar', 'mo_discord_deactivate_reason_form', 'mo_discord_user_activation_date', 'mo_discord_login_field_option', 'mo_discord_attr_email');
+DELETE FROM wp_options WHERE option_name IN ('mo_discord_attr_username', 'mo_discord_attr_display_name', 'mo_registration_error_message', 'mo_existing_username_error_message', 'mo_delete_user_error_message', 'mo_discord_malform_error', 'Activated_Plugin', 'mo_discord_attr_fname', 'mo_discord_attr_lname', 'mo_discord_test_configuration', 'mo_discord_cust', 'mo_discord_new_user', 'pop_login_msg', 'mo_discord_feedback_form', 'mo_discord_rateus_activation', 'mo_openid_discord_enable_check', 'mo_account_linking_title', 'mo_account_linking_new_user_button', 'mo_account_linking_existing_user_button', 'mo_account_linking_new_user_instruction', 'mo_account_linking_existing_user_instruction', 'mo_account_linking_extra_instruction');
+DELETE FROM wp_options WHERE option_name LIKE 'mo_discord_enable_custom_app_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_enable';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('modiscord_user_avatar', 'user_name');
+DELETE FROM wp_usermeta WHERE meta_key IN ('modiscord_user_avatar', 'user_name');
+DELETE FROM wp_termmeta WHERE meta_key IN ('modiscord_user_avatar', 'user_name');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('modiscord_user_avatar', 'user_name');
+

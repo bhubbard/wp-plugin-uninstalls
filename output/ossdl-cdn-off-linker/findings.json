@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ossdl_off_exclude",
+    "ossdl_off_cdn_url",
+    "ossdl_off_include_dirs",
+    "ossdl_off_rootrelative"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:08.747Z"
+}

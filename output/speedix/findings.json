@@ -1,0 +1,30 @@
+{
+  "options": [
+    "speedix_settings",
+    "speedix_setup_complete",
+    "speedix_reflection_cache",
+    "speedix_php_runtime",
+    "speedix_db_version",
+    "speedix_settings_version",
+    "rewrite_rules",
+    "speedix_site_health_scan"
+  ],
+  "transients": [
+    "speedix_memory_warning",
+    "speedix_overload",
+    "speedix_redirect_to_setup",
+    "speedix_calibrate_token",
+    "speedix_calibration_data",
+    "speedix_wizard_preset",
+    "speedix_calibration"
+  ],
+  "cron_jobs": [
+    "speedix_cleanup",
+    "speedix_site_health_scan",
+    "speedix_site_health_email"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:53.531Z"
+}

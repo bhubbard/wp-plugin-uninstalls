@@ -1,0 +1,37 @@
+{
+  "options": [
+    "img_style",
+    "Lightbox_settings",
+    "iframe_style",
+    "vimeo_style",
+    "youtube_style",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "simple_imgs",
+    "img_main",
+    "youtube_main",
+    "vimeo_main",
+    "portfo_main",
+    "iframe_main",
+    "Soundcloud_main",
+    "_wp_page_template",
+    "settings_main",
+    "custom_css",
+    "iframe_settings",
+    "port_settings",
+    "simg_main",
+    "vimeo_settings",
+    "you_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:58.463Z"
+}

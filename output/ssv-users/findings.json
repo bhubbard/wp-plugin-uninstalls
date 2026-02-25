@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "page_role",
+    "profile_picture",
+    "user_email",
+    "display_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:35.977Z"
+}

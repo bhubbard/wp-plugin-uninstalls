@@ -1,0 +1,16 @@
+{
+  "options": [
+    "gallery_voting_usersallowed",
+    "gallery_voting_max_all",
+    "gallery_voting_max_same",
+    "gallery_voting_tracking",
+    "gallery_voting_enable_unvoting",
+    "gallery_voting_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:25.155Z"
+}

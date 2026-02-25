@@ -1,0 +1,24 @@
+{
+  "options": [
+    "emailchecker_server_status",
+    "emailchecker_server_msg",
+    "emailchecker_api_key",
+    "emailchecker_credit",
+    "emailchecker_usd_balance",
+    "emailchecker_rate",
+    "day_email_check_stat",
+    "all_email_checked",
+    "rem_emailchecker_credit",
+    "emailchecker_used_credits",
+    "emailchecker_blocked_domains_list",
+    "emailchecker_blocked_emails_list",
+    "emailchecker_allowed_domains_list",
+    "emailchecker_allowed_emails_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:31.353Z"
+}

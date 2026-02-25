@@ -1,0 +1,44 @@
+{
+  "options": [
+    "wp360_firm_details",
+    "wp360_invoice_addresses",
+    "wp360_invoice_banking",
+    "wp360_thankyoumsg",
+    "wp360_invoicestartnumber",
+    "wp360_company_address",
+    "woocommerce_myaccount_page_id",
+    "wp360_invoices_page_id",
+    "wp360invoice_plugin_activated",
+    "wp360invoice_plugin_version"
+  ],
+  "transients": [
+    "wp360-admin-notice-error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "invoice_user",
+    "invoice_address",
+    "invoice_bank",
+    "invoice_firm",
+    "invoice_amount",
+    "invoice_status",
+    "payment_receipt",
+    "invoice_number",
+    "invoice_type",
+    "invoice_items",
+    "wp360_invoice_user_extra_fields",
+    "invoice_createddate",
+    "billing_phone",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_country",
+    "billing_city",
+    "billing_state",
+    "billing_postcode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:11.651Z"
+}

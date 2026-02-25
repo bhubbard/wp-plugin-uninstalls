@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wcfm_chatbox_setting"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wcfmmp_profile_settings",
+    "_wcfm_following_list",
+    "_wcfm_followers_list"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:39.337Z"
+}

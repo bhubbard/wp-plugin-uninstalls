@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('trgb_open_non_logged_text', 'trgb_open_enrolled_text', 'trgb_open_completed_text', 'trgb_open_non_enrolled_text', 'trgb_free_non_logged_text', 'trgb_free_enrolled_text', 'trgb_free_completed_text', 'trgb_free_non_enrolled_text', 'trgb_paynow_non_logged_text', 'trgb_paynow_enrolled_text', 'trgb_paynow_completed_text', 'trgb_paynow_non_enrolled_text', 'trgb_recurring_non_logged_text', 'trgb_recurring_enrolled_text', 'trgb_recurring_completed_text', 'trgb_recurring_non_enrolled_text', 'trgb_closed_non_logged_text', 'trgb_closed_enrolled_text', 'trgb_closed_completed_text', 'trgb_closed_non_enrolled_text', 'trgb_all_non_logged_color', 'trgb_all_non_logged_background_color', 'trgb_all_non_logged_font_size', 'trgb_all_non_logged_uppercase', 'trgb_all_non_logged_border_radius', 'trgb_all_non_logged_border_color', 'trgb_all_enrolled_color', 'trgb_all_enrolled_background_color', 'trgb_all_enrolled_font_size', 'trgb_all_enrolled_uppercase', 'trgb_all_enrolled_border_radius', 'trgb_all_enrolled_border_color', 'trgb_all_completed_color', 'trgb_all_completed_background_color', 'trgb_all_completed_font_size', 'trgb_all_completed_uppercase', 'trgb_all_completed_border_radius', 'trgb_all_completed_border_color', 'trgb_all_non_enrolled_color', 'trgb_all_non_enrolled_background_color', 'trgb_all_non_enrolled_font_size', 'trgb_all_non_enrolled_uppercase', 'trgb_all_non_enrolled_border_radius', 'trgb_all_non_enrolled_border_color');
+DELETE FROM wp_options WHERE option_name LIKE '%_non_logged_text';
+DELETE FROM wp_options WHERE option_name LIKE '%_completed_text';
+DELETE FROM wp_options WHERE option_name LIKE '%_text';
+

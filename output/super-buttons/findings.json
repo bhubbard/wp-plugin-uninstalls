@@ -1,0 +1,20 @@
+{
+  "options": [
+    "super_buttons",
+    "*_text",
+    "*_meta",
+    "*_classes",
+    "_sb_db",
+    "_sb_meta_db"
+  ],
+  "transients": [
+    "*_text",
+    "*_meta",
+    "*_classes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:34.381Z"
+}

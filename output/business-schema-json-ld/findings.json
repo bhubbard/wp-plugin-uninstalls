@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_metadesc",
+    "bs_products_name",
+    "bs_products_description",
+    "bs_products_image_url",
+    "bs_products_brand"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:09.141Z"
+}

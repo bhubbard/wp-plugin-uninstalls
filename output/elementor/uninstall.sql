@@ -1,0 +1,22 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('elementor_tracker_notice', 'elementor_local_google_fonts', 'elementor_beta', 'elementor_element_cache_ttl', '_elementor_pro_license_v2_data', 'elementor_enable_inspector', 'woocommerce_shop_page_id', 'elementor_css_print_method', '_elementor_local_google_fonts', 'elementor_disable_color_schemes', 'elementor_disable_typography_schemes', 'elementor_log', 'elementor_icon_manager_needs_update', 'elementor_load_fa4_shim', 'elementor_elements_usage', '_elementor_general_settings', 'elementor_space_between_widgets', 'elementor_viewport_md', 'elementor_viewport_lg', 'elementor_experiment-ai-layout', 'elementor_experiment-block_editor_assets_optimize', 'elementor_experiment-container_grid', 'elementor_experiment-display-conditions', 'elementor_experiment-e_dom_optimization', 'elementor_experiment-e_global_styleguide', 'elementor_experiment-e_image_loading_optimization', 'elementor_experiment-e_lazyload', 'elementor_experiment-e_optimized_assets_loading', 'elementor_experiment-e_optimized_css_loading', 'elementor_experiment-e_scroll_snap', 'elementor_experiment-floating-buttons', 'elementor_experiment-form-submissions', 'elementor_experiment-link-in-bio', 'elementor_experiment-loop', 'elementor_experiment-notes', 'elementor_experiment-off-canvas', 'elementor_experiment-page-transitions', 'elementor_experiment-search', 'elementor_experiment-taxonomy-filter', 'elementor_edit_buttons', 'elementor_google_font', 'elementor_font_display', '_elementor_installed_time', 'elementor_cpt_support', 'elementor_allow_tracking', 'elementor_tracker_last_send', 'elementor_allow_tracking_last_update', 'elementor_exclude_user_roles', 'elementor_google_maps_api_key', 'elementor_disabled_elements');
+DELETE FROM wp_options WHERE option_name IN ('elementor_meta_generator_tag', 'elementor_optimized_gutenberg_loading', 'elementor_optimized_image_loading', 'elementor_lazy_load_background_images', 'elementor_safe_mode', 'elementor_safe_mode_created_mu_dir', 'elementor_safe_mode_allowed_plugins', 'theme_mods_elementor-safe', 'active_sitewide_plugins', 'elementor_connect_site_key', 'update_plugins', 'elementor_activation_redirect', 'elementor_ea11y_campaign', 'elementor_image_optimization_campaign', 'elementor_site_mailer_campaign', 'elementor_core_campaign', 'elementor_pro_free_trial_data');
+DELETE FROM wp_options WHERE option_name LIKE 'elementor_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_access_token';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_w';
+DELETE FROM wp_options WHERE option_name LIKE '%_size_h';
+DELETE FROM wp_options WHERE option_name LIKE '%_crop';
+DELETE FROM wp_options WHERE option_name LIKE '%welcome_screen_completed';
+DELETE FROM wp_options WHERE option_name LIKE '%dismiss_connect_alert';
+DELETE FROM wp_options WHERE option_name LIKE '%editor_update_notification_dismissed';
+DELETE FROM wp_options WHERE option_name LIKE '%_process_lock';
+DELETE FROM wp_options WHERE option_name LIKE 'elementor_rollback_versions_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_elementor_conditions', '_elementor_page_settings', '_wp_page_template', 'rich_editing', '_elementor_data', '_thumbnail_id', '_menu_item_menu_item_parent', '_wp_attachment_image_alt', '_elementor_oembed_cache', '_elementor_source_image_hash', 'wp_elementor_connect_common_data', '_e_notifications_dismissed');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_elementor_conditions', '_elementor_page_settings', '_wp_page_template', 'rich_editing', '_elementor_data', '_thumbnail_id', '_menu_item_menu_item_parent', '_wp_attachment_image_alt', '_elementor_oembed_cache', '_elementor_source_image_hash', 'wp_elementor_connect_common_data', '_e_notifications_dismissed');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_elementor_conditions', '_elementor_page_settings', '_wp_page_template', 'rich_editing', '_elementor_data', '_thumbnail_id', '_menu_item_menu_item_parent', '_wp_attachment_image_alt', '_elementor_oembed_cache', '_elementor_source_image_hash', 'wp_elementor_connect_common_data', '_e_notifications_dismissed');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_elementor_conditions', '_elementor_page_settings', '_wp_page_template', 'rich_editing', '_elementor_data', '_thumbnail_id', '_menu_item_menu_item_parent', '_wp_attachment_image_alt', '_elementor_oembed_cache', '_elementor_source_image_hash', 'wp_elementor_connect_common_data', '_e_notifications_dismissed');
+

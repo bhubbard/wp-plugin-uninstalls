@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cc_filetype",
+    "cc_class",
+    "cc_relationship",
+    "cc_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:26.190Z"
+}

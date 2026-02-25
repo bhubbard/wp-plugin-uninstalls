@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mmwpf_get_admin_style_settings"
+  ],
+  "transients": [
+    "mmwpf_dependency",
+    "mmwpf_active_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mmwpf_entries_columns_*",
+    "entries_table_per_page_*",
+    "mmwpf_install_time"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:12.378Z"
+}

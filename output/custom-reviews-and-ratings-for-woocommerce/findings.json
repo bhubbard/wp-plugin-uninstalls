@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mw_custom_ratings_reviews_woocommerce_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "_wc_rating_count",
+    "_wc_average_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:59.059Z"
+}

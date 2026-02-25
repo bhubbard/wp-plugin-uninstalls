@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "*_crop"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ba_category_image_id",
+    "_wp_attachment_image_alt",
+    "_stock_status",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:45.558Z"
+}

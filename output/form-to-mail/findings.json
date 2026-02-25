@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ftm_validate_required",
+    "ftm_validate_type",
+    "ftm_mail_failed",
+    "ftm_mail_success",
+    "ftm_mail",
+    "ftm_name",
+    "ftm_template_layout_if",
+    "ftm_template_layout",
+    "ftm_smtp_if",
+    "ftm_smtp_username",
+    "ftm_smtp_password",
+    "ftm_smtp_host",
+    "ftm_smtp_from",
+    "ftm_smtp_port",
+    "ftm_wp_all"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ftm_form_id",
+    "ftm_send_email",
+    "ftm_from_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:37.999Z"
+}

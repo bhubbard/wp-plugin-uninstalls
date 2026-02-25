@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ewz_rating_version",
+    "ewz_admin_delete_rating",
+    "ewz_max_unsaved",
+    "ewz_init_img_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ewz_useradio",
+    "ewz_nextafter"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:00.582Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ppss"
+  ],
+  "transients": [
+    "PW_Alerts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ppss_header_scripts",
+    "_ppss_footer_scripts",
+    "_ppss_styles",
+    "_ppss_extras",
+    "_ppss_footer_extras",
+    "_ppss_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:03.748Z"
+}

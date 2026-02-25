@@ -1,0 +1,17 @@
+{
+  "options": [
+    "voicseop_enable_text_search",
+    "voicseop_enable_voice_search",
+    "voicseop_voice_search_timeout",
+    "voicseop_enable_voice_command",
+    "voicseop_voice_command_timeout",
+    "voicseop_voice_command_position",
+    "voicseop_plugin_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:14.589Z"
+}

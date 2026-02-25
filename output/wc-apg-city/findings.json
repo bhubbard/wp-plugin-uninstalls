@@ -1,0 +1,19 @@
+{
+  "options": [
+    "apg_city_settings",
+    "apg_city_last_import",
+    "apg_city_rows",
+    "apg_city_last_hash",
+    "apg_city_import_state"
+  ],
+  "transients": [
+    "apg_city_plugin",
+    "apg_city_seed_scheduled",
+    "apg_city_import_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:57.921Z"
+}

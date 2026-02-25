@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*_version",
+    "*_uninstall",
+    "*_remove_data"
+  ],
+  "transients": [
+    "*_structure",
+    "*debug_cleanup",
+    "*convertkit_forms",
+    "*drip_account",
+    "update_plugins",
+    "*license_lastcheck",
+    "*aweber_lists",
+    "*cm_clients",
+    "*cm_lists",
+    "*mailchimp_lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_maxinbound_template",
+    "_maxinbound_data",
+    "_maxinbound_options",
+    "_wp_archive_meta_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:29.004Z"
+}

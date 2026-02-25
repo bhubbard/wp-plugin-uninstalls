@@ -1,0 +1,15 @@
+{
+  "options": [
+    "adrm_comments_module_enabled",
+    "wp_statuses",
+    "adrm_statuses",
+    "adrm_global_settings",
+    "ADRM_DB_VERSION"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:47.935Z"
+}

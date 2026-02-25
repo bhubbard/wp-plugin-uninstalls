@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rapls_pic_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_rapls_pic_is_thumbnail",
+    "_rapls_pic_source_pdf",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:27.901Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "woopgg_display",
+    "woopgg_payment_group_*",
+    "woopgg_checkout_payment_gateway_*",
+    "woopgg_html_tag",
+    "woopgg_active_color"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:04.767Z"
+}

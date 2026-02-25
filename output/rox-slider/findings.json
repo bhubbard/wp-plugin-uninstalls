@@ -1,0 +1,27 @@
+{
+  "options": [
+    "roxslider_settings_list",
+    "__roxslider_oppai__",
+    "__roxslider_license_key__",
+    "roxslider_fse_fonts",
+    "active_sitewide_plugins",
+    "*__banner_data",
+    "*__banner_last_check",
+    "*_never_show",
+    "*_ask_me_later",
+    "*_install_date",
+    "*_first_action_Date",
+    "*_first_action",
+    "*_version",
+    "*__stories_data",
+    "*__stories_last_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "roxslider_posts_fonts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:36.893Z"
+}

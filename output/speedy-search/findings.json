@@ -1,0 +1,25 @@
+{
+  "options": [
+    "speedy_search_settings_polyplugins",
+    "speedy_search_notice_dismissed_polyplugins",
+    "speedy_search_advanced_notice_polyplugins",
+    "speedy_search_version_polyplugins",
+    "speedy_search_indexes_polyplugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "snappy_search_background_worker",
+    "snappy_search_daily_background_worker",
+    "speedy_search_background_worker",
+    "speedy_search_daily_background_worker"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_average_rating",
+    "_price",
+    "edd_price",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:09.630Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "getotp_option_name"
+  ],
+  "transients": [
+    "*_error_notice_dismissed",
+    "*_crendential_error",
+    "*_subscription_error",
+    "*_quota_error",
+    "*_crendential_error_message",
+    "*_quota_error_message",
+    "*_subscription_error_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_otp_id",
+    "user_otp_activation"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:36.377Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bvsmtp_smpt_global_settings",
+    "bvopt_smpt_alt_setting_1",
+    "bvsmtp_smpt_alt_setting_2",
+    "bvsmtp_smpt_alt_setting_3",
+    "bvsmtp_smpt_alt_setting_1"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:46.313Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "waint_token_expiry",
+    "waint_token",
+    "waint_refresh_token",
+    "waint_last_allegro_orders_processed",
+    "waint_delayed_settings_error",
+    "waint_options",
+    "waint_code_verifier",
+    "waint_state"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "waint_check_new_orders_allegro"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:24.981Z"
+}

@@ -1,0 +1,114 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('woocommerce_maxmind_geolocation_license_key');
+delete_site_option('woocommerce_maxmind_geolocation_license_key');
+delete_option('woocommerce_default_customer_address');
+delete_site_option('woocommerce_default_customer_address');
+delete_option('pi_ppscw_address_form_working');
+delete_site_option('pi_ppscw_address_form_working');
+delete_option('pi_ppscw_details_saved');
+delete_site_option('pi_ppscw_details_saved');
+delete_option('pi_ppscw_enable_badge');
+delete_site_option('pi_ppscw_enable_badge');
+delete_option('pi_ppscw_badge_position');
+delete_site_option('pi_ppscw_badge_position');
+delete_option('pi_ppscw_badge_bg_color');
+delete_site_option('pi_ppscw_badge_bg_color');
+delete_option('pi_ppscw_badge_text_color');
+delete_site_option('pi_ppscw_badge_text_color');
+delete_option('pi_ppscw_badge_text');
+delete_site_option('pi_ppscw_badge_text');
+delete_option('pi_ppscw_badge_icon');
+delete_site_option('pi_ppscw_badge_icon');
+delete_option('pi_ppscw_popup_update_address_title');
+delete_site_option('pi_ppscw_popup_update_address_title');
+delete_option('pi_ppscw_address_form_layout');
+delete_site_option('pi_ppscw_address_form_layout');
+delete_option('pi_ppscw_popup_header_bg_color');
+delete_site_option('pi_ppscw_popup_header_bg_color');
+delete_option('pi_ppscw_popup_header_text_color');
+delete_site_option('pi_ppscw_popup_header_text_color');
+delete_option('pi_ppscw_popup_title');
+delete_site_option('pi_ppscw_popup_title');
+delete_option('pi_ppscw_select_variation_msg');
+delete_site_option('pi_ppscw_select_variation_msg');
+delete_option('pi_ppscw_no_address_added_yet');
+delete_site_option('pi_ppscw_no_address_added_yet');
+delete_option('pi_ppscw_auto_calculation');
+delete_site_option('pi_ppscw_auto_calculation');
+delete_option('pi_ppscw_load_location_by_ajax');
+delete_site_option('pi_ppscw_load_location_by_ajax');
+delete_option('pi_ppscw_disable_view_shipping_method');
+delete_site_option('pi_ppscw_disable_view_shipping_method');
+delete_option('pi_ppscw_calc_position');
+delete_site_option('pi_ppscw_calc_position');
+delete_option('pi_ppscw_result_position');
+delete_site_option('pi_ppscw_result_position');
+delete_option('pi_ppscw_open_drawer_button_text');
+delete_site_option('pi_ppscw_open_drawer_button_text');
+delete_option('pi_ppscw_update_button_text');
+delete_site_option('pi_ppscw_update_button_text');
+delete_option('pi_ppscw_ignore_cart_product');
+delete_site_option('pi_ppscw_ignore_cart_product');
+delete_option('pi_ppscw_consider_quantity_field');
+delete_site_option('pi_ppscw_consider_quantity_field');
+delete_option('pi_ppscw_no_shipping_methods_msg');
+delete_site_option('pi_ppscw_no_shipping_methods_msg');
+delete_option('pi_ppscw_above_shipping_methods');
+delete_site_option('pi_ppscw_above_shipping_methods');
+delete_option('pi_ppscw_free_shipping_price');
+delete_site_option('pi_ppscw_free_shipping_price');
+delete_option('woocommerce_ship_to_destination');
+delete_site_option('woocommerce_ship_to_destination');
+delete_option('pi_ppscw_show_estimate_date');
+delete_site_option('pi_ppscw_show_estimate_date');
+delete_option('pi_ppscw_show_estimate_as_per');
+delete_site_option('pi_ppscw_show_estimate_as_per');
+delete_option('pi_ppscw_msg_background_color');
+delete_site_option('pi_ppscw_msg_background_color');
+delete_option('pi_ppscw_msg_font_color');
+delete_site_option('pi_ppscw_msg_font_color');
+delete_option('pi_ppscw_msg_font_color_shipping_method');
+delete_site_option('pi_ppscw_msg_font_color_shipping_method');
+delete_option('pi_ppscw_msg_font_color_shipping_cost');
+delete_site_option('pi_ppscw_msg_font_color_shipping_cost');
+delete_option('pi_ppscw_calculate_shipping_bg_color');
+delete_site_option('pi_ppscw_calculate_shipping_bg_color');
+delete_option('pi_ppscw_calculate_shipping_text_color');
+delete_site_option('pi_ppscw_calculate_shipping_text_color');
+delete_option('pi_ppscw_update_address_bg_color');
+delete_site_option('pi_ppscw_update_address_bg_color');
+delete_option('pi_ppscw_update_address_text_color');
+delete_site_option('pi_ppscw_update_address_text_color');
+delete_option('pi_ppscw_remove_country_add_form');
+delete_site_option('pi_ppscw_remove_country_add_form');
+delete_option('pi_ppscw_remove_state_add_form');
+delete_site_option('pi_ppscw_remove_state_add_form');
+delete_option('pi_ppscw_remove_city_add_form');
+delete_site_option('pi_ppscw_remove_city_add_form');
+delete_option('pi_ppscw_remove_postcode_add_form');
+delete_site_option('pi_ppscw_remove_postcode_add_form');
+delete_option('pi_ppscw_default_form_display');
+delete_site_option('pi_ppscw_default_form_display');
+delete_option('pi_ppscw_remove_country');
+delete_site_option('pi_ppscw_remove_country');
+delete_option('pi_ppscw_remove_state');
+delete_site_option('pi_ppscw_remove_state');
+delete_option('pi_ppscw_remove_city');
+delete_site_option('pi_ppscw_remove_city');
+delete_option('pi_ppscw_remove_postcode');
+delete_site_option('pi_ppscw_remove_postcode');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'pisol_disable_shipping_calculator' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'pisol_disable_shipping_calculator' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'pisol_disable_shipping_calculator' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'pisol_disable_shipping_calculator' ) );
+

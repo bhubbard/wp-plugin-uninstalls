@@ -1,0 +1,38 @@
+{
+  "options": [
+    "adjust_point_when",
+    "eber_hash_key",
+    "eber_api_key",
+    "eber_store_id",
+    "eber_business_name",
+    "eber_business_slug",
+    "eber_status",
+    "eber_sync_non_member",
+    "eber_custom_link",
+    "eber_custom_login_url",
+    "eber_custom_signup_url",
+    "eber_welcome_email",
+    "exclude_tax",
+    "exclude_shipping",
+    "exclude_coupon",
+    "widget_new",
+    "instant_sync",
+    "eber_custom_field",
+    "issue_point_when",
+    "eber_business_id",
+    "eber_api_enable",
+    "eber_custom_field_data",
+    "eber_sync",
+    "eber_default_phone_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "from_api",
+    "api_synced",
+    "eber_default_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:55.879Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wp_auto_updater_history_table_version",
+    "auto_update_core_major"
+  ],
+  "transients": [
+    "wp_auto_updater/history_table/updated",
+    "wp_auto_updater/history_table/created",
+    "wp_auto_updater/upgraded_version",
+    "update_core"
+  ],
+  "cron_jobs": [
+    "wp_version_check",
+    "wp_update_themes",
+    "wp_update_plugins"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:35.969Z"
+}

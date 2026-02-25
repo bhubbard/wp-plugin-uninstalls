@@ -1,0 +1,13 @@
+{
+  "options": [
+    "bread_auth_token",
+    "pickup_location_pickup_locations",
+    "woocommerce_store_phone"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:20.102Z"
+}

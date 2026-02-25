@@ -1,0 +1,14 @@
+{
+  "options": [
+    "display_notes_pages",
+    "display_notes_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gb_admin_note"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:07.539Z"
+}

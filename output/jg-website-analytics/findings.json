@@ -1,0 +1,17 @@
+{
+  "options": [
+    "jgwa_inc_loggedIn",
+    "avea_display_annotations",
+    "jgwa_website_analytics_date",
+    "jgwa_version",
+    "jgwa_website_analytics_date_custom"
+  ],
+  "transients": [
+    "jgwa_notice_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:49.994Z"
+}

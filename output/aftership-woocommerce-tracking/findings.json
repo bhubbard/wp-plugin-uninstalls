@@ -1,0 +1,36 @@
+{
+  "options": [
+    "aftership_option_name",
+    "automizely_aftership_plugin_actived",
+    "aftership_api_enabled",
+    "aftership_prices_include_tax",
+    "aftership_weight_unit",
+    "aftership_dimension_unit",
+    "aftership_force_ssl_checkout",
+    "woocommerce_weight_unit",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "wc-aftership-plugin*"
+  ],
+  "cron_jobs": [
+    "vi_at_importer_scheduled_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "is_customer_note",
+    "_aftership_tracking_items",
+    "_aftership_tracking_number",
+    "_aftership_tracking_provider_name",
+    "_aftership_migrated",
+    "_aftership_tracking_account",
+    "_aftership_tracking_key",
+    "_aftership_tracking_postal",
+    "_aftership_tracking_shipdate",
+    "_aftership_tracking_destination_country",
+    "aftership_wp_api_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:07.686Z"
+}

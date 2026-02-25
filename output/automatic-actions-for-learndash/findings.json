@@ -1,0 +1,19 @@
+{
+  "options": [
+    "traa_ldactions_all_actions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "traa_ldactions_executions_ignore_clean",
+    "traa_ldactions_times_executed",
+    "traa_ldactions_executions",
+    "_wp_page_template",
+    "traa_ldactions_action_course_enroll_section",
+    "traa_ldactions_action_group_add_section",
+    "traa_ldactions_unique_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:27.393Z"
+}

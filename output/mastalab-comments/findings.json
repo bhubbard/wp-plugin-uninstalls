@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*settings",
+    "*account",
+    "*preferences",
+    "*preferences[peertubecomments]",
+    "*preferences[mastodon_bg]",
+    "*preferences[mastodon_text]",
+    "*preferences[mastodon_link]",
+    "*preferences[peertube_bg]",
+    "*preferences[peertube_text]",
+    "*preferences[peertube_link]",
+    "*preferences[cache]",
+    "*preferences[selector]",
+    "*preferences[where]",
+    "tom79_mastalab_comments_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:32.346Z"
+}

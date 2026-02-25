@@ -1,0 +1,16 @@
+{
+  "options": [
+    "noadblock-title",
+    "noadblock-description",
+    "noadblock-status",
+    "noadblock-agree",
+    "noadblock-disagree",
+    "noadblock-url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:31.303Z"
+}

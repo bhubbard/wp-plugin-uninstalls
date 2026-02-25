@@ -1,0 +1,13 @@
+{
+  "options": [
+    "new_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "custom_element_grid_class_meta_box"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:46.621Z"
+}

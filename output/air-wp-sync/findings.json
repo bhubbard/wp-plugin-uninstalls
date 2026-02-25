@@ -1,0 +1,34 @@
+{
+  "options": [
+    "rewrite_rules",
+    "action_scheduler_lock_async-request-runner",
+    "*-start-date",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "airwpsync_deactivated_notice_id",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "air_wp_sync_importer_*"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "last_updated",
+    "status",
+    "content_ids",
+    "count_deleted",
+    "count_processed",
+    "latest_log_url",
+    "last_error",
+    "errors",
+    "table_fields",
+    "run",
+    "last_sync_time",
+    "_air_wp_sync_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:35.652Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "jialistt_button_bg",
+    "jialistt_button_color",
+    "jialistt_button_size",
+    "jialistt_font_size",
+    "jialistt_position",
+    "jialistt_bottom_distance",
+    "jialistt_side_distance",
+    "jialistt_shape"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:19.110Z"
+}

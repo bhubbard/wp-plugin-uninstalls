@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rtl",
+    "_menu_item_menu_item_parent",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_menu_item_object",
+    "_menu_item_classes",
+    "*sublanguage_hide",
+    "sublanguage_hide",
+    "*post_name",
+    "*slug",
+    "_menu_item_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:50.621Z"
+}

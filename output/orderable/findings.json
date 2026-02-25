@@ -1,0 +1,49 @@
+{
+  "options": [
+    "orderable_dismissed_notice_*",
+    "orderable_ask_review",
+    "woocommerce_enable_ajax_add_to_cart",
+    "woocommerce_hide_out_of_stock_items",
+    "*_settings",
+    "orderable_settings",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_default_country",
+    "woocommerce_store_postcode",
+    "woocommerce_allowed_countries",
+    "woocommerce_specific_allowed_countries",
+    "orderable_opt_in",
+    "_orderable_db_version",
+    "_orderable_main_location_store_general_services_settings_to_migrate",
+    "_orderable_main_location_store_general_asap_settings_to_migrate",
+    "_orderable_main_location_store_general_open_hours_settings_to_migrate",
+    "_orderable_main_location_store_general_service_hours_pickup_same_settings_to_migrate",
+    "_orderable_main_location_store_general_lead_time_settings_to_migrate",
+    "_orderable_main_location_store_general_preorder_settings_to_migrate",
+    "_orderable_main_location_store_general_calculation_method_settings_to_migrate",
+    "_orderable_main_location_store_general_service_hours_delivery_settings_to_migrate",
+    "_orderable_main_location_store_general_service_hours_pickup_settings_to_migrate",
+    "wc_points_rewards_variable_product_message",
+    "wc_points_rewards_single_product_message",
+    "*_onboard_dismiss_modal",
+    "*_onboard_save_modal",
+    "orderable_version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "orderable_creating_database"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "visibility",
+    "dismissed_wp_pointers",
+    "first_name",
+    "last_name",
+    "display_name",
+    "*_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:33.871Z"
+}

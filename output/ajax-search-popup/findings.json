@@ -1,0 +1,14 @@
+{
+  "options": [
+    "s_popup_title",
+    "s_popup_post",
+    "s_popup_page",
+    "s_popup_posts_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:12.862Z"
+}

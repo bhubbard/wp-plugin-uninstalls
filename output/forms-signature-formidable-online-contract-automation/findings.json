@@ -1,0 +1,16 @@
+{
+  "options": [
+    "esig_global_document_id",
+    "WP_ESignature__Formidable__Forms_Digital_Signature_documentation",
+    "WP_ESignature__Formidable_Forms_Digital_Signature_documentation",
+    "remove_rating_widget_formidable"
+  ],
+  "transients": [
+    "_esign_formidableform_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:55.145Z"
+}

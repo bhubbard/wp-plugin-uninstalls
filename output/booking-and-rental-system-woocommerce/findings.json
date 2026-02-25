@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pricing_type",
+    "general_price",
+    "_price",
+    "hourly_price",
+    "rnb_lite_availability",
+    "redq_attributes",
+    "redq_additional_features",
+    "redq_all_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:52.285Z"
+}

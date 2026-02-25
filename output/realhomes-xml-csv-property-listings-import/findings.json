@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_notice_ignore"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "REAL_HOMES_property_images",
+    "inspiry_floor_plans",
+    "REAL_HOMES_attachments",
+    "inspiry_is_published"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:40.648Z"
+}

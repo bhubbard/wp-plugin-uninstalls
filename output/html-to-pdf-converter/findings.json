@@ -1,0 +1,19 @@
+{
+  "options": [
+    "html2pdf_api_key",
+    "html2pdf_format",
+    "html2pdf_landscape",
+    "html2pdf_margin_top",
+    "html2pdf_margin_right",
+    "html2pdf_margin_bottom",
+    "html2pdf_margin_left",
+    "html2pdf_width",
+    "html2pdf_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:47.772Z"
+}

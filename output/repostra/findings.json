@@ -1,0 +1,16 @@
+{
+  "options": [
+    "repostra_auto_publish",
+    "repostra_default_category",
+    "repostra_default_author",
+    "repostra_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "repostra_post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:10.807Z"
+}

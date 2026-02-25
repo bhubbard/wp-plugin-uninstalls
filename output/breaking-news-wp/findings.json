@@ -1,0 +1,23 @@
+{
+  "options": [
+    "brnwp_testo_pers",
+    "brnwp_text",
+    "brnwp_fil_cat",
+    "brnwp_num_not",
+    "brnwp_theme",
+    "brnwp_dim_barra",
+    "brnwp_col_tit",
+    "brnwp_col_bar_tit",
+    "brnwp_col_not",
+    "brnwp_col_bar",
+    "brnwp_col_link",
+    "brnwp_title_content",
+    "brnwp_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:29.621Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sstt-primary-color",
+    "sstt-image-position",
+    "sstt-round-corner",
+    "sstt_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:33.663Z"
+}

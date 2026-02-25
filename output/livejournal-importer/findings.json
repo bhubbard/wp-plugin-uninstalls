@@ -1,0 +1,32 @@
+{
+  "options": [
+    "ljapi_username",
+    "ljapi_password",
+    "ljapi_step",
+    "ljapi_total",
+    "ljapi_count",
+    "ljapi_lastsync",
+    "ljapi_sync_item_times",
+    "ljapi_imported_count",
+    "ljapi_lastsync_posts",
+    "ljapi_last_sync_count",
+    "ljapi_post_batch",
+    "ljapi_usermap",
+    "ljapi_maxid",
+    "ljapi_highest_id",
+    "ljapi_highest_comment_id",
+    "ljapi_comment_batch",
+    "ljapi_protected_password",
+    "ljapi_verified"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lj_itemid",
+    "lj_permalink",
+    "lj_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:56.236Z"
+}

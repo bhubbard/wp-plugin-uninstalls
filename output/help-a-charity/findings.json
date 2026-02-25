@@ -1,0 +1,22 @@
+{
+  "options": [
+    "helpc_enable",
+    "helpc_bar_position",
+    "helpc_close_color",
+    "helpc_donation_amount",
+    "helpc_donated_amount",
+    "helpc_donation_target",
+    "helpc_progress_bg",
+    "helpc_progress",
+    "helpc_bar_bg_color",
+    "helpc_bar_color",
+    "helpc_bar_text",
+    "helpc_charity_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:31.484Z"
+}

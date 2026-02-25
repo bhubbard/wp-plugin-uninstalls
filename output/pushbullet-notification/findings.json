@@ -1,0 +1,24 @@
+{
+  "options": [
+    "_fnpn_additional_key_mapping",
+    "fnpn_logs",
+    "_fnpn_additional_app_keys",
+    "fnpn_pushbullet_notifications_settings"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "update_core"
+  ],
+  "cron_jobs": [
+    "fnpn_plugin_update_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "Pushbullet notification",
+    "fnpn_user_key",
+    "fnpn_user_notify_posts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:52.769Z"
+}

@@ -1,0 +1,44 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "woowgallery_version",
+    "woowgallery_install_date",
+    "woowgallery_options",
+    "woowgallery_notices",
+    "rewrite_rules",
+    "woowgallery_rest_token",
+    "instagram_access_token",
+    "instagram_token_updated",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "woowgallery_fetch_*",
+    "*_process_lock",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_media_copyright",
+    "_woowgallery",
+    "_woowgallery_id",
+    "_woowgallery_status",
+    "_woowgallery_posts",
+    "_data_before",
+    "_woowgallery_galleries"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:07.051Z"
+}

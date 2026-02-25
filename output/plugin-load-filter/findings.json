@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "plf_option",
+    "plf_addon_options",
+    "plf_queryvars",
+    "permalink-manager-uris",
+    "celtis_addon_options",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "plf_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_locale",
+    "_plugin_load_filter",
+    "_original_post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:13.215Z"
+}

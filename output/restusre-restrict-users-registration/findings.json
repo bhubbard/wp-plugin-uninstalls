@@ -1,0 +1,14 @@
+{
+  "options": [
+    "restusre_general",
+    "restusre_api",
+    "restusre_domain_blacklist",
+    "restusre_email_blacklist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:23.928Z"
+}

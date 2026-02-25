@@ -1,0 +1,12 @@
+{
+  "options": [
+    "gravityformsaddon_GFFBPT_FBP_settings",
+    "gravityformsaddon_gravity-forms-pixel-tracking_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:28.182Z"
+}

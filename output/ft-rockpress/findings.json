@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_active",
+    "default_post_edit_rows",
+    "rockpress_import",
+    "rockpress_last_import",
+    "rockpress_import_in_progress",
+    "rockpress_licenses",
+    "rockpress_rock",
+    "rockpress_settings",
+    "rockpress_current_import",
+    "*_license_key_active",
+    "rockpress_license_data"
+  ],
+  "transients": [
+    "rockpress-addons",
+    "update_plugins",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "rockpress_maintenance",
+    "rockpress_transient_cache_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:44.806Z"
+}

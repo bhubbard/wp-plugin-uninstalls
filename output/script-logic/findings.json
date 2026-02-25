@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sb_registered_scripts",
+    "sb_registered_styles",
+    "sb_scriptlogic"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:06.054Z"
+}

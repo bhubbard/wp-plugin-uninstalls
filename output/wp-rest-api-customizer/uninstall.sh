@@ -1,0 +1,32 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wprac_img_url'
+wp option delete 'wprac_allow_comments'
+wp option delete 'wprac_url-to-id'
+wp option delete 'onemorethubf'
+wp option delete 'wprac_unset_id'
+wp option delete 'wprac_unset_title'
+wp option delete 'wprac_unset_content'
+wp option delete 'wprac_unset_date_gmt'
+wp option delete 'wprac_unset_guid'
+wp option delete 'wprac_unset_date'
+wp option delete 'wprac_unset_modified'
+wp option delete 'wprac_unset_modified_gmt'
+wp option delete 'wprac_unset_slug'
+wp option delete 'wprac_unset_status'
+wp option delete 'wprac_unset_type'
+wp option delete 'wprac_unset_link'
+wp option delete 'wprac_unset_excerpt'
+wp option delete 'wprac_unset_author'
+wp option delete 'wprac_unset_featured_media'
+wp option delete 'wprac_unset_comment_status'
+wp option delete 'wprac_unset_ping_status'
+wp option delete 'wprac_unset_sticky'
+wp option delete 'wprac_unset_template'
+wp option delete 'wprac_unset_format'
+wp option delete 'wprac_unset_meta'
+wp option delete 'wprac_unset_categories'
+wp option delete 'wprac_unset_tags'
+

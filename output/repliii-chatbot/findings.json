@@ -1,0 +1,19 @@
+{
+  "options": [
+    "repliii_enabled",
+    "repliii_user_id",
+    "repliii_button_color",
+    "repliii_button_opacity",
+    "repliii_header_title",
+    "repliii_header_bg",
+    "repliii_header_text",
+    "repliii_placeholder",
+    "repliii_svg_logo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:34.183Z"
+}

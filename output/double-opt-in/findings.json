@@ -1,0 +1,24 @@
+{
+  "options": [
+    "f12_cf7_doubleoptin_installed_at",
+    "f12-doi-settings",
+    "*_version",
+    "f12_cf7_doubleoptin_installation_uuid",
+    "f12_cf7_doubleoptin_telemetry_counters",
+    "f12_cf7_doubleoptin_review_dismissed",
+    "f12_cf7_doubleoptin_review_remind_later",
+    "f12_cf7_doubleoptin_review_remind_count"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "f12_cf7_doubleoptin_daily_telemetry",
+    "dailyOptinClear"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "f12-cf7-doubleoptin",
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:04.529Z"
+}

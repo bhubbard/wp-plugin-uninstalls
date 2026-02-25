@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wpdesk_helper_options",
+    "woocommerce_enable_weight",
+    "woocommerce_weight_unit",
+    "woocommerce_price_decimal_sep",
+    "quick_view_trigger",
+    "woocommerce_stock_format",
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_dimension_unit",
+    "woocommerce_area_unit",
+    "woocommerce_volume_unit",
+    "woocommerce_currency_pos",
+    "woocommerce_price_trim_zeros"
+  ],
+  "transients": [
+    "sv_wc_plugin_wc_versions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:30.864Z"
+}

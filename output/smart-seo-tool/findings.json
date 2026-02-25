@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wb_sst_db_ver",
+    "sseot_other_cnf",
+    "*_rewrite",
+    "sseot_guide",
+    "*ver",
+    "wb_sst_ver",
+    "wb_sst_cnf_*",
+    "wb_sst_daily_ping_time"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "wb_smart_seo_tool_cron",
+    "wb_sst_ping_daily",
+    "wb_sst_ping"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "seo_top_keywords",
+    "wb_sst_seo"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:40.420Z"
+}

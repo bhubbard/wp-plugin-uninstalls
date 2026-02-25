@@ -1,0 +1,16 @@
+{
+  "options": [
+    "secsignid_service_name",
+    "secsignid_frame",
+    "secsignid_show_on_login_page",
+    "secsign_id_cookie_secret",
+    "secsignid_allow_account_creation",
+    "secsignid_allow_account_assignment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:45.252Z"
+}

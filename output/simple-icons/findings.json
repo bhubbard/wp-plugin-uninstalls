@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "simpleicons_icon_*",
+    "simpleicons_version",
+    "_simple_icons_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:41.885Z"
+}

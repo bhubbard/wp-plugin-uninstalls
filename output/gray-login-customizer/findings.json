@@ -1,0 +1,24 @@
+{
+  "options": [
+    "graylc_plugin_redirect",
+    "graylc_logo_url_redirect",
+    "graylc_logo_text",
+    "graylc_remember_me",
+    "graylc_form_width",
+    "graylc_login_logo",
+    "graylc_bg_image",
+    "graylc_logo_width",
+    "graylc_logo_height",
+    "graylc_input_height",
+    "graylc_input_border_width",
+    "graylc_input_border_color",
+    "graylc_button_bg_color",
+    "graylc_button_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:26.903Z"
+}

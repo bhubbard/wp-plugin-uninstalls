@@ -1,0 +1,33 @@
+{
+  "options": [
+    "starter_sites_settings",
+    "wpmapblock_ablocks_install_notice_hidden",
+    "gutena_forms_dismiss_notices",
+    "block_visibility_settings",
+    "starter_sites_activated",
+    "starter_sites_do_activation_redirect"
+  ],
+  "transients": [
+    "starter_sites_demo_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "starter_sites_file",
+    "eternal_admin_notice_dismiss",
+    "acai_admin_notice_dismiss",
+    "starter_sites_url",
+    "starter_sites_review_notice_dismiss",
+    "starter_sites_admin_*",
+    "starter_sites_admin_fullpage",
+    "starter_sites_admin_darkmode",
+    "_thumbnail_id",
+    "_wp_font_face_file",
+    "_product_image_gallery",
+    "thumbnail_id",
+    "starter_sites_import_parent_theme",
+    "starter_sites_import_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:18.038Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_enable",
+    "*_button_caption",
+    "wpjobster_paystack_enablesandbox",
+    "wpjobster_paystack_tsk",
+    "wpjobster_paystack_tpk",
+    "wpjobster_paystack_lsk",
+    "wpjobster_paystack_lpk",
+    "wpjobster_paystack_success_page",
+    "wpjobster_paystack_failure_page",
+    "wpjobster_paystack_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:23.409Z"
+}

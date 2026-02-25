@@ -1,0 +1,25 @@
+{
+  "options": [
+    "cfhs_modules",
+    "cfhs_access_token",
+    "cfhs_hf",
+    "cfhs_notification_subject",
+    "cfhs_notification_send_to",
+    "cfhs_uninstall",
+    "cfhs_portal_id",
+    "cfhs_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cfhs_module",
+    "_form",
+    "cfhs_active",
+    "cfhs_fields",
+    "cfhs_subscribe_from_url",
+    "cfhs_action"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:37.203Z"
+}

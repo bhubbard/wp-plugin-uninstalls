@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pc4u_settings",
+    "postcodes4u_page_title",
+    "postcodes4u_page_name",
+    "postcodes4u_page_id",
+    "woocommerce_ship_to_destination",
+    "woocommerce_enable_order_comments"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:25.998Z"
+}

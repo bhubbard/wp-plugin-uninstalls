@@ -1,0 +1,28 @@
+{
+  "options": [
+    "woocommerce_enable_myaccount_registration",
+    "xoo_ml_otp_users",
+    "xoo_ml_last_cleanup",
+    "xoo_tracking_consent_mobile-login-woocommerce",
+    "xoo-ml-services-options",
+    "xoo-ml-phone-options",
+    "xoo-ml-sdk-dependant",
+    "xoo-ml-version",
+    "xoo_tracking_consent_*",
+    "*_theme_templates_data",
+    "xoo_ml_el_refresh_fields"
+  ],
+  "transients": [
+    "xoo_tracking_consent_last_sent_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "xoo_ml_phone_code",
+    "xoo_ml_phone_no",
+    "xoo_ml_phone_display",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:45.875Z"
+}

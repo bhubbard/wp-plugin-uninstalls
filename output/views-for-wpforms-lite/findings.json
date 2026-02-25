@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_reviews_installed_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "view_settings",
+    "*_reviews_dismissed_triggers",
+    "*_reviews_last_dismissed",
+    "*_reviews_already_did",
+    "_view_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:36.051Z"
+}

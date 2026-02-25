@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('order_cancel_cancellation_approval', 'order_return_enable_return', 'order_return_approval', 'order_return_order_status', 'woocommerce_order_cancel_request_settings', 'order_cancel_enable_cancellation', 'wc_order_splitter_premium_license_status', 'order_cancel_order_status', 'order_cancel_reasons', 'order_return_reasons', 'order_cancel_available_time', 'order_return_available_time', 'yoorc_customization_form_border', 'yoorc_customization_form_color', 'yoorc_customization_form_shadow', 'yoorc_customization_form_submit_button', 'yoorc_customization_form_close_button', 'yoohw_settings_disable_menu', 'woocommerce_new_order_recipient', 'woocommerce_default_country', 'wc_order_cancellation_return_version', 'woocommerce_email_footer_text');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wc_cancel_return_activation_time', 'wc_cancel_return_never_show_again', 'wc_advanced_order_manager_ads_time');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wc_cancel_return_activation_time', 'wc_cancel_return_never_show_again', 'wc_advanced_order_manager_ads_time');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wc_cancel_return_activation_time', 'wc_cancel_return_never_show_again', 'wc_advanced_order_manager_ads_time');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wc_cancel_return_activation_time', 'wc_cancel_return_never_show_again', 'wc_advanced_order_manager_ads_time');
+

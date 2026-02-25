@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_address_url",
+    "*_chat_plugin_enable",
+    "*_cookie_expire",
+    "*_error_flag",
+    "*_is_connecting",
+    "*_notification_position",
+    "*_pages_menu",
+    "*_radio_bool",
+    "*_re_address_url",
+    "*_recovery_key",
+    "*_security_key",
+    "*_user_map_root",
+    "*_user_root",
+    "MOOWP_Activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "moo_user_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:18.398Z"
+}

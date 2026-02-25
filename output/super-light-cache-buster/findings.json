@@ -1,0 +1,13 @@
+{
+  "options": [
+    "slcb_plugin_state",
+    "slcb_intensity_level",
+    "slcb_version_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:57.607Z"
+}

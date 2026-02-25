@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sam_reading_time_words_per_minute",
+    "sam_reading_time_singular_format",
+    "sam_reading_time_plural_format",
+    "sam_reading_time_less_than_a_minute_format",
+    "sam_reading_time_prefix_text",
+    "sam_reading_time_suffix_text",
+    "sam_reading_time_wrapper_tag",
+    "sam_reading_time_hide_if_less_than_a_minute",
+    "sam_reading_time_enable_debug_output",
+    "sam_reading_time_enable_schema_time_required"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sam_reading_time_minutes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:07.933Z"
+}

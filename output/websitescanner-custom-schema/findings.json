@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "websitescanner_custom_schema_post_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:00.381Z"
+}

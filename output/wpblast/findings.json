@@ -1,0 +1,23 @@
+{
+  "options": [
+    "WpFastestCacheExclude",
+    "WpFastestCache",
+    "wpblast_plugin_version",
+    "wpblast_db_version",
+    "wpblast_home",
+    "wpblast_crawler"
+  ],
+  "transients": [
+    "*_firstActivation",
+    "*_plugindata",
+    "*_autoregexp",
+    "*_user",
+    "*_purgeExceededItemsCacheTimestamp",
+    "*_cleanExpiredCacheTimestamp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:16.753Z"
+}

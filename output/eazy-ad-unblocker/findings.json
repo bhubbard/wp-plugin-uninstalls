@@ -1,0 +1,13 @@
+{
+  "options": [
+    "eazy-ad-unblocker-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "eazy_ad_unblocker_per_page_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:15.764Z"
+}

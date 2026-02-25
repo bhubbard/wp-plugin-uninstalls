@@ -1,0 +1,20 @@
+{
+  "options": [
+    "polymer-options",
+    "widget_polymer_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "poly_autop",
+    "poly_template",
+    "poly_blocks",
+    "poly_iconsets",
+    "poly_javascript",
+    "poly_styles",
+    "poly_tags"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:42.360Z"
+}

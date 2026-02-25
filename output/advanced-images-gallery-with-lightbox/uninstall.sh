@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aigwl_shortcode_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aigwl_shortcode_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aigwl_shortcode_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aigwl_shortcode_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aigwl_display_layout'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aigwl_display_layout'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aigwl_display_layout'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aigwl_display_layout'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aigwl_image_hover_effect'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aigwl_image_hover_effect'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aigwl_image_hover_effect'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aigwl_image_hover_effect'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aigwl_gallery'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aigwl_gallery'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aigwl_gallery'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aigwl_gallery'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aigwl_enable_effects'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aigwl_enable_effects'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aigwl_enable_effects'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aigwl_enable_effects'"

@@ -1,0 +1,11 @@
+{
+  "options": [
+    "gvc_tester_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:23.025Z"
+}

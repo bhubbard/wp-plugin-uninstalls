@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pn_reg_email_on",
+    "pn_tpl_send",
+    "pn_reg_user_on",
+    "pn_tpl_name",
+    "pn_tpl_email",
+    "pn_email_template",
+    "pn_tpl_email_text",
+    "pn_tpl_email_subject_text",
+    "pn_tpl_html",
+    "pn_register_role"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:07.117Z"
+}

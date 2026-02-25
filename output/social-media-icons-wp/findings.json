@@ -1,0 +1,32 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smi_icons",
+    "smi_column_gap",
+    "smi_row_gap",
+    "smi_font_size",
+    "smi_icons_color",
+    "smi_hover_color",
+    "smi_icons_bg_color",
+    "smi_icons_bg_hover_color",
+    "smi_border_width",
+    "smi_border_color",
+    "smi_border_hover_color",
+    "smi_border_radius",
+    "smi_padding_top",
+    "smi_padding_right",
+    "smi_padding_bottom",
+    "smi_padding_left",
+    "smi_horizontal_alignment",
+    "smi_hover_transition_time",
+    "smi_link_target",
+    "smi_show_tooltip_label",
+    "smi_rel_attr",
+    "smi_vertical_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:44.984Z"
+}

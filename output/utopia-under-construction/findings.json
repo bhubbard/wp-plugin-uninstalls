@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*utopia_ucp_options"
+  ],
+  "transients": [
+    "seedprod_fonts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:33.860Z"
+}

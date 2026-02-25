@@ -1,0 +1,15 @@
+{
+  "options": [
+    "coder-limit-login-options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "coder_first_time_login",
+    "coder_is_logout",
+    "coder_last_active_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:27.492Z"
+}

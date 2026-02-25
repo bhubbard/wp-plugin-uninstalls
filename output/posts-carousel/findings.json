@@ -1,0 +1,21 @@
+{
+  "options": [
+    "active",
+    "show_in",
+    "posts_number",
+    "Slider_Height",
+    "wporg",
+    "Height_Type",
+    "medium_large_size_w",
+    "pager",
+    "interval",
+    "hover",
+    "next_prev"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:31.578Z"
+}

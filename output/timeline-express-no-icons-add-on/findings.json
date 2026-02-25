@@ -1,0 +1,14 @@
+{
+  "options": [
+    "timeline_express_no_icons_storage",
+    "timeline_express_installed_add_ons"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_timeline_styles_icon_style"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:21.073Z"
+}

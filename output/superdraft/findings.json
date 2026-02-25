@@ -1,0 +1,24 @@
+{
+  "options": [
+    "superdraft_settings",
+    "superdraft_api_keys",
+    "superdraft_custom_models",
+    "superdraft_bulk_process_data"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_superdraft_image_prompt",
+    "_superdraft_original_image_id",
+    "_superdraft_image_model",
+    "_superdraft_log_id",
+    "superdraft_writing_tips"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:27.650Z"
+}

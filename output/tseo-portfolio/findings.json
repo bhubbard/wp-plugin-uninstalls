@@ -1,0 +1,34 @@
+{
+  "options": [
+    "tseoportfolio_gallery_title",
+    "tseoportfolio_gallery_title_color",
+    "tseoportfolio_gallery_color",
+    "tseoportfolio_card_color",
+    "tseoportfolio_card_border_color",
+    "tseoportfolio_card_title_color",
+    "tseoportfolio_card_desc_color",
+    "tseoportfolio_card_footer_bgcolor",
+    "tseoportfolio_btn_bgcolor",
+    "tseoportfolio_btn_textcolor",
+    "tseoportfolio_btn_hover_bgcolor",
+    "tseoportfolio_btn_hover_textcolor",
+    "tseoportfolio_btn_visited_color",
+    "tseoportfolio_delete_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tseoportfolio_description",
+    "_tseoportfolio_web_link",
+    "_tseoportfolio_pagespeed_mobile_link",
+    "_tseoportfolio_pagespeed_desktop_link",
+    "_tseoportfolio_web_link_pingdom",
+    "_tseoportfolio_web_link_gtmetrix",
+    "_tseoportfolio_web_link_richresults",
+    "_tseoportfolio_order",
+    "_tseoportfolio_display_in_grid"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:35.761Z"
+}

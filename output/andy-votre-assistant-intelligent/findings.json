@@ -1,0 +1,20 @@
+{
+  "options": [
+    "andy_show_installation_notice",
+    "andy_plugin_do_redirect",
+    "andy_plugin_activation_token",
+    "andy_injector_public",
+    "andy_contact_*",
+    "andy_injector_open_on_load",
+    "andy_injector_position",
+    "andy_injector_widget_size",
+    "andy_notice_dismissed",
+    "andy_injector_primary_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:35.703Z"
+}

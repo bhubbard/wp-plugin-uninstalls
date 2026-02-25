@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "wcpcsu_dismiss_discount_notice",
+    "migrate_serialize_to_json"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wcpscu"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:46.952Z"
+}

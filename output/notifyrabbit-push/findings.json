@@ -1,0 +1,18 @@
+{
+  "options": [
+    "notifyrabbit_push_verified",
+    "notifyrabbit_push_configuration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_notifyrabbit_send",
+    "_notifyrabbit_title",
+    "_notifyrabbit_message",
+    "_notifyrabbit_force",
+    "_notifyrabbit_sent_hash"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:01.274Z"
+}

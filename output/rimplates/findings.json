@@ -1,0 +1,31 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rp_primary_color_bg",
+    "rp_primary_color_text",
+    "rp_secondary_color_bg",
+    "rp_secondary_color_text",
+    "linked_rimplate_page_id",
+    "template",
+    "small_title",
+    "title",
+    "footer_copyright_text",
+    "sidebar_menu",
+    "rimplates_default_post",
+    "rimplates_dashboard_pic",
+    "use_rimplates_woocommerce_template",
+    "_wp_page_template",
+    "header-text",
+    "default-post",
+    "preloader-img",
+    "sidebar-mode",
+    "dashboard-logo",
+    "dashboard-logo-dark",
+    "_rimplenet_menu_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:42.149Z"
+}

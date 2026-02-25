@@ -1,0 +1,25 @@
+{
+  "options": [
+    "petje_af_client_id",
+    "petje_af_client_secret",
+    "petje_af_page_id",
+    "petje_af_site_protection_plan",
+    "petje_af_ignore_access_settings_for_admin",
+    "petje_af_account_page",
+    "petje_af_access_denied_page",
+    "petje_af_redirect_uri_page",
+    "petjeaf_connection_failed"
+  ],
+  "transients": [
+    "*refresh_token",
+    "petje_af_state_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "petje_af_page_plan_id",
+    "petjeaf_user_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:25.582Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_payex_psp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payex_customer_uuid",
+    "_payment_tokens",
+    "_payex_replace_token",
+    "_payex_payment_id",
+    "_payex_legal_address",
+    "_payex_payment_state",
+    "_payex_transaction_capture",
+    "_transaction_id",
+    "_payex_transaction_cancel",
+    "_payex_transaction_refund"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:05.532Z"
+}

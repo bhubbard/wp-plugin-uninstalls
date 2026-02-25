@@ -1,0 +1,27 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "themehunk-settings",
+    "themehunk_recent_import_log_file",
+    "widget_*",
+    "sidebars_widgets",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sale_price",
+    "thumbnail_id",
+    "_menu_item_type",
+    "_menu_item_object_id",
+    "_wxr_import_menu_item",
+    "_wxr_import_parent",
+    "_wxr_import_user_slug",
+    "_wxr_import_has_attachment_refs",
+    "_wxr_import_user",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:24.621Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "academyea_required_rewrite_flush",
+    "academyea_version",
+    "academyea_first_install_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "academyea_template_meta_type",
+    "*_type",
+    "_wp_page_template",
+    "_elementor_data",
+    "_elementor_template_type",
+    "_elementor_edit_mode",
+    "_elementor_page_settings",
+    "academy_course_benefits",
+    "academy_course_difficulty_level",
+    "academy_course_materials_included",
+    "academy_course_requirements",
+    "academy_course_audience"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:28.990Z"
+}

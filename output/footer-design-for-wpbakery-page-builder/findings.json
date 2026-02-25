@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpmp_selected_footer",
+    "wpmp_footer_style",
+    "wpmp-selected-footer",
+    "wpmp-footer-style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:14.183Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "buddyboss_theme_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpe_wps_short_description",
+    "space_*",
+    "bp_cover_position",
+    "space_action_button",
+    "space_action_button_whatsapp_message",
+    "space_action_button_phone",
+    "space_action_button_email",
+    "space_action_button_contact_us",
+    "space_action_button_website",
+    "space_action_button_website_video",
+    "space_action_button_visit_group",
+    "space_action_button_sign_up",
+    "space_action_button_start_order",
+    "space_action_button_view_shop",
+    "space_action_button_get_tickets"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:28.981Z"
+}

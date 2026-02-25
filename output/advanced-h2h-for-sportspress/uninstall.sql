@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('sportspress_link_events', 'sportspress_form_limit', 'sportspress_team_column_editing', 'sportspress_event_minutes', 'sportspress_table_show_title', 'sportspress_table_show_logos', 'sportspress_enable_responsive_tables', 'sportspress_enable_sortable_tables', 'sportspress_enable_scrollable_tables', 'sportspress_table_paginated', 'sportspress_table_rows', 'sportspress_link_players', 'sportspress_link_teams');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('sah2h_criteria', 'sah2h_column_order', 'sah2h_tiebreak_order', 'sp_teams', 'sp_columns', 'sp_adjustments', 'sp_select', 'sp_orderby', 'sp_order', 'sp_date_relative', 'sp_date_past', 'sp_date_from', 'sp_date_to', 'sp_team', 'sp_event_status', 'sp_results', 'sp_minutes', 'sp_abbreviation', 'sp_color', 'sp_highlight');
+DELETE FROM wp_usermeta WHERE meta_key IN ('sah2h_criteria', 'sah2h_column_order', 'sah2h_tiebreak_order', 'sp_teams', 'sp_columns', 'sp_adjustments', 'sp_select', 'sp_orderby', 'sp_order', 'sp_date_relative', 'sp_date_past', 'sp_date_from', 'sp_date_to', 'sp_team', 'sp_event_status', 'sp_results', 'sp_minutes', 'sp_abbreviation', 'sp_color', 'sp_highlight');
+DELETE FROM wp_termmeta WHERE meta_key IN ('sah2h_criteria', 'sah2h_column_order', 'sah2h_tiebreak_order', 'sp_teams', 'sp_columns', 'sp_adjustments', 'sp_select', 'sp_orderby', 'sp_order', 'sp_date_relative', 'sp_date_past', 'sp_date_from', 'sp_date_to', 'sp_team', 'sp_event_status', 'sp_results', 'sp_minutes', 'sp_abbreviation', 'sp_color', 'sp_highlight');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('sah2h_criteria', 'sah2h_column_order', 'sah2h_tiebreak_order', 'sp_teams', 'sp_columns', 'sp_adjustments', 'sp_select', 'sp_orderby', 'sp_order', 'sp_date_relative', 'sp_date_past', 'sp_date_from', 'sp_date_to', 'sp_team', 'sp_event_status', 'sp_results', 'sp_minutes', 'sp_abbreviation', 'sp_color', 'sp_highlight');
+

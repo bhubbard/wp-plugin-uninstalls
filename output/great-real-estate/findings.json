@@ -1,0 +1,32 @@
+{
+  "options": [
+    "greatrealestate_pageforlistings",
+    "wpurl",
+    "greatrealestate_listfeedtitle",
+    "greatrealestate_listfeeddesc",
+    "greatrealestate_mls",
+    "greatrealestate_agent",
+    "greatrealestate_broker",
+    "greatrealestate_agentphone",
+    "greatrealestate_maxfeatured",
+    "greatrealestate_usecss",
+    "greatrealestate_nobrand",
+    "greatrealestate_db_version",
+    "gre-manual-update-pending",
+    "gre-2-migration",
+    "download_path",
+    "ngg_options",
+    "download_categories",
+    "widget_grefeatured"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gre[property-type]",
+    "_gre[downloads]",
+    "_gre[google-maps][geolocation]"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:50.018Z"
+}

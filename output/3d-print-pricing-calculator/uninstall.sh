@@ -1,0 +1,40 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ppc3d_plugin_version'
+wp option delete 'ppc3d_show_onboarding'
+wp option delete 'ppc3d_stl_parser_api_url'
+wp option delete 'ppc3d_stl_parser_api_key'
+wp option delete 'stl_parser_cost_per_cc'
+wp option delete 'ppc3d_cost_per_cubic_centimeter'
+wp option delete 'ppc3d_currency_symbol'
+wp option delete 'ppc3d_currency_position'
+wp option delete 'ppc3d_uploaded_files'
+wp option delete 'use_default_email_template'
+wp option delete 'ppc3d_email_template'
+wp option delete 'ppc3d_api_statistics'
+wp option delete 'ppc3d_api_limits'
+wp option delete 'ppc3d_subscription_plan'
+wp option delete 'ppc3d_stl_parser_cost_per_cc'
+wp option delete 'ppc3d_enable_bulk_orders'
+wp option delete 'ppc3d_show_file_upload_section'
+wp option delete 'ppc3d_enable_technology_options'
+wp option delete 'ppc3d_printing_technology_options'
+wp option delete 'ppc3d_enable_material_options'
+wp option delete 'ppc3d_material_options'
+wp option delete 'ppc3d_enable_quality_options'
+wp option delete 'ppc3d_quality_options'
+wp option delete 'ppc3d_enable_infill_options'
+wp option delete 'ppc3d_infill_options'
+wp option delete 'ppc3d_enable_color_options'
+wp option delete 'ppc3d_color_options'
+wp option delete 'ppc3d_notification_email'
+wp option delete 'ppc3d_invoice_email'
+wp option delete 'ppc3d_email_subject_prefix'
+
+# Delete Transients
+wp transient delete 'ppc3d_activation_redirect'
+wp transient delete 'ppc3d_transient_key'
+wp transient delete 'ppc3d_debug_emails'
+

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mtags_keywords",
+    "mtags_description",
+    "mtags_update",
+    "mtags_opt_description",
+    "mtags_opt_keywords",
+    "mtags_opt_rsd",
+    "mtags_opt_wlwmanifest",
+    "mtags_opt_generator",
+    "mtags_opt_start_post_rel",
+    "mtags_opt_index_rel",
+    "mtags_opt_adjacent_posts_rel"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:00.644Z"
+}

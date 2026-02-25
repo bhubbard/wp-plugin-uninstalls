@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*_enabled",
+    "*_cdn_update_data",
+    "*_update_notice_dismissed",
+    "*_cdn_data",
+    "*_options",
+    "*_detected",
+    "*_replace_from",
+    "*_replace_to"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_checkUpdate"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:44.923Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "server_allow",
+    "requested_activation_key",
+    "enable_disable_plugin",
+    "user_end_code_to_check",
+    "kbiz_registration_email",
+    "kabiz_button_text",
+    "kabiz_move_to_cart_button_text",
+    "get_option_save_for_list",
+    "kbiz_activation_key",
+    "api_url_for_activation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:11.158Z"
+}

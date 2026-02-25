@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpcustompreloader_bg_color",
+    "wpcustompreloader_image",
+    "wpcustompreloader_screen"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:57.061Z"
+}

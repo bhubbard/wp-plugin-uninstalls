@@ -1,0 +1,29 @@
+{
+  "options": [
+    "twae_initial_save_version",
+    "twae-install-date",
+    "twae-alreadyRated",
+    "twae-installDate",
+    "twae_marketing_dismissed",
+    "twae_tec_notice_dismissed",
+    "*_hide_migration_notice",
+    "twae_hide_migration_notice",
+    "twae-free-v",
+    "twae-type",
+    "cpfm_opt_in_choice_cool-timeline",
+    "twae-v",
+    "twae-migration-status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "twae_extra_data_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "twae_style_migration",
+    "twae_exists"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:56.319Z"
+}

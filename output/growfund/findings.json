@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*installed_version"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery",
+    "wpneo_funding_video",
+    "_nf_duration_start",
+    "_nf_duration_end",
+    "_nf_location",
+    "wpneo_show_contributor_table",
+    "_nf_funding_goal",
+    "wpcf_predefined_pledge_amount",
+    "wpneo_funding_minimum_price",
+    "wpneo_funding_maximum_price",
+    "wpneo_reward",
+    "wpneo_campaign_updates",
+    "wpneo_selected_reward"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:51.416Z"
+}

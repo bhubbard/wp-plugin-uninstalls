@@ -1,0 +1,13 @@
+{
+  "options": [
+    "foa_wc_email_blacklist"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wedb_check_external_domain_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:29.715Z"
+}

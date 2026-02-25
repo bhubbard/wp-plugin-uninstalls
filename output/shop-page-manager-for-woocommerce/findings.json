@@ -1,0 +1,33 @@
+{
+  "options": [
+    "*visual_customizer",
+    "*ruleset_toggle",
+    "*cron_log",
+    "*api_license_key",
+    "woocommerce_shop_page_id",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_enable_ajax_add_to_cart",
+    "woocommerce_shop_page_display",
+    "woocommerce_category_archive_display",
+    "woocommerce_default_catalog_orderby",
+    "woocommerce_catalog_columns",
+    "woo_shop_manager_api_get_response",
+    "wp_zamartz_admin_event_tracker",
+    "zamartz_api_admin_notice_data",
+    "*api_password",
+    "*api_product_id",
+    "*api_purchase_emails",
+    "*api_get_response",
+    "*api_admin_notice_data",
+    "*network_admin_api_status",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zamartz_api_cron_schedule_twice_monthly"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:12.670Z"
+}

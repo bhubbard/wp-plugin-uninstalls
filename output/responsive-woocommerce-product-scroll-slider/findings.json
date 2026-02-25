@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wooproductscroller_prodcat",
+    "wooproductscroller_no_of_products",
+    "wooproductscroller_orderBy",
+    "wooproductscroller_order",
+    "wooproductscroller_title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:13.927Z"
+}

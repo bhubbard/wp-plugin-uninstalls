@@ -1,0 +1,16 @@
+{
+  "options": [
+    "be_allowed_blocks",
+    "be_breakpoints",
+    "block_enhancements_activation_redirect",
+    "cbb_breakpoints"
+  ],
+  "transients": [
+    "be_docs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:47.098Z"
+}

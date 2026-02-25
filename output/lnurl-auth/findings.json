@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*-callback-url",
+    "*-redirect-url",
+    "*-login-options",
+    "*-node-banlist",
+    "*-node-allowlist",
+    "*-usercreation",
+    "*-usercreation-prefix",
+    "*-usercreation-roles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:25.522Z"
+}

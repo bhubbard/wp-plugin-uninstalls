@@ -1,0 +1,22 @@
+{
+  "options": [
+    "otoksa_city_mapping",
+    "ksa_nav_city_mapping",
+    "otoksa_shortcode_required",
+    "ksa_nav_shortcode_required",
+    "otoksa_refresh_token",
+    "ksa_nav_refresh_token"
+  ],
+  "transients": [
+    "otoksa_access_token",
+    "ksa_nav_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_otoksa_shortcode",
+    "_ksa_national_address_shortcode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:33.773Z"
+}

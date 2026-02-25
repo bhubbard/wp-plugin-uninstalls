@@ -1,0 +1,19 @@
+{
+  "options": [
+    "webtica_sendinblue_option_name"
+  ],
+  "transients": [
+    "sendinblue_saved_custom_attributes",
+    "sendinblue_migration_pending",
+    "sendinblue_migration_running",
+    "sendinblue_migration_notice",
+    "sendinblue_migration_missing_attrs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:41.701Z"
+}

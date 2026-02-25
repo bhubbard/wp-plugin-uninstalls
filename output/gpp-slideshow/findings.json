@@ -1,0 +1,18 @@
+{
+  "options": [
+    "gpp_gallery",
+    "gpp_gallery_slug",
+    "widget_gpp-gallery-widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom_textbox",
+    "_custom_selectbox",
+    "gpp_gallery_hiddenids",
+    "gpp_gallery_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:08.070Z"
+}

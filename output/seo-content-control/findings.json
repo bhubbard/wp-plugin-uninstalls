@@ -1,0 +1,16 @@
+{
+  "options": [
+    "aioseop_options",
+    "aiosp_can",
+    "aiosp_description_format",
+    "wpseo_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "seocc_params"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:46.403Z"
+}

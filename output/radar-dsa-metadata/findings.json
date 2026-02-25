@@ -1,0 +1,18 @@
+{
+  "options": [
+    "radardsa_options",
+    "radardsa_latest_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "radar_dsa_check_framework_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_radar_dsa_data",
+    "_radar_dsa_enabled",
+    "_radar_dsa_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:39.014Z"
+}

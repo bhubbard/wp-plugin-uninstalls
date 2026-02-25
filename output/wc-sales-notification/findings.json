@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fake_title",
+    "fake_price",
+    "fake_buyer",
+    "fake_description",
+    "fake_image",
+    "wc_sales_notification_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:45.811Z"
+}

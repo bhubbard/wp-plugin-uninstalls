@@ -1,0 +1,22 @@
+{
+  "options": [
+    "awfs_no_jquery",
+    "awfs_no_css",
+    "awfs_hiddenfields",
+    "awfs_no_close",
+    "awfs_no_never_show",
+    "awfs_tagimage",
+    "awfs_tagline",
+    "awfs_no_name_field",
+    "awfs_def_name",
+    "awfs_def_email",
+    "awfs_def_submit",
+    "awfs_formstatstracking"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:59.570Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "scd_wcmp_first_install_date",
+    "scd_license_key",
+    "scd_license_start_date",
+    "scd_license_expiry_date",
+    "scd_license_options",
+    "scd_currency_options",
+    "woocommerce_tax_display_cart",
+    "woocommerce_tax_total_display",
+    "wocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_vendor_term_id",
+    "scd-user-currency",
+    "user-currency-option",
+    "scd_other_options",
+    "dc_pv_shipped",
+    "_meta_regular_price",
+    "_meta_sale_price",
+    "_regular_price",
+    "_sale_price",
+    "_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:36.857Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "adb_link_background_color",
+    "adb_link_text_color",
+    "adb_link_googleplay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:15.289Z"
+}

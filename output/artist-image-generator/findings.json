@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_transient_timeout_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "artist_image_generator_license_validity"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_upscaled_image_url",
+    "_wp_attachment_image_alt",
+    "_aig_user_avatar"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:59.868Z"
+}

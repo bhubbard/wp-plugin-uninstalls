@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mrcookies_cookie_name', 'mrcookies_cookie_lifetime', 'mrcookies_legal_notice', 'mrcookies_use_domain', 'mrcookies_style_type', 'mrcookies_style_text_color', 'mrcookies_style_link_color', 'mrcookies_style_background_color', 'mrcookies_style_border_color', 'mrcookies_style_custom_css');
+

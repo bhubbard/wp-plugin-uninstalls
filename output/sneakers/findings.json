@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_cmb_post_multicheckbox",
+    "_cmb_test_image",
+    "_cmb_area_radio",
+    "_cmb_test_textsmall",
+    "_cmb_content_font_color",
+    "_cmb_test_shortcode",
+    "_cmb_strip_color",
+    "_cmb_font_color",
+    "_cmb_strip_icon",
+    "_cmb_strip_icon_color",
+    "_cmb_postype_multicheckbox",
+    "_cmb_front_checkbox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:06.757Z"
+}

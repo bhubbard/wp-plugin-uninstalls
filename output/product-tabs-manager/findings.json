@@ -1,0 +1,34 @@
+{
+  "options": [
+    "ptabsm_ddefault_product_tabs",
+    "ptabsm_installed",
+    "*_tab",
+    "ptabsm_is_migrated",
+    "*_flash_messages",
+    "_transient_*",
+    "active_sitewide_plugins",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ptabsm_migrate_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ptabsm_*",
+    "_ptabsm_tab_key",
+    "_ptabsm_tab_visible_type",
+    "_ptabsm_excluded_products",
+    "_ptabsm_excluded_categories",
+    "_ptabsm_tab_priority",
+    "_ptabsm_tab_specific_products",
+    "_ptabsm_tab_specific_categories",
+    "ptabsm_tab_content",
+    "ptabsm_tab_is_disable",
+    "ptabsm_tab_visible_type",
+    "_ptabsm_tab_content_type",
+    "ptabsm_tab_specific_categories"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:50.487Z"
+}

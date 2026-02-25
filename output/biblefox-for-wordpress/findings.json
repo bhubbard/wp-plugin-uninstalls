@@ -1,0 +1,20 @@
+{
+  "options": [
+    "bfox-blog-options",
+    "bfox-ms-allow-blog-options",
+    "*_version",
+    "bfox_blog_network_post_refresh",
+    "bfox_blog_post_refresh",
+    "bfox_bp_activity_refresh",
+    "bfox-enable-bible-directory",
+    "bfox_translations"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:46.307Z"
+}

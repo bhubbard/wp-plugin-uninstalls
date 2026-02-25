@@ -1,0 +1,39 @@
+{
+  "options": [
+    "woocommerce_enable_reviews",
+    "scpt_core_tabs",
+    "active_sitewide_plugins",
+    "acf_first_activated_version",
+    "acf_version",
+    "acf_escaped_html_notice_dismissed",
+    "cptui_post_types",
+    "cptui_taxonomies",
+    "acf_escaped_html_log",
+    "acf_will_escape_html_log"
+  ],
+  "transients": [
+    "scpt_products_with_attributes_count",
+    "sdpt-activado",
+    "acf_deactivated_notice_id",
+    "acf_network_upgrade_needed_*"
+  ],
+  "cron_jobs": [
+    "acf_update_site_health_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "scpt_is_core",
+    "scpt_activar",
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "_acf_changed",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:00.649Z"
+}

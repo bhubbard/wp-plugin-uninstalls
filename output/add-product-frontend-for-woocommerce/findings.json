@@ -1,0 +1,26 @@
+{
+  "options": [
+    "frontend_product_additional_fields",
+    "frontend_product_status",
+    "frontend_product_category",
+    "frontend_product_user_role",
+    "frontend_product_save_update_email",
+    "frontend_product_save_update_email_admin",
+    "bytes_permalink_update",
+    "woocommerce_install_and_activate_admin_notices",
+    "deferred_admin_notices",
+    "bytes_plugin_template",
+    "bytes_plugin_page_id",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "product_status",
+    "_regular_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:29.292Z"
+}

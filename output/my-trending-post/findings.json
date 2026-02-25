@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "cron_mtp_sendtweet"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "mtp_date",
+    "mtp_tweet"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:23.808Z"
+}

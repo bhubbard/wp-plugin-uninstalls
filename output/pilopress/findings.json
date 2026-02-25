@@ -1,0 +1,24 @@
+{
+  "options": [
+    "pip_styles",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "polylang",
+    "pilopress"
+  ],
+  "transients": [
+    "pip_tailwind_api_compile_error",
+    "pip_tailwind_api_compile_success"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "linked_post_type",
+    "linked_taxonomy",
+    "acf",
+    "pip_flexible"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:41.900Z"
+}

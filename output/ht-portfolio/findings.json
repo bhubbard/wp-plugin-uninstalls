@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_htportfolio_project_details",
+    "_htportfolio_name_id",
+    "_htportfolio_company_id",
+    "_htportfolio_single_team",
+    "_htportfolio_project_detailsp",
+    "_htportfolio_show_project",
+    "_htportfolio_htportfolio_gallery_video",
+    "_htportfolio_por_video"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:32.589Z"
+}

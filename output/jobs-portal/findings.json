@@ -1,0 +1,25 @@
+{
+  "options": [
+    "weblizar_flush_rewrite_rules_flag",
+    "weblizar_general"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "weblizar_candidate_user_id",
+    "weblizar_candidate_personal",
+    "weblizar_candidate_document",
+    "weblizar_candidate_work_experience",
+    "weblizar_candidate_employment",
+    "weblizar_candidate_education",
+    "weblizar_candidate_skills",
+    "weblizar_candidate_certification",
+    "weblizar_candidate_desired_job",
+    "weblizar_job_work_experience",
+    "weblizar_job_salary",
+    "weblizar_signup_as"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:32.958Z"
+}

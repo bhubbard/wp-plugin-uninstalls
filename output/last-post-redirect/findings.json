@@ -1,0 +1,14 @@
+{
+  "options": [
+    "last_post_redirect_way",
+    "last_post_redirect_post_type",
+    "last_post_redirect_post_status",
+    "last_post_redirect_get_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:52.629Z"
+}

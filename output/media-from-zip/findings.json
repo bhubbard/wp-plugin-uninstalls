@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mediafromzip"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mediafromzip_register_hook",
+    "mediafromzip_check_images_regenerate"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:31.171Z"
+}

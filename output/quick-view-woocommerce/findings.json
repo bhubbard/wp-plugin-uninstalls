@@ -1,0 +1,29 @@
+{
+  "options": [
+    "xoo-qv-button-text",
+    "xoo-qv-button-fsize",
+    "xoo-qv-button-position",
+    "xoo-qv-btn-bgc",
+    "xoo-qv-button-color",
+    "xoo-qv-btn-ps",
+    "xoo-qv-btn-bs",
+    "xoo-qv-btn-bc",
+    "xoo-qv-btn-icon",
+    "xoo-qv-btn-iconc",
+    "xoo-qv-gl-mobile",
+    "xoo-qv-gl-anim",
+    "xoo-qv-gl-pbutton",
+    "xoo-qv-gl-pbutton-text",
+    "xoo-qv-lb-img-area",
+    "xoo-qv-lb-img-width",
+    "xoo-qv-lb-en-gallery",
+    "xoo-qv-lb-enable",
+    "xoo-qv-lb-title"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:12.916Z"
+}

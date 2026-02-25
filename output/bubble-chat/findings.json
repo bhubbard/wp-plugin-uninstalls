@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wa_bubble_options",
+    "wa_bubble_options_style",
+    "wa_bubble_page_conditions",
+    "wa_bubble_schedule",
+    "woocommerce_shop_page_id",
+    "woocommerce_myaccount_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_checkout_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:26.302Z"
+}

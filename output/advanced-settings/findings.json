@@ -1,0 +1,33 @@
+{
+  "options": [
+    "advset_guide_shown",
+    "advset_version",
+    "advset_version__first_install",
+    "advanced_settings_settings",
+    "advset_remove_filters",
+    "advset_advset",
+    "advset_code",
+    "advset_system",
+    "advset_scripts",
+    "advset_styles",
+    "advset_post_types",
+    "advset_tracked_scripts",
+    "advset_notice",
+    "advset_tracked_styles",
+    "advset_tracksettings_asklater",
+    "auto_update_plugins",
+    "powerconfigs",
+    "adv_post_types",
+    "advset_tracksettings_choice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "skip_post_thumb",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:40.357Z"
+}

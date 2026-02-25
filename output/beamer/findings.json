@@ -1,0 +1,19 @@
+{
+  "options": [
+    "beamer_settings_option_name",
+    "bmr_api_ping_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bmr_ignore",
+    "bmr_category",
+    "bmr_link_text",
+    "bmr_feedback",
+    "bmr_reactions",
+    "bmr_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:57.285Z"
+}

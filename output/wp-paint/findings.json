@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wp_paint_activated_on",
+    "wp_paint_review_later_time",
+    "wp_paint_review_done",
+    "wp_paint_edits"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_wpp_revisions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:23.914Z"
+}

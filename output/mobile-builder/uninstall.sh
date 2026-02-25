@@ -1,0 +1,63 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'mobile_builder_license'
+wp option delete 'mobile_builder_configs'
+wp option delete 'woocommerce_currency'
+wp option delete 'gmw_options'
+wp option delete 'woocommerce_enable_guest_checkout'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wcfmmp_profile_settings'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wcfmmp_profile_settings'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wcfmmp_profile_settings'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wcfmmp_profile_settings'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'product_attribute_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'product_attribute_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'product_attribute_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'product_attribute_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'product_attribute_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'product_attribute_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'product_attribute_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'product_attribute_image'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wcml_custom_prices_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wcml_custom_prices_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wcml_custom_prices_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wcml_custom_prices_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mbd_location'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mbd_location'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mbd_location'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mbd_location'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'digt_countrycode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'digt_countrycode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'digt_countrycode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'digt_countrycode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'digits_phone_no'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'digits_phone_no'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'digits_phone_no'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'digits_phone_no'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'digits_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'digits_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'digits_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'digits_phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mbd_subscribe'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mbd_subscribe'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mbd_subscribe'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mbd_subscribe'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mbd_login_method'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mbd_login_method'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mbd_login_method'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mbd_login_method'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mbd_avatar'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mbd_avatar'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mbd_avatar'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mbd_avatar'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_image_alt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_image_alt'"

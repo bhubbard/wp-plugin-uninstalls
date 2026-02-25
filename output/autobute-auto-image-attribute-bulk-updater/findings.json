@@ -1,0 +1,16 @@
+{
+  "options": [
+    "autobute_settings",
+    "autobute_allow_tracking"
+  ],
+  "transients": [
+    "autobute_tracking_dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:04.207Z"
+}

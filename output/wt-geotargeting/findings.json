@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wt_geotargeting_geobase",
+    "wt_geotargeting_sistem",
+    "wt_geotargeting_default",
+    "wt_geotargeting_debug",
+    "wt_geotargeting_region"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:54.722Z"
+}

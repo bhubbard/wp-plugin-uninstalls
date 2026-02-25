@@ -1,0 +1,19 @@
+{
+  "options": [
+    "eds_term_*",
+    "_eds_Options"
+  ],
+  "transients": [
+    "eds-framework-transient",
+    "eds-metabox-transient",
+    "cs-taxonomy-transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_object_id",
+    "menu-item-font-awesome"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:41.539Z"
+}

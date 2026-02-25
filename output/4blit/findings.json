@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_4blit_api_key",
+    "wp_4blit_default_publish",
+    "wp_4blit_default_ublish"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_4blit_post_status",
+    "wp_4blit_post_date",
+    "wp_4blit_post_message",
+    "wp_4blit_post_publish"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:15.716Z"
+}

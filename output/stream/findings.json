@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wp_stream_network",
+    "wp_stream",
+    "*_connectors",
+    "*_registered_connectors",
+    "wp_stream_plugins_to_delete",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "settings_errors",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "wp_stream_auto_purge"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "alert_type",
+    "alert_meta",
+    "*columnshidden",
+    "rule"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:42.289Z"
+}

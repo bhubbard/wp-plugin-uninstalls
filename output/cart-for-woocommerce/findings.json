@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_default_customer_address",
+    "fkwcs_wp_stripe",
+    "woocommerce_currency",
+    "*_settings",
+    "woocommerce-ppcp-settings",
+    "fkcart_settings",
+    "trp_settings",
+    "fkcart_db_options",
+    "fkcart_db_options_new_db",
+    "woocommerce_tax_display_shop",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [
+    "fkcart_templates_v3"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fkcart_notifications_close"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:33:59.134Z"
+}

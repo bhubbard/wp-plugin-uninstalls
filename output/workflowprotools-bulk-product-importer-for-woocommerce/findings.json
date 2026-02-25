@@ -1,0 +1,18 @@
+{
+  "options": [
+    "workflowprotools_bulk_importer_analytics_enabled",
+    "workflowprotools_bulk_importer_version",
+    "workflowprotools_bulk_importer_success_imports",
+    "workflowprotools_bulk_importer_total_products_imported",
+    "workflowprotools_bulk_importer_site_info"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "workflowprotools_bulk_importer_cleanup",
+    "workflowprotools_bulk_importer_analytics_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:24.037Z"
+}

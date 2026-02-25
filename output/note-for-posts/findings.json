@@ -1,0 +1,17 @@
+{
+  "options": [
+    "n4p_option_2",
+    "n4p_option_1",
+    "n4p_option_3",
+    "n4p_option_4",
+    "n4p_option_5",
+    "n4p_option_6",
+    "n4p_option_7"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:27.872Z"
+}

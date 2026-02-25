@@ -1,0 +1,17 @@
+{
+  "options": [
+    "zednatq_username",
+    "zednatq_share_text",
+    "zednatq_class",
+    "zednatq_utm_campaign",
+    "zednatq_utm_medium",
+    "zednatq_utm_source",
+    "zednatq-short-url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:47.149Z"
+}

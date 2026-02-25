@@ -1,0 +1,15 @@
+{
+  "options": [
+    "locater_google_api_key",
+    "locater_map_zoom_size",
+    "locater_map_radius",
+    "locater_map_marker_img",
+    "locater_sub_title_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:58.078Z"
+}

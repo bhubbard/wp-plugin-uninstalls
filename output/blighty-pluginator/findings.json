@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bpl_email",
+    "bpl_ignore",
+    "bpl_last_run",
+    "bpl_notified",
+    "bpl_snapshot"
+  ],
+  "transients": [
+    "bpl_active_plugins",
+    "bpl_all_plugins",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:22.856Z"
+}

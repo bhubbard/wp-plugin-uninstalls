@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7_submission_id_COUNTER"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:11.295Z"
+}

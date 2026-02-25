@@ -1,0 +1,19 @@
+{
+  "options": [
+    "know__forms__element__input_styles",
+    "know__forms__element__input_classes",
+    "know__forms__element__textarea_styles",
+    "know__forms__element__textarea_classes",
+    "know__forms__element__select_styles",
+    "know__forms__element__select_classes",
+    "know__forms__element__button_styles",
+    "know__forms__element__button_classes",
+    "know--forms--settings-group"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:49.302Z"
+}

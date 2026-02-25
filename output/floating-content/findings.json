@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cyber_disp_position",
+    "cyber_targetleft",
+    "cyber_targetright",
+    "cyber_targetop",
+    "cyber_targetbot",
+    "cyber_shortcode",
+    "cyber_page_show",
+    "cyber_height",
+    "cyber_width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:38.286Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "yourwebshield_risk_threshold",
+    "yourwebshield_max_requests",
+    "yourwebshield_window_ms",
+    "yourwebshield_waf_enabled",
+    "yourwebshield_waf_sql_enabled",
+    "yourwebshield_waf_xss_enabled",
+    "yourwebshield_waf_common_enabled"
+  ],
+  "transients": [
+    "yourwebshield_ip_*"
+  ],
+  "cron_jobs": [
+    "yourwebshield_send_logged_ips_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:54.633Z"
+}

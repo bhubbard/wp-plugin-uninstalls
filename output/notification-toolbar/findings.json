@@ -1,0 +1,15 @@
+{
+  "options": [
+    "statictoolbar_opacity",
+    "statictoolbar_txtcolor",
+    "statictoolbar_bgcolor",
+    "statictoolbar_rss",
+    "statictoolbar_nb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:42.645Z"
+}

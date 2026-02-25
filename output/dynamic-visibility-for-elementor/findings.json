@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpcf-fields",
+    "trp_settings",
+    "dce_visibility_max"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_wp_attachment_image_alt",
+    "type",
+    "wpcf-*",
+    "_*",
+    "user_registration_*",
+    "dce_visibility_max_user",
+    "_elementor_template_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:47.115Z"
+}

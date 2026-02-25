@@ -1,0 +1,19 @@
+{
+  "options": [
+    "lws_slide_height",
+    "lws_delay",
+    "lws_transition",
+    "lws_animation",
+    "lws_controls",
+    "lws_pagination"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slide_caption",
+    "slide_link"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:02.986Z"
+}

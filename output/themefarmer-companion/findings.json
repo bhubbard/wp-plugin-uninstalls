@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "storez_media_upload_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "themefarmer_menu_icon",
+    "themefarmer_menu_image",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:02.839Z"
+}

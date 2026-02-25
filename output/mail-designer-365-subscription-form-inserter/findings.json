@@ -1,0 +1,14 @@
+{
+  "options": [
+    "maildesigner365-subscription-form-api-key",
+    "maildesigner365-subscription-form-api-secret",
+    "maildesigner365-subscription-form-forms",
+    "maildesigner365-subscription-form-form"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:38.856Z"
+}

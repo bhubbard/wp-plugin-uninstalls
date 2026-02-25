@@ -1,0 +1,17 @@
+{
+  "options": [
+    "3ov_ai_enabled",
+    "3ov_mp_networkWorker",
+    "3ov_ai_openApiKey",
+    "3ov_ai_allow",
+    "3ov_defaultVRM",
+    "3ov_defaultAvatar",
+    "3ov_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:07.319Z"
+}

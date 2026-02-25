@@ -1,0 +1,35 @@
+{
+  "options": [
+    "feed2post_options",
+    "feed2post_license_key",
+    "feed2post_notice",
+    "feed2post_lock",
+    "feed2post_log_file"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "feed2post_feed_posts_update_event",
+    "feed2post_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "fields",
+    "hide_not_imported_fields",
+    "feed_type",
+    "*_default",
+    "filters",
+    "style",
+    "post_type",
+    "crontab_enabled",
+    "crontab",
+    "cron_period",
+    "facebook_pages",
+    "linkedin_token",
+    "feed_id",
+    "posts_updated_at",
+    "posts_updated_at_end",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:27.784Z"
+}

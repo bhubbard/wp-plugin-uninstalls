@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wooss_option_enable",
+    "sendbox_data",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_currency",
+    "wooss_connection_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wooss_tracking_code",
+    "wooss_extra_fees"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:06.114Z"
+}

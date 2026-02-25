@@ -1,0 +1,34 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "r3d",
+    "real3dflipbook_capability",
+    "r3d_version",
+    "r3d_flush_rewrite_rules",
+    "r3d_autoload_disabled",
+    "real3dflipbook_global",
+    "real3dflipbooks_ids",
+    "real3dflipbook_*",
+    "r3d_posts_generated"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dflip_data",
+    "3dfb_data",
+    "flipbook_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:04.141Z"
+}

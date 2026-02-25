@@ -1,0 +1,13 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wc_settings_paypal_currency_converter_custom_currency'
+wp option delete 'wc_settings_paypal_currency_converter_custom_currency_symbol'
+wp option delete 'wc_settings_paypal_currency_converter_custom_currency_enable'
+wp option delete 'wc_settings_paypal_currency_converter_custom_currency_exchange_rate'
+wp option delete 'wc_settings_paypal_currency_converter_manual_exchange_rate'
+wp option delete 'wc_settings_paypal_currency_converter_exchange_rate_service'
+wp option delete 'wc_settings_paypal_currency_converter_supported_currencies'
+wp option delete 'wc_settings_paypal_currency_converter_exchange_rate_service_api_access_key'
+

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hcc_allowed_tags",
+    "hcc_encode_html",
+    "hcc_warning_message",
+    "hcc_force_links_target",
+    "hcc_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:50.624Z"
+}

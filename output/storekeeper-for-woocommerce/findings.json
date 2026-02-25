@@ -1,0 +1,57 @@
+{
+  "options": [
+    "edd_wopb_license_key",
+    "edd_wopb_license_status",
+    "edd_wopb_license_expire",
+    "default_product_cat",
+    "woocommerce_store_address",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "woocommerce_default_country",
+    "woocommerce_currency",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "sendgrid_from_name",
+    "sendgrid_from_email",
+    "wpseo_titles",
+    "woocommerce_manage_stock",
+    "*_settings",
+    "woocommerce_force_ssl_checkout",
+    "*_version"
+  ],
+  "transients": [
+    "wopb_helloBar"
+  ],
+  "cron_jobs": [
+    "sk_sync_paid_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wopb_builder_type",
+    "storekeeper_id",
+    "product_attribute_image",
+    "thumbnail_id",
+    "category_summary",
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_focus_keyword",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_metakeywords",
+    "storekeeper_role",
+    "category_description",
+    "category_image",
+    "menu_item_storekeeper_id",
+    "menu_storekeeper_id",
+    "storekeeper_sync_date",
+    "attribute_id_*",
+    "blocksy_taxonomy_meta_options",
+    "order",
+    "color_hex",
+    "original_url",
+    "cdn_url",
+    "is_cdn"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:41.776Z"
+}

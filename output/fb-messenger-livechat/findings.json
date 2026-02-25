@@ -1,0 +1,18 @@
+{
+  "options": [
+    "fbmsg_version",
+    "fbmsg_title",
+    "fbmsg_page",
+    "fbmsg_timeline",
+    "fbmsg_events",
+    "fbmsg_pos",
+    "fbmsg_lang",
+    "fbmsg_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:30.500Z"
+}

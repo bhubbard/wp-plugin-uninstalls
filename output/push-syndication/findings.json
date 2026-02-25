@@ -1,0 +1,28 @@
+{
+  "options": [
+    "push_syndicate_settings",
+    "syn_delete_error_sites"
+  ],
+  "transients": [
+    "syn_syndicate_lock"
+  ],
+  "cron_jobs": [
+    "syn_syndicate_content",
+    "syn_delete_content"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "syn_site_token",
+    "syn_site_id",
+    "syn_site_url",
+    "syn_site_username",
+    "syn_site_password",
+    "syn_transport_type",
+    "syn_site_enabled",
+    "_syn_selected_sitegroups",
+    "_syn_slave_post_states",
+    "_syn_old_sitegroups"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:06.223Z"
+}

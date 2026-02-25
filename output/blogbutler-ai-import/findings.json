@@ -1,0 +1,18 @@
+{
+  "options": [
+    "config",
+    "blogbutler_ai_config",
+    "blogbutler_ai_lastRunLog"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "blogbutler_ai_import_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "blogbutler_ai_picture_imported",
+    "blogbutler_ai_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:01.436Z"
+}

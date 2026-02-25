@@ -1,0 +1,19 @@
+{
+  "options": [
+    "platy_syncer_etsy_version",
+    "platy_etsy_default_etsy_shop"
+  ],
+  "transients": [
+    "platy_etsy_error_transient",
+    "platy_etsy_success_transient"
+  ],
+  "cron_jobs": [
+    "platy_etsy_stock_cron_hook",
+    "platy_etsy_clean_logs",
+    "platy_etsy_orders_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:41.525Z"
+}

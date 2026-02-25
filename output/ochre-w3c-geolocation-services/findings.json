@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ochregeo_rgeocode",
+    "ochregeo_opmode",
+    "ochregeo_globalactionjs",
+    "ochregeo_useypf",
+    "ochregeo_ypfappid",
+    "ochregeo_lastgeocodergc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ochregeo_action",
+    "ochregeo_actionp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:33.319Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cfp-topt",
+    "crp-opt",
+    "crp-nop",
+    "yhtmlc"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "related-cat",
+    "related-tag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:40.473Z"
+}

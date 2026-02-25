@@ -1,0 +1,17 @@
+{
+  "options": [
+    "freeusregionshtml5map_options",
+    "freeusregionshtml5map_goptions",
+    "freeusregionshtml5map_imported_map_key",
+    "freeusahtml5map_map_data",
+    "freeusahtml5map_nameColor",
+    "freeusahtml5map_state_info_*",
+    "freeusahtml5map_nameFontSize"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:49.709Z"
+}

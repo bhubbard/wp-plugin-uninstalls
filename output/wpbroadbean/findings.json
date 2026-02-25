@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wpbb_username",
+    "wpbb_password",
+    "wpbb_plugin_credit",
+    "wpbb_hide_job_data_output",
+    "wpbb_job_application_type",
+    "*_status",
+    "wpbroadbean_version",
+    "wpbroadbean_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "job_post_id",
+    "_wpbb_job_broadbean_application_email",
+    "_wpbb_job_broadbean_application_url",
+    "*salary_currency",
+    "*application_url",
+    "candidate_name",
+    "candidate_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:07.941Z"
+}

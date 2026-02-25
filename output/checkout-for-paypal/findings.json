@@ -1,0 +1,27 @@
+{
+  "options": [
+    "checkout_for_paypal_email_options",
+    "checkout_for_paypal_sk_auto_encoded",
+    "checkout_for_paypal_db_version",
+    "checkout_for_paypal_load_scripts_globally",
+    "checkout_for_paypal_locale",
+    "checkout_for_paypal_buyer_country",
+    "checkoutforpaypal_logfile_suffix",
+    "checkout_for_paypal_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_txn_id",
+    "_first_name",
+    "_last_name",
+    "_email",
+    "_mc_gross",
+    "_payment_status",
+    "_payment_data",
+    "checkout-for-paypal-custom-field"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:16.920Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "catpostfilter_enable_filter",
+    "catpostfilter_bg_color",
+    "catpostfilter_text_color",
+    "catpostfilter_default_view"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:49.501Z"
+}

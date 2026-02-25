@@ -1,0 +1,22 @@
+{
+  "options": [
+    "learndash_salesforce_settings",
+    "learndash_salesforce_access_token",
+    "learndash_salesforce_instance_url",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [
+    "learndash_salesforce_connection_status",
+    "*_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sfwd-courses",
+    "_wp_attachment_image_alt",
+    "_edit_last"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:56.926Z"
+}

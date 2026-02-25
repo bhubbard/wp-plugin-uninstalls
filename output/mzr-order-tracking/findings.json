@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mzr_shipping_providers",
+    "mzr_enable_order_tracking",
+    "mzr_enable_tracking_email",
+    "mzr_tracking_email_template",
+    "mzr_show_in_customer_account"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mzr_tracking_provider",
+    "_mzr_tracking_number",
+    "_mzr_date_shipped"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:29.178Z"
+}

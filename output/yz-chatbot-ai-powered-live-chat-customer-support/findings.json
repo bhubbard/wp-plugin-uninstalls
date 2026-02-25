@@ -1,0 +1,15 @@
+{
+  "options": [
+    "yz_chatbot_settings",
+    "yz_chatbot_version",
+    "yz_chatbot_activation_redirect"
+  ],
+  "transients": [
+    "yz_chatbot_tenant_verified"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:59.864Z"
+}

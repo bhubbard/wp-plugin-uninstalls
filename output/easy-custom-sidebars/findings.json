@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ecs_version",
+    "ecs_force_user_redirect",
+    "ecs_show_admin_pointer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sidebar_description",
+    "sidebar_replacement_id",
+    "sidebar_attachments",
+    "sidebar_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:57.352Z"
+}

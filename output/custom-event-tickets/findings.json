@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ecet_multiple_setting"
+  ],
+  "transients": [
+    "ecet_plugin_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tribe_tickets_list",
+    "_tribe_tickets_ar_iac",
+    "_EventStartDate",
+    "_EventEndDate",
+    "_ticket_start_date",
+    "_ticket_end_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:20.183Z"
+}

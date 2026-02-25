@@ -1,0 +1,20 @@
+{
+  "options": [
+    "nzmpnt_zoom_plan",
+    "nzmpnt_account_id",
+    "nzmpnt_client_id",
+    "nzmpnt_client_secret",
+    "nzmpnt_zoom_user_email",
+    "nzmpnt_wstart_time",
+    "nzmpnt_wend_time",
+    "nzmpnt_slot_duration",
+    "nzmpnt_zoom_timezone",
+    "nzmpnt_plugin_custom_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:38.871Z"
+}

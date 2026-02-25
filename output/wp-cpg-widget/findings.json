@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_cpg_plugin_db_default",
+    "wp_cpg_plugin_options",
+    "wp_cpg_widget_options",
+    "wp_cpg_plugin_db_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:44.895Z"
+}

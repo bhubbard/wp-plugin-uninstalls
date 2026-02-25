@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('radle_comment_system', 'radle_subreddit', 'radle_client_id', 'radle_client_secret', 'radle_share_events', 'radle_share_domain', 'radle_reddit_access_token', 'radle_reddit_refresh_token', 'radle_destination_type', 'radle_reddit_username', 'radle_show_comments_menu', 'radle_display_badges', 'radle_button_position', 'radle_show_powered_by', 'radle_default_post_type', 'radle_default_title_template', 'radle_default_content_template', 'radle_enable_rate_limit_monitoring', 'radle_rate_limit_data', 'radle_cache_duration', 'radle_comment_approval_filter', 'radle_max_depth_level', 'radle_max_siblings', 'radle_enable_search', 'radle_show_badges', 'radle_default_sort', 'radle_github_access_token', 'radle_site_id', 'radle_oauth_state');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_reddit_post_id', '_radle_hidden_comments', '_wp_attachment_image_alt', '_radle_comment_system_override');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_reddit_post_id', '_radle_hidden_comments', '_wp_attachment_image_alt', '_radle_comment_system_override');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_reddit_post_id', '_radle_hidden_comments', '_wp_attachment_image_alt', '_radle_comment_system_override');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_reddit_post_id', '_radle_hidden_comments', '_wp_attachment_image_alt', '_radle_comment_system_override');
+

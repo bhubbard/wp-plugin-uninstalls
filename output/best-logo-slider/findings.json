@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "wpb_bls_logo_class"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:49.570Z"
+}

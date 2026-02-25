@@ -1,0 +1,40 @@
+{
+  "options": [
+    "afb2b_shipping",
+    "woocommerce_default_country",
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_flagship_shipping_method_settings",
+    "woocommerce_flat_rate_settings",
+    "woocommerce_flat_rate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "flagship_shipping_shipment_tracking_number",
+    "flagship_shipping_courier_name",
+    "order_ids",
+    "id",
+    "confirmation",
+    "boxes",
+    "weight",
+    "courier",
+    "pickup_date",
+    "from",
+    "until",
+    "cancelled",
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_sku",
+    "_manage_stock",
+    "_tax_status",
+    "_downloadable",
+    "_virtual",
+    "_visibility",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:44.585Z"
+}

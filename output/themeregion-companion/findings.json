@@ -1,0 +1,21 @@
+{
+  "options": [
+    "csf_demo_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors",
+    "_comment_like_count",
+    "_post_like_count",
+    "_user_comment_liked",
+    "_user_liked",
+    "_user_comment_IP",
+    "_user_IP",
+    "_comment_like_modified",
+    "_post_like_modified"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:29.482Z"
+}

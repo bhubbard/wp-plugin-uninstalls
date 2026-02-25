@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpseo_edit_title",
+    "_aioseop_title",
+    "_wpseo_edit_description",
+    "_aioseop_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:53.398Z"
+}

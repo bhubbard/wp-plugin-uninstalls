@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pll_filter_content",
+    "locale"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:23.107Z"
+}

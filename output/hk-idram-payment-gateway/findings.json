@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hkd_idram_version_option",
+    "woocommerce_hk-idram-payment-gateway_settings",
+    "language_payment_idram",
+    "hkd_idram_checkout_id",
+    "hkd_check_activation_idram"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cronCheckOrder"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:18.643Z"
+}

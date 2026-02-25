@@ -1,0 +1,17 @@
+{
+  "options": [
+    "go_night_pro_images",
+    "go_night_pro_advanced",
+    "go_night_pro_button",
+    "go_night_pro_colors",
+    "go_night_pro_customcss",
+    "go_night_pro_general",
+    "go_night_pro_typography"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:20.721Z"
+}

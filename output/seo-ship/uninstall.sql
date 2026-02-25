@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('floating_seo_ship_meta_title', 'floating_seo_ship_meta_description', 'floating_seo_ship_noindex', 'floating_seo_ship_nofollow', 'floating_seo_ship_canonical', 'woocommerce_shop_page_id', '_floating_seo_ship_meta_title', '_floating_seo_ship_meta_description', '_floating_seo_ship_meta_keywords', '_floating_seo_ship_meta_noindex', '_floating_seo_ship_meta_nofollow', '_floating_seo_ship_meta_canonical');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_floating_seo_ship_post_meta_title', '_floating_seo_ship_post_meta_description', '_floating_seo_ship_post_meta_noindex', '_floating_seo_ship_post_meta_nofollow', '_floating_seo_ship_post_meta_canonical', '_floating_seo_ship_meta_title', '_floating_seo_ship_meta_description', '_floating_seo_ship_meta_noindex', '_floating_seo_ship_meta_nofollow', '_floating_seo_ship_meta_canonical');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_floating_seo_ship_post_meta_title', '_floating_seo_ship_post_meta_description', '_floating_seo_ship_post_meta_noindex', '_floating_seo_ship_post_meta_nofollow', '_floating_seo_ship_post_meta_canonical', '_floating_seo_ship_meta_title', '_floating_seo_ship_meta_description', '_floating_seo_ship_meta_noindex', '_floating_seo_ship_meta_nofollow', '_floating_seo_ship_meta_canonical');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_floating_seo_ship_post_meta_title', '_floating_seo_ship_post_meta_description', '_floating_seo_ship_post_meta_noindex', '_floating_seo_ship_post_meta_nofollow', '_floating_seo_ship_post_meta_canonical', '_floating_seo_ship_meta_title', '_floating_seo_ship_meta_description', '_floating_seo_ship_meta_noindex', '_floating_seo_ship_meta_nofollow', '_floating_seo_ship_meta_canonical');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_floating_seo_ship_post_meta_title', '_floating_seo_ship_post_meta_description', '_floating_seo_ship_post_meta_noindex', '_floating_seo_ship_post_meta_nofollow', '_floating_seo_ship_post_meta_canonical', '_floating_seo_ship_meta_title', '_floating_seo_ship_meta_description', '_floating_seo_ship_meta_noindex', '_floating_seo_ship_meta_nofollow', '_floating_seo_ship_meta_canonical');
+

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "api_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "branchname",
+    "is_ncm",
+    "vendor_id",
+    "insert_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:03.188Z"
+}

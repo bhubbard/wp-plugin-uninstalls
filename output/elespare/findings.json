@@ -1,0 +1,39 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "woocommerce_shop_page_id",
+    "elementor_maintenance_mode_mode",
+    "elementor_maintenance_mode_template_id",
+    "elespare_upgrade_notice_start_time"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ele_hf_post",
+    "ele_hf_ex_post",
+    "ele_hf_no_display",
+    "ele_hf_ex_post_type",
+    "ele_hf_type",
+    "ele_hf_display",
+    "ele_hf_post_type",
+    "*_notice_dismiss_v2",
+    "*_notice_dismiss_temporary_v2",
+    "elespare_upgrade_notice_dismiss_temporary_start_time_v2",
+    "elespare_upgrade_notice_dismiss_v2"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:53.219Z"
+}

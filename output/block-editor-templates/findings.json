@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_template_for_posttype",
+    "_template_for_posttype_archive",
+    "_template_for_taxonomy_archive"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:32.855Z"
+}

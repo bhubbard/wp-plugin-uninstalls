@@ -1,0 +1,14 @@
+{
+  "options": [
+    "eca_socialnotify_cf7_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_socialnotify_settings",
+    "_socialnotify_error_logs"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:10.600Z"
+}

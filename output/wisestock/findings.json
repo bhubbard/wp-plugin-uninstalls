@@ -1,0 +1,33 @@
+{
+  "options": [
+    "wisestock_options",
+    "wisestock_installation_completed",
+    "wisestock_activation_status",
+    "wisestock_activation_date",
+    "wisestock_activation_error",
+    "wisestock_db_version",
+    "wisestock_installation_date",
+    "wisestock_demo_data_version"
+  ],
+  "transients": [
+    "wisestock_all_suppliers",
+    "wisestock_notifications_all",
+    "wisestock_notifications_critical",
+    "wisestock_notifications_warning",
+    "wisestock_notifications_mild",
+    "wisestock_velocity_cache",
+    "wisestock_notifications_cache",
+    "wisestock_suppliers_cache"
+  ],
+  "cron_jobs": [
+    "wisestock_daily_calculations",
+    "wisestock_notification_check",
+    "wisestock_hourly_notifications"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wisestock_default_supplier"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:40.554Z"
+}

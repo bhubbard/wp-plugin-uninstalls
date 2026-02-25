@@ -1,0 +1,20 @@
+{
+  "options": [
+    "linguise_install_time",
+    "linguise_options",
+    "linguise_version",
+    "linguise_feedback_notify_dismissed"
+  ],
+  "transients": [
+    "linguise_multisite_subdomain"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_linguise_menu_item",
+    "linguise_language",
+    "linguise_register_language"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:44.692Z"
+}

@@ -1,0 +1,61 @@
+{
+  "options": [
+    "wlpe_settings",
+    "wlr_expire_point_active",
+    "active_sitewide_plugins",
+    "wlr_active_addons",
+    "recently_activated",
+    "wlr_new_rewards_section_enabled",
+    "wlr_is_on_boarding_completed",
+    "wlr_settings",
+    "wlr_point_ledger_complete",
+    "wlr_update_ledger_offset",
+    "woocommerce_myaccount_page_id",
+    "wlr_birthday_email_template",
+    "wlr_earn_point_email_template",
+    "wlr_earn_reward_email_template",
+    "wlr_expire_email_template",
+    "wlr_new_level_email_template",
+    "wlr_expire_point_email_template",
+    "woocommerce_prices_include_tax",
+    "wlr_version"
+  ],
+  "transients": [
+    "wlr_remote_addons_list",
+    "wlr_remote_recommendation_list"
+  ],
+  "cron_jobs": [
+    "wlr_point_expire_email",
+    "wlr_change_point_expire_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "expiry_date",
+    "date_expires",
+    "customer_email",
+    "usage_count",
+    "_used_by",
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "usage_limit_per_user",
+    "limit_usage_to_x_items",
+    "free_shipping",
+    "product_categories",
+    "exclude_product_categories",
+    "exclude_sale_items",
+    "minimum_amount",
+    "maximum_amount",
+    "is_wployalty_coupon",
+    "wlr_action_type",
+    "wlr_reward_id",
+    "wlr_user_reward_id",
+    "wlr_campaign_id",
+    "wlr_display_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:30.902Z"
+}

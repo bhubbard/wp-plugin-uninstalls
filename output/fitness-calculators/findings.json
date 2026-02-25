@@ -1,0 +1,25 @@
+{
+  "options": [
+    "fcw_heading",
+    "fcw_calculator_type",
+    "fcw_theme_color",
+    "fcp_heading",
+    "fcp_metric_only",
+    "fcp_theme_color",
+    "fcbmi_heading",
+    "fcbmi_metric_only",
+    "fcbmi_theme_color",
+    "fcbfc_heading",
+    "fcbfc_metric_only",
+    "fcbfc_theme_color",
+    "fccc_heading",
+    "fccc_metric_only",
+    "fccc_theme_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:55.422Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "event_group_id",
+    "_unique_id",
+    "_EventCurrencySymbol",
+    "_tribe_ticket_header",
+    "_EventOrigin",
+    "_EventCurrencyPosition",
+    "_thumbnail_id",
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:56.559Z"
+}

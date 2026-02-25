@@ -1,0 +1,14 @@
+{
+  "options": [
+    "swifch_settings",
+    "active_sitewide_plugins",
+    "swifch_version",
+    "swifch_installed_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:09.818Z"
+}

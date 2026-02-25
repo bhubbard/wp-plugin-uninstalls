@@ -1,0 +1,13 @@
+{
+  "options": [
+    "tsseph_options",
+    "tsseph_bonus_options",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:51.090Z"
+}

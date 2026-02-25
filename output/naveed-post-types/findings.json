@@ -1,0 +1,15 @@
+{
+  "options": [
+    "npt_post_type_count",
+    "npt_taxonomy_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "npt_post_type",
+    "npt_taxonomy"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:43.773Z"
+}

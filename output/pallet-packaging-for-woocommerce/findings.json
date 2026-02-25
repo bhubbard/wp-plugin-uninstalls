@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pallet",
+    "en_trial_activation_pallet",
+    "subscription_packages_response_for_pallet",
+    "en_pallet_packaging_options_plans",
+    "suspend_automatic_detection_of_pallets",
+    "en_pallet_packaging_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_en_sao_pallet",
+    "_en_vrf_pallet",
+    "_en_sam_pallet"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:39.692Z"
+}

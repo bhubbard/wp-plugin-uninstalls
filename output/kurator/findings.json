@@ -1,0 +1,23 @@
+{
+  "options": [
+    "kurator-box-analytic",
+    "kurator-box-color-btn",
+    "kurator-box-color-txt",
+    "kurator-box-font-size",
+    "kurator-box-border-radius",
+    "kurator-box-color-btn-hover",
+    "kurator-box-color-txt-hover",
+    "kurator-box-color-btn-important",
+    "kurator-box-color-txt-important",
+    "kurator-box-font-size-important",
+    "kurator-box-border-radius-important",
+    "kurator-box-color-btn-hover-important",
+    "kurator-box-color-txt-hover-important"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:05.990Z"
+}

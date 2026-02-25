@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "postmen_api_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "postmen_wp_api_key",
+    "_aftership_tracking_provider",
+    "_aftership_tracking_number",
+    "is_customer_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:22.973Z"
+}

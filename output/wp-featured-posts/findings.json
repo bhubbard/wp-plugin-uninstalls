@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wp_featured_posts_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "testimonial_featured"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:28.491Z"
+}

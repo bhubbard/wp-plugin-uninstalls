@@ -1,0 +1,19 @@
+{
+  "options": [
+    "index_algolia_glob",
+    "index_algolia_*",
+    "algolia_indexing_indices",
+    "index_algolia_application_id",
+    "index_algolia_search_api_key",
+    "index_algolia_write_api_key",
+    "index_algolia_index_prefix",
+    "index_algolia_js_vars",
+    "index_algolia_indices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:20.362Z"
+}

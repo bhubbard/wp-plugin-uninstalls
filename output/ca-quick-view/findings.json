@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bizzplugin_webhook_*",
+    "bizzplugin_webhook_secret_*",
+    "bizzplugin_webhooks_*",
+    "bizzview_settings"
+  ],
+  "transients": [
+    "codersaiful_browse_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:58.200Z"
+}

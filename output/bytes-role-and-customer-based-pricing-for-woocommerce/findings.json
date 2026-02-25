@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "bytes_role_operation_msg"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bytes_role_based_pricing_rules",
+    "_bytes__customer_based_pricing_rules"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:03.825Z"
+}

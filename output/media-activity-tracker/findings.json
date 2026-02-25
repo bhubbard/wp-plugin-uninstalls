@@ -1,0 +1,23 @@
+{
+  "options": [
+    "mediactr_treshold",
+    "mediactr_posttypes",
+    "mediactr_posttype_activities",
+    "mediactr_login_points",
+    "mediactr_streaklevel",
+    "mediactr_badge_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gp_ld_cert_id",
+    "_gp_ld_cert_activity",
+    "_gp_ld_cert_threshold",
+    "cpd_activity",
+    "cpd_reading_time",
+    "ld_achievements_notifications"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:22.160Z"
+}

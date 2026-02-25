@@ -1,0 +1,19 @@
+{
+  "options": [
+    "a1tools_cache_expiry",
+    "a1tools_form_enabled",
+    "a1tools_form_secret",
+    "a1tools_form_board_id",
+    "a1tools_form_group_id"
+  ],
+  "transients": [
+    "a1tools_site_variables"
+  ],
+  "cron_jobs": [
+    "a1tools_cache_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:09:36.339Z"
+}

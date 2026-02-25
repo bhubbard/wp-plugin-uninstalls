@@ -1,0 +1,14 @@
+{
+  "options": [
+    "a1post_u",
+    "a1post_p",
+    "a1post_lbl",
+    "a1post_st"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:19.131Z"
+}

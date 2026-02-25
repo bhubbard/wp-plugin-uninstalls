@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'punchout_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'punchout_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'punchout_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'punchout_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'b2bwhs_customergroup'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'b2bwhs_customergroup'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'b2bwhs_customergroup'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'b2bwhs_customergroup'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'b2bwhs_b2buser'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'b2bwhs_b2buser'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'b2bwhs_b2buser'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'b2bwhs_b2buser'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'b2bking_customergroup'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'b2bking_customergroup'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'b2bking_customergroup'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'b2bking_customergroup'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'b2bking_b2buser'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'b2bking_b2buser'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'b2bking_b2buser'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'b2bking_b2buser'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'po_number'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'po_number'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'po_number'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'po_number'"

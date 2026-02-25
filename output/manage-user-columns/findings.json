@@ -1,0 +1,12 @@
+{
+  "options": [
+    "muc_custom_cols",
+    "muc_def_cols"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:20.014Z"
+}

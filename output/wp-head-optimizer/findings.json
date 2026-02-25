@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_wpho_saved_values",
+    "wpho_activated_on",
+    "wpho_deactivated_on"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:51.580Z"
+}

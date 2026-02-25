@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "lgx_counter_plugin_clicked",
+    "lgx_counter_pro_active"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_lgxmilestonemeta",
+    "_save_meta_lgx_counter_generator"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:08.365Z"
+}

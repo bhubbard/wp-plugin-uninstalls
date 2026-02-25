@@ -1,0 +1,25 @@
+{
+  "options": [
+    "thmaf_since",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thmaf_review_skipped",
+    "thmaf_review_skipped_time",
+    "thmaf_review_dismissed",
+    "thmaf_review_dismissed_time",
+    "thmaf_reviewed",
+    "thmaf_reviewed_time",
+    "thmaf_review_dismissed_",
+    "thmaf_deactivation_snooze",
+    "shipping_country",
+    "thwma_custom_address",
+    "_woocommerce_persistent_cart_*",
+    "_woocommerce_load_saved_cart_after_login"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:30.333Z"
+}

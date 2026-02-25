@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wcss_options",
+    "wcss_enable_shipping_dropdown",
+    "wcss_eta_map",
+    "wcss_pro_options",
+    "wcss_license_key",
+    "wcss_license_status",
+    "wcss_license_activated_on",
+    "wcss_license_response",
+    "active_sitewide_plugins",
+    "woocommerce_ship_to_destination",
+    "woocommerce_enable_order_comments"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wcss_license_cron_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:15.303Z"
+}

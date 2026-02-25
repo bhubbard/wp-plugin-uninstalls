@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tbswebpressor_webp_quality",
+    "tbswebpressor_convert_on_upload",
+    "tbswebpressor_compression_quality",
+    "tbswebpressor_convert_to_webp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tbswebpressor_webp_path"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:43.289Z"
+}

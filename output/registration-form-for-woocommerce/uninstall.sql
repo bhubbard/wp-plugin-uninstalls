@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('_tgwcfb_form_id', '_tgwcfb_captcha_type', '_tgwcfb_site_key', '_tgwcfb_secret_key', '_tgwcfb_recaptcha_v3_site_key', '_tgwcfb_recaptcha_v3_secrete_key', '_tgwcfb_hcaptcha_site_key', '_tgwcfb_hcaptcha_secrete_key', '_tgwcfb_checkout_form_id', '_tgwcfb_checkout_fields', '_tgwcfb_admin_email_settings', 'tgwcfb_version', '_tgwcfb_default_form_id', 'woocommerce_enable_myaccount_registration', 'woocommerce_registration_generate_username', 'woocommerce_registration_generate_password', 'woocommerce_email_footer_text');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('user_status', 'tgwcfb_form_id', '_tgwcfb_user_approval', 'tgwcfb_confirm_email', 'tgwcfb_confirm_email_token', '_tgwcfb_recaptcha_v2', '_tgwcfb_recaptcha_v3', '_tgwcfb_hcaptcha', '_tgwcfb_enable_default_user_role', '_tgwcfb_default_user_role', '_tgwcfb_account_created_message', '_tgwcfb_redirect_url', '_tgwcfb_submit_btn_text', 'profile_picture_url');
+DELETE FROM wp_usermeta WHERE meta_key IN ('user_status', 'tgwcfb_form_id', '_tgwcfb_user_approval', 'tgwcfb_confirm_email', 'tgwcfb_confirm_email_token', '_tgwcfb_recaptcha_v2', '_tgwcfb_recaptcha_v3', '_tgwcfb_hcaptcha', '_tgwcfb_enable_default_user_role', '_tgwcfb_default_user_role', '_tgwcfb_account_created_message', '_tgwcfb_redirect_url', '_tgwcfb_submit_btn_text', 'profile_picture_url');
+DELETE FROM wp_termmeta WHERE meta_key IN ('user_status', 'tgwcfb_form_id', '_tgwcfb_user_approval', 'tgwcfb_confirm_email', 'tgwcfb_confirm_email_token', '_tgwcfb_recaptcha_v2', '_tgwcfb_recaptcha_v3', '_tgwcfb_hcaptcha', '_tgwcfb_enable_default_user_role', '_tgwcfb_default_user_role', '_tgwcfb_account_created_message', '_tgwcfb_redirect_url', '_tgwcfb_submit_btn_text', 'profile_picture_url');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('user_status', 'tgwcfb_form_id', '_tgwcfb_user_approval', 'tgwcfb_confirm_email', 'tgwcfb_confirm_email_token', '_tgwcfb_recaptcha_v2', '_tgwcfb_recaptcha_v3', '_tgwcfb_hcaptcha', '_tgwcfb_enable_default_user_role', '_tgwcfb_default_user_role', '_tgwcfb_account_created_message', '_tgwcfb_redirect_url', '_tgwcfb_submit_btn_text', 'profile_picture_url');
+

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cwc_widget_options",
+    "cwc_review_status",
+    "cwc_usage_count",
+    "cwc_activation_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:32.219Z"
+}

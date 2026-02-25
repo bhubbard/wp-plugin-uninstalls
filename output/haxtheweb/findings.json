@@ -1,0 +1,20 @@
+{
+  "options": [
+    "haxtheweb_location",
+    "haxtheweb_location_other",
+    "haxtheweb_blox",
+    "haxtheweb_stax",
+    "haxtheweb_pk",
+    "haxtheweb_autoload_element_list",
+    "*_key",
+    "haxtheweb_local_build_file"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_my_file_upload"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:59.124Z"
+}

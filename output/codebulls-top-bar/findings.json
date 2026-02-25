@@ -1,0 +1,12 @@
+{
+  "options": [
+    "options_cb_top_bar",
+    "options_cb_top_bar_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:57.524Z"
+}

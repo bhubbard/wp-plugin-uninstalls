@@ -1,0 +1,23 @@
+{
+  "options": [
+    "journify_wc_track_purchase",
+    "journify_wc_track_begin_checkout",
+    "journify_wc_track_add_to_cart",
+    "journify_wc_track_view_item",
+    "journify_wc_track_view_item_list",
+    "journify_wc_track_search",
+    "journify_wc_track_add_payment_info",
+    "journify_wc_track_login",
+    "journify_wc_track_sign_up",
+    "journify_wc_write_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "journify_track_login",
+    "journify_track_sign_up"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:54.010Z"
+}

@@ -1,0 +1,37 @@
+{
+  "options": [
+    "qqworld-passport-modules",
+    "qqworld-passport-avatar-priority",
+    "qqworld-passport-automatic-register",
+    "qqworld-passport-module-qq",
+    "qqworld-passport-module-wechat",
+    "qqworld-passport-module-weibo",
+    "qqworld-passport-module-baidu",
+    "qqworld-passport-module-xiaomi",
+    "qqworld-passport-module-taobao",
+    "qqworld-passport-module-alipay",
+    "qqworld-passport-module-facebook",
+    "qqworld-passport-module-twitter",
+    "qqworld-passport-module-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "QQWorld Passport Alipay User ID",
+    "QQWorld Passport Avatar",
+    "QQWorld Passport Baidu Openid",
+    "QQWorld Passport Facebook Openid",
+    "QQWorld Passport Google Openid",
+    "QQWorld Passport Line User ID",
+    "QQWorld Passport QQ Openid",
+    "QQWorld Passport Taobao User ID",
+    "QQWorld Passport Twitter Openid",
+    "QQWorld Passport Wechat Openid",
+    "QQWorld Passport Wechat Unionid",
+    "QQWorld Passport Weibo Uid",
+    "QQWorld Passport Xiaomi Openid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:44.141Z"
+}

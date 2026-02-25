@@ -1,0 +1,20 @@
+{
+  "options": [
+    "dsfse_default_rules_created"
+  ],
+  "transients": [
+    "dsfse_plugin_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dsfse_end_date",
+    "dsfse_rule_status",
+    "dsfse_target_page",
+    "dsfse_start_date",
+    "dsfse_is_default_rule",
+    "dsfse_occasion"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:02.561Z"
+}

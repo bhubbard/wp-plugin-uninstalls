@@ -1,0 +1,13 @@
+{
+  "options": [
+    "vwriter_guest_post"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_show_vwriter_rewrite_meta_value_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:26.992Z"
+}

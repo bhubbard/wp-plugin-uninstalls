@@ -1,0 +1,14 @@
+{
+  "options": [
+    "baqend"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cron_revalidate_html",
+    "cron_update_speed_kit"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:24.502Z"
+}

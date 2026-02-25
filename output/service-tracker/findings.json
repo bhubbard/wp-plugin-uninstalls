@@ -1,0 +1,24 @@
+{
+  "options": [
+    "custom_roles_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "service_is_work_complete",
+    "service_additional_notes",
+    "service_customer",
+    "customer_service_phone",
+    "customer_service_address",
+    "service_assigned_to",
+    "technician_service_phone",
+    "service_booked_on",
+    "service_booked_on_time_hr",
+    "service_booked_on_time_min",
+    "service_latitude",
+    "service_longitude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:50.690Z"
+}

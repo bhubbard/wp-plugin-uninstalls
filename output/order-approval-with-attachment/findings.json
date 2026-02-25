@@ -1,0 +1,19 @@
+{
+  "options": [
+    "sg_del_attachment",
+    "sg_enable_order_approval",
+    "sg_enable_order_edit",
+    "sg_attach_enable_order_approval",
+    "sg_attach_label",
+    "sg_attach_upload_label",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sg_product_attach_enable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:37.925Z"
+}

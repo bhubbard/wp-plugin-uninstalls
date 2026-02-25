@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tsep_post_types",
+    "tsep_link_label",
+    "tsep_render_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_external_permalink",
+    "_external_permalink_new"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:48.927Z"
+}

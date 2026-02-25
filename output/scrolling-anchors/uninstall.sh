@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'enable_scanc_aggressive'
+wp option delete 'scanc_speed'
+wp option delete 'scanc_offset'
+wp option delete 'scanc_easing'
+wp option delete 'scanc_exclude_begin_1'
+wp option delete 'scanc_exclude_begin_2'
+wp option delete 'scanc_exclude_begin_3'
+wp option delete 'scanc_exclude_begin_4'
+wp option delete 'scanc_exclude_begin_5'
+wp option delete 'scanc_exclude_match_1'
+wp option delete 'scanc_exclude_match_2'
+wp option delete 'scanc_exclude_match_3'
+wp option delete 'scanc_exclude_match_4'
+wp option delete 'scanc_exclude_match_5'
+wp option delete 'essl_speed'
+wp option delete 'essl_offset'
+wp option delete 'essl_easing'
+wp option delete 'essl_exclude_begin_1'
+wp option delete 'essl_exclude_begin_2'
+wp option delete 'essl_exclude_begin_3'
+wp option delete 'essl_exclude_begin_4'
+wp option delete 'essl_exclude_begin_5'
+wp option delete 'essl_exclude_match_1'
+wp option delete 'essl_exclude_match_2'
+wp option delete 'essl_exclude_match_3'
+wp option delete 'essl_exclude_match_4'
+wp option delete 'essl_exclude_match_5'
+wp option delete 'enable_essl_aggressive'
+

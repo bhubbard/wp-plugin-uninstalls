@@ -1,0 +1,73 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'wpr_default_signup_form'
+wp option delete 'wpr_is_installed'
+wp option delete 'wpr_user_msg'
+wp option delete 'wpr_migrate_controle'
+wp option delete 'wpregistration_meta'
+wp option delete 'wpr_icon_cache_fonticons'
+wp option delete 'wpr_core_pages'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_account_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_account_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_account_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_account_status'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_fields'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_fields'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_fields'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_fields'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_assign_user_role'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_assign_user_role'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_assign_user_role'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_assign_user_role'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_form_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_form_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_form_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_form_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_password'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_password'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_password'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_password'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_last_login'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_last_login'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_last_login'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_last_login'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wpr_core'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wpr_core'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wpr_core'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wpr_core'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_wpr_wpml_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_wpr_wpml_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_wpr_wpml_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_wpr_wpml_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_icl_lang_duplicate_of'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_icl_lang_duplicate_of'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_icl_lang_duplicate_of'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_icl_lang_duplicate_of'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_last_page_visit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_last_page_visit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_last_page_visit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_last_page_visit'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_email_key'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_email_key'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_email_key'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_email_key'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_member_restrict'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_member_restrict'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_member_restrict'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_member_restrict'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_role_restrict'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_role_restrict'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_role_restrict'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_role_restrict'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'wpr_restrict_msg'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'wpr_restrict_msg'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'wpr_restrict_msg'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'wpr_restrict_msg'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wpr_wpml_user'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wpr_wpml_user'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wpr_wpml_user'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wpr_wpml_user'"

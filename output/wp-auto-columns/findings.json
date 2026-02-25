@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wp_auto_columns_split_style",
+    "wp_auto_columns_line_height",
+    "wp_auto_columns_tags_headers",
+    "wp_auto_columns_tags_splittable",
+    "wp_auto_columns_height_modifiers"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:54.862Z"
+}

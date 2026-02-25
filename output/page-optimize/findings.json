@@ -1,0 +1,15 @@
+{
+  "options": [
+    "page_optimize-js",
+    "page_optimize-load-mode",
+    "page_optimize-js-exclude",
+    "page_optimize-css",
+    "page_optimize-css-exclude"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:11.231Z"
+}

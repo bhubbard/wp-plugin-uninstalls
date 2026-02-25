@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_payaza_settings",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_payaza_txn_ref",
+    "_wc_payaza_save_card"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:18.101Z"
+}

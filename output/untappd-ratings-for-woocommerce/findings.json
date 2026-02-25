@@ -1,0 +1,39 @@
+{
+  "options": [
+    "urwc_map_scid_*",
+    "urwc_map_max_checkins_*",
+    "urwc_map_show_infowindow_disclaimer",
+    "urwc_map_show_ratings_to_admin_only",
+    "urwc_map_add_product_link",
+    "urwc_map_cache_is_working",
+    "*_keys",
+    "urwc_cache_time",
+    "urwc_ratelimit_remaining",
+    "urwc_client_id",
+    "urwc_client_secret",
+    "urwc_api_url",
+    "urwc_api_useragent",
+    "urwc_show_logo",
+    "urwc_ratings_enabled",
+    "urwc_ratings_sort_enabled",
+    "urwc_ratings_show_total",
+    "urwc_ratings_show_text",
+    "urwc_ratings_add_to_structured_data",
+    "urwc_ratings_structured_data_comments_only"
+  ],
+  "transients": [
+    "urwc_ratelimited"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_urwc_beer_id",
+    "_urwc_beer_name",
+    "_urwc_last_updated",
+    "_urwc_beer_slug",
+    "_urwc_rating_count",
+    "_urwc_average_rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:58.711Z"
+}

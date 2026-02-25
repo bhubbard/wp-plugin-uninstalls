@@ -1,0 +1,30 @@
+{
+  "options": [
+    "algolia_autocomplete_enabled",
+    "algolia_autocomplete_debounce",
+    "algolia_autocomplete_config",
+    "algolia_override_native_search",
+    "algolia_instantsearch_template_version",
+    "algolia_application_id",
+    "algolia_search_api_key",
+    "algolia_api_key",
+    "algolia_index_name_prefix",
+    "algolia_powered_by_enabled",
+    "algolia_insights_enabled",
+    "algolia_synced_indices_ids",
+    "algolia_api_is_reachable",
+    "algolia_pmxi_page"
+  ],
+  "transients": [
+    "wp_algolia_child_posts_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_wp_attachment_metadata",
+    "*_records_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:35.918Z"
+}

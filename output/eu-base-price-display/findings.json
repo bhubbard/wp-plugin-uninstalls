@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "eubaprdi_installed",
+    "eubaprdi_version",
+    "eubaprdi_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eubaprdi_override_global",
+    "_eubaprdi_display_unit",
+    "_eubaprdi_custom_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:29.365Z"
+}
