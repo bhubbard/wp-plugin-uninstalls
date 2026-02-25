@@ -1,0 +1,22 @@
+{
+  "options": [
+    "_cbox_current_package",
+    "_cbox_revision_date",
+    "_cbox_theme_activated",
+    "recently_activated",
+    "cboxol_ver",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins",
+    "cbox_deactivate_cascade",
+    "_bp_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show_cbox_welcome_panel"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:27.832Z"
+}

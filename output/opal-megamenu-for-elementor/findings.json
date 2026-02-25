@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "osf_megamenu_item_data",
+    "opal_elementor_post_name",
+    "opal_elementor_post_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:40.691Z"
+}

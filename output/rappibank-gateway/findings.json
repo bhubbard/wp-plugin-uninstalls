@@ -1,0 +1,14 @@
+{
+  "options": [
+    "rppbr_api_id",
+    "rppbr_api_key",
+    "woocommerce_version",
+    "rppbr_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:37.095Z"
+}

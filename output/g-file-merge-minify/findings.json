@@ -1,0 +1,20 @@
+{
+  "options": [
+    "exclude_script",
+    "merge_all_script_files",
+    "minify_script_file",
+    "script_exclusion_status",
+    "script_files_in_the_site",
+    "exclude_style",
+    "merge_all_style_files",
+    "minify_style_file",
+    "style_exclusion_status",
+    "style_files_in_the_site"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:18.650Z"
+}

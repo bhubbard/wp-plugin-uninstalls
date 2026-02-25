@@ -1,0 +1,32 @@
+{
+  "options": [
+    "gathercontent_version",
+    "*_api_url",
+    "*_api_key",
+    "*_saved_settings",
+    "gc-api-updated",
+    "gathercontent_importer",
+    "active_sitewide_plugins",
+    "gathercontent_transients",
+    "gc_post_types"
+  ],
+  "transients": [
+    "gathercontent_importer_custom_field_keys"
+  ],
+  "cron_jobs": [
+    "gc_associate_hierarchy"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_gc_mapped_item_id",
+    "_gc_mapping_id",
+    "_gc_mapped_meta",
+    "dismissed_wp_pointers",
+    "_gc_account",
+    "_gc_project",
+    "_gc_template",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:10.968Z"
+}

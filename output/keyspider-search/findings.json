@@ -1,0 +1,13 @@
+{
+  "options": [
+    "keyspider_organization_id",
+    "keyspider_api_key",
+    "keyspider_search_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:41.334Z"
+}

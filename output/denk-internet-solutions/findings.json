@@ -1,0 +1,31 @@
+{
+  "options": [
+    "__denkis_token",
+    "__denkis_first_import",
+    "__denkis_last_run",
+    "__denkis_wp_user",
+    "__denkis_last_import",
+    "__denkis_modules",
+    "__denkis_wfts",
+    "denkis_fields",
+    "__denkis_slug",
+    "__denkis_last_update_timestamp_news",
+    "__denkis_last_update_timestamp_content",
+    "__denkis_last_update_timestamp_qa",
+    "__denkis_last_update_timestamp_product",
+    "__denkis_last_update_timestamp_tip",
+    "__denkis_mix",
+    "__denkis_update_interval"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ID_original",
+    "_thumbnail_id",
+    "_is_custom",
+    "related_posts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:34.436Z"
+}

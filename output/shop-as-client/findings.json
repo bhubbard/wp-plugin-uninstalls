@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_registration_generate_username"
+  ],
+  "transients": [
+    "ptwoo_simple_order_approval_nag"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:03.960Z"
+}

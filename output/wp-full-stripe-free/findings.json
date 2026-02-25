@@ -1,0 +1,47 @@
+{
+  "options": [
+    "*_install",
+    "*_license_data",
+    "wpfp_user_v1",
+    "fullstripe_options_f",
+    "fullstripe_options",
+    "*_license_status",
+    "*_license_plan",
+    "*_failed_checks",
+    "*_logger_flag",
+    "themeisle_sdk_notifications",
+    "otter_reference_key",
+    "optimole_reference_key",
+    "rop_reference_key",
+    "neve_reference_key",
+    "hyve_reference_key",
+    "wp_full_pay_reference_key",
+    "feedzy_reference_key",
+    "themeisle_sdk_promotions_otter",
+    "*_version",
+    "*_license"
+  ],
+  "transients": [
+    "wpfs_transaction_volume_notice_check",
+    "ti_plugin_info_*",
+    "themeisle_sdk_cache_token",
+    "themeisle_sdk_feed_items",
+    "themeisle_sdk_products",
+    "*act_err",
+    "*_license_data",
+    "tsk_attachment_count",
+    "tsk_posts_count",
+    "ti_theme_info_*",
+    "update_plugins",
+    "*_warning_rollback",
+    "update_themes",
+    "ti_sdk_pause_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "themeisle_sdk_dismissed_notice_black_friday"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:54.880Z"
+}

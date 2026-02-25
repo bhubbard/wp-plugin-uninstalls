@@ -1,0 +1,38 @@
+{
+  "options": [
+    "discontinued_show_in_catalog",
+    "discontinued_greyscale_effect",
+    "discontinued_enable_custom_message",
+    "discontinued_global_message",
+    "discontinued_global_message_border_width",
+    "discontinued_global_message_border_style",
+    "discontinued_global_message_border_color",
+    "discontinued_global_message_border_radius",
+    "discontinued_global_text_color",
+    "discontinued_global_background_color",
+    "discontinued_restore_to_outofstock",
+    "excluded_categories",
+    "dpssw_latest_popup_sale_notice",
+    "dpssw_last_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show_specific_messsage",
+    "_manage_stock",
+    "_stock",
+    "_backorders",
+    "_stock_discontinued_product",
+    "_stock_status",
+    "_discontinued_product",
+    "custom_editor_box",
+    "dpssw_rate_notices",
+    "dpssw_notices_time",
+    "related_product_header",
+    "_discontinued_messsage_type",
+    "_variable_discontinued_textarea"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:07.737Z"
+}

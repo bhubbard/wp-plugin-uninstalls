@@ -1,0 +1,16 @@
+{
+  "options": [
+    "jja_tsc_summary_report"
+  ],
+  "transients": [
+    "tsc_coef_error_id_*",
+    "tsc_error_key_*",
+    "tsc_error_id_*",
+    "tsc_coef_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:46.994Z"
+}

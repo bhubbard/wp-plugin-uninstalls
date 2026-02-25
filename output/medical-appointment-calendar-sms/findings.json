@@ -1,0 +1,21 @@
+{
+  "options": [
+    "macsms_google_access_token",
+    "macsms_twilio_phone_number",
+    "macsms_plivo_phone",
+    "macsms_sinch_phone",
+    "macsms_telnyx_phone",
+    "macsms_bandwidth_account_id",
+    "macsms_bandwidth_phone",
+    "macsms_bandwidth_app_id",
+    "macsms_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "macsms_sync_calendar_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:09.256Z"
+}

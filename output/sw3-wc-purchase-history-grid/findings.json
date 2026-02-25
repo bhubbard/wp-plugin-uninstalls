@@ -1,0 +1,19 @@
+{
+  "options": [
+    "num_of_columns",
+    "num_of_products",
+    "cat_operator",
+    "phg_cats",
+    "phg_order_by",
+    "phg_order",
+    "product_visibility",
+    "phg_tags",
+    "tag_operator"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:50.843Z"
+}

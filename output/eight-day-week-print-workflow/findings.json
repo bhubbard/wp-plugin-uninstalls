@@ -1,0 +1,17 @@
+{
+  "options": [
+    "edw_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "articles",
+    "sections",
+    "export_status_timestamp",
+    "export_status_user_id",
+    "section-order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:25.741Z"
+}

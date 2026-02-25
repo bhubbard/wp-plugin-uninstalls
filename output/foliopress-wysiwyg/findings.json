@@ -1,0 +1,19 @@
+{
+  "options": [
+    "fv_default_post_edit_rows",
+    "fp_wysiwyg_version",
+    "default_post_edit_rows",
+    "foliopress_wysiwyg_seo_images_gone"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_impact_template",
+    "wysiwyg",
+    "_thumbnail_id",
+    "_use_impact"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:20.528Z"
+}

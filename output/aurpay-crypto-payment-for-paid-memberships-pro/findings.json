@@ -1,0 +1,12 @@
+{
+  "options": [
+    "pmpro_gateway",
+    "pmpro_aurpay_level_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:35.156Z"
+}

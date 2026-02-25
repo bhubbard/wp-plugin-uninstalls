@@ -1,0 +1,22 @@
+{
+  "options": [
+    "camptix_zip_folder_path"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tix_type",
+    "tix_access_token",
+    "tix_ticket_id",
+    "tix_first_name",
+    "tix_last_name",
+    "tix_email",
+    "tix_transaction_id",
+    "tix_coupon",
+    "tix_receipt_email",
+    "tix_questions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:54.142Z"
+}

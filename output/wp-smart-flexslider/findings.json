@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "flex-slide-title",
+    "flex-slide-url",
+    "flex-slide-desc",
+    "slide_attachmenid",
+    "nav_controls",
+    "pager_controls",
+    "interval",
+    "hover_pass",
+    "show_title",
+    "show_description",
+    "show_slide_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:24.427Z"
+}

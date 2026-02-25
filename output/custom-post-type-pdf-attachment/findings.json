@@ -1,0 +1,13 @@
+{
+  "options": [
+    "use_default_media_library"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cpt_pdf_attachment*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:36.431Z"
+}

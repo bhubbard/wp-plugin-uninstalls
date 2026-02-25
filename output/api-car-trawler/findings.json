@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cartrawler_primary",
+    "cartrawler_secondary",
+    "cartrawler_complimentary",
+    "cartrawler_version",
+    "cartrawler_clientid",
+    "cartrawler_title",
+    "cartrawler_theme",
+    "cartrawler_title_text",
+    "my_first_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:30.288Z"
+}

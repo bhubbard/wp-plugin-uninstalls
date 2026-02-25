@@ -1,0 +1,15 @@
+{
+  "options": [
+    "conditional_blocks_developer_mode",
+    "conditional_blocks_open_from_toolbar",
+    "conditional_blocks_only_installed_integrations",
+    "conditional_blocks_general",
+    "conditional_blocks_ipinfo_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:47.069Z"
+}

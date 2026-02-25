@@ -1,0 +1,28 @@
+{
+  "options": [
+    "_tml_dismissed_notices",
+    "theme_my_login",
+    "tml_login_type",
+    "_tml_installed_at",
+    "_tml_updated_at",
+    "_tml_previous_version",
+    "_tml_version",
+    "tml_ajax",
+    "tml_registration_type",
+    "tml_user_passwords",
+    "tml_auto_login",
+    "*_slug",
+    "rewrite_rules",
+    "illegal_names",
+    "registration",
+    "tml_use_permalinks"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:24.429Z"
+}

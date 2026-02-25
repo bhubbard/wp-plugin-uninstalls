@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('itsw_category_miscellaneous', 'itsw_category_digitalization', 'itsw_category_health', 'itsw_category_business_bay', 'itsw_category_automobiles', 'itsw_category_horoscope', 'itsw_category_makeup', 'itsw_category_tourism', 'itsw_category_career', 'itsw_category_financial_advisor', 'itsw_category_educational', 'itsw_category_insurance', 'itsw_category_home_decor', 'itsw_category_skincare', 'itsw_category_blogging', 'itsw_category_real_estate', 'itsw_category_technologies', 'itsw_category_shopping', 'itsw_category_sports', 'itsw_category_meditation', 'itsw_category_hair_care', 'itsw_category_recipes', 'itsw_category_dating', 'itsw_category_kids', 'itsw_category_digital_marketing', 'itsw_category_fashion', 'itsw_category_weight_loss', 'itsw_category_seo_blog', 'itsw_dropdown_border', 'itsw_height_of_i20_sidebar', 'itsw_how_many_records', 'itsw_dropdown_image');
+

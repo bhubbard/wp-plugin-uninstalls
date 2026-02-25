@@ -1,0 +1,18 @@
+{
+  "options": [
+    "emediafinderdb_cdn_prefix",
+    "emediafinderdb_entermediakey",
+    "emediafinderdb_collectionid",
+    "emediafinderdb_enabled_users",
+    "emediafinderdb_adminkey",
+    "emediafinderdb_main_server",
+    "emediafinderdb-publish_options",
+    "emediafinderdb_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:02.625Z"
+}

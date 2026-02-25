@@ -1,0 +1,33 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'tsmp_filtering_types_what'
+wp option delete 'tsmp_filtering_types_how'
+wp option delete 'attendance_option_filtering'
+wp option delete 'tsmp_layout'
+wp option delete 'tsml_types_in_use'
+wp option delete 'tsml_program'
+wp option delete 'tsmp_width'
+wp option delete 'tsmp_Height'
+wp option delete 'tsmp_font_size'
+wp option delete 'tsmp_header_font_size'
+wp option delete 'tsmp_auto_font'
+wp option delete 'tsmp_desired_page_count'
+wp option delete 'tsmp_margin'
+wp option delete 'tsmp_set_custom_meeting_html'
+wp option delete 'tsmp_custom_meeting_html'
+wp option delete 'tsmp_header'
+wp option delete 'tsmp_column2_indent'
+wp option delete 'tsmp_intro_html'
+wp option delete 'tsmp_column_html'
+wp option delete 'tsmp_outtro_html'
+wp option delete 'tsmp_column_count'
+wp option delete 'tsmp_column_padding'
+wp option delete 'tsmp_first_page_no'
+wp option delete 'tsmp_include_index'
+wp option delete 'tsmp_table_region_new_page'
+wp option delete 'tsmp_set_save_file'
+wp option delete 'tsmp_save_file_name'
+wp option delete 'tsmp_height'
+

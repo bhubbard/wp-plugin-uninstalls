@@ -1,0 +1,17 @@
+{
+  "options": [
+    "_bp_theme_package_id",
+    "bp_nouveau_appearance"
+  ],
+  "transients": [
+    "_bp_shortcode_is_new_install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data",
+    "_elementor_controls_usage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:51.541Z"
+}

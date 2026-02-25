@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'csf_demo_mode'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_csf_errors'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_csf_errors'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_csf_errors'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_csf_errors'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_comment_like_count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_comment_like_count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_comment_like_count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_comment_like_count'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_post_like_count'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_post_like_count'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_post_like_count'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_post_like_count'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_user_comment_liked'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_user_comment_liked'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_user_comment_liked'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_user_comment_liked'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_user_liked'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_user_liked'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_user_liked'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_user_liked'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_user_comment_IP'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_user_comment_IP'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_user_comment_IP'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_user_comment_IP'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_user_IP'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_user_IP'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_user_IP'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_user_IP'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_comment_like_modified'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_comment_like_modified'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_comment_like_modified'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_comment_like_modified'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_post_like_modified'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_post_like_modified'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_post_like_modified'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_post_like_modified'"

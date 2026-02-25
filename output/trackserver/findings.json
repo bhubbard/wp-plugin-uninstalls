@@ -1,0 +1,22 @@
+{
+  "options": [
+    "trackserver_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ts_app_passwords",
+    "ts_owntracks_share",
+    "ts_owntracks_follow",
+    "ts_infobar_template",
+    "ts_geofences",
+    "ts_trackme_key",
+    "ts_osmand_key",
+    "ts_sendlocation_key",
+    "ts_tracks_admin_view",
+    "ts_tracks_admin_per_page"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:39.793Z"
+}

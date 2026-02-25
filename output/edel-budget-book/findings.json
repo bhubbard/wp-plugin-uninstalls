@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ebb-type-lists",
+    "ebb-logout-message",
+    "ebb-disable-message",
+    "ebb-basic-color",
+    "ebb-public-select"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ebb-disable_user_flag"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:00.254Z"
+}

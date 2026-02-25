@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mosparo-integration-network-configuration",
+    "mosparo-integration-configuration",
+    "evf_validation_error",
+    "woocommerce_registration_generate_username"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mosparo_integration_refresh_css_url_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:45.463Z"
+}

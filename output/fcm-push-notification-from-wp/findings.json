@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fcmdpplgpn_api",
+    "fcmdpplgpn_channel",
+    "fcmdpplgpn_topic",
+    "fcmdpplgpn_sound",
+    "fcmdpplgpn_default_image",
+    "fcmdpplgpn_custom_fields",
+    "fcmdpplgpn_posttype_*",
+    "fcmdpplgpn_disable",
+    "fcmdpplgpn_page_disable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "send-fcm-checkbox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:03.717Z"
+}

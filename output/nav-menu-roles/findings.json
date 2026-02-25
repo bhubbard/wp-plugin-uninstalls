@@ -1,0 +1,16 @@
+{
+  "options": [
+    "nav_menu_roles_db_version"
+  ],
+  "transients": [
+    "nav_menu_roles_conflicts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nav_menu_role",
+    "_nav_menu_role_display_mode"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:55.496Z"
+}

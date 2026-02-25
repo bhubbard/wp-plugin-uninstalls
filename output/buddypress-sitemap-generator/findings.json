@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bpsm_status",
+    "bpsm_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bpsm_build_cron",
+    "bpsm_wp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:35.942Z"
+}

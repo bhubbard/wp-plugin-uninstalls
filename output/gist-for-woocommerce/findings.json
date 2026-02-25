@@ -1,0 +1,24 @@
+{
+  "options": [
+    "gstwc_access_token",
+    "gstwc_is_api_connected",
+    "gstwc_store_id",
+    "woocommerce_currency",
+    "gstwc_abandon_cart_interval",
+    "gstwc_customer_tagname",
+    "gstwc_plugin_version",
+    "gstwc_store_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_regular_price",
+    "_sale_price",
+    "_backorders",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:09.232Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpua_doctype', 'wpua_icon_size', 'wpua_show_text_icons', 'wpua_icon_style', 'wpua_icon_style_input', 'wpua_text_using', 'wpua_text_on', 'wpua_text_via', 'wpua_show_version', 'wpua_text_links', 'wpua_show_full_ua', 'wpua_hide_unknown_ua', 'wpua_admin_only', 'wpua_output_location', 'ua_output_location', 'ua_doctype', 'ua_comment_size', 'ua_show_text', 'ua_image_style', 'ua_image_css', 'ua_text_surfing', 'ua_text_on', 'ua_text_via', 'ua_text_links', 'ua_show_ua_bool', 'ua_hide_unknown_bool', 'ua_admin_only_bool', 'ua_track_size');
+

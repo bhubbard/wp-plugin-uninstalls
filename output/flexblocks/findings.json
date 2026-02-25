@@ -1,0 +1,28 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "acf_version",
+    "acf_pro_license"
+  ],
+  "transients": [
+    "acf_deactivated_notice_id",
+    "update_plugins",
+    "acf_plugin_updates",
+    "acf_network_upgrade_needed_*",
+    "acf_activation_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "acf_user_settings",
+    "_wp_attachment_image_alt",
+    "_wp_page_template",
+    "rule",
+    "allorany",
+    "position",
+    "layout",
+    "hide_on_screen"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:49.148Z"
+}

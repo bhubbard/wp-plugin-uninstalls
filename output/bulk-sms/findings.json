@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bulksms_admin_mobile",
+    "bulksms_gateway_domain",
+    "bulksms_username",
+    "bulksms_password",
+    "bulksms_sender",
+    "bulksms_send_visitor_msg",
+    "bulksms_visitor_message",
+    "bulksms_send_visitor_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:51.898Z"
+}

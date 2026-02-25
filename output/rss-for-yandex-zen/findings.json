@@ -1,0 +1,20 @@
+{
+  "options": [
+    "yzen_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yzcategory_meta_value",
+    "yzrating_meta_value",
+    "yztypearticle_meta_value",
+    "yztypeplatform_meta_value",
+    "yzindex_meta_value",
+    "yzrssenabled_meta_value",
+    "_yoast_wpseo_metadesc",
+    "_aioseop_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:21.294Z"
+}

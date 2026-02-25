@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*-acf",
+    "*-keywords",
+    "*-maxuse",
+    "*-case",
+    "Internal_Link_Manager-maxuse",
+    "Internal_Link_Manager-case",
+    "Internal_Link_Manager-keywords",
+    "Internal_Link_Manager-metabox"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:34.026Z"
+}

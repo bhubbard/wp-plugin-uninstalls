@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wg_combo_*",
+    "wg_cats_select2_*",
+    "bpsfw_tags_select2_*",
+    "wg_pags_select2_*",
+    "bpsfw_redirect_url_*",
+    "bpsfw_prod_redirect_url_*",
+    "bpsfw_form_bg_image",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "*sslpfwerror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "approval_confirmation"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:58.340Z"
+}

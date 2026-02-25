@@ -1,0 +1,13 @@
+{
+  "options": [
+    "managead_block_count",
+    "managead_block_option",
+    "managead_block_counter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:50.432Z"
+}

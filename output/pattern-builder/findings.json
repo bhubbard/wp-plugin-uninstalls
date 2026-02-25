@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_pattern_sync_status",
+    "wp_pattern_block_types",
+    "wp_pattern_template_types",
+    "wp_pattern_post_types",
+    "wp_pattern_keywords",
+    "wp_pattern_inserter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:41.672Z"
+}

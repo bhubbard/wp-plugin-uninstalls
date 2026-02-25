@@ -1,0 +1,29 @@
+{
+  "options": [
+    "custom-new-window",
+    "custom-facebook",
+    "custom-twitter",
+    "custom-gplus",
+    "custom-linkedin",
+    "custom-pinterest",
+    "custom-android",
+    "custom-appstore",
+    "custom-rss",
+    "custom-tumblr",
+    "custom-yt",
+    "custom-vimeo",
+    "custom-instagram",
+    "custom-logo",
+    "custom-favicon",
+    "custom-css",
+    "custom-js",
+    "custom-enable-js",
+    "custom-enable-css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:06.501Z"
+}

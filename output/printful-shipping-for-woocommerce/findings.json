@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_printful_settings",
+    "woocommerce_checkout_phone_field",
+    "woocommerce_calc_taxes",
+    "woocommerce_tax_based_on"
+  ],
+  "transients": [
+    "printful_stats",
+    "printful_orders",
+    "printful_carriers",
+    "printful_tax_countries"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pf_customizable",
+    "pf_size_chart",
+    "pf_advanced_size_chart"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:45.186Z"
+}

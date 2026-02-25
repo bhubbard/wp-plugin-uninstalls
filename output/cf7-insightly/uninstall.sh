@@ -1,0 +1,24 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_debug'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_version'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_settings'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_meta'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_updates'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_crm'"
+wp option delete 'recently_activated'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_msgs'"
+wp option delete 'cfx_form_install_entries_notice'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_install_data'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_form'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_form'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_form'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_form'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_data'"

@@ -1,0 +1,33 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger",
+    "_zoho_config",
+    "_zoho_auth_infos",
+    "_zcrm_oauthtokens",
+    "_zoho_auth_token_info"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "w3s-cf7-zoho_cf7_form",
+    "w3s-cf7-zoho_zoho_module",
+    "integration_enable_disable",
+    "w3s_cf7_fields_repeat_group",
+    "w3s-cf7-zoho_is_upsert",
+    "w3s-cf7-zoho_enable_file",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:37.714Z"
+}

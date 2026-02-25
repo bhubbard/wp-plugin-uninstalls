@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_activated",
+    "*_snippet",
+    "goto-contact-center-webchat_activated",
+    "goto-contact-center-webchat_snippet"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:35.159Z"
+}

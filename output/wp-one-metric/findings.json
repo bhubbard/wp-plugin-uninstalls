@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gapiwp_token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_one_metric"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_one_metric"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:42.663Z"
+}

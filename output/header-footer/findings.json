@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hefo_dismissed",
+    "hefo"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hefo_before",
+    "hefo_after"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:48.778Z"
+}

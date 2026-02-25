@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dynamic_surveys_activated",
+    "dynamic_surveys_deactivated"
+  ],
+  "transients": [
+    "dynamic_surveys_cache"
+  ],
+  "cron_jobs": [
+    "dynamic_surveys_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:09.123Z"
+}

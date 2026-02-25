@@ -1,0 +1,19 @@
+{
+  "options": [
+    "rbtc_enable_plugin",
+    "rbtc_enable_bold_color",
+    "rbtc_enable_heading_gradient",
+    "rbtc_enable_paragraph_color",
+    "rbtc_enable_dark_mode_style",
+    "rbtc_custom_gradient_colors",
+    "rbtc_max_colored_paragraphs",
+    "rbtc_enable_easter_egg",
+    "rbtc_easter_egg_unlocked"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:22.390Z"
+}

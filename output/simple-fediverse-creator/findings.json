@@ -1,0 +1,14 @@
+{
+  "options": [
+    "simplefediversecreator_username",
+    "simplefediversecreator_allow_authors",
+    "smverification_site_url",
+    "smverification_allow_authors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:03.547Z"
+}

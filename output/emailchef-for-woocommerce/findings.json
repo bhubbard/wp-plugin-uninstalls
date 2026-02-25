@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wc_emailchef_list",
+    "wc_emailchef_*",
+    "ecwc_last_run_version"
+  ],
+  "transients": [
+    "emailchef-admin-notice",
+    "ecwc_authkey",
+    "ecwc_lists"
+  ],
+  "cron_jobs": [
+    "emailchef_abandoned_cart_sync",
+    "emailchef_sync_cron_now"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "wc_last_active"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:35.740Z"
+}

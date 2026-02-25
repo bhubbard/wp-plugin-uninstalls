@@ -1,0 +1,17 @@
+{
+  "options": [
+    "icegram_cm_field1_cookie_message",
+    "icegram_cm_field3_cookie_button_text",
+    "icegram_cm_field2_cookie_expire_time",
+    "icegram_cm_field4_cookie_bg_color",
+    "icegram_cm_field5_cookie_text_color",
+    "icegram_cm_field6_cookie_button_color",
+    "icegram_cm_field7_cookie_button_text_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:50.296Z"
+}

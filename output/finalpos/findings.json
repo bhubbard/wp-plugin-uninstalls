@@ -1,0 +1,21 @@
+{
+  "options": [
+    "finalpos_current_stage",
+    "finalpos_jwt_token",
+    "finalpos_consumer_key",
+    "finalpos_consumer_secret",
+    "finalpos_last_nonce",
+    "finalpos_last_nonce_time",
+    "woocommerce_coming_soon"
+  ],
+  "transients": [
+    "finalpos_setup_error"
+  ],
+  "cron_jobs": [
+    "finalpos_trigger_product_webhooks"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:26.057Z"
+}

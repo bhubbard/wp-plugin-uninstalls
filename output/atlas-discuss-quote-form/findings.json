@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "email",
+    "phone",
+    "uploaded_file",
+    "adf_top_title",
+    "adf_email_field",
+    "adf_service_title",
+    "adf_service_options",
+    "adf_bottom_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:25.289Z"
+}

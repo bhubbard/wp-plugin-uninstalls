@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aura_recent_photos_user",
+    "aura_recent_photos_total_images",
+    "aura_recent_photos_backcolor",
+    "aura_recent_photos_img_width",
+    "aura_recent_photos_img_border",
+    "aura_recent_photos_border_color",
+    "aura_recent_photos_img_space"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:11.447Z"
+}

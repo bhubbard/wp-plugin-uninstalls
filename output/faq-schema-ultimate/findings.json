@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpfaqsu_errors_*",
+    "_prefix_post_options"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:27.652Z"
+}

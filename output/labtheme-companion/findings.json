@@ -1,0 +1,18 @@
+{
+  "options": [
+    "labtheme_descriptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_labtheme_setting",
+    "_labtheme_images_course_id",
+    "_labtheme_images_event_id",
+    "featured-checkbox",
+    "featured-checkbox_bandw",
+    "category-image-id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:38.048Z"
+}

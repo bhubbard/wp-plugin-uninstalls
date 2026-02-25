@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpdt_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wpdt_nightly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "plugin_slug",
+    "average_review",
+    "downloads",
+    "version",
+    "last_updated",
+    "description",
+    "download_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:26.112Z"
+}

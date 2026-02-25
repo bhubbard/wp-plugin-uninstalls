@@ -1,0 +1,16 @@
+{
+  "options": [
+    "xyz_credit_link",
+    "xyz_wpf_installed_date",
+    "xyz_wfp_dnt_shw_notice",
+    "xyz_wpf_page_size",
+    "xyz_wpf_credit_dismiss",
+    "xyz_wpf_free_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:41.883Z"
+}

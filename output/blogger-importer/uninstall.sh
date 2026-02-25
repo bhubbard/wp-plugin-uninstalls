@@ -1,0 +1,45 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'blogger_importer'
+wp option delete 'blogger_importer_connector'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'blogger_importer_blog_%'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'blogger_blog'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'blogger_blog'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'blogger_blog'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'blogger_blog'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'blogger_author'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'blogger_author'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'blogger_author'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'blogger_author'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'blogger_permalink'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'blogger_permalink'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'blogger_permalink'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'blogger_permalink'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'blogger_internal'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'blogger_internal'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'blogger_internal'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'blogger_internal'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_latitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_longitude'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_public'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_public'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_public'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_public'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'geo_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'geo_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'geo_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'geo_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'blogger_largeimgispage'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'blogger_largeimgispage'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'blogger_largeimgispage'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'blogger_largeimgispage'"

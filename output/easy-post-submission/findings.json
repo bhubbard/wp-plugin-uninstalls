@@ -1,0 +1,18 @@
+{
+  "options": [
+    "easy_post_submission_setup_flag",
+    "_easy_post_submission_setup_flag",
+    "easy_post_submission_post_manager_settings",
+    "easy_post_submission_recaptcha_migrated",
+    "easy_post_submission_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rbsm_form_id",
+    "rbsm_author_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:57.970Z"
+}

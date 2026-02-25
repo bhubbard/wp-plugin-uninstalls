@@ -1,0 +1,57 @@
+{
+  "options": [
+    "wpm_show_untranslated_strings",
+    "wpm_meta_box_errors",
+    "wpm_admin_notices",
+    "wpm_admin_notice_*",
+    "wpm_db_version",
+    "wpm_custom_post_types",
+    "wpm_admin_footer_text_rated",
+    "wpm_site_language",
+    "wpm_use_redirect",
+    "wpm_use_prefix",
+    "wpm_string_translation",
+    "wpm_base_translation",
+    "wpm_uninstall_translations",
+    "wpm_elementor_compatibility_free",
+    "wpm_divi_compatibility_free",
+    "wpm_allow_auto_override",
+    "wpm_languages",
+    "qtranslate_term_name",
+    "wpmpro_upgrade_license",
+    "wpm_hide_newsletter",
+    "wpm_openai_settings",
+    "wpm_version",
+    "wpm_*",
+    "wpm_config"
+  ],
+  "transients": [
+    "wpm_bulk_translate_errors_*",
+    "wpm_installing",
+    "saswp_transient_schema_ids",
+    "wc_attribute_taxonomies",
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "wpm_flush_rewrite_rules"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_languages",
+    "_menu_item_languages_type",
+    "_menu_item_languages_show",
+    "dismissed_wp_pointers",
+    "edit_lang",
+    "*_translate",
+    "locale",
+    "_elementor_data",
+    "_elementor_data_translate",
+    "_wpm_translated_comments",
+    "user_lang",
+    "wpm_lang",
+    "_yoast_wpseo_metadesc"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:27.883Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cf7vb_installed",
+    "cf7vb_version",
+    "*_widgets",
+    "*_styles",
+    "*_generated_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cf7vb_app_id",
+    "cf7vb_generated_css",
+    "cf7vb_redirect_*",
+    "cf7vb_redirect_enable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:05.148Z"
+}

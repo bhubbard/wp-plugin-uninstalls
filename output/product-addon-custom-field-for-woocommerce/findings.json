@@ -1,0 +1,19 @@
+{
+  "options": [
+    "prafe_settings",
+    "prafe_installed",
+    "prafe_version"
+  ],
+  "transients": [
+    "prafe_wc_missing_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "form_settings",
+    "prafe_version",
+    "custom_form"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:59.270Z"
+}

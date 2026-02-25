@@ -1,0 +1,37 @@
+{
+  "options": [
+    "wpachievements_mycred_point_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_achievement_type",
+    "_achievement_points",
+    "_achievement_recurring",
+    "_achievement_occurrences",
+    "_achievement_image",
+    "*points",
+    "*points_type",
+    "*earned_by",
+    "*maximum_earnings",
+    "_thumbnail_id",
+    "*wpa_legacy_id",
+    "*trigger_type",
+    "*count",
+    "*limit",
+    "*limit_type",
+    "_quest_points",
+    "_quest_image",
+    "_quest_details",
+    "*achievement_type",
+    "*achievement_post",
+    "achievements_points",
+    "*points_required",
+    "*points_type_required",
+    "achievements_gained",
+    "quests_gained"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:26.070Z"
+}

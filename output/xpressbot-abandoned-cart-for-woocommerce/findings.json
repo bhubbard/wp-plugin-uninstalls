@@ -1,0 +1,16 @@
+{
+  "options": [
+    "xpressbot_abandoned_cart_webhook_url",
+    "xpressbot_abandoned_cart_cutoff",
+    "xpressbot_webchat_widget_code",
+    "xpressbot_wabachat_widget_code"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "xpressbot_check_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:32.802Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pushed_api_key",
+    "pushed_app_key",
+    "pushed_app_secret",
+    "pushed_target_type",
+    "pushed_target_alias",
+    "pushed_sources"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pushed_message_content",
+    "pushed_api_request"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:27.561Z"
+}

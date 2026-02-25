@@ -1,0 +1,24 @@
+{
+  "options": [
+    "total_slider_general_options",
+    "total_slider_grptpl_*",
+    "total_slider_slides_*",
+    "total_slider_dataformat_version",
+    "total_slider_upgrade_v1.0.x_to_v1.1",
+    "total_slider_slide_groups"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "_thumbnail_id",
+    "total_slider_meta_legacy_bgurl",
+    "total_slider_meta_link",
+    "total_slider_meta_title_pos_x",
+    "total_slider_meta_title_pos_y",
+    "total_slider_meta_sequence"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:59.787Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "poptics_onboard_settings",
+    "poptics_onboard_details",
+    "poptics_settings",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pt_ab_testing_campaigns"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:54.607Z"
+}

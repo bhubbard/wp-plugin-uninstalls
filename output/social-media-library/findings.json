@@ -1,0 +1,13 @@
+{
+  "options": [
+    "igml_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "igml_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:48.985Z"
+}

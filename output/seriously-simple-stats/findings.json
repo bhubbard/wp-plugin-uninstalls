@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ssp_stats_version",
+    "ssp_stats_show_crawler_update_notice",
+    "ssp_stats_db_version",
+    "*_version",
+    "active_sitewide_plugins",
+    "ssp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:07.318Z"
+}

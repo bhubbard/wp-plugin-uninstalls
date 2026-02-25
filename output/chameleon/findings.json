@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpch_news_ticker",
+    "wp_chameleon",
+    "wp_chameleon_background"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bpc_theme"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:10.571Z"
+}

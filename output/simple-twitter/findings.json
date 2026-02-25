@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ccbSimpleTwitter-*",
+    "ccbSimpleTwitter-username",
+    "ccbSimpleTwitter-maxTwitt",
+    "ccbSimpleTwitter-replaceKey",
+    "ccbSimpleTwitter-replaceId",
+    "ccbSimpleTwitter-onTime",
+    "ccbSimpleTwitter-offTime",
+    "ccbSimpleTwitter-fadeTime"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:41.040Z"
+}

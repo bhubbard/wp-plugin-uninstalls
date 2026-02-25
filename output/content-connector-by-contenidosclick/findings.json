@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cc_key",
+    "cc_blog_ID",
+    "cc_author",
+    "cc_blog_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:14.732Z"
+}

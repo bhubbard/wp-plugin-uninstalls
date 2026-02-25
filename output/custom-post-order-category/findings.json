@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ccpo_order_managers",
+    "ccpo_db_version",
+    "ccpo_category_ordering_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:37.972Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "droppcc-paywall-setting",
+    "droppcc-paywall-profile"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dropp_paywall_data_log_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dropp_paywall_enable",
+    "dropp_paywall_open_access",
+    "dropp_paywall_selected_restriction"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:02.234Z"
+}

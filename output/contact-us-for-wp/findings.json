@@ -1,0 +1,16 @@
+{
+  "options": [
+    "contactuswp_form_options",
+    "contactuswp_icon_direction",
+    "contactuswp_icon_shape",
+    "contactuswp_icon_color",
+    "contactuswp_form_labels",
+    "contactuswp_send_to_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:09.983Z"
+}

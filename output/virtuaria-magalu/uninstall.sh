@@ -1,0 +1,40 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'virtuaria_magalu_products_db_version'
+wp option delete 'virtuaria_magalu_settings'
+
+# Clear Cron Jobs
+wp cron event delete 'virtuaria_magalu_update_token'
+wp cron event delete 'virtuaria_magalu_product_sync'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_regular_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sale_price'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_weight'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_height'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_width'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_length'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_sku'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_sku'"

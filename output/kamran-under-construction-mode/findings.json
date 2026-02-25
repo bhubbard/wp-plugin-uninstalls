@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ucm_enabled",
+    "ucm_bg_image",
+    "ucm_bg_image_id",
+    "ucm_bg_color",
+    "ucm_font_size",
+    "ucm_font_family",
+    "ucm_heading_text",
+    "ucm_message_text",
+    "ucm_logo_url",
+    "ucm_logo_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:10.909Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wgo_notify_requests_less_than_x_percent",
+    "wgo_days_to_store",
+    "wgo_db_version",
+    "wgo_limit_requests_per_minute",
+    "wgo_limit_requests_per_hour",
+    "wgo_im_behind_proxy",
+    "wgo_notification_email",
+    "wgo_save_payloads",
+    "wgo_save_payloads_matching_uri_regex",
+    "wgo_save_payloads_matching_payload_regex",
+    "wgo_notify_requests_more_than_sd",
+    "wgo_notify_requests_more_than_2sd",
+    "wgo_notify_requests_more_than_3sd",
+    "wgo_autoreload_datatables",
+    "wgo_waf_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wgo_cron_check_waf_install",
+    "wgo_cron_remove_old_data_hook",
+    "wgo_cron_fill_country_columns_hook",
+    "wgo_cron_notify_ddos_hook",
+    "wgo_cron_process_ban_rules_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:27.753Z"
+}

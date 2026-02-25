@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [
+    "hsbc_success_msg",
+    "hsbc_error_msg"
+  ],
+  "cron_jobs": [
+    "hsbc_daily_event",
+    "hsbc_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:20.902Z"
+}

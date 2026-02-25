@@ -1,0 +1,20 @@
+{
+  "options": [
+    "weaverx_plus_backup",
+    "weaverx5_settings",
+    "wvrx_toggle_shortcode_prefix",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice",
+    "wvrx_ts_pp_title",
+    "wvrx_ts_pp_text",
+    "_elementor_edit_mode",
+    "panels_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:39.648Z"
+}

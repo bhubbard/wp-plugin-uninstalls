@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mailersend_config_mode"
+  ],
+  "transients": [
+    "mailersend_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:33.725Z"
+}

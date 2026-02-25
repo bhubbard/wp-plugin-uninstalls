@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wp_avatar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpa_is_avatar",
+    "wpa_avatar_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:00.061Z"
+}

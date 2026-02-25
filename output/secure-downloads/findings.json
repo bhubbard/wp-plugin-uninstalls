@@ -1,0 +1,13 @@
+{
+  "options": [
+    "opsd_version_num"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "opsd_version_num"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:00.428Z"
+}

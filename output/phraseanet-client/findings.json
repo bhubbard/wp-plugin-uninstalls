@@ -1,0 +1,48 @@
+{
+  "options": [
+    "phraseanet_url",
+    "phraseanet_client_id",
+    "phraseanet_client_secret",
+    "phraseanet_callback_url",
+    "phraseanet_auth_required",
+    "phraseanet_auth_type",
+    "phraseanet_username",
+    "phraseanet_password",
+    "phraseanet_token",
+    "phraseanet_per_page_records",
+    "phraseanet_modal_bc",
+    "phraseanet_modal_fc",
+    "fs_debug_mode",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "__phraseanet_client_post_collections",
+    "__phraseanet_client_post_static_collections",
+    "__phraseanet_client_post_subdef",
+    "__phraseanet_client_post_query",
+    "__phraseanet_client_post_facets",
+    "__phraseanet_client_post_rfacets",
+    "__phraseanet_client_post_title",
+    "__phraseanet_client_post_auth",
+    "__phraseanet_client_post_preview_details",
+    "__phraseanet_client_post_ui",
+    "__phraseanet_client_post_debug",
+    "__phraseanet_client_post_gForms",
+    "__phraseanet_client_post_grid",
+    "__phraseanet_client_post_downloadList",
+    "__phraseanet_client_post_permalinkList",
+    "__phraseanet_client_post_enableFacets",
+    "__phraseanet_client_post_masonryImageLayout",
+    "__phraseanet_client_post_asset_details_color_palette"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:00.424Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dwpb_version",
+    "dwpb_previous_version"
+  ],
+  "transients": [
+    "wc_count_comments"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:33.500Z"
+}

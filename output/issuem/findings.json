@@ -1,0 +1,27 @@
+{
+  "options": [
+    "*_meta",
+    "issuem_flush_rewrite_rules",
+    "last_zeen101_dot_com_rss_item",
+    "issuem",
+    "issuem_nag",
+    "issuem_nag_version_dismissed",
+    "issuem_api_error_received"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zeen101_dot_com_rss_feed_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "issuem_rss_item_notice_link",
+    "_issuem_author_name",
+    "_teaser_text",
+    "_featured_rotator",
+    "_featured_thumb",
+    "_wp_attachment_image_alt",
+    "issue_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:15.652Z"
+}

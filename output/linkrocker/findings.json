@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tsl_menu_choice",
+    "custom_menu_choice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:49.235Z"
+}

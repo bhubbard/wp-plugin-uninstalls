@@ -1,0 +1,21 @@
+{
+  "options": [
+    "hookly_version",
+    "hookly_db_version",
+    "hookly_enable_async",
+    "hookly_log_retention_days",
+    "hookly_default_timeout"
+  ],
+  "transients": [
+    "hookly_admin_notices"
+  ],
+  "cron_jobs": [
+    "hookly_cleanup_logs",
+    "hookly_dispatch_webhook",
+    "hookly_retry_webhook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:15.497Z"
+}

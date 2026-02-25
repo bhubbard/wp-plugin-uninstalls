@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*-customizing-branding",
+    "*-performance",
+    "*-security",
+    "wpezpz_backups",
+    "*-admin_colors",
+    "wpezpz_dashboard_widgets",
+    "default_post_edit_rows",
+    "*-settings",
+    "wpezpz_version",
+    "*_fake-meta",
+    "wpezpz_tweaks_install_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "ezpz_tweaks_review_notice_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:09.486Z"
+}

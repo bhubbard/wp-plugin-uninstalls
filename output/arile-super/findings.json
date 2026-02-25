@@ -1,0 +1,16 @@
+{
+  "options": [
+    "fresh_site_activate",
+    "widget_archives",
+    "widget_search",
+    "sidebars_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:18.987Z"
+}

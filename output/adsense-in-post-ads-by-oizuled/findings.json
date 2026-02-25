@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aip_settings",
+    "oizuled-adsense-unit-a",
+    "oizuled-adsense-unit-b",
+    "oizuled-adsense-unit-c"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:49.987Z"
+}

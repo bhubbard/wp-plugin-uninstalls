@@ -1,0 +1,12 @@
+{
+  "options": [
+    "nginx_cache_path",
+    "nginx_auto_purge"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:48.793Z"
+}

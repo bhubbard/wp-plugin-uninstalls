@@ -1,0 +1,16 @@
+{
+  "options": [
+    "site_speed_monitor_options"
+  ],
+  "transients": [
+    "site_speed_monitor_stripped_parameters"
+  ],
+  "cron_jobs": [
+    "delayed_speed_test_run",
+    "speed_test_run"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:04.228Z"
+}

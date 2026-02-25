@@ -1,0 +1,11 @@
+{
+  "options": [
+    "widget_vslm_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:06.543Z"
+}

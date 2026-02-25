@@ -1,0 +1,18 @@
+{
+  "options": [
+    "optimizme_mazen_jwt_secret_*",
+    "wpseo_titles",
+    "aioseop_options",
+    "optimizme_mazen_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "optimizme_canonical",
+    "_aviaLayoutBuilder_active",
+    "optimizme_metatitle"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:19.915Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "Shortcodes_Ultimate_Plugin_Not_Activated",
+    "*_version"
+  ],
+  "transients": [
+    "su/generator/popup",
+    "su/generator/settings/pdf"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:04.942Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*dismissed_notices",
+    "meta-fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "id",
+    "supports",
+    "fields",
+    "position",
+    "type",
+    "dismissible",
+    "admin_only",
+    "buttons",
+    "parent",
+    "order",
+    "menu_icon",
+    "show_in_rest"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:53.749Z"
+}

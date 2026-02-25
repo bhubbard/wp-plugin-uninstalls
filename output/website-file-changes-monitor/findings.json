@@ -1,0 +1,35 @@
+{
+  "options": [
+    "*redirect_after_activation",
+    "*active_version",
+    "wfcm_version",
+    "*last_scan_time",
+    "*scanner_running",
+    "*initial_setup_needed",
+    "*scan-hour",
+    "*scan-hour-am",
+    "*scan-day",
+    "*event_notification_dismissed",
+    "*update_notice_needed",
+    "*show_update_notice",
+    "*monitor_status",
+    "*db_setup_complete",
+    "*active_scan_id",
+    "*delete-data-enabled",
+    "*permissions_column_created",
+    "*plugins_and_themes_history",
+    "*plugins_and_themes_recent_updates",
+    "*max_scan_time",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "*dir_runner_started",
+    "*next_scan_time",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:49.714Z"
+}

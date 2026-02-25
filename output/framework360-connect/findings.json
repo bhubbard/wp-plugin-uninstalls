@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fw360_api_key",
+    "fw360_api_url",
+    "fw360_allowed_roles",
+    "fw360_default_tags",
+    "fw360_users_sync",
+    "fw360_sync_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "init_crons"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fw360_order_id",
+    "_fw360_order_synced"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:57.335Z"
+}

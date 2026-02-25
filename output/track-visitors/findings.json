@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpvt_visitors_tracker",
+    "visitor_tracker_installed",
+    "visitor_tracker_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:43.737Z"
+}

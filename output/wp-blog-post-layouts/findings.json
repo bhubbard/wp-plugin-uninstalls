@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpblog_post_layouts_activated_time",
+    "wpblog_post_layouts_upgrade_premium",
+    "wpblog_post_layouts_premium_prefix"
+  ],
+  "transients": [
+    "wp-blog-post-layouts-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_blog_post_layouts_ignore_review_notice_partially",
+    "wp_blog_post_layouts_ignore_theme_review_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:55.015Z"
+}

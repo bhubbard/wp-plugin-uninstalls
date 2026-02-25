@@ -1,0 +1,22 @@
+{
+  "options": [
+    "bpps_general_settings",
+    "bpps_groups_settings",
+    "bpsp_site_post_settings",
+    "bpps_friends_settings",
+    "bpps_members_settings",
+    "bpps_following_settings",
+    "bpps_followed_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bpgps_group",
+    "bpgps_group_post_status",
+    "bpps_group_post_sticky",
+    "bpps_my_posts_sticky"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:18.902Z"
+}

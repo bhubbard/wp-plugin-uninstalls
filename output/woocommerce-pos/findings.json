@@ -1,0 +1,42 @@
+{
+  "options": [
+    "woocommerce_default_log_handler",
+    "woocommerce_pos_uuid",
+    "woocommerce_currency_pos",
+    "woocommerce_notify_no_stock_amount",
+    "woocommerce_pos_secret_key",
+    "woocommerce_pos_refresh_secret_key",
+    "active_sitewide_plugins",
+    "*general",
+    "*checkout",
+    "*tools",
+    "*payment_gateways",
+    "*visibility",
+    "woocommerce_pos_db_version",
+    "wcpos_template_validation_logs",
+    "wcpos_active_template_*",
+    "wcpos_active_template_receipt",
+    "woocommerce_tax_total_display"
+  ],
+  "transients": [
+    "woocommerce_pos_pro_license_status",
+    "wcpos_auth_fail_*",
+    "wcpos_auth_lock_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcpos_seen_extension_slugs",
+    "_woocommerce_pos_uuid",
+    "_template_language",
+    "_pos_cash_amount_tendered",
+    "_pos_cash_change",
+    "_woocommerce_pos_refresh_tokens",
+    "_woocommerce_pos_last_access",
+    "_template_file_path",
+    "_order_tax",
+    "_order_shipping_tax"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:45.285Z"
+}

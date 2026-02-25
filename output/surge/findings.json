@@ -1,0 +1,13 @@
+{
+  "options": [
+    "surge_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "surge_delete_expired"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:04.511Z"
+}

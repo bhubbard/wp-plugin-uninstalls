@@ -1,0 +1,42 @@
+{
+  "options": [
+    "nickx_slider_layout",
+    "nickx_sliderautoplay",
+    "nickx_arrowinfinite",
+    "nickx_arrowdisable",
+    "nickx_arrow_thumb",
+    "nickx_hide_thumbnails",
+    "nickx_gallery_action",
+    "nickx_adaptive_height",
+    "nickx_place_of_the_video",
+    "nickx_rtl",
+    "nickx_videoloop",
+    "nickx_vid_autoplay",
+    "nickx_template",
+    "nickx_controls",
+    "nickx_show_lightbox",
+    "nickx_show_zoom",
+    "nickx_show_only_video",
+    "nickx_thumbnails_to_show",
+    "nickx_arrowcolor",
+    "nickx_arrowbgcolor",
+    "wc_product_iframe_token",
+    "custom_icon",
+    "nickx_options"
+  ],
+  "transients": [
+    "nickx-plugin_setting_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nickx_product_video_type",
+    "_custom_api_product_url_",
+    "_product_video_thumb_url",
+    "_custom_thumbnail",
+    "_custom_api_product_thumbnail_",
+    "_custom_api_product_id_"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:33.447Z"
+}

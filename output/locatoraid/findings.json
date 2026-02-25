@@ -1,0 +1,16 @@
+{
+  "options": [
+    "locatoraid_share_database",
+    "*_menu_title",
+    "locatoraid-rest_auth_code",
+    "locatoraid-rest_enabled",
+    "*_auth_code",
+    "*_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:23.731Z"
+}

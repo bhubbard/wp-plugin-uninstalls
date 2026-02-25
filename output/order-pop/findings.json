@@ -1,0 +1,13 @@
+{
+  "options": [
+    "op-plugin"
+  ],
+  "transients": [
+    "order_pop_cached_orders"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:09.163Z"
+}

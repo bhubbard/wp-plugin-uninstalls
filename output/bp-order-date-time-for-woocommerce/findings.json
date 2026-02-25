@@ -1,0 +1,15 @@
+{
+  "options": [
+    "csf_demo_mode",
+    "bp_order_delivery_date_installed",
+    "wc-wdda-delivery-timeslots"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_csf_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:35.194Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bit_wc_zoho_books_integrate_key_data",
+    "bit_wcb_form_secret_api_key",
+    "bit_wc_zoho_books_installed",
+    "bit_wc_zoho_books_version"
+  ],
+  "transients": [
+    "bit_wc_zoho_books_activation_redirect",
+    "bit_wc_zoho_books_prevent_tracker_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:39.813Z"
+}

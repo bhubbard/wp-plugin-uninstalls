@@ -1,0 +1,42 @@
+{
+  "options": [
+    "wedocs_need_sortable_status",
+    "wedocs_sortable_status",
+    "wedocs_settings",
+    "wedocs_upgrader_runner",
+    "wedocs_admin_footer_text_rated",
+    "wedocs_migrated_default_parent_doc",
+    "wedocs_need_migration",
+    "wedocs_migrated_article_ids",
+    "wedocs_migrated_categories",
+    "wedocs_need_reset_documentation_page",
+    "wedocs_activation_redirect",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "wedocs_installed",
+    "wedocs_version"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "positive",
+    "negative",
+    "wedocs_contributors",
+    "wedocs_response",
+    "_docs_order",
+    "wedocs_hide_pro_notice",
+    "wedocs_hide_beta_notice",
+    "skip_sidebar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:25.905Z"
+}

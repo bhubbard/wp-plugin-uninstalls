@@ -1,0 +1,21 @@
+{
+  "options": [
+    "axilweb_ajl_career_page",
+    "*career_page",
+    "axilweb_ajl_job_post",
+    "*default_page_already_created"
+  ],
+  "transients": [
+    "axilweb_ajl_career_page_id"
+  ],
+  "cron_jobs": [
+    "axilweb_ajl_update_expired_jobs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "phone_number",
+    "full_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:34.847Z"
+}

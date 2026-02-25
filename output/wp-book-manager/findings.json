@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "book_author",
+    "book_publisher",
+    "book_genre",
+    "book_publisherwebsite",
+    "book_published_date",
+    "book_price",
+    "book_saleprice",
+    "book_isbn"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:58.023Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "it_block_heading_position",
+    "it_cell_title_color",
+    "it_cell_hover_title_color",
+    "it_cell_font_color",
+    "it_cell_hover_font_color",
+    "it_read_more_font_color",
+    "it_display_mode",
+    "it_highlight_mode",
+    "cell_highlight_color",
+    "it_single_cell_slug_url",
+    "it_cell_hover",
+    "it_title_hover",
+    "it_read_more",
+    "readmore_label",
+    "it_load_default_css",
+    "it_vertical_posts_per_row",
+    "fixed_highlight",
+    "it_clean_on_deactive"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_it_short_description",
+    "_it_url",
+    "_it_cell_class"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:12.149Z"
+}

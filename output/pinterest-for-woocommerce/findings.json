@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_hide_out_of_stock_items",
+    "woocommerce_manage_stock",
+    "woocommerce_allow_tracking",
+    "woocommerce_cart_redirect_after_add",
+    "pinterest_for_woocommerce",
+    "pinterest_for_woocommerce_data",
+    "pinterest_for_woocommerce_marketing_notifications_init_timestamp",
+    "pinterest_for_woocommerce_account_connection_timestamp",
+    "pinterest-for-woocommerce-update-version"
+  ],
+  "transients": [
+    "*status",
+    "*current_index",
+    "*last_activity",
+    "*product_count",
+    "*error_message",
+    "*_currencies_list",
+    "compat_checker_wc_versions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:34.180Z"
+}

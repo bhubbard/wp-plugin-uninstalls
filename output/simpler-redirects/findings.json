@@ -1,0 +1,13 @@
+{
+  "options": [
+    "simpler_redirects_num_urls",
+    "simpler_redirects_from_url_*",
+    "simpler_redirects_to_url_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:00.551Z"
+}

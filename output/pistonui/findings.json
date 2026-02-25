@@ -1,0 +1,28 @@
+{
+  "options": [
+    "pistonui_settings",
+    "pistonui_setup_completed",
+    "pistonui_setup_redirect",
+    "pistonui_enable_owl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pistonui_template_status",
+    "_pistonui_template_type",
+    "_pistonui_display_location",
+    "_pistonui_selected_pages",
+    "_pistonui_selected_posts",
+    "_pistonui_selected_categories",
+    "_wp_page_template",
+    "_elementor_edit_mode",
+    "_elementor_data",
+    "_elementor_version",
+    "pistonui_deps_notice_dismissed",
+    "_wp_attachment_image_alt",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:31.889Z"
+}

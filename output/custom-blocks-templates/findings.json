@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cbt_template_*",
+    "cbt_editable_*"
+  ],
+  "transients": [
+    "cbt_registered_stylesheets"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:07.168Z"
+}

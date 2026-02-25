@@ -1,0 +1,27 @@
+{
+  "options": [
+    "fl_login_url",
+    "fl_login_landing_url",
+    "fl_register_url",
+    "fl_profile_url",
+    "fl_logout_url",
+    "fl_logout_landing_url",
+    "fl_bg_color",
+    "fl_border_color",
+    "fl_text_color",
+    "fl_border_width",
+    "fl_register_display",
+    "fl_profile_display",
+    "fl_hover_color",
+    "fl_float_position",
+    "fl_profile_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fl_login_display"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:41.144Z"
+}

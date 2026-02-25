@@ -1,0 +1,14 @@
+{
+  "options": [
+    "admin_custom_font_version",
+    "admin_custom_font_family",
+    "admin_custom_font_size",
+    "admin_custom_font_weight"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:29.162Z"
+}

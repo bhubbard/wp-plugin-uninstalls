@@ -1,0 +1,31 @@
+{
+  "options": [
+    "cloudinary_settings_cache",
+    "*_size_w",
+    "cloudinary_global_transformations",
+    "cloudinary_media_display",
+    "_cld_cli_analyzed"
+  ],
+  "transients": [
+    "_cld_disable_http_upload",
+    "_autosync_check"
+  ],
+  "cron_jobs": [
+    "cloudinary_cleanup_event",
+    "cloudinary_status",
+    "cloudinary_resume_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes",
+    "_*",
+    "_wp_attachment_image_alt",
+    "_wp_attached_file",
+    "_wp_attachment_metadata",
+    "_wpml_cld",
+    "*_terms",
+    "_cld_unsynced"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:59.364Z"
+}

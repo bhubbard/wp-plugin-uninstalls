@@ -1,0 +1,13 @@
+{
+  "options": [
+    "inazo.real.tor.blocker_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "inazo_tor_clean_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:57.248Z"
+}

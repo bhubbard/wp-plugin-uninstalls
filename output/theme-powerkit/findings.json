@@ -1,0 +1,28 @@
+{
+  "options": [
+    "tpk_options_settings",
+    "tpk_visited_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tpk_og_ed",
+    "tpk_og_title",
+    "tpk_og_desc",
+    "tpk_og_url",
+    "tpk_og_type",
+    "tpk_og_custom_meta",
+    "tpk_og_image",
+    "tpk_ts_ed",
+    "tpk_twitter_summary_title",
+    "tpk_twitter_summary_desc",
+    "tpk_twitter_summary_username",
+    "tpk_twitter_summary_type",
+    "tpk_twitter_summary_custom_meta",
+    "tpk_twitter_summary_image",
+    "post_views_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:46.535Z"
+}

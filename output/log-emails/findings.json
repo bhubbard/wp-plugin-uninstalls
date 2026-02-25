@@ -1,0 +1,20 @@
+{
+  "options": [
+    "log_emails_limit_days"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "log_emails_purge"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_log_emails_log_to",
+    "_log_emails_log_from",
+    "_log_emails_log_cc",
+    "_log_emails_log_bcc",
+    "_log_emails_log_altbody",
+    "_log_emails_log_content-type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:29.596Z"
+}

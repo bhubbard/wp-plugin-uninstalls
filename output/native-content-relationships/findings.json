@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ncr_schema_version",
+    "naticore_db_version",
+    "naticore_settings",
+    "naticore_remove_data_on_uninstall",
+    "naticore_last_integrity_check",
+    "naticore_last_orphaned_check",
+    "naticore_orphaned_count"
+  ],
+  "transients": [
+    "naticore_activation_notice",
+    "naticore_onboarding_done",
+    "naticore_integrity_notice",
+    "naticore_orphaned_notice_shown"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:24.336Z"
+}

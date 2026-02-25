@@ -1,0 +1,26 @@
+{
+  "options": [
+    "syncy_square_selected_location",
+    "syncy_autosyncwootosquare",
+    "syncy_autosyncsquaretowoo",
+    "syncy_autosync_orders",
+    "syncy_autosync_users",
+    "syncy_autosync_order_status",
+    "syncy_square_to_woo_product_attributes",
+    "syncy_woo_to_square_product_attributes",
+    "syncy_sandbox_mode",
+    "syncy_square_access_token",
+    "woocommerce_default_country"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "syncy_bulk_stock_update_cron_event",
+    "syncy_cron_stock_sync_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "syncy_square_catalog_object_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:58.197Z"
+}

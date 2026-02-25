@@ -1,0 +1,48 @@
+{
+  "options": [
+    "wpmmcc_plugin_locale",
+    "wpmmcc_ml_enable_hreflang",
+    "wpmmcc_ml_enable_canonical",
+    "wpmmcc_logging_enabled",
+    "wpmmcc_ml_network_mode",
+    "wpmmcc_ml_network_source_blog_id",
+    "wpmmcc_ml_deleted_target_behavior",
+    "wpmmcc_keep_data_on_uninstall",
+    "wpmmcc_ml_sitemap_xml_fields",
+    "wpmmcc_ml_sitemap_rewrite_version",
+    "wpmmcc_db_version",
+    "wpmmcc_ml_shared_settings",
+    "sidebars_widgets"
+  ],
+  "transients": [
+    "settings_errors",
+    "wpmmcc_activation_conflict_notice",
+    "wpmmcc_deactivation_warning"
+  ],
+  "cron_jobs": [
+    "action_scheduler_run_queue",
+    "wpmmcc_ml_execute_task",
+    "wpmmcc_ml_tasks_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wpmmcc_ml_site_id",
+    "_wp_attachment_image_alt",
+    "_wpmmcc_ml_source_term",
+    "_wpmmcc_ml_media_alt_*",
+    "_wpmmcc_ml_media_caption_*",
+    "_wpmmcc_ml_translated_title_*",
+    "_wpmmcc_ml_translated_content_*",
+    "_wpmmcc_ml_translated_excerpt_*",
+    "_wpmmcc_ml_translated_name_*",
+    "_wpmmcc_ml_translated_description_*",
+    "_wpmmcc_ml_media_title_*",
+    "_wpmmcc_ml_media_description_*",
+    "_wp_attached_file",
+    "_wp_attachment_metadata",
+    "_wpmmcc_ml_source_media",
+    "_wpmmcc_ml_source_post"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:02.892Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bsm_easing_option_duration_settings_field",
+    "bsm_select_gallery_settings_field",
+    "bsm_animation_settings_field",
+    "bsm_view_mode_settings_field",
+    "bsm_skin_settings_field",
+    "bsm_disable_ratio_settings_field",
+    "bsm_arrow_nav_settings_field",
+    "bsm_thumb_nav_settings_field",
+    "bsm_slider_delay_settings_field",
+    "bsm_notice_get_pro_version_dismissed",
+    "bsm_auto_play_settings_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bsm-image-id",
+    "_bsm_selected_gallery"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:30.501Z"
+}

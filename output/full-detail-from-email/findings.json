@@ -1,0 +1,12 @@
+{
+  "options": [
+    "full_contact_api_key",
+    "full_contact_ip_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:25.009Z"
+}

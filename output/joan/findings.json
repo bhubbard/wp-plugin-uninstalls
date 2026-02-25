@@ -1,0 +1,50 @@
+{
+  "options": [
+    "joan_time_format",
+    "joan_timezone",
+    "joan_allow_timezone_selector",
+    "joan_schedule_status",
+    "joan_off_air_message",
+    "joan_show_next_show",
+    "joan_show_jock_image",
+    "joan_widget_max_width",
+    "joan_center_widget_title",
+    "joan_custom_widget_title",
+    "joan_dark_mode",
+    "joan_dark_mode_override",
+    "joan_show_day_emoji",
+    "joan_jock_field_label",
+    "joan_link_assignment",
+    "joan_image_display_mode",
+    "joan_custom_css",
+    "joan_ads_enabled",
+    "joan_ads_refresh_interval",
+    "joan_jock_only_mode",
+    "joan_show_local_time",
+    "joan_ad_clicks",
+    "joan_enable_language_switcher",
+    "joan_custom_languages",
+    "joan_version",
+    "joan_migration_handled",
+    "joan_needs_migration",
+    "joan_backup_reminder",
+    "joan_post_migration_notice_dismissed",
+    "joan_legacy_data_imported",
+    "joan_old_version_data",
+    "joan_hide_activation_notice_609"
+  ],
+  "transients": [
+    "joan_available_languages"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "joan_premium_ad_dismissed",
+    "joan_vc_notice_dismissed",
+    "joan_elementor_warning_dismissed",
+    "joan_vc_warning_dismissed",
+    "joan_language"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:00.362Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wp_jssor_slider_instance_id",
+    "wp_jssor_slider_db_version",
+    "wjssl-update-check-short",
+    "wjssl-latest-version",
+    "wjssl-stable-version",
+    "wjssl-beta-version",
+    "wjssl-update-check",
+    "wjssl_acckey",
+    "wjssl_purchcode",
+    "wjssl_actcode",
+    "wjssl_activate_request_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wjssl_check_slider_files_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:14.537Z"
+}

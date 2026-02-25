@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_quiz_passmark",
+    "grade",
+    "_lesson_course",
+    "sensei_completed_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:57.419Z"
+}

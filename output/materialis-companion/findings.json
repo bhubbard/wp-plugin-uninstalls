@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*_companion_old_show_on_front",
+    "*_companion_old_page_on_front",
+    "sidebars_widgets",
+    "cp_initialize_notifications",
+    "widget_block"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_front_page",
+    "*_maintainable_page",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:03.767Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sigmize_bearer_token",
+    "sigmize_auth_token",
+    "sigmize_connection_id",
+    "sigmize_workspace_uuid",
+    "sigmize_experiments",
+    "sigmize_last_sync_time",
+    "sigmize_gdpr_settings",
+    "sigmize_gdpr_enabled",
+    "sigmize_manual_sdk_loading",
+    "sigmize_settings",
+    "sigmize_last_status_sync"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:55.779Z"
+}

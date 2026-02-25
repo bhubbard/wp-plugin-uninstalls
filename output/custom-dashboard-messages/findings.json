@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wp_dash_roles",
+    "wp_dash_logo",
+    "wp_dash_logo_height",
+    "wp_dash_message",
+    "wp_dash_roles_normal",
+    "wp_dash_message_network",
+    "wp_remove_site_widgets",
+    "wp_remove_site_widgets_N",
+    "wp_remove_network_widgets",
+    "wp_remove_global_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cd_min_role_to_see"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:51.303Z"
+}

@@ -1,0 +1,38 @@
+{
+  "options": [
+    "wc_poynt_webhookSecret",
+    "godaddy_payments_has_invalid_country_code",
+    "wc_poynt_appId",
+    "wc_poynt_serviceId",
+    "wc_poynt_businessId",
+    "wc_poynt_storeId",
+    "wc_poynt_payinperson_terminal_activated",
+    "*_settings",
+    "woocommerce_poynt-collect_settings",
+    "woocommerce_poynt_credit_card_settings",
+    "wc_poynt_webhooksRegistered",
+    "woocommerce_email_footer_text",
+    "*_is_active",
+    "*_milestone_messages",
+    "*_milestone_version",
+    "active_sitewide_plugins",
+    "woocommerce_tax_based_on",
+    "woocommerce_default_country",
+    "sv_wc_apple_pay_cert_path",
+    "sv_wc_apple_pay_merchant_id",
+    "woocommerce_calc_shipping"
+  ],
+  "transients": [
+    "sv_wc_plugin_wc_versions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_dismissed_messages",
+    "billing_*",
+    "shipping_*",
+    "*_migrated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:28.474Z"
+}

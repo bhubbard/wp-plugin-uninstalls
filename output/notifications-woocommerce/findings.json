@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dwn_wdm_token"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dwn_process_whatsapp_queue"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:41.525Z"
+}

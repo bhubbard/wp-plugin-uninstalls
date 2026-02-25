@@ -1,0 +1,20 @@
+{
+  "options": [
+    "seo44_settings"
+  ],
+  "transients": [
+    "seo44_flush_rewrite_rules"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "seo44_title",
+    "seo44_description",
+    "_seo44_enable_howto",
+    "_yoast_wpseo_metadesc",
+    "_aioseop_description",
+    "_seo44_howto_step_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:16.783Z"
+}

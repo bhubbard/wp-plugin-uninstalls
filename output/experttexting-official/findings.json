@@ -1,0 +1,52 @@
+{
+  "options": [
+    "et_balance",
+    "etApiAuth",
+    "et_notifications",
+    "resend_msg_request",
+    "et_send_sms",
+    "expt_rmfile",
+    "et_api_set",
+    "etApiAuthHidden",
+    "et_balance_datetime",
+    "et_integration_edd",
+    "et_wpcf7_*",
+    "et_wpcf7_form_*",
+    "et_integration_woocommerce",
+    "et_integration_gf",
+    "et_integration_qf",
+    "et_integration_bp",
+    "et_newsletter",
+    "et_menu",
+    "et_plugin_db_version",
+    "et_plugin_update_redirect_to",
+    "et_integration",
+    "et_integration_cf7",
+    "et_general_set",
+    "expttxt_log_*",
+    "et_send_code_limit_time*",
+    "et_subscriber_data"
+  ],
+  "transients": [
+    "__expttxt_need_upgrade"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "expt_mobile",
+    "_billing_phone",
+    "expttxt_verified",
+    "expttxt_verify_code",
+    "expttxt_user_register",
+    "et_sms_mob_dial_code",
+    "expttxt_number_invalid",
+    "expttxt_number_exist",
+    "expt_mobile_code",
+    "expttxt_verify_code_entry",
+    "expt_enable_otp",
+    "expttxt_code_count",
+    "expttxt_otp_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:35:44.796Z"
+}

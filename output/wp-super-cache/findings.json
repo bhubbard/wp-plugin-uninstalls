@@ -1,0 +1,37 @@
+{
+  "options": [
+    "ossdl_off_blog_url",
+    "ossdl_off_cdn_url",
+    "ossdl_off_include_dirs",
+    "ossdl_off_exclude",
+    "ossdl_cname",
+    "ossdl_https",
+    "wp_super_cache_index_detected",
+    "wp_super_cache_disabled",
+    "super_cache_meta",
+    "wpsupercache_count",
+    "supercache_last_cached",
+    "wpsc_feed_list",
+    "wpsupercache_gc_time",
+    "wpsupercache_start",
+    "supercache_stats",
+    "preload_cache_counter"
+  ],
+  "transients": [
+    "wpsc_boost_cache_notice_displayed",
+    "jb_cache_moved_to_boost",
+    "wpsc_config_error"
+  ],
+  "cron_jobs": [
+    "wp_cache_gc",
+    "wp_cache_preload_hook",
+    "wp_cache_full_preload_hook",
+    "wp_cache_check_site_hook",
+    "wp_cache_gc_watcher",
+    "wp_cache_add_site_cache_index"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:26:35.549Z"
+}

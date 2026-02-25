@@ -1,0 +1,34 @@
+{
+  "options": [
+    "wcgwp_cart_hook",
+    "wcgwp_cart_display",
+    "current_theme",
+    "wcgwp_lt6_templates",
+    "wcgwp_number",
+    "wcgwp_details",
+    "wcgwp_link",
+    "wcGIFTWRAPPER_VERSION",
+    "wcgw_version",
+    "wcgwp_modal",
+    "wcgwp_donate_dismiss_06-28",
+    "wcgwp_display",
+    "wcgwp_strings",
+    "wcgwp_category_id",
+    "wcgwp_show_thumb",
+    "wcgwp_textarea_limit",
+    "wcgwp_checkbox_link",
+    "wcgwp_hide_price",
+    "wcgwp_multiples",
+    " wcgwp_multiples",
+    "wcgwp_delete_all",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:50.160Z"
+}

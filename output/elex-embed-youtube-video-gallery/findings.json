@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "*_review_never_ask_again",
+    "*_review_will_do_it_later",
+    "*_troubleshoot_never_ask_again",
+    "elex_yt_configuration_settings",
+    "elex_yt_gallery_settings",
+    "elex_yt_video_player_settings",
+    "system_info_remote_url"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "elex_yt_gallery_sync_now"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:13.611Z"
+}

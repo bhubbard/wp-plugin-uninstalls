@@ -1,0 +1,25 @@
+{
+  "options": [
+    "byconsolecusgreeting_card_one_check_box",
+    "byconsolecusgreeting_card_two_check_box",
+    "byconsolecusgreeting_card_three_check_box",
+    "byconsolecusgreeting_card_four_check_box",
+    "byconsolecusgreeting_card_option_one_text",
+    "byconsolecusgreeting_card_pdf_one",
+    "byconsolecusgreeting_card_option_two_text",
+    "byconsolecusgreeting_card_pdf_two",
+    "byconsolecusgreeting_card_option_three_text",
+    "byconsolecusgreeting_card_pdf_three",
+    "byconsolecusgreeting_card_option_four_text",
+    "byconsolecusgreeting_card_pdf_four",
+    "byconsolecusgreeting_card_option_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_byconsole_free_plugin_greeting_card_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:59.095Z"
+}

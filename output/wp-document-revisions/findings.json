@@ -1,0 +1,22 @@
+{
+  "options": [
+    "document_upload_directory",
+    "document_slug",
+    "document_link_date",
+    "rss_language"
+  ],
+  "transients": [
+    "settings_errors",
+    "wpdr_activation_issue"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_thumbnail_id",
+    "_wp_attachment_metadata",
+    "_wpdr_meta_hidden"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:07.324Z"
+}

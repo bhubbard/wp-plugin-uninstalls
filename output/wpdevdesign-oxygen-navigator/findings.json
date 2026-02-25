@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ct_template_type",
+    "ct_parent_template",
+    "ct_builder_shortcodes",
+    "ct_other_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:10.118Z"
+}

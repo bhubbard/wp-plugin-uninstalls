@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hazel_harlow_api_key",
+    "hazel_harlow_days"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hazel_harlow_bulk_update_cron",
+    "hazel_harlow_bulk_rewrite_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:51.976Z"
+}

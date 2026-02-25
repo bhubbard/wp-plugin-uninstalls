@@ -1,0 +1,31 @@
+{
+  "options": [
+    "cf7pp_show_earnings_notice",
+    "cf7pp_my_plugin_notice_shown",
+    "cf7pp_options"
+  ],
+  "transients": [
+    "_cf7pp_extensions_feed"
+  ],
+  "cron_jobs": [
+    "cf7pp_payment_check_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7pp_enable",
+    "_cf7pp_enable_stripe",
+    "_cf7pp_name",
+    "_cf7pp_price",
+    "_cf7pp_id",
+    "_cf7pp_gateway",
+    "_cf7pp_stripe_email",
+    "transaction_id",
+    "amount",
+    "gateway",
+    "_wp_trash_meta_status",
+    "payer_email",
+    "_cf7pp_ppcp_order_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:07.668Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wdseg_guidelines_text",
+    "wdseg_text_color",
+    "wdseg_background_color",
+    "wdseg_post_type_*",
+    "wdseg_user_role_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:01.318Z"
+}

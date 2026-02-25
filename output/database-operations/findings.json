@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tb1",
+    "tb2",
+    "qryop",
+    "charts",
+    "pwpc_types",
+    "pwpc_legend",
+    "ct_ms_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:18.126Z"
+}

@@ -1,0 +1,39 @@
+{
+  "options": [
+    "wp_discord_post_plus_mention_everyone",
+    "wp_discord_post_plus_post_webhook_url",
+    "wp_discord_enabled_for_woocommerce_products",
+    "wp_discord_post_plus_product_webhook_url",
+    "wp_discord_product_message_format",
+    "wp_discord_enabled_for_woocommerce",
+    "wp_discord_order_plus_message_format",
+    "wp_discord_post_plus_bot_username",
+    "wp_discord_post_plus_avatar_url",
+    "wp_discord_post_plus_bot_token",
+    "wp_discord_post_plus_webhook_url",
+    "wp_discord_post_plus_logging",
+    "wp_discord_post_plus_disable_embed",
+    "wp_discord_post_plus_message_format",
+    "wp_discord_post_plus_settings_webhooks_input",
+    "wp_discord_enabled_for_cf7",
+    "wp_discord_post_plus_cf7_webhook_url",
+    "wp_discord_enabled_for_jetpack_cf",
+    "wp_discord_post_plus_jetpack_webhook_url",
+    "wp_discord_enabled_for_gf",
+    "wp_discord_post_plus_gf_webhook_url",
+    "wp_discord_post_plus_order_webhook_url",
+    "wp_discord_post_plus_giphy_api_key",
+    "wp_discord_order_plus_plus_message_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_discord_send_flag",
+    "wp_discord_mention_flag",
+    "_wp_discord_post_plus_published",
+    "_wp_discord_post_published"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:09.775Z"
+}

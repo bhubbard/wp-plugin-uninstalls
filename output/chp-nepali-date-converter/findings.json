@@ -1,0 +1,13 @@
+{
+  "options": [
+    "chpdate_enable_settings",
+    "chpdate_comment_settings",
+    "chpdate_format_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:51.813Z"
+}

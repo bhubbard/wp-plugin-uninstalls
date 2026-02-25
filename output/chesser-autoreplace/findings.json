@@ -1,0 +1,13 @@
+{
+  "options": [
+    "chesser_autoreplace_active",
+    "chesser_autoreplace_rules",
+    "chesser_autoreplace_use_mb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:03.510Z"
+}

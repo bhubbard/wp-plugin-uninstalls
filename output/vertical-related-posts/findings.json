@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cc_vrp_options",
+    "cc_vrp_activate_flag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "disableVRPOnPage",
+    "numberOfDisplayedPosts",
+    "customPostTypesToUse",
+    "checkedTypes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:57.589Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wgac_coupon_enabled",
+    "wgac_order_amount",
+    "wgac_discount_percentage",
+    "wgac_expiration_date",
+    "wgac_coupon_description",
+    "wgac_subject_email",
+    "wgac_content_email",
+    "woocommerce_email_header_image",
+    "woocommerce_email_footer_text",
+    "woocommerce_email_base_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "usage_limit",
+    "coupon_amount",
+    "usage_limit_per_user",
+    "individual_use",
+    "customer_email",
+    "expiry_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:35.327Z"
+}

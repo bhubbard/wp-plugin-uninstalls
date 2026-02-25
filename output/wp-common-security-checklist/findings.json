@@ -1,0 +1,17 @@
+{
+  "options": [
+    "csc_general_settings",
+    "csc_login_attempts_settings",
+    "csc_redirect",
+    "csc_admin",
+    "_transient_timeout_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "comment_captcha"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:01.609Z"
+}

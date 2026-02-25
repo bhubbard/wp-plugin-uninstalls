@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ez_google_client_id",
+    "ez_google_client_secret",
+    "ez_sms_username",
+    "ez_sms_password",
+    "ez_sms_number",
+    "ez_sms_timer_duration",
+    "ez_sms_max_attempts",
+    "ez_sms_block_duration",
+    "ez_sms_send_mode",
+    "ez_sms_pattern_code",
+    "ez_sms_provider",
+    "ezlogin_custom_css"
+  ],
+  "transients": [
+    "ez_sms_blocked_until_*",
+    "ez_sms_last_otp_*",
+    "ez_sms_otp_*",
+    "ez_sms_test_otp_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:43.834Z"
+}

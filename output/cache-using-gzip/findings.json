@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "cugz_notice"
+  ],
+  "cron_jobs": [
+    "cugz_cron_auto_preload"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:19.002Z"
+}

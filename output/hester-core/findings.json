@@ -1,0 +1,29 @@
+{
+  "options": [
+    "shopwell_builder_enable",
+    "hester_wpforms_imported_ids",
+    "wpforms_settings",
+    "widget_*",
+    "sidebars_widgets",
+    "elementor_active_kit",
+    "dismissed-hester_info_woocommerce",
+    "fresh_site"
+  ],
+  "transients": [
+    "hester_check_plugin_update",
+    "hester_core_demo_templates",
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id",
+    "_menu_item_mega",
+    "_menu_item_mega_grid",
+    "_menu_item_mega_tab",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:04.495Z"
+}

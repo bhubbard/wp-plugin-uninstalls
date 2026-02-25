@@ -1,0 +1,13 @@
+{
+  "options": [
+    "agw_admin_notice_msg",
+    "agw_admin_notice_style",
+    "agw_admin_notice_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:30.753Z"
+}

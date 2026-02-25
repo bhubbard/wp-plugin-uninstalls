@@ -1,0 +1,35 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "disco_settings",
+    "woocommerce_tax_display_shop",
+    "DISCO_DB_VERSION",
+    "*_tracking_last_send",
+    "woocommerce_default_country",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "disco_review_notice",
+    "disco_review_notice_next_show_time",
+    "disco_wpml_notice_hidden",
+    "disco_rp-wcdpd_notice_hidden"
+  ],
+  "transients": [
+    "*_cached_promos"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "disco_review_dismissed",
+    "disco_promotional_holiday_banner_2025",
+    "disco_compatible_plugin_notice_dismissed",
+    "disco_feature_unlock_notice_dismissed",
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "disco_review_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:54.048Z"
+}

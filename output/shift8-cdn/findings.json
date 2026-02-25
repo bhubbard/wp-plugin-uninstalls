@@ -1,0 +1,28 @@
+{
+  "options": [
+    "shift8_cdn_url",
+    "shift8_cdn_api",
+    "shift8_cdn_prefix",
+    "shift8_cdn_minify_html",
+    "shift8_cdn_minify_html_skip_logged_in",
+    "shift8_cdn_minify_html_preserve_comments",
+    "shift8_cdn_minify_css",
+    "shift8_cdn_minify_js",
+    "shift8_cdn_enabled",
+    "shift8_cdn_css",
+    "shift8_cdn_js",
+    "shift8_cdn_media",
+    "shift8_cdn_reject_files",
+    "shift8_cdn_email"
+  ],
+  "transients": [
+    "shift8_cdn_minify_map"
+  ],
+  "cron_jobs": [
+    "shift8_cdn_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:40.798Z"
+}

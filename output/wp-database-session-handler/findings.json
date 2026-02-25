@@ -1,0 +1,16 @@
+{
+  "options": [
+    "sc_session_handler_clean_on_open",
+    "sc_session_handler_clean_on_gc",
+    "sc_session_handler_clean_every",
+    "sc_session_handler_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sc_mysqlsession_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:02.215Z"
+}

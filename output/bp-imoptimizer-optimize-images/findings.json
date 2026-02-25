@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bp_imoptimizer_options"
+  ],
+  "transients": [
+    "bp_imoptimizer_conversion_errors",
+    "bp_imoptimizer_settings_reset"
+  ],
+  "cron_jobs": [
+    "bp_imoptimizer_periodic_log_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bp_imoptimizer_pending_conversion",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:44.704Z"
+}

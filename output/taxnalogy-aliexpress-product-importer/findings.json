@@ -1,0 +1,24 @@
+{
+  "options": [
+    "takaliepi_settings",
+    "takaliepi_settings_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tak_review_url",
+    "_tak_review_sup",
+    "_tak_review_active",
+    "_tak_json_data",
+    "_tak_variation_list",
+    "_product_attributes",
+    "attribute_*",
+    "_tak_var_data",
+    "_tak_aliexpress_id",
+    "_tak_review_widget",
+    "_tak_last_update_timestamp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:36.367Z"
+}

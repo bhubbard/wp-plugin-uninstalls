@@ -1,0 +1,50 @@
+{
+  "options": [
+    "fluentcrm-global-settings",
+    "_fluentcrm_experimental_settings",
+    "_fc_last_funnel_processor_ran",
+    "fluentmail-settings",
+    "_fluentcrm_compliance_settings",
+    "_fc_last_funnel_processor",
+    "woocommerce_custom_orders_table_enabled",
+    "fluentcrm_is_sending_emails",
+    "fluentcrm_is_sending_multi_emails",
+    "*-global-settings",
+    "_fluentcrm_db_version",
+    "_fluent_last_m_run"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "fluentcrm_scheduled_minute_tasks",
+    "fluentcrm_scheduled_hourly_tasks",
+    "fluentcrm_scheduled_weekly_tasks",
+    "fluentcrm_scheduled_five_minute_tasks",
+    "fluentcrm_scheduled_daily_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_last_login",
+    "_fcrm_has_role",
+    "_application_passwords",
+    "_design_template",
+    "_footer_settings",
+    "_edit_type",
+    "_template_config",
+    "_email_subject",
+    "first_name",
+    "last_name",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:57.415Z"
+}

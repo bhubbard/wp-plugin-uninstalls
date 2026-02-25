@@ -1,0 +1,32 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "failure_email_sent",
+    "csl_award_count",
+    "csl_imported_awards",
+    "deadline",
+    "isForecasted",
+    "grantID",
+    "recipientType",
+    "primaryRecipientFirstName",
+    "primaryRecipientLastName",
+    "primaryRecipientName",
+    "geoLocationServed",
+    "countiesServed",
+    "projectTitle",
+    "applicationNotes",
+    "awardStats",
+    "applicationsSubmitted",
+    "grantsAwarded",
+    "matchingFundsNotes",
+    "disbursementMethodNotes",
+    "adminSecondaryContact",
+    "applicantTypeNotes",
+    "revenueSourceNotes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:35.258Z"
+}

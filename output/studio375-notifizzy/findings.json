@@ -1,0 +1,17 @@
+{
+  "options": [
+    "notifizzy_token",
+    "notifizzy_entries",
+    "notifizzy_log",
+    "notifizzy_response1",
+    "notifizzy_response"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "notifizzy_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:00.223Z"
+}

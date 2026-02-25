@@ -1,0 +1,19 @@
+{
+  "options": [
+    "use_popular_tags",
+    "custom_keywords",
+    "use_default_cache",
+    "can_cache",
+    "cache_expire_milliseconds"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_age",
+    "user_type",
+    "user_gender"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:07.691Z"
+}

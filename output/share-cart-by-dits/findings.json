@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "sharcaby_cleanup_old_cart_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_shared_cart_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:10.554Z"
+}

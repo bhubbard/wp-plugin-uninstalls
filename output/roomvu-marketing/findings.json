@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rvm_cron_text",
+    "rvm_cron_text_runs",
+    "*posts_settings"
+  ],
+  "transients": [
+    "flash_error_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:45.386Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_wc-integration-to-nettix_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woocommerce_integration_nettix_ad_handler_cron_hook",
+    "woocommerce_integration_nettix_log_cleanup_cron_hook",
+    "woocommerce_integration_nettix_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_integration_to_nettix_vehicle_type",
+    "_wc_integration_to_nettix_boat_type",
+    "_wc_integration_to_nettix_boat_sub_type",
+    "_wc_integration_to_nettix_maker",
+    "_wc_integration_to_nettix_model",
+    "_wc_integration_to_nettix_model_type",
+    "_wc_integration_to_nettix_base",
+    "_wc_integration_to_nettix_year",
+    "_wc_integration_to_nettix_kms",
+    "_wc_integration_to_nettix_hours",
+    "_wc_integration_to_nettix_fuel_type",
+    "_wc_integration_to_nettix_engine_maker",
+    "_wc_integration_to_nettix_engine_model",
+    "_wc_integration_to_nettix_engine_model_specification",
+    "_wc_integration_to_nettix_location"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:59.188Z"
+}

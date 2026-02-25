@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cateco_settings",
+    "cc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cateco_order",
+    "_cc_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:45.380Z"
+}

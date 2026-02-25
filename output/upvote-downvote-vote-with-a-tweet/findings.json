@@ -1,0 +1,17 @@
+{
+  "options": [
+    "udv:globalOptions",
+    "udv:widgetOptions",
+    "udv:bannerOptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "udv_formID_main_topicid",
+    "udv_formID_main_format",
+    "udv_formID_main_position"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:27.113Z"
+}

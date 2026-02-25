@@ -1,0 +1,33 @@
+{
+  "options": [
+    "GTIPFETitulo_Ajustes_GTI",
+    "GTIPFENumero_de_Cuenta",
+    "GTIPFEDecimales",
+    "GTIPFESufijo",
+    "GTIPFECodigo_Actividad",
+    "GTIPFEUsuario",
+    "GTIPFEClave",
+    "GTIPFEPunto_Facturacion",
+    "GTIPFEambiente",
+    "GTIPFETipoRuc",
+    "GTIPFERuc",
+    "GTIPFEDV",
+    "GTIPFENombEm",
+    "GTIPFEGTIPFECoordEmLat",
+    "GTIPFECoordEmLong",
+    "GTIPFEDirecEm",
+    "GTIPFECorreg",
+    "GTIPFEDistr",
+    "GTIPFEProv",
+    "GTIPFETfnEm",
+    "GTIPFECorElectEmi"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_send_invoice_pf"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:54.765Z"
+}

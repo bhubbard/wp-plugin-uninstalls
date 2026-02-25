@@ -1,0 +1,36 @@
+{
+  "options": [
+    "rewrite_rules",
+    "cmdm_access_denied_page_id",
+    "sidebars_widgets",
+    "CMDM_downloading_permissions",
+    "CMDM_download_permissions",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "cm_refresh_404_permalinks"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cmdm_comment_old_status",
+    "cmdm_dismiss_notices",
+    "cmdm_allowed_user_id",
+    "cmdm_attachment",
+    "cmdm_file_size",
+    "_cmdm_owner_id",
+    "_wp_attachment_metadata",
+    "_thumbnail_id",
+    "_thread_last_poster",
+    "_thread_title",
+    "_thread_updated",
+    "_thread_posts",
+    "_thread_listeners",
+    "_thread_resolved"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:36.506Z"
+}

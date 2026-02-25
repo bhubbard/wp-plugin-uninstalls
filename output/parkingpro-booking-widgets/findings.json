@@ -1,0 +1,16 @@
+{
+  "options": [
+    "parkingpro_booking_widgets_filter_services",
+    "parkingpro_booking_widgets_myparkingpro_url",
+    "parkingpro_booking_widgets_remember_widget_fields",
+    "parkingpro_booking_widgets_affiliate_tracking",
+    "parkingpro_booking_widgets_culture",
+    "parkingpro_booking_widgets_google_analytics_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:13.860Z"
+}

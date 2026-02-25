@@ -1,0 +1,19 @@
+{
+  "options": [
+    "asnp_easy_product_bundle_settings",
+    "*_added",
+    "asnp_easy_product_bundle_review",
+    "asnp_wepb_db_version",
+    "woocommerce_calc_taxes"
+  ],
+  "transients": [
+    "asnp_wepb_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:05.410Z"
+}

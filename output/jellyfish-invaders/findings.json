@@ -1,0 +1,13 @@
+{
+  "options": [
+    "jellyfish_invaders_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jellyfish_invaders"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:32.247Z"
+}

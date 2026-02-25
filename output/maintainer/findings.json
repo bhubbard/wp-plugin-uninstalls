@@ -1,0 +1,23 @@
+{
+  "options": [
+    "maintainer_secondary_text",
+    "maintainer_ips",
+    "maintainer_roles",
+    "maintainer_active",
+    "maintainer_query",
+    "maintainer_show_welcome",
+    "maintainer_primary_text",
+    "maintainer_page_title",
+    "maintainer_page_description",
+    "maintainer_background_color",
+    "maintainer_text_color",
+    "maintainer_noindex",
+    "maintainer_template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:37.616Z"
+}

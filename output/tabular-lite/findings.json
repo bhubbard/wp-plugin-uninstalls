@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpgo_tabular_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpgo_tabular_cpt_type",
+    "_wpgo_tabular_template",
+    "_wpgo_tabular_cpt_js",
+    "_wpgo_tabular_cpt_image",
+    "_wpgo_tabular_cpt_config_js",
+    "_wpgo_tabular_cpt_css",
+    "_wpgo_tabular_cpt_html",
+    "_wpgo_tabular_cpt_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:24.457Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rsa_hide_page_cache_notice",
+    "rsa_options",
+    "rsa_mode",
+    "rsa_activation_version",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:30.158Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_debug",
+    "*_version",
+    "*_updates",
+    "*_settings",
+    "*_meta",
+    "recently_activated",
+    "*_msg",
+    "*_install_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mailchimp_campaign_id",
+    "*_meta",
+    "vxc_mailchimp_check_*",
+    "_raq_request"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:51.634Z"
+}

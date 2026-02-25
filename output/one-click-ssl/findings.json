@@ -1,0 +1,30 @@
+{
+  "options": [
+    "ocssl",
+    "ocssl_areas",
+    "ocssl_activation_redirect",
+    "ocssl_nonsslredirect",
+    "ocssl_ratereview_scheduled",
+    "ocssl_dismissed-ssloff",
+    "ocssl_dismissed-ratereview",
+    "ocssl_toolsmenu",
+    "ocssl_global",
+    "ocssl_showmessage_ratereview",
+    "ocssl_hidemessage_ratereview",
+    "one_click_ssl_smart_rating_dismissed",
+    "ocssl_dismissed-*",
+    "ocssl_auth_username",
+    "ocssl_auth_password",
+    "ocssl_basic_auth_required"
+  ],
+  "transients": [
+    "ocssl_settings_notice"
+  ],
+  "cron_jobs": [
+    "ocssl_ratereviewhook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:20.560Z"
+}

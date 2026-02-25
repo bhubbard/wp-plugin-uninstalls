@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_qq_content_*",
+    "_qq_possible_answers",
+    "_qq_enable_show_btn",
+    "_qq_good_answers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:34.285Z"
+}

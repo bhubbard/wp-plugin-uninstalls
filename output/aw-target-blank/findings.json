@@ -1,0 +1,15 @@
+{
+  "options": [
+    "awtb_select_idclass",
+    "awtb_class_name",
+    "awtb_id_name",
+    "awtb_chooseclr",
+    "message_box"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:42.489Z"
+}

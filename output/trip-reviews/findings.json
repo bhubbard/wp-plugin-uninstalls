@@ -1,0 +1,30 @@
+{
+  "options": [
+    "trpre_settings",
+    "trpre_db_version",
+    "woocommerce_currency",
+    "wp_travel_engine_settings",
+    "trpre_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "trpre_cleanup_spam_reviews",
+    "tre_cleanup_spam_reviews"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_trpre_trip_id",
+    "_trpre_reviewer_name",
+    "_trpre_reviewer_email",
+    "_trpre_reviewer_ip",
+    "_trpre_rating",
+    "_trpre_custom_ratings",
+    "_trpre_admin_response",
+    "_*",
+    "wp_travel_engine_setting_trip_price",
+    "tre_review_count",
+    "tre_last_review_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:20.058Z"
+}

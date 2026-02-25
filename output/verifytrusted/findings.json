@@ -1,0 +1,19 @@
+{
+  "options": [
+    "vtrust_enable_custom_styles",
+    "vtrust_card_bg_color",
+    "vtrust_card_border_color",
+    "vtrust_name_color",
+    "vtrust_body_color",
+    "vtrust_font_family",
+    "vtrust_name_font_size",
+    "vtrust_date_font_size",
+    "vtrust_body_font_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:30.858Z"
+}

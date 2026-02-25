@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cnun_user_mail_content",
+    "cnun_admin_mail_content",
+    "cnun_user_mail_subject",
+    "cnun_admin_mail_subject",
+    "cnun_user_mail_sender_mail",
+    "cnun_admin_mail_sender_mail",
+    "cnun_user_mail_sender_name",
+    "cnun_admin_mail_sender_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:31.489Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "tsm_quote",
+    "facebook_comments_master_system_wide_app",
+    "facebook_comments_master_system_wide_app_id",
+    "facebook_comments_master_system_wide_user",
+    "facebook_comments_master_system_wide_user_id",
+    "facebook_comments_master_system_wide_lang",
+    "facebook_comments_master_system_wide_lang_set"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:28.961Z"
+}

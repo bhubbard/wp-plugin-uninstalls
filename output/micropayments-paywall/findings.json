@@ -1,0 +1,21 @@
+{
+  "options": [
+    "trelismpw_enabled",
+    "trelismpw_product_price",
+    "lifetime_access_price",
+    "stripe_enabled",
+    "stripe_api_key",
+    "stripe_api_secret",
+    "stripe_webhook_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_trelismpw_enabled",
+    "trelismpw_access",
+    "_trelismpw_product_price"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:17.244Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "Sidebar_Contact_Me_Button_Username",
+    "Sidebar_Contact_Me_Button_DisplayName",
+    "Sidebar_Contact_Me_Button_buttonType",
+    "Sidebar_Contact_Me_Button_overlay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:16.132Z"
+}

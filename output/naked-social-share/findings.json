@@ -1,0 +1,15 @@
+{
+  "options": [
+    "naked_social_share_settings",
+    "naked_social_share_version",
+    "naked_ss__settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "naked_shares_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:06.653Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_region",
+    "*_key",
+    "*_secret",
+    "*_api_key",
+    "*_domain",
+    "*_active_adapter",
+    "*_from_name",
+    "*_from_email",
+    "*_hijack_wp_mail",
+    "*_customer_id",
+    "*_account_sid",
+    "*_auth_token",
+    "*_from"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:21.503Z"
+}

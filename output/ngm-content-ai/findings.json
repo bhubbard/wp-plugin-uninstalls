@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ngmcai_content_ai_settings",
+    "ngmcai_content_ai_version",
+    "ngmcai_content_ai_activation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ngmcai_content_ai_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:21.906Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_transient_timeout_*",
+    "wp_riotd_execution_before_image_processing",
+    "wp_riotd_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_force_cache_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:29.767Z"
+}

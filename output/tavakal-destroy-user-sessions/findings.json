@@ -1,0 +1,15 @@
+{
+  "options": [
+    "tavakal_included_roles",
+    "tavakal_time_type",
+    "tavakal_time_before_destroying_sessions"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tavakal_destroy_expired_sessions"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:42.224Z"
+}

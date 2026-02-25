@@ -1,0 +1,25 @@
+{
+  "options": [
+    "koko_analytics_settings",
+    "koko_analytics_referrers_v2",
+    "koko_analytics_version",
+    "koko_analytics_realtime_pageview_count",
+    "koko_analytics_last_aggregation_at",
+    "koko_analytics_use_custom_endpoint",
+    "koko_analytics_jetpack_import_params",
+    "koko_analytics_pro_version"
+  ],
+  "transients": [
+    "koko_analytics_remote_posts"
+  ],
+  "cron_jobs": [
+    "koko_analytics_aggregate_stats",
+    "koko_analytics_prune_data",
+    "koko_analytics_rotate_fingerprint_seed",
+    "koko_analytics_test_custom_endpoint"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:33.470Z"
+}

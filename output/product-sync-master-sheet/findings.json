@@ -1,0 +1,19 @@
+{
+  "options": [
+    "pssg_saved_data",
+    "*_notice_close_date"
+  ],
+  "transients": [
+    "*_right_now"
+  ],
+  "cron_jobs": [
+    "order_event_trigger_hook",
+    "variations_event_trigger_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_product_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:05.311Z"
+}

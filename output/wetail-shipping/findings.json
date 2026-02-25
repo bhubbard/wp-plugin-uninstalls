@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wetail_shipping_api_key",
+    "wetail_shipping_manual_order_validation",
+    "wetail_shipping_ignore_product_dimension_if_not_given",
+    "wetail_shipping_create_labels",
+    "wetail_shipping_book_pickup_manually",
+    "wetail_shipping_has_multiple_senders",
+    "wetail_shipping_enable_manual_shipping_service_selection_override",
+    "wetail_shipping_print_pdfs_on_status",
+    "wetail_shipping_returns_url",
+    "wetail_shipping_return_carrier_service",
+    "wetail_shipping_wse_to_wetail_shipping_options_migrated",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "wetail_shipping_template_weight"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wc_order_status_set_sync_cb_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:42.640Z"
+}

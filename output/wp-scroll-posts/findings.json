@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wpsp_nop",
+    "wpsp_nops",
+    "wpsp_mnop",
+    "wpsp_cat",
+    "wpsp_direction",
+    "wpsp_readmore",
+    "wpsp_enable",
+    "wpsp_mousepause",
+    "wpsp_speed",
+    "wpsp_ptime",
+    "wpsp_thumbnail_enable",
+    "wpsp_title_enable",
+    "wpsp_date_enable",
+    "wpsp_excerpt_enable",
+    "wpsp_readmore_enable",
+    "wpsp_c_len"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:38.832Z"
+}

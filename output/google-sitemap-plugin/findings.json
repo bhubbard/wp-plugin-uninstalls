@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "gglstmp_robots",
+    "gglstmp_options",
+    "htccss_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [
+    "gglstmp_schedule_news_sitemap",
+    "gglstmp_sitemap_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers",
+    "_gglstmp_meta_canonical_tag",
+    "_gglstmp_meta_noindex"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:35.251Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "qcld_wb_chatbot_theme",
+    "qcld_woo_chatbot_theme",
+    "enable_chat_session"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:29.444Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "videoigniter_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_videoigniter_tracks",
+    "_videoigniter_playlist_layout",
+    "_videoigniter_volume",
+    "_videoigniter_show_fullscreen_toggle",
+    "_videoigniter_show_playback_speed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:16.751Z"
+}

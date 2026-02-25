@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cp_module_authtopupcp_account",
+    "cp_module_authtopupcp_transaction",
+    "cp_module_authtopupcp_sandbox",
+    "cp_module_authtopupcp_currency",
+    "cp_module_authtopupcp_item",
+    "cp_module_authtopupcp_cancel",
+    "cp_module_authtopupcp_thankyou",
+    "cp_module_authtopupcp_price",
+    "cp_module_authtopupcp_min",
+    "cp_module_authtopupcp_form"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:21.317Z"
+}

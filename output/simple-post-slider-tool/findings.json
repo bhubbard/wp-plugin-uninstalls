@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_featured_video_url",
+    "_spst_selected_posts",
+    "_spst_autoplay",
+    "_spst_speed",
+    "_spst_slides_per_view"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:17.728Z"
+}

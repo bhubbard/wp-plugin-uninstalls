@@ -1,0 +1,17 @@
+{
+  "options": [
+    "blogify_client_secret",
+    "blogify_display_admin_menu_pages"
+  ],
+  "transients": [
+    "blogify_user_details"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "blogify_meta_description",
+    "blogify_meta_tags"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:46.480Z"
+}

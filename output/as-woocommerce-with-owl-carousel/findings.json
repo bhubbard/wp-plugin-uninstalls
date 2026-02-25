@@ -1,0 +1,12 @@
+{
+  "options": [
+    "as_woo_owl_all_opt_save",
+    "as_woo_owl_all_settings_save"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:13.778Z"
+}

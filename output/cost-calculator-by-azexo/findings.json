@@ -1,0 +1,18 @@
+{
+  "options": [
+    "azh-library",
+    "azh-all-settings",
+    "azh-get-content-scripts",
+    "azh-content-settings",
+    "azh-forms-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_hash",
+    "form_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:36.806Z"
+}

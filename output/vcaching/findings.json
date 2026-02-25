@@ -1,0 +1,42 @@
+{
+  "options": [
+    "varnish_caching_enable",
+    "varnish_caching_ttl",
+    "varnish_caching_homepage_ttl",
+    "varnish_caching_ips",
+    "varnish_caching_dynamic_host",
+    "varnish_caching_hosts",
+    "varnish_caching_override",
+    "varnish_caching_purge_key",
+    "varnish_caching_cookie",
+    "varnish_caching_stats_json_file",
+    "varnish_caching_truncate_notice",
+    "varnish_caching_purge_menu_save",
+    "varnish_caching_ssl",
+    "varnish_caching_debug",
+    "*ssl",
+    "*purge_key",
+    "*truncate_notice",
+    "*debug",
+    "*override",
+    "*homepage_ttl",
+    "*ips",
+    "*hosts",
+    "*dynamic_host",
+    "*stats_json_file",
+    "*purge_menu_save",
+    "*ttl",
+    "*enable",
+    "*cookie",
+    "*varnish_backends",
+    "*varnish_acls"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*ttl"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:26.396Z"
+}

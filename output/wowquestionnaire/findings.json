@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_settings_options",
+    "wow-questionnaire_settings_options",
+    "*_options",
+    "*_gdpr_options",
+    "*_privacy_policy_options",
+    "wow-questionnaire_privacy_policy_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:10.706Z"
+}

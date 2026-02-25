@@ -1,0 +1,20 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "postratings_max"
+  ],
+  "transients": [
+    "gdrts_dbfour_upgrade_steps"
+  ],
+  "cron_jobs": [
+    "gdrts_cron_daily_maintenance_job",
+    "gdrts_cron_ondemand_maintenance_job"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gdrts_rows_ratings_per_page",
+    "gdrts_rows_votes_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:12.823Z"
+}

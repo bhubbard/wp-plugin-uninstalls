@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'cf7_to_api_entry_hide'
+wp option delete 'cf7_to_api_log_hide'
+wp option delete 'cf7_to_api_before_mail_sent'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_selected_form'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_selected_form'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_selected_form'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_selected_form'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_form_field'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_form_field'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_form_field'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_form_field'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_base_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_base_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_base_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_base_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_basic_auth'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_basic_auth'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_basic_auth'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_basic_auth'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_bearer_auth'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_bearer_auth'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_bearer_auth'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_bearer_auth'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_input_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_input_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_input_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_input_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_method'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_method'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_method'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_method'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_header_request'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_header_request'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_header_request'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_header_request'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_enable_condition'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_enable_condition'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_enable_condition'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_enable_condition'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'cf7anyapi_conditions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'cf7anyapi_conditions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'cf7anyapi_conditions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'cf7anyapi_conditions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cf7api_status'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cf7api_status'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cf7api_status'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cf7api_status'"

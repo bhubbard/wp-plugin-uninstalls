@@ -1,0 +1,21 @@
+{
+  "options": [
+    "phpmail_from_email",
+    "phpmail_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "optin_From_List_Fields",
+    "optint_redUrl_Flag",
+    "optint_Url_link",
+    "FromUrlOptin",
+    "Optin_Form_Html",
+    "Optin_Flds_fld",
+    "Optin_ID",
+    "Optin_List_ID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:24.338Z"
+}

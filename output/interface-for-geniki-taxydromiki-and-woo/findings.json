@@ -1,0 +1,23 @@
+{
+  "options": [
+    "username",
+    "password",
+    "appkey",
+    "pagetype",
+    "testmode",
+    "autogenerate"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geniki-taxidromiki-is-canceled",
+    "geniki-taxidromiki-is-closed",
+    "geniki-taxidromiki-jobid",
+    "geniki-taxidromiki-voucher-number",
+    "geniki-taxidromiki-voucher-url",
+    "geniki-taxidromiki-voucher-date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:33.853Z"
+}

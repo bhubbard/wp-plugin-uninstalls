@@ -1,0 +1,13 @@
+{
+  "options": [
+    "res_locationss",
+    "res_propertiess",
+    "res_pricess"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:10.740Z"
+}

@@ -1,0 +1,40 @@
+{
+  "options": [
+    "pisol_aaot_email_position",
+    "pisol_aaot_customer_email_position",
+    "pisol_aaot_telegram_bot_token",
+    "pisol_aaot_telegram_channel_id",
+    "woocommerce_weight_unit",
+    "pi_aaot_do_activation_redirect",
+    "pisol_aaot_product_tag_in_email",
+    "pisol_aaot_product_tag_in_success",
+    "pisol_aaot_delete_data_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pisol_aaot_tag_color",
+    "_pisol_aaot_action_send_email",
+    "_pisol_aaot_email_recipient",
+    "_pisol_aaot_email_subject",
+    "_pisol_aaot_email_message",
+    "_pisol_aaot_email_execution_frequency",
+    "_pisol_aaot_conditions",
+    "_pisol_aaot_action_send_telegram",
+    "_pisol_aaot_telegram_message",
+    "_pisol_aaot_telegram_execution_frequency",
+    "_pisol_aaot_action_send_webhook",
+    "_pisol_aaot_webhook_url",
+    "_pisol_aaot_webhook_custom_headers",
+    "_pisol_aaot_webhook_include_items",
+    "_pisol_aaot_webhook_include_customer",
+    "_pisol_aaot_webhook_include_billing",
+    "_pisol_aaot_webhook_include_shipping",
+    "_pisol_aaot_webhook_include_tags",
+    "_pisol_aaot_webhook_execution_frequency",
+    "_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:39.335Z"
+}

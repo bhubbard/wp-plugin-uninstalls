@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ninja_annc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ninja_annc_meta"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:23.537Z"
+}

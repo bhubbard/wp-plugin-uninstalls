@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attached_file'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dominant_color_hex'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dominant_color_hex'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dominant_color_hex'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dominant_color_hex'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dominant_color_rgb'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dominant_color_rgb'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dominant_color_rgb'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dominant_color_rgb'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'color_palette_rgb'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'color_palette_rgb'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'color_palette_rgb'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'color_palette_rgb'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'color_palette_hex'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'color_palette_hex'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'color_palette_hex'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'color_palette_hex'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dominant_override'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dominant_override'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dominant_override'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dominant_override'"

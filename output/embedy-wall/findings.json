@@ -1,0 +1,19 @@
+{
+  "options": [
+    "embedly-wall-api-key",
+    "embedly-wall-image-width",
+    "embedly-wall-image-height",
+    "embedly-wall-snarf-images",
+    "embedly-wall-ripped-image-height",
+    "embedly-wall-ripped-image-width"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "unique-string",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:57.437Z"
+}

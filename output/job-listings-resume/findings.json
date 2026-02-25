@@ -1,0 +1,32 @@
+{
+  "options": [
+    "jlt_resume",
+    "jlt_resume_custom_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_submitting_key",
+    "candidate_resume",
+    "_in_review",
+    "_jlt_file_cv",
+    "_viewable",
+    "_education_school",
+    "_education_qualification",
+    "_education_date",
+    "_education_note",
+    "_experience_employer",
+    "_experience_job",
+    "_experience_date",
+    "_experience_note",
+    "_skill_name",
+    "_skill_percent",
+    "_new_resume_emailed",
+    "_resume",
+    "_resume_added",
+    "_candidate_package"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:34.489Z"
+}

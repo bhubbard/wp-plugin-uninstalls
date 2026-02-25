@@ -1,0 +1,23 @@
+{
+  "options": [
+    "mpgr_version",
+    "mpgr_weekly_summary_settings",
+    "mpgr_reminder_settings"
+  ],
+  "transients": [
+    "mpgr_report_cache",
+    "mpgr_summary_cache"
+  ],
+  "cron_jobs": [
+    "mpgr_run_gift_reminders",
+    "mpgr_run_weekly_summary",
+    "mpgr_cleanup_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:53.277Z"
+}

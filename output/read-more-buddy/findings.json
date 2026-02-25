@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_display_radio",
+    "*_display_position",
+    "read_mb_read_more_text",
+    "read_mb_read_less_text",
+    "read_mb_text_color",
+    "read_mb_text_hover",
+    "read_mb_button_background",
+    "read_mb_button_hover",
+    "read_mb_width",
+    "read_mb_font_size",
+    "read_mb_display_radio",
+    "read_mb_display_position",
+    "*_text_color",
+    "*_font_size",
+    "*_text_hover",
+    "*_width",
+    "*_button_background",
+    "*_button_hover",
+    "*_read_more_text",
+    "*_read_less_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:59.139Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ob_campayn_apikey",
+    "campayn_forms_table",
+    "ob_campayn_list",
+    "ob_campayn_enabled",
+    "ob_campayn_text",
+    "campayn_dbversion"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:17.145Z"
+}

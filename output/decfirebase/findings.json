@@ -1,0 +1,14 @@
+{
+  "options": [
+    "decfirebase_url",
+    "decfirebase_secrets"
+  ],
+  "transients": [
+    "_decfirebase_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:47.257Z"
+}

@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*membershipsdash",
+    "*_type",
+    "*_label",
+    "*redirect_slug",
+    "*enable_regpage",
+    "*page_title",
+    "*register_targetmenu",
+    "*default_enrollment",
+    "ref_info_css",
+    "*after_registration_message",
+    "*_version",
+    "*ref_info_text",
+    "woocommerce_registration_generate_username",
+    "woocommerce_registration_generate_password"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_first_name",
+    "first_name",
+    "billing_last_name",
+    "last_name",
+    "*referred_by",
+    "*referred_by_id",
+    "refname",
+    "profile_photo",
+    "billing_phone"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:31.154Z"
+}

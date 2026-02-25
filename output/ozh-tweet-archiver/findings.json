@@ -1,0 +1,20 @@
+{
+  "options": [
+    "ozh_ta",
+    "ozh_ta_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ozh_ta_cron_import"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ozh_ta_id",
+    "ozh_ta_source",
+    "ozh_ta_reply_to_name",
+    "ozh_ta_reply_to_tweet",
+    "ozh_ta_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:11.040Z"
+}

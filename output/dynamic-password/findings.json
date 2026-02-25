@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_dy_pwd_master_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dy_pwd_active",
+    "_dy_pwd_val"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:59.333Z"
+}

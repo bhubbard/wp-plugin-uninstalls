@@ -1,0 +1,24 @@
+{
+  "options": [
+    "utmm_utm_id",
+    "utmm_utm_source",
+    "utmm_utm_medium",
+    "utmm_utm_campaign",
+    "utmm_utm_term",
+    "utmm_utm_content",
+    "utmm_version",
+    "utmm_data_migrated",
+    "utmm_installed",
+    "utmm_migration_page",
+    "utmm_*",
+    "utmm_flash_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "utmm_migrate_data"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:31.106Z"
+}

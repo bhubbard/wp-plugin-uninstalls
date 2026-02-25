@@ -1,0 +1,35 @@
+{
+  "options": [
+    "icvaac_api_enabled",
+    "icvaac_test_mode",
+    "icvaac_stripe_publishable_key",
+    "icvaac_stripe_secret_key",
+    "icvaac_openai_api_key",
+    "icvaac_webhook_secret",
+    "icvaac_enable_logging"
+  ],
+  "transients": [
+    "icvaac_product_feed_cache"
+  ],
+  "cron_jobs": [
+    "icvaac_update_product_feed"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_acp_session_id",
+    "_acp_payment_intent_id",
+    "_icvaac_test_order",
+    "_icvaac_enable_chatgpt",
+    "_acp_status",
+    "_acp_request_data",
+    "_acp_line_items",
+    "_acp_totals",
+    "_acp_fulfillment_options",
+    "_acp_messages",
+    "_acp_selected_fulfillment_option",
+    "_acp_order_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:24.085Z"
+}

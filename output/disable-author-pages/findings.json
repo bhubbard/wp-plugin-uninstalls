@@ -1,0 +1,16 @@
+{
+  "options": [
+    "disable_author_pages_redirect_non_authors",
+    "disable_author_pages_activate",
+    "disable_author_pages_adminonly",
+    "disable_author_pages_status",
+    "disable_author_pages_destination",
+    "disable_author_pages_authorlink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:38.190Z"
+}

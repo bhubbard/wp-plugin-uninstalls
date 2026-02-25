@@ -1,0 +1,18 @@
+{
+  "options": [
+    "griffinforms_db_migrations_version",
+    "griffinforms_lifetime_submission_count_backfilled",
+    "griffinforms_form_element_form_id_backfilled",
+    "griffinforms_form_element_form_id_backfill_last_id",
+    "griffinforms_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "griffinforms_process_jobs",
+    "griffinforms_log_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:48.162Z"
+}

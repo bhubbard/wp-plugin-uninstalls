@@ -1,0 +1,52 @@
+{
+  "options": [
+    "element_ready_components",
+    "element_ready_modules",
+    "element_ready_api_data",
+    "element_ready_hf_options",
+    "element_ready_mega_menu_options_enable_menu*",
+    "element_ready_wc_count_icon",
+    "woocommerce_currency_pos",
+    "woocommerce_enable_review_rating",
+    "yith_wcwl_wishlist_page_id",
+    "yith_wcwl_add_to_wishlist_text",
+    "yith_wcwl_browse_wishlist_text",
+    "yith_wcwl_product_added_text",
+    "QSBundle_lic_Key",
+    "ElementsReadyPro_lic_Key",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "element_ready_dashboard_widgets_one"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "element_ready_mega_menu_post_item_mega_menu_enable",
+    "element_ready_mega_menu_post_item_mega_offcanvas_enable",
+    "element_ready_mega_menu_post_item_mega_is_mobile_menu",
+    "element_ready_mega_menu_post_item_mega_content_id",
+    "element_ready_mobile_submenu_content_type",
+    "element_ready_megamenu_width_type",
+    "element_ready_vertical_megamenu_position_type",
+    "_element_ready_menu_item_badge",
+    "_element_ready_menu_item_badge_color",
+    "_element_ready_menu_item_badge_bgcolor",
+    "_elementor_template_type",
+    "element_ready_template_type",
+    "element_ready_builder_header_layout_style",
+    "element_ready_builder_footer_layout_style",
+    "_wp_page_template",
+    "_element_ready_menu_item_image",
+    "element_ready_mega_menu_post_item_mega_menu_classic",
+    "_saleflash_text",
+    "_stock_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:25.334Z"
+}

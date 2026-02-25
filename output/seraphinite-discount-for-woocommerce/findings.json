@@ -1,0 +1,17 @@
+{
+  "options": [
+    "seraph_secretKey",
+    "*_size_w",
+    "*_size_h",
+    "seraph_wd_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_seraph_wd_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:23.409Z"
+}

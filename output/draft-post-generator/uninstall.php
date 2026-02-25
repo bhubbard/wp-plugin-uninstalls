@@ -1,0 +1,15 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('draft_post_generator_defaults');
+delete_site_option('draft_post_generator_defaults');
+
+// Delete Transients
+delete_transient('draft_post_generator_message');
+delete_site_transient('draft_post_generator_message');
+

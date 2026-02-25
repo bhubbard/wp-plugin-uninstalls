@@ -1,0 +1,27 @@
+{
+  "options": [
+    "ws4agpt_manager",
+    "ws4agpt_settings",
+    "ws4agpt_aeS25_wsfa_wsfa",
+    "ws4agpt_auto_seo_pro_active",
+    "ws4agpt_promo_heading",
+    "ws4agpt_promo_subtext",
+    "ws4agpt_promo_image",
+    "ws4agpt_promo_link",
+    "ws4agpt_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ws4agpt_auto_add_article_event",
+    "ws4agpt_do_background_task",
+    "ws4agpt_generate_post_data_task"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "article_length",
+    "density",
+    "is_wp_post"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:37.898Z"
+}

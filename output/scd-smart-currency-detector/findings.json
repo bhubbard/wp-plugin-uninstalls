@@ -1,0 +1,29 @@
+{
+  "options": [
+    "scd_free_cancel",
+    "scd_currency_options",
+    "scd_role_options",
+    "scd_general_options",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_currency",
+    "woocommerce_currency_pos",
+    "scd_first_install_date",
+    "scd_activation_notif_sent",
+    "scd_deactivation_notif_sent",
+    "widget_scd_widget"
+  ],
+  "transients": [
+    "scd_rates_OpenEx",
+    "scd-admin-notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "scd_form_textpopup",
+    "scd_other_options",
+    "scd-user-currency"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:10.754Z"
+}

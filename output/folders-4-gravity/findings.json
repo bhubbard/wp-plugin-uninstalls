@@ -1,0 +1,20 @@
+{
+  "options": [
+    "*rating_asked"
+  ],
+  "transients": [
+    "update_plugins",
+    "gops_error",
+    "gops_notice"
+  ],
+  "cron_jobs": [
+    "*/access/revoke"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "go_f4g_view_order",
+    "_gravityview_form_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:45.425Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dt_original_blog_id",
+    "dt_original_post_id",
+    "dt_connection_map"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:29.644Z"
+}

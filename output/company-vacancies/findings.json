@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wvcl_head_hunter",
+    "wvcl_description",
+    "description_section"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wvcl_cron_vacancy"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:25.056Z"
+}

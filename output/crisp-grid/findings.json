@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "crispgrid_shortcode",
+    "crispgrid_type",
+    "crispgrid_cols",
+    "crispgrid_display",
+    "crispgrid_nop",
+    "crispgrid_image",
+    "crispgrid_date",
+    "crispgrid_author",
+    "crispgrid_excerpt",
+    "crispgrid_excerpt_text",
+    "crispgrid_link",
+    "crispgrid_link_text",
+    "crispgrid_bgcolor",
+    "crispgrid_color",
+    "crispgrid_bgcolor_hover",
+    "crispgrid_color_hover"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:47.279Z"
+}

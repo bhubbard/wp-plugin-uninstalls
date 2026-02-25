@@ -1,0 +1,20 @@
+{
+  "options": [
+    "user_profile_page_id_for_login",
+    "user_profile_page_id_for_show_my_profile",
+    "user_profile_page_id_for_edit_my_profile",
+    "user_profile_page_id_for_registration",
+    "user_profile_page_id_for_registration_finished",
+    "user_profile_disable_activation_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_profile_user_activation_status",
+    "user_profile_user_activation_code",
+    "avatar"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:37.860Z"
+}

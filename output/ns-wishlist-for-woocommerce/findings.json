@@ -1,0 +1,24 @@
+{
+  "options": [
+    "nsww_reviews_installed_on",
+    "nsww_total_open_count",
+    "ns_whislist_label",
+    "ns_whislist_modal_link",
+    "ns-wishlist-page",
+    "ns_wishlist_font_awesome_pre",
+    "ns_wishlist_font_awesome_post",
+    "pe-plugin-id-response-*",
+    "plugineye_init*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nsww_reviews_dismissed_triggers",
+    "_nsww_reviews_last_dismissed",
+    "_nsww_reviews_already_did",
+    "ns_user_wishlist"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:47.647Z"
+}

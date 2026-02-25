@@ -1,0 +1,18 @@
+{
+  "options": [
+    "upr_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_upr_post_review_enabled",
+    "_upr_post_review_title",
+    "_upr_post_review_summary",
+    "_upr_post_review_positives",
+    "_upr_post_review_negatives",
+    "_upr_review_criteria_group"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:58.236Z"
+}

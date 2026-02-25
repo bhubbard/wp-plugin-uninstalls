@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cwvpsb_get_settings",
+    "cache",
+    "save_posts_offset",
+    "save_terms_offset",
+    "wp_rocket_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cwvpsb_autoclear_cron",
+    "isa_add_every_one_hour",
+    "delete_gravatars_folder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:53.175Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "the_pack_library",
+    "woocommerce_db_version",
+    "woocommerce_tax_display_shop",
+    "woocommerce_placeholder_image",
+    "woocommerce_review_rating_verification_required"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id",
+    "_wp_attachment_image_alt",
+    "_elementor_conditions",
+    "thumbnail_id",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:32.361Z"
+}

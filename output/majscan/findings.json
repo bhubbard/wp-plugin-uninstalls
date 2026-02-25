@@ -1,0 +1,35 @@
+{
+  "options": [
+    "majscan_temp_messages",
+    "majscan_admin_accessible",
+    "majscan_plugins",
+    "majscan_themes",
+    "majscan_wordpress",
+    "majscan_vide",
+    "majscan_enable_cron",
+    "majscan_cron_frequency",
+    "majscan_email",
+    "majscan_admin",
+    "majscan_cron_last_execution",
+    "majscan_cron_last_source",
+    "majscan_temp_next_execution",
+    "majscan_last_error"
+  ],
+  "transients": [
+    "majscan_hosting_provider",
+    "majscan_latest_php_version",
+    "update_core",
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "majscan_cron_check",
+    "majscan_cleanup_temp_option"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "majscan_last_notification"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:37.531Z"
+}

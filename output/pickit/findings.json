@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wc-pickit-*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wc_pickit_cron_update_points"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_pickit_fiscal_id",
+    "_shipping_pickit_fiscal_id",
+    "_shipping_wc_lat",
+    "_shipping_wc_lng",
+    "_billing_wc_lat",
+    "_billing_wc_lng"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:10.243Z"
+}

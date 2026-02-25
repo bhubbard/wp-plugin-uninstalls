@@ -1,0 +1,15 @@
+{
+  "options": [
+    "site_updates_report_version",
+    "site_updates_report_settings",
+    "site_updates_report_installed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:17.586Z"
+}

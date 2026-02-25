@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bstwbsftwppdtplgns_options",
+    "recently_activated",
+    "active_sitewide_plugins",
+    "*_options",
+    "lmtttmpts_options",
+    "cptch_options"
+  ],
+  "transients": [
+    "update_plugins",
+    "bws_plugins_update"
+  ],
+  "cron_jobs": [
+    "lmtttmpts_event_for_reset_block",
+    "lmtttmpts_daily_statistics_clear",
+    "lmtttmpts_event_for_reset_failed_attempts",
+    "lmtttmpts_event_for_reset_block_quantity",
+    "lmtttmpts_daily_log_clear"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bws_affiliate_postbox_dismissed",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:34.974Z"
+}

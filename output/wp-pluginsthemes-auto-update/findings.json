@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wpptau_themes_auto_update",
+    "wpptau_plugins_auto_update"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:55.511Z"
+}

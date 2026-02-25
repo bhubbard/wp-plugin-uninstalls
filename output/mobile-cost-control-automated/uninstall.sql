@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mcc_automated_greeting', 'mcc_automated_first_heading', 'mcc_automated_form_instructions', 'mcc_automated_second_heading', 'mcc_automated_total_cost_label', 'mcc_automated_total_phone_count_label', 'mcc_automated_savings_label', 'mcc_automated_giga_usage_label', 'mcc_automated_customer_name', 'mcc_automated_customer_mail', 'mcc_automated_notif_mail', 'mcc_automated_form_notif_template', 'mcc_automated_savings_formula_percent', 'mcc_automated_form2_next_step_msg', 'mcc_automated_db_version');
+

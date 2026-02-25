@@ -1,0 +1,34 @@
+{
+  "options": [
+    "activatedewic",
+    "ewic-settings-automatic_update",
+    "classic-editor-replace",
+    "ewic_active_addons_lite"
+  ],
+  "transients": [
+    "ewiclite_whats_new",
+    "easysliderwidget_featured_feed"
+  ],
+  "cron_jobs": [
+    "ewic_auto_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ewic_meta_select_images",
+    "ewic_meta_list_mode",
+    "ewic_ignore_notice",
+    "ewic_meta_slide_nav",
+    "ewic_meta_thumbsizelt",
+    "ewic_meta_settings_effect",
+    "ewic_meta_settings_smartttl",
+    "ewic_meta_slide_style",
+    "ewic_meta_slide_auto",
+    "ewic_meta_slide_title",
+    "ewic_meta_slide_lightbox_autoslide",
+    "ewic_meta_slide_lightbox",
+    "ewic_meta_slide_lightbox_delay",
+    "ewic_meta_slide_delay"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:30.434Z"
+}

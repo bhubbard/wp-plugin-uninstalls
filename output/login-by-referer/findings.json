@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_referer_allowed",
+    "*_user_id",
+    "*_other_init",
+    "*_other_uninstall",
+    "login-by-referer_other_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:09.640Z"
+}

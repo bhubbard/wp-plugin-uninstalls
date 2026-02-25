@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_myaccount_page_id",
+    "job_manager_job_dashboard_page_id",
+    "job_manager_google_maps_api_key",
+    "job_manager_jobs_page_id",
+    "woocommerce_enable_checkout_login_reminder",
+    "woocommerce_enable_signup_and_login_from_checkout",
+    "elementor_*",
+    "woocommerce_enable_ajax_add_to_cart",
+    "mas_meta_box_errors"
+  ],
+  "transients": [
+    "jetpack-portfolio-count-cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mas_menu_item_icon_class",
+    "thumbnail_id",
+    "_total_stock_quantity",
+    "_stock",
+    "total_sales",
+    "_wp_attachment_image_alt",
+    "_portfolio_image_gallery"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:37.865Z"
+}

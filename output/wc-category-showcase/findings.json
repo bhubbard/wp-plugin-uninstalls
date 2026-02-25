@@ -1,0 +1,53 @@
+{
+  "options": [
+    "wccs_installed",
+    "wccs_data_migrated",
+    "wccs_install_date",
+    "*_flash_messages",
+    "_transient_*",
+    "active_sitewide_plugins",
+    "*_version"
+  ],
+  "transients": [
+    "wccs_activated",
+    "wccs_activation_redirect"
+  ],
+  "cron_jobs": [
+    "wccs_migrate_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wcc_showcase_current_tab",
+    "wcc_showcase_category_list_item",
+    "wcc_showcase_additional_category_list_item",
+    "thumbnail_id",
+    "wcc_showcase_layout",
+    "wcc_showcase_slider",
+    "wcc_showcase_category_filter",
+    "wcc_showcase_section_title",
+    "wccsp_featured_customizer",
+    "wccs_featured_categories",
+    "wccsp_additional_customizer",
+    "wccs_additional_categories",
+    "wcc_showcase_specific_category_select",
+    "wccs_show_additional_categories",
+    "wcc_showcase_enable_additional_category",
+    "wcc_showcase_additional_category_select",
+    "wccs_featured_content_color",
+    "wccs_featured_content_bg",
+    "wcc_showcase_card_content",
+    "wcc_showcase_card",
+    "wcc_showcase_font_category_title",
+    "wcc_showcase_additional_title_color",
+    "wccs_additional_title_color",
+    "wcc_showcase_show_category_product_quantity",
+    "wcc_showcase_show_subcategory_product_quantity",
+    "wcc_showcase_show_button_icon",
+    "wcc_showcase_button_style",
+    "wcc_showcase_includes_sub_categories",
+    "wcc_showcase_overlay_content_position",
+    "wcc_showcase_image_layout"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:53.727Z"
+}

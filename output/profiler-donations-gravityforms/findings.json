@@ -1,0 +1,24 @@
+{
+  "options": [
+    "gravityformsaddon_gravityformsstripe_settings",
+    "*settings",
+    "*history",
+    "*last_attempt"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "profiler_orgtype_cron",
+    "profiler_users_cron",
+    "wc_profiler_sync_orders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "profiler_client_id",
+    "profiler_clientid",
+    "profiler_success",
+    "profiler_progress",
+    "profiler_log"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:32.689Z"
+}

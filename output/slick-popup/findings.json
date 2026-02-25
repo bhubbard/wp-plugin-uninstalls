@@ -1,0 +1,61 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "ReduxFrameworkPlugin",
+    "ReduxFrameworkPlugin_ACTIVATED_NOTICES",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "redux-framework_extendify_plugin_notice",
+    "*ense_key",
+    "*icense_status",
+    "*-transients",
+    "redux_custom_font_current",
+    "woocommerce_shop_page_id",
+    "auto_update_redux_google_fonts",
+    "redux_pro_license_status",
+    "themeisle_blocks_settings_default_block",
+    "redux_pro_license_key",
+    "__uagb_do_redirect",
+    "_redux_content_width",
+    "splite_review_notice",
+    "splite_install_date",
+    "splite_grant_access_time",
+    "splite_last_import",
+    "recently_activated",
+    "splite_delete_data",
+    "cf7_id",
+    "form_title",
+    "primary_color",
+    "border_color",
+    "form_description",
+    "side_image",
+    "splite_opts"
+  ],
+  "transients": [
+    "update_plugins",
+    "*-transient",
+    "*-transients-metaboxes",
+    "*-transients-users",
+    "splite_updated",
+    "splite_activated"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_myarcadetheme",
+    "ignore_*",
+    "ignore_hints",
+    "_visibility",
+    "_stock_status",
+    "_redux_templates_counts",
+    "_redux_welcome_guide",
+    "_wp_page_template",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:34.392Z"
+}

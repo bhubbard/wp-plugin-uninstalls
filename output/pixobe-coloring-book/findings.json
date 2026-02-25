@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pixobe_colorgizer_site_id",
+    "pixobe_coloring_expiry",
+    "pixobe_coloring_nonce",
+    "pixobe_colorgizer_plan",
+    "pixobe_colorgizer_message",
+    "pixobe_coloring_book_checkboxes",
+    "pixobe_coloring_book_colors"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pixobe_coloring_meta_initialized",
+    "_pixobe_coloring_colors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:23.753Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "most_read_days_number",
+    "most_read_post_number",
+    "most_read_show_read_counter"
+  ],
+  "transients": [
+    "most_read_posts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:16.282Z"
+}

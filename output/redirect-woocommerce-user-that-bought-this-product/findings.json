@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [
+    "wcrebtp_good_luck_admin_notice",
+    "wcrebtp_check_if_installed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:21.382Z"
+}

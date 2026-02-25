@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "bp_verified_member_new_requests"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bp_verified_member_verification_request"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:17.159Z"
+}

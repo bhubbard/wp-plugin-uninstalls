@@ -1,0 +1,12 @@
+{
+  "options": [
+    "category_item_access_by_role",
+    "coolmedia_role_add_error_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:46.794Z"
+}

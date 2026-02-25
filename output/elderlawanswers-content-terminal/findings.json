@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ela_content_terminal_accepted_terms",
+    "ela_content_terminal_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rss_pi_source_url",
+    "ct_canonical"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:21.335Z"
+}

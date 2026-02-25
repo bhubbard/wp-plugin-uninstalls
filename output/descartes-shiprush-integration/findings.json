@@ -1,0 +1,17 @@
+{
+  "options": [
+    "descartesshipin_parameter",
+    "woocommerce_custom_orders_table_enabled",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tracking_number",
+    "_date_shipped"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:43.122Z"
+}

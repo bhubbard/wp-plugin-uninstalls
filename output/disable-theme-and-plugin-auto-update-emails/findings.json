@@ -1,0 +1,11 @@
+{
+  "options": [
+    "kzeni_disable_theme_plugin_update_emails_disable_all"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:00.515Z"
+}

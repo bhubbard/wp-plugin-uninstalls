@@ -1,0 +1,15 @@
+{
+  "options": [
+    "sgpt_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sgpt_faq_prompt",
+    "_sgpt_char_limit",
+    "_sgpt_refresh_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:56.107Z"
+}

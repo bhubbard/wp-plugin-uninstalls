@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wppdfi_settings",
+    "wppdfi_version",
+    "wppdfi_db_version",
+    "wppdfi_network_settings"
+  ],
+  "transients": [
+    "wppdfi_activated",
+    "wppdfi_metadata",
+    "wppdfi_api_cache",
+    "wppdfi_health_cache",
+    "wppdfi_rating_cache",
+    "wppdfi_activation_notice",
+    "wppdfi_deactivated",
+    "wppdfi_uninstall_backup"
+  ],
+  "cron_jobs": [
+    "wppdfi_cleanup",
+    "wppdfi_warm_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:16.601Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "glt-site-language",
+    "glt-*",
+    "glt-multi-language",
+    "glt-languages",
+    "glt-languages-list",
+    "glt-display-mode",
+    "glt-inline-display-mode",
+    "glt-tabbed-display-mode",
+    "glt-flags",
+    "glt-flags-list",
+    "glt-flags-order",
+    "glt-toolbar",
+    "glt-align",
+    "glt-active",
+    "glt-analytics",
+    "glt-analytics-id",
+    "glt-css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:07.517Z"
+}

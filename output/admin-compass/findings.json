@@ -1,0 +1,19 @@
+{
+  "options": [
+    "admin_compass_version",
+    "admin_compass_indexing_in_progress",
+    "admin_compass_indexing_started"
+  ],
+  "transients": [
+    "admin_compass_reindex_admin_menu"
+  ],
+  "cron_jobs": [
+    "admin_compass_rebuild_index"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:06.439Z"
+}

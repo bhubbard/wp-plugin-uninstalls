@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_fssc_use_data",
+    "_fssc_advanced_settings",
+    "_fssc_schema_main_settings",
+    "_fssc_licence_settings",
+    "_fssc_server_url",
+    "_fspi_server_url",
+    "woocommerce_currency",
+    "fs_schema_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fssc_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:46.149Z"
+}

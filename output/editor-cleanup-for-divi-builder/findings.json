@@ -1,0 +1,14 @@
+{
+  "options": [
+    "fdp_divi_builder"
+  ],
+  "transients": [
+    "fdp-divi-builder-notice-succ",
+    "fdp-divi-builder-notice-fail"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:14:22.830Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "linear_settings",
+    "rewrite_rules",
+    "trp_settings"
+  ],
+  "transients": [
+    "linear_dismiss_*",
+    "linear_dismiss_old_plugin_version",
+    "linear_dismiss_missing_data",
+    "linear_flush_rewrite_rules_needed"
+  ],
+  "cron_jobs": [
+    "linear_refresh_listings_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:09.720Z"
+}

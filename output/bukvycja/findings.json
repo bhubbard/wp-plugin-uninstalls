@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dpd_bukvycja_plugin",
+    "DpdBukvicjaAdminOptions"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dpd_bukvycja_enable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:25.481Z"
+}

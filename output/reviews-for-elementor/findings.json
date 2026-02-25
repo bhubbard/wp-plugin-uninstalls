@@ -1,0 +1,25 @@
+{
+  "options": [
+    "testimonials_support_settings",
+    "testimonials_reviews_list_options",
+    "testimonials_settings",
+    "testimonials_review_settings_options",
+    "testimonials_settings_settings",
+    "cpo_content_settings"
+  ],
+  "transients": [
+    "imageobject_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "testimonial_image",
+    "testimonial_rating",
+    "testimonial_text",
+    "testimonial_time",
+    "testimonial_location_id",
+    "testimonial_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:12.023Z"
+}

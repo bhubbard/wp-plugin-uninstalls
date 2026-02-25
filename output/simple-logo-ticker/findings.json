@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_favorite_color",
+    "_custom_border",
+    "_custom_border_type",
+    "_custom_border-color",
+    "_custom_images",
+    "_custom_height",
+    "_custom_width",
+    "_custom_padding",
+    "_custom_centerSlider",
+    "_custom_height_Pictures",
+    "_custom_width_Pictures",
+    "_custom_gap",
+    "_custom_blackAndWhite",
+    "_custom_speed",
+    "_custom_stopSlider",
+    "_custom_slidesPerView"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:30.770Z"
+}

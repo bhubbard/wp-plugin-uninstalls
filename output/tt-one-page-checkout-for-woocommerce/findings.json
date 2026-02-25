@@ -1,0 +1,15 @@
+{
+  "options": [
+    "one_page_checkout_enabled",
+    "one_page_checkout_position",
+    "one_page_checkout_addtocart_text",
+    "one_page_checkout_placeorder_text",
+    "one_page_checkout_ordernotes_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:27.417Z"
+}

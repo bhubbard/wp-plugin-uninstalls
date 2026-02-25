@@ -1,0 +1,31 @@
+{
+  "options": [
+    "jlt_rpsi_sheet_promo_data",
+    "jlt_rpsi_sheet_promo_data_hash",
+    "jeweltheme_rpi_options",
+    "jlt_rpsi_activation_time",
+    "*_allow_tracking",
+    "recently_activated"
+  ],
+  "transients": [
+    "jlt_rpsi-plugin-info-*",
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "jlt_rpsi_sheet_promo_data_remote_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:52.898Z"
+}

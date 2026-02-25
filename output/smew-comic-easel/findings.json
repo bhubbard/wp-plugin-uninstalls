@@ -1,0 +1,21 @@
+{
+  "options": [
+    "drip_time",
+    "drip_level",
+    "image_size_full",
+    "image_size_large",
+    "image_size_medium",
+    "restrict_image_size_full",
+    "restrict_image_size_large",
+    "restrict_image_size_medium",
+    "drip_end_option",
+    "drip_end",
+    "drip_end_image_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:41.924Z"
+}

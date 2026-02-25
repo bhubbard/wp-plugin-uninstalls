@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pause_shop_periodicity",
+    "pause_shop_begin_date",
+    "pause_shop_timezone",
+    "pause_shop_scheduled_pause_enabled",
+    "pause_shop_begin_time",
+    "pause_shop_end_time",
+    "pause_shop_on_demand_paused",
+    "pause_shop_schedule_paused"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:51.013Z"
+}

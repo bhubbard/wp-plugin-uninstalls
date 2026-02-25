@@ -1,0 +1,21 @@
+{
+  "options": [
+    "team_mxt_all_members",
+    "team_mxt_member_data",
+    "team_mxt_member_photo",
+    "team_mxt_cards_in_row_pc",
+    "team_mxt_cards_in_row_tablet",
+    "team_mxt_use_filtering",
+    "team_mxt_use_carousel",
+    "team_mxt_version",
+    "team_mxt_settings"
+  ],
+  "transients": [
+    "team_mxt_add_member_success"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:05.828Z"
+}

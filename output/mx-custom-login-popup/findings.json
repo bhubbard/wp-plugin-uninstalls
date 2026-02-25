@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mxclpopup_general_options",
+    "mxclpopup_page_options",
+    "mxclpopup_login_page",
+    "mxclpopup_register_page",
+    "mxclpopup_reset_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:27.994Z"
+}

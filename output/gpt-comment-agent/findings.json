@@ -1,0 +1,23 @@
+{
+  "options": [
+    "gptcommentagent_enabled",
+    "gptcommentagent_openai_api_key",
+    "gptcommentagent_model",
+    "gptcommentagent_tone",
+    "gptcommentagent_max_tokens",
+    "gptcommentagent_google_cse_id",
+    "gptcommentagent_google_cse_key",
+    "gptcommentagent_version",
+    "gptcommentagent_usage_log",
+    "gptcommentagent_activity_log",
+    "gpt_comment_agent_usage_log"
+  ],
+  "transients": [
+    "gptcommentagent_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:51.657Z"
+}

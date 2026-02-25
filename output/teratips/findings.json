@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tera_tips_enable_button",
+    "tera_tips_max_amount",
+    "tera_tips_icon",
+    "tera_tips_commission",
+    "tera_tips_show_summary",
+    "tera_tips_button_bg",
+    "tera_tips_button_text_color",
+    "tera_tips_button_text",
+    "tera_tips_warning_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:55.722Z"
+}

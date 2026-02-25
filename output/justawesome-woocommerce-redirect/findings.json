@@ -1,0 +1,15 @@
+{
+  "options": [
+    "justawesome_woocommerce_redirect_type",
+    "justawesome_woocommerce_redirect_url",
+    "justawesome_woocommerce_redirect_pageid",
+    "justawesome_woocommerce_redirect_productid",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:47.556Z"
+}

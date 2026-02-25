@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mage_maps",
+    "widget_mage_maps",
+    "mage_*"
+  ],
+  "transients": [
+    "mage_meta_keys"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cast",
+    "mage_zip"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:36.537Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "rpcbycat_posts_per_page",
+    "rpcbycat_category",
+    "rpcbycat_order_by",
+    "rpcbycat_layout",
+    "rpcbycat_show_image",
+    "rpcbycat_rtl",
+    "rpcbycat_show_excerpt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:55.540Z"
+}

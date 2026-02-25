@@ -1,0 +1,16 @@
+{
+  "options": [
+    "vmpt_title",
+    "vmpt_setting",
+    "vmpt_setting1",
+    "vmpt_setting2",
+    "vmpt_setting3",
+    "vmpt_setting4"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:26.315Z"
+}

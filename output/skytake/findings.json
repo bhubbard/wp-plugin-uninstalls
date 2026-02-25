@@ -1,0 +1,18 @@
+{
+  "options": [
+    "skytake_envato_pro_licence",
+    "skytake_hide_review_notice",
+    "skytake_first_notice_hide",
+    "skytake_do_activation_redirect",
+    "skytake_upgrade_notice_time",
+    "selected_coupon"
+  ],
+  "transients": [
+    "skytake_hide_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:43.132Z"
+}

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "qhub_default_question_output",
+    "qhub_default_before_question",
+    "qhub_default_after_question",
+    "qhub_user_url",
+    "qhub_user_id",
+    "qhub_user_password",
+    "qhub_user_apikey",
+    "qhub_default_noquestion_txt",
+    "qhub_default_title_txt",
+    "qhub_default_showme",
+    "qhub_default_showby",
+    "qhub_default_api_order"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "qhub_numbertoshow_value",
+    "qhub_output_value",
+    "qhub_tags_value",
+    "qhub_displayanswered_value",
+    "*_value"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:19.072Z"
+}

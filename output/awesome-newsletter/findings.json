@@ -1,0 +1,17 @@
+{
+  "options": [
+    "aw_title",
+    "aw_placeholder",
+    "aw_incorrect",
+    "aw_already_exist",
+    "aw_register_success",
+    "aw_header_name",
+    "aw_header_email"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:22.933Z"
+}

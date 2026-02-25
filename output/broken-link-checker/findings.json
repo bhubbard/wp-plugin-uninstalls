@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wsblc_options",
+    "blc_settings",
+    "wpmudev_apikey",
+    "allowedthemes",
+    "blc_activation_enabled",
+    "wpmudev_blc_last_db_upgrade"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "blc_schedule_scan",
+    "blc_cron_check_links",
+    "blc_cron_email_notifications",
+    "blc_cron_database_maintenance",
+    "blc_corn_clear_log_file",
+    "blc_cron_check_news"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "description",
+    "panels_data",
+    "_*",
+    "_wp_trash_meta_comments_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:28:39.302Z"
+}

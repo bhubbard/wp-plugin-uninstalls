@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bibldare_schedule_data",
+    "bibldare_bible_cache_enabled",
+    "bibldare_bible_language",
+    "bibldare_bible_version"
+  ],
+  "transients": [
+    "bibldare_schedule_day_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:16.804Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [
+    "woocommerce_tax_round_at_subtotal",
+    "woocommerce_tax_display_cart",
+    "epow_data",
+    "woocommerce_tax_display_shop",
+    "woocommerce_currency_pos",
+    "*_dismiss_notices",
+    "*_wp_reviewed",
+    "*_start_use",
+    "villatheme_hide_admin_toolbar",
+    "villatheme_hide_notices_*"
+  ],
+  "transients": [
+    "wc_featured_products",
+    "villatheme_call",
+    "villatheme_ads",
+    "*_hide_notices",
+    "villatheme_hide_notices_*",
+    "villatheme_notices",
+    "villatheme_called"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "epow_global_options",
+    "epow_form_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:26.052Z"
+}

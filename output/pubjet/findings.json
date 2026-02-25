@@ -1,0 +1,30 @@
+{
+  "options": [
+    "pubjet_cron_cleanup_done",
+    "pubjet_permanent_hide_admin_notice_*",
+    "pubjet_migration_delete_first_image_v530",
+    "pubjet_debug_mode",
+    "triboon_token",
+    "triboon_default_category",
+    "triboon_debug_mode"
+  ],
+  "transients": [
+    "pubjet_daily_plugin_status_check",
+    "pubjet_reportage_count",
+    "pubjet_remind_admin_notice_*",
+    "pubjet_register_cron_lock",
+    "update_plugins",
+    "pubjet_update_plugin_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pubjet_meta_title",
+    "pubjet_meta_description",
+    "pubjet_use_cdn",
+    "_wp_attachment_image_alt",
+    "pubjet_thumbnail_data_attach"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:47.741Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "rainimco_option_name",
+    "raina_image_compression_version"
+  ],
+  "transients": [
+    "raina_image_compression_activated",
+    "raina_skip_compression_session"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rainimco_already_compressed",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:09.191Z"
+}

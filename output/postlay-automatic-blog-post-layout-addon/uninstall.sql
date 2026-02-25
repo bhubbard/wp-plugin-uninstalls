@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('title_color', 'details_color', 'ncmbp__pagination_color', 'ncmbp__pagination_Hovercolor', 'ncmbp__pagination_Fontcolor', 'ncmbp__Btn_bgColor', 'ncmbp__Btn_borderColor', 'ncmbp__Btn_textColor', 'ncmbp__Btn_hvfontColor', 'ncmbp__Btn_HoverColor', 'ncmbp__Btn_HoverborderColor', 'ncmbp__blog_column_padding', 'ncmbp__blog_posts_number', 'ncmbp__column_shadow', 'title_font_size', 'paragraph_font_size', 'ncmbp_font__family', 'ncmbp__column_borderRadius', 'ncmbp__Featureimg_borderRadius', 'ncmbp__Btn_borderRadius', 'ncmbp__Pagination_borderRadius', 'ncmbp_plugin_activation_redirect');
+

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "soft_fix_login_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "soft_fix_cleanup_temp_users"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "soft_fix_meta_expire",
+    "soft_fix_temp_user"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:05.218Z"
+}

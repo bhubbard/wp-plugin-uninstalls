@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "woocommerce_store_postcode",
+    "gcargo_db_version",
+    "gcargo_sync_last_update",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gcargo_auto_shipment",
+    "gcargo_migrate_shipment"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "gcargo_seller_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:54.835Z"
+}

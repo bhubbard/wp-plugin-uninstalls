@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ab-wp-security-user-enumeration",
+    "ab-wp-security-wp-version",
+    "ab-wp-security-xml-rpc",
+    "ab-wp-security-dir-browse"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:40.938Z"
+}

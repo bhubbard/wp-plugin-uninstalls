@@ -1,0 +1,14 @@
+{
+  "options": [
+    "woocommerce_notify_low_stock_amount",
+    "aodroost_default_out_of_stock_free",
+    "aodroost_default_low_stock_free",
+    "aodroost_default_in_stock_free"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:05.308Z"
+}

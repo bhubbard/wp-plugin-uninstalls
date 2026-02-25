@@ -1,0 +1,50 @@
+{
+  "options": [
+    "grt_ticket_poll_interval",
+    "grt_ticket_enable_browser_notification",
+    "grt_ticket_notification_sound",
+    "grt_ticket_form_structure",
+    "grt_ticket_custom_fields",
+    "grt_ticket_categories",
+    "grt_ticket_admin_name",
+    "grt_ticket_per_page",
+    "grt_ticket_enable_supabase",
+    "grt_ticket_supabase_url",
+    "grt_ticket_supabase_anon_key",
+    "grt_ticket_supabase_service_role",
+    "grt_ticket_enable_email_notifications",
+    "grt_ticket_notification_emails",
+    "grt_ticket_enable_whatsapp",
+    "grt_ticket_twilio_sid",
+    "grt_ticket_twilio_token",
+    "grt_ticket_twilio_from",
+    "grt_ticket_whatsapp_admin_number",
+    "grt_ticket_enable_direct_call",
+    "grt_ticket_enable_direct_sms",
+    "grt_ticket_support_phone",
+    "grt_ticket_sms_body",
+    "grt_ticket_enable_piping",
+    "grt_ticket_imap_host",
+    "grt_ticket_imap_port",
+    "grt_ticket_imap_user",
+    "grt_ticket_imap_pass",
+    "grt_ticket_imap_ssl",
+    "grt_ticket_auto_close_days",
+    "grt_ticket_slack_webhook",
+    "grt_ticket_discord_webhook",
+    "grt_ticket_zapier_webhook",
+    "grt_ticket_version",
+    "grt_ticket_flush_rewrite_rules_v2"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "grt_ticket_check_emails_cron",
+    "grt_ticket_auto_close_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "grt_profile_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:28.993Z"
+}

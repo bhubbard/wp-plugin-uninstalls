@@ -1,0 +1,17 @@
+{
+  "options": [
+    "azure_tenant_id",
+    "azure_client_id",
+    "azure_client_secret",
+    "azure_subscription_id",
+    "azure_resource_group",
+    "azure_frontdoor_name",
+    "azure_endpoint_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:36.393Z"
+}

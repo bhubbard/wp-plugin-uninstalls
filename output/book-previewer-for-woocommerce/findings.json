@@ -1,0 +1,16 @@
+{
+  "options": [
+    "bpfw_version",
+    "bpfw_fix_conflict_read_book_addons_for_book_store"
+  ],
+  "transients": [
+    "bpfw_installing"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bpfw_back_img"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:55.886Z"
+}

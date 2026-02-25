@@ -1,0 +1,28 @@
+{
+  "options": [
+    "mps_power_search_configuration",
+    "mps_version",
+    "mps_default_language",
+    "mps_filter_stopwords",
+    "mps_max_list_items",
+    "mps_automatic_update",
+    "mps_update_interval",
+    "mps_2word_phrases",
+    "mps_3word_phrases",
+    "mps_meta_keywords_count",
+    "mps_max_keywords_count",
+    "mps_keywords_length",
+    "mps_authors_can_change_content_language",
+    "mps_authors_can_disable_stopword_filter",
+    "mps_*",
+    "mps_max_keywords_length"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mps_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:45.485Z"
+}

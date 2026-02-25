@@ -1,0 +1,14 @@
+{
+  "options": [
+    "minimum_order_amount",
+    "minimum_order_amount_alert",
+    "maximum_order_amount",
+    "maximum_order_amount_alert"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:27.548Z"
+}

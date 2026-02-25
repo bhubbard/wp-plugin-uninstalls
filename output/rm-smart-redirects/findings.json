@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rmsmart_404_last_viewed",
+    "rmsmart_enable_fallback",
+    "rmsmart_default_type"
+  ],
+  "transients": [
+    "rmsmart_slug_changed_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:55.394Z"
+}

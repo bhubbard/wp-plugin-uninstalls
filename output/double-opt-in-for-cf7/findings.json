@@ -1,0 +1,30 @@
+{
+  "options": [
+    "cf7optin_main_settings",
+    "cf7optin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7_form",
+    "_reg_headers",
+    "_csv",
+    "_reg_email",
+    "_reg_title",
+    "_reg_files",
+    "_reg_template",
+    "_con_title",
+    "_con_template",
+    "_final_attachment",
+    "_form",
+    "_accepted",
+    "_field_accepted",
+    "_additional_settings",
+    "_meta",
+    "_from_email",
+    "_subject"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:48.161Z"
+}

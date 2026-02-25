@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_correios_autofill_addresses_db_version",
+    "woocommerce_correios-integration_settings",
+    "woocommerce_correios_version",
+    "woocommerce_correios_settings",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bluex_clean_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bluex_zone_check_dismissed",
+    "_correios_tracking_code"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:52.422Z"
+}

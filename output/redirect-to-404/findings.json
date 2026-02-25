@@ -1,0 +1,14 @@
+{
+  "options": [
+    "PRT_redirect_404_pageUrl",
+    "PRT_redirect_404_status",
+    "prfx_value",
+    "prfx_info"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:19.738Z"
+}

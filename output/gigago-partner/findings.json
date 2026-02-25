@@ -1,0 +1,26 @@
+{
+  "options": [
+    "gigago_partner_endpoint_url",
+    "gigago_partner_client_id",
+    "gigago_partner_brand_name",
+    "gigago_partner_access_code",
+    "gigago_partner_secure_secret",
+    "*_custom",
+    "*_subject",
+    "*_content",
+    "*_signature",
+    "*_bcc",
+    "*_description",
+    "gigago_partner_email_template_1_description",
+    "gigago_partner_email_template_1_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ggg_plan_id",
+    "_ggg_plan_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:32.374Z"
+}

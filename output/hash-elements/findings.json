@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hash_elements_first_activation",
+    "hash_elements_dismissed_notices",
+    "element_pack_active_modules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hash_elements_dismissed_notices",
+    "_elementor_edit_mode",
+    "panels_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:48.446Z"
+}

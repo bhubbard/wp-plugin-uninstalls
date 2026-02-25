@@ -1,0 +1,49 @@
+{
+  "options": [
+    "woocommerce_enable_coupons",
+    "WPLFLA_options",
+    "WCMM_options",
+    "WCMM_login_failed",
+    "WCMM_block_ip",
+    "*notification_bar_active_time",
+    "*notification_bar_review_dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "my_hourly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "hash",
+    "opened",
+    "massage_title",
+    "order_id_send",
+    "query_id",
+    "order_id",
+    "to",
+    "massage",
+    "rand_int",
+    "coupon_amount",
+    "discount_type",
+    "expiry_date",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "apply_before_tax",
+    "free_shipping",
+    "cron_job",
+    "use_coupon",
+    "type",
+    "category_select",
+    "tags_select",
+    "products",
+    "statuses",
+    "relation",
+    "_product_id_",
+    "_product_cat_id_",
+    "_product_tag_id_"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:43.742Z"
+}

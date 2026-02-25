@@ -1,0 +1,27 @@
+{
+  "options": [
+    "dismissed-tcg_disclaimer",
+    "dismissed-*",
+    "*_settings",
+    "*_options",
+    "*_installed",
+    "active_sitewide_plugins",
+    "dimative_shipping_instance_form_fields_filters",
+    "dismissed-csm_disclaimer",
+    "woocommerce_wcis_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_insurance",
+    "_shipping_insurance",
+    "product_single_parcel",
+    "insuranceCost",
+    "swagger_order_id",
+    "_order_shipping_data",
+    "dawpro_waybill"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:13.892Z"
+}

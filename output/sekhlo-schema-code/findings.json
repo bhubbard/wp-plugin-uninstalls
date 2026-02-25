@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sekhlo_llms_enabled",
+    "sekhlo_llms_content",
+    "sekhlo_sitemap_enabled",
+    "sekhlo_sitemap_include_posts",
+    "sekhlo_sitemap_include_pages",
+    "sekhlo_sitemap_include_categories",
+    "sekhlo_robots_content",
+    "sekhlo_htaccess_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sekhlo_seo_keyphrases",
+    "sekhlo_seo_title",
+    "sekhlo_seo_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:42.656Z"
+}

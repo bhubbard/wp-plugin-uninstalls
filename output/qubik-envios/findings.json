@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "*_settings",
+    "woocommerce_qubik_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_dni",
+    "_chosen_shipping",
+    "qubik_settings",
+    "_qubik_transaccionid",
+    "_qubik_codigotransaccion",
+    "puntoentrega",
+    "sucursal",
+    "_tracking_number",
+    "_custom_tracking_link",
+    "_etiqueta_qubik",
+    "_origen_datos",
+    "paquetes",
+    "qubik_results",
+    "_custom_tracking_provider",
+    "_date_shipped",
+    "estado",
+    "estado_full"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:03.750Z"
+}

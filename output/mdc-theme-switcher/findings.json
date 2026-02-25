@@ -1,0 +1,12 @@
+{
+  "options": [
+    "mdc_new_admin_theme",
+    "mdc_theme_switcher"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:48.741Z"
+}

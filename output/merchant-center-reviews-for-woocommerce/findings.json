@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gmc_reviews_opt_in_style",
+    "gmc_reviews_delivery_days",
+    "gmc_reviews_badge_position",
+    "gmc_reviews_merchant_id",
+    "gmc_reviews_gtm_enabled",
+    "gmc_reviews_gtm_event_name",
+    "brumigmcreview_debug_mode",
+    "gmc_reviews_script_placement",
+    "brumigmcreview_optin_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:11.456Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "enable_chat_to_text",
+    "chat_to_text_token",
+    "enable_web_scheduler",
+    "web_scheduler_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:35.308Z"
+}

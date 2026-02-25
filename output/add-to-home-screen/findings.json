@@ -1,0 +1,14 @@
+{
+  "options": [
+    "webappmanifest_content",
+    "wpswmanager_registrations"
+  ],
+  "transients": [
+    "wpservefile_files_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:40.648Z"
+}

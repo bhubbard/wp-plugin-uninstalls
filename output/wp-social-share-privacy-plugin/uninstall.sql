@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('ssp_info_link', 'ssp_txt_help', 'ssp_settings_perma', 'ssp_cookie_domain', 'ssp_cookie_path', 'ssp_cookie_expire', 'ssp_fb_status', 'ssp_fb_dummy_img', 'ssp_fb_txt_info', 'ssp_fb_txt_fb_on', 'ssp_fb_perma_option', 'ssp_fb_display_name', 'ssp_fb_referrer_track', 'ssp_fb_language', 'ssp_fb_action', 'ssp_tw_status', 'ssp_tw_dummy_img', 'ssp_tw_txt_info', 'ssp_tw_txt_twitter_on', 'ssp_tw_perma_option', 'ssp_tw_display_name', 'ssp_tw_referrer_track', 'ssp_tw_language', 'ssp_gp_status', 'ssp_gp_dummy_img', 'ssp_gp_txt_info', 'ssp_gp_txt_gplus_on', 'ssp_gp_perma_option', 'ssp_gp_display_name', 'ssp_gp_referrer_track', 'ssp_gp_language', 'ssp_fb_app_id', 'ssp_fb_txt_fb_off', 'ssp_tw_txt_twitter_off', 'ssp_gp_txt_gplus_off');
+

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dc_type",
+    "autodisp_page_id",
+    "auto_disp_menu_item_id",
+    "sidebars_widgets",
+    "widget_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:42.236Z"
+}

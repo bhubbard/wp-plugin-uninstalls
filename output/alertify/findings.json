@@ -1,0 +1,13 @@
+{
+  "options": [
+    "alertify_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "alertify_send_notifications"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:10.713Z"
+}

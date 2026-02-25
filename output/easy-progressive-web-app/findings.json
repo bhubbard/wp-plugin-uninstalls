@@ -1,0 +1,18 @@
+{
+  "options": [
+    "qeapps_pwa_apple_icons_uploaded",
+    "qeapps_pwa_manifest_settings",
+    "qeappspwa_email_error_message",
+    "qeappspwa_email_success_message",
+    "error_notice_message",
+    "splash_error_notice_message",
+    "qepwa_android_count",
+    "Activated_Plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:50.256Z"
+}

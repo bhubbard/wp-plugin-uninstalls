@@ -1,0 +1,20 @@
+{
+  "options": [
+    "bricksable_activation_date",
+    "*_activation_date",
+    "bricksable_json_uploads",
+    "bricksable_all_elements",
+    "bricksable_bricks_builder_filter_save_messages",
+    "bricksable_*",
+    "bricksable_bricks_builder_elements",
+    "bricksable_image-hotspots",
+    "*_version",
+    "bricksable_uninstall_on_delete"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:42.893Z"
+}

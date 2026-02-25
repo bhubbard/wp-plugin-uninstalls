@@ -1,0 +1,17 @@
+{
+  "options": [
+    "oci_offload_settings",
+    "oci_offload_logs"
+  ],
+  "transients": [
+    "artimeof_new_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_artimeofed",
+    "_oci_object_base"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:25.053Z"
+}

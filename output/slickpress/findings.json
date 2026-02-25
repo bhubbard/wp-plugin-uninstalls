@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpsp_elementor_advance_options",
+    "wpsp_license_key",
+    "enable_*",
+    "wpsp_license_status"
+  ],
+  "transients": [
+    "wpsp_qstore_ext_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:38.957Z"
+}

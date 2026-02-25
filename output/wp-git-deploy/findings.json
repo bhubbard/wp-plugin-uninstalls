@@ -1,0 +1,11 @@
+{
+  "options": [
+    "wp_deploy_branches"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:14.310Z"
+}

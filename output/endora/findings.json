@@ -1,0 +1,15 @@
+{
+  "options": [
+    "endora_reklama",
+    "endora_api",
+    "endora_rss",
+    "endora_dash_rss",
+    "endora_dash_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:16.998Z"
+}

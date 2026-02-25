@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "expired_post_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "expiry_check",
+    "expiry_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:32.020Z"
+}

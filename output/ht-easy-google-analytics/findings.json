@@ -1,0 +1,39 @@
+{
+  "options": [
+    "htga4_secret_key",
+    "htga4_diagnostic_data_agreed",
+    "htga4_diagnostic_data_notice",
+    "*_htiop",
+    "*_htiop_bar",
+    "*_htiop_popup",
+    "*_htiop_redirect",
+    "*_htiop_data",
+    "*_htiop_timer",
+    "woocommerce_cart_redirect_after_add",
+    "htga4_email",
+    "htga4_sr_api_key",
+    "ht_easy_ga4_options",
+    "ht_easy_ga4_id",
+    "htga4_settings",
+    "htga4_shown_milestones",
+    "htga4_disable_upgrade_notices",
+    "htga4_api_data"
+  ],
+  "transients": [
+    "*_htiop_data",
+    "htga4_access_token",
+    "htga4_show_conversion_upgrade_notice",
+    "htga4_milestone_check"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_htga4_server_side_tracked",
+    "_htga4_conversion_tracked",
+    "_htga4_pending_conversion",
+    "_htga4_pending_conversions",
+    "htga4_dismissed_notices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:30.250Z"
+}

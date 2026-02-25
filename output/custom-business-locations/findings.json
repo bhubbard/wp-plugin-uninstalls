@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cbl_plugin_version",
+    "cbl_plugin_options",
+    "cbl_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cbl_location_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:25.228Z"
+}

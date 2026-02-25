@@ -1,0 +1,20 @@
+{
+  "options": [
+    "compilekit_run_on_refresh",
+    "compilekit_input_css",
+    "compilekit_output_css",
+    "compilekit_environment",
+    "compilekit_worker_threads",
+    "compilekit_compiler_mode"
+  ],
+  "transients": [
+    "compilekit_compilation_status_*",
+    "compilekit_tailwindcss_cli_version",
+    "compilekit_standalone_cli_version"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:18.610Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_qliro_one_settings",
+    "woocommerce_qliro_one_banner_widget_enabled",
+    "woocommerce_qliro_one_payment_widget_enabled",
+    "krokedil_debuglog_qliro_one",
+    "woocommerce_smart_coupon_apply_before_tax"
+  ],
+  "transients": [
+    "qoc_shipping_data_*",
+    "qliro_checkout_settings_page_config"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_shipping_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:44.611Z"
+}

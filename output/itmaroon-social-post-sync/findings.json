@@ -1,0 +1,37 @@
+{
+  "options": [
+    "postgetType",
+    "itmar_facebook_selected_page_id",
+    "itmar_facebook_granted",
+    "itmar_facebook_access_token",
+    "itmar_facebook_expires_at",
+    "itmar_facebook_user",
+    "itmar_facebook_pages",
+    "itmar_wait_video",
+    "itmar_twitter_access_token",
+    "itmar_twitter_expires_at",
+    "itmar_twitter_refresh_token",
+    "itmar_twitter_user",
+    "itmar_post_needs_flush",
+    "itmar_permission_error",
+    "itmar_ogp_enabled",
+    "itmar_ogp_site_name",
+    "itmar_ogp_default_image",
+    "itmar_ogp_square_image",
+    "itmar_ogp_twitter_card"
+  ],
+  "transients": [
+    "itmar_convert_jobs_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "twitter_id",
+    "facebook_id",
+    "instagram_id",
+    "custom_revisions_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:57.367Z"
+}

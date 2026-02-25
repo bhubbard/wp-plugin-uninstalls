@@ -1,0 +1,26 @@
+{
+  "options": [
+    "demo_reset_options",
+    "demo_reset_settings",
+    "demo_reset_runners",
+    "demo_reset_reset_history",
+    "demo_reset_info_bar",
+    "demo_reset_last_triggers",
+    "demo_reset_active_plugins",
+    "rewrite_rules",
+    "demo_reset_last_session_tokens",
+    "_site_transient_update_plugins",
+    "_site_transient_update_themes",
+    "_site_transient_update_core"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "session_tokens"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:22.717Z"
+}

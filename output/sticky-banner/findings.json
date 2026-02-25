@@ -1,0 +1,21 @@
+{
+  "options": [
+    "hdsb_stickybanner_version",
+    "hdsb_stickybanner_enabled",
+    "hdsb_stickybanner_text",
+    "hdsb_stickybanner_colour",
+    "hdsb_stickybanner_text_colour",
+    "hdsb_stickybanner_position",
+    "hdsb_stickybanner_btn_text",
+    "hdsb_stickybanner_btn_link",
+    "hdsb_stickybanner_cookie_expiry",
+    "hdsb_stickybanner_hide_on_pages",
+    "hdsb_stickybanner_hide_close_btn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:49.338Z"
+}

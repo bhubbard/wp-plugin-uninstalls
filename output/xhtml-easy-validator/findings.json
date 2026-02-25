@@ -1,0 +1,15 @@
+{
+  "options": [
+    "xhtml_easy_validator_method"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_easy_validatore_result",
+    "_easy_validatore_Errors",
+    "_easy_validatore_Warnings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:40.158Z"
+}

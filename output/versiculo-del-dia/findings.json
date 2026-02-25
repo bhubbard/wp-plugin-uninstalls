@@ -1,0 +1,15 @@
+{
+  "options": [
+    "vdd_language",
+    "vdd_select_version",
+    "vdd_show_priority_version",
+    "vdd_link_verse",
+    "vdd_show_image_if_available"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:36.254Z"
+}

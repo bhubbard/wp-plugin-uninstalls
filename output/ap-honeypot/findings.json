@@ -1,0 +1,26 @@
+{
+  "options": [
+    "httpbl_age_thres",
+    "httpbl_threat_thres",
+    "httpbl_threat_thres_s",
+    "httpbl_threat_thres_h",
+    "httpbl_threat_thres_c",
+    "httpbl_deny_*",
+    "httpbl_white_listed_ips",
+    "httpbl_hp",
+    "httpbl_log",
+    "httpbl_stats",
+    "httpbl_stats_pattern",
+    "httpbl_stats_link",
+    "httpbl_key",
+    "httpbl_not_logged_ips",
+    "httpbl_log_blocked_only",
+    "dashboard_widget_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:17.476Z"
+}

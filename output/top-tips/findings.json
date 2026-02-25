@@ -1,0 +1,19 @@
+{
+  "options": [
+    "giltoptips_image",
+    "giltoptips_bg_colour",
+    "giltoptips_h_colour",
+    "giltoptips_txt_colour",
+    "giltoptips_a_colour",
+    "giltoptips_ahov_colour"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_giltoptips_url_value_key",
+    "_gil_top_tips_url_value_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:56.092Z"
+}

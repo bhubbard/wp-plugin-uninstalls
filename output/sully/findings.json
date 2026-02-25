@@ -1,0 +1,19 @@
+{
+  "options": [
+    "SULly_System_Settings",
+    "SULly_Removed",
+    "EntriesToDisplay",
+    "PageEntriesToDisplay",
+    "SULly_DBVersion",
+    "SULly_Entries_To_Display",
+    "SULly_Page_Entries_To_Display",
+    "SULly_Disable_WP_Email_Notifications",
+    "SULly_Send_Email_Notifications"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:14.643Z"
+}

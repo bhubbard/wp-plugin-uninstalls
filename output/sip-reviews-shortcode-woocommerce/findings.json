@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sip_version_value",
+    "woocommerce_default_country",
+    "sip_rswc_color_options",
+    "sip_rswc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sip_rswc_notice_dismissed",
+    "_wc_review_count",
+    "_wc_average_rating",
+    "_wc_rating_count",
+    "_price",
+    "rating"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:14.226Z"
+}

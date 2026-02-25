@@ -1,0 +1,15 @@
+{
+  "options": [
+    "iconicr_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "iconicr_avg",
+    "iconicr_votes",
+    "iconicr_star_v"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:51.895Z"
+}

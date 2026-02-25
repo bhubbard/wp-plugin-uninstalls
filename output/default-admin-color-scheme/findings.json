@@ -1,0 +1,13 @@
+{
+  "options": [
+    "plugin_default_admin_color_scheme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plugin_default_admin_color_scheme_override"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:34.262Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "creomicro_enable_comments",
+    "creomicro_microposts_page_id",
+    "creomicro_excerpt_chars",
+    "creomicro_per_page",
+    "creomicro_single_template_choice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:01.360Z"
+}

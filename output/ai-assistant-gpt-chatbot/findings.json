@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ai_assistant_api_key",
+    "ai_assistant_model",
+    "ai_assistant_system",
+    "ai_assistant_welcome_message",
+    "ai_assistant_header_bg",
+    "ai_assistant_icon_bg"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:47:10.238Z"
+}

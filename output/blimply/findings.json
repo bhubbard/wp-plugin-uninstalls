@@ -1,0 +1,14 @@
+{
+  "options": [
+    "urban_airship",
+    "blimply_sounds"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "blimply_push_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:36.795Z"
+}

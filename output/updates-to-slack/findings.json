@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_slackurls",
+    "*_settings",
+    "*_enabled",
+    "*_sitename",
+    "*_nextruntime_date",
+    "*_nextruntime_time",
+    "*_frequency",
+    "*_ignore_plugins",
+    "*_ignore_themes",
+    "*_lastrundt",
+    "*_lastrundata",
+    "*_option_name",
+    "cron",
+    "_site_transient_update_core",
+    "_site_transient_update_plugins",
+    "_site_transient_update_themes",
+    "updates2slack_lastrundt",
+    "updates2slack_lastrundata"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:16.660Z"
+}

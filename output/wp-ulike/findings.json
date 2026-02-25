@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wp_ulike_pro_license_key",
+    "wp_ulike_use_inline_custom_css",
+    "wp_ulike_dbVersion",
+    "disallowed_keys",
+    "nitropack-autoCachePurge",
+    "wp_ulike_settings",
+    "wp_ulike_customize",
+    "wp_ulike_pro_license_checksum",
+    "wp_ulike_pro_license_signature",
+    "wp_ulike_pro_license_data",
+    "wp_ulike_pro_license_data_fallback",
+    "widget_wp_ulike"
+  ],
+  "transients": [
+    "wp_ulike_global_avg_likes",
+    "wp_ulike_pro_license_data",
+    "wp_ulike_pro_license_status"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ulf_errors_*",
+    "_liked",
+    "_commentliked",
+    "_topicliked"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:12.119Z"
+}

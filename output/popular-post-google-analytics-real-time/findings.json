@@ -1,0 +1,18 @@
+{
+  "options": [
+    "*_version",
+    "*client_id",
+    "*email",
+    "*account_id",
+    "*path_private_key",
+    "*popular_posts_number"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "scheduler_pprt_get_popular"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:35.720Z"
+}

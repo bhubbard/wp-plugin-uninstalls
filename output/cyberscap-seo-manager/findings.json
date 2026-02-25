@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cyberscap_seo_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cyberscap_seo_meta_title",
+    "_cyberscap_seo_meta_description",
+    "_cyberscap_seo_meta_keywords",
+    "_cyberscap_seo_schema_markup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:55.887Z"
+}

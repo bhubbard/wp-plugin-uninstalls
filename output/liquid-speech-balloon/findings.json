@@ -1,0 +1,17 @@
+{
+  "options": [
+    "liquid_speech_balloon",
+    "liquid_speech_balloon_img",
+    "liquid_speech_balloon_name",
+    "liquid_speech_balloon_note"
+  ],
+  "transients": [
+    "liquid_admin_notices",
+    "liquid_admin_offer"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:10.494Z"
+}

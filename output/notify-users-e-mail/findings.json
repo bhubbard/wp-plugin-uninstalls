@@ -1,0 +1,19 @@
+{
+  "options": [
+    "notify_users_email",
+    "notify_users_email_version",
+    "notify_users_mail",
+    "notify_users_subject_post",
+    "notify_users_body_post",
+    "notify_users_subject_comment",
+    "notify_users_body_comment"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_notify_users_email_sended"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:01.746Z"
+}

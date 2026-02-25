@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gf_exacttarget_settings",
+    "gf_exacttarget_version",
+    "recently_activated"
+  ],
+  "transients": [
+    "extr_lists_all",
+    "extr_lists_raw",
+    "extr_lists"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:00.552Z"
+}

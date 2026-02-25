@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cfwchat_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cfwchat_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cfwchat_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cfwchat_phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cfwchat_fields'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cfwchat_fields'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cfwchat_fields'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cfwchat_fields'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cfwchat_bg_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cfwchat_bg_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cfwchat_bg_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cfwchat_bg_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cfwchat_text_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cfwchat_text_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cfwchat_text_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cfwchat_text_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cfwchat_button_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cfwchat_button_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cfwchat_button_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cfwchat_button_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_cfwchat_button_hover'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_cfwchat_button_hover'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_cfwchat_button_hover'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_cfwchat_button_hover'"

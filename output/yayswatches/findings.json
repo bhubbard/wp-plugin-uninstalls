@@ -1,0 +1,23 @@
+{
+  "options": [
+    "yay-swatches-sold-out-customize-settings",
+    "yay-swatches-attribute-style-*",
+    "yay-swatches-swatch-customize-settings",
+    "yay-swatches-button-customize-settings",
+    "yay-swatches-swatch-color-*",
+    "yay-swatches-show-hide-color-*",
+    "yay-swatches-swatch-dual-color-*",
+    "yay-swatches-swatch-image-*",
+    "yayswatches_reviewed",
+    "yay-swatches-attribute-show-archive-*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "yay_swatches_product_attributes",
+    "attribute_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:47.001Z"
+}

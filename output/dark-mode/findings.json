@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_markdown_editor_update_notice_interval",
+    "dark_mode_version",
+    "dark_mode_install_time",
+    "wpmde_general"
+  ],
+  "transients": [
+    "wp_markdown_editor_review_notice_interval",
+    "wp_markdown_editor_affiliate_notice_interval"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:12.512Z"
+}

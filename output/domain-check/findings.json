@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*ftue",
+    "domain_check_version",
+    "*email_primary_email",
+    "site_url",
+    "*email_additional_emails",
+    "*domain_extension_favorites",
+    "*coupons_primary_site",
+    "*version",
+    "*coupons_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "domain_check_cron_watch",
+    "domain_check_cron_coupons",
+    "domain_check_cron_email"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:56.639Z"
+}

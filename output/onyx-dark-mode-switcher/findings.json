@@ -1,0 +1,13 @@
+{
+  "options": [
+    "onyx_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "syntax_highlighting"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:10.043Z"
+}

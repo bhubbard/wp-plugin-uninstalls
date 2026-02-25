@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cpcpref_crypto_gainer_gainers",
+    "cpcpref_crypto_gainer_losers",
+    "cpcpref_crypto_gainer_credits",
+    "cpcpref_crypto_gainer_text_color",
+    "cpcpref_crypto_gainer_box_color",
+    "cpcpref_crypto_gainer_box_width",
+    "cpcpref_crypto_gainer_item_padding",
+    "cpcpref_crypto_gainer_max_items"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:30.334Z"
+}

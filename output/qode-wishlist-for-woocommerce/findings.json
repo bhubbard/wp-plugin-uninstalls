@@ -1,0 +1,17 @@
+{
+  "options": [
+    "qode_wishlist_for_woocommerce_framework_permalinks",
+    "qode_wishlist_for_woocommerce_framework_permalinks_updated",
+    "*_count"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "qode_wishlist_for_woocommerce_trigger_guests_wishlist_check"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "qode_wishlist_for_woocommerce_user_wishlist_items"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:42.314Z"
+}

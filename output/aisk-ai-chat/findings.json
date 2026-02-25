@@ -1,0 +1,30 @@
+{
+  "options": [
+    "aisk_plugin_version",
+    "aisk_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "aisk_url_user_message_*",
+    "aisk_url_processing_*",
+    "aisk_bot_protected_url_*",
+    "aisk_last_pdf_processing"
+  ],
+  "transients": [
+    "aisk_order_auth_*",
+    "aisk_otp_*"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event",
+    "aisk_process_url_background"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_aisk_pdf_processed",
+    "_aisk_pdf_chunks_count",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:59.048Z"
+}

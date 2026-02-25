@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wprhinosupport_key",
+    "rhino_license_status",
+    "rhino_last_license_check",
+    "wprhinosupport_non_logged_departments",
+    "wprhinosupport_logged_departments",
+    "wprhinosupport_wlm_members_departments",
+    "wprhinosupport_create_thankyou",
+    "wprhinosupport_create_thankyou_value1",
+    "wprhinosupport_external_internal",
+    "wprhinosupport_create_thankyou_value2",
+    "wprhinosupport_scroller_color",
+    "wprhinosupport_scroller_pixel",
+    "wprhinosupport_scroller_online",
+    "wprhinosupport_scroller_offline",
+    "wprhinosupport_scroller_tab",
+    "wprhinosupport_supporttab_ids",
+    "wprhinosupport_remote_auth",
+    "wprhinosupport_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rhino-ticket"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:44.579Z"
+}

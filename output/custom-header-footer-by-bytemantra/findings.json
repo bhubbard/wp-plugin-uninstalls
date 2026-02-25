@@ -1,0 +1,16 @@
+{
+  "options": [
+    "custom_header_content_bytemantra",
+    "custom_footer_content_bytemantra",
+    "custom_header_content_status_bytemantra",
+    "custom_footer_content_status_bytemantra",
+    "custom_header_content_priority_bytemantra",
+    "custom_footer_content_priority_bytemantra"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:45.903Z"
+}

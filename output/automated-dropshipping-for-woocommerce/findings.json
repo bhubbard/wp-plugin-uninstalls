@@ -1,0 +1,57 @@
+{
+  "options": [
+    "recently_activated",
+    "dse_import_rules",
+    "dse_imported_list",
+    "dse_published_list",
+    "default_product_cat",
+    "dse_api_token",
+    "dse_*",
+    "dse_is_pro",
+    "dse_purchase_code",
+    "dse_is_activated",
+    "dse_migrated",
+    "dse_orders"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "dse_process_queued_cron",
+    "dse_process_autoimport_cron",
+    "dse_process_autopublish_cron",
+    "dse_process_order_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "dse_product_reviews",
+    "dse_product_url",
+    "dse_review_ids",
+    "dse_product",
+    "dse_source",
+    "dse_product_id",
+    "dse_title",
+    "dse_sku",
+    "dse_seller_id",
+    "dse_company_id",
+    "dse_price",
+    "dse_discounted_value",
+    "dse_attributes",
+    "dse_variations",
+    "dse_product_images",
+    "dse_product_variations",
+    "dse_description",
+    "dse_imported_product_reviews",
+    "dse_product_category",
+    "dse_image_is_external",
+    "dse_attachment_source",
+    "dse_disable_sync",
+    "rating",
+    "verified",
+    "dse_order_processing",
+    "_dse_api_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:47.703Z"
+}

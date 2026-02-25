@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wc_pbat_enable_tab",
+    "wc_pbat_schema_markup",
+    "wc_pbat_default_brand_label",
+    "wc_pbat_tab_priority"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:51.615Z"
+}

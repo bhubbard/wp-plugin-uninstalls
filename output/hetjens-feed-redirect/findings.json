@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hetjens_feed_redirect_feed_url",
+    "hetjens_feed_redirect_comments_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:03.105Z"
+}

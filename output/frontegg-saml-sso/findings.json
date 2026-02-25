@@ -1,0 +1,14 @@
+{
+  "options": [
+    "frontegg_saml_settings",
+    "frontegg_saml_version"
+  ],
+  "transients": [
+    "frontegg_saml_updated_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:49.977Z"
+}

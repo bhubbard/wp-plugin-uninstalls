@@ -1,0 +1,21 @@
+{
+  "options": [
+    "seasongreets_snowflakes",
+    "seasongreets_timeout",
+    "seasongreets_maxstepx",
+    "seasongreets_maxstepy",
+    "seasongreets_selected",
+    "seasongreets_maxtime",
+    "seasongreets_uri",
+    "seasongreets_precise",
+    "seasongreets_flakesize",
+    "seasongreets_invert",
+    "seasongreets_homelink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:55.701Z"
+}

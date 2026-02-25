@@ -1,0 +1,40 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'sa_site_id'
+wp option delete 'sa_review_page_code'
+wp option delete 'sa_thankyou_code'
+wp option delete 'sa_seal_code'
+wp option delete 'sa_step2_status'
+wp option delete 'sa_api_token'
+wp option delete 'sa_step2b_status'
+wp option delete 'sa_survey_token'
+wp option delete 'sa_step_progress'
+wp option delete 'sa_step1_status'
+wp option delete 'sa_step3_status'
+wp option delete 'sa_step4_status'
+wp option delete 'sa_step5_status'
+wp option delete 'sa_step6_status'
+wp option delete 'sa_survey_status'
+wp option delete 'sa_days_to_delivery'
+wp option delete 'sa_seal_status'
+wp option delete 'sa_seal_status2'
+wp option delete 'sa_seal_excluded'
+wp option delete 'sa_rp_status'
+wp option delete 'sa_rotating_widget_status'
+wp option delete 'sa_rotating_widget_code'
+wp option delete 'sa_pwidgets_status'
+wp option delete 'sa_cstars_status'
+wp option delete 'sa_product_stars_code'
+wp option delete 'sa_product_widget_code'
+wp option delete 'sa_category_code'
+wp option delete 'sa_category_script'
+wp option delete 'sa_domain'
+wp option delete 'rp_already_exists'
+wp option delete 'sa_pf_history'
+wp option delete 'sa_feed_gtin'
+
+# Clear Cron Jobs
+wp cron event delete 'generate_feeds_hook'
+

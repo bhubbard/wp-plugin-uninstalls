@@ -1,0 +1,13 @@
+{
+  "options": [
+    "esc_migration_db"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:29.826Z"
+}

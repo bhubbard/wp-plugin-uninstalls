@@ -1,0 +1,18 @@
+{
+  "options": [
+    "qcldichartcovidAL",
+    "qcldichartcovidCC",
+    "qcldichartcovidUS",
+    "qcldichartcovidCH",
+    "setUpd",
+    "qcldcovid19_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_schedule_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:21.808Z"
+}

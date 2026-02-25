@@ -1,0 +1,16 @@
+{
+  "options": [
+    "autoshare_migrate_to_v2_api_notice_dismissed",
+    "autoshare_ignore_duplicate_site_notice",
+    "autoshare_liveurl",
+    "autoshare_for_twitter_accounts"
+  ],
+  "transients": [
+    "autoshare_for_twitter_connection_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:42.146Z"
+}

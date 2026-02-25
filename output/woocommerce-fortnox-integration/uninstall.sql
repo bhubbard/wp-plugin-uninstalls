@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('fortnox_payment_terms', 'fortnox_access_token', 'fortnox_access_token_oauth2', 'fortnox_connected_organization_number', 'fortnox_enable_purchase_price', 'fortnox_price_lists', 'fortnox_delivery_ways', 'fortnox_refresh_token', 'fortnox_access_token_expiry_time', 'fortnox_organization_number_auth_result', 'fortnox_api_key', 'fortnox_license_key', 'fortnox_db_version', 'fortnox_asset_accounts', 'fortnox_own_capital_and_debts_accounts', 'fortnox_revenue_accounts', 'fortnox_client_id', 'fortnox_auth_code', 'wf_do_not_sync_customer_on_update', 'fortnox_auto_post_refund_invoice', 'fortnox_has_warehouse_module', 'fortnox_auto_set_refund_invoice_as_paid', 'fortnox_cost_center', 'fortnox_auto_create_order_invoice', 'fortnox_auto_set_invoice_as_paid', 'fortnox_auto_post_order_invoice', 'fortnox_auto_send_order_invoice', 'fortnox_write_payment_type_to_ordertext', 'fortnox_add_customer_notes_to_order', 'fortnox_copy_remarks_to_invoice', 'fortnox_warehouse_delivery_status', 'fortnox_get_currency_rate', 'fortnox_administration_fee_names', 'fortnox_shipping_product_sku_non_eu', 'fortnox_shipping_product_sku', 'fortnox_auto_generate_sku', 'fortnox_sync_master_product', 'fortnox_predefined_accounts', 'fortnox_default_price_list', 'fortnox_skip_product_variations', 'fortnox_do_not_update_product_on_order_sync', 'fortnox_do_not_sync_price', 'woocommerce_weight_unit', 'woocommerce_dimension_unit', 'fortnox_organization_number', 'fortnox_order_number_prefix', 'fortnox_auto_sync_products', 'fortnox_auto_sync_orders', 'fortnox_email_synchronization_errors', 'fortnox_upgrades_available');
+DELETE FROM wp_options WHERE option_name IN ('fortnox_debug_log', 'fortnox_sync_on_status', 'fortnox_create_invoice_on_status', 'credit_note_on_refund', 'show_organization_number_field_in_billing_address_form', 'fortnox_organisation_auth_secret');
+DELETE FROM wp_options WHERE option_name LIKE 'fortnox_invoice_payment_account_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wf_eu_sales_account_%';
+DELETE FROM wp_options WHERE option_name LIKE 'fortnox_invoice_payment_terms_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_account';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_fortnox_purchase_price', '_fortnox_sales_account', '_is_synced_to_fortnox', '_regular_price', '_sale_price', '_price', '_sku');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_fortnox_purchase_price', '_fortnox_sales_account', '_is_synced_to_fortnox', '_regular_price', '_sale_price', '_price', '_sku');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_fortnox_purchase_price', '_fortnox_sales_account', '_is_synced_to_fortnox', '_regular_price', '_sale_price', '_price', '_sku');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_fortnox_purchase_price', '_fortnox_sales_account', '_is_synced_to_fortnox', '_regular_price', '_sale_price', '_price', '_sku');
+

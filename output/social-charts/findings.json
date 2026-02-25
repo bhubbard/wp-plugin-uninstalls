@@ -1,0 +1,13 @@
+{
+  "options": [
+    "sc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "social_charts_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:43.035Z"
+}

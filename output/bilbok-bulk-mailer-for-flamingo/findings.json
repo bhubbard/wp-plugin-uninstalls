@@ -1,0 +1,20 @@
+{
+  "options": [
+    "bilbok_cf7bm_options",
+    "bilbok_cf7bm_rate_limited",
+    "bilbok_cf7bm_daily_usage"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bilbok_cf7bm_cron_send"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_contact_id",
+    "_email",
+    "_from_email",
+    "_posted_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:00.254Z"
+}

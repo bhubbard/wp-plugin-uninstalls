@@ -1,0 +1,18 @@
+{
+  "options": [
+    "bpas_icon_color_settings",
+    "bp_share_services_extra",
+    "bp_share_all_services_disable",
+    "bp_share_services",
+    "active_sitewide_plugins",
+    "bp_share_flag"
+  ],
+  "transients": [
+    "_bpshare_is_new_install"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:08.149Z"
+}

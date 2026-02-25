@@ -1,0 +1,23 @@
+{
+  "options": [
+    "real_id_license_key",
+    "real_id_sandbox_license_key",
+    "real_id_delivery_methods",
+    "real_id_sandbox_mode",
+    "real_id_localhost_notice_dismissed"
+  ],
+  "transients": [
+    "real_id_shop",
+    "real_id_shop_public_settings"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "real_id_check_status",
+    "real_id_check_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:26.409Z"
+}

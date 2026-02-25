@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_extended_cpt_settings",
+    "wp_extended_tax_settings",
+    "wp_extended_meta_settings",
+    "wp_extended_post_id_for_meta",
+    "wp_extended_post_type",
+    "wp_extended_post_id_for_tax"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:57.737Z"
+}

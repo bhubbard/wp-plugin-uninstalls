@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wpsc_version', 'mercadopago_certified_clientid', 'mercadopago_certified_clientsecret', 'custom_gateway_options', 'mercadopago_certified_siteid', 'mercadopago_certified_checkoutmessage1', 'mercadopago_certified_checkoutmessage2', 'mercadopago_certified_checkoutmessage3', 'mercadopago_certified_checkoutmessage4', 'mercadopago_certified_checkoutmessage5', 'mercadopago_certified_checkoutmessage6', 'mercadopago_certified_url_sucess', 'mercadopago_certified_url_pending', 'mercadopago_certified_istestuser', 'mercadopago_certified_currencyratio', 'mercadopago_certified_description', 'mercadopago_certified_category', 'mercadopago_certified_invoiceprefix', 'mercadopago_certified_typecheckout', 'mercadopago_certified_iframewidth', 'mercadopago_certified_iframeheight', 'mercadopago_certified_autoreturn', 'mercadopago_certified_currencyconversion', 'mercadopago_certified_maxinstallments', 'mercadopago_certified_exmethods', 'mercadopago_certified_paymentmethods', 'mercadopago_certified_debug', 'currency_type', 'transact_url', 'mercadopago_custom_accesstoken', 'mercadopago_custom_checkoutmessage1', 'mercadopago_custom_sandbox', 'shopping_cart_url', 'mercadopago_custom_order_result', 'mercadopago_custom_currencyratio', 'mercadopago_custom_category', 'mercadopago_custom_invoiceprefix', 'mercadopago_custom_statementdescriptor', 'mercadopago_custom_binary', 'mercadopago_custom_siteid', 'mercadopago_custom_istestuser', 'mercadopago_custom_publickey', 'mercadopago_custom_currencyconversion', 'mercadopago_custom_url_sucess', 'mercadopago_custom_url_pending', 'mercadopago_custom_debug', 'mercadopago_ticket_accesstoken', 'mercadopago_ticket_checkoutmessage1', 'mercadopago_ticket_order_result', 'mercadopago_ticket_siteid');
+DELETE FROM wp_options WHERE option_name IN ('mercadopago_ticket_currencyratio', 'mercadopago_ticket_category', 'mercadopago_ticket_invoiceprefix', 'mercadopago_ticket_istestuser', 'mercadopago_ticket_currencyconversion', 'mercadopago_ticket_url_sucess', 'mercadopago_ticket_url_pending', 'mercadopago_ticket_payment_methods', 'mercadopago_ticket_debug');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_used_gateway');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_used_gateway');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_used_gateway');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_used_gateway');
+

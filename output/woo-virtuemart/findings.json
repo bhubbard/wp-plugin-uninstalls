@@ -1,0 +1,22 @@
+{
+  "options": [
+    "vtm_Host",
+    "vtm_db",
+    "vtm_dbUser",
+    "vtm_dbPass",
+    "vrm_prefix",
+    "tax_ids",
+    "product_cat_children",
+    "_transient_wc_attribute_taxonomies",
+    "attribute_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_image_gallery",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:55.732Z"
+}

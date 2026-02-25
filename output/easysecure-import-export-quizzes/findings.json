@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sfwd-quiz",
+    "quiz_pro_id",
+    "question_pro_id",
+    "question_type",
+    "quiz_id",
+    "ld_quiz_questions",
+    "quiz_data",
+    "quiz_pro",
+    "quiz_pro_id_*",
+    "_sfwd-question-type",
+    "_sfwd-question-answer"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:39:22.229Z"
+}

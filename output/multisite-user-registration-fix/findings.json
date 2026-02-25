@@ -1,0 +1,16 @@
+{
+  "options": [
+    "_multusre_email_new_user",
+    "_multusre_email_existing_user",
+    "_multusre_debug_logging"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_multusre_user_processed",
+    "_multusre_flag_new_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:39.262Z"
+}

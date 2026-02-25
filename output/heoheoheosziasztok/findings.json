@@ -1,0 +1,15 @@
+{
+  "options": [
+    "elekzene_cb",
+    "sarkok_cb",
+    "kozep_cb",
+    "futok_cb",
+    "csodagif_cb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:04.255Z"
+}

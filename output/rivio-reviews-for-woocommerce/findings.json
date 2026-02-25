@@ -1,0 +1,17 @@
+{
+  "options": [
+    "Activated_Plugin",
+    "rivio_settings",
+    "rivio_just_installed",
+    "default_star_ratings_enabled",
+    "woocommerce_enable_review_rating"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_regular_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:00.338Z"
+}

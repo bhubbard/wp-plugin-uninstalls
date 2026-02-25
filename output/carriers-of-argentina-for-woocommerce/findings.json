@@ -1,0 +1,27 @@
+{
+  "options": [
+    "kshipping_boxes_installed",
+    "woocommerce_kshippingargentina-manager_settings",
+    "*_settings",
+    "*conversion_rate",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "kshipping_sizes",
+    "_force_label",
+    "_package_data",
+    "kshippingargentina_label_file",
+    "kshippingargentina_tracking_code",
+    "_weight",
+    "_length",
+    "_width",
+    "_height",
+    "kshippingargentina_label_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:58.877Z"
+}

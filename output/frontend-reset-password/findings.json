@@ -1,0 +1,18 @@
+{
+  "options": [
+    "divi_engine_options",
+    "divi_fb_license",
+    "wp_enhanced_licenses",
+    "wpe_incomplete_achievements",
+    "wpe_complete_achievements",
+    "somfrp_gen_settings",
+    "somfrp_security_settings",
+    "somfrp_design_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:58.635Z"
+}

@@ -1,0 +1,42 @@
+{
+  "options": [
+    "bb-current-tourney"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rounds",
+    "dtg",
+    "time_is_tba",
+    "location",
+    "location_text",
+    "period",
+    "time_remaining",
+    "is_final",
+    "game_nbr",
+    "round_nbr",
+    "tournament",
+    "bracket",
+    "has_consolation",
+    "league",
+    "elimination",
+    "scheduling_method",
+    "round_names",
+    "home_score",
+    "away_score",
+    "home_text",
+    "*_text",
+    "team_name",
+    "team_short_name",
+    "team_mascot",
+    "team_logo",
+    "home",
+    "away",
+    "away_text",
+    "venue_city",
+    "venue_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:54.317Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "affilipus_linkfilter_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "imbaf_filter_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_imbaf-linkfilter_filter_links",
+    "_imbaf-linkfilter"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:35.683Z"
+}

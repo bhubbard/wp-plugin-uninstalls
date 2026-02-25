@@ -1,0 +1,11 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('password_protect_staging_option');
+delete_site_option('password_protect_staging_option');
+

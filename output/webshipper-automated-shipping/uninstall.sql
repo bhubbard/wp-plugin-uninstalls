@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('webshipper_access_str', 'webshipper_filter_basket_by_currency', 'webshipper_remove_cart_recalculation', 'webshipper_google_maps_api_key', 'webshipper_drop_point_title', 'woocommerce_weight_unit', '_wcml_settings', 'woocommerce_currency', 'webshipper_drop_point_required', 'webshipper_save_droppoint_as_address', 'webshipper_expedite_order_statuses', 'webshipper_expedite_order_async', 'webshipper_bulk_order_action');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wspup_pickup_point_id', '_shipping_first_name', '_shipping_last_name', '_shipping_address_1', '_shipping_address_2', '_shipping_company', '_shipping_city', '_shipping_postcode', '_drop_point_id', '_drop_point_company', '_drop_point_address_1', '_drop_point_city', '_drop_point_zip', '_drop_point_country', '_drop_point_routing_code');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wspup_pickup_point_id', '_shipping_first_name', '_shipping_last_name', '_shipping_address_1', '_shipping_address_2', '_shipping_company', '_shipping_city', '_shipping_postcode', '_drop_point_id', '_drop_point_company', '_drop_point_address_1', '_drop_point_city', '_drop_point_zip', '_drop_point_country', '_drop_point_routing_code');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wspup_pickup_point_id', '_shipping_first_name', '_shipping_last_name', '_shipping_address_1', '_shipping_address_2', '_shipping_company', '_shipping_city', '_shipping_postcode', '_drop_point_id', '_drop_point_company', '_drop_point_address_1', '_drop_point_city', '_drop_point_zip', '_drop_point_country', '_drop_point_routing_code');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wspup_pickup_point_id', '_shipping_first_name', '_shipping_last_name', '_shipping_address_1', '_shipping_address_2', '_shipping_company', '_shipping_city', '_shipping_postcode', '_drop_point_id', '_drop_point_company', '_drop_point_address_1', '_drop_point_city', '_drop_point_zip', '_drop_point_country', '_drop_point_routing_code');
+

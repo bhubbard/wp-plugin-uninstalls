@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('avcp_abilita_ruoli', 'avcp_autopublish', 'anac_log', 'avcp_denominazione_ente', 'avcp_codicefiscale_ente', 'avcp_version_number', 'avcp_dis_archivioditte', 'avcp_dis_archivioanni', 'avcp_tab_jqueryui', 'avcp_showxml', 'avcp_showlove', 'avcp_enable_editor', 'avcp_centricosto', 'avcp_export', 'avcp_dataset_capability', 'avcp_invalid', 'anac_import_xml', 'avcp_dis_styledbackend', 'wpgov_show_love');
+DELETE FROM wp_options WHERE option_name LIKE 'tax_meta_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('avcp_contraente', 'avcp_cig', 'avcp_aggiudicazione', 'avcp_data_inizio', 'avcp_data_fine', 'avcp_aggiudicatari', 'avcp_s_l_2013', 'avcp_s_l_2014', 'avcp_s_l_2015', 'avcp_s_l_2016', 'avcp_s_l_2017', 'avcp_s_l_2018', 'avcp_s_l_2019', 'avcp_s_l_2020', 'avcp_s_l_2021', 'avcp_s_l_2022', 'avcp_s_l_2023', 'avcp_s_l_2024', 'avcp_s_l_2025', 'avcp_s_l_2026', 'avcp_s_l_2027', 'avcp_s_l_2028', 'avcp_s_l_2029', 'avcp_s_l_2030', 'avcp_somme_liquidate', 'avcp_somme_liquidate_prev', 'avcp_somme_liquidate_prevprev', 'avcp_upgrade_3', 'avcp_codice_fiscale');
+DELETE FROM wp_usermeta WHERE meta_key IN ('avcp_contraente', 'avcp_cig', 'avcp_aggiudicazione', 'avcp_data_inizio', 'avcp_data_fine', 'avcp_aggiudicatari', 'avcp_s_l_2013', 'avcp_s_l_2014', 'avcp_s_l_2015', 'avcp_s_l_2016', 'avcp_s_l_2017', 'avcp_s_l_2018', 'avcp_s_l_2019', 'avcp_s_l_2020', 'avcp_s_l_2021', 'avcp_s_l_2022', 'avcp_s_l_2023', 'avcp_s_l_2024', 'avcp_s_l_2025', 'avcp_s_l_2026', 'avcp_s_l_2027', 'avcp_s_l_2028', 'avcp_s_l_2029', 'avcp_s_l_2030', 'avcp_somme_liquidate', 'avcp_somme_liquidate_prev', 'avcp_somme_liquidate_prevprev', 'avcp_upgrade_3', 'avcp_codice_fiscale');
+DELETE FROM wp_termmeta WHERE meta_key IN ('avcp_contraente', 'avcp_cig', 'avcp_aggiudicazione', 'avcp_data_inizio', 'avcp_data_fine', 'avcp_aggiudicatari', 'avcp_s_l_2013', 'avcp_s_l_2014', 'avcp_s_l_2015', 'avcp_s_l_2016', 'avcp_s_l_2017', 'avcp_s_l_2018', 'avcp_s_l_2019', 'avcp_s_l_2020', 'avcp_s_l_2021', 'avcp_s_l_2022', 'avcp_s_l_2023', 'avcp_s_l_2024', 'avcp_s_l_2025', 'avcp_s_l_2026', 'avcp_s_l_2027', 'avcp_s_l_2028', 'avcp_s_l_2029', 'avcp_s_l_2030', 'avcp_somme_liquidate', 'avcp_somme_liquidate_prev', 'avcp_somme_liquidate_prevprev', 'avcp_upgrade_3', 'avcp_codice_fiscale');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('avcp_contraente', 'avcp_cig', 'avcp_aggiudicazione', 'avcp_data_inizio', 'avcp_data_fine', 'avcp_aggiudicatari', 'avcp_s_l_2013', 'avcp_s_l_2014', 'avcp_s_l_2015', 'avcp_s_l_2016', 'avcp_s_l_2017', 'avcp_s_l_2018', 'avcp_s_l_2019', 'avcp_s_l_2020', 'avcp_s_l_2021', 'avcp_s_l_2022', 'avcp_s_l_2023', 'avcp_s_l_2024', 'avcp_s_l_2025', 'avcp_s_l_2026', 'avcp_s_l_2027', 'avcp_s_l_2028', 'avcp_s_l_2029', 'avcp_s_l_2030', 'avcp_somme_liquidate', 'avcp_somme_liquidate_prev', 'avcp_somme_liquidate_prevprev', 'avcp_upgrade_3', 'avcp_codice_fiscale');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'avcp_s_l_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'avcp_s_l_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'avcp_s_l_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'avcp_s_l_%';
+

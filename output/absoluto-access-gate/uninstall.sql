@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('absacga_enabled', 'absacga_redirect_back', 'absacga_custom_redirect_url', 'absacga_custom_login_url', 'absacga_bypass_roles', 'absacga_bypass_users', 'absacga_excluded_pages', 'absacga_excluded_templates', 'absacga_excluded_post_types', 'absacga_excluded_categories', 'absacga_excluded_tags', 'absacga_exclude_rss', 'absacga_exclude_rest_api', 'absacga_bypass_key', 'absacga_whitelist_ips', 'absacga_maintenance_mode', 'absacga_maintenance_message', 'absacga_maintenance_title', 'absacga_exclude_ajax', 'absacga_exclude_archives', 'absacga_login_message');
+

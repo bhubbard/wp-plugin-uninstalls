@@ -1,0 +1,32 @@
+{
+  "options": [
+    "challenge_registration_page_id",
+    "challenge_login_page_id",
+    "challenge_default_banar_img_id",
+    "challenge_default_thumbnail_img_id",
+    "challenge_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "challenge_send_checkpoint_start_email_callback"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "challenge_start_time",
+    "challenge_end_time",
+    "first_name",
+    "last_name",
+    "_user_image_attachment_id_*",
+    "challenge_archive_page_thumbnail_id",
+    "_challenge_pricing",
+    "challenge_product_select",
+    "_challenge_price",
+    "_checkpoint_data",
+    "_attached_challenge_id",
+    "enrolled_users",
+    "cart_added_product",
+    "*_purchased"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:20.181Z"
+}

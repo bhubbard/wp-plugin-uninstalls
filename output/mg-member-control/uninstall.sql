@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('mgmc_disableusers', 'mgmc_hidedashboard', 'mgmc_hidemenuitems', 'mgmc_recaptchasitekey', 'mgmc_simplecaptcha', 'mgmc_passcomplex', 'mgmc_replacementfooter', 'mgmc_salt', 'mgmc_emailwelcomecontent', 'mgmc_emailwelcomesubject', 'mgmc_emailvalidationcontent', 'mgmc_emailvalidationsubject', 'mgmc_logoutredirect', 'mgmc_logoutredirecturl', 'mgmc_emailwelcome', 'mgmc_validateuserurl', 'mgmc_loginredirect', 'mgmc_loginredirecturl', 'mgmc_emailusername', 'mgmc_recaptchasecretkey', 'mgmc_emailvalidation', 'mgmc_emailnotification', 'mgmc_hidebyauthor', 'mgmc_hideentrylink', 'mgmc_hideformtitle', 'mgmc_termsconditions', 'mgmc_termsconditionstxt', 'mgmc_termsconditionsmsg', 'mgmc_overrideregister', 'mgmc_hideregister', 'mgmc_hidepasswordreset', 'mgmc_showavatarf', 'mgmc_showuserf', 'mgmc_showlogout', 'mgmc_hideadminbar', 'mgmc_validateipaccess', 'mgmc_loginrename', 'mgmc_loginrenameslug', 'mgmc_loginurl', 'mgmc_hideavatarw', 'mgmc_hideuserw', 'mgmc_reseturl', 'mgmc_registerurl', 'mgmc_installed');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('mgmc_disableuser');
+DELETE FROM wp_usermeta WHERE meta_key IN ('mgmc_disableuser');
+DELETE FROM wp_termmeta WHERE meta_key IN ('mgmc_disableuser');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('mgmc_disableuser');
+

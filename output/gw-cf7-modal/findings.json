@@ -1,0 +1,23 @@
+{
+  "options": [
+    "media_selector_attachment_id",
+    "select_form",
+    "left_textarea",
+    "form_background",
+    "main_background_color",
+    "leftarea_content_position",
+    "label_color",
+    "leftarea_text_color",
+    "leftarea_text_align",
+    "text_background",
+    "close_button_color",
+    "onload_or_click",
+    "click_selector"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:38.968Z"
+}

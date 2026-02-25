@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "edd_drip_cron_half_hourly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_edd_payment_meta",
+    "_edd_sl_is_renewal"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:41.454Z"
+}

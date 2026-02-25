@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mws_google_analytic_id",
+    "mws_enable",
+    "mws_select_page",
+    "mws_select_position",
+    "mws_default_webstory_icon"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "story_meta",
+    "mws_webstory_pages",
+    "_source_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:05.505Z"
+}

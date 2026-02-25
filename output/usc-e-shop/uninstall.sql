@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('usces', 'usces_available_settlement', 'usces_noreceipt_status', 'usces_settlement_selected', 'usces_payment_structure', 'usces_wcid', 'usces_payment_method', 'usces_paidy_application', 'usces_memberlist_option', 'usces_orderlist_option', 'usces_order_mail_print_fields', 'usces_welcartpay_keys', 'usces_management_status', 'usces_ex', 'usces_cart_number', 'usces_member_number', 'usces_item_cat_parent_id', 'usces_zaiko_status', 'usces_customer_status', 'usces_display_mode', 'usces_settlement_notice', 'usces_mail_othermail', 'usces_mail_thankyou', 'usces_mail_order', 'usces_mail_inquiry', 'usces_mail_membercomp', 'usces_mail_completionmail', 'usces_mail_ordermail', 'usces_mail_changemail', 'usces_mail_receiptmail', 'usces_mail_mitumorimail', 'usces_mail_cancelmail', 'usces_unavailable_settlement', 'usces_shipping_rule', 'usces_recaptcha_condition', 'usces_db_access', 'usces_db_member', 'usces_db_member_meta', 'usces_db_order', 'usces_db_order_meta', 'usces_db_ordercart', 'usces_db_ordercart_meta', 'usces_db_log', 'usces_db_acting_log', 'usces_db_item', 'usces_db_skus', 'usces_db_opts', 'usces_db_admin_log', 'usces_opt_member', 'usces_opt_order');
+DELETE FROM wp_options WHERE option_name IN ('usces_opt_item', 'dlseller', 'active_sitewide_plugins', 'usces_item_option_select', 'usces_custom_order_select', 'usces_custom_customer_select', 'usces_custom_field_position_select', 'usces_custom_delivery_select', 'usces_custom_member_select', 'usces_backup', 'usces_backup_date', 'usces_upgrade3', 'usces_upgrade2', 'usces_upgrade', 'usces_db_version', 'usces_currency_symbol', 'usces_states', 'update_plugins', 'update_themes', 'welcart_csv_import_error', 'update_wcex_plugins');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('metaboxhidden_dashboard', 'usces_admin_log_screen_options', '_wp_attachment_image_alt', '_itemCode', '_edit_last', '_thumbnail_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('metaboxhidden_dashboard', 'usces_admin_log_screen_options', '_wp_attachment_image_alt', '_itemCode', '_edit_last', '_thumbnail_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('metaboxhidden_dashboard', 'usces_admin_log_screen_options', '_wp_attachment_image_alt', '_itemCode', '_edit_last', '_thumbnail_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('metaboxhidden_dashboard', 'usces_admin_log_screen_options', '_wp_attachment_image_alt', '_itemCode', '_edit_last', '_thumbnail_id');
+

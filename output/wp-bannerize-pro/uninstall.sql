@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp_bannerize_old_table', 'wp_bannerize_do_import');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wp_bannerize_banner_external_url', 'wp_bannerize_banner_type', 'wp_bannerize_banner_date_from', 'wp_bannerize_banner_date_expiry', 'wp_bannerize_banner_link', 'wp_bannerize_banner_target', 'wp_bannerize_banner_no_follow', 'wp_bannerize_banner_width', 'wp_bannerize_banner_height', 'wp_bannerize_banner_url', 'wp_bannerize_banner_mime_type', 'wp_bannerize_banner_max_impressions', 'wp_bannerize_banner_max_clicks', 'wp_bannerize_banner_clicks', 'wp_bannerize_banner_impressions');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wp_bannerize_banner_external_url', 'wp_bannerize_banner_type', 'wp_bannerize_banner_date_from', 'wp_bannerize_banner_date_expiry', 'wp_bannerize_banner_link', 'wp_bannerize_banner_target', 'wp_bannerize_banner_no_follow', 'wp_bannerize_banner_width', 'wp_bannerize_banner_height', 'wp_bannerize_banner_url', 'wp_bannerize_banner_mime_type', 'wp_bannerize_banner_max_impressions', 'wp_bannerize_banner_max_clicks', 'wp_bannerize_banner_clicks', 'wp_bannerize_banner_impressions');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wp_bannerize_banner_external_url', 'wp_bannerize_banner_type', 'wp_bannerize_banner_date_from', 'wp_bannerize_banner_date_expiry', 'wp_bannerize_banner_link', 'wp_bannerize_banner_target', 'wp_bannerize_banner_no_follow', 'wp_bannerize_banner_width', 'wp_bannerize_banner_height', 'wp_bannerize_banner_url', 'wp_bannerize_banner_mime_type', 'wp_bannerize_banner_max_impressions', 'wp_bannerize_banner_max_clicks', 'wp_bannerize_banner_clicks', 'wp_bannerize_banner_impressions');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wp_bannerize_banner_external_url', 'wp_bannerize_banner_type', 'wp_bannerize_banner_date_from', 'wp_bannerize_banner_date_expiry', 'wp_bannerize_banner_link', 'wp_bannerize_banner_target', 'wp_bannerize_banner_no_follow', 'wp_bannerize_banner_width', 'wp_bannerize_banner_height', 'wp_bannerize_banner_url', 'wp_bannerize_banner_mime_type', 'wp_bannerize_banner_max_impressions', 'wp_bannerize_banner_max_clicks', 'wp_bannerize_banner_clicks', 'wp_bannerize_banner_impressions');
+

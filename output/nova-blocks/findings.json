@@ -1,0 +1,23 @@
+{
+  "options": [
+    "show_comments_cookies_opt_in",
+    "facetwp_settings",
+    "sm_advanced_palette_output",
+    "sm_site_color_variation",
+    "novablocks_google_maps_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nb_conversation_starter_user_id",
+    "nb_conversation_starter_content",
+    "nb_comment_highlighted_by",
+    "nb_commenter_background",
+    "nb_conversation_starter_subtitle",
+    "novablocks_hero_position_indicators",
+    "supernova_prevent_duplicate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:41.737Z"
+}

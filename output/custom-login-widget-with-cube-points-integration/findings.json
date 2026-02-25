@@ -1,0 +1,18 @@
+{
+  "options": [
+    "customlogin_heading",
+    "customlogin_register_link",
+    "customlogin_forgotton_link",
+    "customlogin_welcome_heading",
+    "customlogin_avatar",
+    "customlogin_logged_in_links",
+    "customlogin_cubepoints",
+    "customlogin_cubepoints_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:59.022Z"
+}

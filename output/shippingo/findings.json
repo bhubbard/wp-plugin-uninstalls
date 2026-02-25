@@ -1,0 +1,13 @@
+{
+  "options": [
+    "shippingo_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shippingo_shipment"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:20.682Z"
+}

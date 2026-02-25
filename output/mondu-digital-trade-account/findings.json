@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mondu_trade_account_options",
+    "_mondu_trade_webhooks_registered",
+    "_mondu_trade_webhooks_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:38.347Z"
+}

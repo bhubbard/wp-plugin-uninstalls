@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*transaction_id",
+    "*transaction_token",
+    "_li_watermark_value",
+    "_li_lemoninkable",
+    "_li_master_id",
+    "_downloadable_files"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:21.743Z"
+}

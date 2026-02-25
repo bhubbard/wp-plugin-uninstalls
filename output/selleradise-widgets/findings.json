@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_thumbnail_cropping",
+    "woocommerce_thumbnail_cropping_custom_height",
+    "woocommerce_thumbnail_cropping_custom_width",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_edit_mode",
+    "tgmpa_dismissed_notice_*",
+    "_wp_attachment_image_alt",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:01.790Z"
+}

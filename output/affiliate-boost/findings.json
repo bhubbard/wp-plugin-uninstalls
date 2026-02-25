@@ -1,0 +1,17 @@
+{
+  "options": [
+    "abpdotes_delay",
+    "abpdotes_session_lifetime",
+    "abpdotes_event_trigger",
+    "abpdotes_onoff",
+    "abpdotes_exclude_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "affiliate_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:05.408Z"
+}

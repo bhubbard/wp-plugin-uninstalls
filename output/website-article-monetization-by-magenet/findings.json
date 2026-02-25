@@ -1,0 +1,17 @@
+{
+  "options": [
+    "abp_author_id",
+    "abp_auth_key",
+    "abp_cache_time",
+    "abp_categories",
+    "abp_cache_time_const",
+    "abp_magenet_api_url",
+    "abp_cp_host"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:06.974Z"
+}

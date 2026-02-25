@@ -1,0 +1,14 @@
+{
+  "options": [
+    "basic_user_avatars_caps"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "basic_user_avatar",
+    "*user_avatar"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:28.275Z"
+}

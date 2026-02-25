@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woodecor_options1",
+    "woodecor_options2",
+    "woodecor_hidenotice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woodecor_login_notice_shown",
+    "woodecor_show_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:42.594Z"
+}

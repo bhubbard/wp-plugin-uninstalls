@@ -1,0 +1,17 @@
+{
+  "options": [
+    "alf_dp_button_text",
+    "alf_dp_msg_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_alf_dp_disabled",
+    "_alf_dp_schedule",
+    "_alf_dp_btn_text",
+    "_alf_dp_msg_text"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:12.490Z"
+}

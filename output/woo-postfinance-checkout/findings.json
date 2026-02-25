@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_tax_round_at_subtotal",
+    "wc_postfinancecheckout_base_gateway_url",
+    "woocommerce_manage_stock",
+    "ywpo_order_status"
+  ],
+  "transients": [
+    "wc_postfinancecheckout_payment_methods"
+  ],
+  "cron_jobs": [
+    "postfinancecheckout_five_minutes_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_postfinancecheckout_on_hold_email_sent",
+    "postfinancecheckout-previous-wc-min-version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:10.486Z"
+}

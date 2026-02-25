@@ -1,0 +1,23 @@
+{
+  "options": [
+    "shop2api_token",
+    "shop2api_connection_succeeded",
+    "shop2api_bol_connection_succeeded",
+    "shop2api_wc_connection_succeeded",
+    "woocommerce_category_field",
+    "shop2api_email",
+    "ean-number",
+    "shop2api_sync_to_bol"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "shop2api_sync_to_bol",
+    "shop2api_koopblok_service",
+    "shop2api_ean_number",
+    "shop2api_combi_ean_number"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:06.895Z"
+}

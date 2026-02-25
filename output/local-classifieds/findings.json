@@ -1,0 +1,13 @@
+{
+  "options": [
+    "LCGRW_options",
+    "LCGRW_list_page_id",
+    "LCGRW_add_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:36.288Z"
+}

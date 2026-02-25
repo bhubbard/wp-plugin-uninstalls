@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_weight_unit",
+    "woocommerce_andreani_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_params_andreani",
+    "_chosen_shipping",
+    "_sucursal_andreani_c"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:39.790Z"
+}

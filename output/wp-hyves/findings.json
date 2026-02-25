@@ -1,0 +1,15 @@
+{
+  "options": [
+    "show_dl_widget",
+    "wphyves_scraps"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hyves_added_post",
+    "hyves_post_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:50.862Z"
+}

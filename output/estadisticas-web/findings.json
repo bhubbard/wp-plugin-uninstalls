@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ga_plugin_id_seguimiento",
+    "ga_plugin_carga_asincrona",
+    "awe_plugin_id_seguimiento",
+    "awe_plugin_carga_asincrona"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:04.324Z"
+}

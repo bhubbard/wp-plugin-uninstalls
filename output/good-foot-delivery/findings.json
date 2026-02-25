@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wc_goodfootdelivery_debug_mode",
+    "wc_goodfootdelivery_api_username",
+    "wc_goodfootdelivery_api_email",
+    "wc_goodfootdelivery_api_user_id",
+    "wc_goodfootdelivery_environment",
+    "wc_goodfootdelivery_auto_complete_shipped_orders",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_shipwire_manage_stock"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:22.264Z"
+}

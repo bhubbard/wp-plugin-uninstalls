@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_otd_enable",
+    "_otd_display_location",
+    "_otd_tips_title",
+    "_otd_taxable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:27.516Z"
+}

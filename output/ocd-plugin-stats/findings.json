@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dashboard_widget_options"
+  ],
+  "transients": [
+    "ocd_plugins_table"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:55.520Z"
+}

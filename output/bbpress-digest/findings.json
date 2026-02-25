@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_bbp_digest_show_one_click",
+    "_bbp_digest_enable_weekly"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bbp_digest_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "bbp_digest_time",
+    "bbp_digest_day",
+    "bbp_digest_forums"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:33.888Z"
+}

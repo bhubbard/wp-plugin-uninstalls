@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'catalogit_needs_rewrite_flush'
+wp option delete 'catalogit_plugin_custom_catalogit_api_base'
+wp option delete 'catalogit_plugin_disable_ssl_verification'
+wp option delete 'catalogit_plugin_access_token'
+wp option delete 'catalogit_plugin_account_id'
+wp option delete 'catalogit_plugin_page_size'
+wp option delete 'catalogit_plugin_folder_entries_view'
+wp option delete 'catalogit_plugin_folder_entry_show_folder_name'
+wp option delete 'catalogit_plugin_folder_entry_show_folder_description'
+wp option delete 'catalogit_plugin_folder_entry_back_button_label'
+wp option delete 'catalogit_plugin_folder_entry_show_back_button'
+wp option delete 'catalogit_plugin_folder_entry_show_entry_name'
+wp option delete 'catalogit_plugin_folder_entry_show_entry_image'
+wp option delete 'catalogit_plugin_folder_entry_show_entry_artist'
+wp option delete 'catalogit_plugin_folder_entry_show_entry_description'
+wp option delete 'catalogit_plugin_single_entry_show_properties'
+wp option delete 'catalogit_plugin_single_entry_properties_position'
+wp option delete 'catalogit_plugin_single_entry_show_back'
+wp option delete 'catalogit_plugin_single_entry_back_label'
+wp option delete 'catalogit_plugin_single_entry_show_nav'
+wp option delete 'catalogit_plugin_single_entry_prev_label'
+wp option delete 'catalogit_plugin_single_entry_next_label'
+wp option delete 'catalogit_plugin_single_entry_columns'
+wp option delete 'catalogit_plugin_single_entry_show_classification'
+wp option delete 'catalogit_plugin_single_entry_show_description'
+wp option delete 'catalogit_plugin_single_entry_show_thumbnails'
+wp option delete 'catalogit_plugin_single_entry_show_title'
+wp option delete 'catalogit_plugin_show_folder_name'
+wp option delete 'catalogit_plugin_show_folder_items_count'
+wp option delete 'catalogit_plugin_folders_view'
+wp option delete 'catalogit_plugin_folders_grids_per_row'
+wp option delete 'catalogit_plugin_entries_grids_per_row'
+wp option delete 'catalogit_plugin_scroll_to_top'
+wp option delete 'catalogit_plugin_show_folder_description'
+wp option delete 'catalogit_plugin_single_column'
+
+# Delete Transients
+wp transient delete 'catalogit_pages'
+

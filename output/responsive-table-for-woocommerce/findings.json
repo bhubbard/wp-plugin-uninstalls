@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dc_rtfw_activate",
+    "dc_rtfw_activate_cart",
+    "dc_rtfw_activate_wishlist",
+    "dc_rtfw_wishlist_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:54.776Z"
+}

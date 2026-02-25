@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ctf_options",
+    "recently_activated"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ctf_form_settings",
+    "ctf_form_settings_custom_fields",
+    "ctf_form_settings_task_format",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:40.947Z"
+}

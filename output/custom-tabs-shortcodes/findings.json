@@ -1,0 +1,26 @@
+{
+  "options": [
+    "cts_config",
+    "cts_color_defaults",
+    "cts_lunes",
+    "cts_martes",
+    "cts_miercoles",
+    "cts_jueves",
+    "cts_viernes",
+    "cts_sabado",
+    "cts_domingo",
+    "cts_icons",
+    "cts_delete"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "td_colors",
+    "td_data",
+    "td_options",
+    "td_is_daily"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:07.852Z"
+}

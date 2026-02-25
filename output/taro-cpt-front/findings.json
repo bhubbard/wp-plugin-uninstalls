@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ts-cptf-post-types",
+    "rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tscptf_is_front"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:37.296Z"
+}

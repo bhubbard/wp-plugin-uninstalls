@@ -1,0 +1,17 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wp_desk_net_id_in_permalink', 'wp_desk_net_status_desk_net_to_wp_removed', 'wp_desk_net_desk-net-list-active-status', 'wp_desk_net_platform_id', 'wp_desk_net_status_wp_to_desk_net_publish', 'wp_desk_net_status_desk_net_to_wp_5', 'wp_desk_net_desk-net-list-deactivated-status', 'wp_desk_net_formats_list', 'wp_desk_net_slug_slug_syncing', 'wp_desk_net_category_custom_field_in_wp_custom_field', 'wp_desk_net_category_desk_net_to_wp_no_category', 'wp_desk_net_api_key', 'wp_desk_net_api_secret', 'wp_desk_net_db_version', 'wp_desk_net_desk_net_category_list', 'wp_desk_net_user_login', 'wp_desk_net_user_password', 'wp_desk_net_token', 'wp_desk_net__settings', 'wp_desk_net__authorization', 'wp_desk_net_status_list', 'wp_desk_net_initial_status_syncing', 'wp_desk_net_category_list', 'wp_desk_net_task_list', 'wp_desk_net_custom_fields_list', 'wp_desk_net_publication_custom_fields_list', 'wp_desk_net_content_list', 'wp_desk_net_slug_list', 'wp_desk_net_initial_slug_syncing', 'wp_desk_net_id_in_permalink_option', 'wp_desk_net_desk_net_custom_fields_list', 'wp_desk_net_desk_net_publication_custom_fields_list', 'wp_desk_net_initial_slug_syncing_checkbox');
+DELETE FROM wp_options WHERE option_name LIKE '%-files';
+DELETE FROM wp_options WHERE option_name LIKE 'wp_desk_net_status_desk_net_to_wp_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wp_desk_net_category_desk_net_to_wp_%';
+DELETE FROM wp_options WHERE option_name LIKE '%custom_fields_list';
+DELETE FROM wp_options WHERE option_name LIKE 'wp_desk_net_task_desk_net_to_wp_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wp_desk_net_task_wp_to_desk_net_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('wp_desk_net_remove_status', 'desk_net_updated_by_wp_update_post', 'desk_net_status_id', 'wp_desk_net_lock_update_post_content', 'wp_desk_net_file_id', 'desk_net_description', 'story_id', 'desk_net_author_id', 'desk_net_status_name', 'publications_id', 'desk_net_category_id', 'wp_desk_net_post_previous_status', 'wp_desk_net_change_post_date', 'desk_net_notice_message_id');
+DELETE FROM wp_usermeta WHERE meta_key IN ('wp_desk_net_remove_status', 'desk_net_updated_by_wp_update_post', 'desk_net_status_id', 'wp_desk_net_lock_update_post_content', 'wp_desk_net_file_id', 'desk_net_description', 'story_id', 'desk_net_author_id', 'desk_net_status_name', 'publications_id', 'desk_net_category_id', 'wp_desk_net_post_previous_status', 'wp_desk_net_change_post_date', 'desk_net_notice_message_id');
+DELETE FROM wp_termmeta WHERE meta_key IN ('wp_desk_net_remove_status', 'desk_net_updated_by_wp_update_post', 'desk_net_status_id', 'wp_desk_net_lock_update_post_content', 'wp_desk_net_file_id', 'desk_net_description', 'story_id', 'desk_net_author_id', 'desk_net_status_name', 'publications_id', 'desk_net_category_id', 'wp_desk_net_post_previous_status', 'wp_desk_net_change_post_date', 'desk_net_notice_message_id');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('wp_desk_net_remove_status', 'desk_net_updated_by_wp_update_post', 'desk_net_status_id', 'wp_desk_net_lock_update_post_content', 'wp_desk_net_file_id', 'desk_net_description', 'story_id', 'desk_net_author_id', 'desk_net_status_name', 'publications_id', 'desk_net_category_id', 'wp_desk_net_post_previous_status', 'wp_desk_net_change_post_date', 'desk_net_notice_message_id');
+

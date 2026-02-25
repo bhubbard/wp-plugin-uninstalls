@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ecpt_cpt_name",
+    "ecpt_cpt_singular_name",
+    "ecpt_cpt_plural_name",
+    "ecpt_cpt_slug_name",
+    "ecpt_cpt_dashicon_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:14.238Z"
+}

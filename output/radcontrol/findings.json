@@ -1,0 +1,14 @@
+{
+  "options": [
+    "adcontrol_settings",
+    "adcontrol_advanced_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "adcontrol_cron_status"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:55.159Z"
+}

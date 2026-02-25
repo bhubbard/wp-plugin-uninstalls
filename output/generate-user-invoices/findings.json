@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpza_gui__plugin_settings_currency_decimal_places",
+    "wpza_gui__plugin_settings_currency",
+    "wpza_gui__plugin_settings_currency_after",
+    "wpza_gui__plugin_settings_tax",
+    "wpza_gui__plugin_settings_company_address",
+    "wpza_gui__plugin_settings_footer_information"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "invoice_status",
+    "wpza_gui__metabox_items_group",
+    "users",
+    "invoice_user",
+    "invoice_reference",
+    "invoice_tax"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:10.017Z"
+}

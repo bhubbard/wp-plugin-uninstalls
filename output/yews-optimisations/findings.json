@@ -1,0 +1,30 @@
+{
+  "options": [
+    "yews_settings",
+    "yews_cron_setup",
+    "yews_footer_credits",
+    "gdlr_general",
+    "yews_analytics_code",
+    "yews_phone_code",
+    "yews_phoneno_code",
+    "yews_remarketing_code",
+    "yews_codes",
+    "yews_seo",
+    "yews_checks"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "yews_daily_checks"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "yews_business_name",
+    "yews_business_phone",
+    "yews_business_street_address",
+    "yews_business_suburb",
+    "yews_business_state",
+    "yews_business_post_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:52.307Z"
+}

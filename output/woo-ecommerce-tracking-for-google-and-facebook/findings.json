@@ -1,0 +1,36 @@
+{
+  "options": [
+    "aet_et_tracking_settings",
+    "aet_where_hear_about_us",
+    "aet_data_submited_in_sendiblue",
+    "selected_data_ua_et",
+    "active_sitewide_plugins",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "selected_data_ua_*"
+  ],
+  "transients": [
+    "_aet_welcome_ecommerce_screen_activation_redirect_data",
+    "aet-admin-notice",
+    "aet_updated",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "aet_dismiss_site_kit_notice",
+    "order_id_wth_uuid",
+    "aet_placed_order_success",
+    "aet_ga_placed_order_success"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:32.350Z"
+}

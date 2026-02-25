@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_c2p_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_c2p-found",
+    "_cp2-old-content",
+    "_c2p-old-content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:29.283Z"
+}

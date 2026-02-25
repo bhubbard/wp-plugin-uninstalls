@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dv_settings",
+    "my_db_version",
+    "dv_settings_style",
+    "dv_settings_avis",
+    "dialv_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:35.577Z"
+}

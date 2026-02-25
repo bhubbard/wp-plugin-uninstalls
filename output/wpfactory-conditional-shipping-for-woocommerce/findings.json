@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wpjup_wc_cond_shipping_plugin_enabled",
+    "wpjup_wc_cond_shipping_add_variations",
+    "wpjup_wc_cond_shipping_validate_all",
+    "wpjup_wc_cond_shipping_cart_not_package",
+    "wpjup_wc_cond_shipping_debug",
+    "alg_wc_cond_shipping_logical_operator",
+    "*_enabled",
+    "woocommerce_default_gateway",
+    "*_notice",
+    "wpjup_wc_cond_shipping_checkout_notice",
+    "wpjup_wc_cond_shipping_version",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:00.714Z"
+}

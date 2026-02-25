@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pepper_settings_option_name",
+    "pepper_settings_option_name_key",
+    "pepper_settings_option_name_webhook_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pepper_signatured_post",
+    "company_id",
+    "integrated_account_id",
+    "assignment_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:02.870Z"
+}

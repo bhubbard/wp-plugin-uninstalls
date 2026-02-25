@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bpps_old_statuses",
+    "bpps_current_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:31.537Z"
+}

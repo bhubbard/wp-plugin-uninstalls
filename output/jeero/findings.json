@@ -1,0 +1,18 @@
+{
+  "options": [
+    "jeero/enable_custom_post_types",
+    "jeero/enable_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jeero/import/post/last_update",
+    "_EventEndDate",
+    "_EventShowMapLink",
+    "enddate",
+    "tickets_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:07.569Z"
+}

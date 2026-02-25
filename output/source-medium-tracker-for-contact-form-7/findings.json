@@ -1,0 +1,18 @@
+{
+  "options": [
+    "smt_cf7_enable_conversion_tracking",
+    "smt_cf7_google_ads_conversion_id",
+    "smt_cf7_google_ads_conversion_label",
+    "smt_cf7_ga_measurement_id",
+    "smt_cf7_ga_api_secret",
+    "smt_cf7_enable_facebook_conversion_tracking",
+    "smt_cf7_facebook_pixel_id",
+    "smt_cf7_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:09.586Z"
+}

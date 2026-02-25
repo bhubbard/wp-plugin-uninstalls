@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cutzy_url_option_name"
+  ],
+  "transients": [
+    "cutzy_guid_success",
+    "cutzy_guid_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cutzy_shorturl"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:24.305Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [
+    "dlm_file_version_ids_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_files",
+    "_version",
+    "_filesize",
+    "_md5",
+    "_sha1",
+    "_crc32",
+    "_sha256",
+    "edd_download_files"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:21.330Z"
+}

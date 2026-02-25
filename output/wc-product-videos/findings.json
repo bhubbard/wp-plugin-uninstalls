@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_youtube_url_meta_key",
+    "_video_position_meta_key"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:40.729Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "BootstrapBlocks_settings",
+    "BootstrapBlocks_experiments",
+    "Bootstrap_config_options",
+    "Bootstrap_config_breakpoints",
+    "Bootstrap_config_container",
+    "Bootstrap_config_gutter",
+    "Bootstrap_config_scss_overrides",
+    "Bootstrap_config_imports",
+    "BootstrapBlocksActivated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bootstrap_notice_dismissed",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:55.679Z"
+}

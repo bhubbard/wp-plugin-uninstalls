@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_bbp_delete_spam_hours_old"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bbpress_autodelete_psuedo_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:29.412Z"
+}

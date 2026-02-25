@@ -1,0 +1,24 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "short_bio",
+    "member_designation",
+    "member_email",
+    "member_website",
+    "member_mobile",
+    "member_phone",
+    "member_location",
+    "member_facebook",
+    "member_twitter",
+    "member_linkedin",
+    "member_youtube",
+    "member_google",
+    "member_beshto",
+    "member_vimeo"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:31.980Z"
+}

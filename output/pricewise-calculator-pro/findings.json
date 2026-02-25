@@ -1,0 +1,37 @@
+{
+  "options": [
+    "pwcp_category_assignments_*",
+    "pwcp_last_settings_export",
+    "pwcp_general_settings",
+    "pwcp_design_settings",
+    "pwcp_calculation_settings",
+    "pwcp_text_settings",
+    "pwcp_advanced_settings",
+    "pwcp_uninstall_delete_data",
+    "pwcp_uninstall_settings_exported",
+    "pwcp_activation_time",
+    "pwcp_plugin_version",
+    "pwcp_db_version",
+    "pwcp_enable_calculation_logging",
+    "pwcp_deactivation_time",
+    "pwcp_column_migration_completed",
+    "pwcp_uninstall_notice_dismissed",
+    "pwcp_data_preserved_on"
+  ],
+  "transients": [
+    "pwcp_import_export_notice",
+    "pwcp_uninstall_preference_saved"
+  ],
+  "cron_jobs": [
+    "pwcp_daily_cleanup",
+    "pwcp_weekly_analytics_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pwcp_calculator_view",
+    "_pwcp_assigned_calculators",
+    "_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:35.580Z"
+}

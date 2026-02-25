@@ -1,0 +1,15 @@
+{
+  "options": [
+    "spgs_settings",
+    "spgs_version",
+    "spgs_functions"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "spgs_scheduled_tasks"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:23.925Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "muv-hp-ausgabe-typ",
+    "muv-hp-ausgabe-seite",
+    "muv-hp-freischalten-key",
+    "muv-hp-verstecken-aktiv",
+    "muv-hp-verstecken-bereiche-inkl",
+    "muv-hp-verstecken-bereiche-exkl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:00.558Z"
+}

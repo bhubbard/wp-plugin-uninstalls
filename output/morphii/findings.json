@@ -1,0 +1,24 @@
+{
+  "options": [
+    "morphii-settings",
+    "morphii-licence",
+    "woocommerce_review_rating_verification_required"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "morphiis",
+    "morphii-question-id",
+    "morphii-current-post_id",
+    "morphii-current-post_type",
+    "morphii-current-post_name",
+    "_morphii_final_review",
+    "_morphii_reviewer_user_name",
+    "_morphii_reviewer_user_email",
+    "morphii_post_types_to_display",
+    "morphiis_label"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:39.796Z"
+}

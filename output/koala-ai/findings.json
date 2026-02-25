@@ -1,0 +1,17 @@
+{
+  "options": [
+    "koala_ai_first_image_as_featured",
+    "koala_ai_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "koala_ai_process_image_import"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_koala_ai_original_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:13.053Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "kirb_import_running",
+    "kirb_review_notice_dismissed_at"
+  ],
+  "transients": [
+    "kirb_deactivation_message"
+  ],
+  "cron_jobs": [
+    "kirb_import_demo_products_cron",
+    "kirb_clean_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_kirb_drafted_by_plugin",
+    "_product_image_gallery",
+    "woo_variation_gallery_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:05.665Z"
+}

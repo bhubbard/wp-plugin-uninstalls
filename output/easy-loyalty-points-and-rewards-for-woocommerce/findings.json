@@ -1,0 +1,43 @@
+{
+  "options": [
+    "nrp_activated",
+    "nrp_settings_version",
+    "woocommerce_enable_coupons",
+    "nrp_rewrite_rules_flushed",
+    "nrp_points_per_unit",
+    "nrp_point_value",
+    "nrp_redemption_increment",
+    "nrp_assign_points_status",
+    "nrp_debug",
+    "nrp_min_redemption_points",
+    "nrp_db_version",
+    "nrp_min_redemption_order_value",
+    "nrp_message_single_product",
+    "nrp_message_variable_product",
+    "nrp_message_cart_complete_purchase",
+    "nrp_message_cart_guest",
+    "nrp_message_cart_reward_min_spend",
+    "nrp_message_cart_reward_min_points",
+    "nrp_message_cart_apply_discount",
+    "nrp_message_cart_apply_discount_button",
+    "nrp_tax_mode",
+    "nrp_earning_ratio",
+    "nrp_rounding_mode",
+    "nrp_redemption_ratio",
+    "nrp_points_label",
+    "nrp_coupon_calculation_mode",
+    "nrp_uninstall_delete_settings",
+    "nrp_uninstall_delete_points_data",
+    "nrp_install_date",
+    "nrp_min_redemption_order_value_display",
+    "nrp_pro_settings_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_nrp_points"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:31.015Z"
+}

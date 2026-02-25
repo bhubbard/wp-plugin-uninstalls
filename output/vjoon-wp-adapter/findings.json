@@ -1,0 +1,31 @@
+{
+  "options": [
+    "vjwpad_settings",
+    "vjwpad_assignUser"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vjoon_adapter_garbage_collector"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_object_id",
+    "_wp_old_slug",
+    "_oembed_*",
+    "_oembed_time_*",
+    "author",
+    "_k4exclusive",
+    "_editor",
+    "_pluginOrigin",
+    "_raw",
+    "mediaContentId",
+    "_version",
+    "contentId",
+    "_origin",
+    "_section",
+    "_language",
+    "_preview"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:43.811Z"
+}

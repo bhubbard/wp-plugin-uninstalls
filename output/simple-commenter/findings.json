@@ -1,0 +1,24 @@
+{
+  "options": [
+    "simco_account_info",
+    "simco_integration_token",
+    "simco_project_id",
+    "simco_domain_id",
+    "simco_settings",
+    "simco_enabled_roles",
+    "simco_auto_sync_clients",
+    "simco_admin_roles",
+    "simco_last_seen_todo_count"
+  ],
+  "transients": [
+    "simco_synced_user_*",
+    "simco_new_comments_count",
+    "simco_account_cache",
+    "simco_domains_cache"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:40.903Z"
+}

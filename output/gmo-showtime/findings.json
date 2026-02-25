@@ -1,0 +1,25 @@
+{
+  "options": [
+    "gmoshowtime-maintenance",
+    "gmoshowtime-page-types",
+    "gmoshowtime-transition",
+    "gmoshowtime-css-class",
+    "gmoshowtime-max-pages",
+    "gmoshowtime-image-size",
+    "gmoshowtime-apply-gallery",
+    "gmoshowtime-background-color",
+    "gmoshowtime-text-color",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_slide_link",
+    "_thumbnail_id",
+    "_slide_blank"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:07.452Z"
+}

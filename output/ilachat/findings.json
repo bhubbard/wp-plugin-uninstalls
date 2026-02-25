@@ -1,0 +1,47 @@
+{
+  "options": [
+    "ilachat_bot",
+    "ilachat_token",
+    "ilachat_widget_code",
+    "ilachat_widget_code_fast",
+    "ilachat_widget_code_optimize",
+    "ilachat_widget_display_mode",
+    "ilachat_iframe_url",
+    "ilachat_enable_show_widget",
+    "ilachat_enable_lead_collection",
+    "ilachat_last_updated",
+    "ilachat_woocommerce_integration_enabled",
+    "ilachat_woocommerce_order_tracking_enabled",
+    "ilachat_woocommerce_order_check_phone_enabled",
+    "ilachat_woocommerce_order_check_email_enabled",
+    "ilachat_woocommerce_sync_categories",
+    "ilachat_woocommerce_order_allowed_data",
+    "ilachat_woocommerce_order_statuses_description",
+    "ilachat_woocommerce_order_special_note",
+    "ilachat_woocommerce_sync_out_of_stock",
+    "ilachat_woocommerce_product_sync_enabled",
+    "ilachat_woocommerce_secret_key"
+  ],
+  "transients": [
+    "ilachat_connect_clicked",
+    "ilachat_sync_variable_links_scheduled",
+    "ilachat_product_limit_reached"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "digits_phone",
+    "phone",
+    "first_name",
+    "last_name",
+    "_elementor_data",
+    "_elementor_edit_mode",
+    "ilachat_synced",
+    "ilachat_deleted_due_to_oos",
+    "ilachat_priority",
+    "ilachat_sync_on_save"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:37.999Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wpvivid_optimization_options",
+    "wpvivid_connect_key",
+    "wpvivid_server_cache",
+    "wpvivid_get_optimization_url",
+    "wpvivid_dashboard_info",
+    "wpvivid_imgoptim_user",
+    "wpvivid_image_opt_task",
+    "wpvivid_get_get_overview",
+    "wpvivid_imgoptim_overview",
+    "wpvivid_image_opt_task_cancel",
+    "wpvivid_get_need_optimize_images",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "medium_large_size_w",
+    "medium_large_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpvivid_image_optimize_meta",
+    "wpvivid_backup_image_meta",
+    "wpvivid_image_og_pixel_meta"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:15.009Z"
+}

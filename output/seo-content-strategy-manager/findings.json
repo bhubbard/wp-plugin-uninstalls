@@ -1,0 +1,39 @@
+{
+  "options": [
+    "seocostm_groq_api_key"
+  ],
+  "transients": [
+    "seocostm_stored_keywords",
+    "seocostm_content_decay_count",
+    "seocostm_funnel_analysis_v3",
+    "seocostm_entities_analysis_result",
+    "seocostm_all_entities_list",
+    "seocostm_content_clusters_result",
+    "seocostm_unknown_intent_kws_v2",
+    "seocostm_content_clusters_result_v4"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_seocostm_word_count",
+    "_seocostm_image_count",
+    "_seocostm_link_internal",
+    "_seocostm_link_external",
+    "_seocostm_is_pillar",
+    "_seocostm_pillar_parent",
+    "rank_math_schema_generator",
+    "rank_math_rich_snippet",
+    "rank_math_schema_type",
+    "_yoast_wpseo_schema_page_type",
+    "_yoast_wpseo_schema_article_type",
+    "_yoast_wpseo_focuskw",
+    "rank_math_focus_keyword",
+    "_yoast_wpseo_title",
+    "rank_math_title",
+    "_yoast_wpseo_metadesc",
+    "rank_math_description",
+    "_seocostm_kw_density"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:13.407Z"
+}

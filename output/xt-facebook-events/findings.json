@@ -1,0 +1,16 @@
+{
+  "options": [
+    "xtfe_user_token_options",
+    "xtfe_transient_keys",
+    "xtfe_fb_authorize_user",
+    "xtfe_fb_user_pages"
+  ],
+  "transients": [
+    "xtfe_facebook_access_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:17.989Z"
+}

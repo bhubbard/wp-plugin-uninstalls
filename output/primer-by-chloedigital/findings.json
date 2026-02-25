@@ -1,0 +1,16 @@
+{
+  "options": [
+    "primer_notification_posts_count_dismissed",
+    "primer_notification_posts_count_hide_until",
+    "my_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "primer_data",
+    "primer_data_frontend"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:21.324Z"
+}

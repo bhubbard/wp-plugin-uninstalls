@@ -1,0 +1,20 @@
+{
+  "options": [
+    "educare_svr_data",
+    "educare_db_sys_tem",
+    "educare_files_selector"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "educare_svr_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "educare_renewal_notice",
+    "educare_dismissed_notices",
+    "School",
+    "user_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:06.305Z"
+}

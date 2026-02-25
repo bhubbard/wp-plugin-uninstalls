@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_hold_stock_minutes",
+    "woocommerce_manage_stock",
+    "woocommerce_wc-razorpay_settings",
+    "rzpwc_plugin_dismiss_rating_notice",
+    "rzpwc_plugin_no_thanks_rating_notice",
+    "rzpwc_plugin_installed_time",
+    "rzpwc_plugin_dismiss_donate_notice",
+    "rzpwc_plugin_no_thanks_donate_notice",
+    "rzpwc_plugin_dismissed_time",
+    "rzpwc_plugin_dismissed_time_donate",
+    "*_notice"
+  ],
+  "transients": [
+    "rzp_woocommerce_connect_mode_*",
+    "rzp_woocommerce_refreshing_access_token_*",
+    "rzpwc-admin-notice-on-activation",
+    "rzpwc_plugin_deprecate_setting_notice_random_priority"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:57.592Z"
+}

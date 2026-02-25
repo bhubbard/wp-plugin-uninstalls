@@ -1,0 +1,14 @@
+{
+  "options": [
+    "_bprpa_enable_setting"
+  ],
+  "transients": [
+    "bprpa_activity_*",
+    "bprpa_media_activity_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:09.181Z"
+}

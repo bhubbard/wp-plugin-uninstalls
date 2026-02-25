@@ -1,0 +1,16 @@
+{
+  "options": [
+    "smart_footnotes_style",
+    "smart_footnotes_popup_style",
+    "smart_footnotes_heading",
+    "smart_footnotes_return_text",
+    "smart_footnotes_custom_css",
+    "smart_footnotes_show_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:46.493Z"
+}

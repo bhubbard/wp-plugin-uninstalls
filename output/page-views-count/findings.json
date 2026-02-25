@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*_clean_on_deletion",
+    "*_enable",
+    "*_google_font_list",
+    "*_style_version",
+    "a3_pvc_version",
+    "pvc_just_installed",
+    "a3rev_pvc_plugin",
+    "a3rev_auth_pvc",
+    "pvc_settings",
+    "pvc_reset_all_individual",
+    "pvc_current_rest_api_enabled",
+    "pvc_endpoint_rest_api_disabled_dismiss",
+    "*_google_api_key",
+    "*_toggle_box_open",
+    "*-custom-boxes"
+  ],
+  "transients": [
+    "update_plugins",
+    "*_status"
+  ],
+  "cron_jobs": [
+    "pvc_empty_daily_table_daily_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*opened",
+    "*-custom-boxes",
+    "_a3_pvc_activated"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:31.899Z"
+}

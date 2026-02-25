@@ -1,0 +1,43 @@
+{
+  "options": [
+    "momo_acg_openai_settings",
+    "momo_rssfeed_openai_settings",
+    "momo_autoblog_openai_settings",
+    "momo_acg_rssfeed_event_list",
+    "momo_acg_scw_event_list",
+    "momo_acg_chatbot_settings",
+    "momo_acg_cb_trainings_list",
+    "momo_acg_cb_trainings_settings",
+    "momo_acgwc_cb_trainings_settings",
+    "momo_acg_cb_dashboard_contents",
+    "momo_chatgpt_openai_settings",
+    "momo_acg_blocks_settings",
+    "momo_acg_general_settings",
+    "momo_acg_credit_system_settings",
+    "woocommerce_myaccount_page_id",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "momo_wsw_api_cache_settings",
+    "momo_acg_wc_openai_settings"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "momo_acg_trainings_embeddings_hook",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_acg_credit_plan_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:08.342Z"
+}

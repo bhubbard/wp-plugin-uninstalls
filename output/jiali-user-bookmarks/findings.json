@@ -1,0 +1,23 @@
+{
+  "options": [
+    "jialiub_singular_label",
+    "jialiub_plural_label",
+    "jialiub_action_label",
+    "jialiub_bookmark_enabled_post_types",
+    "jialiub_show_label",
+    "jialiub_show_count",
+    "jialiub_button_position",
+    "jialiub_button_color",
+    "jialiub_button_hover_color",
+    "jialiub_button_active_color",
+    "jialiub_font_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "jialiub_bookmarks_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:00.630Z"
+}

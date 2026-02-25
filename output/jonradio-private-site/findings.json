@@ -1,0 +1,22 @@
+{
+  "options": [
+    "jr_ps_log",
+    "jr_ps_debug_mode",
+    "jr_ps_spam_guard_log",
+    "jr_ps_settings",
+    "jr_ps_internal_settings",
+    "jr_ps_first_run_time",
+    "jr_ps_activated",
+    "jr_ps_licenses",
+    "jr_ps_donate_log",
+    "jr_ps_robots_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:22.205Z"
+}

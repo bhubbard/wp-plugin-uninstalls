@@ -1,0 +1,35 @@
+{
+  "options": [
+    "*environment",
+    "*test_publishable_key",
+    "*test_secret_key",
+    "*publishable_key",
+    "*secret_key",
+    "*filter_countries",
+    "*default_country",
+    "*payment_description",
+    "*tax_rate",
+    "*charge_shipping",
+    "*fixed_shipping_fee",
+    "*varied_shipping_fee",
+    "*success_header",
+    "*success_message",
+    "*error_header",
+    "*error_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wsc_order_detail",
+    "wsc_order_shipping",
+    "wsc_order_summary",
+    "wsc_order_name",
+    "wsc_order_email",
+    "wsc_order_amount",
+    "wsc_order_currency",
+    "wsc_order_live"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:50.492Z"
+}

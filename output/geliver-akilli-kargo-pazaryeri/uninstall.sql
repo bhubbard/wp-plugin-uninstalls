@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('geliver_akilli_kargo_plugin_mode', 'woocommerce_email_base_color', 'woocommerce_email_background_color', 'woocommerce_email_body_text_color', 'geliver_api_key', 'geliver_tek_asamada_gonderi_olusturma', 'geliver_otomatik_aktarilacaklar', 'shipping_company', 'geliver_akilli_kargo_desi_info', 'geliver_akilli_kargo_desi_type', 'geliver_manuel_musteri_mode', 'geliver_exchange_rate', 'woocommerce_weight_unit', 'geliver_akilli_kargo_shipping_company', 'kargo_siralama', 'geliver_sepette_ucretsiz_tutar', 'geliver_sepette_ucretsiz_ayar', 'geliver_akilli_komisyon_orani', 'geliver_akilli_kargo_komisyon_type', 'geliver_fiyat_yuvarlama', 'redirect_to_geliver_akilli_kargo_mode_page');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('geliver_tracking_company', 'geliver_tracking_code', 'geliver_tracking_url', 'geliver_shipment_mail_sent');
+DELETE FROM wp_usermeta WHERE meta_key IN ('geliver_tracking_company', 'geliver_tracking_code', 'geliver_tracking_url', 'geliver_shipment_mail_sent');
+DELETE FROM wp_termmeta WHERE meta_key IN ('geliver_tracking_company', 'geliver_tracking_code', 'geliver_tracking_url', 'geliver_shipment_mail_sent');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('geliver_tracking_company', 'geliver_tracking_code', 'geliver_tracking_url', 'geliver_shipment_mail_sent');
+

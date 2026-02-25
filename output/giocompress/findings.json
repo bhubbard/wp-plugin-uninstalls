@@ -1,0 +1,20 @@
+{
+  "options": [
+    "giocompress_format",
+    "giocompress_quality",
+    "giocompress_max_width",
+    "giocompress_preserve_original",
+    "giocompress_lazy_loading",
+    "giocompress_auto_alt_text",
+    "giocompress_api_key",
+    "giocompress_daily_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:50.524Z"
+}

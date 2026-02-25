@@ -1,0 +1,27 @@
+{
+  "options": [
+    "im4wp_flash_messages",
+    "im4wp",
+    "im4wp_lite_version",
+    "im4wp_version",
+    "im4wp_default_form_id",
+    "im4wp_form_stylesheets",
+    "im4wp_groupings_map"
+  ],
+  "transients": [
+    "im4wp_iyspanel_lists",
+    "im4wp_iyspanel_brands",
+    "im4wp_iyspanel_originators",
+    "im4wp_api_key_notice_dismissed"
+  ],
+  "cron_jobs": [
+    "im4wp_usage_tracking"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_im4wp_settings",
+    "text_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:58:01.683Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ecew_settings",
+    "ecew_settings_last_saved"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ecew_editor_choice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:50.772Z"
+}

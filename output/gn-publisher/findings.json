@@ -1,0 +1,33 @@
+{
+  "options": [
+    "cus_rewrite_update_time",
+    "gnpub_installed_version",
+    "gnpub_last_activation",
+    "gnpub_last_deactivation",
+    "gnpub_new_options",
+    "gnpub_shortcode_options",
+    "gnpub_google_index_api_settings",
+    "gnpub_giapi_requests",
+    "gnpub_include_featured_image",
+    "gnpub_is_default_feed",
+    "gnpub_websub_last_ping",
+    "gnpub_google_last_fetch",
+    "gnpub_news_sitmap",
+    "gnpub_setup_wizard_checklist",
+    "gnpub_activation_redirect",
+    "gnpub_pro_upgrade_license",
+    "gnpub_feed_list"
+  ],
+  "transients": [
+    "gnpub_websub_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers",
+    "_wp_attachment_image_alt",
+    "gnpub_modified_count"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:51.381Z"
+}

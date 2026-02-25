@@ -1,0 +1,32 @@
+{
+  "options": [
+    "menu_master_show_fields",
+    "menu_master_filter_options",
+    "menu_master_menu_order",
+    "menu_master_custom_category_order",
+    "menu_master_title_font_color",
+    "menu_master_title_font_size",
+    "menu_master_title_font_weight",
+    "menu_master_description_font_color",
+    "menu_master_description_font_size",
+    "menu_master_description_font_weight",
+    "menu_master_price_font_color",
+    "menu_master_price_font_size",
+    "menu_master_price_font_weight",
+    "menu_master_default_menu_image",
+    "menu_master_veg_nonveg_icons",
+    "menu_master_elementor_page_id",
+    "menu_master_gutenberg_page_id",
+    "menu_master_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mmrm_ai_botkit_banner_dismissed",
+    "_elementor_data",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:56.467Z"
+}

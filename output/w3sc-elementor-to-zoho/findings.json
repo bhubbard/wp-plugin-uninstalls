@@ -1,0 +1,15 @@
+{
+  "options": [
+    "w3scelementor_zoho_auth_infos",
+    "w3scelementor_alltoken_data",
+    "w3scelementor_refresh_token_data",
+    "w3sc_elementor_installed",
+    "w3sc_elementor_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:43.479Z"
+}

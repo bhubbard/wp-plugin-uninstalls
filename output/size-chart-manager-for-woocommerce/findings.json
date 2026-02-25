@@ -1,0 +1,34 @@
+{
+  "options": [
+    "sizechama_size_chart_position",
+    "sizechama_layout_style",
+    "sizechama_sizechart_popup_position",
+    "sizechama_size_chart_tab_title",
+    "sizechama_even_row_color",
+    "sizechama_odd_row_color",
+    "sizechama_font_text_color",
+    "sizechama_size_heading_title",
+    "sizechama_size_guide_content",
+    "sizechama_table_border_color",
+    "sizechama_border_size",
+    "sizechama_size_chart_enable_disable",
+    "sizechama_product_per_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_size_chart_data",
+    "_sizechama_selected_categories",
+    "_sizechama_selected_tags",
+    "_sizechama_products",
+    "_sizechama_apply_all_product",
+    "_sizechama_size_chart_product",
+    "_sizechama_grouped_attributes",
+    "_sizechama_hide_thumbnail",
+    "_sizechama_hide_description",
+    "_sizechama_hide_chart_table"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:32.289Z"
+}

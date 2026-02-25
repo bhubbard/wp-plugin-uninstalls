@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "basksc_review_prompt_shown_at",
+    "basksc_review_prompt_handled_at"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:22.123Z"
+}

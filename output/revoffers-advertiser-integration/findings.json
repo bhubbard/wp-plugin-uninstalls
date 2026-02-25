@@ -1,0 +1,18 @@
+{
+  "options": [
+    "revoffers_site_id",
+    "revoffers_use_cron",
+    "revoffers_real_order_id",
+    "woocommerce_weight_unit",
+    "revoffers_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sku",
+    "_customer_ip_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:47.110Z"
+}

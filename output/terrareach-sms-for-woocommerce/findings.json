@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*api_key",
+    "*sender_id",
+    "*default_sms_template",
+    "*_sms_template",
+    "*enable_notes_sms",
+    "*note_sms_template",
+    "*enable_admin_sms",
+    "*admin_sms_recipients",
+    "*admin_sms_template"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:14.729Z"
+}

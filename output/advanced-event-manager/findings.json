@@ -1,0 +1,48 @@
+{
+  "options": [
+    "saem_default_settings_template",
+    "saem_list_settings_templates",
+    "saem_permalinks",
+    "saem_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "saem_cron_hourly",
+    "saem_cron_twice_daily",
+    "saem_cron_daily"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_reminder",
+    "timetable",
+    "person_title",
+    "person_first_name",
+    "person_last_name",
+    "person_photo",
+    "address",
+    "phone",
+    "email",
+    "social",
+    "job_position",
+    "workflow",
+    "images",
+    "_wp_attachment_image_alt",
+    "color",
+    "start_date_unix",
+    "end_date_unix",
+    "location",
+    "coordinates",
+    "services",
+    "employees",
+    "rrule",
+    "is_advanced_rrule",
+    "exdate",
+    "featured",
+    "cancelled",
+    "paid",
+    "uid",
+    "timezone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:43.824Z"
+}

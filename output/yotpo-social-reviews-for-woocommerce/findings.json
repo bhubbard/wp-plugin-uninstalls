@@ -1,0 +1,14 @@
+{
+  "options": [
+    "yotpo_settings",
+    "wc_yotpo_just_installed",
+    "woocommerce_enable_review_rating",
+    "native_star_ratings_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:11.408Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "image_3d_cl_repeat_group",
+    "image_3d_heading",
+    "image_3d_image",
+    "image_3d_width",
+    "image_3d_height",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:19.563Z"
+}

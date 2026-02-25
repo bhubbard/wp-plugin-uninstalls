@@ -1,0 +1,31 @@
+{
+  "options": [
+    "fbSocialClientId",
+    "dc_fb_viral_downloader_general_settings_name",
+    "dc_fb_viral_downloader_logs_settings_name",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "facebook_count",
+    "_*",
+    "_download_count",
+    "_share_file",
+    "_share_google",
+    "_share_facebook",
+    "_share_twitter",
+    "_share_url",
+    "_share_caption",
+    "_share_description",
+    "google_count",
+    "twitter_count",
+    "_featured",
+    "_members",
+    "_redirect",
+    "viraldownloader_share_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:59.402Z"
+}

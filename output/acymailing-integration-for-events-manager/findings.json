@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dbem_ms_mainblog_locations",
+    "dbem_locations_page",
+    "dbem_ms_global_locations_links",
+    "dbem_ms_locations_slug",
+    "dbem_attributes_enabled",
+    "dbem_placeholders_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:29.041Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "jqlb_comments",
+    "jqlb_automate",
+    "jqlb_resize_on_demand",
+    "jqlb_show_download",
+    "jqlb_navbarOnTop",
+    "jqlb_resize_speed",
+    "jqlb_margin_size",
+    "jqlb_help_text",
+    "jqlb_loopImages",
+    "jqlb_resizeCenter",
+    "jqlb_link_target"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:18.037Z"
+}

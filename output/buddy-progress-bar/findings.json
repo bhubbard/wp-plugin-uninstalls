@@ -1,0 +1,24 @@
+{
+  "options": [
+    "bppp-auto-embed",
+    "bppp-extra-widget-embed",
+    "bppp-extra-directory-embed",
+    "bppp-profile-title-embed",
+    "bppp-login-title-embed",
+    "bppp-directory-title-embed",
+    "bppp-completed-title-embed",
+    "bppp-award-embed",
+    "bppp-empty-profile-embed",
+    "bppp-empty-message-embed",
+    "bppp-empty-login-embed",
+    "bppp-points-shares"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_progress_bar_percent_level"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:38.974Z"
+}

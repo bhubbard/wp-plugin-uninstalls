@@ -1,0 +1,25 @@
+{
+  "options": [
+    "kntrfnt_kntrfntmt_active_",
+    "kntrfnt_load_fonts",
+    "kntrfnt_kntrfntmt_active_*",
+    "kntrfnt_kntrfntmt_fontfamily_*",
+    "kntrfnt_kntrfntmt_class_*",
+    "kntrfnt_font_size_active_*",
+    "kntrfnt_font_size_size_*",
+    "kntrfnt_font_weight_active_*",
+    "kntrfnt_font_weight_size_*",
+    "kntrfnt_kntrfntmt_title_*",
+    "kntrfnt_font_size_title_*",
+    "kntrfnt_font_weight_title_*",
+    "kntrfnt_load_fonts_active",
+    "kntrfnt_clear_format_active",
+    "kntrfnt_underline_active"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:34.180Z"
+}

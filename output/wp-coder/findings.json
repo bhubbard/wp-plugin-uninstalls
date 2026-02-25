@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_wpcoder_enable_debug_log",
+    "_wpcoder_enable_php",
+    "wow_license_key_*",
+    "_wp_coder_snippets",
+    "_wp_coder_tools",
+    "*_db_version"
+  ],
+  "transients": [
+    "wp_coder_admin_error_php_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:36:16.860Z"
+}

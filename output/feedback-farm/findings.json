@@ -1,0 +1,18 @@
+{
+  "options": [
+    "feedback_farm_projectId",
+    "feedback_farm_selected_menu",
+    "feedback_farm_end_image_url",
+    "feedback_farm_identifier",
+    "feedback_farm_localization",
+    "feedback_farm_page_name",
+    "feedback_farm_theme",
+    "feedback_farm_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:57.137Z"
+}

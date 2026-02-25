@@ -1,0 +1,34 @@
+{
+  "options": [
+    "dcl_general_profession_routing_active",
+    "dcl_general_add_profession_routing",
+    "dcl_general_jobs*",
+    "dcl_general_hide_menu_items",
+    "dcl_general_login_id_debug",
+    "dcl_client_secret_debug",
+    "dcl_general_login_id",
+    "dcl_client_secret",
+    "dcl_general_jobs",
+    "dcl_general_pages",
+    "dcl_general_pages*",
+    "dcl_form_size",
+    "dcl_form_language",
+    "dcl_form_custom_template",
+    "dcl_form_custom_template_width",
+    "dcl_form_custom_template_height",
+    "dcl_general_set_language_by_wpml",
+    "dcl_general_login_page_id",
+    "dcl_general_redirect_page_id",
+    "dcl_general_professional_circles_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dcl_group_routing",
+    "dcl_restrict_access",
+    "dcl_all_group"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:57.698Z"
+}

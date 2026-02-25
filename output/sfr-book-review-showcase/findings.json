@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sfrbrs_delete_data_on_uninstall",
+    "sfrbrs_activation_date",
+    "sfrbrs_schema_version",
+    "sfrbrs_settings",
+    "sfrbrs_review_view_stats",
+    "sfrbrs_review_click_stats"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sfrbrs_stats_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sfrbrs_pro_notice_dismissed_permanent",
+    "sfrbrs_pro_notice_dismissed_until"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:33:35.257Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "pmpro_cron_myCred_subscription_updates",
+    "pmpro_myCred_subscription_charges"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pmpro_mycred_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:29.879Z"
+}

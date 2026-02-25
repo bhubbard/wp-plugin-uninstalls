@@ -1,0 +1,19 @@
+{
+  "options": [
+    "whp_disable_hidden_on_column",
+    "whp_enabled_post_types",
+    "whp_data_migrated",
+    "whp_data_migrated_notice_closed",
+    "whp_db_version"
+  ],
+  "transients": [
+    "whp_migration_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_whp_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:04.497Z"
+}

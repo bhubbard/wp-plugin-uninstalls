@@ -1,0 +1,27 @@
+{
+  "options": [
+    "easycommentspaginate_paginateContainer",
+    "easycommentspaginate_paginateElement",
+    "easycommentspaginate_hashPage",
+    "easycommentspaginate_elementsPerPage",
+    "easycommentspaginate_effect",
+    "easycommentspaginate_slideOffset",
+    "easycommentspaginate_firstButton",
+    "easycommentspaginate_firstButtonText",
+    "easycommentspaginate_lastButton",
+    "easycommentspaginate_lastButtonText",
+    "easycommentspaginate_prevButton",
+    "easycommentspaginate_prevButtonText",
+    "easycommentspaginate_nextButton",
+    "easycommentspaginate_nextButtonText",
+    "easycommentspaginate_custom_css",
+    "easycommentspaginate_test_mode",
+    "easycommentspaginate_class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:51.220Z"
+}

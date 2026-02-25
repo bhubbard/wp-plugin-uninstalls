@@ -1,0 +1,23 @@
+{
+  "options": [
+    "gdcarnet_updated",
+    "dest_notes",
+    "gdcarnet_dest_notes",
+    "prevalidation",
+    "gdcarnet_prevalidation",
+    "gdcarnet_db_updated",
+    "mensualite_std",
+    "gdcarnet_dest_entretien",
+    "gdcarnet_last_auto_exec",
+    "gdcarnet_last_auto_credit",
+    "geo_account_enable_multi"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gdcarnet_cotisations_planifiees"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:12.012Z"
+}

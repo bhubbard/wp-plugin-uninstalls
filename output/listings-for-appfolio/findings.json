@@ -1,0 +1,12 @@
+{
+  "options": [
+    "apfl_url",
+    "apfl_custom_contact_us"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:24.649Z"
+}

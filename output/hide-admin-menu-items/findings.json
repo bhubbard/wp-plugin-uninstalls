@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hami_settings",
+    "hami_menu_items"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:25.273Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dtom_add_to_page",
+    "dtom_add_to_full_post",
+    "dtom_bgcolor",
+    "dtom_skin",
+    "dtom_open_new_window"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:16.581Z"
+}

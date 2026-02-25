@@ -1,0 +1,35 @@
+{
+  "options": [
+    "woocommerce_manage_stock",
+    "woocommerce_notify_no_stock_amount",
+    "woocommerce_notify_low_stock_amount",
+    "woocommerce_notify_no_stock",
+    "woocommerce_notify_low_stock",
+    "woocommerce_stock_email_recipient",
+    "*_skip_optimize_tables",
+    "mewz_wcas_product_multipliers",
+    "mewz_wcas_*",
+    "*_version",
+    "*_envato_unlisted",
+    "woocommerce_hide_out_of_stock_items",
+    "woocommerce_stock_format"
+  ],
+  "transients": [
+    "update_plugins",
+    "envato_market_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mewz_wcas_multiplier",
+    "_mewz_wcas_multiplier",
+    "_wp_old_slug",
+    "_sku",
+    "_filters",
+    "_quantity",
+    "_product_attributes",
+    "_mewz_wcas_exclude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:52.008Z"
+}

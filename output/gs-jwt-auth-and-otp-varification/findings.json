@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "_gs_jwt_fs_otp_use_staus",
+    "_gs_jwt_fs_otp",
+    "_gs_jwt_fs_otp_exp"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:38.771Z"
+}

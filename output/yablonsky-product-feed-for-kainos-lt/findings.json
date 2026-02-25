@@ -1,0 +1,14 @@
+{
+  "options": [
+    "kainoslt_woofeed_last_run",
+    "kainoslt_woofeed_settings"
+  ],
+  "transients": [
+    "kainoslt_woofeed_regen_pending"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:20.266Z"
+}

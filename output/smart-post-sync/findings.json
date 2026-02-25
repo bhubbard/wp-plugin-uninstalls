@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smart_post_sync_settings",
+    "smart_post_sync_attr_map",
+    "smart_post_sync_response"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sps_sync_post_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:26.643Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wml_review",
+    "wml_db_version",
+    "wpv_wml_settings"
+  ],
+  "transients": [
+    "wml_remind_later"
+  ],
+  "cron_jobs": [
+    "wpv/wml/delete_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:09.784Z"
+}

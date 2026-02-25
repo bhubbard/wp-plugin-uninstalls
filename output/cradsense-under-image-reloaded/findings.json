@@ -1,0 +1,14 @@
+{
+  "options": [
+    "cr_aui_reloaded_multiple_ads",
+    "cr_aui_reloaded_howmany_ads",
+    "cr_aui_reloaded_placement_option",
+    "cr_aui_reloaded_css_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:07.605Z"
+}

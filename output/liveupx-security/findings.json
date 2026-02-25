@@ -1,0 +1,16 @@
+{
+  "options": [
+    "xsec_settings",
+    "xsec_activated",
+    "xsec_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "xsec_daily_scan",
+    "xsec_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:25.385Z"
+}

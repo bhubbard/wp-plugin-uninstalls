@@ -1,0 +1,14 @@
+{
+  "options": [
+    "registrationnotification",
+    "fa_mne_version",
+    "famne_options",
+    "famne_network_managed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:44.333Z"
+}

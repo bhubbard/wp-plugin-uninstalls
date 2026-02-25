@@ -1,0 +1,16 @@
+{
+  "options": [
+    "api_key",
+    "geo_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_gp_location",
+    "wp_gp_latitude",
+    "wp_gp_longitude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:38.210Z"
+}

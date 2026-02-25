@@ -1,0 +1,17 @@
+{
+  "options": [
+    "parcelrush_api_key",
+    "parcelrush_markup_type",
+    "parcelrush_markup_value",
+    "parcelrush_fallback_rate",
+    "parcelrush_fallback_label",
+    "woocommerce_weight_unit",
+    "parcelrush_rates_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:59.050Z"
+}

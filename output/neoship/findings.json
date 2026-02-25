@@ -1,0 +1,17 @@
+{
+  "options": [
+    "neoship_login",
+    "neoship_has_gls",
+    "neoship_has_packeta",
+    "neoship_has_123",
+    "neoship_has_dpd"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_parcelshop_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:16.000Z"
+}

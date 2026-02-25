@@ -1,0 +1,24 @@
+{
+  "options": [
+    "wdlis_last_generated",
+    "wdlis_sig_index",
+    "wdlis_sig_index_full",
+    "wdlis_sig_index_json",
+    "wdlis_sig_images",
+    "wdlis_sig_images_md",
+    "wdlis_sig_images_jsonld",
+    "wdlis_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wdlis_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wdlis_faq_items",
+    "_wdlis_howto_item",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:49.494Z"
+}

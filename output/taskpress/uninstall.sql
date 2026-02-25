@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('activity_type', 'activity_data', 'taskpress_status', 'taskpress_position', 'taskpress_board_labels', 'taskpress_archived', 'taskpress_board_id', 'taskpress_assigned_to', 'taskpress_due_date', 'taskpress_card_labels', 'taskpress_labels', 'taskpress_priority', 'taskpress_created_by', 'taskpress_list_id', 'taskpress_theme_class', 'taskpress_cards');
+DELETE FROM wp_usermeta WHERE meta_key IN ('activity_type', 'activity_data', 'taskpress_status', 'taskpress_position', 'taskpress_board_labels', 'taskpress_archived', 'taskpress_board_id', 'taskpress_assigned_to', 'taskpress_due_date', 'taskpress_card_labels', 'taskpress_labels', 'taskpress_priority', 'taskpress_created_by', 'taskpress_list_id', 'taskpress_theme_class', 'taskpress_cards');
+DELETE FROM wp_termmeta WHERE meta_key IN ('activity_type', 'activity_data', 'taskpress_status', 'taskpress_position', 'taskpress_board_labels', 'taskpress_archived', 'taskpress_board_id', 'taskpress_assigned_to', 'taskpress_due_date', 'taskpress_card_labels', 'taskpress_labels', 'taskpress_priority', 'taskpress_created_by', 'taskpress_list_id', 'taskpress_theme_class', 'taskpress_cards');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('activity_type', 'activity_data', 'taskpress_status', 'taskpress_position', 'taskpress_board_labels', 'taskpress_archived', 'taskpress_board_id', 'taskpress_assigned_to', 'taskpress_due_date', 'taskpress_card_labels', 'taskpress_labels', 'taskpress_priority', 'taskpress_created_by', 'taskpress_list_id', 'taskpress_theme_class', 'taskpress_cards');
+

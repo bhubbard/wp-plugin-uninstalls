@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wp_pocketurl_link_redirection",
+    "wp_pocketurl_link_collect_data",
+    "wp_pocketurl_link_prefix",
+    "wp_pocketurl_link_exclude_cat",
+    "wp_pocketurl_link_enable_auto",
+    "wp_pocketurl_link_exclude_word",
+    "wp_pocketurl_link_require_word",
+    "rewrite_rules",
+    "wp_pocketurl_flush_rewrite_rules_flag",
+    "*_option_name",
+    "wp_pocketurl_link_nofollow",
+    "wp_pocketurl_link_tracking_code"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_poketurlnew_post_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wp_pocketurl_link",
+    "wp_pocketurl_link_custom_options",
+    "wp_pocketurl_link_redirection"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:50.305Z"
+}

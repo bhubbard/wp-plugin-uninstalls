@@ -1,0 +1,31 @@
+{
+  "options": [
+    "hbagency_wp_website_id",
+    "hbagency_wp_website_placements",
+    "hbagency_wp_placement_*",
+    "hbagency_wp_website_placements_cache_inarticle",
+    "hbagency_wp_enable_ads_txt",
+    "hbagency_wp_cmp",
+    "hbagency_wp_cls",
+    "hbagency_wp_website_script",
+    "hbagency_wp_has_cmp",
+    "*_type",
+    "*_pos",
+    "*_count",
+    "*_par",
+    "hbagency_wp_website_status",
+    "hbagency_wp_website_status_detail",
+    "hbagency_wp_website_url",
+    "hbagency_wp_website_ads_txt",
+    "hbagency_wp_website_ext_id",
+    "hbagency_wp_website_ads_txt_additional_lines"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hbagency_wp_cron_check_for_updates"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:00.465Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cprp_settings"
+  ],
+  "transients": [
+    "codepeople_promote_banner_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cprp_exclude_from_posts",
+    "cprp_hide_related_posts",
+    "cprp_tags",
+    "cprp_manually_related"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:31.981Z"
+}

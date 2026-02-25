@@ -1,0 +1,19 @@
+{
+  "options": [
+    "image_size",
+    "ignore_columns",
+    "custom_text",
+    "custom_text_value",
+    "thumbnail_caption",
+    "thumbnail_option",
+    "image_option",
+    "scratches",
+    "show_in_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:35.905Z"
+}

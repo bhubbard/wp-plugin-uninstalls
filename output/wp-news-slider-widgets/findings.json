@@ -1,0 +1,12 @@
+{
+  "options": [
+    "gen_nsw_add_news",
+    "scroller_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:00.843Z"
+}

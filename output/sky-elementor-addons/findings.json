@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*_installed",
+    "sky_addons_inactive_extensions",
+    "elementor_css_print_method",
+    "sky_addons_pro_license_key",
+    "_transient_timeout_elementor_remote_info_api_data_*",
+    "elementor_viewport_lg",
+    "elementor_viewport_md",
+    "sky_addons_installed",
+    "sky_addons_first_version",
+    "sky_addons_version"
+  ],
+  "transients": [
+    "dismissed_notice_*",
+    "sky_black_friday_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sky_video_link_meta",
+    "_elementor_template_type",
+    "wowdevs_theme_builder_type",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:21.892Z"
+}

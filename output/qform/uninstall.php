@@ -1,0 +1,17 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('qform_main_token');
+delete_site_option('qform_main_token');
+
+// Delete Transients
+delete_transient('qform_form_errors');
+delete_site_transient('qform_form_errors');
+delete_transient('qform_form_success');
+delete_site_transient('qform_form_success');
+

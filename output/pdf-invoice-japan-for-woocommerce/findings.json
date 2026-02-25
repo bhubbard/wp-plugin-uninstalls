@@ -1,0 +1,24 @@
+{
+  "options": [
+    "invoicejapan",
+    "invoicejapan_gateway_mail_timing",
+    "invoicejapan_gateway_remarks",
+    "invoicejapan_gateway_refunds",
+    "woocommerce_bankjp_accounts",
+    "woocommerce_postofficebankjp_accounts",
+    "woocommerce_default_country",
+    "woocommerce_store_city",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_postcode",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "invoicejapan_mail_timing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:56.749Z"
+}

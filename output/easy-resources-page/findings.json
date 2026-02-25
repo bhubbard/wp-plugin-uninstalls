@@ -1,0 +1,18 @@
+{
+  "options": [
+    "erp-button-background",
+    "erp-button-color",
+    "erp-dropdown-background",
+    "erp-panel-background",
+    "erp-panel-color",
+    "erp-link-css-class"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:53.289Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "treceafw_icon_theme",
+    "_wpml_custom_fields_translation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_afwv_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:20.923Z"
+}

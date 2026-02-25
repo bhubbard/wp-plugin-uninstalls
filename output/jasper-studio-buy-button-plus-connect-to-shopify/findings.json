@@ -1,0 +1,15 @@
+{
+  "options": [
+    "buy_button_plus_cart_id",
+    "buy_button_plus_cart_access_validated",
+    "buy_button_plus_buttons"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "buy_button_plus_warning_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:37:33.757Z"
+}

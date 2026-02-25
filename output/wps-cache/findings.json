@@ -1,0 +1,23 @@
+{
+  "options": [
+    "wpsc_settings",
+    "wpscac_settings",
+    "wpsc_debug_mode",
+    "wpsc_settings_backups"
+  ],
+  "transients": [
+    "wpsc_last_cache_clear",
+    "wpsc_html_cache_hits",
+    "wpsc_html_cache_misses",
+    "wpsc_previous_redis_stats",
+    "wpsc_preload_progress"
+  ],
+  "cron_jobs": [
+    "wpsc_collect_metrics",
+    "wpsc_cache_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:09.011Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "social_hashtag_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "social_hashtag_user_link",
+    "social_hashtag_userhandle",
+    "social_hashtag_post_link",
+    "social_hashtag_platform",
+    "social_hashtag_thumb_url",
+    "social_hashtag_full_url",
+    "social_hashtag_thumb_imagesize",
+    "social_hashtag_sha",
+    "social_hashtag_location",
+    "social_hashtag_timestamp",
+    "social_hashtag_vid_embed",
+    "social_hashtag_full_imagesize",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:26.665Z"
+}

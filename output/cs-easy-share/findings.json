@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cses_enable_box",
+    "cses_enable_fontawesome",
+    "cses_display_position",
+    "cses_display_icon_names",
+    "cses_question_text",
+    "cses_display_location",
+    "cses_display_buttons",
+    "cses_options_group"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:14.298Z"
+}

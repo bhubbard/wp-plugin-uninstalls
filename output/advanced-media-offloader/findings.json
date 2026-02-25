@@ -1,0 +1,38 @@
+{
+  "options": [
+    "advmo_first_activated_version",
+    "advmo_bulk_offload_cancelled",
+    "advmo_bulk_offload_last_update",
+    "advmo_bulk_offload_data",
+    "advmo_last_connection_check",
+    "advmo_settings",
+    "advmo_credentials",
+    "advmo_bulk_offload_media_process_status"
+  ],
+  "transients": [
+    "*_process_lock",
+    "*_batch_lock"
+  ],
+  "cron_jobs": [
+    "advmo_bulk_offload_cron",
+    "advmo_check_stalled_processes",
+    "advmo_cleanup_orphaned_queue",
+    "*_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes",
+    "_wp_attached_file",
+    "advmo_path",
+    "advmo_error_log",
+    "advmo_offloaded",
+    "advmo_tmp_file",
+    "advmo_offloaded_at",
+    "advmo_provider",
+    "advmo_bucket",
+    "advmo_retention_policy",
+    "advmo_object_version"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:50.955Z"
+}

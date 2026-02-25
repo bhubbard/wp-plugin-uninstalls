@@ -1,0 +1,25 @@
+{
+  "options": [
+    "organic_widget-area",
+    "organic_widgets_install_date",
+    "sidebars_widgets",
+    "theme_mods_*",
+    "organic_widgets_saved_widgets",
+    "organic_widgets_settings",
+    "recently_activated",
+    "organic_widgets_activation_redirect",
+    "classic-editor-replace"
+  ],
+  "transients": [
+    "ocdi_importer_data",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:01.918Z"
+}

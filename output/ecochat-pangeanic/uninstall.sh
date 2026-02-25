@@ -1,0 +1,30 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'ecpangenic_apikey'
+wp option delete 'ecpangenic_title'
+wp option delete 'ecpangenic_color_background_title'
+wp option delete 'ecpangenic_roboticon'
+wp option delete 'ecpangenic_initmessage'
+wp option delete 'ecpangenic_buttoncolor'
+wp option delete 'ecpangenic_client_name'
+wp option delete 'ecpangenic_client_lang'
+wp option delete 'ecpangenic_margin_bottom'
+wp option delete 'ecpangenic_margin_right'
+wp option delete 'ecpangenic_bottom_size'
+wp option delete 'ecpangenic_color_background_chat'
+wp option delete 'ecpangenic_color_outgoing_chat'
+wp option delete 'ecpangenic_color_incoming_chat'
+wp option delete 'ecpangenic_color_text_chat'
+wp option delete 'ecpangenic_color_text_title'
+wp option delete 'ecpangenic_color_links_chat'
+wp option delete 'ecpangenic_color_input_background'
+wp option delete 'ecpangenic_color_input_text'
+wp option delete 'ecpangenic_instance_id'
+wp option delete 'ecpangenic_assistant_id'
+wp option delete 'ecpangenic_session_id'
+wp option delete 'ecpangenic_email'
+wp option delete 'ecpangenic_password'
+wp option delete 'ecpangenic_assistants'
+

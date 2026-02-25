@@ -1,0 +1,46 @@
+{
+  "options": [
+    "kleingarten_post_types_with_auto_likes_shortcode",
+    "*_version",
+    "kleingarten_send_new_post_notification",
+    "kleingarten_send_new_post_notification_post_type_selection",
+    "kleingarten_new_post_notification_subject",
+    "kleingarten_new_post_notification_message",
+    "kleingarten_auto_likes_shortcode_position",
+    "kleingarten_show_footer_credits",
+    "kleingarten_login_page",
+    "kleingarten_send_account_registration_notification",
+    "kleingarten_send_account_activation_notification",
+    "kleingarten_available_positions",
+    "kleingarten_currency",
+    "kleingarten_plot_billing_items",
+    "kleingarten_units_available_for_meters",
+    "kleingarten_meter_types",
+    "kleingarten_show_status_in_admin_menu",
+    "kleingarten_anti_spam_challenge",
+    "kleingarten_anti_spam_response",
+    "kleingarten_allotment_gardener",
+    "kleingarten_pending",
+    "kleingarten_account_activation_notification_subject",
+    "kleingarten_account_activation_notification_message",
+    "kleingarten_membership_billing_items"
+  ],
+  "transients": [
+    "kleingarten_post_meta_notices"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "plot",
+    "positions",
+    "kleingarten_task_paricipants_hours",
+    "kleingarten_likes",
+    "kleingarten_meter_assignment",
+    "_kleingarten_invoice_was_published",
+    "kleingarten_status_order",
+    "kleingarten_project_color",
+    "kleingarten_invoice_canceled"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:17.252Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*-plugin-activated",
+    "*-plugin-version",
+    "wp-rest-api-log-db-notice-dismissed",
+    "wp-rest-api-log-plugin-activated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp-rest-api-log-purge-old-records"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_rest_api_log_migrated_id",
+    "_request_body"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:53.830Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_size_w",
+    "*_size_h",
+    "ata_news_admin_notice_*",
+    "ata_news_admin_notice_hide",
+    "ata_news_typography",
+    "ata_news_color_scheme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:18.394Z"
+}

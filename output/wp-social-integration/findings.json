@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wp_scintg_plugin_meta_settings",
+    "wp_scintg_plugin_home_feed_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:36.186Z"
+}

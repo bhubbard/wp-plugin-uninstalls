@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rocksite_blocks_library_activation_redirect",
+    "rocksite_kit_css",
+    "kadence_blocks_redirect_on_activation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:06.314Z"
+}

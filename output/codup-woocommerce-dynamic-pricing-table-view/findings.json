@@ -1,0 +1,22 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_show_pricing_table",
+    "_pricing_table_loc",
+    "_tab_label",
+    "_qty_label",
+    "_discount_type_label",
+    "_pricing_rules",
+    "_price_discount_loc",
+    "_price_discount_txt_field",
+    "_percentage_discount_loc",
+    "_percentage_discount_txt_field",
+    "_fixed_price_loc",
+    "_fixed_price_txt_field"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:18.449Z"
+}

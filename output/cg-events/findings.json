@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cg_events_shortcode_custom_css_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cg_event_type",
+    "_cg_event_start_date",
+    "_cg_event_end_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:58.332Z"
+}

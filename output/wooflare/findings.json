@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocf_settings",
+    "woocf_log",
+    "woocf_notice_toggled",
+    "woocommerce_demo_store",
+    "cloudflare_api_email",
+    "cloudflare_api_key",
+    "woocf_activated_on",
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:41:39.094Z"
+}

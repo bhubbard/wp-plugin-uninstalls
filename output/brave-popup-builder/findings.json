@@ -1,0 +1,36 @@
+{
+  "options": [
+    "_bravepopup_settings",
+    "brave_bfcm2020",
+    "bravepop_license_status",
+    "bravepop_license_key",
+    "brave_plugin_rated",
+    "bravepop_redirect_to_welcome",
+    "_bravepop_aweber_accountID",
+    "_bravepop_aweber_tkn",
+    "newsletter_subscription_lists",
+    "newsletter_lists",
+    "newsletter_profile",
+    "woocommerce_shop_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "popup_views",
+    "popup_conversion",
+    "popup_data",
+    "popup_parentID",
+    "popup_abtest",
+    "popup_schedule",
+    "brave_hidden_popups",
+    "bravepop_uncanny_actions",
+    "popup_type",
+    "popup_goal",
+    "popup_goal_action",
+    "popup_placement",
+    "popup_devices"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:04.679Z"
+}

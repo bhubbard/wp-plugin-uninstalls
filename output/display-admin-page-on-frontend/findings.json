@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wpfa_show_own_posts_migrated",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "wpfa_network_sites",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "wp_scheduled_auto_draft_delete",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "vgfa_text_changes",
+    "_elementor_data",
+    "wpfa_current_site_id",
+    "_wp_page_template",
+    "vgfa_show_own_posts",
+    "vgfa_disabled_columns",
+    "is_wpfa_page",
+    "vgfa_hidden_elements",
+    "vgfa_menu"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:55.010Z"
+}

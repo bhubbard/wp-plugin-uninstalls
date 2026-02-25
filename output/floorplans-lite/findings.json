@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_dimension_unit",
+    "woocommerce_currency",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep"
+  ],
+  "transients": [
+    "*-switch",
+    "*_upgrade"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:21:34.991Z"
+}

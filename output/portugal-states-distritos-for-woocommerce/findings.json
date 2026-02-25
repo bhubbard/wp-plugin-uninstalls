@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [
+    "webdados_portuguese_postcodes_nag"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webdados_portuguese_postcodes_nag_dismissed_until"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:57.703Z"
+}

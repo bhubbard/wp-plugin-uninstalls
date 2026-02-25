@@ -1,0 +1,29 @@
+{
+  "options": [
+    "wordplurk_template",
+    "wordplurk_suapi_user",
+    "wordplurk_suapi_key",
+    "wordplurk_login",
+    "wordplurk_shorturl_en",
+    "wordplurk_qualifier",
+    "wordplurk_language_set",
+    "wordplurk_Plurk2tw_en",
+    "wordplurk_version",
+    "wordplurk_username",
+    "wordplurk_password",
+    "wordplurk_apikey",
+    "wordplurk_cookie_exp_time",
+    "wordplurk_cookie",
+    "wordplurk_cmrt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "has_been_plurked",
+    "wordplurk_plurkornot",
+    "plurk_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:23.618Z"
+}

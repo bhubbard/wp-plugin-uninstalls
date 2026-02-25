@@ -1,0 +1,47 @@
+{
+  "options": [
+    "wxgiveaway_settings",
+    "wxgiveaway_review_dismissed",
+    "wxgiveaway_activation_redirect",
+    "wxgiveaway_org_db_version",
+    "wxgiveaway_org_columns_updated",
+    "wxgiveaway_winner_reveal_page_id",
+    "wxgiveaway_sequantial_procedure_status"
+  ],
+  "transients": [
+    "giveaway_lottery_activation_redirect"
+  ],
+  "cron_jobs": [
+    "wxgiveaway_giveaway_winner_selection_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_no_of_tickets",
+    "_bonus_tickets",
+    "total_winner_count",
+    "_total_winners",
+    "_wxgiveaway_instant_prizes",
+    "winner_selected",
+    "_pre_defined_winner_ticket",
+    "wxgiveaway_winner_details",
+    "_wxgiveaway_instant_winner_details",
+    "_wxgiveaway_lucky_wheel_ticket_winner_details",
+    "winner-name",
+    "winner-ticket",
+    "winner-order-id",
+    "_enable_giveaway",
+    "_disable_multiple_quantity",
+    "_ticket_prefix",
+    "_ticket_suffix",
+    "ticket_range",
+    "_start_date",
+    "_close_date",
+    "_draw_date",
+    "_ticket_range",
+    "_enable_ticket_picker",
+    "_gew_wheel_id",
+    "_allow_max_number_of_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:48.519Z"
+}

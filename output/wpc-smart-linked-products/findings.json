@@ -1,0 +1,16 @@
+{
+  "options": [
+    "wpcsl_settings",
+    "wpcsl_us",
+    "wpcsl_cs",
+    "wpcsl_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:04.067Z"
+}

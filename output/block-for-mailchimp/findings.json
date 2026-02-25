@@ -1,0 +1,12 @@
+{
+  "options": [
+    "fs_lite_accounts",
+    "mcb-email-collect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:12.361Z"
+}

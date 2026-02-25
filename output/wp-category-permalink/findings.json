@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_license",
+    "meowapps_hide_meowapps",
+    "*_rating_date",
+    "*_pro_serial",
+    "meowapps_hide_ads",
+    "force_sslverify",
+    "wpcp_hide_permalink"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_category_permalink"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:40.353Z"
+}

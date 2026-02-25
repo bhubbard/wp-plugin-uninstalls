@@ -1,0 +1,19 @@
+{
+  "options": [
+    "kuvatfi_option_apikey"
+  ],
+  "transients": [
+    "kuvatfi_sid",
+    "kuvatfi_uid",
+    "kuvatfi_validated",
+    "kuvatfi_lastgallery",
+    "kuvatfi_foldertree"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:07.854Z"
+}

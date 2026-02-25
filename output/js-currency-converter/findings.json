@@ -1,0 +1,15 @@
+{
+  "options": [
+    "jcc_target_class",
+    "jcc_exchange_rates_api",
+    "jcc_currency",
+    "jcc_exchange_rates",
+    "jcc_exchange_rates_from"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:59.216Z"
+}

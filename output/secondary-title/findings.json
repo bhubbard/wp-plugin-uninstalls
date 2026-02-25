@@ -1,0 +1,15 @@
+{
+  "options": [
+    "secondary_title_show_donation_notice",
+    "secondary_title_auto_show",
+    "secondary_title_title_format"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_secondary_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:15.652Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "corona_all",
+    "corona_countries",
+    "corona_history",
+    "corona_last_updated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "corona_jobs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:07.649Z"
+}

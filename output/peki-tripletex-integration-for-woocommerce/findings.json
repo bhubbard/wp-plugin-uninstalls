@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pekiwctt_api_url",
+    "pekiwctt_status_url",
+    "pekiwctt_employee_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pekiwctt_dismiss_connect_notice",
+    "_tripletex_invoice_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:33.719Z"
+}

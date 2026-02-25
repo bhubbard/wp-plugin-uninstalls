@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hqfam_ica_enable_cf7",
+    "hqfam_ica_enable_custom"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:17.016Z"
+}

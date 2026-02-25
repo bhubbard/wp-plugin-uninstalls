@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_settings",
+    "woo_cao_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woo_cao_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:20.810Z"
+}

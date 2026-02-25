@@ -1,0 +1,43 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'active_sitewide_plugins'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_sc_actived'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_sc_actived'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_sc_actived'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_sc_actived'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_product_apply'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_product_apply'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_product_apply'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_product_apply'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_condition_relation'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_condition_relation'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_condition_relation'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_condition_relation'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_conditions'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_conditions'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_conditions'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_conditions'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_include_products'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_include_products'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_include_products'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_include_products'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_exclude_products'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_exclude_products'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_exclude_products'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_exclude_products'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_above_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_above_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_above_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_above_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_main_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_main_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_main_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_main_content'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_oscw_under_content'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_oscw_under_content'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_oscw_under_content'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_oscw_under_content'"

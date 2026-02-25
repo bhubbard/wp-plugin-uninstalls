@@ -1,0 +1,19 @@
+{
+  "options": [
+    "at_seo_404_monitor_log"
+  ],
+  "transients": [
+    "*index",
+    "*posts",
+    "*pages",
+    "*taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "at_seo_job_title",
+    "at_seo_same_as"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:57.153Z"
+}

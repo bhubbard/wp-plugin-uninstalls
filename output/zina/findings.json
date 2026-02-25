@@ -1,0 +1,20 @@
+{
+  "options": [
+    "zina_options",
+    "zina_sidebar",
+    "*_type",
+    "*_period",
+    "*_page",
+    "*_items",
+    "secret",
+    "*_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zinawp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:26.668Z"
+}

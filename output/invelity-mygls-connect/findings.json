@@ -1,0 +1,17 @@
+{
+  "options": [
+    "invelity_my_gls_export_options"
+  ],
+  "transients": [
+    "invelity-my-gls-ad",
+    "invelity-plugins-description",
+    "invelity-plugins-ad"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "invelity_gls_parcel_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:07.739Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mybox_option_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "zone",
+    "zone_id",
+    "address_reference",
+    "secondary_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:48.086Z"
+}

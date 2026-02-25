@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rbko_keywords",
+    "rbko_keyword_lists",
+    "rbko_delete_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tracked_keywords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:54.378Z"
+}

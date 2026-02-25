@@ -1,0 +1,20 @@
+{
+  "options": [
+    "motordesk"
+  ],
+  "transients": [
+    "motordesk-i-*",
+    "motordesk-i",
+    "motordesk-is",
+    "motordesk-v-*",
+    "motordesk-vs-*",
+    "motordesk-i-field",
+    "motordesk-i-id",
+    "motordesk-i-alpha"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:53.914Z"
+}

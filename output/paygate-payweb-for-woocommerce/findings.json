@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_db_version",
+    "woocommerce_paygate_settings"
+  ],
+  "transients": [
+    "PAYGATE_PAYWEB_RED_*",
+    "PAYGATE_PAYWEB_IPN_*"
+  ],
+  "cron_jobs": [
+    "paygate_query_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "paygate_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:06.361Z"
+}

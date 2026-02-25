@@ -1,0 +1,29 @@
+{
+  "options": [
+    "woocommerce_ship_to_destination",
+    "komoju_woocommerce_*",
+    "woocommerce_komoju_settings",
+    "komoju_woocommerce_payment_types",
+    "komoju_woocommerce_just_connected_merchant_name",
+    "komoju_woocommerce_nonce",
+    "komoju_woocommerce_secret_key",
+    "woocommerce_komoju_linepay_settings",
+    "*_settings",
+    "komoju_woocommerce_payment_methods",
+    "woocommerce_test_komoju_settings",
+    "komoju_woocommerce_publishable_key",
+    "komoju_woocommerce_webhook_secret",
+    "komoju_woocommerce_ipn_async",
+    "komoju_woocommerce_fields_url",
+    "komoju_woocommerce_api_endpoint",
+    "komoju_woocommerce_waf_staging_token",
+    "komoju_woocommerce_invoice_prefix",
+    "komoju_woocommerce_debug_log"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:47:48.093Z"
+}

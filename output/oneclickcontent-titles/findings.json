@@ -1,0 +1,17 @@
+{
+  "options": [
+    "occ_titles_post_types",
+    "occ_titles_ai_provider",
+    "occ_titles_openai_api_key",
+    "occ_titles_google_api_key",
+    "occ_titles_google_model",
+    "occ_titles_openai_model",
+    "occ_titles_assistant_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:57:54.161Z"
+}

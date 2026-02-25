@@ -1,0 +1,17 @@
+{
+  "options": [
+    "insert_ads_on_post_single",
+    "insert_ads_on_post_showa",
+    "insert_ads_on_post_above",
+    "insert_ads_on_post_showb",
+    "insert_ads_on_post_below",
+    "insert_ads_on_post_page",
+    "insertadsonpost_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:49.951Z"
+}

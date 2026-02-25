@@ -1,0 +1,19 @@
+{
+  "options": [
+    "buynobur_global_redirect_type",
+    "buynobur_global_custom_url",
+    "buynobur_global_enabled",
+    "buynobur_target_taxonomies",
+    "buynobur_target_shop_archives"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_buynobur_enabled",
+    "_buynobur_redirect_type",
+    "_buynobur_custom_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:06.403Z"
+}

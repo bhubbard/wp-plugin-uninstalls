@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_eukapay_settings"
+  ],
+  "transients": [
+    "wc-gateway-eukapay-admin-notice-transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eukapay_ipn_nonce",
+    "_eukapay_transaction_code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:31.368Z"
+}

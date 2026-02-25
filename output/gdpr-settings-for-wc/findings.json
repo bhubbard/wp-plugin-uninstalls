@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wc_settings_tab_gdpr_promo_label",
+    "wc_settings_tab_gdpr_top_layer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_gdprpromo_checkbox"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:06.423Z"
+}

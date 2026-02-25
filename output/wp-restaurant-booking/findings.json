@@ -1,0 +1,37 @@
+{
+  "options": [
+    "wprb-hours",
+    "wprb-power-on",
+    "wprb-button-position",
+    "wprb-display-number-availables",
+    "wprb-activate-external-seats",
+    "wprb-bookable",
+    "wprb-margin-time",
+    "wprb-medium-time",
+    "wprb-expiration-time",
+    "wprb-activate-last-minute",
+    "wprb-last-minute-description",
+    "wprb-last-minute",
+    "wprb-activate-admin-notification",
+    "wprb-admin-recipients"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wprb-time",
+    "wprb-people",
+    "wprb-first-name",
+    "wprb-last-name",
+    "wprb-email",
+    "wprb-phone",
+    "wprb-table",
+    "wprb-date",
+    "wprb-until",
+    "wprb-external",
+    "wprb-notes",
+    "wprb-status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:35.035Z"
+}

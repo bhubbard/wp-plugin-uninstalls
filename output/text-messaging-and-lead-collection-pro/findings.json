@@ -1,0 +1,19 @@
+{
+  "options": [
+    "tmlcp_livecomm_bearer_token",
+    "tmlcp_livecomm_secret_detail",
+    "tmlcp_livecomm_user_detail",
+    "tmlcp_contact_forms",
+    "tmlcp_form_mapping_*",
+    "livecomm_default_phone_number",
+    "livecomm_default_contact_list",
+    "tmlcp_enable_plugin",
+    "tmlcp_enable_floating_plugin"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:21.706Z"
+}

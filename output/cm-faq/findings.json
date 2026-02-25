@@ -1,0 +1,23 @@
+{
+  "options": [
+    "cmfaq_page_id",
+    "taxonomy_*",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins",
+    "cmfaq_options"
+  ],
+  "transients": [
+    "cmfaqf_refresh_404_permalinks"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cmfaq_rating",
+    "cmfaq_main_category_id",
+    "cmfaq_show_voting"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:45.795Z"
+}

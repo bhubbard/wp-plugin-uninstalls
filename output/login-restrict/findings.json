@@ -1,0 +1,27 @@
+{
+  "options": [
+    "login_lmt_blocks",
+    "login_lmt_retries",
+    "login_lmt_retries_valid",
+    "login_lmt_blocks_total",
+    "site_name",
+    "login_lmt_logged",
+    "login_lmt_client_type",
+    "login_lmt_allowed_retries",
+    "login_lmt_lock_after_duration",
+    "login_lmt_allowed_blocks",
+    "login_lmt_long_duration",
+    "login_lmt_valid_duration",
+    "login_lmt_lock_after_notify",
+    "login_lmt_notify_email_after",
+    "login_lmt_cookies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "login_lmt_previous_cookie"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:29.659Z"
+}

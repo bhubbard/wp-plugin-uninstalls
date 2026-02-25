@@ -1,0 +1,23 @@
+{
+  "options": [
+    "auth_key",
+    "simba_tfa_priv_key_format",
+    "tfa_incorrect_code_attempts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tfa_priv_key_64",
+    "tfa_hotp_off_sync",
+    "simba_tfa_emergency_codes_64",
+    "tfa_algorithm_type",
+    "tfa_last_pws",
+    "tfa_last_login",
+    "tfa_hotp_counter",
+    "tfa_enable_tfa",
+    "tfa_trusted_devices"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:01.231Z"
+}

@@ -1,0 +1,40 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'placemarks_options'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_options'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placemarks-lat'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placemarks-lat'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placemarks-lat'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placemarks-lat'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placemarks-lng'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placemarks-lng'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placemarks-lng'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placemarks-lng'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placemarks-location'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placemarks-location'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placemarks-location'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placemarks-location'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placemarks-locations'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placemarks-locations'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placemarks-locations'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placemarks-locations'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placemarks-title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placemarks-title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placemarks-title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placemarks-title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placemarks-bubble'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placemarks-bubble'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placemarks-bubble'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placemarks-bubble'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placemarks-type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placemarks-type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placemarks-type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placemarks-type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'placemarks-link'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'placemarks-link'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'placemarks-link'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'placemarks-link'"

@@ -1,0 +1,88 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'crwpcn_global_product_notice_use_display_rules'
+wp option delete 'crwpcn_product_notice_display_by_categories'
+wp option delete 'crwpcn_product_notice_display_by_tags'
+wp option delete 'crwpcn_global_product_notice'
+wp option delete 'crwpcn_product_notice_background_color'
+wp option delete 'crwpcn_product_notice_custom_background_color'
+wp option delete 'crwpcn_product_notice_custom_text_color'
+wp option delete 'crwpcn_product_notice_custom_border_color'
+wp option delete 'crwcpn_product_notice_custom_border_radius'
+wp option delete 'active_sitewide_plugins'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_product_notice_display_by_categories_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_product_notice_display_by_categories_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_product_notice_display_by_categories_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_product_notice_display_by_categories_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_product_notice_display_by_tags_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_product_notice_display_by_tags_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_product_notice_display_by_tags_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_product_notice_display_by_tags_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_hide_global_notice'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_hide_global_notice'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_hide_global_notice'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_hide_global_notice'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_product_notice'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_product_notice'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_product_notice'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_product_notice'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwpcn_single_product_notice_background_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwpcn_single_product_notice_background_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwpcn_single_product_notice_background_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwpcn_single_product_notice_background_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_background_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwpcn_single_product_notice_custom_background_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_background_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_background_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_text_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwpcn_single_product_notice_custom_text_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_text_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_text_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_border_color'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwpcn_single_product_notice_custom_border_color'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_border_color'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwpcn_single_product_notice_custom_border_color'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_product_notice_border_radius'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_product_notice_border_radius'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_product_notice_border_radius'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_product_notice_border_radius'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_product_notice_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_product_notice_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_product_notice_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_product_notice_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_enable_global_product_notice_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_enable_global_product_notice_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_enable_global_product_notice_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_enable_global_product_notice_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_global_product_notice_use_display_rules_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_global_product_notice_use_display_rules_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_global_product_notice_use_display_rules_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_global_product_notice_use_display_rules_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_product_notice_display_by_products_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_product_notice_display_by_products_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_product_notice_display_by_products_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_product_notice_display_by_products_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_single_product_notice_background_color_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_single_product_notice_background_color_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_single_product_notice_background_color_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_single_product_notice_background_color_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_background_color_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_single_product_notice_custom_background_color_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_background_color_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_background_color_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_text_color_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_single_product_notice_custom_text_color_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_text_color_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_text_color_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_border_color_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_single_product_notice_custom_border_color_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_border_color_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_single_product_notice_custom_border_color_pt'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'crwcpn_product_notice_border_radius_pt'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'crwcpn_product_notice_border_radius_pt'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'crwcpn_product_notice_border_radius_pt'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'crwcpn_product_notice_border_radius_pt'"

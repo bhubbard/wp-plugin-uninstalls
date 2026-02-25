@@ -1,0 +1,14 @@
+{
+  "options": [
+    "hicpo_network_sites",
+    "hicpo_options",
+    "hicpo_activation",
+    "hicpo_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:24.055Z"
+}

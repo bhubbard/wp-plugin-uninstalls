@@ -1,0 +1,20 @@
+{
+  "options": [
+    "platformly-woocommerce",
+    "platformly_wc_cid",
+    "active_sitewide_plugins",
+    "ply_plugin_cid",
+    "ply_project_code_active"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ply_wc_remove_old_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "platformly-woocommerce",
+    "paltformly_wc_is_subscribed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:00.460Z"
+}

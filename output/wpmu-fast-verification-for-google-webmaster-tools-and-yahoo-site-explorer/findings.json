@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpmufastver_google",
+    "wpmufastver_yahoo",
+    "wpmufastver_bing",
+    "wpmufastver_alexa"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:56.337Z"
+}

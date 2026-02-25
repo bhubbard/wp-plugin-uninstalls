@@ -1,0 +1,17 @@
+{
+  "options": [
+    "salesforce2",
+    "email_sender",
+    "salesforce"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "salesforce_lead_submitted",
+    "author_first_name",
+    "author_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:13.915Z"
+}

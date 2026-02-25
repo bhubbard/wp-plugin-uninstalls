@@ -1,0 +1,45 @@
+{
+  "options": [
+    "wpconsent_admin_notices",
+    "ihaf_activated",
+    "wpconsent_activated",
+    "wpconsent_usage_tracking_config",
+    "_transient_timeout_*",
+    "active_sitewide_plugins",
+    "wpconsent_alt_cache_*",
+    "wpconsent_install",
+    "wpconsent_scanner_*",
+    "wpconsent_scanner_data",
+    "wpconsent_connect_token",
+    "wpconsent_connect",
+    "wpconsent_settings"
+  ],
+  "transients": [
+    "wpconsent_needs_google_consent",
+    "wpconsent_onboarding_redirect",
+    "wpconsent_translation_strings",
+    "wpconsent_needs_clarity_consent",
+    "wpconsent_preference_cookies",
+    "wpconsent_preference_slugs",
+    "wpconsent_just_activated",
+    "wpconsent_lite_just_activated"
+  ],
+  "cron_jobs": [
+    "wpconsent_admin_notifications_update",
+    "wpconsent_usage_tracking_cron",
+    "wpconsent_auto_scanner"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wpconsent_auto_added",
+    "_wpconsent_source_slug",
+    "wpconsent_admin_notices",
+    "wpconsent_dismissed_review_request",
+    "wpconsent_required",
+    "wpconsent_cookie_duration",
+    "wpconsent_cookie_id",
+    "wpconsent_service_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:29.228Z"
+}

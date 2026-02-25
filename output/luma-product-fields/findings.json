@@ -1,0 +1,23 @@
+{
+  "options": [
+    "*_flush_rewrite",
+    "luma_product_fields_flush_rewrite",
+    "*enable_migration_tool",
+    "*front_end_title",
+    "*display_sku",
+    "*display_tags",
+    "*display_categories",
+    "*display_group",
+    "*display_global_unique_id",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [
+    "luma_product_fields_meta_fields_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:18.309Z"
+}

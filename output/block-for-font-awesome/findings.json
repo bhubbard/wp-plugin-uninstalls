@@ -1,0 +1,26 @@
+{
+  "options": [
+    "fa_enqueue_fa7_fe",
+    "fa_enqueue_fa6_fe",
+    "fa_enqueue_fe",
+    "fa_enqueue_kit",
+    "fa_enqueue_kit_fe",
+    "fa_enqueue_local_fe",
+    "fa_external_css",
+    "fa_enqueue_fa_source",
+    "fa_enqueue_fa7_be",
+    "fa_enqueue_fa6_be",
+    "fa_enqueue_be",
+    "fa_enqueue_kit_be",
+    "fa_enqueue_local_be",
+    "fa_enqueue_fa6_setup",
+    "fa_enqueue_fa6_source",
+    "fa_enqueue_fa7_source"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:35.397Z"
+}

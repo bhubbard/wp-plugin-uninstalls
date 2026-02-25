@@ -1,0 +1,17 @@
+{
+  "options": [
+    "kronos_calendar_categories",
+    "kronos_calendar_url",
+    "kronos_abbreviations",
+    "kronos_state"
+  ],
+  "transients": [
+    "kronos_update_cal_*",
+    "kronos_cal_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:13:19.263Z"
+}

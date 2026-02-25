@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ssl_quality_checker_settings",
+    "ssl_labs_inform_user"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cron_check_ssl_status"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ignore_ssl_notice"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:22.461Z"
+}

@@ -1,0 +1,42 @@
+{
+  "options": [
+    "blm_setting_google_api_key",
+    "blm_setting_posttype_*",
+    "blm_setting_bloom_api_key",
+    "blm_setting_bloom_publisher_key",
+    "blm_setting_posttype_publishdate_*",
+    "blm_setting_posttype_enddate_*",
+    "blm_setting_posttype_expiration_*",
+    "blm_setting_amp",
+    "blm_setting_tab",
+    "blm_setting_search_enabled",
+    "blm_setting_search_preview",
+    "blm_setting_search_settings",
+    "blm_setting_search_shortlink",
+    "blm_setting_search_icon_display",
+    "blm_setting_search_icon_delay_seconds",
+    "blm_setting_search_open_bottom",
+    "blm_setting_search_open_seconds",
+    "blm_setting_search_cookies_enabled",
+    "blm_setting_map_append_enabled",
+    "blm_setting_map_append_height",
+    "blm_setting_map_append_zoom",
+    "blm_setting_map_append_position",
+    "blm_setting_feed_append_enabled",
+    "blm_setting_feed_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "blm_savepost_response",
+    "blm_post_location_formatted",
+    "blm_post_location_latitude",
+    "blm_post_location_longitude",
+    "blm_post_location_components",
+    "blm_post_key",
+    "blm_post_location_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:22.842Z"
+}

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "adthrive_options",
+    "adthrive_ads",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "wp_adthrive_updated",
+    "adthrive_plugin_settings"
+  ],
+  "cron_jobs": [
+    "adthrive_daily_event",
+    "adthrive_cls_daily_event",
+    "adthrive_site_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "adthrive_ads_disable",
+    "adthrive_ads_disable_content_ads",
+    "adthrive_ads_disable_auto_insert_videos",
+    "adthrive_ads_re_enable_ads_on",
+    "adthrive_ads_enable_admin_ads",
+    "adthrive_ads_disable_admin_ads",
+    "adthrive_ads_disable_metadata",
+    "adthrive_ads_enable_metadata",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:28.561Z"
+}

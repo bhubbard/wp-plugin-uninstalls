@@ -1,0 +1,23 @@
+{
+  "options": [
+    "sfw_db_version",
+    "sms_for_woo_apitoken",
+    "sms_for_woo_connection_user",
+    "sms_for_woo_connection_password",
+    "sms_for_woo_from",
+    "sms_for_woo_username",
+    "sms_for_woo_password",
+    "sms_for_woo_temp",
+    "sms_for_woo_settings_all",
+    "sms_for_woo_status_*",
+    "*_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sms_for_woo_optout"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:51:35.670Z"
+}

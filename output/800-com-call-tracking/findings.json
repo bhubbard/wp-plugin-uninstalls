@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ehdi_api_key",
+    "ehdi_selected_company_id",
+    "ehdi_dni_script",
+    "ehdi_wrap_script"
+  ],
+  "transients": [
+    "ehdi_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:16.088Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_plugin_assets_attachment",
+    "_wp_plugin_define_before",
+    "_wp_plugin_define_after",
+    "_wp_plugin_define_repeater",
+    "_wp_pluginname",
+    "_wp_pluginenable",
+    "wp_plugin_assets_scripts",
+    "wp_plugin_assets_styles",
+    "wp_plugin_assets_images",
+    "wp_plugin_assets_others"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:24.660Z"
+}

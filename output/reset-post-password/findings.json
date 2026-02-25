@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "wp360_reset_post_passwords",
+    "wp360_reset_passwords"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_date_reset_password",
+    "_post_password_interval"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:45.874Z"
+}

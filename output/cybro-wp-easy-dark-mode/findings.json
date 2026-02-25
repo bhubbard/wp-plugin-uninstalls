@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cdm_dark_mode_dashboard",
+    "cdm_start_time",
+    "cdm_end_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:55.625Z"
+}

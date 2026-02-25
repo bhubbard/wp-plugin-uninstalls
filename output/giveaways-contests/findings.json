@@ -1,0 +1,13 @@
+{
+  "options": [
+    "fca_cc_activation_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fca_cc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:24.048Z"
+}

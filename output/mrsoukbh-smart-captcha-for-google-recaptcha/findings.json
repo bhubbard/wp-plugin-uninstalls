@@ -1,0 +1,14 @@
+{
+  "options": [
+    "mrsoukbh_smart_captcha_for_google_recaptcha_settings",
+    "mrsoukbh_smart_captcha_for_google_recaptcha_file_hashes"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mrsoukbh_smart_captcha_for_google_recaptcha_daily_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:44.259Z"
+}

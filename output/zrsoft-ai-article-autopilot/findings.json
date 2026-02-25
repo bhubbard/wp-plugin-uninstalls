@@ -1,0 +1,24 @@
+{
+  "options": [
+    "aiac_api_key",
+    "aiac_text_endpoint",
+    "aiac_image_endpoint",
+    "aiac_max_tokens",
+    "aiac_provider",
+    "aiac_text_models",
+    "aiac_image_models",
+    "aiac_image_sizes",
+    "aiac_style_presets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_aiac_description",
+    "_yoast_wpseo_metadesc",
+    "_aioseo_description",
+    "_rank_math_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:16.436Z"
+}

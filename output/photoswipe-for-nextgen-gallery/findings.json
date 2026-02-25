@@ -1,0 +1,12 @@
+{
+  "options": [
+    "nggphotoswipe_enabled",
+    "additional_viewers"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:38.346Z"
+}

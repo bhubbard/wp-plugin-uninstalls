@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_hesabpay_settings",
+    "hesabpay_transaction_logs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lite_hesabpay_daily_maintenance"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_hesabpay_payout_processed",
+    "hesabpay_account",
+    "_wcv_hesabpay_account"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:39.453Z"
+}

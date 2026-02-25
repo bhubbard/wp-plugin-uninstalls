@@ -1,0 +1,41 @@
+{
+  "options": [
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "wc_rlc_api_key_prod",
+    "wc_rlc_freight_weight_threshold",
+    "wc_rlc_environment",
+    "wc_rlc_sandbox_mode",
+    "wc_rlc_pallet_limit",
+    "wc_rlc_override_destination_accessorials",
+    "wc_rlc_override_limited_delivery",
+    "wc_rlc_override_inside_delivery",
+    "wc_rlc_override_destination_liftgate",
+    "wc_rlc_override_delivery_notification",
+    "wc_rlc_special_shipping_services",
+    "wc_rlc_must_ship_freight",
+    "wc_rlc_split_packaging",
+    "wc_rlc_debug_mode",
+    "wc_rlc_itemized_rates",
+    "woocommerce_manage_stock",
+    "wc_rlc_show_delivery_notification",
+    "wc_rlc_show_limited_delivery",
+    "wc_rlc_show_inside_delivery",
+    "wc_rlc_show_destination_liftgate",
+    "wc_rlc_packing_method"
+  ],
+  "transients": [
+    "rlc_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_force_freight",
+    "_is_hazmat",
+    "_shipping_postcode",
+    "_shipping_country",
+    "_shipping_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:55.406Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wf_licensing_*",
+    "wp-reset",
+    "current_theme",
+    "wplang",
+    "wp-reset-snapshots"
+  ],
+  "transients": [
+    "wf_install_error_*",
+    "wpr_active_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "default_password_nag",
+    "*default_password_nag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:27.243Z"
+}

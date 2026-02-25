@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wsrw_admin_notices",
+    "wsrw_activated",
+    "wsrw_install",
+    "wsrw_process",
+    "wsrw_search_history",
+    "wsrw_connect_token",
+    "wsrw_connect"
+  ],
+  "transients": [
+    "wsrw_just_activated",
+    "wsrw_lite_just_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wsrw_admin_notices",
+    "wsrw_dismissed_review_request",
+    "_wsrw_replaced",
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:18.148Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ml_options",
+    "ml_contents",
+    "ml_widget"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ml_update_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:02.950Z"
+}

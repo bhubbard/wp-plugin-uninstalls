@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sasw_db_version",
+    "sasw_swatches_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sasw_custom_swatches",
+    "_sasw_attr_settings",
+    "_sasw_swatch",
+    "_sasw_attr_options_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:35.394Z"
+}

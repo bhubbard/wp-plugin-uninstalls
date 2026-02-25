@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_version",
+    "*_update",
+    "mcb_option"
+  ],
+  "transients": [
+    "*_updated_info",
+    "*_updated_succes",
+    "*_updated_warning"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:08.091Z"
+}

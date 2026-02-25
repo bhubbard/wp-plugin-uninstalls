@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp1_like_button_text",
+    "wp1_like_show_count",
+    "wp1_like_thumb_icon",
+    "wp1_like_post_types",
+    "wp1_like_button_color",
+    "wp1_like_button_hover_color",
+    "wp1_like_button_disabled_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp1_like_like"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:59.048Z"
+}

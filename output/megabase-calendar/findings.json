@@ -1,0 +1,19 @@
+{
+  "options": [
+    "megacal_options",
+    "megacal_hidden_options",
+    "megacal_execution_id_store",
+    "megacal_processing_errors"
+  ],
+  "transients": [
+    "megacal_do_rewrite_flush"
+  ],
+  "cron_jobs": [
+    "megacal_check_event_processing_cron",
+    "megacal_clear_debug_log_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:42.961Z"
+}

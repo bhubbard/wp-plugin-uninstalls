@@ -1,0 +1,17 @@
+{
+  "options": [
+    "idx_broker_apikey",
+    "wpps_settings",
+    "anh_notices"
+  ],
+  "transients": [
+    "wpps_cron_example_timed_job"
+  ],
+  "cron_jobs": [
+    "idxaddond_cron_mailchimp"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:18.592Z"
+}

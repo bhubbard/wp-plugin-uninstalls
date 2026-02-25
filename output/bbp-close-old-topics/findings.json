@@ -1,0 +1,13 @@
+{
+  "options": [
+    "_iceable_bbp_close_old_topics",
+    "_iceable_bbp_hard_close_old_topics",
+    "_iceable_bbp_close_old_topics_age"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:30.569Z"
+}

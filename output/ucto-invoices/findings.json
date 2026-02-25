@@ -1,0 +1,19 @@
+{
+  "options": [
+    "uctoplus_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "uctoplusProformaInvoiceUrl",
+    "uctoplusInvoiceUrl",
+    "uctoplusCreditNoteUrl",
+    "invoice_id",
+    "uctoplus_invoice_id",
+    "uctoplus_proforma_invoice_id",
+    "uctoplus_credit_note_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:51.008Z"
+}

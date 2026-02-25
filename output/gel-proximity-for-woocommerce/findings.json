@@ -1,0 +1,16 @@
+{
+  "options": [
+    "*_returns_manager_front_page_id",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_gelproximity_order_cart_id",
+    "gel_pudo_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:20.882Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "thsp_sticky_header"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:34.084Z"
+}

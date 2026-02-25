@@ -1,0 +1,44 @@
+{
+  "options": [
+    "stats_options",
+    "jetpack_activation_source",
+    "jetpack_affiliate_code",
+    "jetpack_partner_subsidiary_id",
+    "jetpack_offline_mode",
+    "vaultpress",
+    "vaultpress_auto_register",
+    "jetpack_sso_remove_login_form",
+    "jetpack_sso_match_by_email",
+    "jetpack_sso_require_two_step",
+    "jetpack_protect_active",
+    "wpcom_public_coming_soon",
+    "has_jetpack_search_product"
+  ],
+  "transients": [
+    "jetpack_assumed_site_creation_date",
+    "jetpack_idc_possible_dynamic_site_url_detected",
+    "jetpack_idc_local",
+    "jetpack_idc_ip_requester_*",
+    "jetpack_is_single_user"
+  ],
+  "cron_jobs": [
+    "jetpack_heartbeat",
+    "jetpack_clean_nonces"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "jetpack_json_api_*",
+    "jetpack_tracks_wpcom_id",
+    "jetpack_tracks_anon_id",
+    "wpcom_user_id",
+    "wpcom_user_data",
+    "jetpack_force_logout",
+    "spay_multiple",
+    "spay_cta",
+    "spay_price",
+    "spay_currency",
+    "spay_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:34.315Z"
+}

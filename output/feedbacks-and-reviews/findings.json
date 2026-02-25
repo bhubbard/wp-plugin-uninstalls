@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "paky_feedback_submitted_author_name",
+    "paky_feedback_star_rating_*",
+    "paky_feedback_submitted_author_email",
+    "paky_feedback_admin_reply"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:19.389Z"
+}

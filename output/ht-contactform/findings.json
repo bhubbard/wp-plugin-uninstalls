@@ -1,0 +1,25 @@
+{
+  "options": [
+    "ht_form_global_settings",
+    "ht_form_integrations",
+    "ht_contactform_diagnostic_data_agreed",
+    "ht_contactform_diagnostic_data_notice",
+    "ht_form_zohocrm_tokens"
+  ],
+  "transients": [
+    "ht_contactform-notice-id-diagnostic-data",
+    "ht_form_zohocrm_modules",
+    "ht_form_zohocrm_fields_*"
+  ],
+  "cron_jobs": [
+    "ht_form_drafts_cleanup",
+    "ht_contactform_remove_old_entries",
+    "ht_form_temp_files_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "integrations"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:48.064Z"
+}

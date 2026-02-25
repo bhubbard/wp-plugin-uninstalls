@@ -1,0 +1,12 @@
+{
+  "options": [
+    "gelo_ai_license_key",
+    "gelo_ai_installed_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:06.999Z"
+}

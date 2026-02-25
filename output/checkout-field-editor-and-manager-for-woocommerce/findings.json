@@ -1,0 +1,30 @@
+{
+  "options": [
+    "aco_wc_checkout_fields",
+    "*_settings",
+    "aco_wc_checkout_default_fields",
+    "awcfe_aco_pdf",
+    "ship_to_different_address",
+    "remove_order_notes_title",
+    "order_Notes_Title",
+    "force_create_Account",
+    "privacy_text",
+    "checkout_coupon_form",
+    "remove_shipping_field",
+    "remove_terms_condition",
+    "*_version",
+    "awcfe_install_date",
+    "awcfe_rate_us",
+    "woocommerce_custom_orders_table_data_sync_enabled",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_address_book_*",
+    "*_address_nickname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:40.756Z"
+}

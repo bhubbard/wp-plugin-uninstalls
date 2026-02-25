@@ -1,0 +1,36 @@
+{
+  "options": [
+    "shoppingfeeder_api_key",
+    "shoppingfeeder_api_secret",
+    "alg_wc_ean_plugin_enabled",
+    "alg_wc_ean_meta_key",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency",
+    "active_sitewide_plugins",
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_model_number",
+    "_model_no",
+    "product_mpn",
+    "_gtin",
+    "_upc",
+    "_global_unique_id",
+    "product_ean",
+    "_wcmp_gtin_code",
+    "product_brand_name",
+    "_wpsso_product_gtin",
+    "_wpsso_product_gtin14",
+    "_wpsso_product_gtin13",
+    "_wpsso_product_gtin12",
+    "_wpsso_product_isbn",
+    "_wpsso_product_mfr_part_no",
+    "_sale_price_dates_to",
+    "_sale_price_dates_from"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:15.258Z"
+}

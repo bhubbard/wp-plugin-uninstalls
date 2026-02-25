@@ -1,0 +1,28 @@
+{
+  "options": [
+    "classic-editor-allow-users",
+    "classic-editor-replace"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tb_builder_elements",
+    "settings",
+    "_tb_custom_layout",
+    "_tb_builder_styles",
+    "_wp_page_template",
+    "_tb_builder_sections",
+    "_tb_builder_plugin_version_created",
+    "_tb_builder_plugin_version_saved",
+    "_tb_builder_framework_version_created",
+    "_tb_builder_framework_version_saved",
+    "_tb_builder_*",
+    "classic-editor-remember",
+    "elements",
+    "tb-nag-*",
+    "type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:33.826Z"
+}

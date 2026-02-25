@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ltoc_api_key",
+    "ltoc_tag_relevance",
+    "ltoc_add_tag_on_save",
+    "ltoc_batch_posts",
+    "ltoc_included_categories",
+    "ltoc_disable_batch",
+    "ltoc_tag_blacklist"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ltoc_tagging_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ltoc_tagged"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:10.346Z"
+}

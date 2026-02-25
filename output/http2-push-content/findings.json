@@ -1,0 +1,15 @@
+{
+  "options": [
+    "http2_push_general_list",
+    "http2_async_js_list",
+    "http2_async_css_list",
+    "push_all_style",
+    "push_all_script"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:39.381Z"
+}

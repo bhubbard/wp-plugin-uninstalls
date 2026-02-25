@@ -1,0 +1,19 @@
+{
+  "options": [
+    "waba_chat_settings",
+    "waba_active_carts"
+  ],
+  "transients": [
+    "waba_cart_*"
+  ],
+  "cron_jobs": [
+    "waba_chat_cart_recovery_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:56.666Z"
+}

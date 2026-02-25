@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ll_at_license",
+    "toolbar_license_key",
+    "oada_activation_token",
+    "license_activated",
+    "error_message",
+    "max_access_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:29.351Z"
+}

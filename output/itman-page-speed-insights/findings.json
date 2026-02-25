@@ -1,0 +1,14 @@
+{
+  "options": [
+    "itps_status",
+    "itps_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "itps_fetchPageSpeedData"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:40.108Z"
+}

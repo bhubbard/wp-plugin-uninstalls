@@ -1,0 +1,13 @@
+{
+  "options": [
+    "blip_widget_last_cache",
+    "blip_widget_cache",
+    "blip_widget_feed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:34.368Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "runkeeper_options",
+    "rk_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "runkeeper"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:56.029Z"
+}

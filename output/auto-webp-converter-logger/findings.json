@@ -1,0 +1,19 @@
+{
+  "options": [
+    "autoweco_convert_images_to_webp_options"
+  ],
+  "transients": [
+    "autoweco_conversion_errors",
+    "autoweco_settings_reset"
+  ],
+  "cron_jobs": [
+    "autoweco_periodic_log_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_autoweco_pending_conversion",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:49.231Z"
+}

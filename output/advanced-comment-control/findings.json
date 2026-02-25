@@ -1,0 +1,14 @@
+{
+  "options": [
+    "advanced-comment-control"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_disable_advanced_comment_control_user_role_rules",
+    "_disable_advanced_comment_control_post_rules"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:50.845Z"
+}

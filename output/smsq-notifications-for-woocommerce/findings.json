@@ -1,0 +1,15 @@
+{
+  "options": [
+    "smsq_settings"
+  ],
+  "transients": [
+    "sms_q_plugin"
+  ],
+  "cron_jobs": [
+    "sms_q_ejecuta_el_temporizador"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:11.751Z"
+}

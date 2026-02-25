@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wppp_dropdown_location",
+    "wppp_method",
+    "wppp_dropdown_options",
+    "wppp_return_to_first",
+    "wppp_shop_columns",
+    "wppp_default_ppp",
+    "wppp_version",
+    "wppp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:24.706Z"
+}

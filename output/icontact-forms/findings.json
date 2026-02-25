@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*appid",
+    "*username",
+    "*password",
+    "*client_folders_info",
+    "*apiurl",
+    "*forms_index"
+  ],
+  "transients": [
+    "*succesfully_connected",
+    "*connected_folder"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:30.410Z"
+}

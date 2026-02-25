@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpfront_global_settings",
+    "sm_admin_notices",
+    "wpfrontend_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpfront_form_id",
+    "wpfront_formdata",
+    "wpfront_form_settings",
+    "wpfront_submission_times",
+    "_wpfrontend_submission_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:32.720Z"
+}

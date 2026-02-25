@@ -1,0 +1,19 @@
+{
+  "options": [
+    "librafire_pinpoints_deferred_admin_notices",
+    "librafire_pinpoints_version",
+    "*_version",
+    "lf_caption_text_color",
+    "lf_default_dot_size",
+    "lf_caption_text_font_size",
+    "lf_default_dot_caption_opacity"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lf_post_dots_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:49.501Z"
+}

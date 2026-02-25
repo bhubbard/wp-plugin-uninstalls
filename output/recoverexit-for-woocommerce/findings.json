@@ -1,0 +1,24 @@
+{
+  "options": [
+    "recexitexpmsg",
+    "disrecexitexpmsg",
+    "re_lic_setting",
+    "RecoverExitFirstTimer",
+    "RE_Total_Counter",
+    "RE_conversion_Counter",
+    "RecoverExitSettings",
+    "recexitexp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "apply_before_tax",
+    "free_shipping"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:42:38.640Z"
+}

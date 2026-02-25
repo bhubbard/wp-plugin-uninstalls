@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sullivan_slide_title",
+    "sullivan_slide_subtitle",
+    "sullivan_slide_button_text",
+    "sullivan_slide_button_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:53.823Z"
+}

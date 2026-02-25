@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_currency"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "MKTR_CRON"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mktr_optin_subscribe",
+    "_wc_cog_cost",
+    "_alg_wc_cog_cost",
+    "product_english_description",
+    "lems__exclude_ids_from_price",
+    "billing_phone",
+    "billing_first_name",
+    "billing_last_name",
+    "rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:31.185Z"
+}

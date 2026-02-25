@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wrauterwp_login"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "wrauterwp_login_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:32.605Z"
+}

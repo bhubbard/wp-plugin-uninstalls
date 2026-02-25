@@ -1,0 +1,27 @@
+{
+  "options": [
+    "hesapis_api_key",
+    "hesapis_modules",
+    "hesapis_refresh_rate",
+    "hesapis_cache_time",
+    "hesapis_language",
+    "hesapis_currency",
+    "hesapis_theme",
+    "hesapis_show_credit"
+  ],
+  "transients": [
+    "hesapis_gold_data",
+    "hesapis_currency_data",
+    "hesapis_crypto_data",
+    "hesapis_*",
+    "hesapis_market_data",
+    "hesapis_refresh_*"
+  ],
+  "cron_jobs": [
+    "hesapis_refresh_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:46.418Z"
+}

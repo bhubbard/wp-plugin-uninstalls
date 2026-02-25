@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wpbot_deactivation_reason_*",
+    "wpbot_deactivation_details_*",
+    "ot_css_file_paths",
+    "sh_plugin_options",
+    "hero_latest_dpn",
+    "torus_notice_dismiss"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_format_link_url",
+    "_format_quote_source_url",
+    "sh_meta_box_bg_effect"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:59.771Z"
+}

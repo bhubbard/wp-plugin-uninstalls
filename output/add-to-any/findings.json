@@ -1,0 +1,16 @@
+{
+  "options": [
+    "addtoany_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "addtoany_refresh_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "sharing_disabled",
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:39.098Z"
+}

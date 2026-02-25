@@ -1,0 +1,114 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('ept_opt_admin_url');
+delete_site_option('ept_opt_admin_url');
+delete_option('ept_after_update');
+delete_site_option('ept_after_update');
+delete_option('as_number_tweet');
+delete_site_option('as_number_tweet');
+delete_option('as_post_type');
+delete_site_option('as_post_type');
+delete_option('ept_cat_tweet');
+delete_site_option('ept_cat_tweet');
+delete_option('ept_tag_tweet');
+delete_site_option('ept_tag_tweet');
+delete_option('ept_opt_tweet_type');
+delete_site_option('ept_opt_tweet_type');
+delete_option('ept_opt_add_text');
+delete_site_option('ept_opt_add_text');
+delete_option('ept_opt_add_text_at');
+delete_site_option('ept_opt_add_text_at');
+delete_option('ept_opt_include_link');
+delete_site_option('ept_opt_include_link');
+delete_option('ept_opt_custom_url_option');
+delete_site_option('ept_opt_custom_url_option');
+delete_option('ept_opt_use_url_tracking');
+delete_site_option('ept_opt_use_url_tracking');
+delete_option('ept_opt_use_url_shortner');
+delete_site_option('ept_opt_use_url_shortner');
+delete_option('ept_opt_url_shortener');
+delete_site_option('ept_opt_url_shortener');
+delete_option('ept_opt_bitly_user');
+delete_site_option('ept_opt_bitly_user');
+delete_option('ept_opt_bitly_key');
+delete_site_option('ept_opt_bitly_key');
+delete_option('ept_opt_custom_hashtag_option');
+delete_site_option('ept_opt_custom_hashtag_option');
+delete_option('ept_opt_use_inline_hashtags');
+delete_site_option('ept_opt_use_inline_hashtags');
+delete_option('ept_opt_hashtag_length');
+delete_site_option('ept_opt_hashtag_length');
+delete_option('ept_opt_custom_hashtag_field');
+delete_site_option('ept_opt_custom_hashtag_field');
+delete_option('ept_opt_hashtags');
+delete_site_option('ept_opt_hashtags');
+delete_option('ept_opt_age_limit');
+delete_site_option('ept_opt_age_limit');
+delete_option('ept_opt_max_age_limit');
+delete_site_option('ept_opt_max_age_limit');
+delete_option('ept_opt_use_pause_tweet');
+delete_site_option('ept_opt_use_pause_tweet');
+delete_option('ept_opt_start_pause_time');
+delete_site_option('ept_opt_start_pause_time');
+delete_option('ept_opt_end_pause_time');
+delete_site_option('ept_opt_end_pause_time');
+delete_option('ept_opt_schedule_day_mon');
+delete_site_option('ept_opt_schedule_day_mon');
+delete_option('ept_opt_schedule_day_tue');
+delete_site_option('ept_opt_schedule_day_tue');
+delete_option('ept_opt_schedule_day_wed');
+delete_site_option('ept_opt_schedule_day_wed');
+delete_option('ept_opt_schedule_day_thu');
+delete_site_option('ept_opt_schedule_day_thu');
+delete_option('ept_opt_schedule_day_fri');
+delete_site_option('ept_opt_schedule_day_fri');
+delete_option('ept_opt_schedule_day_sat');
+delete_site_option('ept_opt_schedule_day_sat');
+delete_option('ept_opt_schedule_day_sun');
+delete_site_option('ept_opt_schedule_day_sun');
+delete_option('ept_opt_schedule_times_counter');
+delete_site_option('ept_opt_schedule_times_counter');
+delete_option('ept_opt_schedule_times');
+delete_site_option('ept_opt_schedule_times');
+delete_option('next_tweet_time');
+delete_site_option('next_tweet_time');
+delete_option('ept_opt_schedule_times_hour');
+delete_site_option('ept_opt_schedule_times_hour');
+delete_option('ept_opt_schedule_times_minute');
+delete_site_option('ept_opt_schedule_times_minute');
+delete_option('ept_enable_log');
+delete_site_option('ept_enable_log');
+delete_option('ept_opt_omit_cats');
+delete_site_option('ept_opt_omit_cats');
+delete_option('ept_opt_last_update');
+delete_site_option('ept_opt_last_update');
+delete_option('ept_opt_excluded_post');
+delete_site_option('ept_opt_excluded_post');
+delete_option('ept_opt_tweeted_posts');
+delete_site_option('ept_opt_tweeted_posts');
+delete_option('ept_opt_interval');
+delete_site_option('ept_opt_interval');
+delete_option('ept_opt_interval_slop');
+delete_site_option('ept_opt_interval_slop');
+delete_option('ept_settings');
+delete_site_option('ept_settings');
+delete_option('ept_opt_custom_url_field');
+delete_site_option('ept_opt_custom_url_field');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'ept_ignore_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'ept_ignore_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'ept_ignore_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'ept_ignore_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ept_lwb_plugin' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ept_lwb_plugin' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ept_lwb_plugin' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ept_lwb_plugin' ) );
+

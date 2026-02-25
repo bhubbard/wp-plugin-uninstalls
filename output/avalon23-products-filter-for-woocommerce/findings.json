@@ -1,0 +1,18 @@
+{
+  "options": [
+    "avalon23_settings",
+    "avalon23_current_version",
+    "avalon23_db_ver",
+    "avalon23_seo",
+    "avalon23_seo_settings",
+    "woocommerce_tax_display_shop"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "avalon23_cache_count_data_auto_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:02.032Z"
+}

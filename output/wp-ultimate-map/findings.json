@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpgl_zoom_level",
+    "focus_point",
+    "wpgl_sel_routes",
+    "wpgl_sel_places",
+    "taxonomy_term_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "place_location",
+    "places_with_routes",
+    "route_coordinate"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:59.012Z"
+}

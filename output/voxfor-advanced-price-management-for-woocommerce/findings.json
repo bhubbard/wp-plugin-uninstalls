@@ -1,0 +1,17 @@
+{
+  "options": [
+    "vapm_markup_percentage",
+    "vapm_vat_percentage"
+  ],
+  "transients": [
+    "vapm_updated_products",
+    "vapm_skipped_products",
+    "vapm_session_updated_products",
+    "vapm_skip_calculations_mode"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:20.278Z"
+}

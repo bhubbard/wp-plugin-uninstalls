@@ -1,0 +1,13 @@
+{
+  "options": [
+    "pagebreak-description-position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pagebreak_descriptions"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:14.255Z"
+}

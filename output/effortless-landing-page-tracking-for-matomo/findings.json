@@ -1,0 +1,19 @@
+{
+  "options": [
+    "mdw_matomo_migrated_v143",
+    "ellpt_matomo_url",
+    "ellpt_matomo_site_id",
+    "mdw_matomo_url",
+    "mdw_matomo_site_id",
+    "mdw_matomo_source",
+    "mdw_matomo_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mdw_last_period"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:32.981Z"
+}

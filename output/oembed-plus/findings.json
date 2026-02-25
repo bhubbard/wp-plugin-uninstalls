@@ -1,0 +1,12 @@
+{
+  "options": [
+    "oembed_facebook_app_id",
+    "oembed_facebook_app_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:16.031Z"
+}

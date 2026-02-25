@@ -1,0 +1,11 @@
+{
+  "options": [
+    "simple_chatbot_whatsapp_number"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:14.832Z"
+}

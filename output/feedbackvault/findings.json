@@ -1,0 +1,62 @@
+{
+  "options": [
+    "feedbackvault_redirect_url",
+    "feedbackvault_default_status",
+    "feedbackvault_reviews_per_page",
+    "feedbackvault_google_api_key",
+    "feedbackvault_google_place_id",
+    "feedbackvault_google_cache_duration",
+    "feedbackvault_trustpilot_url",
+    "feedbackvault_trustpilot_cache_duration",
+    "feedbackvault_trustpilot_max_reviews",
+    "feedbackvault_show_avatars",
+    "feedbackvault_show_dates",
+    "feedbackvault_show_source",
+    "feedbackvault_excerpt_length",
+    "feedbackvault_enable_load_more",
+    "feedbackvault_show_review_form_when_empty",
+    "feedbackvault_auto_load_more",
+    "feedbackvault_show_animations",
+    "feedbackvault_lazy_load",
+    "feedbackvault_primary_color",
+    "feedbackvault_star_color",
+    "feedbackvault_text_color",
+    "feedbackvault_font_family",
+    "feedbackvault_font_size",
+    "feedbackvault_mobile_breakpoint",
+    "feedbackvault_version",
+    "feedbackvault_activated_time",
+    "feedbackvault_deactivated_time",
+    "feedbackvault_google_maps_url"
+  ],
+  "transients": [
+    "feedbackvault_google_reviews_cache",
+    "feedbackvault_trustpilot_cache",
+    "feedbackvault_api_status",
+    "feedbackvault_reviews_*",
+    "feedbackvault_google_reviews_*"
+  ],
+  "cron_jobs": [
+    "feedbackvault_daily_sync",
+    "feedbackvault_weekly_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_feedbackvault_rating",
+    "_feedbackvault_status",
+    "_feedbackvault_date_reviewed",
+    "_feedbackvault_review_id",
+    "_feedbackvault_reviewer_name",
+    "_feedbackvault_reviewer_email",
+    "_feedbackvault_reviewer_avatar",
+    "_feedbackvault_reviewer_location",
+    "_feedbackvault_source",
+    "_feedbackvault_source_url",
+    "_feedbackvault_source_platform",
+    "_feedbackvault_featured",
+    "_feedbackvault_verified",
+    "_feedbackvault_replied"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:03.471Z"
+}

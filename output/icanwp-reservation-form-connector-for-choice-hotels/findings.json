@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ch_reservation_input_choicehotels_url",
+    "ch_reservation_select_style_option",
+    "ch_reservation_shortcode_text_widget",
+    "ch_reservation_check_disable_auto_checkout_select",
+    "ch_reservation_check_load_jquery",
+    "ch_reservation_check_load_jquery_datepicker",
+    "ch_reservation_check_load_jquery_spinner"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:07.188Z"
+}

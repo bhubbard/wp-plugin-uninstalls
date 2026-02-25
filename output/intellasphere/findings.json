@@ -1,0 +1,20 @@
+{
+  "options": [
+    "is_ninja_addon",
+    "is_gravity_addon",
+    "is_connect_email",
+    "x-auth-token",
+    "is_op_array",
+    "get_brandkit_name",
+    "is_app_settings_url",
+    "is_api_settings_url",
+    "is_syc_settings_url",
+    "intellasphere_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:37.576Z"
+}

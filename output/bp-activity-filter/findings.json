@@ -1,0 +1,19 @@
+{
+  "options": [
+    "bp_activity_filter_default",
+    "bp_activity_filter_profile_default",
+    "bp_activity_filter_hidden",
+    "bp_activity_filter_cpt_settings"
+  ],
+  "transients": [
+    "bp_activity_filter_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bp_activity_filter_activity_id",
+    "_bp_activity_filter_recorded"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:21.368Z"
+}

@@ -1,0 +1,27 @@
+{
+  "options": [
+    "sg_enable_maplink_admin_email",
+    "sg_enable_picker",
+    "sg_enable_picker_billing",
+    "sg_enable_picker_shipping",
+    "sg_eneble_autodetect_user_location",
+    "sg_google_api",
+    "sgclp_detect_button_label",
+    "sg_map_title_for_billing",
+    "sg_hide_picker_fields",
+    "sg_map_title_for_shipping"
+  ],
+  "transients": [
+    "sg_location_plugin_actived_time"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_lat",
+    "billing_long",
+    "shipping_lat",
+    "shipping_long"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:30.232Z"
+}

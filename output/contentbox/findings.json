@@ -1,0 +1,20 @@
+{
+  "options": [
+    "contentbox_api_token",
+    "contentbox_api_id",
+    "contentbox_cat",
+    "contentbox_post_status",
+    "contentbox_shedule_type",
+    "contentbox_is_add_img"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "contentbox_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "contentbox_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:12.980Z"
+}

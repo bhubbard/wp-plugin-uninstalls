@@ -1,0 +1,20 @@
+{
+  "options": [
+    "claimit_google_webmaster",
+    "claimit_google_submit_button",
+    "claimit_bing_webmaster",
+    "claimit_yandex_webmaster",
+    "claimit_pinterest",
+    "claimit_weboftrust_webmaster",
+    "claimit_webutation_webmaster",
+    "claimit_header_section",
+    "claimit_body_section",
+    "claimit_footer_section"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:29.517Z"
+}

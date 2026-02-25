@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bp_like_settings",
+    "bp_like_db_version",
+    "bp-like-db-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "liked_count",
+    "bp_liked_activities",
+    "bp_liked_blogposts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:05.767Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "local_pickup_options",
+    "do_not_use_shipping",
+    "base_country"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:28.926Z"
+}

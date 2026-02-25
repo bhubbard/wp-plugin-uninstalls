@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('coursestorm-settings', 'coursestorm-site-info', 'coursestorm_flushed_permalinks', 'coursestorm_course_import_progress', 'coursestorm_course_import_status', 'coursestorm_import_step_transient', 'coursestorm_settings_status', 'coursestorm_welcome_screen_activation_redirect', 'coursestorm_sync_triggered_from_plugin_activation', 'coursestorm_course_import_start_time', 'coursestorm_sync_triggered_from_options_page', 'coursestorm_sync_triggered_manually', 'coursestorm_import_total_courses_fetched', 'coursestorm_import_total_courses_to_import', 'coursestorm_import_current_fetch_course_page', 'coursestorm_import_total_courses_saved', 'coursestorm_import_current_save_course_page', 'coursestorm_sync_triggered_from_ajax_call', 'coursestorm_import_current_course_page_transient', 'coursestorm_import_courses_raw_course_list');
+DELETE FROM wp_options WHERE option_name LIKE 'coursestorm_import_courses_raw_course_list_page_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('sessions', 'instructor', 'first_session_id', 'first_session_date', 'next_session_id', 'next_session_date', 'upcoming_session_id', 'upcoming_session_date', 'import_touched_at', 'url', 'image', 'site', 'continuous_enrollment', 'price', 'description', 'register_online', 'id', 'location', 'room');
+DELETE FROM wp_usermeta WHERE meta_key IN ('sessions', 'instructor', 'first_session_id', 'first_session_date', 'next_session_id', 'next_session_date', 'upcoming_session_id', 'upcoming_session_date', 'import_touched_at', 'url', 'image', 'site', 'continuous_enrollment', 'price', 'description', 'register_online', 'id', 'location', 'room');
+DELETE FROM wp_termmeta WHERE meta_key IN ('sessions', 'instructor', 'first_session_id', 'first_session_date', 'next_session_id', 'next_session_date', 'upcoming_session_id', 'upcoming_session_date', 'import_touched_at', 'url', 'image', 'site', 'continuous_enrollment', 'price', 'description', 'register_online', 'id', 'location', 'room');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('sessions', 'instructor', 'first_session_id', 'first_session_date', 'next_session_id', 'next_session_date', 'upcoming_session_id', 'upcoming_session_date', 'import_touched_at', 'url', 'image', 'site', 'continuous_enrollment', 'price', 'description', 'register_online', 'id', 'location', 'room');
+

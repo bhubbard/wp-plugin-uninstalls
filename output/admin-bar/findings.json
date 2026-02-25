@@ -1,0 +1,33 @@
+{
+  "options": [
+    "*_is_synced",
+    "_wpadminify_backup",
+    "show-ab",
+    "adminbar_frontend_items",
+    "jlt_admin_bar_multisite_exclude",
+    "jlt_admin_bar_editor_sheet_promo_data",
+    "jlt_admin_bar_editor_sheet_promo_data_hash",
+    "active_sitewide_plugins",
+    "jlt_admin_bar_editor_activation_time",
+    "*_allow_tracking"
+  ],
+  "transients": [
+    "jlt_admin_bar_editor-plugin-info-*"
+  ],
+  "cron_jobs": [
+    "jlt_admin_bar_editor_sheet_promo_data_remote_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "billing_phone",
+    "billing_company",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_postcode",
+    "billing_country",
+    "billing_state"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:43.260Z"
+}

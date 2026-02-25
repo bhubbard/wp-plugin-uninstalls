@@ -1,0 +1,24 @@
+{
+  "options": [
+    "hkd_acba_version_option",
+    "language_payment_acba_bank",
+    "hkd_acba_credit_agricole_checkout_id",
+    "hkd_check_activation_acba",
+    "woocommerce_checkout_page_id",
+    "hkdump"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cronCheckOrder"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "PaymentID",
+    "isBindingOrder",
+    "bindingInfo",
+    "recurringChargeACBA*",
+    "FailedMessageACBA"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:17.588Z"
+}

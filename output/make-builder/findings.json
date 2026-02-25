@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "make-dismissed-notices",
+    "ttfmake-dismissed-notices",
+    "_ttfmake_layout",
+    "_ttfmake-use-builder",
+    "_ttfmake-section-ids",
+    "_wp_page_template",
+    "_ttfmake_section_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:45.162Z"
+}

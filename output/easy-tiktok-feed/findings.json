@@ -1,0 +1,61 @@
+{
+  "options": [
+    "etf_options",
+    "etf_plugin_settings",
+    "etf_migration_notice_dismissed",
+    "etf_settings",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "etf_activation_redirect",
+    "etf_feed_*",
+    "etf_feed_meta_*",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "etf_refresh_tokens_cron",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "etf_layout",
+    "etf_settings",
+    "etf_display_name",
+    "etf_avatar_url_100",
+    "etf_video_count",
+    "etf_followers",
+    "etf_following",
+    "etf_account_status",
+    "etf_token_refreshed",
+    "etf_last_synced",
+    "etf_avatar_url",
+    "etf_union_id",
+    "etf_avatar_large_url",
+    "etf_bio_description",
+    "etf_profile_deep_link",
+    "etf_is_verified",
+    "etf_likes_count",
+    "etf_refresh_token",
+    "etf_access_token",
+    "etf_token_expires_at",
+    "etf_videos",
+    "etf_videos_cursor",
+    "etf_videos_has_more",
+    "etf_username",
+    "etf_profile_picture",
+    "etf_bio",
+    "etf_following_count",
+    "etf_followers_count",
+    "etf_user_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:46.959Z"
+}

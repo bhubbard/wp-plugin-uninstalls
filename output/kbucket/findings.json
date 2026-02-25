@@ -1,0 +1,33 @@
+{
+  "options": [
+    "kb_auto_upload",
+    "kb_auto_upload_stage",
+    "kb_auto_upload_logs",
+    "kb_auto_upload_file",
+    "kb_auto_images",
+    "kb_auto_images_all",
+    "kb_auto_upload_image_hold",
+    "kb_setup_page_id",
+    "kb_widget_data",
+    "kb_settings",
+    "kbucket_data"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "kb_activate_cron_upload_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "kb_custom_photo_*",
+    "article_url",
+    "_url_kbucket",
+    "_id_kbucket",
+    "_thumbnail_id",
+    "wp_attachment_orig_url",
+    "wp_attachment_size",
+    "wp_attachment_url",
+    "kb_custom_photo"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:46.620Z"
+}

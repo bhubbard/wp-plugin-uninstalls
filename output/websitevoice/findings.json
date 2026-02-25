@@ -1,0 +1,16 @@
+{
+  "options": [
+    "script",
+    "show_only_posts",
+    "user_id",
+    "inline_script"
+  ],
+  "transients": [
+    "websitevoice_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:40.362Z"
+}

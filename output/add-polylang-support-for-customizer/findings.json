@@ -1,0 +1,14 @@
+{
+  "options": [
+    "polylang",
+    "apsfc_force_lang"
+  ],
+  "transients": [
+    "pll_languages_list"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:38.928Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wcfmvm_registration_static_fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wholesalex_conversation_vid",
+    "__wholesalex_registration_role"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:04.611Z"
+}

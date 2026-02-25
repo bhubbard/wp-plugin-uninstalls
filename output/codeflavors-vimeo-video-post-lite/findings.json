@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [
+    "vimeotheque_setup_activated",
+    "vimeotheque_updated_slugs",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "__vimeo_image_uri",
+    "video_thumbnail",
+    "theme",
+    "columns",
+    "playback"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:26.377Z"
+}

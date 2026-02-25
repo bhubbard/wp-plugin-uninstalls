@@ -1,0 +1,19 @@
+{
+  "options": [
+    "setting_checkbox_popUpSlider",
+    "setting_popUpSlider_delay",
+    "setting_animacia",
+    "setting_current_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slide_sub_title",
+    "slide_date_OD",
+    "slide_date_DO",
+    "slide_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:59.323Z"
+}

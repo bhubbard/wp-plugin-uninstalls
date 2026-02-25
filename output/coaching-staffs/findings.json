@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mstw_cs_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mstw_cs_experience",
+    "mstw_cs_alma_mater",
+    "mstw_cs_degree",
+    "mstw_cs_birth_date",
+    "mstw_cs_home_town",
+    "mstw_cs_high_school",
+    "mstw_cs_family",
+    "mstw_cs_position_coach",
+    "mstw_cs_display_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:10.858Z"
+}

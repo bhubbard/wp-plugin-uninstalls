@@ -1,0 +1,35 @@
+{
+  "options": [
+    "siteorigin_installer",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "siteorigin_installer_admin_dismissed",
+    "siteorigin_premium_affiliate_id",
+    "*]",
+    "sowb_block_migration",
+    "siteorigin_widget_bundle_version",
+    "siteorigin_widgets_old_widgets",
+    "siteorigin_widgets_new_widgets",
+    "siteorigin_widgets_active",
+    "widget_*",
+    "so_contact_hashes"
+  ],
+  "transients": [
+    "siteorigin_installer_product_data",
+    "*]",
+    "sow:cleared",
+    "siteorigin_panels_widgets",
+    "siteorigin_panels_widget_dialog_tabs"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "teasers_dismissed",
+    "panels_data",
+    "_wp_attachment_image_alt",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:29:19.609Z"
+}

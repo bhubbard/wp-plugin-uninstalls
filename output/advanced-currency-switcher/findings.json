@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cswp_form_data",
+    "cswp_manual_rate",
+    "cswp_currency_button_type",
+    "cswp_apirate_values",
+    "cswp_display",
+    "apivalidate",
+    "apinotfree"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cs_schedule_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:15.738Z"
+}

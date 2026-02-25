@@ -1,0 +1,12 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('qqworld-passport-modules', 'qqworld-passport-avatar-priority', 'qqworld-passport-automatic-register', 'qqworld-passport-module-qq', 'qqworld-passport-module-wechat', 'qqworld-passport-module-weibo', 'qqworld-passport-module-baidu', 'qqworld-passport-module-xiaomi', 'qqworld-passport-module-taobao', 'qqworld-passport-module-alipay', 'qqworld-passport-module-facebook', 'qqworld-passport-module-twitter');
+DELETE FROM wp_options WHERE option_name LIKE 'qqworld-passport-module-%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('QQWorld Passport Alipay User ID', 'QQWorld Passport Avatar', 'QQWorld Passport Baidu Openid', 'QQWorld Passport Facebook Openid', 'QQWorld Passport Google Openid', 'QQWorld Passport Line User ID', 'QQWorld Passport QQ Openid', 'QQWorld Passport Taobao User ID', 'QQWorld Passport Twitter Openid', 'QQWorld Passport Wechat Openid', 'QQWorld Passport Wechat Unionid', 'QQWorld Passport Weibo Uid', 'QQWorld Passport Xiaomi Openid');
+DELETE FROM wp_usermeta WHERE meta_key IN ('QQWorld Passport Alipay User ID', 'QQWorld Passport Avatar', 'QQWorld Passport Baidu Openid', 'QQWorld Passport Facebook Openid', 'QQWorld Passport Google Openid', 'QQWorld Passport Line User ID', 'QQWorld Passport QQ Openid', 'QQWorld Passport Taobao User ID', 'QQWorld Passport Twitter Openid', 'QQWorld Passport Wechat Openid', 'QQWorld Passport Wechat Unionid', 'QQWorld Passport Weibo Uid', 'QQWorld Passport Xiaomi Openid');
+DELETE FROM wp_termmeta WHERE meta_key IN ('QQWorld Passport Alipay User ID', 'QQWorld Passport Avatar', 'QQWorld Passport Baidu Openid', 'QQWorld Passport Facebook Openid', 'QQWorld Passport Google Openid', 'QQWorld Passport Line User ID', 'QQWorld Passport QQ Openid', 'QQWorld Passport Taobao User ID', 'QQWorld Passport Twitter Openid', 'QQWorld Passport Wechat Openid', 'QQWorld Passport Wechat Unionid', 'QQWorld Passport Weibo Uid', 'QQWorld Passport Xiaomi Openid');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('QQWorld Passport Alipay User ID', 'QQWorld Passport Avatar', 'QQWorld Passport Baidu Openid', 'QQWorld Passport Facebook Openid', 'QQWorld Passport Google Openid', 'QQWorld Passport Line User ID', 'QQWorld Passport QQ Openid', 'QQWorld Passport Taobao User ID', 'QQWorld Passport Twitter Openid', 'QQWorld Passport Wechat Openid', 'QQWorld Passport Wechat Unionid', 'QQWorld Passport Weibo Uid', 'QQWorld Passport Xiaomi Openid');
+

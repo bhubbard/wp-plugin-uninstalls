@@ -1,0 +1,26 @@
+{
+  "options": [
+    "wcs_debug_mode",
+    "wcs_disable_all",
+    "wcs_ruleset_order",
+    "wcs_pro_features",
+    "wcs_ruleset_fields",
+    "woocommerce_dimension_unit",
+    "wcs_updated_340",
+    "wcs_updated_3401",
+    "wcs_updated_200",
+    "wcs_conditions",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcs_enabled",
+    "_wcs_operator",
+    "_wcs_conditions",
+    "_wcs_actions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:55.682Z"
+}

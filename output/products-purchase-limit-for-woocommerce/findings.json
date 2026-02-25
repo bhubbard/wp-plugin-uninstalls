@@ -1,0 +1,13 @@
+{
+  "options": [
+    "cartlimit_min",
+    "cartlimit_max",
+    "product_limit_check"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:48.784Z"
+}

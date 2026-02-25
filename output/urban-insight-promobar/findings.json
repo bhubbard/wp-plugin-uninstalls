@@ -1,0 +1,24 @@
+{
+  "options": [
+    "urbipb_enable_disclaimer",
+    "urbipb_disclaimer_html",
+    "urbipb_disclaimer_fixed",
+    "urbipb_disclaimer_background",
+    "urbipb_disclaimer_icon",
+    "urbipb_disclaimer_start_date",
+    "urbipb_disclaimer_start_time",
+    "urbipb_disclaimer_end_date",
+    "urbipb_disclaimer_end_time",
+    "urbipb_exclude_pages",
+    "urbipb_cookie_expire",
+    "urbipb_enable_localhost",
+    "urbipb_cookie_set_value",
+    "urbipb_announce_delay"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:19.640Z"
+}

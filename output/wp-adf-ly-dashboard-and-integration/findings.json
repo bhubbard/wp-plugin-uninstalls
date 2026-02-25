@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_enabled",
+    "*_enabled_stats",
+    "*_enabled_amp",
+    "*_id",
+    "*_popads_enabled",
+    "*_type",
+    "*_domain",
+    "*_custom_domain",
+    "*_nofollow",
+    "*_website_entry_enabled",
+    "*_protocol",
+    "*_include_exclude_domains_choose",
+    "*_include_exclude_domains_value",
+    "*_widget_month_filter",
+    "*_public_api_key",
+    "*_secret_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:33.396Z"
+}

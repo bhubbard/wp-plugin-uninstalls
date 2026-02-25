@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "channel_setting",
+    "button_setting",
+    "widget_setting",
+    "trigger_setting",
+    "other_setting"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:01.390Z"
+}

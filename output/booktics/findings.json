@@ -1,0 +1,44 @@
+{
+  "options": [
+    "booktics_is_installed",
+    "booktics_available_modules",
+    "*__banner_data",
+    "*__banner_last_check",
+    "*_never_show",
+    "*_ask_me_later",
+    "*_install_date",
+    "*_first_action_Date",
+    "*_first_action",
+    "*__stories_data",
+    "*__stories_last_check",
+    "*_ens_config"
+  ],
+  "transients": [
+    "booktics_conflict_check_done",
+    "booktics_deactivated_plugins_notice",
+    "*_rating_settings"
+  ],
+  "cron_jobs": [
+    "booktics_booking_clear_schedule",
+    "*_resume_flow_after_delay"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "nickname",
+    "_team_member_first_name",
+    "_team_member_status",
+    "order_id",
+    "booktics_category_services",
+    "booktics_category_image",
+    "_google_calendar_event_id",
+    "team_member_id",
+    "booktics_google_auth_token",
+    "timezone",
+    "group_booking",
+    "booktics_google_auth",
+    "*_notification_flow_flow_config",
+    "ens_flow_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:06.243Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "auto_update_plugins",
+    "action_scheduler_migration_status"
+  ],
+  "transients": [
+    "doing_cron"
+  ],
+  "cron_jobs": [
+    "docketcache_gc",
+    "docketcache_optimizedb",
+    "docketcache_checkversion",
+    "do_pings",
+    "woocommerce_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:35.885Z"
+}

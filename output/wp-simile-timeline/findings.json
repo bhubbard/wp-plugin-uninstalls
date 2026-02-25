@@ -1,0 +1,30 @@
+{
+  "options": [
+    "stl_timeline_band_colors",
+    "stl_timeline_band_options",
+    "stl_timeline_orientation",
+    "stl_timeline_startdate",
+    "stl_timeline_usestartstop",
+    "stl_timeline_start",
+    "stl_timeline_stop",
+    "stl_timeline_plugin_version",
+    "stl_timeline_useattachments",
+    "stl_timeline_linkhandling",
+    "stl_timeline_showbubbledate",
+    "stl_timeline_showfutureposts",
+    "stl_timelinepageids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "stl-icon",
+    "stl-image",
+    "stl-link",
+    "stl-tapeImage",
+    "stl-caption",
+    "stl-classname"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:27.342Z"
+}

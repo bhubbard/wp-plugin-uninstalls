@@ -1,0 +1,17 @@
+{
+  "options": [
+    "add2homescreen",
+    "style",
+    "lazyload",
+    "admob-on-off",
+    "admob"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_custom5"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:51.516Z"
+}

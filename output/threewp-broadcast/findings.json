@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "edd_api_request_*",
+    "*_children",
+    "ms_files_rewriting"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "broadcast_last_used_settings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:55.810Z"
+}

@@ -1,0 +1,45 @@
+{
+  "options": [
+    "ssa_ec",
+    "perfmatters_options",
+    "ssa_error_notices",
+    "ssa_dismissed_notices",
+    "ssa_pinned_notices",
+    "ssa_versions",
+    "admin_phone",
+    "ssa_export_backups",
+    "ssa_debug_level",
+    "ssa_version_changes",
+    "ssa_plugin_version",
+    "DRA_route_whitelist",
+    "health-check-disable-plugin-hash",
+    "health-check-allowed-plugins",
+    "health-check-default-theme",
+    "health-check-current-theme",
+    "health-check-backup-plugin-list",
+    "health-check-dashboard-notices",
+    "auto_core_update_failed",
+    "*_db_version",
+    "rewrite_rules"
+  ],
+  "transients": [
+    "ssa/cache/lock_*",
+    "ssa/cache_version",
+    "ssa/recent_availability_query_args",
+    "ssa/cache/lock_global",
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count"
+  ],
+  "cron_jobs": [
+    "ssa_cron_process_async_actions"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_EventVenueID",
+    "_EventOrganizerID",
+    "health-check"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:19.587Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpeec-event-id",
+    "wpeec-event-form-mode",
+    "wpeec-frame-height",
+    "wpeec-button-text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:08.415Z"
+}

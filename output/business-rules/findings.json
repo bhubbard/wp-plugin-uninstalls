@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [
+    "rules_admin_notice"
+  ],
+  "cron_jobs": [
+    "rules_scheduler"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "rule_actions",
+    "rule_conditions",
+    "rules_variables",
+    "rule_trigger",
+    "rule_trigger_options",
+    "rule_log"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:46.662Z"
+}

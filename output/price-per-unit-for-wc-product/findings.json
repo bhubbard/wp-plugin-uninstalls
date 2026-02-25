@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ppusunarc_prefix",
+    "ppusunarc_suffix",
+    "ppusunarc_add_row_css",
+    "ppusunarc_custom_unit",
+    "ppusunarc_cart_page",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:57.251Z"
+}

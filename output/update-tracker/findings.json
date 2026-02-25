@@ -1,0 +1,18 @@
+{
+  "options": [
+    "plugin_update_notifier_email",
+    "plugin_update_notifier_interval"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes",
+    "update_core"
+  ],
+  "cron_jobs": [
+    "plugin_update_notifier_daily_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:10:01.356Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "easy_nivo_slider_options",
+    "widget_nivo_slider_for_current_post",
+    "widget_easy_nivo_slider",
+    "widget_easy_nivo_slider_nextgen"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:49.146Z"
+}

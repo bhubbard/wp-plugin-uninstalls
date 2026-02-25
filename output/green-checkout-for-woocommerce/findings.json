@@ -1,0 +1,13 @@
+{
+  "options": [
+    "wpaks_gcfw_amount",
+    "wpaks_gcfw_label_text",
+    "wpaks_gcfw_donation_link"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:51.613Z"
+}

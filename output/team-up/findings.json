@@ -1,0 +1,20 @@
+{
+  "options": [
+    "_team_up_accent_color",
+    "_team_up_page_slug",
+    "_team_up_page_title",
+    "_team_up_force_genesis_full_width",
+    "_team_up_hide_department",
+    "_team_up_square_theme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_team_up_break_after",
+    "_team_up_member_order",
+    "edit_team-up_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:15.028Z"
+}

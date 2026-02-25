@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wac_general_options",
+    "wac_add_customer",
+    "wac_add_customer_count",
+    "wac_edit_customer_count"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_custom_field_1",
+    "wac_created_by_plugin",
+    "wac_created_by_plugin_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:41.294Z"
+}

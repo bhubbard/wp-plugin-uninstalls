@@ -1,0 +1,12 @@
+{
+  "options": [
+    "hwan_show_dashboard_notices",
+    "hwan_plugin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:19.176Z"
+}

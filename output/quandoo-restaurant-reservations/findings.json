@@ -1,0 +1,14 @@
+{
+  "options": [
+    "quandoo-reservation-*",
+    "quandoo-reservation-standard-fields"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:25.262Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "wcapt_clone_post_types",
+    "wp_any_posts_clone_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:21.210Z"
+}

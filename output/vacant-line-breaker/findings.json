@@ -1,0 +1,14 @@
+{
+  "options": [
+    "vlbr_filter_target",
+    "vlbr_br_format",
+    "vlbr_insert_paragraph_tags",
+    "vlbr_shortcodes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:36.892Z"
+}

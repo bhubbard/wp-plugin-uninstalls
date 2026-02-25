@@ -1,0 +1,17 @@
+{
+  "options": [
+    "dynwid_old_method",
+    "dynwid_page_limit",
+    "dynwid_version",
+    "dynwid_housekeeping_lastrun",
+    "recently_activated",
+    "qtranslate_enabled_languages",
+    "qtranslate_default_language"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:38.693Z"
+}

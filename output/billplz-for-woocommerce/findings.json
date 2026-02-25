@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bfw_db_version",
+    "woocommerce_billplz_settings",
+    "bfw_api_key_state",
+    "bfw_collection_id_state",
+    "bfw_payment_order_collection_id_state",
+    "billplz_fpx_banks",
+    "billplz_fpx_banks_last"
+  ],
+  "transients": [
+    "bfw_get_payment_gateways",
+    "bfw_get_collection_gateways",
+    "bfw_bill_url_*",
+    "bfw_3_21_7_fix",
+    "bfw_3_22_0_fix"
+  ],
+  "cron_jobs": [
+    "bfw_bill_inquiry",
+    "bfw_check_refund_payment_order"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:51.536Z"
+}

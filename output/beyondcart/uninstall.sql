@@ -1,0 +1,16 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('grind_mobile_app_configs', 'grind_mobile_app_api_key', 'grind_mobile_app_site_id', 'grind_mobile_app_woo_consumer_api_key', 'grind_mobile_app_woo_consumer_api_secret', 'grind_mobile_app_onesignal_app_id', 'grind_mobile_app_onesignal_api_key', 'grind_mobile_app_firebase_server_key', 'grind_mobile_app_facebook_app_id', 'grind_mobile_app_facebook_app_secret', 'grind_mobile_app_banner_app_active', 'grind_mobile_app_banner_app_hide_desktop', 'grind_mobile_app_banner_app_logo', 'grind_mobile_app_banner_app_url_apple', 'grind_mobile_app_banner_app_url_google', 'grind_mobile_app_banner_app_title', 'grind_mobile_app_banner_app_desc', 'grind_mobile_app_banner_app_button', 'woocommerce_checkout_page_id', 'gmw_options', 'woocommerce_enable_guest_checkout', 'woocommerce_currency', 'grind_mobile_app_onesignal_safari_web_id', 'beyondcart_settings_banner', 'beyondcart_settings');
+DELETE FROM wp_options WHERE option_name LIKE '%_settings';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('app_only', '_mobile_app', 'mobile', '_billing_mobile_app', 'mbd_login_method', 'mbd_avatar', 'wcfmmp_profile_settings', 'app_image', 'thumbnail_id', '_wp_attachment_image_alt', 'digt_countrycode', 'digits_phone_no', 'digits_phone', 'mbd_subscribe', 'product_volume', '_wcml_custom_prices_status', 'product_attribute_color', 'product_attribute_image');
+DELETE FROM wp_usermeta WHERE meta_key IN ('app_only', '_mobile_app', 'mobile', '_billing_mobile_app', 'mbd_login_method', 'mbd_avatar', 'wcfmmp_profile_settings', 'app_image', 'thumbnail_id', '_wp_attachment_image_alt', 'digt_countrycode', 'digits_phone_no', 'digits_phone', 'mbd_subscribe', 'product_volume', '_wcml_custom_prices_status', 'product_attribute_color', 'product_attribute_image');
+DELETE FROM wp_termmeta WHERE meta_key IN ('app_only', '_mobile_app', 'mobile', '_billing_mobile_app', 'mbd_login_method', 'mbd_avatar', 'wcfmmp_profile_settings', 'app_image', 'thumbnail_id', '_wp_attachment_image_alt', 'digt_countrycode', 'digits_phone_no', 'digits_phone', 'mbd_subscribe', 'product_volume', '_wcml_custom_prices_status', 'product_attribute_color', 'product_attribute_image');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('app_only', '_mobile_app', 'mobile', '_billing_mobile_app', 'mbd_login_method', 'mbd_avatar', 'wcfmmp_profile_settings', 'app_image', 'thumbnail_id', '_wp_attachment_image_alt', 'digt_countrycode', 'digits_phone_no', 'digits_phone', 'mbd_subscribe', 'product_volume', '_wcml_custom_prices_status', 'product_attribute_color', 'product_attribute_image');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_woocommerce_persistent_cart_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_woocommerce_persistent_cart_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_woocommerce_persistent_cart_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_woocommerce_persistent_cart_%';
+

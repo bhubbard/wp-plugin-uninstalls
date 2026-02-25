@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ssn_sortby",
+    "ssn_show_all",
+    "ssn_exclude",
+    "ssn_hide_on_excluded",
+    "ssn_show_on_home",
+    "ssn_show_empty",
+    "ssn_a_heading",
+    "ep_exclude_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:59.492Z"
+}

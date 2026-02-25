@@ -1,0 +1,18 @@
+{
+  "options": [
+    "docket_sso_secret_key",
+    "dwp_install_id",
+    "docket_wp_options",
+    "docketwp_dismissed_wp_pointer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "docket_sso_disable",
+    "docket_premium_user",
+    "docket_sso_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:34.993Z"
+}

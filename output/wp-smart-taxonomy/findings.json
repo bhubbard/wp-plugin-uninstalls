@@ -1,0 +1,16 @@
+{
+  "options": [
+    "dc_dc_WP_ST_general_settings_name",
+    "dc_WP_Smart_Taxonomy_installed",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smart_cat_settings",
+    "_smart_cats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:38.951Z"
+}

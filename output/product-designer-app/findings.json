@@ -1,0 +1,13 @@
+{
+  "options": [
+    "woocommerce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pdapp_cronjob_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:09.622Z"
+}

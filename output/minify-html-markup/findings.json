@@ -1,0 +1,17 @@
+{
+  "options": [
+    "minify_html_active",
+    "minify_javascript",
+    "minify_html_comments",
+    "minify_html_utf8",
+    "minify_html_xhtml",
+    "minify_html_relative",
+    "minify_html_scheme"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:58.943Z"
+}

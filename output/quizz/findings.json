@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "quizz_answer",
+    "quizz_exact",
+    "quizz_last_bool",
+    "quizz_last",
+    "quizz_nextlevel",
+    "quizz_lastpage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:14.861Z"
+}

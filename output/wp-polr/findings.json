@@ -1,0 +1,14 @@
+{
+  "options": [
+    "polr_settings_api_key",
+    "polr_settings_host"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "polr_shortened_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:00.457Z"
+}

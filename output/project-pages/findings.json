@@ -1,0 +1,34 @@
+{
+  "options": [
+    "has_given_projectpages_feedback",
+    "rewrite_rules",
+    "pp-has-viewed-settings*",
+    "*_bk",
+    "pp_permalink_root"
+  ],
+  "transients": [
+    "pp_theme_opportunity",
+    "projectpages-hide-feedback-metabox"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pp_theme_issue",
+    "pp_theme_opportunity",
+    "whpp_meta",
+    "whpp_meta_status",
+    "whpp_project_body",
+    "whpp_project_summary",
+    "noheader",
+    "whpp_project_log_title",
+    "whpp_project_log_date",
+    "whpp_project_log_icon",
+    "whpp_project_log_body",
+    "projectpageid",
+    "whpp_project_log_datetime",
+    "pp_hits",
+    "_customize_changeset_uuid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:46.379Z"
+}

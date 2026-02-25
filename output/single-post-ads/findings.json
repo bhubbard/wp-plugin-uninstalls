@@ -1,0 +1,13 @@
+{
+  "options": [
+    "tbp_spa_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_tbp_spa_mbe_ad"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:05.813Z"
+}

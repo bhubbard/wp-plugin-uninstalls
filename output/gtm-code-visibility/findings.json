@@ -1,0 +1,13 @@
+{
+  "options": [
+    "gtm_code_*",
+    "gtm_code_head",
+    "gtm_code_body"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:21.133Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "alg_wc_pn_wpml_use_default_language_product_id",
+    "alg_wc_pn_public_logged_in_user_only",
+    "alg_wc_pn_private_wp_editor",
+    "alg_wc_pn_public_wp_editor",
+    "alg_wc_product_notes_version",
+    "*_reset",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "*_tab_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:23.304Z"
+}

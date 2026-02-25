@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_kuronekopayment_paypay_settings",
+    "woocommerce_kuronekopayment_settings",
+    "*_settings",
+    "woocommerce_checkout_page_id",
+    "woocommerce_kuronekopayment_cvs_settings",
+    "wc4jp-yomigana"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_kupaywc_member_id",
+    "_kupaywc_auth_key",
+    "*_first_name_kana",
+    "*_last_name_kana"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:51.339Z"
+}

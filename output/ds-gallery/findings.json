@@ -1,0 +1,25 @@
+{
+  "options": [
+    "dsgal_showthumbs",
+    "dsgal_transition",
+    "dsgal_width",
+    "dsgal_height",
+    "dsGalSlideMargin",
+    "dsGalTransitionSpeed",
+    "dsgal_showarrows",
+    "dsGalArrowImg",
+    "dsGalArrowW",
+    "dsGalArrowH",
+    "dsGalArrowTouch",
+    "dsGalIncludejQuery",
+    "dsGalArrowKeys",
+    "dsGalImgClick",
+    "dsArrowChoice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:00.999Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "back_in_stock_notify_installed",
+    "back_in_stock_notify_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_back_in_stock_notify_notifications"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:04.837Z"
+}

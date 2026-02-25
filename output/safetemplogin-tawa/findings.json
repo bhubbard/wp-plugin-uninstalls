@@ -1,0 +1,27 @@
+{
+  "options": [
+    "safetemp_restricted_actions",
+    "safetemp_expiration_behavior",
+    "safetemp_log_only_mode",
+    "safetemp_email_notify_actor",
+    "safetemp_notification_emails",
+    "safetemp_remove_data_on_uninstall",
+    "safetemp_blocked_action_message"
+  ],
+  "transients": [
+    "safetemp_pwd_*"
+  ],
+  "cron_jobs": [
+    "safetemp_housekeeping"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_safetemp_temporary_password",
+    "_safetemp_expires_at",
+    "_safetemp_notes",
+    "_safetemp_created_by",
+    "_safetemp_allowed_caps"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:19.306Z"
+}

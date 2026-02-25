@@ -1,0 +1,21 @@
+{
+  "options": [
+    "httpsrdrctn_options",
+    "ehssl_configs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ehssl_daily_cron_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "id",
+    "label",
+    "issuer",
+    "issued_on",
+    "expires_on",
+    "expiry_notification_email_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:30.469Z"
+}

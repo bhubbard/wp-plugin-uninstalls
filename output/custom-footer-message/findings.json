@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cfmsg_footer_message",
+    "cfmsg_message_enabled",
+    "cfmsg_text_color",
+    "cfmsg_bg_color",
+    "cfmsg_font_family",
+    "cfmsg_font_size",
+    "cfmsg_text_align"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:59.517Z"
+}

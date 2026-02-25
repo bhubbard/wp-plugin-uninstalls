@@ -1,0 +1,17 @@
+{
+  "options": [
+    "vendor_templates_options",
+    "vendor_template_options",
+    "hide_cart_option",
+    "vtfd_remove_split_shipping",
+    "vtfd_templates_enabled"
+  ],
+  "transients": [
+    "vendor_templates_settings_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:32.015Z"
+}

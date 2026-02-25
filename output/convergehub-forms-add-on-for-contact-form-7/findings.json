@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_CFACF7_enabled",
+    "_CFACF7_api_key",
+    "_CFACF7_api_secret",
+    "_CFACF7_form_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:25.424Z"
+}

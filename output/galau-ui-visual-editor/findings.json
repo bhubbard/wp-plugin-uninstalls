@@ -1,0 +1,24 @@
+{
+  "options": [
+    "gui_option",
+    "gui_costom_css",
+    "gui_addons",
+    "gui_button_list",
+    "gui_button_order",
+    "gui_framework_available",
+    "gui_framework_googlefont",
+    "gui_google_fonts",
+    "gui_css_themes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gui_postmeta_description",
+    "_gui_postmeta_html",
+    "_gui_postmeta_css",
+    "_gui_postmeta_js"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:15.833Z"
+}

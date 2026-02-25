@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpia_annotation_data",
+    "wpia_annotation_canvas_size",
+    "wpia_annotation_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:01.898Z"
+}

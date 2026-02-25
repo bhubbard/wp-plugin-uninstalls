@@ -1,0 +1,30 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "hitshipo_pn_working_status",
+    "hitshipo_pn_main_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit",
+    "hitshipo_pn_ex_rate*",
+    "woocommerce_currency",
+    "woocommerce_feature_product_block_editor_enabled",
+    "hit_pn_values_*",
+    "hit_multi_vendor",
+    "hit_pn_status_*"
+  ],
+  "transients": [
+    "hitshipo_pn_nonce_temp"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pn_address",
+    "hitshipo_pn_vendor_settings",
+    "hits_pn_hs_code",
+    "hits_pn_country_of_origin",
+    "hits_pn_product_description",
+    "hits_pn_cc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:55.301Z"
+}

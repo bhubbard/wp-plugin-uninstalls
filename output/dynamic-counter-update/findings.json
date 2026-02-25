@@ -1,0 +1,13 @@
+{
+  "options": [
+    "fhdcu_counter_value"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "fhdcu_minute_increment"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:48.066Z"
+}

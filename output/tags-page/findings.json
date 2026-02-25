@@ -1,0 +1,16 @@
+{
+  "options": [
+    "tags_page_version",
+    "tags_page_options",
+    "tags_page_display_options_moved",
+    "widget_tag_cloud"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:15.085Z"
+}

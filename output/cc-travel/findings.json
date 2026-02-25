@@ -1,0 +1,18 @@
+{
+  "options": [
+    "_cc_travel_options"
+  ],
+  "transients": [
+    "cc-framework-transient",
+    "cc-metabox-transient",
+    "cc-taxonomy-transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_booking_info",
+    "_tour_details"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:18.239Z"
+}

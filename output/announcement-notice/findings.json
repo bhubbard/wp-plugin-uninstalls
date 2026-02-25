@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wacm_install_date",
+    "wacm_install_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "announcement_notice_enable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:30.312Z"
+}

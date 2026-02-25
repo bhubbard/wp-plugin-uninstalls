@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ae_access_token",
+    "dm_redirect_admin",
+    "rb_skin",
+    "rb_exclude_bootstrap_js",
+    "rb_exclude_bootstrap_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:46.328Z"
+}

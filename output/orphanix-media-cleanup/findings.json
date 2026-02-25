@@ -1,0 +1,29 @@
+{
+  "options": [
+    "orphanix_last_live_scan_at",
+    "orphanix_last_live_scan_status",
+    "orphanix_last_live_scan_mode",
+    "orphanix_scan_compat",
+    "orphanix_delete_on_uninstall",
+    "orphanix_db_version",
+    "orphanix_db_migrated",
+    "widget_media_image",
+    "widget_media_gallery",
+    "orphanix_live_scan_archives"
+  ],
+  "transients": [
+    "*_progress",
+    "*_settings",
+    "*_processing",
+    "orphanix_live_scan_progress_*"
+  ],
+  "cron_jobs": [
+    "orphanix_process_scan_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:00.976Z"
+}

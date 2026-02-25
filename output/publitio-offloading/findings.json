@@ -1,0 +1,29 @@
+{
+  "options": [
+    "publitio_offloading_show_notice",
+    "publitio_offloading_allow_download",
+    "publitio_offloading_offload_templates",
+    "publitio_offloading_image_checkbox",
+    "publitio_offloading_video_checkbox",
+    "publitio_offloading_audio_checkbox",
+    "publitio_offloading_document_checkbox",
+    "publitio_offloading_default_folder",
+    "publitio_offloading_default_cname",
+    "publitio_offloading_image_quality",
+    "publitio_offloading_video_quality",
+    "publitio_offloading_delete_checkbox",
+    "publitio_offloading_replace_checkbox",
+    "publitio_offloading_key",
+    "publitio_offloading_secret",
+    "publitio_offloading_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "publitioMeta",
+    "_wp_attachment_context"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:43.663Z"
+}

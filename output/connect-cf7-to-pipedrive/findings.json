@@ -1,0 +1,29 @@
+{
+  "options": [
+    "cf7pd_access_token",
+    "cf7pd_persons",
+    "cf7pd_organizations",
+    "cf7pd_*",
+    "cf7pd_notes",
+    "cf7pd_lead",
+    "cf7pd_file",
+    "cf7pd_marketing_status",
+    "cfhs_notification_send_to",
+    "cfhs_notification_subject",
+    "cf7pd_notification_subject",
+    "cf7pd_notification_send_to",
+    "cf7pd_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_form",
+    "cf7pd_active",
+    "cf7pd_update_person",
+    "cf7pd_update_org",
+    "cf7pd_fields"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:58.291Z"
+}

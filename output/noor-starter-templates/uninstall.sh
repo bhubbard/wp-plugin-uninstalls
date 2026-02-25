@@ -1,0 +1,157 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'dima_global_palette'
+wp option delete 'rcp_settings'
+wp option delete '_wc_needs_pages'
+wp option delete '_noor_starter_templates_last_import_data'
+wp option delete 'noor_starter_templates_subscribe'
+wp option delete 'noor_starter_templates_config'
+wp option delete 'give_install_pages_created'
+wp option delete 'rcp_install_pages_created'
+wp option delete 'give_version_upgraded_from'
+wp option delete 'elementor_disable_color_schemes'
+wp option delete 'elementor_disable_typography_schemes'
+wp option delete '_noor_starter_templates_old_customizer'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'theme_mods_%'"
+wp option delete 'noor_starter_templates_dismiss_upsell'
+wp option delete 'active_sitewide_plugins'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_purchase_code'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'widget_%'"
+wp option delete 'sidebars_widgets'
+
+# Delete Transients
+wp transient delete '_wc_activation_redirect'
+wp transient delete 'noor_importer_data'
+wp transient delete 'wc_attribute_taxonomies'
+wp transient delete 'pt_importer_data'
+
+# Clear Cron Jobs
+wp cron event delete 'delete_starter_templates_folder'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'occupation'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'occupation'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'occupation'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'occupation'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'twitter'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'twitter'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'twitter'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'twitter'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'facebook'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'facebook'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'facebook'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'facebook'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'youtube'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'youtube'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'youtube'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'youtube'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'flickr'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'flickr'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'flickr'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'flickr'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'vimeo'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'vimeo'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'vimeo'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'vimeo'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'linkedin'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'linkedin'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'linkedin'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'linkedin'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'dribbble'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'dribbble'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'dribbble'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'dribbble'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pinterest'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pinterest'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pinterest'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pinterest'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'instagram'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'instagram'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'instagram'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'instagram'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'goodreads'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'goodreads'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'goodreads'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'goodreads'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'amazon'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'amazon'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'amazon'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'amazon'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'medium'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'medium'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'medium'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'medium'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'bookbub'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'bookbub'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'bookbub'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'bookbub'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_elementor_data'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_kad_post_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_kad_post_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_kad_post_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_kad_post_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_kad_post_content_style'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_kad_post_content_style'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_kad_post_content_style'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_kad_post_content_style'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_kad_post_vertical_padding'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_kad_post_vertical_padding'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_kad_post_vertical_padding'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_kad_post_vertical_padding'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_kad_post_feature'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_kad_post_feature'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_kad_post_feature'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_kad_post_feature'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_kad_post_layout'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_kad_post_layout'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_kad_post_layout'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_kad_post_layout'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_noor_starter_templates_imported_term'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_noor_starter_templates_imported_term'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_noor_starter_templates_imported_term'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_noor_starter_templates_imported_term'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_noor_starter_templates_imported_post'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_noor_starter_templates_imported_post'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_noor_starter_templates_imported_post'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_noor_starter_templates_imported_post'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_type'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_object_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_menu_item'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_menu_item'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_menu_item'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_menu_item'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_parent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_parent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_parent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_parent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_user_slug'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_user_slug'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_user_slug'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_user_slug'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_has_attachment_refs'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_has_attachment_refs'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_has_attachment_refs'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_has_attachment_refs'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wxr_import_user'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wxr_import_user'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wxr_import_user'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wxr_import_user'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"

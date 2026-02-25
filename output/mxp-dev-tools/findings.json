@@ -1,0 +1,23 @@
+{
+  "options": [
+    "mxd_dev_site_passkey",
+    "adminhash",
+    "new_admin_email"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "mxp_site_health_report_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "default_password_nag",
+    "*default_password_nag",
+    "_mxp_dev_block_user_check",
+    "_mxp_dev_block_user_msg",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:00.696Z"
+}

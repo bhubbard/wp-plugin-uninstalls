@@ -1,0 +1,16 @@
+{
+  "options": [
+    "enable_404_on_not_exists_pagination",
+    "enable_yoast_organization_contacts",
+    "yoast_organization_phone",
+    "yoast_organization_email",
+    "enable_removing_typetext",
+    "enable_replacing_current_links"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:31.025Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wp_to_diaspora_settings"
+  ],
+  "transients": [
+    "wp2d_no_js_force_refetch"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_to_diaspora",
+    "_wp_to_diaspora_post_history",
+    "_wp_to_diaspora_post_error"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:33.334Z"
+}

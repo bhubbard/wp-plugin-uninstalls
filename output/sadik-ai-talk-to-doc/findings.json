@@ -1,0 +1,11 @@
+{
+  "options": [
+    "sadik_ai_talk_to_doc_plugin_bot_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:55.109Z"
+}

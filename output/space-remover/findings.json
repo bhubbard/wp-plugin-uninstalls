@@ -1,0 +1,16 @@
+{
+  "options": [
+    "hide_metabox",
+    "remove_leading",
+    "remove_all",
+    "remove_trailing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mgwe_single_disable"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:29.725Z"
+}

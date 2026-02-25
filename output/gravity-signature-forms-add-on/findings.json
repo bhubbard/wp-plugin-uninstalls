@@ -1,0 +1,18 @@
+{
+  "options": [
+    "esig_global_document_id",
+    "remove_rating_widget_gravity",
+    "WP_ESignature__Gravity Form_documentation"
+  ],
+  "transients": [
+    "esig-gf-wc-agreement*",
+    "esig-gf-redirect-*",
+    "esig-gf-agreement-created*",
+    "_esign_gravity_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:28.772Z"
+}

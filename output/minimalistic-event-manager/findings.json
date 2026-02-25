@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mem_post_types",
+    "mem_edit_mode",
+    "widget_mem_events_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mem_start_date",
+    "_mem_repeat_date",
+    "_mem_end_date",
+    "*_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:31.483Z"
+}

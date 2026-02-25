@@ -1,0 +1,31 @@
+{
+  "options": [
+    "triplea_api_endpoint_token",
+    "wc_triplea_crypto_payment_installed",
+    "wc_triplea_crypto_payment_version",
+    "triplea_wc_spare_me",
+    "triplea_wc_remind_me",
+    "triplea_wc_rated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_triplea_notify_secret",
+    "_triplea_payment_tier",
+    "_triplea_order_crypto_amount",
+    "_triplea_order_amount",
+    "_triplea_amount_paid",
+    "_triplea_crypto_amount_paid",
+    "_triplea_crypto_currency",
+    "_triplea_order_currency",
+    "_triplea_tx_id",
+    "_triplea_payment_reference",
+    "_triplea_access_token",
+    "_triplea_crypto_address",
+    "_triplea_order_status",
+    "_triplea_payment_status"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:25.972Z"
+}

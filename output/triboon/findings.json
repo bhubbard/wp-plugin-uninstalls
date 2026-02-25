@@ -1,0 +1,17 @@
+{
+  "options": [
+    "triboon_logo",
+    "triboon_wp_token_option",
+    "notif_check",
+    "check_new_reportage",
+    "triboon_db_version",
+    "triboon_update_db_check",
+    "default-category"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:01.569Z"
+}

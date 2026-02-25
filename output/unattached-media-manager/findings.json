@@ -1,0 +1,46 @@
+{
+  "options": [
+    "unmam_settings",
+    "unmam_db_version",
+    "unmam_performance_history",
+    "options",
+    "wpseo_social",
+    "rank-math-options-titles",
+    "widget_block",
+    "woocommerce_placeholder_image",
+    "aioms_settings",
+    "mui_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "unmam_background_scan",
+    "unmam_process_batch",
+    "unmam_process_job",
+    "aioms_background_scan",
+    "mui_process_batch",
+    "mui_process_job",
+    "unmam_index_single_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_mui_marked_safe",
+    "_mui_marked_unused",
+    "_elementor_data",
+    "_elementor_page_settings",
+    "_elementor_template_screenshot",
+    "_yoast_wpseo_opengraph-image-id",
+    "_yoast_wpseo_opengraph-image",
+    "_yoast_wpseo_twitter-image-id",
+    "_yoast_wpseo_twitter-image",
+    "rank_math_facebook_image_id",
+    "rank_math_facebook_image",
+    "rank_math_twitter_image_id",
+    "_aioseo_og_image_custom_url",
+    "_aioseo_twitter_image_custom_url",
+    "_seopress_social_fb_img",
+    "_seopress_social_twitter_img",
+    "thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:34.532Z"
+}

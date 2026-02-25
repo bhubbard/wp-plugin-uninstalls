@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woolentor_others_tabs",
+    "wishsuite_do_activation_redirect",
+    "woocommerce_cart_redirect_after_add",
+    "woocommerce_weight_unit",
+    "woocommerce_myaccount_page_id",
+    "wishsuite_installed",
+    "wishsuite_version",
+    "wishsuite_table_settings_tabs",
+    "wishsuite_settings_tabs",
+    "wishsuite_style_settings_tabs"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wishsuite_remove_guest_old_wishlist_items"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:15.697Z"
+}

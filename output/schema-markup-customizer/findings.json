@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dyxperts_selected_post_types",
+    "dyxperts_output_location"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_schema_markup"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:14.256Z"
+}

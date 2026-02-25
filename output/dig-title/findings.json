@@ -1,0 +1,13 @@
+{
+  "options": [
+    "dig_title_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dig_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:58.408Z"
+}

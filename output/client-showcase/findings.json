@@ -1,0 +1,16 @@
+{
+  "options": [
+    "client_showcase_list",
+    "client_showcase_list_display",
+    "*_flush_rewrite_rules"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "client_showcase_ignore_notice",
+    "client_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:16.203Z"
+}

@@ -1,0 +1,213 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('cff_oembed_token');
+delete_site_option('cff_oembed_token');
+delete_option('cff_statuses');
+delete_site_option('cff_statuses');
+delete_option('cff_style_settings');
+delete_site_option('cff_style_settings');
+delete_option('cff_connected_accounts');
+delete_site_option('cff_connected_accounts');
+delete_option('cff_license_key');
+delete_site_option('cff_license_key');
+delete_option('cff_rating_notice');
+delete_site_option('cff_rating_notice');
+delete_option('sb_callout');
+delete_site_option('sb_callout');
+delete_option('cff_license_status');
+delete_site_option('cff_license_status');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'cff_license_status_%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'cff_license_key_%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('cff_preserve_settings');
+delete_site_option('cff_preserve_settings');
+delete_option('cff_locale');
+delete_site_option('cff_locale');
+delete_option('cff_caching_type');
+delete_site_option('cff_caching_type');
+delete_option('cff_cache_cron_interval');
+delete_site_option('cff_cache_cron_interval');
+delete_option('cff_cache_cron_time');
+delete_site_option('cff_cache_cron_time');
+delete_option('cff_cache_cron_am_pm');
+delete_site_option('cff_cache_cron_am_pm');
+delete_option('cff_cache_time');
+delete_site_option('cff_cache_time');
+delete_option('cff_cache_time_unit');
+delete_site_option('cff_cache_time_unit');
+delete_option('cff_usage_tracking');
+delete_site_option('cff_usage_tracking');
+delete_option('cff_ajax');
+delete_site_option('cff_ajax');
+delete_option('cff_license_data');
+delete_site_option('cff_license_data');
+delete_option('cff_license_last_check_timestamp');
+delete_site_option('cff_license_last_check_timestamp');
+delete_option('cff_license_key_extensions');
+delete_site_option('cff_license_key_extensions');
+delete_option('cff_license_status_extensions');
+delete_site_option('cff_license_status_extensions');
+delete_option('cff_license_key_multifeed');
+delete_site_option('cff_license_key_multifeed');
+delete_option('cff_license_status_multifeed');
+delete_site_option('cff_license_status_multifeed');
+delete_option('cff_license_key_ext_reviews');
+delete_site_option('cff_license_key_ext_reviews');
+delete_option('cff_license_status_ext_reviews');
+delete_site_option('cff_license_status_ext_reviews');
+delete_option('cff_license_key_ext_carousel');
+delete_site_option('cff_license_key_ext_carousel');
+delete_option('cff_license_status_ext_carousel');
+delete_site_option('cff_license_status_ext_carousel');
+delete_option('cff_license_key_ext_date');
+delete_site_option('cff_license_key_ext_date');
+delete_option('cff_license_status_ext_date');
+delete_site_option('cff_license_status_ext_date');
+delete_option('cff_license_key_featured_post');
+delete_site_option('cff_license_key_featured_post');
+delete_option('cff_license_status_featured_post');
+delete_site_option('cff_license_status_featured_post');
+delete_option('cff_license_key_album');
+delete_site_option('cff_license_key_album');
+delete_option('cff_license_status_album');
+delete_site_option('cff_license_status_album');
+delete_option('cff_review_consent');
+delete_site_option('cff_review_consent');
+delete_option('cff_notifications');
+delete_site_option('cff_notifications');
+delete_option('aioseo_activation_redirect');
+delete_site_option('aioseo_activation_redirect');
+delete_option('wpforms_activation_redirect');
+delete_site_option('wpforms_activation_redirect');
+delete_option('optin_monster_api_activation_redirect_disabled');
+delete_site_option('optin_monster_api_activation_redirect_disabled');
+delete_option('seedprod_dismiss_setup_wizard');
+delete_site_option('seedprod_dismiss_setup_wizard');
+delete_option('cff_usage_tracking_config');
+delete_site_option('cff_usage_tracking_config');
+delete_option('cff_page_id');
+delete_site_option('cff_page_id');
+delete_option('cff_show_access_token');
+delete_site_option('cff_show_access_token');
+delete_option('cff_show_others');
+delete_site_option('cff_show_others');
+delete_option('cff_num_show');
+delete_site_option('cff_num_show');
+delete_option('cff_post_limit');
+delete_site_option('cff_post_limit');
+delete_option('cff_page_type');
+delete_site_option('cff_page_type');
+delete_option('cff_one_click_upgrade');
+delete_site_option('cff_one_click_upgrade');
+delete_option('sbi_oembed_token');
+delete_site_option('sbi_oembed_token');
+delete_option('cff_access_token');
+delete_site_option('cff_access_token');
+delete_option('cff_page_access_token');
+delete_site_option('cff_page_access_token');
+delete_option('cff_db_version');
+delete_site_option('cff_db_version');
+delete_option('cff_legacy_feed_settings');
+delete_site_option('cff_legacy_feed_settings');
+delete_option('cff_page_slugs');
+delete_site_option('cff_page_slugs');
+delete_option('cff_carousel_options');
+delete_site_option('cff_carousel_options');
+delete_option('cff_title_length');
+delete_site_option('cff_title_length');
+delete_option('cff_body_length');
+delete_site_option('cff_body_length');
+delete_option('cff_error_reporter');
+delete_site_option('cff_error_reporter');
+delete_option('cff_theme_styles');
+delete_site_option('cff_theme_styles');
+delete_option('cff_dismiss_critical_notice');
+delete_site_option('cff_dismiss_critical_notice');
+delete_option('cff_settings');
+delete_site_option('cff_settings');
+delete_option('cff_plugin_do_activation_redirect');
+delete_site_option('cff_plugin_do_activation_redirect');
+delete_option('cff_newuser_notifications');
+delete_site_option('cff_newuser_notifications');
+
+// Delete Transients
+delete_transient('facebook_feed_dismiss_lite');
+delete_site_transient('facebook_feed_dismiss_lite');
+delete_transient('cff_ppca_access_token_invalid');
+delete_site_transient('cff_ppca_access_token_invalid');
+delete_transient('custom_facebook_rating_notice_waiting');
+delete_site_transient('custom_facebook_rating_notice_waiting');
+delete_transient('_monsterinsights_activation_redirect');
+delete_site_transient('_monsterinsights_activation_redirect');
+delete_transient('optin_monster_api_activation_redirect');
+delete_site_transient('optin_monster_api_activation_redirect');
+delete_transient('pushengage_activation_redirect');
+delete_site_transient('pushengage_activation_redirect');
+global $wpdb;
+$transients = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s OR option_name LIKE %s", '_transient_!cff_backup_%', '_site_transient_!cff_backup_%' ) );
+foreach ( $transients as $transient ) {
+	delete_option( $transient );
+}
+
+// Clear Cron Jobs
+wp_clear_scheduled_hook('cff_cache_cron');
+wp_clear_scheduled_hook('cff_cron_job');
+wp_clear_scheduled_hook('cff_usage_tracking_cron');
+wp_clear_scheduled_hook('group_post_scheduler_cron');
+wp_clear_scheduled_hook('cff_feed_issue_email');
+wp_clear_scheduled_hook('cff_notification_update');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cff_ignore_ppca_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cff_ignore_ppca_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cff_ignore_ppca_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cff_ignore_ppca_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cff_ignore_new_user_sale_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cff_ignore_new_user_sale_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cff_ignore_new_user_sale_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cff_ignore_new_user_sale_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cff_ignore_bfcm_sale_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cff_ignore_bfcm_sale_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cff_ignore_bfcm_sale_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cff_ignore_bfcm_sale_notice' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '%_user' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '%_user' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '%_user' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '%_user' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '%_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '%_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '%_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '%_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '%_create_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '%_create_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '%_create_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '%_create_time' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '%_expires' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '%_expires' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '%_expires' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '%_expires' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cff_onboarding' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cff_onboarding' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cff_onboarding' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cff_onboarding' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'cff_ppca_check_notice_dismiss' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'cff_ppca_check_notice_dismiss' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'cff_ppca_check_notice_dismiss' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'cff_ppca_check_notice_dismiss' ) );
+

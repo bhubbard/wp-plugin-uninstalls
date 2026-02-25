@@ -1,0 +1,52 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "osgsw_license_sync",
+    "osgsw_column_preferences",
+    "osgsw_column_preferences_updated",
+    "osgsw_license_active",
+    "osgsw_already_update",
+    "osgsw_new_user_activate",
+    "osgsw_update_flag",
+    "osgsw_spreadsheet_url",
+    "osgsw_new_user_activate_bulk",
+    "osgsw_new_user_activate_trigger_1_11_9",
+    "ssgsw_prev_status",
+    "osgsw_setup_step",
+    "osgsw_already_update_bulk",
+    "osgsw_already_update_trigger_1_11_9",
+    "ossgs_first_time_action",
+    "woocommerce_custom_orders_table_enabled",
+    "osgsw_free_active",
+    "*sync_total_items",
+    "*sync_total_price",
+    "osgsw_install_times",
+    "osgsw_update_notice",
+    "*product_sku_sync",
+    "*sync_order_products",
+    "*sync_order_status",
+    "osgsw_batch_sheet_headers_cache",
+    "osgsw_batch_original_headers_cache",
+    "osgsw_batch_cache_timestamp",
+    "osgsw_multiple_itmes",
+    "osgsw_show_product_qt",
+    "osgsw_sync_total_items",
+    "osgsw_product_sku_sync",
+    "osgsw_sync_total_price",
+    "osgsw_bulk_edit_option2",
+    "ssgsw_show_product_status"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_sku"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:54.283Z"
+}

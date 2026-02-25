@@ -1,0 +1,17 @@
+{
+  "options": [
+    "opengraphmagic_service_options",
+    "opengraphmagic_ttl",
+    "opengraphmagic_rewrite_rules_flag",
+    "opengraphmagic_activated",
+    "opengraphmagic_show_thank_you"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "opengraphmagic_image_creation_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:14.043Z"
+}

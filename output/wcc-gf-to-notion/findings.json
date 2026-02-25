@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wcc_gf_notion_ignore_spam_entry",
+    "gf_db_version",
+    "wcc_gf_notion_notification_send_to",
+    "wcc_gf_notion_notification_subject",
+    "wcc_gf_notion_debug",
+    "wcc_gf_notion_notification_send_to\t",
+    "wcc_gf_notion_uninstall",
+    "wcc_gf_notion_licence",
+    "wcc_gf_notion_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:10.766Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ic_mailer_dragon_install",
+    "ic_mailer_settings",
+    "ic_mailer_custom",
+    "ic_mailers_published"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ic_hourly_scheduled_events"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ic_subscription_confirmed",
+    "ic_mailer_contents",
+    "ic_mailer_custom",
+    "ic_mail_last_sent",
+    "ic_subscription_unsubscribed",
+    "ic_mailer",
+    "ic_mail_done"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:24.013Z"
+}

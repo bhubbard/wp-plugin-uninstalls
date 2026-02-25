@@ -1,0 +1,17 @@
+{
+  "options": [
+    "staff_mgt_staff",
+    "staff_mgt_order_by",
+    "staff_mgt_order_by_direction",
+    "staff_mgt_display_columns",
+    "staff_mgt_background_color",
+    "staff_mgt_border_color",
+    "staff_mgt_font_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:22.203Z"
+}

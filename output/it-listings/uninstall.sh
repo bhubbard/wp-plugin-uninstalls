@@ -1,0 +1,36 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'indi_demo_importer_activated_id'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'widget_%'"
+wp option delete 'sidebars_widgets'
+
+# Delete Transients
+wp transient delete 'indi_demo_importer_packages'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wp_attachment_is_custom_header'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_menu_item_menu_item_parent'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_menu_item_menu_item_parent'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_menu_item_menu_item_parent'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_menu_item_menu_item_parent'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_thumbnail_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'for'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'for'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'for'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'for'"

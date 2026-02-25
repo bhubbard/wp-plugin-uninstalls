@@ -1,0 +1,26 @@
+{
+  "options": [
+    "robotspeed_api_token",
+    "robotspeed_stats",
+    "robotspeed_connected",
+    "robotspeed_connected_email",
+    "robotspeed_connected_site",
+    "robotspeed_connection_token",
+    "robotspeed_analytics_umami_url",
+    "robotspeed_analytics_website_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_focuskw",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_title",
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_focus_keyword",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:09.764Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "whapz_control_panel_upload",
+    "whapz_option_horizontal_pieces",
+    "whapz_option_vertical_pieces",
+    "whapz_option_scaling",
+    "whapz_desktop_image_puzzle",
+    "whapz_mobile_image_puzzle",
+    "whapz_option_canvas_color",
+    "whapz_option_opacity_img",
+    "whapz_post_id",
+    "whapz_option_congratulations",
+    "_wp_attached_file"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:55.622Z"
+}

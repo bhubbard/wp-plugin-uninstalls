@@ -1,0 +1,20 @@
+{
+  "options": [
+    "grfwp-settings",
+    "GRFWP_Trial_Happening",
+    "grfwp-installation-time",
+    "grfwp-permission-level",
+    "grfwp-review-ask-time"
+  ],
+  "transients": [
+    "fsp-helper-notice-dismissed"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "grfwp",
+    "fdm_menu_item_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:06.081Z"
+}

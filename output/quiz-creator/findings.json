@@ -1,0 +1,17 @@
+{
+  "options": [
+    "quizCreator_collect_emails",
+    "quizCreator_show_result_on_page",
+    "quizCreator_show_subscribe_option",
+    "quizCreator_text_settings",
+    "quizCreator_email_override",
+    "quizCreator_custom_email",
+    "quizCreator_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:50.887Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "smfwc_settings",
+    "smfwc_api_key",
+    "smfwc_privacy_notice_dismissed",
+    "smfwc_large_taxonomy_notice_dismissed"
+  ],
+  "transients": [
+    "smfwc_category_tree"
+  ],
+  "cron_jobs": [
+    "smfwc_cleanup_old_data"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_smfwc_last_analysis",
+    "smfwc_large_taxonomy_dismissed",
+    "smfwc_notice_dismissed_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:56.919Z"
+}

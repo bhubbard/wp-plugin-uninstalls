@@ -1,0 +1,44 @@
+{
+  "options": [
+    "nexlifydesk_imap_settings",
+    "nexlifydesk_aws_processed_emails",
+    "nexlifydesk_processed_emails",
+    "nexlifydesk_settings",
+    "nexlifydesk_agent_positions",
+    "nexlifydesk_email_templates",
+    "nexlifydesk_version",
+    "nexlifydesk_last_ticket_number",
+    "nexlifydesk_db_version",
+    "nexlifydesk_password_encryption_migration",
+    "nexlifydesk_template_notice_dismissed",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "nexlifydesk_google_oauth_state",
+    "nexlifydesk_sla_tickets",
+    "nexlifydesk_resolved_tickets",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "nexlifydesk_sla_check",
+    "nexlifydesk_auto_close_tickets",
+    "nexlifydesk_check_orphaned_tickets",
+    "nexlifydesk_fetch_emails_event",
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "customer_email",
+    "nexlifydesk_agent_position"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:18.959Z"
+}

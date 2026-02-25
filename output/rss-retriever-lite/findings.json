@@ -1,0 +1,22 @@
+{
+  "options": [
+    "RSSRTVR_LITE_MAX_EXEC_TIME",
+    "RSSRTVR_LITE_CRON_MAGIC"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "rssrtvr_lite_update_by_wp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_rssrtvr_rss_source",
+    "_wp_page_template",
+    "_rssrtvr_post_name",
+    "_rssrtvr_post_link",
+    "_rssrtvr_post_lifetime",
+    "_rssrtvr_thumb_source"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:25.865Z"
+}

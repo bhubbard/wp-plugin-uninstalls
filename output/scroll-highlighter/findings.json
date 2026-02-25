@@ -1,0 +1,16 @@
+{
+  "options": [
+    "scrollhighlight_selector",
+    "scrollhighlight_el_color",
+    "scrollhighlight_color",
+    "scrollhighlight_opacity",
+    "scrollhighlight_offset_type",
+    "scrollhighlight_offset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:32.681Z"
+}

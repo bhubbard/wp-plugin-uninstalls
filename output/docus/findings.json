@@ -1,0 +1,14 @@
+{
+  "options": [
+    "apikey",
+    "play_list_id",
+    "video_limit",
+    "page_layout_style"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:11.687Z"
+}

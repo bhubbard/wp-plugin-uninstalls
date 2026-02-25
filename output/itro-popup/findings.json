@@ -1,0 +1,12 @@
+{
+  "options": [
+    "itro_curr_ver",
+    "itro_prev_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:26.249Z"
+}

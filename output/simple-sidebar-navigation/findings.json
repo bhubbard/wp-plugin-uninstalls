@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ssn_general_settings",
+    "dropdown_css",
+    "custom_css",
+    "blog_post_links",
+    "target_attr",
+    "simple_sidenav",
+    "widget_simple_sidenav",
+    "sidebars_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:21.087Z"
+}

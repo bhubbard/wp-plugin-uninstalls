@@ -1,0 +1,19 @@
+{
+  "options": [
+    "writex_ai_save_settings"
+  ],
+  "transients": [
+    "ai_writeX_plugin_data",
+    "ai_writex_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_smartcontent_generated",
+    "_smartcontent_tone",
+    "_smartcontent_length",
+    "_smartcontent_replace"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:41:12.269Z"
+}

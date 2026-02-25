@@ -1,0 +1,16 @@
+{
+  "options": [
+    "smopt_options",
+    "smopt_version",
+    "smopt_activation_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "smopt_clear_expired_cache",
+    "smopt_cleanup_analytics"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:09.197Z"
+}

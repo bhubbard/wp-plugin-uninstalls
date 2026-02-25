@@ -1,0 +1,22 @@
+{
+  "options": [
+    "rekai_is_enabled",
+    "rekai_embed_code",
+    "rekai_autocomplete_mode",
+    "rekai_autocomplete_automatic_selector",
+    "rekai_autocomplete_usecurrentlang",
+    "rekai_autocomplete_nrofhits",
+    "rekai_autocomplete_navigate_on_click",
+    "rekai_test_mode",
+    "rekai_use_mock_data",
+    "rekai_project_id",
+    "rekai_secret_key",
+    "rekai_consent_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:46.346Z"
+}

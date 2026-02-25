@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ovoform_user_panel_prefix",
+    "ovoform_installed",
+    "ovoform_is_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ovoform_ban",
+    "_wp_attached_file",
+    "_Verify Email"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:42.392Z"
+}

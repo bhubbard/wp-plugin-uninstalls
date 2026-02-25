@@ -1,0 +1,16 @@
+{
+  "options": [
+    "toplist_cz_version",
+    "widget_toplist_cz",
+    "toplist_cz_dashboard_widget_user_level",
+    "sidebars_widgets"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "meta-box-order_dashboard"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:28.077Z"
+}

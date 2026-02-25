@@ -1,0 +1,19 @@
+{
+  "options": [
+    "page_body_background_color_picker",
+    "page_content_background_color_picker",
+    "post_body_background_color_picker",
+    "post_content_background_color_picker",
+    "widgets_background_color_picker",
+    "my_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "body_background_color",
+    "content_background_color"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:38.030Z"
+}

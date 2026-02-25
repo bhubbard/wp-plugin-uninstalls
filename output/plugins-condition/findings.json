@@ -1,0 +1,16 @@
+{
+  "options": [
+    "plg_cond_notify_interval",
+    "plg_cond_update_date_time",
+    "plg_cond_text_*"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "plugins_condition_cron",
+    "plugins_condition_notify_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:45.598Z"
+}

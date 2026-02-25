@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "woo_variation_duplicator_cloned_ids",
+    "woo_variation_duplicator_exceed_clone_limit",
+    "woo_variation_duplicator_image_cloned"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wc_additional_variation_images"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:24.245Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "partner_information_*",
+    "partner_information_website",
+    "partner_information_description"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:11.630Z"
+}

@@ -1,0 +1,11 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sticky_postbox_sticky_postboxes_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:16.458Z"
+}

@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nd_p_mytext'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nd_p_mytext'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nd_p_mytext'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nd_p_mytext'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nd_m_p_collect'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nd_m_p_collect'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nd_m_p_collect'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nd_m_p_collect'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'table_title'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'table_title'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'table_title'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'table_title'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'nd_btn_text'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'nd_btn_text'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'nd_btn_text'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'nd_btn_text'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'mytext'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'mytext'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'mytext'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'mytext'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'aw_custom_image'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'aw_custom_image'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'aw_custom_image'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'aw_custom_image'"

@@ -1,0 +1,30 @@
+{
+  "options": [
+    "jetpack_active_modules",
+    "powerkit_enabled_lazyload",
+    "theme_mods_flatsome-child",
+    "et_*",
+    "woocs_shop_is_cached",
+    "FLYING_PRESS_CONFIG",
+    "siteground_optimizer_combine_css",
+    "wpassetcleanup_settings",
+    "fusion_options",
+    "asp_compatibility",
+    "rabbit_loader_user_options",
+    "rabbit_loader_wp_options",
+    "gd_system_last_cache_flush",
+    "rabbitloader_cdn_prefix",
+    "rabbitloader_do_activation_redirect"
+  ],
+  "transients": [
+    "rabbitloader_trans_overview_data",
+    "rabbitloader_knowlegebase_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rl_survey_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:13.313Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "voixt_agent_id",
+    "voixt_widget_style",
+    "voixt_widget_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:41.104Z"
+}

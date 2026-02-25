@@ -1,0 +1,18 @@
+{
+  "options": [
+    "paymendo_bank_transfer_admin_sms_message",
+    "paymendo_bank_transfer_admin_sms_enabled",
+    "paymendo_bank_transfer_admin_email_enabled",
+    "paymendo_bank_transfer_admin_sms_number",
+    "paymendo_bank_transfer_customer_sms_message",
+    "paymendo_bank_transfer_customer_sms_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "paymendo_bank_transfer_bank_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:06.993Z"
+}

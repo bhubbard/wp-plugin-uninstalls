@@ -1,0 +1,28 @@
+{
+  "options": [
+    "mdp_settings",
+    "skip_standard_dup",
+    "mpd_admin_bulk_notice",
+    "mpd_admin_notice",
+    "source_acf_files",
+    "source_acf_images",
+    "source_acf_gallery_images",
+    "mpd_considerations",
+    "mpd_noted_posttypes",
+    "mpd_noted_taxonomies",
+    "mpd_has_dismissed_subdomain_error",
+    "mdp_version",
+    "avoid_infinite",
+    "avoid_infinite_persist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "mpd_media_source_*",
+    "mpd_meta_id_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:01.484Z"
+}

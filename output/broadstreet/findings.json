@@ -1,0 +1,15 @@
+{
+  "options": [
+    "classic-editor-replace"
+  ],
+  "transients": [
+    "broadstreet_video_security_warning_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dp_original"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:51.620Z"
+}

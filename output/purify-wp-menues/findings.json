@@ -1,0 +1,15 @@
+{
+  "options": [
+    "purify_wp_menu_options_set"
+  ],
+  "transients": [
+    "purify_wp_menues"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_classes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:08.801Z"
+}

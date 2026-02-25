@@ -1,0 +1,22 @@
+{
+  "options": [
+    "*quality_image",
+    "*automatic_compression",
+    "*original_local_copy",
+    "*modal_window_options",
+    "*image_backups",
+    "*_automatic_compression"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*is_copy_of",
+    "*optimized",
+    "*bytes_saved",
+    "*human_bytes_saved",
+    "*bytes_percentage"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:46:08.877Z"
+}

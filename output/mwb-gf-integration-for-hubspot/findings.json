@@ -1,0 +1,37 @@
+{
+  "options": [
+    "*-client-id",
+    "*-secret-id",
+    "*-scopes",
+    "*-own-app",
+    "*-authorised",
+    "*-crm-active",
+    "*-gf-setting",
+    "onboarding-data-sent",
+    "onboarding-data-skipped",
+    "*-token-data",
+    "*-user-info",
+    "*-crm-connected",
+    "*-gf-synced-forms-count",
+    "*-gf-settings-response",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "*_objects_data"
+  ],
+  "cron_jobs": [
+    "*_gf_clear_log"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*-gf-primary-field",
+    "*-gf-object",
+    "*-gf-form",
+    "*-gf-mapping-data",
+    "*-gf-enable-filters",
+    "*-gf-condtion-field",
+    "*-gf-crm-fields"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:40.151Z"
+}

@@ -1,0 +1,36 @@
+{
+  "options": [
+    "order_cancel_cancellation_approval",
+    "order_return_enable_return",
+    "order_return_approval",
+    "order_return_order_status",
+    "woocommerce_order_cancel_request_settings",
+    "order_cancel_enable_cancellation",
+    "wc_order_splitter_premium_license_status",
+    "order_cancel_order_status",
+    "order_cancel_reasons",
+    "order_return_reasons",
+    "order_cancel_available_time",
+    "order_return_available_time",
+    "yoorc_customization_form_border",
+    "yoorc_customization_form_color",
+    "yoorc_customization_form_shadow",
+    "yoorc_customization_form_submit_button",
+    "yoorc_customization_form_close_button",
+    "yoohw_settings_disable_menu",
+    "woocommerce_new_order_recipient",
+    "woocommerce_default_country",
+    "wc_order_cancellation_return_version",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wc_cancel_return_activation_time",
+    "wc_cancel_return_never_show_again",
+    "wc_advanced_order_manager_ads_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:55.649Z"
+}

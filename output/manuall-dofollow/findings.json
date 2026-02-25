@@ -1,0 +1,13 @@
+{
+  "options": [
+    "smudofollow"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "smu_task_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:20.946Z"
+}

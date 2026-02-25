@@ -1,0 +1,16 @@
+{
+  "options": [
+    "custom_post_list_post_type",
+    "custom_post_list_show_date",
+    "custom_post_list_show_featured_image",
+    "custom_post_list_show_pagination",
+    "custom_post_list_display_author",
+    "custom_post_list_show_no_of_posts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:12.185Z"
+}

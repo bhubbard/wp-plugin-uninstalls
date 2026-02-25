@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "event-start-date",
+    "event-end-date",
+    "event-venue",
+    "event-start-time",
+    "event-end-time",
+    "event-participants",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:00.793Z"
+}

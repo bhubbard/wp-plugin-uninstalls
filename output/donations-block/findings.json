@@ -1,0 +1,18 @@
+{
+  "options": [
+    "pdb_install_pages_created",
+    "pdb_mode",
+    "pdb_email",
+    "pdb_amount",
+    "pdb_currency",
+    "pdb_size",
+    "pdb_purpose",
+    "pdb_SuggestionAmount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:57.852Z"
+}

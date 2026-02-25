@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aad-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aad_before_on",
+    "aad_after_on",
+    "aad_custom_rules"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:55.593Z"
+}

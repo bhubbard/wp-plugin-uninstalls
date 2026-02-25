@@ -1,0 +1,14 @@
+{
+  "options": [
+    "seemymodel_options_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_seemymodel_armodel_id",
+    "_product_seemymodel_3d_viewer_embed_tag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:02.624Z"
+}

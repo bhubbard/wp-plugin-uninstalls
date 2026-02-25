@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aicp_settings_options",
+    "aicp_donate_notice",
+    "aicp_db_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "aicp_hourly_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:57.444Z"
+}

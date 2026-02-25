@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wps#cron-events",
+    "wps"
+  ],
+  "transients": [
+    "doing_cron"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpfs_metaterm_description",
+    "wpfs_metaterm_title",
+    "_wp_attachment_metadata",
+    "_wp_attached_file",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:20.702Z"
+}

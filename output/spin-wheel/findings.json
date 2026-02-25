@@ -1,0 +1,24 @@
+{
+  "options": [
+    "swp_settings",
+    "bdt_biggopti_dismissals",
+    "swp_version"
+  ],
+  "transients": [
+    "swp_otp_*"
+  ],
+  "cron_jobs": [
+    "swp_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_swp_wheel_mode",
+    "_swp_wheel_type",
+    "_swp_settings",
+    "_swp_prizes",
+    "_swp_styles",
+    "_swp_form_settings"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:14.507Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "acf_flexcol",
+    "acf_flexcol_opts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_rows",
+    "rows",
+    "_rows_0_column",
+    "rows_0_column",
+    "_rows_0_column_0_list_layout",
+    "rows_0_column_0_list_layout",
+    "_rows_0_column_0_content",
+    "rows_0_column_0_content"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:51.526Z"
+}

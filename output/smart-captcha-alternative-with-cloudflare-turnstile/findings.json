@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_version",
+    "smartct_keys_verified",
+    "smartct_keys_rotated_at",
+    "smartct_settings",
+    "smartct_evf_validation_error"
+  ],
+  "transients": [
+    "smartct_debug_log"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:42.331Z"
+}

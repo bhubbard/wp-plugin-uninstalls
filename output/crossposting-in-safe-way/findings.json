@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ljxp_skip_cats",
+    "ljxp_password",
+    "ljxp_host",
+    "ljxp_username",
+    "ljxp_custom_name_on",
+    "ljxp_custom_name",
+    "ljxp_privacy",
+    "ljxp_comments",
+    "ljxp_tag",
+    "ljxp_more",
+    "ljxp_community",
+    "ljxp_header_loc",
+    "ljxp_custom_header"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "Alternate_Annonce",
+    "no_lj",
+    "ljxp_privacy",
+    "ljxp_comments",
+    "ljID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:31.061Z"
+}

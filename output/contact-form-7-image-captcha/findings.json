@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpforms_status",
+    "cf7ic-ajax",
+    "cf7ic_plugin_do_activation_redirect",
+    "cf7ic_timestamp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:37.537Z"
+}

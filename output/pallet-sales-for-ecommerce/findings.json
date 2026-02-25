@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pallsafo_migration_done",
+    "pallsafo_default_currency_symbol",
+    "pallsafo_calculator_enabled",
+    "pallsafo_weight_calculation_enabled",
+    "pallsafo_display_stones_count",
+    "*_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_pallsafo_sold_by_pallet",
+    "_pallsafo_pallet_area",
+    "_pallsafo_pallet_price",
+    "_pallsafo_stone_weight",
+    "_pallsafo_stones_per_sqm"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:21.182Z"
+}

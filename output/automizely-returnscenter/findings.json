@@ -1,0 +1,17 @@
+{
+  "options": [
+    "automizely_returnscenter_plugin_redirection",
+    "returnscenter_option_name",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [
+    "wc-automizely-returnscenter-plugin*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_customer_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:24.666Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "slkapi",
+    "slkwoo",
+    "slkwoo_passphrase",
+    "slkwoo_passphrase_lock"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "slkwoo_expiry",
+    "slkwoo_addlicense"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:52.784Z"
+}

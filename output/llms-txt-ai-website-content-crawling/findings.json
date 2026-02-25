@@ -1,0 +1,14 @@
+{
+  "options": [
+    "llmsaiwcc_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "llmsaiwcc_daily_event",
+    "llmsaiwcc_weekly_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:07.511Z"
+}

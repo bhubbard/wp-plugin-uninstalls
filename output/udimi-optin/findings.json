@@ -1,0 +1,17 @@
+{
+  "options": [
+    "udimi_optin_key",
+    "udimi_prime_features",
+    "udimi_user_email",
+    "udimi_allow_optin_tracking",
+    "udimi_is_last_success",
+    "udimi_optin_date",
+    "udimi_optin_script"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:31.497Z"
+}

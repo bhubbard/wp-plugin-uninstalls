@@ -1,0 +1,19 @@
+{
+  "options": [
+    "amelia_settings",
+    "amelia_stash",
+    "amelia_show_wpdt_promo",
+    "classic-editor-replace"
+  ],
+  "transients": [
+    "amelia_activation_redirect",
+    "amelia_square_access_token"
+  ],
+  "cron_jobs": [
+    "amelia_square_access_token_refresh"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:31:55.849Z"
+}

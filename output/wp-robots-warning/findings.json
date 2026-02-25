@@ -1,0 +1,15 @@
+{
+  "options": [
+    "a3rw_ip_change_mail_sent",
+    "a3rw_check_ip_cron",
+    "a3rw_server_ip"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "a3rw_check_ip"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:52.802Z"
+}

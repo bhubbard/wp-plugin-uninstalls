@@ -1,0 +1,22 @@
+{
+  "options": [
+    "easysecure_active_subscription_orders"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "easysecure_handle_renewals",
+    "easysecure_check_subscriptions_for_reminders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_enable_custom_subscription",
+    "_custom_subscription_interval",
+    "_custom_subscription_interval_count",
+    "_custom_subscription_expiry_unit",
+    "_custom_subscription_expiry_count",
+    "_custom_subscription_check",
+    "_easysecure_last_saved_payment_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:39.327Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "aiccfb_facebook_settings",
+    "ai_content_facebook_settings",
+    "facebook_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ai_content_facebook_generate_and_post"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:18.890Z"
+}

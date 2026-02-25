@@ -1,0 +1,25 @@
+{
+  "options": [
+    "site_name",
+    "ass_digest_time",
+    "ass_weekly_digest",
+    "ass-global-unsubscribe-link",
+    "ass_activity_frequency_ass_registered_req",
+    "ass-admin-can-edit-email",
+    "ass-admin-can-send-email"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [
+    "ass_digest_event",
+    "ass_digest_event_weekly"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_activity_id",
+    "_ges_digest_queue_migrated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:51.567Z"
+}

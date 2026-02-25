@@ -1,0 +1,37 @@
+{
+  "options": [
+    "itsjp_activation_result",
+    "itsjpp_license_key",
+    "itsjpp_local_key",
+    "itsjp_last_runtime",
+    "itsjp-pricebreakup-settings",
+    "woocommerce_dimension_unit",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [
+    "wc_var_prices_*",
+    "itsjp_after_install_notice",
+    "wc_attribute_taxonomies"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "is_jewellery_product",
+    "its_jp_pearl_cost",
+    "its_jp_extra_cost",
+    "its_jp_other_stone_cost",
+    "its_jp_extra_fee",
+    "_price",
+    "_regular_price",
+    "_sale_price",
+    "_sale_price_dates_from",
+    "_sale_price_dates_to",
+    "attribute_pa_*",
+    "_text_field",
+    "order",
+    "billing_phone",
+    "shipping_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:15:02.752Z"
+}

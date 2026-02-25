@@ -1,0 +1,25 @@
+{
+  "options": [
+    "dsm_flush_rewrite_rules_flag",
+    "dsm-supreme-modules-for-divi-no-bug",
+    "dsm-supreme-modules-for-divi-activation-date",
+    "*-activation-date",
+    "dsm_settings_misc",
+    "dsm_settings_social_media",
+    "dsm_theme_builder",
+    "dsm_general"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dsm-header-footer-meta-box-options",
+    "dsm-css-classes-meta-box-options",
+    "dsm-remove-default-footer-meta-box-options",
+    "dsm-footer-show-on-blank-template",
+    "dsm-footer-show-on-404-template",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:09.580Z"
+}

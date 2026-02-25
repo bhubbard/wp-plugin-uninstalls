@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('planle_schedule_disabled_option', 'planle_show_schedule_for_logged_in_option', 'planle_schedule_mode_option', 'planle_allow_logged_in_users_test_schedule', 'planle_show_feedback_link_only_option', 'planle_contact_page_option', 'planle_generator_option', 'planle_roles_with_access_to_test_plan', 'planle_test_schedule_valid_date_option', 'planle_schedule_valid_date_option', 'planle_loaded_image_file_id', 'planle_plan_mode_option', 'planle_plan_views', 'planle_roles_with_access_to_test_schedule', 'planle_notice');
+

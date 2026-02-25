@@ -1,0 +1,48 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'hezarfen_enable_district_neighborhood_fields'
+wp option delete 'hezarfen_checkout_fields_auto_sort'
+wp option delete 'hezarfen_hide_checkout_postcode_fields'
+wp option delete 'hezarfen_checkout_show_TC_identity_field'
+wp option delete 'hezarfen_checkout_is_TC_identity_number_field_required'
+wp option delete 'hezarfen_encryption_key_generated'
+wp option delete 'hezarfen_encryption_tester_text'
+wp option delete 'hezarfen_db_version'
+wp option delete 'hezarfen_version'
+wp option delete 'hezarfen_sms_migration_completed'
+wp option delete 'hezarfen_mst_enable_sms_notification'
+wp option delete 'hezarfen_mst_notification_provider'
+wp option delete 'hezarfen_mst_netgsm_sms_content'
+wp option delete 'hezarfen_sms_rules'
+wp option delete 'hezarfen_sms_automation_enabled'
+wp option delete 'hezarfen_pro_db_version'
+wp option delete 'hezarfen_show_hezarfen_checkout_tax_fields'
+wp option delete 'hezarfen_v3_roadmap_last_vote'
+wp option delete 'hezarfen_roadmap_votes'
+wp option delete 'hezarfen_checkout_encryption_key_confirmation'
+wp option delete 'hezarfen_encryption_key_recovery_log'
+wp option delete 'hezarfen_sort_my_account_fields'
+wp option delete 'woocommerce_checkout_address_2_field'
+wp option delete 'hezarfen_roadmap_notice_dismissed'
+wp option delete 'hezarfen_hide_my_account_postcode_fields'
+wp option delete 'hezarfen_global_netgsm_credentials'
+wp option delete 'hezarfen_mss_settings'
+wp option delete 'hezarfen_contracts_enabled'
+wp option delete 'woocommerce_currency_pos'
+wp option delete 'hezarfen_hepsijet_show_order_details_on_label'
+wp option delete 'hez_ordermigo_webhook_secret'
+wp db query "DELETE FROM wp_options WHERE option_name LIKE 'hezarfen_hepsijet_%'"
+wp option delete 'hezarfen_hepsijet_consumer_key'
+wp option delete 'hezarfen_hepsijet_consumer_secret'
+wp option delete 'intense_kargotakip_ayarlar'
+wp option delete 'netgsm_status'
+wp option delete 'netgsm_orderstatus_change_customer_control'
+wp option delete 'woocommerce_email_base_color'
+
+# Delete Transients
+wp transient delete 'hezarfen_sms_migration_notice'
+wp transient delete 'hezarfen_youtube_videos'
+wp transient delete 'hepsijet_warehouses_cache'
+

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "shsb_settings",
+    "shsb_score_time",
+    "shsb_score"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "shsb_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:55.288Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "boyka_compression_level",
+    "boyka_compress_thumbnails",
+    "boyka_compress_on_upload",
+    "boyka_disable_preview",
+    "boyka_verbose_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:27.634Z"
+}

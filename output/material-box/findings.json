@@ -1,0 +1,14 @@
+{
+  "options": [
+    "materialbox_selector",
+    "materialbox_class",
+    "materialbox_in_duration",
+    "materialbox_out_duration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:59.270Z"
+}

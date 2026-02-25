@@ -1,0 +1,49 @@
+{
+  "options": [
+    "dearprma_setup_complete",
+    "dearprma_project_page_id",
+    "dearprma_features",
+    "dearprma_setup_type",
+    "dearprma_needs_setup"
+  ],
+  "transients": [
+    "dearprma_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_project_difficulty",
+    "_project_tags",
+    "_project_duration",
+    "_dearprma_task_assignee",
+    "_dearprma_task_status",
+    "_dearprma_task_priority",
+    "_dearprma_task_due_date",
+    "_dearprma_project_id",
+    "_dearprma_task_order",
+    "_dearprma_issue_status",
+    "_dearprma_issue_assignee",
+    "_dearprma_issue_labels",
+    "_dearprma_issue_priority",
+    "_project_status",
+    "_project_client",
+    "_project_url",
+    "_application_name",
+    "_application_email",
+    "_application_project_id",
+    "_application_project_name",
+    "_application_status",
+    "_application_user_id",
+    "_submission_user_id",
+    "_submission_user_name",
+    "_submission_user_email",
+    "_submission_project_id",
+    "_submission_project_name",
+    "_submission_project_status",
+    "_submission_deliverable_url",
+    "_submission_additional_notes",
+    "_submission_user_teams"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:49.166Z"
+}

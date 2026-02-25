@@ -1,0 +1,17 @@
+{
+  "options": [
+    "conveyour_domain",
+    "conveyour_appkey",
+    "conveyour_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "module_type",
+    "student_checked_answers",
+    "course_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:11.219Z"
+}

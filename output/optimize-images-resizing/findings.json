@@ -1,0 +1,14 @@
+{
+  "options": [
+    "oir_cleanup_progress_page",
+    "oir_removed_log",
+    "*_size_w",
+    "*_size_h"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:17.347Z"
+}

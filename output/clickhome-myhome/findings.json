@@ -1,0 +1,13 @@
+{
+  "options": [
+    "myhome_version",
+    "myhome_guid",
+    "plugin_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:59.357Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "option_erase_cache",
+    "option_cache_timeout",
+    "option_idhal",
+    "option_type",
+    "option_choix",
+    "option_infocontact",
+    "option_groupe",
+    "option_email",
+    "option_tel",
+    "option_social0",
+    "option_social1",
+    "option_social2",
+    "option_social3",
+    "option_lang"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:33.952Z"
+}

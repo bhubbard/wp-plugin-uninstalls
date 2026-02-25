@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_paylabs_settings",
+    "woocommerce_paylabs_h5_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "paymentType",
+    "va_number",
+    "qr_code",
+    "qr_code_image",
+    "ewallet_link"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:23:11.937Z"
+}

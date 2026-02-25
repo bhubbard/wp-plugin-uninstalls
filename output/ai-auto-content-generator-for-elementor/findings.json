@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_remove_notice",
+    "aacgfe-installDate",
+    "aacgfe-ratingDiv",
+    "aacgfe_initial_save_version",
+    "aacgfe-install-date",
+    "aacgfe-version",
+    "aacgfe-plugin-type",
+    "aacgfe_plugin_redirect",
+    "AACGFE_prompt_data"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:55.531Z"
+}

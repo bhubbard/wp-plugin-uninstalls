@@ -1,0 +1,14 @@
+{
+  "options": [
+    "eb_settings",
+    "_eb_reusable_block_ids"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_eb_reusable_block_ids"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:37.833Z"
+}

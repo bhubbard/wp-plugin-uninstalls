@@ -1,0 +1,22 @@
+{
+  "options": [
+    "hearthis_width",
+    "hearthis_height",
+    "hearthis_theme",
+    "hearthis_hcolor",
+    "hearthis_color",
+    "hearthis_style",
+    "hearthis_background",
+    "hearthis_waveform",
+    "hearthis_cover",
+    "hearthis_block_size",
+    "hearthis_block_space",
+    "hearthis_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:47.200Z"
+}

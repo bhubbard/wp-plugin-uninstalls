@@ -1,0 +1,24 @@
+{
+  "options": [
+    "takbull_invoice_enabled",
+    "api_key_invoice",
+    "api_secret_invoice",
+    "takbull_invoice_document_type",
+    "takbull_invoice_is_taxtable",
+    "takbull_invoice_send_email",
+    "takbull_invoice_send_sms",
+    "woocommerce_takbull_settings",
+    "*_settings",
+    "woocommerce_takbull_invoice_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "takbull_invoice_lock",
+    "document_number",
+    "document_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:03.428Z"
+}

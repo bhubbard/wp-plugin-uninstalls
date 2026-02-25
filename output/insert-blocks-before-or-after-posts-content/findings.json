@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ibbac_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ibbac_meta_box_optout_before",
+    "_ibbac_meta_box_optout_after"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:30.621Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "sls_logo_table_version",
+    "sls_title_slider",
+    "sls_settings",
+    "sls_slides_to_show",
+    "sls_slides_to_scroll",
+    "sls_autoplay",
+    "sls_autoplay_speed",
+    "sls_arrows",
+    "sls_dots",
+    "sls_pause_on_hover"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:29:58.387Z"
+}

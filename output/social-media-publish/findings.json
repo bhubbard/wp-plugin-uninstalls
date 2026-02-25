@@ -1,0 +1,17 @@
+{
+  "options": [
+    "smp_fb_app_id",
+    "smp_fb_app_secret",
+    "smp_instagram_auto_publish",
+    "smp_facebook_auto_publish"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "smp-ig-published",
+    "smp-fb-published"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:23.372Z"
+}

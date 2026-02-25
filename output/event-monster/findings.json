@@ -1,0 +1,22 @@
+{
+  "options": [
+    "awl_em_common_settings",
+    "em_starter_db_version",
+    "em_options",
+    "em_currency_symbol"
+  ],
+  "transients": [
+    "em_layout_cache_*",
+    "em_starter_updated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "awl_em_settings_*",
+    "event_monster_settings",
+    "_em_price",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:51:02.388Z"
+}

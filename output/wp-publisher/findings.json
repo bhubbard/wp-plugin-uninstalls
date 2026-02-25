@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp_publisher_host",
+    "wp_publisher_user",
+    "wp_publisher_pass",
+    "wp_publisher_port",
+    "wp_publisher_active_mode",
+    "wp_publisher_remote_wp_content_dir",
+    "wp_publisher_token",
+    "ftp_sync_port",
+    "wp_publisher_outlandish_sync_secret"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:36.788Z"
+}

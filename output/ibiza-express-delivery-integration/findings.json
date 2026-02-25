@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ibizaxdel_api_integration_key",
+    "ibizaxdel_api_integration_env"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ibizaxdel_cron_hook_name"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:21.063Z"
+}

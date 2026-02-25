@@ -1,0 +1,30 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "smart_swatches_version",
+    "smart_swatches_first_version",
+    "smart_swatches_activation_date",
+    "smart_swatches_ssp_settings",
+    "smart_swatches_db_version",
+    "shapedplugin_offer_banner_dismissed_*",
+    "sp_swatches_review_notice_dismiss",
+    "smart_swatches_*",
+    "woocommerce_cart_redirect_after_add",
+    "smart_swatches_smart_swatches_attr_*",
+    "shapedplugin_offer_banner_dismissed_black_friday_2025",
+    "shapedplugin_offer_banner_dismissed_new_year_2026"
+  ],
+  "transients": [
+    "swatches_plugins",
+    "smart_swatches_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ssp_settings",
+    "ssp_attribute_options_*",
+    "_smart_swatches_framework_errors_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:51:37.318Z"
+}

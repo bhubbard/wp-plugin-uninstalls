@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [
+    "bpfwe_filter_query",
+    "bpfwe_filter_post_ids"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "post_id_list",
+    "bpfwe_swatches_type",
+    "bpfwe_swatches_color",
+    "bpfwe_swatches_image",
+    "bpfwe_swatches_button_text",
+    "bpfwe_swatches_group_text",
+    "thumbnail_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:05.029Z"
+}

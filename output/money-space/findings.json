@@ -1,0 +1,37 @@
+{
+  "options": [
+    "*_settings",
+    "woocommerce_moneyspace_settings",
+    "moneyspace_ms_logs_table_ready",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "MNS_transaction_orderid",
+    "MNS_PAYMENT_TYPE",
+    "MNS_PAYMENT_PAID",
+    "MNS_PAYMENT_STATUS",
+    "MNS_transaction",
+    "MONEYSPACE_TRANSACTION_ORDERID",
+    "MONEYSPACE_TRANSACTION",
+    "MONEYSPACE_PAYMENT_TYPE",
+    "MONEYSPACE_PAYMENT_IMAGE_QRPROMT",
+    "MONEYSPACE_QR_TIME",
+    "MONEYSPACE_SPECIAL_INSTRUCTIONS_TO_MERCHANT",
+    "moneyspace_special_instructions_to_merchant",
+    "MONEYSPACE_QR_URL",
+    "MONEYSPACE_INSTALLMENT_BANK",
+    "MONEYSPACE_INSTALLMENT_BANK_TYPE",
+    "MONEYSPACE_INSTALLMENT_MONTHS",
+    "moneyspace_transaction_orderid",
+    "moneyspace_transaction",
+    "MONEYSPACE_PAYMENT_LINK",
+    "MNS_QR_TIME",
+    "MONEYSPACE_PAYMENT_PAID",
+    "MONEYSPACE_PAYMENT_STATUS"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:12.576Z"
+}

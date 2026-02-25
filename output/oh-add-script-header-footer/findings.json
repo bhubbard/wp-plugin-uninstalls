@@ -1,0 +1,21 @@
+{
+  "options": [
+    "sogo_header_footer_lk_status",
+    "sogo_header_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "oh-header-script",
+    "oh-hide-header",
+    "_oh_add_script_header",
+    "_oh_add_script_header_hide",
+    "oh-footer-script",
+    "oh-hide-footer",
+    "_oh_add_script_footer",
+    "_oh_add_script_footer_hide"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:33.542Z"
+}

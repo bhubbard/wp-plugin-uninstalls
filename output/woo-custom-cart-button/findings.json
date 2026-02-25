@@ -1,0 +1,19 @@
+{
+  "options": [
+    "_woo_catcbll_version",
+    "_woo_catcbll_all_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wcatcbll_wcatc_atc_btn_text",
+    "_wcatcbll_wcatc_atc_btn_act",
+    "_catcbll_btn_label",
+    "_catcbll_btn_link",
+    "_elementor_page_settings",
+    "_catcbll_more_info"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:09.088Z"
+}

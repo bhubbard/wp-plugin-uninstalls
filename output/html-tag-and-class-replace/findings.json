@@ -1,0 +1,17 @@
+{
+  "options": [
+    "html_class_replace",
+    "html_tag_replace",
+    "html_tag_replace_migration",
+    "html_old_class",
+    "html_new_class",
+    "html_old_tag",
+    "html_new_tag"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:33.259Z"
+}

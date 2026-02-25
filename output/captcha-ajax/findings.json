@@ -1,0 +1,28 @@
+{
+  "options": [
+    "wpCap_login",
+    "wpCap_register",
+    "wpCap_lost",
+    "wpCap_comments",
+    "wpCap_registered",
+    "wpCap_cf7_ax",
+    "wpCap_wpf_ax",
+    "wpCap_forminator_ax",
+    "wpCap_type",
+    "wpCap_letters",
+    "wpCap_no_chars",
+    "wpCap_image",
+    "wpCap_failBan",
+    "wpCap_Banned",
+    "wpCap_Ban_History",
+    "wpCap_restMenu"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "delete_history_file_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:05:53.142Z"
+}

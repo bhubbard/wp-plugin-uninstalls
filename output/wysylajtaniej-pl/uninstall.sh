@@ -1,0 +1,57 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_name'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_surname'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_companyName'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_postCode'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_city'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_street'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_building'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_local'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_email'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_telephone'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_account'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_ubez'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dkurier'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dOpis'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dWidth'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dHeight'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dLength'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dWeight'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dPWR'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dInpost'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dDPD'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_dUrl'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_disable_dUrl'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_deliveryToType'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_api_key'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_email'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_client_ID'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_access_token'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_client_secret'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_test_mode'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_sender_disable_dUrl'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_cod_iban'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_source_id'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_cod_accountOwner'"
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '%_googleMapsApiKey'"
+wp option delete 'woocommerce_dimension_unit'
+wp option delete 'woocommerce_weight_unit'
+wp option delete 'wysylajtaniej_bulk_action_errors'
+wp option delete 'my_custom_error'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wysylajtaniejObject'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wysylajtaniejObject'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wysylajtaniejObject'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wysylajtaniejObject'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wysylajtaniejService'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wysylajtaniejService'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wysylajtaniejService'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wysylajtaniejService'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_wysylajtaniejPoint'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_wysylajtaniejPoint'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_wysylajtaniejPoint'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_wysylajtaniejPoint'"

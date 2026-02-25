@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_lekirpay_settings",
+    "lekirpay_fpx_banks",
+    "lekirpay_fpx_banks_last"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lekirpay_bills_invalidator"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:34.391Z"
+}

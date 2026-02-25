@@ -1,0 +1,24 @@
+{
+  "options": [
+    "juicenet_gdpr_nome_sito",
+    "juicenet_gdpr_titolare_sito",
+    "juicenet_gdpr_email_sito",
+    "juicenet_gdpr_cookie_page",
+    "juicenet_gdpr_privacy_page",
+    "juicenet_gdpr_show_banner",
+    "juicenet_gdpr_google_analytics_code",
+    "juicenet_gdpr_link_blank",
+    "juicenet_gdpr_testo_link",
+    "juicenet_gdpr_testo_deny",
+    "juicenet_gdpr_testo_allow",
+    "juicenet_gdpr_testo_banner",
+    "juicenet_gdpr_popup_color",
+    "juicenet_gdpr_button_color"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:05.877Z"
+}

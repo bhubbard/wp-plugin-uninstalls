@@ -1,0 +1,13 @@
+{
+  "options": [
+    "lknwp_player_rewrite_rules"
+  ],
+  "transients": [
+    "lknwp_radio_tags"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:08.493Z"
+}

@@ -1,0 +1,36 @@
+{
+  "options": [
+    "wcgt_enable_goal",
+    "wcgt_global_word_goal",
+    "wcgt_bar_color",
+    "wcgt_bar_height",
+    "wcgt_show_percentage",
+    "wcgt_review_notice_dismissed",
+    "wcgt_activation_time",
+    "wcgt_pro_tip_notice_dismissed",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wcgt_goal",
+    "_wcgt_last_goal_date",
+    "_wcgt_streak",
+    "_wcgt_longest_streak"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:43.330Z"
+}

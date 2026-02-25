@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wppf_active_plugins",
+    "wppf_cache_test",
+    "wppf_options"
+  ],
+  "transients": [
+    "pf_animal_types",
+    "pf_animal_breeds_*",
+    "pf_access_token",
+    "vp_fontawesome_icons"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_fields",
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:44.879Z"
+}

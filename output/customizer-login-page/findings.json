@@ -1,0 +1,48 @@
+{
+  "options": [
+    "recently_activated",
+    "clp_build_package",
+    "customizer_login_page_settings",
+    "awp_login_logo",
+    "awp_login_logo_width",
+    "awp_login_logo_height",
+    "awp_login_logo_padding",
+    "awp_login_bg_image",
+    "awp_login_customizer_bg_color",
+    "awp_login_customizer_form_bg_image",
+    "awp_login_customizer_form_bg_color",
+    "awp_login_customizer_form_width",
+    "awp_login_customizer_form_height",
+    "awp_login_customizer_form_padding",
+    "awp_login_customizer_form_border",
+    "awp_login_customizer_form_border_radius",
+    "awp_login_customizer_form_shadow",
+    "awp_login_customizer_form_bg_opacity",
+    "awp_login_customizer_field_width",
+    "awp_login_customizer_field_margin",
+    "awp_login_customizer_field_bg",
+    "awp_login_customizer_field_color",
+    "awp_login_customizer_field_label",
+    "awp_login_customizer_button_bg",
+    "awp_login_customizer_button_border",
+    "awp_login_customizer_button_shadow",
+    "awp_login_customizer_button_color",
+    "awp_login_customizer_button_hover_bg",
+    "awp_login_customizer_button_hover_border",
+    "awp_login_customizer_form_footer_color",
+    "awp_login_customizer_form_footer_color_hover",
+    "awp_login_customizer_other_css",
+    "lpc_login_page_id",
+    "lpc_opts"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:18.225Z"
+}

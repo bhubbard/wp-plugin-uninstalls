@@ -1,0 +1,16 @@
+{
+  "options": [
+    "pushnews_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sendNotification",
+    "sendEmail",
+    "allowDuplicatePush",
+    "dontReplacePreviousPush"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:29.341Z"
+}

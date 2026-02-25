@@ -1,0 +1,11 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('collapsible-widget-options');
+delete_site_option('collapsible-widget-options');
+

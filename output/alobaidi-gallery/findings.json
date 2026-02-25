@@ -1,0 +1,27 @@
+{
+  "options": [
+    "alobaidi_gallery_home",
+    "alobaidi_gallery_page",
+    "alobaidi_gallery_count",
+    "alobaidi_gallery_filter",
+    "alobaidi_gallery_sitename",
+    "alobaidi_gallery_tagline",
+    "alobaidi_gallery_facebook",
+    "alobaidi_gallery_twitter",
+    "alobaidi_gallery_instagram",
+    "alobaidi_gallery_favicon",
+    "alobaidi_gallery_bar",
+    "alobaidi_gallery_next",
+    "alobaidi_gallery_prev",
+    "alobaidi_gallery_setw",
+    "alobaidi_gallery_medw"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:31:27.653Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "GSOF_gosquared_site_token",
+    "GSOF_gosquared_identify",
+    "GSOF_gosquared_gravity_forms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:30.637Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "top_tweetmeme_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "top_tweetmeme_update_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:58.542Z"
+}

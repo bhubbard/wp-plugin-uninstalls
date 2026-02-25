@@ -1,0 +1,28 @@
+{
+  "options": [
+    "tip_jar_wp_wizard_status",
+    "tip_jar_wp_settings",
+    "tjwp_scsr",
+    "sendgrid_api_key",
+    "*_db_version",
+    "tip_jar_wp_just_activated",
+    "tip_jar_wp_stripe_country_code",
+    "tip_jar_wp_stripe_available_currencies",
+    "tip_jar_wp_stripe_product_id"
+  ],
+  "transients": [
+    "tip_jar_wp_mail_health_check_token",
+    "tip_jar_wp_mail_health_check_success_redirect",
+    "tip_jar_wp_login_code_*",
+    "tip_jar_wp_login_code_requests_*",
+    "tjwp_file_download_*",
+    "*_mode"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tip_jar_wp_login_attempts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:44.752Z"
+}

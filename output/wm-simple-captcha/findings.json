@@ -1,0 +1,15 @@
+{
+  "options": [
+    "plugin_err_*",
+    "wmsimplecaptcha_activated_plugin_error",
+    "wmsimplecaptcha",
+    "*_per_page_default",
+    "*_activated_plugin_error"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:06.134Z"
+}

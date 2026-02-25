@@ -1,0 +1,39 @@
+{
+  "options": [
+    "linkboss_api_key",
+    "*_installed",
+    "linkboss_access_token",
+    "linkboss_custom_query",
+    "linkboss_acf_enabled",
+    "default_product_cat",
+    "lbw_cron_notice_dismissed",
+    "linkboss_sync_speed",
+    "linkboss_woo_enabled",
+    "linkboss_sync_batch",
+    "linkboss_installed",
+    "linkboss_version",
+    "linkboss_setup_wizard"
+  ],
+  "transients": [
+    "dismissed_notice_*",
+    "linkboss_sync_ongoing",
+    "linkboss_sync_batch_table_error"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tcb_editor_enabled",
+    "tve_landing_page",
+    "_elementor_edit_mode",
+    "_elementor_data",
+    "_et_pb_use_builder",
+    "_bricks_page_content_2",
+    "ct_builder_json",
+    "_ct_builder_json",
+    "_fl_builder_enabled",
+    "_fl_builder_data",
+    "_fl_builder_draft"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:15.071Z"
+}

@@ -1,0 +1,54 @@
+{
+  "options": [
+    "is_embedpress_milestone_showing",
+    "nx_force_popup_dismissed",
+    "nx_initial_popup_dismissed",
+    "notificationx_milestone_level",
+    "notificationx_milestone_current_level",
+    "notificationx_force_milestone",
+    "wpdeveloper_plugins_data",
+    "wpins_deactivation_reason_*",
+    "wpins_deactivation_details_*",
+    "wpins_allow_tracking",
+    "wpins_last_track_time",
+    "active_sitewide_plugins",
+    "wpins_block_notice",
+    "nx_feedback_shared",
+    "nx_scan_count",
+    "nx_scan_date",
+    "WPML(TM-has-run)",
+    "notificationx_settings",
+    "nxpro_convertkit_api_key",
+    "nxpro_convertkit_api_secret",
+    "nx_daily_mail_sent",
+    "nx_weekly_mail_sent",
+    "nx_monthly_mail_sent",
+    "notificationx_data",
+    "woocommerce_shop_page_id",
+    "*_log"
+  ],
+  "transients": [
+    "nx_get_field_names",
+    "nx_builder_fields",
+    "nx_activated",
+    "wpnotice_priority_time_expired"
+  ],
+  "cron_jobs": [
+    "weekly_email_reporting"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "_nx_bar_elementor_type_id",
+    "_wp_page_template",
+    "wp_pattern_sync_status",
+    "rating",
+    "reviewx_title",
+    "_tutor_enrolled_by_order_id",
+    "job::*",
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:27.424Z"
+}

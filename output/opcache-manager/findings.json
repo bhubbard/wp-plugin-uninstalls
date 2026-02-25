@@ -1,0 +1,22 @@
+{
+  "options": [
+    "opcm_plugin_options_logger",
+    "opcm_plugin_options_adminbar",
+    "opcm_plugin_options_usecdn",
+    "opcm_plugin_options_nag",
+    "opcm_plugin_features_analytics",
+    "opcm_plugin_features_history",
+    "opcm_plugin_features_metrics",
+    "opcm_plugin_features_reset_frequency",
+    "opcm_plugin_features_warmup",
+    "auto_update_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:13.551Z"
+}

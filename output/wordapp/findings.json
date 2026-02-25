@@ -1,0 +1,27 @@
+{
+  "options": [
+    "wa_pdx_access_tickets",
+    "slimstat_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wa_pdx_meta_title",
+    "_wa_pdx_meta_desc",
+    "_wa_pdx_meta_focuskw",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_aioseop_title",
+    "_aioseop_description",
+    "_aioseop_keywords",
+    "_su_title",
+    "_su_description",
+    "_su_keywords",
+    "_wp_attachment_image_alt",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:10.858Z"
+}

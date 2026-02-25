@@ -1,0 +1,25 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "kk_fb_wc_settings",
+    "woocommerce_kk_fb_wc_integration_settings",
+    "kk_fb_wc_welcome_message_dismissed",
+    "kk_fb_wc_bootstrap_message_dismissed"
+  ],
+  "transients": [
+    "kk_fb_wc_activation_redirect",
+    "kk_fb_wc_welcome_message",
+    "kk_fb_wc_bootstrap_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_city",
+    "billing_state",
+    "billing_postcode",
+    "billing_country",
+    "billing_phone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:46.033Z"
+}

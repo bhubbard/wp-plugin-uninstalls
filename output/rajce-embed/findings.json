@@ -1,0 +1,21 @@
+{
+  "options": [
+    "rajce_embed_image_captions",
+    "rajce_embed_gallery_captions",
+    "rajce_embed_thumbnail_size_w",
+    "rajce_embed_thumbnail_size_h",
+    "rajce_embed_thumbnail_crop",
+    "rajce_embed_omit_album_cover",
+    "rajce_embed_thumbnail_source",
+    "rajce_embed_version",
+    "rajce_embed_thumb_default",
+    "rajce_embed_*",
+    "rajce_embed_compatib_wp_rajce_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:03.864Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wootalk_status",
+    "wootalk_email_notification",
+    "wootalk_email_logo",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_email",
+    "_billing_first_name",
+    "_billing_last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:36:56.732Z"
+}

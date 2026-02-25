@@ -1,0 +1,22 @@
+{
+  "options": [
+    "echodash_endpoint",
+    "echodash_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bbp_status",
+    "echodash_bp_profile_complete",
+    "echodash_settings",
+    "_gamipress_congratulations_text",
+    "_gamipress_points_to_unlock",
+    "_gamipress_points",
+    "_gamipress_earned_by",
+    "*_new_points",
+    "*_points"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:04.480Z"
+}

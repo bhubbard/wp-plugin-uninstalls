@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "parity_campaign_discount_text",
+    "parity_campaign_discounts",
+    "parity_campaign_customizations",
+    "parity_campaign_start_date",
+    "parity_campaign_end_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:08.313Z"
+}

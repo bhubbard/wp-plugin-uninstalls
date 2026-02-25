@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wc_metricks_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rc_accepts_marketing",
+    "rc_ref",
+    "rc_loc"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:35.785Z"
+}

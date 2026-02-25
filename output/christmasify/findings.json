@@ -1,0 +1,20 @@
+{
+  "options": [
+    "cf_christmasify_snowflakes",
+    "cf_christmasify_classy_snow",
+    "cf_christmasify_snow_speed",
+    "cf_christmasify_santa",
+    "cf_christmasify_music",
+    "cf_christmasify_image_frame",
+    "cf_christmasify_font",
+    "cf_christmasify_homepage_only",
+    "cf_christmasify_date_from",
+    "cf_christmasify_date_to"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:52.785Z"
+}

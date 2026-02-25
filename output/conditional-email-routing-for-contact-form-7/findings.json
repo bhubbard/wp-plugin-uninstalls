@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cercf7_routing_enabled",
+    "_cercf7_use_default_email",
+    "_cercf7_routing_conditions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:08.764Z"
+}

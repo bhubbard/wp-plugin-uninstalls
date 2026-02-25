@@ -1,0 +1,42 @@
+{
+  "options": [
+    "fetchub_guid_cache",
+    "fetchub_cron_enabled",
+    "fetchub_cron_paused",
+    "fetchub_recent_summaries",
+    "fetchub_settings",
+    "fetchub_token"
+  ],
+  "transients": [
+    "fetchub_run_*",
+    "fetchub_no_new_posts_*",
+    "fetchub_stop_all",
+    "fetchub_sched_lock_all",
+    "fetchub_upgrade_lock",
+    "fetchub_sched_lock_*",
+    "fetchub_force_once_*"
+  ],
+  "cron_jobs": [
+    "fetchub_feed_cron",
+    "fetchub_weekly_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_fetchub_guid",
+    "_fetchub_summary",
+    "_fetchub_feed_label",
+    "_fetchub_feed_url",
+    "_fetchub_original_url",
+    "_fetchub_publication_timestamp",
+    "_fetchub_publication_date",
+    "_fetchub_source_date",
+    "_fetchub_publication_time",
+    "_fetchub_topic_fp",
+    "_fetchub_model",
+    "_fetchub_raw_summary",
+    "_fetchub_raw_title",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:18:05.649Z"
+}

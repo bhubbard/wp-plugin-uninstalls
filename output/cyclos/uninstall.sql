@@ -1,0 +1,6 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('cyclos_version', 'cyclos_url', 'cyclos_adminuser', 'cyclos_token', 'cyclos_redirectUrl', 'cyclos_t_loginName', 'cyclos_t_loginPassword', 'cyclos_t_loginSubmit', 'cyclos_t_forgotLink', 'cyclos_t_forgotEmail', 'cyclos_t_forgotCaptcha', 'cyclos_t_forgotNewCaptcha', 'cyclos_t_forgotSubmit', 'cyclos_t_forgotCancel', 'cyclos_t_loginTitle', 'cyclos_t_forgotTitle', 'cyclos_t_forgotDone', 'cyclos_t_errorLogin', 'cyclos_t_errorAddressBlocked', 'cyclos_t_errorEmailNotFound', 'cyclos_t_errorConnection', 'cyclos_t_errorGeneral', 'cyclos_t_errorInaccessibleChannel', 'cyclos_t_errorInaccessiblePrincipal', 'cyclos_t_errorUserBlocked', 'cyclos_t_errorUserDisabled', 'cyclos_t_errorUserPending', 'cyclos_t_errorPasswordIndefinitelyBlocked', 'cyclos_t_errorPasswordTemporarilyBlocked', 'cyclos_t_errorInvalidPassword', 'cyclos_t_errorInvalidAccessClient', 'cyclos_t_errorOperatorWithPendingAgreements', 'cyclos_t_errorEntityNotFound', 'cyclos_t_errorEntityNotFoundUser', 'cyclos_t_errorEntityNotFoundAccessClient');
+DELETE FROM wp_options WHERE option_name LIKE 'widget_%';
+

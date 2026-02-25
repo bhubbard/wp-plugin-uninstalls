@@ -1,0 +1,13 @@
+{
+  "options": [
+    "subscribers_lang",
+    "subscribers_hash",
+    "subscribers_plugin_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:39.524Z"
+}

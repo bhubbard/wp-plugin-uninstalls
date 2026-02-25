@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wct_styling",
+    "wct_nothumb"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wct_thumb"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:12.848Z"
+}

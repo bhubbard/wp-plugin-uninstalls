@@ -1,0 +1,17 @@
+{
+  "options": [
+    "gdpr-compliance-cookie-consent-lt",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_form",
+    "_mail",
+    "_stmgdpr"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:08.271Z"
+}

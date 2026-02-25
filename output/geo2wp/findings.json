@@ -1,0 +1,16 @@
+{
+  "options": [
+    "geo2wp_options",
+    "phototools_list"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "geo_latitude",
+    "geo_longitude",
+    "EXIF_location"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:56.173Z"
+}

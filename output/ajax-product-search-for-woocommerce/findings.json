@@ -1,0 +1,23 @@
+{
+  "options": [
+    "phoe_s_search_inp_label",
+    "phoe_s_search_sub_label",
+    "phoe_s_min_num_of_char",
+    "phoe_s_max_num_of_result",
+    "phoe_s_loader_image",
+    "phoe_s_search_field_placeholder",
+    "recently_activated",
+    "max_num_of_result"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tgmpa_dismissed_notice_*",
+    "product_search_ignore_notice"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:20.411Z"
+}

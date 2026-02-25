@@ -1,0 +1,21 @@
+{
+  "options": [
+    "byconsolewooptt_delivery_holiday_sunday_check",
+    "byconsolewooptt_delivery_holiday_saturday_check",
+    "byconsolewooptt_delivery_end_time",
+    "bycproductavailabilit_no_of_days_open_in_calender",
+    "byconsolewooptt_delivery_start_time",
+    "byconsolewooptt_delivery_time_duration",
+    "byconsolewooptt_product_button_text",
+    "byconsolewooptt_no_of_days_open_in_calender",
+    "byconsolewooptt_product_sameday_cutoff_lable"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "byc_enable_for_functions_working"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:03.135Z"
+}

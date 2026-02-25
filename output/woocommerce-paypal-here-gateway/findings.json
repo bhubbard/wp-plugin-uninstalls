@@ -1,0 +1,32 @@
+{
+  "options": [
+    "*_is_active",
+    "*_milestone_messages",
+    "*_milestone_version",
+    "active_sitewide_plugins",
+    "sv_wc_apple_pay_cert_path",
+    "sv_wc_apple_pay_display_locations",
+    "woocommerce_default_country",
+    "sv_wc_apple_pay_enabled",
+    "sv_wc_apple_pay_test_mode",
+    "sv_wc_apple_pay_merchant_id",
+    "sv_wc_apple_pay_payment_gateway",
+    "sv_wc_apple_pay_button_style",
+    "woocommerce_calc_shipping"
+  ],
+  "transients": [
+    "sv_wc_plugin_wc_versions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_dismissed_messages",
+    "billing_*",
+    "shipping_*",
+    "_transaction_id",
+    "*payment_token",
+    "*customer_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:42.961Z"
+}

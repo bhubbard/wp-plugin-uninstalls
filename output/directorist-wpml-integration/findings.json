@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "directorist_wpml_integration:current_language",
+    "directorist_wpml_integration_before_change_current_language"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_directory_type",
+    "_default"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:16.808Z"
+}

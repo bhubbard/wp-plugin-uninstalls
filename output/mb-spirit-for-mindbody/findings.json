@@ -1,0 +1,13 @@
+{
+  "options": [
+    "mb_spirit_options"
+  ],
+  "transients": [
+    "MB_SPIRIT_SETTINGS_INFO"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:39.028Z"
+}

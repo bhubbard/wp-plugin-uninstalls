@@ -1,0 +1,13 @@
+{
+  "options": [
+    "expass_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "expass_password_reset"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:28.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [
+    "easy-popular-posts-*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_easy-popular-posts-pageviews",
+    "_easy-popular-posts-twitter",
+    "_easy-popular-posts-facebook",
+    "_easy-popular-posts-linkedin",
+    "_easy-popular-posts-stumbleupon",
+    "_easy-popular-posts-social",
+    "_easy-popular-posts-comments",
+    "_easy-popular-posts-*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:13.637Z"
+}

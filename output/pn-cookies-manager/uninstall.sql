@@ -1,0 +1,8 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('pn_cookies_manager_options_changed', 'pn_cookies_manager_color_main', 'pn_cookies_manager_bg_color_main', 'pn_cookies_manager_border_color_main', 'pn_cookies_manager_color_main_alt', 'pn_cookies_manager_bg_color_main_alt', 'pn_cookies_manager_border_color_main_alt', 'pn_cookies_manager_color_main_blue', 'pn_cookies_manager_color_main_grey', 'pn_cookies_manager_options_remove', 'pn_cookies_manager_pages_cookie', 'pn_cookies_manager_url_main', 'pn_cookies_manager_redirecting', 'pn_cookies_manager_banner_bg_color', 'pn_cookies_manager_banner_text_color', 'pn_cookies_manager_banner_btn_accept_bg', 'pn_cookies_manager_banner_btn_accept_color', 'pn_cookies_manager_banner_btn_reject_bg', 'pn_cookies_manager_banner_btn_reject_color', 'pn_cookies_manager_banner_btn_settings_color', 'pn_cookies_manager_banner_border_radius', 'pn_cookies_manager_banner_reopen_color', 'pn_cookies_manager_google_consent_mode', 'pn_cookies_manager_cookie_expiry', 'pn_cookies_manager_banner_overlay', 'pn_cookies_manager_banner_settings_text', 'pn_cookies_manager_banner_accept_text', 'pn_cookies_manager_banner_reject_text', 'pn_cookies_manager_banner_position', 'pn_cookies_manager_banner_layout', 'pn_cookies_manager_banner_alignment', 'pn_cookies_manager_banner_title', 'pn_cookies_manager_banner_message', 'pn_cookies_manager_banner_privacy_url', 'pn_cookies_manager_banner_btn_settings_bg', 'pn_cookies_manager_just_activated');
+DELETE FROM wp_options WHERE option_name LIKE '%_id';
+DELETE FROM wp_options WHERE option_name LIKE '%_duration';
+DELETE FROM wp_options WHERE option_name LIKE '%_description';
+

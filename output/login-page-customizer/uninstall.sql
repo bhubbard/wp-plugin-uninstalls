@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('clicklogin_logo', 'clicklogin_logo_width', 'clicklogin_logo_height', 'clicklogin_logo_padding', 'clicklogin_bg', 'clicklogin_bg_color', 'clicklogin_bg_size', 'clicklogin_form_bg', 'clicklogin_form_bg_color', 'clicklogin_form_style_width', 'clicklogin_form_style_height', 'clicklogin_form_style_padding', 'clicklogin_form_style_border', 'clicklogin_field_style_width', 'clicklogin_field_style_margin', 'clicklogin_field_style_ifbg', 'clicklogin_field_style_ifc', 'clicklogin_field_style_lc', 'clicklogin_button_bg', 'clicklogin_button_border', 'clicklogin_button_shadow', 'clicklogin_button_color', 'clicklogin_button_hover_bg', 'clicklogin_button_hover_border', 'clicklogin_other_textColor', 'clicklogin_other_textColorH', 'clicklogin_other_css');
+

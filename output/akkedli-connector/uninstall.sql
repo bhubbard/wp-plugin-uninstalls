@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('active_sitewide_plugins', 'akkedli_api_key', 'akkedli_webhook_url', 'akkedli_api_key_validated', 'akkedli_connected_at', 'akkedli_store_domain', 'akkedli_send_pending', 'akkedli_send_processing');
+

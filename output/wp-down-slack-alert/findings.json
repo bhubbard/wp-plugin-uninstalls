@@ -1,0 +1,24 @@
+{
+  "options": [
+    "settings_slack_notification_recurrence_mail",
+    "settings_slack_notification_disable_email",
+    "settings_slack_notification_channel",
+    "settings_slack_notification_bot_name",
+    "settings_slack_notification_recurrence",
+    "settings_slack_notification_attachment_id",
+    "settings_slack_notification_token",
+    "settings_slack_notification_message_title",
+    "settings_slack_notification_message_footer",
+    "settings_slack_notification_green_disable",
+    "notification_message_title",
+    "notification_message_footer",
+    "settings_slack_notification_status",
+    "wpdsa_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:49.807Z"
+}

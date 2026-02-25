@@ -1,0 +1,28 @@
+{
+  "options": [
+    "keyspider_zhizhu",
+    "keyspider_liuliang",
+    "keyspider_zhizhu_jieduan",
+    "keyspider_tongji",
+    "keyspider_clear",
+    "keyspider_wzt_log",
+    "keyspider_wzt_token3",
+    "keyspider_wzt_token2",
+    "keyspider_wzt_token1",
+    "keyspider_liuliang_diyu_jifen",
+    "keyspider_liuliang_diyu",
+    "keyspider_level",
+    "keyspider_silian"
+  ],
+  "transients": [
+    "keyspider_zhizhu_cache"
+  ],
+  "cron_jobs": [
+    "keyspider_cronhook",
+    "keyspider_five_minute_task_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:10.244Z"
+}

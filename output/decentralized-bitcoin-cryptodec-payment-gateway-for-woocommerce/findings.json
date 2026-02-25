@@ -1,0 +1,18 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "ITLS_dp_gw_task_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cryptodec_best_btc_wallet",
+    "_cryptodec_total",
+    "_cryptodec_transaction_id",
+    "_cryptodec_coin",
+    "_payment_method",
+    "best_btc_wallet"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:45.214Z"
+}

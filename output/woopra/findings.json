@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woopra",
+    "woopra_auto_tag_commentators",
+    "woopra_ignore_admin",
+    "woopra_track_admin",
+    "woopra_show_comments",
+    "woopra_show_searches",
+    "woopra_api_key",
+    "woopra_analytics_tab"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:05.924Z"
+}

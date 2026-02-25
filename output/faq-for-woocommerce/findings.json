@@ -1,0 +1,38 @@
+{
+  "options": [
+    "ffw_general_settings",
+    "ffw_dismiss_discounted_notice",
+    "ffw_coupon_notice_hide",
+    "ffw_review_notice_next_show_time",
+    "ffw_review_notice",
+    "ffw_shop_page_faqs",
+    "ffw_cart_page_faqs",
+    "ffw_checkout_page_faqs",
+    "ffw_post_generation",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "ffw-plugin-info-*"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "ffw_review_notice_dismissed",
+    "ffw_is_global_faq",
+    "ffw_product_faq_post_ids",
+    "ffw_cat_faq_post_ids",
+    "ffw_tag_faq_post_ids",
+    "ffw_faqs_list",
+    "ffw_customer_name",
+    "ffw_customer_email",
+    "ffw_customer_question_location",
+    "ffw_post_ids_for_comment"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:17.362Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "_ai_assistant",
+    "aiWriterCronCheck",
+    "aiRewritesData",
+    "aiArticlesAutoGenData",
+    "aiImagesData",
+    "aiassist_gpt_key",
+    "_aiassist_generator",
+    "activated_time"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_wp_attachment_image_alt",
+    "_aiassist_revision_meta_title",
+    "_aiassist_revision_meta_description",
+    "_aiassist_revision_thumbnail_id",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "rank_math_title",
+    "rank_math_description",
+    "_title",
+    "_description",
+    "_aioseo_title",
+    "_aioseo_description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:30.498Z"
+}

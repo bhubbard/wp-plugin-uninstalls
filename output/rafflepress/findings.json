@@ -1,0 +1,38 @@
+{
+  "options": [
+    "rafflepress_version",
+    "rafflepress_run_activation",
+    "rafflepress_settings",
+    "rafflepress_api_key ",
+    "rafflepress_per",
+    "rafflepress_a",
+    "rafflepress_one_click_upgrade",
+    "rafflepress_api_token",
+    "rafflepress_token",
+    "rafflepress_license_name",
+    "rafflepress_api_key",
+    "rafflepress_api_message",
+    "rafflepress_over_time",
+    "dashboards_disabled",
+    "rafflepress_hide_review",
+    "rafflepress_review",
+    "rafflepress_log",
+    "rafflepress_enable_log",
+    "rafflepress_dismiss_settings_lite_cta",
+    "rafflepress_initial_version"
+  ],
+  "transients": [
+    "_rafflepress_welcome_screen_activation_redirect"
+  ],
+  "cron_jobs": [
+    "rafflepress_notifications_remote",
+    "rafflepress_lite_fetch_help_docs",
+    "seedprod_fetch_help_docs"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_rafflepress_creating_giveaway"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:18.166Z"
+}

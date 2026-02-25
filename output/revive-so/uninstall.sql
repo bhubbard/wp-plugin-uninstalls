@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('reviveso_plugin_dismiss_rating_notice', 'reviveso_plugin_no_thanks_rating_notice', 'reviveso_plugin_dismissed_time', 'reviveso_plugin_installed_time', 'reviveso_hide_permalink_notice', 'reviveso_next_scheduled_timestamp', 'reviveso_next_eligible_date', 'reviveso_last_global_cron_run', 'reviveso_global_republish_post_ids', 'reviveso_plugin_settings', 'wpar_plugin_settings', 'reviveso_show_import_notice', 'wpar_social_credentials', 'wpar_facebook_accounts_db', 'wpar_linkedin_accounts_db', 'wpar_pinterest_accounts_db', 'wpar_twitter_accounts_db', 'wpar_tumblr_accounts_db', 'reviveso_social_credentials', 'reviveso_facebook_accounts_db', 'reviveso_linkedin_accounts_db', 'reviveso_pinterest_accounts_db', 'reviveso_twitter_accounts_db', 'reviveso_tumblr_accounts_db', 'reviveso_republish_log_history', 'reviveso_dashboard_widget_options', 'reviveso_in_progress', 'reviveso_extensions', 'reviveso_import_db_done', 'action_scheduler_last_pastdue_actions_check', 'action_scheduler_admin_notice', 'as_comment_count');
+

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "thinkds_discount_strategy",
+    "thinkds_active_campaigns"
+  ],
+  "transients": [
+    "thinkds_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:37.865Z"
+}

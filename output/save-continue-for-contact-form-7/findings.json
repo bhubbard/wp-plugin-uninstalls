@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dwlscf_save_continue_expiry_days",
+    "dwlscf_draft_cleanup_count",
+    "dwlscf_last_cleanup_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dwlscf_cleanup_expired_drafts"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:54.879Z"
+}

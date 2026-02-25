@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "woocommerce_subscription_epayco_settings",
+    "subscription_epayco_se_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "subscription_id",
+    "id_client"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:40.191Z"
+}

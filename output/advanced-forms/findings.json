@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "entry_form",
+    "form_key",
+    "entry_submission_date",
+    "form_create_entries",
+    "form_num_of_views",
+    "form_num_of_submissions"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:03.560Z"
+}

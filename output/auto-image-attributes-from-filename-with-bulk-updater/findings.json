@@ -1,0 +1,20 @@
+{
+  "options": [
+    "iaff_settings",
+    "iaff_bulk_updater_counter",
+    "abl_iaff_version"
+  ],
+  "transients": [
+    "iaff_activate_image_attributes_pro_plugin_complete",
+    "iaff_activation_admin_notice",
+    "iaff_upgrade_complete_admin_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "iaff_wp_attachment_original_post_title"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:30:47.439Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "youtube_embed_version",
+    "youtube_embed_general",
+    "youtube_embed_shortcode_*",
+    "youtube_embed_shortcode_site",
+    "youtube_embed_shortcode_admin",
+    "youtube_embed_shortcode",
+    "youtube_embed_list*",
+    "youtube_embed_profile*"
+  ],
+  "transients": [
+    "youtubeembed_*"
+  ],
+  "cron_jobs": [
+    "housekeep_ye_transients"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:38:05.820Z"
+}

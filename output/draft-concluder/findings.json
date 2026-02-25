@@ -1,0 +1,19 @@
+{
+  "options": [
+    "draft_concluder_time",
+    "draft_concluder_prev_time",
+    "draft_concluder_when",
+    "draft_concluder_what",
+    "draft_concluder_age",
+    "draft_concluder_since",
+    "draft_concluder_output"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "draft_concluder_mailer"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:22.266Z"
+}

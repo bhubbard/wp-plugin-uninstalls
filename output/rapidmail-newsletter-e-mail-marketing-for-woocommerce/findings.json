@@ -1,0 +1,16 @@
+{
+  "options": [
+    "rapidmail_consumer_key",
+    "rapidmail_secret_key",
+    "rapidmail_connector",
+    "rapidmail_connector_newsletter"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rapidmail_newsletter"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:54:56.457Z"
+}

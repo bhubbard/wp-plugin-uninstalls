@@ -1,0 +1,19 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "*nextMonitorUpdate",
+    "*Gather",
+    "ImfsPage",
+    "imfsQueryMonitor",
+    "imfsQueryMonitornextMonitorUpdate",
+    "imfsQueryMonitorGather"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dismissed_wp_pointers"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:55.194Z"
+}

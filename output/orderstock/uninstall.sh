@@ -1,0 +1,133 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'tulipwork_orderstock_admin_emails'
+wp option delete 'tulipwork_orderstock_company_name'
+wp option delete 'tulipwork_orderstock_company_address'
+wp option delete 'tulipwork_orderstock_company_phone'
+wp option delete 'tulipwork_orderstock_company_email'
+wp option delete 'tulipwork_orderstock_company_siret'
+wp option delete 'tulipwork_orderstock_tax_rate_1'
+wp option delete 'tulipwork_orderstock_tax_rate_2'
+wp option delete 'tulipwork_orderstock_tax_rate_3'
+wp option delete 'orderstock_order_mode'
+wp option delete 'tulipwork_orderstock_delete_data_on_uninstall'
+wp option delete 'orderstock_pro_central_kitchen_enabled'
+wp option delete 'orderstock_pro_central_kitchen'
+wp option delete 'tulipwork_orderstock_pdf_tokens'
+wp option delete 'tulipwork_orderstock_supplier_migration_done'
+wp option delete 'tulipwork_orderstock_price_migration_done'
+
+# Clear Cron Jobs
+wp cron event delete 'tulipwork_orderstock_cleanup_temp_files'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_phone'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_phone'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_phone'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_phone'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_email'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_email'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_email'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_email'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_min_order_threshold'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_min_order_threshold'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_min_order_threshold'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_min_order_threshold'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_title_lowercase'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_title_lowercase'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_title_lowercase'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_title_lowercase'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key LIKE '_%'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_stock'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_replenishment_period'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_replenishment_period'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_replenishment_period'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_replenishment_period'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_daily_sales'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_daily_sales'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_daily_sales'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_daily_sales'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_packaging_unit'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_packaging_unit'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_packaging_unit'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_packaging_unit'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_packaging_quantity'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_packaging_quantity'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_packaging_quantity'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_packaging_quantity'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_max_quantity'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_max_quantity'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_max_quantity'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_max_quantity'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_decimal_precision'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_decimal_precision'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_decimal_precision'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_decimal_precision'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_tax_rate'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_tax_rate'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_tax_rate'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_tax_rate'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_critical_threshold'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_critical_threshold'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_critical_threshold'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_critical_threshold'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_target_stock'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_target_stock'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_target_stock'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_target_stock'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_product_order_mode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_product_order_mode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_product_order_mode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_product_order_mode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_assigned_stores'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_assigned_stores'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_assigned_stores'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_assigned_stores'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_store_order_mode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_store_order_mode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_store_order_mode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_store_order_mode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_supplier'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_supplier'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_supplier'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_supplier'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_suppliers'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_suppliers'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_suppliers'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_suppliers'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_prices_excl_tax'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_prices_excl_tax'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_prices_excl_tax'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_prices_excl_tax'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_name_lowercase'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_name_lowercase'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_name_lowercase'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_name_lowercase'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_delivery_address'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_delivery_address'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_delivery_address'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_delivery_address'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_orderstock_assigned_stores'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_orderstock_assigned_stores'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_orderstock_assigned_stores'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_orderstock_assigned_stores'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_is_internal_recipe'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_is_internal_recipe'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_is_internal_recipe'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_is_internal_recipe'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_price_excl_tax'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_price_excl_tax'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_price_excl_tax'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_price_excl_tax'"

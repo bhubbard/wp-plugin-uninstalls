@@ -1,0 +1,32 @@
+{
+  "options": [
+    "cx_redirect_user",
+    "cx_convert_serialize_to_json",
+    "hide_couponx_plugins",
+    "cx_wc_popup",
+    "cx_total_widget",
+    "*_hide_review_box",
+    "*_show_review_box_after",
+    "hide_coupon-x_cta"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "prm_cx_widget_data",
+    "version",
+    "status",
+    "coupon_type",
+    "widget_type",
+    "cx_widget_id",
+    "start_date",
+    "end_date",
+    "coupon",
+    "visitor",
+    "widget_open",
+    "discount_type",
+    "coupon_amount"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:06.677Z"
+}

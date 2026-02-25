@@ -1,0 +1,13 @@
+{
+  "options": [
+    "botsailor_abandoned_cart_webhook_url"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "botsailor_check_abandoned_carts"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:32.203Z"
+}

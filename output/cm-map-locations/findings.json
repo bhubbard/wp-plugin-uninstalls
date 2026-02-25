@@ -1,0 +1,24 @@
+{
+  "options": [
+    "rewrite_rules",
+    "sidebars_widgets",
+    "cmmrm_permalink_prefix",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins",
+    "cmloc_AddWizardMenu",
+    "cmloc_index_menu_enable",
+    "cmloc_google_maps_app_key"
+  ],
+  "transients": [
+    "cmlocf_refresh_404_permalinks"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:08.945Z"
+}

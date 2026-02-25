@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_pensopay_settings",
+    "woocommerce_thanks_page_id",
+    "woocommerce_cart_page_id",
+    "*_turn_off_automatic_payments",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woocommerce_pensopay_version",
+    "woocommerce_pensopay_maintenance",
+    "woocommerce_email_footer_text",
+    "active_sitewide_plugins",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [
+    "wcpp_transaction_*",
+    "_wcpp_admin_notices",
+    "_wcpp_admin_runtime_errors"
+  ],
+  "cron_jobs": [
+    "pensopay_virtualpayments_update"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "TRANSACTION_ID",
+    "success",
+    "errors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:52.336Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "cmf_footnoteSimpleFilterPriority",
+    "cmf_footnote_recorded_plugin_version",
+    "*-registration-skipped",
+    "*-registered",
+    "*-was-registered",
+    "active_sitewide_plugins",
+    "cmf_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_footnote_disable_footnote_for_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:53.576Z"
+}

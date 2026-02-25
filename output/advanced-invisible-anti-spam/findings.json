@@ -1,0 +1,14 @@
+{
+  "options": [
+    "aia_previous_field_key",
+    "aia_current_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "update_aia_key"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:38.961Z"
+}

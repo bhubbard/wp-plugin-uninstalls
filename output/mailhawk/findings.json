@@ -1,0 +1,33 @@
+{
+  "options": [
+    "mailhawk_default_from_name",
+    "mailhawk_default_from_email_address",
+    "mailhawk_log_retention_in_days",
+    "mailhawk_disable_email_logging",
+    "mailhawk_retry_failed_emails",
+    "mailhawk_failed_email_retries",
+    "mailhawk_mta_credential_key",
+    "mailhawk_license_server_token",
+    "mailhawk_delete_all_data",
+    "mailhawk_ms_sender_domain",
+    "*_db_version",
+    "mailhawk_is_connected",
+    "mailhawk_access_token",
+    "active_sitewide_plugins",
+    "*_dates"
+  ],
+  "transients": [
+    "mailhawk_is_suspended",
+    "mailhawk_email_usage"
+  ],
+  "cron_jobs": [
+    "mailhawk/send_quarantine_notice",
+    "mailhawk/monthly",
+    "mailhawk_trim_log_entries",
+    "mailhawk_retry_failed_emails"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:07.140Z"
+}

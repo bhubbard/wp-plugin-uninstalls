@@ -1,0 +1,32 @@
+{
+  "options": [
+    "canalblog_importer_blog_uri",
+    "canalblog_overwrite_contents",
+    "canalblog_comments_status",
+    "canalblog_trackbacks_status",
+    "canalblog_importer_step",
+    "canalblog_importer_archives_current_index"
+  ],
+  "transients": [
+    "canalblog_have_finished_archives",
+    "canalblog_months",
+    "canalblog_step_offset",
+    "canalblog_permalinks",
+    "canalblog_have_finished_categories",
+    "canalblog_categories",
+    "canalblog_have_finished_cleanup",
+    "canalblog_have_finished_posts",
+    "canalblog_have_finished_tags",
+    "canalblog_tags",
+    "canalblog_post_uris"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "canalblog_id",
+    "canalblog_uri",
+    "canalblog_attachment_uri"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:51.149Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wpc_disallow_copy_content",
+    "wpc_disallow_f12",
+    "wpc_disallow_f12_msg",
+    "wpc_disallow_right_click",
+    "wpc_right_click_msg",
+    "wpc_disallow_drag",
+    "wpc_alert_style",
+    "wpc_hide_alert",
+    "wpc_debug_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:26.637Z"
+}

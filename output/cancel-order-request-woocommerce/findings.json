@@ -1,0 +1,30 @@
+{
+  "options": [
+    "pi_cord_do_activation_redirect",
+    "pi_corw_do_activation_redirect",
+    "pi_corw_enable_wallet_refund",
+    "pi_corw_user_choice_for_wallet_refund",
+    "woocommerce_myaccount_page_id",
+    "pi_corw_make_reason_required",
+    "pi_corw_reorder_go_to_cart_button_text",
+    "pi_corw_reorder_go_to_checkout_button_text",
+    "pi_corw_reorder_button_background_color",
+    "pi_corw_reorder_button_text_color",
+    "pi_corw_reorder_error_background_color",
+    "pi_corw_reorder_success_background_color",
+    "pi_corw_disable_order_completion_email",
+    "pi_corw_give_refund_in_wallet",
+    "pi_corw_show_reorder_on_view_order_page",
+    "pi_corw_reorder_button_text",
+    "pi_corw_reorder_replace_cart_button_text",
+    "pi_corw_reorder_merge_cart_button_text",
+    "woocommerce_email_header_image",
+    "woocommerce_email_footer_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:59.266Z"
+}

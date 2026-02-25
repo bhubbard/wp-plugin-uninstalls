@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_settings"
+  ],
+  "transients": [
+    "apg_shipping_clases_envio",
+    "apg_shipping_roles_usuario",
+    "apg_shipping_atributos",
+    "apg_shipping_icono_*",
+    "apg_shipping_metodos_de_pago",
+    "apg_shipping_zonas_de_envio",
+    "apg_free_shipping_plugin",
+    "apg_shipping_*",
+    "apg_shipping_metodos_envio_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:24.065Z"
+}

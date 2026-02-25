@@ -1,0 +1,15 @@
+{
+  "options": [
+    "brenwp_csm_activity_log"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "brenwp_csm_prune_activity_log"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "brenwp_csm_twofa_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:27.274Z"
+}

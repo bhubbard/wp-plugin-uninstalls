@@ -1,0 +1,40 @@
+{
+  "options": [
+    "woocommerce_thanks_page_id",
+    "woocommerce_cart_page_id",
+    "woocommerce_price_decimal_sep",
+    "woocommerce_price_thousand_sep",
+    "woo_freepay_version",
+    "woo_freepay_settings",
+    "woo_freepay_maintenance"
+  ],
+  "transients": [
+    "wcfp_transaction_*",
+    "_wcfp_admin_notices",
+    "_wcfp_admin_runtime_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ageverification",
+    "FREEPAY_PAYMENT_ID",
+    "FREEPAY_PAYMENT_LINK",
+    "FREEPAY_PAYMENT_IDENTIFIER",
+    "FREEPAY_AUTH_STEP",
+    "wps_subscription_id",
+    "wps_sfw_subscription_free_trial_number",
+    "wps_sfw_subscription_free_trial_interval",
+    "wps_sfw_subscription_number",
+    "wps_sfw_subscription_interval",
+    "wps_sfw_subscription_expiry_number",
+    "wps_sfw_subscription_expiry_interval",
+    "_payment_method",
+    "_freepay_transaction_id",
+    "_transaction_id_original",
+    "TRANSACTION_ID",
+    "wps_subscription_status",
+    "wps_sfw_renewal_order"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:58.757Z"
+}

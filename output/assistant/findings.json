@@ -1,0 +1,28 @@
+{
+  "options": [
+    "fl_assistant_export_file",
+    "astra-settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_fl_asst_preview_library_item_id",
+    "_thumbnail_id",
+    "_fl_asst_code",
+    "_fl_asst_code_type",
+    "_fl_asst_code_locations",
+    "_fl_builder_enabled",
+    "fl_asst_notation_label_id",
+    "_wp_page_template",
+    "_wp_trash_meta_status",
+    "_fl_asst_enable",
+    "first_name",
+    "last_name",
+    "nickname",
+    "_fl_asst_imported_media_hash"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:33.650Z"
+}

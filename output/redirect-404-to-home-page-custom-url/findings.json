@@ -1,0 +1,13 @@
+{
+  "options": [
+    "rdtcp_enable",
+    "rdtcp_redirect_type",
+    "rdtcp_custom_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:41:37.909Z"
+}

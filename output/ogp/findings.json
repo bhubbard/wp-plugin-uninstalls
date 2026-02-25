@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ogp"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ogp__open_graph_pro"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:03.642Z"
+}

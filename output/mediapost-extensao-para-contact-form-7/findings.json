@@ -1,0 +1,20 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cf7mediapost_consumer_key",
+    "_cf7mediapost_consumer_secret",
+    "_cf7mediapost_token",
+    "_cf7mediapost_token_secret",
+    "_cf7mediapost_campo_*",
+    "_cf7mediapost_enabled",
+    "_cf7mediapost_lista",
+    "_cf7mediapost_form_fields",
+    "_cf7mediapost_conta",
+    "_cf7mediapost_campo_email"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:15.220Z"
+}

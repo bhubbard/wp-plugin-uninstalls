@@ -1,0 +1,18 @@
+{
+  "options": [
+    "smarcltr_options",
+    "smarcltr_db_version"
+  ],
+  "transients": [
+    "smarcltr_all_trackers",
+    "smarcltr_dashboard_stats",
+    "smarcltr_tracker_stats_*"
+  ],
+  "cron_jobs": [
+    "smarcltr_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:04:33.699Z"
+}

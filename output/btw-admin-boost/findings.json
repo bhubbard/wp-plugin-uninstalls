@@ -1,0 +1,17 @@
+{
+  "options": [
+    "btwab_regen_thumbnails_running",
+    "btwab_regen_thumbnails_offset",
+    "btwab_settings",
+    "btwab_admin_ux",
+    "btwab_admin_ux_roles"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "btwab_regen_thumbnails_job"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:38:26.086Z"
+}

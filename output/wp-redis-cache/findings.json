@@ -1,0 +1,24 @@
+{
+  "options": [
+    "ajc_exceptions",
+    "minify_enabled_check",
+    "minify_css_on",
+    "head_detect",
+    "foot_detect",
+    "css_load_type",
+    "css_minify",
+    "cssminify_enabled",
+    "rediscache_enabled",
+    "rediscache_server",
+    "rediscache_port",
+    "rediscache_pass",
+    "rediscache_database",
+    "rediscache_ttl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:46.958Z"
+}

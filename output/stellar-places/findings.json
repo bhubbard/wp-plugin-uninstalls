@@ -1,0 +1,25 @@
+{
+  "options": [
+    "stellar_places_google_maps_api_key",
+    "stellar_places_default_map_icon",
+    "stellar_places_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_stlr_places_custom_icon",
+    "_stlr_places_latitude",
+    "geo_latitude",
+    "_stlr_places_longitude",
+    "geo_longitude",
+    "_stlr_places_formatted_address",
+    "_stlr_places_street_address",
+    "_stlr_places_locality",
+    "_stlr_places_region",
+    "_stlr_places_postal_code",
+    "_stlr_places_country"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:49.971Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [
+    "fx-builder",
+    "fx-builder_welcome",
+    "fx-builder_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fxb_row_ids",
+    "_fxb_rows",
+    "_fxb_items",
+    "_fxb_active",
+    "_fxb_db_version",
+    "_fxb_custom_css",
+    "_fxb_custom_css_disable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:42.452Z"
+}

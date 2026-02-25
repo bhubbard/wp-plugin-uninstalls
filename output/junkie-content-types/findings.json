@@ -1,0 +1,27 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "junkie_types_doctor_education",
+    "junkie_types_doctor_work_days",
+    "junkie_types_doctor_twitter_url",
+    "junkie_types_doctor_facebook_url",
+    "junkie_types_doctor_googleplus_url",
+    "junkie_types_doctor_linkedin_url",
+    "junkie_types_slider_url",
+    "junkie_types_team_twitter_url",
+    "junkie_types_team_facebook_url",
+    "junkie_types_team_googleplus_url",
+    "junkie_types_team_linkedin_url",
+    "junkie_types_team_pinterest_url",
+    "junkie_types_team_dribbble_url",
+    "junkie_types_testimonial_website_name",
+    "junkie_types_testimonial_website_url",
+    "junkie_types_testimonial_age",
+    "junkie_types_testimonial_role"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:17.698Z"
+}

@@ -1,0 +1,53 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'pipe_line_plugin_options'
+wp option delete 'pipe_line_render_options'
+wp option delete 'ldpipe_wizard_config'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_step_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_step_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_step_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_step_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_slug'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_slug'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_slug'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_slug'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_funnel_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_funnel_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_funnel_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_funnel_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_funnel_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_funnel_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_funnel_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_funnel_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_step_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_step_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_step_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_step_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_step_name'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_step_name'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_step_name'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_step_name'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_display_method'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_display_method'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_display_method'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_display_method'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_include_tracking_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_include_tracking_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_include_tracking_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_include_tracking_code'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_step_meta'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_step_meta'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_step_meta'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_step_meta'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_step_trackingCode'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_step_trackingCode'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_step_trackingCode'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_step_trackingCode'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pl_funnel_tracking_code'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pl_funnel_tracking_code'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pl_funnel_tracking_code'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pl_funnel_tracking_code'"

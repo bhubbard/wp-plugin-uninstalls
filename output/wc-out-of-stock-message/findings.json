@@ -1,0 +1,32 @@
+{
+  "options": [
+    "woocommerce_out_of_stock_message",
+    "woocommerce_out_of_stock",
+    "wcosm_badge_position",
+    "*_tracking_last_send",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "wcosm_active",
+    "woocommerce_stock_email_recipient",
+    "wcosm_email_admin",
+    "woocommerce_manage_stock",
+    "wcosm_deactive",
+    "woocommerce_email_footer_text",
+    "woocommerce_prices_include_tax"
+  ],
+  "transients": [
+    "*_cached_promos"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_out_of_stock_msg",
+    "_wcosm_use_global_note",
+    "_wcosm_is_var",
+    "_wcosm_var_msg"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:43:41.369Z"
+}

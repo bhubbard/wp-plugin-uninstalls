@@ -1,0 +1,19 @@
+{
+  "options": [
+    "etracker_settings",
+    "active_sitewide_plugins",
+    "etracker_db_version"
+  ],
+  "transients": [
+    "etracker_notice_enable_integrated_reporting",
+    "etracker_customer_polling"
+  ],
+  "cron_jobs": [
+    "etracker_cron_fetch_reports",
+    "etracker_cron_cleanup_logging"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:33.596Z"
+}

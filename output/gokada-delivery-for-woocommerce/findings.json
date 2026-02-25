@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_Gokada_delivery_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gokada_delivery_failed",
+    "gokada_delivery_order_id",
+    "gokada_delivery_pickup_tracking_url",
+    "gokada_order_status",
+    "gokada_delivery_delivery_tracking_url",
+    "gokada_delivery_order_response"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:34.344Z"
+}

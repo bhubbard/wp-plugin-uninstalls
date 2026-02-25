@@ -1,0 +1,37 @@
+{
+  "options": [
+    "boldermail_url",
+    "*_size_w",
+    "*_size_h",
+    "*_crop",
+    "boldermail_queue_flush_rewrite_rules",
+    "boldermail_instagram_integration",
+    "boldermail_add_default_templates",
+    "boldermail_default_templates",
+    "boldermail_active_version",
+    "boldermail_is_upgrading",
+    "boldermail_previous_version",
+    "boldermail_api",
+    "boldermail_app",
+    "boldermail_siteurl"
+  ],
+  "transients": [
+    "doing_cron"
+  ],
+  "cron_jobs": [
+    "boldermail_subscribers_update",
+    "boldermail_instagram_integration_refresh_token",
+    "boldermail_scheduled_newsletter_rss_feed"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_preview",
+    "_parent_meta_key",
+    "_use_block_editor",
+    "_block_template_post_id",
+    "_template_style",
+    "_html"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:59.217Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [
+    "multisite-new-user-form"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "primary_blog",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:34.748Z"
+}

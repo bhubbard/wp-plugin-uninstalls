@@ -1,0 +1,32 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "alg_wc_add_to_cart_button_labels_enabled",
+    "alg_wc_add_to_cart_button_labels_version",
+    "alg_wc_add_to_cart_button_labels_all_products_*",
+    "*_enabled",
+    "woocommerce_version",
+    "alg_wc_add_to_cart_per_category_enabled_group_*",
+    "alg_wc_add_to_cart_per_category_ids_group_*",
+    "alg_wc_atcbl_per_tag_group_enabled",
+    "alg_wc_atcbl_per_tag_group_ids",
+    "alg_wc_atcbl_per_tag_group_label_*",
+    "alg_wc_atcbl_per_user_role_group_enabled",
+    "alg_wc_atcbl_per_user_role_group_roles",
+    "alg_wc_atcbl_per_user_role_group_label_*",
+    "alg_wc_atcbl_per_user_group_enabled",
+    "alg_wc_atcbl_per_user_group_users",
+    "alg_wc_atcbl_per_user_group_label_*",
+    "*_reset"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*single",
+    "*archive",
+    "_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:45.182Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "diyassist_api_checkbox",
+    "diyassist_publishkey",
+    "diyassist_securitytoken"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_diy_credit",
+    "_diy_discount_type",
+    "diy_total",
+    "first_name",
+    "last_name",
+    "billing_phone",
+    "billing_address_1",
+    "diyassist_user",
+    "diy_msg",
+    "_customer_user"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:24.254Z"
+}

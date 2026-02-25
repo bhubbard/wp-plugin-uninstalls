@@ -1,0 +1,36 @@
+{
+  "options": [
+    "spamblocker_ai_comments_enabled",
+    "spamblocker_ai_fallback_count",
+    "spamblocker_ai_api_provider",
+    "*_api_key",
+    "spamblocker_ai_gemini_api_key",
+    "spamblocker_ai_openai_api_key",
+    "spamblocker_ai_gemini_model",
+    "spamblocker_ai_openai_model",
+    "spamblocker_ai_log_spam",
+    "spamblocker_ai_log_ip_user_agent",
+    "spamblocker_ai_error_message",
+    "spamblocker_ai_debug",
+    "spamblocker_ai_gemini_available_models",
+    "spamblocker_ai_openai_available_models",
+    "spamblocker_ai_fallback_notice_dismissed",
+    "spamblocker_ai_version",
+    "spamblocker_ai_api_error_message",
+    "spamblocker_ai_rate_limit_count"
+  ],
+  "transients": [
+    "spamblocker_ai_notice_*",
+    "spamblocker_ai_gemini_models_full_data",
+    "spamblocker_ai_gemini_models_cache",
+    "spamblocker_ai_openai_models_cache",
+    "spamblocker_ai_error_form_*"
+  ],
+  "cron_jobs": [
+    "spamblocker_ai_cleanup_logs"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:18.483Z"
+}

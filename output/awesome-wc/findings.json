@@ -1,0 +1,30 @@
+{
+  "options": [
+    "*_enabled",
+    "*_sunday",
+    "*_monday",
+    "*_tuesday",
+    "*_wednesday",
+    "*_thursday",
+    "*_friday",
+    "*_saturday",
+    "*_highlightCurrent",
+    "*_highlightStyle",
+    "*_highlightColor",
+    "*_currentDayOnly",
+    "*_dense",
+    "*_format24hour",
+    "*_license_key",
+    "*_license",
+    "*_first_name",
+    "*_last_name",
+    "*_email",
+    "*_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:36.124Z"
+}

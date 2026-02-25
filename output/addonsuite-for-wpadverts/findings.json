@@ -1,0 +1,17 @@
+{
+  "options": [
+    "adosui_slug_options_settings",
+    "adosui_submit_advert_options_settings",
+    "adosui_display_advert_options_settings",
+    "adosui_search_advert_options_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_expiration_date"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:01:52.077Z"
+}

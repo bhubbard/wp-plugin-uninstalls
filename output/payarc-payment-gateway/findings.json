@@ -1,0 +1,27 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "*_is_active",
+    "*_milestone_messages",
+    "*_milestone_version",
+    "woocommerce_tax_based_on",
+    "woocommerce_default_country",
+    "sv_wc_apple_pay_cert_path",
+    "sv_wc_apple_pay_merchant_id",
+    "woocommerce_calc_shipping"
+  ],
+  "transients": [
+    "payarc_account_settings",
+    "sv_wc_plugin_wc_versions"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_dismissed_messages",
+    "billing_*",
+    "shipping_*",
+    "*_migrated"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:46.486Z"
+}

@@ -1,0 +1,51 @@
+{
+  "options": [
+    "qcf_legacy_free",
+    "quick-contact-form-settings-1",
+    "quick-contact-form-settings-2",
+    "post-smtp-recommendation-notice-hidden",
+    "post_smtp_global_recommendation_notice_hidden",
+    "qcf_messages*",
+    "qcf_akismet",
+    "qcf_messageoptions",
+    "qcf_settings*",
+    "qcf_attach*",
+    "qcf_style*",
+    "qcf_reply*",
+    "qcf_error*",
+    "qcf_setup",
+    "qcf_email",
+    "qcf_autoresponder*",
+    "qcf_emailmessage",
+    "qcf_emails*",
+    "qcf_redirect*",
+    "qcf_message",
+    "qpp_key",
+    "qcf_smtp",
+    "qcf_mailinglist",
+    "qcf_activecampaign",
+    "qcf_newlist",
+    "qcf_collected",
+    "qcf_wallace",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins"
+  ],
+  "transients": [
+    "qcf-admin-notice",
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:21.579Z"
+}

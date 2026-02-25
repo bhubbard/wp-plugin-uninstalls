@@ -1,0 +1,14 @@
+{
+  "options": [
+    "theme_versioning_settings",
+    "theme_versioning_adapters",
+    "theme_versioning_selected_adapter_class",
+    "theme_versioning_ui_mode"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:42.408Z"
+}

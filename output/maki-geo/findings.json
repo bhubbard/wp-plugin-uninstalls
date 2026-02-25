@@ -1,0 +1,15 @@
+{
+  "options": [
+    "mgeo_geo_rules",
+    "mgeo_client_server_mode",
+    "mgeo_api_key",
+    "mgeo_monthly_requests",
+    "mgeo_request_limit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:32.538Z"
+}

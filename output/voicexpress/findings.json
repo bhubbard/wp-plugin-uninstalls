@@ -1,0 +1,40 @@
+{
+  "options": [
+    "_voicexpress_affiliate_code",
+    "voicexpress_crontab",
+    "voicexpress_player",
+    "voicexpress_theme",
+    "voicexpress_show_spotify_icon",
+    "voicexpress_spotify_url",
+    "voicexpress_hide_download",
+    "voicexpress_hide_text",
+    "voicexpress_enable_spotify",
+    "voicexpress_single_start",
+    "voicexpress_single_end",
+    "voicexpress_auto",
+    "voicexpress_credits",
+    "voicexpress_voice",
+    "voicexpress_secret_key",
+    "voicexpress_podcast_rss",
+    "voicexpress_podcast_title",
+    "voicexpress_podcast_description",
+    "voicexpress_promo_code",
+    "voicexpress_promo_code_used",
+    "voicexpress_cache_*",
+    "voicexpress_account_connected"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "voicexpress_send_post"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_voicexpress_audio",
+    "_voicexpress_gerar_audio",
+    "_voicexpress_voice",
+    "voicexpress_hash",
+    "voicexpress_sent"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:06.281Z"
+}

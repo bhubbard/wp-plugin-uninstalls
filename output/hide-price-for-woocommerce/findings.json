@@ -1,0 +1,18 @@
+{
+  "options": [
+    "hide-price-by-role",
+    "replace_price_by_text",
+    "status-hpfwc",
+    "status-hide-price-by-role",
+    "hpfwc-display-type",
+    "hpfwc-form-type",
+    "custom-redirect-url",
+    "hpfwc-custom-text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:16.699Z"
+}

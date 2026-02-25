@@ -1,0 +1,28 @@
+{
+  "options": [
+    "next_open_google_maps_api",
+    "next_open_layout_type",
+    "next_open_initial_slots",
+    "next_open_email_from_name",
+    "next_open_email_from_address",
+    "next_open_categories",
+    "next_open_version",
+    "next_open_settings",
+    "next_open_delete_on_uninstall"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "next_open_send_reminders"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_next_open_address",
+    "_next_open_latitude",
+    "_next_open_longitude",
+    "_next_open_phone",
+    "_next_open_website",
+    "_next_open_interval"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:23.743Z"
+}

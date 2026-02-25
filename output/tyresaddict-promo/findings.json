@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*deferred-admin-notices"
+  ],
+  "transients": [
+    "*badges",
+    "*.update_info"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "promo_priority",
+    "show_promo",
+    "show_product_page",
+    "show_product_cart",
+    "show_cart_badge",
+    "promo_from",
+    "promo_to",
+    "promo_text",
+    "promo_image",
+    "offers_link",
+    "promo_badge",
+    "product_page_link",
+    "show_product_card",
+    "product_card_actual",
+    "product_icon",
+    "badge_text",
+    "badge_color",
+    "badge_bgcolor",
+    "products_in"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:19.537Z"
+}

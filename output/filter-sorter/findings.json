@@ -1,0 +1,14 @@
+{
+  "options": [
+    "filter_sorter_display_options",
+    "filter_sorter_social_options",
+    "sorter_display_options",
+    "sorter_social_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:27:39.750Z"
+}

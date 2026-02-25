@@ -1,0 +1,18 @@
+{
+  "options": [
+    "simsf_token",
+    "simsf_user_media",
+    "simsf_access_token",
+    "simsf_user",
+    "simsf_update_schedule",
+    "simsf_notification_email"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sim_social_feed_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:52.577Z"
+}

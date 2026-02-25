@@ -1,0 +1,16 @@
+{
+  "options": [
+    "OGC_resolved",
+    "OGC_options",
+    "OGC_avatarUsedSizes",
+    "OGC_apacheConfig"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "OGC_CronEvent"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:03:11.876Z"
+}

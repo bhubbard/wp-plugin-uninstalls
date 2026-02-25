@@ -1,0 +1,17 @@
+{
+  "options": [
+    "idealien_ml2msls_options",
+    "ml2msls_options",
+    "msls_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpml2wpms_*",
+    "_wpml2wpms_baseLanguage",
+    "_wpml2wpms_transLanguages"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:52.108Z"
+}

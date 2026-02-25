@@ -1,0 +1,19 @@
+{
+  "options": [
+    "coderockz_advance_cod_restriction_settings",
+    "coderockz_advance_cod_localization_settings",
+    "coderockz_advance_cod_large_product_list",
+    "coderockz-wc-advance-cod-free-activation-time",
+    "coderockz-woo-delivery-license-status",
+    "woocommerce_currency_pos"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_virtual",
+    "_downloadable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:06.670Z"
+}

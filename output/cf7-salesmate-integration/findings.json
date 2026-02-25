@@ -1,0 +1,27 @@
+{
+  "options": [
+    "cf7_salesmate_domain",
+    "cf7_salesmate_accesskey",
+    "cf7_salesmate_privatekey",
+    "cf7_salesmate_token",
+    "my_cf7_salesmate_forms"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "owner",
+    "enabledeal",
+    "record",
+    "contact_*",
+    "contact_currency",
+    "dealsalesmate_*",
+    "dealsalesmate_currency",
+    "dealsalesmate_source",
+    "dealsalesmate_priority",
+    "dealsalesmate_pipeline",
+    "dealsalesmate_stage"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:21.598Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "pricetrfo_display_on_product_page",
+    "pricetrfo_ph_line_color",
+    "pricetrfo_ph_pointer_color",
+    "pricetrfo_ph_label",
+    "pricetrfo_button_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:36.854Z"
+}

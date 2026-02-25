@@ -1,0 +1,28 @@
+{
+  "options": [
+    "*update_notice_needed",
+    "*update_redirection_needed",
+    "*owner_notice_dismissed",
+    "c4wp_v3_failover_available",
+    "c4wp_admin_options",
+    "disallowed_keys",
+    "c4wp_network_notice_dismissed",
+    "c4wp_update_redirection_needed",
+    "c4wp_70_upgrade_complete",
+    "anr_admin_options",
+    "active_sitewide_plugins",
+    "c4wp_redirect_after_activation",
+    "fs_c4wp"
+  ],
+  "transients": [
+    "c4wp_admin_options_errors",
+    "c4wp_config_file_hash"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nocaptcha_plugin_notice_ignore"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:38.205Z"
+}

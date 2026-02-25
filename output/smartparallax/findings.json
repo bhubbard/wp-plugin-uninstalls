@@ -1,0 +1,13 @@
+{
+  "options": [
+    "*_do_activation_redirect",
+    "*_tracking_enabled",
+    "*_menu_type"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:24:04.672Z"
+}

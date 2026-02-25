@@ -1,0 +1,17 @@
+{
+  "options": [
+    "quform_zapier_activated",
+    "quform_zapier_db_version",
+    "quform_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "quform_zapier_integrations_order_by",
+    "quform_zapier_integrations_order",
+    "quform_zapier_integrations_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:58.447Z"
+}

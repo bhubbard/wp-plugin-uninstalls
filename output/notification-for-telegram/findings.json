@@ -1,0 +1,25 @@
+{
+  "options": [
+    "telegram_notify_option_name",
+    "telegram_notify_option_name_tab2",
+    "telegram_notify_option_name_tab3",
+    "telegram_notify_option_name_tab4",
+    "telegram_notify_option_name_tab5",
+    "nftb_fix_1",
+    "nftb_new_order_id_for_notification_*"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [
+    "nftb_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "Telegram",
+    "nftb_ignore_notyyy",
+    "votes_count"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:44.473Z"
+}

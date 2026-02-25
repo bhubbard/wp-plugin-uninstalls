@@ -1,0 +1,17 @@
+{
+  "options": [
+    "stock_message_for_woocommerce_button_settings",
+    "stock_message_for_woocommerce_form_settings",
+    "stock_messages_table_created",
+    "stock_message_for_woocommerce_email_settings"
+  ],
+  "transients": [
+    "stock_message_verify_*",
+    "stock_message_test_email_last_sent"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:04.978Z"
+}

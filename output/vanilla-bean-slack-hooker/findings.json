@@ -1,0 +1,16 @@
+{
+  "options": [
+    "vbean_slack_hooker_lastmessage"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "vbeanschedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "qquuid",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:20:15.805Z"
+}

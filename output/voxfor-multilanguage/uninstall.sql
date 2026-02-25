@@ -1,0 +1,60 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('voxfor_ml_default_language', 'voxfor_ml_languages', 'voxfor_ml_auto_redirect', 'voxfor_ml_first_visit_only', 'voxfor_ml_batch_size', 'voxfor_ml_rate_limit', 'voxfor_ml_enable_hreflang', 'voxfor_ml_translate_slugs', 'voxfor_ml_translate_image_alt', 'voxfor_ml_widget_style', 'voxfor_ml_show_flags', 'voxfor_ml_show_native_names', 'voxfor_ml_floating_switcher', 'voxfor_ml_floating_position', 'voxfor_ml_cache_ttl', 'voxfor_ml_enable_visual_editor', 'voxfor_ml_woocommerce_compat', 'voxfor_ml_cache_vary_cookie', 'voxfor_ml_enable_object_cache', 'voxfor_ml_deepl_api_key', 'voxfor_ml_api_key_changed', 'voxfor_ml_api_key_original', 'voxfor_ml_display_label', 'voxfor_ml_display_flag', 'voxfor_ml_display_prefix', 'voxfor_ml_immediate_translation', 'voxfor_ml_noindex_preparing', 'voxfor_ml_include_post_tags_sitemap', 'voxfor_ml_include_product_tags_sitemap', 'voxfor_ml_show_names', 'voxfor_ml_enable_lazy_loading', 'voxfor_ml_wc_translate_products', 'voxfor_ml_wc_translate_categories', 'voxfor_ml_wc_translate_attributes', 'voxfor_ml_wc_translate_ui', 'voxfor_ml_wc_translate_shop_pages', 'voxfor_ml_wc_preserve_currency', 'voxfor_ml_wc_preserve_cart', 'voxfor_ml_api_enabled', 'voxfor_ml_daily_credit_limit', 'voxfor_ml_monthly_credit_limit', 'voxfor_ml_alert_daily_80', 'voxfor_ml_alert_monthly_80', 'voxfor_ml_daily_cost_alert', 'voxfor_ml_monthly_cost_alert', 'voxfor_ml_cost_alert_email', 'voxfor_ml_api_emergency_stop', 'voxfor_ml_track_usage', 'voxfor_ml_usage_retention_days', 'voxfor_ml_alert_daily_90');
+DELETE FROM wp_options WHERE option_name IN ('voxfor_ml_alert_monthly_90', 'voxfor_ml_glossary_loaded', 'voxfor_ml_monthly_tokens', 'voxfor_ml_auto_add_to_navigation', 'voxfor_ml_auto_add_to_astra', 'voxfor_ml_auto_add_to_astra_mobile', 'voxfor_ml_auto_add_to_generatepress', 'voxfor_ml_auto_add_to_oceanwp', 'voxfor_ml_auto_add_to_kadence', 'voxfor_ml_auto_add_to_neve', 'voxfor_ml_auto_add_to_divi', 'voxfor_ml_current_theme', 'voxfor_ml_theme_switched', 'voxfor_ml_db_version', 'voxfor_ml_migration_version', 'voxfor_ml_comprehensive_translation_enabled', 'voxfor_ml_wc_translate_descriptions', 'voxfor_ml_auto_translate_on_visit', 'voxfor_ml_public_trigger_translation', 'voxfor_ml_cached_languages', 'voxfor_ml_rewrite_rules_version', 'voxfor_ml_add_lang_to_images', 'voxfor_ml_auto_translate_images', 'voxfor_ml_auto_retranslate', 'voxfor_ml_nginx_cache_enabled', 'voxfor_ml_deepl_api_key_encrypted', 'voxfor_ml_encryption_key', 'voxfor_ml_translations', 'voxfor_ml_cancel_translation', 'voxfor_ml_cancel_individual_translation', 'voxfor_ml_language_urls', 'voxfor_ml_theme_urls', 'voxfor_ml_individual_translation_active', 'voxfor_ml_cache_cleaned');
+DELETE FROM wp_options WHERE option_name LIKE 'voxfor_ml_%';
+DELETE FROM wp_options WHERE option_name LIKE 'widget_%';
+DELETE FROM wp_options WHERE option_name LIKE 'voxfor_ml_progress_%';
+DELETE FROM wp_options WHERE option_name LIKE 'voxfor_ml_translation_%';
+DELETE FROM wp_options WHERE option_name LIKE 'voxfor_ml_pending_progress_%';
+DELETE FROM wp_options WHERE option_name LIKE 'voxfor_ml_translations_%';
+DELETE FROM wp_options WHERE option_name LIKE 'voxfor_ml_job_progress_%';
+DELETE FROM wp_options WHERE option_name LIKE 'voxfor_ml_cancel_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('_voxfor_ml_exclude', '_elementor_data', '_elementor_edit_mode', '_custom_tabs', 'frs_woo_product_tabs', '_ywtm_tab_priority', '_product_addons', 'description', '_voxfor_ml_element_languages', '_et_pb_use_builder', '_wp_attachment_image_alt', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_focuskw', '_yoast_wpseo_opengraph-title', '_yoast_wpseo_opengraph-description', '_yoast_wpseo_twitter-title', '_yoast_wpseo_twitter-description', 'rank_math_title', 'rank_math_description', 'rank_math_focus_keyword', 'rank_math_facebook_title', 'rank_math_facebook_description', 'rank_math_twitter_title', 'rank_math_twitter_description', '_aioseo_title', '_aioseo_description', '_aioseo_keywords', '_aioseo_og_title', '_aioseo_og_description', '_aioseo_twitter_title', '_aioseo_twitter_description', '_seopress_titles_title', '_seopress_titles_desc', '_seopress_analysis_target_kw', '_seopress_social_fb_title', '_seopress_social_fb_desc', '_seopress_social_twitter_title', '_seopress_social_twitter_desc', '_gallery', '_voxfor_ml_source_title', '_voxfor_ml_source_content', '_voxfor_ml_source_excerpt', '_voxfor_ml_last_update', '_menu_item_description', '_voxfor_ml_translated', '_elementor_template_type');
+DELETE FROM wp_usermeta WHERE meta_key IN ('_voxfor_ml_exclude', '_elementor_data', '_elementor_edit_mode', '_custom_tabs', 'frs_woo_product_tabs', '_ywtm_tab_priority', '_product_addons', 'description', '_voxfor_ml_element_languages', '_et_pb_use_builder', '_wp_attachment_image_alt', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_focuskw', '_yoast_wpseo_opengraph-title', '_yoast_wpseo_opengraph-description', '_yoast_wpseo_twitter-title', '_yoast_wpseo_twitter-description', 'rank_math_title', 'rank_math_description', 'rank_math_focus_keyword', 'rank_math_facebook_title', 'rank_math_facebook_description', 'rank_math_twitter_title', 'rank_math_twitter_description', '_aioseo_title', '_aioseo_description', '_aioseo_keywords', '_aioseo_og_title', '_aioseo_og_description', '_aioseo_twitter_title', '_aioseo_twitter_description', '_seopress_titles_title', '_seopress_titles_desc', '_seopress_analysis_target_kw', '_seopress_social_fb_title', '_seopress_social_fb_desc', '_seopress_social_twitter_title', '_seopress_social_twitter_desc', '_gallery', '_voxfor_ml_source_title', '_voxfor_ml_source_content', '_voxfor_ml_source_excerpt', '_voxfor_ml_last_update', '_menu_item_description', '_voxfor_ml_translated', '_elementor_template_type');
+DELETE FROM wp_termmeta WHERE meta_key IN ('_voxfor_ml_exclude', '_elementor_data', '_elementor_edit_mode', '_custom_tabs', 'frs_woo_product_tabs', '_ywtm_tab_priority', '_product_addons', 'description', '_voxfor_ml_element_languages', '_et_pb_use_builder', '_wp_attachment_image_alt', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_focuskw', '_yoast_wpseo_opengraph-title', '_yoast_wpseo_opengraph-description', '_yoast_wpseo_twitter-title', '_yoast_wpseo_twitter-description', 'rank_math_title', 'rank_math_description', 'rank_math_focus_keyword', 'rank_math_facebook_title', 'rank_math_facebook_description', 'rank_math_twitter_title', 'rank_math_twitter_description', '_aioseo_title', '_aioseo_description', '_aioseo_keywords', '_aioseo_og_title', '_aioseo_og_description', '_aioseo_twitter_title', '_aioseo_twitter_description', '_seopress_titles_title', '_seopress_titles_desc', '_seopress_analysis_target_kw', '_seopress_social_fb_title', '_seopress_social_fb_desc', '_seopress_social_twitter_title', '_seopress_social_twitter_desc', '_gallery', '_voxfor_ml_source_title', '_voxfor_ml_source_content', '_voxfor_ml_source_excerpt', '_voxfor_ml_last_update', '_menu_item_description', '_voxfor_ml_translated', '_elementor_template_type');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('_voxfor_ml_exclude', '_elementor_data', '_elementor_edit_mode', '_custom_tabs', 'frs_woo_product_tabs', '_ywtm_tab_priority', '_product_addons', 'description', '_voxfor_ml_element_languages', '_et_pb_use_builder', '_wp_attachment_image_alt', '_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_focuskw', '_yoast_wpseo_opengraph-title', '_yoast_wpseo_opengraph-description', '_yoast_wpseo_twitter-title', '_yoast_wpseo_twitter-description', 'rank_math_title', 'rank_math_description', 'rank_math_focus_keyword', 'rank_math_facebook_title', 'rank_math_facebook_description', 'rank_math_twitter_title', 'rank_math_twitter_description', '_aioseo_title', '_aioseo_description', '_aioseo_keywords', '_aioseo_og_title', '_aioseo_og_description', '_aioseo_twitter_title', '_aioseo_twitter_description', '_seopress_titles_title', '_seopress_titles_desc', '_seopress_analysis_target_kw', '_seopress_social_fb_title', '_seopress_social_fb_desc', '_seopress_social_twitter_title', '_seopress_social_twitter_desc', '_gallery', '_voxfor_ml_source_title', '_voxfor_ml_source_content', '_voxfor_ml_source_excerpt', '_voxfor_ml_last_update', '_menu_item_description', '_voxfor_ml_translated', '_elementor_template_type');
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wp_meta_title_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wp_meta_title_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wp_meta_title_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wp_meta_title_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE 'wp_meta_description_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE 'wp_meta_description_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE 'wp_meta_description_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE 'wp_meta_description_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_ywtm_tab_title_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_ywtm_tab_title_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_ywtm_tab_title_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ywtm_tab_title_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_ywtm_tab_content_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_ywtm_tab_content_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_ywtm_tab_content_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_ywtm_tab_content_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_alt';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_alt';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_alt';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_alt';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_title';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_title';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_title';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_title';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_voxfor_ml_alt_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_voxfor_ml_alt_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_voxfor_ml_alt_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_voxfor_ml_alt_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_voxfor_ml_title_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_voxfor_ml_title_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_voxfor_ml_title_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_voxfor_ml_title_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_voxfor_ml_source_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_voxfor_ml_source_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_voxfor_ml_source_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_voxfor_ml_source_%';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '_voxfor_ml_translated_%';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '_voxfor_ml_translated_%';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '_voxfor_ml_translated_%';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '_voxfor_ml_translated_%';
+

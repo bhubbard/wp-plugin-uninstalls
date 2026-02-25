@@ -1,0 +1,28 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_dob_validation_from'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_dob_validation_from'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_dob_validation_from'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_dob_validation_from'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_dob_validation_to'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_dob_validation_to'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_dob_validation_to'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_dob_validation_to'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_dob_validation_global_from'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_dob_validation_global_from'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_dob_validation_global_from'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_dob_validation_global_from'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_dob_validation_global_to'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_dob_validation_global_to'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_dob_validation_global_to'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_dob_validation_global_to'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_user_date_of_birth'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_user_date_of_birth'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_user_date_of_birth'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_user_date_of_birth'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = '_billing_date_of_birth'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = '_billing_date_of_birth'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = '_billing_date_of_birth'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = '_billing_date_of_birth'"

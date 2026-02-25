@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fluff_before_loop",
+    "fluff_in_loop",
+    "fluff_after_loop",
+    "*_gallery_order",
+    "fluff_scripts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:20:46.817Z"
+}

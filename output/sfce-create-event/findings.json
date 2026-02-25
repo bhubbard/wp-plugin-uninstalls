@@ -1,0 +1,17 @@
+{
+  "options": [
+    "sfc_options",
+    "sfce_event_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "fbuid",
+    "sfce_event_date",
+    "sfce_fb_event_status",
+    "fb_event_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:27.157Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "buddyforms_ultimate_settings",
+    "um_options",
+    "recently_activated",
+    "buddyforms_ultimate_member_update_136",
+    "active_sitewide_plugins"
+  ],
+  "transients": [
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_buddyforms_options",
+    "buddyforms_um_activity",
+    "_bf_form_slug",
+    "tgmpa_dismissed_notice_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:16.955Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "pdfsmvif_default_zoom",
+    "pdfsmvif_enable_download",
+    "pdfsmvif_enable_fullscreen",
+    "pdfsmvif_enable_print",
+    "pdfsmvif_enable_zoom_controls",
+    "pdfsmvif_enable_page_info",
+    "pdfsmvif_default_height",
+    "pdfsmvif_enable_remote_pdfs"
+  ],
+  "transients": [
+    "pdfsmvif_version_check"
+  ],
+  "cron_jobs": [
+    "epsv_cleanup_task"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:15.438Z"
+}

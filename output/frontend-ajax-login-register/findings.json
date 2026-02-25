@@ -1,0 +1,22 @@
+{
+  "options": [
+    "redirect_after_login",
+    "name",
+    "bg_custom_color",
+    "text_custom_color",
+    "bo_custom_color",
+    "link_custom_color",
+    "pop_custom_color",
+    "label_custom_color",
+    "add_telephone_number",
+    "redirect_after_logout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_contact_no"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:47.546Z"
+}

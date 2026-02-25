@@ -1,0 +1,15 @@
+{
+  "options": [
+    "rwal_page",
+    "rwal_redirect",
+    "rwal_admin",
+    "rwal_page_input",
+    "rwal_redirect_field"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:46.595Z"
+}

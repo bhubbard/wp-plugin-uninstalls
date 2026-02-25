@@ -1,0 +1,25 @@
+{
+  "options": [
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "login_me_now_algorithm",
+    "login_me_now_secret_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "login_me_now_hide_save_to_browser_extension",
+    "login_me_now_facebook_verified",
+    "login_me_now_google_verified",
+    "nickname",
+    "login_me_now_google_profile_picture_url",
+    "login_me_now_facebook_profile_picture_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:21.843Z"
+}

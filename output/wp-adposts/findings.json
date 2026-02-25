@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wp_adposts_sizes",
+    "wp_adposts_posts_ad_enabled",
+    "wp_adposts_posts_ad_location",
+    "wp_adposts_posts_ad_position"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ad_location",
+    "ad_view_count",
+    "ad_click_count",
+    "ad_link",
+    "ads_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:49.171Z"
+}

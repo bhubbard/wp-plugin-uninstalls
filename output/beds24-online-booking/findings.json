@@ -1,0 +1,39 @@
+{
+  "options": [
+    "beds24_ownerid",
+    "beds24_propid",
+    "beds24_roomid",
+    "beds24_numdisplayed",
+    "beds24_hidecalendar",
+    "beds24_hideheader",
+    "beds24_hidefooter",
+    "beds24_referer",
+    "beds24_domain",
+    "beds24_advancedays",
+    "beds24_numnight",
+    "beds24_numadult",
+    "beds24_numchild",
+    "beds24_layout",
+    "beds24_width",
+    "beds24_height",
+    "beds24_target",
+    "beds24_custom",
+    "beds24_color",
+    "beds24_padding",
+    "beds24_bgcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ownerid",
+    "propid",
+    "roomid",
+    "lang",
+    "referer",
+    "domain",
+    "scrolltop"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:42.805Z"
+}

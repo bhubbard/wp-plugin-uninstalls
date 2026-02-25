@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_enable_coupons",
+    "pickups_integration_customer_type",
+    "woocommerce_woo-ups-pickups_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_default_country",
+    "woocommerce_store_postcode",
+    "woocommerce_store_address",
+    "woocommerce_store_address_2",
+    "woocommerce_store_city",
+    "wpdesk_helper_options",
+    "wpdesk_tracker_skip_flexible_shipping_ups",
+    "wpdesk_tracker_notice",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:49.926Z"
+}

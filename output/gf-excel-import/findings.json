@@ -1,0 +1,14 @@
+{
+  "options": [
+    "gfxl_import_option_separator",
+    "gfxl_import_option_encoding",
+    "gfxl_import_option_adminonly",
+    "gfxl_import_option_clearing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:02:21.253Z"
+}

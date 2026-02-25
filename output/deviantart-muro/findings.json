@@ -1,0 +1,21 @@
+{
+  "options": [
+    "damuro_comments",
+    "damuro_default_background",
+    "damuro_stash_folder",
+    "damuro_sandbox_url",
+    "damuro_default_width",
+    "damuro_default_height",
+    "damuro_default_canvas_width",
+    "damuro_default_canvas_height",
+    "damuro_comment_moderation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "deviantart_muro_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:29.117Z"
+}

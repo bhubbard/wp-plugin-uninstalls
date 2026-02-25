@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bur_display",
+    "bur_ranks",
+    "bur_badges",
+    "bur_css"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "force_user_level",
+    "bur_badges"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:27.524Z"
+}

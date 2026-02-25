@@ -1,0 +1,21 @@
+{
+  "options": [
+    "reviewmapby_revkang_custom_map_key_map",
+    "reviewmapby_revkang_city_api",
+    "reviewmapby_revkang_cities_api",
+    "reviewmapby_revkang_state_api",
+    "reviewmapby_revkang_show_map_api",
+    "reviewmapby_revkang_show_posts_api",
+    "reviewmapby_revkang_count_api",
+    "reviewmapby_revkang_pincount_api",
+    "reviewmapby_revkang_map_zoom_level"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:58.032Z"
+}

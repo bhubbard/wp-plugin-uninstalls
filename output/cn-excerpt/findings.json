@@ -1,0 +1,17 @@
+{
+  "options": [
+    "*_length",
+    "*_no_shortcode",
+    "*_finish_sentence",
+    "*_ellipsis",
+    "*_read_more_tpl",
+    "*_add_link",
+    "*_allowed_tags"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:42.831Z"
+}

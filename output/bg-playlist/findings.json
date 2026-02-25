@@ -1,0 +1,14 @@
+{
+  "options": [
+    "bg_playlist_options1",
+    "bg_playlist_options2"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "single_audio"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:12.133Z"
+}

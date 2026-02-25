@@ -1,0 +1,21 @@
+{
+  "options": [
+    "pte_streamwidth",
+    "pte_streamheight",
+    "pte_chatwidth",
+    "pte_chatheight",
+    "pte_autoplay",
+    "pte_startvolume",
+    "pte_allowfullscreen",
+    "pte_allowscriptaccess",
+    "pte_bgcolor",
+    "pte_wmode",
+    "pte_showchat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:51.503Z"
+}

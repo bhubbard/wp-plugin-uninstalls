@@ -1,0 +1,14 @@
+{
+  "options": [
+    "tsslk_options",
+    "tsslk_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tsslk_fetchLitKalendarData"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:27.459Z"
+}

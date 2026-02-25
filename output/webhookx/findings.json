@@ -1,0 +1,24 @@
+{
+  "options": [
+    "webhookx_admin_menu",
+    "*_default",
+    "webhookx_admin_column_upload_default",
+    "webhookx_admin_column_edit-comments_default",
+    "webhookx_admin_column_users_default",
+    "webhookx_admin_menu_editor",
+    "webhookx_admin_menu_role_*",
+    "webhookx_addons",
+    "webhookx_admin_column_*",
+    "webhookx_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_webhookx_admin_menu",
+    "_webhookx_who_can_see",
+    "_webhookx_who_can_see_roles"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:52.814Z"
+}

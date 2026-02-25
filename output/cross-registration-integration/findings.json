@@ -1,0 +1,25 @@
+{
+  "options": [
+    "cri_transurl",
+    "cri_encrypt",
+    "cri_special_params",
+    "cri_wp_username",
+    "cri_wp_username_as",
+    "cri_wp_email",
+    "cri_wp_email_as",
+    "cri_wp_password",
+    "cri_wp_password_as",
+    "cri_bp_username",
+    "cri_bp_username_as",
+    "cri_bp_email",
+    "cri_bp_email_as",
+    "cri_bp_password",
+    "cri_bp_password_as"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:34:27.287Z"
+}

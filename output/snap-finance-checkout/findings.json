@@ -1,0 +1,22 @@
+{
+  "options": [
+    "woocommerce_snap_finance_settings",
+    "woocommerce_tax_round_at_subtotal"
+  ],
+  "transients": [
+    "snap_finance_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_applicationId",
+    "_sku",
+    "_snap_order",
+    "_order_deliveryDate",
+    "_final_responce",
+    "full_error",
+    "_application"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:06.472Z"
+}

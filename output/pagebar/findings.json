@@ -1,0 +1,17 @@
+{
+  "options": [
+    "Pagebar2_Postbar",
+    "Pagebar2_Multipagebar",
+    "pagebar2_commentbar",
+    "commentbar",
+    "postbar",
+    "multipagebar",
+    "pagebar2_postbar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:49:52.521Z"
+}

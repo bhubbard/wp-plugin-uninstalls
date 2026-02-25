@@ -1,0 +1,13 @@
+{
+  "options": [
+    "simplicy_css_code",
+    "simplicy_read_code",
+    "simplicy_title_code"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:14:21.866Z"
+}

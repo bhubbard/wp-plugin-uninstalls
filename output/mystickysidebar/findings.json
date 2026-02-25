@@ -1,0 +1,19 @@
+{
+  "options": [
+    "*_hide_affiliate_box",
+    "*_show_affiliate_box_after",
+    "*_hide_review_box",
+    "*_show_review_box_after",
+    "check_for_mss_redirection",
+    "hide_my_sticky_sidebar_plugins",
+    "mystickyside_option_name",
+    "has_sticky_sidebar_old_version",
+    "sticky_sidebar_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:17.637Z"
+}

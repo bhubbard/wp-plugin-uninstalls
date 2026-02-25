@@ -1,0 +1,16 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pasp_poll_option",
+    "pasp_poll_option_id",
+    "pasp_poll_vote_total_count",
+    "pasp_poll_vote_count_*",
+    "pasp_poll_type",
+    "pasp_poll_option_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:19:56.523Z"
+}

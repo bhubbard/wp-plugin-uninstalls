@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_anilist_banner",
+    "_anilist_poster",
+    "_anilist_description",
+    "_anilist_status",
+    "_anilist_score",
+    "_anilist_release_date",
+    "_animata_fetch_data_executed",
+    "_banner_sideloaded",
+    "_animata_secondary_featured_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:58.299Z"
+}

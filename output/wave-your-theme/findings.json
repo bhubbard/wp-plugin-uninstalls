@@ -1,0 +1,29 @@
+{
+  "options": [
+    "WYT_Cookie-Time",
+    "WYT_need_key",
+    "WYT_key_value",
+    "WYT_all_cookie",
+    "WYT_Compatible",
+    "WYT_button-choose",
+    "WYT_button_title",
+    "WYT_img_width",
+    "WYT_img_height",
+    "WYT_Custom-Location",
+    "WYT_click-Location",
+    "WYT_xoffset",
+    "WYT_yoffset",
+    "WYT_start_id",
+    "WYT_succss_tips",
+    "WYT_faild_tips",
+    "WYT_zindex",
+    "WYT_Just-Admin",
+    "WYT_JS-Location"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:57.376Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "old_post_notice_version",
+    "old_post_notice_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_old_post_notice",
+    "_old_post_notice_behavior"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:44.249Z"
+}

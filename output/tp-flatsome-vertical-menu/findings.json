@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_design",
+    "_menu_item_width",
+    "_menu_item_height",
+    "_menu_item_block",
+    "_menu_item_behavior",
+    "_menu_item_icon-type",
+    "_menu_item_icon-id",
+    "_menu_item_icon-width",
+    "_menu_item_icon-height",
+    "_menu_item_icon-html",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:09.329Z"
+}

@@ -1,0 +1,49 @@
+{
+  "options": [
+    "*_settings",
+    "yith-wcwtl-form-message",
+    "yith-wcwtl-button-add-label",
+    "yith-wcwtl-button-leave-label",
+    "yith-wcwtl-button-success-msg",
+    "yith-wcwtl-button-error-msg-for-user-already-subscribed",
+    "yith-wcwtl-leave-message",
+    "yith-wcwtl-button-error-msg",
+    "yith-wcwtl-enable-privacy-checkbox",
+    "yith-wcwtl-keep-after-email",
+    "yith-wcwtl-enable",
+    "woocommerce_myaccount_waiting_list_endpoint",
+    "woocommerce_email_footer_text",
+    "woocommerce_yith_waitlist_mail_instock_settings",
+    "yith-wcwtl-section-background",
+    "yith-wcwtl-section-border-radius",
+    "yith-wcwtl-notice-colors",
+    "yith-wcwtl-privacy-checkbox-text",
+    "yit_font_awesome_list",
+    "yit_dashicons_list",
+    "yit_plugin_fw_panel_wc_default_options_set",
+    "*_width",
+    "*_height",
+    "*_options",
+    "yit_recently_activated",
+    "yith_system_info",
+    "*-yith-attachment-id",
+    "yith-wcwtl-form-placeholder",
+    "yith-wcwtl-enable-button-leave"
+  ],
+  "transients": [
+    "yith-plugin-fw-latest-hc-articles",
+    "yith-plugin-fw-system-status-tls-version",
+    "yith-plugin-fw-system-status-output-ip",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yith_wcwtl_products_list",
+    "_yith_wcwtl_users_list",
+    "dismissed_wp_pointers",
+    "blog-cats"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:43:00.362Z"
+}

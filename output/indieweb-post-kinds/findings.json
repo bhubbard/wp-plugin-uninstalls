@@ -1,0 +1,39 @@
+{
+  "options": [
+    "kind_termslist",
+    "kind_default",
+    "kind_embeds",
+    "kind_firehose",
+    "kind_bottom",
+    "kind_display",
+    "kind_kses",
+    "kind_title",
+    "kind_protection",
+    "iw_single_author",
+    "iw_default_author"
+  ],
+  "transients": [
+    "kind_post_widget"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mf2_author",
+    "_source_url",
+    "_content_img_ids",
+    "_content_video_ids",
+    "_content_audio_ids",
+    "mf2_publication",
+    "mf2_duration",
+    "_wp_attached_file",
+    "mf2_*",
+    "mf2_photo",
+    "mf2_audio",
+    "mf2_video",
+    "mf2_cite",
+    "response",
+    "mf2_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:19.381Z"
+}

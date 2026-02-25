@@ -1,0 +1,28 @@
+{
+  "options": [
+    "aiktp_api_key",
+    "aiktpz_token",
+    "aiktpz_content_length",
+    "aiktpz_content_tone",
+    "aiktpz_custom_prompt",
+    "aiktpz_content_language",
+    "aiktpz_migration_done",
+    "aiktp_author",
+    "aiktp_category",
+    "chatgpt_aiktp_key"
+  ],
+  "transients": [
+    "aiktpz_bulk_products",
+    "aiktpz_bulk_type"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_short_description",
+    "_wp_attachment_image_alt",
+    "rank_math_focus_keyword",
+    "_yoast_wpseo_focuskw"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:18.400Z"
+}

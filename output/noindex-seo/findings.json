@@ -1,0 +1,24 @@
+{
+  "options": [
+    "noindex_seo_config_granular",
+    "noindex_seo_config_method",
+    "noindex_seo_config_version",
+    "noindex_seo_config_seoplugins"
+  ],
+  "transients": [
+    "noindex_seo_options"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_noindex_seo_*",
+    "_noindex_seo_override",
+    "_noindex_seo_noindex",
+    "_noindex_seo_nofollow",
+    "_noindex_seo_noarchive",
+    "_noindex_seo_nosnippet",
+    "_noindex_seo_noimageindex"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:47.491Z"
+}

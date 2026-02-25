@@ -1,0 +1,20 @@
+{
+  "options": [
+    "darc_nh_dashboard",
+    "darc_nh_adresse",
+    "darc_nh_port",
+    "darc_nh_account",
+    "darc_nh_key",
+    "darc_nh_currency",
+    "darc_nh_priceperiode",
+    "darc_nh_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "darc_nh_daid"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:18.693Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woocommerce_email_header_image",
+    "woocommerce_dialogpay_settings",
+    "woocommerce_dialogpay_enabled",
+    "woocommerce_dialogpay_title",
+    "woocommerce_dialogpay_description",
+    "woocommerce_dialogpay_merchant_id",
+    "woocommerce_dialogpay_payment_service_id",
+    "woocommerce_dialogpay_database_name",
+    "woocommerce_dialogpay_dialogpay_user_name",
+    "woocommerce_dialogpay_dialogpay_user_password",
+    "woocommerce_dialogpay_public_key",
+    "woocommerce_dialogpay_private_key",
+    "woocommerce_dialogpay_base_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_dialogpay_awaiting_webhook",
+    "_dialogpay_event_*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:03.628Z"
+}

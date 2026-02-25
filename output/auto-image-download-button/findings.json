@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cdb_button_text_color",
+    "cdb_button_color",
+    "cdb_button_size",
+    "cdb_button_border",
+    "cdb_button_radius",
+    "cdb_button_padding",
+    "cdb_button_margin",
+    "cdb_button_text",
+    "cdb_button_hover_color",
+    "cdb_post_types"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_cdb_enable_download_button"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:06:02.044Z"
+}

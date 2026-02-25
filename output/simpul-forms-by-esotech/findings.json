@@ -1,0 +1,23 @@
+{
+  "options": [
+    "mailer",
+    "smtp_host",
+    "mail_set_return_path",
+    "smtp_ssl",
+    "smtp_port",
+    "smtp_auth",
+    "smtp_user",
+    "smtp_pass",
+    "mail_from",
+    "mail_from_name",
+    "*fields",
+    "*number_of_fields",
+    "*thank_you"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:53.231Z"
+}

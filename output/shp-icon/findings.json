@@ -1,0 +1,12 @@
+{
+  "options": [
+    "*-display-inline-top-shift",
+    "*-display-inline-scale-factor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:55.975Z"
+}

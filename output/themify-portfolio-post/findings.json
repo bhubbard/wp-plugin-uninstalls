@@ -1,0 +1,23 @@
+{
+  "options": [
+    "__portfolio_slug",
+    "themify_saved_*",
+    "themify_saved_colors",
+    "themify_saved_gradients"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "themify_gallery_featured",
+    "_wp_attachment_backup_sizes",
+    "*_attach_id",
+    "popup_show",
+    "project_date",
+    "project_client",
+    "project_services",
+    "project_launch"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:02.384Z"
+}

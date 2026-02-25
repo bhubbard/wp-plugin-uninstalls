@@ -1,0 +1,18 @@
+{
+  "options": [
+    "optimus",
+    "optimus_key",
+    "optimus_purchase_time"
+  ],
+  "transients": [
+    "optimus_activation_hook_in_use",
+    "optimus_renew_licence"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:05.736Z"
+}

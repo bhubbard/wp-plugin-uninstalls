@@ -1,0 +1,14 @@
+{
+  "options": [
+    "power_fortune_telling_cards_plugin_option",
+    "rewrite_rules",
+    "power_daily_cards_plugin_version",
+    "wp_fortune_telling_cards_plugin_option"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:29.244Z"
+}

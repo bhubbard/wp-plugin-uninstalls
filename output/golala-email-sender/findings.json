@@ -1,0 +1,15 @@
+{
+  "options": [
+    "golala_email_sender_options"
+  ],
+  "transients": [
+    "golala_email_sender_activated"
+  ],
+  "cron_jobs": [
+    "golala_email_sender_daily_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:54.864Z"
+}

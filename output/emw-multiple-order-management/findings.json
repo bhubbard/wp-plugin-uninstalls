@@ -1,0 +1,20 @@
+{
+  "options": [
+    "emw_mom_allowed_statuses",
+    "emw_mom_email_subject",
+    "emw_mom_admin_email",
+    "emw_mom_cc_email",
+    "emw_mom_email_template",
+    "emw_mom_criteria_settings",
+    "emw_mom_rest_api_enabled",
+    "emw_mom_rest_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "multipleorders"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:01.495Z"
+}

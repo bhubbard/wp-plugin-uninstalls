@@ -1,0 +1,21 @@
+{
+  "options": [
+    "redirection_lookup",
+    "redirection_post",
+    "redirection_root",
+    "redirection_index",
+    "redirection_options",
+    "rss_language",
+    "prli_db_version",
+    "quickppr_redirects",
+    "301_redirects"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "redirection_log_per_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:57.591Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sulog_delete_data_on_uninstall",
+    "sulog_pre_update_wp_version",
+    "sulog_last_version",
+    "sulog_pre_update_plugin_*",
+    "sulog_plugin_*",
+    "sulog_pre_update_theme_*",
+    "sulog_theme_*",
+    "site_update_logger_pre_update_wp_version",
+    "sulog_migration_done",
+    "site_update_logger_migration_done",
+    "sulog_version",
+    "sulog_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:40:10.623Z"
+}

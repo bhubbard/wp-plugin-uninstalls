@@ -1,0 +1,17 @@
+{
+  "options": [
+    "bitcx_aipb_ai_api_key",
+    "bitcx_aipb_page_id",
+    "bitcraftx_aipb_page_id"
+  ],
+  "transients": [
+    "bitcx_aipb_page_created"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "bitcx_portfolio_item_link"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:42:29.823Z"
+}

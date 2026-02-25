@@ -1,0 +1,17 @@
+{
+  "options": [
+    "santitech_dcpc_disable_comments",
+    "santitech_dcpc_disable_posts",
+    "santitech_dcpc_disable_gutenberg",
+    "santitech_dcpc_allow_svg",
+    "santitech_dcpc_allow_ico",
+    "santitech_dcpc_allow_ttf",
+    "santitech_dcpc_allow_eot"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:02.419Z"
+}

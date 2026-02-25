@@ -1,0 +1,28 @@
+{
+  "options": [
+    "secuseek_last_scan_id",
+    "SecuseekUserJobScheduleId",
+    "secuseek_scan_creation_timestamp",
+    "secuseek_delete_data_on_uninstall",
+    "secuseek_plugin_do_activation_redirect"
+  ],
+  "transients": [
+    "secuseek_scan_error_*",
+    "secuseek_scan_started",
+    "secuseek_scan_completed",
+    "secuseek_scan_rate_limit_*"
+  ],
+  "cron_jobs": [
+    "secuseek_fetch_cron_hook",
+    "secuseek_daily_scan",
+    "secuseek_start_scan_after_key_save"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "secuseek_scan_api_key",
+    "secuseek_api_key_last_rotation",
+    "secuseek_api_key_last_used"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:42.596Z"
+}

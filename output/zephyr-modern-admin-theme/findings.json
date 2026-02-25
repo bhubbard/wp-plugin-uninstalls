@@ -1,0 +1,12 @@
+{
+  "options": [
+    "zephyr_admin_theme_settings",
+    "zat_custom_themes"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:29.379Z"
+}

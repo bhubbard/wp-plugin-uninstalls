@@ -1,0 +1,48 @@
+{
+  "options": [
+    "bafg_migrated",
+    "bafg_watermark",
+    "bafg_tools",
+    "beaf_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice",
+    "bafg_pro_activated",
+    "bafg_promo__schudle_start_from",
+    "bafg_sidebar_banner__schedule_option",
+    "tf_promo_notice_exists",
+    "bafg_promo_notice_woo_exists",
+    "tf_promo_widget_exists",
+    "bafg_dashboard_widget_dismissed",
+    "bafg_dismiss_admin_notice",
+    "bafg_dismiss_post_notice",
+    "bafg_sidebar_banner_notice_exists",
+    "bafg_installation_date",
+    "bafg_review_notice_status",
+    "beaf_pro_license_status",
+    "bafg_filter_gallery_style_alignment",
+    "bafg_filter_gallery_style_border",
+    "bafg_filter_gallery_style_text_color",
+    "bafg_filter_gallery_style_bg_color",
+    "bafg_filter_gallery_style_text_h_color",
+    "bafg_filter_gallery_style_bg_h_color",
+    "bafg_filter_gallery_style_padding_tb",
+    "bafg_filter_gallery_style_padding_lr"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event",
+    "bafg_sidebar_banner__schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "beaf_meta",
+    "bafg_woo_new_feature_notice_dismissed",
+    "tf_hotels_opt",
+    "beaf_fomo_first_visit_time_*",
+    "bafg_show_title"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:15.463Z"
+}

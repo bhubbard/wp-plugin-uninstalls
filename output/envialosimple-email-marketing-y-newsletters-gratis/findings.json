@@ -1,0 +1,13 @@
+{
+  "options": [
+    "es_config_contactform7_active_*",
+    "es_config_apikey",
+    "es_config_lang"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:44:58.168Z"
+}

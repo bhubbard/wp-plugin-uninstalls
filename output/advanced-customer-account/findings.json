@@ -1,0 +1,21 @@
+{
+  "options": [
+    "aca_settings",
+    "aca_version"
+  ],
+  "transients": [
+    "aca_activated",
+    "aca_dashboard_stats_cache"
+  ],
+  "cron_jobs": [
+    "aca_daily_cleanup",
+    "aca_email_notifications"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:30:07.172Z"
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    "fshow_flickr_api_key",
+    "fshow_default_photosetid",
+    "fshow_default_width",
+    "fshow_default_height",
+    "fshow_gallery_short_url",
+    "fshow_performance_mode",
+    "fshow_flickr_cache_time",
+    "fshow_uniqid",
+    "fshow_default_username",
+    "fshow_default_thumburl"
+  ],
+  "transients": [
+    "fshow_users",
+    "fshow_photosets",
+    "fshow_remote_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:32.796Z"
+}

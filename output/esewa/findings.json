@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_new_order_settings",
+    "woocommerce_esewa_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "esewa_payment_status_check_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "transaction_uuid",
+    "eSewa Reference Code"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:37.184Z"
+}

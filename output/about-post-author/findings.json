@@ -1,0 +1,21 @@
+{
+  "options": [
+    "about-post-author-background-color",
+    "about-post-author-text-color",
+    "about-post-author-font-size",
+    "about-post-author-font-family",
+    "about-post-author-border-style",
+    "about-post-author-padding"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "facebook",
+    "twitter",
+    "linkedin",
+    "instagram"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:12:56.428Z"
+}

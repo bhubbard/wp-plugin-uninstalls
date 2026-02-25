@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wbebaic_custom_css",
+    "wbebaic_custom_js",
+    "wb_ebaic_review_transient",
+    "wbebaic_deactivation_reason_*",
+    "wbebaic_deactivation_details_*",
+    "wbebaic_deactivation_email_*",
+    "wbebaic_deactivation_main_reason_*"
+  ],
+  "transients": [
+    "wb_ebaic_review_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:28.746Z"
+}

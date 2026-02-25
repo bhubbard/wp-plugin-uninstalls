@@ -1,0 +1,14 @@
+{
+  "options": [
+    "abovewp_bulk_attribute_change_options",
+    "abovewp_bulk_attribute_change_progress"
+  ],
+  "transients": [
+    "abovewp_bulk_attribute_change_all_products"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:38:59.049Z"
+}

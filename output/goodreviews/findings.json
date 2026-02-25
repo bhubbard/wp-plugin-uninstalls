@@ -1,0 +1,23 @@
+{
+  "options": [
+    "goodreviews-getmethod",
+    "goodreviews-api-key",
+    "goodreviews-agree",
+    "goodreviews-responsive-style",
+    "goodreviews-alt-style",
+    "goodrev-perform",
+    "goodrev-clearcache",
+    "goodrev-defer"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "goodreviews_220",
+    "goodreviews_ignore_FileGetEnabled",
+    "goodreviews_ignore_CurlEnabled",
+    "goodreviews_ignore_CurlDisabled"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:42.673Z"
+}

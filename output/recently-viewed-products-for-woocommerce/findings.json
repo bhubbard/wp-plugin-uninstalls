@@ -1,0 +1,11 @@
+{
+  "options": [
+    "rvpw_woocommerce_recently_viewed_products_option_name"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:49:43.341Z"
+}

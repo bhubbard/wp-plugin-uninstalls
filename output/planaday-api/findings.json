@@ -1,0 +1,19 @@
+{
+  "options": [
+    "planaday-api-general",
+    "planaday-api-css",
+    "planaday-api-payment",
+    "planaday-api-version",
+    "paytium_test_api_key",
+    "paytium_live_api_key",
+    "paytium_enable_live_key"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pad_cron_update_all_courses"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:47.570Z"
+}

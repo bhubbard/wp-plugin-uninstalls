@@ -1,0 +1,42 @@
+{
+  "options": [
+    "reactive_settings",
+    "_reactive_geobox_settings",
+    "webpack_public_path_url",
+    "_reactive_general_settings",
+    "reactive_selected_template",
+    "_reactive_meta_restrictions",
+    "reactive_builder_admin_notices"
+  ],
+  "transients": [
+    "reactive_builder-*",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reactive_grid_template",
+    "_reactive_geobox_preview",
+    "_reactive_grid_builder_settings",
+    "address",
+    "city",
+    "country",
+    "country_short_name",
+    "state",
+    "state_short_name",
+    "zipcode",
+    "latitude",
+    "longitude",
+    "_reactive_rebuilder_settings",
+    "_wp_attachment_image_alt",
+    "reactivedata",
+    "reactivedata_*",
+    "readOnly",
+    "rebuilder_post_type",
+    "rebuilder_async",
+    "_menu_item_menu_item_parent",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:28.941Z"
+}

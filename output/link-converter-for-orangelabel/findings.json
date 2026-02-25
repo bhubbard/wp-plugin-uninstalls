@@ -1,0 +1,16 @@
+{
+  "options": [
+    "olc_awin_id",
+    "olc_zanox_id",
+    "olc_disabled_categories"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_olc_disabled_urls",
+    "_olc_disabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:20.973Z"
+}

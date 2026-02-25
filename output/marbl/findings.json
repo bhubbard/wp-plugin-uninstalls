@@ -1,0 +1,28 @@
+{
+  "options": [
+    "marbl_amazon_enabled",
+    "marbl_ebay_enabled",
+    "marbl_amazon_link_associate_id_*",
+    "marbl_general_custom_resources_path",
+    "marbl_amazon_show_disclaimer",
+    "marbl_amazon_disclaimer_position",
+    "marbl_amazon_disclaimer",
+    "marbl_general_link_show_flags",
+    "marbl_general_link_open_new_window",
+    "marbl_general_link_link_nofollow",
+    "marbl_ebay_default_campaign_id",
+    "*_enabled",
+    "marbl_ebay_show_disclaimer",
+    "marbl_ebay_disclaimer",
+    "marbl_general_include_default_css",
+    "marbl_ebay_disclaimer_position",
+    "marbl_ebay_region_*",
+    "marbl_ebay_link_partner_id_*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:18.104Z"
+}

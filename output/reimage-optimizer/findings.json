@@ -1,0 +1,34 @@
+{
+  "options": [
+    "reimop_api_key",
+    "reimop_auto_optimize",
+    "reimop_auto_sync",
+    "reimop_delete_media",
+    "reimop_video_lazyload",
+    "reimop_video_responsive",
+    "reimop_video_autoplay",
+    "reimop_video_loop",
+    "reimop_video_muted",
+    "reimop_video_controls",
+    "reimop_auto_optimized",
+    "reimop_setup_complete",
+    "reimop_wizard_force_open",
+    "reimop_optimize_status",
+    "reimop_isStartManualOptimization",
+    "reimop_connection_status",
+    "reimop_video_skip",
+    "reimop_video_pip",
+    "reimop_connected",
+    "reimop_optimization_complete_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "reimop_status",
+    "_reimop_optimized_video",
+    "reimop_optimized_size"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:56.527Z"
+}

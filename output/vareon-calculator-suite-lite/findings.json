@@ -1,0 +1,18 @@
+{
+  "options": [
+    "vareoncalc_lite_options",
+    "vareoncalc_onboarding_status"
+  ],
+  "transients": [
+    "vareoncalc_pro_activated",
+    "vareoncalc_pro_deactivated",
+    "vareoncalc_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vareoncalc_upgrade_notice_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:49:35.676Z"
+}

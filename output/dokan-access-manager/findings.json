@@ -1,0 +1,22 @@
+{
+  "options": [
+    "dokan_access_manager",
+    "woocommerce_enable_order_comments",
+    "dam_nav_menus",
+    "dam_nav_settings_sub"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_customer_ip_address",
+    "_customer_user",
+    "_billing_first_name",
+    "_billing_last_name",
+    "_billing_email",
+    "_billing_phone",
+    "is_customer_note"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:41.435Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "jwcp_jodo_widget_apikey",
+    "jwcp_jodo_widget_servicekey",
+    "jwcp_jodo_widget_target",
+    "jwcp_jodo_widget_visible",
+    "jwcp_jodo_widget_display",
+    "jwcp_jodo_widget_theme"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:47.404Z"
+}

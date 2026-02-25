@@ -1,0 +1,21 @@
+{
+  "options": [
+    "bifh_last_import",
+    "bifh_last_cron_import"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "bifh_cron_import_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_hubspot_url",
+    "_hubspot_updated",
+    "_hubspot_created",
+    "_hubspot_import_date",
+    "_hubspot_author",
+    "_hubspot_featured_image_url"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:32:34.433Z"
+}

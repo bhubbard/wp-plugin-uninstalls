@@ -1,0 +1,17 @@
+{
+  "options": [
+    "llms_txt_generator_last_update",
+    "llms_txt_generator_options",
+    "llms_txt_generator_validation"
+  ],
+  "transients": [
+    "llms_txt_validation_errors"
+  ],
+  "cron_jobs": [
+    "llms_txt_generator_monthly_update"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:37.634Z"
+}

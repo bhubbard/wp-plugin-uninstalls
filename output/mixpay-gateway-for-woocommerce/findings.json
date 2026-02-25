@@ -1,0 +1,15 @@
+{
+  "options": [
+    "woocommerce_mixpay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "check_payments_result_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "MixPay payment complete"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:01.209Z"
+}

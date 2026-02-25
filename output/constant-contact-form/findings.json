@@ -1,0 +1,26 @@
+{
+  "options": [
+    "ccf_username",
+    "ccf_caption",
+    "ccf_with_in_textbox",
+    "ccf_button",
+    "ccf_password",
+    "ccf_group",
+    "ccf_title",
+    "ccf_adminemail",
+    "ccf_fromemail",
+    "ccf_adminmail",
+    "ccf_adminmail_subject",
+    "ccf_adminmail_content",
+    "ccf_usermail",
+    "ccf_usermail_subject",
+    "ccf_usermail_content",
+    "ccf_homeurl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:40.145Z"
+}

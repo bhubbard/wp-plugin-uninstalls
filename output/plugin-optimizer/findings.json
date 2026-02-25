@@ -1,0 +1,50 @@
+{
+  "options": [
+    "plgnoptmzr_original_menu",
+    "plgnoptmzr_topbar_menu",
+    "plgnoptmzr_new_posts",
+    "po_db_updated-v1.2",
+    "po_admin_get_menu",
+    "po_should_alphabetize_menu",
+    "po_total_time",
+    "po_admin_menu_list",
+    "just-activated",
+    "po-just-activated",
+    "active_plugins_on_menu_save",
+    "po_db_updated",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [
+    "wc_count_comments"
+  ],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "premium_filter",
+    "frontend",
+    "turned_off",
+    "completed_overview_tabs",
+    "sospo_filter_columns",
+    "filter_type",
+    "plugins_to_block",
+    "belongs_to",
+    "endpoints",
+    "version",
+    "dict_id",
+    "status",
+    "statusChanged",
+    "categories",
+    "group_plugins",
+    "post_link",
+    "groups_used",
+    "belongsTo",
+    "type"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:07:25.551Z"
+}

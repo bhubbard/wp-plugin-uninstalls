@@ -1,0 +1,25 @@
+{
+  "options": [
+    "mediamoo_dos_key",
+    "mediamoo_dos_secret",
+    "mediamoo_dos_endpoint",
+    "mediamoo_dos_container",
+    "mediamoo_dos_storage_path",
+    "mediamoo_dos_cdn_url",
+    "mediamoo_dos_storage_file_only",
+    "mediamoo_dos_storage_file_delete",
+    "mediamoo_dos_filter",
+    "mediamoo_dos_original_upload_url_path",
+    "mediamoo_dos_original_upload_path"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mediamoo_dos_sync_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_backup_sizes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:54:21.163Z"
+}

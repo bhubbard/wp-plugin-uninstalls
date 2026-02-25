@@ -1,0 +1,20 @@
+{
+  "options": [
+    "wbp_notice_hidden",
+    "wbp_settings",
+    "wbp_terms",
+    "wbp_posts",
+    "wbp_posts_redirects",
+    "wbp_terms_redirects"
+  ],
+  "transients": [
+    "wp_better_permalinks_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_yoast_wpseo_primary_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:47:44.520Z"
+}

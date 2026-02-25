@@ -1,0 +1,13 @@
+{
+  "options": [
+    "social-traffic-commando-plain_d81c_activated"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ssc_event_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:59.643Z"
+}

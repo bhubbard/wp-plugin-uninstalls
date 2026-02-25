@@ -1,0 +1,26 @@
+{
+  "options": [
+    "forvoyez_plugin_activated",
+    "forvoyez_plugin_version",
+    "forvoyez_flush_rewrite_rules",
+    "forvoyez_auto_analyze_enabled",
+    "forvoyez_encrypted_api_key",
+    "forvoyez_context",
+    "forvoyez_language"
+  ],
+  "transients": [
+    "forvoyez_bulk_analyze_images",
+    "forvoyez_api_check"
+  ],
+  "cron_jobs": [
+    "forvoyez_analyze_single_image",
+    "forvoyez_daily_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_forvoyez_analyzed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:26:23.464Z"
+}

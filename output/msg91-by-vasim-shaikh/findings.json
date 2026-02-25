@@ -1,0 +1,15 @@
+{
+  "options": [
+    "zt_msg91_authtoken",
+    "zt_msg91_country",
+    "zt_msg91_sender_name",
+    "zt_msg91_msgtxt",
+    "zt_msg91_route"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:36:30.354Z"
+}

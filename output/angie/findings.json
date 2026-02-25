@@ -1,0 +1,16 @@
+{
+  "options": [
+    "angie_external_scripts_consent",
+    "angie_sidebar_default_state"
+  ],
+  "transients": [
+    "angie_activation_redirect"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_angie_snippet_files"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:44.245Z"
+}

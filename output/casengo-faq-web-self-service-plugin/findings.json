@@ -1,0 +1,22 @@
+{
+  "options": [
+    "cas_faq_searchbar",
+    "cas_faq_toparticlesection",
+    "cas_faq_compatibility",
+    "cas_faq_show_article_bullets",
+    "cas_faq_style",
+    "casengo-faq-simple-style-editor",
+    "cas_faq_custom_css",
+    "cas_widget_domain",
+    "casengo_faq_do_activation_redirect",
+    "casengo_faq_pagetitle",
+    "cas_faq_pagetitle",
+    "cas_faq_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:39.441Z"
+}

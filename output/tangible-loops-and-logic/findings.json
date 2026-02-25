@@ -1,0 +1,26 @@
+{
+  "options": [
+    "jwt_auth_rest_api_settings"
+  ],
+  "transients": [
+    "*_process_lock",
+    "*_queue_state"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "style_compiled",
+    "location",
+    "theme_position",
+    "_wp_attachment_image_alt",
+    "assets",
+    "atomic_css",
+    "script",
+    "style",
+    "universal_id",
+    "*_tags",
+    "_edit_last"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:45.771Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "*_display_credits",
+    "jimmo_wp_property_finance_budget_calculator_display_credits"
+  ],
+  "transients": [
+    "jimmo_wp_property_finance_budget_calculator_activation_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:15.280Z"
+}

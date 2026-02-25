@@ -1,0 +1,13 @@
+{
+  "options": [
+    "citw_url_schema",
+    "citw_enable_img_alt",
+    "icl_sitepress_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:39.600Z"
+}

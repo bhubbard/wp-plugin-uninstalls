@@ -1,0 +1,19 @@
+{
+  "options": [
+    "viking_button_url",
+    "viking_source",
+    "viking_style_color",
+    "viking_button_alignment",
+    "viking_button_horizontal_padding",
+    "viking_button_vertical_padding",
+    "viking_enable_button"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "viking_button_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:06.482Z"
+}

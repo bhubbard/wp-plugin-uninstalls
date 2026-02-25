@@ -1,0 +1,16 @@
+{
+  "options": [
+    "custom_google_fonts_option1",
+    "custom_google_fonts_option2",
+    "custom_google_fonts_option3",
+    "custom_google_fonts_option4",
+    "custom_google_fonts_option5",
+    "custom_google_fonts_option6"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:24.869Z"
+}

@@ -1,0 +1,31 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "client_name",
+    "client",
+    "location_name",
+    "location",
+    "surface_area_title",
+    "surface_area",
+    "created_title",
+    "created",
+    "complete_title",
+    "date",
+    "project_value_title",
+    "project_value",
+    "designation",
+    "phone",
+    "email",
+    "shortbio",
+    "facebook",
+    "twitter",
+    "google_plus",
+    "linkedin",
+    "ratings"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:39.875Z"
+}

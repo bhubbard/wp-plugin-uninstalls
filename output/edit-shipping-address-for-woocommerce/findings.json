@@ -1,0 +1,22 @@
+{
+  "options": [
+    "editsafw_enable_address_edit",
+    "editsafw_max_address_changes",
+    "editsafw_allowed_order_statuses",
+    "editsafw_editable_shipping_fields",
+    "editsafw_shipping_email_template",
+    "editsafw_refund_email_template",
+    "woocommerce_stripe_settings",
+    "woocommerce-ppcp-settings",
+    "woocommerce-ppcp-data-common",
+    "woocommerce_razorpay_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:38.916Z"
+}

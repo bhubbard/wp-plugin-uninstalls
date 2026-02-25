@@ -1,0 +1,18 @@
+{
+  "options": [
+    "chrs_eztexting_oauth_tokens",
+    "chrs_eztexting_admin_notifications",
+    "gravityformsaddon_chrs-eztexting-sync-for-gravityforms_settings",
+    "chrs_eztexting_logs",
+    "chrs_eztexting_failed_entries"
+  ],
+  "transients": [
+    "chrs_eztexting_groups",
+    "chrs_eztexting_contact_fields"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:55:51.838Z"
+}

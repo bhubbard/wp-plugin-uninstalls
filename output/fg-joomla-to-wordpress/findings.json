@@ -1,0 +1,29 @@
+{
+  "options": [
+    "fgj2wp_options",
+    "fgj2wp_last_article_id",
+    "fgj2wp_last_category_id",
+    "fgj2wp_last_section_id",
+    "fgj2wp_save_posts",
+    "fgj2wp_save_terms",
+    "fgj2wp_save_term_relationships",
+    "fgj2wp_stop_import",
+    "*_children",
+    "fgj2wp_ftp_options",
+    "fgj2wp_last_link_id"
+  ],
+  "transients": [
+    "wc_count_comments"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fgj2wp_old_id",
+    "_fgj2wp_old_tag_id",
+    "_fgj2wp_old_file",
+    "_wp_attachment_image_alt",
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:32.504Z"
+}

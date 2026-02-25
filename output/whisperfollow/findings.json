@@ -1,0 +1,16 @@
+{
+  "options": [
+    "whisperfollow_db_version",
+    "whisperfollow_pushsubs",
+    "whisperfollow_log",
+    "plugin_error"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "whisperfollow_generate_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:48.048Z"
+}

@@ -1,0 +1,41 @@
+{
+  "options": [
+    "thwwac_*",
+    "thwwac_general_settings",
+    "thwwac_shop_page_settings",
+    "thwwac_product_page_settings",
+    "thwwac_wishlist_page_settings",
+    "thwwac_wishlist_counter_settings",
+    "thwwac_socialmedia_settings",
+    "thwwac_compare_settings",
+    "thwwac_compare_table_settings",
+    "thwwc_since",
+    "thwepo_advanced_settings",
+    "thwepof_advanced_settings",
+    "woocommerce_weight_unit",
+    "woocommerce_cart_page_id",
+    "thwwc_wishlist_*",
+    "thwwac_wishlist_*",
+    "thwwac_compare_*",
+    "thwwc_compare_*",
+    "woocommerce_checkout_page_id",
+    "woocommerce_myaccount_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thwwc_review_skipped",
+    "thwwc_review_skipped_time",
+    "thwwc_review_dismissed",
+    "thwwc_review_dismissed_time",
+    "thwwc_reviewed",
+    "thwwc_reviewed_time",
+    "thwwc_deactivation_snooze",
+    "thwwc_wishlist",
+    "thwwac_key",
+    "thwwc_compare"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:55.617Z"
+}

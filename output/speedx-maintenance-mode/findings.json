@@ -1,0 +1,22 @@
+{
+  "options": [
+    "spx1mm_reca_site_key",
+    "spx1mm_enabled",
+    "spx1mm_reca_secret_key",
+    "spx1mm_reca_score",
+    "spx1mm_enabled_password",
+    "spx1mm_password",
+    "spx1mm_title",
+    "spx1mm_content",
+    "spx1mm_styles",
+    "spx1mm_head",
+    "spx1mm_after_body",
+    "spx1mm_before_html"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:53.590Z"
+}

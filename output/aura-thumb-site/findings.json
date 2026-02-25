@@ -1,0 +1,20 @@
+{
+  "options": [
+    "aura_thumb_site_url",
+    "aura_thumb_site_backcolor",
+    "aura_thumb_site_effect",
+    "aura_thumb_site_speed",
+    "aura_thumb_site_opacity",
+    "aura_thumb_site_img_width",
+    "aura_thumb_site_img_border",
+    "aura_thumb_site_border_color",
+    "aura_thumb_site_img_space",
+    "aura_thumb_site_title_size"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:00.792Z"
+}

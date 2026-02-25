@@ -1,0 +1,18 @@
+{
+  "options": [
+    "my_plugin_deferred_admin_notices"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_sp_payment_method",
+    "_sp_transactionId",
+    "_payment_method_title",
+    "_sp_orderId",
+    "_sp_ibft_bank",
+    "_sp_accNo"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:33.917Z"
+}

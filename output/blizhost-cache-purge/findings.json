@@ -1,0 +1,18 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "bliz_hash",
+    "bliz_domain"
+  ],
+  "transients": [
+    "bliz_hash_transient",
+    "bliz_domain_transient"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "needJetpackMessage_dismissed"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:07.978Z"
+}

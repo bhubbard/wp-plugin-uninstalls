@@ -1,0 +1,16 @@
+{
+  "options": [
+    "zynaau_options",
+    "zynatic_authentication_option_name",
+    "zynatic_medlemsregister_option_name",
+    "zynamr_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ZynaticID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:53:41.538Z"
+}

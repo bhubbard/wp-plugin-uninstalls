@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rdynamic_meta_data",
+    "ast-title-bar-display",
+    "rdynamic_template_id",
+    "dynapama_layout_preference",
+    "child_page_of"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:13.727Z"
+}

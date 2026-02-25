@@ -1,0 +1,12 @@
+{
+  "options": [
+    "login_awp_feedback_email",
+    "login_awp_feedback_webhook"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:59.619Z"
+}

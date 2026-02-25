@@ -1,0 +1,58 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Options
+wp option delete 'pdrgpd_vies'
+wp option delete 'pdrgpd_existencia_formulario_contacto'
+wp option delete 'pdrgpd_akismet_formulario_contacto'
+wp option delete 'pdrgpd_existencia_boletin'
+wp option delete 'pdrgpd_aplicar_formulario_comentar'
+wp option delete 'akismet_comment_form_privacy_notice'
+wp option delete 'pdrgpd_existencia_suscripcion_jetpack'
+wp option delete 'pdrgpd_pie_enlace_legal'
+wp option delete 'pdrgpd_pie_enlace_privacidad'
+wp option delete 'pdrgpd_pie_enlace_cookies'
+wp option delete 'pdrgpd_pie_multilinea'
+wp option delete 'pdrgpd_titular'
+wp option delete 'pdrgpd_nif'
+wp option delete 'pdrgpd_direccion'
+wp option delete 'pdrgpd_cp'
+wp option delete 'pdrgpd_poblacion'
+wp option delete 'pdrgpd_provincia'
+wp option delete 'pdrgpd_telefono'
+wp option delete 'pdrgpd_email'
+wp option delete 'pdrgpd_rmercant_poblacion'
+wp option delete 'pdrgpd_rmercant_provincia'
+wp option delete 'pdrgpd_rmercant_fecha'
+wp option delete 'pdrgpd_rmercant_presentacion'
+wp option delete 'pdrgpd_rmercant_seccion'
+wp option delete 'pdrgpd_rmercant_libro'
+wp option delete 'pdrgpd_rmercant_tomo'
+wp option delete 'pdrgpd_rmercant_folio'
+wp option delete 'pdrgpd_rmercant_hoja'
+wp option delete 'pdrgpd_rmercant_protocolo'
+wp option delete 'pdrgpd_rmercant_num'
+wp option delete 'pdrgpd_sitio'
+wp option delete 'pdrgpd_dominio'
+wp option delete 'pdrgpd_uri_aviso'
+wp option delete 'pdrgpd_uri_privacidad'
+wp option delete 'pdrgpd_uri_cookies'
+wp option delete 'pdrgpd_formato_primera_capa'
+wp option delete 'pdrgpd_google_analytics_id'
+wp option delete 'pdrgpd_facebook_pixel_id'
+wp option delete 'pdrgpd_pie_copyright'
+wp option delete 'pdrgpd_version'
+wp option delete 'pdrgpd_finalidad_formulario_contacto_mini'
+wp option delete 'pdrgpd_finalidad_formulario_contacto'
+wp option delete 'pdrgpd_finalidad_suscripcion_boletin_mini'
+wp option delete 'pdrgpd_finalidad_suscripcion_boletin'
+wp option delete 'pdrgpd_existencia_formulario_comentar'
+wp option delete 'pdrgpd_finalidad_formulario_comentar_mini'
+wp option delete 'pdrgpd_finalidad_formulario_comentar'
+wp option delete 'jetpack_active_modules'
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'pdrgpd_acepto_politica_privacidad'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'pdrgpd_acepto_politica_privacidad'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'pdrgpd_acepto_politica_privacidad'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'pdrgpd_acepto_politica_privacidad'"

@@ -1,0 +1,28 @@
+{
+  "options": [
+    "copyspell-ai-license",
+    "copyspell_ai_license_status",
+    "copyspell_ai_db_version",
+    "copyspell_ai_options",
+    "copyspell_ai_signature",
+    "woocommerce_settings",
+    "csai_options",
+    "csai_db_version"
+  ],
+  "transients": [
+    "copyspell_verification_token"
+  ],
+  "cron_jobs": [
+    "csai_job_watchdog",
+    "copyspell_ai_daily_license_check",
+    "copyspell_ai_cron_job",
+    "copyspell_ai_cleanup_hook",
+    "copyspell_ai_sync_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "copyspell_ai"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:44:20.612Z"
+}

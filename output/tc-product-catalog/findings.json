@@ -1,0 +1,13 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "tcpc_fields_currency_icon",
+    "tcpc_fields_regular_price",
+    "tcpc_fields_sale_price"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:56:22.028Z"
+}

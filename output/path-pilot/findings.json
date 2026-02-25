@@ -1,0 +1,29 @@
+{
+  "options": [
+    "path_pilot_goal_pages",
+    "path_pilot_conversion_pages",
+    "path_pilot_min_hops",
+    "path_pilot_ignored_user_roles",
+    "path_pilot_insights_only",
+    "path_pilot_ready",
+    "path_pilot_path_stats",
+    "path_pilot_activation_date",
+    "path_pilot_cta_text",
+    "path_pilot_recommend_label",
+    "path_pilot_dev_mode",
+    "path_pilot_chat_label",
+    "path_pilot_allowed_content_types",
+    "path_pilot_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "path_pilot_analyze_paths"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "path_pilot_setup_notice_dismissed",
+    "path_pilot_synopsis"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:36.560Z"
+}

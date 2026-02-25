@@ -1,0 +1,21 @@
+{
+  "options": [
+    "webrules_agile_domain",
+    "webrules_agile_email",
+    "webrules_agile_rest_api",
+    "webrules_agile_password",
+    "webrules_agile_webstats",
+    "webrules_agile_webrules",
+    "webrules_agile_js_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "webrules_landing_page",
+    "webrules_enable_webrule",
+    "webrules_enable_webstats"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:28.292Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [
+    "aipress_openai_settings",
+    "aipress_openai_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:32.105Z"
+}

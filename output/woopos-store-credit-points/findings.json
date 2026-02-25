@@ -1,0 +1,26 @@
+{
+  "options": [
+    "woopos_credit_points_store_credit_enable",
+    "woopos_credit_points_reward_points_enable",
+    "woopos_credit_points_store_credit_message",
+    "woopos_credit_points_reward_points_zero_message",
+    "woopos_credit_points_reward_points_not_zero_message"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woopos_account_credit",
+    "woopos_account_points",
+    "woopos_account_points_redeemable",
+    "woopos_account_points_redeemable_amount",
+    "woopos_credit_used",
+    "woopos_points_used",
+    "woopos_credit_removed",
+    "woopos_points_removed",
+    "_order_total",
+    "_recurring_payment_method"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:37:55.153Z"
+}

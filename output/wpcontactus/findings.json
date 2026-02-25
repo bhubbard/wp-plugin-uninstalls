@@ -1,0 +1,20 @@
+{
+  "options": [
+    "conversations_db_version",
+    "convx_temp_password_responder_*",
+    "conversations_timediff_*",
+    "conversations_last_login_*",
+    "conversations_convxns_sort_method_*",
+    "conversations_convxns_unread_on_top_*",
+    "conversations_template_folder",
+    "conversations_email_from",
+    "conversations_end_users_login_page_slug",
+    "conversations_responders_login_page_slug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:45.064Z"
+}

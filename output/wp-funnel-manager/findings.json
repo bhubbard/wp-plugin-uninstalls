@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wpfunnel_ignore_legacy",
+    "wpfunnel_db_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wpfunnel"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:33.871Z"
+}

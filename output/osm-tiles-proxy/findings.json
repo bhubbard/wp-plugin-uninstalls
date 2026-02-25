@@ -1,0 +1,20 @@
+{
+  "options": [
+    "osm-tiles-proxy-rest-api-enabled",
+    "osm-tiles-proxy-cache-enabled",
+    "osm-tiles-proxy-osm-url",
+    "osm_tiles_proxy_out_of_range_image_url",
+    "osm_tiles_proxy_min_zoom",
+    "osm_tiles_proxy_max_zoom",
+    "osm_tiles_proxy_min_x",
+    "osm_tiles_proxy_max_x",
+    "osm_tiles_proxy_min_y",
+    "osm_tiles_proxy_max_y"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:19.863Z"
+}

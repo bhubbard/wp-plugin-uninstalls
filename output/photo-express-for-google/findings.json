@@ -1,0 +1,24 @@
+{
+  "options": [
+    "peg_oauth_settings",
+    "peg_max_albums_displayed",
+    "peg_saved_user_name",
+    "peg_last_album",
+    "peg_saved_state",
+    "peg_migrate_state",
+    "pe2*",
+    "peg_general_settings",
+    "peg_multisite",
+    "active_sitewide_plugins",
+    "peg_roles",
+    "peg_cache_keys"
+  ],
+  "transients": [
+    "settings_errors"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:13.784Z"
+}

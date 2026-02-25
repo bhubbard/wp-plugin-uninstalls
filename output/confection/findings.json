@@ -1,0 +1,30 @@
+{
+  "options": [
+    "confection_enable_community",
+    "confection_enable_woocommerce",
+    "confection_version",
+    "confection_ajax_name",
+    "confection_write_key",
+    "confection_account_id",
+    "confection_writed_key",
+    "confection_wp_ajax",
+    "confection_disable_analytics",
+    "confection_custom_cable_url",
+    "confection_inline_script",
+    "confection_additional_code",
+    "confection_privacy",
+    "confection_banner",
+    "confection_show_footer"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "confection_name_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_confection_uuid",
+    "_confection_uuid_sent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:03.956Z"
+}

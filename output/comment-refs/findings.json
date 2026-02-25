@@ -1,0 +1,20 @@
+{
+  "options": [
+    "crefs_comment_redirect",
+    "crefs_get_dofollow",
+    "crefs_post_type",
+    "crefs_prevent_lq",
+    "crefs_miscellaneous",
+    "crefs_get_ten_posts",
+    "crefs_sm_integration"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "comment_refs_metas",
+    "cl_data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:44:14.208Z"
+}

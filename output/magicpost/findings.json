@@ -1,0 +1,39 @@
+{
+  "options": [
+    "wb_magicpost_baidu_api_token",
+    "cht_option",
+    "dlip_option",
+    "wb_magicpost_ver",
+    "wb_magicpost_promote",
+    "wb_magicpost_cnf_*",
+    "magicpost_move",
+    "*ver",
+    "magicpost_schedule",
+    "dwqr_option",
+    "magicpost_translate_error",
+    "magicpost_translate"
+  ],
+  "transients": [
+    "update_plugins",
+    "magicpost_move_query",
+    "magicpost_move_tag_post_query"
+  ],
+  "cron_jobs": [
+    "magic_post_schedule_post",
+    "magic_post_translate_post",
+    "translate_single_post",
+    "magic_post_baidu_translate_get_doc"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "wbmpbdfydocid",
+    "post_downs",
+    "vk_price",
+    "wb_dl_type",
+    "wb_dl_mode",
+    "dwqr_like",
+    "m-p-t-s"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:02.881Z"
+}

@@ -1,0 +1,26 @@
+{
+  "options": [
+    "dfrps_configuration",
+    "dfrpswc_options",
+    "dfrapi_networks",
+    "dfrpswc_version"
+  ],
+  "transients": [
+    "wc_term_counts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_product_attributes",
+    "_dfrps_preprocess_complete_*",
+    "_dfrps_product_set_id",
+    "total_sales",
+    "_dfrps_postprocess_complete_*",
+    "_dfrps_cpt_last_update_num_products_deleted",
+    "_dfrps_product",
+    "_dfrps_is_dfrpswc_product",
+    "_dfrps_cpt_terms"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:42.762Z"
+}

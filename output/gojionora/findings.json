@@ -1,0 +1,20 @@
+{
+  "options": [
+    "gojion_default_variant",
+    "gojion_default_position",
+    "gojion_texts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_gojion_variant",
+    "_gojion_ad",
+    "_gojion_position",
+    "_gojion_applied_at",
+    "_gld_ad",
+    "_gojion_reco_vendor"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:21.853Z"
+}

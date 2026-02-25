@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wuoc_logger', 'wuoc_maintain_uniqueness', 'wuoc_combined_order_status', 'wuoc_move_to_trash', 'wuoc_combined_orders_count', 'wuoc_calculate_totals', 'wuoc_settings', 'wuoc_order_combine_email', 'wuoc_show_retained_meta', 'wuoc_shipping_status', 'wuoc_thankyou_page_cron', 'wuoc_orderslist_page_cron', 'wuoc_filter_by_meta_key', 'wuoc_custom_meta_key_column', 'wuoc_view_order_button', 'wuoc_custom_meta_key_column_csv', 'wuoc_show_order_items_meta', 'wuoc_sort_order_items_by_category', 'wuoc_clone_order_notes', 'wuoc_clone_customer_notes', 'wuoc_clone_shipping', 'wuoc_stock_short_email', 'wuoc_product_backorder_email', 'wuoc_new_order_email', 'wuoc_bootstrap', 'wuoc_rules', 'wuoc_auto_combined_settings', 'wuoc_rule_layers', 'woocommerce_myaccount_page_id', 'wuoc_cart_notices', 'wuoc_backorder_mail_notification', 'wuoc_cuztomization', 'wuoc_crons_options', 'active_sitewide_plugins', 'woocommerce_custom_orders_table_enabled');
+

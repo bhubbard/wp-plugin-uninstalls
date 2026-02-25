@@ -1,0 +1,23 @@
+{
+  "options": [
+    "esherpa_login_guard_max_attempts",
+    "esherpa_login_guard_base_minutes",
+    "esherpa_login_guard_protected_usernames",
+    "esherpa_login_guard_disable_xmlrpc",
+    "esherpa_login_guard_xmlrpc_fake_users",
+    "esherpa_login_guard_disable_rest_users",
+    "esherpa_login_guard_block_author_archive",
+    "esherpa_login_guard_cleanup_days"
+  ],
+  "transients": [
+    "esherpa_attempts_*",
+    "esherpa_lockout_*"
+  ],
+  "cron_jobs": [
+    "esherpa_login_guard_cleanup_event"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:06.843Z"
+}

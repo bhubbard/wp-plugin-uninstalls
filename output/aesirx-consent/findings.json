@@ -1,0 +1,26 @@
+{
+  "options": [
+    "aesirx_analytics_plugin_options",
+    "aesirx_consent_verify_plugin_options",
+    "aesirx_consent_modal_plugin_options",
+    "aesirx_consent_gpc_plugin_options",
+    "aesirx_consent_geo_plugin_options",
+    "aesirx_analytics_do_activation_redirect",
+    "aesirx_analytics_plugin_options_disabled_block_domains",
+    "aesirx_consent_ai_plugin_options",
+    "aesirx_privacy_policy_url",
+    "*]"
+  ],
+  "transients": [
+    "aesirx_analytics_flow_uuid",
+    "aesirx_analytics_update_notice",
+    "aesirx_consent_pro_upsell_notice"
+  ],
+  "cron_jobs": [
+    "analytics_cron_geo"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:00.738Z"
+}

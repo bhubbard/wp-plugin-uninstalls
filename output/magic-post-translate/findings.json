@@ -1,0 +1,14 @@
+{
+  "options": [
+    "magic_post_translate_plugin_langs_settings",
+    "magic_post_translate_plugin_main_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mpt_value_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:02.115Z"
+}

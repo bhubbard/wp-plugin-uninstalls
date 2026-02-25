@@ -1,0 +1,15 @@
+{
+  "options": [
+    "hmd_options",
+    "head-meta-data-dismiss-notice"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "hmd_disable_default",
+    "head-meta-data"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:36:18.429Z"
+}

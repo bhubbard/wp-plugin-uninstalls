@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_acima_credit_settings"
+  ],
+  "transients": [
+    "acima_api_access_token",
+    "acima_sdk_url_logged"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_acima_credit_lease_id",
+    "_acima_credit_checkout_token"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:39.187Z"
+}

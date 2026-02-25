@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [
+    "parasol_disabled",
+    "parasol_whitelist_domains"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:54.470Z"
+}

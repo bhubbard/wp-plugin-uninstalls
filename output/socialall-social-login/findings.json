@@ -1,0 +1,17 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "sk_login_*",
+    "*_username",
+    "sk_login_pass",
+    "nickname",
+    "first_name",
+    "last_name",
+    "description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:39.974Z"
+}

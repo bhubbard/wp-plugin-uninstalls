@@ -1,0 +1,18 @@
+{
+  "options": [
+    "hdf_form_style",
+    "hdf_flood"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "hdf_flood_cron",
+    "hdf_uploads_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "form_data",
+    "form_blocks"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:10:50.017Z"
+}

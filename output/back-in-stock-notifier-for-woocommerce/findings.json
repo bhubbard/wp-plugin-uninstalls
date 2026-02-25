@@ -1,0 +1,41 @@
+{
+  "options": [
+    "cwginstocksettings",
+    "woocommerce_email_from_address",
+    "woocommerce_email_from_name",
+    "woocommerce_email_footer_text",
+    "cwginstock_imail_settings",
+    "cwginstock_backend_ui",
+    "cwginstock_test_email_status",
+    "cwginstock_iagree_settings",
+    "cwg_data_upgraded"
+  ],
+  "transients": [
+    "cwginstock_esta",
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cwginstock_bypass_pid",
+    "cwginstock_pid",
+    "cwginstock_subscriber_email",
+    "cwginstock_mail_on",
+    "cwginstock_subscriber_personal_data_deleted",
+    "cwg_total_subscribers",
+    "cwginstock_*",
+    "cwginstock_bypass_id",
+    "cwginstock_subscriber_name",
+    "cwginstock_user_id",
+    "cwginstock_subscriber_phone",
+    "cwginstock_product_id",
+    "cwginstock_variation_id",
+    "cwginstock_custom_quantity",
+    "cwginstock_created_via",
+    "cwg_product_ids",
+    "cwg_eta_date",
+    "cwg_stock_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:34:34.431Z"
+}

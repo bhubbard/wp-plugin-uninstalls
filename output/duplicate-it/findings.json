@@ -1,0 +1,24 @@
+{
+  "options": [
+    "post_duplicate_it_title_prefix",
+    "post_duplicate_it_title_suffix",
+    "post_duplicate_it_status",
+    "post_duplicate_it_enable_type",
+    "post_duplicate_it_redirect_link",
+    "post_duplicate_it_role_allowed",
+    "duplicate_do_activation_redirect",
+    "duplicate_it_plugin_rated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "duplicate_counter",
+    "_elementor_data",
+    "_wp_page_template",
+    "_elementor_edit_mode",
+    "_elementor_template_type"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:01:38.083Z"
+}

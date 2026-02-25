@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_wlcms_messages",
+    "wlcms_options",
+    "wlcms_o_ver"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "vum_hide_dashboard*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:59.366Z"
+}

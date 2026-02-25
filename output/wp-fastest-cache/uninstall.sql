@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('yith_wcwl_wishlist_page_id', 'WpFastestCacheExclude', 'WpFastestCachePreLoad', 'WpFastestCache', 'views_options', 'elementor_element_cache_ttl', 'elementor_experiment-e_element_cache', 'elementor_css_print_method', 'WpFastestCacheCDN', 'polylang', 'WpFastestCacheCSP', 'WpFastestCacheVarnish', 'WpFastestCache_autocache', 'WpFastestCachePathSettings', 'WpFcDeleteCacheLogs', 'WpFastestCacheCSS', 'WpFastestCacheCSSSIZE', 'WpFastestCacheJS', 'WpFastestCacheJSSIZE', 'WpFastestCacheXML', 'WpFastestCacheXMLSIZE', 'WpFastestCacheSVG', 'WpFastestCacheSVGSIZE', 'WpFastestCacheJSON', 'WpFastestCacheJSONSIZE', 'WpFastestCacheWOFF', 'WpFastestCacheWOFFSIZE', 'WpFastestCacheToolbarSettings', 'wpfc_country_code', 'WpFcServerUrl', 'WpFcLastImageId', 'WpFcImgOptNonce', 'wpfc-group', 'WpFc_credit', 'WpFc_api_key', 'wpfc_premium_update_info', 'hide_my_wp', 'falke_mdm_mappings', 'WpFastestCacheHTML', 'WpFastestCacheHTMLSIZE', 'WpFastestCacheMOBILE', 'WpFastestCacheMOBILESIZE', 'active_sitewide_plugins', 'wpfc_premium_update_info');
+

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "owcpv_form_product",
+    "owcpv_settings_value",
+    "owcpv_json_value",
+    "owcpv_form"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:54.299Z"
+}

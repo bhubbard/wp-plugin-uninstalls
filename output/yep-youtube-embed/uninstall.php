@@ -1,0 +1,15 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('yep_settings');
+delete_site_option('yep_settings');
+delete_option('yep_version');
+delete_site_option('yep_version');
+delete_option('yep_date_install');
+delete_site_option('yep_date_install');
+

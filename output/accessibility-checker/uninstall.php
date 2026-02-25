@@ -1,0 +1,154 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('edacp_license_status');
+delete_site_option('edacp_license_status');
+delete_option('edac_black_friday_2025_notice_dismiss');
+delete_site_option('edac_black_friday_2025_notice_dismiss');
+delete_option('edac_black_friday_2024_notice_dismiss');
+delete_site_option('edac_black_friday_2024_notice_dismiss');
+delete_option('edac_black_friday_2023_notice_dismiss');
+delete_site_option('edac_black_friday_2023_notice_dismiss');
+delete_option('edac_gaad_notice_dismiss_2025');
+delete_site_option('edac_gaad_notice_dismiss_2025');
+delete_option('edac_gaad_notice_dismiss_2024');
+delete_site_option('edac_gaad_notice_dismiss_2024');
+delete_option('edac_gaad_notice_dismiss');
+delete_site_option('edac_gaad_notice_dismiss');
+delete_option('edac_review_notice');
+delete_site_option('edac_review_notice');
+delete_option('edac_simplified_summary_prompt');
+delete_site_option('edac_simplified_summary_prompt');
+delete_option('edac_simplified_summary_position');
+delete_site_option('edac_simplified_summary_position');
+delete_option('edacp_fullscan_completed_at');
+delete_site_option('edacp_fullscan_completed_at');
+delete_option('edac_db_version');
+delete_site_option('edac_db_version');
+delete_option('edacah_enable_show_history_button');
+delete_site_option('edacah_enable_show_history_button');
+delete_option('edac_accessibility_policy_page');
+delete_site_option('edac_accessibility_policy_page');
+delete_option('edac_activation_date');
+delete_site_option('edac_activation_date');
+delete_option('edac_add_footer_accessibility_statement');
+delete_site_option('edac_add_footer_accessibility_statement');
+delete_option('edac_delete_data');
+delete_site_option('edac_delete_data');
+delete_option('edac_include_accessibility_statement_link');
+delete_site_option('edac_include_accessibility_statement_link');
+delete_option('edac_post_types');
+delete_site_option('edac_post_types');
+delete_option('edacp_simplified_summary_heading');
+delete_site_option('edacp_simplified_summary_heading');
+delete_option('edacp_ignore_user_roles');
+delete_site_option('edacp_ignore_user_roles');
+global $wpdb;
+$options = $wpdb->get_col( $wpdb->prepare( "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s", 'edac_fix_%' ) );
+foreach ( $options as $opt ) {
+	delete_option( $opt );
+	delete_site_option( $opt );
+}
+delete_option('edac_fix_comment_label');
+delete_site_option('edac_fix_comment_label');
+delete_option('edac_fix_search_label');
+delete_site_option('edac_fix_search_label');
+delete_option('edac_fix_focus_outline');
+delete_site_option('edac_fix_focus_outline');
+delete_option('edac_fix_add_lang_and_dir');
+delete_site_option('edac_fix_add_lang_and_dir');
+delete_option('edac_fix_force_link_underline');
+delete_site_option('edac_fix_force_link_underline');
+delete_option('edac_fix_add_read_more_title');
+delete_site_option('edac_fix_add_read_more_title');
+delete_option('edac_fix_add_read_more_title_screen_reader_only');
+delete_site_option('edac_fix_add_read_more_title_screen_reader_only');
+delete_option('edac_fix_add_skip_link');
+delete_site_option('edac_fix_add_skip_link');
+delete_option('edac_fix_add_skip_link_target_id');
+delete_site_option('edac_fix_add_skip_link_target_id');
+delete_option('edac_fix_add_skip_link_nav_target_id');
+delete_site_option('edac_fix_add_skip_link_nav_target_id');
+delete_option('edac_fix_remove_tabindex');
+delete_site_option('edac_fix_remove_tabindex');
+delete_option('edac_frontend_highlighter_position');
+delete_site_option('edac_frontend_highlighter_position');
+delete_option('edacp_full_site_scan_speed');
+delete_site_option('edacp_full_site_scan_speed');
+delete_option('edacp_enable_archive_scanning');
+delete_site_option('edacp_enable_archive_scanning');
+delete_option('edacp_scan_all_taxonomy_terms');
+delete_site_option('edacp_scan_all_taxonomy_terms');
+
+// Delete Transients
+delete_transient('edac_activation_redirect');
+delete_site_transient('edac_activation_redirect');
+delete_transient('edac_review_notice_reminder');
+delete_site_transient('edac_review_notice_reminder');
+delete_transient('edac_fixes_settings_saved');
+delete_site_transient('edac_fixes_settings_saved');
+delete_transient('edacp_scan_id');
+delete_site_transient('edacp_scan_id');
+delete_transient('edacp_scan_total');
+delete_site_transient('edacp_scan_total');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_simplified_summary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_simplified_summary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_simplified_summary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_simplified_summary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_summary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_summary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_summary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_summary' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'edac_welcome_cta_dismissed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'edac_welcome_cta_dismissed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'edac_welcome_cta_dismissed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'edac_welcome_cta_dismissed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'edac_dashboard_cta_dismissed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'edac_dashboard_cta_dismissed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'edac_dashboard_cta_dismissed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'edac_dashboard_cta_dismissed' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", 'edac_email_optin' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", 'edac_email_optin' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", 'edac_email_optin' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", 'edac_email_optin' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_density_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_density_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_density_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_density_data' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_post_checked_js' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_post_checked_js' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_post_checked_js' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_post_checked_js' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_issue_density' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_issue_density' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_issue_density' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_issue_density' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_summary_passed_tests' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_summary_passed_tests' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_summary_passed_tests' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_summary_passed_tests' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_summary_errors' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_summary_errors' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_summary_errors' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_summary_errors' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_summary_warnings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_summary_warnings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_summary_warnings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_summary_warnings' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_summary_ignored' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_summary_ignored' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_summary_ignored' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_summary_ignored' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_edac_summary_contrast_errors' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_edac_summary_contrast_errors' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_edac_summary_contrast_errors' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_edac_summary_contrast_errors' ) );
+

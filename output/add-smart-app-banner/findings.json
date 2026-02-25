@@ -1,0 +1,24 @@
+{
+  "options": [
+    "sab_appleid",
+    "sab_playid",
+    "sab_msid",
+    "sab_msname",
+    "sab_dayshidden",
+    "sab_daysreminder",
+    "sab_title",
+    "sab_author",
+    "sab_button",
+    "sab_iosprice",
+    "sab_playprice",
+    "sab_msprice",
+    "sab_image",
+    "sab_daysreminder  "
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:07.485Z"
+}

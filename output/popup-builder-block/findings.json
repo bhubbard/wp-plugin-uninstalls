@@ -1,0 +1,37 @@
+{
+  "options": [
+    "popupkit_onboard_status",
+    "pbb-settings-tabs",
+    "__pbb_oppai__",
+    "__pbb_license_key__",
+    "popupkit_templates_updated",
+    "*__banner_data",
+    "*__banner_last_check",
+    "*_never_show",
+    "*_ask_me_later",
+    "*_install_date",
+    "*_first_action_Date",
+    "*_first_action",
+    "*_version",
+    "*__stories_data",
+    "*__stories_last_check"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "pbb_analytics_expiry_clean",
+    "pbb_daily_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "pbb_posts_fonts",
+    "abTest",
+    "campaignType",
+    "status",
+    "scheduleDateTime",
+    "scheduleOnDateValue",
+    "scheduleOffDateValue",
+    "scheduleTimeZone"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:32:42.817Z"
+}

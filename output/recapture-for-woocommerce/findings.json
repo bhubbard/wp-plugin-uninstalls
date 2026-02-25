@@ -1,0 +1,32 @@
+{
+  "options": [
+    "recapture_custom_recapture_host",
+    "recapture_custom_loader_url",
+    "recapture_api_key",
+    "recapture_authenticator_token",
+    "recapture_discount_code",
+    "recapture_woo_include_tax_in_cart"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_recapture_cart_id",
+    "_edd_payment_meta",
+    "recapture_cart_id_*",
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "usage_limit",
+    "expiry_date",
+    "exclude_sale_items",
+    "usage_count",
+    "limit_usage_to_x_items",
+    "usage_limit_per_user",
+    "free_shipping",
+    "minimum_amount",
+    "recapture_missing_plugin_nag"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:00.811Z"
+}

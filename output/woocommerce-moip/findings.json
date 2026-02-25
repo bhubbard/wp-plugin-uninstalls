@@ -1,0 +1,16 @@
+{
+  "options": [
+    "woocommerce_moip_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "woocommerce_moip_method",
+    "woocommerce_moip_code",
+    "woocommerce_moip_status",
+    "woocommerce_moip_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:35.897Z"
+}

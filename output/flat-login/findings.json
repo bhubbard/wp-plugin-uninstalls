@@ -1,0 +1,17 @@
+{
+  "options": [
+    "flat_logo_upload",
+    "flat_logo_url",
+    "flat_logo_title",
+    "flat_bg_color",
+    "flat_custom_style",
+    "flat_logo_width",
+    "flat_logo_height"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:33.098Z"
+}

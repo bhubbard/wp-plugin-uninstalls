@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mincalendar-options",
+    "mincalendar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "year",
+    "month",
+    "_old_MC_unit_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:48.485Z"
+}

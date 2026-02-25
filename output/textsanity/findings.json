@@ -1,0 +1,29 @@
+{
+  "options": [
+    "*access_token",
+    "*refresh_token",
+    "*settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "position",
+    "enabled",
+    "location",
+    "type",
+    "tags",
+    "keywords",
+    "message",
+    "background_color",
+    "text_color",
+    "popup_delay",
+    "chat_popup_auto",
+    "chat_popup_delay",
+    "description",
+    "thank_you",
+    "no_style"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:51.572Z"
+}

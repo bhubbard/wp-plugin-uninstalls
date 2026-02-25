@@ -1,0 +1,15 @@
+{
+  "options": [
+    "photo-gallery-plus-wizard-set-up",
+    "pgp_wpgeeks_site_id",
+    "active_sitewide_plugins",
+    "photo-gallery-plus-version-number",
+    "photo_gallery_plus_do_activation_redirect"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:45:08.185Z"
+}

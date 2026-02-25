@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mvc_logged_in_only",
+    "_mvc_logged_out_only",
+    "_mvc_role_administrator",
+    "_mvc_role_editor",
+    "_mvc_role_author",
+    "_mvc_role_contributor",
+    "_mvc_role_subscriber",
+    "_mvc_hide_on_mobile",
+    "_mvc_hide_on_tablet",
+    "_mvc_hide_on_desktop",
+    "_mvc_hide_on_current_page"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:51:56.080Z"
+}

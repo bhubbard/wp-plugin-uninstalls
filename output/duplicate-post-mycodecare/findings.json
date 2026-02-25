@@ -1,0 +1,26 @@
+{
+  "options": [
+    "selected_post_types_taxonomies",
+    "duplicate_post_button_text",
+    "duplicate_post_status",
+    "duplicate_post_prefix_text",
+    "duplicate_post_suffix_text",
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "update_themes",
+    "_fs_api_connection_retry_counter"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:05.199Z"
+}

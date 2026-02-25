@@ -1,0 +1,14 @@
+{
+  "options": [
+    "scrolltotop_plugin_settings"
+  ],
+  "transients": [
+    "scrolltotop_dynamic_js",
+    "scrolltotop_dynamic_css"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:58:49.085Z"
+}

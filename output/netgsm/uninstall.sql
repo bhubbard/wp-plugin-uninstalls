@@ -1,0 +1,33 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('netgsm_iys_control', 'netgsm_brandcode_control', 'netgsm_recipient_type', 'netgsm_brandcode_text', 'netgsm_user', 'netgsm_pass', 'netgsm_input_smstitle', 'netgsm_newuser_to_admin_control', 'netgsm_newuser_to_admin_no', 'netgsm_newuser_to_admin_text', 'netgsm_newuser_to_customer_control', 'netgsm_newuser_to_customer_text', 'netgsm_neworder_to_admin_control', 'netgsm_neworder_to_admin_no', 'netgsm_neworder_to_admin_text', 'netgsm_neworder_to_customer_control', 'netgsm_neworder_to_customer_text', 'netgsm_newnote1_to_customer_control', 'netgsm_newnote1_to_customer_text', 'netgsm_newnote2_to_customer_control', 'netgsm_newnote2_to_customer_text', 'netgsm_order_refund_to_admin_control', 'netgsm_order_refund_to_admin_no', 'netgsm_order_refund_to_admin_text', 'netgsm_abandoned_card_sms_admin_control', 'netgsm_abandoned_cart_periyod', 'netgsm_abandoned_cart_smslimit', 'netgsm_abandoned_cart_to_admin_text', 'netgsm_abandoned_cart_to_admin_json', 'netgsm_product_waitlist1_control', 'netgsm_product_waitlist1_text', 'netgsm_orderstatus_change_customer_control', 'netgsm_status', 'netgsm_trChar', 'netgsm_order_status_query_control', 'netgsm_order_status_query_prefix', 'netgsm_order_status_query_text', 'netgsm_order_status_query_error_text', 'netgsm_order_status_query_token', 'netgsm_order_status_query_link', 'netgsm_newuser_to_admin_json', 'netgsm_newuser_to_customer_json', 'netgsm_newnote1_to_customer_json', 'netgsm_newnote2_to_customer_json', 'netgsm_neworder_to_admin_json', 'netgsm_neworder_to_customer_json', 'netgsm_order_refund_to_admin_json', 'netgsm_product_waitlist1_json', 'netgsm_tf2_auth_register_control', 'netgsm_tf2_auth_register_text');
+DELETE FROM wp_options WHERE option_name IN ('netgsm_tf2_auth_register_diff', 'netgsm_tf2_cash_on_delivery_control', 'netgsm_tf2_cash_on_delivery_text', 'netgsm_tf2_cash_on_delivery_diff', 'netgsm_tf2_auth_register_phone_control', 'netgsm_tf2_auth_register_phone_warning_text', 'netgsm_contact_meta_key', 'netgsm_auth_roles', 'netgsm_auth_users', 'netgsm_auth_roles_control', 'netgsm_auth_users_control', 'netgsm_phonenumber_zero1', 'netgsm_licence_key_to_meta', 'netgsm_iys_check_text', 'netgsm_iys_check_control', 'netgsm_message', 'netgsm_call', 'netgsm_email', 'netgsm_iys_meta_key', 'netgsm_asistan', 'netgsm_asistan_message', 'netgsm_asistan_messagenumber', 'netgsm_asistan_call', 'netgsm_asistan_callnumber', 'netgsm_asistan_email', 'netgsm_asistan_emailaddress', 'netgsm_asistan_whatsapp', 'netgsm_asistan_whatsappnumber', 'netgsm_asistan_netasistan', 'netgsm_netasistan_appkey', 'netgsm_netasistan_userkey', 'netgsm_netasistan_etiket', 'netgsm_netasistan_token', 'netgsm_netasistan_tokendate', 'netgsm_cf7_success_customer_control', 'netgsm_cf7_success_admin_control', 'netgsm_cf7_contact_control', 'netgsm_cf7_to_admin_no', 'netgsm_rehber_control');
+DELETE FROM wp_options WHERE option_name LIKE 'netgsm_order_status_text_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_json';
+DELETE FROM wp_options WHERE option_name LIKE 'netgsm_cf7_list_text_success_customer_%';
+DELETE FROM wp_options WHERE option_name LIKE 'netgsm_cf7_list_text_success_admin_%';
+DELETE FROM wp_options WHERE option_name LIKE 'netgsm_cf7_list_contact_%';
+DELETE FROM wp_options WHERE option_name LIKE 'netgsm_cf7_list_contact_firstname_%';
+DELETE FROM wp_options WHERE option_name LIKE 'netgsm_cf7_list_contact_lastname_%';
+DELETE FROM wp_options WHERE option_name LIKE 'netgsm_cf7_list_contact_other_%';
+DELETE FROM wp_options WHERE option_name LIKE 'netgsm_cf7_list_text_error_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('billing_phone', 'first_name', 'last_name', 'netgsm_kvkk_check', '_licence_keys', '_new_order_netgsm');
+DELETE FROM wp_usermeta WHERE meta_key IN ('billing_phone', 'first_name', 'last_name', 'netgsm_kvkk_check', '_licence_keys', '_new_order_netgsm');
+DELETE FROM wp_termmeta WHERE meta_key IN ('billing_phone', 'first_name', 'last_name', 'netgsm_kvkk_check', '_licence_keys', '_new_order_netgsm');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('billing_phone', 'first_name', 'last_name', 'netgsm_kvkk_check', '_licence_keys', '_new_order_netgsm');
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_2fa';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_2fa';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_2fa';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_2fa';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_2fa_time';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_2fa_time';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_2fa_time';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_2fa_time';
+DELETE FROM wp_postmeta WHERE meta_key LIKE '%_2fa_ref';
+DELETE FROM wp_usermeta WHERE meta_key LIKE '%_2fa_ref';
+DELETE FROM wp_termmeta WHERE meta_key LIKE '%_2fa_ref';
+DELETE FROM wp_commentmeta WHERE meta_key LIKE '%_2fa_ref';
+

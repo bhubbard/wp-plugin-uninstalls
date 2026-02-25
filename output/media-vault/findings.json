@@ -1,0 +1,21 @@
+{
+  "options": [
+    "mgjp_mv_enabled",
+    "mgjp_mv_deactivation",
+    "mgjp_mv_version",
+    "mgjp_mv_ir",
+    "mgjp_mv_default_permission",
+    "mgjp_mv_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attached_file",
+    "_mgjp_mv_permission",
+    "_wp_attachment_backup_sizes",
+    "_wp_attachment_metadata"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:59.518Z"
+}

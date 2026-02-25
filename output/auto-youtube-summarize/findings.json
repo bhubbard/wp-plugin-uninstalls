@@ -1,0 +1,43 @@
+{
+  "options": [
+    "ays_authkey",
+    "ays_keywords",
+    "ays_order",
+    "ays_publishedAfter",
+    "ays_maxResults",
+    "ays_commentName",
+    "ays_commentCount",
+    "ays_descriptionIndex",
+    "ays_postFirstContent",
+    "ays_postMovieDescription",
+    "ays_postTemplateText",
+    "ays_afterTemplateText",
+    "ays_postCommentCount",
+    "ays_commentTemplateText",
+    "ays_commentTemplateName",
+    "*keywords",
+    "*order",
+    "*authkey",
+    "*publishedAfter",
+    "*maxResults",
+    "*commentName",
+    "*commentCount",
+    "*postCommentCount",
+    "*descriptionIndex",
+    "*postFirstContent",
+    "*postMovieDescription",
+    "*postTemplateText",
+    "*afterTemplateText",
+    "*commentTemplateText",
+    "*commentTemplateName",
+    "ays_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ays_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:44.551Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "default_temp",
+    "send_mail_after",
+    "send_mail_count",
+    "send_mail_interval"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "asplfs_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:02.099Z"
+}

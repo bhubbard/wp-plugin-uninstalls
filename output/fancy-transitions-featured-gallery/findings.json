@@ -1,0 +1,21 @@
+{
+  "options": [
+    "ftfeatured-width",
+    "ftfeatured-navigationno",
+    "ftfeatured-category",
+    "ftfeatured-items",
+    "ftfeatured-image",
+    "ftfeatured-text",
+    "ftfeatured-effect",
+    "ftfeatured-stripes",
+    "ftfeatured-height",
+    "ftfeatured-delay",
+    "ftfeatured-navigation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:52.088Z"
+}

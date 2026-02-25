@@ -1,0 +1,25 @@
+{
+  "options": [
+    "b1cco_plugin_options",
+    "b1cco_btn_enable_product_weight_in_gm",
+    "b1cco_get_local_atom_url",
+    "b1cco_script_url",
+    "b1cco_get_custom_cookie_data",
+    "b1cco_btn_enable_utm_params",
+    "b1cco_btn_enable_cartflow_abandoned_flow",
+    "b1cco_btn_enable_validate_order_status",
+    "breeze_refund_api_signkey",
+    "breeze_api_key_details",
+    "b1cco_btn_enable_order_refund",
+    "breeze_cart_button_enable",
+    "breeze_cart_drawer_button_enable",
+    "breeze_refund_shop_id",
+    "breeze_enable_refund"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:53.036Z"
+}

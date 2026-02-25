@@ -1,0 +1,31 @@
+{
+  "options": [
+    "dtoc_compatibility",
+    "dtoc_dashboard_options",
+    "dtoc_dashboard",
+    "dtoc_incontent",
+    "dtoc_incontent_mobile",
+    "dtoc_incontent_tablet",
+    "dtoc_shortcode",
+    "dtoc_shortcode_mobile",
+    "dtoc_shortcode_tablet",
+    "dtoc_sliding_sticky",
+    "dtoc_sliding_sticky_mobile",
+    "dtoc_sliding_sticky_tablet",
+    "dtoc_floating",
+    "dtoc_floating_mobile",
+    "dtoc_floating_tablet"
+  ],
+  "transients": [
+    "dtoc_meta_type"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_*",
+    "_dtoc_options",
+    "saswp_custom_schema_field"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:39:06.753Z"
+}

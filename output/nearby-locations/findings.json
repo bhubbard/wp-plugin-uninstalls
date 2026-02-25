@@ -1,0 +1,16 @@
+{
+  "options": [
+    "ajf-nl-google-api-key",
+    "ajf-nl-center-address",
+    "ajf-nl-color-background",
+    "ajf-nl-color-panel",
+    "ajf-nl-color-text",
+    "ajf-nl-version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:57.337Z"
+}

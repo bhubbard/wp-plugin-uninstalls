@@ -1,0 +1,21 @@
+{
+  "options": [
+    "customtables-googlemapapikey",
+    "customtables-googledriveapikey",
+    "customtables-googledriveclientid",
+    "customtables-fieldprefix",
+    "customtables-toolbaricons",
+    "customtables_version"
+  ],
+  "transients": [
+    "customtables_success_message",
+    "customtables_error_message"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "session_tokens"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:42.000Z"
+}

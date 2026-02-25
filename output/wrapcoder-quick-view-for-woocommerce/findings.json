@@ -1,0 +1,20 @@
+{
+  "options": [
+    "qv-checkbox",
+    "qv-btn-text",
+    "qv-btn-txt",
+    "qv-btn-txt-hover",
+    "qv-btn-bg",
+    "qv-btn-bg-hover",
+    "qv-btn-pos",
+    "qv-btn-txt-padding",
+    "qv-btn-txt-size",
+    "qv-btn-br"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:58.384Z"
+}

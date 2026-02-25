@@ -1,0 +1,15 @@
+{
+  "options": [
+    "notice-interceptor_rules",
+    "notice-interceptor_autohide",
+    "notice-interceptor_rules_custom",
+    "notice-interceptor_option_adminonly",
+    "notice-interceptor_option_clearing"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:48.431Z"
+}

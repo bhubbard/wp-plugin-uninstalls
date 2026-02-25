@@ -1,0 +1,42 @@
+{
+  "options": [],
+  "transients": [
+    "*pbfwerror"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "pbfw_show_label",
+    "pbfw_image_position",
+    "pbfw_top",
+    "pbfw_left",
+    "pbfw_right",
+    "pbfw_bottom",
+    "pbfw_show_label_single_pro",
+    "badge_define",
+    "pbfw_discount_text",
+    "pbfw_font_clr",
+    "pbfw_bg_clr",
+    "pbfw_ft_size",
+    "pbfw_font_weight",
+    "pbfw_lbl_shape",
+    "pbfw_background",
+    "image_badge",
+    "ocor_bg_img_form",
+    "pbfw_pro_condition",
+    "pbfw_price_condition",
+    "pbfw_bet1",
+    "pbfw_bet2",
+    "pbfw_price",
+    "pbfw_combo",
+    "pbfw_cat",
+    "pbfw_tag",
+    "pbfw_onsale",
+    "pbfw_start_date",
+    "pbfw_start_time",
+    "pbfw_end_date",
+    "pbfw_end_time"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:38.672Z"
+}

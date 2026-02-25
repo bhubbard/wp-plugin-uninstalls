@@ -1,0 +1,16 @@
+{
+  "options": [
+    "parasut_api_settings",
+    "parasut_araclar_ayarlar",
+    "parasut_license_key",
+    "parasut_ana_ayarlar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "parasut_urun_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:58.646Z"
+}

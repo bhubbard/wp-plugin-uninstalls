@@ -1,0 +1,25 @@
+{
+  "options": [
+    "asmkc_schema_settings",
+    "asmkc_schema_control",
+    "asmkc_person_defaults"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_asmkc_schema_enable",
+    "_asmkc_schema_type_control",
+    "_asmkc_schema_detected_types",
+    "_asmkc_person_name",
+    "_asmkc_person_job",
+    "_asmkc_person_desc",
+    "_asmkc_person_image",
+    "_asmkc_person_sns",
+    "_asmkc_service_name",
+    "_asmkc_service_type",
+    "_asmkc_service_parent_url"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:50:36.609Z"
+}

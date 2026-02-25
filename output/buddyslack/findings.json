@@ -1,0 +1,14 @@
+{
+  "options": [
+    "buddyslack_options",
+    "buddyslack_bp_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "buddyslack_activity_setting"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:37.296Z"
+}

@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [
+    "freeze_key",
+    "freeze_update_available"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:34.549Z"
+}

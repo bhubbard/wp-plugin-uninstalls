@@ -1,0 +1,21 @@
+{
+  "options": [
+    "_bigin_auth_infos",
+    "store_all_token_data",
+    "store_refresh_token_data",
+    "w3sc_bigin_installed",
+    "w3sc_bigin_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "w3sc-cf7-bigin_cf7_form",
+    "_wp_page_template",
+    "integration_enable_disable",
+    "w3sc_bigin_fields_repeat_group",
+    "w3sc-cf7-bigin_module"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:13.821Z"
+}

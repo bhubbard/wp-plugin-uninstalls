@@ -1,0 +1,21 @@
+{
+  "options": [
+    "cirvgu_debug_mode",
+    "cirvgu_debug_log",
+    "cirvgu_rating_notice_installed",
+    "cirvgu_scan_results",
+    "cirvgu_last_scan_time",
+    "cirvgu_enable_alt_text_check",
+    "cirvgu_enable_heading_check",
+    "cirvgu_enable_contrast_check",
+    "cirvgu_enable_form_label_check",
+    "cirvgu_enable_link_text_check",
+    "cirvgu_rating_notice_dismissed"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:01.004Z"
+}

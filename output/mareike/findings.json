@@ -1,0 +1,27 @@
+{
+  "options": [
+    "mareike_use_webdav",
+    "mareike_webdav_host",
+    "mareike_webdav_user",
+    "mareike_webdav_pass",
+    "mareike_receipt_uploaddir",
+    "mareike_sepa_settings_account_owner",
+    "mareike_sepa_settings_account_iban",
+    "mareike_sepa_settings_account_bic",
+    "mareike_last_version",
+    "page_used_for_state"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mareike/costunit/autoclose"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "iban",
+    "account_owner"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:53:18.395Z"
+}

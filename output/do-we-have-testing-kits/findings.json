@@ -1,0 +1,14 @@
+{
+  "options": [
+    "dwhtk_time",
+    "dwhtk_status",
+    "dwhtk_yes_content",
+    "dwhtk_no_content"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:06.030Z"
+}

@@ -1,0 +1,19 @@
+{
+  "options": [
+    "ps_widget_for_zendesk_chat_via_api_review_time",
+    "ps_widget_for_zendesk_chat_via_api_dismiss_review_notice",
+    "ps_zendesk_chat_widget_api_code",
+    "ps_zendesk_chat_widget_api_delay_time",
+    "ps_zendesk_chat_widget_api_remove_data",
+    "ps_zendesk_chat_widget_api_code_status",
+    "widget_for_zendesk_chat_via_api_subscription_shown"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ps_zendesk_chat_widget_api_code_disable"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:59:19.501Z"
+}

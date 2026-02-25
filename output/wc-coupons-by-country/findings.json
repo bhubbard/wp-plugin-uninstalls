@@ -1,0 +1,12 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "billing_countries",
+    "shipping_countries"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:05:58.306Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wp_bio_links_nickname_color",
+    "wp_bio_links_link_bg_color",
+    "wp_bio_links_link_border_color",
+    "wp_bio_links_link_text_color",
+    "wp_bio_links_thumbnail",
+    "wp_bio_links_credits"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wp_bio_links"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:08:08.905Z"
+}

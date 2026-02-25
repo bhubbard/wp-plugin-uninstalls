@@ -1,0 +1,21 @@
+{
+  "options": [
+    "zypento_enabled_features",
+    "zyp_bg_processing",
+    "zyp_bg_processing_time"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "zyp_bg_process"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "zyp_task_type",
+    "zyp_product",
+    "zyp_user",
+    "zyp_email",
+    "zyp_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:55:28.956Z"
+}

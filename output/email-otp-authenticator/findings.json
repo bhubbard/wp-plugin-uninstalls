@@ -1,0 +1,49 @@
+{
+  "options": [
+    "emailotpauthn_templatesdata",
+    "emailotpauthn_extremedemo",
+    "emailotpauthn_isaddonfilplcd",
+    "emailotpauthn_enable",
+    "emailotpauthn_useupgrdfiture",
+    "emailotpauthn_email_subject",
+    "emailotpauthn_email_body",
+    "emailotpauthn_dfltextrnalcss",
+    "emailotpauthn_mdfdextrnalcss",
+    "emailotpauthn_message",
+    "emailotpauthn_settingsdetls",
+    "emailotpauthn_formnoticentxt",
+    "emailotpauthn_blockedemails",
+    "emailotpauthn_allowedemails",
+    "emailotpauthn_blockedmailid",
+    "emailotpauthn_emailsettings",
+    "emailotpauthn_firelimit",
+    "emailotpauthn_duralimit",
+    "emailotpauthn_validfor",
+    "emailotpauthn_cleanaftrdays",
+    "emailotpauthn_lognatmptlimit",
+    "emailotpauthn_rgstratmptlmit",
+    "emailotpauthn_useratmptlimit",
+    "emailotpauthn_tokenvlidfrmbr",
+    "emailotpauthn_guestatmptlmit",
+    "emailotpauthn_tokenvlidfrgst",
+    "emailotpauthn_isactvfrmmail",
+    "emailotpauthn_mmbrrjtrdcturl",
+    "emailotpauthn_gustrjtrdcturl",
+    "emailotpauthn_mmbrvrfrdcturl",
+    "emailotpauthn_gustvrfrdcturl"
+  ],
+  "transients": [
+    "is_eotpa_data_eximported",
+    "emailotpauthn_*",
+    "update_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_menu_item_data_attribute",
+    "emilotpauthn",
+    "emilotpatmpt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:58.809Z"
+}

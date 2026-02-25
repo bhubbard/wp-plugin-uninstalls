@@ -1,0 +1,12 @@
+{
+  "options": [
+    "jal_db_version",
+    "chave_de_integracao"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:15.596Z"
+}

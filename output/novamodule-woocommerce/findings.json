@@ -1,0 +1,19 @@
+{
+  "options": [
+    "woocommerce_custom_orders_table_enabled",
+    "extra_membership",
+    "extra_order_meta_keys",
+    "extra_customer_meta_keys"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "nm_ns_pushed",
+    "first_name",
+    "last_name",
+    "last_update"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:45.632Z"
+}

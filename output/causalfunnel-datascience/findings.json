@@ -1,0 +1,15 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "causalfunnel_enable_analytics",
+    "causalfunnel_enable_data_collection",
+    "causalfunnel_consent_version",
+    "causalfunnel_consent_date"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:28:53.426Z"
+}

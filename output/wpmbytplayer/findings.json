@@ -1,0 +1,21 @@
+{
+  "options": [
+    "*_notice_dismiss",
+    "mbYTPlayer_version",
+    "mbYTPlayer_is_active",
+    "mbYTPlayer_video_url",
+    "mbYTPlayer_video_page",
+    "mbYTPlayer_remember_last_time",
+    "mbYTPlayer_init_delay",
+    "mbYTPlayer_price",
+    "mbYTPlayer_Home_is_active",
+    "mbYTPlayer_home_video_url",
+    "mbYTPlayer_home_video_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:48:02.741Z"
+}

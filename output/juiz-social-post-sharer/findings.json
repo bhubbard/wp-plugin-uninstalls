@@ -1,0 +1,18 @@
+{
+  "options": [
+    "juiz_SPS_settings"
+  ],
+  "transients": [
+    "*-skin-shop-markup",
+    "*-changelog"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_jsps_metabox_hide_buttons",
+    "_jsps_email_shares",
+    "_jsps_counters"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:48.977Z"
+}

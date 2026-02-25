@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lazyaico_db_v"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "lazyaico_status",
+    "lazyaico_reviewers",
+    "lazyaico_comments"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:43:18.636Z"
+}

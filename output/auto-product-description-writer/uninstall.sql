@@ -1,0 +1,11 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('momo_acgwc_insights_settings', 'momo_acgwc_chatbot_settings', 'momo_acg_cb_trainings_list', 'momo_acgwc_cb_trainings_settings', 'momo_acgwc_cb_dashboard_contents', 'momo_acg_wc_edit_product_settings', 'momo_acg_wc_openai_settings', 'momowc_rssfeed_openai_settings', 'momowc_autoblog_openai_settings', 'momo_acg_rssfeed_event_list', 'fs_debug_mode', '_transient_timeout_fs_snooze_period', '_site_transient_timeout_fs_snooze_period', 'active_sitewide_plugins', 'fs_storage_logger', 'fs_active_plugins', 'momo_wsw_api_cache_settings', 'momo_acg_wc_insights_settings', 'momo_acg_wc_related_settings', 'momo_acg_wc_searchlog_settings', 'fs_snooze_period', 'update_plugins', '_fs_api_connection_retry_counter', 'update_themes', 'momo_revenue_insights', 'momo_revenue_insights_monthly', 'momo_revenue_insights_weekly', 'momo_revenue_insights_yearly', 'momo_order_insights', 'momo_average_order_insights', 'momo_weekly_sales_insights', 'momo_monthly_sales_insights', 'momo_overall_insights', 'momo_overall_insights_monthly', 'momo_overall_insights_weekly', 'momo_overall_insights_yearly');
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('workflow_status', 'event', 'event_action', 'to', 'reply_to_name', 'reply_to_email', 'subject', 'heading', 'preheader', 'reply_name', 'reply_email', 'momo_views_count', 'momo_view_date', 'total_sales');
+DELETE FROM wp_usermeta WHERE meta_key IN ('workflow_status', 'event', 'event_action', 'to', 'reply_to_name', 'reply_to_email', 'subject', 'heading', 'preheader', 'reply_name', 'reply_email', 'momo_views_count', 'momo_view_date', 'total_sales');
+DELETE FROM wp_termmeta WHERE meta_key IN ('workflow_status', 'event', 'event_action', 'to', 'reply_to_name', 'reply_to_email', 'subject', 'heading', 'preheader', 'reply_name', 'reply_email', 'momo_views_count', 'momo_view_date', 'total_sales');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('workflow_status', 'event', 'event_action', 'to', 'reply_to_name', 'reply_to_email', 'subject', 'heading', 'preheader', 'reply_name', 'reply_email', 'momo_views_count', 'momo_view_date', 'total_sales');
+

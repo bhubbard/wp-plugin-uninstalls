@@ -1,0 +1,13 @@
+{
+  "options": [
+    "ctpam_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_ctpam_exclude"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:42.345Z"
+}

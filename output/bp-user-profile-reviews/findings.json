@@ -1,0 +1,28 @@
+{
+  "options": [
+    "bupr_admin_general_options",
+    "bupr_admin_settings",
+    "bupr_admin_display_options",
+    "bupr_member_type_criteria",
+    "active_sitewide_plugins",
+    "bupr_plugin_version",
+    "bupr_current_batch"
+  ],
+  "transients": [
+    "_bupr_activation_redirect"
+  ],
+  "cron_jobs": [
+    "bupr_cron_recalculate_user_reviews_batch"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "profile_star_rating",
+    "linked_bp_member",
+    "bupr_anonymous_review_post",
+    "bupr_aggregate_rating",
+    "bupr_review_count",
+    "bupr_last_calculated"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:59.927Z"
+}

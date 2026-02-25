@@ -1,0 +1,23 @@
+{
+  "options": [
+    "ezcache_first_run",
+    "ezcache_convert_images_to_webp_reprocess_queue",
+    "ezcache_version"
+  ],
+  "transients": [
+    "ezcache_activating",
+    "ezcache_deactivating",
+    "ezcache_repaired",
+    "ezcache_https_2_support"
+  ],
+  "cron_jobs": [
+    "ezcache_clear_expired_cache",
+    "ezcache_convert_images_to_webp_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_ezcache_do_not_cache_post"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:38.361Z"
+}

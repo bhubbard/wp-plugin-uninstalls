@@ -1,0 +1,14 @@
+{
+  "options": [
+    "trafficpulse_api_token",
+    "trafficpulse_api_url",
+    "trafficpulse_plausible_url",
+    "trafficpulse_auto_insert"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:31.635Z"
+}

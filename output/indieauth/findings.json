@@ -1,0 +1,26 @@
+{
+  "options": [
+    "indieauth_config",
+    "indieauth_root_user",
+    "indieauth_expires_in",
+    "*ids",
+    "indieauth_show_login_form",
+    "iw_default_author"
+  ],
+  "transients": [
+    "indieauth_discovery_*",
+    "single_author"
+  ],
+  "cron_jobs": [
+    "indieauth_cleanup"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "indieauth_external_tokens",
+    "icon",
+    "client_uri",
+    "last_modified"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:24.008Z"
+}

@@ -1,0 +1,35 @@
+{
+  "options": [
+    "dfsh_bypass_coupons",
+    "dfsh_bypass_roles",
+    "dfsh_schedule_enabled",
+    "dfsh_schedule_start",
+    "dfsh_schedule_end",
+    "dfsh_category_thresholds",
+    "dfsh_enabled",
+    "dfsh_weight_limit",
+    "dfsh_subtotal_limit",
+    "dfsh_item_count_limit",
+    "dfsh_dimension_limit",
+    "dfsh_zone_thresholds_array",
+    "dfsh_class_thresholds_array",
+    "dfsh_action",
+    "dfsh_shipping_methods",
+    "dfsh_frontend_message",
+    "dfsh_admin_notification",
+    "dfsh_last_notification_time",
+    "woocommerce_weight_unit",
+    "woocommerce_dimension_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "dfsh_send_admin_notification_async"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_dfsh_override_shipping_restriction",
+    "_dfsh_product_weight_limit"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:48:22.462Z"
+}

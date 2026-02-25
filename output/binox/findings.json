@@ -1,0 +1,12 @@
+{
+  "options": [
+    "binox_wp_account",
+    "binox_wp_domain"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:48.601Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "cf7s-submissions_version",
+    "cf7s-submissions_install_time",
+    "links_updated_date_format"
+  ],
+  "transients": [
+    "cx-plugin-info-*"
+  ],
+  "cron_jobs": [
+    "codexpert-daily"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:45:54.710Z"
+}

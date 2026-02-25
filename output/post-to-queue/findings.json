@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ptq_settings"
+  ],
+  "transients": [
+    "ptq_queued_existence"
+  ],
+  "cron_jobs": [
+    "ptq_single_event_reschedule",
+    "ptq_single_event_maybe_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_queue_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:23:23.572Z"
+}

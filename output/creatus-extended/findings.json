@@ -1,0 +1,16 @@
+{
+  "options": [
+    "thz:builder:tpl:last:update",
+    "thz_fontsquirrel_fonts",
+    "thz_fontsquirrel_classifications",
+    "thz_imported_fonts"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "thz_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:56:44.701Z"
+}

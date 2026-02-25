@@ -1,0 +1,16 @@
+{
+  "options": [
+    "cofwc_whatsapp_number",
+    "cofwc_button_text",
+    "cofwc_show_in_product_page",
+    "cofwc_new_tab",
+    "cofwc_hide_price",
+    "cofwc_hide_add_cart_btn"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:36.447Z"
+}

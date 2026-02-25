@@ -1,0 +1,30 @@
+{
+  "options": [
+    "gutenkit_settings_list",
+    "table_builder_settings_list",
+    "__table_builder_oppai__",
+    "__table_builder_license_key__",
+    "table_builder_fse_fonts",
+    "active_sitewide_plugins",
+    "*__banner_data",
+    "*__banner_last_check",
+    "*_never_show",
+    "*_ask_me_later",
+    "*_install_date",
+    "*_first_action_Date",
+    "*_first_action",
+    "*_version",
+    "*__stories_data",
+    "*__stories_last_check"
+  ],
+  "transients": [
+    "table_builder_block_migrate"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "table_builder_posts_fonts"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:06.424Z"
+}

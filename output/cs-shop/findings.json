@@ -1,0 +1,19 @@
+{
+  "options": [
+    "csshop_rakuten_aid",
+    "csshop_rakuten_did",
+    "csshop_amazon_access_id",
+    "csshop_amazon_secret_id",
+    "csshop_amazon_assoc",
+    "csshop_yahoo_appid",
+    "csshop_yahoo_affiliate_id",
+    "csshop_linkshare_token",
+    "csshop_valuecommerce_token"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:29.653Z"
+}

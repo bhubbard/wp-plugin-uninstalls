@@ -1,0 +1,13 @@
+{
+  "options": [
+    "disable_right_click_enabled",
+    "show_topbar_panel",
+    "disable_rest_api"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:22.847Z"
+}

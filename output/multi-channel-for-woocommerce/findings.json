@@ -1,0 +1,26 @@
+{
+  "options": [
+    "*_mapping_saved",
+    "momcs_sync_seller_id"
+  ],
+  "transients": [
+    "momcs_miniorange_notice"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_momcs_amz_asin",
+    "_momcs_amz_listing_issues",
+    "_momcs_amz_listing_status",
+    "_momcs_amz_channel_id",
+    "_momcs_amz_bullet_point_*",
+    "_momcs_amz_id_type",
+    "_momcs_amz_id_value",
+    "_momcs_amz_condition",
+    "_momcs_sync_restrictions",
+    "_momcs_asin",
+    "_momcs_sync_date"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:53.665Z"
+}

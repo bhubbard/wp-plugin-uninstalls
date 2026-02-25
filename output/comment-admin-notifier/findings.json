@@ -1,0 +1,11 @@
+{
+  "options": [
+    "email_comment_admin_alert"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:19.409Z"
+}

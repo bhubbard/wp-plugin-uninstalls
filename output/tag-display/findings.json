@@ -1,0 +1,26 @@
+{
+  "options": [
+    "s7n_tag_display_auto_display",
+    "s7n_tag_display_bg_color",
+    "s7n_tag_display_text_color",
+    "s7n_tag_display_border_color",
+    "s7n_tag_display_hover_bg_color",
+    "s7n_tag_display_hover_text_color",
+    "s7n_tag_display_title",
+    "s7n_tag_display_template",
+    "s7n_tag_display_disable_wp_tags",
+    "s7n_tag_display_show_in_posts",
+    "s7n_tag_display_show_in_pages",
+    "s7n_tag_display_show_in_cpt",
+    "s7n_tag_display_post_template",
+    "s7n_tag_display_page_template",
+    "s7n_tag_display_cpt_template",
+    "s7n_tag_display_custom_taxonomies"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:17:16.747Z"
+}

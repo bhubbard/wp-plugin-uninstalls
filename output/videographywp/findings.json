@@ -1,0 +1,15 @@
+{
+  "options": [
+    "cvwp_plugin_options"
+  ],
+  "transients": [
+    "cvwp_about_page_activated"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:46:02.675Z"
+}

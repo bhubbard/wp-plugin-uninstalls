@@ -1,0 +1,32 @@
+{
+  "options": [
+    "contactformx_*",
+    "contactformx_form",
+    "contactformx_email",
+    "contactformx_customize",
+    "contactformx_appearance",
+    "contactformx_advanced",
+    "cfx-dismiss-notice",
+    "contactformx_init"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "email",
+    "recipient",
+    "name",
+    "website",
+    "custom",
+    "refer",
+    "ip",
+    "host",
+    "agent",
+    "custom2",
+    "custom3",
+    "carbon",
+    "agree"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:55:04.294Z"
+}

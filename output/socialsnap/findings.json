@@ -1,0 +1,48 @@
+{
+  "options": [
+    "socialsnap_rating",
+    "socialsnap_activation_redirect",
+    "socialsnap_authorized_networks",
+    "socialsnap_version",
+    "socialsnap_activated",
+    "dpsp_settings",
+    "dpsp_location_sidebar",
+    "dpsp_location_content",
+    "dpsp_location_sticky_bar",
+    "fsb_global_option",
+    "mashsb_settings",
+    "social_warfare_settings",
+    "classic-editor-replace",
+    "socialsnap_homepage_click_share_count_*",
+    "socialsnap_homepage_share_count_timestamp",
+    "socialsnap_homepage_share_count_*",
+    "socialsnap_homepage_share_count_total",
+    "socialsnap_settings",
+    "socialsnap_bitly_access_token",
+    "socialsnap_bitly_user_date",
+    "socialsnap_bitly_username",
+    "socialsnap_cached_bitly_links",
+    "socialsnap_follow_counts",
+    "socialsnap_license_updates",
+    "socialsnap_license"
+  ],
+  "transients": [
+    "socialsnap_addons",
+    "socialsnap_activation_redirect",
+    "socialsnap_notice_*",
+    "ss_facebook_token"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ss_social_share_disable",
+    "ss_total_share_count",
+    "ss_ss_share_count_*",
+    "ss_ss_custom_tweet",
+    "classic-editor-remember",
+    "ss_ss_click_share_count_*",
+    "socialsnap_share_count_timestamp"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:37:10.332Z"
+}

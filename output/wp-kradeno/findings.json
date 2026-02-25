@@ -1,0 +1,21 @@
+{
+  "options": [
+    "wpkr_exclude_sites",
+    "wpkr_googlecalls",
+    "wpkr_ratinglimit",
+    "wpkr_lastcheck",
+    "wpkr_recheckdays",
+    "wpkr_ignoreposts",
+    "wpkr_db_version",
+    "wpkr_token",
+    "wpkr_recheckperiod"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpkr_lastchecked"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:42.888Z"
+}

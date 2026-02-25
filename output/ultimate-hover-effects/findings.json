@@ -1,0 +1,19 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "uhe_extra_class",
+    "uhe_heading_font_size",
+    "uhe_heading_color",
+    "uhe_desc_font_size",
+    "uhe_custom_image_size",
+    "uhe_image_width",
+    "uhe_column_number",
+    "options"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:54.650Z"
+}

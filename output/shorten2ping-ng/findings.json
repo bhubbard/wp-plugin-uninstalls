@@ -1,0 +1,22 @@
+{
+  "options": [
+    "shorten2ping_options_*",
+    "shorten2ping_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "short_url",
+    "fb_img",
+    "pingfm_error",
+    "twitter_error",
+    "bitly_error",
+    "trim_error",
+    "yourls_error",
+    "supr_error",
+    "smsh_error"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:04.535Z"
+}

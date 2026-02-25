@@ -1,0 +1,15 @@
+{
+  "options": [
+    "_fl_builder_post_types",
+    "_beaver_extender_active",
+    "ninja_forms_load_deprecated"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_fl_builder_enabled"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:13:15.668Z"
+}

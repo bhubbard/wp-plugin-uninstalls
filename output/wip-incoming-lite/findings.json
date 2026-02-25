@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wip_incoming_settings",
+    "wip_incoming_fontlist"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wip_incoming_lite_notice_user_id_*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:21.967Z"
+}

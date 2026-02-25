@@ -1,0 +1,15 @@
+{
+  "options": [
+    "lana_sso_client_id",
+    "lana_sso_client_secret",
+    "lana_sso_authorize_url",
+    "lana_sso_token_url",
+    "lana_sso_resource_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:03.121Z"
+}

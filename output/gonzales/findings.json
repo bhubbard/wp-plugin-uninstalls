@@ -1,0 +1,23 @@
+{
+  "options": [
+    "factory_plugin_versions",
+    "*_is_active",
+    "*assets_manager_options",
+    "*for_admin_only",
+    "*assets_states",
+    "active_sitewide_plugins",
+    "*deactive_preinstall_components",
+    "*backend_assets_states"
+  ],
+  "transients": [
+    "wbcr_factory_google_fonts",
+    "wbcr_factory_google_fonts_raw"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wgz_farewell_dismissed"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:44:32.207Z"
+}

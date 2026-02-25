@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mtg_enabled",
+    "mtg_default_og_type",
+    "mtg_default_twitter_card"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_mtg_meta_description",
+    "_mtg_meta_image",
+    "_mtg_meta_ogtype",
+    "_mtg_meta_twitter_card"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:43:58.342Z"
+}

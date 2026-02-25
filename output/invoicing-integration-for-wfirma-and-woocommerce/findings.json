@@ -1,0 +1,24 @@
+{
+  "options": [
+    "woocommerce_prices_include_tax",
+    "woocommerce_price_num_decimals",
+    "devikit_wfirma_banner_dismissed",
+    "devikit_wfirma_banner_remind_later",
+    "devikit_wfirma_settings",
+    "devikit_wfirma_pro_settings",
+    "devikit_wfirma_warehouse_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_billing_nip",
+    "_billing_want_invoice",
+    "billing_nip",
+    "_wfirma_unit_of_measure",
+    "_wfirma_lump_sum",
+    "_wfirma_kod_produktu"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:33:02.040Z"
+}

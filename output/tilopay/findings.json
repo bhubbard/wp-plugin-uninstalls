@@ -1,0 +1,23 @@
+{
+  "options": [
+    "woocommerce_tilopay_settings",
+    "active_sitewide_plugins"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "tpay_my_cron_tilopay"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "tilopay_auth_code",
+    "tilopay_is_captured",
+    "tpay_cancel",
+    "card",
+    "order",
+    "tilopay_html_form",
+    "authorization_number",
+    "tpay_was_redirect_native"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:31.022Z"
+}

@@ -1,0 +1,13 @@
+{
+  "options": [
+    "takaifwc_settings",
+    "TAKAIFWC_Button_Styles",
+    "takaifwc_button_styles"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:27.586Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "already_bought_enable_option",
+    "already_bought_enable_piaic",
+    "already_bought_enable_pwb",
+    "already_bought_add_to_cart_custom_msg",
+    "already_bought_custom_msg_pwb",
+    "already_bought_custom_msg_piaic"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:11.521Z"
+}

@@ -1,0 +1,5 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('msjli_service_number', 'msjli_widget_color', 'msjli_widget_location', 'msjli_widget_show_widget', 'msjli_massejli_live_chat', 'msjli_massejli_chats_with_us', 'msjli_massejli_support_agent', 'msjli_massejli_how_ican_help_you', 'msjli_massejli_widget_send', 'msjli_massejli_widget_close', 'msjli_widget_type_message', 'msjli_widget_write_your_message_first', 'massejli_wa_options', 'msjli_widget_options');
+

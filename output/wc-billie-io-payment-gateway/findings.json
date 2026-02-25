@@ -1,0 +1,24 @@
+{
+  "options": [
+    "webhook_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "companyorprivate",
+    "housenumber",
+    "billig_housenr",
+    "billig_houseno",
+    "_billing_address_1",
+    "_shipping_address_1",
+    "shipping_houseno",
+    "billing_houseno",
+    "_billing_houseno",
+    "_shipping_houseno",
+    "billieio_payment_status",
+    "billieio_payment_created"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:48:54.845Z"
+}

@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mpp_options",
+    "upp_transition_notice_counter",
+    "wppb_free_add_ons_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:57.974Z"
+}

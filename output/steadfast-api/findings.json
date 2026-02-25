@@ -1,0 +1,25 @@
+{
+  "options": [
+    "stdf_business_logo",
+    "stdf_settings_tab_checkbox",
+    "api_settings_tab_api_secret_key",
+    "api_settings_tab_api_key",
+    "stdf_settings_tab_notes",
+    "stdf_business_name",
+    "stdf_business_address",
+    "stdf_business_email",
+    "stdf_term_condition"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "steadfast_is_sent",
+    "steadfast_amount",
+    "stdf_delivery_status",
+    "steadfast_consignment_id",
+    "stdf_success_ratio"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:25.095Z"
+}

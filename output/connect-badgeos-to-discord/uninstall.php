@@ -1,0 +1,126 @@
+<?php
+
+// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}
+
+// Delete Options
+delete_option('ets_badgeos_discord_client_id');
+delete_site_option('ets_badgeos_discord_client_id');
+delete_option('ets_badgeos_discord_server_id');
+delete_site_option('ets_badgeos_discord_server_id');
+delete_option('ets_badgeos_discord_admin_redirect_url');
+delete_site_option('ets_badgeos_discord_admin_redirect_url');
+delete_option('ets_badgeos_discord_client_secret');
+delete_site_option('ets_badgeos_discord_client_secret');
+delete_option('ets_badgeos_discord_bot_token');
+delete_site_option('ets_badgeos_discord_bot_token');
+delete_option('ets_badgeos_discord_redirect_page_id');
+delete_site_option('ets_badgeos_discord_redirect_page_id');
+delete_option('ets_badgeos_discord_redirect_url');
+delete_site_option('ets_badgeos_discord_redirect_url');
+delete_option('ets_badgeos_discord_role_mapping');
+delete_site_option('ets_badgeos_discord_role_mapping');
+delete_option('ets_badgeos_discord_all_roles');
+delete_site_option('ets_badgeos_discord_all_roles');
+delete_option('ets_badgeos_discord_roles_color');
+delete_site_option('ets_badgeos_discord_roles_color');
+delete_option('ets_badgeos_discord_default_role_id');
+delete_site_option('ets_badgeos_discord_default_role_id');
+delete_option('ets_badgeos_discord_send_welcome_dm');
+delete_site_option('ets_badgeos_discord_send_welcome_dm');
+delete_option('ets_badgeos_discord_welcome_message');
+delete_site_option('ets_badgeos_discord_welcome_message');
+delete_option('ets_badgeos_discord_send_award_rank_dm');
+delete_site_option('ets_badgeos_discord_send_award_rank_dm');
+delete_option('ets_badgeos_discord_award_rank_message');
+delete_site_option('ets_badgeos_discord_award_rank_message');
+delete_option('ets_badgeos_discord_send_earned_achievement_dm');
+delete_site_option('ets_badgeos_discord_send_earned_achievement_dm');
+delete_option('ets_badgeos_discord_earned_achievement_message');
+delete_site_option('ets_badgeos_discord_earned_achievement_message');
+delete_option('ets_badgeos_discord_send_award_user_points_dm');
+delete_site_option('ets_badgeos_discord_send_award_user_points_dm');
+delete_option('ets_badgeos_discord_award_user_points_message');
+delete_site_option('ets_badgeos_discord_award_user_points_message');
+delete_option('ets_badgeos_discord_retry_failed_api');
+delete_site_option('ets_badgeos_discord_retry_failed_api');
+delete_option('ets_badgeos_discord_kick_upon_disconnect');
+delete_site_option('ets_badgeos_discord_kick_upon_disconnect');
+delete_option('ets_badgeos_discord_retry_api_count');
+delete_site_option('ets_badgeos_discord_retry_api_count');
+delete_option('ets_badgeos_discord_job_queue_concurrency');
+delete_site_option('ets_badgeos_discord_job_queue_concurrency');
+delete_option('ets_badgeos_discord_job_queue_batch_size');
+delete_site_option('ets_badgeos_discord_job_queue_batch_size');
+delete_option('ets_badgeos_discord_log_api_response');
+delete_site_option('ets_badgeos_discord_log_api_response');
+delete_option('ets_badgeos_discord_connect_button_bg_color');
+delete_site_option('ets_badgeos_discord_connect_button_bg_color');
+delete_option('ets_badgeos_discord_disconnect_button_bg_color');
+delete_site_option('ets_badgeos_discord_disconnect_button_bg_color');
+delete_option('ets_badgeos_discord_non_login_button_text');
+delete_site_option('ets_badgeos_discord_non_login_button_text');
+delete_option('ets_badgeos_discord_loggedin_button_text');
+delete_site_option('ets_badgeos_discord_loggedin_button_text');
+delete_option('ets_badgeos_discord_disconnect_button_text');
+delete_site_option('ets_badgeos_discord_disconnect_button_text');
+delete_option('ets_badgeos_discord_connected_bot_name');
+delete_site_option('ets_badgeos_discord_connected_bot_name');
+delete_option('ets_badgeos_discord_uuid_file_name');
+delete_site_option('ets_badgeos_discord_uuid_file_name');
+
+// Delete Transients
+delete_transient('action_scheduler_admin_notice');
+delete_site_transient('action_scheduler_admin_notice');
+delete_transient('as_comment_count');
+delete_site_transient('as_comment_count');
+
+// Clear Metadata
+global $wpdb;
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_access_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_access_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_access_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_access_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_refresh_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_refresh_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_refresh_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_refresh_token' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_last_default_role' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_last_default_role' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_last_default_role' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_last_default_role' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key LIKE %s", '_ets_badgeos_discord_role_id_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key LIKE %s", '_ets_badgeos_discord_role_id_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key LIKE %s", '_ets_badgeos_discord_role_id_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key LIKE %s", '_ets_badgeos_discord_role_id_for_%' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_dismissed_notification' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_dismissed_notification' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_dismissed_notification' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_dismissed_notification' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_username' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_username' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_username' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_username' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_user_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_user_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_user_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_user_id' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_avatar' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_avatar' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_avatar' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_avatar' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_expires_in' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_expires_in' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_expires_in' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_expires_in' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_join_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_join_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_join_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_join_date' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->postmeta} WHERE meta_key = %s", '_ets_badgeos_discord_dm_channel' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->usermeta} WHERE meta_key = %s", '_ets_badgeos_discord_dm_channel' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->termmeta} WHERE meta_key = %s", '_ets_badgeos_discord_dm_channel' ) );
+$wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->commentmeta} WHERE meta_key = %s", '_ets_badgeos_discord_dm_channel' ) );
+

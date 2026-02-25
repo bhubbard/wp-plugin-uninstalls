@@ -1,0 +1,20 @@
+{
+  "options": [
+    "pbpc-enabled",
+    "pbpc-button_text",
+    "pbpc-max_products",
+    "pbpc-disable_shop",
+    "pbpc-disable_product",
+    "pbpc-table_caption",
+    "woocommerce_weight_unit"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "comparison_attributes"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:40:41.372Z"
+}

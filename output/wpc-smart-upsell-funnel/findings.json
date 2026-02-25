@@ -1,0 +1,17 @@
+{
+  "options": [
+    "wpcuf_settings",
+    "wpcuf_uf",
+    "wpcuf_ob",
+    "woocommerce_cart_redirect_after_add",
+    "wpcuf_*"
+  ],
+  "transients": [
+    "wpclever_plugins"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:00:31.771Z"
+}

@@ -1,0 +1,17 @@
+{
+  "options": [
+    "ald_login_page_db_version",
+    "ald_login_page_logo",
+    "ald_login_page_logo_width",
+    "ald_login_page_logo_height",
+    "ald_login_page_logo_padding",
+    "ald_login_page_bgcolor",
+    "ald_login_page_fontcolor"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:17:17.231Z"
+}

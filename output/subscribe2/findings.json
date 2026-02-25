@@ -1,0 +1,34 @@
+{
+  "options": [
+    "subscribe2_options",
+    "mo_dismiss_adnotice",
+    "embed_autourls",
+    "widget_s2counter",
+    "widget_subscribe2widget",
+    "sidebars_widgets",
+    "sidebar_widgets",
+    "s2_future_posts",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "s2_digest_cron",
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_s2mail",
+    "s2_comment_request",
+    "_s2_digest_post_status",
+    "s2_excerpt",
+    "s2_subscribed",
+    "s2_format",
+    "s2_autosub",
+    "s2_cat*"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:35:29.936Z"
+}

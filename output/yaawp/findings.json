@@ -1,0 +1,41 @@
+{
+  "options": [
+    "yaawp_secret_access_key",
+    "yaawp_access_key_id",
+    "yaawp_associate_id",
+    "yaawp_db_version",
+    "yaawp_cron_check",
+    "yaawp_news",
+    "yaawp_taxonomy_image*"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "AmountSavedFormattedPrice",
+    "ASIN",
+    "LargeImageUrl",
+    "LowestOfferFormattedPrice",
+    "LowestNewOfferFormattedPrice",
+    "DetailPageURL",
+    "ImageSetTiny0",
+    "ImageSetLarge0",
+    "ImageSetTiny1",
+    "ImageSetLarge1",
+    "ImageSetTiny2",
+    "ImageSetLarge2",
+    "CustomerReviewsIFrameURL",
+    "Availability",
+    "LastCheck",
+    "ListPriceFormatted",
+    "AmazonDescription",
+    "yaawp_template",
+    "SmallImageUrl",
+    "LowestUsedOfferFormattedPrice",
+    "Binding",
+    "ImageSetTiny*",
+    "ImageSetLarge*"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:51.764Z"
+}

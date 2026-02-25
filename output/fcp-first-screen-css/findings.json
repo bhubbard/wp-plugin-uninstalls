@@ -1,0 +1,26 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "closedpostboxes_*",
+    "*post-types",
+    "*post-archives",
+    "*post-templates",
+    "*development-mode",
+    "*inline-style-names",
+    "*inline-script-names",
+    "*defer-style-names",
+    "*defer-script-names",
+    "*deregister-style-names",
+    "*deregister-script-names",
+    "*rest-css",
+    "*rest-css-defer",
+    "*id",
+    "*id-exclude",
+    "*_post_errors"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:26:32.010Z"
+}

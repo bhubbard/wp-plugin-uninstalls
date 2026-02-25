@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wrma_default_primary_cat",
+    "wrma_category_strategy",
+    "wrma_restricted_message",
+    "wrma_redirect_enabled",
+    "wrma_redirect_url"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wrma_access_mode",
+    "_wrma_allowed_roles",
+    "_wrma_primary_cat"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:52:27.957Z"
+}

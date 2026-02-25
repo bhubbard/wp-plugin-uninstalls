@@ -1,0 +1,18 @@
+{
+  "options": [
+    "cg_cf_accept_timeout",
+    "cg_cf_text",
+    "cg_cf_accept_scrollout",
+    "cg_cf_head_accepted_code",
+    "cg_cf_head_denied_code",
+    "cg_cf_foot_accepted_code",
+    "cg_cf_foot_denied_code",
+    "cg_cf_exception_pages"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:25.216Z"
+}

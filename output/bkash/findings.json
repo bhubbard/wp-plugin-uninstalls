@@ -1,0 +1,25 @@
+{
+  "options": [
+    "woocommerce_softtech_bkash_settings",
+    "sms-api-url",
+    "sms-api-username",
+    "sms-api-password",
+    "nagad_rq_code_image",
+    "woocommerce_softtech_nagad_settings",
+    "roket_rq_code_image",
+    "woocommerce_softtech_rocket_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_bkash_number",
+    "_bkash_transaction",
+    "_nagad_number",
+    "_nagad_transaction",
+    "_rocket_number",
+    "_rocket_transaction"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:39:46.107Z"
+}

@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_price",
+    "discount_type",
+    "coupon_amount",
+    "individual_use",
+    "product_ids",
+    "exclude_product_ids",
+    "usage_limit",
+    "minimum_amount",
+    "expiry_date",
+    "apply_before_tax",
+    "free_shipping",
+    "is_free_product",
+    "free_product_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:32:26.293Z"
+}

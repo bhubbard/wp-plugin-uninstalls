@@ -1,0 +1,19 @@
+{
+  "options": [
+    "gmwsvs_enable_setting",
+    "gmwsvs_hide_parent_product",
+    "gmwsvs_exclude_cat"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wssvsc_custom_name",
+    "_wssvsc_excludeenalls",
+    "gmwsvs_is_tax_setup",
+    "_wwsvsc_exclude_product_single",
+    "_wwsvsc_exclude_product_parent"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:46.244Z"
+}

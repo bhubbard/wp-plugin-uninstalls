@@ -1,0 +1,28 @@
+{
+  "options": [
+    "lsdrc_activation_redirect",
+    "sidebars_widgets",
+    "widget_nav_menu",
+    "lsd_settings",
+    "lsd_activation_redirect",
+    "_afeb_activation_redirect",
+    "listdomer_theme_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "lsdr_header",
+    "lsdr_footer",
+    "lsd_form",
+    "lsd_primary_category",
+    "lsd_fields",
+    "lsd_devices",
+    "lsd_skin",
+    "lsd_display",
+    "lsd_search"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:01.480Z"
+}

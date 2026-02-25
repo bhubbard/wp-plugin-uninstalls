@@ -1,0 +1,25 @@
+{
+  "options": [
+    "enabled_post_types",
+    "require_rating",
+    "avg_rating_display",
+    "stars_style",
+    "google_search_stars",
+    "google_search_stars_type",
+    "sr_negative_rating_alert",
+    "sr_negative_rating_threshold",
+    "sr_negative_rating_contact_url",
+    " avg_rating_display",
+    " enabled_post_types",
+    " google_search_stars"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rating",
+    "sr-comments-rating"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:48:33.927Z"
+}

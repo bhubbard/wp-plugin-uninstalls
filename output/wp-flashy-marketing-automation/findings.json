@@ -1,0 +1,40 @@
+{
+  "options": [
+    "flashy_account_id",
+    "flashy_key",
+    "flashy_catalog",
+    "flashy_subscribe",
+    "flashy_list_id",
+    "flashy_allow_guest",
+    "flashy_db_version",
+    "flashy_last_update",
+    "flashy_add_context",
+    "flashy_cf7",
+    "flashy_connected",
+    "woocommerce_email_from_name",
+    "woocommerce_email_from_address",
+    "flashy_updates",
+    "flashy_account",
+    "flashy_settings",
+    "flashy_log_state"
+  ],
+  "transients": [
+    "*_process_lock"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "flashy_accept_marketing",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_city",
+    "billing_country",
+    "billing_state",
+    "billing_phone",
+    "_flashy_reviews_data",
+    "_flashy_reviews_updated",
+    "locale"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:44.295Z"
+}

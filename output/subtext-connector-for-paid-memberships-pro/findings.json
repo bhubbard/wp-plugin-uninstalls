@@ -1,0 +1,17 @@
+{
+  "options": [
+    "fe_subtext_pmp_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "subtext_uuid",
+    "subtext_opt_in",
+    "pmpro_sphone",
+    "first_name",
+    "last_name"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:57:09.581Z"
+}

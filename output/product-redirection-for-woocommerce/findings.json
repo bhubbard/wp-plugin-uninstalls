@@ -1,0 +1,18 @@
+{
+  "options": [
+    "trash_warning_prfw",
+    "trash_disable_prfw",
+    "stock_notice_prfw",
+    "stock_notice_toggle_prfw",
+    "stock_recommendations_toggle_prfw",
+    "prfw_notice_dismissed_polyplugins",
+    "prfw_version_polyplugins",
+    "product_redirection_for_woocommerce_settings_polyplugins"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:58:48.398Z"
+}

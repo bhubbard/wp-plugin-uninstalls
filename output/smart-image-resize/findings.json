@@ -1,0 +1,30 @@
+{
+  "options": [
+    "wp_sir_plugin_version",
+    "wp_sir_settings",
+    "wp_sir_image_processor",
+    "wp_sir_prev_plugin_version",
+    "wp_sir_processed_attachments",
+    "wp_sir_review_request_notice_dismissed",
+    "wp_sir_plugin_installed_at",
+    "ppsir_settings"
+  ],
+  "transients": [
+    "action_scheduler_last_pastdue_actions_check",
+    "action_scheduler_admin_notice",
+    "as_comment_count",
+    "wp_sir_review_request_notice_remindme"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_processed_at",
+    "_wp_attachment_metadata",
+    "_old_image_meta",
+    "_processed_by",
+    "dokan_enable_selling",
+    "woo_variation_gallery_images"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:39:14.630Z"
+}

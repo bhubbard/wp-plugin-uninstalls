@@ -1,0 +1,30 @@
+{
+  "options": [
+    "finpose_accounts",
+    "fin-expense-categories",
+    "finpose_removed_accounts",
+    "finpose_settings",
+    "finpose_errors",
+    "fin-cost-categories",
+    "fin-acquisition-categories",
+    "*-categories",
+    "fin-spending-types",
+    "active_sitewide_plugins",
+    "finpose_version",
+    "finpose_db_version",
+    "fs_debug_mode",
+    "fs_active_plugins",
+    "fs_storage_logger"
+  ],
+  "transients": [
+    "update_plugins",
+    "update_themes"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wf_invoice_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:52:47.502Z"
+}

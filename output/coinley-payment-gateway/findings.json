@@ -1,0 +1,20 @@
+{
+  "options": [
+    "woocommerce_coinleywp_settings",
+    "active_sitewide_plugins",
+    "coinleywp_needs_onboarding",
+    "coinleywp_activation_redirect",
+    "coinleywp_onboarding_dismissed",
+    "coinleywp_merchant_wallets_full",
+    "coinleywp_enabled_networks"
+  ],
+  "transients": [
+    "coinleywp_merchant_wallets",
+    "*_usd"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:58.530Z"
+}

@@ -1,0 +1,18 @@
+{
+  "options": [
+    "U_S_C"
+  ],
+  "transients": [
+    "bainternetNews"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "U_S_C_roles",
+    "U_S_C_users",
+    "U_S_C_options",
+    "U_S_C_message"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:12.011Z"
+}

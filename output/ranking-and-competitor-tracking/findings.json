@@ -1,0 +1,17 @@
+{
+  "options": [
+    "hub_ract_options",
+    "hub_ract_api",
+    "hub_ract_data",
+    "hub_ract_log",
+    "hub_ract_blink"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "ract_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:16:12.576Z"
+}

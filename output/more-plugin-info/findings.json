@@ -1,0 +1,16 @@
+{
+  "options": [
+    "mpi_plugin_meta",
+    "mpi_sync_timestamp",
+    "mpi-settings",
+    "mpi_cron_enable"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "mpi_sync"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:12.794Z"
+}

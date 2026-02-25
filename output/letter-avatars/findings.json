@@ -1,0 +1,14 @@
+{
+  "options": [
+    "sgi_ltrav_ver",
+    "sgi_ltrav_opts"
+  ],
+  "transients": [
+    "sgi_ltrav_gfonts"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:11.159Z"
+}

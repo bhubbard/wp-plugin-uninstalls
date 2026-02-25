@@ -1,0 +1,13 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('uwp_setup_wizard_notice', 'registration', 'uwp_installed_on', 'uwp_activation_redirect', 'uwp_settings', 'uwp_settings_general', 'uwp_settings_extensions', 'uwp_default_data_installed', 'uwp_db_version', 'uwp_notice_try_bootstrap', 'uwp_flush_rewrite', 'fileupload_maxk', 'active_sitewide_plugins', 'ayecode_connect_blog_token', 'ayecode-ui-settings', 'aui_options', 'wp-font-awesome-settings', 'rgmk_google_map_api_key', 'wp-font-awesome-settings-version');
+DELETE FROM wp_options WHERE option_name LIKE 'uwp_addons_section_%';
+DELETE FROM wp_options WHERE option_name LIKE '%_process_lock';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('uwp_mod', '_uwp_register_form_id', 'default_password_nag', 'locale', 'is_uwp_social_login_no_password', 'uwp_update_email_hash', 'description', 'uwp_hide_from_listing', 'uwp_seo_author_disabled_notice_dismissed', 'uwp_usermeta', 'uwp_dummy_user', 'uwp_mute_notifications', 'uwp_1100_content');
+DELETE FROM wp_usermeta WHERE meta_key IN ('uwp_mod', '_uwp_register_form_id', 'default_password_nag', 'locale', 'is_uwp_social_login_no_password', 'uwp_update_email_hash', 'description', 'uwp_hide_from_listing', 'uwp_seo_author_disabled_notice_dismissed', 'uwp_usermeta', 'uwp_dummy_user', 'uwp_mute_notifications', 'uwp_1100_content');
+DELETE FROM wp_termmeta WHERE meta_key IN ('uwp_mod', '_uwp_register_form_id', 'default_password_nag', 'locale', 'is_uwp_social_login_no_password', 'uwp_update_email_hash', 'description', 'uwp_hide_from_listing', 'uwp_seo_author_disabled_notice_dismissed', 'uwp_usermeta', 'uwp_dummy_user', 'uwp_mute_notifications', 'uwp_1100_content');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('uwp_mod', '_uwp_register_form_id', 'default_password_nag', 'locale', 'is_uwp_social_login_no_password', 'uwp_update_email_hash', 'description', 'uwp_hide_from_listing', 'uwp_seo_author_disabled_notice_dismissed', 'uwp_usermeta', 'uwp_dummy_user', 'uwp_mute_notifications', 'uwp_1100_content');
+

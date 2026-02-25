@@ -1,0 +1,16 @@
+{
+  "options": [
+    "container",
+    "styles",
+    "border_radius",
+    "scrollbar_height",
+    "color",
+    "color1"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:16:12.096Z"
+}

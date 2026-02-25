@@ -1,0 +1,30 @@
+{
+  "options": [
+    "e_section_db_ver",
+    "print_tag_options",
+    "export_posts_tag",
+    "export_posts_no_posts",
+    "e_sections_additional_sections",
+    "export_post_tag",
+    "e_sections_spectal_section_pages",
+    "dk-test",
+    "akwt_distribution_circulation"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "e_section",
+    "e_section_date",
+    "e_section_page",
+    "e_section_status",
+    "additional_e_section_date",
+    "export-posts-date",
+    "user_title",
+    "breakout_box",
+    "e-sec-quote",
+    "*filters"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:27.086Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "allinonewoo-group"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "all_in_one_new_tab",
+    "_shipping_phone",
+    "_billing_name_one",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_company",
+    "billing_city",
+    "billing_postcode",
+    "billing_phone",
+    "billing_country",
+    "billing_state"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:30.246Z"
+}

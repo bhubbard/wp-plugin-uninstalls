@@ -1,0 +1,17 @@
+{
+  "options": [
+    "woocommerce_currency",
+    "webhook_debug"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_transaction_id",
+    "_insta_paymrnt_id",
+    "_ptm_authorization_id",
+    "_payu_authorization_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:51.288Z"
+}

@@ -1,0 +1,20 @@
+{
+  "options": [
+    "specia_media_id",
+    "widget_archives",
+    "widget_search",
+    "widget_meta",
+    "widget_specia_feature_widget",
+    "sidebars_widgets",
+    "item_details_page"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "client_icon_class",
+    "_wp_page_template"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:41:08.243Z"
+}

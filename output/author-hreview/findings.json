@@ -1,0 +1,22 @@
+{
+  "options": [
+    "wpar_options",
+    "widget_recent_entries"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ta_post_review_rating",
+    "ta_post_review_name",
+    "ta_post_review_url",
+    "ta_post_review_type",
+    "ta_post_review_author",
+    "ta_post_review_version",
+    "ta_post_review_price",
+    "ta_post_review_summary",
+    "thesis_post_image"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:56:11.251Z"
+}

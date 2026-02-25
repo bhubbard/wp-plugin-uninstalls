@@ -1,0 +1,27 @@
+{
+  "options": [
+    "jwppp-library",
+    "jwppp-licence",
+    "jwppp-type-*",
+    "jwppp-position",
+    "jwppp-poster-image",
+    "jwppp-player-width",
+    "jwppp-player-height",
+    "jwppp-skin",
+    "jwppp-show-related",
+    "jwppp-active-share",
+    "jwppp-share-heading",
+    "jwppp-embed-video",
+    "jwppp-active-ads"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_jwppp-video-url",
+    "_jwppp-video-title",
+    "_jwppp-video-description"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:22.375Z"
+}

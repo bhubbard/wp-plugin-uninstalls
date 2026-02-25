@@ -1,0 +1,17 @@
+{
+  "options": [
+    "zci_migrated_to_termmeta",
+    "z_taxonomy_image*",
+    "z_taxonomy_image_id*",
+    "zci_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "z_taxonomy_image",
+    "z_taxonomy_image_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:32:38.016Z"
+}

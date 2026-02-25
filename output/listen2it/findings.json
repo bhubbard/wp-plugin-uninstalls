@@ -1,0 +1,14 @@
+{
+  "options": [
+    "l2it_org_id",
+    "l2it_integration_id",
+    "l2it_api_key",
+    "l2it_has_paywall"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:06:08.399Z"
+}

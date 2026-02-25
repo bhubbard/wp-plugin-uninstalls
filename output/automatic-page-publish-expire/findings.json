@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [
+    "expirationdate_delete_*",
+    "expirationdate_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "expiration-date",
+    "expiration-date-start"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:24:08.935Z"
+}

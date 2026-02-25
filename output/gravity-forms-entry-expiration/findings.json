@@ -1,0 +1,15 @@
+{
+  "options": [
+    "gf_entryexpiration_message_displayed",
+    "gf_entryexpiration_lifetime_processed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "gf_entryexpiration_maybe_expire",
+    "gf_entryexpiration_delete_old_entries"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:46:13.793Z"
+}

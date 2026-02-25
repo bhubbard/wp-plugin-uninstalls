@@ -1,0 +1,22 @@
+{
+  "options": [
+    "sprinque_seller",
+    "woocommerce_myaccount_page_id",
+    "sprinque_available_countries",
+    "woocommerce_wpm_srinque_pay_settings",
+    "logs_sprinque",
+    "sprinque_available_payment_terms"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "sprinque_retry_capture_request",
+    "sprinque_update_cache"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "merchant_buyer_id",
+    "buyer_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:23.898Z"
+}

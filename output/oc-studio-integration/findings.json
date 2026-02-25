@@ -1,0 +1,13 @@
+{
+  "options": [
+    "xapp_chat_widget_key",
+    "xapp_form_widget_key",
+    "xapp_search_widget_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:53:49.351Z"
+}

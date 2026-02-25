@@ -1,0 +1,33 @@
+{
+  "options": [
+    "fs_debug_mode",
+    "_transient_timeout_fs_snooze_period",
+    "_site_transient_timeout_fs_snooze_period",
+    "active_sitewide_plugins",
+    "fs_storage_logger",
+    "fs_active_plugins",
+    "wpbits_afe_template_locations",
+    "wpbits_afe_settings",
+    "elementor_viewport_md"
+  ],
+  "transients": [
+    "fs_snooze_period",
+    "update_plugins",
+    "_fs_api_connection_retry_counter",
+    "update_themes",
+    "wpbits-afe-pro-tmplts",
+    "wpbits-afe-pro-lib"
+  ],
+  "cron_jobs": [
+    "fs_debug_turn_off_logging_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_page_template",
+    "_wpbits_afe_image_hash",
+    "_elementor_edit_mode",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:04.937Z"
+}

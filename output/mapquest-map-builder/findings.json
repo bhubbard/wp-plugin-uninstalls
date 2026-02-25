@@ -1,0 +1,17 @@
+{
+  "options": [
+    "mq_maps_map_height",
+    "mq_maps_map_width",
+    "mq_maps_use_sidebar",
+    "mq_maps_use_editor_toolbar",
+    "mq_maps_use_editor_toolbar_line",
+    "mq_maps_use_quicktags_toolbar",
+    "mq_maps_use_media_toolbar"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:09:35.330Z"
+}

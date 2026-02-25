@@ -1,0 +1,16 @@
+{
+  "options": [
+    "active_sitewide_plugins",
+    "wc_claim_gst"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "gstin",
+    "gstin_holder_name",
+    "gstin_holder_address"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:59:42.130Z"
+}

@@ -1,0 +1,42 @@
+{
+  "options": [
+    "_cdp_cool_installation",
+    "_cdp_redirect",
+    "wp_mypopups_do_activation_redirect",
+    "sfsi_plugin_do_activation_redirect",
+    "_bmi_redirect",
+    "irrp_activation_redirect",
+    "_cdp_globals",
+    "_cdp_review",
+    "_cdp_mishmash",
+    "_cdp_profiles",
+    "_cdp_show_copy",
+    "_cdp_crons",
+    "_cdp_default_setup",
+    "_tifm_feature_enabled",
+    "_tifm_disable_feature_forever",
+    "_tifm_hide_notice_forever",
+    "_cdp_no_intro",
+    "_cdp_preselections",
+    "cdp_dismiss_perf_notice",
+    "cdp_latest_slow_performance",
+    "cdp_copy_logs_times",
+    "_irb_h_bn_review",
+    "hide_tastewp_notice",
+    "_tifm_force_disable_feature_update"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cdp_cron_delete"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_cdp_origin",
+    "_cdp_origin_site",
+    "_elementor_data",
+    "_thumbnail_id",
+    "_elementor_edit_mode"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:29:29.071Z"
+}

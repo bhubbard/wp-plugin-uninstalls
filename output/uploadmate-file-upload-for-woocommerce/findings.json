@@ -1,0 +1,15 @@
+{
+  "options": [
+    "uploadmate_enable_uploads",
+    "uploadmate_max_file_size",
+    "uploadmate_upload_label",
+    "uploadmate_settings",
+    "uploadmate_activated_at"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:38.169Z"
+}

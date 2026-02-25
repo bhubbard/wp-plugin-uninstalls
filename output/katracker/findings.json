@@ -1,0 +1,34 @@
+{
+  "options": [
+    "*active",
+    "*open-tracker",
+    "*announce-interval",
+    "*min-interval",
+    "*num-peers",
+    "*max-peers",
+    "*slug",
+    "*subdomain",
+    "*validate-hash",
+    "*rename-files",
+    "*tracked-access",
+    "*torrent-page",
+    "*labels",
+    "*reset-announce",
+    "*default-announce",
+    "*reset-comment",
+    "*default-comment",
+    "taxonomy_*",
+    "rss_language"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "katracker_clean_idle"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "_thumbnail_id",
+    "_wp_attachment_image_alt"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:42.767Z"
+}

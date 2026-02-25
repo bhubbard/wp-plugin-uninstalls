@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ngg_options",
+    "wpimageflow2_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpif2-image-link"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:50:34.781Z"
+}

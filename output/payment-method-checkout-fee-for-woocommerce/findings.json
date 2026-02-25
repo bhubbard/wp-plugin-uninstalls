@@ -1,0 +1,15 @@
+{
+  "options": [
+    "*_name_enabled",
+    "*_name_label",
+    "*_name_percent",
+    "*_fee_type",
+    "*_fee_amount"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:54:44.210Z"
+}

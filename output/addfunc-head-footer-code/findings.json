@@ -1,0 +1,22 @@
+{
+  "options": [
+    "aFhfc_site_wide_head_code",
+    "aFhfc_head_code_priority",
+    "aFhfc_site_wide_body_code",
+    "aFhfc_site_wide_footer_code",
+    "aFhfc_footer_code_priority"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "aFhfc_head_code",
+    "aFhfc_head_replace",
+    "aFhfc_body_code",
+    "aFhfc_body_replace",
+    "aFhfc_footer_code",
+    "aFhfc_footer_replace"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:00.954Z"
+}

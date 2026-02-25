@@ -1,0 +1,23 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "show",
+    "background_color",
+    "background_image",
+    "text_color",
+    "height_desktop",
+    "height_tablet",
+    "height_mobile",
+    "show_on",
+    "version",
+    "text",
+    "link",
+    "close_button",
+    "target_blank"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:21:23.297Z"
+}

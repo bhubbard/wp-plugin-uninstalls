@@ -1,0 +1,15 @@
+{
+  "options": [
+    "dba_google_maps_api_key"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dba_google_maps_markers",
+    "dba_google_maps_general",
+    "dba_google_maps_controls"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:34:33.390Z"
+}

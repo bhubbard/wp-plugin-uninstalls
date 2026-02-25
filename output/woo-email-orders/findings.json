@@ -1,0 +1,14 @@
+{
+  "options": [
+    "wc_settings_email_digest_intro_text",
+    "wc_settings_email_digest_recipient"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "woocommerce_email_order_cron"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:11:25.372Z"
+}

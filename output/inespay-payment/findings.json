@@ -1,0 +1,15 @@
+{
+  "options": [
+    "inespay_migration_notice",
+    "inespay_version",
+    "woocommerce_inespay_settings",
+    "woocommerce_my_custom_gateway_settings",
+    "woocommerce_force_ssl_checkout"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:44.569Z"
+}

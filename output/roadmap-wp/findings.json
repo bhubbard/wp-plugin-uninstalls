@@ -1,0 +1,19 @@
+{
+  "options": [
+    "wp_roadmap_settings",
+    "wp_roadmap_custom_taxonomies",
+    "wp_roadmap_ideas_shortcode_loaded",
+    "wp_roadmap_new_idea_shortcode_loaded",
+    "wp_roadmap_roadmap_shortcode_loaded"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "idea_votes",
+    "voted_*",
+    "_created_by_my_plugin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:28:41.128Z"
+}

@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ET_CORE_VERSION",
+    "*_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "cache_clean"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:50:59.547Z"
+}

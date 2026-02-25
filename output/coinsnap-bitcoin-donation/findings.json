@@ -1,0 +1,29 @@
+{
+  "options": [
+    "coinsnap_bitcoin_donation_options",
+    "coinsnap_bitcoin_donation_forms_options"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_coinsnap_bitcoin_donation_donor_name",
+    "_coinsnap_bitcoin_donation_amount",
+    "_coinsnap_bitcoin_donation_message",
+    "_coinsnap_bitcoin_donation_form_type",
+    "_coinsnap_bitcoin_donation_email",
+    "_coinsnap_bitcoin_donation_address",
+    "_coinsnap_bitcoin_donation_payment_id",
+    "_coinsnap_bitcoin_donation_custom_field",
+    "_*",
+    "_coinsnap_bitcoin_donation_shoutouts_name",
+    "_coinsnap_bitcoin_donation_shoutouts_message",
+    "_coinsnap_bitcoin_donation_shoutouts_amount",
+    "_coinsnap_bitcoin_donation_shoutouts_sats_amount",
+    "_coinsnap_bitcoin_donation_shoutouts_invoice_id",
+    "_coinsnap_bitcoin_donation_shoutouts_provider",
+    "_coinsnap_bitcoin_donation_dont_show"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:22:38.115Z"
+}

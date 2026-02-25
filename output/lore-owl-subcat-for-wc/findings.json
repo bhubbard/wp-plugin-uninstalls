@@ -1,0 +1,18 @@
+{
+  "options": [
+    "mobile_noi",
+    "tablet_noi",
+    "desktop_noi",
+    "ch_arrows",
+    "ch_dots",
+    "font_size",
+    "carousel_padding",
+    "top_arrows"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:45:15.334Z"
+}

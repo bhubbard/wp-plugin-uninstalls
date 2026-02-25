@@ -1,0 +1,15 @@
+{
+  "options": [
+    "ed_reshfl_show_activation_notice",
+    "ed_reshfl_db_version",
+    "ed_reshfl_db_schema"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "term_order"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:12:10.611Z"
+}

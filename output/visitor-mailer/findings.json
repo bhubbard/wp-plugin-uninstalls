@@ -1,0 +1,16 @@
+{
+  "options": [
+    "statmailer_options",
+    "visitormailer_options",
+    "STATMAILER_VERSION_KEY"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "visitormailer_cron_hook",
+    "visitormailer_cron_hook($admin_email)"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:25:56.735Z"
+}

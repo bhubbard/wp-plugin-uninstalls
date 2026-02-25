@@ -1,0 +1,24 @@
+{
+  "options": [
+    "*_flush_rewrite_rules",
+    "*_version",
+    "wptrt_notice_dismissed_mihdan-mailru-pulse-feed",
+    "mihdan_mailru_pulse_feed_review_dismissed",
+    "feed",
+    "source",
+    "widget",
+    "contacts",
+    "mihdan_mailru_pulse_feed_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "*_title",
+    "*_excerpt",
+    "*_exclude",
+    "*_kill"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:53:42.945Z"
+}

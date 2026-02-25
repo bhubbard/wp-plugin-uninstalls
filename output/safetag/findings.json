@@ -1,0 +1,29 @@
+{
+  "options": [
+    "safetag_license_key",
+    "safetag_iab_tag_option",
+    "safetag_exclution_list_chron_option",
+    "site_audience_iab_tags",
+    "safetag_post_types",
+    "safetag_version"
+  ],
+  "transients": [
+    "safetag_post_types",
+    "iab_tags_resources",
+    "iab_audience_tags"
+  ],
+  "cron_jobs": [
+    "safetag_update_post_keywords_result",
+    "safetag_check_license_status",
+    "safetag_update_post_keywords_result_temp",
+    "safetag_add_update_post_campaign_keyword_status_temp",
+    "safetag_genetate_post_campaign_table_record_temp"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "safetag_hide_programmatic_ads",
+    "safetag_meta_tags"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:11:11.260Z"
+}

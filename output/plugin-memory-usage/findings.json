@@ -1,0 +1,14 @@
+{
+  "options": [],
+  "transients": [
+    "pmusage_supported_php_versions",
+    "pmusage_latest_wp_version",
+    "pmusage_latest_php_version",
+    "pmusage_mysql_eol_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:55:38.814Z"
+}

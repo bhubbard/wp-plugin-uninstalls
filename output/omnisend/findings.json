@@ -1,0 +1,15 @@
+{
+  "options": [
+    "omnisend_account_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "wp_capabilities"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:30:15.583Z"
+}

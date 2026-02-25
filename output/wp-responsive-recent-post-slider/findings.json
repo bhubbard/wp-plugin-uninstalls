@@ -1,0 +1,18 @@
+{
+  "options": [
+    "wpos_anylc_redirect",
+    "wpos_anylc_site_uid"
+  ],
+  "transients": [
+    "wprps_install_notice",
+    "wpos_anylc_optin_notice_*",
+    "espbw_plugins_data"
+  ],
+  "cron_jobs": [
+    "wpos_monthly_cron_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:35:08.799Z"
+}

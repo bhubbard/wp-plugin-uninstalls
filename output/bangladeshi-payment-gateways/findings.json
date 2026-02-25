@@ -1,0 +1,35 @@
+{
+  "options": [
+    "bdpg_hpos_migration_status",
+    "bdpg_hpos_migration_total",
+    "bdpg_hpos_migration_processed",
+    "bdpg_hpos_migration_gateway",
+    "bdpg_hpos_migration_last_offset",
+    "bdpg_hpos_migration_start_time",
+    "bdpg_hpos_migration_end_time",
+    "bdpg_do_activation_redirect",
+    "bdpg_hpos_notice_dismissed",
+    "woocommerce_custom_orders_table_enabled",
+    "*_accounts",
+    "*_settings",
+    "bdpg_currency_settings",
+    "woocommerce_woo_bkash_settings",
+    "woocommerce_woo_rocket_settings",
+    "woocommerce_woo_nagad_settings",
+    "*_tracking_last_send",
+    "*_tracking_skipped",
+    "*_allow_tracking",
+    "*_tracking_notice"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "*_tracker_send_event"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*_number",
+    "*_trans_id"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:40:49.859Z"
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    "gseo_api_key",
+    "growthseo_api_key",
+    "growthseo_category",
+    "growthseo_author",
+    "growthseo_tags",
+    "growthseo_feature_image_enabled",
+    "growthseo_post_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wp_attachment_image_alt",
+    "_growthseo_jsonld",
+    "_yoast_wpseo_title",
+    "_yoast_wpseo_metadesc",
+    "_yoast_wpseo_focuskw",
+    "_seopress_titles_title",
+    "_seopress_titles_desc",
+    "_seopress_analysis_target_kw",
+    "rank_math_title",
+    "rank_math_description",
+    "rank_math_focus_keyword",
+    "_aioseop_title",
+    "_aioseop_description",
+    "_aioseop_keywords"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:56:37.480Z"
+}

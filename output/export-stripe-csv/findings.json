@@ -1,0 +1,14 @@
+{
+  "options": [
+    "strcsvexp_settings",
+    "strcsvexp_stripe_options"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "strcsvexp_daily_check"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:46:18.506Z"
+}

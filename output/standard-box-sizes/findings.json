@@ -1,0 +1,24 @@
+{
+  "options": [
+    "box_sizing_packaging_solution_preference",
+    "suspend_automatic_detection_of_box_sizing",
+    "en_trial_3dbin_flag",
+    "subscription_packages_response",
+    "box_sizing_optimization_mode",
+    "en_3dbin_message",
+    "en_3dbin_message_status"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "box_sizing",
+    "or_box_sizing",
+    "_en_rot_ver",
+    "_en_own_pack",
+    "_en_multiple_packages",
+    "en_multi_packaging"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:07:13.112Z"
+}

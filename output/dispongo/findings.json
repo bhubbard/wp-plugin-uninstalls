@@ -1,0 +1,18 @@
+{
+  "options": [
+    "dispongo_url_settings",
+    "dispongo_advanced_settings",
+    "dispongo_api_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "dispongo_section",
+    "dispongo_permission",
+    "DispongoID",
+    "EncryptedID"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:27:03.954Z"
+}

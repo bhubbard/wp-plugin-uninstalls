@@ -1,0 +1,22 @@
+{
+  "options": [
+    "ussync-email-header",
+    "ussync_email_confemail",
+    "ussync_email_conf_title",
+    "ussync_secret_key_*",
+    "ussync_domain_list_*",
+    "ussync_no_user_*",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "ussync_has_not_logged_in_yet",
+    "ussync_email_verifiedcode",
+    "ussync_email_verified",
+    "session_tokens"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:00:22.473Z"
+}

@@ -1,0 +1,15 @@
+{
+  "options": [
+    "wpmp_settings",
+    "wpmp_notice",
+    "wp-maintenance-page",
+    "wp-maintenance-page-msqld",
+    "wpmp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:57:25.252Z"
+}

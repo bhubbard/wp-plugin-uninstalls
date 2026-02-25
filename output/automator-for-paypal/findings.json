@@ -1,0 +1,17 @@
+{
+  "options": [
+    "automator_for_paypal_mode",
+    "automator_for_paypal_test_client_id",
+    "automator_for_paypal_test_client_secret",
+    "automator_for_paypal_test_webhook_id",
+    "automator_for_paypal_live_client_id",
+    "automator_for_paypal_live_client_secret",
+    "automator_for_paypal_live_webhook_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:47:10.276Z"
+}

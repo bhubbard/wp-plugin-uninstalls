@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "cta_box_button_link",
+    "cta_box_description",
+    "cta_box_button_id",
+    "cta_box_button_text",
+    "cta_box_template_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:15:56.911Z"
+}

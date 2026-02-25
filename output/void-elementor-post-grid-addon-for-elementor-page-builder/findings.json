@@ -1,0 +1,19 @@
+{
+  "options": [
+    "VOID_GRID_DATA_UPDATE",
+    "void_grid_elementor_post_grid_activation_time",
+    "void_grid_active_info",
+    "void_grid_spare_me"
+  ],
+  "transients": [
+    "void_grid_image_size",
+    "void_categories"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_elementor_data"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:42:30.247Z"
+}

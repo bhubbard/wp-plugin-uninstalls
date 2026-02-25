@@ -1,0 +1,28 @@
+{
+  "options": [
+    "alg_wc_pgpp_enabled",
+    "alg_wc_pgpp_advanced_add_hook",
+    "alg_wc_pgpp_products_add_variations",
+    "*_section_enabled",
+    "alg_wc_pgpp_countries_restriction_number",
+    "alg_wc_pgpp_countries_remove_enabled",
+    "alg_wc_pgpp_countries_combine_condition",
+    "alg_wc_pgpp_categories_include_*",
+    "alg_wc_pgpp_categories_exclude_*",
+    "alg_wc_pgpp_tags_include_*",
+    "alg_wc_pgpp_tags_exclude_*",
+    "alg_wc_pgpp_advanced_fallback_gateway",
+    "alg_wc_pgpp_advanced_fallback_gateway_enabled",
+    "alg_wc_pgpp_pay_titles",
+    "alg_wc_pgpp_products_section_enabled",
+    "*_reset",
+    "active_sitewide_plugins",
+    "alg_wc_pgpp_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:40:55.730Z"
+}

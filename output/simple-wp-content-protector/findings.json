@@ -1,0 +1,24 @@
+{
+  "options": [
+    "simple_content_protector",
+    "scp_disable_for_logged_in",
+    "scp_protect_images",
+    "scp_protect_text_selection",
+    "scp_protect_print",
+    "scp_protect_screenshot",
+    "scp_protect_dev_tools",
+    "scp_protect_right_click",
+    "scp_enable_role_restriction",
+    "scp_allowed_roles",
+    "scp_excluded_pages",
+    "scp_alert_text"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_scp_disable_protection"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:02:07.613Z"
+}

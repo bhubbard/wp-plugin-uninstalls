@@ -1,0 +1,31 @@
+{
+  "options": [
+    "wpo365_active_extensions",
+    "wpo365_options",
+    "mail_integration_365_plugin_ops",
+    "wpo365_insights_summary",
+    "wpo365_current_insights_year",
+    "wpo365_mail_authorization",
+    "mail_integration_365_plugin_ops_access_token",
+    "wpo365_msft_key",
+    "wpo365_x509_certificates",
+    "wpo_sync_v2_users_unscheduled",
+    "wpo365_wpmu_mode",
+    "wpo365_nonces"
+  ],
+  "transients": [
+    "update_plugins",
+    "wpo365_plugins_updated",
+    "wpo365_secrets_expiration_hook_ensured"
+  ],
+  "cron_jobs": [
+    "wpo_process_unsent_messages",
+    "wpo_check_password_credentials_expiration"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "primary_blog"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:37:23.581Z"
+}

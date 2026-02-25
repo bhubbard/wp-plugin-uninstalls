@@ -1,0 +1,18 @@
+{
+  "options": [
+    "content_aggregator_version",
+    "content_aggregator_db_version",
+    "content_aggregator_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "content_aggregator_update_hook"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "content_aggregator_url",
+    "content_aggregator_source"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:49:17.626Z"
+}

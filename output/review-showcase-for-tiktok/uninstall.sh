@@ -1,0 +1,35 @@
+#!/bin/bash
+# WP-CLI Uninstall Script
+
+# Delete Transients
+wp db query "DELETE FROM wp_options WHERE option_name LIKE '_transient_revishfo_cache_key%' OR option_name LIKE '_site_transient_revishfo_cache_key%'"
+
+# Direct DB Queries (Fallback)
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'revishfo_embed'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'revishfo_embed'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'revishfo_embed'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'revishfo_embed'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'revishfo_video_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'revishfo_video_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'revishfo_video_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'revishfo_video_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'revishfo_video_id'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'revishfo_video_id'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'revishfo_video_id'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'revishfo_video_id'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'revishfo_star_rating'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'revishfo_star_rating'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'revishfo_star_rating'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'revishfo_star_rating'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'revishfo_cta_text'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'revishfo_cta_text'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'revishfo_cta_text'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'revishfo_cta_text'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'revishfo_cta_url'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'revishfo_cta_url'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'revishfo_cta_url'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'revishfo_cta_url'"
+wp db query "DELETE FROM wp_postmeta WHERE meta_key = 'revishfo_rating'"
+wp db query "DELETE FROM wp_usermeta WHERE meta_key = 'revishfo_rating'"
+wp db query "DELETE FROM wp_termmeta WHERE meta_key = 'revishfo_rating'"
+wp db query "DELETE FROM wp_commentmeta WHERE meta_key = 'revishfo_rating'"

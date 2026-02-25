@@ -1,0 +1,14 @@
+-- WordPress Plugin Uninstall SQL Script
+
+-- Delete Options & Transients
+DELETE FROM wp_options WHERE option_name IN ('wcdp_criteria_no', 'woocommerce_plus_discount_type', 'woocommerce_discount_type', 'wdp_qd', 'wpdp_special_offer', 'woocommerce_user_roles', 'woocommerce_enable_plus_discounts', 'woocommerce_weight_unit', 'woocommerce_css_old_price', 'woocommerce_css_new_price', 'woocommerce_show_on_subtotal', 'woocommerce_show_on_order_subtotal', 'woocommerce_cart_info', 'woocommerce_remove_discount_on_coupon', 'woocommerce_discount_on_sale', 'wcdp_pricing_scale_text', 'gj_logic_status', 'wcdp_urgent_sale_page_id', 'wcdp_urgent_sale_categories', 'wcdp_urgent_sale_expiry', 'wcdp_sale_banner_status', 'wcdp_sale_emails_status', 'wcdp_sales_email_settings', 'bt_urgent_sale_product', 'wcdp_unsubscribed_emails', 'wcdp_sales_email_frequency', 'wcdp_sales_promotional_discount', 'wcdp_sales_email_times', 'wcdp_promotional_email_batches', 'woocommerce_show_discounts_on_shipping_decision', 'wcdp_dac_error_messages', 'woocommerce_currency_pos', 'wd_cart_criteria', 'wcdp_cats', 'woocommerce_discount_label', 'wdp_s2member', 'woocommerce_price_num_decimals', 'woocommerce_variations_separate', 'woocommerce_plus_discount_condition', 'woocommerce_show_discounted_price', 'woocommerce_tiers', 'woocommerce_show_discounted_price_sp', 'woocommerce_show_discounted_price_shop');
+DELETE FROM wp_options WHERE option_name LIKE 'wdp_qd_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wdp_qdw_%';
+DELETE FROM wp_options WHERE option_name LIKE 'wdp_%';
+
+-- Delete Metadata
+DELETE FROM wp_postmeta WHERE meta_key IN ('plus_discount_enabled', 'dc_cat_id', '_woocommerce_discount_type', '_woocommerce_discount_love', 'plus_discount_text_info', 'plus_discount_excluding', 'plus_discount_product_display', 'plus_discount_type', '_regular_price', '_price', '_wpdp_total_discount_value', '_sale_price', '_wcdp_cart_discount');
+DELETE FROM wp_usermeta WHERE meta_key IN ('plus_discount_enabled', 'dc_cat_id', '_woocommerce_discount_type', '_woocommerce_discount_love', 'plus_discount_text_info', 'plus_discount_excluding', 'plus_discount_product_display', 'plus_discount_type', '_regular_price', '_price', '_wpdp_total_discount_value', '_sale_price', '_wcdp_cart_discount');
+DELETE FROM wp_termmeta WHERE meta_key IN ('plus_discount_enabled', 'dc_cat_id', '_woocommerce_discount_type', '_woocommerce_discount_love', 'plus_discount_text_info', 'plus_discount_excluding', 'plus_discount_product_display', 'plus_discount_type', '_regular_price', '_price', '_wpdp_total_discount_value', '_sale_price', '_wcdp_cart_discount');
+DELETE FROM wp_commentmeta WHERE meta_key IN ('plus_discount_enabled', 'dc_cat_id', '_woocommerce_discount_type', '_woocommerce_discount_love', 'plus_discount_text_info', 'plus_discount_excluding', 'plus_discount_product_display', 'plus_discount_type', '_regular_price', '_price', '_wpdp_total_discount_value', '_sale_price', '_wcdp_cart_discount');
+

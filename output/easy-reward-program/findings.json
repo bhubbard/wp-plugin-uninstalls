@@ -1,0 +1,18 @@
+{
+  "options": [
+    "woocommerce_terms_page_id"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "first_name",
+    "last_name",
+    "_erpup_with_coupon",
+    "_erpup_cagnotte_amount",
+    "_created_by_erpup",
+    "erpup_cagnotte_amount"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:50:26.345Z"
+}

@@ -1,0 +1,41 @@
+{
+  "options": [
+    "*_review_box_status",
+    "*_review_date",
+    "*-subscribe-hide",
+    "scw_redirect",
+    "gsb_selected_channels",
+    "is_scw_database_migrated",
+    "gsb_widget_active",
+    "ginger_sb_*",
+    "gsb_widget_settings",
+    "gsb_trigger_rules",
+    "gsb_page_rules",
+    "gsb_time_rules",
+    "gsb_tooltip_settings",
+    "gsb_google_analytics",
+    "gsb_button_css",
+    "gsb_updated_date",
+    "sticky-chat-widget_review_box_status",
+    "scb-sent-leads-mail"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "channel_settings",
+    "contact_form_settings",
+    "selected_channels",
+    "widget_settings",
+    "trigger_rules",
+    "page_rules",
+    "display_rules",
+    "tooltip_settings",
+    "google_analytics",
+    "widget_status",
+    "button_css",
+    "weekdays"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:38:04.852Z"
+}

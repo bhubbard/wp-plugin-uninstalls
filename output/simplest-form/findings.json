@@ -1,0 +1,37 @@
+{
+  "options": [
+    "*option_api_last_check",
+    "*option_api_is_premium",
+    "*option_api_key",
+    "*option_to_email",
+    "*option_subject_for_admin",
+    "*option_from_name",
+    "*option_bcc_recipient",
+    "*option_ga_ua_code",
+    "*option_ga_category",
+    "*option_ga_action",
+    "*option_ga_label",
+    "*option_url_privacy"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "simplestform_clean_email"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "*-name",
+    "*-email",
+    "*-message",
+    "*-page",
+    "*-privacy",
+    "*-privacy-art-4",
+    "*-privacy-art-5",
+    "*-confirmed-on",
+    "*-confirmed-ip",
+    "*-ip-address",
+    "*-phone",
+    "*-confirmed-on-gmt"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:06.992Z"
+}

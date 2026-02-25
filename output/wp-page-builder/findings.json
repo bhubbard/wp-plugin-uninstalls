@@ -1,0 +1,26 @@
+{
+  "options": [
+    "zgpb-hide_upgrade_notice",
+    "zgpb-notice-alert",
+    "zigapage_lang",
+    "zgpb_b_activated",
+    "zigapage_f_notice_1"
+  ],
+  "transients": [
+    "styles_google_fonts",
+    "styles_google_font_data"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_zgpb_post_is_enabled",
+    "_zgpb_post_settings",
+    "_zgpb_post_core",
+    "_zgpb_post_core_dev",
+    "_zgpb_post_html",
+    "_zgpb_post_html_css",
+    "_zgpb_admin_cont_html"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:30:37.333Z"
+}

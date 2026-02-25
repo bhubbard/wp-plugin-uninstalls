@@ -1,0 +1,22 @@
+{
+  "options": [
+    "bfd_general_settings",
+    "bfd_tools_settings"
+  ],
+  "transients": [
+    "brozzme_plugins_api_results",
+    "brozzme_plugins_api_version_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_et_pb_page_layout",
+    "_et_single_title",
+    "_et_pb_post_hide_nav",
+    "_et_pb_side_nav",
+    "_et_pb_show_title",
+    "_et_pb_use_builder"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:56.274Z"
+}

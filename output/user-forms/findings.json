@@ -1,0 +1,13 @@
+{
+  "options": [
+    "user_forms_opt"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "user_forms_fields"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:25:55.858Z"
+}

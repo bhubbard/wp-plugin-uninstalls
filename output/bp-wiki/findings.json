@@ -1,0 +1,15 @@
+{
+  "options": [
+    "bp_wiki_banned_page_slugs"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "wiki_view_access",
+    "wiki_edit_access",
+    "wiki_page_visible"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:28.232Z"
+}

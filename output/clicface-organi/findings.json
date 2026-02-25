@@ -1,0 +1,19 @@
+{
+  "options": [
+    "clicface_organi_settings",
+    "clicface_trombi_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "orgchart_title",
+    "orgchart_boss",
+    "orgchart_data",
+    "label_title",
+    "display_page_link",
+    "link_page_id"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:57.813Z"
+}

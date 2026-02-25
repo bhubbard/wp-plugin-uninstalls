@@ -1,0 +1,14 @@
+{
+  "options": [
+    "ss88_vestacp_widget_vesta_url",
+    "ss88_vestacp_widget_vesta_username",
+    "ss88_vestacp_widget_vesta_hash",
+    "ss88_vestacp_widget_vesta_verifyssl"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:26.991Z"
+}

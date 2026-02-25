@@ -1,0 +1,21 @@
+{
+  "options": [
+    "woocommerce_colorlab_shop_id",
+    "woocommerce_colorlab_api_key",
+    "woocommerce_colorlab_secret_key",
+    "woocommerce_colorlab_customization_text",
+    "woocommerce_colorlab_add_to_cart_button",
+    "woocommerce_printlane_button_selector",
+    "woocommerce_colorlab_cart_thumbnails",
+    "woocommerce_colorlab_hide_reference"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_enable_colorlab",
+    "_colorlab_product"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:08:39.295Z"
+}

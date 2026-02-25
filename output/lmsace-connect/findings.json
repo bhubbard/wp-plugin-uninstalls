@@ -1,0 +1,22 @@
+{
+  "options": [
+    "lac_import_settings",
+    "lac_general_settings",
+    "lac_connection_settings",
+    "lac_sso_settings"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "lac_import_courses_action"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "lac_moodle_category_id",
+    "first_name",
+    "last_name",
+    "moodle_user_id",
+    "lac_enrolments"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:57:17.216Z"
+}

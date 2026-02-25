@@ -1,0 +1,15 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "video_site",
+    "youtube_video_id",
+    "vimeo_video_id",
+    "apropo_video_id",
+    "apropo_video_key"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:18:52.453Z"
+}

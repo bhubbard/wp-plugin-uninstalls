@@ -1,0 +1,15 @@
+{
+  "options": [
+    "show_comments_cookies_opt_in",
+    "_wp_privacy_text_change_check",
+    "_wp_suggested_policy_text_has_changed"
+  ],
+  "transients": [],
+  "cron_jobs": [
+    "wp_privacy_delete_old_export_files"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:35:55.270Z"
+}

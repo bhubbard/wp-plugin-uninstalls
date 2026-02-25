@@ -1,0 +1,18 @@
+{
+  "options": [
+    "plugin_antispam_for_all_fields_statskilled",
+    "plugin_antispam_for_all_fields_statsspammed",
+    "plugin_antispam_for_all_fields_installed",
+    "plugin_antispam_for_all_fields_settings",
+    "plugin_antispam_for_all_fields_version",
+    "antispamextra_disallow_nonreferers"
+  ],
+  "transients": [
+    "plugin_afaf_nonce1"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:04:51.293Z"
+}

@@ -1,0 +1,21 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "mslm_artist_name",
+    "mslm_subtitle",
+    "mslm_show_header_footer",
+    "mslm_pixel_id",
+    "mslm_concert_ids",
+    "mslm_bg_color",
+    "mslm_btn_bg_color",
+    "mslm_text_color",
+    "mslm_hide_empty_logo",
+    "mslm_music_links",
+    "mslm_artist_links"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:22:53.960Z"
+}

@@ -1,0 +1,29 @@
+{
+  "options": [
+    "ctdb_done_redirect",
+    "ctdb_review_notice_dismissed",
+    "ctdb_pro_notice_dismissed",
+    "ctdb_review_plugin_notice_dismissed",
+    "ctdb_install_date",
+    "ctdb_database_version",
+    "ctdb_updated_from_version",
+    "ctdb_upgrade_settings",
+    "ctdb_user_settings",
+    "ctdb_options_settings",
+    "ctdb_design_settings",
+    "ctdb_nag_dismissed",
+    "ctdb_categories_settings",
+    "ctdb_recaptcha_settings",
+    "ctdb_wizard_done"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "activate_key",
+    "ctdb_uniqid",
+    "ctdb_author_opted_out"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T22:45:34.698Z"
+}

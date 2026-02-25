@@ -1,0 +1,18 @@
+{
+  "options": [
+    "ulticocl_triggers",
+    "ulticocl_settings",
+    "ulticocl_activity_log",
+    "rc_settings"
+  ],
+  "transients": [
+    "ulticocl_comments_count"
+  ],
+  "cron_jobs": [
+    "ulticocl_check_triggers"
+  ],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:52:55.422Z"
+}

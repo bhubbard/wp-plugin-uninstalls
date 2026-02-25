@@ -1,0 +1,33 @@
+{
+  "options": [],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "created_by_webshop",
+    "billing_address_1",
+    "billing_address_2",
+    "billing_city",
+    "billing_company",
+    "billing_country",
+    "billing_email",
+    "billing_first_name",
+    "billing_last_name",
+    "billing_phone",
+    "billing_postcode",
+    "billing_state",
+    "shipping_address_1",
+    "shipping_address_2",
+    "shipping_city",
+    "shipping_company",
+    "shipping_country",
+    "shipping_first_name",
+    "shipping_last_name",
+    "shipping_method",
+    "shipping_postcode",
+    "shipping_state",
+    "vat_number"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:29:35.102Z"
+}

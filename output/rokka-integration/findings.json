@@ -1,0 +1,22 @@
+{
+  "options": [
+    "rokka_company_name",
+    "rokka_api_key",
+    "rokka_delete_previous",
+    "rokka_output_parsing",
+    "rokka_rokka_enabled",
+    "rokka_stack_prefix",
+    "rokka_notices",
+    "*_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "rokka_hash",
+    "rokka_meta",
+    "rokka_subject_area"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:19:05.796Z"
+}

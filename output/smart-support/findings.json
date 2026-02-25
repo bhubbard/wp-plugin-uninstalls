@@ -1,0 +1,48 @@
+{
+  "options": [
+    "smart_support_shortcode_notice_shown",
+    "smart_support_general_settings",
+    "smart_support_user_management_settings",
+    "smart_support_installation_date",
+    "smart_support_last_review_action",
+    "smart_support_last_review_action_date",
+    "smart_support_agent_management_settings",
+    "smart_support_file_settings",
+    "smart_support_email_settings",
+    "smart_support_smtp_settings",
+    "smart_support_appearance_settings",
+    "smart_support_advanced_settings",
+    "smart_support_db_version",
+    "smart_support_flush_rewrite_rules",
+    "smart_support_version",
+    "smart_support_product_uids",
+    "smart_support_license_secret",
+    "smart_support_core_status_overrides",
+    "smart_support_page_id",
+    "smart_support_last_assigned_agent_id"
+  ],
+  "transients": [
+    "smart_support_role_warnings_*"
+  ],
+  "cron_jobs": [
+    "smart_support_auto_close_tickets",
+    "smart_support_auto_delay_tickets",
+    "smart_support_cleanup_old_tickets",
+    "smart_support_send_digest_emails"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "smart_support_approved",
+    "smart_support_tickets_hidden_columns",
+    "smart_support_approved_date",
+    "smart_support_last_activity",
+    "first_name",
+    "phone",
+    "smart_support_agent_active",
+    "smart_support_approval_status",
+    "smart_support_rejection_reason",
+    "smart_support_hide_closed_tickets"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T23:54:28.310Z"
+}

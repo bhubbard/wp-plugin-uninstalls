@@ -1,0 +1,22 @@
+{
+  "options": [
+    "siteimprove_prepublish_allowed",
+    "siteimprove_prepublish_enabled",
+    "siteimprove_token",
+    "siteimprove_overlayjs_file",
+    "siteimprove_disable_new_version",
+    "siteimprove_api_key",
+    "siteimprove_public_url",
+    "siteimprove_ignore_path_segments",
+    "siteimprove_api_username",
+    "siteimprove_dev_mode"
+  ],
+  "transients": [
+    "siteimprove_url_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:52:12.649Z"
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    "wpu-settings",
+    "wpu-enabled",
+    "wpu-last-run",
+    "wpu-version",
+    "wpu-new-install",
+    "wpu_set_forum",
+    "wpu_enabled"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_wpu_posttype",
+    "_wpu_future_xpost",
+    "_wpu_future_ip",
+    "wpu_last_post",
+    "wpu-remember-login",
+    "phpbb_userid",
+    "phpbb_userLogin"
+  ],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:03:18.828Z"
+}

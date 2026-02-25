@@ -1,0 +1,29 @@
+{
+  "options": [
+    "affiliate_links_settings",
+    "widget_affiliate_links_popular",
+    "widget_affiliate_links_recent"
+  ],
+  "transients": [
+    "link_colors_*"
+  ],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [
+    "_affiliate_links_target",
+    "_affiliate_links_description",
+    "_affiliate_links_redirect",
+    "_affiliate_links_nofollow",
+    "_affiliate_links_stat",
+    "_affiliate_links_target_two",
+    "_affiliate_links_iframe",
+    "_affiliate_links_additional_target_url",
+    "_embedded_add_rel",
+    "_embedded_add_target",
+    "_embedded_add_link_title",
+    "_embedded_add_link_class",
+    "_embedded_add_link_anchor"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:42:55.463Z"
+}

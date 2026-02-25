@@ -1,0 +1,48 @@
+{
+  "options": [
+    "ithemes-sync-authenticated",
+    "ithemes_sync_hide_authenticate_notice",
+    "ithemes-sync-admin_menu",
+    "ithemes-sync-dashboard-metaboxes",
+    "ithemes-sync-nonce-*",
+    "pluginbuddy_plugins",
+    "wpcomplete_license_key",
+    "pmpro_um_license_key",
+    "rcpcr_license_key",
+    "rcprm",
+    "rcpum_license_key",
+    "rcpvl",
+    "rcpbp_license_key",
+    "view_limit",
+    "sync_login_*",
+    "ithemes-sync-googst",
+    "sync_wp_deleted_plugins",
+    "update_plugins",
+    "ithemes_sync_urgent_notice_cache",
+    "ithemes-sync-cache",
+    "ithemes_sync_optimization",
+    "wpmu_upgrade_site"
+  ],
+  "transients": [
+    "ithemes-sync-activated",
+    "solid_central_ping_*",
+    "update_plugins",
+    "update_themes",
+    "update_core"
+  ],
+  "cron_jobs": [
+    "ithemes_sync_daily_schedule"
+  ],
+  "custom_tables": [],
+  "metadata": [
+    "it-sync-refresh-cd",
+    "ithemes-sync-client-dashboard",
+    "ithemes-sync-client-dashboard-no-css",
+    "ithemes-sync-suppress-admin-notices",
+    "ithemes-sync-admin_menu-whitelist",
+    "ithemes-sync-admin-bar-item-whitelist-*",
+    "ithemes-sync-dashboard-widget-whitelist"
+  ],
+  "has_uninstall": true,
+  "last_checked": "2026-02-24T22:33:43.413Z"
+}

@@ -1,0 +1,22 @@
+{
+  "options": [
+    "golfScoresUser",
+    "golfScoresShowNet",
+    "golfScoresShowTee",
+    "golfScoresShowHoles",
+    "golfScoresWidgetList",
+    "golfScoresPageList",
+    "golfScores",
+    "golfScoresSubtitle",
+    "trackPlayer",
+    "golfScoresAdminList",
+    "golfScoresShowName",
+    "golfScores_database_version"
+  ],
+  "transients": [],
+  "cron_jobs": [],
+  "custom_tables": [],
+  "metadata": [],
+  "has_uninstall": false,
+  "last_checked": "2026-02-24T23:31:54.800Z"
+}
