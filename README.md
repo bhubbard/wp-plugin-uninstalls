@@ -1,5 +1,7 @@
 # WordPress Plugin Uninstaller Generator
 
+**This entire project was created with AI, and none of the stats and results have been verified.**
+
 The **WordPress Plugin Uninstaller Generator** is a high-performance, concurrent TypeScript toolkit designed to analyze every plugin in the WordPress.org repository. It identifies poor database citizenship (orphaned settings, metadata, custom tables, and cron jobs left behind after a plugin is deleted) and automatically generates clean-up scripts (PHP, SQL, WP-CLI) for them.
 
 ## The Problem
